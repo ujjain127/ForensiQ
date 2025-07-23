@@ -1,0 +1,1696 @@
+ 
+ 
+ 
+ 
+United States 
+Department of 
+Agriculture 
+ 
+Food Safety 
+and Inspection 
+Service 
+ 
+September 1999 
+Revision 1 
+ 
+HACCP-5  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Generic HACCP 
+Model for 
+Poultry 
+Slaughter  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Additional copies of the Guidebook for the Preparation 
+of HACCP Plans and the Generic HACCP Models are 
+available from: 
+U.S. Department of Agriculture 
+Food Safety and Inspection Service (FSIS) 
+Office of Policy, Program Development,  
+and Evaluation (OPPDE) 
+Inspection Systems Development Division 
+Room 202, Cotton Annex Building 
+300 12th Street SW 
+Washington, D.C. 20250-3700 
+Phone: (202) 720-3219 
+Fax: 
+(202) 690-0824 
+This material is also available on the FSIS Homepage: 
+http://www.fsis.usda.gov/index.htm 
+United States 
+Food Safety 
+Washington, D.C. 
+Department of 
+and Inspection 
+20250 
+Agriculture 
+Service 
+September 8, 1999 
+TO THE USERS OF THESE VOLUMES 
+As some of you may know, the Food Safety and Inspection Service (FSIS) received a substantial 
+package of comments on its Guidebook for Hazard Analysis and Critical Control Point 
+(HACCP) Plan Development and the 13 Generic HACCP models, from a coalition of industry 
+and trade associations. This package represents a large and thoughtful effort on the part of these 
+organizations. FSIS intends to give it the careful attention and response that it deserves. 
+The comments included many technical suggestions for improvements in the FSIS documents. It 
+also included reiteration of longstanding differing policy viewpoints that have been frequently 
+discussed by the Agency and the regulated industry. For the first time, the comments revealed 
+substantially differing expectations on the part of these organizations and FSIS with respect to 
+the purpose of the FSIS documents and their intended use. We want to address some aspects of 
+this latter point. 
+When the Pathogen Reduction/Hazard Analysis and Critical Control Point systems (PR/HACCP) 
+final regulation was published on July 25, 1996, the DRAFT Guidebook was included as an 
+appendix. The Generic Models, developed for FSIS under contract, were available shortly 
+thereafter in April 1997. It was probably inevitable that there were significant differences 
+between the final regulatory language of CFR Part 417 and the DRAFT Generic Models as they 
+were developed independently. It would have been inappropriate for FSIS to discuss its final 
+regulatory language with any outside group. The contractor was appropriately proceeding from 
+what it knew best, the National Advisory Committee on Microbiological Criteria for Foods 
+(NACMCF) documents on the subject of HACCP. Therefore, FSIS accepted that work product 
+with full knowledge that significant revisions would be necessary. 
+As time passed, FSIS managers became increasingly uncomfortable with the situation in which 
+its major technical assistance documents did not appropriately and completely inform the 
+regulated industry of Agency expectations regarding regulatory compliance. Because the 
+intended audience for these technical assistance materials was primarily the very small 
+establishments, which the Agency believed to have the least HACCP-experience, the Agency 
+began the systematic revision of the documents to overcome this problem. We targeted the 
+summer of 1999 as the completion date for this effort. 
+FSIS now believes that others had very different ideas about the purpose and use of the 
+documents than it did. As is consistently reiterated in the documents themselves, they are not 
+designed to be used "as is." That is, they cannot be copied and used by an establishment to meet 
+all the regulatory requirements of 9 CFR Part 417. Nor were they designed to be the ultimate 
+teaching and training materials, as some would suggest. The development of ideal generic 
+models is left to others who may have an interest in doing so. The generic models are not 
+FSIS Form 2630-9 (6/86) 
+EQUAL OPPORTUNITY IN EMPLOYMENT AND SERVICES 
+2 
+designed to extend or further interpret existing regulations; rather, they are designed to send the 
+user back to the regulations so he/she can become familiar with the requirements as well as the 
+flexibility they permit. The generic models are not designed to present new or alternative 
+methods of producing and processing meat and poultry products. That is also left to others with 
+an interest in doing so. 
+FSIS envisioned that the generic models might be used in the following way: Suppose a HACCP 
+team leader of a three-person HACCP team in a very small establishment attended a training 
+course, but the others on his/her team were not able to do so. Suppose the HACCP training 
+course met all the requirements of 417.7 but did not provide participants with much in the way of 
+"take away materials" like workbooks, practical questions and answers, access to follow-up 
+resources, etc., which the Research Triangle Institute (RTI) needs assessment indicated were so 
+important to these establishments. The trained HACCP team leader returns to the establishment 
+and begins the process of attempting to develop HACCP plans for the company's products and 
+processes. He/she is quite confident that he/she has grasped the material presented in the training 
+course and begins to work with this team immediately, while the concepts are fresh in his/her 
+mind. 
+First, he/she has the rest of the team review the Canadian video and the Guidebook from FSIS so 
+that all members of his team have a basic level of information. 
+The team members begin their work, and as they proceed, some questions arise as to whether 
+what they have developed is appropriate. This is the point when FSIS expects the team to pick up 
+the appropriate generic model and get a sense of whether they are on the right track. They should 
+be able to determine whether the forms that they have developed, while different from the 
+various ones in the generic models and not the same as what other companies use, are acceptable 
+because they include the required information. They will also be able to discover what are some 
+typical food safety hazards that are reasonably likely to occur, as explicitly defined in 417.2, and 
+how to think through the problems that these hazards represent for their own products. They can 
+see how critical limits might arise from existing regulatory requirements like the ones for rapid 
+chilling of poultry products. They can also see that in the absence of settled regulatory 
+requirements, there may be several sources of scientific expertise, and they can choose to make a 
+conservative decision to provide a good margin of safety. They can find out the essential 
+differences between monitoring and verification and have a basis for making their choices about 
+verification activities and their frequencies. FSIS believes that these are useful, beneficial and 
+worthwhile functions for which its generic models can be used. 
+FSIS is publishing these updated revisions of the generic models, beginning with the Guidebook 
+and the Generic Model for Raw, Ground Product, because a large backlog of requests exists for 
+these two documents. FSIS intends to publish revisions of all the generic models no later than 
+September 30, 1999. Moreover, as a result of public consultation, it may publish an additional 
+revision of some of these models, but given the backlog and the impending HACCP 
+implementation date, we considered it important to get a version of these documents out now. 
+We hope that these documents are helpful. 
+Poultry Slaughter Model 
+Table of Contents 
+Introduction……………………………………………………………………………..…. 3 
+Using This Generic Model……………………………………………………………..….. 5 
+Process Flow Diagram and Product Description………………………………………..…. 6 
+Hazard Analysis………………………………………………………………….…………7 
+Developing Your HACCP Plan……………………………………………………..…….. 9 
+Identifying CCPs………………………………………………………………..…………. 11 
+Appendix A 
+References for HACCP Teams………………………………….…………………..17 
+References for Poultry Slaughter (Broiler Carcass & Turkey Carcass)..…...……… 
+19 
+Appendix B 
+Process Flow Diagram (Figure 1)…………………………………………………. 23 
+Product Description Form (Figure 2)……………………………………………… 24 
+Hazard Analysis Form (Figure 3)…………………………………………………. 25 
+HACCP Plan Form (Figure 4)…………………………………………………..… 30 
+Reprocessing Inspection Log……………………………………………………… 35 
+Chilling Log……………………………………………………………………….. 36 
+Thermometer Calibration Log…………………………………………………….. 37 
+Generic Establishment X: Room Temperature Log ………………………………. 38 
+Antimicrobial Intervention Monitoring Log ………………………………………. 39 
+1 
+Poultry Slaughter Model 
+Corrective Actions Log……………………………………………………………. 40 
+Pre-Shipment Review Log………………………………………………………… 41 
+2 
+Poultry Slaughter Model 
+GENERIC HACCP MODEL 
+FOR 
+POULTRY SLAUGHTER 
+Introduction 
+The Hazard Analysis Critical Control Point (HACCP) system  is a scientific approach to process 
+control. It is designed to prevent the occurrence of problems by assuring that controls are 
+applied at any point in a food production system where hazardous or critical situations could 
+occur. Hazards include biological, chemical, or physical contamination of food products. 
+The Food Safety and Inspection Service (FSIS) published a final rule in July 1996 mandating 
+that HACCP be implemented as the system of process control in all inspected meat and poultry 
+plants. As part of its efforts to assist establishments in the preparation of plant-specific HACCP 
+plans, FSIS determined that a generic model for each process defined in the regulation would be 
+made available for use on a voluntary basis by inspected establishments.  
+The generic models have been revised since their initial publication and distribution as 
+DRAFTS. The most important change in the revised versions is to make certain that these 
+models are  
+fully consistent with the features of the final regulation. Also, other technical and editorial 
+improvements have been made. 
+Throughout this generic model, FSIS discusses a HACCP team with members from different 
+departments. In many very small establishments, there will not be separate departments with 
+different employees. But, there will be employees who perform these different functions – often 
+several of them. For purposes of explaining concepts, it is easier to speak as if these were 
+different people, even though in many cases, they may be the same person carrying out more 
+than one responsibility. 
+Each generic model can be used as a starting point for the development of plant-specific plan(s) 
+reflecting actual plant environments and the processes conducted. The generic model is not 
+intended to be used “as is” for plant specific HACCP plans. 
+The generic models are designed for use in conjunction with the list of process categories found 
+in the HACCP regulations in section 417.2(b)(1).  
+(b)  The HACCP plan. (1)  Every establishment shall develop and implement a written 
+3 
+Poultry Slaughter Model 
+HACCP plan covering each product produced by that establishment whenever a hazard 
+analysis reveals one or more food safety hazards that are reasonably likely to occur, 
+based on the hazard analysis conducted in accordance with paragraph (a) of this section, 
+including products in the following processing categories: 
+(i)  Slaughter--all species. 
+(ii)  Raw product--ground. 
+(iii)  Raw product--not ground. 
+(iv)  Thermally processed--commercially sterile. 
+(v)  Not heat treated--shelf stable. 
+(vi)  Heat treated--shelf stable. 
+(vii)  Fully cooked--not shelf stable. 
+(viii)  Heat treated but not fully cooked--not shelf stable. 
+(ix)  Product with secondary inhibitors--not shelf stable. 
+This generic model is designed for use with the first process category: Slaughter. 
+The purpose of the process category listing in 417.2 is to set out the circumstances under which a 
+HACCP team may develop a single HACCP plan for multiple products. This may be done when 
+products are in the same process category, and food safety hazards, critical control points, and 
+other features are essentially the same. There is a generic model for each process category, plus 
+two for subcategories which present special issues: irradiated products and mechanically 
+separated products. 
+In order to select the model or models that will be most useful for the activities performed in any 
+specific plant, the following steps should be taken: 
+1) For slaughtering operations, select the model for the appropriate species. 
+2) For processed products, make a list of all products produced in the plant. 
+3) Examine the list and group like products, considering common processing steps and 
+equipment used. 
+4 
+Poultry Slaughter Model 
+4) Compare the grouped products with the list of processes in the regulations; this step should 
+reveal how many and which of the generic models might be useful. 
+Deciding on a generic model and which products can be covered by a single plan is an important 
+achievement. If the team does it well, it can save a lot of unnecessary effort and paperwork. 
+Selecting an inappropriate generic model reduces its potential benefits. However, often the 
+HACCP team will discover they have made this error when they develop their process flow 
+diagram or during their hazard analysis. These are early stages in the process when it is 
+relatively easy to make changes. 
+In any case, establishments must meet all regulatory requirements for their products. 
+Using This Generic Model 
+This generic model is designed to be used by establishments that slaughter, the first process 
+category. The model can be used for all establishments that slaughter, but would be most useful 
+to establishments that slaughter young chickens. The generic model is not suitable for products 
+that fall into any of the other process categories. 
+The model will be most useful to a HACCP team that includes access to one trained individual, 
+as specified in 417.7(b). 
+(b)The individual performing the functions listed in paragraph (a) of this section shall 
+have successfully completed a course of instruction in the application of the seven 
+HACCP principles to meat or poultry product processing, including a segment on the 
+development of a HACCP plan for a specific product and on record review. 
+It would be beneficial for other team members to have reviewed any of the various guidance 
+materials available on how to develop a HACCP plan for your company, including several useful 
+videos, handbooks, or computer programs. Once the HACCP team has prepared itself as 
+thoroughly as possible in general HACCP principles and how to use them, this model should be 
+helpful. 
+Note: This generic model includes a number of forms that can be used to record various types of 
+required information. The forms themselves are samples; a company HACCP team can develop 
+whatever forms it finds most useful. All the forms mentioned in this document are included in 
+Appendix B; they appear in the order in which they are discussed in the text. 
+All FSIS generic models are designed to assist establishments in applying the seven HACCP 
+principles to their meat and poultry processing operations AND to meet the regulatory 
+5 
+Poultry Slaughter Model 
+requirements of Part 417. Therefore, the definitions used in this and all other FSIS generic 
+models are those found in 417.1: 
+§ 417.1 Definitions. 
+For purposes of this part, the following shall apply: 
+Corrective action. Procedures to be followed when a deviation occurs. 
+Critical control point. A point, step, or procedure in a food process at which control can 
+be applied and, as a result, a food safety hazard can be prevented, eliminated, or reduced 
+to acceptable levels. 
+Critical limit. The maximum or minimum value to which a physical, biological, or 
+chemical hazard must be controlled at a critical control point to prevent, eliminate, or 
+reduce to an acceptable level the occurrence of the identified food safety hazard. 
+Food safety hazard. Any biological, chemical, or physical property that may cause a 
+food to be unsafe for human consumption. 
+HACCP System. The HACCP plan in operation, including the HACCP plan itself. 
+Hazard. SEE Food Safety Hazard. 
+Preventive measure. Physical, chemical, or other means that can be used to control an 
+identified food safety hazard. 
+Process-monitoring instrument. An instrument or device used to indicate conditions 
+during processing at a critical control point. 
+Responsible establishment official. The individual with overall authority on-site or a 
+higher level official of the establishment. 
+Process Flow Diagram and Product Description 
+To begin using this model, the company's HACCP team should first describe the product(s) 
+which are part of this process category and covered by this HACCP plan. The product(s) should 
+be described in two ways: 
+(1) by a simple diagram which shows the steps the company uses when it produces the product, 
+6 
+Poultry Slaughter Model 
+and 
+(2) in a brief written description which provides key facts about the product and its use. 
+In this generic model, there is an example for young chicken slaughter, one of the species in this 
+process category. FSIS has developed certain forms as part of the examples in the generic 
+models; company HACCP teams are not required to use these forms. 
+Figure 1 is an example of a PROCESS FLOW DIAGRAM for the young chicken slaughter 
+process in generic establishment X. Figure 2 is an example of a PRODUCT DESCRIPTION 
+for the young chickens slaughtered by generic establishment X. 
+Once the company HACCP team in your establishment has prepared your Process Flow 
+Diagram, they should verify it by walking through the establishment following the flow of 
+product and making sure that all the steps of the process are included in the flow diagram.  The 
+team should also review the information provided on the Product Description to make sure all 
+the key facts are included, such as identifying consumers, especially those with particular health 
+problems or known to be at risk. 
+Note: If you are slaughtering young chickens and your process includes steps not included in this 
+example, such as pre-evisceration spray or bacterial spray, those steps should be added. Also, if 
+your process does not include all the steps identified in this example, those steps would be 
+omitted when conducting the hazard analysis. That is generally, how you use these generic 
+model examples--just omit the features which do not apply to your operation or if your operation 
+includes features not included in this example, they should be added. 
+By completing a Process Flow Diagram and a Product Description, you have met the 
+requirements of 417.2(a)(2). You can use the Process Flow Diagram in particular to help you 
+complete the rest of the hazard analysis. Use the flow diagram to systematically review each 
+step in the process and ask the question, "Is there a food safety hazard which is reasonably likely 
+to occur which may be introduced at this step?"  In answering the question, your HACCP team 
+needs to consider biological (including microbiological), chemical, and physical hazards. 
+Hazard Analysis 
+Once your product(s) are accurately described through the flow diagram and product description, 
+the HACCP team should begin work on the HAZARD ANALYSIS. The hazard analysis is 
+fundamental to developing a good HACCP plan and one that meets regulatory requirements. 
+The regulatory requirements for a hazard analysis are found at 417.2(a). 
+§ 417.2 Hazard Analysis and HACCP Plan. 
+7 
+Poultry Slaughter Model 
+(a)  Hazard analysis. (1)  Every official establishment shall conduct, or have conducted 
+for it, a hazard analysis to determine the food safety hazards reasonably likely to occur 
+in the production process and identify the preventive measures the establishment can 
+apply to control those hazards. The hazard analysis shall include food safety hazards 
+that can occur before, during, and after entry into the establishment. A food safety 
+hazard that is reasonably likely to occur is one for which a prudent establishment would 
+establish controls because it historically has occurred, or because there is a reasonable 
+possibility that it will occur in the particular type of product being processed, in the 
+absence of those controls. 
+(2)  A flow chart describing the steps of each process and product flow in the 
+establishment shall be prepared, and the intended use or consumers of the finished 
+product shall be identified. 
+Generic establishment X, which we are using for our example, is capturing these regulatory 
+requirements on a 6-column Hazard Analysis Form (See Figure 3). A good way to use a form 
+like this is to create the first column by using the Process Flow Diagram and the second by 
+answering the question. Once the HACCP team has considered all the steps in the flow diagram 
+and determined if a food safety hazard could be introduced, it needs to consider whether the 
+hazard is "reasonably likely to occur", using the meaning of this phrase included in 417.2(a). On 
+the 6-column form used by generic establishment X, the third and fourth columns address this 
+issue. If the establishment's HACCP team has decided that the hazard is not reasonably likely to 
+occur, they enter "No" in column three, explain the basis for their determination in column four, 
+and do not need to further consider activity to address this hazard. 
+If, however, the team has determined there is a "food safety hazard reasonably likely to occur" 
+introduced at a certain point in the process, column five is used to describe a measure which 
+could be applied to "prevent, eliminate, or reduce to acceptable levels" the food safety hazard 
+identified in column three. Column six is used when a critical control point (CCP) is identified 
+based upon the decision made in the hazard analysis. Each CCP has a number – the order 
+corresponds to steps in the process. For example, 1 is the first CCP in the process flow, 2 the 
+next, etc. The letter indicates whether the hazard is biological – B; chemical – C; or physical – 
+P. 
+Look at the entries for “Receiving – Nonmeat Ingredients/Packaging Materials” on the first page 
+of the six column form; the HACCP team has determined that chemical and physical hazards 
+may be associated with the nonmeat ingredients or packaging materials when they are received, 
+but it put a “No” in the third column. Column four explains the basis for the team’s 
+determination. 
+You will notice that on our generic hazard analysis for poultry slaughter, there are four instances 
+8 
+Poultry Slaughter Model 
+in which the HACCP team has identified a point in the process at which a food safety hazard is 
+reasonably likely to occur. For each one of these they have identified a measure which can be 
+used to control the hazard. 
+When your HACCP team has completed their hazard analysis (whether they use this format or 
+not), it is a good idea to review the flow diagram, the product description and the hazard analysis 
+itself to make sure they are complete. Part 417.2(a)(3) includes a list of sources from which food 
+safety hazards might be expected to arise. Reviewing that list could help the HACCP team 
+check for completeness. 
+Note: If you are using this generic model and slaughter a different species or if you use a 
+different process flow, you may have different hazards which are reasonably likely to occur. For 
+these different hazards, there may be different measures which could be used for control 
+purposes. 
+This, and all other FSIS generic models, contains a list of references which can help your 
+HACCP team in making sure the hazard analysis is complete. The references for poultry 
+slaughter are found in Appendix A. A member of your HACCP team might want to review at 
+least some of the references to make sure hazards have not been omitted from the hazard 
+analysis. 
+Completing the hazard analysis is a very significant and important element in developing your 
+HACCP system. Your HACCP team should feel a real sense of accomplishment when they get 
+this far; this is like completing the foundation of a house. 
+Developing Your HACCP Plan 
+The company HACCP team can now take the materials it developed while doing the hazard 
+analysis and use them to build the HACCP Plan. Remember that one of the important 
+objectives of the FSIS generic models is to provide examples which illustrate how to meet the 
+regulatory requirements of Part 417, as well as to correctly apply the principles of HACCP. 
+Part 417.2 (c) and (d) are the regulatory requirements: 
+(c) The contents of the HACCP plan. The HACCP plan shall, at a minimum: 
+(1) List the food safety hazards identified in accordance with paragraph (a) of this 
+section, which must be controlled for each process. 
+(2) List the critical control points for each of the identified food safety hazards, 
+including, as appropriate: 
+9 
+Poultry Slaughter Model 
+(i)  Critical control points designed to control food safety hazards that could be 
+introduced in the establishment, and 
+(ii)  Critical control points designed to control food safety hazards introduced outside the 
+establishment, including food safety hazards that occur before, during, and after entry 
+into the establishment; 
+(3)  List the critical limits that must be met at each of the critical control points. Critical 
+limits shall, at a minimum, be designed to ensure that applicable targets or performance 
+standards established by FSIS, and any other requirement set forth in this chapter 
+pertaining to the specific process or product, are met; 
+(4)  List the procedures, and the frequency with which those procedures will be 
+performed, that will be used to monitor each of the critical control points to ensure 
+compliance with the critical limits; 
+(5)  Include all corrective actions that have been developed in accordance with §417.3(a) 
+of this part, to be followed in response to any deviation from a critical limit at a critical 
+control point; and 
+(6)  Provide for a recordkeeping system that documents the monitoring of the critical 
+control points. The records shall contain the actual values and observations obtained 
+during monitoring. 
+(7)  List the verification procedures, and the frequency with which those procedures will 
+be performed, that the establishment will use in accordance with § 417.4 of this part. 
+(d)  Signing and dating the HACCP plan. (1)  The HACCP plan shall be signed and 
+dated by the responsible establishment individual. This signature shall signify that the 
+establishment accepts and will implement the HACCP plan. 
+(2)  The HACCP plan shall be dated and signed: 
+(i)  Upon initial acceptance; 
+(ii)  Upon any modification; and 
+(iii)  At least annually, upon reassessment, as required under § 417.4(a)(3) of this part. 
+Generic establishment X has prepared its HACCP plan for young chicken slaughter on a six 
+column form (See Figure 4). You do not need to use this form, although some kind of a form is 
+probably the easiest way to present your HACCP plan. 
+10 
+Poultry Slaughter Model 
+Identifying CCPs 
+The first column on this particular form is used to enter information developed and contained on 
+the hazard analysis form. Part 417.2(c)(1) and (2) require that the food safety hazards identified 
+in the hazard analysis be listed on the HACCP plan and that there be a CCP for each identified 
+hazard. You will notice the hazard analysis form identified four points at which food safety 
+hazards were reasonably likely to occur: physical contamination with fecal material and potential 
+pathogen contamination at evisceration/presentation, pathogen contamination at reprocessing, 
+pathogen cross-contamination and proliferation at chilling, and pathogen proliferation at finished 
+products storage (cold). The establishment HACCP team has chosen to have four CCPs to 
+address these four hazards: proper evisceration/presentation, proper reprocessing, proper chilling 
+of product, and proper maintenance of finished product temperatures during storage. 
+After identifying its CCPs, the HACCP team proceeded to consider critical limits, monitoring 
+procedures and their frequencies, and verification procedures and their frequencies, and HACCP 
+records. 
+In deciding what would be the critical limits, the HACCP team first considered whether there 
+were any regulatory requirements which had to be met and would function as critical limits. 
+They found some regulatory requirements for chilling (§381.66), and realized that if the proper 
+chiller procedures were not followed pathogen proliferation was possible. The HACCP team 
+knew that the chilling process should start as soon as possible, so they set the critical limit for the 
+temperature of product to reach 40° F or less within four hours from the stunning/killing step. 
+Once they had decided on their critical limits, they needed to identify how the monitoring 
+procedures would be carried out and at what frequency. 
+For their chilling step, the establishment had the QA technician do a product temperature check 
+at the end of the chilling procedure every hour of production. At the chilling step the carcass 
+chiller and neck/giblet chiller temperatures are monitored continuously with recording charts. 
+These decisions by the HACCP team regarding critical limits, plus monitoring procedures and 
+their frequencies are written up in columns two and three of the HACCP Plan. 
+The team then went on to consider appropriate verification procedures; the team knew that there 
+were different types of verification and that Part 417.4(a)(2) included specific regulatory 
+requirements for each. The regulatory requirements for ongoing verification are: 
+(2) Ongoing verification activities. Ongoing verification activities include, but are not 
+limited to: 
+11 
+Poultry Slaughter Model 
+(i) The calibration of process-monitoring instruments; 
+(ii) Direct observations of monitoring activities and corrective actions; and 
+(iii) The review of records generated and maintained in accordance with §417.5(a)(3) of 
+this part. 
+The HACCP team decided they could verify the chilling of product by checking the Chilling Log 
+once per shift. The team also had the maintenance supervisor verify the accuracy of the carcass 
+chiller and necks/giblets chiller temperature recording charts once per shift. 
+There is a regulatory requirement (Part 417.4(a)(2)(i)) for including as a verification, the 
+calibration of process-monitoring instruments. Each day QA checks the hand-held thermometers 
+for accuracy in slush ice water and calibrates them to within 2° F accuracy. 
+The HACCP team described the verification procedures and their frequencies in the fifth column 
+of their HACCP plan. 
+The HACCP team for generic establishment X knew that their HACCP Plan needed to provide 
+for a recordkeeping system. They wanted their records to be easy to create and understand. 
+They wanted to be sure their records met regulatory requirements, so they reviewed part 417.5(a) 
+and (b): 
+§ 417.5 Records. 
+(a)  The establishment shall maintain the following records documenting the 
+establishment's HACCP plan: 
+(1)  The written hazard analysis prescribed in § 417.2(a) of this part, including all 
+supporting documentation; 
+(2)  The written HACCP plan, including decision making documents associated with the 
+selection and development of CCP's and critical limits, and documents supporting both 
+the monitoring and verification procedures selected and the frequency of those 
+procedures. 
+(3)  Records documenting the monitoring of CCP's and their critical limits, including the 
+recording of actual times, temperatures, or other quantifiable values, as prescribed in the 
+establishment's HACCP plan; the calibration of process-monitoring instruments; 
+corrective actions, including all actions taken in response to a deviation; verification 
+procedures and results; product code(s), product name or identity, or slaughter 
+12 
+Poultry Slaughter Model 
+production lot. Each of these records shall include the date the record was made. 
+(b)  Each entry on a record maintained under the HACCP plan shall be made at the time 
+the specific event occurs and include the date and time recorded, and shall be signed or 
+initialed by the establishment employee making the entry. 
+The HACCP team decided that their records would be kept on some simple forms, some of 
+which the team itself devised. 
+The HACCP team decided that since QA had a form that they had been using for measuring 
+chilling temperatures, that they would modify that form. The form was modified to provide 
+spaces for all entries necessary for the monitoring and verification activities at the product 
+handling step. 
+The Temperature Recording Chart for the carcass chill was already in use and the team knew 
+that they needed to do some personnel training to ensure that all recordkeeping requirements are 
+included on the recording chart. 
+QA already had a Thermometer Calibration Log and this form was modified to meet the HACCP 
+regulatory recordkeeping requirements. The HACCP team decided that this form could be used 
+by QA for more than one day because there are very limited numbers of thermometers issued for 
+product temperature measurements. If at any time during the shift a thermometer is dropped or if 
+the employee questions the accuracy of the thermometer he is to immediately take the 
+thermometer to the QA lab for an accuracy check. 
+On its HACCP Plan, generic establishment X has listed the names of the forms it will be using 
+for monitoring and verification records. The team also devised the antimicrobial intervention log 
+to record monitoring results for pressure and antimicrobial concentrations. 
+There is one other form included in column four, where the establishment has described its 
+recordkeeping system. That is the Corrective Actions Log; it is used to create the records of any 
+corrective actions taken because of deviations from critical limits at CCPs. Column six 
+references the planned corrective actions for each CCP. The HACCP team carefully reviewed 
+the regulatory requirements for planned corrective actions found at 417.3(a): 
+13 
+Poultry Slaughter Model 
+§ 417.3 Corrective actions. 
+(a)  The written HACCP plan shall identify the corrective action to be followed in 
+response to a deviation from a critical limit. The HACCP plan shall describe the 
+corrective action to be taken, and assign responsibility for taking corrective action, to 
+ensure: 
+(1)  The cause of the deviation is identified and eliminated; 
+(2)  The CCP will be under control after the corrective action is taken; 
+(3)  Measures to prevent recurrence are established; and 
+(4)  No product that is injurious to health or otherwise adulterated as a result of the 
+deviation enters commerce. 
+The HACCP team has developed a specific corrective action plan which will be followed 
+whenever there is a deviation from a critical limit at a CCP; each of the planned corrective 
+actions meets the four regulatory requirements of 417.3(a). 
+Planned Corrective Actions for CCP 3 
+1. QA will reject or hold product until temperature is achieved dependent on time and 
+temperature deviation. For example, the ARS cooling program can be used to make a 
+determination. 
+2. QA will identify the cause of the deviation and prevent reoccurrence by reassessment of the 
+HACCP plan and review of the cause of the deviation. Monitoring will be more frequent to 
+assure the process is in control. 
+3. QA will assure that no adulterated product has been shipped. 
+The HACCP team also develops planned corrective actions for each of the other CCPs and 
+attaches them to the HACCP plan. Whenever a deviation from a critical limit occurs, company 
+employees follow the corrective action plan and use the Corrective Action Log to create a record 
+of their actions. The Corrective Action Log forms are available at CCPs, so they can be used 
+immediately when an employee performing a monitoring check discovers and records a 
+deviation. All Corrective Action Logs, which have been used during the day, are turned in to the 
+HACCP coordinator. 
+There is one final verification/recordkeeping requirement which the company must perform; it is 
+found at 417.5(c): 
+14 
+Poultry Slaughter Model 
+(c)  Prior to shipping product, the establishment shall review the records associated with 
+the production of that product, documented in accordance with this section, to ensure 
+completeness, including the determination that all critical limits were met and, if 
+appropriate, corrective actions were taken, including the proper disposition of product. 
+Where practicable, this review shall be conducted, dated, and signed by an individual 
+who did not produce the record(s), preferably by someone trained in accordance with § 
+417.7 of this part, or the responsible establishment official. 
+In generic establishment X, product is shipped out, often in small lots, throughout the day. This 
+means that pre-shipment verification checks must be as complete as possible when finished 
+product is in storage, so that a shipment can be made up quickly and moved into distribution 
+channels. 
+The establishment uses a half day lotting system and a midshift clean-up. While the midshift 
+clean-up is being performed, QA personnel or the HACCP coordinator review results of 
+monitoring and verification checks applied to that lot; if there were deviations from critical 
+limits, they review the Corrective Action Logs to make sure all appropriate planned responses 
+were carried out. If everything is in order and there are complete records showing that the 
+establishment has controlled production of this product through its HACCP system, the HACCP 
+coordinator will sign the pre-shipment review form which the HACCP team devised for this 
+purpose. 
+Note: It is not a regulatory requirement that a separate form be used for pre-shipment review; in 
+addition, FSIS has indicated that it will be very flexible in accepting a variety of arrangements 
+for accomplishing pre-shipment review to reflect the variety of commercial practices which it 
+has encountered in the industry. It is, however, important to remember that pre-shipment review 
+is a regulatory requirement that must be met, as it indicates that the establishment is taking full 
+responsibility for the product having been produced under a well-functioning HACCP system. 
+The HACCP team believes it has now completed preparation of the documents which are 
+necessary to meet regulatory requirements for a Hazard Analysis and a HACCP Plan for their 
+poultry slaughter production process. They have secured a copy of FSIS Directive 5000.1, 
+Enforcement of Regulatory Requirements in Establishments Subject to HACCP System 
+Requirements, the HACCP Basic Compliance Checklist which will be used by inspection 
+program personnel. The HACCP team has modified the inspection form to make the statements 
+into positives, and now has a checklist for its own use to make sure they have not omitted 
+anything in their plan development and preparation. When they are confident that they have 
+done what is necessary, they will turn their Hazard Analysis and HACCP Plan over to the 
+establishment owner for decisions about implementation. 
+15 
+Poultry Slaughter Model 
+APPENDIX A 
+16 
+Poultry Slaughter Model 
+References for HACCP Teams 
+1. Agriculture Canada. Food Safety Enhancement Program – HACCP Implementation Manual. 
+Camelot Drive, Nepean, Ontario, Canada, 1996. 
+2. American Meat Institute Foundation. HACCP: The Hazard Analysis and Critical Control 
+Point System in the Meat and poultry Industry.  Washington, D.C., 1994. 
+Useful sections in particular are: 
+Chapter 3 – microbiological hazards, pp. 15-26 
+Chapter 4 – chemical hazards, pp. 27-32 
+Chapter 5 – physical hazards, pp. 33-35 
+Appendix A – NACMCF HACCP 
+Appendix C – Model HACCP plans 
+3. Baker, D.A. Application of Modeling in HACCP Plan Development.  Int. J. Food Microbiol. 
+25:251-261, 1995. 
+4. Corlett, D.A., Jr. and Stier, R.F. Risk Assessment within the HACCP System.  Food Control 
+2:71-72, 1991. 
+5. Council for Agriculture Science and Technology. Risks Associated with Foodborne 
+Pathogens.  February 1993. 
+6. Easter, M.C., et al. The Role of HACCP in the Management of Food Safety and Quality. J. 
+Soc. Dairy Technol. 47:42-43, 1994. 
+7. Environmental Protection Agency. Tolerances for Pesticides in Foods.  Title 40, Code of 
+Federal Regulations, Part 185. U.S. Government Printing Office, Washington, D.C., 1998. 
+8. Food and Drug Administration. The Food Defect Action Levels. FDA/CFSAN. 
+Washington, D.C., 1998. 
+9. Food and Drug Administration. Fish and Fishery Products Hazards and Control Guide --
+Get Hooked on Seafood Safety. Office of Seafood. Washington, D.C., 1994. 
+10. International Commission on Microbiological Specification for Foods. HACCP in 
+Microbiological Safety and Quality.  Blackwell Scientific Publications, Oxford, 1988. 
+17 
+Poultry Slaughter Model 
+Useful sections in particular are: 
+Chapter 10 – raw meat and poultry, pp. 176-193 
+Chapter 11 – roast beef, pp. 234-238 
+Chapter 11 – canned ham, pp. 238-242 
+11. International Commission on Microbiological Specification for Foods. Microorganisms in 
+Foods 4. Application of Hazard Analysis and Critical Control Point (HACCP) Systems to 
+Ensure Microbiological Safety and Quality. Blackwell Scientific Publications, Boston, 1989 
+12. National Advisory Committee on Microbiological Criteria for Foods. March 20, 1992 --
+Hazard Analysis and Critical Control Point System. Int. J. Food Microbiol. 16: 1-23, 1993. 
+13. National Advisory Committee on Microbiological Criteria for Foods. Adopted August 14, 
+1997-- Hazard Analysis and Critical Control Point Principles and Application Guidelines. J. 
+Food Protect. 61(9): 1246-1259, 1998. 
+14. National Advisory Committee on Microbiological Criteria for Foods. DRAFT document -
+FSIS Microbiological Hazard Identification Guide for Meat and Poultry Components of 
+Products Produced by Very Small Plants. 1-22, August 1999. 
+15. National Advisory Committee on Microbiological Criteria for Foods. June 1993 -- Report 
+on Generic HACCP for Raw Beef. Food Microbiol. 10: 449-488, 1994. 
+16. National Research Council. An Evaluation of the Role of Microbiological Criteria for Foods 
+and Food Ingredients.  National Academy Press, Washington, D.C., 1985. 
+Useful sections in particular are: 
+Chapter 4 – microbiological hazards, pp. 72-103 
+Chapter 9 – raw meat, pp. 193-199 
+Chapter 9 – processed meats, pp. 199-216 
+17. Notermans, S., et al. The HACCP Concept: Identification of Potentially Hazardous 
+Microorganisms.  Food Microbiol. 11:203-214, 1994. 
+18. Pierson M.D. and Dutson, T. Editors. HACCP in Meat, Poultry, and Fish Processing. 
+Blackie Academic & Professional. Glasgow, 1995. 
+Useful sections in particular are: 
+Chapter 4 – meat and poultry slaughter, pp. 58-71 
+Chapter 5 – processed meats, pp. 72-107 
+Chapter 7 – risk analysis, pp. 134-154 
+Chapter 13 – predictive modeling, pp. 330-354 
+18 
+Poultry Slaughter Model 
+19. Pierson, M.D. and Corlett, D.A., Jr. Editors. HACCP Principles and Applications. Van 
+Nostrand Reinhold, New York, 1992. 
+20. Stevenson, K.E. and Bernard, D.T. Editors. HACCP: Establishing Hazard Analysis Critical 
+Control Point Programs, A Workshop Manual.  The Food Processors Institute, Washington, 
+D.C., 1995. 
+Useful sections in particular are: 
+Chapter 11 – forms for hazard analysis, CCPs, critical limits, HACCP master 
+sheet, example HACCP for breaded chicken 
+21. Stevenson, K.E. and Bernard, D.T. Editors. HACCP: A Systematic Approach to Food 
+Safety. 3rd Edition. The Food Processors Institute, Washington, D.C., 1999. 
+22. Tompkin, R.B. The Use of HACCP in the Production of Meat and Poultry Products. 
+J. Food Protect. 53(9): 795-803, 1990. 
+23. Tompkin, R.B. The Use of HACCP for Producing and Distributing Processed Poultry 
+Products. In Advances in Meat Research. Vol. 10. Hazard Analysis Critical Control Point in 
+Meat, Poultry and Seafoods. Chapman & Hall, 1995. 
+References for Poultry Slaughter (Broiler Carcass & Turkey Carcass) 
+1. Baily, J. Stan. Control of Salmonella and Campylobacter in Poultry Production. A 
+Summary of Work at Russell Research Center. Poult. Sci. 72: 1169–1173, 1993. 
+2. Benedict, R.C., et al. Attachment and Removal of Salmonella spp. On Meat and Poultry 
+Tissues. J. Food Safety. 11: 135–148, 1991. 
+3. Blank, Greg, et al. Microbiological and Hydraulic Evaluation of Immersion Chilling for 
+Poultry.  J. Food Protect. 58: 1386–1388, 1995. 
+4. Carpenter, Sandra L., et al. Survival of Listeria monocytogenes on Processed Poultry. J. 
+Food Sci. 54: 556–557, 1989. 
+5. Cherrington, Christina A., et al. Persistence of Escherichia coli in a Poultry Processing 
+Plant. Letters Appl. Microbiol. 7: 141–143, 1988. 
+6. Clouser, C.S., et al. The Role of Defeathering in the Contamination of Turkey Skin by 
+Salmonella species and Listeria monocytogenes. Poult. Sci. 74: 723–731, 1995. 
+19 
+Poultry Slaughter Model 
+7. Clouser. C.S. et al. Effect of Type of Defeathering System on Salmonella Cross-
+Contamination During Commercial Processing. Poult. Sci. 74: 732–741, 1995. 
+8. Dickens, J.A., et al. The Effect of Air-Scrubbing on Moisture Pickup, Aerobic Plate Counts, 
+Enterobacteriaceae, and the Incidence of Salmonella on Artificially Inoculated Broiler 
+Carcasses. Poult. Sci. 71: 560–564, 1992. 
+9. Franco, C.M., et al. Determination of the Principal Sources of Listeria spp. Contamination 
+in Poultry Meat and Poultry Processing Plant. J. Food Protect. 58: 1320–1325, 1995. 
+10. Genigeorgis, Constantin A., et al. Prevalence of Listeria spp. in Poultry Meat at the 
+Supermarket and Slaughterhouse Level. J. Food Protect. 52: 618–624, 1989. 
+11. Izat, A.L., et al. Incidence and Level of Campylobacter jejuni in Broiler Processing. Poult. 
+Sci. 67: 1568–1572, 1988. 
+12. James, William O, et al. Cost-Effective Techniques to Control Human Enteropathogens on 
+Fresh Poultry.  Poult. Sci. 72: 1174–1176, 1993. 
+13. James, William O., et al. Profile of Selected Bacterial Counts and Salmonella Prevalence on 
+Raw Poultry in a Poultry Slaughter Establishment. J. Am. Vet. Med. Assoc. 200: 57–59, 
+1992. 
+14. Kim, Jeong–Weon, et al. Attachment of Salmonella typhimurium to Skins of Turkey that had 
+been Defeathered through Three Different Systems: Scanning Electron Microscopic 
+Examination.  J. Food Protect. 56: 395–400, 1993. 
+15. Kotula, Kathryn L., et al. Bacterial Contamination of Broiler Chickens before Scalding. J. 
+Food Protect. 58: 1386–1388, 1995. 
+16. Lawrence, Lorna M., et al. Incidence of Listeria spp. and Listeria monocytogens in a Poultry 
+Processing Environment and in Poultry Products and Their Rapid Confirmation by 
+Multiplex PCR..  Appl. Environ. Microbiol. 4600– 4604, December 1994. 
+17. Lawrence, Lorna M., et al. Characterization of Listeria monocytogenes Isolated from Poultry 
+Products and from the Poultry-Processing Environment by Random amplification of 
+Polymorphic DNA and Multilocus Enzyme Electrophoresis. Appl. Environ. Microbiol. 
+2139–2144, June 1995. 
+18. Li, Yanbin, et al. Electrical Treatment of Poultry Chiller Water to Destroy Campylobacter 
+jejuni.  J. Food Protect. 58: 1330–1334, 1995. 
+20 
+Poultry Slaughter Model 
+19. Lillard, H.S. Factors Affecting the Persistence of Salmonella during the Processing of 
+Poultry. J. Food Protect. 52: 829–832, 1989. 
+20. Lillard, H.S. Incidence and Recovery of Salmonella and Other Bacteria from Commercially 
+Processed Poultry Carcasses at Selected Pre- and Post-Evisceration Steps. J. Food Protect. 
+52: 88–91, 1989. 
+21. Mead G.C., et al. Microbiological Survey of Five Poultry Processing Plants in the UK. Brit. 
+Poult. Sci. 34: 497–503, 1993. 
+22. Mead, G.C., et al. Use of a marker organism in poultry processing to identify sites of cross-
+contamination and evaluate possible control measures. Brit. Poult. Sci. 35: 354, 1994. 
+23. Moye, C.J., et al. Poultry Processing, An Innovative Technology for Salmonella Control and 
+Shelf Life Extension.  Food Aust. 43: 246–249, 1991. 
+24. Raj, Mohan. Poultry Slaughter. Meat Focus International. Marck 1995:113-118, 1995. 
+25. Renwick, Shane A., et al. Variability and Determinants of Carcass Bacterial Load at a 
+Poultry Abattoir.  J. Food Protect. 56: 694-699, 1993. 
+26. Russell, S. M. The Effect of Refrigerated and Frozen Storage on Populations of Mesophilic 
+and Coliform Bacteria on Fresh Broiler Chicken Carcasses. Poultry Sci. 75: 2057-2060, 
+1996. 
+27. Russell, S. M., et al. Spoilage Bacteria of Fresh Broiler Chicken Carcasses. Poultry Sci. 
+75:2041-2047, 1996. 
+28. Thayer, Stephan G., et al. Evaluation of Cross-Contamination on Automatic Viscera 
+Removal Equipment.  Poult. Sci. 72:741-746, 1993. 
+29. Tokumaru, Masakazu, et al. Rates of Detection of Salmonella and Campylobacter in Meats 
+in Response to the Sample Size and the Infection Level of each Species. Int. J. Food 
+Microbiol. 13: 41-46, 1990. 
+30. Villarreal, Mario E., et al. The Incidence of Salmonella on Poultry Carcasses Following the 
+Use of Slow Release Chlorine Dioxide (Alcide). J. Food Protect. 53: 465–467, 1990. 
+31. Waldroup, A.L. Summary of Work to Control Pathogens in Poultry Processing. Poult. Sci. 
+72: 1177–1179, 1993. 
+21 
+Poultry Slaughter Model 
+APPENDIX B 
+22 
+Poultry Slaughter Model 
+PROCESS FLOW DIAGRAM 
+Figure 1 
+PROCESS CATEGORY: SLAUGHTER 
+PRODUCT: YOUNG CHICKEN 
+Process Fl
+ow Diagram
+ for Proce
+ss Category: Slaug
+hter - Produc
+t: Young Chicken * Steps in the process where nonmeat ingredients (e.g., antimicrobials) are added to or comes in contact with product. 
+23 
+Poultry Slaughter Model 
+PRODUCT DESCRIPTION 
+Figure 2 Product Description for Process Category: Slaughter - Product: Young Chicken
+PROCESS CATEGORY: SLAUGHTER 
+PRODUCT: YOUNG CHICKEN 
+1. COMMON NAME? 
+CHICKEN 
+2. HOW IS IT TO BE USED? 
+READY TO COOK 
+CARCASSES/PARTS 
+3. TYPE OF PACKAGE? 
+CARCASSES – VACUUM 
+PACKAGED INDIVIDUALLY; 
+PARTS – VACUUM PACKAGED, 
+TRAY PACKS 
+4. LENGTH OF SHELF LIFE, 
+3-6 MONTHS AT 0° F OR 
+AT WHAT TEMPERATURE? 
+BELOW;7 DAYS AT 40° F 
+5. WHERE WILL IT BE SOLD? 
+WHOLESALE TO DISTRIBUTORS; 
+CONSUMERS? 
+RETAIL TO CONSUMERS 
+INTENDED USE? 
+6. LABELING INSTRUCTIONS? 
+SAFE FOOD HANDLING LABELS; 
+KEEP REFRIGERATED OR KEEP 
+FROZEN; COOKING LABEL 
+7. IS SPECIAL DISTRIBUTION 
+KEEP REFRIGERATED OR KEEP 
+CONTROL NEEDED? 
+FROZEN 
+24 
+Poultry Slaughter Model 
+HAZARD ANALYSIS – YOUNG CHICKEN SLAUGHTER Table for Hazard Analysis - Young Chicken Slaughter
+Process Step 
+Food Safety 
+Hazard 
+Reasonably 
+Likely to 
+Occur? 
+Basis 
+If Yes in Column 3, 
+What Measures Could 
+be Applied to Prevent, 
+Eliminate, or Reduce 
+the Hazard to an 
+Acceptable Level? 
+Critical Control 
+Point 
+Receiving/Holding – 
+Live Poultry 
+Biological – None 
+Chemical – None 
+Physical – None 
+Receiving – Packaging 
+Materials 
+Biological – None 
+Chemical – Not 
+acceptable for 
+intended use 
+No 
+Letters of guaranty are 
+received from all suppliers 
+and packaging materials. 
+Physical – Foreign 
+materials 
+No 
+Plant records demonstrate 
+that foreign material 
+contamination has not 
+occurred during the past 
+several years. 
+Storage– Nonmeat 
+Ingredients/Packaging 
+Materials 
+Biological – None 
+Chemical – None 
+Physical – None 
+Figure 3 
+25 
+HAZARD ANALYSIS – YOUNG CHICKEN SLAUGHTER 
+ 
+Process Step 
+Food Safety 
+Hazard 
+Reasonably 
+Likely to 
+Occur? 
+Basis 
+If Yes in Column 3, 
+What Measures Could 
+be Applied to Prevent, 
+Eliminate, or Reduce 
+the Hazard to an 
+Acceptable Level? 
+Critical Control 
+Point 
+Biological – None 
+ 
+ 
+ 
+ 
+Chemical – None 
+ 
+ 
+ 
+ 
+Unloading/Hanging/ 
+Stunning/Killing/ 
+Bleeding 
+Physical – None 
+ 
+ 
+ 
+ 
+Biological – None 
+ 
+ 
+ 
+ 
+Chemical – None 
+ 
+ 
+ 
+ 
+Scalding/Picking/Head 
+Removal/Singeing/ 
+Washing/Hock cutter 
+/Transfer/Rehang / 
+Pinning 
+Physical – None 
+ 
+ 
+ 
+ 
+Biological – None 
+ 
+ 
+ 
+ 
+Chemical – None 
+ 
+ 
+ 
+ 
+Oil Gland Removal/Neck 
+Breaking/Venting/ 
+Opening 
+Physical – None 
+ 
+ 
+ 
+ 
+Biological  
+ 
+Pathogens (fecal and 
+ingesta contamination 
+from gut breakage).* 
+Yes 
+Significant contamination
+can occur from leakage of 
+gut material, which may be 
+associated with pathogens. 
+ 
+Proper adjustment of 
+evisceration equipment and 
+presentation training of 
+employees will reduce the level 
+of contamination. Visual 
+inspection of carcasses for 
+fecal contamination. 
+1B 
+Chemical – None 
+ 
+ 
+ 
+ 
+Evisceration/ 
+Presentation 
+Physical – None* 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+* Revised April 2006 
+HAZARD ANALYSIS – YOUNG CHICKEN SLAUGHTER 
+ 
+Process Step 
+Food Safety 
+Hazard 
+Reasonably 
+Likely to 
+Occur? 
+Basis 
+If Yes in Column 3, 
+What Measures Could 
+be Applied to Prevent, 
+Eliminate, or Reduce 
+the Hazard to an 
+Acceptable Level? 
+Critical Control 
+Point 
+Biological – None 
+ 
+ 
+ 
+ 
+Chemical – None 
+ 
+ 
+ 
+ 
+Unloading/Hanging/ 
+Stunning/Killing/ 
+Bleeding 
+Physical – None 
+ 
+ 
+ 
+ 
+Biological – None 
+ 
+ 
+ 
+ 
+Chemical – None 
+ 
+ 
+ 
+ 
+Scalding/Picking/Head 
+Removal/Singeing/ 
+Washing/Hock cutter 
+/Transfer/Rehang / 
+Pinning 
+Physical – None 
+ 
+ 
+ 
+ 
+Biological – None 
+ 
+ 
+ 
+ 
+Chemical – None 
+ 
+ 
+ 
+ 
+Oil Gland Removal/Neck 
+Breaking/Venting/ 
+Opening 
+Physical – None 
+ 
+ 
+ 
+ 
+Biological  
+ 
+Pathogens (fecal and 
+ingesta contamination 
+from gut breakage).* 
+Yes 
+Significant contamination
+can occur from leakage of 
+gut material, which may be 
+associated with pathogens. 
+ 
+Proper adjustment of 
+evisceration equipment and 
+presentation training of 
+employees will reduce the level 
+of contamination. Visual 
+inspection of carcasses for 
+fecal contamination. 
+1B 
+Chemical – None 
+ 
+ 
+ 
+ 
+Evisceration/ 
+Presentation 
+Physical – None* 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+* Revised April 2006 
+Poultry Slaughter Model 
+HAZARD ANALYSIS – YOUNG CHICKEN SLAUGHTER Table for Hazard Analysis - Young Chicken Slaughter
+Process Step 
+Food Safety 
+Hazard 
+Reasonably 
+Likely to 
+Occur? 
+Basis 
+If Yes in Column 3, 
+What Measures Could 
+be Applied to Prevent, 
+Eliminate, or Reduce 
+the Hazard to an 
+Acceptable Level? 
+Critical Control 
+Point 
+Lung/Crop Removal 
+Neck Removal/Harvest 
+Biological – None 
+Chemical – None 
+Physical – None 
+House Inspection/Trim 
+Biological – None 
+Chemical – None 
+Physical – None 
+Reprocessing 
+Biological – Pathogens 
+Salmonella 
+Generic E.coli 
+Yes 
+Potential for contamination 
+and pathogen proliferation. 
+Subsequent chilling will 
+help reduce the risk of 
+pathogen growth. 
+Proper washing (use of an 
+antimicrobial), trimming, 
+and temperature control 
+will reduce the numbers 
+and limit the growth of 
+pathogens. 
+2B 
+Chemical – None 
+Physical – None 
+Figure 3 
+27 
+Poultry Slaughter Model 
+HAZARD ANALYSIS – YOUNG CHICKEN SLAUGHTER Table for Hazard Analysis - Young Chicken Slaughter
+Process Step 
+Food Safety 
+Hazard 
+Reasonably 
+Likely to 
+Occur? 
+Basis 
+If Yes in Column 3, 
+What Measures Could 
+be Applied to Prevent, 
+Eliminate, or Reduce 
+the Hazard to an 
+Acceptable Level? 
+Critical Control 
+Point 
+Salvage 
+Biological – Sep/Tox 
+No 
+Young chickens historically 
+have a low incidence of 
+sep/tox the only poultry 
+disease of public health 
+significance. 
+Chemical – None 
+Physical – None 
+Final Wash 
+Biological – None 
+Chemical – None 
+Physical – None 
+Liver/Heart Harvest 
+Gizzard Harvest/Peel 
+Biological – None 
+Chemical – None 
+Physical – None 
+Chilling – 
+Carcass/Necks/Giblets 
+Biological 
+cross-contamination 
+Salmonella 
+Yes 
+Product to product contact. 
+Literature indicates that 
+improperly controlled chill-
+ing systems can result in 
+higher prevalence of pathog-
+ens in the final product. FSIS 
+performance standard for 
+Salmonella can be met using 
+an antimicrobial intervention 
+at this process step. 
+Product will be chilled 
+properly to prevent pathogen 
+growth. 
+Chlorine dioxide use can 
+prevent further growth of 
+Salmonella. 
+3B 
+Chemical – None 
+Physical - None 
+Figure 3 
+28 
+Poultry Slaughter Model 
+HAZARD ANALYSIS – YOUNG CHICKEN SLAUGHTER Table for Hazard Analysis - Young Chicken Slaughter
+Process Step 
+Food Safety 
+Hazard 
+Reasonably 
+Likely to 
+Occur? 
+Basis 
+If Yes in Column 3, 
+What Measures Could 
+be Applied to Prevent, 
+Eliminate, or Reduce 
+the Hazard to an 
+Acceptable Level? 
+Critical Control 
+Point 
+Packaging/Labeling 
+Biological – None 
+Chemical – None 
+Physical – None 
+Finished Product 
+Storage (Cold) 
+Biological – Pathogens 
+Yes 
+Pathogens are reasonably 
+likely to grow if 
+temperature is not 
+maintained at or below a 
+level sufficient to preclude 
+their growth. 
+Maintain product 
+temperature at or below a 
+level sufficient to preclude 
+pathogen growth. 
+4B 
+Chemical – None 
+Physical – None 
+Shipping 
+Biological - None 
+Chemical – None 
+Physical – None 
+Figure 3 
+29 
+Poultry Slaughter Model Table for HACCP Plan - Process Category: Slaughter - Product Example: Young Chicken
+HACCP PLAN 
+PROCESS CATEGORY: SLAUGHTER 
+PRODUCT EXAMPLE: YOUNG CHICKEN 
+CCP# and 
+Location 
+Critical 
+Limits 
+Monitoring 
+Procedures and 
+Frequency 
+HACCP Records 
+Verification Procedures and 
+Frequency 
+Corrective Actions 
+1P/B 
+Evisceration/ 
+Presentation 
+Zero visible 
+fecal 
+contamina­
+tion after 
+processing; 
+equipment 
+kept properly 
+adjusted; no 
+gut breakage 
+due to 
+improper 
+equipment 
+adjustment; 
+range of 20-
+50 ppm 
+chlorine or 
+other 
+approved 
+antimicrobial 
+rinse on 
+equipment 
+and product. 
+Visible check (at 
+least once per hour 
+of production); 
+check chlorine or 
+other approved 
+antimicrobial rinse 
+at start up and 
+every 2 hours using 
+documented 
+random sampling 
+procedures to 
+demonstrate 
+control. Designated 
+Quality Assurance 
+employee will 
+record results in 
+appropriate Log. 
+Equipment 
+adjustment will be 
+checked at start of 
+each shift. 
+Plant Finished 
+Product Standards 
+Form 
+Antimicrobial Log 
+Equipment 
+Maintenance Log 
+Corrective Action 
+Log 
+Once per shift the QA supervisor 
+will review the Plant Antimicrobial 
+Log and observe chlorine level 
+testing. 
+Twice per shift Maintenance 
+Supervisor will review Equipment 
+Maintenance Log 
+QA will reject or hold product until zero 
+fecal tolerance is achieved. 
+Equipment will be properly adjusted to 
+assure contamination is not occurring after 
+line is stopped. All suspect product will be 
+visually examined between evisceration 
+and after final wash. Contaminated 
+product will be condemned or 
+reconditioned. Equipment maintenance 
+and adjustments will be reviewed and 
+compared to flock size and manufacturers 
+specs. 
+QA will identify the cause of the deviation 
+and prevent reoccurrence. 
+Signature: __________________________________ 
+Date: __________________________ 
+Figure 4 
+30 
+Poultry Slaughter Model Table for HACCP Plan - Process Category: Slaughter - Product Example: Young Chicken
+HACCP PLAN 
+PROCESS CATEGORY: SLAUGHTER 
+PRODUCT EXAMPLE: YOUNG CHICKEN 
+CCP# and 
+Location 
+Critical 
+Limits 
+Monitoring 
+Procedures and 
+Frequency 
+HACCP Records 
+Verification Procedures and 
+Frequency 
+Corrective Actions 
+2P/B 
+Reprocessing 
+Zero visible 
+fecal 
+contamina­
+tion after re-
+processing; 
+equipment 
+kept properly 
+adjusted; 
+range of 20-
+50 ppm 
+chlorine or 
+other 
+approved 
+antimicrobial 
+rinse on 
+equipment 
+and product. 
+Visible check on 
+each lot (at least 
+once per hour of 
+production); 
+check chlorine or 
+other approved 
+antimicrobial 
+rinse at start up 
+and every 2 hours 
+using documented 
+random sampling 
+procedures to 
+demonstrate 
+control. 
+Designated 
+Quality Assurance 
+employee will 
+record results in 
+appropriate Log. 
+Reprocessing Log 
+(using Plant 
+Finished Product 
+Standards) 
+Antimicrobial Log 
+Equipment 
+Maintenance Log 
+Corrective Action 
+Log 
+Once per shift the QA supervisor 
+will review the Reprocessing Log 
+and Antimicrobial Log. 
+Twice per shift Maintenance 
+Supervisor will review Equipment 
+Maintenance Log 
+QA will reject or hold product until zero 
+fecal tolerance is achieved. 
+Product will be reworked and reinspected 
+by QA for fecal contamination. 
+Any equipment adjustments will be made. 
+Frequency of monitoring will be reassessed 
+and CCP will be monitored once per hour 
+to assure it is under control. 
+QA will identify the cause of the deviation 
+and prevent reoccurrence. 
+Signature: __________________________________ 
+Date: __________________________ 
+Figure 4 
+31 
+Poultry Slaughter Model Table for HACCP Plan - Process Category: Slaughter - Product Example: Young Chicken
+HACCP PLAN 
+PROCESS CATEGORY: SLAUGHTER 
+PRODUCT EXAMPLE: YOUNG CHICKEN 
+CCP# and 
+Location 
+Critical 
+Limits 
+Monitoring 
+Procedures and 
+Frequency 
+HACCP Records 
+Verification Procedures and 
+Frequency 
+Corrective Actions 
+3B 
+Chilling (All 
+Products) 
+Temperature 
+of 40° F or 
+less will be 
+reached 
+within 4 
+hours on all 
+product. 
+Chlorine 
+dioxide level 
+in chiller will 
+be maintained 
+at > 20 ppm. 
+Product 
+temperature check 
+monitored by QA 
+technician at end of 
+chilling procedure 
+(every hour of 
+production). 
+Chill water will be 
+tested for Chlorine 
+level every 2 hours 
+by QA. 
+Chilling Log 
+Carcass Chiller 
+Recording Chart 
+Neck/Giblet Chiller 
+Recording Chart 
+Thermometer 
+Calibration Log 
+Corrective Action 
+Log 
+Antimicrobial Log 
+Once per shift the QA supervisor 
+will review the Chilling Log, Plant 
+Post Chill Product Standards Form, 
+and Antimicrobial Log. 
+Maintenance supervisor will verify 
+accuracy of the carcass chiller and 
+neck/giblet chiller temperature 
+recording charts once per shift. 
+QA will verify the chlorine 
+concentration in the chiller once per 
+week. 
+QA will check all thermometers 
+used for monitoring and verification 
+for accuracy daily and calibrate to 
+within 2° F accuracy as necessary. 
+QA will reject or hold product dependent 
+on time, temperature and or antimicrobial 
+level deviation. 
+QA will identify the cause of the deviation 
+and prevent reoccurrence. 
+Maintenance will check chiller circulation 
+and water exchange rate and make 
+adjustments as required. Any necessary 
+repairs will be made. 
+QA will monitor temperature and 
+antimicrobial level in chiller every 2 hours 
+until assured that process step is under 
+control. 
+Signature: __________________________________ 
+Date: __________________________ 
+Figure 4 
+32 
+Poultry Slaughter Model Table for HACCP Plan - Process Category: Slaughter - Product Example: Young Chicken
+HACCP PLAN 
+PROCESS CATEGORY: SLAUGHTER 
+PRODUCT EXAMPLE: YOUNG CHICKEN 
+CCP# and 
+Location 
+Critical 
+Limits 
+Monitoring 
+Procedures and 
+Frequency 
+HACCP Records 
+Verification Procedures and 
+Frequency 
+Corrective Actions 
+4B 
+Finished 
+Product 
+Storage 
+(Cold) 
+(Continued 
+on next 
+page.) 
+Finished 
+product will 
+not exceed 
+40° F. 
+Maintenance 
+personnel will 
+check product 
+temperature on 
+carcasses every 
+two hours. 
+Chilling Log 
+Thermometer 
+Calibration Log 
+Corrective Action 
+Log 
+Maintenance supervisor will verify 
+the accuracy of the product 
+temperature log once per shift. 
+QA will check all thermometers 
+used for monitoring and verification 
+activities for accuracy daily and 
+calibrate to within 2° F accuracy as 
+necessary. 
+QA will observe maintenance 
+personnel check finished product 
+storage area once per shift. 
+If a deviation from a critical limit occurs, 
+the following corrective actions will be 
+taken: 
+1. 
+The cause of the temperature 
+exceeding 40° F will be identified and 
+eliminated. 
+2. 
+The CCP will be monitored hourly 
+after the corrective action is taken to 
+ensure that it is under control. 
+3. 
+When the cause of the deviation is 
+identified, measures will be taken to 
+prevent it from recurring e.g., if the 
+cause is equipment failure, preventive 
+maintenance program will be reviewed 
+and revised, if necessary. 
+Signature: __________________________________ 
+Date: __________________________ 
+Figure 4 
+33 
+Poultry Slaughter Model Table for HACCP Plan - Process Category: Slaughter - Product Example: Young Chicken
+HACCP PLAN 
+PROCESS CATEGORY: SLAUGHTER 
+PRODUCT EXAMPLE: YOUNG CHICKEN 
+CCP# and 
+Location 
+Critical 
+Limits 
+Monitoring 
+Procedures and 
+Frequency 
+HACCP Records 
+Verification Procedures and 
+Frequency 
+Corrective Actions 
+4B 
+Finished 
+Product 
+Storage 
+(Cold) 
+4. 
+If product temperature exceeds the 
+critical limit, the processing authority 
+will evaluate the product 
+time/temperature deviation before 
+release for shipment. If 
+time/temperature is not sufficient, 
+product will be cooked in the 
+establishment to ensure destruction of 
+pathogens or condemned. 
+Signature: __________________________________ 
+Date: __________________________ 
+Figure 4 
+34 
+Poultry Slaughter Model 
+REPROCESSING INSPECTION LOG 
+Date: _________________ 
+Critical Limit: No visible fecal contamination entering 
+chiller Blank Form for Reprocessing Inspection Log
+Time 
+Product ID 
+Results of Inspection 
+Monitor 
+Initials 
+Verification 
+Initials 
+Corrective Actions and/or Comments 
+Reviewed by: __________________________________ 
+Date: ______________________ 
+35 
+Poultry Slaughter Model 
+CHILLING LOG 
+Date: _________________ 
+Critical Limit: Internal temperature of ≤400 F when product exits chiller Blank Form for Chilling Log
+Time 
+Product ID 
+Internal 
+Temperature 
+Monitor 
+Initials 
+Verification 
+Initials 
+Corrective Actions and/or Comments 
+Reviewed by: __________________________________ 
+Date: ______________________ 
+36 
+Poultry Slaughter Model Blank Form for Thermometer Calibration Log
+THERMOMETER CALIBRATION LOG 
+Calibrate to 320 F while thermometer is in slush ice water 
+Date 
+Time 
+Department or 
+Area 
+Thermometer ID# Personal 
+Thermometer 
+Reading 
+Adjustment 
+Required 
+(Yes or No) 
+Initials 
+Comments * 
+6/15 
+1:00 PM Carcass 
+Chilling 
+2A 
+32°F 
+No 
+HK 
+* If a thermometer is broken or taken out of service, document this in the comment column. 
+Reviewed by: _______________________ 
+Date: _______________________ 
+37 
+Poultry Slaughter Model 
+Blank Form for Generic Es
+tablishment X: R oom Temperature
+ Log 38 
+Poultry Slaughter Model 
+Blank Form for Es
+tabli
+shment
+ X: A
+ntimicrob
+ial Interventi
+on Monito
+ring Log 39 
+Poultry Slaughter Model Blank Form for Corrective Actions Log
+CORRECTIVE ACTIONS LOG 
+Product: ___________________________________________ 
+Lot # ______________________ 
+CCP 
+Deviation/ 
+Problem 
+Corrective Action 
+Procedures/Explain 
+Disposition of 
+Product 
+Responsible 
+Person 
+Date/Time 
+SIGNATURE: __________________________ 
+DATE: ______________________ 
+40 
+Poultry Slaughter Model 
+Blank Form fo
+r Pre-Shipment Revie
+w Log *Monitoring frequency as per plan; Critical limits met; Certification (if applicable) as per plan; Deviations if occurred were reviewed 
+for appropriate corrective actions; Records complete and accurate. 
+41 

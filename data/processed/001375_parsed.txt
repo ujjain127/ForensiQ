@@ -1,0 +1,363 @@
+Jane Kaufman Winn 
+Professor 
+Dedman Law School 
+Southern Methodist University 
+Dallas TX 75275-0116 
+www.smu.edu/~jwinn 
+ 
+March 9, 2001 
+ 
+ESIGN Study-Comment P004102 
+ 
+Federal Trade Commission and National Telecommunication Administration  
+2001 Workshop on E-SIGN Provisions Relating to Consumer Consent to Receive 
+Information Electronically 
+ 
+I. 
+Qualifications to Comment on E-SIGN Consumer Consent Provisions 
+II. 
+Potential Contribution of Consumer Protection Law to Regulation of 
+Electronic Markets 
+III. 
+Analysis of Strengths and Weaknesses of E-SIGN Consumer Protection 
+Provisions 
+IV. 
+Role of Standard Setting in Protecting Consumers and Promoting Competition 
+in Retail Markets 
+V. 
+Potential Role of FTC in Promotion of Consumer Friendly Standards 
+ 
+These comments are being submitted in response to a request from the Federal Trade 
+Commission and National Telecommunication Administration for comments on the 
+benefits and burdens of requiring consumer consent to receive information electronically 
+pursuant to Electronic Signatures in Global and National Commerce Act Sec. 
+101(c)(1)(C)(ii). 
+ 
+I. 
+Qualifications to Comment on E-SIGN Consumer Consent Provisions 
+ 
+I am a professor at the Dedman Law School, Southern Methodist University, 
+Dallas TX.  I have taught commercial law at SMU for eleven years, am co-author of The 
+Law of Electronic Commerce, 4th ed. (2001), the leading treatise on electronic commerce 
+law, and have written many articles on electronic commerce law topics which are 
+available from my website at www.smu.edu/~jwinn.  I am active in the American Bar 
+Association Cyberspace Law Committee Subcommittee on Electronic Commerce law, 
+have taught electronic commerce law at SMU since 1997 and speak widely to legal and 
+business groups regarding electronic commerce law issues and developments.  I do not 
+represent any clients with an interest in the consumer consent provisions of E-SIGN.  
+These comments represent my own opinions as an academic observer of electronic 
+commerce law developments and do not represent the opinions of Southern Methodist 
+University, the American Bar Association or any clients I represent on other matters. 
+ 
+ 
+2
+II. 
+Potential Contribution of Consumer Protection Law to Regulating 
+Electronic Retail Markets 
+ 
+Consumer protection law has an important contribution to make to the 
+development of electronic commerce markets in which individuals enter into transactions 
+for goods and services for personal, family or household use.  Many modern US 
+consumer protection laws may be justified as an attempt to counteract substantial risks of 
+market failure and economic inefficiencies due to the basic institutional characteristics of 
+consumer markets.  Consumer protection law may be designed to counteract possible 
+market failures based on unequal bargaining power, information asymmetries, collective 
+action problems and bounded rationality that limit the ability of consumers to enter into 
+fair and efficient contracts with merchants.  The dominant approach taken to these 
+problems in US consumer markets has been to subject certain types of consumer 
+transactions to mandatory rules governing their formation, performance and enforcement.  
+Common forms of consumer protection contract rules mandate the use of certain terms, 
+disclosures, or contract formation processes. 
+ 
+Electronic retail markets are evolving rapidly.  This transformation of consumer 
+markets is likely to change the current distribution of benefits and burdens among the 
+parties to consumer transactions.  Some of the most important potential benefits for 
+consumers of transforming traditional markets into electronic markets include increased 
+competition among merchants and lower transaction costs.  Some of the most important 
+potential benefits for merchants include reduced competition through the successful 
+promotion of proprietary technologies in electronic retail markets, and lower transaction 
+costs that might translate into higher profits rather than lower prices.  Some of the most 
+important potential burdens for consumers in electronic markets include the expense of 
+coping with rapid obsolescence and lack of reverse compatibility in retail software and 
+hardware products; and lack of competition among providers of retail electronic 
+commerce products due to the dominance of proprietary standards and lack of market 
+adoption of open standards.  Some of the most important potential burdens for merchants 
+include the same expenses associated with rapid technological obsolescence.  The 
+approach taken by regulatory agencies with a mandate to protect consumer interests in 
+retail markets to such as the FTC revising and updating existing consumer protections 
+laws will be an important factor in determining how many benefits and burdens US 
+consumers are expected to have when they use retail electronic markets. 
+ 
+Technological innovations now being developed or deployed in electronic 
+consumer markets hold the promise of leveling the playing field between merchants and 
+consumers, but it is not inevitable that promise will be realized.  One possible outcome of 
+such a change is that consumers will be able to enter into transactions on terms that are 
+more equitable and efficient than is possible in consumer transactions in more traditional 
+markets.  Another possible outcome is that merchants dealing with consumers will 
+benefit from greater processing efficiency in consumer transactions without passing on 
+any substantial portion of those benefits to consumers.  A third possible outcome is that 
+the developers of the technologies that make up the network architecture of electronic 
+ 
+3
+consumer markets will benefit from widespread adoption of their products while limiting 
+the volume of benefits that are enjoyed by either merchants or consumers. 
+ 
+ 
+Recent developments in the information privacy arena indicate the possible 
+consequences of failing to act on behalf of consumers at the time technological standards 
+are developed.  Many of the consumer data collection and profiling practices that are 
+commonplace in Internet commerce today are such well established business practices 
+that it may prove difficult to modify or stop them even if strong information privacy 
+rights are enacted into federal law.  Merchants that have invested in information 
+technology that permits profiling will resist making major investments in newer 
+technology with fewer functions.  If markets have in fact standardized on technologies 
+that do not accommodate information privacy rights for consumers, positive network 
+externalities from continued use of that technology combined with the risk associated 
+with switching to alternative technologies before new network standards and the price of 
+acquiring alternative technologies may prove to be major obstacles to changing business 
+practices in US markets. 
+ 
+ 
+There is the same potential for conflicts of interests between retail merchants and 
+consumers with regard to the standards that will define contract negotiation and contract 
+formation technologies in the next generation of Internet commerce as there is in the 
+arena of information privacy rights.  If government regulators focus on fighting the 
+battles of the 1950s over again and fail to address the consumer interest in open and fair 
+standards for electronic retail marketplace technologies, an opportunity may be lost like 
+the one that was lost to influence Internet merchant data collection practices. 
+ 
+III.  Analysis of Strengths and Weaknesses of E-SIGN Consumer Protection 
+Provisions 
+ 
+The strengths of the consumer protection provisions of E-SIGN include: 
+ 
+1.  Recognition that market failure may occur in electronic retail markets as well as 
+traditional retail markets, and that regulation may correct such a market failure; 
+and 
+2.  Allocation to merchants rather than consumers of costs of lack of reverse 
+compatibility, competition and standardization in retail electronic markets. 
+ 
+The weakness of the consumer protection provisions of E-SIGN include: 
+ 
+1. Preserving like a fly in amber 1950s tools for consumer protection that are no 
+more effective in electronic retail markets than they were in traditional retail 
+markets; 
+2. Failure to analyze the transformative impact of technology on patterns of 
+merchant misconduct that occurred in traditional retail markets; and 
+3. Failure to generalize from recent consumer protection debacles such as 
+information privacy rights the implications of technological standards for 
+consumer contracting technologies. 
+ 
+4
+ 
+The consumer consent provisions in E-SIGN are badly designed and unlikely to result in 
+any substantial empowerment of consumers in electronic commerce transactions.  The 
+consumer consent provisions in E-SIGN focus on preserving the substance of pre-
+existing consumer protection laws that require disclosures to be made to consumers in 
+writing as part of a consumer transaction.  Only in cases where there is such a pre-
+existing requirement to provide a written disclosure exists, and the other party to the 
+consumer transaction wishes to meet its obligation to provide disclosures using electronic 
+media, then E-SIGN mandates certain contract formation processes.  The consumer 
+consent provisions in E-SIGN are fundamentally flawed in three ways: if requiring a 
+merchant to show that a consumer consented to the use of electronic media is a 
+worthwhile consumer protection, it should not have been limited to situations where there 
+is a pre-existing requirement that the consumer receive written disclosures; it seems 
+likely to impose costs on merchants that comply with it that are disproportionate to the 
+benefits consumers receive from that compliance; and it fails to provide incentives to 
+create a network architecture that will enhance actual competition in electronic consumer 
+markets. 
+ 
+ 
+The prohibition on oral communications in the consumer protection provisions in 
+E-SIGN is a clear example of backward looking thinking likely to stifle innovation 
+without producing a significant improvement in the terms and conditions on which 
+consumers do business in electronic retail markets.  This exclusion of oral 
+communications from the general provisions of the E-Sign bill overlooks the fact that 
+more powerful forms of communication and computing are blurring the distinction 
+between such basic interpretative categories as oral and written, or form and content.  If a 
+text is stored on a computer system, new dynamic systems for organizing information 
+will permit the consumer to choose a text-to-speech audio interface in lieu of a graphical 
+display of the text.  Likewise, a consumer can input information into a system using 
+speech recognition software in response to audio prompts.  Canons of interpretation 
+assigning significance to the differences between text and speech, or in the appearance of 
+handwritten or printed texts, may provide little or no guidance in interpreting dynamic 
+user interfaces.  In a face-to-face transaction, a rogue employee of a merchant or a 
+merchant wishing to defraud consumers might make oral representations to a consumer 
+that would later prove unenforceable.  In a wholly automated transaction, a consumer is 
+interacting with machine processes, and the problem of the rogue employee is eliminated.  
+Audit trails of electronic processes make it more difficult for merchants wishing to 
+defraud consumers to cover their tracks effectively.  In a wholly automated environment, 
+by contrast, a user interface could actually be designed that would improve the likelihood 
+that a consumer understands and can act on the information contained in a text disclosure 
+if the contents of the text are communicated as through an audio interface rather than a 
+graphical interface. 
+ 
+IV.  Role of Standard Setting in Protecting Consumers and Promoting Competition 
+in Retail Markets 
+ 
+ 
+5
+Requiring merchants to provide disclosures to consumers is a major form of 
+consumer protection law in the US today.  Many disclosure laws were enacted in the 
+hope that consumers would be able to make more rational decisions in retail markets and 
+that creating a level playing field among merchants would promote competition that 
+would benefit consumers.  In many contexts, it must be recognized that mandatory 
+consumer disclosures are a failure if they were intended to help consumers make more 
+rational decisions and to promote competition.  Providing consumers with dense masses 
+of legal boilerplate, even if it has been rendered into “plain language,” is unlikely to 
+translate into a concrete improvement in the understanding among consumers of the 
+relevant terms and conditions of the transaction. 
+ 
+Mandatory consumer disclosure laws are not always failures, however.  If 
+disclosure promotes standardization in setting the terms and conditions of transactions 
+and the mandatory disclosure standards are also designed to communicate important 
+information about essential terms, consumers may be able to extract useful information 
+from disclosures and act on them.  In regulating the electronic retail marketplace, the 
+emphasis should be shift from disclosure as an end in itself, in which case it is highly 
+likely to fail to achieve its objectives, to standardization as the objective, with mandatory 
+written disclosures as one means of achieving that objective. 
+ 
+If regulators focus on preserving anachronistic and unsuccessful models of 
+consumer protection law in electronic retail markets, then they risk creating nothing but 
+Internet "Maginot Lines."1  The Maginot Line failed to protect France from a German 
+invasion in World War II because it failed to consider new sources of threats to France's 
+territorial integrity.  If consumer protection authorities focus on historical models of 
+consumer protection without considering the new challenges posed by potential for 
+strong network effects in electronic retail markets, efforts such as the consumer 
+protection provisions in E-SIGN to protect consumers may turn out to be too little, too 
+late to achieve their intended ends. 
+ 
+The experience of US consumers in recent years shows that competition on price 
+may intensify in electronic commerce markets resulting in lower prices for consumers for 
+a wide range of goods and services.  The experience of US consumers in recent years has 
+not shown that competition will intensify on many other terms of consumer electronic 
+transactions, such as warranty terms.  For example, it is difficult if not impossible at 
+present to find a single Internet site maintained by a major US retailer that complies with 
+the pre-sale disclosure requirements of Magnusson-Moss.  As a result it is not possible to 
+compare the terms of warranties offered for consumer goods over the Internet to 
+determine if differences in price is offset to some degree by the provision of less 
+favorable warranties.  This problem could be overcome through the development of 
+                                               
+1 In France, following World War I, the Maginot Line was created as a supposedly impregnable defense 
+against foreign aggression.  The Nazis quickly overran the Maginot Line in 1940 because the Maginot Line 
+only protected France from attack along the Franco-German border, not along the Franco-Belgian border.  
+The Germans entered France after overrunning Belgium in only a matter of days, outflanking the Maginot 
+Line defenses.  "Maginot Line," in Encyclopedia Britannica, available at 
+http://www.britannica.com/bcom/eb/article/4/0,5716,51214+1+49999,00.html?query=maginot%20line 
+ 
+6
+electronic agent technologies that could analyze the terms of different transactions and 
+report back rankings to consumers based on the degree to which different transactions 
+conform with their stated preferences.  Consumer electronic agent technologies will fail 
+to achieve this potential, however, unless merchants develop standards to permit the 
+automated analysis of all the relevant terms and conditions of retail transactions, not just 
+terms that are easily convertible into machine-readable formats such as price and 
+stockkeeping unit (SKU) numbers. 
+ 
+The structure of the consumer consent provisions in E-SIGN treats the risk of 
+rapid obsolescence and the lack of interoperability and version control in the technology 
+of electronic consumer markets as a burden that can be allocated by law to either 
+consumers or merchants dealing with consumers.  This overlooks the possibility of 
+reducing the burden to both merchants and consumers by influencing the behavior of 
+technology developers who today profit from planned obsolescence and lack of 
+interoperability of proprietary formats. 
+ 
+Standard setting for Internet retail commerce is taking place today in a 
+decentralized, ad hoc fashion that is likely to reflect the interests of technology 
+developers and merchants, but may overlook the interests of consumers.  Merchants are 
+likely to have a business incentive to participate in standardization processes 
+notwithstanding the expense in order to take advantage of emerging technologies such as 
+XML.2  Designed as a successor to the much simpler and less flexible HTML standard 
+for coding Web pages, XML will permit the organization of information in Internet 
+documents to be standardized.  Once it has been standardized using XML, information 
+can be communicated in many different formats including display in a Web browser or 
+on the screen of a cell phone.  By converting their existing Internet content to XML 
+standards, Internet merchants may find it easier to participate in integrated Internet 
+markets that bring together more vendors and purchasers than an individual Web site can 
+hope to attract.  
+ 
+The interests of consumers in the development of applications and interfaces that 
+permit electronic consumer transactions to take place are often adverse to the interests of 
+merchants and technology developers.  For example, consumers might be found to have a 
+very substantial interest in knowing whether a merchant has included a mandatory pre-
+dispute alternative dispute resolution clause before they enter into a transaction and 
+whenever possible, would prefer to do business with merchants who do not include such 
+provisions in their contracts.  Merchants, by contrast, may find such provisions important 
+in increasing their profitability if they can be used in contracts and consumers are unable 
+to distinguish between merchants who use such provisions and merchants who do not.  
+For example, in order for consumer activated electronic agent software to permit 
+                                               
+2 XML is a successor to HTML, the standard used to create Web pages.  XML will promote the expansion 
+of Internet commerce by permitting the information exchanged in Internet commerce transactions to be 
+organized according to the business objectives of the parties.  Instead of labeling text "title" or "paragraph" 
+as is possible with HTML today, text would be labeled "price" or "quantity" using XML in the future.  
+Internet browser software or other applications would be able to recognize the difference between different 
+terms and help individuals to organize and sort information.  
+ 
+7
+consumers to distinguish between merchants who insist on mandatory pre-dispute ADR 
+provisions and those that do not, technology developers would need to work with 
+merchants to standardize the way mandatory pre-dispute ADR provisions are expressed 
+in contracts so they can be identified without human intervention. 
+ 
+If contract terms that are of particular interest to consumers are incorporated into 
+standard-setting processes, then consumers will be able to make greater use of electronic 
+agent software to perform automated searches and comparisons of transactions.  If such 
+terms are omitted from this standard setting process, then the developers of electronic 
+agent software will be limited in their ability to automate search and analysis functions on 
+behalf of consumers.  If contract terms of particular interest to consumers are omitted 
+from standards, once the next generation of electronic commerce technologies have been 
+developed and implemented, it will require a change in standards to add functions that 
+will permit consumer-activated electronic agents to perform automatic searches and 
+analyses.  If the modification in standards required to add functions is significant, then 
+problems of path-dependency and lock-in may interfere with the ability of regulators or 
+consumers to demand that merchants add those functions. 
+ 
+ 
+V.  Potential Role of FTC in Promotion of Consumer Friendly Standards for 
+Electronic Contracting Interfaces in Retail Markets 
+ 
+Dozens if not hundreds of separate efforts are now underway to develop standards 
+for the next generation of Internet commerce.  Over the next few years, there will be 
+intense competition among the technology companies developing applications based on 
+these standards.  It will not be possible to predict who will be the ultimate winners and 
+losers for several years, but it is possible to predict that only a small number of the 
+contenders under development today will survive. For example, the Gartner Group 
+recently released a study predicting that by 2005, only two or three of the XML standards 
+now under development will be in widespread use, and those standards will account for 
+almost all Internet commerce transactions.  Today a window of opportunity exists to 
+influence the framework within which the next generation of Internet commerce will be 
+carried out by influencing the standard setting efforts now underway.  
+ 
+In order to promote the expansion of consumer choice and competition in 
+consumer markets when the next generation of electronic commerce technologies are in 
+place tomorrow, lawmakers need to find opportunities to encourage standard developers 
+to take consumer interests seriously today.  Individual consumers and even established 
+consumer advocacy organizations do not have the resources to locate and participate in 
+the dozens and hundreds to standard developing projects underway today.  Such a huge 
+undertaking is even harder to justify in light of the fact that out of the dozens and 
+hundreds of projects underway today, only a tiny handful will ultimately become widely 
+adopted in the future, and that no one today can predict accurately which projects today 
+will succeed and which will fail.  If consumer interests are to be taken seriously, then 
+some system for representing consumers indirectly in today's standard developing 
+projects needs to be found.   
+ 
+ 
+8
+ 
+The Federal Trade Commission should see authority from Congress to identify 
+relevant standard setting efforts now underway and analyze content; identify appropriate 
+incentives to promote substantial consideration of consumer preferences in the 
+development of standards; and analyze the functions of electronic agent software now 
+under development in light of prospective consumer preferences in electronic markets.  If 
+regulators collect and analyze this information, then they will be in a position to make 
+decisions about how consumer interests in the standard developing process can best be 
+protected.  Advances in information technology may contribute to overcoming market 
+failures based on unequal bargaining power, information asymmetries, collective action 
+problems and bounded rationality that today limit the ability of consumers to enter into 
+fair and efficient contracts with merchants.  That potential will only be realized if 
+important consumer interests are taken into account now while standards for the next 
+generation of electronic commerce technologies are still being developed.  If regulators 
+can promote the development of fair, open standards now, then the next generation of 
+electronic commerce technologies may permit US consumers to enjoy in full measure the 
+potential benefits of new technologies in retail markets.  

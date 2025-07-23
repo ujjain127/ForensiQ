@@ -1,0 +1,747 @@
+361 
+Standardizing Medication Error Event 
+Reporting in the U.S. Department of Defense 
+Ronald A. Nosek, Jr., Judy McMeekin, Geoffrey W. Rake 
+Abstract 
+Soon after the 1999 Institute of Medicine report, To Err Is Human, was released, 
+the Department of Defense (DoD) began an aggressive examination of medical 
+errors and the strategies for minimizing them. A primary goal was the creation of 
+a standardized medication event reporting system, including a central registry for 
+the compilation of reported data. This paper describes important experiences 
+gleaned from the DoD’s transition to a standardized medication error reporting 
+system. MEDMARXSM, an Internet-based commercial reporting application, was 
+selected by the DoD leadership as the standard tool for medication event 
+reporting. MEDMARX was implemented initially at five military hospitals in fall 
+2000 as part of a patient safety pilot project, and was later made available to all 
+143 military treatment facilities worldwide. Medication errors represent 
+approximately 50 percent of all patient safety events reported by military health 
+care facilities. Although the challenges associated with the implementation of a 
+standardized error reporting system were considerable in number and scope, the 
+long-term benefits to the DoD are significant. 
+Introduction 
+In fall 1999, the Institute of Medicine (IOM) released its groundbreaking 
+report, To Err Is Human, which estimated that the annual number of deaths in the 
+United States due to medical errors is between 44,000 and 98,000. This number 
+far exceeds the annual number of deaths resulting from AIDS, breast cancer, or 
+motor vehicle accidents and elevates medical errors to one of the Nation’s most 
+urgent, widespread public health problems.1 As a result, many health care 
+organizations, including the Department of Defense (DoD) Military Health 
+System (MHS), began an aggressive examination of medical errors and the 
+strategies to minimize or eliminate them. 
+Errors involving prescribed medications account for a significant percentage 
+of the total patient safety events reported by civilian health care facilities and 
+represent approximately half of all errors reported in DoD. While the vast 
+majority of medication errors do not result in adverse patient outcomes, various 
+studies have determined that a significant number of such events do have the 
+potential to cause serious patient harm or loss of life. One study estimates that 
+7,000 deaths per year are attributable to preventable medication errors, while 
+another study found that nearly 10 percent of all hospital admissions are related to 
+problematic use of pharmaceuticals.1–3 Health care professionals are encouraged 
+to report medication errors and adverse drug reactions through several established 
+Advances in Patient Safety: Vol. 4 
+362 
+programs. The MedWatch program coordinated by the U.S. Food and Drug 
+Administration (FDA) and the Medication Error Reporting (MER) program 
+coordinated by United States Pharmacopeia (USP) and the Institute for Safe 
+Medication Practices (ISMP) are two such programs.4, 5 The detection and 
+subsequent reporting of medication errors ideally should involve several 
+strategies, including observational methods, computerized triggers, retrospective 
+chart reviews, and spontaneous reporting. However, the systems used to report 
+such events often are organized around spontaneous reporting and are limited by 
+the small percentage of total errors that are actually reported. Error detection 
+methods such as the passive surveillance of electronic pharmacy and medical 
+record data may offer advantages over spontaneous reporting systems, because of 
+their ability to detect possible events that would otherwise go unnoticed or 
+unreported. These methods should be used in tandem to provide a better 
+understanding of error causation and patterns of occurrence.6 Another limitation 
+to many types of reporting systems is the inability of an individual reporting an 
+event to retrieve or review the report, once it has been submitted. 
+The timely and accurate reporting of medical errors should be an essential part 
+of a health care organization’s overall risk-reduction strategy.1 Medical error 
+reporting has focused historically on the individuals involved, rather than the 
+systems and processes that allowed the error to occur. Although physicians, 
+nurses, and other caregivers believe the safety and well-being of the patient is 
+their number-one priority, the fear of malpractice lawsuits, public embarrassment, 
+disciplinary action, and loss of credibility has made these same professionals 
+reluctant to report or discuss error-related incidents with others.6, 7 One possible 
+approach to improving medical error reporting in health care facilities involves 
+the use of anonymous, standardized reporting systems. These systems may help to 
+foster the kind of nonpunitive environment where caregivers can report and share 
+their experiences involving medication errors freely, without fear of reprisals. 
+Additionally, standardized reporting would ensure consistency throughout a 
+health care organization and would enable internal tracking, trending, and 
+comparative analyses. To that end, Federal legislation has been introduced to 
+facilitate the creation of a voluntary system for reporting medical errors and near-
+miss incidents as a means of further emphasizing the national significance of this 
+issue.8 The proposed plan also would establish a national patient safety database 
+for the purpose of analyzing error reports and recommending optimal patient care 
+practices.  
+The Department of Defense response 
+Soon after the IOM report was released, former President Clinton directed all 
+Federal agencies involved with health care to develop action plans for reducing 
+medical errors. In response to the President’s mandate, the Quality Interagency 
+Coordination Task Force (QuIC) released a report in February 2000 titled Doing 
+What Counts for Patient Safety: Federal Actions to Reduce Medical Errors and 
+Their Impact.9 The DoD then assembled a multidisciplinary health care team 
+comprised of Army, Navy, and Air Force representatives to address patient safety 
+Standardizing Medication Error Reporting in the DoD 
+363 
+issues within the MHS. Among the team’s primary goals was the creation of a 
+system to standardize medical error event reporting among the three services, with 
+all collected data flowing into a centralized data registry. To that end, the DoD 
+initiated a patient safety pilot program in December 2000 at five military hospitals 
+that included the use of the MEDMARXSM reporting software system (United 
+States Pharmacopeia, Rockville, MD) for standardized medication error data 
+collection.  
+MEDMARX, an anonymous and Internet-based database application, was 
+designed to report, track, and detect trends in medication errors within health care 
+organizations. This sophisticated instrument uses standardized drop-down boxes, 
+selection lists, and robust reporting capabilities to streamline data entry, 
+compilation, and retrieval tasks. MEDMARX also permits users to draw 
+comparisons between their hospital or clinic and others like it, using a national 
+facilities database. Moreover, it allows users to perform proactive reviews of error 
+information from other MEDMARX subscribers, in an effort to learn from 
+strategies and mistakes that occurred previously in other health care facilities 
+throughout the Nation.10  
+MEDMARX incorporates a standardized taxonomy and definitions 
+established by the National Coordinating Council for Medication Error Reporting 
+and Prevention (NCC MERP). A severity index scale based on patient outcomes 
+allows users to break down actual and potential errors occurring in their facility, 
+according to the threat level to the patient. This index scale ranges in event 
+severity from Category A (a potential error), through Category I (a medication 
+error that may have resulted in a patient death).11 There are 13 required data 
+elements in the MEDMARX system, including medication use process node, type 
+of error, cause of error, and contributing factors. MEDMARX further includes 30 
+additional data fields that permit users to track details such as “actions taken to 
+avoid similar errors,” “level of staff involved in the error,” “error result on patient 
+care,” and “medical devices involved in the error.” All the data elements are 
+searchable by means of the powerful report functions within the MEDMARX 
+system, and users can use the numerous predefined reports, graphs, and charts to 
+produce aggregate reviews and analyses of the data from their facility. Custom 
+and ad hoc reporting features are also included. MEDMARX further includes a 
+unique “drill down” feature that permits users to convert an on-screen display of 
+graphed or charted errors to a data spreadsheet. The user then can select a single 
+error from the spreadsheet and view all the pertinent details from the incident in 
+report form.10  
+Centralized reporting 
+The DoD Patient Safety Center (PSC), located within the Armed Forces 
+Institute of Pathology in Washington, DC, was created under the 2001 National 
+Defense Authorization Act to provide the DoD with centralized patient care error 
+reporting and management services. A centralized medical event data registry 
+incorporating the use of MEDMARX was established at the DoD PSC in 
+Advances in Patient Safety: Vol. 4 
+364 
+November 2002, and use of the software has increased at DoD health care 
+facilities throughout the past 2 years. Additionally, USP has created a self-paced 
+online tutorial for MEDMARX and was contracted to train various DoD patient 
+safety managers in the program’s use. In addition to collecting medication-related 
+events, the DoD PSC also receives monthly summary reports from each facility 
+on all other health care-related patient safety events, as well as root-cause 
+analyses. 
+With the DoD’s decision to adopt MEDMARX as the standardized reporting 
+system for medication errors came the need for additional system functionality to 
+permit data sharing and evaluation between military treatment facilities (MTFs). 
+USP was contracted to develop the MEDMARX Multi-Facility Module, which 
+enables health care networks to track medication errors and identify trends at 
+facilities within their systems. This module was introduced in December 2002, 
+and since that time, all military hospitals and clinics have been linked in a 
+sophisticated electronic network that provides the Army, Navy, and Air Force 
+with improved access to medication error information from their individual 
+facilities. The MEDMARX Multi-Facility Module also contains a health 
+management tier that provides the DoD PSC with access to all military 
+medication errors reports, and enables numerous health care systems to be 
+organized under a single management structure. The MEDMARX reporting 
+system and Multi-Facility Module implementations are expected to enhance 
+reporting compliance and accuracy, while facilitating the development of better 
+care practices and policies designed to reduce errors and improve the safe delivery 
+of care in the MHS. 
+Results 
+It is important to understand that the data presented in this article are 
+preliminary and have been included primarily for illustrative purposes. Advanced 
+MEDMARX system training for DoD personnel commenced in December 2003, 
+and many MTFs are currently in the program implementation phase.  
+Reporting volume  
+The MEDMARX Multi-Facility Module is used to aggregate and analyze data 
+from medication error events that occurred at DoD health care facilities. Several 
+MTFs began using the MEDMARX reporting system early in 2001; since that 
+time, the number of medication errors reported through the MEDMARX system 
+has increased dramatically (Figure 1). Medication-related error events accounted 
+for approximately 50 percent of all DoD patient safety events included in this 
+sample.  
+MEDMARX system data have indicated a total of 29,662 medication events 
+were reported by staff at DoD facilities between October 2002 and September 
+2003. This figure includes actual medication error events (defined by the DoD as 
+errors that reach the patient) and near misses (defined by the DoD as events that 
+are corrected through some type of intervention before they reach the patient).  
+Standardizing Medication Error Reporting in the DoD 
+365 
+Figure 1. Total number of medication events reported to the Department of Defense 
+Patient Safety Center Registry by quarter from October 2001 through September 2003 
+ 
+Of all medication-related incidents reported, 69 percent were categorized as near 
+misses and 31 percent were categorized as actual events. Of the actual events, 26 
+percent involved female patients, 22 percent involved male patients, and 52 
+percent involved patients whose gender was not indicated by the individual who 
+made the report. The last statistic is not surprising, because patient gender is not a 
+required reporting field. Events also were stratified by age. Of the reported events 
+that reached the patient, 18 percent occurred in patients ages 5 years or younger, 6 
+percent occurred in patients between the ages of 6 and 17 years, and 24 percent 
+occurred in patients between 18 and 45 years of age. Another 24 percent of the 
+medication errors occurred in patients between the ages of 46 and 64 years, while 
+28 percent occurred in patients 65 years of age and older. Of the reports in which 
+possible patient harm may have occurred, 21 percent of the events occurred in 
+patients 5 years of age or younger, 6 percent of the errors occurred in patients 
+between 6 and 17 years, and 29 percent occurred in patients between 18 and 45 
+years. Another 20 percent of the medication errors occurred in patients between 
+46 and 64 years, while 24 percent occurred in patients 65 years of age and older.  
+Available 2002 MEDMARX national data indicate that approximately 35.5 
+percent of actual events occurred in patients 65 years of age and older. Of the total 
+events that indicated possible patient harm, 36.4 percent occurred in this 
+population.12 A more thorough analysis of the DoD and national data, with 
+comparisons to at-risk populations such as pediatrics and geriatrics, was not 
+practical and was beyond the scope of this article. However, this will certainly be 
+a key area for future research. 
+Advances in Patient Safety: Vol. 4 
+366 
+As of this writing, a total of 143 DoD facilities have the capability of entering 
+data into the MEDMARX reporting system. The number of facilities that used 
+MEDMARX to report at least one medication error in any given month ranged 
+from 84 MTFs to 119 MTFs. Monthly reporting volumes also varied 
+considerably. Some MTFs routinely reported five or fewer medication events per 
+month, while others consistently reported more than 100 monthly events. This 
+variability also was observed between facilities of similar type and bed count. 
+Because all reports to the DoD PSC are made anonymously, no distinguishing 
+facility characteristics other than bed count and facility type are available. This 
+lack of characteristics serves to limit further analysis.  
+Harm stratification 
+The MEDMARX reporting system allows users to categorize the error by 
+setting (i.e., inpatient or outpatient). This variable is termed the “source of 
+record.” Medication errors submitted to the DoD PSC were stratified by source of 
+record and were further categorized according to patient outcome (i.e., near miss; 
+error, no harm; and error, harm) before being compared with the national 
+MEDMARX system data submitted during calendar year (CY) 2002. The 
+majority of reported errors in the DoD and national datasets for outpatient events 
+were classified as near misses. The majority of reported DoD inpatient errors 
+were classified as no-harm events, while the majority of nationally reported 
+events were classified as near misses. The percentage of inpatient errors that 
+caused harm in DoD was very similar to the national data. The percentage of 
+outpatient errors in DoD that resulted in patient harm was 0.3 percent, compared 
+with 1.4 percent in the national data (Table 1). Additionally, there was an upward 
+trend in the monthly volume of actual and near-miss events reported to the PSC 
+during the same time frame. 
+The medication use process 
+The medication use process is divided into five phases or nodes: prescribing, 
+documenting/transcribing, dispensing, administering, and monitoring. All actual 
+medication events (Categories B–I errors, according to the NCC MERP) originate 
+in one of these five nodes. Medication events were stratified by the source of 
+record (inpatient or outpatient). DoD data from the period of October 2002 to 
+September 2003 was compared to the national data submitted to the MEDMARX 
+system during CY 2002 (Table 2). The data reported to the DoD PSC showed the 
+largest percentage of inpatient events had occurred in the administering node (41 
+percent), followed by those errors that occurred in the dispensing node (26 
+percent), and those from the documenting/transcribing node (19 percent). The 
+national dataset indicated that the largest percentage of inpatient errors had 
+occurred in the administering node (35 percent), followed by those errors that 
+occurred in the documenting/transcribing node (24 percent), and those from the 
+prescribing node (21 percent). 
+Standardizing Medication Error Reporting in the DoD 
+367 
+Table 1. Percentage of inpatient and outpatient events, stratified by harm and reported 
+to the DoD Patient Safety Center Registry, October 2002 to September 2003, with 
+comparison to the 2002 MEDMARXSM national database  
+ 
+Inpatient 
+Outpatient  
+Harm stratification* 
+DoD 
+National† 
+DoD 
+National 
+Near miss‡ 
+40.3% 
+50.5% 
+74.7% 
+60.7% 
+Error, no harm§ 
+57.9% 
+47.8% 
+25.0% 
+37.9% 
+Error, harm** 
+1.8% 
+1.7% 
+0.3% 
+1.4% 
+* Based on National Coordinating Council for Medication Error Reporting and Prevention error 
+categories. A near miss includes Categories A and B events; error, no harm includes Categories 
+C and D events; and error, harm includes Categories E–I events. 
+† 2002 national MEDMARX data provided by U.S. Pharmacopeia, Center for Advancement in 
+Patient Safety. 
+‡ Near miss definition: Any process variation or error that could have resulted in harm to a patient, 
+visitor, or staff, but through chance or timely intervention did not reach the individual. 
+§ No harm definition: An event that reached the patient but did not result in harm. 
+** Harm definition: Impairment of the physical, emotional, or psychological function or the structure 
+of the body and/or pain resulting therefrom. 
+Table 2. Number and percentage of inpatient and outpatient events, stratified by 
+medication use process node and reported to the DoD Patient Safety Center Registry, 
+October 2002 to September 2003, with comparison to the 2002 MEDMARXSM national 
+database 
+* Process node categories defined by the National Coordinating Council for Medication Error 
+Reporting and Prevention (NCC MERP). 
+† 2002 national MEDMARX data provided by U.S. Pharmacopeia, Center for Advancement in 
+Patient Safety. 
+The data reported to the DoD PSC showed that the largest percentage of 
+outpatient events had occurred in the dispensing node (61 percent), followed by 
+those errors that occurred in the prescribing node (28 percent), and those from the 
+documenting/transcribing node (8 percent). The national data showed that the 
+largest percentage of outpatient errors had occurred in the dispensing node (51 
+percent), followed by errors that occurred in the prescribing mode (27 percent), 
+and those from the administering node (13 percent). Although the national and 
+DoD datasets do contain differences, the error distributions compare closely.  
+  
+Inpatient 
+Outpatient 
+Process Node* 
+DoD 
+National† 
+DoD 
+National 
+Administering 
+1,710 (41%) 
+43,488 (35%) 
+381 (3%) 
+1,832 (13%) 
+Dispensing 
+1,058 (26%) 
+23,574 (19%) 
+8,942 (61%) 
+6,962 (51%) 
+Documenting/ 
+transcribing 
+793 (19%) 
+30,124 (24%) 
+1,226 (8%) 
+1,124 (8%) 
+Monitoring 
+40 (1%) 
+1,399 (1%) 
+48 ( < 1%) 
+113 (1%) 
+Prescribing 
+525 (13%) 
+26,703 (21%) 
+4,136 (28%) 
+3,683 (27%) 
+Advances in Patient Safety: Vol. 4 
+368 
+Drug products involved in medication errors 
+An analysis of drug products involved in inpatient medication error reports 
+was conducted and compared to the national data submitted to the MEDMARX 
+system during CY 2002. Six of the top 10 drug products involved in errors that 
+reached the patient were common to the DoD and national datasets. Moreover, 5 
+of the top 10 drug products included in both the DoD and national datasets are 
+considered “high-risk/alert” drugs. Of the top 10 products involved in errors that 
+resulted in patient harm, 7 were common to the DoD and national datasets. 
+Additionally, 9 of the 10 leading “harm” drugs in the DoD data and 8 of the 10 
+leading “harm” drugs in the national data are considered “high-risk/alert” drugs 
+(Table 3). 
+Types of error 
+The October 2002–September 2003 DoD medication events were compared to 
+the CY 2002 national data from the MEDMARX system, after being categorized 
+by type of error and stratified by the source of record (inpatient or outpatient) 
+(Table 4). The most commonly reported type of inpatient error in the DoD data 
+was “improper dose/quantity,” followed by “omission error.” The most 
+commonly reported inpatient error in the national dataset was “omission,” 
+followed “improper dose/quantity.” For both the DoD and national datasets, the 
+most commonly reported outpatient error type was “prescribing error,” followed 
+by “improper dose/quantity.” The inpatient and outpatient data from the DoD 
+compare closely with the national data, despite differences in the collection 
+procedures. 
+Table 3. Ranked top 10 inpatient products involved in errors that reached the patient, 
+stratified by level of harm and reported to the DoD Patient Safety Center, October 2002 
+to September 2003, with comparison to the 2002 MEDMARXSM national database 
+Products that reached the patient 
+Products that caused harm 
+(Categories C–I) 
+(Categories E–I) 
+DoD 
+National* 
+DoD 
+National* 
+Cefazolin 
+Albuterol 
+Morphine Sulfate 
+Insulin 
+Insulin† 
+Insulin 
+Fentanyl 
+Morphine Sulfate 
+Morphine Sulfate 
+Heparin 
+Insulin 
+Heparin 
+Oxycodone 
+Morphine Sulfate 
+Meperidine 
+Potassium Chloride 
+Vancomycin 
+Vancomycin 
+Methadone 
+Hydromorphone 
+Heparin 
+Warfarin 
+Potassium Chloride 
+Warfarin 
+Enoxaparin 
+Cefazolin 
+Warfarin 
+Enoxaparin 
+Potassium Chloride 
+Furosemide 
+Diazepam 
+Fentanyl 
+Ketorolac 
+Potassium Chloride 
+Furosemide 
+Meperidine 
+Metoprolol 
+Ipatropium 
+Hydromorphone 
+Vancomycin 
+* 2002 national MEDMARX data provided by U.S. Pharmacopeia, Center for Advancement in 
+Patient Safety. 
+Note: Items in bold indicate high-risk/high alert medications. 
+Standardizing Medication Error Reporting in the DoD 
+369 
+Table 4. Percentage of inpatient and outpatient events, stratified by error type and 
+reported to the DoD Patient Safety Center October 2002 to September 2003, with 
+comparison to the 2002 MEDMARXSM national database 
+  
+Inpatient 
+Outpatient 
+Error type* 
+DoD 
+National† 
+DoD 
+National† 
+Deteriorated product 
+0.4% 
+0.04% 
+0.1% 
+0.04% 
+Expired product 
+0.6% 
+0.02% 
+0.2% 
+0.02% 
+Extra dose 
+7.0% 
+5.1% 
+1.3% 
+2.1% 
+Improper dose/quantity 
+23.0% 
+25.9% 
+30.9% 
+29.7% 
+Omission error 
+22.2% 
+27.1% 
+2.1% 
+6.9% 
+Prescribing error 
+8.3% 
+17.4% 
+33.3% 
+31.3% 
+Type not determined 
+10.8% 
+0.1% 
+9.2% 
+0.02% 
+Unauthorized drug 
+8.6% 
+10.7% 
+7.3% 
+12.6% 
+Wrong administration technique 
+1.8% 
+1.3% 
+0.6% 
+1.2% 
+Wrong dosage form 
+2.8% 
+1.5% 
+8.1% 
+7.1% 
+Wrong drug preparation 
+6.1% 
+3.7% 
+9.7% 
+8.1% 
+Wrong patient 
+4.6% 
+4.2% 
+8.1% 
+9.2% 
+Wrong route 
+1.2% 
+1.6% 
+0.5% 
+0.8% 
+Wrong time 
+8.0% 
+7.5% 
+1.0% 
+1.9% 
+* Error types as categorized and defined in the 2004 MEDMARX system. 
+† 2002 national MEDMARX data provided by U.S. Pharmacopeia, Center for Advancement in 
+Patient Safety. 
+Actions taken 
+The MEDMARX reporting system includes an “actions taken” field in the 
+medication error reporting form. Of the 29,662 error events reported by DoD 
+facilities, 18,883 (64 percent) included at least one action taken related to the 
+error. The most frequently reported action was “informed staff who made the 
+initial error” (51.4 percent), followed by “education and training provided” 
+(30.5 percent).  
+Discussion 
+Limitations 
+Caution should be used in drawing conclusions from the reported medication 
+error information, as there are numerous data limitations, specifically in the 
+comparisons of the DoD and national MEDMARX data. All data are voluntary 
+and self-reported and may not be an accurate reflection of what is occurring in the 
+individual DoD facilities. In fact, the reported data most likely represent a small 
+percentage of the events that are occurring in the military health care system. 
+While MEDMARX is an error reporting tool that can be used to track medication-
+related events and identify trends without regard for the means used to detect 
+them, it should be noted that the DoD uses the system primarily as a spontaneous 
+reporting network. Error detection and subsequent reporting should include 
+Advances in Patient Safety: Vol. 4 
+370 
+multiple strategies (e.g., observational methods, computerized triggers, 
+retrospective chart review, and spontaneous reporting), so the USP and DoD have 
+incorporated this emphasis into the MEDMARX training curriculum. Users are 
+instructed on the use of MEDMARX in nontraditional active and passive 
+surveillance contexts such as root-cause analyses (RCA), failure mode and effect 
+analyses (FMEA), and other performance and quality improvement initiatives. 
+Additionally, data reported to the DoD Patient Safety Center Registry and 
+MEDMARX are considered nominal-style variables, and therefore only 
+descriptive measures were used to present the findings. No additional statistical 
+methods were employed in the analysis. 
+Another limitation concerns the MEDMARX program implementation and 
+standardized data collection methods. During fiscal year (FY) 2003, many DoD 
+health care facilities were implementing local patient safety programs, of which 
+MEDMARX was a part. As such, challenges arose involving reporting accuracy, 
+timeliness, and completeness of the data.12 Many of these concerns have been 
+identified and are being addressed in training at the local, service, and DoD levels.  
+The 2002 MEDMARX national data used in comparisons with the DoD data 
+reported to the PSC is an additional area of concern. Ideally, data from identical 
+time frames would have been used to compare the DoD data and the MEDMARX 
+national data, but in this instance simultaneous data collection was not possible. 
+Additionally, the 2002 DoD data could not be removed from the national dataset; 
+and it is not known what, if any, impact this redundancy had on the overall 
+analysis. It is important to note that neither DoD nor MEDMARX make any 
+attempt to establish rate-based indicators or normative reporting ranges, and that 
+the comparisons were included for illustrative purposes only. 
+Application of the data  
+It is necessary to emphasize again that the present DoD data are preliminary. 
+However, the significance of this data should not be minimized. In fact, 
+medication error data submitted to the DoD PSC have been used to identify, 
+justify, and support several military-wide initiatives. For the first time, the DoD 
+can aggregate medication error data at multiple levels and identify potential trends 
+at the service and DoD levels that may not be apparent at the health care facility 
+level. This analysis suggests that DoD facilities are faced with medication safety 
+challenges similar to those of their civilian counterparts; the leadership should not 
+wait for trends to emerge in their own data before taking action. Similarities in the 
+DoD and national MEDMARX data on drug products that resulted in harm to 
+patients appear to support this assessment. This type of information now is shared 
+routinely with senior leadership at the headquarters and facility levels, via the 
+PSC’s quarterly and annual data summary reports. More detailed analyses will be 
+possible in the future, once the MTFs have completed the program 
+implementation and the training initiatives, data quality, and integrity issues have 
+improved. 
+Standardizing Medication Error Reporting in the DoD 
+371 
+Safety publications 
+In addition to locally collected event data, facilities and health systems should 
+make a point of using information gathered from several other reliable sources, in 
+an effort to better understand the global medication error trends in health care. 
+Organizations such as the Joint Commission on Accreditation of Healthcare 
+Organizations (JCAHO) and the ISMP have identified numerous medication error 
+patterns and corresponding strategies for reducing errors that could benefit all 
+clinical facilities.13 Two publications were developed using these nationally 
+recognized safe practice recommendations and error report data submitted to the 
+DoD PSC. The first of these publications, DoD Patient Safety Hot Topics, was 
+created as a support tool for patient safety officers and is intended to address 
+patient safety issues identified in event reports or derived from other reputable 
+patient safety resources. The second publication, DoD Patient Safety Alert, serves 
+as a rapid dissemination instrument for priority alerts directed at the MTFs and is 
+used to distribute topical items identified from the services, nationally recognized 
+patient safety organizations, and the Patient Safety Center Registry. In fall 2003, 
+for example, the DoD PSC received a near-miss report regarding a potentially 
+unsafe practice involving 30 ml multidose vials (MDV) of epinephrine. In 
+response to the perceived safety threat, the PSC released its first DoD Patient 
+Safety Alert in January 2004, detailing the hazard, as well as the nationally 
+recognized “best practice” recommendations for the storage and use of 30 ml 
+epinephrine vials. News in subsequent safety alerts and issues of Hot Topics 
+addressed topics such as high-alert medications, dangerous abbreviations, look-
+alike insulin and tuberculin syringe packaging, the paucity of patient allergy 
+documentation, improper patient identification, and intravenous line and enteral 
+feeding tube mix-ups. 
+Reporting to external agencies 
+The DoD PSC occasionally receives error event reports that relate directly to 
+pharmaceutical manufacturer product packaging and labeling. Once all the 
+relevant product and manufacturer information has been gathered, it is 
+summarized in a report sent to the USP MER program and the FDA’s MedWatch 
+program. The USP reviews each report for health hazards and forwards its 
+findings to the FDA and the product manufacturer, in an effort to better maintain 
+the reporter’s confidentiality.4, 5 To date, the PSC has submitted dozens of reports 
+to these agencies as a means of improving the packaging and labeling of 
+pharmaceutical industry products. 
+Lessons learned 
+Reporting systems such as MEDMARX can be valuable tools for collecting 
+and managing data related to medication delivery. The usefulness of such tools, 
+however, is dependant upon the quality of the data being collected. It is therefore 
+essential that the entered information be as accurate, complete, and timely as 
+possible. Like other reporting systems, MEDMARX is vulnerable to the 
+Advances in Patient Safety: Vol. 4 
+372 
+“garbage-in, garbage-out” syndrome. Core elements including a thorough 
+implementation plan, a robust training program, strategies for timely system 
+changes, and sufficient program resources should be in place to improve the 
+likelihood of program success at all levels. Weaknesses in any one of these areas 
+may compromise data quality within the individual facility, the health system, and 
+other users of the MEDMARX national database. 
+Implementation 
+Perhaps the most important lessons to come out of this program have involved 
+the implementation of a standardized reporting program. Although the military 
+health care system is similar in many respects to other large health systems, 
+several important distinguishing characteristics of the MHS make implementation 
+a complex and challenging task—factors such as the high active duty personnel 
+turnover rate, worldwide military hospital locations, and staff mobilizations in 
+times of war and other crises. Individual hospitals have limited resources and a 
+variety of competing requirements, so it is important for the leadership at facilities 
+to possess a clear understanding of new initiatives, as they unfold.  
+The MEDMARX reporting system was introduced in DoD facilities as an 
+optional tool in early 2002; however it was not until March 2004 that use of 
+MEDMARX became mandatory in all the services. As a result, patient safety 
+managers and pharmacists at various hospitals and clinics decided how best to 
+utilize the MEDMARX system. And while some facilities embraced it, others 
+chose to use it only within the pharmacy, or not at all. Since policy letters were 
+issued mandating the use of MEDMARX, there has been a positive trend in the 
+use of the system.  
+Education and training  
+Another valuable-but-difficult lesson for the DoD involved staff education 
+and training in the use of the MEDMARX reporting system. Generally speaking, 
+a well-defined and detailed training program can have a positive effect on any 
+new program. The MEDMARX training staff at USP and the DoD recognized this 
+early on; however funding and other resources to support such activities were not 
+immediately available. A training budget was included in the DoD MEDMARX 
+central contract that went into effect in October 2003. Moreover, USP developed 
+and launched an online tutorial designed for new MEDMARX users in March 
+2003, and a team of USP and DoD instructors currently offers advanced 
+MEDMARX training at various U.S. military bases throughout the country and at 
+USP headquarters in Rockville, Maryland. Response to the training sessions and 
+its inherent value has been very positive. Future training sites may include 
+military bases in Europe and the Far East.  
+System improvements 
+The impetus to standardize the collection and analysis of patient safety 
+information is a relatively recent occurrence. Although most agree that these 
+collection efforts are important, no nationally recognized standard encompassing 
+Standardizing Medication Error Reporting in the DoD 
+373 
+the critical elements and taxonomy has yet been established. Furthermore, data 
+elements and collection methodologies have matured and evolved significantly 
+since the release of To Err Is Human in 1999. As a result, developers of medical 
+event reporting systems should be flexible in their inclusion of new information 
+technology, reflect advances in patient safety research, and be responsive to user 
+feedback. The USP has incorporated numerous changes to the MEDMARX 
+system since it was launched in 1998. More than 70 system improvements have 
+occurred just since 2002, including the graphical user interface redesign, 
+significant enhancements to improve search functionality, the development of an 
+online training tutorial, and expanded categories and fields. Many of these 
+changes were a direct result of the user feedback received at USP. 
+Conclusions 
+Medication errors account for a large percentage of total error events reported 
+at military health care facilities. The implementation of the MEDMARX 
+electronic reporting system has enhanced the DoD’s ability to collect and analyze 
+these events. Although the challenges associated with the implementation of a 
+standardized error reporting system were considerable in number and scope, the 
+long-term benefits to the DoD are significant.  
+Acknowledgments 
+The views expressed in this publication are those of the authors and do not 
+necessarily represent the official views of the Armed Forces Institute of 
+Pathology, the military services, the Department of Defense, or United States 
+Pharmacopeia. 
+Author affiliations 
+U.S. Department of Defense Patient Safety Center, Armed Forces Institute of Pathology, Silver 
+Spring, MD (RAN, GWR). United States Pharmacopeia, Rockville, MD (JM). 
+Address correspondence to: CDR Ronald A. Nosek, Jr., Deputy Directory; Department of Defense 
+Patient Safety Center, 1335 East West Highway, Suite 6-100, Silver Spring, MD 20910; phone: 301-295-
+7238; e-mail: nosekr@afip.osd.mil. 
+References 
+1. 
+Kohn LT, Corrigan JM, Donaldson MS, editors. To err 
+is human: building a safer health system. A report of 
+the Committee on Quality of Health Care in America, 
+Institute of Medicine. Washington, DC: National 
+Academy Press; 2000. 
+2. 
+Leape LL, Bates DW, Cullen DJ, et al. Systems 
+analysis of adverse drug events. ADE Prevention 
+Study Group. JAMA 1995;274(1):35–43. 
+3. 
+Bates DW, Cullen DJ, Laird N, et al. Incidence of 
+adverse drug events and potential adverse drug events. 
+Implications for prevention. ADE Prevention Study 
+Group. JAMA 1995;274(1):29–34. 
+4. 
+MedWatch, the FDA safety information and adverse 
+reporting program. Available at: http://www.fda.gov/ 
+medwatch. Accessed February 20, 2004. 
+Advances in Patient Safety: Vol. 4 
+374 
+5. 
+USP Medication Error Reporting (MER) program. 
+Available at: http://www.usp.org/patientsafety/ 
+reporting/mer.html. Accessed February 20, 2004. 
+6. 
+Pietro DA, Shyavitz LJ, Smith RA, et al. Detecting 
+and reporting medical errors: why the dilemma? BMJ 
+2000;320(7237):794–6. 
+7. 
+Cohen MR, editor. Medication errors. Causes 
+prevention, and risk management. Sudbury,MA: Jones 
+and Bartlett Inc.; 2000. 
+8. 
+Carter J. House passes bill to track medical errors. The 
+Washington Post; Mar 12, 2003. Available at: 
+http://www.washingtonpost.com/wp-dyn/articles/ 
+A16911-2003Mar12.html. Accessed March 12, 2003. 
+9. 
+Quality Interagency Coordination Task Force (QuIC). 
+Doing what counts for patient safety: Federal actions 
+to reduce medical errors and their impact. Report to 
+the President. Washington, DC: Quality Interagency 
+Coordination Task Force; February 2000. Available 
+at: http://www.quic.gov/report/. Accessed February 
+20, 2004. 
+10. Institute for Safe Medication Practices. USP launches 
+MEDMARX as the third major national reporting 
+program for adverse drug events; 1998. Available at: 
+http://www.ismp.org/MSAarticles/MedMARx.html. 
+11. National Coordinating Council for Medication Error 
+Reporting and Prevention. Taxonomy of medication 
+errors. Rockville (MD): National Coordinating 
+Council for Medication Error Reporting and 
+Prevention; 2001. Available at: http://www.nccmerp 
+.org/pdf/taxo2001-07-31.pdf2001. Accessed February 
+20, 2004. 
+12. Hicks RW, Cousins DD, Williams RL. Summary of 
+information submitted to MEDMARX in the year 
+2002. The quest for quality. Rockville (MD): USP 
+Center for the Advancement of Patient Safety; 2003. 
+p. 56. 
+13. Smetzer JL, Vaida AJ, Cohen MR, et al. Findings 
+from the ISMP medication safety self-assessment for 
+hospitals. Jt Comm J Qual Saf 2003;29(11):586–97. 

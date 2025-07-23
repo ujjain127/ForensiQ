@@ -1,0 +1,295 @@
+IN THE UNITED STATES BANKRUPTCY COURT
+EASTERN DISTRICT OF ARKANSAS
+LITTLE ROCK DIVISION
+IN RE:
+LOUIS GUIDO and
+4:06-bk-11337 E
+CHERYLE GUIDO, Debtors
+CHAPTER 13
+ORDER SUSTAINING OBJECTION TO CONFIRMATION
+The Objection to Confirmation filed by McEntire Farms, Inc. (“McEntire”) was heard
+on June 1, 2006.  John Aldworth appeared on behalf of McEntire, and the owners of
+McEntire were also present.  John Jackson appeared on behalf of the Debtors who were also
+present.  Jeffrey Ellis appeared on behalf of the Chapter 13 Trustee.  This is a core
+proceeding under 28 U.S.C. § 157(b)(2)(L), and the Court has jurisdiction to enter a final
+judgment in this case. 
+INTRODUCTION
+The issue presented in this case is whether a Real Estate Sales Contract (the
+“Contract”) entered into between the Debtors and McEntire in May 2005 constitutes a
+mortgage or an executory contract with a valid forfeiture clause under Arkansas law.  If the
+latter, the Court must also determine whether McEntire waived its rights under the forfeiture
+clause.  The Court concludes that the Contract is an executory contract with a valid forfeiture
+clause and McEntire did not waive its rights under the forfeiture clause.  As such, the
+Contract was canceled prior to the Debtors’ bankruptcy filing, and they have no legal or
+equitable interest in the property at issue.  Accordingly, the Debtors must modify their
+schedules and Chapter 13 plan to remove the property and McEntire as a secured creditor.
+EOD 6/20/06 by pfb
+2
+FACTS
+On May 10, 2005, the Debtors executed the Contract agreeing to pay McEntire
+$37,530 for approximately 22.66 acres located in Van Buren County (the “Property”).  The
+purchase price was to be paid in 240 monthly installments of $295.85.  The deed to the
+Property was to be held in escrow and delivered to the Debtors “only upon performance of
+the conditions herein set out.”  Taxes due for 2005 were to be pro-rated, with Debtors paying
+for their portion, and taxes due for 2006 were to be paid by the Debtors.  Paragraph 12
+provides:
+Time is of the essence in this agreement.  If any payment has not been made
+by Buyers as herein set out allowing a thirty (30) day grace period, or in the
+event that Buyers defaults in any other provision of this agreement, then the
+Sellers may, at Seller’s option, declare all payments due and payable to bring
+contract current, and if not paid within ten (10) days, Seller may declare this
+Contract to be thereupon terminated and forfeited by giving notice of Seller’s
+election so to do to the Buyers at Buyer’s last known address.  Thereupon, the
+Buyer agrees that Buyers will promptly and forthwith vacate the premises and
+return possession thereof to the Sellers without additional notice.  In such
+event, the payments made thereto are to be considered as rent for the property,
+and the Escrow Agent is authorized to turn over all money and papers to the
+Sellers and to be relieved of further liability.  Any and all items remaining on
+property thirty (30) calendar days after cancellation will be considered as
+abandoned, and will become the property of the Sellers.
+Pursuant to the Contract, McEntire installed a well and septic tank on the Property.  The
+Debtors did not pay the property taxes and did not keep the property insured, and as
+described in more detail below, they only made five out of nine scheduled payments before
+McEntire canceled the Contract in March 2006.
+During the summer of 2005, the Debtors built a 2 bedroom, 1 bath dwelling on the
+1OSB is a substitute for plywood.  See www.osbguide.com/osb.html.
+3
+property with partially used and partially new materials; the total cost of construction was
+$6,000.  Debtor Louis Guido testified that he built the structure himself along with some help
+from his father.  The dwelling has a rusted tin roof and Oriented Strand Board (“OSB”)1
+siding.  There is a plywood floor and no sheetrock.  There has been tar paper on the outside
+since November.  The dwelling is approximately 800 square feet, has hot water and
+plumbing, and has electricity.  Mr. Guido testified he installed a $275 utility meter on the
+Property.  Mr. Jimmy McEntire  (who is a 50% shareholder in McEntire) testified that he is
+a licensed real estate agent and in his opinion, the dwelling is not very “desirable” but may
+be something a deer hunter might like to use as a cabin.   He also testified that if the trash,
+old vehicles and dwelling were moved, the Property would be easier to sell.  Photos of the
+dwelling were introduced into evidence which supported Mr. Jimmy McEntire’s testimony
+and led the Court to find such testimony to be reliable and accurate.  
+After executing the Contract, Mr. Guido also began “rocking” the Property – that is,
+he removed rocks from the Property and sold them.  Mr. Guido testified he made
+approximately $4,000 rocking the Property and that he used this money for living expenses
+and to make some of the payments on the Property.  Mr. Guido said he could not rock the
+property in the winter, but he began rocking again in the Spring until April when Mr. Jimmy
+McEntire caught him and told him to stop.
+On behalf of McEntire, Clifton McEntire who is McEntire’s President, Secretary and
+2Although the Contract references no down payment, the parties testified that the Guidos
+had previously made a $200 down payment upon execution of another land sale contract in
+which they purchased a smaller amount of land; they later decided to purchase more land, and
+executed a new contract on the entire 22.6 acres.
+4
+Treasurer, and a 50% shareholder, testified that Debtors made a down payment of $200,2 and
+5 monthly payments totaling approximately $1,260.  Mr. Guido did not dispute these
+numbers.  Specifically, the Debtors made the June, July and August payments, and then
+missed the September, October and November payments.  On December 16, 2006, the
+Debtors made a payment of $586 which was applied to the September and October payments.
+No payments have been made since the double December payment.  Mr. Guido testified that
+he received letters notifying him that he needed to pay after missing the September, October
+and November payments but that he never received a notice to vacate. Mr. Clifton McEntire
+also testified that late notices were sent by the escrow agent, but that no notice to vacate was
+issued as the Contract was not canceled after those late payments.  On February 21, 2006,
+the Debtors were sent a letter informing them that they had 10 days to make the three missed
+payments (November 2005 through January 2006) and the February 2006 payment which
+was then due, or the Contract would be canceled.  The letter specifically provided, in part,
+as follows:
+Please note that if your account is not paid current within 10 days from receipt
+of this letter, the papers will be turned over to the seller.  Your contract will be
+terminated, and become null and void, all monies paid, pursuant to the contract
+agreement, shall be applied as rent.  Furthermore, you will have 30 days in
+which to remove any and all personal property from the premise.  Any and all
+property remaining after the 30 days will be considered as abandoned and will
+become the property of the seller.
+5
+Mr. Guido testified that he received this letter, and that his wife had a conversation with Mr.
+Jimmy McEntire about having a few more days to pay so that they could get their tax refund
+check and use it to pay the account.  Mr. Jimmy McEntire confirmed this conversation in his
+testimony.  Mr. Guido said that they asked Mr. McEntire for a week’s extension, and they
+were told to come back in a week, but that when they came back after a week, they were told
+the Contract had been canceled.  Mr. McEntire testified that during his conversation with
+Mrs. Guido, he told her they had until Friday of that week to pay, and when she did not pay,
+Clifton McEntire had the Contract canceled the following Monday.  Mr. Jimmy McEntire
+testified that Mrs. Guido came in again the following Friday looking for more time, and he
+informed her the Contract had been canceled.
+The Debtors filed bankruptcy under Chapter 13 on April 11, 2006.  They listed the
+Property on their schedules, and listed McEntire as a secured creditor.  The Debtors also
+provided for the contract payments on the Property in their chapter 13 plan as payments on
+a long term secured debt.  On May 11, 2006, McEntire filed its Objection to Confirmation
+in which it objects to the Property’s inclusion in Debtors’ bankruptcy estate and its treatment
+as a secured creditor.
+ANALYSIS
+In bankruptcy, property interests are determined by applicable State law.  See Butner
+v. United States, 440 U.S. 48, 55 (1979) (property interests are created and defined by state
+law).  The issue presented in this case is whether the Debtors have a legal or equitable
+interest in the Contract or the Property such that the Property can be included in their
+3The Jarman Court also noted, “Although the distinction between the two has been
+described as one of form rather than substance, Glenn E. Pasgovel, Jr., Mortgage Substitutes –
+The Law in Arkansas, 9 U. Ark. Little Rock L.J. 433, 447 (1986-87), the supreme court has
+continued throughout the years to draw this distinction.”
+6
+bankruptcy estate.  Specifically, if the Contract is treated as a mortgage or “bond for title”
+under Arkansas law, McEntire would have been required to bring a foreclosure action to
+terminate the Debtor’s interest in the Property.  Further, even if the Contract is treated as an
+executory contract with a valid forfeiture clause rather than a mortgage, the Debtors may
+have an equitable defense that the right of forfeiture has been waived.  That equitable defense
+would constitute an interest in property held by their bankruptcy estate.  See In re Hayes, 101
+B.R. 569, 571 (Bankr. E.D. Ark. 1989).   Accordingly, the Court must first determine
+whether or not the Contract constitutes a mortgage under Arkansas law, and if not, the Court
+must next determine whether the forfeiture clause was waived by McEntire.
+A.
+Equitable Mortgage or Executory Contract with Forfeiture Clause.
+Under Arkansas law, an installment real estate contract may in certain circumstances
+be treated as an equitable mortgage (or as a “bond for title” as such a contract is commonly
+referred to in the Arkansas cases).  See e.g., Robbins v. Fuller, 229 S.W. 8, 10 (Ark. 1921)
+(holding that the effect of a bond for title contract was to create a mortgage under which
+purchaser became equitable owner).  See also Judd v. Reif, 295 S.W. 370, 372 (Ark. 1927);
+In re Jones, 54 B.R. 697 (Bankr. E.D. Ark. 1985) (Mixon, J.).  However, not all contracts for
+the sale of land are to be construed as mortgages.  See Jarman v. Wolfe, 1998 WL 75557, *3
+(Ark. App. 1998) (citing Smith v. Robinson, 13 Ark. 533 (1853).3  Where a land sale contract
+4Glenn E. Pasgovel, Jr., Mortgage Substitutes – The Law in Arkansas, 9 U. Ark. Little
+Rock L.J. 433, 445 (1986-87).
+7
+contains a valid forfeiture clause where time is of the essence (either expressly or by
+implication)4, the forfeiture clause may be enforced and the contract will not be considered
+a mortgage.  See White v. Page, 226 S.W.2d 973, 975 (Ark. 1950) (citations omitted) (“We
+have many cases recognizing that a purchaser’s rights under an executory contract affecting
+real estate may be forfeited pursuant to the contract and without proceedings in law or
+equity.”).  The Court in White further explained:
+In Three States Lumber Company v. Bowen, supra, Chief Justice McCulloch
+said [95 Ark. 529, 129 S.W. 800]:‘While equity will not ordinarily enforce
+forfeitures, still, where the payment of the price of the land is by express letter
+of the contract made a condition upon which the sale depends, courts of equity
+will not refuse to follow the terms of the contract; for to fail to do so would be
+to make a contract for the parties which they had not themselves made.’ It is
+therefore clear that our cases recognize the potential validity of a forfeiture
+clause in an executory contract for the sale of land.
+In Friar v. Baldridge, supra, there was involved a contract for the sale of land,
+and the contract contained a forfeiture clause. Mr. Justice Frauenthal, speaking
+for the Court, said ‘Parties may enter into a valid contract relative to the sale
+of land, whereby they may provide that time of payment shall be of the essence
+of the contract, so that the failure to promptly pay will work a forfeiture. Ish
+v. Morgan, 48 Ark. 413, 3 S.W. 440; Quertermous v. Hatfield, 54 Ark. 16, 14
+S.W. 1096; Block v. Smith, 61 Ark. 266, 32 S.W. 1070.
+In this case, the Contract contained a forfeiture clause which expressly stated that time is of
+the essence.  The clause is similar to that upheld by Arkansas courts.  See White, 226 S.W.2d
+at 974; Jarman, 1998 WL 75557, *1; Humke v. Taylor, 666 S.W.2d 394, 395 (Ark. 1984);
+Abshire v. Hyde, 679 S.W.2d 214, 215-216 (Ark. App. 1984).  Accordingly, provided that
+8
+McEntire is not found to have waived or acquiesced in the Debtors’ breach, the Contract
+should be construed as an executory contract with a valid forfeiture clause and not as a
+mortgage or mortgage substitute.
+B.
+Waiver of Forfeiture Clause.
+Although an executory contract with a valid forfeiture clause may be enforced under
+Arkansas law, the seller may be found to have waived its rights under such clause.  Judge
+James G. Mixon described waiver of forfeiture clauses under Arkansas law in In re Hayes:
+If time is of the essence in an agreement, failure to pay promptly will
+constitute a default for which the seller may declare a forfeiture.  Vernon v.
+McEntire, 232 Ark. 741, 746, 339 S.W.2d 855, 858 (1960);  Friar v.
+Baldridge, 91 Ark. 133, 137, 120 S.W. 989, 991 (1909). However, forfeiture
+provisions may be waived by the conduct of the parties. Courts of equity will
+seize upon slight circumstances to indicate a waiver of the forfeiture provisions
+and prevent unjust enrichment.  Triplett v. Davis, 238 Ark. 870, 872, 385
+S.W.2d 33, 34 (1964); Hatfield v. Mixon Realty Co., 269 Ark. 803, 807, 601
+S.W.2d 894, 896 (1980).  . . . 
+Whether a court of equity will enforce a forfeiture for default by the purchaser
+depends upon the circumstances of the case and the conduct of the forfeiting
+party. Friar v. Baldridge, 91 Ark. at 137, 120 S.W. at 991; Souter v. Witt, 87
+Ark. 593, 600, 113 S.W. 800, 803 (1908).  A seller can waive its right of
+forfeiture if it does not insist on strict compliance with the contract terms
+regarding prompt payment and repeatedly accepts delinquent payments.
+Humke v. Taylor, 282 Ark. at 98, 666 S.W.2d at 396; Triplett v. Davis, 238
+Ark. at 872-73, 385 S.W.2d at 34-35; Braddock v. England, 87 Ark. 393, 395,
+112 S.W. 883, 884 (1908); Welch v. Cooper, 11 Ark.App. 263, 267, 670
+S.W.2d 454, 458 (1984). Granting an extension of time for payment without
+demanding strict compliance in the future has been held to constitute a waiver.
+Vernon v. McEntire, 232 Ark. at 746-47, 339 S.W.2d at 858; Friar v.
+Baldridge, 91 Ark. at 139, 120 S.W. at 992; Banks v. Bowman, 83 Ark. 524,
+527, 104 S.W. 209, 210 (1907). Failure to declare a forfeiture upon past
+defaults may constitute a waiver. Goforth v. Eads, 239 Ark. 861, 864, 394
+S.W.2d 728, 730-31 (1965). Although a seller may have waived its right to
+declare a forfeiture by its past conduct, that right may be reinstated by the
+9
+seller's providing the purchaser with clear and definite notice that a
+delinquency has occurred and allowing the purchaser a reasonable opportunity
+to pay the delinquent amounts before declaring a forfeiture. Ashworth v.
+Hankins, 248 Ark. 567, 573, 452 S.W.2d 838, 841-42 (1970); Note, Land
+Contract-Waiver and Reinstatement of Forfeitures, 24 Ark. L. Rev. 578 (1971).
+101 B.R. 569, 571 (Bankr. E.D. Ark. 1989).  In sum, a seller may waive its rights under a
+forfeiture clause by failing to enforce it.  However, the seller may reinstate its rights under
+the forfeiture clause by giving clear notice to the purchaser that it intends to do so.  Some of
+the Arkansas cases cited below further illustrate this point.  
+For instance, in Triplett v. Davis, supra, the seller was found to have waived its rights
+under a forfeiture clause.  In that case, a notice was sent regarding a delinquent annual
+payment one year, but no forfeiture was declared.  The following year, a partial payment was
+made three days late but a delinquency remained and no notice was sent regarding the
+delinquency or a pending forfeiture.  The delinquency was paid shortly thereafter bringing
+the balance current.  When the following year’s payment was not made, the seller gave
+written notice of the forfeiture but did not send any notice prior to that giving the purchasers
+a last opportunity to pay.  The Arkansas Supreme Court found that “these circumstances had
+the effect of lulling the appellee into an assurance of another extension before declaring a
+forfeiture.”  385 S.W.2d 33, 35.
+On the other hand, in Ashworth v. Hankins, the Arkansas Supreme Court found that
+despite prior leniencies, a seller could enforce its forfeiture rights by providing the purchaser
+with “clear and definite notice” that it would declare a forfeiture if payment was not made
+within a reasonable time.  452 S.W.2d 838, 841-842.  In that case, the sellers sent five letters
+10
+to the purchasers regarding their delinquent payments; the fourth of this series of letters
+stated that a forfeiture would occur if full payment was not made.  The sellers then met with
+the purchasers and agreed to an extension.  A fifth letter was mailed confirming the extended
+deadline.  When payment was not made by that date, the sellers took possession of the
+property.  Id. at 840.  The Court found that despite prior conduct, the “specific granting of
+an extension after this deadline was no basis for [buyers] to believe that still further extension
+would be granted.”  Id. at 841.  Further, the Court stated that, “waiver by conduct such as
+was involved here extends only to the right of forfeiture without notice.”  Id. at 842
+(emphasis added).
+Under the circumstances of this case, the Court finds that McEntire did not waive its
+rights under the forfeiture clause in the Contract.  Although McEntire sent three notices
+regarding delinquent payments during the summer of 2005, and accepted a late payment in
+December 2005, McEntire sent a new notice on February 21, 2006, stating that the Contract
+would be forfeited if the Debtors did not catch up their payments.  The Debtors did not pay
+during the time period provided.  Further, although the Debtors received a short extension
+from Mr. Jimmy McEntire, they also failed to pay by that date, and the Contract was
+subsequently terminated as was provided for in the February 21, 2006 notice.  The Debtors
+were clearly on notice that the Contract would be canceled if they did not pay.  The Court
+finds that these circumstances, like those present in the Ashworth case, do not constitute a
+5Compare Humke v. Taylor, 666 S.W.2d 394, 395 (Ark. 1984) (“The sellers never
+insisted upon strict compliance with the terms of the agreement and instead accepted delinquent
+payments over a period of six years.  In those circumstances, equity will not permit them
+suddenly to change their attitude and abruptly seek to rescind the contract.”).
+6Compare Triplett v. Davis, supra, 385 S.W.2d at 34-35 (Court found in favor of
+purchasers where six of fifteen annual payments had been promptly paid, and the taxes and
+insurance had been paid.  Additionally, the purchasers offered to pay the full balance on the
+Contract, which was less than half of the original purchase price, but seller insisted on canceling
+the Contract.).
+11
+waiver of the forfeiture clause.5 
+Finally, the Court finds that although equity abhors a forfeiture, Triplett v. Davis, 385
+S.W.2d at 34, the facts of this case do not allow Debtors to make a viable equitable argument.
+The Debtors made total payments of approximately $1,660 on a purchase price of $37,350.
+The Debtors never paid property taxes and did not insure the property as required under the
+Contract.  Further, the Debtors received $4,000 “rocking” the Property which devalued the
+Property.  The Court also notes that while the Debtors’ invested $6,000 building a dwelling
+on the Property, Mr. Jimmy McEntire, a licensed realtor, testified that it would be easier to
+sell the Property if the trash, old vehicles and dwelling were moved.  The Court finds Mr.
+McEntire’s testimony credible, and having reviewed the photos of the Property introduced
+into evidence, finds that the dwelling is not a significant improvement on the Property.
+Accordingly, under the facts presented here, equity will not prevent a forfeiture.6
+CONCLUSION
+The Court finds that the Contract at issue is not a mortgage or mortgage substitute, but
+is an executory contract with a valid forfeiture clause.  Further, the Court finds that the
+12
+forfeiture clause was not waived and should be enforced.  Accordingly, the Contract was
+canceled prior to the Debtors’ bankruptcy filing, and they have no legal or equitable interest
+in the Property.  The Debtors must, therefore, modify their schedules and Chapter 13 plan
+to remove the Property and McEntire as a secured creditor. 
+IT IS SO ORDERED.
+___________________________________
+HONORABLE AUDREY R. EVANS
+UNITED STATES BANKRUPTCY JUDGE
+DATE:______________________________
+cc:
+John C. Aldworth, attorney for McEntire
+Jean Madden, attorney for Debtor
+Joyce Bradley Babin, Chapter 13 Trustee
+U.S. Trustee
+June 20, 2006

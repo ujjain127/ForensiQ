@@ -1,0 +1,631 @@
+damping. None of the above processes in early
+lunar evolution are well explored.
+References and Notes
+1. P.-S. Laplace, Traite´ de Me´canique Ce´leste (Paris Duprat,
+Bachlier 1798-1827), vol. 2, book 5, chap. 2.
+2. W. F. Sedgwick, Messenger Math. 27, 171 (1898).
+3. H. Jeffreys, Mem. R. Astron. Soc. 60, 187 (1915).
+4. H. Jeffreys, Mon. Not. R. Astron. Soc. Geophys. Suppl. 4,
+1 (1937).
+5. H. Jeffreys, The Earth (Cambridge Univ. Press, Cambridge,
+1970).
+6. A. S. Konopliv et al., Science 281, 1476 (1998).
+7. J. G. Williams, D. H. Boggs, C. F. Yoder, J. T. Ratcliff,
+J. O. Dickey, J. Geophys. Res. 106, 27933 (2001).
+8. Z. Kopal, Proc. R. Soc. London Ser. A 296, 254 (1967).
+9. P. Goldreich, A. Toomre, J. Geophys. Res. 74, 2555 (1969).
+10. M. Lefftz, H. Legros, Phys. Earth Planet. Inter. 76, 317
+(1993).
+11. K. Lambeck, S. Pullan, Phys. Earth Planet. Inter. 22, 29
+(1980).
+12. S. K. Runcorn, Nature 195, 1150 (1962).
+13. P. Cassen, R. E. Young, G. Schubert, Geophys. Res. Lett. 5,
+294 (1978).
+14. D. J. Stevenson, Proc. Lunar Planet. Sci. Conf. XXXII,
+abstract 1175 (2001).
+15. S. Zhong, M. T. Zuber, J. Geophys. Res. 105, 4153 (2000).
+16. G. A. Neumann, M. T. Zuber, D. E. Smith, F. G. Lemoine,
+J. Geophys. Res. 101, 16841 (1996).
+17. T. Kleine, H. Palme, K. Mezger, A. N. Halliday, Science
+310, 1671 (2005).
+18. C. D. Murray, S. F. Dermott, Solar System Dynamics
+(Cambridge Univ. Press, Cambridge, 1999).
+19. J. Touma, J. Wisdom, Astron. J. 108, 1943 (1994).
+20. R. D. Ray, R. J. Eanes, F. G. Lemoine, Geophys. J. Int. 144,
+471 (2001).
+21. The Hansen functions, Xl,p,q (e), satisfy
+ R
+a
+lcosðpfÞ 0 P
+q
+Xl,p,qðeÞcosðqM˜Þ (32), where f is the
+true anomaly and M˜ is the mean anomaly. For our
+purposes, l 0 –3. The Hansen functions are also called
+Hansen coefficients, and the expansions in e to fourth
+order can be found in table 3.2 of (33), albeit with a
+different subscript convention.
+22. S. J. Peale, P. Cassen, Icarus 36, 245 (1978).
+23. C. F. Yoder, in Global Earth Physics, T. J. Ahrens, Ed.
+(American Geophysical Union, Washington, DC, 1995), p. 1.
+24. The simple average of two different sets of parameters b, g,
+and C20 may take place during the transition from the state
+of low relaxation time to the state of long relaxation time.
+During this time, the Moon is plastic enough to accommo-
+date changes in form, yet stiff enough to retain some
+signature of its state when freeze-in started. Indeed, the
+Moon is necessarily a sum of different orbits, however close
+or far apart, if the fossil bulge hypothesis is valid.
+25. P. Goldreich, Mon. Not. R. Astron. Soc. 126, 257 (1963).
+26. S. J. Peale, Celest. Mech. Dyn. Astron. 87, 129 (2003).
+27. J. Touma, J. Wisdom, Astron. J. 115, 1653 (1998).
+28. E. Kokubo, S. Ida, J. Makino, Icarus 148, 419 (2000).
+29. P. Goldreich, S. J. Peale, Astron. J. 71, 425 (1966).
+30. S. J. Peale, in Satellites, J. A. Burns, Ed. (Univ. of Arizona
+Press, Tucson, 1978), p. 87.
+31. Mercury’s unnormalized coefficients C20 0 6  10j5 T
+2.0 and C22 0 1  10j5 T 0.5 (34) are not reproduced
+by any orbit-spin resonance at Mercury’s current
+semimajor axis.
+32. H. C. Plummer, An Introductory Treatise on Dynamical
+Astronomy (Dover, New York, 1960).
+33. W. M. Kaula, Theory of Satellite Geodesy (Dover,
+New York, 1966).
+34. J. D. Anderson, G. Colombo, P. B. Esposito, E. L. Lau,
+G. B. Trager, Icarus 71, 337 (1987).
+35. We are grateful to B. Hager and B. Weiss for helpful
+comments. This work was supported by NASA Planetary
+Geology and Geophysics Program grants (to M.T.Z.
+and J.W.).
+3 April 2006; accepted 8 June 2006
+10.1126/science.1128237
+Smoke and Pollution Aerosol
+Effect on Cloud Cover
+Yoram J. Kaufman1 and Ilan Koren2*
+Pollution and smoke aerosols can increase or decrease the cloud cover. This duality in the effects of
+aerosols forms one of the largest uncertainties in climate research. Using solar measurements from
+Aerosol Robotic Network sites around the globe, we show an increase in cloud cover with an increase
+in the aerosol column concentration and an inverse dependence on the aerosol absorption of sunlight.
+The emerging rule appears to be independent of geographical location or aerosol type, thus
+increasing our confidence in the understanding of these aerosol effects on the clouds and climate.
+Preliminary estimates suggest an increase of 5% in cloud cover.
+A
+erosol particles originating from urban
+and industrial pollution or smoke from
+fires have been shown to affect cloud
+microphysics, cloud reflection of sunlight to
+space, and the onset of precipitation (1, 2). De-
+lays in the onset of precipitation can increase
+the cloud lifetime and thereby increase cloud
+cover (3, 4). Research on the aerosol effect on
+clouds and precipitation has been conducted
+for half a century (5). Although we well un-
+derstand the aerosol effect on cloud droplet
+size and reflectance, its impacts on cloud
+dynamics and regional circulation are highly
+uncertain (3, 5–9) because of limited observa-
+tional information and complex processes that
+are hard to simulate in atmospheric models
+(10, 11). Indeed, global model estimates of the
+radiative forcing due to the aerosol effect on
+clouds range from 0 to –5 W/m2. The reduc-
+tion of this uncertainty is a major challenge in
+improving climate models.
+Satellite measurements show strong systematic
+correlations among aerosol loading, cloud cover
+(12), and cloud height over the Atlantic Ocean (13)
+and Europe (14), making the model estimates of
+aerosol forcing even more uncertain. However,
+heavy smoke over the Amazon forest (15) and pol-
+lution over China (16) decrease the cloud cover by
+heating the atmosphere and cooling the surface
+(17) and may balance some of this large negative
+forcing. Global climate models also show a reduc-
+tion in cloud cover due to aerosol absorption (tabs)
+outside (18) and inside the clouds (19). In addition,
+the aerosol effect on slowing down the hydrolog-
+ical cycle by cooling parts of the oceans (1) may
+further reduce cloud formation and the aerosol
+forcing. Understanding these aerosol effects on
+clouds and climate requires concentrated efforts
+of measurement and modeling of the effects.
+There are several complications to devising a
+strategy to measure the aerosol effect on clouds.
+Although clouds are strongly affected by varying
+concentrations of aerosol particles, they are driven
+by atmospheric moisture and stability. Local var-
+iations in atmospheric moisture can affect both
+cloud formation and aerosol humidification, re-
+sulting in apparent correlations between aerosol
+column concentration and cloud cover (12, 13, 20).
+In addition, chemical processing of sulfates in
+clouds can affect the aerosol mass concentration
+for aerosol dominated by sulfates.
+We attempt to address these issues by intro-
+ducing an additional measurement dimension. We
+stratified the measurements of the aerosol effect
+on cloud cover as a function of tabs of sunlight,
+thus merging in one experiment both the aerosol
+enhancement and inhibition of cloud cover.
+Because the concentration of the absorbing
+component of aerosols is a function of the aerosol
+chemical composition, rather than aerosol humid-
+ification in the vicinity of clouds,this concentration
+can serve as a signature for the aerosol effect on
+clouds. A robust correlation of cloud cover with
+aerosol column concentration and tabs in different
+locations around the world can strengthen the
+quantification of the aerosol effect on cloud
+cover, though a direct cause-and-effect relation-
+ship will await detailed model simulations.
+1NASA/Goddard Space Flight Center, 613.2, Greenbelt, MD
+20771, USA. 2Department of Environmental Sciences and
+Energy Research, Weizmann Institute, Rehovot 76100, Israel.
+*To whom correspondence should be addressed. E-mail:
+ilan.koren@weizmann.ac.il
+Table 1. Slopes and intercepts of Dfci/Dlnt ver-
+sus tabs (Fig. 3A) for the complete data set (All
+data), continental data dominated by air pollu-
+tion aerosol, coastal stations, and stations domi-
+nated by biomass burning. Results are given for
+(i) absolute change of the independent cloud
+fraction Dfci versus the optical depth Dfci/Dlnt
+and for (ii) partial change dfci/dlnt from a mul-
+tiple regression of Dfci with lnt and total pre-
+cipitable water vapor.
+Slope
+versus tabs
+Intercept
+for tabs 0 0
+Dfci/Dlnt dfci/dlnt Dfci/Dlnt dfci/dlnt
+All data
+–3.5
+–2.6
+0.17
+0.13
+Continental
+–3.2
+–2.6
+0.16
+0.13
+Coastal
+–3.4
+–1.9
+0.17
+0.11
+Biomass
+burning
+–4.0
+–3.5
+0.18
+0.14
+www.sciencemag.org
+SCIENCE
+VOL 313
+4 AUGUST 2006
+655
+REPORTS
+The satellite analysis (12–16) may be affected
+by potential cloud artifacts (21). Therefore, instead
+of satellite data, we use measurements obtained by
+Aerosol Robotic Network (AERONET) sunpho-
+tometers (22, 23) in 17 sites with long data records
+and representing different aerosol and climatic
+regimes (Fig. 1). AERONET measures the aerosol
+attenuation of sunlight in cloud-free conditions.
+Although the sunphotometer was not designed to
+measure cloud cover, clouds affect the interval
+between consecutive aerosol measurements. We
+distinguished aerosols from clouds by using
+spectral variability of three consecutive measure-
+ments within 1 min (24). The interval is usually 15
+min, but it is too variable to derive the actual cloud
+cover; however, we can use a systematic variation
+in the intervals with the aerosol optical thickness t
+to derive the change in the cloud cover.
+To develop the relationship between the cloud
+cover and the interval of measurements, let N0 be
+the instrumental average rate of measurements
+per unit of time in the absence of clouds and N
+be the rate of measurements for a given cloud
+fraction fc so that
+N 0 N0ð1 j fcÞ
+ð1Þ
+where fc is the fraction of the time in which the
+sunphotometer will detect the cloud and not report
+aerosol data. The intervals in the sunphotometer
+measurements are correspondingly T 0 1/N and
+T0 0 1/N0, where T is the interval between mea-
+surements for fc and T0 is the interval between
+measurements for a cloud-free sky. Therefore
+fc 0 1 j T0
+T
+ð2Þ
+Differentiating with respect to the logarithm
+of t, a measure of the aerosol column concentra-
+tion, gives
+dfc
+dlnt 0 T0
+T 2
+dT
+dlnt or, using Eq: 2:
+dfc
+dlnt 0 1
+T ð1 j fcÞ dT
+dlnt
+ð3Þ
+where dfc/dlnt and dT/dlnt are the derivatives of
+fc and T, with respect to the logarithm of t. As
+the cloud field expands because of an increase in
+the size or lifetime of the cloud, an overlap
+among the clouds will mask part of the aerosol
+effect proportionally to the cloud fraction. This
+distorts the aerosol effect, particularly for high
+cloud cover. Therefore, we defined the inde-
+pendent cloud cover change dfci as
+dfci 0
+dfc
+ð1 j fcÞ 0 dT
+T
+ð4Þ
+and used it instead of dfc in this paper. We also
+tested the AERONET-derived cloud cover against
+total sky pyranometer measurements (fig. S1).
+Figure 2 shows three scatterplots of the in-
+terval between adjacent AERONET measure-
+ments as a function of t for different values of
+tabs. For each site, 3 to 5 years_ worth of data
+are separated for every 2 calendar months. We
+also used the AERONET measurements of tabs
+(25, 26). tabs is accurate within T0.01 for a sin-
+gle calibration data set and within T0.003 for 5
+years of data with approximately six indepen-
+dent calibrations (25, 26). We used tabs rather
+than a single scattering albedo because tabs has
+very small sensitivity to possible cloud contam-
+ination and aerosol humidification. Subvisible
+clouds, although affecting the scattering in the
+atmosphere, have almost no effect on absorption
+and therefore have little influence on tabs. As the
+aerosol concentration increases, both the scattering
+and absorption increase, competing for their ef-
+fects on the cloud cover. We provide the average
+values of tabs for each data set (Figs. 2 and 3),
+Fig. 1. Global distribution of the AERONET sunphotometers used in the analysis. The background is
+the average t (a measure of the aerosol column concentration) for the year 2004 measured by
+MODIS on the Terra satellite. Green stars, continental sites in North America, Europe, and Asia; blue
+stars, marine locations in North America, the Mediterranean region, and Asia; red stars, biomass-
+burning sites in Africa and South America.
+Fig. 2. Scatterplots of
+the time interval between
+two adjacent AERONET
+aerosol measurements that
+were not obscured by
+clouds, as a function of
+the average t around the
+interval. The three exam-
+ples are for low tabs (blue
+line and triangles; Rome,
+Italy from September to
+October; tabs 0 0.011),
+medium tabs (red line
+and triangles; Mexico
+City, Mexico from July to
+August; tabs 0 0.025),
+and high tabs (black line
+and circles; Beijing, China
+from September to Octo-
+ber; tabs 0 0.042). Four
+years of data were used
+for each site for the 2
+calendar months. The da-
+ta were sorted by t and
+averaged in groups of
+100. The error bars are the standard error for each point. The corresponding changes in the cloud cover,
+Dfci/Dlnt, are shown.
+4 AUGUST 2006
+VOL 313
+SCIENCE
+www.sciencemag.org
+656
+REPORTS
+representing the value of absorption that competes
+with the number of potential cloud condensation
+nuclei in determining the cloud fraction.
+In order to study the effect of pollution and
+smoke aerosols, we restricted the data to locations
+and periods with minimal dust influence. To have
+enough points for each time increment, we also
+restricted the data to cloud systems that passed
+over the site during no more than 3 hours (27). As
+a result, the observations were weighted toward
+meteorological systems with broken clouds.
+The results for the change in cloud cover
+Dfci with a change in Dlnt are shown in Fig. 3
+(see also table S1). Every point represents an
+analysis of È3000 measurements. A linear fit
+to all of the data shows that
+Dfci
+Dlnt 0 ð0:17 T 0:01Þ j ð3:5 T 0:5Þtabs ð5Þ
+with a correlation of r 0 0.69.
+Uncertainties are represented by the stan-
+dard errors in the average values, and the 95%
+confidence level range of the slopes is between
+–2.6 and –4.4. There is a smooth transition
+from aerosol enhancement of cloud cover to
+aerosol decrease of the cloud cover (Fig. 3).
+Does Eq. 5 represent the aerosol effect on
+cloud cover, cloud processing of aerosols, or
+coincidental variations of clouds and aerosol
+with the meteorological field? To address this
+question, we subdivided the data in Fig. 3A into
+three geographical regions (colored stars in
+Fig. 1): continental Northern Hemisphere sites
+with pollution aerosols, coastal marine sites,
+and biomass-burning sites in Africa and South
+America (25, 26, 28). These regions differ in
+aerosol and cloud properties; however, the slope
+of Dfci/Dlnt versus tabs for these regions varies
+within the uncertainty range of Eq. 5.
+The fact that we have the same relationship
+for smoke and pollution aerosol is of special
+importance. Pollution aerosol is strongly hygro-
+scopic, and thus variation in the humidity from
+0% to 85% can triple the value of t (29). Smoke
+is much less hygroscopic; an increase in the
+humidity to 85% increases t by only 20% (30).
+The similarity in the regressions shows that it is
+unlikely that aerosol humidification in conditions
+that favor cloud formation is responsible for the
+increase of cloud cover with either an increase in
+aerosol concentration or its decrease with the
+introduction of tabs. The same can be said about
+cloud processing, which affects pollution aerosol
+through sulfate production, which is not impor-
+tant for aerosols produced by biomass burning.
+To address possible effects from seasonal vari-
+ability, we subdivided the data in Fig. 3B based on
+season (winter to spring and summer to fall) in
+the Northern Hemisphere and year-long data in
+the Tropics. Alternatively in Fig. 3C, weseparated
+thedataby thecloud-top temperature(Tc) obtained
+from Moderate Resolution Imaging Spectro-
+radiometer (MODIS) satellite data (31, 32). In
+all of these cases, the slopes of Dfci/Dlnt versus
+tabs varied within the uncertainty of Eq. 5.
+To what degree can the relationship in Eq. 5
+be influenced by atmospheric dynamics? Con-
+vergence zones and updrafts can increase the
+depth of the boundary layer, the column con-
+centration of aerosols, and total precipitable
+water vapor. They can also promote cloud cover
+(33). Analysis of aerosol and water vapor sep-
+arately for each location and season shows sig-
+nificant correlations between t and the total
+precipitable water vapor (Fig. 3), which is a
+possible indication of the effect of convergence.
+The results, summarized in Table 1, show that
+È25% of the relationship of Dfci with t may be
+associated with variation of the precipitable water
+vapor. As expected, the effects are stronger for
+Fig. 3. Regional (A),
+seasonal (B), and Tc
+(C) analyses of the
+AERONET data for the
+effect of aerosols on
+cloud cover. Dfci/Dlnt
+was plotted as a function
+of tabs. Each point rep-
+resents an analysis of
+È3000 measurements
+from a given location
+and 2 calendar months
+averaged over 3 to 5
+years. (A) Green sym-
+bols indicate continen-
+tal sites, blue symbols
+indicate marine sites,
+and red symbols indi-
+cate biomass-burning
+sites. For distribution
+of the sites, see Fig. 1.
+Error bars are printed
+for three representative
+points and indicate the
+average uncertainties in
+the least-squares fit used
+for individual points and the estimated error in tabs. (B) The same data as in (A) separated into
+Northern Hemisphere (NH) and tropical region along 25-N. The NH data are separated into winter
+(November to April) and summer (May to October). (C) The same data as in (A) sorted by Tc as
+determined from the MODIS satellite instrument for each 2-calendar-month period. Blue, Tc G
+265 K; green, 265 K G Tc G 275 K; red, Tc 9 275 K.
+www.sciencemag.org
+SCIENCE
+VOL 313
+4 AUGUST 2006
+657
+REPORTS
+pollution aerosol in the Northern Hemisphere than
+for biomass burning in the tropics, where the dry
+season is associated with smaller meteorological
+variability (34).
+We found a consistent relationship between an
+increase in the cloud fraction and an increase in t
+(representing column concentration), as well as a
+decrease in tabs. The relationship is invariant to
+the location or to the aerosol type. About 25% of
+the relationship of clouds to aerosol can be ex-
+plained by the variation of total precipitable water
+vapor and may be associated with atmospheric
+convergence. What are the consequences of this
+systematic effect of aerosol on the cloud cover?
+We used the limited global sample of aerosol
+interaction with clouds from Fig. 3 to roughly
+estimate the global average anthropogenic aerosol
+impact on cloud cover over the oceans. For a
+global average aerosol (excluding dust) single
+scattering albedo of 0.92 T 0.05 (25, 26) and an
+average total optical depth value of t 0 0.093 T
+0.02 over the oceansEcomposed oft 0 0.06 T 0.01
+(for baseline natural aerosol) and t 0 0.033 T
+0.01 (for anthropogenic aerosols) (35, 36)^, we
+obtained a tabs value of 0.007 T 0.005. From
+Table 1, we acquired a dfci/dlnt value of 0.11 T
+0.02. Anthropogenic aerosol increases the fine
+t over the oceans, which provide most of the
+cloud condensation nucleii, from baseline values
+of 0.03 T 0.01 to 0.065 T 0.02 (35, 36). For an
+average cloud cover of 0.6, the increase in t
+corresponds to a change in cloud cover of
+Dfc 0 Dfcið1 j fcÞ 0 0:11 Dlnt ð1 j 0:6Þ
+0 0:03 T 0:01
+ð6Þ
+The spatial distributions of aerosol over the
+oceans and their absorption properties are highly
+heterogeneous. Consequently, the estimated av-
+erage impact is uncertain and should be viewed as
+a first approximation. The clouds sampled by the
+AERONET procedure do not include extended
+cloud systems that are sensitive to aerosol effect.
+The analysis applies to urban industrial pollution
+and aerosol produced by biomass burning rather
+than land-use–generated dust.
+The relationship between cloud cover and
+aerosol given by Eq. 5 can serve as a constraint
+on models of the aerosol and cloud interaction,
+independently of the cause-and-effect relationship.
+The robustness of the effect of aerosols on clouds,
+presented here, makes it more likely that most of
+the observed changes in the cloud cover are due
+to the aerosol impact. The large effect of elevated
+aerosol concentration on cloud cover, an increase
+of 0.03 (5%) in average cloud cover (Eq. 6), can
+have a profound effect on the hydrological cycle
+and climate.
+References and Notes
+1. V. Ramanathan et al., Science 294, 2119 (2001).
+2. J. Haywood, O. Boucher, Rev. Geophys. 38, 513 (2000).
+3. B. A. Albrecht, Science 245, 1227 (1989).
+4. L. D. Rotstayn, Y. G. Liu, Geophys. Res. Lett. 32,
+10.1029/2004GL021922 (2005).
+5. R. Gunn, B. B. Phillips, J. Meteorol. 14, 272 (1957).
+6. S. Menon et al., J. Atmos. Sci. 59, 692 (2002).
+7. K. M. Lau, M. K. Kim, K. M. Kim, Clim. Dyn.
+10.1007/s00382-006-0114 (2006).
+8. D. Rosenfeld, Science 287, 1793 (2000).
+9. M. O. Andreae et al., Science 303, 1337 (2004).
+10. A. S. Ackerman et al., Science 288, 1042 (2000).
+11. J. E. Penner et al., Climate Change 2001: The Scientific
+Basis, J. T. Houghton et al., Eds. (Cambridge Univ. Press,
+New York, 2001), pp. 289–348.
+12. Y. J. Kaufman, I. Koren, L. A. Remer, D. Rosenfeld,
+Y. Rudich, Proc. Natl. Acad. Sci. U.S.A. 102, 11207 (2005).
+13. I. Koren, Y. J. Kaufman, L. A. Remer, D. Rosenfeld, Y. Rudich,
+Geophys. Res. Lett. 32, 10.1029/2005GL023187 (2005).
+14. A. Devasthale, O. Kruger, H. Grassl, IEEE J. Trans. Geosci.
+Remote Sens. 2, 333 (2005).
+15. I. Koren, Y. J. Kaufman, L. A. Remer, J. V. Martins, Science
+303, 1342 (2004).
+16. O. Kruger, H. Grassl, Geophys. Res. Lett. 31,
+10.1029/2001GL014081 (2004).
+17. G. Feingold, H. L. Jiang, J. Y. Harrington, Geophys. Res.
+Lett. 32, 10.1029/2004GLO21369 (2005).
+18. J. Hansen, M. Sato, R. Ruedy, J. Geophys. Res. 102, 6831
+(1997).
+19. M. Z. Jacobson, J. Phys. Chem. A 110, 6860 (2006).
+20. M. Sekiguchi et al., J. Geophys. Res. 108,
+10.1029/2002JD003359 (2003).
+21. J. Zhang, J. S. Reid, B. N. Holben, Geophys. Res. Lett. 32,
+10.1029/2005GL023254 (2005).
+22. B. N. Holben et al., Remote Sens. Environ. 66, 1 (1998).
+23. B. N. Holben et al., J. Geophys. Res. 106, 12067 (2001).
+24. Y. J. Kaufman, G. P. Gobbi, I. Koren, Geophys. Res. Lett.
+33, 10.1029/2005GL025478 (2006).
+25. O. Dubovik et al., J. Atmos. Sci. 59, 590 (2002).
+26. Y. J. Kaufman, O. Dubovik, A. Smirnov, B. N. Holben,
+Geophys. Res. Lett. 29, 10.1029/2001GL014399 (2002).
+27. The locations were selected outside of the African dust
+range. We used only periods with average A˚ngstrom
+exponent A˚ 9 1, t 9 0.10, and at least 1000 points. These
+conditions also excluded Asian dust. The requirement of
+1000 points ensured that, for the variation of lnt of 0.7 and
+the measured average standard deviation of Dfci of 0.6, we
+get uncertainty in variation of Dfci/Dlnt G 0.03. Individual
+AERONET data points were selected for solar zenith angle G
+60-, t G 1, and measurement interval G3 hours.
+28. L. A. Remer, Y. J. Kaufman, Atmos. Phys. Chem. 6, 237
+(2006).
+29. R. A. Kotchenruther, P. V. Hobbs, D. A. Hegg, J. Geophys.
+Res. 104, 2239 (1999).
+30. Y. J. Kaufman et al., J. Geophys. Res. 103, 31,783
+(1998).
+31. M. D. King, Y. J. Kaufman, P. Menzel, D. Tanre´, IEEE J.
+Trans. Geosci. Remote Sens. 30, 2 (1992).
+32. Giovanni MODIS Online Visualization and Analysis System
+(MOVAS) (http://lake.nascom.nasa.gov/movas/ ).
+33. M. D. Chou, P. K. Chan, M. H. Wang, J. Atmos. Sci. 59,
+748 (2002).
+34. Y. J. Kaufman, R. S. Fraser, Science 277, 1636 (1997).
+35. Y. J. Kaufman, A. Smirnov, B. N. Holben, O. Dubovik,
+Geophys. Res. Lett. 28, 3251 (2001).
+36. Y. J. Kaufman et al., Geophys. Res. Lett. 32,
+10.1029/2005GL023125 (2005).
+37. We thank T. Eck, B. Holben, L. Remer, J. Lu, E. Wilcox,
+and many others, including anonymous reviewers, for
+comments on the work; the AERONET project for maintain-
+ing consistent high data quality and easy availability and
+use of the data worldwide; and the numerous AERONET site
+principal investigators for their efforts in establishing and
+maintaining the sites. I.K. is the incumbent of the Benjamin
+H. Swig and Jack D. Weiler Career Development Chair.
+Supporting Online Material
+www.sciencemag.org/cgi/content/full/1126232/DC1
+Materials and Methods
+Fig. S1
+Table S1
+14 February 2006; accepted 21 June 2006
+Published online 13 July 2006;
+10.1126/science.1126232
+Include this information when citing this paper.
+Crustal Dilatation Observed by
+GRACE After the 2004
+Sumatra-Andaman Earthquake
+Shin-Chan Han,1* C. K. Shum,1 Michael Bevis,1 Chen Ji,2 Chung-Yen Kuo1
+We report the detection of an earthquake by a space-based measurement. The Gravity Recovery and
+Climate Experiment (GRACE) satellites observed a T15-microgalileo gravity change induced by the
+great December 2004 Sumatra-Andaman earthquake. Coseismic deformation produces sudden
+changes in the gravity field by vertical displacement of Earth’s layered density structure and by
+changing the densities of the crust and mantle. GRACE’s sensitivity to the long spatial wavelength
+of gravity changes resulted in roughly equal contributions of vertical displacement and dilatation
+effects in the gravity measurements. The GRACE observations provide evidence of crustal dilatation
+resulting from an undersea earthquake.
+T
+he devastating 26 December 2004 Sumatra-
+Andaman undersea earthquake, with a
+moment magnitude (Mw) between 9.1
+and 9.3, ruptured more than 1000 km of a locked
+subduction interface near northern Sumatra,
+Nicobar, and the Andaman islands (1). Measure-
+ments from global seismic network and Global
+Positioning System (GPS) stations have been used
+to infer the coseismic slip history of this event
+(1–4). The earthquake permanently changed the
+mass distribution within Earth and has conse-
+quently perturbed the motion of Earth-orbiting
+satellites by an amount that is measurable from the
+ranging instrument onboard the Gravity Recovery
+and Climate Experiment (GRACE) satellites (5).
+GRACE consists of two identical satellites co-
+orbiting at low altitude (È450 km), separated by
+1Geodetic Science, Department of Geological Sciences,
+Ohio State University, 275 Mendenhall Laboratory, 125
+South Oval Mall, Columbus, OH 43210–1398, USA.
+2Department of Earth Sciences, University of California at
+Santa Barbara, Santa Barbara, CA, USA.
+*To whom correspondence should be addressed. E-mail:
+han.104@osu.edu
+4 AUGUST 2006
+VOL 313
+SCIENCE
+www.sciencemag.org
+658
+REPORTS

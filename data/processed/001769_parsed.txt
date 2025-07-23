@@ -1,0 +1,636 @@
+Charge and orbital ordered phases of La2−2xSr1+2xMn2O7−
+H. Zheng, Qing’An Li, K. E. Gray, and J. F. Mitchell
+Materials Sciences Division, Argonne National Laboratory, Argonne, Illinois 60439, USA
+Received 30 June 2008; published 3 October 2008
+Our studies have signiﬁcantly modiﬁed the conventionally held view of the phase diagram of
+La2−2xSr1+2xMn2O7− for two compositions exhibiting charge and orbital order CO, i.e., at hole-doping
+levels, h=x−, of 0.5 and 0.6. These CO states are stable over very narrow doping ranges h
+ 0.005 at the lowest temperatures, but those ranges increase at higher temperatures to h 0.02 in a
+manner consistent with simple entropy considerations. Such narrow ranges dictate the crucial need for crystal
+homogeneity. Attesting to such homogeneity is a conductivity ratio of 1010 upon crossing the ﬁrst-order
+phase boundary from CO at h=0.60 to A-type antiferromagnetic AAFM at h0.59 or h0.61 plus two
+ﬁndings that were missed in the existing literature: that these CO phases are the ground state at the lowest
+temperatures, and for h0.5, that coexistence of the CO and AAFM phase is absent at any temperature.
+DOI: 10.1103/PhysRevB.78.155103
+PACS numbers: 75.30.Et, 75.60.d
+Reduced dimensionality can aid the quest to better under-
+stand strongly correlated electrons since its reduction of the
+mean-ﬁeld ordering temperature can expose competing inter-
+actions through more prominent ﬂuctuations. For manga-
+nites1 there is a vigorous competition among orbital,
+charge,
+and
+spin
+order;
+and
+in
+bilayer
+compounds,2
+La2−2xSr1+2xMn2O7−, this competition is readily apparent in
+the ﬂuctuations seen in the paramagnetic PM insulator
+phases above their ordering temperatures.3 For example the
+PM phase for hole doping, h=x−0.4, reveals charge4 and
+polaronic5 ﬂuctuations competing with ferromagnetic FM
+spin ﬂuctuations6 that eventually win out at its Curie point.
+The backbone of such scientiﬁc inquiry is to establish the
+ground states across the accessible range of h that include3
+fully FM spin order, two versions of A-type antiferromag-
+netic AAFM order FM monolayers with AFM orientation
+within the bilayer and for h0.3, FM bilayers with AFM
+orientation between them, charge and orbital ordered CO
+states “checkerboard” ordering with the CE-type magnetic
+order7 for h0.5 and more complex CO for h0.6 and
+0.67, and a variety3 of other types of AFM order for h
+0.67.
+Here we emphasize the narrow, needlelike regions in the
+phase diagram of Fig. 1: the CO phase at h0.5 was re-
+ported previously8 and we now report a systematic study for
+the CO phase found for h0.6. These CO phases appear to
+interrupt and replace the “background” AAFM that otherwise
+would exist continuously from h0.48 to at least h0.61.
+Previous to Ref. 8, it had been commonly accepted that CO
+at h=0.5 was re-entrant,9–15 forming below 210 K, but
+then being replaced by an AAFM below 100 K. This lack
+of a low-temperature CO ground state was surprising as it is
+found at h=0.5 in many perovskite manganites.16 In bilayer
+manganites, coexistence of CO and AAFM between 100
+and 200 K had also been universally reported.9–12,14 To
+reveal the intrinsic behavior8 required a high degree of crys-
+tal homogeneity that was veriﬁed through the use of multi-
+terminal transport measurements see the Appendix that
+critically evaluate homogeneity and provide feedback to
+crystal growth. Such results for h0.5 showed that the CO
+phase does exist at low temperatures and no coexistence was
+found.8
+The following 1 presents experiments that systemati-
+cally map the qualitative features of the needlelike phase for
+h0.6; 2 presents experiments directly addressing oxygen
+nonstoichiometry; 3 presents a simpliﬁed entropy argument
+to support the qualitative shape of the needlelike phases; 4
+reports the transport properties of pure CO crystals at h
+=0.6; and 5 frames some unanswered questions exposed by
+new features in the modiﬁed phase diagram.
+A review of our methodology to provide adequate crystal
+homogeneity is given in the Appendix, but it is important to
+emphasize that homogeneity is a separate issue from abso-
+FIG. 1. Color online Modiﬁed phase diagram for the bilayer
+manganite, La2−2xSr1+2xMn2O7. The needlelike CO phase at
+h=x−d=0.5 was reported recently Ref. 8 and that for the CO
+phase at 0.6 is reported here. The ab-plane-metallic A-type AFM
+phase occurs at Ref. 24 h0.58 and Ref. 19 h0.59 and here
+reported for h0.61. The upper limit of h for this ab-plane metal is
+unknown and the lower limit is poorly known. The previously re-
+ported bilayer phases for h0.48, FM metal, canted FM CFM,
+and AFM-oriented FM bilayers, are indicated for completeness. We
+presently have insufﬁcient data to establish the potentially interest-
+ing detailed behavior in the vicinity of h0.46, where the FM
+metallic and AAFM insulator phases collide, or near h0.55 or for
+h0.61.
+PHYSICAL REVIEW B 78, 155103 2008
+1098-0121/2008/7815/1551037
+©2008 The American Physical Society
+155103-1
+lute hole-doping level, h. For a nominal Sr doping in the
+polycrystalline feed rod, x0 an obvious abbreviation for the
+actual Sr content per formula unit, 1+2x0, the ﬁrst crystal-
+lization in the ﬂoating zone is known17 to occur at xx0 for
+La2−2xSr1+2xMn2O7−. In the following, we assume there are
+no instabilities during growth; then x rises and settles to x0
+by the central part of the boule, and if growth is continued to
+the end of the feed rod, the last zone length will compensate
+with xx0. Thus, x0 is inadequate for determining the Sr
+doping, x, of individual crystals extracted from the boule. It
+is especially unreliable if growth instabilities interrupt the
+above scenario, but variable oxygen nonstoichiometry, ,
+could also contribute to uncertainties in h=x−. Consistent
+with our own experience, the reports of others9–15,18 show
+widely variable properties for nominal “x0=0.5.” Consider-
+ing the precision on h that is needed, we have not found
+adequate nondestructive, or even destructive, quantitative
+analyses e.g., energy dispersive x-ray spectroscopy and in-
+ductively coupled plasma-atomic emission spectroscopy are
+accurate to 2–3% at best. Thus only a qualitative hole-
+doping scale, based on the measured physical properties, was
+used in Ref. 8. Due to the difﬁculty of quantifying h and x, in
+our samples, or those in literature, the following nomencla-
+ture will be adopted. Clearly by x0 we mean the starting or
+nominal composition of the boule, and it is the only infor-
+mation we have for data from the literature and many of our
+crystals. The actual x is most likely smaller than, but cer-
+tainly not greater than, x0 for stable growth. As our slow-cool
+protocol precludes negative , the actual h is most likely
+smaller than, but not greater than, x. Our use of h, x, or x0
+throughout the paper reﬂects either the most physically rel-
+evant one for the discussion at hand or the “best”—or only—
+known value. We now discuss our control of x and  in turn.
+A compelling realization of the qualitative doping-
+dependent phase diagram of CO states is reported here for
+hhCO=0.6, even if it is still only semiquantitative. In this
+experiment, the nominal Sr composition, x0, of the polycrys-
+talline feed rod was 0.61, and growth proceeded without in-
+stabilities until a crack formed near the very end. Eleven
+samples were extracted from various positions along the re-
+sulting boule see top of Fig. 2 and their transitions mea-
+sured by magnetization. In earlier works we showed8,19 the
+equivalence of magnetization, transport, and x rays for iden-
+tifying CO. Such transition temperatures are plotted in Fig. 2
+as a linear function of crystal number 1–11 and not distance
+along the boule. The data that precede these on the plot came
+from two samples extracted19 from a boule with x0=0.60,
+and they have been assigned a qualitative position based on
+their transition temperatures. An additional data point for
+x0=0.58 shows a single, direct transition from PM to AAFM.
+The abscissa of Fig. 2 is clearly a qualitative scale of h, but
+some ﬁxed points can be assigned. The ﬁnal three samples
+9–11 exhibit barely distinguishable transition temperatures
+and span about a third of the boule length. It is reasonable to
+assign these to x=x0=0.61, while the three samples 4–6
+that do not show the AAFM phase at low temperature are
+strongly expected to represent the CO state centered at hCO
+=0.60.
+Then based on the data of Fig. 2, one can imagine that
+crystals reported in literature may be inadvertently under-
+doped, i.e., x less than the nominally quoted x0. The amount
+of underdoping, which can be as much as 0.02 or possibly
+more, is estimated from the data of Fig. 2 for h0.6 by
+assuming a reasonably symmetric effect on transition tem-
+peratures with h−hCO. Extrapolating this trend to nominal
+“x0=0.5” doping could begin to explain the widely variable
+properties reported,8–15,18 and why, if the initial part of the
+boule were used, the resulting range of doping could simu-
+late coexistence.
+We now address oxygen nonstoichiometry. The bilayer
+manganites seem to be far less susceptible to oxygen non-
+stoichiometry than perovskite manganites, and recent studies
+ﬁnd20 for polycrystalline x=0.4 samples that , “which was
+controlled by postannealing and quenching,” was 0.005 us-
+ing temperatures in the range of 600–1200 °C. For zone-
+growth boules, the thermal history of crystals depends on
+their position in the boule, i.e., the initial part cools continu-
+ously and slowly while the boule moves through the hot zone
+at 6 mm/h, while the ﬁnal part will experience a different
+history. This uncertainty can be mitigated by oxygen anneal-
+FIG. 2. Color online Schematic, qualitative phase diagram
+near h=0.6. Symbols are measured transition temperatures squares
+represent PM insulator to CO state; circles represent CO state to
+AAFM taken at various positions along a boule top drawing of
+nominal composition x0=0.61. They are plotted as a linear function
+of crystal number and not distance along the boule. Crystals 9
+through 11 exhibit indistinguishable transitions and are anticipated
+to be at the same value of x=x0=0.61. Additional data come from
+crystals made of a nominally x0=0.60 boule unﬁlled symbols
+placed at positions suggested by their transition temperatures and
+x0=0.58 boule ﬁlled diamond that is a direct transition from PM to
+AAFM.
+ZHENG et al.
+PHYSICAL REVIEW B 78, 155103 2008
+155103-2
+ing and we found dramatic differences in the conversion of a
+particular re-entrant crystal near hCO=0.5 into a “pure” CO
+crystal. That conversion is shown in the magnetization data
+of Fig. 3a, before annealing, and after each of three succes-
+sive anneals. These postanneals are done in pure oxygen at
+600 °C for 60 h followed by a slow-cooling protocol of
+0.5 °C per minute that is expected to reduce  and not
+change x note that slow cooling at 0.1 °C per minute for the
+last of these anneals did not result in noticeably different
+effects. After the ﬁrst anneal this crystal transforms into a
+non-re-entrant crystal, indicating h has become very close to
+0.5, and that the as-made crystal had h=x−0.5. Subse-
+quent anneals showed very small, additional changes imply-
+ing that one such anneal followed by our slow-cooling pro-
+tocol is sufﬁcient to ﬁll a large fraction of oxygen vacancies
+in as-grown crystals. From crystals made at neighboring
+compositions x0=0.48 and 0.52 and others made at x0
+=0.5, we can estimate the width of the CO phase to be no
+larger than 0.01 and thus ﬁnd  to be 0.005 for the
+as-made crystal, and that is within the limits of quenched
+samples.20
+Three crystals from the x0=0.61 boule 2, 3, and 5 also
+underwent the same oxygen annealing and slow-cooling pro-
+tocol. These data Fig. 3b indicate a barely discernable
+change, implying very few vacancies in the x0=0.61 boule
+unless vacancy ﬁlling for x=0.61 requires a radically differ-
+ent protocol. Using the very small temperature shifts in
+Fig. 3b and the transition temperature difference at the
+ﬁxed points of h=0.60 and x=0.61, we estimate  to be
+0.0003. This small value of  suggests that crystals 9–11
+have hole doping, h=0.61−, very close to 0.61. The reason
+for the much smaller effect in the as-made x0=0.61 boule is
+not understood, but it could result from an x dependence of
+oxygen vacancy formation or on differences in the actual
+cool-down parameters following zone growth for the two
+boules.
+The existence of crystals with re-entrant CO for h in the
+close vicinity of hCO=0.5 or 0.6 certiﬁes that the CO phase
+ﬁelds are broader in h at intermediate temperature than at
+low temperature. We present here a free-energy argument
+that qualitatively explains this experimental fact. Consider
+the free energy, U−TS, where U is the internal energy and S
+is the entropy, for four states: high-temperature paramagnet,
+competing
+low-temperature
+AAFM
+state,
+paramagnetic
+charge and orbital ordered state CO PM, and ﬁnally the CO
+AFM state, e.g., with in-plane AF CE magnetic structure that
+is known8,9 to exist for h0.5 below about 130 K. For sim-
+plicity of presentation, we neglect the temperature dependen-
+cies of U and S, and make the plausible assumption that only
+the U’s of the CO states are strongly dependent on h with a
+symmetrical minimum at hCO. The PM state has the least
+order and the highest entropy, so its U−TS will exhibit the
+steepest negative slope versus temperature. The AAFM
+phase with FM monolayers may be expected to have the
+lowest entropy, and thus the ﬂattest slope. Of the CO states
+the one with in-plane AF order has the lower entropy. The
+result of these considerations is shown in the bottom of Fig.
+4, for a particular choice of U for each state, and is drawn
+assuming the CO states obey Uh−UhCOh−hCO. Then
+the successive dashed CO curves from the bottom represent
+increasing h-hCO. The solid squares circles indicate the
+lower upper limit of stability for the CO states, while the
+open circle indicates a direct transition from the AAFM to
+PM. The phase diagram at the top of Fig. 4 is the projection
+of these transition temperatures to their appropriate h values.
+Note however that these AAFM to CO transitions squares
+and CO to PM transitions circles are ﬁrst order so signiﬁ-
+cant hysteresis is expected and found8,19 see Figs. 3 and 8.
+FIG. 3. Color online The effect of annealing in pure oxygen at
+600 °C for 60 h followed by our slow-cooling protocol is shown on
+the magnetization both heating and cooling for a x0=0.5 and b
+x0=0.61. The magnetization in a for the as-made crystal solid
+lines is clearly re-entrant with hysteretic transitions from the PM to
+CO phases near 200 K and between the CO and AAFM phases
+centered at 125 K. Upon annealing this crystal transformed into a
+non-re-entrant, predominantly CO phase down to the lowest tem-
+peratures solid circles. Two further anneals solid squares and dia-
+monds made much smaller changes, but in the same direction.
+From this data the oxygen deﬁciency of the as-made crystal, , can
+be estimated to be 0.005. For samples 2, 3, and 5 from the nomi-
+nal 0.61 boule of Fig. 2, the magnetic behavior b after annealing
+solid circles was barely distinguishable from the as-made crystals
+solid lines and  is estimated see text to be an order of magni-
+tude smaller at 0.0003.
+CHARGE AND ORBITAL ORDERED PHASES OF La…
+PHYSICAL REVIEW B 78, 155103 2008
+155103-3
+Also, if AF order were frustrated in the CO state or occurred
+at the PM to CO transition, say for 0.6 doping, then the
+dashed lines in the lower part of Fig. 4 would be straight
+lines with no kinks, as would be the phase lines in the upper
+diagram from T=0 to the widest part of the CO phase.
+As mentioned above, a high degree of crystal homogene-
+ity is required to reveal the intrinsic behavior of bilayer man-
+ganites, and the path to homogeneity starts with crystal
+growth21 in a ﬂoating-zone, optical image furnace. From the
+resulting boule, platelike crystals with the c axis normal are
+extracted and shaped 20.50.1 mm3 so that four gold
+pads can be deposited along the top and bottom surfaces for
+six-terminal measurements22 of the c axis, 	c, and ab-plane,
+	ab, conductivity. To evaluate homogeneity, we determine
+and compare 	ab and 	c in four conﬁgurations see methods
+A and B in the Appendix. For crystals very close to hCO
+=0.6, the extraordinarily large anisotropy 105 at low tem-
+peratures renders the six-terminal data not useful. However,
+for such high anisotropy, combining two four-terminal mea-
+surements, the top voltage of method A and V1 of method B,
+provides sufﬁciently accurate values of 	ab and 	c. For each
+four-terminal conﬁguration, the results for currents applied to
+opposite sides of the crystal are compared to test homogene-
+ity, and these data, presented in Fig. 5, are qualitatively iden-
+tical and within a factor of 3, thus passing our criteria.8
+It is of interest to compare the conductivity of pure CO
+crystals at hCO=0.60 with re-entrant crystals with h0.59
+and h0.61. Using the analysis described above,22 extraor-
+dinarily low values of 	ab and 	c are reported here at low
+temperatures in the pure CO state, whereas the AAFM
+phases at h0.61 and19 h0.59 show especially high me-
+tallic 	ab at low temperatures. This contrast of greater than
+ten orders of magnitude is shown in Fig. 6. That it occurs for
+a 1% change in Sr content is remarkable and this contrast
+also reafﬁrms the uniformity of doping in our crystals. Note
+however, we never found CO crystals for h0.5 without a
+small 1−5% contamination of the AAFM phase Ref. 8
+and Fig. 3a, but that is likely a result of the signiﬁcantly
+narrower phase ﬁeld for hCO=0.50 and an inevitable small
+doping inhomogeneity.
+FIG. 4. Color online The proposed generic phase diagram for
+charge ordered phases in the bilayered manganites. The lower part
+represents the free energy by accounting for the differences in en-
+tropy, S, and internal energy, U, for the various phases, AAFM, CO
+AF, CO PM, and PM. Here U and S and assumed to be independent
+of T. The lowest dashed lines are for h=hCO e.g., hCO=0.5, while
+the next ones show sequentially increasing h-hCO. The diagram
+speciﬁcally calls out the appearance of AF order in the CO phase
+e.g., the known CE AF order at 0.5 doping. The upper diagram
+shows the transition points projected onto a phase diagram versus
+doping, h-hCO in arbitrary units.
+FIG. 5. Color online Homogeneity tests for a crystal with h
+very close to 0.60. In this case the qualitatively identical data from
+pairs of V1 and of Vt represent the two conﬁgurations of each four-
+terminal measurement on opposite sides or ends of the crystal. In
+the worst case of V1, the magnitudes are within a factor of 3.
+FIG. 6. Color online These data contrast the enormous con-
+ductivity ratio 1010 between a pure CO state at h0.60 and the
+low-temperature AAFM phase of re-entrant crystals for h0.61
+and Ref. 19 h0.59: a 	ab and b 	c. The ﬂat behavior of 	c
+below 50 K is due to limitations of our measurement system.
+ZHENG et al.
+PHYSICAL REVIEW B 78, 155103 2008
+155103-4
+The phase diagram in Fig. 1 begs some open questions.
+Can random doping yield such narrow needlelike phases?
+Random
+doping
+would
+require
+rather
+large
+volumes
+4000 unit cells 93 nm3 to achieve an average doping
+within the very narrow doping ranges h 0.005 found
+at the lowest temperatures for h0.5. Thus obtaining phase
+purity with random doping addresses the Coulomb energy
+needed to homogenize the charge and that is conveniently
+discussed through a comparison of the electron screening
+length, rs, with the needed 9-nm cell diameter from above.
+For manganites, rs is not expected to be greater than values
+typical of semiconductors, i.e., 2–3 nm, so that locally inho-
+mogeneous phases would be expected for random doping
+with h0.5. Given these estimates, it seems difﬁcult to
+imagine that random doping could cause such an abrupt
+change in phase uniformly over the entire crystal for a 1%
+variation of average h, yet a high degree of uniformity has
+been veriﬁed with four independent bulk probes.8 Cation or-
+dering is one way to mitigate this issue. For h=0.5, on aver-
+age, there is one La and two Sr per unit cell so there is a
+symmetrical occupancy with La only in the 12-coordinated
+site of the perovskite layer. The poor scattering contrast be-
+tween La and Sr makes the determination of cation ordering
+particularly hard but it has been reported23 for x0=0.4 and
+0.5 samples. In each case there is a higher-than-average La
+occupancy in the perovskite layer, but the 50% La enrich-
+ment found for 0.5 may be too small to completely mitigate
+the Coulomb energy.
+The region of the phase diagram between these two
+needlelike phases is not fully resolved. One issue is the elec-
+tronic nature of AAFM states. For nominal x0=0.58 crys-
+tals24 the extrapolated zero-temperature ab-plane conductiv-
+ity is smaller than the data presented here for h0.59 and
+0.61, but remains ﬁnite, i.e., metallic. For h0.46, much
+lower values of 	 are seen25 at intermediate temperatures
+with strongly insulating low-temperature behavior. For the
+AAFM states of crystals near nominal h=0.5, the inter-
+mediate-temperature conductivity values fall between these
+two extremes,8 but insulating behavior is found at low tem-
+peratures. A possible scenario is a continuous ab-plane-
+metal-to-insulator transition as h decreases from 0.58 to
+0.5. Note that the upper limit in h for the ab-plane metal is
+presently unknown. In the above picture CO replaces the
+AAFM over limited h ranges centered at 0.5 and 0.6 through
+ﬁrst-order transitions, but the h dependence of the AAFM
+states may be otherwise unaffected.
+A second issue is the continuous variation of the superlat-
+tice CO modulation over this doping range that was
+inferred26 from the observed “incommensurate” superlattice
+in the bilayer manganite at x0=0.55. A more complete set of
+“incommensurate” doping was reported for the single-layer
+manganites,27 La1−xSr1+xMnO4, together with a strong argu-
+ment supporting a charge-density wave CDW picture.
+Others28 report a discontinuous jump in the superlattice peak
+for bilayer manganites between h=0.5 and 0.6. Our data
+strongly imply that CO in bilayer manganites at h=0.5 and
+0.6
+only
+exists
+over
+a
+ﬁnite
+doping
+range
+h
+ 0.01–0.02, as we ﬁnd many crystals, at x0=0.52, 0.54,
+0.56, and24 0.58, that display a single transition in conduc-
+tivity from a PM to an AAFM at low temperatures. Thus our
+data exclude the existence of continuous CO states from 0.5
+to 0.6, although we have insufﬁcient evidence to rule out,
+e.g., an additional CO phase at h=0.55 as reported in Ref. 26
+that would be necessarily needlelike. Each above issue
+needs a systematic doping study to establish the behavior of
+the La2−2xSr1+2xMn2O7− phase diagram between the needle-
+like CO phases at h=0.5 and 0.6.
+Why is the CO at 0.6 more stable higher TCO and broader
+h range than the highly symmetric checkerboard ordering7
+of Mn+3 and Mn+4 charges at 0.5 doping? A suggested pic-
+ture of local charge and orbital ordering for x=0.6 adds an
+extra row of Mn+4 into the checkerboard pattern for every 5th
+row to achieve 0.6 doping in a so-called quasibistripe
+order.28 This leads to a far less symmetrical pattern that one
+might expect to have a higher energy, and due to some frus-
+trated AFM bonds, it also means that AFM will be less stable
+than the CE magnetic structure at h=0.5. In spite of the
+similar appearance of the needle-like phase ﬁelds, we now
+address the possibility that the CO state at h0.6 is not due
+to an arrangement of localized charges but more akin to a
+charge-density wave.
+To start out, we ﬁnd that the bilayer manganites behave
+differently to single-layer27 and perovskite manganites in re-
+gard to CO states between h=0.5 and 0.6. The superlattice
+modulation wave vector, q, of the latter exhibit one of the
+following: 1 a broad continuous variation29 of q starting
+above 100 K; 2 a narrow temperature dependence30 of q
+near TCO that could result from critical ﬂuctuations; or 3 a
+broad transition starting at TAF and extending30 up to TCO.
+All these have been discussed within a phenomenological
+CDW picture.31 We ﬁnd for the re-entrant bilayer with h
+0.59 that q is strictly temperature independent over its sta-
+bility range 160–250 K, albeit its value of 0.21 is not
+commensurate.19 The strong temperature dependencies of q
+in the perovskites are probably not consistent with a Fermi-
+surface nesting scenario for the CDW. However, at least
+some of these data might be understood as a commensurate-
+to-incommensurate transition32 preceding the disappearance
+of CO at TCO. In the bilayer, the very narrow range of sta-
+bility h=0.60.02 of the CO state would also seem to be
+at odds with any Fermi-surface nesting feature that might be
+expected to evolve more gradually with h. The question re-
+mains as to when and if the locked-in, low-temperature su-
+perlattice modulation is commensurate. In bilayer manga-
+nites, a broad temperature-dependent variation of q was also
+seen28 for x0=0.575 and 0.6 but for h=0.6 the low-
+temperature q0.2 may be commensurate and is close to our
+value19 of 0.21 for h0.59. That study28 also found that
+x0=0.5
+and
+0.55
+exhibited
+temperature-independent
+q
+0.25, which is universally found and expected for check-
+erboard ordering at h0.5. This discussion reveals that there
+is much still to be learned about CO in the manganites.
+In summary, our discovery of similar needlelike CO
+phases centered at h=0.5 and 0.6 drastically modiﬁes the
+accepted picture of the bilayer manganite phase diagram.
+Compositional purity was crucial to our results and we en-
+sured this by stringent testing of small 1 mg crystals.
+Phases were veriﬁed by observations with up to four bulk
+probes. The lack of sufﬁcient purity could explain why oth-
+ers consistently report the lack of CO at low temperatures
+CHARGE AND ORBITAL ORDERED PHASES OF La…
+PHYSICAL REVIEW B 78, 155103 2008
+155103-5
+and coexistence of CO and AAFM order in LaSr2Mn2O7
+h=0.5. Open questions include: 1 whether the reported23
+cation order can overcome Coulomb energies and lead to
+such narrow phase ﬁelds; 2 why the CO state at h=0.6 is
+more stable than the checkerboard CO state at h=0.5; and 3
+to what extent the CDW scenario may apply in the bilayer
+manganites.
+ACKNOWLEDGMENTS
+This research was supported by the U.S. Department of
+Energy, Basic Energy Sciences—Materials Sciences, under
+Contract No. DE-AC02-06CH11357. The authors wish to
+thank S. Rosenkranz and R. Osborn for ongoing, informative
+discussions and insights.
+APPENDIX
+In general, the principal components of conductivity, i.e.,
+along the c axis, 	c, and in the ab-plane, 	ab, cannot be
+easily determined by four-terminal measurements so we
+commonly use six of the eight terminals to determine each
+individually. In transport method A, current is injected
+through the outermost contacts on one surface Fig. 7a.
+Laplace’s equation is solved and inverted to get 	ab and 	c
+from voltages measured across the innermost contacts of
+each surface. In method B, Laplace’s equation is solved for
+current injection through the top and bottom contacts at one
+end of the crystal, while voltages from the top to bottom of
+the crystal are measured between any two of the three pairs
+of remaining contacts Fig. 7b.
+To test for homogeneity, we evaluate 	ab and 	c in four
+conﬁgurations. Two use method A with current applied to the
+outer contacts of either the top or bottom surfaces and two
+use method B with current applied to the end contacts on
+either the right- or left-hand sides. We require both 	abT
+and 	cT to be qualitatively the same for all four conﬁgu-
+rations and within a factor of 2–3 in magnitude. Crystal data
+reported in this paper all pass our criteria.8,19 In Fig. 8 these
+homogeneity tests are shown for two re-entrant crystals near
+hCO=0.5 used in Ref. 8 while similar data are shown in Fig.
+2 of Ref. 19 for h0.59.
+For crystals very close to hCO=0.6, the extraordinarily
+large anisotropy 105 at low temperatures render the six-
+terminal data not useful. In method A the bottom voltage is
+too small compared to noise and in method B the differences
+of voltages V1 through V3 are too small. However, combining
+two four-terminal measurements, the top voltage of method
+A and V1 of method B, provides sufﬁciently accurate values
+of 	ab and 	c when the anisotropy is so large. In this case,
+our homogeneity test compares the results for each four-
+terminal conﬁguration when currents are applied to opposite
+sides of the crystal. These data, presented above in Fig. 5,
+pass our criteria.
+FIG. 7. Color online Schematic of six-terminal conﬁgurations
+for a method A and b method B.
+FIG. 8. Color online Homogeneity tests for 	ab on two re-
+entrant crystals Ref. 8 with x0=0.5. The four sets of data for each
+crystal are comprised of two by method A on both sides of crystal
+and two by method B at both ends of crystal. The hysteresis for
+each transition shows clearly they are of ﬁrst order. The occasional
+sharp features are artifacts of slight inhomogeneity of the transition
+points along the length of the crystal and the abrupt change of 	ab
+at the ﬁrst-order transitions note that the accompanying positive
+and negative peaks at around 70 K in the top curves dictate these
+features are not intrinsic. All data sets for each crystal are qualita-
+tively very similar and within a factor of three in magnitude.
+ZHENG et al.
+PHYSICAL REVIEW B 78, 155103 2008
+155103-6
+1S. Jin, T. H. Tiefel, M. McCormack, R. A. Fastnacht, R. Ramesh,
+and L. H. Chen, Science 264, 413 1994.
+2Y. Moritomo, A. Asamitsu, H. Kuwahara, and Y. Tokura, Nature
+London 380, 141 1996.
+3J. F. Mitchell, D. N. Argyriou, A. Berger, K. E. Gray, R. Osborn,
+and U. Welp, J. Phys. Chem. B 105, 10731 2001.
+4B. J. Campbell, R. Osborn, D. N. Argyriou, L. Vasiliu-Doloc, J.
+F. Mitchell, S. K. Sinha, U. Ruett, C. D. Ling, Z. Islam, and J.
+W. Lynn, Phys. Rev. B 65, 014427 2001.
+5L. Vasiliu-Doloc, S. Rosenkranz, R. Osborn, S. K. Sinha, J. W.
+Lynn, J. Mesot, O. H. Seeck, G. Preosti, A. J. Fedro, and J. F.
+Mitchell, Phys. Rev. Lett. 83, 4393 1999.
+6R. Osborn, S. Rosenkranz, D. N. Argyriou, L. Vasiliu-Doloc, J.
+W. Lynn, S. K. Sinha, J. F. Mitchell, K. E. Gray, and S. D.
+Bader, Phys. Rev. Lett. 81, 3964 1998.
+7J. B. Goodenough, Phys. Rev. 100, 564 1955.
+8Q. A. Li, KE. Gray, H. Zheng, H. Claus, S. Rosenkranz, S. N.
+Ancona, R. Osborn, JF. Mitchell, Y. Chen, and J. W. Lynn, Phys.
+Rev. Lett. 98, 167201 2007.
+9M. Kubota, H. Yoshizawa, Y. Moritomo, H. Fujioka, K. Hirota,
+and Y. Endoh, J. Phys. Soc. Jpn. 68, 2202 1999.
+10C. D. Ling, J. E. Millburn, J. F. Mitchell, D. N. Argyriou, J.
+Linton, and H. N. Bordallo, Phys. Rev. B 62, 15096 2000.
+11D. N. Argyriou, H. N. Bordallo, B. J. Campbell, A. K. Cheetham,
+D. E. Cox, J. S. Gardner, K. Hanif, A. dos Santos, and G. F.
+Strouse, Phys. Rev. B 61, 15269 2000.
+12T. Chatterji, G. J. McIntyre, W. Caliebe, R. Suryanarayanan, G.
+Dhalenne, and A. Revcolevschi, Phys. Rev. B 61, 570 2000.
+13T. Kimura, R. Kumai, Y. Tokura, J. Q. Li, and Y. Matsui, Phys.
+Rev. B 58, 11081 1998.
+14Y. Wakabayashi, Y. Murakami, I. Koyama, T. Kimura, Y. Tokura,
+Y. Moritomo, Y. Endoh, and K. Hirota, J. Phys. Soc. Jpn. 72,
+618 2003.
+15S. B. Wilkins, P. D. Spencer, T. A. W. Beale, P. D. Hatton, M. v.
+Zimmermann, S. D. Brown, D. Prabhakaran and A. T. Booth-
+royd, Phys. Rev. B 67, 205110 2003.
+16Y. Tomioka and Y. Tokura, in Colossal Magneto-Resistive Ox-
+ides, edited by Y. Tokura Gordon and Breach, Amsterdam,
+2000, Chap. 8.
+17That the melt is Sr rich compared to the growing crystal is
+known empirically. See also W. G. Pfann, Zone Melting, 2nd ed.
+Wiley, New York, 1966, pp. 27–31.
+18X. J. Chen, C. L. Zhang, J. S. Gardner, J. L. Sarrao, and C. C.
+Almasan, Phys. Rev. B 68, 064405 2003.
+19Q. A. Li, K. E. Gray, S. N. Ancona, H. Zheng, S. Rosenkranz, R.
+Osborn, and J. F. Mitchell, Phys. Rev. Lett. 96, 087201 2006.
+20J. Shimoyama, Y. Yokota, M. Shiraki, Y. Sugiura, S. Horii, and
+K. Kishio, in Solid-State Chemistry of Inorganic Materials V,
+edited by Jing Li, Nathaniel E. Brese, Mercouri G. Kanatzidis,
+and Martin Jansen, MRS Symposia Proceedings No. 848 Ma-
+terials Research Society, Warrendale, PA, 2005, p. 523.
+21J. F. Mitchell, D. N. Argyriou, J. D. Jorgensen, D. G. Hinks, C.
+D. Potter, and S. D. Bader, Phys. Rev. B 55, 63 1997.
+22Q. A. Li, K. E. Gray, and J. F. Mitchell, Phys. Rev. B 59, 9357
+1999.
+23R. Seshadri, M. Hervieu, C. Martin, A. Maignan, B. Domenges,
+B. Raveau, and A. N. Fitch, Chem. Mater. 9, 1778 1997; P. D.
+Battle, M. A. Green, N. S. Laskey, J. E. Milburn, L. Murphy, M.
+J. Rosseinsky, S. P. Sullivan and J. F. Vente, ibid. 9, 552 1997.
+24E. Badica, K. E. Gray, J. F. Mitchell, and H. Zheng, Phys. Rev.
+B 70, 174435 2004.
+25Q. A. Li, K. E. Gray, A. Berger, and J. F. Mitchell, Phys. Rev. B
+67, 184426 2003; N.B. The crystal used in this study was
+originally designated by x0=0.48, but extensive recent studies
+using boules made nominally at x0=0.48 and 0.46 lead us to
+believe it was actually closer to 0.46.
+26J. Q. Li, C. Dong, L. H. Liu, and Y. M. Ni, Phys. Rev. B 64,
+174413 2001.
+27S. Larochelle, A. Mehta, N. Kaneko, P. K. Mang, A. F. Panchula,
+L. Zhou, J. Arthur, and M. Greven, Phys. Rev. Lett. 87, 095502
+2001.
+28T. A. W. Beale, P. D. Spencer, P. D. Hatton, S. B. Wilkins, M. v.
+Zimmerman, S. D. Brown, D. Prabhakaran, and A. T. Booth-
+royd, Phys. Rev. B 72, 064432 2005.
+29J. C. Loudon, S. Cox, A. J. Williams, J. P. Attﬁeld, P. B. Little-
+wood, P. A. Midgley, and N. D. Mathur, Phys. Rev. Lett. 94,
+097202 2005.
+30C. H. Chen, S. Mori, and S. W. Cheong, Phys. Rev. Lett. 83,
+4792 1999.
+31G. C. Milward, M. J. Calderon, and P. B. Littlewood, Nature
+London 433, 607 2005.
+32J. C. Toledano and P. Toledano, The Landau Theory of Phase
+Transitions World Scientiﬁc, Singapore, 1987, Chap. V.
+CHARGE AND ORBITAL ORDERED PHASES OF La…
+PHYSICAL REVIEW B 78, 155103 2008
+155103-7

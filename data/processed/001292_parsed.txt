@@ -1,0 +1,191 @@
+          
+ 
+ 
+ 
+ 
+ 
+ 
+           
+     
+                                                 WATER SAFETY, SECURITYAND SUSTAINABILITY                                                                                                                
+__________________________________________________________________________________ 
+Southeastern New Mexico Farmer’s Irrigation 
+Water Management Program 
+A Sandia National Laboratories Small Business Assistance Project 
+ 
+Introduction 
+In many parts of New Mexico, as well as the arid western U.S., it is becoming apparent that water conservation 
+measures are needed to offset water loss due to drought and the increased demand of population growth.  Water 
+conservation programs are being implemented in domestic, industrial, and agricultural arenas to increase overall 
+irrigation efficiencies by monitoring soil moisture infiltration, storage and depletion.  In doing so, numerous complex 
+interactions between: 1) surface, vadose, and ground water, 2) climate, 3) soil characteristics and textures, 4) plant 
+physiology, and 5) intrinsic economic constraints can be positively correlated and better understood. 
+ 
+                      
+ 
+Image of a center-pivot irrigation system delivering                       Monitoring soil moisture in a surficially desiccated 
+water efficiently to only partial sections of this field.                       sandy loam supporting New Mexico green chile. 
+ 
+ 
+ 
+ 
+ 
+                                 
+ 
+  
+Need 
+Monitoring soil moisture accumulation and migration is an extremely important irrigation procedure used to determine 
+the optimal irrigation application schedule for individual soil textures and crop varieties, as well as the proper volumes 
+of delivered water needed to maintain field capacity saturation levels within the crops’ root zones (a function of growth 
+season and crop maturity).  Newly implemented irrigation techniques and practices will increase forage yields and 
+ultimately save precious water.  Optimizing crop production by understanding relationships that exist between water 
+consumption, nutrient uptake, and lengths of seasonal growth to maturation, among others, is an ongoing economic 
+concern to irrigators in southeastern New Mexico. 
+ 
+Objectives 
+Irrigators require a tool or a method that will allow them to optimize irrigation efficiency and crop yield, while at the 
+same time minimizing water consumption.  Sandia National Laboratories, in conjunction with the New Mexico State 
+University’s Agricultural Science Center (NMSU-ASC), is providing assistance to irrigators here in southeastern New 
+Mexico by accurately tracking and correlating the evolution of soil moisture properties, hydrodynamic processes, plant 
+physiologies, water quality and availability issues, as well as daily meteorologic conditions.  This work will aid in 
+developing and correlating the complex relationships between: 1) textural and constitutive pedogenic properties, 2) soil 
+moisture infiltration, percolation, and depletion rates, 3) plant physiology and evapotranspiration rates, 4) daily 
+climatic and meteorologic conditions, 5) hydrodynamic processes, and 6) water availability, quality, storage, and usage 
+concerns.   
+_______________________________________________________________________________________________ 
+April 2005 
+ 
+ 
+               
+ 
+Image of an evapotranspiration gage, two soil moisture                  Image of the weather station at NMSU-ASC monitoring 
+probes and a soil moisture data logger field box located                  daily meteorological conditions including evaporation 
+at the head of the Bench 3 fescue pasture, NMSU-ASC.                   rate, relative humidity, solar radiation and temperature. 
+ 
+Existing Research 
+Sandia and the NMSU-ASC have installed soil moisture probes, soil matric potential probes, divining probes, data 
+loggers, relative humidity sensors, evapotranspiration gages and rain gages to a variety of agricultural fields supporting 
+annual yield crops including: 1) alfalfa, 2) gramagrass, 3) fescue, 4) tall wheatgrass, 5) green chile, 6) pima cotton,  
+7) acala cotton, 8) field corn, 9) giant sunflowers, 10) sorghum, and 11) milo.  Together we are working to positively 
+correlate the complex interrelationships between surface and ground water quality and availability, meteorological 
+conditions, soil characteristics and textures, plant physiologies and various site-specific economic constraints to 
+maximize the efficiency of agricultural irrigation methods in southeastern New Mexico.  The technologies developed 
+by this study will not only have a positive impact on the western states of the U.S., but also in arid climates worldwide. 
+16
+18
+20
+22
+24
+26
+28
+30
+June 22
+June 24
+June 29
+June 30
+July 1
+July 2
+July 6
+July 13
+July 15
+July 16
+SOIL MOISTURE
+Bench 3 - Fescue Pasture
+12" deep
+24" deep
+VOLUMETRIC H2O CONTENT (%)
+WET
+DRY
+DRY
+    
+-20
+0
+20
+40
+60
+80
+100
+June 24
+June 25
+June 28
+June 29
+July 2
+July 7
+July 9
+July 13
+July 15
+July 19
+SOIL MOISTURE
+Bench 3 - Fescue Pasture
+12" deep
+24" deep
+SOIL MATRIC POTENTIAL (centibars)
+DRY
+WET
+DRY
+WET
+0
+5
+10
+15
+20
+25
+30
+Dec/28
+Feb/1
+Mar/7
+Apr/11
+May/16
+Jun/20
+Jul/25
+Cool Season Grass Evapotranspiration Rate
+Et
+INCHES
+Et
+ 
+                                (A)                                                              (B)                                                            (C) 
+ 
+Plots showing: (A) the volumetric water content (measured using Decagon Devices ECH2O dielectric moisture probes), and 
+(B) the soil matric potential (measured using Watermark soil matric potential probes) of the sandy loam supporting the 
+Bench 3 fescue pasture.  Side-roll irrigation of Bench 3 occurred on June 30, as seen in the peak of plot (A) and within the 
+trough of plot (B).  Plot (C) shows the cumulative measured evapotranspiration rate of Bench 3 fescue collected between 
+the months of December 2003 and July 2004.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_________________________________________________________________________________________________ 
+ Sandia is a multiprogram laboratory operated by Sandia Corporation, a Lockheed Martin Company, for the United States 
+ Department of Energy’s National Nuclear Security Administration under contract DE-AC04-94AL85000. 
+For Additional Information Contact: 
+D. Michael Chapin, Jr. 
+ 
+      Jesse D. Roberts 
+ 
+            Mark J. Rigali, Ph.D. 
+Sandia National Laboratories  
+      Sandia National Laboratories 
+            Sandia National Laboratories 
+4100 National Parks Hwy         
+      4100 National Parks Hwy  
+            4100 National Parks Hwy 
+Carlsbad, NM  88220                             Carlsbad, NM  88220   
+            Carlsbad, NM  88220 
+Telephone: 505-234-0032       
+      Telephone: 505-234-0085 
+            Telephone: 505-234-0058 
+Fax: 505-234-0061  
+ 
+      Fax: 505-234-0061 
+ 
+            Fax: 505-234-0123  
+Email: dmchapi@sandia.gov     
+      Email: jdrober@sandia.gov                   Email: mjrigal@sandia.gov 
+ 

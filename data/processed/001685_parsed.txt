@@ -1,0 +1,634 @@
+Proactive Postmarketing Surveillance:  
+Overview and Lessons Learned from Medication 
+Safety Research in the Veterans Health Administration 
+ 
+Robert R. Campbell, JD, MPH, PhD; Andrea M. Spehar, DVM, MPH, JD;  
+Dustin D. French, PhD 
+ 
+Abstract 
+This report is an overview of the medication safety studies conducted by the VISN (Veterans 
+Integrated Service Network) 8 Patient Safety Center of Inquiry (PSCI), Tampa, FL, over the past 
+5 years. The Center has been developing the research capacity to conduct national Veterans 
+Health Administration (VHA) proactive medication safety surveillance studies as part of its 
+research focus on patient falls and mobility issues in elderly veterans. The Center’s research 
+findings describe new directions and alternative approaches based on a paradigm shift in how 
+proactive medication safety surveillance can be conducted using the VHA’s comprehensive 
+health care utilization data. These studies are primarily hypothesis-generating and enhanced 
+signal-detection studies on a national level. The lessons learned from the Center’s studies may 
+help to inform the current Congressional debate on Food and Drug Administration (FDA) 
+legislation Prescription Drug User Fees Act (PDUFA IV) that affects the nature and rigor of U.S. 
+postmarketing drug safety studies.  
+ 
+Introduction 
+ 
+Considerable controversy exists concerning the sufficiency of current programs that ensure the 
+safety of drugs in the U.S. health care system.1, 2, 3 The U.S. Food and Drug Administration 
+(FDA) has come under increased scrutiny for safety issues associated with approved drugs.2, 3, 4, 5 
+The FDA requires drug manufacturers to do extensive safety and efficacy testing of proposed 
+new medications during the approval process.6 However, after FDA approval, knowledge gaps 
+exist in its postmarketing safety system.2, 3, 4, 5, 6, 7 These gaps include concerns that the current 
+postmarketing reporting system fails to detect drug safety risks in a timely fashion, challenges in 
+its ability to monitor drug safety in populations that were not included in the drug approval 
+process (e.g., children, pregnant women, and the elderly), and safety issues with off-label 
+medication use.6 Because of its sophisticated health information technology system, the Veterans 
+Health Administration (VHA) has a unique opportunity and capacity to provide a model system 
+for proactive postmarketing surveillance of medications.  
+ 
+1 
+Proactive medication safety surveillance does not necessarily rely on reports of adverse events 
+(AEs) associated with drugs to initiate an investigation.8 Historically, voluntary spontaneous 
+reporting systems have focused on adverse drug reactions, defined as responses to a drug that are 
+noxious and/or unintended at doses normally used for treatment.9 The VHA Patient Safety 
+Center of Inquiry (PSCI) in Tampa, FL, has undertaken a series of proactive medication safety 
+surveillance studies that have focused on adverse health outcomes where the literature has 
+identified medications as a risk factor. These studies have used multivariate analyses focused on 
+the adverse outcome as the dependent variable in the study and temporally linked selected 
+medications as an independent variable to the adverse outcome. These AEs included adverse 
+drug reactions and other adverse outcomes, such as fall-related fractures, that occurred while 
+patients were prescribed a category or class of medication.10 This article provides an overview of 
+these VHA proactive medication safety surveillance studies and discusses the lessons learned 
+from these studies within the context of the current FDA postmarketing surveillance policy 
+debate. 
+ 
+Current U.S. Initiatives 
+ 
+Potential postmarketing medication safety issues in the United States are largely identified by 
+various AE reporting systems.11 Medication safety incidents are reported to the FDA from 
+several major sources: as manufacturer reports (AEs that result in serious injury and for which a 
+medication error might be a component), direct contact reports (MedWatch),12 reports from the 
+U.S. Pharmacopeia (USP, e.g., U.S. Pharmacopeia MEDMARX® Program),13 and the Institute 
+for Safe Medication Practices (ISMP).14 With other adverse drug event reporting systems (e.g., 
+VHA Patient Safety Reporting System)15 or mandatory State serious AE reporting systems,16 
+events may or may not be reported to the FDA.17 Commentators have noted that problems with 
+the FDA’s postmarketing surveillance program include the need for more population-based data 
+on medication usage and better use of existing data.7, 18, 19, 20  
+ 
+Additionally, other issues raised have included the FDA’s inability to require and enforce timely 
+clinical studies of postmarketing drug safety, the limitations of the voluntary MedWatch 
+reporting system, and limited resources currently devoted to the FDA’s Office of Drug Safety.1, 7 
+The recent Institute of Medicine (IOM) study on drug safety underscored that two decades of 
+studies have made recommendations addressing these same deficiencies in drug postmarketing 
+surveillance programs in the United States.2 
+ 
+A fundamental recommendation from recent studies of the FDA’s postmarketing surveillance 
+system is the need for large-scale health care datasets to conduct population-based safety 
+studies.2,7 The recent General Accounting Office (GAO) and the IOM reports recommend that 
+the FDA obtain large-scale datasets for postmarketing studies in order to enhance FDA 
+medication safety activities.1, 2 A major finding of the GAO (2006) report was that the FDA 
+needs to gain access to and analyze large-scale datasets from more diverse patient populations, 
+over a longer period, through a postmarketing safety surveillance system utilizing electronic 
+health care data systems.1 The FDA has recognized the need for analyses of large-scale health 
+care utilization datasets and has contracted with outside providers—largely managed care 
+organizations and research institutions—to conduct them.6, 21  
+ 
+2 
+Health care information in the United States is largely fragmented, so the ability to link 
+medications to adverse outcomes of interested is limited. No U.S. organization exists that 
+actively collects and analyzes national, population-based data on the linkage of medication use 
+with a broad range of potential patient harms that span adverse drug reactions, injuries, and other 
+serious medical conditions, such as strokes and acute myocardial infarctions (AMIs). Several 
+countries, the World Health Organization (WHO), and the European Union (EU) have been 
+actively developing more population-based medication safety surveillance systems.22, 23, 24, 25
+These developing international systems are possible because they occur in countries with 
+nationally financed health care systems that have the ability to link pharmacy and health care 
+utilization data. 
+ 
+ 
+In recent years, the VHA has conducted postmarketing safety surveillance primarily through 
+several mechanisms. These include an affiliation with the Research on Adverse Drug Events and 
+Reports Project (RADAR),26 the national VHA Center for Medication Safety,27 and health 
+services research. The RADAR project, partially funded by the VHA, focuses on identifying, 
+evaluating, and disseminating information concerning serious adverse drug reactions.26 This 
+project primarily uses clinical event reports from investigators and other clinicians to initiate an 
+investigation and then obtains data from other sources, which may include FDA case reports and 
+literature reviews.26 The VHA currently has a very robust medication safety program 
+administered by its Pharmacy Benefits Management system (PBM), which conducts drug 
+utilization reviews and maintains the sophisticated national health information technologies 
+associated with its computerized prescribing and barcoded medication administration systems. 
+The VHA’s Center for Medication Safety, in conjunction with the National Center for Patient 
+Safety, is responsible for coordinating adverse drug event reporting and medication safety 
+administrative programs.27  
+ 
+The VHA health service’s research programs have historically supported a broad range of 
+medication safety-related research. Recently, several new PSCIs were established and funded 
+under the auspices of the VHA’s National Center for Patient Safety (NCPS). These new Centers 
+will focus their research activities on specific medication safety issues, such as risk assessment 
+of drugs, medication reconciliation, and safer outpatient medication usage. These three new 
+patient safety centers join with the Veterans Integrated Service Network (VISN) 8 PSCI in 
+continuing the VHA’s commitment to patient safety research.  
+ 
+Proactive Medication Safety Surveillance Studies  
+at the VISN 8 Patient Safety Center of Inquiry, Tampa, FL  
+ 
+The VISN 8 PSCI was established in 1999 to conduct research on mobility-related safety issues 
+in elderly veterans. It has established an international reputation in the areas of falls and safe 
+patient handling and movement. Because of the recognized chance of certain medications to 
+increase the risk of injurious falls in the elderly, for the past 5 years, the Center has been 
+developing the research capacity for proactive medication safety surveillance studies similar to 
+the Agency for Healthcare Research and Quality’s (AHRQ) DEcIDE (Developing Evidence to 
+Inform Decisions about Effectiveness) project.28  
+ 
+3 
+The DEcIDE project is developing a database that links administrative data with clinical 
+components from the pharmacy, outpatient, inpatient, physician office, and emergency 
+departments.28 Center studies linking VHA administrative and clinical datasets have 
+demonstrated the utility of using hospital discharge data to develop an injury and AE 
+surveillance system for the VHA.29 The Center’s medication safety research over the last 5 years 
+has produced studies that have examined drug-related adverse outcomes in many care 
+settings.30, 31, 32, 33, 34, 35, 36, 37, 38 The usefulness of VHA national data for proactive medication
+safety surveillance, or enhanced pharmacovigilance studies, is based on the ability of researchers 
+to link national data on health care utilization from all VHA datasets across care settings. 
+ 
+ 
+Postmarketing medication safety studies have largely relied on spontaneous, passive reporting 
+systems.2 Spontaneous reporting systems are limited by the fact that clinicians may fail to 
+identify and report illnesses that they suspect are not due to a drug. This has led to the 
+development of systems in other countries (mainly in the EU) based on reporting all AEs in the 
+initial postmarketing period.39, 40 Proactive medication safety studies, with the proper data and 
+methods of analysis, can be expanded beyond adverse drug reactions and recognized adverse 
+drug-drug or drug-disease interactions to encompass a broader range of patient harms and 
+injuries to provide a more robust, proactive medication safety surveillance system.29, 34, 38  
+ 
+These kinds of proactive studies are largely hypothesis-generating and enhanced signal-detection 
+studies that may identify associations between medications and the outcomes of interest over a 
+longer period. However, it must be noted that these studies are primarily aimed at hypothesis 
+testing or enhanced detection of safety signals. These kinds of studies require clinician 
+involvement in their design and interpretation. The ultimate determination of safety issues 
+requires further examination and studies that could include examination of the patients’ medical 
+records, consultations with manufacturers, and the involvement of the FDA.  
+ 
+The IOM report recommended that the FDA adopt an approach to drug risk and benefit that 
+extends more comprehensively past the initial approval process.2 Another recommendation (IOM 
+recommendation 4.3, 2006) was that the FDA collaborate with public and private organizations 
+and use data from publicly funded health care programs, including the Department of Veterans 
+Affairs (VA) and Department of Defense (DoD), to improve the drug safety system with partial 
+public funding.2 The VA and DoD datasets are components of comprehensive electronic health 
+care data systems. This enhances their ability to rapidly and efficiently identify potential 
+medication-related AEs that might merit further analysis using electronic medical records.  
+ 
+Recently, the Centers for Medicare & Medicaid Services (CMS) also recognized the usefulness 
+of large-scale datasets for postmarketing surveillance in a proposed rule.41 The rule proposes that 
+the new Medicare Part D claims data be used for a variety of purposes, including postmarketing 
+surveillance activities by the FDA. These surveillance activities, according to the proposed rule, 
+could: (1) include monitoring patterns of drug use in the elderly and the disabled with the goal of 
+identifying unsafe or suboptimal patterns of use, (2) be used to identify rare but serious 
+complications more quickly and effectively, or (3) be used to facilitate formal epidemiologic 
+studies examining the nature and magnitude of risk associated with particular medications.41  
+ 
+4 
+When linked to Medicare health care utilization data, these Medicare Part D pharmacy claims 
+data could create a more effective postmarketing medication safety surveillance system. 
+Currently, these kinds of proactive postmarketing studies of medications in specific 
+populations—e.g., a larger group of aged patients with chronic diseases and long-term 
+medication usage—are not widely published in the United States. 
+ 
+Lessons Learned from Center Medication Safety Research 
+ 
+The major lessons learned from developing the capacity for VHA proactive medication safety 
+surveillance research are summarized below: 
+ 
+Large scale pharmacy datasets capable of being linked to health care utilization data are 
+critical for identifying groups of patients who were exposed to a particular medication and 
+the effect of that exposure to the health outcome of interest. This is especially important 
+when the outcome of interest is a very rare event. The VHA maintains national pharmacy 
+datasets that include inpatient and outpatient settings of care. In contrast to individual reports of 
+adverse drug reactions, national pharmacy data allow one to put AEs, or health outcomes of 
+interest, into a population-based context. Large-scale pharmacy administrative datasets that 
+include unique patient identifiers can be used to rapidly identify a population of patients exposed 
+to a particular medication of interest. This provides a “denominator” of patients exposed to the 
+drug and a critical context for determining the subsequent effect of the adverse outcome of 
+interest. The Center’s studies temporally linked these patients to their health care utilization to 
+see which patients had the AE or outcome of interest. An example of this kind of Center study 
+was the research on COX-2 inhibitor usage linked with hospitalizations for an AMI or stroke.38  
+ 
+Proactive medication surveillance systems require detailed information on relatively large 
+numbers of patients who have been prescribed the medication, in addition to comprehensive data 
+on their health care utilization. VHA studies have demonstrated the utility of using clinical 
+datasets to rapidly identify populations exposed to medications of interest to study outcomes of 
+interest that are either relatively common or rare. Without sufficient information on the numbers 
+of potentially affected patients (i.e., a denominator), it is difficult to evaluate the effect on the 
+VHA system of the safety of a medication, especially for very rare AEs. An example is the 
+Center’s study of Viagra® use and the potential for patients using the drug to develop ischemic 
+optic neuropathy.42  
+ 
+Linked administrative health care data can be used to identify a broader spectrum of 
+adverse outcomes and associated health care utilization costs beyond adverse drug 
+reactions or adverse drug events. These kinds of studies—which represent a major paradigm 
+shift from the current focus of postmarketing safety studies—greatly expand the scope of 
+medication safety surveillance into new areas, where medications themselves are a risk factor for 
+the occurrence or development of an adverse outcome. This is exemplified by the Center’s 
+studies of hospitalizations and costs for fall-related injuries temporally linked to the use of 
+psychotropic medications.29, 30, 32  
+ 
+These kinds of studies are the logical extension of new initiatives from accreditation activities, 
+such as the Joint Commission’s patient safety goals related to medications and fall-risk 
+5 
+assessment. Recent patient safety initiatives have recognized the importance of patient 
+medication assessments in relation to injury risk profiles. An example is The Joint Commission’s 
+use of the patient safety goals to accurately and completely reconcile medications across the 
+continuum of care and to reduce the risk of patient harm resulting from falls through assessments 
+that include patients’ current medication profiles.43  
+ 
+Medication safety surveillance employs epidemiologic methods to identify and analyze potential 
+adverse outcomes associated with the use of medications. Adverse outcomes can encompass 
+more than adverse drug reactions. The FDA has defined pharmacovigilance as “all post-approval 
+scientific and data gathering activities relating to the detection, assessment, understanding, and 
+prevention of AEs or any other product-related problems.”44  
+ 
+“Pharmacovigilance” is defined in a WHO report as “the science and activities relating to the 
+detection, assessment, understanding, and prevention of AEs or any other possible drug-related 
+problems.”45 Center studies have demonstrated the usefulness of linked datasets to explore the 
+associations of medications with a broader range of AEs, especially in the elderly veteran 
+population. 
+ 
+Proactive medication safety analyses can be used to identify major drug-drug interactions 
+that were associated with AEs temporally and where these interactions were modeled as 
+independent risk factors for adverse outcomes, such as injuries. An example of this kind of 
+Center study is an analysis of concomitant use of benzodiazepines and other medications linked 
+to adverse outcomes, such as fall-related injuries in elderly veterans.33  
+ 
+Drug-drug interactions are widely evaluated in drug utilization reviews and in studies of 
+potentially inappropriate prescribing for selected subpopulations.46, 47, 48 However, few studies 
+have used large-scale, population-based datasets to examine the influence of drug-drug 
+interactions on other relatively common adverse health outcomes, such as fall-related injuries.31, 
+32, 33 These types of hypothesis-generating studies also facilitate the identification of rare, or 
+previously unrecognized, serious AEs that can be further investigated, as suggested in the CMS 
+proposed rule related to the potential uses of Medicare Part D prescription data.41  
+ 
+The use of large-scale national datasets allows researchers to conduct more sophisticated 
+epidemiologic studies that incorporate multivariate analyses. These kinds of multivariate 
+analyses can inform clinical decisionmaking by empirically specifying the nature and 
+magnitude of the risk of having a particular adverse outcome associated with a medication. 
+The Center’s study of benzodiazepines and the risk of injury incorporated a multivariate analysis 
+and provided information to health care providers on the risk of an injury associated with the 
+interaction of benzodiazepine dose and duration, while controlling for other important factors.31  
+ 
+By using multivariate models that control for important confounders identified in comprehensive 
+datasets, a more effective postmarketing surveillance system can be developed to protect patients 
+against adverse outcomes and to inform clinical prescribing patterns. Specific information for 
+clinicians, based on empirical research that quantifies the effect of medications on identified 
+risks from more sophisticated multivariate modeling of risk factors, can guide safer prescriptive 
+practices and positively influence patient safety. These kinds of sophisticated 
+6 
+pharmacoepidemiologic studies support the current Federal initiatives for expanded use of 
+Medicare Part D claims data for research recommended in the proposed CMS rule and current 
+AHRQ medication safety research initiatives.41 
+ 
+Proactive medication safety studies using population-based datasets can be used to develop 
+medication and comorbidity profiles in the elderly linked to specific injuries or other health 
+outcomes of interest. These kinds of studies can promote safer prescribing practices in 
+elderly subpopulations and care settings. Center studies have demonstrated that analyses can 
+be conducted to produce profiles of patients that include summaries of their medication and 
+comorbidity profiles. These profiles have been included in Center analyses that have examined 
+the association of these patient profiles with outcomes of interest such as treatment for outpatient 
+fractures or inpatient hospitalizations for syncope.34, 36 
+ 
+Polypharmacy and multiple chronic diseases are common in the elderly population.33, 46, 47, 48, 49, 
+50, 51 Premarketing medication studies typically do not include patients with multiple 
+comorbidities or patients taking multiple medications. Targeted proactive postmarketing 
+surveillance could be especially valuable for these types of vulnerable populations. This is a 
+recognized limitation of the current FDA drug approval process, noted in a recent IOM report 
+(2006), that could be partially addressed by the proposed CMS rule.2, 41 Medication and 
+comorbidity profiles derived from large-scale datasets permit proactive, hypothesis-generating 
+studies of health care utilization and could lead to safer prescribing practices in specific patient 
+cohorts. Proactive medication safety studies that incorporate medication and comorbidity 
+profiles, a common occurrence in the elderly, would be responsive to the proposed uses of 
+national Medicare Part D prescription data under several Federal research initiatives.41 
+ 
+A proactive medication safety surveillance system can be used on a national level to identify 
+adverse outcomes and events in different settings of care that are associated with selected 
+medications. Center studies have examined national data on adverse health outcomes 
+associated with selected medication usage in long-term care, acute care hospitalizations, 
+and outpatient treatment settings.29, 32, 34, 37 
+ 
+The CMS proposed rule for sharing Medicare Part D data linked to Medicare Parts A and B data 
+would permit more rapid and effective investigations of medication-related adverse outcomes in 
+different populations and care settings, similar to the Center’s research and other VHA 
+research.41  
+ 
+Conclusion 
+ 
+The Center’s medication safety studies have demonstrated the utility of conducting research 
+using the VHA’s national administrative datasets for proactive medication safety surveillance. 
+The Center’s studies have been focused on identifying potential medication-related AEs in 
+different care settings and in specific populations. These studies have explored hypotheses about 
+the association between certain medications and selected health outcomes of interest to the 
+Center and the VHA. The studies have demonstrated the utility of these national comprehensive 
+VHA datasets to enhance proactive medication safety surveillance studies and to enhance signal 
+detection for AEs. 
+7 
+ 
+The current policy debate about improving the FDA’s postmarketing surveillance activities 
+underscores the importance of regulator and researcher access to large-scale health care datasets 
+to conduct research similar to the VHA’s studies. The current Congressional debate on the exact 
+kinds of postmarketing safety study provisions to include in the final legislation concerning the 
+Prescription Drug User Fees Act amendments (PDUFA IV) underscores the public interest in 
+providing for more rigorous and timely postmarketing safety studies.52 Large-scale national 
+datasets, although necessary to identify potential medication-related AEs, are not sufficient for a 
+comprehensive medication safety surveillance system.  
+ 
+More definitive studies of medication safety ultimately require access to information usually 
+available only in medical records. Ideally, these should be electronic medical records similar to 
+the VHA’s electronic medical record system. The VHA’s comprehensive national programs in 
+postmarketing surveillance have been in place for several years and encompass administrative 
+programs and an extensive array of health services research initiatives.53 Recently, the VA and 
+the FDA entered into a memorandum of understanding to allow collaborative safety research 
+initiatives capitalizing on the richness of the VHA’s national datasets and expertise.54  
+ 
+Many safety research initiatives are currently underway that can inform the direction of the FDA 
+postmarketing surveillance debate in Congress. These include the VHA programs, drug safety 
+surveillance programs in other countries, and health services research being conducted in 
+numerous sites across the United States. The current AHRQ medication safety research 
+initiatives under the DEcIDE program constitute a promising avenue of Federally supported 
+health research in the effectiveness of health care services. Health care systems, providers, and 
+insurers have important contributions to make to the current FDA policy debate based on their 
+own internal data systems and medication safety program initiatives. Medication safety, cost, and 
+effectiveness studies will continue to be important public policy concerns as the Medicare Part D 
+drug prescription program matures in the coming years. New directions and alternative 
+approaches in postmarketing surveillance studies will continue to be an important area for future 
+health services research.55 
+ 
+Acknowledgments 
+The research reported here was supported by the Department of Veterans Affairs, Veterans 
+Health Administration (VHA). The views expressed in this article are those of the authors and do 
+not necessarily represent the views of the Department of Veterans Affairs. 
+Author Affiliations 
+VISN-8 Patient Safety Center of Inquiry, Tampa, FL. 
+Address correspondence to: Robert R. Campbell, JD, MPH, PhD, VISN-8 Patient Safety Center 
+of Inquiry, 11605 North Nebraska Avenue (118M), Tampa, FL 33612; telephone: 813-558-3962; 
+fax: 813-558-3990; e-mail: robert.campbell3@va.gov. 
+8 
+References 
+ 
+ 
+14.  U.S. Pharmacopeia (USP) and the Institute for Safe 
+Medication Practices (ISMP) USP-ISMP Medication 
+Errors Reporting Program (MERP); 2006. Available 
+at: 
+1.  Drug safety: Improvement needed in FDA’s 
+postmarket decision-making and oversight process. 
+Report No.: GAO-06-402; Washington, DC: US 
+Government Accountability Office; 2006 March. 
+www.usp.org/hqi/patientSafety/mer/. Accessed 
+April 14, 2008.  
+15.  Department of Veterans Affairs (VA). Patient safety 
+reporting system. Patient Safety Resources: National 
+Center for Patient Safety; 2006. Available at: 
+2.  Baciu A, Stratton K, Burke SP, eds. The future of drug 
+safety: Promoting and protecting the health of the 
+public. Committee on the assessment of the U.S. drug 
+safety system, Board on Population Health and Public 
+Health Practice. Washington, DC: Institute of 
+Medicine; 2006. 
+www.va.gov/ncps/. Accessed April 14, 2008. 
+16.  Rosenthal J, Booth M. Maximizing the use of State 
+adverse event data to improve patient safety. Portland, 
+ME: National Academy for State Health Policy; 2005. 
+3.  Sibbald B. Rofecoxib (Vioxx) voluntarily withdrawn 
+from market. CMAJ 2004; 17: 1027-1028. 
+17.  Aspden P, Wolcott J, Bootman JL, et al, eds. 
+Preventing medication errors: Quality chasm series. 
+Committee on Identifying and Preventing Medication 
+Errors. Washington, DC: Institute of Medicine; 2006. 
+4.  Grassley C, Baucus M, Graham D, et al. FDA, Merck 
+and Vioxx: Putting patient safety first? United States 
+Senate Committee on Finance; 2004. Available at: 
+18.  Lenzer J. U.S. government agency to investigate FDA 
+over rofecoxib. Br Med J 2004; 329: 935. 
+news.public.findlaw.com/hdocs/docs/vioxx/111804vio
+xxhrngs.html. Accessed April 10, 2008. 
+19.  Rodriguez EM, Staffa JA, Graham DJ. The role of 
+databases in drug postmarketing surveillance. 
+Pharmacoepidemiol Drug Saf 2001; 10: 407-410. 
+5.  Carpenter D, Ting MM. Essay: The political logic of 
+regulatory error. Nat Rev Drug Discov 2005; 4: 819-
+823. 
+20.  Avorn J. Powerful medicines: The benefits, risks, and 
+costs of prescription drugs. New York: Alfred A. 
+Knopf: Distributed by Random House; 2004. 
+6.  Report to the nation: Improving public health through 
+human drugs. Rockville, MD: U.S. Food and Drug 
+Administration (FDA), Center for Drug Evaluation 
+and Research (CDER); 2005. 
+21.  FDA awards contracts on databases of adverse effects 
+of marketed drugs ability to monitor approved drugs 
+enhanced. FDA Talk Paper #T05-30. Rockville, MD: 
+Food and Drug Administration; 2005 October 7. 
+Available at: 
+7.  Gottlieb S. Opening Pandora's pillbox: Using modern 
+information tools to improve drug safety. Health Aff 
+(Millwood) 2005; 24: 938-948. 
+www.fda.gov/bbs/topics/answers/2005/ans01368.html
+8.  Pharmacovigilance planning: Planning of 
+pharmacovigilance activities. Report No.: 
+CPMP/ICH/5716/03. London: The European Agency 
+for the Evaluation of Medicinal Products (EMEA); 
+Report No.: CPMP/ICH/5716/03; 2003 November 20. 
+. 
+Accessed April 14, 2008.  
+22.  Assessment of the European community system of 
+pharmacovigilance. Karlsruhe, Germany: Fraunhofer 
+Institute for Systems and Innovation Research; Service 
+Contract No: FIF.20040739; 2006 January 25. 
+9.  International drug monitoring: The role of national 
+centres. Technical Report Series No 498. Geneva, 
+Switzerland; World Health Organization; 1972.  
+23.  Practical pharmacovigilance. In: WHO Collaborating 
+Centre for International Drug Monitoring. Uppsala, 
+Sweden: The Uppsala Monitoring Centre; 2006. 
+10.  Aronson JK, Ferner RE. Clarification of terminology 
+in drug safety. Drug Saf 2005; 28: 851-870. 
+24.  de Vries F, de Vries C, Cooper C, et al. Reanalysis of 
+two studies with contrasting results on the association 
+between statin use and fracture risk: The general 
+practice research database. Int J Epidemiol 2006; 35: 
+1301-1308. 
+11.  Smetzer JL, Cohen MR. Medication error reporting 
+systems. In: Medication errors. 2nd ed. Washington, 
+DC: American Pharmacists Association; 2006. 
+12.  U.S. Food and Drug Administration (FDA). 
+MedWatch; 2006. Available at: 
+25.  Paterson JM, Laupacis A, Bassett K, et al. Using 
+pharmacoepidemiology to inform drug coverage 
+policy: Initial lessons from a two-province 
+collaborative. Health Aff (Millwood) 2006; 25: 
+1436-1443. 
+www.fda.gov/medwatch/. Accessed April 14, 2008.  
+13.  United States Pharmacopeia (USP). MEDMARX®. 
+Rockville, MD: U.S. Pharmacopeia; 2006. Available 
+at: www.usp.org/products/medMarx/. Accessed April 
+14, 2008. 
+26.  Bennett CL, Nebeker JR, Lyons EA, et al. The 
+Research on Adverse Drug Events and Reports 
+(RADAR) project. JAMA 2005; 293: 2131-2140. 
+ 
+ 
+9 
+ 
+ 
+27.  National Center for Patient Safety. Department of 
+Veterans Affairs (VA); 2006. Available at: 
+38.  French DD, Spehar A, Campbell R, et al. A 
+medication surveillance system model to improve 
+patient safety: A national veterans study of 
+cyclooxygenase 2 inhibitors and risks of stroke or 
+myocardial infarction. J Patient Saf 2006; 2: 78-82. 
+www.va.gov/ncps/. Accessed April 10, 2008. 
+28.  Medicare prescription drug data development: 
+Methods for improving patient safety and 
+pharmacovigilance using observational data. DEcIDE 
+Projects in Progress; Rockville, MD: Agency for 
+Healthcare Research and Quality; 2006. 
+39.  Coulter D. PEM in New Zealand. In: Mann R, 
+Andrews E, eds. Pharmacovigilance. Chichester, UK: 
+Wiley & Sons; 2002. 
+29.  Campbell R, Bradham D, Sanchez-Anguiano A, et al., 
+eds. Developing a VHA Serious Injury Surveillance 
+System. Advances in patient safety: From research to 
+implementation. Rockville, MD: Agency for 
+Healthcare Research and Quality; 2005. Available at: 
+40.  Shakir S. PEM in the UK. In: Mann R, Andrews E, 
+eds. Pharmacovigilance. Chichester, UK: Wiley & 
+Sons; 2002.  
+41.  Center for Medicare & Medicaid Services (CMS). 
+Medicare Program; Medicare Part D data, Proposed 
+Rule. Federal Register 2006; 71: 61445-61455. 
+www.ahrq.gov/downloads/pub/advances/vol1/Campbe
+ll.pdf. Accessed April 10, 2008. 
+42.  Margo C, French D. Ischemic optic neuropathy in 
+male veterans prescribed phosphodiesterase-5 
+inhibitors. Am J Ophthalmol 2007; 143: 538-539. 
+30.  French D, Spehar A, Campbell R, et al. Outpatient 
+benzodiazepine prescribing, adverse events, and costs. 
+Advances in patient safety: From research to 
+implementation. Rockville, MD: Agency for 
+Healthcare Research and Quality; 2005. Available at: 
+43.  Facts about the 2007 National Patient Safety Goals. 
+Oakbrook Terrace, IL: Joint Commission on 
+Accreditation of Healthcare Organizations. Available 
+at: 
+www.ahrq.gov/downloads/pub/advances/vol1/French.
+pdf. Accessed April 10, 2008. 
+http://www.jointcommission.org/PatientSafety/Nation
+31.  French DD, Campbell R, Spehar A, et al. 
+Benzodiazepines and injury: A risk adjusted model. 
+Pharmacoepidemiol Drug Saf 2005; 14: 17-24. 
+alPatientSafetyGoals/07_npsg_facts.htm. Accessed 
+April 10, 2008. 
+44.  Risk assessment of observational data: Good 
+pharmacovigilance practices and 
+pharmacoepidemiologic assessment. Concept paper. 
+Rockville, MD: U.S. Food and Drug Administration; 
+2003 March 3; Docket number 02N-0528. 
+32.  French DD, Campbell R, Spehar A, et al. Outpatient 
+medications and hip fractures in the United States: A 
+national veterans study. Drugs Aging 2005; 22: 877-
+885. 
+33.  French DD, Chirikos TN, Spehar A, et al. Effect of 
+concomitant use of benzodiazepines and other drugs 
+on the risk of injury in a veterans population. Drug Saf 
+2005; 28: 1141-1150. 
+45.  The safety of medicines in public health programmes: 
+Pharmacovigilance an essential tool. Geneva, 
+Switzerland: World Health Organization; 2006. ISBN 
+92 4 159391 1 (NLM classification: QV771). 
+Available at: 
+34.  French DD, Campbell R, Spehar A, et al. National 
+outpatient medication profiling: Medications 
+associated with outpatient fractures in community-
+dwelling elderly veterans. Br J Clin Pharmacol 2007; 
+63: 238-244. 
+www.who.int/medicines/areas/quality_safety/safety_ef
+ficacy/Pharmacovigilance_B.pdf. Accessed April 10, 
+2008. 
+46.  Zhan C, Correa-de-Araujo R, Bierman AS, et al. 
+Suboptimal prescribing in elderly outpatients: 
+Potentially harmful drug–drug and drug–disease 
+combinations. J Am Geriatr Soc 2005; 53: 262-267. 
+35.  French DD, Campbell R, Spehar A, et al. Drugs and 
+falls in community-dwelling older people: A national 
+veterans study. Clin Ther 2006; 28: 619-630. 
+36.  French DD, Campbell R, Spehar A, et al. National 
+Veterans Health Administration hospitalizations for 
+syncope compared to acute myocardial infarction, 
+fracture, or pneumonia in community-dwelling elders: 
+Outpatient medication and comorbidity profiles. J Clin 
+Pharmacol 2006; 46: 613-619. 
+47.  Hanlon JT, Lindblad CI, Hajjar ER, et al. Update on 
+drug-related problems in the elderly. Am J Geriatr 
+Pharmacother 2003; 1: 38-43. 
+48.  Allard J, Hebert R, Rioux M, et al. Efficacy of a 
+clinical medication review on the number of 
+potentially inappropriate prescriptions prescribed for 
+community-dwelling elderly people. CMAJ 2001; 
+164: 1291-1296. 
+37.  French DD, Campbell RR, Spehar AM, et al. How 
+well do psychotropic medications match mental health 
+diagnoses? A national view of potential off-label 
+prescribing in VHA nursing homes. Age Ageing 2007; 
+36: 107-108. 
+49.  Lindblad CI, Hanlon JT, Gross CR, et al. Clinically 
+important drug-disease interactions and their 
+prevalence in older adults. Clin Ther 2006; 28: 
+1133-1143. 
+10 
+ 
+ 
+50.  Perucca E, Berlowitz D, Birnbaum A, et al. 
+Pharmacological and clinical aspects of antiepileptic 
+drug use in the elderly. Epilepsy Res 2006; 68 
+(Suppl 1): S49-S63. 
+54.  Memorandum of understanding between the Food and 
+Drug Administration and the Veterans Health 
+Administration, Department of Veterans Affairs. 
+MOU number 225-07-4300; 2007 January. Available 
+at: www.fda.gov/oc/mous/domestic/225-07-
+51.  French D, Campbell R, Spehar A, et al. How well do 
+psychotropic medications match mental health 
+diagnoses? A national view of potential off-label 
+prescribing in VHA nursing Homes. Age Ageing 
+2007; 36: 107-112. 
+4300.html. Accessed April 10, 2008. 
+55. Developing Evidence to Inform Decisions about 
+Effectiveness: The DEcIDE Network: Request for 
+Proposals; 2005 July. Rockville, MD: Agency for 
+Healthcare Research and Quality. Available at: 
+52.  FDA letters transmitted to Congress, March 16, 2007 
+concerning prescription drug users fees amendments 
+2007 (PDUFA IV). Available at: 
+www.ahrq.gov/fund/contarchive/rfp050010.htm. 
+Accessed April 10, 2008. 
+www.fda.gov/oc/pdufa/default.htm. Accessed April 
+10, 2008. 
+ 
+53.  Campbell R, French D, Cunningham F. Enhancing 
+post-marketing surveillance: Lessons from the 
+Veterans Health Administration. Presentation at the 3rd 
+Annual Harvard FDA Compliance symposium. 
+Boston, MA. August 24, 2007. Powerpoint 
+presentation available at: 
+www.ehcca.com/presentations/fdasymposium3/campb
+ell_4.ppt. Accessed April 10, 2008. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 

@@ -1,0 +1,339 @@
+loidea as a sister-group to the Papilionoidea
+and Hesperoidea, it is possible that Vogel’s
+organ is a degenerate ‘bat detector’. Our
+discovery may help to bring to light the evo-
+lutionary origin of this group of butterflies.
+Jayne E. Yack*, James H. Fullard†
+*Department of Biology and College of Natural
+Sciences, Carleton University, 
+Ottawa, Ontario K1S 5B6, Canada
+†Department of Zoology and Erindale College,
+University of Toronto, Mississauga, 
+Ontario L5L 1C6, Canada
+e-mail: jyack@ccs.carleton.ca
+1. Fullard, J. H. in Comparative Hearing: Insects (eds Hoy, R. R.,
+Popper, A. N. & Fay, R. R.) 279–326 (Springer, New York, 1998).
+2. Conner, W. E. J. Exp. Biol. 202, 1711–1723 (1999).
+3. Silberglied, R. E. in The Biology of Butterflies (eds Vane-Wright,
+R. I. & Ackery, P. R.) 207–223 (Academic, London, 1984).
+4. Yack, J. E. & Fullard, J. H. Ann. Entomol. Soc. Am. 86, 677–682
+(1993).
+5. Ribaric, D. & Gogala, M. Acta Entomol. Slov. 4, 5–12 (1996).
+6. Scoble, M. J. Bull. Br. Mus. Nat. Hist. (Entomol.) 53, 251–286
+(1986).
+7. Scoble, M. J. & Aiello, A. J. Nat. Hist. 24, 159–164 (1990).
+8. Jacobs, K., Otte, B. & Lakes-Harlan, R. J. Exp. Zool. 283,
+270–285 (1999).
+9. Hoy, R. R., Nolen, T. & Brodfuehrer, P. J. Exp. Biol. 146,
+287–306 (1989).
+10.Kristensen, N. P. & Skalski, A. W. in Handbook of Zoology,
+Arthropoda: Insecta, Part 35, Vol. 1, Lepidoptera: Moths and
+Butterflies (ed. Kristensen, N. P.) 7–25 (de Gruyter, Berlin, 1998).
+11.Novacek, M. J. Nature 315, 140–141 (1985).
+12.Vogel, R. Z. Wiss. Zool. 100, 210–244 (1912).
+13.Otero, L. D. Bol. Entomol. Venez. 5, 128–138 (1990).
+decagonal symmetry for the entire cluster
+(Fig. 1a) which enables the decagons to
+have identical subtiles, as suggested by the
+Gummelt coverage model, ensuring that the
+overlap rules required by this model are
+satisfied. 
+However, it is hard to see how a struc-
+ture with such extensive broken symmetry
+can be energetically stable. Figure 1b shows
+a typical Z-contrast image of clusters that
+do not have strong broken symmetry. In a
+Z-contrast image, the intensity is directly
+correlated with the mean-square atomic
+number (Z), so that transition metal (TM)
+columns are seen with much higher inten-
+sity than Al columns.
+The superimposition in Fig. 1c shows
+that the structure of the decagon proposed
+by Steinhardt et al. does not match our Z-
+contrast image in significant ways: the four
+proposed TM columns causing the broken
+symmetry are definitely absent from our
+image. In addition, our image reveals the
+presence of ten closely spaced TM column
+pairs in the outermost ring of the cluster, as
+indicated by double blue arrows in Fig. 1b.
+These are only single TM columns in the
+model of Steinhardt et al. 
+Turning to the central ring, our image
+clearly shows its underlying ten-fold sym-
+metry. It is seen as a ring, with an intensity
+varying between that of an Al column (red)
+and a TM column (yellow). This is incon-
+sistent with Steinhardt et al.’s triangular
+arrangement. This intensity pattern shows
+that there are ten closely spaced atomic
+columns around the central ring with a
+composition intermediate between that of
+an Al column and a TM column. However,
+there are many clusters with broken sym-
+metry in the central ring. 
+Figure 2 is a typical Z-contrast image of
+such a cluster where the intensity in the
+central ring shows broken decagonal sym-
+metry. The intensity distribution shows that
+266
+NATURE | VOL 403 | 20 JANUARY 1999 | www.nature.com
+principal obtectomeran groups originated
+around the late Palaeocene epoch (~60 mil-
+lion years ago)10, by which time microchi-
+ropteran bats had evolved echolocation11.
+We conclude that predation by bats imposed
+a great selection pressure on the evolution of
+ears in Lepidoptera.
+Butterflies are the largest and most
+diverse group of diurnal Lepidoptera, and
+the selection pressures generally proposed
+for their diurnality include various physio-
+logical and ecological factors, but not selec-
+tion pressure by bats. Given the significant
+impact of bats on other obtectomeran taxa,
+we suggest that diurnality in non-hedylid
+butterflies was also an anti-bat strategy,
+promoted by selection for individuals that
+avoided bats by appearing during the day.
+The butterfly, in effect, was therefore
+‘invented’ by the bat.
+Is the earless condition of other (non-
+hedylid) butterflies primitive or secondarily
+derived? Consider the Vogel’s organ, a
+forewing structure of unknown function that
+is distributed sporadically with varying
+degrees of development among certain
+Papilionoidea12,13. Our comparative anatomi-
+cal studies show that the hedylid ear and
+Vogel’s organ are homologous structures.
+Given the current placement of the Hedy-
+brief communications
+Alloys
+Atomic structure of the
+quasicrystal Al72Ni20Co8
+Steinhardt et al.1 reported experimental evi-
+dence in support of the coverage model2–4
+by presenting a structure for the high-per-
+fection decagonal quasicrystal Al72Ni20Co8.
+The coverage model describes the decagon-
+al quasicrystals by a single type of tile, a
+decagon, the basic 2-nm cluster of which is
+allowed to overlap so as to cover the surface.
+Although their Z-contrast image (also
+referred to as a high-angle annular dark-
+field image) supports the coverage model,
+we find that the atomic structure they pro-
+pose for the decagon has significant short-
+comings which are inconsistent with our
+Z-contrast images.
+The correct atomic structure of the
+decagon is critical to understanding how
+and why quasicrystals form. We have inves-
+tigated the same high-perfection decagonal
+quasicrystal Al72Ni20Co8 (provided by A. P.
+Tsai) by Z-contrast imaging, but at a higher
+spatial resolution (~0.13 nm) than Stein-
+hardt et al.1.
+The main feature in the proposed struc-
+ture of the decagon1 is the extensive broken
+Figure 1 Comparison of the proposed “best-fit candidate model”1 for the 2-nm cluster of the high-perfection decagonal quasicrystal
+Al72Ni20Co8 with our higher resolution Z-contrast image. a, The proposed model contains broken decagonal symmetry for the entire clus-
+ter: see, for example, the four yellow columns indicated by green arrows. b, Z-contrast image of a 2-nm cluster of the same high-perfec-
+tion decagonal quasicrystal Al72Ni20Co8 along the ten-fold axis. The bright yellow features show the locations of highest intensity
+corresponding to high transition-metal (TM) occupancy. Al columns have lower intensity and are seen as red features: see, for example,
+the ten red spokes around the central ring. These spokes connect the central ring to the ring of ten TM columns (yellow) and show the
+basic ten-fold symmetry of the cluster. c, The model cluster of Steinhardt et al. superimposed on our Z-contrast image shows that their
+four proposed TM columns indicated by green arrows are not present.
+Figure 2 Cluster showing broken decagonal symmetry within the
+central ring, but there are still ten columns present, five of which
+have higher intensities (yellow), indicating high TM occupancy,
+whereas the other five show high Al occupancy (red). One of the
+five TM columns is a single column; the others form closely
+spaced column pairs, very similar to those in the outer 2-nm ring. 
+© 2000 Macmillan Magazines Ltd
+there are still ten closely spaced columns at
+the central ring, but now only five have
+higher intensities indicating high TM occu-
+pancy, whereas the intensity of the remain-
+der is closer to that of an Al column. This
+indicates that the broken symmetry at the
+central ring is due to chemical ordering,
+and that there are ten sites, but with differ-
+ent TM and Al occupancies. This is also
+inconsistent with the triangular arrange-
+ment proposed by Steinhardt et al.
+There are significant differences between
+the structure model proposed by Stein-
+hardt et al. and our atomic-resolution Z-
+contrast image. Although these do not
+invalidate the coverage picture, they do
+prevent our understanding the formation of
+quasicrystals.
+We believe that the closely spaced col-
+umn pairs in the central and outermost
+rings that were not predicted by the struc-
+ture model of Steinhardt et al. are the key to
+understanding the formation of decagonal
+quasicrystals. They not only show that the
+structures of the decagonal quasicrystals
+and their crystalline approximants are more
+similar than Steinhardt et al. suppose, they
+also highlight the critical differences. On
+this basis, we have proposed a growth
+mechanism5 that explains why these clusters
+prefer to overlap and follow the Gummelt
+coverage picture. Our growth model pre-
+dicts that the overall structure will show
+ideal quasicrystal tiling, in the Gummelt
+coverage picture, when all clusters have
+strong chemical ordering in the central
+rings. If the clusters have no chemical
+ordering, the model predicts a random
+tiling. For real quasicrystals, their structure
+might be a mixture of both cases.
+Yanfa Yan*, Stephen J. Pennycook 
+Solid State Division, 
+Oak Ridge National Laboratory, 
+Oak Ridge, Tennessee 37831, USA
+*Present address: National Renewable Energy
+Laboratory, Golden, Colorado 80401, USA
+e-mail: yanfa_yan@nrel.gov
+1. Steinhardt, P. J. et al. Nature 396, 55–57 (1998); correction
+Nature 399, 84 (1999).
+2. Gummelt, P. Geometriae Dedicata 62, 1–17 (1996).
+3. Steinhardt, P. J. & Jeong, H.-C. Nature 382, 433–435 (1996).
+4. Jeong, H.-C. & Steinhardt, P. J. Phys. Rev. B 55, 3520–3532 (1997).
+5. Yan, Y. & Pennycook, S. J. Mater. Sci. Eng. (in the press).
+Steinhardt et al. reply — The purpose of our
+Letter1 was to present experimental support
+for the quasi-unit cell picture of quasicrys-
+tals. This model proposes that the atomic
+structure can be reduced to a single repeat-
+ing cluster satisfying certain ‘overlap rules’
+(sharing of atoms by neighbouring clus-
+ters). We proposed that the quasicrystalline
+phase of AlNiCo can be decomposed into a
+repeating decagonal atom cluster (20 Å in
+radius). Yan and Pennycook do not refute
+the quasi-unit cell concept — they also pro-
+pose a repeating cluster obeying the same
+overlap rules. However, they propose a dif-
+ferent atomic decoration for the repeating
+cluster that is ten-fold symmetric, whereas
+our decoration explicitly breaks ten-fold
+symmetry. This is important because our
+symmetry breaking corresponds precisely
+to the symmetry breaking of the overlap
+rules, and hence provides key evidence for
+the quasi-unit cell picture.
+Yan and Pennycook’s decoration is moti-
+vated by their impressive high-angle annu-
+lar dark-field (HAADF) imaging, obtained
+with higher resolution than we had avail-
+able. As they show, the imaging disagrees
+with the sites of four columns of transition
+metal (TM) atoms in our proposal (shown
+by arrows in their Fig. 1). However, we find
+that the problem can be resolved by a mod-
+est rearrangement of the previous decora-
+tion, switching 8 out of 100 atoms and
+retaining the broken ten-fold symmetry.
+The improved model in Fig. 1 has all the
+same qualitative properties as the original
+in ref. 1, matches the new HAADF (includ-
+ing Yan and Pennycook’s Fig 2.) and even
+more recent high-resolution transmission
+electron microscopy (HRTEM) imaging,
+and has a density and stoichiometry that fits
+measured values to better than 2 per cent.
+As more data become available (for
+example, from X-ray diffraction), further
+small refinements to our current best-fit
+decoration may be required, but the ten-
+fold symmetry breaking should remain as
+an essential property. The broken symmetry
+is necessary to explain three established fea-
+tures of AlNiCo: the broken symmetry
+consistently observed in through-focus
+HRTEM imaging of the clusters2; the bro-
+ken symmetry found within the central ring
+of most clusters in HAADF imaging, such
+as our Fig. 1 and Yan and Pennycook’s Fig. 2
+(ref. 2) (the very rare, more symmetric
+brief communications
+NATURE | VOL 403 | 20 JANUARY 1999 | www.nature.com
+267
+rings, as shown in their Fig. 1, can be
+explained as defects; ref. 2 and M. Widom,
+personal communication); and the appar-
+ent quasiperiodic correlation in the broken
+symmetry direction on moving from cluster
+to cluster in HAADF images (see Fig. 1 of
+ref. 1), as is found for a configuration of
+overlapping decagons.
+None of the features can be explained by
+symmetric clusters, even if chemical disor-
+der is introduced to randomly break the
+ten-fold symmetry. M. Widom and co-
+workers (personal communication) have
+completed a total-energy-based prediction
+of the structure of AlNiCo, making no prior
+assumption about the existence of repeating
+20-Å clusters. Yet decagonal clusters with
+broken ten-fold symmetry emerge as the
+lowest-energy configuration with nearly
+identical assignments of Al and TM posi-
+tions, as in our improved model.
+Paul J. Steinhardt*, H.-C. Jeong†, 
+K. Saitoh‡, M. Tanaka‡, E. Abe§, 
+A. P. Tsai§
+*Department of Physics, Princeton University,
+Princeton, New Jersey 08544, USA
+†Department of Physics, Sejong University,
+Kwangjin, Seoul 143-747, Korea
+‡Research Institute for Scientific Measurements,
+Tohoku University, 2-1-1 Katahira, 
+Aoba-ku, Sendai 980-8577, Japan
+§National Research Institute for Metals, 
+1-2-1 Sengen, Tsukuba, 
+Ibaraki 305-0047, Japan
+1. Steinhardt, P. J. et al. Nature 396, 55–57 (1998); correction
+Nature 399, 84 (1999).
+2. Abe, E. et al. http://xxx.lanl.gov/abs/cond-mat/9907160
+Figure 1 Improved decoration of the quasi-unit cell for AlNiCo
+compared to lattice image. Problematic TM sites in our earlier
+model1 have been removed. The figure includes atoms added by
+overlap of neighbour clusters; these lead to the formation of
+neighbour TM column pairs, as seen near the centre. Large cir-
+cles represent Ni (red) or Co (purple) and small circles represent
+Al. Solid circles represent c40 and open circles represent 
+c41/2 along the periodic c-axis.
+Biological rhythms
+Circadian clocks 
+limited by noise
+Circadian rhythms, which provide internal
+daily periodicity, are used by a wide range
+of organisms to anticipate daily changes in
+the environment1. It seems that these
+organisms generate circadian periodicity by
+similar biochemical networks within a sin-
+gle cell2. A model based on the common
+features of these biochemical networks
+shows that a circadian network can oscillate
+reliably in the presence of stochastic bio-
+chemical noise and when cellular condi-
+tions are altered. We propose that the ability
+to resist such perturbations imposes strict
+constraints on the oscillation mechanisms
+underlying circadian periodicity in vivo.
+There is evidence that clock networks
+share common features in a wide range of
+organisms, from cyanobacteria to mam-
+mals2. For instance, all networks seem to
+include an interaction between two types of
+component (Fig. 1a): positive elements (or
+activators, such as KaiA in Synechococcus,
+Wc1-2 in Neurospora, Clc and Cyc in
+© 2000 Macmillan Magazines Ltd

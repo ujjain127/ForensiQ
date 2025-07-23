@@ -1,0 +1,511 @@
+Reentrant Orbital Order and the True Ground State of LaSr2Mn2O7
+Qing’An Li,1,2 K. E. Gray,2,* H. Zheng,2 H. Claus,2 S. Rosenkranz,2 S. Nyborg Ancona,2 R. Osborn,2 J. F. Mitchell,2
+Y. Chen,3,4 and J. W. Lynn3
+1Chinese Academy of Sciences, Beijing, China
+2Materials Sciences Division, Argonne National Laboratory, Argonne, Illinois 60439, USA
+3NIST Center for Neutron Research, National Institute of Standards and Technology, Gaithersburg, Maryland 20899, USA
+4Department of Materials Science and Engineering, University of Maryland, College Park, Maryland 20742, USA
+(Received 4 May 2006; published 19 April 2007)
+Contrary to conventional wisdom, our puriﬁed La22xSr12xMn2O7 crystals exhibit CE-type orbital and
+charge order as the low-temperature ground state for a hole doping level h  0:5. For small deviations
+from h  0:5, the high-temperature CE phase is replaced at low temperatures by an A-type antiferro-
+magnet without coexistence. Larger deviations result in a lack of CE order at any temperature. Thus, small
+inhomogeneities in cation or oxygen composition could explain why others commonly see this reentrance
+with coexistence.
+DOI: 10.1103/PhysRevLett.98.167201
+PACS numbers: 75.30.Et, 75.60.d
+The quest to better understand strongly correlated elec-
+trons is at the heart of condensed matter inquiry. Colossal
+magnetoresistive manganites exhibit a particularly vigo-
+rous competition among orbital, charge, and spin order
+[1,2]. The phase diagrams, e.g., La1xSrxMnO3 or the
+bilayer version La22xSr12xMn2O7, display interesting
+features near half doping (x  0:5) where, e.g., long-range
+orbital and ‘‘checkerboard’’ charge ordering (CE type) is
+predicted [3]. In bilayer manganites, it has been commonly
+accepted that CE order at x  0:5 is reentrant [4–10]: it
+forms below 210 K, but then is replaced by an A-type
+antiferromagnet (AAFM) below 100 K. The lack of a
+low-temperature CE ordered ground state is surprising as it
+is found at x  0:5 in many perovskite manganites [11]. In
+bilayer manganites, coexistence of CE order and AAFM
+between 100 and 200 K is also universally reported
+[4–7,9].
+All reports of reentrance in LaSr2Mn2O7 are based on
+superlattice peaks in neutron [4–7], x-ray [6–10], and
+electron [12–14] diffraction and/or a peak in the resis-
+tivity [4,6,8,12]. However, consistent with our own ex-
+perience, these reported properties quoted as x  0:5
+doping are variable. This implies an exquisite sensitivity
+to
+the
+exact
+value
+of
+hole
+doping,
+h  x  
+in
+La22xSr12xMn2O7. This dictates a vital burden to
+obtain sample uniformity. Thus, in the present study we
+have puriﬁed large single crystals, which often exhibit
+compositional gradients, by cleaving them into very small
+crystals (1 mg) and discarding those that do not pass our
+test for uniformity (see below). Combining conductivity,
+magnetization, and neutron and high-energy x-ray diffrac-
+tion data on such highly homogeneous crystals, we here
+show that the CE order predicted by Goodenough [3] is the
+low-temperature ground state, presumably at h  0:5, and
+that coexistence of CE and AAFM order is absent. We
+argue that reentrance only occurs for small deviations from
+0.5 and propose a revised phase diagram for bilayer man-
+ganites near h  0:5.
+Crystals were melt grown in an optical image furnace
+[15]. The c axis is perpendicular to the platelike crystals
+(2  0:5  0:1 mm3) and four gold pads are deposited
+along the top and bottom surfaces for transport measure-
+ments. In order to obtain a direct measure of the different
+order parameters, we performed high-energy synchrotron
+x-ray scattering experiments at the 1-ID-C station of the
+Advanced Photon Source at Argonne National Laboratory
+and neutron scattering experiments at the BT-7 triple-axis
+instrument at the NIST Center for Neutron Research. We
+utilize the (9=4; 1=4; 0) reﬂection obtained using 80 keV
+x rays and the neutron intensities of the (1=4; 1=4; 3) and
+(1; 1; 3) reﬂections as measures of the CE orbital order, the
+CE antiferromagnetic order (CEAFM), and the A-type
+antiferromagnetic order, respectively [4].
+Since four-terminal methods are unreliable for bulk
+crystals, we use six terminals to determine each principal
+component of conductivity, i.e., along the c axis, c, and in
+the ab plane, ab [16]. In transport method A, current is
+injected through the outermost contacts on one surface
+[Fig. 1(a)]. Laplace’s equation is solved and inverted to
+get ab and c from voltages measured across the inner-
+most contacts of each surface. In method B, Laplace’s
+equation is solved for current injection through the top
+and bottom contacts at one end of the crystal, while volt-
+ages are measured between pairs of contacts on the top and
+bottom of the crystal [Fig. 1(b)].
+ 
+Vtop
+Current, I
+V1
+V2
+V3
+Current, I
+(a)
+V1
+V2
+V3
+Method A 
+Vbottom
+Method B 
+ (b)
+FIG. 1 (color online).
+Schematic of six-terminal conﬁgurations
+for method A (a) and method B (b).
+PRL 98, 167201 (2007)
+P H Y S I C A L
+R E V I E W
+L E T T E R S
+week ending
+20 APRIL 2007
+0031-9007=07=98(16)=167201(4)
+167201-1
+© 2007 The American Physical Society
+To test for homogeneity, we evaluate ab and c in four
+conﬁgurations. Two use method A with current applied to
+the outer contacts of either the top or bottom surfaces and
+two use method B with current applied to the end contacts
+on either the right-hand or left-hand sides. We require both
+abT and cT to be qualitatively the same for all four
+conﬁgurations and within a factor of 2–3 in magnitude.
+Crystals used for Figs. 2 and 3 all pass our criteria, as
+described in Ref. [17]. Homogeneous crystals with a nomi-
+nal x  0:5 fall into three batches: batch A are reentrant,
+batch B exhibits CE order as the predominant low-
+temperature ground state, and batch C never exhibit CE
+order. Examples of these are indicated in the highly sche-
+matic phase diagram of Fig. 4. The fact that we see three,
+and only three, unique states using four different bulk
+probes is unmistakable evidence of sufﬁcient composi-
+tional uniformity. Any broad distribution of h  x  
+would result in the coexistence of these states in some of
+the 12 crystals studied. The relevance of  is seen in one
+reentrant crystal that transformed into a nonreentrant crys-
+tal after annealing in pure oxygen for 60 hrs at 600 C. Our
+scattering probes show that our samples consist of up to
+two or three slightly misaligned crystallites but are free
+from any impurity phases within our detection limits.
+Most of our crystals of nominal x  0:5 composition
+display a transition from a paramagnetic insulator (PMI)
+above 200 K into a CE-type orbital and charge-ordered
+state. This is often (batch A) followed by a hysteretic
+transition
+into
+a
+state
+with
+higher
+magnetization
+[Fig. 2(a)] and conductivity [Figs. 2(b) and 2(c)] below
+100 K that does not exhibit the CE-type superlattice
+reﬂections [Figs. 2(d) and 3]. Our neutron diffraction
+data [Fig. 2(e)] conﬁrm that the low-temperature state is
+the previously identiﬁed AAFM [4–7]. However, in sev-
+eral crystals (batch B) no more than a few percent
+[Figs. 2(f)–2(j)] transformed into the AAFM. A natural
+explanation is that CE order is the stable ground state only
+over a very narrow range of h and there are crystal-to-
+crystal variations of the average hole doping hhi and a ﬁnite
+width of the distribution h. Thus, when hhi is most
+favorable for CE order, presumably at 0.5 as predicted by
+ 
+0.30
+0.25
+0.20
+0.15
+0.10
+0.05
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+CE Intensity (arb. units)
+300
+250
+200
+150
+100
+50
+0
+temperature (K)
+σc (S/cm)
+(a)
+(b)
+batch-C
+crystal
+FIG. 3 (color online).
+Temperature dependencies of (a) c and
+(b) x-ray diffraction intensity of the superlattice reﬂection for CE
+order (9=4; 1=4; 0), measured on the same crystal. Reentrance
+and hysteresis show a perfect correlation upon cooling (open
+symbols) and warming (ﬁlled symbols). Also shown in (a) are
+the conductivity data (black diamonds) for a batch-C crystal.
+ 
+intensity (counts/min)
+(c)
+50
+150
+250
+σc (S/cm)
+0.2
+0.1
+50
+150
+250
+temperature (K)
+(d)
+cooling
+warming
+CEAFM
+warming
+cooling
+AAFM
+(e)
+250
+50
+150
+temperature (K)
+(h)
+0
+cooling
+warming
+CEAFM
+(i)
+warming
+AAFM
+(j)
+m0 H = 3 T
+(f)
+(g)
+50
+100
+σab (S/cm)
+(b)
+2
+4
+6
+M (emu/g)
+m0 H = 3 T
+(a)
+0
+200
+400
+600
+FIG. 2 (color online).
+Temperature dependence, shown for
+reentrant crystals (a)–(e) and nonreentrant crystals (f)–(j), of
+magnetization (a),(f), conductivity in ab plane (b),(g), and along
+caxis (c),(h), and neutron diffraction for CEAFM (d),(i) and
+A-type AFM (e),(j). Open symbols refer to cooling and ﬁlled
+symbols to warming.
+PRL 98, 167201 (2007)
+P H Y S I C A L
+R E V I E W
+L E T T E R S
+week ending
+20 APRIL 2007
+167201-2
+Goodenough [3], a larger fraction of the crystal would
+exhibit the CE ground state at low temperatures. Then
+for sufﬁciently small h, the CE ground state can be the
+majority phase. For crystals exhibiting reentrance we be-
+lieve hhi differs somewhat from 0.5. We also ﬁnd crystals
+(batch C) without a transition to the CE state, implying that
+hhi is yet further from 0.5. The conductivity data for
+batch-C crystals are very similar to that of Ref. [18] and
+are shown in Fig. 3(a) for a nominal doping x  0:48. Note
+that the sharp decrease in c at 200 K, found in the
+reentrant and nonreentrant crystals, is entirely absent, and
+the conductivity changes directly from the PMI to the
+AAFM behavior.
+Data on batch-A crystals display a striking temperature
+dependence and hysteresis in ab and c and magnetiza-
+tion, as shown in Figs. 2(a)–2(c) and 3(a). Similar hys-
+teresis is also found in the diffraction data of Figs. 2(d),
+2(f), and 3(b) and in the data of others [4,7]. Such hystere-
+sis was also reported in resonant x-ray studies [9], but we
+are unaware of reports of such dramatic hysteresis in the
+conductivity or magnetization of LaSr2Mn2O7. The drops
+in our conductivity and magnetization data exhibit a simi-
+lar temperature range and hysteresis as all the published
+diffraction data [4,7,9]. A striking conclusion of our neu-
+tron diffraction data for this batch-A crystal is the lack of
+coexistence of CE and AAFM order, which is universally
+found by others [4,6,7]. Neutrons probe AAFM and
+CEAFM order [Figs. 2(d) and 2(e)], the latter of which
+only occurs below 130 K (above 130 K the CE state is
+paramagnetic). In warming and cooling cycles, one, and
+only one, state is ever found. This conclusion is possible
+because of the small h in our crystals. Near the lower-
+temperature transition of batch-A crystals, we found evi-
+dence for sluggish kinetics that was assisted by magnetic
+ﬁelds of 7 T. This may imply a small energy difference
+between these states since the change in magnetization at
+the transition is only 2 emu=g. Further, the broad thermal
+hysteresis associated with reentrance implies there is only
+a slight difference in the temperature dependencies of their
+free energies.
+Crystals from batch B exhibit a similar high-temperature
+transition, but only a trace of the lower-temperature tran-
+sition to AAFM states. This is clearly seen in magnetiza-
+tion [Fig. 2(f)] and conductivity [Figs. 2(g) and 2(h)].
+Apparently the free energy for CE order, that is the ma-
+jority phase of batch-B crystals, is sufﬁciently low so that
+CE order remains stable down to low temperatures. Since
+CE order has a sharp minimum in its free energy for h
+exactly 0.5, batch-B crystals should have hhi very close to
+that value. We conﬁrm the low-temperature CE state
+through the CEAFM reﬂection [Fig. 2(i)] by neutron dif-
+fraction in a slightly larger nonreentrant crystal. A minor
+part of batch-B crystals may transform into the AAFM
+below 100 K [Fig. 2(j)]. Others [7,10] have identiﬁed a
+weak CE superlattice peak at low temperatures which
+decays upon warming to above 50 K, but then reappears
+as a strong peak at 120 K. This has the appearance of a
+nonequilibrium ‘‘quenched-in’’ CE state, that is then an-
+nealed out upon warming to 50 K. To dispel this possi-
+bility and address thermodynamic stability, we monitor
+these reﬂections during slow cooling (&1 K= min) that
+should minimize quenched-in CE order due to sluggish
+kinetics. We ﬁnd that the CEAFM reﬂection is reversible
+upon slow heating [Fig. 2(i)], and conclude that the CE
+phase is the low-temperature ground state in a majority of
+each batch-B crystal.
+For batch-B crystals, the succession of states with de-
+creasing temperature (shown schematically in Fig. 4) can
+be cast in terms of entropy. Transforming from the PMI to a
+charge-ordered paramagnet (CEPM) gains orbital and
+charge order while the onset of AFM in the CE state at
+130 K additionally gains magnetic order. Transitions
+between the AAFM and CEAFM states are more complex:
+the internal energy for a CEAFM increases as h deviates
+from 0.5 while the broad hysteresis implies similar tem-
+perature dependencies of their free energies. Therefore the
+phase boundary is almost vertical versus h. Batch-A crys-
+tals also transform from PMI to CEPM at 200 K but CE
+order appears to be metastable at lower temperatures
+(dashed lines in Fig. 4) until it transforms at 100 K to
+the AAFM ground state. Within this metastable region, the
+CE state develops CEAFM order below 130 K due to a
+gain in magnetic entropy. Upon warming, CEAFM order is
+absent and AAFM order persists until CEPM order is
+thermodynamically stable (T > 130 K). Thus it appears
+ 
+0.46
+0.47
+0.48
+0.49
+0.5
+0.51
+0.52
+0.53
+0.54
+hole doping h
+B
+coexistent
+0
+50
+100
+150
+200
+250
+temperature (K)
+PMI
+PMI
+AAFM
+AAFM
+CEPM
+CEAFM
+CEAFM
+(metastable)
+A
+C
+FIG. 4 (color online).
+Schematic, qualitative phase diagram
+near h  0:5. Symbols are measured transition temperatures
+(open: cooling; ﬁlled: warming). Except for h  0:46 and
+0.54, the h values are arranged to connect smoothly with other
+data since we cannot determine them with sufﬁcient precision.
+Reentrant crystal data are plotted symmetrically both above and
+below 0.5. The metastable CEAFM is found on cooling but not
+on warming. The width of the boxes labeled coexistent, A, B, and
+C represent suggested range of h values (i.e., hhi 	 h) for
+coexistent crystals and batches A, B, and C.
+PRL 98, 167201 (2007)
+P H Y S I C A L
+R E V I E W
+L E T T E R S
+week ending
+20 APRIL 2007
+167201-3
+that the magnetic entropy gain in the CEPM is necessary to
+overcome the barrier between AAFM and CE states upon
+warming.
+Batch-C crystals show no evidence in conductivity or
+high-energy x-ray diffraction for CE order although they
+were made with a nominal composition of x  0:5. The
+CE superlattice reﬂections seen in batch-A and batch-B
+crystals were missing at all temperatures down to 100 K.
+Curiously, all previously published conductivity data
+[4,6,8,11] and in particular [18] known to us and quoted
+as x  0:5 look more like our batch-C crystals, although
+some show a small hysteresis [4,6,8]. A resistivity com-
+parison [19] among these indicates a remarkable consis-
+tency in temperature dependence and thus establishes our
+batch-C crystals as a commonly seen variant quoted to be
+the x  0:5 layered manganite. The data of Refs. [6,8] do
+show a somewhat larger resistivity peak at 180 K that
+could be the signature of some CE order in their crystals
+and each of these report the CE reﬂection. However, the
+resistivity peak associated with CE order in our batch-A
+crystals is at least 10 times larger than the maximum value
+reported by others [6,8]. This may imply CE order occurs
+in a larger fraction of our puriﬁed batch-A crystals.
+The electronic nature of AAFM states near h  0:5 is
+not so easily determined. Conductivity for x  0:58 crys-
+tals indicates ab-plane metals [20], whereas insulating
+behavior is seen for x  0:46 [21]. Conductivity data for
+the AAFM states of batch-A and batch-C crystals fall
+between these two extremes. A possible scenario is a
+continuous ab-plane metal-to-insulator transition as h de-
+creases from 0:58 to 0:46. In this picture the CE order
+replaces the AAFM over a limited h range centered at 0.5,
+but the h dependence of the AAFM states are otherwise
+unaffected.
+In summary, contrary to published data and accepted
+wisdom for LaSr2Mn2O7, we show that
+the zero-
+temperature ground state is the CE type predicted by
+Goodenough [3]. We also ﬁnd no evidence of CE and
+AAFM coexistence. That we do not know the exact h
+values is not critical to these two new observations, but
+compositional purity was crucial to these discoveries. It
+was accomplished by stringent testing of small (1 mg)
+crystals and veriﬁed by our observations with bulk probes
+of only three, unique, states in the 12 crystals tested. The
+lack of sufﬁcient purity could explain why others consis-
+tently see coexistence of CE and AAFM order.
+The authors thank Peter Lee for assistance with synchro-
+tron x-ray diffraction at the Advanced Photon Source. This
+research was supported by the U.S. Department of Energy,
+Basic Energy Sciences-Materials Sciences, under Contract
+No. DE-AC02-06CH11357.
+*Electronic address: KenGray@anl.gov
+[1] S. Jin, T. H. Tiefel, M. McCormack, R. A. Fastnacht,
+R. Ramesh, and L. H. Chen, Science 264, 413 (1994).
+[2] Y. Moritomo, A. Asamitsu, H. Kuwahara, and Y. Tokura,
+Nature (London) 380, 141 (1996).
+[3] J. B. Goodenough, Phys. Rev. 100, 564 (1955).
+[4] M. Kubota, H. Yoshizawa, Y. Moritomo, H. Fujioka, K.
+Hirota, and Y. Endoh, J. Phys. Soc. Jpn. 68, 2202 (1999).
+[5] C. D. Ling, J. E. Millburn, J. F. Mitchell, D. N. Argyriou,
+J. Linton, and H. Bordallo, Phys. Rev. B 62, 15 096 (2000).
+[6] D. N. Argyriou, H. N. Bordallo, B. J. Campbell, A. K.
+Cheetham,
+D. E. Cox, J. S. Gardner, K. Hanif, A.
+dos Santos, and G. F. Strouse, Phys. Rev. B 61, 15 269
+(2000).
+[7] T. Chatterji, G. J. McIntyre, W. Caliebe, R. Suryana-
+rayanan,
+G. Dhaleene, and A. Revcolevschi, Phys.
+Rev. B 61, 570 (2000).
+[8] T. Kimura, R. Kumai, Y. Tokura, J. Q. Li, and Y. Matsui,
+Phys. Rev. B 58, 11 081 (1998).
+[9] Y. Wakabayashi, Y. Murakami, I. Koyama, T. Kimura,
+Y. Tokura, Y. Moritomo, Y. Endoh, and K. Hirota, J. Phys.
+Soc. Jpn. 72, 618 (2003).
+[10] S. B. Wilkins, P. D. Spencer, T. A. W. Beale, P. D. Hatton,
+M. v. Zimmermann, S. D. Brown, D. Prabhakaran, and
+A. T. Boothroyd, Phys. Rev. B 67, 205110 (2003).
+[11] Y. Tomioka and Y. Tokura, Colossal Magneto-resistive
+Oxides (Gordon Breach, Amsterdam, 2000), Chap. 8.
+[12] J. Q. Li, Y. Matsui, T. Kimura, and Y. Tokura, Phys. Rev. B
+57, R3205 (1998).
+[13] J. Q. Li, C. Dong, L. H. Liu, and Y. M. Ni, Phys. Rev. B 64,
+174413 (2001).
+[14] Z. P. Luo, D. J. Miller, and J. F. Mitchell, Phys. Rev. B 71,
+014418 (2005).
+[15] J. F. Mitchell, D. N. Argyriou, J. D. Jorgensen, D. G.
+Hinks, C. D. Potter, and S. D. Bader, Phys. Rev. B 55,
+63 (1997).
+[16] Qing’An Li, K. E. Gray, and J. F. Mitchell, Phys. Rev. B
+59, 9357 (1999).
+[17] Qing’An Li, K. E. Gray, S. Nyborg Ancona, H. Zheng,
+S. Rosenkranz, R. Osborn, and J. F. Mitchell, Phys. Rev.
+Lett. 96, 087201 (2006).
+[18] X. J. Chen, C. L. Zhang, J. S. Gardner, J. L. Sarrao, and
+C. C. Almasan, Phys. Rev. B 68, 064405 (2003).
+[19] To compare the literature results on an equivalent basis,
+we use our own four-terminal data, along a ﬂat c-axis face
+of the crystal that is the ‘‘top’’ voltage in Fig. 3(a) and
+Ref. [16]. We assume this conﬁguration for cases in the
+literature where the lead conﬁguration is unspeciﬁed.
+[20] E. Badica, K. E. Gray, J. F. Mitchell, and H. Zheng, Phys.
+Rev. B 70, 174435 (2004).
+[21] Qing’An Li, K. E. Gray, and J. F. Mitchell, Phys. Rev. B
+67, 184426 (2003). N.B. The crystal used in this study was
+originally designated as x  0:48, but extensive recent
+studies using boules made nominally at x  0:48 and
+0.46 lead us to believe it was actually closer to 0.46.
+PRL 98, 167201 (2007)
+P H Y S I C A L
+R E V I E W
+L E T T E R S
+week ending
+20 APRIL 2007
+167201-4

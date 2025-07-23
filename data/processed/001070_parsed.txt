@@ -1,0 +1,258 @@
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Medical Expenditure Panel Survey  
+ 
+ 
+Agency for Healthcare 
+Research and Quality
+STATISTICAL BRIEF #144 
+ 
+ 
+October 2006 
+ 
+Trends in Brand Name and Generic 
+Prescribed Medicine Utilization and 
+Expenditures, 1999 and 2003 
+Highlights 
+ 
+The proportion of the civilian 
+noninstitutionalized popula-
+tion purchasing a brand 
+name prescribed medicine 
+increased from 47.5 percent 
+to 53.4 percent when com-
+paring the years 1999 and 
+2003; the proportion of the 
+population purchasing a ge-
+neric prescribed medicine did 
+not change significantly when 
+comparing the two years.   
+ 
+From 1999 to 2003, the 
+number of total purchases   
+of brand name and generic 
+prescribed medicines by the 
+community population in-
+creased from 1.3 billion to  
+1.7 billion purchases for 
+brand name drugs and from 
+0.8 billion to 1.1 billion pur-
+chases for generic drugs. 
+ 
+Among the community popu-
+lation, total expenditures for 
+brand name prescribed medi-
+cines and generic prescribed 
+medicines nearly doubled in 
+the five-year span from 1999 
+to 2003, going from $75.5 
+billion to $141.0 billion for 
+brand name drugs and from 
+$18.8 billion to $36.6 billion 
+for generics. 
+ 
+In the five years from 1999 to 
+2003, the average expense 
+per purchase for brand name 
+and generic prescribed medi-
+cines increased, with the 
+average expense for a brand 
+name rising from $59.49 to 
+$82.53, and the average ex-
+pense for a generic rising 
+from $23.48 to $33.53. 
+ 
+Marie N. Stagnitti, MPA 
+ 
+ 
+Introduction 
+ 
+This Statistical Brief presents data from the Household Component 
+of the Medical Expenditure Panel Survey (MEPS-HC) on brand 
+name and generic prescribed medicine utilization and expenditures 
+in the U.S. civilian noninstitutionalized (community) population in 
+1999 and 2003. Estimates were derived from the 1999 and 2003 
+MEPS prescribed medicines (PMED) files.  
+ 
+Only prescribed drugs obtained in an outpatient setting are included 
+in the estimates provided in this brief. Insulin and diabetic supplies 
+and equipment are included in MEPS prescribed medicines 
+estimates. Over-the-counter medicines are excluded from these 
+estimates as are prescription medicines administered in an inpatient 
+setting or in a clinic or physician’s office. Expenditures are in 
+nominal dollars. All differences discussed in the text are statistically 
+significant at the 0.05 level. 
+ 
+Findings 
+ 
+In 1999, 47.5 percent of the 276.4 million persons in the U.S. civilian 
+noninstitutionalized (community) population purchased at least one 
+brand name prescribed medicine during the year, and 46.9 percent 
+purchased at least one generic prescribed medicine during the year. 
+By 2003, the U.S. community population had grown to 290.6 million 
+persons, and the proportion of persons purchasing at least one 
+brand name drug increased to 53.4 percent. However, the 
+proportion purchasing at least one generic drug did not change 
+significantly when comparing the years 1999 and 2003. (figure 1)  
+ 
+Utilization of brand name prescribed drugs rose from 1.3 billion 
+purchases to 1.7 billion purchases in the five-year span from 1999 
+to 2003. Generic drugs also increased in utilization, rising from 0.8 
+billion purchases to 1.1 billion purchases from 1999 to 2003. (figure 
+2)  
+ 
+When comparing the years 1999 and 2003, total expenditures 
+increased significantly for both brand name and generic prescribed 
+medicines. Brand name drugs total expenditures increased from 
+$75.5 billion to $141.0 billion, and generic drugs total expenditures increased from $18.8 billion dollars to 
+$36.6 billion. (figure 3) 
+ 
+In 1999, the average expense per purchase for a brand name prescribed drug was $59.49, and the 
+average expense for a generic drug was $23.48. Five years later, in 2003, the average expense 
+increased to $82.53 for a brand name drug and $33.53 for a generic drug. (figure 4) 
+ 
+Definitions 
+ 
+Brand name and generic prescribed drugs 
+Brand name and generic status was identified by linking the 1999 and 2003 MEPS Prescribed Medicines 
+Files to the Master Drug DataBase, which is published by Medi-Span, for corresponding years. The Medi-
+Span Master Drug DataBase includes a Multi-Source Code variable. This variable allows a prescribed 
+drug to be designated as 1) single-source, no generics available; 2) single-source, co-licensed; 3) original 
+product, generic available; and 4) considered generic, multiple sources. For this brief, drugs falling into 
+categories 1, 2, and 3 were considered brand name drugs, and drugs falling into category 4 were 
+considered generic drugs.    
+ 
+Expenditures 
+Expenditures are in nominal dollars. 
+ 
+About MEPS-HC 
+ 
+MEPS-HC is a nationally representative longitudinal survey that collects detailed information on health 
+care utilization and expenditures, health insurance, and health status, as well as a wide variety of social, 
+demographic, and economic characteristics for the civilian noninstitutionalized population. It is 
+cosponsored by the Agency for Healthcare Research and Quality and the National Center for Health 
+Statistics.  
+ 
+For more information about MEPS, call the MEPS information coordinator at AHRQ (301-427-1656) or 
+visit the MEPS Web site at http://www.meps.ahrq.gov/. 
+ 
+References 
+ 
+For a detailed description of the MEPS survey design, sample design, and methods used to minimize 
+sources of nonsampling error, see the following publications:  
+ 
+Cohen, J. Design and Methods of the Medical Expenditure Panel Survey Household Component. MEPS 
+Methodology Report No. 1. AHCPR Pub. No. 97-0026. Rockville, Md.: Agency for Health Care Policy and 
+Research, 1997.  
+ 
+Cohen, S. Sample Design of the 1996 Medical Expenditure Panel Survey Household Component. MEPS 
+Methodology Report No. 2. AHCPR Pub. No. 97-0027. Rockville, Md.: Agency for Health Care Policy and 
+Research, 1997.  
+ 
+Cohen, S. Design Strategies and Innovations in the Medical Expenditure Panel Survey. Medical Care, 
+July 2003: 41(7) Supplement: III-5–III-12. 
+ 
+Suggested Citation 
+ 
+Stagnitti, M. N. Trends in Brand Name and Generic Prescribed Medicine Utilization and Expenditures, 
+1999 and 2003. Statistical Brief #144. October 2006. Agency for Healthcare Research and Quality, 
+Rockville, MD. http://www.meps.ahrq.gov/mepsweb/data_files/ publications/st144/stat144.pdf 
+ 
+∗ ∗ ∗ 
+ 
+AHRQ welcomes questions and comments from readers of this publication who are interested in 
+obtaining more information about access, cost, use, financing, and quality of health care in the United 
+States. We also invite you to tell us how you are using this Statistical Brief and other MEPS data and 
+tools and to share suggestions on how MEPS products might be enhanced to further meet your needs. 
+Please e-mail us at mepspd@ahrq.gov or send a letter to the address below: 
+ 
+Steven B. Cohen, PhD, Director 
+Center for Financing, Access, and Cost Trends  
+Agency for Healthcare Research and Quality 
+540 Gaither Road 
+Rockville, MD 20850 
+Source: Center for Financing, Access, and Cost Trends, AHRQ, Household Component of the Medical Expenditure Panel Survey, 
+1999 and 2003.
+46.9
+47.5
+53.4
+46.0
+0
+25
+50
+75
+100
+Brand name
+Generic
+1999
+2003
+Figure 1. Percentage of U.S. civilian noninstitutionalized 
+population with at least one brand name or generic 
+prescribed medicine purchase, 1999 and 2003
+Percent
+ 
+  
+Source: Center for Financing, Access, and Cost Trends, AHRQ, Household Component of the Medical Expenditure Panel Survey, 
+1999 and 2003.
+1.3
+0.8
+1.1
+1.7
+0
+1
+2
+Brand name
+Generic
+1999
+2003
+Figure 2. Total utilization for brand name and generic prescribed 
+medicines in the U.S. civilian noninstitutionalized population, 
+1999 and 2003
+Purchases in billions
+ 
+Source: Center for Financing, Access, and Cost Trends, AHRQ, Household Component of the Medical Expenditure Panel Survey, 
+1999 and 2003.
+18.8
+75.5
+141.0
+36.6
+$0
+$50
+$100
+$150
+Brand name
+Generic
+1999
+2003
+Figure 3. Total prescribed drug expenditures for brand name 
+and generic prescribed medicines in the U.S. civilian 
+noninstitutionalized population, 1999 and 2003
+Dollars in billions
+ 
+ 
+Source: Center for Financing, Access, and Cost Trends, AHRQ, Household Component of the Medical Expenditure Panel Survey, 
+1999 and 2003.
+$23.48
+$59.49
+$82.53
+$33.53
+$0
+$20
+$40
+$60
+$80
+$100
+Brand name
+Generic
+1999
+2003
+Figure 4. Average prescribed medicine expense per purchase 
+for brand name and generic drugs, 1999 and 2003
+Dollars
+ 

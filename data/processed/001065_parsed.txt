@@ -1,0 +1,634 @@
+-----Original Message----
+From: Wegner, Harold C. 
+Sent: Tuesday, September 04, 2007 6:53 PM 
+To: Markush.Comments 
+Subject: Harold C. Wegner - testimony attached 
+ 
+markush.comments@uspto.gov 
+Testimony of 
+Harold C. Wegner 
+responsive to Proposed Rulemaking 
+Examination of Patent Applications that Include  
+Claims Containing Alternative Language  
+72 Federal Register 44992 
+August 10, 2007 
+The Director is respectfully requested to reconsider the proposed rulemaking 
+in light of the statutory right to present a generic claim. He is also respectfully 
+requested to reconsider the denial of an appeal to any such denial as contrary to 
+controlling precedent.  Above all, the proposed rulemaking unduly complicates 
+and frustrates biotechnology and pharmaceutical applicants from obtaining fair 
+coverage for their pioneer innovations. 
+The basis for the position of undersigned is spelled out in detail in a 
+forthcoming article, The Eagle Right to Generic Protection, which is incorporated 
+herein by reference and provided as an attachment as part of this testimony. 
+These remarks are pro bono and as explained in The Eagle Right…, p. 1, n.*; 
+professional affiliations are explained, id., p. 1, n.**. 
+Respectfully submitted, 
+Harold C. Wegner 
+ 
+hwegner@foley.com 
+hwegner@gmail.com
+THE EAGLE RIGHT TO GENERIC PROTECTION* 
+Harold C. Wegner** 
+I. OVERVIEW 
+The United States Patent and Trademark Office (PTO) has published a 
+proposed Generic Claim Rulemaking that, if adopted, would fundamentally 
+restructure the examination of generic inventions, going so far as to empower an 
+Examiner a right to deny examination of any claim “difficult to construe”.1  The 
+rules package would substantively deny patent applicants the right to generic 
+protection for some inventions and procedurally proscribe a merits appeal of such 
+denial. 
+This paper explores the role of the generic claim and considers how the 
+Generic Claim Rulemaking fits within the statutory patent landscape.  Generic 
+patent protection provides a unique form of protection particularly for the pioneer 
+inventor, including those in universities and startup research organizations.  See 
+§ II, The Role of the Generic Invention. For the past 137 years, there has been a 
+right to examination of a generic claim that reads on an elected species invention – 
+even though the genus includes other nonelected, independent and distinct species. 
+See § II-A, The Eagle Right to Generic Protection. The practice first arose in late 
+nineteenth century mechanical practice.  See § II-A-1, The Right to a Mechanical 
+Genus. Contemporaneously, German dyestuff chemists introduced what is today 
+classic Markush practice by defining a new core molecule which could have 
+optional substituents designated by the “R” group; this practice migrated from the 
+dyestuff laboratories on the Rhine and elsewhere to the Kaiserliches Patentamt in 
+* This paper represents the views of the author and does not necessarily reflect the views of any 
+colleague, organization or client thereof.  The author acknowledges involvement in several cases cited 
+in this paper, either for a party or an amicus bar association, In re Haas, 486 F.2d 1053 (CCPA 
+1973)(“Haas I”); In re Weber, 580 F.2d 455 (CCPA 1978); In re Haas, 580 F.2d 461 (CCPA
+1978)(“Haas II”); Ex parte Hozumi, 3 USPQ2d 1059 (Bd. Pat. App. & Int. 1984).  
+**Former Director of the Intellectual Property Law Program and Professor of Law, George 
+Washington University Law School.  Partner, Foley & Lardner LLP.  [hwegner@foley.com]
+1This coined abbreviation is more formally styled as Examination of Patent Applications that Include 
+Claims Containing Alternative Language, 72 Federal Register 44992 (August 10, 2007)(notice of 
+proposed rulemaking)(quoting proposed 37 CFR § 1.75(j)(1)). 
+Wegner, The Eagle Right to Generic Protection 
+Berlin; English language translations from the original German found their way to 
+Washington, D.C., as U.S. counterpart patent applications, the true birth of the “R” 
+group Markush practice. See § II-A-2, From 19th Century German Dye Labs to 
+the U.S. Patent Office. 
+From the earliest days of generic claiming there has all too often been a 
+difficulty grasping the concept that one generic invention may include several 
+species embodiments which, when separately claimed, are also individual 
+inventions. All too often, it was also thought – erroneously – that if there are, say, 
+five species within a genus, the grant of a generic patent is substantively identical 
+to five separate species patents. See § II-B, Generic Protection may be the 
+Pioneer’s Sole Protection. 
+While derived from generic practice in the mechanical arts, by the time of 
+the 1952 Patent Act, generic or Markush practice was an essential integer of 
+chemical practice with a well-defined set of rules for how to claim a generic 
+chemical invention. See § II-C, Pre-1952 Patent Act Definition of Markush 
+Groups. If anything, the past generation has seen a growing importance of generic 
+protection for universities and smaller research organizations, often comprised of 
+professors and other entrepreneurs who have migrated out of the academic 
+community.  These scientific pioneers often have only generic protection for 
+commercial reward versus the species protection granted to multinational research 
+organization who perfect species innovations based upon the earlier pioneer 
+disclosures. See § II-D, Pioneer Research Organizations Need Generic Protection. 
+More than fifty years ago with the implementation of the 1952 Patent Act, 
+“division” practice that had been appealable as a substantive matter was converted 
+into the wholly procedural world of “restriction” practice, thanks to the statutory 
+safeguard of 35 USC § 121. See § III, 35 USC § 121 under the 1952 Patent Act. 
+By the 1970’s, however, attempts were made to twist this statutory provision to 
+deny single claims because they embrace plural, patentably distinct species. It 
+became clear that there was no statutory basis in the new law to deny a generic 
+claim under the procedural basis of 35 USC § 121. See § III-A, The Weber 
+Restriction of § 121 to Restriction Between Claims. Yet, attempts were then made 
+to resurrect a case law “improper Markush” rejection from before the 1952 Patent 
+2  
+Wegner, The Eagle Right to Generic Protection 
+Act. While dicta has suggested the possibility for such a rejection, the test case 
+that sought to resurrect an “improper Markush” rejection was met with a holding 
+that reversed the PTO. See § III-B, Harnisch Underscores the Correctness of 
+Weber. The Federal Circuit, too, has endorsed CCPA precedent excluding a 
+statutory basis for denying a Markush claim. See § III-C, The Federal Circuit 
+Explanation in Watkinson. 
+Most recently, the PTO has proposed new rules that would repudiate much 
+of the established practice. See § IV, Generic Claim Rulemaking. The new rules 
+would exclude the right to examine certain generic claims.  See § IV-A, The 
+Proposed Rules. In contravention of established precedent, withdrawal of claims 
+as not meeting the proper definition of a generic invention would exclude the right 
+to appeal. See § IV-B, Right to Appeal Denial of Examination of a Genus. 
+Clearly, even though there will be challenges to any proposed rulemaking as 
+exceeding the rulemaking authority of the PTO, there clearly is an “anti-Markush” 
+climate at the PTO today.  Patent applicants are well advised to choose true generic 
+terminology whenever possible and to avoid enumerative Markush expressions that 
+actually provide narrower protection but seemingly a broader search challenge. See 
+§ V, Adapting to an Anti-Markush Climate at the PTO. 
+II. THE ROLE OF THE GENERIC INVENTION 
+A.  The Eagle Right to Generic Protection 
+1. The Right to a Mechanical Genus 
+While it is the obligation of the Examiner to determine whether a claimed 
+invention passes patentability muster, it is the burden of the applicant to define 
+what he regards as his invention: His “specification shall conclude with… claims 
+particularly pointing out and distinctly claiming the subject matter which the 
+applicant regards as his invention.”2  Thus, “[a]n applicant is given, by the statute, 
+the right to claim his invention with the limitations he regards as necessary to 
+circumscribe that invention[.]”3  The statute “allows the inventor to claim the 
+2 35 USC § 112, ¶ 2. 
+3 In re Weber, 580 F.2d 455, 458 (CCPA 1978)(Baldwin, J.)(emphasis added). 
+3 
+ 
+Wegner, The Eagle Right to Generic Protection 
+invention as he contemplates it.”4  This requirement is not new; it may be traced 
+back 137 years to the Patent Act of 1870 that for the first time included the 
+obligation on the part of the inventor to provide a specification that “particularly 
+point[s] outs and distinctly claim[s] the part, improvement, or combination which 
+he claims as his invention or discovery.”5 
+Insofar as there is an enabled disclosure of a broad invention that neither 
+reads directly on the prior art nor on an embodiment rendered obvious by the prior 
+art, the applicant generally will seek a generic claim that may, within its scope, 
+include mutually patentably independent and distinct species.  The right to claim a 
+generic invention including independent and distinct species was established by 
+Commissioner Fisher in 1870 in the Eagle case6 – contemporaneously with the 
+introduction of the forerunner to the second paragraph of 35 USC § 112, ¶ 2. 
+Mr. Eagle invented a patentable box combination invention.  The patentable 
+genus was illustrated by plural drawing figures; each was also individually claimed 
+as a species.  The plural species were independent and distinct from each other.  It 
+was clear that in the absence of an allowable genus, a “division” requirement to 
+restrict the patent application of Mr. Eagle to one of the plural independent and 
+distinct inventions was entirely proper under the practice of 1870.  Yet, Mr. Eagle 
+also presented a generic claim to the patentable box, per se, without restriction to 
+any of the species shown in the drawing figures. 
+In Eagle, Commissioner Fisher expressly approved the presentation of a 
+generic claim readable on an elected species:   The patentee “may fairly describe 
+several species of this genus, and may make any claim that is generic in its 
+4 Id. (discussing 35 USC § 112, ¶ 2)(citing In re Wolfrum, 486 F.2d 588 (CCPA 1973)). 
+5 D. Chisum, Chisum on Patents, § 8.02[2](2007)(quoting Act. of July 8, 1870, ch. 230, § 26, 16 Stat. 
+198)(“The Patent Act of 1870 further formalized the requirement of claims by providing … that the 
+inventor ‘shall particularly point out and distinctly claim the part, improvement, or combination
+which he claims as his invention or discovery.’”)(original emphasis). 
+6 Ex parte Eagle, 1870 C.D. 137 (Comm'r dec. 1870). 
+4 
+Wegner, The Eagle Right to Generic Protection 
+character and includes them all [in his generic claim].”7 Eagle became ensconced 
+as bedrock practice of the Office to the point that at the dawn of the twentieth 
+century that generic protection is permitted while “[i]t [became] one of the best-
+settled rules of the Office that alternative forms of an invention cannot be 
+specifically claimed in one application ....''8
+ 2. From 19th Century German Dye Labs to the U.S. Patent Office 
+Markush chemical practice was born on the Continent in dyestuff 
+laboratories where chemists used the “R” group – or some other arbitrary letter 
+designation – to define an optional substituent on newly created aromatic dyestuff 
+ring structures. From dyestuff laboratories on the Rhine and elsewhere patent 
+applications were drafted and filed at the Kaiserliches Patentamt in Berlin using 
+this same terminology, whereupon United States counterpart applications were 
+filed using the very same “R” and related arbitrary letter designations in what were 
+later termed to be “Markush” claims.  (The “R” designation may have been 
+shorthand for Rest – or “group”.) 
+Typically, a dyestuff laboratory would create a novel complex ring structure, 
+and then describe that structure and derivative structures comprising a family of 
+compounds.  In the basic embodiment, the ring carbon atom was unsubstituted, i.e., 
+it possessed a bond to a hydrogen atom.  Or, a substituted form could be created 
+designated by “R”. The German dyestuff chemists developed the “R” definition 
+for ring carbon atom substituents which would be defined as hydrogen (“H”) for 
+7 Eagle, 1870 C.D. at 138.  But, at the time, the patentee was limited to one species claim falling 
+under the genus:  “ In addition to this, as the genus can only be illustrated by at least one of its 
+species, he may select one of the embodiments of his invention for specific claims; but he cannot
+found one claim on one species, and a second on another, a third on another, and so on.'' Id. 
+8 D. Chisum, Chisum on Patents, § 12.02[2][e] n.56 (2007)(quoting  Ex parte Burmeister, 1902 C.D.
+364 (Comm'r Pat. 1902)(emphasis added)).  Also cited are Ex parte Butcher, 1904 C.D. 60 (Comm'r 
+Pat. 1904); Ex parte Brown, 1904 C.D. 50 (Comm'r Pat. 1903); Ex parte Dallas, 1903 C.D. 325
+(Comm'r Pat. 1903); Ex parte Welch, 1900 C.D. 190 (Comm'r Pat. 1900); Ex parte Smith, 1888 C.D. 
+131 (Comm'r Pat. 1888); Ex parte McDougall, 1880 C.D. 147 (Comm'r Pat. 1880); Ex parte Smith,
+1879 C.D. 216 (Comm'r Pat. 1879); Ex parte Stown, 1873 C.D. 30 (Comm'r Pat. 1873);  Ex parte 
+Herreshoff, 1903 C.D. 376 (Comm'r Pat. 1903); Ex parte Nash, 1903 C.D. 181 (Comm'r Pat. 1903); Ex 
+parte Plumley, 1902 C.D. 353 (Comm'r Pat. 1902).  Id. 
+5  
+Wegner, The Eagle Right to Generic Protection 
+the unsubstituted form or by a variety of optional groups.  Already in the 
+nineteenth century, German dyestuff terminology was translated into English for 
+American patent applications that resulted in early United States patents long 
+antedating the difficulties faced much later by Mr. Markush in securing generic 
+protection.9 
+B.  Generic Protection may be the Pioneer’s Sole Protection 
+At first blush, it may seem that there is no difference in substance between 
+the grant of a single patent with a generic claim versus plural patents to various 
+subgenera or species. But, the whole of the genus is greater than the sum of its 
+individual parts. Generally, there is no way that the grant of splinters of a genus 
+through restriction practice will equal the protection granted by a genus.   
+First, if there are subgenera or species A, B, C…, X, Y and Z within a genus, 
+it will rarely be the case that all of the subgenera or species A, B, C…, X, Y and Z 
+will be specifically disclosed or otherwise separately supported.  Thus, if species 
+“M” or “N” within the genus is not expressly named or otherwise specifically 
+supported, then there will be no way that any protection will be available for “M” 
+or “N” if the generic claim is denied.  While the Examiner may very well say that 
+M” and “N” are patentably independent and distinct from other species for 
+purposes of safeguarding the patent applicant from a double patenting rejection 
+under 35 USC § 121, the Examiner cannot provide missing specific support under 
+35 USC § 112, ¶ 1, for such subgenera or species.  This problem is not new; it has 
+been expressly recognized in the judicial literature:  
+As explained in Weber “[a]s a general proposition, an applicant has a right to 
+have each claim examined on the merits. If an applicant submits a number of 
+claims, it may well be that pursuant to a proper restriction requirement, those 
+9 Harold C. Wegner, The Right to Generic Chemical Coverage, 6 AM. INTEL. PROP. L. ASS'N. Q. J. 257,
+262‐63 (1978)(identifying three German‐origin United States patents using Markush “R”‐group type of
+claiming). There are also early twentieth century pre‐Markush examples of Markush claiming 
+including one where “R” is defined as either a methyl or carboxylic acid group. In re Harnisch, 631
+F.2d 716, 720 n.4 (1980)(quoting Ex parte Markush, 1925 CD 126 (Com.Pat.1924)(Kinnan, Ass’t
+Comm’r))(“U.S. Patent No. 901,675 [which] contained claims in which ‘the letter R is used in a 
+chemical formula as standing for CH3 or COOH’…”). 
+6  
+ 
+Wegner, The Eagle Right to Generic Protection 
+claims will be dispersed to a number of applications. Such action would not affect 
+the right of the applicant eventually to have each of the claims examined in the 
+form he considers to best define his invention. If, however, a single claim is 
+required to be divided up and presented in several applications, that claim would 
+never be considered on its merits. The totality of the resulting fragmentary claims 
+would not necessarily be the equivalent of the original claim. Further, since the 
+subgenera would be defined by the examiner rather than by the applicant, it is not 
+inconceivable that a number of the fragments would not be described in the 
+specification.”10  The problem is exemplified by Fields “wherein a subgenus was 
+not described”11 and Ruschig “wherein a species of a properly described genus was 
+found not to be described.”12 
+Even if there are properly supported subgeneric or species embodiments for, 
+say, species “C”, the filing of a divisional application to a fully supported species 
+“C” may not provide any coverage if a competitor has filed a patent application to 
+the same species “C” that is senior to the applicant’s invention of species “C”, but 
+where the applicant has plural species far senior in date to species “C”.  Assuming 
+that species “C” is separately patentable, the only protection that the inventor will 
+have for “C” is through his generic claim:  Losing that generic claim, the inventor 
+has no protection at all for species “C”. 
+C. Pre-1952 Patent Act Definition of Markush Groups 
+The right to generic coverage under the case law up until the 1952 Patent 
+Act followed the Eagle practice, permitting a generic expression to claim a family 
+of products having a common element and a common utility, even though portions 
+of the compounds may differ from each other.  The case law running up until the 
+1952 Patent Act expressly permitted claiming a generic invention where ““the 
+court found all of the compounds included in the claims … hav[e] a common 
+function. The court noted [in Jones] that in any Markush group the compounds 
+‘will differ from each other in certain respects.’ It laid down the proposition… that 
+10 In re Weber, 580 F.2d 455, 458 (CCPA 1978)(Baldwin, J.)(footnote omitted). 
+11 Weber, 580 F.2d at 458 n. 7 (citing Fields v. Conover, 443 F.2d 1386 (CCPA 1971)). 
+12 Id. (citing In re Ruschig, 379 F.2d 990 (CCPA 1967)). 
+7 
+Wegner, The Eagle Right to Generic Protection 
+in determining the propriety of a Markush grouping the compounds must be 
+considered as wholes and not broken down into elements or other components.”13 
+D.  Pioneer Research Organizations Need Generic Protection 
+Generic protection for a basic invention is fundamental for universities and 
+small research organizations which need to obtain broad patents for their 
+discoveries to obtain financial return for their fundamental discoveries.  If all 
+patent protection were reduced to species protection, a university or small research 
+organization that owned basic technology patent rights would not only be forced to 
+file numerous divisional applications, but, more importantly, they would be limited 
+to protection for the actual species that they disclose in their patent applications – 
+generally only a minute fraction of the literally millions of variables possible 
+within the scope of many generic claims, particularly in the area of pharmaceutical 
+and biotechnology research.   
+The pharmaceutical research regime typically operates with a university or 
+small research organization discovering a breakthrough molecule; a patent 
+application is filed with broad claims and a handful of working examples.  Based 
+upon publication of the disclosure in the patent application of a very basic 
+invention, the largest pharmaceutical concerns then collectively focus the efforts of 
+sometimes literally thousands of Ph.D. scientists to create literally tens of 
+thousands of new molecules within the penumbra of the original generic patent 
+disclosure. It is generally one or several of these new compounds that is the home 
+run cancer cure or other life-saving therapy.  The major pharmaceutical company 
+obtains a strong species patent to this breakthrough medication, while taking a 
+license from the university or small research organization under that organization’s 
+generic patent. 
+13 In re Harnisch, 631 F.2d 716, 721‐22 (CCPA 1980)( construing In re Jones, 162 F.2d 479 (CCPA
+1947) (“[T]he court found all of the compounds included in the claims were plant growth 
+stimulants, thus having a common function. The court noted that
+compounds ‘will differ from each other in certain respects.’ It l
+ in any Markush group the 
+aid down the proposition, with which 
+the PTO agrees in its MPEP, that in determining the propriety of a Markush grouping the 
+compounds must be considered as wholes and not broken down into elements or other 
+components.”). 
+8  
+Wegner, The Eagle Right to Generic Protection 
+If generic coverage is denied to the university or small research organization 
+then it effectively dedicates to the public all rights to the millions of compound 
+falling under its original genus, and receives no reward at all. 
+III. 35 USC § 121 UNDER THE 1952 PATENT ACT 
+A.  The Weber Restriction of § 121 to Restriction Between Claims 
+The 1952 Patent Act introduced for the first time a statutory proscription on 
+double patenting in the event that the Examiner made a mistake in issuing a 
+“division” requirement – or, a “restriction” requirement under the modern wording 
+since the 1952 Patent Act. Prior to the 1952 Patent Act, a faulty division 
+requirement could end up with a holding of double patenting of patentably 
+indistinct claims in a later proceeding despite the fact that plural patents were 
+obtained because of an Examiner’s requirement for a “division”.  The statutory 
+safeguard against double patenting following a restriction requirement was 
+introduced into the law in 1952 precisely to eliminate a right to appeal a restriction 
+requirement and to make the matter of restriction practice entirely procedural. 
+The statutory safeguard has absolutely nothing to do with unity of invention 
+within a claim, but everything to do with restriction between claims.14 
+In Weber, the court “h[e]ld that a rejection under [35 USC §] 121 violates 
+the basic right of the applicant to claim his invention as he chooses.”15 Clearly, 
+§ 121 has nothing to do with denial of a single claim.16 
+14 Weber, 580 F.2d at 459 (Rich, J., concurring) (citing P. J. Federico, Commentary on the New Patent 
+Act, 35 U.S.C.A. p. 1, at p. 34 (1954))(“[35 USC § 121 gave “the Commissioner a discretionary,  
+unappealable power to restrict an application to one of several claimed i 
+inventions were found to be ‘independent and distinct.’ 35 U.S.C. § 12 1
+nventions when those  
+emphasis). 
+, first sentence[.]”)(original 
+15 Weber, 580 F.2d at 459. 
+16 Weber, 580 F.2dd at 460 (Rich, J., concurring)(citing Federico, supra at p. 34; 
+1.144)(“Dealing, as it does, with requirements for restriction, [35 USC] § 1 21
+37 CFR §  
+about the rejection of claims, a matter entirely separate from rest
+ says nothing whatever  
+are appealable to the board and restriction requirements are not.”)  
+riction. For one thing, rejections  
+9 
+Wegner, The Eagle Right to Generic Protection 
+Eagle is cited as authority for the proposition that since 1870 “at least, the 
+expression used in [35 USC] § 121, ‘two or more * * * inventions are claimed,’ 
+has connoted separate claims to separate inventions. It has no reference to generic 
+or broad claims which ‘embrace’ (the term used by the examiner and the board 
+herein) or ‘cover’ (the term used in the solicitor's brief in support of the board) two 
+or more inventions. Section 121 nowhere uses the words ‘embraced’ or ‘covered.’ 
+It says ‘claimed,’ and that I take to mean what it has always referred to in the 
+terminology of the patent law, a ‘claim’ or definitional paragraph which, in the 
+words of [35 USC]§ 112, second paragraph, is ‘particularly pointing out and 
+distinctly claiming the subject matter the applicant regards as his invention.’”17 
+“There is nothing [in 35 USC § 121] to excuse a refusal to examine an 
+elected invention or an applicant's generic (broad) claim reading thereon, 
+notwithstanding the generic claim reads on nonelected inventions and possibly 
+many others, all potentially separately patentable. … It is elementary patent law 
+that the number of ‘species’ ‘covered’ by a patent having a generic claim is 
+virtually without limit notwithstanding the limitation of Rule 141 to five species 
+‘specifically claimed.’ So the discretionary power to limit one application to one 
+invention is no excuse at all for refusing to examine a broad generic claim no 
+matter how broad, which means no matter how many independently patentable 
+inventions may fall within it.”18
+ B. Harnisch Underscores the Correctness of Weber 
+The holdings of the CCPA in the wake of the 1952 Patent Act concerning 
+attempts to deny generic Markush protection to applicants have supported the 
+Jones view of the law that a Markush claim is proper where all of the embraced 
+compounds have a common structural feature and share a common utility.  There is 
+nothing from the judiciary in the wake of Weber or Haas II to the contrary. 
+17 Weber, 580 F.2d at 459‐60 (Rich, J., concurring)(citing Ex parte Eagle, 1870 C.D. 137 (Com'r.
+Pats.1870).
+18 Weber, 580 F.2d at 460‐61 (Rich, J., concurring). 
+10 
+ 
+Wegner, The Eagle Right to Generic Protection 
+Indeed, Harnisch – a case often cited for the contrary proposition by the 
+PTO – has a holding that the contested Markush group is proper under the pre­
+1952 case law. 
+Insofar as any PTO argument is made keyed to Harnisch that Weber and 
+Haas II may be incorrect in their interpretation of 35 USC § 121, such an argument 
+flies directly in the face of the statement found in Harnisch itself that “[i]t should 
+… be clear … that we adhere to our holdings in In re Weber[, 580 F.2d 455 (CCPA 
+1978)]. and In re Haas (Haas II)[, 580 F.2d 461 (CCPA 1978)].  Nothing we have 
+said [in Harnisch] is intended to change or modify them in any way; nor do we 
+think anything said could be reasonably construed to have such an effect.”19 
+C. The Federal Circuit Explanation in Watkinson 
+As explained by the Federal Circuit in the Watkinson case:  “Under … 
+Weber… and [Haas II], it is never proper for an examiner to reject a Markush 
+claim under 35 U.S.C. § 121. Section 121 simply does not authorize such a 
+rejection.” 20 
+IV. GENERIC CLAIM RULEMAKING 
+A. The Proposed Rules 
+The Generic Claim Rulemaking package prescribes the form of generic 
+claims that are permitted and, absent meeting the rules, the claims would be 
+withdrawn from consideration without a right of appeal to the Board (or the 
+court). Thus, proposed Rule 14021  rewrites restriction practice by saying that a 
+19 Harnisch, 631 F.2d at 722. 
+20 In re Watkinson, 900 F.2d 230 (Fed. Cir. 1990) (Baldwin, J.)(original emphasis) (citing Weber, 
+Haas II). 
+21 “[Proposed 37 CFR ]§ 1.140. Requirement for a claim to be limited to a single invention in an  
+application filed under 35 U.S.C. 111(a).  
+“(a) Two or more independent and distinct inventions may not be claimed in a single claim. See §  
+1.75(a). A claim that reads on multiple species using alternative language is limited to a single  
+invention wh 
+conditions: 
+en all the species encompassed by the claim meet at least one of the following two 
+“(1) The species share a substantial feature essential for a common utility, or  
+“(2) The species are prima facie obvious over each other.  
+11 
+Wegner, The Eagle Right to Generic Protection 
+single claim may cover plural inventions, instead of one generic invention as in 
+Eagle and 137 years of progeny. Thus, it is stated that “[a] claim that reads on 
+multiple species using alternative language is limited to a single invention when all 
+the species encompassed by the claim …share a substantial feature essential for a 
+common utility[.]”.22 
+(To be sure, the applicant can alternatively admit unpatentability of all 
+members of the genus if any one is found unpatentable;23 such an admission would 
+be foolish and contrary to the established principle that the equivalency of the 
+Markush members is part of the applicant’s discovery.24) 
+Proposed Rule 142(b) permits restriction between inventions within a claim: 
+“The propriety of a requirement for restriction shall be determined without regard 
+to whether the plural inventions are recited in separate claims or as alternatives 
+within a single claim.”25   Proposed Rule 75(j) would provide strict formal 
+“(b) The presentation of a claim that reads on multiple species using alternative language (§ 
+1.75(j)) may be accompanied by a statement explaining why th
+filed by the applicant at
+invention. Such a statement shall be considered by the Office i f 
+e claim is limited to a single 
+the same 
+time as the presentation of such a claim and may be considered by the Office if filed by the applicant
+after the presentation of such a claim but before the mailing date of any restriction requirement or 
+action on the merits.” 
+22 Proposed Rule 140(a)(1).
+23 Thus, under proposed  Rule 140(a)(2) there is one single invention if “[t]he species are prima 
+facie obvious over each other.” 
+24 In re Dillon, 919 F.2d 688, 694 (Fed. Cir. 1990)(en banc)(Lourie, J.)(“caution[ing] against [the] 
+practice [of using an applicant’s own showing of equivalence against her in violation of the rule of In 
+re Ruff, 256 F.2d 590, 596 (CCPA 1958)]”); see also In re Lam, 35 Fed.Appx. 889, 897‐98 (Fed. Cir. 
+2002)(“ In In re Ruff, our predecessor court reversed an obviousness rejection based on an
+applicant's own disclosure that two classes of organic compounds (amino and mercapto
+compounds) were both effective tarnish inhibitors. 256 F.2d at 595. Though the amino compounds 
+were known in the art, the applicant himself invented and taught the use of the mercapto 
+compounds. Id. The Board in the Ruff case mistakenly interpreted several earlier cases to hold that
+such a disclosure by an applicant could support a finding of equivalency. The court disabused the
+Board of that notion and squarely held that the applicant's own teaching of the tarnish‐fighting 
+mercapto compounds, the utility of which he himself discovered, could not be used to show 
+equivalence even though the applicant also disclosed that the prior art amino compounds
+performed a similar function. [256 F.2d] at 597.”). 
+25 Proposed 37 CFR § 1.142(b). 
+12 
+Wegner, The Eagle Right to Generic Protection 
+guidance on how a generic claim could be drafted; failure to meet the strict 
+guidance would result in an objection and presumably a petitionable but not 
+appealable matter.26 
+The arbitrary nature of the Generic Claim Rulemaking package is manifested 
+by the right of the Examiner to deny consideration of a claim where “[t]he number 
+and presentation of alternatives in the claim …make[s] the claim difficult to 
+construe[.]”27 
+Clearly, there is nothing in 35 USC § 121 that has anything to do with 
+restriction within a claim. If the PTO considers a claim to be an “improper” 
+Markush or other type of generic claim, then a statutory basis should be found for 
+such a rejection. There clearly is no holding in Harnisch that in any way supports 
+a rejection of a Markush or other claim:  The holding in Harnisch was, to the 
+contrary, a determination that the claimed invention was proper: The rejection in 
+Harnisch was reversed. 
+B.  Right to Appeal Denial of Examination of a Genus 
+The Generic Claim Rulemaking would take away the right of an appeal for a 
+violation of the PTO’s new rules on generic claiming. But, the right to appeal a 
+restriction requirement or other “procedural” withdrawal of a generic claim was 
+established in Haas I.28 
+26 Proposed 37 CFR 1.75(j) “A claim that reads on multiple species by using alternative language 
+must meet the following conditions: 
+“(1) The number and presentation of alternatives in the claim does not make the claim difficult to 
+construe; 
+“(2) No alternative is defined as a set of further alternatives within the claim; and 
+“(3) No 
+n 
+e is encompassed by any other alternative within a list of alternatives, unless 
+there is no other practical way to define the invention. 
+“(4) Each alternative within a list of alternatives must be substitutable one for another.”  
+27 Proposed 37 CFR § 1.75(j)(1). 
+28 In re Haas, 486 F.2d 1053, 1055 (CCPA 1973)(“Haas I”). 
+13 
+Wegner, The Eagle Right to Generic Protection 
+As explained in Digital Equipment, “in determining whether a particular 
+PTO action is appealable to the Board (and hence reviewable either by the Court of 
+Customs and Patent Appeals or by the district court in a civil action instituted 
+pursuant to [35 USC §] 145), one must ‘look both to the language employed (by 
+the agency in taking the action) and the effect thereof,’ and consider ‘both form 
+and substance.’”29  Thus, “[i]n Haas,  the court held that the Board had jurisdiction 
+to review an examiner's ‘withdrawal’ of claims, which ‘amount[ed] to a rejection’ 
+because it precluded further consideration of the claims ‘not only in this 
+application but prospectively in any subsequent application because of their 
+content.’”30 
+The label of a “rejection” clearly is not necessary for an appeal:  “[T]he 
+PTO's failure to label its present action in terms of "rejection" may have little 
+practical significance other than to purportedly insulate from the [appellate] review 
+mechanism mandated by Congress a decision that is highly factual and substantive 
+in nature, and thus particularly appropriate for such review.”31 
+V. ADAPTING TO AN ANTI-MARKUSH CLIMATE AT THE PTO 
+Although it is unlikely that any anti-Markush rulemaking that may be issued in 
+final form would become effective until some point well into 2008, it is important 
+as a matter of daily practice to adapt to the realities of everyday patent practice that 
+Examiners do not like lengthy, multi-page Markush claims. 
+There is much that can be done without compromising the applicant’s 
+substantive right of protection for his genus: 
+29Digital Equipment Corp. v. Diamond, 653 F.2d 701, 713 (1st Cir. 1981)(quoting Haas I, 486 F.2d at 
+1055). 
+30 Id., quoting Haas I, 486 F.2d at 1056.  
+31Digital Equipment, 653 F.2d at 713.  
+14  
+Wegner, The Eagle Right to Generic Protection 
+A.  Generic Expressions without Markush Symbols 
+Markush practice has been used far too often as a shortcut to avoid devising 
+a true generic expression that may provide broader coverage and avoid the 
+complexities of Markush practice.  Even if there is no art-recognized generic term 
+nor a generic term which clearly defines precisely the genus the applicant has in 
+mind in drafting the application, nevertheless the applicant is free to be his own 
+lexicographer and provide a specific definition for a generic term that will control 
+its meaning both before the PTO and in enforcement proceedings.32 
+B. Enumerative Markush Definitions Should be Avoided 
+Consider the situation where a novel and unobvious core compound may be 
+optionally substituted by phenyl or any substituted phenyl group. 
+Applicants unduly complicate their prosecution when they attempt to 
+enumerate every possible substituent on an aromatic ring.  For example, if an “R” 
+group is defined as being “a substituted phenyl group” this can be written quite 
+simply in the claim, making it easy to understand and examine.   
+But, if there is an enumeration of the possible substituents in the claim, the 
+definition for what “substituted phenyl” may run over a page or two which – 
+together with other variables similarly defined – can lead to a “claim 1” running 
+ten or more pages, to the frustration of everyone.  “Substituted phenyl” represents a 
+relatively easy challenge, yet an attempt to enumerate all the variables in the 
+specification can produce a definition several pages long.33  Yet, when one has an 
+32 Phillips v. AWH Corp., 415 F.3d 1303, 1316 (Fed. Cir. 2005)(en banc)(Bryson, J.)(“[T]he 
+specification may reveal a special definition given to a claim term by the patentee that differs from 
+the meaning it would otherwise possess. In such cases, the inventor's lexicography 
+governs.”)(citation omitted) .
+33 For example, for exemplification of “substituted phenyl”, see Rawson et al., U.S. 7,250,447 (2007)
+(“‘[S]ubstituted phenyl’ is a phenyl group substituted with one, two, three, four or five substituents
+chosen from halogen (F, Cl, Br, I), hydroxy, protected hydroxy, cyano, nitro, alkyl (e.g. C1‐C6 alkyl), 
+alkoxy (e.g. C1‐C6 alkoxy), benzyloxy, carboxy, protected carboxy, carboxymethyl, protected 
+carboxymethyl, hydroxymethyl, protected hydroxymethyl, aminomethyl, protected aminomethyl, 
+trifluoromethyl, alkylsulfonylamino, arylsulfonylamino, heterocyclylsulfonylamino, heterocyclic, 
+aryl, or other groups specified. Examples of the term ‘substituted phenyl’ includes but is not limited 
+15 
+Wegner, The Eagle Right to Generic Protection 
+enumerative Markush definition in the claim it is likely that some possible variable 
+will be omitted, which manifests the fact that a ten-plus page enumerative Markush 
+claim may provide coverage far narrower than a simple, one paragraph claim that 
+recites “R” as being “substituted phenyl”. 
+C. A Common Utility Statement for All Members 
+Particularly where a generic definition of products is provided for a claim, it 
+is important to repeat that same definition in the specification, followed by a 
+statement of the common utility shared by all of the products within that definition: 
+Where all the compounds share a common utility and have a common structural 
+to a mono‐ or di(halo)phenyl group such as 4‐chlorophenyl, 2,6‐dichlorophenyl, 2,5
+dichlorophenyl, 3,4­dichlorophenyl, 3­chlorophenyl, 3­bromophenyl, 4­bromophenyl, 3,4
+dibromophenyl, 3‐chloro‐4‐fluorophenyl, 2‐fluorophenyl and the like; a mono‐ or
+di(hydroxy)phenyl group such as 4‐hydroxyphenyl, 3‐hydroxyphenyl, 2,4‐dihydroxyphenyl, the
+protected‐hydroxy derivatives thereof and the like; a nitrophenyl group such as 3‐ or 4
+nitrophenyl; a cyanophenyl group, for example, 4‐cyanophenyl; a mono‐ or di(C1‐C6 alkyl)phenyl
+group such as 4‐methylphenyl, 2,4‐dimethylphenyl, 2‐methylphenyl, 4‐(iso‐propyl)phenyl, 4
+ethylphenyl, 3‐(n‐propyl)phenyl and the like; a mono or di(alkoxy)phenyl group, for example, 3,4
+dimethoxyphenyl, 3,4‐diethoxyphenyl, 3‐ethoxy‐4‐isopropoxyphenyl, 3‐ethoxy‐s‐butoxyphenyl, 3
+methoxy‐4‐benzyloxyphenyl, 3‐methoxy‐4‐(1‐chloromethyl)benzyloxy‐phenyl, 3‐ethoxyphenyl, 4
+(isopropoxy)phenyl, 4‐(t‐butoxy)phenyl, 3‐ethoxy‐4‐methoxyphenyl and the like; 3‐ or 4
+trifluoromethylphenyl; a mono‐ or dicarboxyphenylﾠorﾠ(protected carboxy)phenyl group such 4
+carboxyphenyl; a mono‐ or di(hydroxymethyl)pheny 
+ected hydroxymethyl)phenyl such a
+3‐(protected hydroxymethyl)phenyl or 3,4‐di(hydroxymethyl)phenyl; a mono‐ or
+di(aminomethyl)phenyl or (protected aminomethyl)phenyl such as 2‐(aminomethyl)phenyl or 2
+(protected aminomethyl)phenyl; or a mono‐ or di(N‐(methylsulfonylamino))phenyl such as 3‐(N‐
+,4
+methylsulfonylamino))phenyl. Also, the term ‘substituted phenyl’ represents disubstituted phenyl
+groups where the substituents are different, for example, 3‐methyl‐4‐hydroxyphenyl, 3‐chloro‐4
+hydroxyphenyl, 2‐methoxy‐4‐bromophenyl, 4‐ethyl‐2‐hydroxyphenyl, 3‐hydroxy‐4‐ni
+hydroxy‐4‐chlorophenyl, and the like, as well as trisubstituted phenyl groups where 1,
+trophenyl, 2‐
+2, or 3 of the
+substituents are different, for example 3‐methoxy‐4‐benzyloxy‐6‐methyl sulfonylamino, 3
+methoxy‐4‐benzyloxy‐6‐phenyl sulfonylamino, and tetrasubstituted phenyl groups where the
+substituents are different such as 3‐methoxy‐4‐benzyloxy‐5‐methyl‐6‐phenyl sulfonylamino.
+Exemplary substituted phenyl groups include the 3‐methoxyphenyl, 3‐ethoxy‐phenyl, 4
+benzyloxyphenyl, 4‐methoxyphenyl, 3‐ethoxy‐4‐benzyloxyphenyl, 3,4‐diethoxyphenyl, 3‐methoxy
+4‐benzyloxyphenyl, 3‐methoxy‐4‐(1‐chloromethyl)benzyloxy‐phenyl, 3‐methoxy‐4
+(1‐chloromethyl)benzyloxy‐6‐methyl sulfonyl aminophenyl groups.”). 
+16  
+Wegner, The Eagle Right to Generic Protection 
+feature that establishes patentability for the class of compounds, this is the epitome 
+of a proper Markush group. An enlarged panel of the PTO Board interpreted 
+Harnisch in Hozumi, which explains the importance of the recitation of a common 
+utility: 
+“The judicially created rejection of claims for ‘improper Markush grouping’ 
+has most recently been discussed … in the case of In re Harnisch, 631 F.2d 716 
+(CCPA 1980)…. The opinion in that case fairly thoroughly reviewed the history of 
+this type of rejection and set forth, at least implicitly, some guidelines for 
+determining whether or not a Markush group is proper. Broadly, the determinative 
+factor was held to be whether there existed ‘unity of invention’ or whether the 
+claims were drawn to a collection of ‘unrelated inventions.’ Specifically, the 
+claims in that case were drawn to a class of compounds all of which were both 
+disclosed and claimed as being ‘useful as dyestuffs.’ All of them were also both 
+disclosed and claimed as being ‘coumarin compounds.’ Thus, all of the claims had 
+in common a functional utility related to a substantial, structural feature disclosed 
+as being essential to that utility.”34 
+The PTO Manual of Patent Examining Procedure acknowledges that in the 
+case of a Markush claim, “unity of invention exists where compounds included 
+within a Markush group (1) share a common utility, and (2) share a substantial 
+structural feature essential to that utility.”.35  This follows from the Jones case as 
+34 Ex parte Hozumi, 1984 WL 62977, 3 U.S.P.Q.2d 1059 (PTO Bd. App. & Int. 1984)(Serota, Katz, 
+Goldestein, Lovell, Steiner, EICS)(Goldstein, EIC)(emphasis supplied). 
+35 MPEP § 803.02, Markush Claims [8th ed., Rev. 5 (August 2006)](“ Since the decisions in In re 
+Weber, 580 F.2d 455 (CCPA 1978) and In re Haas, 580 F.2d 461 (CCPA 1978), it is improper for the 
+Office to refuse to examine that which applicants regard as their invention, unless the subject
+matter in a claim lacks unity of invention. In re Harnisch, 631 F.2d 716, 206 USPQ 300 (CCPA 1980);
+and Ex parte Hozumi, 3 USPQ2d 1059 (Bd. Pat. App. & Int. 1984). Broadly, unity of invention exists 
+where compounds included within a Markush group (1)
+substantial structural feature essential to that utility.”). 
+share a common utility, and (2) share a 
+17  
+ 
+Wegner, The Eagle Right to Generic Protection 
+adopted in Harnisch that approved a Markush group where all members are 
+disclosed as “having a common function.”36 
+VI. CONCLUSION 
+Applicants should shift more to true generic claiming, if only to avoid the 
+anti-Markush prejudice that exists at the PTO today. Despite the shift that 
+applicants should be making toward classic generic claims, situations will remain 
+where Markush generic claiming represents a sound choice for patent applicants.   
+There is no magic, formulaic way to short-circuit examination of pioneer 
+inventions in Markush – or other – format.  There should be no magic cookie-
+cutter amount of time to examine an invention.  Either the amount of time will 
+balance out amongst the difficult pioneer cases and the multitude of routine 
+improvement inventions, or, if not, administrative allowances must be made for the 
+more difficult to examine cases.  But, when an Einstein or other genius inventor 
+comes forward with a pioneer invention, the PTO should applaud the innovation 
+and grant claims commensurate in scope with the pioneer nature of the technology 
+and not attempt to limit the scope of protection. 
+36 Harnisch, 631 F.2d at 721‐22 (construing Jones, 162 F.2d 479). 
+18  

@@ -1,0 +1,1778 @@
+PNNL-15913 Rev. 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T Tank Farm Interim Cover Test – 
+Design Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+Z.F. Zhang 
+J.M. Keller 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+July 2006 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared for the U.S. Department of Energy 
+under Contract DE-AC05-76RL01830 
+ 
+ 
+DISCLAIMER 
+ 
+This report was prepared as an account of work sponsored by an agency of the 
+United States Government. Neither the United States Government nor any 
+agency thereof, nor Battelle Memorial Institute, nor any of their employees, 
+makes any warranty, express or implied, or assumes any legal liability or 
+responsibility for the accuracy, completeness, or usefulness of any information, 
+apparatus, product, or process disclosed, or represents that its use would not 
+infringe privately owned rights. Reference herein to any specific commercial 
+product, process, or service by trade name, trademark, manufacturer, or 
+otherwise does not necessarily constitute or imply its endorsement, 
+recommendation, or favoring by the United States Government or any agency 
+thereof, or Battelle Memorial Institute. The views and opinions of authors 
+expressed herein do not necessarily state or reflect those of the United States 
+Government or any agency thereof. 
+ 
+PACIFIC NORTHWEST NATIONAL LABORATORY 
+operated by 
+ 
+BATTELLE 
+for the 
+UNITED STATES DEPARTMENT OF ENERGY 
+under Contract DE-AC05-76RL01830 
+ 
+ 
+PNNL-15913 Rev. 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T Tank Farm Interim Cover Test – 
+    Design Plan 
+ 
+ 
+ 
+ 
+ 
+Z.F. Zhang 
+J.M. Keller 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+July 2006 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared for the U.S. Department of Energy 
+under Contract DE-AC05-76RL01830 
+ 
+ 
+ 
+v 
+ 
+ 
+Summary 
+The Hanford Site has 149 underground single-shell tanks that store hazardous radioactive waste.  Many of 
+these tanks and their associated infrastructure (e.g., pipelines, diversion boxes) have leaked.  Some of the 
+leaked waste has entered the groundwater.  The largest known leak occurred from the T-106 Tank in 1973.  
+Many of the contaminants from that leak still reside within the vadose zone beneath the T Tank Farm.  
+CH2M Hill Hanford Group, Inc. seeks to minimize movement of this residual contaminant plume by 
+placing an interim cover on the surface.  Such a cover is expected to prevent infiltrating water from 
+reaching the plume and moving it further.  Pacific Northwest National Laboratory has prepared a design 
+plan to monitor and determine the effectiveness of the interim cover.  A three-dimensional numerical 
+simulation of water movement beneath a cover was conducted to guide the design of the plan.  Soil water 
+content (θ), water pressure (ψ), and temperature (T) will be monitored using off-the-shelf equipment that 
+can be installed by the hydraulic hammer technique.  In fiscal year 2006, two instrument nests will be 
+installed, one inside and one outside of the proposed cover.  In fiscal year 2007, two additional instrument 
+nests, both inside the proposed cover, will be installed.  Each instrument nest contains a neutron access 
+tube and a capacitance probe (to measure θ), and four heat-dissipation units (to measure ψ and T).  A 
+datalogger and a meteorological station will be installed outside of the fence.  Two drain gauges will be 
+installed in locations inside and outside the cover for the purpose of measuring soil water flux. 
+ 
+ 
+ 
+vi 
+ 
+ 
+Acronyms 
+ARHCO 
+Atlantic-Richfield Hanford Company 
+ASTM 
+American Society for Testing and Materials 
+CCU 
+Cold Creek Unit 
+CHG 
+CH2M Hill Hanford Group, Inc. 
+CSI 
+Campbell Scientific, Inc. 
+DCT 
+Divergence Control Tube 
+DOE 
+Department of Energy 
+FY 
+Fiscal year 
+H 
+Hanford formation 
+HDU 
+Heat dissipation unit 
+HMS 
+Hanford Meteorological Station 
+IAEA 
+International Atomic Energy Agency 
+ID 
+Inside Diameter 
+MCNP 
+Monte Carlo Neutral Particles 
+OD 
+Outside Diameter 
+PMP 
+Project Management Plan 
+PNNL 
+Pacific Northwest National Laboratory 
+PVC 
+Polyvinyl chloride 
+QAP 
+Quality Assurance Plan 
+SST 
+Single-shell tank 
+STOMP 
+Subsurface Transport Over Multiple Phases 
+WIDS 
+Waste Information Data System 
+WMA 
+Waste Management Area 
+ 
+ 
+ 
+vii 
+ 
+Table of Contents 
+ 
+Summary....................................................................................................................................................... v 
+Acronyms.....................................................................................................................................................vi 
+1.0 Introduction....................................................................................................................................... 1.1 
+1.1 T Tank Farm ............................................................................................................................ 1.1 
+1.2 Tank T-106 Leak ..................................................................................................................... 1.1 
+1.3 Objectives and Scope............................................................................................................... 1.2 
+2.0 Numerical Analysis........................................................................................................................... 2.1 
+2.1 Geology and Hydraulic Properties........................................................................................... 2.1 
+2.2 Simulation Domain, Initial and Boundary Conditions ............................................................ 2.1 
+2.3 Simulation Results................................................................................................................... 2.2 
+2.3.1 
+Time Series of Soil Water Content............................................................................. 2.3 
+2.3.2 
+Time Series of Soil Water Pressure Head................................................................... 2.3 
+2.3.3 
+Time Series of Soil Water Flux .................................................................................. 2.4 
+2.3.4 
+Spatial Distribution of Soil Water Saturation............................................................. 2.5 
+3.0 Instrument Selection, Installation and Calibration............................................................................ 3.1 
+3.1 Criteria for Method Section..................................................................................................... 3.1 
+3.2 Monitoring Technologies......................................................................................................... 3.1 
+3.2.1 
+Water Content............................................................................................................. 3.2 
+3.2.2 
+Soil Water Pressure .................................................................................................... 3.3 
+3.2.3 
+Soil Temperature ........................................................................................................ 3.4 
+3.2.4 
+Water Flux.................................................................................................................. 3.5 
+3.2.5 
+Meteorological Conditions ......................................................................................... 3.6 
+3.2.6 
+Data Logger................................................................................................................ 3.6 
+3.3 Placement of Sensors............................................................................................................... 3.6 
+3.3.1 
+Layout......................................................................................................................... 3.6 
+3.3.2 
+Installation .................................................................................................................. 3.9 
+3.3.3 
+Instrument Calibration.............................................................................................. 3.13 
+4.0 Quality Assurance............................................................................................................................. 4.1 
+5.0 References......................................................................................................................................... 5.1 
+Appendix A: EnviroSMART Probe Installation Procedure...................................................................... A.1 
+ 
+ 
+ 
+viii 
+ 
+ 
+Figures 
+ 
+1.1. Waste Management Area of the T Tank Farm and Surrounding Facilities ...................................... 1.2 
+2.1. Simulation Domain Without and with an Interim Cover.................................................................. 2.3 
+2.2. Time Series of Soil Water Content Inside and Outside the Interim Cover at Four Different  
+Depths………................................................................................................................................... 2.4 
+2.3. Soil Water Pressure Inside and Outside the Interim Cover at Four Different Depths ...................... 2.5 
+2.4. Soil Water Flux Inside and Outside the Interim Cover at Four Different Depths ............................ 2.6 
+2.5. Horizontal Distribution of Soil Water Saturation at Depth 0.5 m at Different Times...................... 2.7 
+2.6. Horizontal Distribution of Soil Water Saturation at Depth 12.5 m in Different Times.................... 2.8 
+2.7. Vertical Distributions of Soil Water Saturation and Stream Lines at an Easting Transect  
+Crossing the Center of Tanks T-104, T-105, and T-106................................................................... 2.9 
+2.8. Vertical Distributions of Soil Water Saturation and Stream Lines at an Easting Transect  
+Crossing the Center Between Tank Row T-104, T-105, T-106 and Tank Row T-107, T-108  
+and T-109……….............................................................................................................................. 2.9 
+3.1. EnviroSMART Capacitance Probe for Measuring Moisture Content .............................................. 3.3 
+3.2. Schematic of Decagon Drain Gauge................................................................................................. 3.5 
+3.3. Plan View of T Tank Farm with the Monitoring Locations and Proposed Interim Cover ............... 3.7 
+3.4. Cutout of 3.3 Providing Close-up of Instrument Locations Relative to the Interim Cover  
+Edge and 100 Series Tanks............................................................................................................... 3.8 
+3.5. Relative Location of Each Drive within an Instrument Nest.......................................................... 3.10 
+3.6. HDU Installation and Packing Material Layering Scheme............................................................. 3.12 
+ 
+ 
+ix 
+ 
+ 
+Tables 
+ 
+2.1. The Geological Formations of the 241-T Farm ................................................................................ 2.1 
+2.2. The Composite Hydraulic Parameters for Soils at Hanford’s T Tank Farm..................................... 2.2 
+3.1. Criteria For Selecting Alternative Vadose Zone Monitoring Methods............................................. 3.2 
+3.2. Selected Methods for Monitoring Soil Moisture Content and Decision Rationale .......................... 3.2 
+3.3. Selected Method for Measuring Soil Water Pressure and Decision Rationale................................. 3.4 
+3.4. Selected Method for Measuring Soil Temperature and Decision Rationale..................................... 3.4 
+3.5. Selected Method to Monitor Soil Water Flux and Selection Rationale............................................ 3.5 
+3.6. Selected Methods to Monitor Meteorological Conditions and Selection Rationale......................... 3.6 
+ 
+ 
+ 
+x 
+ 
+ 
+ 
+ 
+1.1
+ 
+ 
+1.0 Introduction 
+The Hanford Site in southeastern Washington State has 149 underground single-shell tanks that store 
+hazardous radioactive waste.  Many of these tanks and their associated infrastructure (e.g., pipelines, 
+diversion boxes) have leaked.  Some of the leaked waste has entered the groundwater.  The largest known 
+leak occurred from the T-106 Tank in 1973.  Many of the contaminants from that leak still reside within 
+the vadose zone beneath the T Tank Farm.  CH2M Hill Hanford Group, Inc. (CHG) seeks to minimize 
+movement of this residual contaminant plume by placing an interim cover on the surface.  Such a cover is 
+expected to prevent infiltrating water from reaching the plume and moving it further.  Pacific Northwest 
+National Laboratory has prepared a test plan to monitor and determine the effectiveness of the interim 
+cover.  
+1.1 T Tank Farm 
+According to Myers (2005), the T tank farm was built from 1943 to 1944.  The T tank farm contains 
+12 single-shell tanks (SSTs) with 23 m (75 ft) diameter and 2,006,050 L (535,000 gal) capacity, four 
+SSTs with 6.1 m (20 ft) diameter and 208,175 L (55,000 gal) capacity, waste transfer lines, leak detection 
+systems, and tank ancillary equipment.  The sediment cover from the apex of the tank domes to ground 
+surface is 2.2 m (7.3 ft).  All the tanks have a dish-shaped bottom.  Figure 1.1 shows the waste 
+management area (WMA) of the T tank farm and surrounding facilities. 
+ 
+In general, the vadose zone in the T tank farm consists of a portion of the thick, relatively coarse-grained 
+sediments of the middle Ringold Formation (Rwi), overlain by the finer grained sediments of the upper 
+Ringold Formation (Rtf) and the Plio-Pleistocene unit (also called the Cold Creek Unit, CCU), overlain by 
+the coarser-grained sands and gravels of the Hanford formation (H), which are exposed at the surface.  
+The upper 12 m of the Hanford formation was locally excavated and backfilled with gravelly sand during 
+installation of the single-shell tanks.  
+1.2 Tank T-106 Leak 
+According to Hanford’s Waste Information Data System (WIDS), an accidental leak from Tank T-106 
+occurred in 1973, and the details and chronology of the leak are well documented (ARHCO 1973; 
+Routson et al. 1979).  The leak was suspected to have started on April 20, 1973, during a routine filling 
+operation.  The leak stopped on June 10, 1973, when the free liquid contents of the tank were removed. 
+The total duration of the leak was estimated to be 51 days.  Approximately 435,000 liters 
+(115,000 gallons) of fluid leaked from Tank T-106.  The fluid contained cesium-137, strontium-90, 
+plutonium, and various fission products, including technetium-99 (99Tc).  It is likely that the leak occurred 
+in the southeast quadrant of the tank near the bottom of the tank side. 
+ 
+CHG has proposed to use an interim cover over Tank T-106 and the surrounding area in the T-tank farm 
+to prevent or reduce infiltration of meteoric water entering into the subsurface in order to reduce the rate 
+of the downward movement of leaked contaminants.  
+ 
+ 
+1.2
+1.3 Objectives and Scope 
+Objectives include documenting pre-cover conditions and changes in conditions beneath the cover as a 
+function of distance from the edge of the cover and to a certain depth below the surface.  A monitoring 
+design plan is proposed in this report to examine and monitor the effectiveness of the interim cover.  After 
+a brief introduction of the background information in Chapter 1, Chapter 2 presents the results of 
+numerical simulations that compare the changes of the soil water regime with and without an interim 
+cover as guidance in making a monitoring plan.  In Chapter 3, a description of monitoring equipment, 
+equipment calibration, and installation procedures are presented.  Chapter 4 provides a declaration about 
+the quality assurance plan to verify the quality of the work and future monitoring.  A subsequent 
+monitoring plan will document data collection, analysis, reporting, and use. 
+ 
+ 
+ 
+Figure 1.1. Waste Management Area of the T Tank Farm and Surrounding Facilities (from Myers 2005) 
+ 
+ 
+ 
+2.1
+2.0 Numerical Analysis 
+This section presents numerical simulation results of water flow after placing an interim cover over a 
+portion of the T tank farm.  The Subsurface Transport Over Multiple Phases (STOMP) numerical 
+simulator (White and Oostrom 2004) was used to predict the movement of vadose zone water in response 
+to placement of an interim cover on July 1, 2007. 
+ 
+The interim cover is expected to be a 1- to 2-cm-thick impermeable layer.  The cover will be sloped so 
+that excess water is drained to the edges where it will be collected and routed elsewhere.  For this analysis, 
+it is assumed that all excess water is successfully removed such that none infiltrates at the cover edge. 
+ 
+The simulation was conducted for 50 years after placing the interim cover.  Water contents, pressure 
+heads, and fluxes at specific locations were compared and contrasted to highlight changes caused by 
+cover placement.  The results were used to guide sensor selection and placement (explained more fully in 
+Section 3.0).  Some gas-phase and temperature effects may be caused by the interim cover, but these 
+processes were considered secondary to the water-flow solution and were not simulated in this exercise.  
+The following sections describe the geology and hydraulic properties, domain, initial and boundary 
+conditions, and the simulation results. 
+2.1 Geology and Hydraulic Properties 
+The boreholes C4104 drilled near T-106 showed the geology as six main layers whose depths and soil 
+types are given in Table 2.1 (Serne et al. 2004).  The hydraulic parameters for each of the geological 
+formations were from Khaleel et al. (2004) and are listed in Table 2.2. 
+2.2 Simulation Domain, Initial and Boundary Conditions 
+The three-dimensional physical domain was discretized with 74 nodes in both the east-west (x) and north-
+south (y) directions and 55 nodes in the vertical (z) direction.  Horizontal node spacing was uniformly 
+2 m; vertical spacing was uniformly 1 m.  The total domain size was 148 m in the x and y directions and 
+55 m in the z direction.  The origin of the simulation domain in the Hanford coordinate system was 
+(x0, y0) = (566710, 136650) m.  The domain includes the 12 large tanks (T-101 through T-112) but not 
+other infrastructures (e.g., the 200 series tanks and trenches).  The nodes representing each tank were 
+treated as inactive and did not interact with the changing water conditions in the vadose zone. 
+ 
+Table 2.1.  The Geological Formations of the 241-T Farm 
+Geology 
+Soil 
+Depth (m) 
+Depth (ft) 
+1. Backfill 
+Gravelly Sand 
+0–12.2 
+0–40 
+2. H1 Sand 
+Sand 
+12.2–24.4 
+40–80 
+3. H2 Sand 
+Silty Sand 
+24.2–28.3 
+80–93 
+4. Cold Creek Unit 
+Silty Sand 
+28.3–32.9 
+93–108 
+5. Upper Ringold Sand 
+Sand 
+32.9–36.9 
+108–121 
+6. Ringold Unit E 
+Sandy Gravel 
+36.9–55.0 
+121–180 
+ 
+ 
+ 
+2.2
+Table 2.2.  The Composite Hydraulic Parameters for Soils at Hanford’s T Tank Farm  
+(data from Khaleel et al. 2004) 
+Parameters Sandy Gravel/ Gravelly Sand
+Sand 
+Silty Sand 
+θs (m3m-3) 
+0.138 
+0.382 
+0.435 
+θr (m3m-3) 
+0.010 
+0.044 
+0.067 
+α (m-1) 
+0.021 
+0.012 
+0.0085 
+n (-) 
+1.374 
+1.616 
+1.851 
+Ks (m s-1) 
+5.600×10-4 
+9.880×10-5
+2.400×10-4 
+L (-) 
+0.5 
+0.5 
+0.5 
+θs: saturated water content; θr: residual water content; α: van Genuchten 
+(1980) parameter related to soil capillarity; n: a parameter related to 
+soil particle size distribution; Ks: saturated hydraulic conductivity; and 
+L: the flow path connectivity-tortuosity coefficient. 
+ 
+The initial conditions within the simulation domain at an estimated time in which the interim cover was to 
+be placed (July 1, 2007) were established using a two-step simulation.  First, the uniform recharge rate 
+was 3.5 mm/yr (Khaleel et al. 2004) before 1945, the year the tanks were deployed.  Then, the simulation 
+ran from 1945 to July 1, 2007, the time the interim cover was to be installed, under the recharge rate of 
+100 mm/yr (Khaleel et al. 2004).  Normally, such hydraulic conditions would be the same as at similar 
+depths across the domain, but, because of the shedding effect caused by the impermeable tanks, water 
+flowing around the tanks (i.e., represented by inactive nodes) created slightly different initial conditions 
+in the vicinity of the tanks. 
+ 
+At time zero (i.e., July 1, 2007), the interim cover was placed on the surface above Tanks T-105, -106,  
+-108, and -109 as shown in Figure 2.1.  The cover was rectangular-shaped, and its size was 76×66 m 
+[from (x1, y1) = (36, 36) m to (x2, y2) = (112, 102) m] with the longer sides orienting to the east-west 
+direction.  The cover was simulated by changing the boundary condition inside the cover to zero flux and 
+keeping the boundary condition at 100 mm/yr outside the cover.  A water table was applied to the bottom 
+boundary to mimic the water table beneath the T tank farm. 
+ 
+The effects of the interim cover on soil water conditions were shown by comparing soil water variables at 
+two locations, one inside the cover [(x, y) = (81, 67) m] and the other outside the cover 
+[(x, y) = (15, 67) m].  As will be shown below, these effects are stronger at a shallower depth and weaker 
+at a deeper depth. 
+2.3 Simulation Results 
+Although the simulations were carried out for 50 years after the placement of the interim cover, only the 
+results for the first 3 years are presented because the monitoring plan is for a period of 3 years.  The time 
+series and/or the spatial distribution of the simulated results of soil water content, saturation, pressure 
+head, and water flux are given below. 
+ 
+ 
+ 
+2.3
+ 
+Figure 2.1. Simulation Domain Without and with an Interim Cover.  The domain size was 
+(x, y, z) = (148, 148, 55) m.  The origin of the simulation domain in the Hanford coordinate 
+system was (x0, y0) = (466710, 136650) m. 
+ 
+2.3.1 Time Series of Soil Water Content 
+The time series of soil water content inside [(x, y) = (81, 67) m] and outside [(x, y) = (15, 67) m] the 
+cover at four different depths are shown in Figure 2.2.  As expected, the soil water content was stable 
+through the simulation period outside the cover.  Inside the cover, the soil water content decreased with 
+time.  The water-content decrease ranged from 0.0 at the 25.5-m depth to 0.015 m3m-3 at the 0.5-m depth 
+1 year after the placement of the cover; 3 years after the placement of the cover, the water-content 
+decrease ranged from 0.005 m3m-3 at the 25.5-m depth to 0.025 m3m-3 at 15.5-m depth.  Note that, at the 
+depths 15.5 and 25.5 m, the slight difference in water content at the time the cover was placed 
+(Year 2007.5) was caused by the shedding effects of the impermeable tanks. 
+2.3.2 Time Series of Soil Water Pressure Head 
+The time series of the soil pressure head inside [(x, y) = (81, 67) m] and outside [(x, y) = (15, 67) m] the 
+interim cover at four different depths are shown in Figure 2.3.  As expected, the soil water pressure was 
+stable through the simulation period outside the cover.  Inside the cover, the soil water pressure decreased 
+(became more negative) with time.  One year after the placement of the cover, the soil water pressure 
+decrease ranged from 0.0 bar at 25.5-m depth to 0.244 bar at 0.5-m depth; 3 years after the placement of 
+the cover, the soil water pressure decrease ranged from 0.018 bar at 25.5-m depth to 0.407 bar at 0.5-m 
+depth.  Note that, at depths of 15.5 and 25.5 m, the slight difference in soil water pressure at the time the 
+cover was placed (Year 2007.5) was caused by the shedding effects of the impermeable tanks. 
+ 
+ 
+ 
+2.4
+2008.5, 0.063
+2010.5, 0.058
+2007.5, 0.078
+0.04
+0.05
+0.06
+0.07
+0.08
+0.09
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Miosture Content (m3/m3)
+Inside of Cover
+Outside of Cover
+Dept h = 0 .5 m
+2008.5, 0.072
+2010.5, 0.065
+2007.5, 0.079
+0.04
+0.05
+0.06
+0.07
+0.08
+0.09
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Miosture Content (m3/m3)
+Inside of Cover
+Outside of Cover
+D ept h = 5.5 m
+2008.5, 0.218
+2010.5, 0.198
+2007.5, 0.223
+0.18
+0.19
+0.2
+0.21
+0.22
+0.23
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Miosture Content (m3/m3)
+Inside of Cover
+Outside of Cover
+D ept h = 15.5 m
+2008.5, 0.203
+2010.5, 0.198
+2007.5, 0.203
+0.18
+0.19
+0.2
+0.21
+0.22
+0.23
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Miosture Content (m3/m3)
+Inside of Cover
+Outside of Cover
+Dept h = 2 5.5 m
+Figure 2.2. Time Series of Soil Water Content Inside [(x, y) = (81, 67) m] and Outside 
+[(x, y) = (15, 67) m] the Interim Cover at Four Different Depths.  The numbers by the curves 
+are times and soil moisture contents at these times.  The origin of the simulation domain in 
+the Hanford coordinate system was (x0, y0) = (466710, 136650) m. 
+ 
+2.3.3 Time Series of Soil Water Flux 
+The time series of the fluxes inside [(x, y) = (81, 67) m] and outside [(x, y) = (15, 67) m] the interim 
+cover at four different depths are shown in Figure 2.4.  As expected, the soil water flux outside the cover 
+was stable through the simulation period.  Inside the cover, the soil water flux decreased with time.  One 
+year after the placement of the cover, the soil water flux decrease ranged from 0.2 mm/yr at 25.5-m depth 
+to 94.7 mm/yr at 0.5-m depth; 3 years after the placement of the cover, the soil water flux decrease ranged 
+from 27.2 mm/yr at 25.5-m depth to 98.3 mm/yr at 0.5-m depth.  Note that, at depths of 15.5 and 25.5 m, 
+the slight difference in soil water flux at the time the cover was placed (Year 2007.5) was caused by the 
+shedding effects of the impermeable tanks. 
+ 
+ 
+ 
+2.5
+2010.5, -0.637
+2008.5, -0.474
+2007.5, -0.230
+-0.7
+-0.6
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Aqueous Pressure (Bar)
+Inside of Cover
+Outside of Cover
+Dept h = 0 .5 m
+2010.5, -0.429
+2008.5, -0.308
+2007.5, -0.226
+-0.7
+-0.6
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Aqueous Pressure (Bar)
+Inside of Cover
+Outside of Cover
+D ept h = 5.5 m
+2010.5, -0.272
+2008.5, -0.215
+2007.5, -0.205
+-0.7
+-0.6
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Aqueous Pressure (Bar)
+Inside of Cover
+Outside of Cover
+Dept h = 15.5 m
+2010.5, -0.358
+2008.5, -0.340
+2007.5, -0.340
+-0.7
+-0.6
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Aqueous Pressure (Bar)
+Inside of Cover
+Outside of Cover
+Dept h = 2 5.5 m
+ 
+Figure 2.3. Soil Water Pressure Inside [(x, y) = (81, 67) m] and Outside [(x, y) = (15, 67) m] the Interim 
+Cover at Four Different Depths.  The numbers by the curves are times and soil water 
+pressures at these times.  
+ 
+2.3.4 Spatial Distribution of Soil Water Saturation 
+The spatial distributions of soil water are shown using two-dimensional contours of soil water saturation 
+in the selected horizontal planes and vertical planes at the time the cover was applied (Year 2007.5) and 1, 
+2, and 3 years after the cover was applied.  
+ 
+Figure 2.5 shows the horizontal distribution of soil water saturation at a depth of 0.5 m in different times.  
+At the time the cover was placed (Year 2007.5), the soil water was uniform, except that it was slightly 
+wetter at the places right above each of the tanks because of the tank shedding effect.  After the cover was 
+emplaced, the soil beneath the cover became drier gradually.  Similar effects can be seen at the depth of 
+15.5 m (Figure 2.6). 
+ 
+ 
+ 
+2.6
+2007.5, 100.11
+2010.5, 1.81
+2008.5, 5.38
+1
+10
+100
+1000
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Inside of Cover
+Outside of Cover
+D ept h = 0 .5 m
+2007.5, 103.62
+2010.5, 13.61
+2008.5, 37.89
+1
+10
+100
+1000
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Inside of Cover
+Outside of Cover
+Dept h = 5.5 m
+2007.5, 130.35
+2010.5, 47.56
+2008.5, 107.95
+1
+10
+100
+1000
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Inside of Cover
+Outside of Cover
+Dept h = 15.5 m
+2007.5, 139.82
+2010.5, 112.50
+2008.5, 139.65
+1
+10
+100
+1000
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Inside of Cover
+Outside of Cover
+D ept h = 2 5.5 m
+ 
+Figure 2.4. Soil Water Flux Inside [(x, y) = (81, 67) m] and Outside [(x, y) = (15, 67) m] the Interim 
+Cover at Four Different Depths.  The numbers by the curves are times and soil water fluxes 
+at these times. 
+Z Aqueous Flux (mm/yr)
+Z Aqueous Flux (mm/yr)
+Z Aqueous Flux (mm/yr)
+Z Aqueous Flux (mm/yr)
+ 
+ 
+2.7
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.5. Horizontal Distribution of Soil Water Saturation at Depth 0.5 m at Different Times.  The 
+interim cover was emplaced in Year 2007.5. 
+ 
+Figure 2.7 shows the vertical distributions of soil water saturation and stream lines at an easting transect 
+crossing the center of tanks T-104, T-105, and T-106.  The soil beneath the cover became drier gradually.  
+The stream lines indicate that, as the soil beneath the cover became drier, some water at the relatively 
+wetter region beneath the place without a cover moved laterally into the drier region beneath the covered 
+region.  This effect became stronger with time.  This lateral movement of water is referred as the “edging 
+effect.”  The results suggest that, 3 years after the placement of the cover, the distance being affected 
+beyond the edge of the cover in the easting direction was about 5 m.  Figure 2.8 shows vertical 
+distributions of soil water saturation and stream lines at an easting transect crossing the center between 
+tank row T-104, T-105, T-106 and tank row T-107, T-108, and T-109.  Similar results were observed in 
+Figure 2.8 as those in Figure 2.7. 
+ 
+ 
+ 
+2.8
+ 
+ 
+ 
+ 
+ 
+Figure 2.6. Horizontal Distribution of Soil Water Saturation at Depth 12.5 m in Different Times.  The 
+interim cover was emplaced in Year 2007.5. 
+ 
+ 
+ 
+2.9
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.7. Vertical Distributions of Soil Water Saturation and Stream Lines at an Easting Transect 
+Crossing the Center of Tanks T-104, T-105, and T-106.  The interim cover was emplaced in 
+Year 2007.5. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.8. Vertical Distributions of Soil Water Saturation and Stream Lines at an Easting Transect 
+Crossing the Center Between Tank Row T-104, T-105, T-106 and Tank Row T-107, T-108 
+and T-109.  The interim cover was emplaced in Year 2007.5. 
+ 
+ 
+2.10
+ 
+ 
+ 
+3.1
+3.0 Instrument Selection, Installation and Calibration 
+A monitoring design plan is presented to meet the 3-year objectives of documenting interim cover 
+performance by measuring pre-cover subsurface conditions and changes in subsurface conditions beneath 
+the cover as a function of distance from the edge of the cover and the depth below surface.  Results from 
+simulations containing the proposed interim cover were used in developing the plan.  Simulations suggest 
+that with the installation of an interim cover, over the anticipated 3-year monitoring period, observable 
+changes in moisture content and soil water pressure will be restricted to an approximate depth of 15.5 m.  
+Predicted changes in moisture content 3 years after cover installation range from 0.005 m3m-3 at the 
+25.5-m depth to 0.025 m3m-3 at the 15.5-m depth.  At the 0.5-m depth, the predicted change in moisture 
+content is 0.020 m3m-3.  Soil water pressure changes over the same 3-year period range from a decrease of 
+0.018 bar at a depth of 25.5 m to a decrease of 0.407 bar at 0.5 m.  Meanwhile, drainage fluxes at the 
+0.5-m depth decreased by 98.3 mm/yr at the 0.5-m depth.  Three years after cover installation, edge 
+effects, or lateral movement of water from wetter to drier regions, were observed at a lateral distance of 
+approximately 5 m from the cover edge.  These summarized simulation results were used to guide sensor 
+selection and placement. 
+  
+This section describes the criteria used to select the various measurement methods and the details of the 
+design plan for testing the effectiveness of the interim cover, including selected measurement methods, 
+monitoring locations, and performance requirements.  
+3.1 Criteria for Method Section 
+Table 3.1 illustrates criteria for selecting monitoring methods that were modified from criteria described 
+by Everett et al. (1984).  The criteria provide for a systematic way of determining which monitoring 
+technologies will best serve the given objectives.  Because of restrictions of working within the T tank 
+farm, considerable attention was given to potential installation problems and constraints when selecting 
+methods.  In addition, methods were chosen that will use a hydraulic hammer to install instruments at 
+depth.  While the selected technologies may not meet all criteria, they do encompass the majority of 
+criteria presented. 
+3.2 Monitoring Technologies 
+Variables to be monitored are chosen based on their contribution to describing soil water flux conditions 
+and inputs.  Variables to be monitored are 1) soil water content, 2) soil water pressure, 3) soil temperature, 
+4) soil water flux, and 5) meteorological conditions, including precipitation and air temperature.  This 
+section identifies the methods chosen to monitor the identified variables and the basis for their selection. 
+ 
+ 
+ 
+3.2
+Table 3.1.  Criteria For Selecting Alternative Vadose Zone Monitoring Methods 
+Item 
+Criteria 
+1 
+Applicability to field usage 
+2 
+Measurement resolution 
+3 
+Measurement range 
+4 
+Representative volume 
+5 
+Limitations 
+6 
+Cost 
+7 
+Potential installation problem 
+8 
+Reliability and life expectancy 
+9 
+Effects of surrounding environment 
+10 
+Data collection system and wire length effects
+11 
+Continuous or discrete sampling 
+12 
+Maintenance requirements 
+13 
+Effect of hazardous waste on measurement 
+14 
+Power requirements 
+15 
+Multiple use capabilities 
+16 
+Other concerns 
+ 
+3.2.1 Water Content 
+Moisture content as a function of depth will be measured to monitor the performance of the interim cover 
+in reducing water flux from baseline conditions.  Soil water measurements will be used to track wetting 
+fronts and produce estimates of water fluxes using available soil water potential data and soil hydraulic 
+properties.  Two methods, neutron moisture probe and capacitance probe, will be employed to monitor 
+soil moisture.  This affords the benefit of providing certain data through redundancy, while at the same 
+time offering advantages presented by each method.  Additionally, both methods of measurement provide 
+the accuracy (Table 3.2) needed to capture the predicted changes in soil moisture content after the interim 
+cover is in place.   
+ 
+Table 3.2.  Selected Methods for Monitoring Soil Moisture Content and Decision Rationale 
+ 
+Selected Monitoring 
+Method(s) 
+Manufacturer 
+Accuracy 
+Rationale 
+Neutron probe 
+(503 DR 
+Hydroprobe) 
+CPN International, 
+Inc. 
+±0.016 
+cm3cm-3(a) 
+Reliable and standard method.  Installation 
+requirements limited to access tubes.  Meets 
+measurement accuracy and resolution requirements. 
+Capacitance probe 
+(EnviroSMART) 
+Sentek (Distributed 
+by Campbell 
+Scientific) 
+±0.01 
+cm3cm-3(b) 
+Capable of continuous automated measurements.  
+Easily implemented in tank farm.  Meets measurement 
+accuracy and resolution requirements. 
+(a)  D. Carter, CPN International, Inc., personal communication, May 24, 2006. 
+(b)  Campbell Scientific, Inc. (CSI 2006b). 
+ 
+ 
+ 
+3.3
+The neutron moisture probe method has a proven history as a standard and reliable method for monitoring 
+soil moisture content (Evett 2001).  It has the added benefit of minimal installation requirements, namely, 
+easy installation of an access tube and depth of measurement primarily only restricted by access tube 
+depth.  The key limitation to the neutron moisture probe is that it requires operation by a trained 
+individual, meaning that entry into the tank farm is required to perform the measurements.  Based on T 
+tank farm entry restrictions, this limits neutron probe measurements to once every 3 months.   
+ 
+The capacitance probe is a profile-type capacitance probe that provides continuous automated 
+measurements of soil moisture content.  This provides the capability for analyzing moisture content 
+changes over small time intervals and monitoring water input pulses that occur after intense rain events.  
+Capacitance probe installation constraints limit measurements to depths much shallower than neutron 
+probes.  Furthermore, the neutron probe measurement volume is larger than the capacitance probe 
+measurement volume.  Given the expected soil moisture contents to be encountered, the radius of 
+measurement using the neutron probe will range from 30 to 40 cm while the capacitance probe is limited 
+to a 10-cm radius.   
+ 
+The neutron moisture probe to be used is the 503DR 
+hydroprobe manufactured by CPN International, Inc. 
+(Martinez, CA).  The 503DR hydroprobe has a history of 
+successful use at Hanford and is currently used for a 
+number of Hanford waste site soil moisture monitoring 
+programs (DOE 2005; Ward et al. 2000).  CHG will 
+provide, maintain, and operate the neutron moisture probe.  
+ 
+The capacitance probe to be used is a profile type probe 
+distributed by Campbell Scientific, Inc. (CSI) (Logan, UT) 
+called an EnviroSMART probe (CSI 2006a, b).  Figure 3.1 
+presents a picture of the probe and key parts.  The standard 
+probe configuration allows for a measurement depth of 2 m.  
+The EnviroSMART probe sensors and electronics are 
+independently housed within a 5.65 cm (2.22 inch) 
+polyvinyl chloride (PVC) access tube.  Such a setup aids in 
+installation and allows for access to the sensors were one to 
+fail.  Both the 503DR hydroprobe and the EnviroSMART 
+probe require calibrations to relate probe measurements to 
+moisture content.    
+ 
+Table 3.2 lists the manufacturer’s documented instrument 
+accuracy along with summarizing the rationale for using 
+the chosen or equivalent monitoring method.  
+3.2.2 Soil Water Pressure 
+Soil water pressure will be measured at select depths to monitor the performance of the interim cover in 
+reducing water flux from baseline conditions.  Soil water pressure measurements will be used to track 
+wetting or drying fronts, identify pressure gradients, and produce estimates of water fluxes using available 
+soil water-content data and soil hydraulic properties.   
+ 
+Figure 3.1.  EnviroSMART Capacitance  
+Probe for Measuring Moisture Content 
+(from CSI 2006b) 
+ 
+ 
+ 
+3.4
+ 
+Heat dissipation unit (HDU) probes (CSI 2006c) will be installed to achieve automated monitoring of soil 
+water pressure.  HDUs are chosen in part because of their capability to measure soil water pressure in the 
+range predicted by simulations to exist in sediments underlying the T tank farm (i.e. -0.2 to -0.6 bar).  In 
+addition, HDUs provide affordable measurements of soil water pressure and also the added benefit of 
+measuring soil temperature.  The size of a single HDU is also a benefit, with the CSI HDU (model 299) 
+dimensions being 1.5 cm in diameter and 60 mm in length.  HDUs do not measure soil water pressure 
+directly, but require a calibration to convert measurements to an equivalent soil water pressure.  Table 3.3 
+gives the accuracy of HDUs and summarizes the rationale for their use. 
+ 
+Table 3.3.  Selected Method for Measuring Soil Water Pressure and Decision Rationale 
+ 
+Selected Monitoring 
+Method(s) 
+Manufacturer 
+Accuracy
+Rationale 
+Heat dissipation units 
+CSI 
+±20%(a) 
+Inexpensive alternative method.  Capable of 
+continuous automated measurements.  Also 
+measures soil temperature. 
+(a) Calibration dependent.  Accuracy value taken from Reece et al. (1996). 
+ 
+3.2.3 Soil Temperature 
+The soil temperature will be measured and recorded during set time intervals at various locations.  
+Measuring soil temperature provides information on soil temperature gradients that contribute to liquid 
+water and vapor movement in the subsurface.  Automated soil temperature measurements will be made 
+using HDUs, which provide measurements of both soil temperature and soil water pressure.  HDUs 
+provide for an efficient method to measure soil temperature, given that they will already be used for 
+measuring soil water pressure.  Table 3.4 gives the operational accuracy for the measurement method 
+along with summarizing the rationale for using the chosen monitoring method. 
+ 
+Table 3.4.  Selected Method for Measuring Soil Temperature and Decision Rationale 
+ 
+Selected Monitoring 
+Method(s) 
+Manufacturer 
+Accuracy 
+Rationale 
+Heat dissipation units 
+CSI 
+±0.25ºC(a) 
+Continuous automated 
+measurements.  Also measures soil 
+water pressure. 
+(a) J. Ritter, CSI, personal communication, June 2, 2006 
+ 
+ 
+ 
+3.5
+3.2.4 Water Flux 
+The water flux will be continuously measured and 
+recorded at two locations.  One location will 
+document drainage under the condition without a 
+cover at the T tank farm while the second location 
+will be beneath the interim cover.  The water flux will 
+be measured using a wick lysimeter drain gauge 
+manufactured by Decagon (Pullman, WA) (Decagon 
+2003).  The Decagon drain gauge (Figure 3.2) offers 
+an automated method to directly measure soil water 
+flux.  The drain gauge also offers the benefit of 
+relatively little soil displacement during installation 
+compared to other direct measurement methods.  The 
+units provide sufficient accuracy and resolution given 
+the predicted drainage of the simulation outside of the 
+interim cover.   
+ 
+Dimensions of the Decagon drain gauge include an 
+8-inch OD, 2.2-foot-long divergence control tube 
+(DCT), on top of a 2.5–inch-OD, 2.7-foot-long tube 
+housing the wick, dosing siphon, and gauge.  
+Table 3.5 gives the manufacturer’s documented 
+instrument accuracy and resolution along with 
+summarizing the rationale for using the chosen 
+monitoring method. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 3.5.  Selected Method to Monitor Soil Water Flux and Selection Rationale 
+ 
+Selected 
+Monitoring 
+Method(s) 
+Manufacturer 
+Accuracy
+Resolution
+Rationale 
+Drain Gauge 
+Decagon 
+±10%(a) 
+1 ml(a) 
+Direct measurement of water flux.  
+Capable of continuous automated 
+measurements.  Requires minimal 
+soil displacement relative to other 
+direct methods. 
+(a)  D. Cobos, Decagon, personal communication, May 24, 2006 
+ 
+ 
+Figure 3.2.  Schematic of Decagon Drain Gauge 
+(from Decagon 2003) 
+ 
+ 
+ 
+3.6
+3.2.5 Meteorological Conditions 
+Precipitation and air temperature will be continuously monitored using a single meteorological station.  
+Monitoring precipitation directly at T tank farm is critical given the importance of precipitation as an 
+input into the water balance model.  Localized thunderstorms that occasionally occur at Hanford produce 
+spatially variable short term, high energy precipitation events.  Such events require that a meteorological 
+monitoring station be located at the T farm to document potential localized precipitation events.  
+ 
+Power requirements necessary for a heated rain gauge necessitated that the rain gauge not be heated.  As 
+such, the rain gauge will not accurately measure precipitation because of snowfall.  Given the proximity 
+of the Hanford Meteorological Station (HMS) and the uniformity of snowfall across the Hanford Site, it is 
+acceptable to conclude that snowfall measured by the HMS will accurately describe the snowfall at the 
+T farm.  Table 3.6 gives the manufacturer’s documented instrument accuracy along with summarizing the 
+rationale for using the chosen monitoring method.  
+ 
+Table 3.6.  Selected Methods to Monitor Meteorological Conditions and Selection Rationale 
+ 
+Selected Monitoring 
+Method(s) 
+Manufacturer 
+Accuracy
+Rationale 
+Rain gauge 
+Texas Electronics 
+(distributed by CSI) 
+±1%(a) 
+Thermometer 
+CSI 
+±0.1ºC(b) 
+Standard methods. Capable of 
+continuous automated measurements. 
+(a)  (CSI 2002). 
+(b)  (CSI 2006c). 
+ 
+3.2.6 Data Logger 
+The measurement and control device to be used to operate the tensiometer pressure transducers, HDUs, 
+capacitance probes, drain gauge, and meteorological station is the CR10X manufactured by CSI (Logan, 
+UT).  The CR10X allows the data to be measured, processed, stored, and retrieved.  However, permanent 
+power does not exist near the proposed placement of the data logger.  This requires that the data logger 
+and peripherals be powered by a battery that can be recharged with a solar panel. 
+3.3 Placement of Sensors 
+This section describes the instrument layout design, designating the spatial distribution of instruments and 
+access tubes within the T tank farm and the datalogger and meteorological station outside the T tank farm 
+fenceline.  Additionally, the method of installation is described for the access tubes and each instrument 
+type.  
+3.3.1 Layout 
+The instrument layout is designed to monitor vadose zone conditions with depth both under the future 
+interim cover and outside of the cover for purposes of identifying cover effectiveness.  Instrument 
+placement takes into account the need for both short term results (less than 3 years) and the potential for 
+continued monitoring and collection of data past the initial 3-year commitment.  Simulations suggest that 
+ 
+ 
+3.7
+the significant changes in subsurface conditions 3 years after cover placement will primarily be contained 
+to the top 5.5 m of sediment.  Longer time periods are required before significant changes propagate to 
+deeper depths.  As such, a combination of shallow and deep instrument placement is incorporated into the 
+monitoring design.   
+ 
+The design groups instruments and access tubes into nests, with each nest being composed of a vertical 
+access tube for neutron moisture probe measurements, an EnviroSMART capacitance probe, and HDU 
+units at four depths.  Figure 3.3 and Figure 3.4 provide a plan view of the instrument locations and the 
+prospective western and northern extent of the interim cover.  Four instrument nests (one outside of the 
+cover and three inside the cover) are to be placed in a north/south direction covering both the interim 
+cover and the uncovered area.  This placement design allows the measurement of cover effectiveness in 
+reducing drainage as well as investigating cover edge effects.  The instrument nests will lie within backfill 
+material, except that the lower part of the neutron access tubes will extend to the Hanford formation.   
+ 
+Nests A and D will be installed in fiscal year (FY) 2006 and will provide baseline conditions before 
+installing the cover in the summer of 2007.  Nest A and D will be installed at a separation distance of 
+approximately 30 m, with nest A being outside the cover area and nest D being inside the future cover 
+area (Figure 3.4).  Nests B and C will be installed in FY 2007 before placing the cover.  Nests B and C 
+will be inside the cover area, with Nest B being at the edge of the cover.  The exact spacing of Nests B 
+and C will be decided once the design of the interim cover is completed.  The distance between the 
+instrument nests and the 100 series tanks will be between 10 to 15 m.  The final distance will ultimately  
+ 
+103
+102
+101
+106
+105
+104
+109
+108
+107
+112
+111
+110
+530 ft (162 m)
+780 ft (238 m)
+220 ft 
+(67 m)
+530 ft (162 m)
+Interim 
+Cover
+201
+203
+204
+202
+Datalogger and Meteorological 
+Station
+FY 06 Instrument Nest (HDUs, 
+capacitance probe, neutron probe 
+access tube) 
+FY 07 Instrument Nest (HDUs, 
+capacitance probe, neutron probe 
+access tube) 
+ 
+Figure 3.3.  Plan View of T Tank Farm with the Monitoring Locations and Proposed Interim Cover 
+ 
+ 
+ 
+3.8
+106
+109
+201
+202
+Interim 
+Cover
+Fence Line
+10 m
+103
+10 m
+Approx. Backfill Boundary
+A
+B
+C
+D
+10 m
+FY06 Instrument Nest (HDUs, 
+capacitance probe, neutron 
+probe access tube) 
+FY07 Instrument Nest (HDUs, 
+capacitance probe, neutron 
+probe access tube) 
+15 m
+ 
+ 
+Figure 3.4.  Cutout of Figure 3.3 Providing Close-up of Instrument Locations Relative to the Interim 
+Cover Edge and 100 Series Tanks.  The distance between the instrument nests and the 
+100 series tank may ultimately be larger than 10 m, depending on location of a known 
+electrical trench. 
+ 
+depend on the exact location of an electrical trench in the vicinity of the nests.  After cover placement, 
+Nest A will provide subsurface conditions outside the cover area.  Nest D will provide measurement of 
+subsurface condition under the cover at a location that is minimally influenced by cover edge and tank 
+boundary conditions.  Nest B, at the edge of the cover, will provide subsurface measurements that are 
+aimed to explore the magnitude of cover edge effects.  If the lateral extent of cover edge effects is large 
+enough to influence measurements at Nest C, this nest will provide additional information on the extent 
+and magnitude of edge effects.  If measurable edge effects do not extend to Nest C, this nest will serve as 
+a redundant measurement of conditions similar to Nest D.  Based on the performance of Nests A and D 
+during the first year of operation, additional nests (other than B and C) may be installed in FY 2007 as a 
+plan of recovery if instruments at Nests A and D fail. 
+ 
+The design plan calls the interim cover to be extended to a distance west and north of Tank T-106 to 
+provide for sufficient cover area for subsurface monitoring.  Such a large extension is needed for two 
+reasons: 1) instrument nests need to be placed a sufficient distance from the tanks to prevent the 
+measurement of elevated moisture contents and soil water pressures caused by the shedding effects tanks 
+have on soil water movement and 2) simulations suggest that edge effects or the lateral movement of soil 
+water to drier soil underneath the cover are limited to no more than 5 m from the edge of the cover 3 years 
+after installing the cover.  While we propose to measure edge effects, we also aim to measure conditions 
+below the interim cover not experiencing edge effects.  This requires the placement of at least one nest at 
+ 
+ 
+3.9
+a sufficient distance from the cover edge to refrain from measuring edge effects.  Given the results of the 
+simulations and the simulation uncertainties involved, the placement of instrument nests at a distance of 
+10 m (32.8 ft) from the edge of the cover is sufficient to avoid measuring edge effects.   
+ 
+The neutron probe access tube to be placed at each nest is to be installed to a depth of approximately 15 m 
+(49.2 ft).  This depth placement will allow for monitoring of moisture content changes within both 
+backfill material and the Hanford formation underlying the tank farm backfill material.   
+ 
+EnviroSMART capacitance sensors at each nest will be installed from approximately 1 foot below the 
+surface to the end of the 2 m (6.6 ft) length of the probes.  Sensors will be located at five depths: 60, 90, 
+130, 180, and 230 cm.   
+ 
+Four HDU sensors will be placed at each nest at depths of 1, 2, 5, and 10 m. 
+ 
+Two drain gauges will be placed near the soil surface, one outside the cover at Nest A and a second 
+beneath the cover at Nest D (Figure 3.4).  Under unvegetated conditions, as exist in T tank farm, the near-
+surface soil texture largely controls drainage conditions (Gee et al. 2005).  For relevancy of drainage data, 
+it is essential that both drain gauges be placed within the tank farm, incorporating the near surface soil 
+texture of the tank farm.  To reduce excavation requirements, the drain gauge will be installed such that 
+the top of the unit is near the tank farm surface. 
+ 
+The alteration of subsurface conditions immediately surrounding the boreholes and instrument 
+measurement volumes bring about the need to provide sufficient distance between instruments at each 
+nest.  A separation distance no less than 80 cm is deemed ample for this purpose.  This number was 
+derived by calculating the measurement radius of the neutron moisture probe (IAEA 1970) at the 
+simulated lowest moisture content (0.056 m3m-3), corresponding to when the neutron probe measurement 
+radius would be greatest.  The neutron probe measurement radius was chosen because its measurement 
+volume is larger than that of the other instruments being installed.  This calculation provides an 
+approximate measurement radius of 40 cm.  Given uncertainties in the calculation and to accommodate 
+differing instrument diameters, two times the neutron probe measurement radius is used as the instrument 
+separation distance.  For the drain gauges at Nests A and D, a minimum 80-cm distance between the drain 
+gauges and the nearest instrument will suffice.  Figure 3.5 provides the layout of instruments at each nest.   
+  
+The weather station and datalogger will be placed immediately outside the fenceline of the T tank farm, 
+directly north of the instrument nests.  Placing both the datalogger and weather station outside the tank 
+farm allows for easy access to both units for maintenance and troubleshooting. 
+3.3.2 Installation  
+A hydraulic hammer will be used to pound a cone-tipped hollow drive shaft into the soil to create an open 
+borehole in which to place the instruments.  The benefit of using the hydraulic hammer to create a 
+borehole as opposed to drilling is that the hydraulic hammer technique avoids bringing potentially 
+contaminated soil to the surface.  The cone tip on the drive shaft has the capability to be removed once the 
+desired driving depth is reached.  This allows instruments to be placed down the borehole through the 
+inside of the drive shaft as the drive shaft is removed from the soil.  Likewise, the drive shaft can remain 
+in the soil as a permanent access tube.  The diameter of the borehole can be increased or decreased using 
+differing drive shaft and drive head diameters.  Cost constraints, material strength considerations, and 
+ 
+ 
+3.10
+characteristics of the subsurface material limit the size of the shaft and head that can be used.  The typical 
+drive shaft size has an inside diameter (ID) of 1.75 inches and an outside diameter (OD) of 2.5 inches and 
+will be used to place instruments in this monitoring project.  The hydraulic hammer has the capability to 
+drive rods into the ground at an angle, but for this monitoring scheme, all placement will be vertical.   
+ 
+In addition to the instrument to be installed using a hydraulic hammer, all nests will be accompanied by 
+T posts to prevent foot and vehicle traffic over the instruments and signage disclosing that subsurface 
+monitoring is in progress and identifying a contact person.   
+ 
+HDU
+HDU
+Access 
+Tube
+Capacitance 
+Probe
+80cm
+80cm
+ 
+Figure 3.5.  Relative Location of Each Drive within an Instrument Nest 
+ 
+Neutron Moisture Probe Access Tubes 
+The neutron probe access tubes will be installed using the basic function of the hydraulic hammer.  A 
+1.75 inch ID (2.5 inch OD) steel access tube will be driven vertically by the hydraulic hammer to a depth 
+of 15 m (49.2 ft).  The seams along the drive shaft are to be water tight.  The access tube is to be finished 
+flush with the tank farm surface using a small casing and cap to protect the access tube from vehicle 
+traffic and to prevent water from draining into the access tube.  
+ 
+EnviroSMART Capacitance Probe 
+This installation will require that the standard drive rod and drive head be modified.  A drive rod with an 
+ID larger than the 2.22 inch OD EnviroSMART PVC access tube will be driven vertically to a depth of 
+approximately 3.4 m.  Once the target depth is reached, the drive cone is detached from the shaft, and the 
+cone is isolated from the capacitance probe by surrounding it with 20/40 clean sand until the borehole 
+depth is approximately 2.9 m.  The EnviroSMART PVC access tube is placed at depth through the drive 
+rod, with the top of the probe being approximately 30 cm (1 ft) below ground surface.  As the drive rod is 
+extracted, a 20/40 clean sand is packed in the annulus surrounding the PVC access tube so that air gaps do 
+not exist between the access tube and the soil.  Accurate soil moisture content measurements with the 
+ 
+ 
+3.11
+EnviroSMART probe requires good contact between the soil and access tube.  In other words, there must 
+be minimal airspace between the soil and access tube.  When selecting the size of the drive rod, 
+consideration should be given to creating sufficient open space between the PVC tube and drive rod to 
+allow proper packing of the 20/40 sand, yet keeping the thickness of the open space to a minimum so the 
+measured moisture content is not heavily skewed by the packing material.  A small layer of bentonite is to 
+be used at the top of the PVC access tube to fill the annulus to reduce the potential for preferential flow 
+through the 20/40 sand pack material.   
+ 
+After the PVC access tube and packing material is emplaced, follow installation instructions in the 
+Instruction Manual (CSI 2006a) to install the sensor string (see Appendix A for details):   
+ 
+1. Seal the bottom of the access tube with a bung provided by the manufacturer.  
+2. Place desiccant within the access tube. 
+3. Remove soil and dust that has accumulated within the access tube.  
+4. Install the sensors within the access tube and emplace the cape and seal it with a water-tight and 
+weather-resistant sealant.   
+ 
+The remaining 30 cm of borehole will consist of casing and soil material from the surface of the tank farm.  
+The casing and soil will protect the probe from surface traffic.  In addition, the casing will allow for easy 
+excavation of the soil if the probe sensors and electronics need to be accessed. 
+ 
+Heat Dissipation Units 
+Four HDUs per nest will be placed in one of two ways.  The first possible placement involves two drives, 
+each drive allowing for the placement of two HDUs.  The drives will be divided into “deep” drives for the 
+placement of HDUs at 10-m and 5-m depths and “shallow” drives for the placement of HDUs at 1-m and 
+2-m depths.  Using two drives makes sure that there is enough space within the drive rod to place the 
+instruments, run the wiring, and properly emplace the packing material, but this may increase installation 
+time because two boreholes are being driven.  The second possible placement scheme places all four 
+HDUs in a single borehole.  This placement is preferred but may not be possible because of the reduction 
+in available open borehole space for placing packing material because of additional wiring within the 
+borehole.  Which placement is used will ultimately be decided in the field.  Figure 3.6 provides a 
+representation of the packing material and instrument layering scheme for installing two HDUs per 
+borehole.  The procedures of HDU installation are described below.  
+ 
+1. For each drive, the drive shaft will be driven approximately 0.6 m past the maximum placement depth.   
+2. The drive cone is disconnected from the drive shaft, and as the rod is removed, 20/40 clean sand is 
+added to bring the level to 10 cm below the bottom instrument depth.   
+3. The HDU and a silica flour suspension are added for a total 20-cm thickness of silica flour.  Silica 
+flour is packed around the HDU to supply optimum contact between the sensor and surrounding soil 
+material.   
+4. 20 cm of sand is packed on top of the silica flour, and bentonite is added to the borehole to 30 cm 
+before placing the next HDU.  Sand is placed between the silica flour and bentonite to assist in 
+keeping the bentonite from working into the silica flour surrounding the HDU.   
+5. 20 cm of sand is added followed by 20 cm of silica flour within which is the HDU and again 20 cm 
+more of sand.   
+6. Depending on whether two or four HDUs are installed in a single borehole, this sequence is repeated.   
+ 
+ 
+3.12
+7. The borehole is completed to the surface with bentonite.  A casing and cap are installed flush with the 
+surface to protect instrument wiring.   
+ 
+ 
+Figure 3.6.  HDU Installation and Packing Material Layering Scheme 
+ 
+Drain Gauge 
+ 
+Procedures of drain gauge installation are described below:  
+ 
+1. Auger a hole large enough in diameter to accommodate the 8-inch-OD DCT.  The depth of this hole 
+will be the length of the DCT, or 0.67 m (2.2 feet).  The sediment removed from the hole while 
+auguring is to be set aside to be used later to pack the divergence control tube.  A casing will be 
+placed in the augered hole to preserve the hole during installation.   
+2. After auguring to the correct depth, a 3-inch-diameter hole will be pushed to a depth of 1.2 m (4 ft) 
+past the base of the large-diameter auger hole.  The drive shaft is removed, and if the hole does not 
+remain stable, the drive shaft is again driven into the hole until the hole maintains its structure after 
+removing the drive shaft.   
+3. Once the drive shaft is removed, a manufacturer-supplied 3-inch-OD, 4-foot-long PVC tube is 
+inserted into the push hole.  The top of the PVC pipe should sit flush with the bottom of the DCT hole.   
+4. 12 inches of gravel is poured into the PVC tube to allow for unabated movement of the drainage away 
+from the drain gauge when it doses.   
+5. The wick section of the drain gauge is placed inside the PVC tube with the top plate resting on the 
+bottom of the DCT hole.  The gauge wiring and calibration line will run out of the PVC tube through 
+a notch in the top of the tube.   
+6. A 2-cm-thick layer of manufacturer-provided diatomaceous earth is placed on top of the fiberglass 
+fabric to enhance contact between the soil in the DCT and the fiberglass wick.   
+ 
+ 
+3.13
+7. Set the DCT on top of the plate.  
+8. Repack the soil removed from the DCT hole.  Care should be taken to repack the soil layers in the 
+same order in which they were removed and at approximately the same density as the surrounding 
+soil.   
+9. Backfill and pack the soil around the DCT and finish the installation by bringing the soil surface 
+above the drain gauge level with the surrounding surface.  The steel casing placed in the DCT hole 
+during installation will remain in the ground to provide a level of added protection to the instrument.      
+ 
+Meteorological Station 
+The meteorological station will be set up following manufacturer’s instructions.  The station will be wired 
+to the datalogger for automated measurements.  
+ 
+Datalogger and Wiring 
+All wiring from instruments within the tank farm will connect to a single cableway running north to the 
+datalogger outside of the tank farm.  To protect the wiring from vehicle and foot traffic as well as prevent 
+damage caused by animals, the wiring will be run through enclosed tubing that is buried to a shallow 
+depth (< 1 ft).  The tubing is to terminate at the datalogger box where it is securely connected to the box.  
+The datalogger will be installed in a weather box containing desiccant to keep precipitation and moisture 
+away from the datalogger.  The weather box will be installed above the ground by attaching it to a vertical 
+metal stake securely placed in the ground.     
+3.3.3 Instrument Calibration 
+Neutron Moisture Probe 
+Because the neutron moisture probe to be used for this monitoring effort belongs to CHG and is in their 
+possession, calibration will be CHG’s responsibility.  To date, the neutron probe has been calibrated using 
+the 6-inch and 8-inch-diameter steel access tubes at the calibration facility near the Hanford 
+Meteorological station.  These calibrations will not be directly relatable to neutron probe measurements 
+taken in the 2.5-inch OD access tubes to be installed in T tank farm and will introduce errors into the 
+measurement.  It is suggested that a calibration be developed for the neutron probe in a system using a 
+1.75 ID, 2.5 OD steel casing.  One possible method of calibration is to use the computer code Monte 
+Carlo Neutral Particles (MCNP) (Briesmeister 1993).  Goncalves et al. (1992) has successfully 
+demonstrated the calibration of neutron moisture probes using MCNP.  The neutron probe measurements 
+taken in the 6-inch and 8-inch-diameter access tubes at the calibration facility are compared to MCNP 
+simulation results to confirm model accuracy and correct probe conceptualization.  After this is achieved, 
+MCNP simulations are initiated as before, but the 6 inch and 8 inch diameter access tubes are replaced 
+with access tubes representing the size and composition of the access tubes to be installed in this plan.  
+Results from these simulations are used to develop the neutron moisture probe calibration curve.  A 
+second method is to create calibration standards in a cylinder (e.g., 55-gallon drum) containing material of 
+known moisture content or hydrogen content and the access tube to be used in the cover monitoring.  
+ 
+EnviroSMART Capacitance Probe 
+The capacitance probe will be calibrated using a normalization container available from CSI.  The 
+container is essentially a large plastic box with an EnviroSMART PVC access tube running down the 
+middle of the box.  The container will be packed with soil of known moisture content and measurements 
+made with the EnviroSMART probe inserted inside the access tube.  No less than three moisture contents 
+will be used to develop a calibration curve relating probe output to moisture content.  
+ 
+ 
+3.14
+ 
+Heat Dissipation Units 
+The HDUs will be calibrated in the laboratory across the full range of expected field soil water pressures.  
+Calibration at water pressures greater than -0.2 bar will be performed using a tension table or the hanging 
+water column method of Dane and Hopmans (2002).  At water pressures less than -0.2 bar, the units will 
+be calibrated in a pressure-plate apparatus following the methods described by Reece (1996).   
+ 
+Drain Gauge 
+The manufacturer will calibrate the drain gauge.  No field calibration will be required. 
+ 
+Meteorological Station 
+The manufacturer will calibrate the meteorological station.  No field calibration will be required.  
+ 
+ 
+4.1
+ 
+4.0 Quality Assurance 
+To verify the quality of the project, a stand-alone project management plan (PMP) was prepared and 
+approved by the product line manager.  A quality assurance plan (QAP) was prepared by a quality 
+specialist, who provides quality assurance support for the project.  All the project members were required 
+to follow the PMP and QAP.  
+ 
+ 
+ 
+4.2
+ 
+ 
+5.1
+5.0 References 
+Atlantic-Richfield Hanford Company (ARHCO).  1973.  241-T-106 Tank leak investigation.  ARH_2874, 
+Atlantic-Richfield Hanford Company, Richland, WA.  
+ 
+Briesmeister JF.  1993.  MCNP-A General Monte Carlo Code for Neutron Transport, Version 4A.  
+LA 12625-M, Los Alamos National Laboratory, Los Alamos, NM. 
+ 
+Campbell Scientific, Inc. (CSI).  2002.  Rain Gauges Models TE525WS, TE525, TE525MM, (brochure).  
+Logan, UT. 
+ 
+Campbell Scientific, Inc. (CSI).  2006a.  EnviroSMART Soil Water Content Profile Probes – Instruction 
+Manual. Logan, UT. 
+ 
+Campbell Scientific, Inc. (CSI).  2006b.  “Soil Volumetric Water Content/Salinity Probes Models 
+EasyAG II and EnviroSMART,” (brochure).  Logan, UT. 
+ 
+Campbell Scientific, Inc. (CSI).  2006c. “Temperature Probes Models 107 and 108,” (brochure). Logan, 
+UT. 
+ 
+Dane JH and JW Hopmans.  2002.  “Water Retention and Storage.”  In: J Dane and C Topp (eds.), Ch 2, 
+pp. 671-717, Methods of Soil Analysis, Part 4.  Physical Methods.  Book Series 5, Soil Sci. Soc. Am., 
+Madison, Wisconsin. 
+ 
+Decagon.  2003.  “Gee Passive Capillary Lysimeter,” (brochure). Pullman, WA. 
+ 
+Everett, LG, LG Wilson, and EW Hoylman.  1984.  Vadose Zone Monitoring for Hazardous Waste Sites.  
+Noyes Data Corporation, Parkridge, NJ. 
+ 
+Evett SR.  2001.  “Exploits and Endeavors in Soil Water Management and Conservation Using Nuclear 
+Techniques.”  In: Proc. International Symposium on Nuclear Techniques in Integrated Plan Nutrient, 
+Water and Soil Management.  Vienna, Austria, 16-20 October 2000.  International Atomic Energy 
+Agency, Vienna Austria.   
+ 
+Gee, GW, JM Keller, and AL Ward.  2005.  “Measurement and Prediction of Deep Drainage from Bare 
+Sediments at a Semiarid Site.”  Vadose Zone Journal 4:32-40. 
+ 
+Goncalves IF, J Salgado, and FG Carvalho.  1992.  “Calibration of a Neutron Moisture Gauge by Monte-
+Carlo Simulation.”  Nuclear Geophysics 6(3):371-381. 
+ 
+International Atomic Energy Agency (IAEA).  1970.  Neutron moisture gauges.  Tech. Rep. Ser. No. 112, 
+Vienna, Austria. 
+ 
+ 
+ 
+5.2
+Khaleel R, FJ Anderson, MP Connelly, TE Jones, FM Mann, DA Myers, and MI Wood.  2004.  Modeling 
+data package for WMAs T and TX-TY Field Investigation report.  RPP-17393 Rev. 0, CH2MHiLL 
+Hanford Group, Inc., Richland, WA. 
+ 
+Myers DA.  2005.  Field Investigation Report for Waste Management Areas.  RPR-23752, CH2M Hill 
+Hanford Group, Richland, WA. 
+ 
+Reece C.  1996.  “Evaluation of line heat dissipation sensor for measuring soil matric potential.”  Soil Sci. 
+Soc. Am. J. 60:1022-1028. 
+ 
+Routson RC, WH Price, DJ Brown, and KR Fecht.  1979.  High-level waste leakage from the 241-T-106 
+tank at Hanford.  RHO-ST-14, Rockwell Hanford Operations, Richland, WA. 
+ 
+Serne RJ, BN Bjornstad, DG Horton, DC Lanigan, HT Schaef, CW Lindenmeier, MJ Lindberg, RE 
+Clayton, VL LeGore, KN Geiszler, SR Baum, MM Valenta, IV Kutnyakov, TS Vickerman, RD Orr, CF 
+Brown. 2004. Characterization of Vadose Zone Sediments Below the T Tank Farm: Boreholes C4104, 
+C4105, 299-W10-196, and RCRA Borehole 299-W11-39. PNNL-14849, Pacific Northwest National 
+Laboratory, Richland WA. 
+ 
+U.S. Department of Energy (DOE).  2005.  Hanford Tank Farms Vadose Zone Monitoring Project, 
+Annual Monitoring Report for Fiscal Year 2004.  DOE-EM/GJ777-2004, Grand Junction Office, Grand 
+Junction, CO. 
+ 
+van Genuchten MTh.  1980.  “A closed-form equation for predicting the hydraulic conductivity of 
+unsaturated soils.”  Soil Science Society of America Journal 44:892-898. 
+ 
+Ward AL, TC Caldwell, and GW Gee.  2000.  Vadose Zone Transport Field Study: Soil Water Content 
+Distribution by Neutron Moderation.  PNNL-13795, Pacific Northwest National Laboratory, Richland, 
+WA. 
+ 
+White MD, and M Oostrom.  2004.  User’s guide of STOMP - Subsurface transport over multiple phases, 
+Version 3.1.  PNNL-14478, Pacific Northwest National Laboratory, Richland, WA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix A 
+ 
+EnviroSMART Probe Installation Procedure 
+ 
+ 
+ 
+ 
+ 
+ 
+A.1
+ 
+Appendix A: EnviroSMART Probe Installation Procedure 
+This information is adapted from Appendix C of the EnviroSMART instruction manual (Campbell 
+Scientific, Inc., 2006). 
+ 
+A.1  Cleaning the Access Tube 
+ 
+The access tube must be cleaned before the top cap and bottom stopper are installed and readings are 
+taken.  To clean the access tube: 
+ 
+1. Attach foam to a length of rod and plunge the foam up and down the length of the access tube. 
+2. Attach a clean cotton cloth to a length of rod and saturate with denatured alcohol.  Move this 
+cloth up and down the access tube to clean off the final dirt residue from the access tube.  
+3. After cleaning the tube, use a flashlight to inspect the inside of the access tube.  You should be 
+able to see clean walls and the lip of the cutting edge at the bottom. 
+ 
+A.2 Installing the Bottom Stopper Bung 
+ 
+The bottom stopper bung is installed after the access tube has been cleaned.  To install the bung: 
+1. Verify that the access tube is clean. 
+2. Partially insert the bung into the access tube and hold it at the upper end so 75% of the top rubber 
+ring is within the access tube. 
+3. Tighten the wing nut to the point where there is enough friction on the wall of the access tube to 
+prevent the bung from turning in the tube while the wing nut is tightened. 
+4. Place the bung tightening tool over the wing nut and slowly push the bung down the access tube.  
+Allow air to escape until the bung rests on top of the internal cutting edge of the inside of the tube. 
+5. Slowly turn the bung tightening tool until you feel resistance to turning when the bung is sitting 
+tight. 
+ 
+A.3 Installing the Top Cap 
+ 
+The top cap assembly is installed after the access tube has been cleaned and the bottom stopper fitted.  To 
+install the top cap assembly, follow these steps: 
+1. Verify that the top 4 cm of the access tube is clean on the inside and the outside. 
+2. With a silicon gun, apply three rings of silicon around the outside of the access tube about 1 cm 
+below the top rim of the tube. 
+3. Unscrew the cap from the top cap assembly base. 
+4. Take the top cap base and push it onto the top of the access tube with a slight forward and 
+backward rotating motion until the bottom foot of the top cap touches the undisturbed soil surface. 
+5. Wipe off excess silicon from the inside of the access tube. 
+6. Screw the cap back onto the top cap housing. 
+ 
+ 
+ 
+A.2
+A.4  References 
+ 
+Campbell Scientific, Inc.  2006.  EnviroSMART Soil Water Content Profile Probes – Instruction Manual. 
+Logan, UT. 
+ 
+ 
+PNNL-15913 Rev. 0 
+ 
+Distr. 1
+ 
+Distribution List 
+ 
+ 
+No. of 
+Copies 
+ 
+ONSITE 
+ 
+6 
+CH2M-HILL Group, Inc. 
+ 
+ 
+F.J. Anderson (2) 
+ 
+E6-35 
+ 
+F.M. Mann 
+ 
+ 
+E6-35 
+ 
+D.A. Myers 
+ 
+ 
+E6-35 
+ 
+N.L. Peters 
+ 
+ 
+E6-35 
+ 
+H.A. Sydnor 
+ 
+ 
+E6-35 
+ 
+1 
+Energy Solutions 
+ 
+ 
+K.D. Reynolds  
+ 
+H1-11 
+ 
+10 
+Pacific Northwest National Laboratory 
+ 
+ 
+Z.F. Zhang (2)  
+ 
+K9-36 
+ 
+J.M. Keller 
+ 
+ 
+BPO 
+ 
+E.J. Freeman 
+ 
+ 
+K9-36 
+ 
+M.J. Fayer 
+ 
+ 
+K9-36 
+ 
+G.W. Gee 
+ 
+ 
+K9-36 
+ 
+R.R. Kirkham  
+ 
+K9-36 
+ 
+A.L Ward 
+ 
+ 
+K9-36 
+ 
+Information Release (2)  
+P8-55 
+ 

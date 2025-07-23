@@ -1,0 +1,1103 @@
+Created on 2/16/2006 6:44:00 PM 
+- 1 - 
+med_ingred_full_publicv1.1.doc  
+ 
+ 
+ 
+ 
+ 
+ 
+Consolidated Health Care Informatics 
+ 
+Standards Adoption Recommendation 
+ 
+Medications 
+Subdomain: Active Ingredients 
+ 
+ 
+ 
+Index 
+ 
+1. Part I – Sub-team & Domain Scope Identification – basic information defining 
+the team and the scope of its investigation. 
+2. Part II – Standards Adoption Recommendation – team-based advice on 
+standard(s) to adopt. 
+3. Part III – Adoption & Deployment Information – supporting information 
+gathered to assist with deployment of the standard (may be partial). 
+ 
+ 
+ 
+ 
+ 
+Created on 2/16/2006 6:44:00 PM 
+- 2 - 
+med_ingred_full_publicv1.1.doc  
+Summary 
+ 
+Domain:  Medications 
+ 
+Sub-Domain:  Active Ingredients 
+ 
+Standards Adoption Recommendation:   
+FDA Established Name for active ingredient &  
+FDA Unique Ingredient Identifier (UNII) codes. 
+ 
+SCOPE 
+The purpose of this standard is to enable the federal health care sector to share 
+information regarding medication active ingredients. An active ingredient is a substance 
+responsible for the effects of a medication. Frequently, an active ingredient is a known 
+chemical substance. Known chemical substances may be called by the base substance 
+(e.g. propanolol), or by a base substance – salt combination (e.g. propanolol 
+hydrocloride). In certain instances the structure of the ingredient is not known precisely. 
+For example, beef gelatin is a complex molecular mixture defined by the process used to 
+create it. 
+ 
+RECOMMENDATION 
+FDA Established Name for active ingredient & FDA Unique Ingredient Identifier (UNII) 
+codes. 
+ 
+OWNERSHIP 
+The recommended standards are in the public domain, and are administered by the FDA, 
+supported by AHRQ and maintained by NCI. 
+ 
+APPROVALS AND ACCREDITATIONS 
+FDA 
+ 
+ACQUISITION AND COST 
+FDA Established Names and the UNII codes are free from FDA and will also be 
+available from the NLM. 
+ 
+REVISION HISTORY 
+ 
+DATE 
+VERSION 
+COMMENT 
+2/13/2004 
+Public Document 
+Final Recommendation 
+2/24/2006 
+1.1 
+AHRQ reference added 
+Created on 2/16/2006 6:44:00 PM 
+- 3 - 
+med_ingred_full_publicv1.1.doc  
+Part I – Team & Domain Scope Identification
+ 
+Target Vocabulary Domain 
+ 
+Common name used to describe the clinical/medical domain or messaging standard 
+requirement that has been examined. 
+ 
+Medication Active Ingredients, a subdomain of Medications 
+ 
+Describe the specific purpose/primary use of this standard in the federal health care 
+sector (100 words or less) 
+ 
+An active ingredient is a substance responsible for the effects of a medication. 
+Frequently, an active ingredient is a known chemical substance. Known chemical 
+substances may be called by the base substance (e.g. propanolol), or by a base substance 
+– salt combination (e.g. propanolol hydrocloride). In certain instances the structure of the 
+ingredient is not known precisely. For example, beef gelatin is a complex molecular 
+mixture defined by the process used to create it. 
+ 
+The purpose of this standard is to enable the federal health care sector to share 
+information regarding medication active ingredients. 
+ 
+ 
+Sub-domains  Identify/dissect the domain into sub-domains, if any.  For each, indicate if 
+standards recommendations are or are not included in the scope of this recommendation. 
+ 
+Medication active ingredients is itself a sub-domain of the Medications Domain. 
+Please see the overarching domain analysis for more information. 
+ 
+Domain/Sub-domain 
+In-Scope (Y/N) 
+This template is included as part of the medications 
+domain
+ 
+ 
+Information Exchange Requirements (IERs)  Using the table at appendix A, list the 
+IERs involved when using this vocabulary. 
+ 
+Customer Health Care Information 
+Care Management Information 
+Customer Risk Factors 
+Referral Information 
+Body of Health Services Knowledge 
+Tailored Education Materials 
+Beneficiary Tracking Information 
+Patient Satisfaction Information 
+Case Management Information 
+Cost Accounting Information 
+Created on 2/16/2006 6:44:00 PM 
+- 4 - 
+med_ingred_full_publicv1.1.doc  
+Population Member Health Data 
+Population Risk Reduction Plan 
+Provider Metrics 
+Improvement Strategy 
+Resource Availability 
+Beneficiary Inquiry Information 
+Clinical Guidelines 
+Customer Approved Care Plan 
+ 
+ 
+ 
+Team Members  Team members’ names and agency names with phone numbers. 
+ 
+ 
+Name 
+Agency/Department 
+Steven Brown (Team Lead) 
+VA 
+Randy Levin 
+FDA 
+Kathy Hollinger 
+FDA 
+Bill Hess 
+FDA 
+Stuart Nelson 
+NLM 
+Nancy Orvis 
+DoD 
+William Trick 
+CDC 
+Dan Budnitz 
+CDC 
+Carlene McIntyre 
+InHs 
+ 
+Work Period  Dates work began/ended. 
+ 
+Start 
+End 
+Feburary 2003 
+June 2003 
+Created on 2/16/2006 6:44:00 PM 
+- 5 - 
+med_ingred_full_publicv1.1.doc  
+Part II – Standards Adoption Recommendation 
+ 
+Recommendation Identify the solution recommended. 
+ 
+The CHI Medications subgroup recommends the following standards for medication 
+active ingredients in order of priority 
+ 
+1. Primary Standard: FDA Established Name for active ingredient & FDA Unique 
+Ingredient Identifier (UNII) codes. This selection was made because of the 
+widespread use and free availability to the public of these names and the 
+impending free availability of authoritative UNII codes that are in the public 
+domain from the FDA through NLM. Until UNII Codes are available, the 
+subgroup declines to recommend a code number scheme for active ingredients. 
+ 
+2. Secondary Standards in order of precedence 
+a. USP-NF name& UNII codes 
+b. USAN name and UNII code 
+c. INN names & UNII codes  
+d. IUPAC chemical names and UNII codes  
+e. Common name and UNII codes  
+ 
+Ownership Structure Describe who “owns” the standard, how it is managed and 
+controlled. 
+ 
+FDA Established Names 
+ 
+FDA Established Names are in the public domain, and are administered by the FDA with 
+input from the manufacturer, the USAN council, and the USP. 
+ 
+USP Names 
+ 
+The United States Pharmacopeia (USP) is a non-government organization that establishes 
+standards via a process of public involvement to ensure the quality of medicines and 
+other health care technologies. Currently, USP provides standards (including names) for 
+more than 3,400 prescription and non-prescription drugs, nutritional and dietary 
+supplements, veterinary drug standards, and health care products. These standards are 
+published in the United States Pharmacopeia and the National Formulary (USP-NF), 
+which are officially recognized in the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 
+§ 321 et seq.) About 650 elected scientists and practitioners comprise USP’s scientific 
+decision-making body by serving as members of the Council of Experts (COE) or on 
+expert committees. About 400 members represent state associations and colleges of 
+medicine and pharmacy; the federal government; national and international professional, 
+scientific, and trade organizations; the pharmaceutical industry; and consumer 
+organizations.  
+ 
+United States Adopted Names (USAN) 
+Created on 2/16/2006 6:44:00 PM 
+- 6 - 
+med_ingred_full_publicv1.1.doc  
+ 
+Every medication introduced to market since 1961 in the United States has been given a 
+non-proprietary United States Adopted Name (USAN) by the USAN Council, a body 
+composed of representatives from the United States Pharmacopoeia, the American 
+Medical Association, the Food and Drug Administration, the American Pharmacists 
+Association and an “at large” member.  These names are known to virtually all health 
+care providers and even lay citizens as “generic names”, but are more properly referred to 
+as “non-proprietary” names.  USAN are in the public domain 
+ 
+ 
+UNII Codes 
+ 
+The FDA developing an electronic repository listing all medication ingredients used in 
+the United States. Each will have a unique ingredient identifier (UNII) code based on 
+molecular structure, manufacturing process, and/or other characteristics.  The FDA and 
+the NLM are collaborating to make the ingredient information repository, including all 
+publicly available medication ingredients, structures, Molfiles, and names, available to 
+the public at no cost. The NLM will also maintain mechanisms that will permit third 
+parties to submit for potential inclusion information about ingredients used in products 
+that are marketed or investigated outside the United States 
+ 
+ 
+ 
+Summary Basis for Recommendation Summarize the team’s basis for making the 
+recommendation (300 words or less). 
+ 
+FDA Established Names 
+ 
+Every active ingredient marketed in the US is given an  “established” name by the FDA, 
+with input from the manufacturer, the USAN council, and the USP.  The established 
+name may consist of up to 3 fields: active ingredient, dosage form, and route of 
+administration. In practice, active ingredients named by the FDA Established Name, the 
+USP Name, and the USAN name are, at the time of writing, identical for the same 
+substances. It is theoretically possible however, that irreconcilable differences could arise 
+between FDA, USP, and USAN. In this case, the medications group recommends that 
+government standards respect legal authority in Sec 502(e)(3) FD&C Act. In other cases, 
+a substance might have only 1 of these names in which case secondary recommendations 
+should be followed. 
+ 
+USP-NF 
+ 
+The United States Pharmacopeia (USP) is a non-government organization that establishes 
+standards via a process of public involvement to ensure the quality of medicines and 
+other health care technologies. Currently, USP provides standards (including names) for 
+more than 3,400 prescription and non-prescription drugs, nutritional and dietary 
+supplements, veterinary drug standards, and health care products. These standards are 
+Created on 2/16/2006 6:44:00 PM 
+- 7 - 
+med_ingred_full_publicv1.1.doc  
+published in the United States Pharmacopeia and the National Formulary (USP-NF), 
+which are officially recognized in the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 
+§ 321 et seq.) The new annual edition is USP 26–NF 21 
+ 
+Of the 9,503 substances listed in the USP dictionary, some 3822 have USAN names. The 
+USP Dictionary can be considered to be “complete” for medications marketed in the US 
+regardless of when they were introduced. As mentioned in the USAN analysis, the 
+coverage of USAN names does not necessarily include medications not marketed the 
+United States. In addition, there are a number of marketed medication ingredients that 
+were given non-USAN names prior to 1961  
+ 
+According to sources at USP, the non USP names can be used without restrictions. 
+ 
+United States Adopted Names (USAN) 
+ 
+Every medication introduced to market since 1961 in the United States has been given a 
+non-proprietary United States Adopted Name (USAN) by the USAN Council, a body 
+composed of representatives from the United States Pharmacopoeia, the American 
+Medical Association, the Food and Drug Administration, the American Pharmacists 
+Association and an “at large” member.  These names are known to virtually all health 
+care providers and even lay citizens as “generic names”, but are more properly referred to 
+as “non-proprietary” names.  These “non proprietary” names are shorter and more easily 
+remembered than the more precise chemical name For example Imatinib mesylate is the 
+USAN name for the chemical 4-[(4-Methyl-1-piperazinyl) methyl]-N-[4-methyl-3-[[4-(3-
+pyridinyl)-2-pyrimidinyl]amino]-phenyl]benzamide methanesulfonate. Unlike trade 
+names, generic USAN names are not “reused” (e.g. Salagen (Pilocarpine) name reissued 
+in 1994 as Salagen (Aspirin, Buffered) name retired in 1993.  
+ 
+USAN non-proprietary names are a core component of RxNorm names, and are included 
+in the offerings of each of the major US drug information vendors’ products. NLM uses 
+USAN non-proprietary names to index the world’s medical literature and VA uses USAN 
+non-proprietary names in its National Drug File. There is no competitor in the US for 
+USAN non-proprietary names of marketed medications - USAN is the only official 
+process, by legal mandate. USAN criteria are updated as comments are received, and 
+have been in use for over 40 years. 
+ 
+USAN names have excellent content coverage for medications brought to market in the 
+US since 1961 and are publicly available without intellectual property restrictions. Of the 
+9,503 substances listed in the USP dictionary, some 3822 have USAN names. The 
+coverage of USAN names does not necessarily include medications not marketed the 
+United States. In addition, there are a number of marketed medication ingredients that 
+were given non-USAN names prior to 1961 (when USAN commenced) that have not 
+ever been given a USAN. Examples include bubalbarbital sodium, cholorquine 
+hydrochloride, and chlorphenaramine maleate.  USAN names are organized in a uncoded, 
+simple listing and thus fail to meet certain published criteria for good terminology 
+practices.  
+Created on 2/16/2006 6:44:00 PM 
+- 8 - 
+med_ingred_full_publicv1.1.doc  
+ 
+ 
+UNII Codes 
+ 
+The FDA developing an electronic repository listing all medication ingredients used in 
+the United States. Each will have a unique ingredient identifier (UNII) code based on 
+molecular structure, manufacturing process, and/or other characteristics.  When 
+molecular structures are known, the ingredient’s UNII code is based on the freely 
+available and widely used Molecular Design Limited (MDL®) Molfile A Molfile is a 
+unique electronic representation of molecular structure. When specific molecular 
+structures of complex substances are not known, business rules established by an expert 
+oversight committee will be applied; for example, beef gelatin, a complex molecular 
+mixture, will be defined by the process used to create it.  
+ 
+The FDA and the NLM are collaborating to make the ingredient information repository, 
+including all publicly available medication ingredients, structures, Molfiles, and names, 
+available to the public at no cost. The NLM will also maintain mechanisms that will 
+permit third parties to submit for potential inclusion information about ingredients used in 
+products that are marketed or investigated outside the United States 
+ 
+The UNII code project is ongoing. As of early 2003, the FDA has acquired the Molfile 
+software and is constructing electronic structural representations for all U.S. medication 
+product ingredients. FDA and NLM will UNII codes and associated structural 
+representations available to the public 2003. 
+ 
+Analysis for secondary recommendations is included below 
+ 
+ 
+Conditional Recommendation If this is a conditional recommendation, describe 
+conditions upon which the recommendation is predicated. 
+ 
+Until UNII Codes are available, the subgroup declines to recommend a code number 
+scheme for active ingredients. The group expects UNII codes to be available in 2004 via 
+a joint effort of NLM and FDA 
+ 
+ 
+Approvals & Accrediations 
+ 
+Indicate the status of various accreditations and approvals: 
+ 
+Approvals 
+& 
+ Accreditations 
+ 
+ 
+Yes/Approved 
+ 
+ 
+Applied 
+ 
+Not 
+Approved 
+Full SDO Ballot 
+ 
+ 
+ 
+ANSI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Created on 2/16/2006 6:44:00 PM 
+- 9 - 
+med_ingred_full_publicv1.1.doc  
+ 
+ 
+ 
+ 
+ 
+Options Considered  Inventory solution options considered and summarize the basis for 
+not recommending the alternative(s). 
+ 
+Options 
+ 
+1. FDA Established Names 
+2. United States Adopted Names (USAN) 
+3. United States Pharmacopoeia National Formulary of drug substances and 
+pharmaceutical ingredients (USP-NF).  
+4. Chemical Abstracts Service (CAS) number 
+5. MolFile chemical structure representation and code 
+6. International Union of Pure and Applied Chemists (IUPAC) chemical name.  
+7. Other approved names including British Approved Names (BAN), Japanese Approved 
+Names (JAN) and International Nonproprietary Names (INN) 
+ 
+Created on 2/16/2006 6:44:00 PM 
+- 10 - 
+med_ingred_full_publicv1.1.doc  
+Option Analysis 
+ 
+FDA Established Names 
+ 
+Every active ingredient marketed in the US is given an  “established” name by the FDA, with 
+input from the manufacturer, the USAN council, and the USP.  The established name may 
+consist of up to 3 fields: active ingredient, dosage form, and route of administration. In 
+practice, active ingredients named by the FDA Established Name, the USP Name, and the 
+USAN name are, at the time of writing, identical for the same substances. It is theoretically 
+possible however, that irreconcilable differences could arise between FDA, USP, and USAN. 
+In this case, the medications group recommends that government standards respect legal 
+authority in Sec 502(e)(3) FD&C Act. In other cases, a substance might have only 1 of these 
+names in which case secondary recommendations should be followed. 
+ 
+ 
+United States Adopted Names (USAN) 
+ 
+Every medication introduced to market since 1961 in the United States has been given a non-
+proprietary United States Adopted Name (USAN) by the USAN Council, a body composed of 
+representatives from the United States Pharmacopoeia, the American Medical Association, the 
+Food and Drug Administration, the American Pharmacists Association and an “at large” 
+member.  These names are known to virtually all health care providers and even lay citizens as 
+“generic names”, but are more properly referred to as “non-proprietary” names.  These “non 
+proprietary” names are shorter and more easily remembered than the more precise chemical 
+name For example Imatinib mesylate is the USAN name for the chemical 4-[(4-Methyl-1-
+piperazinyl) methyl]-N-[4-methyl-3-[[4-(3-pyridinyl)-2-pyrimidinyl]amino]-
+phenyl]benzamide methanesulfonate. Unlike trade names, generic USAN names are not 
+“reused” (e.g. Salagen (Pilocarpine) name reissued in 1994 as Salagen (Aspirin, Buffered) 
+name retired in 1993.  
+ 
+USAN non-proprietary names are a core component of RxNorm names, and are included in 
+the offerings of each of the major US drug information vendors’ products. NLM uses USAN 
+non-proprietary names to index the world’s medical literature and VA uses USAN non-
+proprietary names in its National Drug File. There is no competitor in the US for USAN non-
+proprietary names of marketed medications - USAN is the only official process, by legal 
+mandate. USAN criteria are updated as comments are received, and have been in use for over 
+40 years. 
+ 
+USAN names have excellent content coverage for medications brought to market in the US 
+since 1961 and are publicly available without intellectual property restrictions. Of the 9,503 
+substances listed in the USP dictionary, some 3822 have USAN names. The coverage of 
+USAN names does not necessarily include medications not marketed the United States. In 
+addition, there are a number of marketed medication ingredients that were given non-USAN 
+names prior to 1961 (when USAN commenced) that have not ever been given a USAN. 
+Examples include bubalbarbital sodium, cholorquine hydrochloride, and chlorphenaramine 
+maleate.  USAN names are organized in a uncoded, simple listing and thus fail to meet certain 
+Created on 2/16/2006 6:44:00 PM 
+- 11 - 
+med_ingred_full_publicv1.1.doc  
+published criteria for good terminology practices.  
+ 
+ 
+USP-NF 
+ 
+The United States Pharmacopeia (USP) is a non-government organization that establishes 
+standards via a process of public involvement to ensure the quality of medicines and other 
+health care technologies. Currently, USP provides standards (including names) for more than 
+3,400 prescription and non-prescription drugs, nutritional and dietary supplements, veterinary 
+drug standards, and health care products. These standards are published in the United States 
+Pharmacopeia and the National Formulary (USP-NF), which are officially recognized in the 
+Federal Food, Drug, and Cosmetic Act (21 U.S.C. § 321 et seq.) The new annual edition is 
+USP 26–NF 21 
+ 
+ 
+About 650 elected scientists and practitioners comprise USP’s scientific decision-making body 
+by serving as members of the Council of Experts (COE) or on expert committees. About 400 
+members represent state associations and colleges of medicine and pharmacy; the federal 
+government; national and international professional, scientific, and trade organizations; the 
+pharmaceutical industry; and consumer organizations.  
+ 
+Of the 9,503 substances listed in the USP dictionary, some 3822 have USAN names. The USP 
+Dictionary can be considered to be “complete” for medications marketed in the US regardless 
+of when they were introduced. As mentioned in the USAN analysis, the coverage of USAN 
+names does not necessarily include medications not marketed the United States. In addition, 
+there are a number of marketed medication ingredients that were given non-USAN names 
+prior to 1961  
+ 
+According to sources at USP, the non USP names can be used without restrictions. 
+ 
+ 
+UNII Codes 
+ 
+The FDA developing an electronic repository listing all medication ingredients used in the 
+United States. Each will have a unique ingredient identifier (UNII) code based on molecular 
+structure, manufacturing process, and/or other characteristics.  When molecular structures are 
+known, the ingredient’s UNII code is based on the freely available and widely used Molecular 
+Design Limited (MDL®) Molfile identifier (MolID) assigned to the substance. A Molfile is a 
+unique electronic representation of molecular structure. When specific molecular structures of 
+complex substances are not known, business rules established by an expert oversight 
+committee will be applied; for example, beef gelatin, a complex molecular mixture, will be 
+defined by the process used to create it.  
+ 
+The FDA and the NLM are collaborating to make the ingredient information repository, 
+including all publicly available medication ingredients, structures, Molfiles, and names, 
+available to the public at no cost. The NLM will also maintain mechanisms that will permit 
+Created on 2/16/2006 6:44:00 PM 
+- 12 - 
+med_ingred_full_publicv1.1.doc  
+third parties to submit for potential inclusion information about ingredients used in products 
+that are marketed or investigated outside the United States 
+ 
+The UNII code project is ongoing. As of early 2003, the FDA has acquired the Molfile 
+software and is constructing electronic structural representations for all U.S. medication 
+product ingredients. . FDA and NLM will make UNII codes and associated structural 
+representations freely available to the public in 2004. 
+ 
+ 
+International Union of Pure and Applied Chemists (IUPAC) Name 
+ 
+Chemists internationally use the IUPAC names, and naming algorithms. The IUPAC does not 
+provide a unique name, although it does provide an unambiguous name.  IUPAC names are 
+scientifically descriptive, and the naming algorithms are flexible and capable of representing 
+virtually all chemicals known to be used in medications. IUPAC names cannot be generated 
+for medication ingredients whose precise structures are not known. Furthermore, IUPAC 
+names can be lengthy, and not easily understood by the uninitiated.  
+ 
+ 
+International Nonproprietary Names 
+ 
+http://www.who.int/medicines/organization/qsm/activities/qualityassurance/inn/innguide.shtml 
+ 
+International Nonproprietary Names (INN) identify pharmaceutical substances or active 
+pharmaceutical ingredients. Each INN is a unique name that is globally recognized and is 
+public property. A nonproprietary name is also known as a generic name. To make INN 
+universally available they are formally placed by WHO in the public domain, hence their 
+designation as "nonproprietary". They can be used without any restriction whatsoever to 
+identify pharmaceutical substances. 
+ 
+The INN system as it exists today was initiated in 1950 by a World Health Assembly 
+resolution WHA3.11 and began operating in 1953, when the first list of International 
+Nonproprietary Names for pharmaceutical substances was published. The cumulative list of 
+INN now stands at some 7000 names designated since that time, and this number is growing 
+every year by some 120-150 new INN. 
+ 
+British Approved Name, Japanese Approved Name, and other International Naming Schemes 
+ 
+Much like the US Adopted Names, other countries have developed naming schemes that allow 
+laypersons within their countries to discuss active medication ingredients with complex 
+chemical names. As a result of ongoing collaboration, national names such as British 
+Approved Names (BAN), Dénominations Communes Françaises (DCF), Japanese Adopted 
+Names (JAN) and United States Accepted Names (USAN) are nowadays, with rare 
+exceptions, identical to the INN. These national naming schemes can be country specific. That 
+is, they refer ingredients used in the particular country with names intended to meaningful to 
+its citizens. As a result, there is significant overlap and yet some differences between various 
+Created on 2/16/2006 6:44:00 PM 
+- 13 - 
+med_ingred_full_publicv1.1.doc  
+national schemes. For example, differences exist between BAN and USAN names for the 
+same substance (e.g. acetaminophen = paracetamol). In addition to having different names for 
+the same substances, different countries permit the use of different medicinal ingredients.  It is 
+assured that all US medications do not have approved names under other countries’ naming 
+schemes. Likewise, these international naming schemes cover medications not currently 
+employed in the US. Quantitative analysis of overlap and dissonance is beyond the scope of 
+the current analysis. Given those caveats, the CHI group may wish to develop, or encourage 
+the development of mappings to other international systems. 
+ 
+ 
+Chemical Abstracts Service (CAS) Registry Number 
+ 
+The Chemical Abstracts Service, established by the American Chemical Society, maintains an 
+extensive listing of chemical substances and code numbers. CAS registry numbers are linked 
+to chemical names expressed in several formats (e.g. USAN, IUPAC). CAS registry numbers 
+used to index the chemical literature. The content coverage of CAS extends beyond 
+medication active ingredients, although medications are an advertised use. CAS registry 
+information is copyright protected and must be licensed. In addition, multiple “salt” forms of 
+medications may share a single CAS registry number 
+ 
+Investigational “Lab” Names 
+ 
+When drug companies submit Investigational New Drug (IND) applications to the FDA for 
+new molecular entities, they may not have yet decided upon a proprietary name, and the USP 
+has not yet had an opportunity to create an adopted name (USAN) for the substance. 
+Commonly, companies will refer to medications with a name composed of letters 
+(representing the company) and numbers (representing the compound). An example of an 
+investigational lab name is “RU 486” for the compound that was eventually given the USAN 
+name “mifeprestone”.   Investigational lab names are used by the pharmaceutical industry, the 
+FDA, and by centers conducting studies of the compounds. Investigational lab names are not 
+necessarily restricted to compounds that have known chemical structures. 
+ 
+ 
+ 
+ 
+Current Deployment 
+ 
+ 
+Summarize the degree of market penetration today; i.e., where is this solution installed 
+today? 
+ 
+FDA Established Name/USP Name/USAN Name – Too numerous to count 
+UNII Code - none 
+ 
+ 
+What number of or percentage of relevant vendors have adopted the standard? 
+Created on 2/16/2006 6:44:00 PM 
+- 14 - 
+med_ingred_full_publicv1.1.doc  
+FDA Established Name/USP Name/USAN Name – Too numerous to count 
+UNII Code - none 
+ 
+What number or percentage of healthcare institutions have adopted the standard? 
+FDA Established Name/USP Name/USAN Name – Too numerous to count 
+UNII Code - none 
+ 
+What number or percentage of federal agencies have adopted the standard? 
+FDA Established Name/USP Name/USAN Name – Too numerous to count 
+UNII Code - none 
+ 
+Is the standard used in other countries? 
+ 
+FDA Established Name/USP Name/USAN Name – probably some, there is overlap 
+resulting from harmonization efforts with INN and others 
+ 
+Are there other relevant indicators of market acceptance? 
+ 
+ 
+ 
+Created on 2/16/2006 6:44:00 PM 
+- 15 - 
+med_ingred_full_publicv1.1.doc  
+Part III – Adoption & Deployment Information 
+ 
+Provide all information gathered in the course of making the recommendation that may 
+assist with adoption of the standard in the federal health care sector.  This information 
+will support the work of an implementation team. 
+ 
+ 
+Existing Need & Use Environment
+ 
+Measure the need for this standard and the extent of existing exchange among federal 
+users.  Provide information regarding federal departments and agencies use or non-use 
+of this health information in paper or electronic form, summarize their primary reason 
+for using the information, and indicate if they exchange the information internally or 
+externally with other federal or non-federal entities. 
+ 
+FDA ESTABLISHED 
+ 
+Column A: 
+Agency or Department Identity (name) 
+Column B: 
+Use data in this domain today? (Y or N) 
+Column C: 
+Is use of data a core mission requirement? (Y or N) 
+Column D: 
+Exchange with others in federal sector now? (Y or N) 
+Column E: 
+Currently exchange paper or electronic (P, E, B (both), N/Ap) 
+Column F: 
+Name of paper/electronic vocabulary, if any (name) 
+Column G:  
+Basis/purposes for data use (research, patient care, benefits) 
+ 
+Department/Agency 
+B C D
+E
+F 
+G 
+Department of 
+Veterans Affairs 
+ 
+ 
+ 
+ 
+ 
+ 
+Department of 
+Defense 
+ 
+ 
+ 
+ 
+ 
+ 
+HHS Office of the 
+Secretary 
+ 
+ 
+ 
+ 
+ 
+ 
+Administration for 
+Children and 
+Families (ACF) 
+ 
+ 
+ 
+ 
+ 
+ 
+Administration on 
+Aging (AOA) 
+ 
+ 
+ 
+ 
+ 
+ 
+Agency for 
+Healthcare Research 
+and Quality (AHRQ) 
+ 
+ 
+ 
+ 
+ 
+ 
+Agency for Toxic 
+Substances and 
+Disease Registry 
+(ATSDR) 
+ 
+ 
+ 
+ 
+ 
+ 
+Centers for Disease 
+Control and 
+ 
+ 
+ 
+ 
+ 
+ 
+Created on 2/16/2006 6:44:00 PM 
+- 16 - 
+med_ingred_full_publicv1.1.doc  
+Prevention (CDC) 
+Centers for Medicare 
+and Medicaid 
+Services (CMS) 
+ 
+ 
+ 
+ 
+ 
+ 
+Food and Drug 
+Administration 
+(FDA) 
+ 
+ 
+ 
+ 
+ 
+ 
+Health Resources and 
+Services 
+Administration 
+(HRSA) 
+ 
+ 
+ 
+ 
+ 
+ 
+Indian Health Service 
+(IHS) 
+ 
+ 
+ 
+ 
+ 
+ 
+National Institutes of 
+Health (NIH) 
+ 
+ 
+ 
+ 
+ 
+ 
+Substance Abuse and 
+Mental Health 
+Services 
+Administration 
+(SAMHSA) 
+ 
+ 
+ 
+ 
+ 
+ 
+Social Security 
+Administration 
+ 
+ 
+ 
+ 
+ 
+ 
+Department of 
+Agriculture 
+ 
+ 
+ 
+ 
+ 
+ 
+State Department 
+ 
+ 
+ 
+ 
+ 
+ 
+US Agency for 
+International 
+Development 
+ 
+ 
+ 
+ 
+ 
+ 
+Justice Department 
+ 
+ 
+ 
+ 
+ 
+ 
+Treasury Department 
+ 
+ 
+ 
+ 
+ 
+ 
+Department of 
+Education 
+ 
+ 
+ 
+ 
+ 
+ 
+General Services 
+Administration 
+ 
+ 
+ 
+ 
+ 
+ 
+Environmental 
+Protection Agency 
+ 
+ 
+ 
+ 
+ 
+ 
+Department of 
+Housing & Urban 
+Development 
+ 
+ 
+ 
+ 
+ 
+ 
+Department of 
+Transportation 
+ 
+ 
+ 
+ 
+ 
+ 
+Homeland Security 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Number of Terms 
+ 
+Quantify the number of vocabulary terms, range of terms or other order of magnitude. 
+Created on 2/16/2006 6:44:00 PM 
+- 17 - 
+med_ingred_full_publicv1.1.doc  
+Of the 9,503 substances listed in the USP dictionary, some 3822 have USAN namesAll 
+active ingredients in the US have an FDA established name 
+ 
+How often are terms updated? 
+ 
+FDA publishes the Orange Book quarterly 
+USAN adoptions are scheduled for the last Wednesday of each month 
+UNII codes – will be published via NLM as part of the DailyMed 
+ 
+ 
+Range of Coverage   
+ 
+Within the recommended vocabulary, what portions of the standard are complete and can 
+be implemented now? (300 words or less) 
+ 
+All active ingredients marketed in the US have an FDA established name. FDA 
+established names and the USP Dictionary can be considered to be “complete” for 
+medications marketed in the US regardless of when they were introduced. Of the 9,503 
+substances listed in the USP dictionary, some 3822 have USAN names. As mentioned in 
+the USAN analysis, the coverage of USAN names does not necessarily include 
+medications not marketed the United States. In addition, there are a number of marketed 
+medication ingredients that were given non-USAN names prior to 1961  
+ 
+UNII Codes – content will include all chemical substances marketed as medications in 
+the US 
+ 
+Created on 2/16/2006 6:44:00 PM 
+- 18 - 
+med_ingred_full_publicv1.1.doc  
+Acquisition:  How are the data sets/codes acquired and use licensed? 
+ 
+FDA Established Names are in the public domain.  Most active ingredient names are 
+freely available in the Orange Book (Approved Drug Products with Therapeutic 
+Equivalence Evaluations) or in the NDC Directory.  These active ingredient names 
+should contain the active ingredient(s) as they appear on the latest approved labeling, 
+both for RX and OTC drugs.  The Orange Book is available in paper, and on-line at 
+http://www.fda.gov/cder/ob/default.htm.  The NDC Directory is only available on-line at 
+http://www.fda.gov/cder/ndc/database/default.htm.  The FDA may also be able to provide 
+a separate list of active ingredient names.  Lastly, the active ingredient names will be 
+freely available through the DailyMed initiative through the NLM. 
+ 
+USP standards are published in the United States Pharmacopoeia and the National 
+Formulary (USP-NF), which are officially recognized in the Federal Food, Drug, and 
+Cosmetic Act (21 U.S.C. § 321 et seq.). In 1906, with the enactment of the Pure Foods 
+and Drug Act, the USP-NF achieved official status. It establishes legal standards for 
+drugs manufactured in the U.S. The USP covers active ingredients and the NF covers 
+inactive ingredients. The new annual edition is USP 26–NF 21 
+ 
+According to sources at USP, USAN are in the public domain; the non USAN USP 
+names can be used without restrictions. 
+ 
+UNII Codes – free distribution via NLM 
+ 
+Cost 
+ 
+What is the direct cost to obtain permission to use the data sets/codes? (licensure, 
+acquisition, other external data sets required, training and education, updates and 
+maintenance, etc.) 
+ 
+FDA Established Names – free from FDA and eventually via NLM along with UNII 
+codes 
+ 
+According to the USP website 
+http://www.usp.org/cgi-bin/catalog/SoftCart.exe/catalog/frameset.htm?E+uspstore 
+ 
+2003 USP Dictionary 
+Online & Print Combination (Special Offer) 
+(2003 online license expires 3/31/04*) 
+Item Number: 3934322 
+Price: $ 319.00  
+ 
+ 
+UNII Codes – free distribution via NLM 
+ 
+ 
+Created on 2/16/2006 6:44:00 PM 
+- 19 - 
+med_ingred_full_publicv1.1.doc  
+Systems Requirements 
+ 
+Is the standard associated with or limited to a specific hardware or software technology 
+or other protocol? 
+ 
+none 
+ 
+Guidance:  
+ 
+See USP Website 
+UNII codes – under development 
+ 
+Maintenance:  
+ 
+FDA Established Names  
+Updates are issued quarterly to the FDA Orange Book. 
+ 
+USAN  
+ See: 
+http://www.ama-assn.org/ama1/pub/upload/mm/365/timeprocessrqrd_0902.doc 
+ 
+ 
+What is the average time between versions? 
+USAN adoptions are scheduled for the last Wednesday of each month 
+ 
+ 
+What methods or tools are used to expedite the standards development cycle? 
+http://www.ama-assn.org/ama1/pub/upload/mm/365/timeprocessrqrd_0902.doc 
+ 
+How are local extensions, beyond the scope of the standard, supported if at all? 
+http://www.ama-assn.org/ama1/pub/upload/mm/365/timeprocessrqrd_0902.doc 
+ 
+ 
+UNII codes – processes under development 
+ 
+ 
+Customization: Describe known implementations that have been achieved without user 
+customization, if any.   
+ 
+If user customization is needed or desirable, how is this achieved? (e.g, optional fields, 
+interface engines, etc.) 
+ 
+ 
+Mapping Requirements   
+ 
+Describe the extent to which user agencies will likely need to perform mapping from 
+Created on 2/16/2006 6:44:00 PM 
+- 20 - 
+med_ingred_full_publicv1.1.doc  
+internal codes to this standard. 
+Little to none for FDA Established Name/USP Name/USAN Name  
+ 
+UNII codes will be mapped to USAN and USP names by FDA 
+ 
+Identify the tools available to user agencies to automate or otherwise simplify mapping 
+from existing codes to this standard. 
+ 
+N/A 
+ 
+ 
+Compatibility 
+ 
+Identify the extent of off-the-shelf comformity with other standards and requirements: 
+ 
+Conformity with other Standards 
+Yes 
+(100%) 
+No  
+(0%) 
+Yes with 
+exception 
+NEDSS requirements 
+ 
+ 
+ 
+HIPAA standards 
+ 
+ 
+ 
+HL7 2.x 
+ 
+ 
+ 
+ 
+Implementation Timeframe
+ 
+Estimate the number of months required to deploy this standard; identify unique 
+considerations that will impact deployment schedules. 
+ 
+If some data sets/code sets are under development, what are the projected dates of 
+completion/deployment? 
+ 
+FDA Established Name/USP Name/USAN Name – deployment is effectively done 
+ 
+UNII – FDA  expects deployment 2004 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaps 
+ 
+Identify the gaps in data, vocabulary or interoperability. 
+ 
+Need to be cautious referring to salt forms or base forms explicitly 
+ 
+ 
+ 
+Created on 2/16/2006 6:44:00 PM 
+- 21 - 
+med_ingred_full_publicv1.1.doc  
+ 
+ 
+ 
+Obstacles 
+ 
+What obstacles, if any, have slowed penetration of this standard? (technical, financial, 
+and/or cultural)  
+ 
+None for FDA established names, USP Names or USAN,  
+UNII – under development 
+ 
+ 
+ 
+  

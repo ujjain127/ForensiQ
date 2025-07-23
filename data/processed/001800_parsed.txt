@@ -1,0 +1,2899 @@
+2001 Smoke Management Guide 
+Introduction 
+Chapter 1
+INTRODUCTION
+– 1 – 
+Chapter 1 – Introduction 
+2001 Smoke Management Guide 
+– 2 – 
+2001 Smoke Management Guide 
+Introduction 
+Introduction 
+Colin C. Hardy 
+Bill Leenhouts 
+Why Do We Need A National Smoke Management Guide? 
+As an ecological process, wildland fire is essen­
+tial in creating and maintaining functional 
+ecosystems and achieving other land use objec­
+tives. As a decomposition process, wildland fire 
+produces combustion byproducts that are harm­
+ful to human health and welfare. Both the land 
+management benefits from using wildland fire 
+and the public health and welfare effects from 
+wildland fire smoke are well documented. The 
+challenge in using wildland fire is balancing the 
+public interest objectives of protecting human 
+health and welfare and sustaining ecological 
+integrity. 
+Minimizing the adverse effects of smoke on 
+human health and welfare while maximizing the 
+effectiveness of using wildland fire is an inte­
+grated and collaborative activity. Everyone 
+interested in natural resource management is 
+responsible and has a role. Land managers need 
+to assure that using wildland fire is the most 
+effective alternative of achieving the land 
+management objectives. State, regional, tribal 
+and national air resource managers must ensure 
+that air quality rules and regulations equitably 
+accommodate all legal emission sources. 
+The varied smoke management issues from 
+across the nation involve many diverse cultures 
+and interests, include a multitude of strategies 
+and tactics, and cover a heterogeneous land­
+scape. No national answer or cookbook ap­
+proach will adequately address them. But 
+people with a desire for responsible smoke 
+management working in partnership with the 
+latest science-based smoke management infor­
+mation can fashion effective regional smoke 
+management plans and programs to address 
+their individual and collective objectives. The 
+intent of the Guide is to provide the latest 
+science-based smoke management information 
+from across the nation to facilitate these col­
+laborative efforts. 
+Awareness of smoke production, transport, and 
+effects on receptors from prescribed and wild­
+land fires will enable us to refine existing smoke 
+management strategies and to develop better 
+smoke management plans and programs in the 
+future. This Guide addresses the basic control 
+strategies for minimizing the adverse effects of 
+smoke on human health and welfare—thus 
+maximizing the effectiveness of using wildland 
+fire. These control strategies are: 
+• Avoidance – using meteorological condi­
+tions when scheduling burning in order to 
+avoid incursions of wildland fire smoke 
+into smoke sensitive areas. 
+• Dilution – controlling the rate of emissions 
+or scheduling for dispersion to assure 
+tolerable concentrations of smoke in 
+designated areas. 
+– 3 – 
+Chapter 1 – Introduction 
+2001 Smoke Management Guide 
+• Emissions-reduction – using techniques to 
+minimize the smoke output per unit area 
+treated and decrease the contribution to 
+regional haze as well as intrusions into 
+designated areas. 
+Guide Goals and 
+Considerations 
+The Smoke Management Guide steering com­
+mittee and the NWCG Fire Use Working Team 
+developed this Guide with the following goals: 
+• Provide fire use practitioners with a 
+fundamental understanding of fire-emis-
+sions processes and impacts, regulatory 
+objectives, and tools for the management 
+of smoke from wildland fires. 
+• Provide local, state, tribal, and federal air 
+quality managers with background infor­
+mation related to the wildland fire and 
+emissions processes and air, land and 
+wildland fire management. 
+The following considerations provide the con­
+text within which these goals can be met: 
+• This document is about smoke manage­
+ment, not about the decision to use wild­
+land fire or its alternatives. Its purpose is 
+not to advocate for or against the use of 
+fire to meet land management objectives. 
+• While the Guide contains relevant back­
+ground material and resources generally 
+useful to development of smoke manage­
+ment programs, it is not a tutorial on how 
+to develop a state smoke management 
+program. 
+• Although the Guide is replete with infor­
+mation and examples for potential applica­
+tion at the local and regional level, the 
+Guide generally focuses on national smoke 
+management principles. For maximum 
+benefit to local or regional applications, 
+appropriate supplements should be devel­
+oped for the scale or geographical location 
+of the respective application. 
+• The Guide is more appropriate for knowl­
+edgeable air, land, and wildland fire 
+managers, and is not intended for novice 
+readers. 
+Overview and 
+Organization of the Guide 
+The Smoke Management Guide for Prescribed 
+and Wildland Fire–2001 Edition follows a 
+textbook model so that it can be used as a 
+supplemental reference in smoke management 
+training sessions and courses such as the 
+NWCG Smoke Management course, RX-410 
+(formerly RX-450). Following an Introduc­
+tion, a background chapter presents a primer on 
+wildland fire and a discussion of the imperatives 
+for smoke management. In the Wildland Fire 
+Imperative, the Guide addresses both the 
+ecological and societal aspects of wildland fire 
+(not agricultural, construction debris, or other 
+biomass burning), and provides the details 
+necessary for fire use practitioners and air 
+quality managers to understand the fundamen­
+tals of fire in wildlands. The Smoke Manage­
+ment Imperative discusses the needs for smoke 
+management as well as its benefits and costs. 
+The background sections are followed by chap­
+ters presenting details on Wildland Fire Smoke 
+Impacts—public health, visibility, problem and 
+nuisance smoke, and smoke exposure among 
+fireline personnel—and on Regulations for 
+Smoke Management. The chapter on Smoke 
+Source Characteristics follows a sequence 
+similar to the basic pathway that smoke produc­
+– 4 – 
+___________________________________ 
+2001 Smoke Management Guide 
+Introduction 
+tion does—from the pre-fire fuel characteristics 
+and the fire phenomenon as an emissions 
+source, through the processes of combustion, 
+biomass consumption and emissions production. 
+The chapter on Fire Use Planning addresses 
+important considerations for developing a 
+comprehensive fire use plan (a “burn plan”). 
+The general planning process is reviewed, from 
+developing a general land use plan, through a 
+fire management plan and, ultimately, to a unit-
+specific burn plan. 
+The Smoke Management Meteorology chapter 
+presents a primer on the use of weather observa­
+tions and forecasts, and then provides informa­
+tion regarding the transport and dispersion of 
+smoke from wildland fires. 
+Techniques to Reduce or Redistribute Emis­
+sions are presented in an exhaustive list and 
+synthesis of emissions reduction and impact 
+reduction practices and techniques. These 
+practices and techniques were initially compiled 
+as the outcomes of three regional workshops 
+held specifically for the purpose of synthesizing 
+current and potential smoke management tools. 
+Presented here in a nationally applicable format, 
+they are the fundamental tools available to fire 
+planners and fire use practitioners for the man­
+agement and mitigation of smoke from wildland 
+fires. 
+The Smoke Dispersion Prediction Systems 
+chapter reviews current prediction tools within 
+the context of three “families” of model applica-
+tions—screening, planning, or regulating. 
+Air Quality Monitoring for Smoke discusses 
+various objectives for monitoring, and empha­
+sizes the need to carefully match the monitoring 
+objective with the appropriate equipment. In 
+addition, the chapter presents information on 
+some common monitoring equipment, methods, 
+and their associated costs. 
+Emission Inventories help managers and 
+regulators understand how to better include fire 
+in an emissions inventory.  This chapter dis­
+cusses the use of the three basic elements 
+needed to perform an emission inventory—area 
+burned, fuel consumed, and appropriate emis­
+sion factor(s). 
+No smoke management effort can succeed 
+without continued assessment and feedback. 
+The chapter on Program Administration and 
+Assessment discusses the need to maintain a 
+balance between the level of effort in a program 
+and the level of prescribed or fire use activity as 
+well as their associated local or regional effects. 
+Each section in this Guide is now supported by 
+an extensive list of relevant references. Also, 
+authorship for a specific section is given in the 
+table of contents, where appropriate. In such 
+cases, the section can be cited with its respective 
+author(s) as an independent “chapter” in the 
+Guide. 
+A glossary of frequently used fire and smoke 
+1
+management terms is provided as an appendix 
+to the Guide. 
+History of Smoke 
+Management Guidance 
+The first guidance document specifically ad­
+dressing the management of smoke from pre­
+scribed fires was the Southern Smoke 
+Management Guidebook, produced in 1976 by 
+the Southern Forest Fire Laboratory staff 
+For a comprehensive presentation of fire terminology, the reader should refer to the NWCG Glossary of Wildland 
+Fire Terminology (NWCG 1996—PMS #205, Boise, ID). 
+– 5 – 
+1 
+___________________________________ 
+Chapter 1 – Introduction 
+2001 Smoke Management Guide 
+(1976). It was a comprehensive treatment of the 
+various aspects fire behavior, emissions, trans­
+port and dispersion, and the management of 
+smoke in the southern United States. 
+In 1985, NWCG’s Prescribed Fire and Fire 
+Effects Working Team developed the widely 
+accepted Prescribed Fire Smoke Management 
+Guide that forms the basis for this 2001 revised 
+Guide (NWCG 1985). The 1985 edition fo­
+cused on national smoke management principles 
+and, as a result, was far less comprehensive than 
+the Southern guidebook. 
+One of six state-of-knowledge reports prepared 
+for the 1978 National Fire Effects Workshop is a 
+review called Effects of Fire on Air (USDA 
+Forest Service 1978). The six volumes, called 
+the “Rainbow Series” on fire effects, were in 
+response to the changes in policies, laws, regula­
+tions, and initiatives. Objectives specific to the 
+volume on air were to: “…summarize the 
+current state-of-knowledge of the effects of 
+forest burning on the air resource, and to define 
+research questions of high priority for the 
+management of smoke from prescribed and wild 
+fires” (USDA Forest Service 1978, p.5).2 
+Conflicts between prescribed fire and air quality 
+began to be seriously addressed in the mid­
+1980s. Prior to this, only a few states had 
+developed or implemented smoke management 
+programs, and national-level policies addressing 
+smoke from wildland burns were only beginning 
+to be drafted. Much has changed since then, 
+with numerous policies and initiatives raising 
+the potential for conflicting resource manage­
+ment objectives—principally air quality and 
+ecosystem integrity.  The Clean Air Act amend­
+ments adopted in 1990 specifically addressed 
+regional haze. Smoke Management Plans have 
+been developed by many states as administrative 
+rules enforceable under state law.  These rules 
+are often incorporated into State and Tribal 
+Implementation Plans (SIPs and TIPs) for 
+submission to the U.S. Environmental Protec­
+tion Agency (EPA) and, once promulgated by 
+EPA, are then enforceable under federal law as 
+well. And now, the role of fire and the need for 
+its accelerated use has become widely recog­
+nized with respect to maintenance and restora­
+tion of fire-adapted ecosystems. These issues 
+all point to the imperative for better knowledge 
+and more informed collaboration between 
+managers of both the air and terrestrial re­
+sources. 
+The 2001 Edition of the Smoke 
+Management Guide 
+Recognizing the increasing likelihood of im­
+pacting the public, the proliferation of federal, 
+state, and local statutes, rules and ordinances 
+pertaining to smoke, as well as major improve­
+ments to our knowledge of smoke and its man­
+agement, the NWCG Fire Use Working Team 
+(formerly named the Prescribed Fire and Fire 
+Effects Working Team) sponsored revision of 
+the Guide. Conceptually, the Fire Use Working 
+Team identified the need for a revised guide­
+book that targeted not just prescribed fire practi­
+tioners, but state and local air quality and public 
+health agency personnel as well. A consequence 
+of this expansion of the target audience was the 
+need to substantially augment the background 
+information with respect to fire in wildlands. 
+A suite of potential smoke management prac­
+tices and techniques are not only suggested in 
+The Joint Fire Sciences Program is sponsoring extensive revisions to the Rainbow Series fire effects volumes, 
+including a new volume on fire effects on air. 
+– 6 – 
+2 
+2001 Smoke Management Guide 
+Introduction 
+this Guide, but their relative effectiveness and 
+regionally-specific applicability are also pro­
+vided. This information was acquired through 
+three regional workshops held in collaboration 
+with the U.S. Environmental Protection 
+Agency’s Office of Air Quality Planning and 
+Standards. 
+This revised Guide now emphasizes both emis­
+sion and impact reduction methods that have 
+been found to be practical, useful, and benefi­
+cial. This new emphasis on reducing emissions 
+is in response to regional haze and fine particle 
+(PM2.5) control programs that will require 
+emission reductions from a wide variety of 
+pollution sources (including prescribed and 
+wildland fire). This is especially important in 
+view of the major increases in the use of fire 
+projected by federal land managers. Readers 
+will also find a greatly expanded discussion of 
+air quality regulatory requirements, reflecting 
+the growing complexities and demands on 
+today’s fire practitioners. 
+Literature Citations 
+NWCG. 1985. Prescribed fire smoke management 
+guide. NWCG publication PMS-420-2. Boise, 
+ID. National Wildfire Coordinating Group. 
+28 p. 
+Southern Forest Fire Laboratory Staff. 1976. South­
+ern forestry smoke management guidebook. 
+USDA For. Serv. Gen. Tech. Rep. SE-10. 
+Asheville, N.C. USDA Forest Service, South­
+east Forest Experiment Station. 140 p. 
+USDA Forest Service. 1978.  Effects of fire on air. 
+USDA For. Serv. Gen. Tech. Rep. WO-9. 
+Washington, D.C. USDA Forest Service. 40 p. 
+– 7 – 
+Chapter 2 – Overview 
+2001 Smoke Management Guide 
+– 8 – 
+2001 Smoke Management Guide 
+2.1 – The Wildland Fire Imperative 
+Chapter 2
+OVERVIEW
+– 9 – 
+Chapter 2 – Overview 
+2001 Smoke Management Guide 
+– 10 – 
+2001 Smoke Management Guide 
+2.1 – The Wildland Fire Imperative 
+The Wildland Fire Imperative 
+Colin C. Hardy 
+Sharon M. Hermann 
+Robert E. Mutch 
+Perpetuating America’s Natural Heritage: Balancing 
+Wildland Management Needs and the Public Interest 
+Strategies for responsible and effective smoke 
+management cannot be developed without 
+careful consideration of the ecological and the 
+societal impacts of fire management in the 
+wildlands of modern America.  The need to 
+consider both perspectives is acknowledged by 
+most land management agencies, as well as by 
+the U.S. Environmental Protection Agency 
+(EPA) —the primary Federal agency responsible 
+for protecting air quality.  An awareness of this 
+challenge is reflected in NWCG’s education 
+message, Managing Wildland Fire: Balancing 
+America’s Natural Heritage and the Public 
+Interest (NWCG 1998). The preamble to this 
+document not only states that “fire is an impor­
+tant and inevitable part of America’s wildlands,” 
+but also recognizes that “wildland fires can 
+produce both benefits and damages—to the 
+environment and to people’s interests.” 
+The EPA’s Interim Air Quality Policy on Wild­
+land and Prescribed Fires (U.S. EPA 1998) 
+employs similar language to describe related 
+public policy goals: (1) To allow fire to function, 
+as nearly as possible, in its natural role in 
+maintaining healthy wildland ecosystems; and, 
+(2) To protect public health and welfare by 
+mitigating the impacts of air pollutant emissions 
+on air quality and visibility.  The document 
+comments on the responsibilities of wildland 
+owners/managers and State/tribal air quality 
+managers to coordinate fire activities, minimize 
+air pollutant emissions, manage smoke from 
+prescribed fires as well as wildland fires used 
+for resource benefits, and establish emergency 
+action programs to mitigate the unavoidable 
+impacts on the public. In addition, EPA asserts 
+that “this policy is not intended to limit opportu­
+nities by private wildland owners/managers to 
+use fire so that burning can be increased on 
+publicly owned wildlands.” 
+In this and the following section (2.2–The 
+Smoke Management Imperative), we outline 
+both ecological and societal aspects of wildland 
+and prescribed fire. We review the historical 
+role and extent of fire and the effects of settle­
+ment and land use changes. The influence of 
+fire exclusion policies on historical disturbance 
+processes is considered in light of modern 
+landscape conditions. This provides the basis 
+for discussion of significant, recent changes in 
+Federal wildland fire policy and new initiatives 
+for accelerating use of prescribed and wildland 
+fire to achieve resource management objectives. 
+Finally, we present examples of the impacts of 
+– 11 – 
+Chapter 2 – Overview
+2001 Smoke Management Guide 
+wildland smoke on air quality, human health, 
+and safety. 
+Fire in Wildlands 
+Recurring fires are often an essential component 
+of the natural environment—as natural as rain, 
+snow, or wind.  Evidence for the recurrence of 
+past fires is found in charcoal layers of lakes and 
+bogs, in fire-scars of trees, and in the morpho­
+logical and life history adaptations of numerous 
+native plants and animals. Many ecosystems in 
+North America and throughout the world are 
+fire-dependent (Heinselman 1978) and periodic 
+burning is essential for healthy ecosystem 
+functioning in these wildlands. Fire acts at the 
+individual, population, and community levels 
+and can influence: 
+•	
+Plant succession. 
+•	
+Fuel accumulation and decay. 
+•	
+Recruitment pattern and age distribu­
+tion of individuals. 
+•	
+Species composition of vegetation. 
+•	
+Disease and insect pathogens. 
+•	
+Nutrient cycles and energy flows. 
+•	
+Biotic productivity, diversity, and 
+stability. 
+•	
+Habitat structure for wildlife. 
+For millennia, lightning, volcanoes, and people 
+have ignited fires in wildland ecosystems. The 
+current emphasis on ecosystem management 
+calls for the maintenance of interactions be­
+tween such disturbance processes and ecosys­
+tem functions. Therefore, it is incumbent on 
+both fire and natural resource managers to 
+understand the range of historical frequency, 
+severity, and aerial extent of past burns.  This 
+knowledge provides a frame of reference for 
+applying appropriate management practices on a 
+landscape scale, including the use and exclusion 
+of fire. 
+Many studies have described the historical 
+occurrence of fires throughout the world. For 
+example, Swetnam (1993) used fire scars to 
+describe a 2000-year period of fire history in 
+giant sequoia groves in California. He found 
+that frequent small fires occurred during a warm 
+period from about A.D. 1000 to 1300, and less 
+frequent but more widespread fires occurred 
+during cooler periods from about A.D. 500-1000 
+and after 1300. Swain (1973) determined from 
+lake sediment analyses in the Boundary Waters 
+Canoe Area in Minnesota that tree species and 
+fire had interacted in complex ways over a 
+10,000-year period. Other studies ranging from 
+Maine (e.g. Copenheaver and others 2000) to 
+Florida (e.g. Watts and others 1992) have em­
+ployed pollen and charcoal deposits to demon­
+strate shifts in fire frequency correlated with the 
+onset of European settlement. 
+There is an even larger body of science that 
+details the numerous effects of wildland fires on 
+components of ecosystems. Some of the most 
+compelling examples of fire dependency come 
+from studies on plant reproduction and estab­
+lishment. For instance, there are at least ten 
+species of pines scattered over the United States 
+that have serotinous cones; that is to say the 
+cones are sealed by resin; the cone scales do not 
+open and seeds do not disperse until the resin is 
+exposed to high heat (reviewed in Whelan 
+1995). Examples of fire dependency in herba­
+ceous plants include flowering of wiregrass in 
+Southeastern longleaf pine forests that is greatly 
+enhanced by growing season burns (Myers 
+1990) and seed germination of California 
+chaparral forbs that is triggered by exposure to 
+smoke (Keeley and Fotheringham 1997).  Ani­
+mals as diverse as rare Karner blue butterflies in 
+Indiana (Kwilosz and Knutson 1999) to whoop­
+ing cranes in Texas (Chavez Ramirez and others 
+1996) benefit when fire is re-introduced into 
+their habitats. There are numerous other types 
+of fire dependency in North American ecosys­
+– 12 – 
+2001 Smoke Management Guide 
+2.1 – The Wildland Fire Imperative 
+tems and many studies on this topic are summa­
+rized in books and government publications 
+(e.g. Agee 1993, Bond and van Wilgen 1996, 
+Brown and Kapler Smith 2000, Johnson 1992, 
+Kapler Smith 2000, Wade and others 1980, 
+Whelan 1995). In addition, there is a small but 
+growing volume of literature that evaluates the 
+influence of fire on multiple trophic levels (e.g. 
+Hermann and others 1998). 
+Knowledge of fire history, fire regimes, and fire 
+effects allows land stewards to develop informed 
+management strategies. Application of fire may 
+be one of the tools used to meet resource man­
+agement objectives. The role of fire as an 
+important disturbance process has been high­
+lighted in a classification of continental fire 
+regimes (Kilgore and Heinselman 1990). These 
+authors describe a natural fire regime as the total 
+pattern of fires over time that is characteristic of 
+a region or ecosystem. Fire regimes are defined 
+in terms of fire type and severity, typical fire 
+sizes and patterns, and fire frequency, or length 
+of return intervals in years. Kilgore and 
+(b) 
+(a) 
+Heinselman (1990) placed natural fire regimes 
+of North America into seven classes, ranging 
+from Class 0, in which fires are rare or absent, 
+to Class 6, in which crown fires and severe 
+surface fires occur at return intervals longer than 
+300 years. Intermediate fire regimes, Classes 1­
+5, are characterized by increasingly longer fire 
+return intervals and increasingly higher fire 
+intensities. Class 2, for example, describes the 
+situation for long-needled pines, like longleaf 
+pine, ponderosa pine, and Jeffrey pine; in this 
+class low severity, surface fires occur rather 
+frequently (return intervals of less than 25 
+years). Lodgepole pine, jackpine, and the boreal 
+forest of Canada and Alaska generally fall into 
+Class 4, a class in which high severity crown 
+fires occur every 25 to 100 years; or into Class 
+5, a class in which crown fires occur every 100 
+to 300 years. White bark pine forests at high 
+elevations typically fall into Class 6. For com­
+parison, three general classes of fire are shown 
+in figure 2.1, including a low-intensity surface 
+fire, a mixed-severity fire, and a stand-replacing 
+crown fire. 
+(c) 
+Figure 2.1. The relative difference in general classes of fire are shown. This 
+series illustrates a low-intensity surface fire (a), a mixed-severity fire (b), and a 
+stand-replacing crown fire (c). 
+– 13 – 
+Chapter 2 – Overview 
+2001 Smoke Management Guide 
+A noteworthy aspect of continental fire regimes 
+is that very few North American ecosystems fall 
+into Class 0. In other words, most ecosystems 
+in the United States have evolved under the 
+consistent influence of wildland fire, establish­
+ing fire as a process that affects numerous 
+ecosystem functions described earlier.  Those 
+who apply prescribed burns or use wildland fire 
+often attempt to mimic the natural role of fire in 
+creating or maintaining ecosystems. Sustaining 
+the productivity of fire-adapted ecosystems 
+generally requires application of prescribed fire 
+on a sufficiently large scale to ensure that 
+various ecosystem processes remain intact. 
+Ecological Effects of 
+Altered Fire Regimes 
+As humans alter fire frequency and severity, 
+many plant and animal communities experience 
+a loss of species diversity, site degradation, and 
+increases in the sizes and severity of wildfires. 
+Ferry and others (1995) concluded that altered 
+fire regimes was the principal agent of change 
+affecting vegetative structure, composition, and 
+biological diversity of five major plant commu­
+nities totaling over 350 million acres in the U.S. 
+As a way to evaluate the current amount of fire 
+in wildland habitat, Leenhouts (1998) compared 
+estimated land area burned 200-400 years ago 
+(“pre-industrial”) to data from the contemporary 
+conterminous United States. The result suggests 
+that ten times more acreage burned annually in 
+the pre-industrial era than does in modern times. 
+After accounting for loss of wildland area due to 
+land use changes such as urbanization and 
+agriculture, Leenhouts concluded that the 
+remaining wildland is burned approximately 
+fifty percent less compared to fire frequency 
+under historical fire regimes (figure 2.2). 
+Numerous ecosystem indicators serve as alarm­
+ing examples of the effects of altered fire re­
+gimes. Land use changes, attempted fire 
+exclusion practices, prolonged drought, and 
+epidemic levels of insects and diseases have 
+coincided to produce extensive forest mortality, 
+or major changes in forest density and species 
+composition. Gray (1992) called attention to a 
+forest health emergency in parts of the western 
+Figure 2.2.  Estimates of the range of annual area burned in the conterminous United States pre-European 
+settlement (Historic), applying presettlement fire frequencies to present land cover types (Expected), and 
+burning (wildland and agriculture) that has occurred during the recent past (Current). Source: Leenhouts 
+(1998). 
+– 14 – 
+2001 Smoke Management Guide 
+2.1 – The Wildland Fire Imperative 
+United States where trees have been killed 
+across millions of acres in eastern Oregon and 
+Washington.  He indicated that similar problems 
+extend south into Utah, Nevada, and California, 
+and east into Idaho. Denser stands and heavy 
+fuel accumulations are also setting the stage for 
+high severity crown fires in Montana, Colorado, 
+Arizona, New Mexico, and Nebraska, where the 
+historical norm in long-needled pine forests was 
+(a) 
+for more frequent low severity surface fires (fire 
+regime Class 2; Kilgore and Heinselman 1990). 
+The paired photos in figure 2.3 illustrate 85 
+years of change resulting from fire exclusion on 
+a fire-dependent site in western Montana. In 
+North Carolina, Gilliam and Platt (1999) quanti­
+fied the dramatic effects of over 80-years of fire 
+exclusion on tree species composition and stand 
+structure in a longleaf pine forest. 
+(b) 
+Figure 2.3. These two photos, taken of the same homestead near Sula, Montana, show 85 years of change on 
+a fire-dependent site where fire has been excluded. The top photo (a) was taken in 1895.  By 1980 (b), 
+encroaching trees and shrubs occupy nearly all of the site.  Stand-replacing crown fire visited this site in 2000. 
+– 15 – 
+Chapter 2 – Overview 
+2001 Smoke Management Guide 
+Since the 1960s, records show an alarming 
+trend towards more acres consumed by wild 
+fires, despite all of our advances in fire suppres­
+sion technology (figure 2.4). The larger, more 
+severe wildfires have accelerated the rate of tree 
+mortality, threatening people, property, and 
+natural resources (Mutch 1994). These wild­
+fires also have emitted large amounts of particu­
+late matter into the atmosphere. One study 
+estimated that more than 53 million pounds of 
+respirable particulate matter were produced 
+over a 58-day period by the 1987 Silver Fire in 
+southwestern Oregon (Hardy and others 1992). 
+The ecological consequences of past policies of 
+fire exclusion have been foreseen for some 
+time. More than 50 years ago, Weaver (1943) 
+reported that the “complete prevention of forest 
+fires in the ponderosa pine region of California, 
+Oregon, Washington, northern Idaho, and 
+western Montana has certain undesirable eco­
+logical and silvicultural effects [and that]... 
+conditions are already deplorable and are be­
+coming increasingly serious over large areas.” 
+Also, Cooper (1961) stated, “…fire has played a 
+major role in shaping the world’s grassland and 
+forests. Attempts to eliminate it have introduced 
+problems fully as serious as those created by 
+accidental conflagrations.” Only more recently 
+have concerns been expressed about potential 
+loss of biodiversity as a result of fire suppres­
+sion. This issue may be especially pressing in 
+the Eastern United States. For example, in 
+southern longleaf pine ecosystems, at least 66 
+rare plant species are maintained by frequent 
+fire (Walker 1993).  The ecological need for 
+high fire frequency in large areas of Southeast­
+ern native ecosystems coupled with the region’s 
+long growing season contribute to the rapid 
+buildup of fuel and subsequent change in habitat 
+structure. 
+Figure 2.4. The average annual burned area for the western States, shown here for the period 
+1916-2000, has generally been increasing since the mid-1960s 
+– 16 – 
+2001 Smoke Management Guide 
+2.1 – The Wildland Fire Imperative 
+Wildland and Prescribed Fire Ter­
+minology Update 
+The federal Implementation Procedures Refer­
+ence Guide for Wildland and Prescribed Fire 
+Management Policy (USDI and USDA Forest 
+Service 1998) contains significant changes in 
+fire terminology.  Several traditional terms have 
+either been omitted or have been made obsolete 
+by the new policy.  These include: confine/ 
+contain/control; escaped fire situation analysis; 
+management ignited prescribed fire; pre-sup-
+pression; and prescribed natural fire, or “PNF.” 
+Additionally, there was adoption of several new 
+terms and interpretations that supercedes earlier, 
+traditional terminology: 
+• Fire Use - the combination of wildland 
+fire use and prescribed fire application to 
+meet resource objectives. 
+• Prescribed Fire - Any fire ignited by 
+management actions to meet specific 
+objectives. A written, approved prescribed 
+fire plan must exist, and NEPA require­
+ments must be met, prior to ignition. This 
+term replaces management ignited pre­
+scribed fire. 
+• Wildfire - An unwanted wildland fire. 
+This term was only included to give con­
+tinuing credence to the historic fire pre­
+vention products.  This is NOT a separate 
+type of fire under the new terminology. 
+• Wildland Fire - Any non-structure fire, 
+other than prescribed fire, that occurs in 
+the wildland. This term encompasses fires 
+previously called both wildfires and 
+prescribed natural fires. 
+• Wildland Fire Use - the management of 
+naturally-ignited wildland fires to accom­
+plish specific pre-stated resource manage­
+ment objectives in predefined geographic 
+areas outlined in Fire Management Plans. 
+Wildland fire use is not to be confused 
+with “fire use,” which is a broader term 
+encompassing more than just wildland 
+fires. 
+Taking Action: The Federal Wild­
+land and Prescribed Fire Policy 
+The decline in resiliency and ecological “health” 
+of ecosystems has reached alarming proportions 
+in recent decades, as evidenced by the trend 
+since the mid-1960’s towards more acres burned 
+in wildfires (figure 2.4). While national aware­
+ness of this trend has existed for some time, the 
+1994 fire season created a renewed awareness 
+and concern among Federal land management 
+agencies and their constituents regarding the 
+serious impacts of wildfires. The Federal 
+Wildland Fire Management Policy and Program 
+Review is chartered by the Secretaries of Agri­
+culture and Interior to “ensure that uniform 
+federal policies and cohesive interagency and 
+intergovernmental fire management programs 
+exist” (USDI and USDA Forest Service 1995). 
+The review process is directed by an interagency 
+Steering Group whose members represented the 
+Departments of Agriculture and Interior, the 
+U.S. Fire Administration, the National Weather 
+Service, the Federal Emergency Management 
+Agency, and the Environmental Protection 
+Agency.  In their cover letter accepting the Final 
+Report of the Review (December 18, 1995), the 
+Secretaries of Agriculture and Interior pro­
+claimed: 
+“The philosophy, as well as the specific 
+policies and recommendations, of the 
+Report continues to move our approach to 
+wildland fire management beyond the 
+traditional realms of fire suppression by 
+further integrating fire into the manage­
+ment of our lands and resources in an 
+ongoing and systematic manner, consistent 
+with public health and environmental 
+– 17 – 
+Chapter 2 – Overview 
+2001 Smoke Management Guide 
+quality considerations. We strongly sup­
+port the integration of wildland fire into 
+our land management planning and imple­
+mentation activities. Managers must learn 
+to use fire as one of the basic tools for 
+accomplishing their resource management 
+objectives.” 
+USDI and USDA Forest 
+Service 1995—cover 
+memorandum 
+The Report asserts that “the planning, imple­
+mentation, and monitoring of wildland fire 
+management actions will be done on an inter­
+agency basis with the involvement of all part­
+ners.” The term “partners” is all-encompassing, 
+including Federal land management and regula­
+tory agencies; tribal governments; Department 
+of Defense; State, county, and local govern­
+ments; the private sector; and the public. Part­
+nerships are essential for establishing collective 
+priorities to facilitate use of fire at the landscape 
+level. Smoke does not respond to artificial 
+boundaries or delineations. Interaction among 
+partners is necessary to meet the dual challenge 
+of using fire for natural resource management 
+coupled with the need to minimize negative 
+effects related to smoke.  Both concerns must be 
+met to fulfill the public need. 
+Literature Citations 
+Agee, J.K. 1993. Fire Ecology of Pacific Northwest 
+Forests. Island Press, Washington, DC. 
+Bond, W.J. and B.W. van Wilgen.  1996. Fire and 
+Plants. Chapman Hall, London. 
+Brown, J.K. and J. Kapler Smith (eds.). 2000. 
+Wildland Fire in Ecosystems: Effects of Fire on 
+Flora. Gen. Tech. Rep. RMRS-GTR-42-vol.2. 
+Ogden, UT. 
+Chavez Ramirez, F., H.E. Hunt, R.D. Slack and T.V. 
+Stehn. 1996. Ecological correlates of Whoop­
+ing Crane use of fire-treated upland habitats. 
+Conservation Biology 10:217-223. 
+Cooper, C.F. 1961. The ecology of fire. Sci. Am. 
+204(4):150-160. 
+Copenheaver, C.A., A.S. White and W.A. Patterson. 
+2000. Vegetation development in a southern 
+Maine pitch pine-scrub oak barren. Journal 
+Torrey Botanical Soc.127:19-32. 
+Ferry, G.W. R.G. Clark, R.E. Montomery, R.W. 
+Mutch, W.P. Leenhouts, and G. T. Zimmerman. 
+1995. Altered fire regimes within fire-adapted 
+ecosystems. Pages 222-224. In: Our Living 
+Resources. W.T. LaRoe, G. S. Farris, C.E. 
+Puckett, P.D. Doran, and M.J. Mac eds.  U.S. 
+Department of the Interior, National Biological 
+Service, Washington, D.C. 530p. 
+Gilliam, F.S. and W.J. Platt.  1999. Effects of long-
+term fire exclusion on tree species composition 
+and stand structure in an old-growth Pinus 
+palustris (Longleaf pine) forest. Plant Ecology 
+140:15-26. 
+Gray, G.L. 1992. Health emergency imperils western 
+forests. Resource Hotline. 8(9). Published by 
+American Forests. 
+Hardy, C. C., D. E. Ward, and W. Einfeld. 1992. 
+PM2.5 emissions from a major wildfire using a 
+GIS: rectification of airborne measurements. In: 
+Proceedings of the 29th Annual Meeting of the 
+Pacific Northwest International Section, Air and 
+Waste Management Association, November 11­
+13, 1992, Bellevue, WA. Pittsburgh, PA: Air and 
+Waste Management Association. 
+Heinselman, M. L. 1978. Fire in wilderness ecosys­
+tems. In: Wilderness Management. J. C. 
+Hendee, G. H. Stankey, and R. C. Lucas, eds. 
+USDA Forest Service, Misc. Pub. 1365 
+Hermann, S.M., T. Van Hook, R.W. Flowers, L.A. 
+Brennan, J.S. Glitzenstein, D.R. Streng, J.L. 
+Walker and R.L. Myers.  1998. Fire and 
+biodiversity: studies of vegetation and 
+arthropods. Trans. North American Wildlife and 
+Natural Resources Conf. 63:384-401 
+Johnson, E.A. 1992. Fire and Vegetation Dynamics: 
+Studies from the North American Boreal Forest. 
+Cambridge University Press, Cambridge. 
+Keeley, J.E., and C.J. Fotheringham.  1997. Trace 
+gas emissions and smoke induced seed germi­
+nation. Science 276:1248-1250. 
+– 18 – 
+2001 Smoke Management Guide
+2.1 – The Wildland Fire Imperative 
+Kilgore, B. M., and M. L. Heinselman. 1990. Fire in 
+wilderness ecosystems. In: Wilderness Man­
+agement, 2nd ed. J. C. Hendee, G. H. Stankey, 
+and R. C. Lucas, eds. North American Press, 
+Golden, CO. Pp. 297-335. 
+Kwilosz, J.R. and R.L. Knutson. 1999. Prescribed 
+fire management of Karner blue butterfly 
+habitat at Indiana Dunes National Lakeshore. 
+Natural Areas Journal 19:98-108 
+Leenhouts, Bill. 1998. Assessment of biomass 
+burning in the conterminous United States. 
+Conservation Ecology [online] 2(1): 1. Avail­
+able from the Internet. URL: 
+Mutch, R. W. 1994. Fighting fire with prescribed 
+fire—a return to ecosystem health. J. For. 
+92(11):31-33. 
+Mutch, R. W. 1997. Need for more prescribed fire: 
+but a double standard slows progress. In Pro­
+ceedings of the Environmental Regulation and 
+Prescribed Fire Conference, Tampa, Florida. 
+March 1995. Pp. 8-14. 
+Myers, R.L. 1990. Scrub and high pine. pages 150­
+193 in (R.L. Myers and J.J. Ewel, eds.) Ecosys­
+tems of Florida. University of Central Florida 
+Press, Orlando. 
+National Wildfire Coordinating Group (NWCG). 
+1998. Managing Wildland Fire: Balancing 
+America’s Natural Heritage and the Public 
+Interest. National Wildfire Coordinating Group; 
+Fire Use Working Team [online]. Available 
+from the Internet. URL: http://www.fs.fed.us/ 
+fire/fire_new/fireuse/wildland_fire_use/role/ 
+role_pg8.html 
+Smith, J. Kapler (ed.). 2000. Wildland fire in 
+ecosystems: effects of fire on fauna.  Gen. Tech. 
+Rep. RMRS-GTR-42-vol. 1. Ogden, UT. 
+Swain, A. 1973. A history of fire and vegetation in 
+northeastern Minnesota as recorded in lake 
+sediment. Quat. Res. 3: 383-396. 
+Swetnam, T. W. 1993. Fire history and climate 
+change in giant sequoia groves. Science. 
+262:885-889. 
+USDI and USDA Forest Service.  1995. Federal 
+wildland fire management policy and program 
+review. Final report. National Interagency Fire 
+Center, Boise, ID. 45 pp. 
+USDI and USDA Forest Service.  1998. Wildland 
+and prescribed fire management policy— 
+implementation procedures reference guide. 
+National Interagency Fire Center, Boise, ID. 81 
+pp. and appendices. 
+U.S. Environmental Protection Agency. 1998. 
+Interim air quality policy on wildland and 
+prescribed fires. Final report. U.S. Environ­
+mental Protection Agency. 
+Wade, D.D., J.J. Ewel, and R. Hofsetter.  1980. Fire 
+in South Florida Ecosystems. USDA Forest 
+Service General Technical Report SE-17. 
+Walker, J.  1993. Rare vascular plant taxa associated 
+with the longleaf pine ecosystems: patterns in 
+taxonomy and ecology.  pages 105-125 in (S.M. 
+Hermann, ed.), The Longleaf Pine Ecosystem: 
+ecology, restoration, and management.  Pro­
+ceedings of the Tall Timbers Fire Ecology 
+Conference, No. 18. 
+Watts, W.A., B.C.S. Hansen and E.C. Grimm.  1992. 
+Camel Lake – A 4000-year record of vegeta­
+tional and forest history from northwest Florida. 
+Ecology 73:1056-1066. 
+Weaver, H. 1943. Fire as an ecological and silvicul­
+tural factor in the ponderosa pine region of the 
+Pacific Slope. J. For. 41:7-14. 
+Whelan, R.J. 	 1995. The Ecology of Fire. Cam­
+bridge University Press, Cambridge. 
+– 19 – 
+Chapter 2 – Overview 
+2001 Smoke Management Guide 
+– 20 – 
+2001 Smoke Management Guide 
+2.2 – Smoke Management Imperative 
+The Smoke Management Imperative 
+Colin C. Hardy 
+Sharon M. Hermann 
+John E. Core 
+Introduction 
+In the past, smoke from prescribed burning was 
+managed primarily to avoid nuisance conditions 
+objectionable to the public or to avoid traffic 
+hazards caused by smoke drift across roadways. 
+While these objectives are still valid, today’s 
+smoke management programs are also likely to 
+be driven, in part, by local, regional and federal 
+air quality regulations. These new demands on 
+smoke management programs have emerged as 
+a result of Federal Clean Air Act requirements 
+that include standards for regulation of regional 
+haze and the recent revisions to the National 
+nation. Smoke from wildland burning can 
+obscure these natural wonders. 
+• Although smoke may be an inconvience 
+under the best conditions and a public 
+health and safety risk under the worst 
+conditions, without periodic fires, the 
+natural habitat that society holds in such 
+high esteem will decline and ultimately 
+dissapear.  In addition, as ecosystem 
+health declines, fuel increases to levels 
+that also pose significant risks for wildfire 
+Ambient Air Quality Standards (NAAQS) on 
+and consequently additional safety risks. 
+particulate matter.1 
+• Wildland and prescribed fire managers are 
+entrusted with balancing these and other, 
+Development of the additional requirements 
+often potentially conflicting responsibili­
+coincides with renewed efforts to increase use of 
+ties. Fire managers are charged with the 
+fire to restore forest ecosystem health. These 
+task of increasing the use of fire to ac-
+two requirements are interrelated: 
+complish important land stewardship 
+• The purity of the air we breathe is essen-
+objectives and, at the same time, are 
+tial to our health and quality of our lives 
+entrusted to protect public safety and 
+and smoke from wildland and prescribed 
+health. 
+fire can have adverse effects on public 
+health. 
+Purpose of a Smoke 
+• The national forests, national parks and 
+Management Program
+wilderness areas set aside by Congress are
+among the nation’s greatest treasures. 
+The purpose of a smoke management
+They inspire us as individuals and as a 
+program is to:
+1 See Chapter 4, Regulations for Smoke Management, for details on specific requirements. 
+– 21 – 
+Chapter 2 – Overview 
+2001 Smoke Management Guide 
+• minimize the amount of smoke entering 
+populated areas, preventing public health 
+and safety hazards (e.g. visual impairment 
+on roadways or runways) and problems at 
+sensitive sites (e.g. nursing homes or 
+hospitals), 
+• avoid significant deterioration of air 
+quality and NAAQS violations, and 
+• eliminate human-caused visibility impacts 
+in Class I areas. 
+Smoke management programs create a frame­
+work of procedures and requirements for man­
+aging smoke from prescribed fires and are 
+typically developed by States or tribes with 
+cooperation and participation from stakeholders. 
+Procedures and requirements developed through 
+partnerships are more effective at meeting 
+resource management goals, protecting public 
+health, and achieving air quality objectives than 
+programs that are created in isolation. Sophisti­
+cated programs for coordination of burning both 
+within a state and across state boundaries are 
+vital to obtain and maintain public support of 
+burning programs. Fire use professionals are 
+increasingly encouraged to burn at a landscape 
+level. In some cases, when objectives are based 
+in both ecology and fuel reduction, there is a 
+need to consider burning during challenging 
+times of the year (e.g. during the growing 
+season rather than the cooler dormant season). 
+Multiple objectectives for fire use are likely to 
+increase the challenges, consequently increasing 
+the value of partnerships for smoke manage­
+ment. 
+Smoke management is increasingly recognized 
+as a critical component of a state or tribal air 
+quality program for protecting public health and 
+welfare while still providing for necessary 
+wildland burning. 
+Usually, either a state or tribal natural resources 
+agency or air quality agency is responsible for 
+developing and administering the smoke man­
+agement program. Occasionally a smoke 
+management program may be administered by a 
+local agency.  California, for example, relies on 
+local area smoke management programs. Gen­
+erally, on a daily basis the administering agency 
+approves or denies permits for individual burns 
+or burns meeting some criteria. Permits may be 
+required for all fires or only for those that 
+exceed an established de minimis level (which 
+could be based on projections of acres burned, 
+tons consumed, or emissions). Multi-day burns 
+may be subject to daily reassessment and re-
+approval to ensure compliance with smoke 
+management program goals. 
+Advanced smoke management programs evalu­
+ate individual and multiple burns; coordinate all 
+prescribed fire activities in an area; consider 
+cross-boundary (landscape) impacts; and weigh 
+decisions about fires against possible health, 
+visibility, and nuisance effects.  With increasing 
+use of fire for forest health and ecosystem 
+management, interstate and interregional coordi­
+nation of burning will be necessary to prevent 
+episodes of poor air quality.  Development of, 
+and participation in, an effective smoke manage­
+ment program by state agents and land manag­
+ers will go a long way towards building and 
+maintaining public acceptance of prescribed 
+burning. 
+The Need for Smoke 
+Management Programs 
+The call for increasingly effective smoke man­
+agement programs has occurred because of 
+public and governmental concerns about the 
+possible risks to public health and safety, as well 
+as nuisance and regional haze impacts of smoke 
+– 22 – 
+2001 Smoke Management Guide 
+2.2 – Smoke Management Imperative 
+from wildland and prescribed fires. There are 
+also concerns about contributions to health-
+related National Ambient Air Quality Standards. 
+Each of these areas is summarized below.2 
+Public Health Protection: Fine Particle 
+National Ambient Air Quality Standards.– 
+EPA’s most recent review of the National Ambi­
+ent Air Quality Standards for Particulate Matter 
+(PM10) concluded that significant changes were 
+needed to assure the protection of public health. 
+In July of 1997, following an extensive review 
+of the global literature, EPA adopted a fine 
+particle (PM2.5) standard.3 
+These small particles are largely responsible for 
+the health effects of greatest concern and for 
+visibility reduction in the form of regional haze. 
+More on EPA’s fine particle standard is found 
+elsewhere in this Guide. 
+The close link between regional haze and the 
+new fine particle National Ambient Air Quality 
+Standards means that smoke from prescribed 
+fire is again at the center of attention for air 
+regulators charged with adopting control strate­
+gies to attain the new standards. 
+Public Safety and Nuisance Issues.–Perhaps 
+the most immediate need for an effective smoke 
+management program is related to smoke 
+drifting across roadways and restricting motorist 
+visibility.  Each year, people are killed on the 
+nation’s highways because of dust storms, 
+smoke and fog. Wildland and prescribed fire 
+managers must recognize the legal issues related 
+to their professional activities. Special care 
+must be taken in administering the smoke 
+management program to assure that smoke does 
+not obscure roadway or airport visibility.  Li­
+ability issues vary by state. Some states such as 
+Florida have “right-to-burn” laws that provide 
+some protection for fire use professionals with 
+specific training and certification. 
+Probably the most common air quality issues 
+facing wildland and prescribed fire managers 
+are those related to public complaints about 
+nuisance smoke. Complaints may be about the 
+odor or soiling effects of smoke, poor visibility, 
+and impaired ability to breathe or other health-
+related effects. Sometimes complaints come 
+from the fact that some people don’t like or are 
+fearful of smoke intruding into their lives. 
+Whatever the reason, fire managers have a 
+responsibility to try to prevent or resolve the 
+issue through smoke management plans that 
+recognize the importance of proper selection of 
+management and burning techniquesand burn 
+scheduling based on meteorological conditions. 
+In additioncommunity public relations and 
+education coupled with pre-burn notification can 
+greatly improve public acceptance of fire man­
+agement programs. 
+Visibility Protection.–Haze that obstructs the 
+scenic beauty of the Nation’s wildlands and 
+national parks does not respect political bound­
+aries. Any program that is intended to reduce 
+visibility impairment in the nation’s parks and 
+wildlands must be based on multi-state coopera­
+tive efforts or on national legislation. 
+In 1999, the U.S. EPA issued regional haze 
+regulations to manage and mitigate visibility 
+impairment from the multitude of regional haze 
+sources.4  Regional haze regulations call for 
+states to establish goals for improving visibility 
+in Class I national parks and wildernesses and to 
+develop long-term strategies for reducing emis­
+sions of air pollutants that cause visibility 
+impairment. Wildland and prescribed fire are 
+some of the sources of regional haze covered by 
+the new rules. 
+2 Details relating to Public Health effects, Problem and Nuisance Smoke, and Regional Haze are given in the sections 
+3.1, 3.3 and 4.1, respectively, of this Guide. 
+3 One thousand fine particles of this size could fit into the period at the end of this sentence. 
+4 [40 CFR Part 51] 
+– 23 – 
+Chapter 2 – Overview 
+2001 Smoke Management Guide 
+Past Success and Commitment 
+to Future Efforts 
+It is clearly noted in the preface to the 2001 
+Smoke Management Guide that conflicts among 
+natural resource needs, fire management, and air 
+quality issues are expected to increase. It is 
+equally important to acknowledge the benefits 
+to air quality resulting from the many successful 
+smoke management efforts in the past two 
+decades. 
+Since the 1980s, federal, state, tribal, and local 
+land managers have recognized the potential 
+impacts of smoke emissions from their activi­
+ties. Additionally, they have sponsored and 
+pursued new efforts to learn the principles of 
+smoke management and to develop appropriate 
+smoke management applications. Many early 
+smoke management successes resulted from 
+proactive, voluntary inclusion of smoke man­
+agement components in many burn plans as 
+early as the mid-1980s. 
+NWCG and its partners are committed to fur­
+thering their leadership role in the quest for new 
+information, technology, and innovative tech­
+niques. These 2001 revisions to the Guide are 
+evidence of that commitment. 
+– 24 – 
+2001 Smoke Management Guide 
+3.1 – Public Health Effects 
+Chapter 3
+SMOKE IMPACTS
+– 25 – 
+Chapter 3 – Smoke Impacts 
+2001 Smoke Management Guide 
+– 26 – 
+___________________________________ 
+2001 Smoke Management Guide 
+3.1 – Public Health Effects 
+Public Health and Exposure to Smoke
+John E. Core 
+Janice L. Peterson 
+Introduction 
+The purity of the air we breathe is an important 
+public health issue. Particles of dust, smoke, 
+and soot in the air from many sources, including 
+wildland fire, can cause acute health effects. 
+The effects of smoke range from irritation of the 
+eyes and respiratory tract to more serious disor­
+ders including asthma, bronchitis, reduced lung 
+function, and premature death. Airborne par­
+ticles are respiratory irritants, and high concen­
+trations can cause persistent cough, phlegm, 
+wheezing, and physical discomfort when breath­
+ing. Particulate matter can also alter the body’s 
+immune system and affect removal of foreign 
+materials from the lung like pollen and bacteria. 
+This section discusses the effects of air pollu­
+tion, especially particulate matter, on human 
+health and morbidity. Wildland fire smoke is 
+discussed as one type of air pollution that can be 
+harmful to public health1. 
+Human Health Effects of 
+Particulate Matter 
+Many epidemiological studies have shown 
+statistically significant associations of ambient 
+particulate matter levels with a variety of human 
+health effects, including increased mortality, 
+hospital admissions, respiratory symptoms and 
+illness measured in community surveys (Brauer 
+1999, Dockery and others 1993, EPA 1997). 
+Health effects from both short-term (usually 
+days) and long-term (usually years) particulate 
+matter exposures have been documented. The 
+consistency of the epidemiological data in­
+creases confidence that the results reported in 
+numerous studies justify the increased public 
+health concerns that have prompted EPA to 
+adopt increasingly stringent air quality stan­
+dards (Federal Register 1997). There remains, 
+however, uncertainty regarding the exact 
+mechanisms that air pollutants trigger to cause 
+the observed health effects (EPA 1996). 
+Figure 3.1.1 illustrates respiratory pathways 
+that form the human body’s natural defenses 
+against polluted air.  These pathways can be 
+divided into two systems - the upper airway 
+passage consisting of the nose, nasal passages, 
+mouth and pharynx, and the lower airway 
+passages consisting of the trachea, bronchial 
+tree, and alveoli. While coarse particles (larger 
+than about 5 microns in diameter) are deposited 
+in the upper respiratory system, fine particles 
+(less than 2.5 microns in diameter) can pen­
+etrate much deeper into the lungs. These fine 
+particles are deposited in the alveoli where the 
+body’s defense mechanisms are ineffective in 
+removing them (Morgan 1989). 
+1 Information on the effects of smoke on firefighters and prescribed burn crews can be found in Section 3.4. 
+– 27 – 
+Chapter 3 – Smoke Impacts 
+2001 Smoke Management Guide 
+Figure 3.1.1:  Particle deposition in the respiratory system. 
+From: Canadian Center for Occupational Health & Safety, available at 
+http://www.ccohs.ca/oshanswers/ chemicals/how_do.html 
+On a smoggy day in a major metropolitan area, 
+a single breath of air may contain millions of 
+fine particles. Some 74 million Americans — 
+28% of the population — are regularly exposed 
+to harmful levels of particulate air pollution 
+(EPA 1997).  In recent studies, exposure to fine 
+particles – either alone or in combination with 
+other air pollutants – has been linked with many 
+health problems, including: 
+• An estimated 40,000 Americans die 
+prematurely each year from respiratory 
+illness and heart attacks that are linked 
+with particulate exposure, especially 
+elderly people (EPA 1997). 
+• Children and adults experience aggravated 
+asthma. Asthma in children increased 
+118% between 1980 and 1993, and it is 
+currently the leading cause of child hospi­
+tal admissions (EPA 1997). 
+• Children become ill more frequently and 
+experience increased respiratory problems, 
+including difficult and painful breathing 
+(EPA 1997). 
+• Hospital admissions, emergency room 
+visits and premature deaths increase 
+among adults with heart disease, emphy­
+sema, chronic bronchitis, and other heart 
+and lung diseases (EPA 1997). 
+The susceptibility of individuals to particulate 
+air pollution (including smoke) is affected by 
+many factors. Asthmatics, the elderly, those 
+with cardiopulmonary disease, as well as those 
+with preexisting infectious respiratory disease 
+such as pneumonia may be especially sensitive 
+to smoke exposure. Children and adolescents 
+may also be susceptible to ambient particulate 
+matter effects due to their increased frequency 
+of breathing, resulting in greater respiratory 
+tract deposition. In children, epidemiological 
+studies reveal associations of particulate expo­
+sure with increased bronchitis symptoms and 
+small decreases in lung function. 
+Fine particles showed consistent and statistically 
+significant relationships to short-term mortality 
+in six U.S. cities while coarse particles showed 
+no significant relationship to excess mortality in 
+five of the six cities that were studied (Dockery 
+and others 1993). 
+– 28 – 
+2001 Smoke Management Guide 
+3.1 – Public Health Effects 
+Impacts of Wildland Fire 
+Smoke on Public Health 
+There is not much data which specifically 
+examines the effects of wildland fire smoke on 
+public health, although some studies are 
+planned or underway.  We can, however, infer 
+health responses from the documented effects of 
+particulate air pollutants. Eighty to ninety 
+percent of wildfire smoke (by mass) is within 
+the fine particle size class (PM2.5), making 
+public exposure to smoke a significant concern. 
+The Environmental Protection Agency has 
+developed some general public health warnings 
+for specific air pollutants including PM2.5 
+(table 3.1.1) (EPA 1999).  The concentrations in 
+table 3.1.1 are 24-hour averages, which can be 
+problematic when dealing with smoke impacts 
+that may be severe for a short period of time and 
+then virtually non-existent soon after.  Another 
+guidance document was developed recently to 
+relate short-term, 1-hour averages to the poten­
+tial human health effects given in table 3.1.1 
+(Therriault 2001). 
+Figure 3.1.2 contains these short-term averages 
+plus approximate corresponding visual range in 
+miles. Members of the public can use the 
+methods described to estimate visual range and 
+determine when air quality may be hazardous to 
+their health even if they are located in an area 
+that is not served by an official state air quality 
+monitor. 
+Figure 3.1.3 is an information sheet developed 
+during a prolonged wildfire smoke episode in 
+Montana during the summer of 2000. The 
+questions and answers address many common 
+concerns voiced by the public during smoke 
+episodes. 
+Other Pollutants of Concern 
+in Smoke 
+Although the principal air pollutant of concern 
+is particulate matter, there are literally hundreds 
+of compounds emitted by wildland fires that are 
+found in very low concentrations. Some of 
+these compounds that also deserve mention 
+include: 
+• Carbon monoxide has well known, serious 
+health effects including dizziness, nausea 
+and impaired mental functions but is 
+usually only of concern when people are in 
+close proximity to a fire (including fire­
+fighters). Blood levels of carboxyhemo­
+globin tend to decline rapidly to normal 
+levels after a brief period free from expo­
+sure (Sharkey 1997). 
+• Benzo(a)pyrene, anthracene, benzene and 
+numerous other components found in 
+smoke from wildland fires can cause head­
+aches, dizziness, nausea, and breathing 
+difficulties.  In addition, they are of con­
+cern because of long term cancer risks 
+associated with repeated exposure to 
+smoke. 
+• Acrolein and formaldehyde are eye and 
+upper respriatory irritants to which some 
+segments of the public are especially 
+sensitive. 
+– 29 – 
+Chapter 3 – Smoke Impacts
+2001 Smoke Management Guide
+– 30 –
+Table 3.1.1.  EPA’s pollutant standard index for PM2.5 can be used for general assessment of health risks from existing air quality.
+2001 Smoke Management Guide 
+3.1 – Public Health Effects 
+Figure 3.1.2. Visibility range can be used by the public to assess air quality in areas with no state air 
+pollution monitors. 
+Conclusions 
+The health effects of wildland smoke are of real 
+concern to wildland fire managers, public health 
+officials, air quality regulators and all segments 
+of the public. Fire practitioners have an impor­
+tant responsibility to understand the potential 
+health impacts of fine particulate matter and 
+minimize the public’s exposure to smoke. 
+Wildland fire managers should be aware of 
+sensitive populations and sites that may be 
+affected by prescribed fires, such as medical 
+facilities, schools or nursing homes, and plan 
+burns to minimize the smoke impacts. This is 
+especially true when exposure may be pro­
+longed. Days or weeks of smoke exposure are 
+problematic because the lung’s ability to sweep 
+these particles out of the respiratory passages 
+may be suppressed over time. Prolonged expo­
+sure may occur as the result of topographic or 
+meteorological conditions that trap smoke in an 
+area. Familiarity with the location and seasonal 
+weather patterns can be invaluable in anticipat­
+ing and avoiding potential problems while still 
+in the planning phase. 
+– 31 – 
+Chapter 3 – Smoke Impacts
+2001 Smoke Management Guide 
+What’s in smoke from a wildfire? 
+Smoke is made up of small particles, gases and water vapor. 
+Water vapor makes up the majority of smoke. The remainder 
+includes carbon monoxide, carbon dioxide, nitrogen oxide, irritant 
+volatile organic compounds, air toxics and very small particles. 
+Is smoke bad for me? 
+Yes. It’s a good idea to avoid breathing smoke if you can help it. If 
+you are healthy, you usually are not at a major risk from smoke. 
+But there are people who are at risk, including people with heart or 
+lung diseases, such as congestive heart disease, chronic 
+obstructive pulmonary disease, emphysema or asthma. Children 
+and the elderly also are more susceptible. 
+What can I do to protect myself? 
+•	 Many areas report EPA’s Air Quality Index for particulate 
+matter, or PM. PM (tiny particles) is one of the biggest 
+dangers from smoke. As smoke gets worse, that index 
+changes — and so do guidelines for protecting yourself. So 
+listen to your local air quality reports. 
+•	 Use common sense. If it looks smoky outside, that’s probably 
+not a good time to go for a run. And it’s probably a good time 
+for your children to remain indoors. 
+•	 If you’re advised to stay indoors, keep your windows and 
+doors closed. Run your air conditioner, if you have one. Keep 
+the fresh air intake closed and the filter clean. 
+•	 Help keep particle levels inside lower by avoiding using 
+anything that burns, such as wood stoves and gas stoves – 
+even candles. And don’t smoke. That puts even more pollution 
+in your lungs – and those of the people around you. 
+•	 If you have asthma, be vigilant about taking your medicines, 
+as prescribed by your doctor. If you’re supposed to measure 
+your peak flows, make sure you do so. Call your doctor if your 
+symptoms worsen. 
+How can I tell when smoke levels are dangerous? I don’t live 
+near a monitor. 
+Generally, the worse the visibility, the worse the smoke. In 
+Montana, the Department of Environmental Quality uses visibility 
+to help you gauge wildfire smoke levels. 
+How do I know if I’m being affected? 
+You may have a scratchy throat, cough, irritated sinuses, head­
+aches, runny nose and stinging eyes. Children and people with 
+lung diseases may find it difficult to breathe as deeply or vigorously 
+as usual, and they may cough or feel short of breath. People with 
+diseases such as asthma or chronic bronchitis may find their 
+symptoms worsening. 
+Should I leave my home because of smoke? 
+The tiny particles in smoke do get inside your home. If smoke 
+levels are high for a prolonged period of time, these particles can 
+build up indoors. If you have symptoms indoors (coughing, burning 
+eyes, runny nose, etc.), talk with your doctor or call your county 
+health department. This is particularly important for people with 
+heart or respiratory diseases, the elderly and children. 
+Are the effects of smoke permanent? 
+Healthy adults generally find that their symptoms (runny noses, 
+coughing, etc.) disappear after the smoke is gone. 
+Do air filters help? 
+They do. Indoor air filtration devices with HEPA filters can reduce 
+the levels of particles indoors. Make sure to change your HEPA 
+filter regularly. Don’t use an air cleaner that works by generating 
+ozone. That puts more pollution in your home. 
+Do dust masks help? 
+Paper “comfort” or “nuisance” masks are designed to trap large 
+dust particles — not the tiny particles found in smoke. 
+These masks generally will not protect your lungs from wildfire 
+smoke. 
+How long is the smoke going to last? 
+That depends on a number of factors, including the number of 
+fires in the area, fire behavior, weather and topography.  Smoke 
+also can travel long distances, so fires in other areas can affect 
+smoke levels in your area. 
+I’m concerned about what the smoke is doing to my animals. 
+What can I do? 
+The same particles that cause problems for people may cause 
+some problems for animals. Don’t force your animals to run or 
+work in smoky conditions. Contact your veterinarian or county 
+extension office for more information. 
+How does smoke harm my health? 
+One of the biggest dangers of smoke comes from particulate 
+matter — solid particles and liquid droplets found in air. In smoke, 
+these particles often are very tiny, smaller than 2.5 micrometers in 
+diameter. How small is that? Think of this: the diameter of the 
+average human hair is about 30 times bigger. 
+These particles can build up in your respiratory system, causing a 
+number of health problems, including burning eyes, runny noses 
+and illnesses such as bronchitis. The particles also can aggravate 
+heart and lung diseases, such as congestive heart failure, chronic 
+obstructive pulmonary disease, emphysema and asthma. 
+What about firefighters? 
+Firefighters do experience short-term effects of smoke, such as 
+stinging, watery eyes, coughing and runny noses. Firefighters 
+must be in good physical condition, which helps to offset adverse 
+effects of smoke. In addition to being affected by particles, 
+firefighters can be affected by carbon monoxide from smoke. A 
+recent Forest Service study showed a very small percentage of 
+firefighters working on wildfires were exposed to levels higher 
+than occupational safety limits for carbon monoxide and irritants. 
+Why can’t the firefighters do something about the smoke? 
+Firefighters first priorities in fighting a fire are, by necessity, 
+protecting lives, protecting homes and containing the wildfire. 
+Sometimes the conditions that are good for keeping the air clear 
+of smoke can be bad for containing fires. A windy day helps 
+smoke disperse, but it can help a fire spread. 
+Firefighters do try to manage smoke when possible. As they 
+develop their strategies for fighting a fire, firefighters consider fire 
+behavior and weather forecasts, topography and proximity to 
+communities – all factors than can affect smoke. 
+Why doesn’t it seem to be as smoky when firefighters are 
+working on prescribed fires. 
+Land managers are able to plan for prescribed fires. They get to 
+choose the areas they want to burn, the size of those areas and 
+the weather and wind conditions that must exist before they begin 
+burning. This allows them to control the fire more easily and limit 
+its size. Those choices don’t exist with wildfires. In addition, 
+wildfires that start in areas that haven’t been managed with 
+prescribed fire often have more fuel, because vegetation in the 
+forest understory has built up, and dead vegetation has not been 
+removed. 
+This document was prepared by the Air Program, U.S. Forest Service – Northern Region, with assistance from the Office of Air 
+Quality Planning & Standards in the US Environmental Protection Agency. For more information, call 406-329-3493. August 2000. 
+Figure 3.1.3.  Public health information developed during the Montana wildfires of 2000. 
+– 32 – 
+2001 Smoke Management Guide 
+3.1 – Public Health Effects 
+Literature Citations 
+Brauer, Michael. 1999. Health impacts of biomass 
+air pollution. In: Health guidelines for vegeta­
+tion fire events: background papers. Edited by 
+Kee-Tai Goh, Dietrich Schwela, Johann G. 
+Goldammer, and Orman Simpson. World 
+Health Organization. Available at http:// 
+www.who.int/peh/air/vegetationfirbackgr.htm. 
+69p. 
+Dockery DW, Pope CA III, Xu X, Spengler JD, 
+Ware JH, Fay ME, Ferris BG Jr, and Speizer 
+FE. 1993. An association between air pollution 
+and mortality in six U.S. cities. New England 
+Journal of Medicine. 329:1753-1759. 
+Environmental Protection Agency-Region 8. 1997. 
+Public health effects of ozone and fine particle 
+pollution. Environmental Fact Sheet. Available 
+at http://www.epa.gov/region08/news/ 
+news9697/ofpo.html 
+Environmental Protection Agency. 1996. Air quality 
+criteria for particulate matter - Volume 1. US 
+Environmental Protection Agency, Research 
+Triangle Park, NC. EPA/600/P-95/001aF. 
+Environmental Protection Agency. 1999. Guideline 
+for reporting of daily air quality – air quality 
+index (AQI). EPA-454/R-99-010. U.S. EPA 
+Office of Air Quality Planning and Standards, 
+Research Triangle Park, NC 27711. 25p. 
+Federal Register. 1997. Memorandum from the 
+President re: Implementation of Revised Air 
+Quality Standards for Ozone and Particulate 
+Matter. Federal Register Vol. 62, No. 138. July 
+18, 1997. 
+Morgan, Michael S. 1989. Health risks from slash 
+fire smoke. In: The Burning Decision – Re­
+gional Perspectives on Slash. University of 
+Washington College of Forest Resources. 
+Seattle, WA.  pp. 226-236. 
+Sharkey, Brian, ed. 1997. Health hazards of smoke: 
+recommendations of the April 1997 Consensus 
+Conference. Tech. Rep. 9751-2836-MTDC. 
+Missoula, MT: U.S. Department of Agriculture, 
+Forest Service, Missoula Technology and 
+Development Center. 84 p. 
+Therriault, Shannon. 2001. Wildfire smoke: a guide 
+for public health officials.  Missoula City-
+County Health Department. Missoula, MT. 13p. 
+Available at:  http://depts.washington.edu/ 
+wildfire/resources/pubhealthguide.pdf 
+– 33 – 
+Chapter 3 – Smoke Impacts 
+2001 Smoke Management Guide 
+– 34 – 
+2001 Smoke Management Guide 
+3.2 – Visibility 
+Visibility 
+John E. Core 
+Introduction 
+Every year there are over 280 million visitors to 
+our nation’s wilderness areas and national parks. 
+Congress has set these special places aside for 
+the enjoyment of all that seek spectacular and 
+inspiring vistas. Unfortunately, many visitors 
+are not able to see the beautiful scenery they 
+expect. During much of the year, a veil of haze 
+often blurs their view.  The haze is caused by 
+many sources of both natural and manmade air 
+pollution sources, including wildland fire. 
+This section describes measures of scenic 
+visibility, the properties of the atmosphere and 
+how these properties are affected by smoke from 
+wildland fires, natural and current visibility 
+conditions, as well as sources that contribute to 
+visibility degradation. This is an important 
+issue to wildland fire practitioners because 
+smoke is of increasing interest to air regulators 
+responsible for solving regional haze problems. 
+Measures of Visibility Impairment 
+Visibility is most often thought of in terms of 
+visual range or the furthest distance a person can 
+see a landscape feature. However, visibility is 
+more than how far one can see; it also encom­
+passes how well scenic landscape features can 
+be seen and appreciated. Changes in visual 
+range are not proportional to human perception. 
+For example, a five-mile change in visual range 
+can result in a scene change that is either imper­
+ceptible or very obvious depending on the 
+baseline visibility conditions. Therefore, a more 
+meaningful visibility index has been adopted. 
+The scale of this index, expressed in deciviews 
+(dv) is linear with respect to perceived visual 
+changes over its entire range, analogous to the 
+decibel scale for sound. A one-deciview change 
+represents a change in scenic quality that would 
+be noticeable to most people regardless of the 
+initial visibility conditions. A deciview of zero 
+is equivalent to clear air while deciviews greater 
+than zero depict proportionally increased visibil­
+ity impairment (IMPROVE 1994). The more 
+deciviews measured, the greater the impairment, 
+which limits the distance you can see. Finally, 
+extinction in inverse megameters (Mm-1) is 
+proportional to the amount of light lost as it 
+travels through a million meters of atmosphere 
+and is most useful for relating visibility directly 
+to particulate concentrations. Table 3.2.1 com­
+pares each of these three forms of measurement 
+(Malm 1999). 
+Properties of the Atmosphere & 
+Wildland Fire Smoke 
+An observer sees an image of a distant object 
+because light is reflected from the object along 
+the sight path to the observer’s eye.  Any of this 
+image-forming light that is removed from the 
+sight path by scattering or light absorption 
+– 35 – 
+Chapter 3 – Smoke Impacts 
+2001 Smoke Management Guide 
+Table 3.2.1. Comparison of the four expressions of visibility measurement. 
+reduces the image-forming information and 
+thereby diminishes the clarity of the landscape 
+feature. Ambient light is also scattered into the 
+sight path, competing with the image-forming 
+light to reduce the clarity of the object of 
+interest. This “competition” between image-
+forming light and scattered light is commonly 
+experienced while driving in a snowstorm at 
+night with the car headlights on. 
+In addition, relative humidity also indirectly 
+affects visibility.  Although relative humidity 
+does not by itself cause visibility to be de­
+graded, some particles, especially sulfates, 
+accumulate water from the atmosphere and 
+grow to a size where they are particularly 
+efficient at scattering light.  Poor visibility in 
+the eastern states during the summer months is 
+a result of the combination of high sulfate 
+concentrations and high relative humidity. 
+The sum of scattering and absorption is referred 
+to as atmospheric light extinction. Particles that 
+are responsible for scattering are categorized as 
+primary and secondary where primary sources 
+include smoke from wildland fires and wind­
+blown dust. Other sources of secondary par­
+ticles include sulfate and nitrate particles 
+formed in the atmosphere. The closer the 
+particle size is to the wavelength of light, the 
+more effective the particle is in scattering light. 
+As a result, relatively large particles of wind­
+blown dust are far less efficient in scattering 
+light per unit mass than are the fine particles 
+found in smoke from wildland fires. Finally, an 
+important component of smoke from wildland 
+fires is elemental carbon (also known as soot), 
+which is highly effective in absorbing light 
+within the sight path. This combination of light 
+absorption by elemental carbon and light 
+scattering caused by the very small particles 
+that make up wildland fire smoke explains why 
+emissions from wildland fire play such an 
+important role in visibility impairment. 
+The effect of regional haze on a Glacier Na­
+tional Park vista is shown in the four panels of 
+figure 3.2.1. The view is of the Garden Wall 
+from across Lake McDonald. Particulate 
+concentrations associated with these photo­
+graphs correspond to 7.6, 12.0, 21.7 and 
+65.3 µg/m3, respectively (Malm 1999).  Note 
+the loss of color and detail in the mountains as 
+the particulate concentrations increase and 
+visibility decreases. 
+– 36 – 
+2001 Smoke Management Guide 
+3.2 – Visibility 
+7.6 µg/m3 
+12.0 µg/m3 
+21.7 µg/m3 
+65.3 µg/m3 
+Figure 3.2.1. The eff ect of regional haz e on a Glacier National P a r k vista. 
+Photo courtesy of the National Park Service, Air Resources Division. 
+Natural Visibility Conditions 
+Some light extinction occurs naturally due to 
+scattering caused by the molecules that make up 
+the atmosphere. This is called Rayleigh scatter­
+ing and is the reason why the sky appears blue. 
+But even without the influence of human-caused 
+air pollution, visibility would not always reach 
+the approximately 240-mile limit defined by 
+Rayleigh scattering. Naturally occurring par­
+ticles, such as windblown dust, smoke from 
+natural fires, volcanic activity, and biogenic 
+emissions (e.g. pollen and gaseous hydrocarbon) 
+also contribute to visibility impairment although 
+the concentrations and sources of some of these 
+particles remain a point of investigation. 
+Average natural visibility in the eastern U.S. is 
+estimated to be about 60-80 miles (8-11 dv), 
+whereas in the western US it is about 110-115 
+miles (4.5-5 dv) (Malm 1999). Lower natural 
+visibility in the eastern U.S. is due to higher 
+average humidity.  Humidity causes fine par­
+ticles to stick together, grow in size, and become 
+more efficient at scattering light.  Under natural 
+conditions, carbon-based particles are respon­
+sible for most of the non-Rayleigh particle­
+– 37 – 
+Chapter 3 – Smoke Impacts 
+2001 Smoke Management Guide 
+Figure 3.2.2. Average annual visual range, in miles, for the years 1996-1998 measured at IMPROVE network 
+monitors. 
+associated visibility reduction, with all other 
+particle species contributing significantly less. 
+Scattering from naturally occurring sulfate 
+particles from volcanic sulfur dioxide emis­
+sions and oceanic sources of primary sulfate 
+particles are estimated to account for 9-12% of 
+the impairment in the East and 5% in the West 
+(NPS 1997). It is expected that coastlines and 
+highly vegetated areas may be lower than these 
+averages, while some elevated areas (moun­
+tains) could exceed these background esti­
+mates. 
+Current Visibility Conditions 
+Currently, average visual range in the eastern 
+U.S. is about 15-30 miles, or about one-third
+of the estimated natural background for the 
+East. In the West, visual range currently aver­
+ages about 60-90 miles, or about one-half of the 
+estimated natural background for the West. 
+Current annual visual range conditions ex­
+pressed in miles are shown in figure 3.2.2. 
+Notice how much more impaired visibility is in 
+the East versus the West. 
+In the East, 60-70% of the visibility impairment 
+is attributed to sulfates. Sulfate particles form 
+from sulfur dioxide gas, most of which is re­
+leased from coal-burning power plants and other 
+industrial sources such as smelters, industrial 
+boilers, and oil refineries. Carbon-based par­
+ticles contribute about 20% of the impairment in 
+the East. Sources of organic carbon particles 
+include vehicle exhaust, vehicle refueling, 
+solvent evaporation, food cooking, and fires. 
+– 38 – 
+2001 Smoke Management Guide 
+3.2 – Visibility 
+Elemental carbon particles (or light absorbing 
+carbon) are emitted by virtually all combustion 
+activities, but are especially prevalent in diesel 
+exhaust and smoke from wood burning. 
+In the West, sulfates contribute less than 30% 
+(Oregon, Idaho and Nevada) to 40-50% (Ari­
+zona, New Mexico and Southwest Texas) of 
+light extinction. Carbon particles in the West 
+are a greater percentage of the extinction budget 
+ranging from 50% or greater in the Northwest to 
+30-40% in the other western regions. The 
+higher percentages of the extinction budget 
+associated with carbon particles in the West 
+appear to be from smoke emitted by wildland 
+and agricultural fires (NPS 1994). 
+In summary, the physics of light extinction in 
+the atmosphere coupled with the chemical 
+composition and physical size distribution of 
+particles in wildland fire smoke combine to 
+make fire (especially in the West) an important 
+contributor to visibility impairment. Wildland 
+fire managers responsible for the protection of 
+the scenic vistas of this nation’s wilderness 
+areas and national parks have a difficult chal­
+lenge in balancing the need to protect visibility 
+with the need to use fire for other resource 
+management goals. 
+Literature Citations 
+IMPROVE. 1994. Visibility protection. Interagency 
+Monitoring of Protected Visual Environments 
+Brochure. Ft. Collins, Colorado. August 1994. 
+Available at: www2.nature.nps.gov/ard/impr/ 
+index.htm 
+National Park Service. 1997. Visibility protection. 
+National Park Service Air Resources Division 
+Web Page. Available at www2.nature.nps.gov/ 
+ard/vis/visprot.html 
+Malm, William C. 1999. Introduction to visibility. 
+Cooperative Institute for Research in the 
+Atmosphere. NPS Visibility Program, Colorado 
+State University, Fort Collins, CO: 79 p. 
+– 39 – 
+Chapter 3 – Smoke Impacts 
+2001 Smoke Management Guide 
+– 40 – 
+2001 Smoke Management Guide 
+3.3 – Nuisance Smoke 
+Problem and Nuisance Smoke
+Gary L. Achtemeier 
+Bill Jackson 
+James D. Brenner 
+Introduction 
+The particulate matter (or particles) produced 
+from wildland fires can be a nuisance or safety 
+hazard to people who come in contact with the 
+smoke – whether the contact is directly through 
+personal exposure, or indirectly through visibil­
+ity impairment. Nuisance smoke is defined by 
+the US Environmental Protection Agency as the 
+amount of smoke in the ambient air that inter­
+feres with a right or privilege common to 
+members of the public, including the use or 
+enjoyment of public or private resources (US 
+EPA 1990). 
+Although the vast majority of prescribed burns 
+occur without negative smoke impact, wildland 
+fire smoke can be a problem anywhere in the 
+country.  Complaints about loss of visibility, 
+odors, and soiling from ash fallout are not 
+unique to any region. Reduced visibility from 
+smoke has caused fatal collisions on highways 
+in several states, from Florida to Oregon. Ac­
+rolein (and possibly formaldehyde) in smoke is 
+likely to cause eye and nose irritation for dis­
+tances up to a mile from the fire, exacerbating 
+public nuisance conditions (Sandberg and Dost 
+1990). The abatement of nuisance or problem 
+smoke is one of the most important objectives of 
+any wildland fire smoke management plan 
+(Shelby and Speaker 1990). 
+This section provides information on the issue 
+of visibility reduction from wildland fire smoke, 
+and focuses particularly on smoke as a major 
+concern in the Southern states. Meteorology, 
+climate and topography combine with popula­
+tion density and fire frequency to make nuisance 
+smoke a chronic issue in the South. Lessons 
+from this regional example can be extrapolated 
+and applied to other parts of the country.  This 
+section also briefly summarizes tools currently 
+used or under development to aid the land 
+manager in reducing the problematic effects of 
+smoke. 
+Wildland fire smoke may also be a nuisance to 
+the public by producing a regional haze, which 
+is discussed in Section 3.2. 
+Nuisance Smoke and 
+Visibility Reduction 
+A prescribed fire is a combustion process that 
+has no pollution control devices to remove the 
+pollutants. Instead, prescribed fire practitioners 
+often rely on favorable atmospheric conditions 
+to successfully disperse the smoke away from 
+smoke-sensitive areas, such as communities, 
+– 41 – 
+Chapter 3 – Smoke Impacts 
+2001 Smoke Management Guide 
+areas of heavy vehicle traffic, and scenic vistas. 
+At times, however, unexpected changes in 
+weather (especially wind), or planning which 
+does not adequately factor in such elements as 
+topography, diurnal weather patterns, or residual 
+combustion, may result in an intrusion of smoke 
+that causes negative impacts on the public. 
+Smoke intrusions and nuisance- or safety-
+related episodes may happen at any time during 
+the course of a wildland fire, but they frequently 
+occur in valley bottoms and drainages during the 
+night. Within approximately one half hour of 
+sunset, air cools rapidly near the ground, and 
+wind speeds decline as the cooled stable airmass 
+“disconnects” from faster-moving air just above 
+it. High concentrations of smoke accumulate 
+near the ground, particularly smoke from smol­
+dering fuels that don’t generate much heat. 
+Smoke then tends to be carried through drain­
+ages with little dispersion or dilution. If the 
+drainages are wet, smoke can act as a nucleating 
+agent and can actually assist the formation of 
+local fog, a particular problem in the Southeast. 
+Typically, the greatest fog occurs where smoke 
+accumulates in a low drainage. This can cause 
+hazardous conditions where a drainage crosses a 
+road or bridge, reducing visibility for traffic. 
+Visibility reduction may also result from the 
+direct impact of the smoke plume. Fine par­
+ticles (less than 2.5 microns in diameter) of 
+smoke are usually transported to the upper 
+reaches of the atmospheric mixing height, where 
+they are dispersed. They may, however, disperse 
+gradually back to ground level in an unstable 
+atmosphere (figure 3.3.1). When this occurs, 
+such intrusions of smoke can cause numerous 
+nuisance impacts as well as specific safety 
+hazards. 
+Visibility reduction is used as a metric of smoke 
+intrusions in several State smoke management 
+programs. The State of Oregon program opera­
+tional guidance defines a “moderately” intense 
+intrusion as a reduction of visibility from 4.6 to 
+11.4 miles from a background visibility of more
+than 50 miles (Oregon Dept. Forestry 1992). 
+The State of Washington smoke intrusion 
+reporting system uses “slightly visible, notice­
+able impact on visibility, or excessive impact on 
+visibility” to define light, medium and heavy 
+intrusions (Washington Dept. Natural Resources 
+1993). The New Mexico program requires that 
+visibility impacts of smoke be considered in 
+development of the unit’s burn prescription 
+(New Mexico Environmental Improvement 
+Board 1995). 
+Smoke plume-related visibility degradation in 
+urban and rural communities is not subject to 
+regulation under the Clean Air Act.  Nuisance 
+smoke is usually regulated under state and local 
+laws and is frequently based on either public 
+complaint or compromise of highway safety 
+(Eshee 1995). Public outcry regarding nuisance 
+smoke often occurs before smoke exposures 
+reach levels that violate National Ambient Air 
+Quality Standards. The Courts have ruled that 
+the taking of private property by interfering with 
+its use and enjoyment caused by smoke without 
+just compensation is in violation of federal 
+constitutional provisions under the Fifth 
+Amendment. The trespass of smoke may 
+diminish the value of the property, resulting in 
+losses to the owner (Supreme Court of Iowa 
+1998). 
+Smoke as a Southern Problem 
+The Forest Atlas of the United States (figure 
+3.3.2) shows that the thirteen Southern states 
+contain approximately 40% of U.S. forests – 
+about 200 million acres. While not all of this 
+forested land is regularly burned, the extensive 
+forest type generally known as “southern pines” 
+burns with a high fire frequency, about every 2-5 
+years. When shrublands and grasslands are 
+added to the total, from four to six million acres 
+of southern wildlands are subjected to pre­
+– 42 – 
+2001 Smoke Management Guide 
+3.3 – Nuisance Smoke 
+Figure 3.3.1.  Graphic from the dispersion model VSmoke-GIS, showing the rise and 
+descent of a smoke plume during a daytime prescribed fire, assuming 25% of the 
+smoke disperses at ground level. 
+Figure 3.3.2.  National Atlas of Forest Cover Types.  Southern forests (outlined in blue extend 
+from Virginia to Texas and from the Ohio River southward and account for approximately 40% of 
+U.S. forest land. 
+– 43 – 
+Chapter 3 – Smoke Impacts 
+2001 Smoke Management Guide 
+scribed fire each year.  This is by far the largest 
+acreage of wildlland subjected to prescribed fire 
+in any region of the country. 
+Figure 3.3.3 shows the 1998 Population Density 
+Classes for the United States. Of particular 
+importance regarding problem smoke is the 
+class “Wildland/Urban Interface,” designated in 
+red. A comparison with figure 3.3.2 shows that 
+the wildland/urban interface falls within much 
+of the range of Southern forests. Southern 
+forests, with highest treatment intervals of 
+prescribed fire and with the largest acreages 
+subjected to prescribed fire, are connected with 
+human habitation and activity through an enor­
+mous wildland/urban interface. The potential 
+exists for significant smoke problems in this 
+region. 
+Smoke and Southern Climate 
+Several factors regarding climate add to the 
+smoke problem in the South. The long growing 
+season allows time for more annual biomass 
+production relative to other areas of the country 
+with shorter growing seasons. Most of the 
+Southern forests are located farther south than 
+forests elsewhere in the country.  Consequently, 
+the sun angle is higher in the South and is 
+capable of supplying warmth well into the late 
+fall and early winter.  Further, most southern 
+wildlands are located at low elevations where 
+the air is warmer.  These factors contribute to 
+the long growing season, which runs from 
+March/April through October/November. 
+Abundant rainfall also encourages growth of a 
+large number of grasses, shrubs, and trees. 
+Most of the South receives 40-60 inches (100­
+150 cm) of precipitation annually.  This copious 
+rainfall, in combination with the long growing 
+season, creates conditions for rapid buildup of 
+both dead and live fuels. If burns are not con­
+ducted frequently, the increase in emissions 
+from the accumulated fuels may enhance the 
+likelihood of negative smoke impacts when fires 
+do occur. 
+Figure 3.3.3.  Population density classes showing wildland/urban interface in red. 
+Southern forests outlined in blue.  [http://www.fs.fed.us/fire/fuelman] 
+– 44 – 
+2001 Smoke Management Guide 
+3.3 – Nuisance Smoke 
+The coincidence of dormant-season burning 
+with the winter rain season is a third factor 
+contributing to nuisance smoke. Although 
+burning is conducted year round throughout the 
+South, a significant amount of burning is done 
+during January through March. In a typical 
+year, anywhere from 10-20 inches (25-50 cm) of 
+rain will fall over Southern forests during this 
+three-month period. In some areas of the coun­
+try, the question might be, “Is it wet enough to 
+burn?” In the South, the question is commonly, 
+“Is it dry enough to burn?” Fires burning into 
+moist fuel burn less efficiently and smolder 
+longer than fires burning dry fuels. Both factors 
+increase smoke production. In addition, less 
+heat is produced during inefficient combustion 
+and smoldering. Therefore, more smoke stays 
+near the ground and increases the risk of prob­
+lem smoke. 
+Smoke and 
+Southern Meteorology 
+All thirteen Southern states have implemented 
+burning regulations designed to limit open 
+burning to those days when burning is consid­
+ered “safe” and the risks of fire escapes are 
+minimal. Many have implemented smoke 
+management regulations. The need to conduct 
+burning in a manner to reduce impacts on air 
+quality over sensitive targets has encouraged 
+“best practice” approaches to open burning. 
+Efforts to avoid smoke incursions over sensitive 
+targets are often complicated by the highly 
+variable meteorology of Southern weather 
+systems during the extensive burn season. Four 
+weather features that cause frequent wind shifts 
+and may be accompanied by rapid changes in air 
+mass stability and mixing height are described 
+below. 
+1. Synoptic scale high- and low-pressure 
+systems and accompanying fronts frequent 
+the South during the winter burn season. 
+In a typical sequence of events, the winds 
+shift to blow from the southeast through 
+southwest in advance of a storm, then shift 
+rapidly to the northwest with cold front 
+passage. Winds blow from the northwest 
+for a day or so but gradually diminish with 
+the approach of a high pressure system, 
+becoming light and variable as the system 
+passes. Then winds shift back to southerly 
+in advance of the next storm. Low clouds, 
+low mixing heights, and high stability often 
+accompany low-pressure systems. De­
+pending upon moisture availability, cold 
+fronts may be accompanied by bands of 
+low clouds and precipitation. Mixing 
+heights are more favorable during high-
+pressure episodes. Although the movement 
+of synoptic scale weather systems into the 
+South can be predicted with lead times of 
+several days, the timing of arrival of frontal 
+wind shifts over specific burn sites is less 
+certain. 
+2. Much of the Piedmont and Coastal Plain 
+are flat and it would be expected that winds 
+there are steady and predictable. However, 
+the region is frequented by transient eddies 
+that can cause unexpected wind shifts and 
+carry smoke into sensitive areas. The 
+vertical circulation of air that can force 
+smoke plumes to the ground or carry 
+smoke safely upward are well-understood, 
+but the location, timing and strength of the 
+vertical eddies cannot be predicted. Hori­
+zontal eddies have not been well docu­
+mented, and the timing, location and 
+intensity cannot be predicted. 
+3. The South has the longest coastline of any 
+fire-prone area in the country.  Thus it is 
+axiomatic that large areas of the South are 
+– 45 – 
+Chapter 3 – Smoke Impacts 
+2001 Smoke Management Guide 
+subject to wind shifts brought on by sea 
+breezes during the day and by land breezes 
+during the night. However, the onset, 
+duration, and intensity of these land/water-
+induced circulations are not consistent 
+from one day to the next. The region is 
+subject at different times to warm, humid 
+airmasses drawn northward from the Gulf 
+of Mexico, or cold, dry airmasses drawn 
+southward from Canada. Both systems 
+have an impact on land surface tempera­
+tures, which results in a significant effect 
+on the duration and extent of land and sea 
+breezes and whether they form at all. The 
+unpredictability of these wind systems adds 
+to the difficulties faced by Southern land 
+managers planning whether smoke from a 
+prescribed burn might impact downwind 
+sensitive targets. 
+4. The “flying wedge,” a wind system caused 
+by cold air channeled southwestward along 
+the eastern slopes of the Appalachian 
+Mountains, can cause sudden wind shifts 
+with large changes in wind direction and 
+lowering of mixing heights. Although 
+Virginia, the Carolinas and Georgia are 
+most frequently impacted, flying wedges 
+have been observed as far south as central 
+Florida and as far west as the Mississippi 
+River. “Flying wedges” occur throughout 
+the year but are most intense, and hence 
+bring with them strong shifting winds and 
+lowering of mixing heights, during winter 
+and early spring, the period of maximum 
+wildland burning in the South. 
+Smoke and Southern Highways 
+As previously noted, several million acres of 
+Southern wildlands are burned each year, the 
+vast majority without incident. However, smoke 
+and smoke-induced fog obstructions of visibility 
+on highways sometimes cause accidents with 
+loss of life and personal injuries. Several 
+attempts to compile records of smoke-impli-
+cated highway accidents have been made. For 
+the 10-year period from 1979-1988, Mobley 
+(1989) reported 28 fatalities, over 60 serious 
+injuries, numerous minor injuries and millions 
+of dollars in lawsuits. During 2000, smoke from 
+wildfires drifting across Interstate 10 caused at 
+least 10 fatalities, five in Florida and five in 
+Mississippi. In their study of the relationship 
+between fog and highway accidents in Florida, 
+Lavdas and Achtemeier (1995) compared three 
+years of accident reports that mentioned fog 
+with fog reports at nearby National Weather 
+Service stations. Highway accidents were more 
+likely to be associated with local ground radia­
+tion fogs than with widespread advection fogs. 
+Accidents tended to happen when fog created 
+conditions of sudden and unexpected changes in 
+visibility. 
+There are several reasons why smoke on the 
+highways is a serious problem in the South, 
+some of them interrelated. 
+Road density: The density of the road network 
+in the South is far greater than in other wildland 
+areas in the country where prescribed fire is in 
+widespread use. The difference in road density 
+between generally forested areas in the west and 
+in the south exists primarily because of land use 
+history.   While Western forested lands have 
+always been in forest, in the Southern area, 
+roads and communities remain essentially 
+unchanged from the old agricultural South. 
+Population in wildland areas: The population 
+dwelling near or within Southern wildlands is 
+greater than that in other areas of the country 
+where prescribed fire is in widespread use 
+(figure 3.3.3). Many people live in close prox­
+imity to Southern forests; many more live in 
+– 46 – 
+2001 Smoke Management Guide
+3.3 – Nuisance Smoke 
+areas interfacing fire-prone grasslands and 
+shrublands. Southern States are becoming more 
+urban, and the numbers of tourists driving to 
+resort areas along the Gulf coast, the Atlantic 
+coast, and the Florida peninsula are increasing. 
+Therefore, the number of accidents related to 
+smoke and fog can only be expected to increase. 
+Climate and meteorology:  Factors of Southern 
+climate and meteorology combine to produce 
+airmasses that entrap smoke close to the ground 
+at night. Smoke is most often trapped by either 
+a surface inversion or inversion aloft. This is a 
+condition in which temperature increases with 
+height through a layer of the atmosphere. Verti­
+cal motion is restricted in this very stable air 
+mass. Although most inversions dissipate with 
+daytime heating, inversions aloft caused by 
+large-scale subsidence may persist for several 
+days, resulting in a prolonged smoke manage­
+ment problem 
+Most smoke-related highway accidents occur 
+just before sunrise when temperatures are 
+coldest and smoke entrapment has maximized 
+under a surface-level inversion. The high sun 
+angle during the burn season contributes to 
+warm daytime temperatures. Near sunset, under 
+clear skies and near calm winds, temperatures in 
+shallow stream basins can drop up to 20 degrees 
+F. in one hour (Achtemeier 1993). Smoke from 
+smoldering heavy fuels can be entrapped near 
+the ground and carried by local drainage winds 
+into these shallow basins where temperatures 
+are colder and relative humidities are higher. 
+Hygroscopic particles within smoke can assist in 
+development of local dense fog. Weak drainage 
+winds of approximately 1 mile per hour (0.5 
+m/sec) can carry smoke over 10 miles during the 
+night—far enough in many areas to carry the 
+smoke or fog over a roadway. 
+Problem Smoke: What is being 
+done to Minimize the Problem 
+As population growth in the South continues, 
+there is an increasing likelihood that more 
+people will be adversely impacted by smoke. 
+Unless methods are found to mitigate the im­
+pacts of smoke, increasingly restrictive regula­
+tions may curtail the use of prescribed fire, or 
+fire as a management tool may be prohibited. 
+Several approaches are underway to reduce the 
+uncertainty in predicting smoke movement. 
+•	 Several states have devised smoke man­
+agement guidelines to regulate the amount 
+of smoke put into the atmosphere from 
+prescribed burning. The South Carolina 
+Forestry Commission (1998) has estab­
+lished guidelines to define smoke sensitive 
+areas, amounts of vegetative debris that 
+may be burned, and atmospheric condi­
+tions suitable for burning this debris. 
+• The Forestry Weather Interpretation 
+System (FWIS) was developed by the U.S. 
+Forest Service in the late 1970’s and early 
+1980’s in cooperation with the southern 
+forestry community (Paul 1981; Paul and 
+Clayton 1978). The system has been 
+enhanced and automated by the Georgia 
+Forestry Commission (Paul et al. 2000) to 
+serve forestry sources in Georgia and 
+clients in other southern states. The GFC 
+provides weather information and fore­
+casts specified for forest districts, and 
+indices used for interpretations for smoke 
+management, prescribed fire, fire danger, 
+and fire behavior.  Indices include the 
+Keetch-Byram Drought Index, National 
+Fire Danger Rating System, Ignition 
+component, Burning Index, and Manning 
+Class Day. 
+– 47 – 
+Chapter 3 – Smoke Impacts 
+2001 Smoke Management Guide 
+• High resolution weather prediction models 
+promise to provide increased accuracy in 
+predictions of wind speeds and directions 
+and mixing heights at time and spatial 
+scales useful for land managers. The 
+Florida Division of Forestry (FDOF) is a 
+leader in the use of high resolution model­
+ing for forestry applications in the South 
+(Brackett et al. 1997). Accurate predic­
+tions of sea/land breezes and associated 
+changes in temperature, wind direction, 
+atmospheric stability and mixing height 
+are critical to the success of the FDOF 
+system as much of Florida is located 
+within 20 miles of a coastline. High 
+resolution modeling consortia are also 
+being established by the U.S. Forest 
+Service to serve clients with interests as 
+diverse as fire weather, air quality, ocean­
+ography, ecology, and meteorology. 
+• Several smoke models are in operation or 
+are being developed to predict smoke 
+movement over Southern landscapes. 
+VSMOKE (Lavdas 1996), a Gaussian 
+plume model that assumes level terrain 
+and unchanging winds, predicts smoke 
+movement and concentration during the 
+day.  VSMOKE is now part of the FDOF 
+fire and smoke prediction system. It is a 
+screening model that aids land managers 
+in assessing where smoke might impact 
+sensitive targets as part of planning for 
+prescribed burns. PB-Piedmont 
+(Achtemeier 2001) is a wind and smoke 
+model designed to simulate smoke move­
+ment near the ground under entrapment 
+conditions at night. The smoke plume is 
+simulated as an ensemble of particles that 
+are transported by local winds over com­
+plex terrain characteristic of the shallow 
+(30-50 m) interlocking ridge/valley sys­
+tems typical of the Piedmont of the South. 
+PB-Piedmont does not predict smoke 
+concentrations as emissions from smolder­
+ing combustion are usually not known. 
+Two sister models are planned, one that 
+will simulate near ground smoke move­
+ment near coastal areas influenced by sea/ 
+land circulations and the other for the 
+Appalachian mountains. 
+In summary, the enormous wildland/urban 
+interface and dense road network located in a 
+region where up to six million acres of wild­
+lands per year are subject to prescribed fire 
+combine to make problem smoke the foremost 
+land management-related air quality problem in 
+the South. During the daytime, smoke becomes 
+a problem when it drifts into areas of human 
+habitation. At night, smoke can become en­
+trapped near the ground and, in combination 
+with fog, create visibility reductions that cause 
+roadway accidents. Public outcry regarding 
+problem smoke usually occurs before smoke 
+exposures increase to levels that violate air 
+quality standards. With careful planning and 
+knowledge of local conditions, the fire manager 
+can usually avoid problematic smoke intrusions 
+on the public. 
+Literature Citations 
+Achtemeier, G.L. 2001.  Simulating nocturnal smoke 
+movement. Fire Management Today, 61: 28-33 
+Achtemeier, G. L. 1993.  Measurements of drainage 
+winds along a small ridge. In: Proceedings of 
+the 86th Annual Meeting and Exhibition, Air & 
+Waste Management Association, 93-FA-155.06, 
+15 pp. 
+Brackett, D.P., L. G. Arvanitus, J. Brenner, and M. 
+Long, 1997. A high-tech approach to open-
+burning authorization and wildfire response. J. 
+Forestry, 95: 10-15. 
+– 48 – 
+2001 Smoke Management Guide 
+3.3 – Nuisance Smoke 
+Eshee, W.D. 1995.  Legal implications of using 
+prescribed fire. In: Proceedings: Environmental 
+regulation & prescribed fire conference. D.C. 
+Bryan, ed. Division of Forestry, Florida Depart­
+ment of Agriculture and Consumer Services, 
+Tallahassee, Florida. pp. 126-130. 
+Lavdas, L. G. 1996. Program VSMOKE–users 
+manual. USDA Forest Service General Techni­
+cal Report SRS-6. 147 pp. 
+Lavdas, L., and G. L. Achtemeier. 1995.  A fog and 
+smoke risk index for estimating roadway 
+visibility hazard. National Weather Digest, 20: 
+26-33. 
+Mobley, H. E. 1989.  Summary of smoke-related 
+accidents in the South from prescribed fire 
+(1979-1988). American Pulpwood Association 
+Technical Release 90-R-11. 
+New Mexico Environmental Improvement Board 
+Rules. 1995. Open Burning 20-NMAC2.60. 
+Santa Fe, New Mexico. 
+Paul, J. T., 1981: A real-time weather system for 
+forestry (FWIS). Bulletin of the American 
+Meteorological Society, 62: 1466-1472. 
+Paul, J. T., and J. Clayton, 1978.  User manual: 
+Forestry Weather Interpretation System 
+(FWIS). Asheville, NC: U.S. Department of 
+Agriculture, Forest Service, Southeastern 
+Forest Experiment Station and Atlanta, GA: 
+Southeastern Area State and Private Forestry, in 
+cooperation with the U.S. National Weather 
+Service, NOAA, Silver Spring, MD, 83pp. 
+Paul, J. T., D. Chan, and A. Dozier, 2000. Fire 
+Weather and Smoke Management System. 
+Georgia Forestry Commission, 74 pp. 
+Sandberg, D.V., and F. N. Dost. 1990.  Effects of 
+prescribed fire on air quality and human health. 
+In: Natural and Prescribed Fire in Pacific 
+Northwest Forests. J.D. Walstad; S.R. 
+Radosevich; D.V. Sandberg, eds. Oregon State 
+University Press, Corvallis, OR. pp. 91-298. 
+Shelby, B., and R. W. Speaker. 1990.  Public atti­
+tudes and perceptions about prescribed burning. 
+In: J.D. Walstad; S.R. Radosevich; D.V. 
+Sandberg, eds. Natural and Prescribed Fire in 
+Pacific Northwest Forests. Oregon State 
+University Press. Corvallis, OR. pp. 253-260. 
+South Carolina Forestry Commission, 1998. Smoke 
+Management Guidelines for Vegetative Debris 
+Burning Operations in the State of South 
+Carolina. SCFC 4th Printing, 21 p. 
+State of Oregon Department of Forestry. 1992. 
+Smoke Management Program Directives, 
+Appendix 2. Salem, Oregon. 
+State of Washington Department of Natural Re­
+sources. 1993. Smoke Management Program 
+Appendix 5. Olympia, Washington. 
+Supreme Court of Iowa, No. 192/96-2276. 
+Bormann, et al vs. Board of Supervisors in and 
+for Kossuth County Iowa. September 23, 1998. 
+{http://www.webcom.com/bi /iowa.htm} 
+US Environmental Protection Agency. 1990.  Air 
+Quality Criteria for Particulate Matter Volume 
+II of III. Office of Research and Development. 
+EPA/600/P-95/00ibF. pp. 8-82 – 8-89. 
+– 49 – 
+Chapter 3 – Smoke Impacts 
+2001 Smoke Management Guide 
+– 50 – 
+2001 Smoke Management Guide 
+3.4 – Smoke Exposure 
+Smoke Exposure Among 
+Fireline Personnel 
+Roger D. Ottmar 
+Timothy R. Reinhardt 
+Wildland firefighting presents many hazards to 
+fireline workers, including inhalation exposure 
+to smoke (Sharkey 1998; Reinhardt and Ottmar 
+1997; Sharkey 1997). Many experienced 
+fireline personnel consider this to be only an 
+inconvenience, occasionally causing acute cases 
+of eye and respiratory irritation, nausea and 
+headache. Others express concern about long-
+term health impacts, especially when large-
+scale fires occur in terrain and atmospheric 
+conditions that force fireline workers to work 
+for many days in smoky conditions. At the 
+present time, no one can say whether there are 
+long-term adverse health effects from occupa­
+tional smoke exposure. This is because there 
+have been no epidemiological studies to track 
+the health of fireline personnel and compare it 
+with other workers to see if fireline personnel 
+have more or fewer health problems during and 
+after their careers. Until such long-term data 
+are examined to tell us if a problem exists, we 
+can only assess the occurrence of relatively 
+short-term adverse health effects.  We can 
+measure fireline worker’s exposure to particles 
+and individual chemicals found in smoke and 
+compare these exposures to standards estab­
+lished to protect worker health (Reinhardt and 
+Ottmar 2000; Reinhardt and others 2000; 
+Reinhardt and others 1999). We can evaluate 
+the relative risk of disease among fireline 
+workers based on the exposure data and the 
+potency of the health hazards (Booze and 
+Reinhardt 1996). 
+Health Hazards in Smoke 
+Smoke from wildland fires is composed of 
+hundreds of chemicals in gaseous, liquid, and 
+solid forms (Sandberg and Dost 1990; Reinhardt 
+and Ottmar 2000; Reinhardt and others 2000; 
+Sharkey 1998; Sharkey 1997). The chief inhala­
+tion hazards for fireline personnel and to the 
+general public when they are exposed to smoke 
+appear to be carbon monoxide and respirable 
+irritants which include particulate matter, ac­
+rolein, and formaldehyde. 
+Carbon Monoxide — Carbon monoxide (CO) 
+has long been known to interfere with the body’s 
+ability to transport oxygen. It does this by 
+bonding with hemoglobin, the molecule in the 
+bloodstream which shuttles oxygen from the 
+lungs throughout the body, to form carboxyhe­
+moglobin (COHb). When people are exposed to 
+CO, the time until a toxic level of COHb results 
+can be predicted as a function of CO concentra­
+tion, breathing rate, altitude, and other factors 
+(Coburn, Forster and Kane 1965). The harder 
+the work and the higher the altitude, the more 
+– 51 – 
+Chapter 3 – Smoke Impacts 
+2001 Smoke Management Guide 
+rapidly COHb forms at a given level of atmo­
+spheric CO. At the highest CO levels found in 
+heavy smoke, symptoms of excessive COHb can 
+result in 15 minutes during hard physical labor. 
+Carbon monoxide causes acute effects ranging 
+from diminished work capacity to nausea, 
+headache, and loss of mental acuity.  It has a 
+well-established mechanism of action, causing 
+displacement of oxygen from hemoglobin in the 
+blood and affecting tissues that do not stand the 
+loss of oxygen very well, such as the brain, 
+heart, and unborn children. Fortunately, most of 
+these effects are reversible and CO is rapidly 
+removed from the body, with a half-life on the 
+order of 4 hours. Some studies have linked CO 
+exposure to longer-term heart disease, but the 
+evidence is not clearcut. 
+Respirable Irritants — Experienced fireline 
+workers can attest to eye, nose and throat irrita­
+tion at both wildfires and prescribed burns. 
+Burning eyes, runny nose, and scratchy throat 
+are common symptoms in smoky areas at 
+wildland fires, caused by the irritation of mu­
+cous membranes. These adverse health effects 
+are symptoms of exposure to aldehydes, includ­
+ing formaldehyde, acrolein, as well as respirable 
+particulate matter (PM2.5)—very fine particles 
+less than a few micrometers (µm) in diameter— 
+composed mostly of condensed organic and 
+inorganic carbon (Dost 1991).  Other rapid 
+adverse health effects of aldehydes include 
+temporary paralysis of the respiratory tract cilia 
+(microscopic hairs which help to remove dust 
+and bacteria from the respiratory tract) and 
+depression of breathing rates (Kane and Alarie 
+1977), while over the long term, formaldehyde 
+is considered a potential cause of nasal cancer 
+(U.S. Department of Labor, Occupational Safety 
+and Health Administration 1987). 
+Adverse health effects of smoke exposure begin 
+with acute, instantaneous eye and respiratory 
+irritation and shortness of breath but can de­
+velop into headaches, dizziness and nausea 
+lasting up to several hours. The aldehydes, such 
+as acrolein and formaldehyde, and PM2.5 cause 
+rapid minor to severe eye and upper respiratory 
+tract irritation. Total supsended particulate 
+(TSP) also irritates the eyes, upper respiratory 
+tract and mucous membranes, but the larger 
+particulates in TSP do not penetrate as deeply 
+into the lungs as the finer PM2.5 particles. 
+Longer-term health effects lasting days to 
+perhaps months have recently been identified 
+among fireline workers, including modest losses 
+of pulmonary function. These include a slightly 
+diminished capacity to breathe, constriction of 
+the repsiratory tract, and hypersensitivity of the 
+small airways (Letts and others 1991; Reh and 
+others 1994). 
+A discussion of particulate inhalation hazards 
+faced by fireline personnel is incomplete with­
+out mentioning crystalline silica, which can be 
+an additional hazard in the presence of smoke. 
+If crystalline silica is a component of the soil at 
+a site, dust stirred up by walking, digging, mop-
+up, or vehicles may be a significant irritation 
+hazard, and the threat of silicosis (fibrous 
+scarring of the lungs decreasing oxygenation 
+capability) is a possibility. 
+Evaluation Criteria 
+On what basis do we decide whether smoke 
+exposure is safe or unsafe? Workplace expo­
+sures to health hazards must be evaluated with 
+care for several reasons. First, people vary in 
+their sensitivity to pollutants. Second, personal 
+habits and physical condition are important 
+factors. For example, smokers already com­
+monly experience 5% COHb because of the CO 
+– 52 – 
+2001 Smoke Management Guide 
+3.4 – Smoke Exposure 
+from their cigarettes, thus they may be at greater 
+risk of adverse health effects from additional 
+CO exposure at fires. Assumptions are made by 
+regulatory agencies when establishing exposure 
+limits. These assumptions may not be valid for 
+the wildland fire workplace. For example, the 
+current CO standard was set to protect a seden­
+tary worker in an 8-hour per day job over a 
+working lifetime, not a hard-working fireline 
+worker on a 12-hour/day job for a few summers. 
+Given these issues, how should we judge the 
+safety of smoke exposure? At a minimum, a 
+fireline worker’s inhalation exposures must 
+comply with the occupational exposure limits, 
+called “Permissible Exposure Limits” (PEL’s), 
+by the Occupational Safety and Health Adminis­
+tration (OSHA) (U.S. Department of Labor, 
+Occupational Safety and Health Administration 
+1994). These limits are set at levels considered 
+feasible to attain, and necessary to protect most 
+workers from adverse health effects over their 
+working lifetime. The more stringent expo­
+sure limits recommended by the American 
+Conference of Governmental Industrial Hygien­
+ists (ACGIH) are the “Threshold Limit Values” 
+(TLVs) (American Conference of Governmental 
+Ta b le 3.4.1. Occupational e xposure limitsa 
+Industrial Hygienists 2000). These are also 
+established to prevent adverse health effects in 
+most workers, but without adjustment for 
+economic feasibility.  The ACGIH limits are 
+periodically updated to incorporate the latest 
+scientific knowledge where as many of the 
+PEL’s have not been revised since the 1960’s. 
+All exposure limits are expressed in terms of a 
+time-weighted average (TWA) exposure, which 
+is an average exposure over the workshift. For 
+health hazards which quickly cause adverse 
+effects from acute exposures, the limits are 
+supplemented by short-term exposure limits 
+(STELs) for 15-minute periods in a workshift 
+and ceiling exposure limits (C), which are not to 
+be exceeded at any time. These various expo­
+sure limits are listed in table 3.4.1, along with a 
+third set of “Recommended Exposure Limits” 
+established by the National Institute for Occupa­
+tional Safety and Health; these also incorporate 
+recent scientific evidence. Depending on the 
+pollutant, the units of measure are either milli­
+grams per cubic meter of air (mg/m3) or parts 
+per million by volume (ppm). Without a more 
+detailed analysis of a given work/rest regime, 
+adhering to the ACGIH TLV limits should 
+provide reasonable protection for workers. 
+– 53 – 
+Chapter 3 – Smoke Impacts 
+2001 Smoke Management Guide 
+Smoke Exposure at Prescribed 
+Burns and Wildfires 
+Several studies (Reinhardt and Ottmar 1997) 
+have evaluated smoke exposure during pre­
+scribed burns by obtaining personal exposure 
+samples, which are collected within a foot of a 
+worker’s face (the breathing zone) while they 
+are on the job (figure 3.4.1). One study in 
+particular measured smoke exposure among 
+fireline workers at 39 prescribed burns in the 
+Pacific Northwest. The study found that about 
+10% of firefighter exposures to respiratory 
+irritants and CO exceeded recommended occu­
+pational exposure limits (Reinhardt and others 
+2000) and could pose a hazard. The actual 
+incidence of illness and mortality among wild­
+land fireline workers has not been systemati­
+cally studied, but short-term adverse health 
+impacts have been observed among fireline 
+personnel at prescribed fires. A study in 1992­
+93 found small losses in lung function among 76 
+fireline personnel working at prescribed burns 
+(Betchley and others 1995). 
+Between 1992 and 1995 a study of smoke 
+exposure and health effects at wildfires in the 
+western United States found results similar to 
+those at prescribed fires. Exposure to carbon 
+monoxide and respiratory irritants exceeded 
+recommended occupational exposure limits for 
+5 percent of workers (Reinhardt and Ottmar 
+2000). 
+At wildfires where fireline workers encounter 
+concentrated smoke, or moderate smoke over 
+longer times, there is a likelihood that many will 
+develop symptoms similar to those seen at 
+prescribed fires. In 1988, engine-based 
+firefighters of the California Department of 
+Forestry and Fire Protection underwent lung 
+function testing before and after the fire season. 
+Small (0.3 to 2%) losses in lung function were 
+observed among the firefighters. These losses 
+Figure 3.4.1. Bitterroot Hotshot crew member wearing backpack that obtains smoke 
+exposure samples collected within several inches of a worker’s face. 
+– 54 – 
+2001 Smoke Management Guide 
+3.4 – Smoke Exposure 
+were associated with the amount of recent 
+firefighting activity in the study period. The 
+firefighters also reported increased eye and nose 
+irritation and wheezing during the fire season. 
+Monitoring Smoke Exposure of 
+Fireline workers 
+During prescribed fire and wildfire exposure 
+studies, it was found that exposure to respiratory 
+irritants could be predicted from measurements 
+of carbon monoxide (Reinhardt and Ottmar 
+2000). Fire managers and safety officers con­
+cerned with smoke exposure among fire crews 
+can use electronic carbon monoxide (CO) 
+monitors to track and prevent overexposure to 
+smoke (figure 3.4.2). Commonly referred to as 
+dosimeters, these lightweight instruments 
+measure the concentration of CO in the air 
+thatfireline personnel breath. Protocols have 
+been developed for sampling smoke exposure 
+among fireline workers with CO dosimeters. 
+These protocols and a basic template have been 
+outlined by Reinhardt and others (1999) for 
+managers and safety officers interested in 
+establishing their own smoke-exposure monitor­
+ing program. 
+Respirator Protection 
+The Missoula Technology and Development 
+Center (MTDC) has the lead role in studying 
+respiratory protection for fireline workers 
+(Thompson and Sharkey 1966, Sharkey 1997). 
+Figure 3.4.2. Carbon monoxide exposure data from a electronic CO data recorder for a fireline worker 
+during a work-shift on a prescribed fire (Reinhardt and others 2000) 
+– 55 – 
+Chapter 3 – Smoke Impacts 
+2001 Smoke Management Guide 
+Although respirators reduce work capacity, they 
+may have merit under certain circumstances to 
+minimize hazardous exposures. Field evalua­
+tions by MTDC found that disposable respira­
+tors were acceptable for short-term use but they 
+deteriorated in the heat during several hours of 
+use (Sharkey 1997). Maintenance free half-
+mask devices were satisfactory, except for the 
+heat stress found with all facemasks. Full-face 
+masks were preferred for the long-term use on 
+prescribed fires because of the eye protection 
+they provided, but workers often complained of 
+headaches, a sign of excess CO exposure since 
+respirators do not eliminate the intake of CO 
+(Sharkey 1997). Full-face respirators protect the 
+eyes, removing eye irritation as an important 
+early warning of exposure to smoke. Any respi­
+ratory protection program for fireline workers 
+would require employees to be instructed and 
+trained in the proper use and limitations of the 
+respirators issued to them. 
+Management Implications 
+Evidence to date suggests that fireline workers 
+exceed recommended exposure limits during 
+prescribed burns and wildfires less than 10 
+percent of the time (Reinhardt and others 2000; 
+Reinhardt and Ottmar 2000). The concept that 
+few fireline personnel spend a working lifetime 
+in the fire profession and should be exempt from 
+occupational exposure standards which are set 
+to protect workers over their careers is little 
+comfort to those who do, and irrelevant for 
+irritants and fast-acting hazards such as CO. 
+Most of the exposure limits that are exceeded 
+are established to prevent acute health effects, 
+such as eye and respiratory irritation, headache, 
+nausea and angina. An exposure standard 
+specifically for fireline workers, and appropriate 
+respiratory protection, needs to be developed. 
+In addition, a long-term program to manage 
+smoke exposure at wildland fires is needed 
+(Sharkey 1997). The program could include: 
+1) hazard awareness training; 2) implementation 
+of practices to reduce smoke exposure; 3) 
+routine CO monitoring with electronic dosim­
+eters (Reinhardt and others 1999); 4) improved 
+record keeping on accident reports to include 
+separation of smoke related illness among 
+fireline workers and fire camp personnel; and 4) 
+implementing and training for an OSHA-
+compliant respirator program to protect fireline 
+personnel from respiratory irritants and CO 
+when they must work in smoky conditions. 
+Literature Citations 
+American Conference of Governmental Industrial 
+Hygienists. 2000. 2000 TLVs® and BEIs®: 
+Threshold Limit Values for chemical substances 
+and physical agents and biological exposure 
+indices. Cincinnati, OH 192 p. 
+Betchley, C.; Koenig, J.Q.; van Belle G.; 
+Checkoway, H. and Reinhardt, T. 1995. Pulmo­
+nary function and respiratory symptoms in 
+forest firefighters, Unpublished report, Univer­
+sity of Washington, Departments of Environ­
+mental Health and Epidemiology, Seattle, WA 
+Booze, Tom F.; Reinhardt, Timothy E.  1996. 
+Assessment of the health risks of chronic smoke 
+exposure for wildland firefighters. Unpublished 
+report, Pacific Northwest Research Station, 
+Seattle forestry Science Laboratory, 4043 
+Roosevelt Way N.E., Seattle, WA. 29 p. 
+Coburn, R.F.; Forster, R.E.; Kane, P.B. 1965. Con­
+siderations of the physiological variables that 
+determine the blood carboxyhemoglobin 
+concentration in man. Journal of Clinical 
+Investigation 44: 1899-1910. 
+– 56 – 
+2001 Smoke Management Guide 
+3.4 – Smoke Exposure 
+Dost, F.N. 1991. Acute toxicology of components of 
+vegetation smoke. In: Reviews of Environmen­
+tal Contamination and Toxicology, Vol 119, 
+Springer-Verlag New York, Inc., New York, NY, 
+1991 pp 2-46. 
+Kane, L.E.; Alarie, Y. 1977. Sensory irritation to 
+formaldehyde and acrolein during single and 
+repeated exposures in mice. American Industrial 
+Hygiene Association Journal 38(10): 509-522. 
+Letts, D.; Fidler, A.T.; Deitchman, S.; Reh, C.M. 
+1991. Health hazard evaluation report 91-152-
+2140. U.S. Department of the Interior, National 
+Park Service, Southern California, U.S. Depart­
+ment of Health and Human Services, Public 
+Health Service, Centers for Disease Control, 
+National Institute for Occupational Safety and 
+Health, Cincinnati, OH. 
+Reh, C.M.; Letts, D.; Deitchman, S.D. 1994. Health 
+hazard evaluation report 90-0365-2415. U.S. 
+Department of the Interior, National Park 
+Service, Yosemite National Park, California, 
+U.S. Department of Health and Human Ser­
+vices, Public Health Service, Centers for 
+Disease Control, National Institute for Occupa­
+tional Safety and Health, Cincinnati, OH. 
+Reinhardt, Timothy E.; Ottmar, Roger D. 1997. 
+Smoke exposure among wildland firefighters: a 
+review and discussion of current literature. Gen. 
+Tech. Rep. GTR-373. Portland, OR: U.S. 
+Department of Agriculture, Forest service, 
+Pacific Northwest research Station. 61 p. 
+Reinhardt, Timothy E.; Ottmar, Roger D. 2000. 
+Smoke exposure at western wildfires. Res. Pap. 
+PNW-RP-525. Portland, OR: U.S. Department 
+of Agriculture, Forest Service, Pacific North­
+west Research Station. 72 p. 
+Reinhardt, Timothy E.; Ottmar, Roger D.; 
+Hanneman, Andrew J.S. 2000. Smoke exposure 
+among firefighters at prescribed burns in the 
+Pacific Northwest. Res. Pap. PNW-RP-526. 
+Portland, OR: U.S. Department of Agriculture, 
+Forest Service, Pacific Northwest Research 
+Station. 45 p. 
+Reinhardt, Tim E.; Ottmar, Roger D.; Hallett, 
+Michael R. 1999. Guide to monitoring smoke 
+exposure of wildland firefighters. Gen. Tech. 
+Rep. PNW-GTR-448. Portland, OR: U.S. 
+Department of Agriculture, Forest service, 
+Pacific Northwest Research Station. 17 p. 
+Sandberg, David V.; Dost, Frank N. 1990. Effects of 
+prescribed fire on air quality and human health. 
+In: Walstad, John D.; Radosevich, Steven R.; 
+Sandberg, David V., eds. Natural and prescribed 
+fire in the Pacific Northwest forests. Corvallis, 
+OR: Oregon State University Press: 191-298. 
+Sharkey, Brian, ed. 1997. Health hazards of smoke: 
+recommendations of the April 1997 Consensus 
+Conference. Tech. Rep. 9751-2836-MTDC. 
+Missoula, MT: U.S. Department of Agriculture, 
+Forest Service, Missoula Technology and 
+Development Center. 84 p. 
+Sharkey, Brian, ed. 1998. Health hazards of smoke. 
+Closed caption video. Missoula, MT: U.S. 
+Department of Agriculture, Forest Service, 
+Missoula Technology and Development Center. 
+19 minutes. 
+Thompson, S.; Sharkey, B. 1966. Physiological cost 
+and air flow resistance of respiratory protective 
+devices. Ergonomics 9:495. 
+U.S. Department of Labor, Occupational Safety and 
+Health Admnistration. 1987. Occupational 
+exposure to formaldehyde, final rule. Federal 
+Register 52(233): 46312, Washington D.C. 
+1987. 
+U.S. Department of Labor, Occupational Safety and 
+Health Administration. 1994. Code of Federal 
+Regulations, Title 29, Part 1910.1048(d)(2)(i), 
+Washington, DC, 1994. 
+– 57 – 
+Chapter 3 – Smoke Impacts 
+2001 Smoke Management Guide 
+– 58 – 

@@ -1,0 +1,808 @@
+Photosynthesis Research 68: 237–245, 2001.
+© 2001 Kluwer Academic Publishers. Printed in the Netherlands.
+237
+Regular paper
+Seasonal patterns of photosynthetic response and acclimation to elevated
+carbon dioxide in ﬁeld-grown strawberry
+James A. Bunce
+Climate Stress Laboratory, USDA-ARS, Beltsville Agricultural Research Center, Beltsville, Maryland, USA;
+Current address: Plant Science Institute, ACSL, USDA-ARS, Beltsville Agricultural Research Center, 10300
+Baltimore Ave., Beltsville, MD 20705-2350, USA (e-mail: buncej@ba.ars.usda.gov; fax: +1-301-504-5823)
+Received 13 March 2001; accepted 16 May 2001
+Key words: acclimation, elevated carbon dioxide, feed-back inhibition, photosynthesis, stomatal conductance,
+strawberry, temperature, water stress
+Abstract
+Strawberry (Fragaria × ananassa) plants were grown in ﬁeld plots at the current ambient [CO2], and at ambient
++ 300 and ambient + 600 µmol mol−1 [CO2]. Approximately weekly measurements were made of single leaf gas
+exchange of upper canopy leaves from early spring through fall of two years, in order to determine the temperature
+dependence of the stimulation of photosynthesis by elevated [CO2], whether growth at elevated [CO2] resulted
+in acclimation of photosynthesis, and whether any photosynthetic acclimation was reduced when fruiting created
+additional demand for the products of photosynthesis. Stimulation of photosynthetic CO2 assimilation by short-
+term increases in [CO2] increased strongly with measurement temperature. The stimulation exceeded that predicted
+from the kinetic characteristics of ribulose-1,5-bisphosphatecarboxylase at all temperatures. Acclimation of photo-
+synthesis to growth at elevated [CO2] was evident from early spring through summer, including the fruiting period
+in early summer, with lower rates under standard measurement conditions in plants grown at elevated [CO2]. The
+degree of acclimation increased with growth [CO2]. However, there were no signiﬁcant differences between [CO2]
+treatments in total nitrogen per leaf area, and photosynthetic acclimation was reversed one day after switching
+the [CO2] treatments. Tests showed that acclimation did not result from a limitation of photosynthesis by triose
+phosphate utilization rate at elevated [CO2]. Photosynthetic acclimation was not evident during dry periods in
+midsummer, when the elevated [CO2] treatments conserved soil water and photosynthesis declined more at ambient
+than at elevated [CO2]. Acclimation was also not evident during the fall, when plants were vegetative, despite
+wet conditions and continued higher leaf starch content at elevated [CO2]. Stomatal conductance responded little
+to short-term changes in [CO2] except during drought, and changed in parallel with photosynthetic acclimation
+through the seasons in response to the long-term [CO2] treatments. The data do not support the hypothesis that
+source-sink balance controls the seasonal occurrence of photosynthetic acclimation to elevated [CO2] in this
+species.
+Introduction
+Rising atmospheric [CO2] is anticipated to stimu-
+late photosynthesis of C3 plants, possibly increasing
+growth and yield. However, quantitative predictions
+of effects of elevated [CO2] on photosynthesis remain
+uncertain for at least two reasons: variation in the
+temperature dependence of the short-term response
+of photosynthesis to elevated [CO2], and our cur-
+rent inability to predict either the occurrence or the
+magnitude of photosynthetic acclimation to elevated
+[CO2].
+Elevated [CO2] is expected to stimulate photosyn-
+thesis more at high than at low temperatures, based on
+the kinetic characteristics of ribulose-1,5-bisphosphate
+carboxylase (Long 1991; Kirschbaum 1994). While
+238
+this has been conﬁrmed in many cases (e.g. Sage et
+al. 1995; Hikosaka et al. 1999), it has been found that
+the stimulation of photosynthesis by elevated [CO2]
+at cool temperatures may substantially exceed that
+predicted by Rubisco kinetics in some species which
+retain photosynthetically active leaves at cold times of
+year, e.g. winter wheat and barley (Bunce 1998a), dan-
+delion (Bunce 2000), loblolly pine (Teskey 1997), and
+several cool-season pasture species (Greer et al. 1995).
+We hypothesized that strawberry, which also has green
+leaves at cold times of the year, would also have
+greater than expected stimulation of photosynthesis by
+elevated [CO2] at cool temperatures.
+Acclimation of photosynthesis to elevated [CO2],
+such that rates of photosynthesis are lower for plants
+grown at elevated [CO2] than at lower [CO2], when all
+plants are compared under the same measurement con-
+ditions, is a common but not universal result. Neither
+the occurrence nor the magnitude of acclimation seem
+to be predictable as yet. While photosynthetic accli-
+mation to elevated [CO2] sometimes occurs in crops
+in fertile soil (e.g. Nie et al. 1995; Sicher and Bunce
+1997, 1998), it is more common at low fertility (e.g.
+Ziska et al. 1996; Isopp et al. 2000). Strawberry
+is a crop commonly grown with little or no applied
+fertilizer, and glasshouse experiments at low fertility
+indicated such severe photosynthetic acclimation to
+elevated [CO2] that photosynthesis under the growth
+[CO2] measurement conditions decreased at [CO2]s
+above 600 µmol mol−1 (Keutgen et al. 1997).
+The fundamental cause of acclimation of photo-
+synthesis to elevated [CO2] is thought to be inability
+of plants to fully utilize the extra photosynthate pro-
+duced (cf. Stitt and Krapp 1999). Lack of sink capacity
+may result from nutrient deﬁciency, low temperature,
+restricted rooting volume, or lack of a reproductive
+sink. In wheat, for example, acclimation of photosyn-
+thesis was more severe near the end of the season,
+when seed ﬁlling was complete (Sicher and Bunce
+1997; Garcia et al. 1998), and in sugar beet initial
+photosynthetic acclimation disappeared when taproot
+expansion provided a larger sink (Ziska et al. 1995).
+One form of feedback inhibition of photosynthesis res-
+ults from slow triose phosphate utilization (Sharkey
+1985), and has been found to cause photosynthetic
+acclimation to elevated [CO2] in beans (Socias et al.
+1993) and wheat (McKee and Woodward 1994). We
+hypothesized that in strawberry, photosynthetic accli-
+mation to elevated [CO2] would be less during fruiting
+than at other times of the year, and tested for the oc-
+currence of triose phosphate utilization limitation of
+photosynthesis in plants grown at elevated [CO2].
+Materials and methods
+Fragaria × ananassa Duchesne cv. Honeoye obtained
+as rooted runners from Miller Nurseries, Canandaigua,
+New York, were planted into ﬁeld plots in March 1998.
+Sixteen plants were transplanted into each of six open-
+topped clear acrylic chambers each of which covered
+1.1 m2 of ground. Chambers were 1.8 m in height. A
+blower pulled air out of each chamber at the base at
+a rate of 6 m3 min−1. Carbon dioxide was introduced
+into four of the chambers at the inlets of mixing fans
+positioned above the canopies. Flow rates of CO2 were
+such that two chambers had a [CO2] of 300 ± 50 µmol
+mol−1 above that of outside air, and two chambers had
+a [CO2] of 600 ± 50 µmol mol−1 above that of out-
+side air, while two chambers received no supplemental
+CO2. Samples of air from each [CO2] treatment were
+pumped sequentially through an absolute infrared ana-
+lyzer in an adjacent air-conditioned shelter, and [CO2],
+air temperatures, and PPFD were logged every 5 min.
+The chambers transmitted 90% of the PPFD, and had
+air temperatures which averaged 1 ◦C above those of
+outside air. The mean daytime [CO2] of ambient air
+was 353 µmol mol−1, with concentrations at night of
+400 – 600 µmol mol−1.
+The soil in the plots had received no lime or fertil-
+izer for four years prior to the start of the experiment,
+and was not fertilized during the 28-month duration
+of the experiment. This was a deliberate attempt to
+have nutrients limiting to plant growth. To establish
+the fact that nutrients were limiting to plant growth,
+extra plants were transplanted into pots ﬁlled with soil
+from the ﬁeld plot, and watered either with a com-
+plete Hoagland’s solution or with water. Plants were
+grown outdoors at ambient [CO2] for two months,
+and the ﬁnal dry mass of the fertilized plants was 1.5
+times that of the unfertilized plants. During the 28
+month course of the ﬁeld experiment, the soil pH de-
+creased from 5.5 to 4.9. Flower buds were removed
+the ﬁrst spring after planting, but plants were allowed
+to ﬂower and fruit normally the next two springs, and
+fruits were picked by hand when ripe. Vegetative re-
+production was allowed to proceed unimpeded, and
+occurred primarily during the few weeks immediately
+after fruiting, which ended in early June.
+Rates of photosynthetic CO2 assimilation and sto-
+matal conductances of single leaves were measured
+239
+about weekly from early spring through late fall in
+1998 and 1999, continuing through the end of fruit-
+ing in June, 2000. On each measurement date, several
+leaves on the same plants were measured to determine
+the position of the leaf with the highest rates of gas
+exchange, and leaves at similar positions were used
+for all plants measured on that date. Gas exchange
+measurements were made near midday on clear days,
+with a photon ﬂux density of photosynthetically active
+radiation of at least 1200 µmol m−2 s−1. A CIRAS-1
+portable photosynthesis system (PP Systems, Haver-
+hill, Massachusetts) was utilized, and incorporated
+automatic [CO2] control, and a broad leaf cuvette
+which kept leaf temperature within 3 ◦C of outside
+air temperature even in full sunlight. For plants grown
+at elevated [CO2], leaf gas exchange rates were de-
+termined at the daytime growth [CO2]s of 650 or 950
+µmol mol−1. Leaves of plants grown without supple-
+mental CO2were measured at [CO2]s of 350, 650 and
+950 µmol mol−1. Real-time display of gas exchange
+data was utilized to insure that steady-state rates of
+gas exchange were achieved at each measurement con-
+dition. On each measurement date, three leaves were
+measured from each chamber. Leaf discs were collec-
+ted for determination of leaf water potential from one
+leaf per chamber immediately after gas exchange was
+measured. Water potentials were measured using insu-
+lated C-52 samples chambers and an HR-33 dew point
+meter (Wescor, Inc., Logan, Utah) which were kept
+in an air conditioned shelter adjacent to the site. Soil
+water potential was measured at depth of 25 cm, using
+Decagon matric potential sensors and readout system
+(Decagon Devices, Pulman, Washington).
+On some of the dates when leaf gas exchange
+measurements indicated the existence of photosyn-
+thetic acclimation to elevated [CO2], photosynthetic
+CO2 assimilation rates of plants grown at the highest
+[CO2] were also measured at a [CO2] of 1200 µmol
+mol−1 to determine if photosynthetic rates were sat-
+urated for CO2 under the growth [CO2] of 950 µmol
+mol−1. An increase in rate at the highest [CO2] was
+taken as evidence that the rate at the growth [CO2] was
+not limited by triose phosphate utilization rate.
+Starch and total nitrogen per unit of leaf area were
+determined on leaf samples on several of the dates
+when leaf gas exchange rates were determined. For
+starch analysis, leaf punches of known area were
+frozen in liquid N2 and stored at −80 ◦C until analyzed
+by the methods described in Sicher and Bunce (1999).
+For N analysis, whole leaﬂets were removed and their
+area determined with a portable photoelectric leaf area
+meter. Leaﬂets were then frozen in liquid N2, freeze-
+dried, and% N was determined by CHN analysis at
+the State of Maryland Soil Testing Laboratory. Spe-
+ciﬁc leaf area for each leaﬂet was used with% N to
+determine the mass of nitrogen per unit of leaf area.
+At the end of the experiment, the [CO2] treat-
+ments were switched between one ambient and one +
+600 µmol mol−1 chamber, and midday photosynthetic
+CO2 assimilation rates were determined 0, 1 and 3
+days after switching the treatments and compared with
+rates in chambers which had not been switched. Three
+leaves were measured per chamber, both at an external
+[CO2] (Ca) of 350 and 950 µmol mol−1.
+The short-term response of photosynthetic CO2 as-
+similation rate to substomatal [CO2] (Ci) of the plants
+grown without supplemental CO2 was summarized as
+the relative increase in photosynthesis from a Ci = 225
+µmol mol−1 to Ci = 450 µmol mol−1. These values
+were chosen based on the fact that leaves measured at
+the current ambient [CO2] had Ci values of 225 ± 15
+µmol mol−1, and these leaves had Ci values of 450 ±
+30 lmol mol−1 when measured at 650 µmol mol−1.
+Photosynthesis rates at precisely Ci = 225 and 450
+µmol mol−1 were estimated from a cubic spline curve
+ﬁt. The observed relative increase in photosynthesis
+on a given measurement date was compared with the
+relative increase predicted from the kinetic character-
+istics of Rubisco and the measurement temperature
+(Bunce 2000), using a Farquhar-type C3 photosyn-
+thesis model (Long 1991). The maximum carboxyla-
+tion rate in the model was set at a value consistent
+with assimilation rates measured at Ci = 225 µmol
+mol−1, and the maximum rate of electron transport
+was set large enough to not be limiting. The model
+was also run using internal diffusive resistances to
+carbon dioxide of 4 – 8 m2 s mol−1 (varying with max-
+imum carboxylation rate) such that the [CO2] in the
+chloroplast (Cc) was 0.7∗Ci at Ci = 225 µmol mol−1.
+In testing for photosynthetic acclimation to elev-
+ated [CO2], average photosynthetic CO2 assimilation
+rates on each measurement date were calculated for
+each chamber, and [CO2] treatments were compared
+using analysis of variance, with two chambers per
+treatment. Rates for plants grown and measured at +
+300 µmol mol−1 were compared with rates of plants
+grown at ambient [CO2] but measured at + 300, and
+rates for plants grown and measured at + 600 µmol
+mol−1 were compared with rates of plants grown at
+ambient [CO2] but measured at + 600 µmol mol−1
+240
+Figure 1. The temperature dependence of the short-term stimulation
+of photosynthesis by increasing the measurement Ci from 225 to
+450 µmol mol−1 for strawberry leaves grown at the current ambient
+[CO2], and the temperature dependencies predicted from Rubisco
+kinetics assuming Cc = Ci, and Cc = 0.7∗Ci (A), and the CO2 assim-
+ilation rate at Ci = 225 (B). Each data point represents a mean ratio
+for a total of six leaves measured on a given date. Measurements
+were made at midday in the ﬁeld at the ambient air temperature and
+in full sunlight.
+Results
+The relative stimulation of photosynthetic CO2 as-
+similation rate from Ci = 225 to Ci = 450 µmol
+mol−1 increased with measurement temperature, and
+at all temperatures exceeded that predicted from Ru-
+bisco kinetics (Figure 1A). When internal diffusive
+resistance was added to the model, a closer ﬁt with
+experimental data occurred at the higher temperatures,
+but most of the experimental data still exceeded the re-
+lative stimulation predicted by the model at the lower
+temperatures (Figure 1A). For plants grown and meas-
+ured at the current ambient [CO2], assimilation rates
+decreased at temperatures above about 25 ◦C (Figure
+1B). In this data, the leaf to air water vapor pressure
+difference increased exponentially with temperature
+Figure 2. The seasonal pattern for 1998 of midday photosynthetic
+CO2 assimilation rate of plants grown and measured at the current
+ambient [CO2] of 350 µmol mol−1 (A), and the ratio of assimilation
+rates of plants grown and measured at ambient + 600 µmol mol−1
+to those of plants grown at ambient [CO2] but measured at + 600
+µmol mol−1 [CO2] (B). Each point represents a mean based on
+measurements on three leaves for each of two replicate chambers per
+[CO2] treatment. Bars represent SE for n = 2 chambers. ∗indicates
+days with precipitation.
+from about 0.8 kPa at 18 ◦C to about 4.0 kPa at 38
+◦C. It was noticed that assimilation rates were lower
+at a given temperature for leaves measured after day
+280 (Figure 1B), when photosynthetic acclimation to
+growth at elevated [CO2] was not evident (see later).
+When comparing the photosynthetic CO2 assim-
+ilation rates of plants grown at elevated [CO2] with
+those of plants grown without supplemental [CO2] but
+measured at elevated [CO2], analysis of variance in-
+dicated that signiﬁcant (P < 0.001) effects of growth
+[CO2], measurement date, and a signiﬁcant interaction
+between growth [CO2] and measurement date. This
+interaction is illustrated for the 1998 data in Figure
+2, for the plants grown at + 600 µmol mol−1. Evid-
+ence of acclimation (i.e. an assimilation ratio less than
+1 in Figure 2) was not related to the temperature or
+the assimilation rate of the plants grown at the current
+241
+Table 1. Midday CO2 assimilation rates (A) of leaves of straw-
+berry plants grown at the current ambient [CO2], and ambient +
+300 and ambient + 600 µmol mol−1 [CO2]. The data set was
+divided into three classes, measurement dates after day of year
+280, measurement dates when the leaf water potential (LWP) of
+ambient plants was below −1.9 MPa, and all other measurement
+dates. This subdivision eliminated a signiﬁcant growth [CO2] by
+measurement date interaction. ∗indicates a signiﬁcant effect of
+growth [CO2] at P = 0.05. Values in parentheses are SE for n = 2
+chambers per [CO2] treatment
+Growth/measurement [CO2]
+After day 280 Low LWP All other data
+(µmol mol−1)
+A (± SE) (µmol m−2 s−1)
++ 300 / + 300
+22.8 (0.7)
+24.0 (1.0) 27.2 (0.5)
++ 600 / + 600
+28.1 (0.9)
+27.8 (1.2) 31.4 (0.6)
+Ambient / ambient
+11.5 (0.5)
+9.7 (0.7) 16.6 (0.5)
+Ambient / +300
+22.9 (0.8)
+22.0 (1.1) 31.6 (0.6)∗
+Ambient / +600
+29.3 (1.0)
+28.3 (1.5) 40.9 (0.7)∗
+Number of measurement dates 6
+5
+23
+ambient [CO2] in any obvious way (Figure 2). It was
+found that the data for all years could be subdivided
+into three sets in which the growth [CO2] by meas-
+urement date interaction terms were non-signiﬁcant at
+P = 0.05. The three subsets were: all data after day
+of year 280, all data when leaf water potentials were
+below −1.9 MPa in plants grown at ambient [CO2],
+and all other data. Acclimation of photosynthesis to
+growth at elevated [CO2] was signiﬁcant in the main
+data set, but not in the two restricted sets of dry
+conditions and during the fall (Table 1). There were
+no dates when photosynthetic acclimation to elevated
+[CO2] was large enough to eliminate the stimulation
+of photosynthesis at the growth [CO2]. Averaged over
+all dates, midday photosynthetic rates measured at the
+daytime growth [CO2] were 14.7, 26.0 and 30.3 µmol
+m−2 s−1 for the ambient, ambient + 300, and ambient
++ 600 µmol mol−1 [CO2] treatments, respectively.
+Acclimation of photosynthesis to growth at elev-
+ated [CO2] was evident even when measurements days
+followed several cloudy days. For example, in Figure
+2, day of year 134 was preceded by 10 days with
+daily integrals of photosynthetically active radiation
+of less than 9 mol m−2 d−1 (compared with a clear
+day total of about 45 mol m−2 d−1 at this time of
+year). There were three additional measurement days
+which followed several days of cloudy weather, yet
+still indicated photosynthetic acclimation to elevated
+[CO2].
+Stomatal conductance of plants grown at the cur-
+rent ambient [CO2] was unresponsive to measurement
+[CO2] except when plants had low leaf water poten-
+tials (Table 2). Substomatal [CO2] was affected by
+growth [CO2] only under dry conditions (Table 2).
+The usually constant Ci across growth [CO2] treat-
+ments reﬂected proportional changes in conductance
+and photosynthesis.
+For each of four dates tested, photosynthetic rates
+of plants grown at the highest [CO2] were not satur-
+ated for CO2 at the Ci occurring under the growth
+conditions. Averaged over four measurement dates
+photosynthetic CO2 assimilation rates of plants grown
+at + 600 µmol mol−1 [CO2] were 35.1 and 41.8
+µmol m−2 s−1 when measured at 950 and 1200 µmol
+mol−1[CO2], respectively, compared with a rate of
+42 µmol mol−1 at 950 µmol mol−1 [CO2] for plant
+grown without supplemental [CO2].
+Midday leaf water potentials on the ‘dry’ measure-
+ment dates averaged −2.2, −2.2, and −2.3 MPa for
+plants at the current ambient [CO2], ambient + 300
+and ambient + 600, respectively. Soil water potentials
+at a depth of 25 cm averaged −1.13, −0.83, and −0.64
+for the ambient, + 300 and + 600 [CO2] treatments,
+respectively, on these dates. Midday leaf water poten-
+tials averaged over all other measurement dates were
+−1.6 MPa for all [CO2] treatments.
+Leaf nitrogen per unit of area was measured on
+four dates in the spring and early summer, when pho-
+tosynthetic acclimation was evident. The plants grown
+at the two elevated [CO2]s had mean values which
+were about 9% lower than plants grown at the current
+ambient [CO2], i.e. 2.0 g m−2 compared with 2.2 g
+m−2, but these differences were not statistically sig-
+niﬁcant at P = 0.05. Gas exchange measurements on
+these same dates indicated 15 and 26% lower photo-
+synthetic CO2 assimilation rates for plants grown at +
+300 and + 600 µmol mol−1 [CO2], respectively, com-
+pared with plants grown at the current ambient [CO2],
+when measurements were made at + 300 and + 600
+µmol mol−1.
+Leaf starch content was measured on three dates
+in the spring, when photosynthetic acclimation to el-
+evated [CO2] was evident, and one date in the fall,
+when no acclimation occurred. Similar leaf starch val-
+ues occurred on all dates for the ambient and ambient
++ 300 treatments, while for the ambient + 600 [CO2]
+treatment, higher starch values occurred in the spring
+than in the fall (Figure 3).
+When the lowest and highest [CO2] treatments
+were switched, at the end of the experiment, CO2
+assimilation rates responded to the switch within one
+day, and by day three, were completely reversed (Table
+3). The same patterns were obtained for photosyn-
+242
+Table 2. Midday stomatal conductances (g, in mmol m−2 s−1) and substomatal [CO2] (Ci, in µmol mol−1) of leaves of strawberry plants
+grown at the current ambient [CO2], and ambient + 300 and ambient + 600 µmol mol−1 [CO2]. The data set was divided into three classes,
+measurement dates after day of year 280, measurement dates when the leaf water potential (LWP) of ambient plants was below −1.9 MPa, and
+all other measurement dates. ∗indicates a signiﬁcant effect at P = 0.05, and ns indicates non-signiﬁcance at P = 0.05. Values in parentheses
+are SE for n = 2 chambers per [CO2] treatment
+Growth/measurement [CO2]
+After day 280
+Low LWP
+All other data
+(µmol mol−1)
+g
+Ci
+g
+Ci
+g
+Ci
++ 300 / + 300
+196 (9)
+421 (7)
+251 (15)
+474 (12)
+270 (8)
+447 (4)
++ 600 / + 600
+172 (9)
+641 (15)
+190 (17)
+678 (21)
+214 (7)
+675 (7)
+Ambient / ambient
+204 (13)
+227 (4)
+250 (23)
+228 (4)
+350 (11)
+225 (5)
+Ambient / + 300
+205 (13)
+439 (9)
+200 (21)
+455 (9)
+348 (11)
+449 (4)
+Ambient / + 600
+192 (14)
+647 (17)
+157 (19)
+582 (20)
+322 (11)
+686 (7)
+Effect:
+Signiﬁcance of effect:
+g
+Ci
+g
+Ci
+g
+Ci
+Measurement at + 300
+ns
+∗
+∗
+∗
+ns
+∗
+Measurement at + 600
+ns
+∗
+∗
+∗
+ns
+∗
+Growth at + 300
+ns
+ns
+ns
+ns
+∗
+ns
+Growth at + 600
+ns
+ns
+ns
+∗
+∗
+ns
+Table 3. Time course of CO2 assimilation rates (A) measured at 350
+and 950 µmol mol−1 [CO2] following switching [CO2] treatments
+from ambient to ambient + 600 µmol mol−1 [CO2] and from am-
+bient + 600 to ambient [CO2] for strawberry plants in July 2000.
+Values are means (± SE) for n = 3 leaves. Within a measurement
+date, means followed by different letters were signiﬁcantly different
+using ANOVA and Fischer’s protected LSD tests
+Time since switching [CO2] treatment
+A at 350
+A at 950
+(d)
+(µmol mol−1)
+(µmol m−2 s−1)
+0
+Ambient
+13.4 (1.2) a 34.4 (1.2) a
+0
++ 600
+10.3 (0.6) b 29.3 (1.1) b
+1
+Ambient
+13.9 (0.9) a 35.5 (1.1) a
+1
++ 600
+12.0 (0.1) b 28.0 (0.9) b
+1
+Ambient switched to + 600 12.3 (0.4) b 31.4 (0.5) b
+1
++ 600 switched to Ambient 13.1 (0.4) a 33.6 (0.5) a
+3
+Ambient
+13.9 (0.3) a 32.4 (2.1) a
+3
++ 600
+11.2 (0.9) b 24.6 (0.7) b
+3
+Ambient switched to + 600 10.9 (0.4) b 23.7 (1.9) b
+3
++ 600 switched to Ambient 13.9 (0.9) a 33.1 (1.3) a
+thetic rates measured at Ca = 350 and 950 µmol
+mol−1.
+Discussion
+Leaf gas exchange measurements in this study began
+in the spring as soon as new leaves ﬁnished area ex-
+pansion (about day 100), and ended in the fall when
+severe freezes killed most leaves (about day 310).
+Very few green leaves persisted during the winter. The
+gas exchange measurement periods were estimated to
+cover more than 90% of the yearly leaf area duration,
+and thus should be reasonably representative of this
+cultivar in this climate.
+The short-term response of strawberry leaf photo-
+synthesis to elevated [CO2] did not have the insensitiv-
+ity to seasonal temperature changes observed in some
+other cool climate species (Teskey 1997; Bunce 1998,
+2000), but had a larger stimulation at all temperatures
+than predicted from Rubisco kinetic characteristics.
+The simplest explanation for a larger stimulation than
+expected, a signiﬁcant internal diffusive resistance,
+could account for this discrepancy at warm temperat-
+ures, but probably not at low temperatures. We used
+assumed internal resistances such that Cc = 0.7∗Ci
+for measurements at Ca = 350 µmol mol−1 [CO2],
+but these resistances were not large enough to ex-
+plain the observed stimulation of photosynthesis by
+elevated [CO2] at cool temperatures. Such resistances
+are on the high end of estimates of internal resistance
+for other species (Laisk and Loreto 1996; Gillon and
+Yakir 2000). Our simulations indicate that the stimu-
+lation of photosynthesis by elevated [CO2] is not very
+sensitive to internal resistance at cool temperatures.
+In some of the other studies where the stimulation
+of photosynthesis by elevated [CO2] was larger than
+predicted by Rubisco kinetics at cool temperatures,
+measurements indicated an unexpectedly high CO2
+compensation point, which suggested a low apparent
+243
+Figure 3. Leaf starch contents for strawberry leaves grown at the current ambient [CO2], ambient + 300 and ambient + 600 µmol mol−1 on
+four measurement dates. Photosynthetic acclimation to elevated [CO2] was evident on the ﬁrst three dates, but not on the last date.
+speciﬁcity of Rubisco (Bunce 1998, 2000). This aspect
+was not investigated in the present study. Our data
+indicate that, in the absence of photosynthetic accli-
+mation to growth at elevated [CO2], strawberry leaf
+photosynthesis would be strongly stimulated by rising
+atmospheric [CO2] even at cool times of the year.
+However, acclimation of photosynthesis to elev-
+ated [CO2] was evident on about two thirds of the
+measurement days. The days when no acclimation
+occurred ﬁt into two classes, occasions when plants
+grown at the current ambient [CO2] were under wa-
+ter stress, and in the fall, after day 280. Other studies
+have also shown that acclimation of photosynthesis to
+elevated [CO2] occurring under well watered condi-
+tions may not be evident during water stress (Huxman
+et al. 1998; Sicher and Bunce 1999). This probably
+occurred because plants grown at lower [CO2] had
+higher stomatal conductance and depleted soil wa-
+ter faster than plants grown at elevated [CO2], as
+documented here for strawberries. The water deﬁcit
+inhibited photosynthesis more for plants grown at the
+lower [CO2], and resulted in no photosynthetic differ-
+ences between plants grown at ambient and elevated
+[CO2]. The lack of evidence of photosynthetic ac-
+climation to elevated [CO2] in the fall may have a
+somewhat similar cause, greater inhibition of photo-
+synthesis by environmental stress in plants at the lower
+[CO2]. This is suggested by the lower rates of photo-
+synthesis of plants grown at the current ambient [CO2]
+at a given measurement temperature in the fall than at
+other times of year. There are reports for other species
+of elevated [CO2] protecting against damage to pho-
+tosynthesis caused by low temperatures (Sionit et al.
+1981; Potvin and Strain 1985; Boese et al. 1997), but
+these studies have been for chilling sensitive species.
+In this study, the period in the fall when photosyn-
+thetic acclimation did not occur was after frosts had
+occurred.
+The cause of the acclimation of photosynthesis to
+growth at elevated [CO2] which occurred on the ma-
+jority of measurement dates was not clear. The data
+presented make it unlikely that any of three commonly
+proposed causes were operating, triose phosphate util-
+ization limitation at elevated [CO2], low leaf nitrogen
+244
+content and high source–sink ratio. Two observa-
+tions ruled out triosphosphate utilization rate limita-
+tion. First, photosynthetic CO2 assimilation rates of
+plants grown at the highest [CO2] were not satur-
+ated for CO2 at the concentration used to assay for
+photosynthetic acclimation. Secondly, the switching
+experiment showed that acclimation was evident when
+photosynthesis was measured at the current ambient
+[CO2], which was severely limiting for all plants. Leaf
+nitrogen content per unit of leaf area was only slightly
+and not statistically signiﬁcantly lower in plants grown
+at elevated [CO2]. The rapid reversibility of photosyn-
+thetic acclimation also argues against changes in major
+leaf nitrogen-containing constituents controlling pho-
+tosynthetic acclimation. For example, in rice, transfer
+to lower [CO2] resulted in an increase in the transcipts
+for the small subunit of Rubisco within one day, but no
+change in Rubisco activity or soluble protein was de-
+tectable after three days (Gesch et al. 2000), although
+changes were detected at ten days. High source–sink
+ratio at elevated [CO2] as a cause of the photosynthetic
+acclimation is also unlikely, since acclimation did not
+decrease during fruiting, nor during long periods of
+cloudy weather, and leaf starch content remained high
+in the fall when no acclimation occurred.
+Acclimation of photosynthetic CO2 assimilation
+was accompanied by a parallel acclimation of stomatal
+conductance such that substomatal [CO2] was not af-
+fected by the growth [CO2] except when water stress
+occurred and photosynthetic acclimation was not evid-
+ent. Proportional acclimation of assimilation rate and
+stomatal conductance to growth at elevated [CO2] has
+been reported for other species (e.g. Bunce 2001).
+Constant Ci rules out an increase in stomatal limitation
+of photosynthesis as a cause of photosynthetic accli-
+mation, unless patchy stomatal conductance occurred
+(Buckely et al. 1997). Patchy stomatal conductance
+has not been reported in studies of acclimation to el-
+evated [CO2]. The observation that stomatal conduct-
+ance was insensitive to measurement [CO2] except
+during water stress is consistent with other evidence
+that water stress or high abscisic acid content may
+increase stomatal sensitivity to [CO2] (Bunce 1998b;
+Leymarie et al. 1999).
+Measurements of Rubisco activity and activation
+status might have been useful in identifying the causes
+of acclimation, and were attempted. However, the
+assays were unsuccessful in this tissue, presumably
+because of large amounts of inhibitory compounds
+which could not be overcome using the usual methods.
+Whatever the cause of photosynthetic acclimation in
+the present study, consideration of seasonal changes
+in plant source–sink balance did not help to predict its
+occurrence.
+While acclimation of photosynthesis to elevated
+[CO2] was frequently evident in these nutrient-limited,
+ﬁeld-grown strawberries, the degree of acclimation
+was never enough to eliminate the substantial stimu-
+lation of photosynthesis by growth at elevated [CO2].
+The more severe photosynthetic acclimation to elev-
+ated [CO2] observed by Keutgen et al. (1997) in sand
+culture in a glasshouse was accompanied by greatly
+reduced leaf nitrogen contents, which did not occur in
+the present study. It is unclear whether such extreme
+nutrient deﬁciencies are likely under normal cultural
+conditions in the ﬁeld, or whether higher fertility than
+used in the present study could eliminate acclimation
+of photosynthesis to elevated [CO2].
+Acknowledgement
+I thank Dr R. Sicher for running the starch assays.
+References
+Buckley TN, Farquhar GD and Mott KA (1997) Qualitative ef-
+fects of patchy stomatal conductance distribution features on gas
+exchange calculations. Plant Cell Environ 20: 867–880
+Boese SR, Wolfe DW and Melkonian JJ (1997) Elevated CO2 mit-
+igates chilling-induced water stress and photosynthetic reduction
+during chilling. Plant Cell Environ 20: 625–632
+Bunce JA (1998a) The temperature dependence of the stimulation of
+photosynthesis by elevated carbon dioxide in wheat and barley. J
+Exp Bot 49: 1555–1565
+Bunce JA (1998b) Effects of humidity on short-term responses of
+stomatal conductance to an increase in carbon dioxide concen-
+tration. Plant Cell Environ 21: 115–120
+Bunce JA (2000) Acclimation to temperature of the responses
+of photosynthesis to increased carbon dioxide concentration in
+Taraxacum ofﬁcinale. Photosynth Res 64: 89–94
+Bunce JA (2001) Direct and acclimatory responses of stomatal con-
+ductance to elevated carbon dioxide in four herbaceous crop
+species in the ﬁeld. Global Change Biol 7: 323–331
+Garcia RL, Long SP, Wall GW, Osborne CP, Kimball BA, Nie GY,
+Pinter PJ, LaMorte RL and Wechsung F (1998) Photosynthesis
+and conductance of spring-wheat leaves: Field response to con-
+tinuous free-air atmospheric CO2 enrichment. Plant Cell Environ
+21: 659–669
+Gesch RW, Vu JCV, Boote KJ, Allen LH Jr and Bowes G (2000)
+Subambient growth CO2 leads to increased Rubisco small sub-
+unit gene expression in developing rice leaves. J Plant Physiol
+157: 235–238
+Gillon JS and Yakir D (2000) Internal caonductance to CO2 diffu-
+sion and C18OO discriminatin in C3 leaves. Plant Physiol 123:
+201–213
+245
+Greer DH, Laing WA and Campbell BD (1995) Photosynthetic
+response of thirteen pasture species to elevated CO2 and tem-
+perature. Aust J Plant Physiol 22: 713–722
+Hikosaka K, Murakami A and Hirose T (1999) Balancing
+carboxylation and regeneration of ribulose-1,5-bisphosphate in
+leaf photosynthesis: Temperature acclimation of an evergreen
+tree, Quercus myrsinaefolia. Plant Cell Environ 22: 841–849
+Huxman TE, Hamerlynck EP, Moore BD, Smith SD, Jordan DN,
+Zitzer SF, Nowak RS, Coleman JS and Seemann JR (1998)
+Photosynthetic down-regulation of Larrea tridentata exposed
+to elevated atmosopheric CO2: Interaction with drought under
+glasshouse and ﬁeld (FACE) exposure. Plant Cell Environ 21:
+1153–1161
+Isopp H, Frehner M, Almeida JPF, Blum H, Daepp M, Hartwig UA,
+Luscher A, Suter D and Nosberger J (2000) Nitrogen plays a
+major role in leaves when source-sink relations change: C and
+N metabolism in Lolium perenne growing under free air CO2
+enrichment. Aust J Plant Physiol 27: 851–858
+Keutgen N, Chen K and Lenz F (1997) Responses of strawberry
+leaf photosynthesis, chlorophyll ﬂuorescence and macronutrient
+contents to elevated CO2. J Plant Physiol 150: 395–400
+Kirschbaum MUF (1994) The sensitivity of C3 photosynthesis to
+increasing CO2 concentration: A theoretical analysis of its de-
+pendence on temperature and background CO2 concentration.
+Plant Cell Environ 17: 747–754
+Laisk A and Loreto F (1996) Determining photosynthetic paramet-
+ers from leaf CO2 exchange and ﬂuorescence. Plant Physiol 110:
+903–912
+Leymarie J, Lasceve G and Vavasseur A (1999) Elevated CO2 en-
+hances stomatal responses to osmotic stress and abscisic acid in
+Arabidopsis thalliana. Plant Cell Environ 22: 301–308
+Long SP (1991) Modiﬁcation of the responses of photosynthetic
+productivity t rising temperature by atmospheric CO2 concen-
+trations: Has its importance been underestimated? Plant Cell
+Environ 14: 729–739
+McKee IF and Woodward FI (1994) The effect of growth at elev-
+ated CO2 concentrations on photosynthesis in wheat. Plant Cell
+Environ 17: 853–859
+Nie GY, Long SP, Garcia RL, Kimball BA, LaMorte RL, Pinter PJ,
+Wall GW and Webber A (1995) Effects of free-air carbon dioxide
+enrichment on the development of the photosynthetic apparatus
+in wheat, as indicated by changes in leaf proteins. Plant Cell
+Environ 18: 855–864
+Potvin C and Strain BR (1985) Effects of CO2 enrichment and tem-
+perature on growth in two C4 weeds, Echinochloa crus-galli, and
+Eleusine indica. Can J Bot 63: 1495–1499,
+Sage RF, Santrucek J and Grise DJ (1995) Temperature effects
+on the photosynthetic response of C3 plants to long-term CO2
+enrichment. Vegetatio 121: 67–77
+Sharkey TD (1985) O2-insensitive photosynthesis in C3 plants. Its
+occurrence and a possible explanation. Plant Physiol 78: 71–75
+Sicher RC and Bunce JA (1997) Relationship of photosynthetic ac-
+climation to changes of Rubisco activity in ﬁeld-grown winter
+wheat and barley during growth in elevated carbon dioxide.
+Photosynth Res 52: 27–38
+Sicher RC and Bunce JA (1999) Photosynthetic enhancement and
+conductance to water vapor of ﬁeld-grown Solanum tuberosum
+(L.) in response to CO2 enrichment. Photosynth Res 52: 155–163
+Sionit N, Strain BR and Beckford HA (1981) Environmental con-
+trols on the growth and yield of okra. I. Effects of temperature
+and of CO2 enrichment at cool temperatures. Crop Sci. 21:
+885–888
+Socias FX, Medrano H and Sharkey TD (1993) Feedback limiation
+of photosynthesis of Phaseolus vulgaris L. Grown in elevated
+CO2. Plant Cell Environ 16: 81–86
+Stitt M and Krapp A (1999) The interaction between elevated carbon
+dioxide and nitrogen nutrition: The physiologiocal and molecular
+background. Plant Cell Environ 22: 583–621
+Teskey RO (1997) Combined effects of elevated CO2 and air tem-
+perature on carbon assimilation of Pinus taeda trees. Plant Cell
+Environ 20: 373–380
+Ziska LH, Sicher RC and Kremer DF (1995) Reversibility of pho-
+tosynthetic acclimation of swiss chard and sugarbeet grown at
+elevated concentrations of CO2. Physiol Planta 95: 355–364
+Ziska LH, Weerakoon W, Namuco OS and Pamplona R (1996)
+The inﬂuence of nitrogen on the elevated CO2 response in
+ﬁeld-grown rice. Aust J Plant Physiol 23: 45–52.

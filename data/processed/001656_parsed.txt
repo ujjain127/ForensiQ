@@ -1,0 +1,1141 @@
+EUROPEAN PHARMACOPOEIA 5.0
+2.6.14. Bacterial endotoxins
+Maize starch
+1.0 g
+Sodium chloride
+5.0 g
+Agar, according to gelling power
+10.0 g to 15.0 g
+Purified water
+1000 ml
+Hydrate the agar, dissolve by heating to boiling with
+continuous stirring. If necessary, adjust the pH so that
+after sterilisation it is 7.3 ± 0.2. Sterilise by heating in an
+autoclave at 121 °C for 15 min. Allow to cool to 45-50 °C;
+add, where necessary, gentamicin sulphate corresponding to
+20 mg of gentamicin base and pour into Petri dishes.
+Medium R (Lactose monohydrate sulphite medium)
+Pancreatic digest of casein
+5.0 g
+Yeast extract
+2.5 g
+Sodium chloride
+2.5 g
+Lactose monohydrate
+10.0 g
+Cysteine hydrochloride
+0.3 g
+Purified water
+1000 ml
+Dissolve, adjust to pH 7.1 ± 0.1 and fill to 8 ml in
+16 mm × 160 mm tubes containing a small Durham tube.
+Sterilise by heating in an autoclave at 121 °C for 15 min and
+store at 4 °C.
+Before use, heat the medium for 5 min in a water-bath and
+cool. Add to each tube 0.5 ml of a 12 g/l solution of sodium
+metabisulphite R and 0.5 ml of a 10 g/l solution of ferric
+ammonium citrate, both solutions being freshly prepared
+and filtered through membranes (pore size: 0.45 µm).
+Agar medium S (R2A)
+Yeast extract
+0.5 g
+Proteose peptone
+0.5 g
+Casein hydrolysate
+0.5 g
+Glucose
+0.5 g
+Starch
+0.5 g
+Dipotassium hydrogen phosphate
+0.3 g
+Magnesium sulphate, anhydrous
+0.024 g
+Sodium pyruvate
+0.3 g
+Agar
+15.0 g
+Purified water
+1000 ml
+Adjust the pH so that after sterilisation it is 7.2 ± 0.2.
+Sterilise by heating in an autoclave at 121 °C for 15 min.
+NEUTRALISING AGENTS
+Neutralising agents may be used to neutralise the activity
+of antimicrobial agents. They may be added to buffered
+sodium chloride-peptone solution pH 7.0, preferably before
+sterilisation. If utilised their efficacy and non-toxicity towards
+micro-organisms are demonstrated.
+A typical neutralising fluid has the following composition:
+Polysorbate 80
+30 g
+Lecithin (egg)
+3 g
+Histidine hydrochloride
+1 g
+Peptone (meat or casein)
+1 g
+Sodium chloride
+4.3 g
+Potassium dihydrogen phosphate
+3.6 g
+Disodium hydrogen phosphate dihydrate
+7.2 g
+Purified water
+1000 ml
+Sterilise by heating in an autoclave at 121 °C for 15 min.
+If the solution has insufficient neutralising capacity the
+concentration of polysorbate 80 or lecithin may be increased.
+Alternatively, the neutralisers mentioned in Table 2.6.13.-3
+may be added.
+Table 2.6.13.-3. – Inactivators for antimicrobial agents to be
+added to buffered sodium chloride-peptone solution pH 7.0
+Type of an-
+timicrobial
+agent
+Inactivator
+Concentration
+Comment
+Sodium
+laurilsulfate
+4 g/l
+Polysorbate 80
+and lecithin
+30 g/l and 3 g/l
+Phenolics
+Egg yolk
+5 ml/l - 50 ml/l
+Add after
+sterilisation of
+buffered sodium
+chloride-peptone
+solution pH 7.0
+Organo-
+mercurals
+Sodium
+thioglycolate
+0.5 g/l - 5 g/l
+Halogens
+Sodium
+thiosulphate
+5 g/l
+Quaternary
+ammonium
+compounds
+Egg yolk
+5 ml/l - 50 ml/l
+Add after
+sterilisation of
+buffered sodium
+chloride-peptone
+solution pH 7.0
+01/2005:20614
+2.6.14. BACTERIAL ENDOTOXINS
+The test for bacterial endotoxins is used to detect or
+quantify endotoxins of gram-negative bacterial origin
+using amoebocyte lysate from horseshoe crab (Limulus
+polyphemus or Tachypleus tridentatus). There are
+3 techniques for this test: the gel-clot technique, which
+is based on gel formation; the turbidimetric technique,
+based on the development of turbidity after cleavage of an
+endogenous substrate; and the chromogenic technique,
+based on the development of colour after cleavage of a
+synthetic peptide-chromogen complex.
+The following 6 methods are described in the present
+chapter:
+Method A.
+Gel-clot method: limit test
+Method B. Gel-clot method: semi-quantitative test
+Method C.
+Turbidimetric kinetic method
+Method D. Chromogenic kinetic method
+Method E.
+Chromogenic end-point method
+Method F.
+Turbidimetric end-point method
+Proceed by any of the 6 methods for the test. In the event
+of doubt or dispute, the final decision is made based upon
+method A unless otherwise indicated in the monograph.
+The test is carried out in a manner that avoids endotoxin
+contamination.
+Apparatus
+Depyrogenate all glassware and other heat-stable apparatus
+in a hot-air oven using a validated process. A commonly used
+minimum time and temperature is 30 minutes at 250 °C. If
+employing plastic apparatus, such as microtitre plates and
+pipette tips for automatic pipetters, use apparatus shown
+to be free of detectable endotoxin and of interfering effects
+for the test.
+NOTE: In this chapter, the term ‘tube’ includes all types of
+receptacles, for example microtitre plate wells.
+General Notices (1) apply to all monographs and other texts
+161
+2.6.14. Bacterial endotoxins
+EUROPEAN PHARMACOPOEIA 5.0
+Preparation of the standard endotoxin stock solution
+The standard endotoxin stock solution is prepared from
+an endotoxin reference standard that has been calibrated
+against the International Standard, for example endotoxin
+standard BRP.
+Endotoxin is expressed in International Units (IU). The
+equivalence in IU of the International Standard is stated by
+the World Health Organisation.
+NOTE: One International Unit (IU) of endotoxin is equal to
+one Endotoxin Unit (E.U.).
+Follow the specifications in the package leaflet and on the
+label for preparation and storage of the standard endotoxin
+stock solution.
+Preparation of the standard endotoxin solutions
+After vigorously mixing the standard endotoxin stock
+solution, prepare appropriate serial dilutions of this solution
+using water for bacterial endotoxins test (water for BET).
+Use the solutions as soon as possible to avoid loss of activity
+by adsorption.
+Preparation of the test solutions
+Prepare the test solutions by dissolving or diluting active
+substances or medicinal products using water for BET.
+Some substances or preparations may be more appropriately
+dissolved or diluted in other aqueous solutions. If necessary,
+adjust the pH of the test solution (or dilution thereof) so that
+the pH of the mixture of the lysate and test solution falls
+within the pH range specified by the lysate manufacturer.
+This usually applies to a product with a pH in the range of 6.0
+to 8.0. The pH may be adjusted by the use of acid, base or a
+suitable buffer, as recommended by the lysate manufacturer.
+Acids and bases may be prepared from concentrates or
+solids with water for BET in containers free of detectable
+endotoxin. Buffers must be validated to be free of detectable
+endotoxin and interfering factors.
+Determination of the Maximum Valid Dilution
+The Maximum Valid Dilution (MVD) is the maximum
+allowable dilution of a sample at which the endotoxin limit
+can be determined. Determine the MVD using the following
+formulae:
+Endotoxin limit: the endotoxin limit for active substances
+administered parenterally, defined on the basis of dose, is
+equal to:
+K
+=
+threshold pyrogenic dose of endotoxin per
+kilogram of body mass in a single hour period,
+M
+=
+maximum recommended dose of product per
+kilogram of body mass in a single hour period.
+The endotoxin limit for active substances
+administered parenterally is specified in units such
+as IU/ml, IU/mg, IU/Unit of biological activity, etc., in
+monographs.
+Concentration of test solution:
+— in mg/ml if the endotoxin limit is specified by mass
+(IU/mg),
+— in Units/ml if the endotoxin limit is specified by unit of
+biological activity (IU/Unit),
+— in ml/ml if the endotoxin limit is specified by volume
+(IU/ml).
+λ
+=
+the labelled lysate sensitivity in the gel-clot
+technique (IU/ml) or the lowest point used
+in the standard curve of the turbidimetric or
+chromogenic techniques.
+GEL-CLOT TECHNIQUE (METHODS A AND B)
+The gel-clot technique allows detection or quantification
+of endotoxins and is based on clotting of the lysate in the
+presence of endotoxins. The concentration of endotoxins
+required to cause the lysate to clot under standard conditions
+is the labelled lysate sensitivity. To ensure both the precision
+and validity of the test, confirm the labelled lysate sensitivity
+and perform the test for interfering factors as described
+under 1. Preparatory testing.
+1. PREPARATORY TESTING
+(i) Confirmation of the labelled lysate sensitivity
+Confirm in 4 replicates the labelled sensitivity λ, expressed
+in IU/ml, of the lysate solution prior to use in the test.
+Confirmation of the lysate sensitivity is carried out when a
+new batch of lysate is used or when there is any change in
+the experimental conditions which may affect the outcome
+of the test.
+Prepare standard solutions of at least 4 concentrations
+equivalent to 2λ, λ, 0.5λ and 0.25λ by diluting the standard
+endotoxin stock solution with water for BET.
+Mix a volume of the lysate solution with an equal volume
+of 1 of the standard solutions (such as 0.1 ml aliquots) in
+each tube. When single test vials or ampoules containing
+lyophilised lysate are employed, add solutions directly to
+the vial or ampoule. Incubate the reaction mixture for a
+constant period according to the recommendations of the
+lysate manufacturer (usually at 37 ± 1 °C for 60 ± 2 min),
+avoiding vibration. Test the integrity of the gel: for tubes,
+take each tube in turn directly from the incubator and invert
+it through approximately 180° in one smooth motion. If a
+firm gel has formed that remains in place upon inversion,
+record the result as positive. A result is negative if an intact
+gel is not formed.
+The test is not valid unless the lowest concentration of the
+standard solutions shows a negative result in all replicate
+tests.
+The end-point is the last positive result in the series of
+decreasing concentrations of endotoxin. Calculate the mean
+value of the logarithms of the end-point concentrations and
+then the antilogarithm of the mean value using the following
+expression:
+Geometric mean end-point concentration =
+=
+sum of the log end-point concentrations of the
+dilution series used,
+f
+=
+number of replicates.
+The geometric mean end-point concentration is the measured
+sensitivity of the lysate solution (IU/ml). If this is not less
+than 0.5λ and not more than 2λ, the labelled sensitivity is
+confirmed and is used in the tests performed with this lysate.
+(ii) Test for interfering factors
+Prepare solutions A, B, C and D as shown in Table 2.6.14.-1,
+and use the test solutions at a dilution less than the MVD,
+not containing any detectable endotoxins, operating as
+described under 1. Preparatory testing, (i) Confirmation of
+the labelled lysate sensitivity.
+162
+See the information section on general monographs (cover pages)
+EUROPEAN PHARMACOPOEIA 5.0
+2.6.14. Bacterial endotoxins
+Table 2.6.14.–1
+Solution
+Endotoxin concentration/ Solution to
+which endotoxin is added
+Diluent
+Dilution factor
+Initial endotoxin
+concentration
+Number of replicates
+A
+None/Test solution
+-
+-
+-
+4
+B
+2λ/Test solution
+Test solution
+1
+2
+4
+8
+2λ
+1λ
+0.5λ
+0.25λ
+4
+4
+4
+4
+C
+2λ/Water for BET
+Water for BET
+1
+2
+4
+8
+2λ
+1λ
+0.5λ
+0.25λ
+2
+2
+2
+2
+D
+None/Water for BET
+-
+-
+-
+2
+Solution A = solution of the preparation being examined that is free of detectable endotoxins.
+Solution B = test for interference.
+Solution C = control of the labelled lysate sensitivity.
+Solution D = negative control (water for BET).
+The geometric mean end-point concentrations of solutions B
+and C are determined using the expression described in 1.
+Preparatory testing, (i) Confirmation of the labelled lysate
+sensitivity.
+The test for interfering factors is repeated when any changes
+are made to the experimental conditions that are likely to
+influence the result of the test.
+The test is not valid unless all replicates of solutions A and
+D show no reaction and the result of solution C confirms
+the labelled lysate sensitivity.
+If the sensitivity of the lysate determined with solution B is
+not less than 0.5λ and not greater than 2λ, the test solution
+does not contain interfering factors under the experimental
+conditions used. Otherwise, the solution interferes with the
+test.
+If the preparation being examined interferes with the test at
+a dilution less than the MVD, repeat the test for interfering
+factors using a greater dilution, not exceeding the MVD. The
+use of a more sensitive lysate permits a greater dilution of
+the preparation being examined and this may contribute to
+the elimination of interference.
+Interference may be overcome by suitable treatment, such
+as filtration, neutralisation, dialysis or heat treatment. To
+establish that the treatment chosen effectively eliminates
+interference without loss of endotoxins, repeat the test for
+interfering factors using the preparation being examined to
+which the standard endotoxin has been added and which has
+then been submitted to the chosen treatment.
+2. LIMIT TEST (METHOD A)
+(i) Procedure
+Prepare solutions A, B, C and D as shown in Table 2.6.14.-2,
+and perform the test on these solutions following the
+procedure described under 1. Preparatory testing, (i)
+Confirmation of the labelled lysate sensitivity.
+Table 2.6.14.-2
+Solution
+Endotoxin concentration/ Solution
+to which endotoxin is added
+Number of replicates
+A
+None/Diluted test solution
+2
+B
+2λ/Diluted test solution
+2
+C
+2λ/Water for BET
+2
+D
+None/Water for BET
+2
+Prepare solution A and solution B (positive product control)
+using a dilution not greater than the MVD and treatments as
+described in 1. Preparatory testing, (ii) Test for interfering
+factors. Solutions B and C (positive controls) contain the
+standard endotoxin at a concentration corresponding to
+twice the labelled lysate sensitivity. Solution D (negative
+control) consists of water for BET.
+(ii) Interpretation
+The test is not valid unless both replicates of the 2 positive
+control solutions B and C are positive and those of the
+negative control solution D are negative.
+The preparation being examined complies with the test when
+a negative result is found for both replicates of solution A.
+When a positive result is found for both replicates of
+solution A:
+— if the preparation being examined is diluted to the MVD,
+it does not comply with the test,
+— if the preparation being examined is diluted to a dilution
+less than the MVD, the test is repeated at a dilution not
+greater than the MVD.
+Repeat the test if a positive result is found for one replicate
+of solution A and a negative result is found for the other.
+The preparation being examined complies with the test if a
+negative result is found for both replicates of solution A in
+the repeat test.
+3. SEMI-QUANTITATIVE TEST (METHOD B)
+(i) Procedure
+The test quantifies bacterial endotoxins in the test solution
+by titration to an end-point. Prepare solutions A, B, C
+and D as shown in Table 2.6.14.-3, and test these solutions
+according to the procedure described under 1. Preparatory
+testing, (i) Confirmation of the labelled lysate sensitivity.
+(ii) Calculation and interpretation
+The test is not valid unless the following 3 conditions are
+met:
+(a) both replicates of solution D (negative control) are
+negative,
+(b) both replicates of solution B (positive product control)
+are positive,
+(c) the geometric mean end-point concentration of solution C
+is in the range of 0.5λ to 2λ.
+To determine the endotoxin concentration of solution A,
+calculate the end-point concentration for each replicate
+series of dilutions by multiplying each end-point dilution
+factor by λ.
+The endotoxin concentration in the test solution is the
+geometric mean end-point concentration of the replicates
+(see the expression given under 1. Preparatory testing,
+(i) Confirmation of the labelled lysate sensitivity). If the
+General Notices (1) apply to all monographs and other texts
+163
+2.6.14. Bacterial endotoxins
+EUROPEAN PHARMACOPOEIA 5.0
+test is conducted with a diluted test solution, calculate
+the concentration of endotoxin in the original solution by
+multiplying the result by the dilution factor.
+If none of the dilutions of the test solution is positive in a
+valid test, record the endotoxin concentration as less than λ
+(or, if a diluted sample was tested, as less than λ × the lowest
+dilution factor of the sample). If all dilutions are positive, the
+endotoxin concentration is recorded as equal to or greater
+than the greatest dilution factor multiplied by λ (e.g. in
+Table 2.6.14.-3, the initial dilution factor × 8 × λ).
+The preparation meets the requirements of the test if the
+endotoxin concentration is less than that specified in the
+individual monograph.
+PHOTOMETRIC TECHNIQUES (METHODS C, D, E AND F)
+1. TURBIDIMETRIC TECHNIQUE (METHODS C AND F)
+This technique is a photometric test to measure the increase
+in turbidity. Based on the test principle employed, this
+technique is classified as being the end-point-turbidimetric
+test or the kinetic-turbidimetric test.
+The end-point-turbidimetric test (Method F) is based
+on the quantitative relationship between the endotoxin
+concentration and the turbidity (absorbance or transmission)
+of the reaction mixture at the end of an incubation period.
+The kinetic-turbidimetric test (Method C) is a method to
+measure either the time (onset time) needed for the reaction
+mixture to reach a predetermined absorbance, or the rate of
+turbidity development.
+The test is carried out at the incubation temperature
+recommended by the lysate manufacturer (usually 37 ± 1 °C).
+2. CHROMOGENIC TECHNIQUE (METHODS D AND E)
+This technique is used to measure the chromophore released
+from a suitable chromogenic peptide by the reaction
+of endotoxins with the lysate. Depending on the test
+principle employed, this technique is classified as being the
+end-point-chromogenic test or the kinetic-chromogenic test.
+The end-point-chromogenic test (Method E) is based
+on the quantitative relationship between the endotoxin
+concentration and the quantity of chromophore released at
+the end of an incubation period.
+The kinetic-chromogenic test (Method D) measures either
+the time (onset time) needed for the reaction mixture to
+reach a predetermined absorbance, or the rate of colour
+development.
+The test is carried out at the incubation temperature
+recommended by the lysate manufacturer (usually 37 ± 1 °C).
+3. PREPARATORY TESTING
+To assure the precision or validity of the turbidimetric and
+chromogenic tests, preparatory tests are conducted to assure
+that the criteria for the standard curve are satisfied and that
+the test solution does not interfere with the test.
+Validation of the test method is required when any changes
+are made to the experimental conditions that are likely to
+influence the result of the test.
+(i) Assurance of criteria for the standard curve
+Using the standard endotoxin solution, prepare at least
+3 endotoxin concentrations to generate the standard
+curve. Perform the test using at least 3 replicates of each
+standard endotoxin solution as recommended by the lysate
+manufacturer (volume ratios, incubation time, temperature,
+pH, etc.).
+If the desired range is greater than 2 log in the kinetic
+methods, additional standards must be included to bracket
+each log increase in the range of the standard curve.
+The absolute value of the correlation coefficient, | r |, must
+be greater than or equal to 0.980, for the range of endotoxin
+concentrations indicated by the lysate manufacturer.
+(ii) Test for interfering factors
+Select an endotoxin concentration at or near the middle of
+the endotoxin standard curve.
+Prepare solutions A, B, C and D as shown in Table 2.6.14.-4.
+Perform the test on at least 2 replicates of these solutions as
+recommended by the lysate manufacturer (volume of test
+solution and lysate solution, volume ratio of test solution to
+lysate solution, incubation time, etc.).
+Table 2.6.14.-3
+Solution
+Endotoxin concentration/ Solution to
+which endotoxin is added
+Diluent
+Dilution factor
+Initial endotoxin
+concentration
+Number of replicates
+A
+None/Test solution
+Water for BET
+1
+2
+4
+8
+-
+-
+-
+-
+2
+2
+2
+2
+B
+2λ/Test solution
+1
+2λ
+2
+C
+2λ/Water for BET
+Water for BET
+1
+2
+4
+8
+2λ
+1λ
+0.5λ
+0.25λ
+2
+2
+2
+2
+D
+None/Water for BET
+-
+-
+-
+2
+Solution A = test solution at the dilution, not exceeding the MVD, with which the test for interfering factors was carried out. Subsequent dilution of the
+test solution must not exceed the MVD. Use water for BET to make two dilution series of 1, 1/2, 1/4 and 1/8, relative to the dilution with which the test
+for interfering factors was carried out. Other dilutions may be used as appropriate.
+Solution B = solution A containing standard endotoxin at a concentration of 2λ (positive product control).
+Solution C = 2 series of water for BET containing the standard endotoxin at concentrations of 2λ, λ, 0.5λ and 0.25λ.
+Solution D = water for BET (negative control).
+164
+See the information section on general monographs (cover pages)
+EUROPEAN PHARMACOPOEIA 5.0
+2.6.14. Bacterial endotoxins
+Table 2.6.14.-4.
+Solution
+Endotoxin
+concentration
+Solution to which
+endotoxin is added
+Number of
+replicates
+A
+None
+Test solution
+Not less than 2
+B
+Middle concentration
+of the standard curve
+Test solution
+Not less than 2
+C
+At least 3 concentra-
+tions (lowest concen-
+tration is designated λ)
+Water for BET
+Each concentra-
+tion not less than 2
+D
+None
+Water for BET
+Not less than 2
+Solution A = test solution, that may be diluted not to exceed the MVD.
+Solution B = preparation to be examined at the same dilution as
+solution A, containing added endotoxin at a concentration equal to or near
+the middle of the standard curve.
+Solution C = standard endotoxin solution at the concentrations used in
+the validation of the method as described under 3. Preparatory testing, (i)
+Assurance of criteria for the standard curve (positive controls.
+Solution D = water for BET (negative control).
+Calculate the mean recovery of the added endotoxin by
+subtracting the mean endotoxin concentration in the
+solution (if any) from that in the solution containing the
+added endotoxin.
+The test solution is considered free of interfering
+factors if under the conditions of the test, the measured
+concentration of the endotoxin added to the test solution
+is within 50-200 per cent of the known added endotoxin
+concentration, after subtraction of any endotoxin detected in
+the solution without added endotoxin.
+When the endotoxin recovery is out of the specified ranges,
+the interfering factors must be removed as described in the
+section Gel-clot technique, under 1. Preparatory testing,
+(ii) Test for interfering factors. The efficiency of the treatment
+is verified by repeating the test for interfering factors.
+4. TEST
+(i) Procedure
+Follow the procedure described in 3. Preparatory testing,
+(ii) Test for interfering factors.
+(ii) Calculation
+Calculate the endotoxin concentration of each replicate of
+solution A using the standard curve generated by the series
+of positive controls, solution C.
+The test is not valid unless the following 3 requirements are
+met:
+(a) the result obtained with solution D (negative control)
+does not exceed the limit of the blank value required in the
+description of the lysate employed,
+(b) the results obtained with the series of positive controls,
+solution C, comply with the requirements for validation
+defined under 3. Preparatory testing, (i) Assurance of criteria
+for the standard curve,
+(c) the endotoxin recovery, calculated from the endotoxin
+concentration found in solution B after subtracting the
+endotoxin concentration found in solution A, is within the
+range of 50-200 per cent.
+(iii) Interpretation
+The preparation being examined complies with the test if the
+mean endotoxin concentration of the replicates of solution A,
+after correction for dilution and concentration, is less than
+the endotoxin limit for the product.
+5. REAGENTS
+(i) Lysate solution
+Dissolve amoebocyte lysate in water for BET or in a buffer, as
+recommended by the lysate manufacturer, by gentle stirring.
+Store the reconstituted lysate, refrigerated or frozen, as
+indicated by the manufacturer.
+(ii) Amoebocyte lysate
+Amoebocyte lysate is a lyophilised product obtained
+from amoebocyte lysate from Horseshoe Crab (Limulus
+polyphemus or Tachypleus tridentatus). This reagent refers
+only to a product manufactured in accordance with the
+regulations of the competent authority.
+Amoebocyte lysate reacts with some β-glucans in addition
+to endotoxins. Amoebocyte lysate preparations which do
+not react with glucans are available; they are prepared by
+removing from amoebocyte lysate the G factor, which reacts
+with glucans, or by inhibiting the G factor reacting system
+of amoebocyte lysate. These preparations may be used for
+endotoxin testing in the presence of glucans.
+(iii) Water for BET (water for bacterial endotoxins test)
+Water for BET is water for injections R or water produced
+by other procedures that shows no reaction with the lysate
+employed at the detection limit of the reagent.
+The following section is published for information.
+Test for bacterial endotoxins: guidelines
+1. INTRODUCTION
+Endotoxins from gram-negative bacteria are the
+most common cause of toxic reactions resulting from
+contamination of pharmaceutical products with pyrogens;
+their pyrogenic activity is much higher than that of
+most other pyrogenic substances. These endotoxins are
+lipo-polysaccharides. Although there are a small number
+of pyrogens which possess a different structure, the
+conclusion is generally justified that the absence of bacterial
+endotoxins in a product implies the absence of pyrogenic
+components, provided the presence of non-endotoxin
+pyrogenic substances can be ruled out.
+The presence of endotoxins in a product may be masked by
+factors interfering with the reaction between the endotoxins
+and the amoebocyte lysate. Hence, the analyst who wishes to
+replace the rabbit pyrogen test required in a pharmacopoeial
+monograph by a test for bacterial endotoxins has to
+demonstrate that a valid test can be carried out on the
+product concerned; this may entail a procedure for removing
+interfering factors.
+As indicated in the test for bacterial endotoxins, information
+must be available on the 2 following aspects before a test on
+a sample can be regarded as valid.
+1.1. The suitability of the material to be used for the test has
+to be established. The absence of endotoxins in the water
+for BET and in the other reagents must be assured and the
+sensitivity of the amoebocyte lysate must be checked to
+confirm the sensitivity declared by the manufacturer.
+1.2. As the product to be examined may interfere with the
+test, the sensitivity of the amoebocyte lysate is determined
+in the presence and in the absence of the product under
+examination. There must be no significant difference
+between the 2 sensitivity values.
+The test for bacterial endotoxins (2.6.14) indicates methods
+for removing interfering factors; in the case of interference,
+another test must be carried out after such a method has
+been applied to check whether the interference has indeed
+been neutralised or removed.
+This annex explains the reasons for the requirements in the
+test for bacterial endotoxins, then deals with the reading and
+interpretation of the results.
+Substitution of the rabbit pyrogen test required in a
+pharmacopoeial monograph by an amoebocyte lysate test
+constitutes the use of an alternative method of analysis and
+hence requires validation; some guidance on how to proceed
+is given in section 11.
+General Notices (1) apply to all monographs and other texts
+165
+2.6.14. Bacterial endotoxins
+EUROPEAN PHARMACOPOEIA 5.0
+The reference method for bacterial endotoxins is stated in
+the monograph on a given product; where no method is
+stated, method A is the reference method. If a method other
+than the reference method is to be used, the analyst must
+demonstrate that the method is appropriate for this product
+and gives a result consistent with that obtained with the
+reference method (see also Section 13).
+2. METHOD
+The addition of endotoxins to amoebocyte lysate may result
+in turbidity, precipitation or gelation (gel-clot); only the
+gel-clot method was used in the Pharmacopoeia as an
+evaluation criterion in the first type of test for bacterial
+endotoxins. The advantage was the simplicity of basing the
+decision to pass or fail the product under examination on the
+absence or presence of a gel-clot, visible with the naked eye.
+The quantitative methods described as methods C, D, E and F
+were developed later: they require more instrumentation,
+but they are easier to automate for the regular testing of
+large numbers of samples of the same product.
+Endotoxins may be adsorbed onto the surface of tubes
+or pipettes made from certain plastics or types of glass.
+Interference may appear due to the release of substances
+from plastic materials. Hence, the materials used should be
+checked; subsequent batches of tubes or pipettes may have
+a slightly different composition, and therefore the analyst is
+advised to repeat such tests on starting with new batches
+of materials.
+The decision to use the test for bacterial endotoxins as a limit
+test implies first, that a threshold endotoxin concentration
+must be defined for the product to be tested and second, that
+the objective of the test is to know whether the endotoxin
+concentration in the product under examination is below or
+above this threshold. The quantitative methods C, D, E and F
+make it possible to determine the endotoxin concentration
+in the sample under examination, but for compliance with
+the Pharmacopoeia and in routine quality control the final
+question is whether or not this concentration exceeds a
+defined limit.
+In setting a threshold concentration of endotoxin for the
+product to be tested, due attention should be paid to the
+dose of the product: the threshold should be set so as to
+ensure that as long as the endotoxin concentration in the
+product remains below this threshold even the maximal
+dose administered by the intended route per hour does not
+contain sufficient endotoxin to cause a toxic reaction.
+When the endotoxin concentration in the product exactly
+equals the threshold value, gelation will occur, as is the case
+when the endotoxin concentration is much higher, and the
+product will fail the test, because the all-or-none character
+of the test makes it impossible to differentiate between a
+concentration exactly equal to the threshold concentration
+and one that is higher. It is only when no gelation occurs that
+the analyst may conclude that the endotoxin concentration
+is below the threshold concentration.
+For products in the solid state, this threshold concentration
+of endotoxin per mass unit or per International Unit (IU)
+of product has to be translated into a concentration of
+endotoxin per millilitre of solution to be tested, as the test
+can only be carried out on a solution. The case of products
+that already exist in the liquid state (such as infusion fluids)
+is discussed below.
+Endotoxin limit: the endotoxin limit for active substances
+administered parenterally, defined on the basis of dose, is
+equal to, where:
+K
+=
+threshold pyrogenic dose of endotoxin per
+kilogram of body mass in a single hour period,
+M
+=
+maximum recommended dose of product per
+kilogram of body mass in a single hour period.
+The endotoxin limit depends on the product and its route of
+administration and is stated in monographs. Values for K are
+suggested in Table 2.6.14.-5.
+For other routes, the acceptance criterion for bacterial
+endotoxins is generally determined on the basis of results
+obtained during the development of the preparation.
+Table 2.6.14.-5
+Route of administration
+K (IU of endotoxin per kilogram of
+body mass per hour)
+Intravenous
+5.0
+Intravanous, for
+radiopharmaceuticals
+2.5
+Intrathecal
+0.2
+Which dilution of the product is to be used in the test to
+obtain maximal assurance that a negative result means that
+the endotoxin concentration of the product is less than
+the endotoxin limit and that a positive result means that
+the lysate detected an endotoxin concentration equal to or
+greater than the endotoxin limit? This dilution depends on
+the endotoxin limit and on the sensitivity of the lysate: it is
+called the Maximum Valid Dilution (MVD) and its value may
+be calculated as follows:
+Concentration of test solution:
+— in mg/ml if the endotoxin limit is specified by mass
+(IU/mg),
+— in Units/ml if the endotoxin limit is specified by unit of
+biological activity (IU/Unit),
+— in ml/ml if the endotoxin limit is specified by volume
+(IU/ml).
+λ
+=
+the labelled lysate sensitivity in the gel-clot
+technique (IU/ml) or the lowest point used
+in the standard curve of the turbidimetric or
+chromogenic techniques.
+When the value of the maximum valid dilution is not a whole
+number, a convenient whole number smaller than the MVD
+may be used for routine purposes (which means preparing a
+solution of the product which is less diluted than the MVD
+indicates). In this case, a negative result indicates that the
+endotoxin concentration of the product lies below the limit
+value. However, when the endotoxin concentration of the
+product in such a test is less than the endotoxin limit but
+high enough to make the reaction with the lysate result
+in a clot, the test may be positive under these conditions.
+Hence, when a test with this ‘convenient’ dilution factor is
+positive, the product should be diluted to the MVD and the
+test should be repeated. In any case of doubt or dispute the
+MVD must be used.
+This stresses the importance of the confirmation of the
+sensitivity of the lysate.
+166
+See the information section on general monographs (cover pages)
+EUROPEAN PHARMACOPOEIA 5.0
+2.6.14. Bacterial endotoxins
+Example
+A 50 mg/ml solution of phenytoin sodium (intended for
+intravenous injection) has to be tested. Determine the MVD,
+given the following variables:
+M
+=
+maximum human dose = 15 mg per kilogram of
+body mass per hour,
+c
+=
+50 mg/ml,
+K
+=
+5 IU of endotoxin per kilogram of body mass per
+hour,
+λ
+=
+0.4 IU of endotoxin per millilitre.
+For routine tests on this product, it may be expedient to
+dilute 1 ml of the solution to be tested to 20 ml (MVD/2
+rounded to the next lower whole number). However, if this
+test result is positive the analyst will have to dilute 1 ml to
+41.67 ml and repeat the test. A dilution to 41.67 ml is also
+necessary when the test is performed to settle a dispute.
+3. REFERENCE MATERIAL
+Endotoxin standard BRP is intended for use as the
+reference preparation. It has been assayed against the WHO
+International Standard for Endotoxin and its potency is
+expressed in International Units of endotoxin per ampoule.
+The International Unit of endotoxin is defined as the specific
+activity of a defined mass of the International Standard.
+For routine purposes, another preparation of endotoxin
+may be used, provided it has been assayed against the
+International Standard for Endotoxin or the BRP and its
+potency is expressed in International Units of endotoxin.
+NOTE: 1 International Unit (IU) of endotoxin is equal to
+1 Endotoxin Unit (E.U.).
+4. WATER FOR BET
+Testing the absence of endotoxin in this reagent by a
+technique derived from the rabbit pyrogen test was rejected
+for practical and theoretical reasons:
+4.1. The rabbit test is not sensitive enough to detect
+endotoxin in water for BET intended for tests on products
+with a very low endotoxin limit.
+4.2. The relatively low precision of the rising temperature
+response in rabbits would call for many replications in
+rabbits.
+4.3. The terms ‘pyrogens’ and ‘endotoxins’ denote groups of
+entities that do not coincide completely.
+The text of the test for bacterial endotoxins indicates that
+methods other than triple distillation may be used to prepare
+water for BET. Reverse osmosis has been used with good
+results; some analysts may prefer to distil the water more
+than three times. Whatever method is used, the resultant
+product must be free of detectable endotoxins.
+5. pH OF THE MIXTURE
+In the test for bacterial endotoxins, optimum gel-clot occurs
+for a mixture at pH 6.0 to 8.0. However, the addition of the
+lysate to the sample may result in a lowering of the pH.
+6. VALIDATION OF THE LYSATE
+It is important to follow the manufacturer’s instructions for
+the preparation of the solutions of the lysate.
+The positive end-point dilution factors in the gel-clot methods
+A and B are converted to logarithms. The reason is that if the
+frequency distribution of these logarithmic values is plotted,
+it usually approaches a normal distribution curve much more
+closely than the frequency distribution of the dilution factors
+themselves; in fact it is so similar that it is acceptable to use
+the normal frequency distribution as a mathematical model
+and to calculate confidence limits with Student’s t-test.
+7. PRELIMINARY TEST FOR INTERFERING FACTORS
+Some products cannot be tested directly for the presence of
+endotoxins because they are not miscible with the reagents,
+they cannot be adjusted to pH 6.0 to 8.0 or they inhibit
+or activate gel formation. Therefore a preliminary test is
+required to check for the presence of interfering factors;
+when these are found the analyst must demonstrate that the
+procedure to remove them has been effective.
+The object of the preliminary test is to test the null
+hypothesis that the sensitivity of the lysate in the presence of
+the product under examination does not differ significantly
+from the sensitivity of the lysate in the absence of the
+product. A simple criterion is used in methods A and B: the
+null hypothesis is accepted when the sensitivity of the lysate
+in the presence of the product is at least 0.5 times and not
+more than twice the sensitivity of the lysate by itself.
+A classical approach would have been to calculate the means
+of the log dilution factor for the lysate sensitivity with and
+without the product and to test the difference between the
+two means with Student’s t-test.
+The test for interfering factors in gel-clot methods A and B
+requires the use of a sample of the product in which no
+endotoxins are detectable. This presents a theoretical
+problem when an entirely new product has to be tested.
+Hence, a different approach was designed for quantitative
+methods C, D, E and F.
+8. REMOVAL OF INTERFERING FACTORS
+The procedures to remove interfering factors must not
+increase or decrease (for example, by adsorption) the amount
+of endotoxin in the product under examination. The correct
+way of checking this is to apply the procedures to a spiked
+sample of the product, that is, a sample to which a known
+amount of endotoxin has been added, and then to measure
+the recovery of the endotoxin.
+Methods C and D. If the nature of the product to be analysed
+shows interference which cannot be removed by classical
+methods, it may be possible to carry out the standard
+curve in the same type of product freed from endotoxins by
+appropriate treatment or by dilution of the product. The
+endotoxins test is then carried out by comparison with this
+standard curve.
+Ultrafiltration with cellulose triacetate asymmetric
+membrane filters has been found to be suitable in most
+cases. The filters should be properly validated, because
+under some circumstances cellulose derivatives (β-D-glucans)
+can cause false positive results.
+Polysulphone filters have been found to be unsuitable
+because false positive results had been obtained by some
+users.
+9. THE PURPOSE OF THE CONTROLS
+The purpose of the control made up with water for BET
+and the reference preparation of endotoxin at twice the
+concentration of the labelled lysate sensitivity is to verify the
+activity of the lysate at the time and under the conditions
+of the test. The purpose of the negative control is to verify
+the absence of a detectable concentration of endotoxin in
+water for BET.
+The positive control, which contains the product to be
+examined at the concentration used in the test, is intended
+to show the absence of inhibiting factors at the time and
+under the conditions of the test.
+General Notices (1) apply to all monographs and other texts
+167
+2.6.15. Prekallikrein activator
+EUROPEAN PHARMACOPOEIA 5.0
+10. READING AND INTERPRETATION OF THE RESULTS
+Minute amounts of endotoxin in the water for BET, or in
+any other reagent or material to which the lysate is exposed
+during the test, may escape detection as long as they do not
+reach the sensitivity limit of the lysate. However, they may
+raise the amount of endotoxin in the solution containing the
+product under examination to just above the sensitivity limit
+and cause a positive reaction.
+The risk of this happening may be reduced by testing the
+water for BET and the other reagents and materials with the
+most sensitive lysate available, or at least one that is more
+sensitive than the one used in the test on the product. Even
+then, the risk of such a ‘false positive result’ cannot be ruled
+out completely. It should be realised, however, that in this
+respect the test design is ‘fail-safe’ in contrast to a test design
+permitting a false negative result, which could lead to the
+release of an unsatisfactory product, thus endangering the
+patient’s health.
+11. REPLACEMENT OF THE RABBIT PYROGEN TEST BY
+A TEST FOR BACTERIAL ENDOTOXINS
+Monographs on pharmaceutical products intended for
+parenteral use that may contain toxic amounts of bacterial
+endotoxins require either a test for bacterial endotoxins or a
+rabbit pyrogen test. As a general policy:
+11.1. In any individual monograph, when a test is required,
+only one test is included, either that for pyrogens or that for
+bacterial endotoxins.
+11.2. In the absence of evidence to the contrary, the test for
+bacterial endotoxins is preferred over the test for pyrogens,
+since it is usually considered to provide equal or better
+protection to the patient.
+11.3. Before including a test for bacterial endotoxins in
+a monograph, evidence is required that one of the tests
+described in chapter 2.6.14 can be applied satisfactorily to
+the product in question.
+11.4. The necessary information is sought from
+manufacturers. Companies are invited to provide any
+validation data that they have concerning the applicability
+of the test for bacterial endotoxins to the substances and
+formulations of interest. Such data include details of sample
+preparation and of any procedures necessary to eliminate
+interfering factors. In addition, any available parallel data for
+rabbit pyrogen testing that would contribute to an assurance
+that the replacement of a rabbit pyrogen test by the test for
+bacterial endotoxin is appropriate, must be provided.
+Additional requirements are defined in the following sections.
+12. USE OF A DIFFERENT BACTERIAL ENDOTOXIN
+TEST FROM THAT PRESCRIBED IN THE MONOGRAPH
+When a test for bacterial endotoxins is prescribed in a
+monograph and none of the six methods (A to F) described
+in chapter 2.6.14 is specified, then method A, the gel-clot
+method limit test, has been validated for this product. If one
+of the other methods (B to F) is specified, this is the one
+which has been validated for this product.
+13. VALIDATION OF ALTERNATIVE METHODS
+Replacement of a rabbit pyrogen test by a bacterial endotoxin
+test, or replacement of a stated or implied method for
+bacterial endotoxins by another method, is to be regarded
+as the use of an alternative method in the replacement of a
+pharmacopoeial test, as described in the General Notices:
+“The test and assays described are the official methods
+upon which the standards of the Pharmacopoeia are
+based. With the agreement of the competent authority,
+alternative methods of analysis may be used for control
+purposes, provided that the methods used enable
+an unequivocal decision to be made as to whether
+compliance with the standards of the monographs would
+be achieved if the official methods were used. In the
+event of doubt or dispute, the methods of analysis of the
+Pharmacopoeia are alone authoritative.”
+The following procedures are suggested for validating a
+method for bacterial endotoxins other than the one implied
+or indicated in the monograph.
+13.1. The procedure and the materials and reagents used
+in the method should be validated as described for the test
+concerned.
+13.2. The presence of interfering factors (and, if needed, the
+procedure for removing them) should be tested on samples
+of at least three production batches. It should be borne in
+mind that methods D and E, using a chromogenic peptide,
+require reagents that are absent in methods A, B, C and F,
+and hence compliance of methods A, B, C or F with the
+requirements for interfering factors cannot be extrapolated
+to method D or method E without further testing.
+14. VALIDATION OF THE TEST FOR NEW PRODUCTS
+The procedures described under 13.1 and 13.2 should be
+applied to all new products intended for parenteral use that
+have to be tested for the presence of bacterial endotoxins
+according to the requirements of the Pharmacopoeia.
+01/2005:20615
+corrected
+2.6.15. PREKALLIKREIN ACTIVATOR
+Prekallikrein activator (PKA) activates prekallikrein to
+kallikrein and may be assayed by its ability to cleave a
+chromophore from a synthetic peptide substrate so that the
+rate of cleavage can be measured spectrophotometrically and
+the concentration of PKA calculated by comparison with a
+reference preparation calibrated in International Units.
+The International Unit is the activity of a stated amount of
+the International Standard which consists of freeze-dried
+prekallikrein activator. The equivalence in International
+Units of the International Standard is stated by the World
+Health Organisation.
+Prekallikrein activator in albumin BRP is calibrated in
+International Units by comparison with the International
+Standard.
+PREPARATION OF PREKALLIKREIN SUBSTRATE
+To avoid coagulation activation, blood or plasma used for
+the preparation of prekallikrein must come into contact
+only with plastics or silicone-treated glass surfaces.
+Draw 9 volumes of human blood into 1 volume of
+anticoagulant solution (ACD, CPD or 38 g/l sodium
+citrate R) to which 1 mg/ml of hexadimethrine bromide R
+has been added. Centrifuge the mixture at 3600 g for 5 min.
+Separate the plasma and centrifuge again at 6000 g for
+20 min to sediment platelets. Separate the platelet-poor
+plasma and dialyse against 10 volumes of buffer A for
+20 h. Apply the dialysed plasma to a chromatography
+column containing agarose-DEAE for ion exchange
+chromatography R which has been equilibrated in buffer A
+and is equal to twice the volume of the plasma. Elute from
+the column with buffer A at 20 ml/cm2/h. Collect the eluate
+in fractions and record the absorbance at 280 nm (2.2.25).
+Pool the fractions containing the first protein peak so that
+the volume of the pool is about 1.2 times the volume of the
+platelet-poor plasma.
+168
+See the information section on general monographs (cover pages)

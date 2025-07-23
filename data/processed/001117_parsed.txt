@@ -1,0 +1,626 @@
+EXPLANATION OF SIGNIFICANT DIFFERENCES 
+FIRST PIEDMONT CORP. ROCK QUARRY (ROUTE 719) 
+ 
+I. 
+INTRODUCTION 
+ 
+Site Name: 
+ 
+First Piedmont Corp. Rock Quarry (Route 719)  
+ 
+Site Location:  
+Pittsylvania County, Virginia 
+ 
+Lead Agency:  
+U.S. Environmental Protection Agency,  
+ 
+ 
+ 
+Region III (“EPA” or “the Agency”) 
+ 
+Support Agency:  
+Virginia Department of Environmental Quality (“VADEQ”) 
+ 
+A. 
+Statement of Purpose 
+ 
+A Record of Decision (“ROD”) for the First Piedmont Corp. Rock Quarry (Route 
+719) Superfund Site (“Site”) was signed on June 28, 1991.  The ROD delineates the 
+remedial action selected to address the following major components: Excavation and 
+offsite disposal of the Carbon Black Pile, Waste Pile and the Northern Drainage soils and 
+sediments; Construction of a Resource Conservation and Recovery Act (RCRA) Subtitle 
+C Cap on the landfill; Collection of leachate with treatment at a publicly owned treatment 
+works (“POTW”); Washing and offsite disposal of surface debris; Ground water 
+monitoring; and Institutional controls.  
+ 
+Excavation of the Carbon Black Pile began on September 8, 1994. Excavation and 
+off-site disposal of an estimated 1,260 cubic yards of Carbon Black Pile soil was 
+completed on October 4, 1994.  In the first five-year review, which was completed on 
+September 30, 1999, and the second five-year review, which was completed on February 
+3, 2005, EPA determined that the remedy was not protective because sediments in the 
+Southern Drainage area and portions of the Lawless Creek were found to have significant 
+levels of zinc, and institutional controls to restrict land use had not been implemented. As 
+part of the five-year reviews, EPA required the Potentially Responsible Parties (“PRPs”) 
+to perform an additional investigation in order to find the source and to delineate the 
+nature and extent of zinc contamination in sediment of the Southern Drainage and 
+Lawless Creek areas of the Site.  At this time, based on the results of this investigation, 
+additional excavation of the Carbon Black is required in order to address zinc 
+contamination in the Southern Drainage and the Lawless Creek areas to protect the 
+environment.  
+ 
+ 
+This Explanation of Significant Differences (“ESD”) has been prepared in order 
+to document the basis for a modification to the excavation and off-site disposal of the 
+Carbon Black component of the selected remedy set forth in the ROD, to summarize the 
+information that supports this modification, and to affirm that the revised remedy 
+complies with the statutory requirements of the Comprehensive Environmental Response, 
+Compensation and Liability Act of 1980, 42 U.S.C 9617(c), as amended (CERCLA).  
+ 
+1
+The modification described herein is “significant” as defined by 40 C.F.R.  
+300.435(c)(2)(i) of the National Oil and Hazardous Substances Pollution Contingency 
+Plan (NCP), and, therefore, requires the preparation of this ESD.  This modification to the 
+selected remedy does not fundamentally alter the basic features of the selected remedy 
+with respect to scope or cost, but modifies the cleanup standards for zinc soil 
+concentrations.  Therefore, a ROD amendment is not required in this matter.  This ESD is 
+issued in accordance with Section 117(c) of CERCLA.  This ESD is incorporated into the 
+Administrative Record for the Site.  
+ 
+ 
+II. 
+SUMMARY OF THE SITE HISTORY, SITE CONDITIONS, AND 
+SELECTED REMEDY 
+ 
+ 
+The First Piedmont Corp. Rock Quarry Superfund Site is located along Route 719 
+in Pittsylvania County, Virginia near the intersection with Route 360. It is approximately 
+six miles north of the city of Danville (see Figure 1).   
+ 
+ 
+The Site is an abandoned rock quarry located on a topographically high ridge.  
+The quarrying operation left a cut into the rock outcrop bounded on three sides by the 
+quarry high walls.  The fourth side of the cut is open and slopes to the west.  
+ 
+ 
+Drainage from the area is to Lawless Creek, which lies approximately 1,400 feet 
+to the northwest of the quarry. Lawless Creek is a tributary of Fall Creek, which is a 
+tributary of the Dan River.  
+ 
+ 
+The Site was initially operated as a quarry for crushed stone.  The four-acre 
+property which comprises the Site consists of the abandoned quarry and the adjacent 
+land.  The Site was leased by the First Piedmont Corporation to be used as a landfill for 
+industrial and agricultural waste from April 1, 1970 to April 1, 1975.  Wastes were 
+disposed of in the landfill from April, 1970 to July 1972, at which point the Virginia 
+Department of Health ordered waste disposal operations to cease due to fire on the 
+landfill.  
+ 
+ 
+At the Site, the landfill operations were historically restricted, almost exclusively, 
+to the two-acre quarry area.  The quarry was not filled in a systematic fashion; no cells or 
+segregated disposal areas were used for specific wastes.  Hundreds of drums were buried 
+in the landfill in random fashion with other solid waste.  Upon arrival at the Site, wastes 
+were generally dumped at the high wall along the eastern edge of the landfill, where the 
+quarry is approximately 35 feet deep, and had been pushed down with a bulldozer.  
+Subsequent investigation by EPA indicated that wastes were not covered at the end of 
+each day.   
+ 
+ 
+The landfill contained approximately 65,000 cubic yards of industrial and 
+agricultural waste and approximately 3,000 cubic yards of soil used as a core when 
+landfilling operations were stopped.  The industrial wastes were generated by the 
+Goodyear Tire and Rubber Company (“Goodyear”) and Corning Glass Works 
+ 
+2
+(“Corning”); the agricultural wastes were generated by Southern Processors, Inc 
+(“Southern Processors”).  The wastes from Goodyear consisted of tires, general plant 
+refuse, scrap rubber, rubber buildup and approximately 15,000 gallons of a mixture of 
+residual MS-20 (a floor degreaser), water, carbon black (a reinforcement additive used in 
+tire manufacturing that is comprised almost entirely of carbon) and detergent.  The MS-
+20 contained ten percent by volume of tetrachloroethylene, which is a listed hazardous 
+waste under the RCRA.  The wastes from Corning consisted of paper, glass, cardboard 
+and off-specification batch materials which contained trace amounts of lead oxide.  The 
+wastes from Southern Processors, a tobacco processing company, consisted of soil 
+removed from tobacco leaves, tobacco scrap, paper and wood. 
+ 
+ 
+Separate and apart from the landfill are two other areas of waste disposal on the 
+Site associated with the landfilling operation.  These two areas are denoted as the 
+“Carbon Black Pile” and the “Waste Pile” (See Figure 1).  The Carbon Black Pile 
+consisted of approximately 100 cubic yards of carbon black and contaminated soils.  Zinc 
+oxide bags were reportedly observed in the pile during the construction of access roads 
+for the Remedial Investigation.  The Carbon Black Pile is approximately 150 feet from 
+the most western edge of the landfill.  The Waste Pile contains approximately 10 cubic 
+yards of waste material consisting of steel and nylon cords, some glass, waste rubber 
+strips and contaminated soils.  The Waste Pile is located about 75 feet from the western 
+edge of the landfill. 
+ 
+ 
+Another disposal area not associated with the landfilling operations is located 
+about 100 feet southwest of the Carbon Black Pile.  This area, denoted as the “Old 
+Disposal Area”, in Figure 1, contains miscellaneous refuse including bottles, cans and 
+metal debris.  Based on visual observation of this material, disposal in this area was 
+estimated to have occurred 20 to 30 years prior to the landfilling operation and, as such, 
+was not within the scope of the Record of Decision.  
+ 
+ 
+In a letter dated June 1, 1981, the Goodyear Tire and Rubber Company notified 
+the First Piedmont Corporation that some of the wastes deposited at the First Piedmont 
+Rock Quarry Landfill were hazardous.  The First Piedmont Corporation filed a 
+“Notification of Hazardous Waste Site” form with EPA on June 5, 1981 listing solvents 
+as one of the wastes disposed of at the landfill.  The EPA Field Investigation Team 
+subcontractor sampled the media in the landfill vicinity in July, 1983 to provide data in 
+order for EPA to determine whether the landfill should be proposed for listing on the 
+National Priorities List (NPL).  Based on the results of this sampling, a Hazard Ranking 
+Score (HRS) of 37.85 was calculated in 1985 for the Site.  Based on comments received 
+by EPA, the HRS was rescored to 30.16.  The Site was listed on the NPL on July 21, 
+1987, pursuant to Section 105 of CERCLA, 42 U. S. C. § 9605. 
+ 
+ 
+EPA sent Special Notice Letters on May 6, 1986 to initiate negotiations with 
+PRPs, First Piedmont, Corning, and Goodyear to perform a Remedial Investigation 
+/Feasibility Study (RI/FS) for the Site.  On December 31, 1987, EPA signed an 
+Administrative Order on Consent with the PRPs to undertake performance of the RI/FS 
+for the Site, which included sampling in various areas of interest of the Site.  
+ 
+3
+ 
+ 
+Evidence indicated that ground water that flowed through the wastes in the 
+landfill surfaced as leachate along the western edge of the quarry.  This leachate 
+discharged to the north pond and eventually into the Northern Drainage, as identified in 
+Figure 1.  Sampling indicated that contamination from the landfill contents migrated to 
+the north pond and Northern Drainage via the transport and deposition of sediments in the 
+leachate.  The highest concentrations of contaminants detected in the Northern Drainage 
+were in the samples closest to the quarry and levels decreased with distance from the 
+quarry area.  The contaminants of concern found in the leachate were arsenic, lead, 
+antimony, and barium.  
+ 
+ 
+Surface water samples were collected from the south pond, north pond, Southern 
+Drainage, Northern Drainage, and Lawless Creek.  Sampling data from the south pond 
+indicated that water there was not adversely affected by landfill contamination.  A very 
+low level of 20 micrograms/liters (ug/l) of zinc was the only significant heavy metal 
+contaminant detected in the south pond. The zinc concentration detected was below the 
+background level for surface water zinc concentrations.  
+ 
+ In the north pond, concentrations of arsenic, barium, cadmium, lead, and zinc 
+were detected in concentrations of 58 ug/l, 8420 ug/l, 21 ug/l, and 219 ug/l, respectively, 
+which were slightly above the Site background levels  
+ 
+ 
+Leachate that had accumulated in the north pond ultimately flowed into the 
+Northern Drainage area.  The area identified as the upper portion of the Northern 
+Drainage in Figure 1 was closest in proximity to the landfill.  In this upper portion of the 
+Northern Drainage arsenic, barium, iron, lead, manganese, and zinc were detected at 
+concentrations of 13.7 ug/l, 5600 ug/l, 59,000 ug/l, 4.1 ug/l, 1540 ug/l, and 48.1 ug/l 
+respectively, which were above background levels.  The concentrations of these 
+contaminants significantly decreased downstream from the landfill.  In fact, where the 
+Northern Drainage meets the Lawless Creek flood plain, only very low levels of barium, 
+lead, and zinc (109 ug/l, 2.4 ug/l, and 32.8 ug/l respectively) were detected which were 
+below background concentrations.   
+ 
+ 
+Zinc and cadmium were detected in the Southern Drainage at the maximum level 
+of 111,000 ug/L and 18.2 ug/L, respectively. The source of these high levels of zinc and 
+cadmium likely is the Carbon Black Pile for a number of reasons: 1) the Carbon Black 
+Pile was located up-gradient of the Southern Drainage; 2) based on sampling results,  
+concentrations of zinc were higher down-gradient of the pile than up-gradient of the 
+Carbon Black Pile; 3) it was reported that empty zinc oxide bags were sighted in the 
+vicinity of the Carbon Black Pile during the construction of access roads during the RI.  
+Therefore, infiltration of precipitation and surface water into the Carbon Black Pile is 
+likely to have mobilized zinc from the pile in high concentrations.  The zinc 
+contaminated water is likely to have migrated down-gradient through the shallow 
+subsurface soil (and possibly rock fractures) and appears to have discharged into the 
+surface water in the Southern Drainage.  Samples were collected from three locations in 
+Lawless Creek (one was background) and two non-background samples.  At one non-
+ 
+4
+background sampling location, barium, iron, manganese, and zinc were detected at 
+concentrations of 20.5 ug/l, 647 ug/l, 79 ug/l, and 26.5 ug/l, respectively, all of which are 
+above the background concentrations.  At the other non-background sampling location, 
+iron, manganese, and zinc were detected at concentrations of 604 ug/l, 57.7 ug/l, and 16.3 
+ug/l, respectively, which were above background concentrations.  
+ 
+ 
+ 
+At the landfill portion of the Site, soil samples had concentrations of arsenic, 
+barium, cadmium, chromium, lead, nickel, vanadium, and zinc exceeding Site 
+background levels. Barium, lead, and zinc were found in the highest concentrations.  
+ 
+ 
+The Waste Pile soil samples generally showed concentrations of arsenic, barium, 
+cadmium, lead, and zinc at levels exceeding background, with barium, lead, and zinc 
+found in highest relative concentrations.  The concentrations range from twice the 
+background level for arsenic to ten times the background concentration for lead.  
+ 
+ 
+The Carbon Black Pile soil samples had concentrations of arsenic, barium, 
+cadmium, lead, and zinc exceeding background levels.  Lead concentrations were about 
+twice the background level while zinc was detected at concentrations ten times the 
+background level.   
+ 
+ 
+Shallow and deep ground water at the Site flows to the west, toward Lawless 
+Creek.  Zinc was detected in three monitoring wells at concentrations of 504 ug/l, 2050 
+ug/l, and 213 ug/l, which exceeded the background level of 61.3 ug/l.  One monitoring 
+well had lead concentrations of 28.8 ug/l, which exceeded background and the proposed 
+action level of 15 ug/l.   
+ 
+ 
+EPA sampled the residential water sources of ten homes in the Beaver Park 
+community near the Site.  Only two of the ten residential wells sampled had levels above 
+drinking water standards.  One well had a detection of 466 ug/l of iron, which exceeded  
+the Secondary Drinking Water criterion of iron of 300 ug/l.  The other well had a 
+detection of 333 ug/l iron and 65.1 ug/l of manganese, which exceeded the Secondary 
+Drinking Water criteria for iron and manganese of 300 ug/l and 50 ug/l, respectively.  
+Because none of the major Site contaminants were detected in the residential water, these 
+results indicated that the Site contamination had not affected any residential wells in the 
+Site vicinity.   
+ 
+ 
+Solid samples were collected from the contents of two of the drums on the surface 
+of the landfill.  Concentrations of chromium, copper, and lead and higher concentrations 
+of cadmium and zinc were detected in one drum, which were below background.  Below 
+background concentrations of cadmium, chromium, lead, nickel, selenium and vanadium 
+and above background concentrations of copper and zinc were detected in the other drum 
+sampled.  
+ 
+ 
+The Proposed Remedial Action Plan (“PRAP”) for the Site was released to the 
+public in April, 1991.  The remedy selected for the Site addressed all of the contaminated 
+media at the Site and consisted primarily of excavation and off-Site disposal of the non-
+ 
+5
+landfill wastes, off-Site disposal of the surface drums and debris, installation of a RCRA 
+Subtitle C cap over the Landfill, collection and treatment of leachate, ground water 
+monitoring, and land use restriction.  By implementing all of these components, the Site 
+risks (exposure to leachate, source material, and quarry soil) would be reduced to within  
+EPA’s acceptable risk range.  EPA issued a Record of Decision (“ROD”) for the Site on 
+June 28, 1991.  The Commonwealth of Virginia concurred with the selected remedy.   
+ 
+III. 
+DESCRIPTION OF SIGNIFICANT DIFFERENCES AND THE BASES 
+FOR THOSRE DIFFERENCES 
+ 
+A. 
+Description of the Modification 
+ 
+ 
+The following is a summary of the activities conducted at the Site pursuant to the 
+June 28, 1991 ROD.  
+ 
+• Carbon Black Excavation.  Carbon Black excavation began on September 8, 
+1994. Excavation and off-Site disposal of an estimated 1,260 cubic yards of 
+Carbon Black Pile soil was completed on October 4, 1994. 
+• Waste Pile. Soil and debris were removed from the waste pile on September 12, 
+1994.  The volume of material that was removed and disposed of as a special 
+waste was 95 cubic yards.  
+• Drum and Debris Removal.  Removal of drums and debris from the surface of the 
+landfill began on September 21, 1994.  A total of 96 drums and 100 cubic yards of 
+tires and debris were removed from the Site.  The drum and debris removal 
+operation was completed on October 5, 1994. 
+• Gas Venting Layer.  Placement of the gas venting layer on the landfill portion of 
+the Site began on October 26, 1994.  Three gas vents were installed to release any  
+methane build up.  Placement and grading of this layer was completed on 
+November 9, 1994.  
+• Installation of Landfill Cap.   Placement of a Geosynthetic Clay Liner (“GCL”) 
+began on November 26, 1994.  Panels were laid out so that the length of the panel 
+was parallel to the slope of the gas venting layer. The liner placement was 
+completed on January 9, 1995.  
+• Leachate Collection System.  Construction of a leachate collection system began 
+on October 17, 1995 and it took approximately two weeks to complete. The 
+leachate collection system collects leachate in a collection trench excavated below 
+the top of bedrock at the western edge of the landfill.  The leachate in the trench 
+collects in a 4 inch slotted polyvinyl chloride (“PVC”) pipe, which is surrounded 
+by fill material, and flows into the leachate collection sump at the southern end of 
+the trench.  Leachate is then pumped from the leachate collection sump to primary 
+and secondary 20,000 gallon storage tanks. The leachate is sampled quarterly and 
+disposed of at Danville’s publicly owned treatment works (“POTWs”).   
+• Wetland Monitoring.  The remedial action included the planting of vegetation and 
+berry-producing shrubs in the disturbed portion of the Northern Drainage Area.  
+The Operation and Maintenance plan calls for an annual “walk through” 
+inspection by a qualified biologist for the first five years following the completion 
+ 
+6
+of the 1994-1995 remedial work.  The biologist checked the Northern Drainage 
+Area for evidence of plant and vegetation succession.   The plants were growing 
+and becoming established as designed.   
+• Ground Water Monitoring.  Ground water monitoring is conducted at existing 
+wells up-gradient and down-gradient of the landfill.  Ground water monitoring is 
+to be conducted as long as leachate is collected at the Site, or for 30 years, 
+whichever is longer.  Ground water monitoring results from 1995 through 2004 
+indicated that zinc contamination decreased significantly after the Carbon Black 
+Pile was removed.  However, one monitoring well, which is located 
+approximately one hundred feet north of the Southern Drainage channel, had an 
+average zinc concentration of 97 ug/l over a nine year period.  This is above the 
+background level of 61.3 ug/l. 
+• Site Use Restrictions.  Appropriate Site use restrictions will be placed for future 
+use scenarios to ensure protection of public health and the environment.  EPA is 
+in the process of implementing Site use restrictions.   
+• Preliminary Site Close Out Report.  On September 27, 1995, EPA signed the 
+Preliminary Site Close Out Report, which documented that the PRPs had 
+completed construction activities at the Site.  
+ 
+In the first five-year review (September 30, 1999), EPA determined that the remedy 
+was not protective, because sediments in the southern drainage and portions of the 
+Lawless Creek were found to have significant levels of metals, and institutional controls 
+to restrict land use had not been implemented.  As a part of the first five-year review, 
+EPA required the PRPs to perform additional investigations to further delineate the nature 
+and extent of metal contamination in sediment of the Southern Drainage and Lawless 
+Creek areas. 
+ 
+ 
+In December 2001, the PRPs submitted a report to EPA entitled “Additional 
+Investigation Report First Piedmont Rock Quarry/Route 719 Site, Pittsylvania County, 
+Virginia” (or “Additional Investigation Report”).  The purpose of the Additional 
+Investigation Report was to further delineate the nature and extent of metal contamination 
+in sediment of the Southern Drainage and Lawless Creek from past deposits and to 
+investigate any potential secondary sources of metals to the Southern Drainage.  
+Sediment samples were collected from a total of eighteen sampling stations in July 2001.  
+Ten stations were analyzed for sediment toxicity, total metals, total organic carbon, and 
+sediment size.  Of these ten stations, four were located in the Southern Drainage, one was 
+located at the confluence of the floodplain and Lawless Creek, one was located in the 
+network of drainage channels within the Lawless Creek floodplain, and four were located 
+in Lawless Creek waterbody.  Samples from the remaining eight stations were analyzed 
+for total zinc only to identify contaminant migration pathways and potential sources of 
+zinc.  Three of the zinc only stations were located within the Southern Drainage channel 
+and five were located in the Lawless Creek floodplain.  
+ 
+ 
+Results of the chemical analyses and toxicity tests conducted on the sediments 
+collected from the Southern Drainage, Lawless Creek floodplain, and Lawless Creek 
+indicated that zinc is the primary contaminant of concern.  Toxicity tests using sediment 
+ 
+7
+collected from deposits located down-gradient of the Site were performed on two 
+commonly found sediment dwelling test species to determine the zinc concentration that 
+was toxic to those organisms.  The toxicity test results generated a lowest observable 
+effects concentration (“LOEC”) of 124 mg/kg indicating that zinc concentrations below 
+this level are likely to have minimal or acceptable impacts on aquatic receptors.  Thus, 
+locations where sediment zinc concentrations exceed the LOEC (124 mg/kg) are 
+expected to have significant ecological impacts.  Based on the results of samples 
+collected, sediment in the  Southern Drainage and Lawless Creek floodplain exceed the 
+LOEC.   
+ 
+ 
+The data indicated that zinc has migrated along the lower portion of the Southern 
+Drainage and to a lesser extent to the drainage channels within the Lawless Creek flood 
+plain.  Sediment toxicity tests conducted previously indicate that zinc concentrations 
+which have accumulated in Lawless Creek to date are harmful to aquatic receptors.  It is 
+likely that at times of high flow zinc contaminated sediments would migrate from the 
+Southern Drainage to Lawless Creek.  
+ 
+ 
+The Additional Investigation Report concluded that the former Carbon Black Pile, 
+which was removed in 1994, might be the historical source of the zinc contamination.  It 
+also concluded that a waste pile (“waste pile 2”) that is not related to current or past site 
+operations is a potential source of zinc.  This waste pile is located adjacent to Route 719 
+and up-gradient of one of the sampling stations in the Southern Drainage as identified in 
+Figure 1.  After reviewing the report, EPA concluded that the area had not been 
+sufficiently characterized and more work needed to be done to delineate the source of 
+zinc contamination with greater accuracy. 
+ 
+ 
+In December 2003, the PRPs submitted a report to EPA entitled “Zinc Source 
+Investigation Report First Piedmont Rock Quarry/Route 719 Site, Pittsylvania County, 
+Virginia” (or “Zinc Source Investigation Report”).  This investigation was performed to 
+determine the source or sources of zinc.  Soil and sediment samples were collected on 
+September 9, 2003 from eighteen sampling stations, including thirteen soil stations and 
+five sediment stations.  All samples were analyzed for total zinc.  The investigation 
+results indicated that the soil zinc concentrations for the samples collected down-gradient 
+of the former waste pile were 23.9 mg/kg and 36.8 mg/kg.  These concentrations were 
+similar to background, indicating that surface soils down-gradient of the former waste 
+pile are not a source of zinc to the Southern Drainage area.   
+ 
+ 
+The soil zinc concentrations of samples collected down-gradient of the former 
+Carbon Black and the Old Disposal Area ranged from 41.1 to 533 mg/kg.  All of these 
+values were higher than the Site background concentration (23.8 mg/kg).  The 
+investigation concluded that zinc oxide disposed of at the Carbon Black Pile is the 
+primary source of zinc in surface soils down-gradient of the Carbon Black Pile.  
+ 
+ 
+Sediment samples were collected from five stations in the Southern Drainage area 
+during the September 2003 sampling event.  Four of these sample stations were also 
+sample stations that had been sampled in July.  The sediment zinc concentration for the 
+ 
+8
+sampling stations ranged from 18 mg/kg to 772 mg/kg.  EPA and the PRPs met to discuss 
+the report on July 29, 2004, and agreed that more work needed to be done to characterize 
+this portion of the Site. 
+ 
+ 
+On August 12, 2004, EPA, VDEQ and the PRPs inspected the Site to identify  
+additional areas that needed to be investigated.  The second Five-Year Review was 
+completed by EPA in February 2005.  In response to EPA’s concern regarding potential 
+zinc impacts to the Southern Drainage and the floodplains associated with Lawless 
+Creek, as outlined in the Second Five-Year Review, the PRPs prepared a Work Plan to 
+delineate the nature and extent of the zinc impacts on these areas.  EPA approved the 
+Work Plan on March 2005.  
+ 
+ 
+During a meeting with EPA on September 19, 2006, the PRPs proposed to 
+excavate residual carbon black that had been left in place after the initial excavation of 
+the former Carbon Black Pile area was completed.  These excavation activities were 
+proposed for residual carbon black material identified in borings taken from the former 
+Carbon Black Pile area during the August and September 2005 field investigation. At the 
+September 19, 2006 meeting, EPA expressed concerns about the potential risk to 
+ecological receptors (plants and soil invertebrates) posed by residual zinc concentrations 
+identified in the soils.   
+ 
+ 
+The excavation of residual zinc from the former Carbon Black Pile area will be a 
+continuation of the excavation of 1,260 cubic yards of Carbon Black Pile soil that began 
+on September 8, 1994 and was completed on October 4, 1994.  Soils with zinc 
+concentrations in excess of 200.2 mg/kg will be excavated.  Excavation will be 
+performed followed with confirmation sampling to verify that the zinc soil concentrations 
+of 200.2 mg/kg are met. Excavated material will be disposed of in a waste disposal 
+facility designed and permitted to accept soil with moderate zinc concentrations.  
+Following completion of the removal activities, the excavated area will be backfilled with 
+clean soil, graded, and seeded.  The area where the excavation will occur covers an 
+estimated 0.6 acres, and approximately 2,000 cubic yards of soil will be excavated. The 
+cost of the removal action, including engineering design costs, construction, construction 
+quality assurance, and planting is estimated to be $93,000.   
+ 
+ 
+B. 
+Analysis of Modification 
+ 
+Residual zinc in soil that remained in place after the Carbon Black Pile was 
+excavated will be excavated.  The ROD did not call for soil cleanup standards for zinc.  
+During the excavation of the Carbon Black Pile, excavation ended when no more carbon 
+black was visible. EPA decided that soil cleanup standards for zinc in the soil would have 
+to be established as a part of the new proposed removal action. The PRPs performed a 
+statistical analysis of “No Observable Effect Concentrations” (NOEC) published data for 
+plants and invertebrate organisms.  Based on their analysis, the PRPs proposed that the 
+cleanup standard for zinc in soils be 292.5 mg/kg. Their analysis suggest that it is 
+ 
+9
+unlikely that more than 5% of the soil invertebrate and plant population will be adversely 
+affected by zinc concentrations of 292.5 mg/kg or less.   
+ 
+ 
+EPA found a number of flaws with the methodology that the PRPs used to 
+calculate the 292.5 mg/kg or less cleanup standard.  The primary concerns were:  First,  
+Values for plants and invertebrates were combined into a single analysis, resulting in a 
+value that is less protective of the more sensitive receptor (plants).  Second, studies with 
+different soil types, pH, and organic carbon were all used to calculate the cleanup 
+standard for zinc in soil.  It would have been more appropriate to only use those studies 
+that had similar soil types, pH, and organic carbon content. And third, lowest observable 
+effect concentration (LOEC) data were based primarily on mortality endpoints.  LOECs 
+based on sublethal endpoints are likely to be lower. 
+ 
+The PRPs proposed remedial cleanup standard of 292.5 mg/kg zinc, which is the 
+upper 95% confidence level of the no observable effect concentration (NOEC).  EPA did 
+not support the selection of this value; among other reasons, because the lower 
+confidence limit for the LOEC (200.2 mg/kg) is less than the upper 95% confidence limit 
+of the NOEC.  EPA has selected 200.2 mg/kg or less of zinc in soil as the cleanup 
+standard.   
+ 
+ 
+The applicable or relevant and appropriate requirements (ARARs) identified in 
+the ROD will apply to the additional removal of zinc contaminated soil from the former 
+Carbon Black Pile area.  No additional ARARs will be required.  
+ 
+IV. 
+PUBLIC PARTICIPATION 
+ 
+ 
+This ESD and the information upon which it is based have been included in the 
+Administrative Record File for the Site.  The Administrative Record also includes the 
+ROD and all documents that formed the basis for EPA’s selection of the cleanup 
+remedy for the removal of zinc in soil at the Site.  The Administrative Record is 
+available for public review at the locations listed below: 
+ 
+ 
+ 
+ 
+ 
+U.S. EPA, Region III 
+         
+ 
+ 
+1650 Arch Street 
+ 
+ 
+ 
+ 
+Philadelphia, PA 19103-2029 
+ 
+                                                Pittsylvania County Public Library 
+                                                24 Military Drive 
+ 
+ 
+ 
+ 
+Chatham, Virginia 24531 
+ 
+ 
+Questions or comments on EPA’s action and requests to review the 
+Administrative Record can be directed to:  
+ 
+ 
+ 
+ 
+ 
+Ronnie M. Davis 
+ 
+ 
+ 
+ 
+Remedial Project Manager 
+ 
+10
+ 
+ 
+ 
+ 
+U.S. EPA, Region III 
+ 
+ 
+ 
+ 
+1650 Arch Street (3HS23) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Philadelphia, PA 19103-2029 
+ 
+ 
+ 
+ 
+(215) 814-3230 
+ 
+ 
+The Agency encourages the submission of written comments concerning this ESD 
+between May 31, 2007 and June 30, 2007. Based upon review of these comments and the 
+level of community interest, EPA and VADEQ will determine if a public meeting 
+concerning this matter is warranted.  
+ 
+ 
+SUPPORT AGENCY REVIEW 
+ 
+ 
+In accordance with 40 C.F. R § 300.435 (c)(2), EPA has notified the VADEQ of 
+the modification to the soil removal component of the selected remedy described in this 
+ESD.   
+ 
+VI. 
+AFFIRMATION OF STATUTORY DETERMINATION 
+ 
+ 
+Based upon the Agency’s review of new information concerning the removal of 
+zinc contaminated soil that was submitted by the PRPs at this Site, and the selection of 
+the cleanup standards for zinc contaminated soil at the Site, EPA believes that the 
+modified remedy is protective of human health and the environment, complies with 
+Federal and State requirements that are applicable or relevant and appropriate to this 
+remedial action, and is cost-effective.  In addition, the revised remedy utilizes permanent 
+solutions to the maximum extent practicable at this Site.   
+ 
+ 
+ 
+ 
+ 
+ 
+___Signature on file_______         
+ 
+ 
+   ___May 30, 2007______ 
+James J. Burke, Director                                                  Date 
+Hazardous Site Cleanup Division  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11

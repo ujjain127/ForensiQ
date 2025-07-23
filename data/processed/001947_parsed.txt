@@ -1,0 +1,604 @@
+TREASURY INSPECTOR GENERAL FOR TAX ADMINISTRATION 
+ 
+Phone Number   |  202-927-7037 
+Email Address   |  inquiries@tigta.treas.gov 
+Web Site           |  http://www.tigta.gov 
+ 
+ 
+The Tax Exempt Bonds Office Has 
+Established Controls, but Improvements  
+Are Needed to Prevent Improprieties 
+ 
+ 
+ 
+December 21, 2007 
+ 
+Reference Number:  2008-10-052 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This report has cleared the Treasury Inspector General for Tax Administration disclosure review process 
+and information determined to be restricted from public release has been redacted from this document. 
+ 
+DEPARTMENT OF THE TREASURY 
+WASHINGTON, D.C.  20220 
+TREASURY INSPECTOR GENERAL 
+FOR TAX ADMINISTRATION 
+ 
+ 
+ 
+December 21, 2007 
+ 
+ 
+MEMORANDUM FOR COMMISSIONER, TAX EXEMPT AND GOVERNMENT ENTITIES 
+DIVISION  
+ 
+ 
+FROM: 
+Michael R. Phillips 
+ Deputy Inspector General for Audit 
+ 
+SUBJECT: 
+ Final Audit Report – The Tax Exempt Bonds Office Has Established 
+Controls, but Improvements Are Needed to Prevent Improprieties 
+(Audit # 200610020) 
+ 
+This report presents the results of our review of examination closing actions by the Tax Exempt 
+Bonds (TEB) office.  The overall objectives of this review were to determine whether closing 
+actions for tax-exempt bond examinations opened-in-error appropriately complied with Internal 
+Revenue Service (IRS) guidelines and whether security and controls over closing actions for 
+field examination cases were effective.  This audit was requested by the Director, Government 
+Entities, to determine whether actions to close tax-exempt bond examinations using the opened-
+in-error disposal code were appropriate.  This audit was conducted as part of the Treasury 
+Inspector General for Tax Administration Office of Audit Fiscal Year 2007 Annual Audit Plan. 
+Impact on the Taxpayer 
+Controls over examination closures are needed to provide assurance that capital raised from 
+issuing tax-exempt bonds will be appropriately used for public works projects, and examinations 
+are conducted with integrity and fairness.  However, we identified control weaknesses that could 
+allow employees to improperly close examinations without managers being aware of the actions.  
+In addition, because of a lack of documentation, we could not determine if the high-risk opened-
+in-error disposal code was used correctly or if it was the appropriate action to take on the 
+examination case.   
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+2
+Synopsis 
+The TEB office established some significant controls for closing examinations established on the 
+inventory system and ensured the ability to close cases from the inventory system was limited to 
+authorized TEB employees.  For example, examiners attest that conclusions are technically 
+correct and procedurally accurate by preparing an examination closing record and then 
+assembling the case file according to specific guidelines.  The case files, including the 
+examination closing record, are then reviewed by supervisors.  The TEB office also performs 
+limited-scope examinations on refund claims and limits the capability to close cases from the 
+inventory system to just the inventory coordinators.   
+While the TEB office established several controls, there are still two key areas without controls.  
+Specifically, examinations that are determined to be opened-in-error can be closed without 
+documentation of managerial approval, and key procedures that should be completed by different 
+individuals are being performed by the same employee.  Both of these control weaknesses could 
+allow employees to improperly close examinations without managerial approval.   
+For example, one of the higher risk disposal codes for closing an examination is reserved for 
+examinations that were established on the inventory system in error.  Due to the high risk, 
+IRS procedures require both the supervisor and the Manager, Field Operations, to sign a form 
+approving the closing action.  These forms are required to be retained for 1 year.  We determined 
+the TEB office did not comply with the requirements to document and retain approval forms for 
+any of the 521 examinations that were closed from the inventory system using the 
+opened-in-error disposal code between Fiscal Years 2002 and 2006.  Since approval forms were 
+not used or retained, we could not determine if the high-risk opened-in-error disposal code was 
+used correctly or if it was the appropriate action to take on the examination case. 
+In addition, once an examination is complete, the TEB office is required to send closing letters to 
+bond issuers detailing the results of examinations.  It is critical that evidence of adequate 
+separation of duties exists between the processes of working the case, approving the closing 
+letter, and mailing the closing letter to the bond issuer and other related stakeholders.  Under the 
+existing process, supervisors are provided with the full capability to perform all of these tasks 
+with no requirement to maintain documentation of approvals in the examination case files. 
+Recommendations 
+We recommended the Director, TEB, ensure the inventory coordinator does not close 
+examinations that were opened-in-error until the form approving the closing action is received.  
+In addition, we recommended the Director, TEB, develop and implement controls to ensure the 
+appropriate managerial approvals are obtained and documented for closing letters and refund 
+claims. 
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+3
+Response   
+IRS management agreed with our recommendations.  The TEB office plans to update its 
+procedures and ensure controls are followed for approving examinations opened-in-error.  In 
+addition, the TEB office plans to ensure appropriate managerial approvals are obtained and 
+documented for closing letters and refund claims.  Management’s complete response to the draft 
+report is included as Appendix IV.   
+Copies of this report are also being sent to the IRS managers affected by the report 
+recommendations.  Please contact me at (202) 622-6510 if you have questions or  
+Nancy A. Nakamura, Assistant Inspector General for Audit (Headquarters Operations and 
+Exempt Organizations Programs), at (202) 622-8500. 
+ 
+ 
+ 
+ 
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+ 
+ 
+Table of Contents 
+ 
+Background..........................................................................................................Page   1 
+Results of Review ...............................................................................................Page   2 
+While Several Controls Have Been Established, Controls for Closing  
+Examination Cases Should Be Strengthened to Ensure Actions Are  
+Appropriate and Properly Authorized...........................................................Page   2 
+Recommendations 1 and 2:................................................Page 7 
+Appendices 
+Appendix I – Detailed Objectives, Scope, and Methodology.......................Page   9 
+Appendix II – Major Contributors to This Report........................................Page 11 
+Appendix III – Report Distribution List .......................................................Page 12 
+Appendix IV – Management’s Response to the Draft Report......................Page 13 
+ 
+ 
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+ 
+ 
+Abbreviations 
+ 
+IRS 
+Internal Revenue Service 
+TEB 
+Tax Exempt Bonds 
+ 
+ 
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+Page  1 
+ 
+Background 
+ 
+The Office of Tax Exempt Bonds (TEB) was established as part of the Internal Revenue 
+Service’s (IRS) Tax Exempt and Government Entities Division in Fiscal Year 1999 to administer 
+the Federal tax laws applicable to tax-exempt municipal bonds.  Municipal bonds provide  
+tax-exempt financing for Governmental and other qualified purposes including the construction 
+of airports, hospitals, schools, and road improvements, as well as facilities and equipment used in 
+providing police, fire, and rescue services. 
+The TEB office is responsible for examining bonds after they are issued to ensure the bonds are 
+being used for tax-exempt purposes and are complying with Federal tax laws.1  The TEB office 
+also performs limited-scope examinations of refund claims. 
+Most tax-exempt bond returns selected for examination are controlled on the TEB office’s 
+inventory control system.2  Upon closing a case, the inventory coordinator assigns a disposal 
+code which briefly describes the results of the examination or the reason the case was not 
+examined. 
+One of the higher risk disposal codes is reserved for cases that were established on the inventory 
+system in error.  This code indicates that the examination should have never been started, so the 
+inventory control is closed.  For example, examinations are considered to be opened-in-error if 
+the wrong tax year or incorrect taxpayer information was entered on the inventory system. 
+The Director, Government Entities, requested that we determine if actions to close tax-exempt 
+bond examinations using the opened-in-error disposal code were appropriate.  This review was 
+performed at the TEB National Headquarters in Washington, D.C., and the TEB Field Group 
+office in Englewood, Colorado, during the period March through July 2007.  We conducted this 
+performance audit in accordance with generally accepted government auditing standards.  Those 
+standards require that we plan and perform the audit to obtain sufficient, appropriate evidence to 
+provide a reasonable basis for our findings and conclusions based on our audit objectives.  We 
+believe that the evidence obtained provides a reasonable basis for our findings and conclusions 
+based on our audit objectives.  Detailed information on our audit objectives, scope, and 
+methodology is presented in Appendix I.  Major contributors to the report are listed in  
+Appendix II. 
+                                                 
+1 Internal Revenue Code Section (§) 103(a) (2002) is the primary statutory provision that excludes interest on 
+municipal bonds from Federal income tax. 
+2 The inventory system used by the Tax Exempt and Government Entities Division to control examination returns, 
+input assessments/adjustments to the taxpayer’s account, and provide management information reports is known as 
+the Audit Information Management System.  This system tracks the location, age, and status of cases. 
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+Page  2 
+ 
+Results of Review 
+ 
+While Several Controls Have Been Established, Controls for Closing 
+Examination Cases Should Be Strengthened to Ensure Actions Are 
+Appropriate and Properly Authorized 
+The TEB office established some significant controls for closing examinations established on the 
+inventory system and ensured the ability to close cases from the inventory system was limited to 
+authorized TEB employees.  Specifically, these controls include: 
+• Attesting that conclusions are technically correct and procedurally accurate by completing an 
+examination closing record.  Examiners then assemble the case files in accordance with 
+specific guidelines. 
+• Requiring supervisors to timely review the assembled case file, including the examination 
+closing record and the special handling notice, prior to closing and determining whether the 
+case is technically and procedurally accurate.  Supervisors also ensure closing letters and any 
+related documents are mailed to taxpayers, assess the quality of examinations, record the 
+results on quality review checklists, and ensure the inventory system is updated to reflect that 
+the case has been transmitted to the Manager, Field Operations. 
+• Performing limited-scope examinations on refund claims.  Like standard examinations, the 
+claims are controlled on an inventory system, but the examinations are typically limited to 
+approving the validity of the claims.  If the claim is determined to be appropriate, a refund 
+voucher is submitted to a TEB specialist for validation that the claim should be paid.  Upon 
+approval, the refund voucher is forwarded to the Ogden Submission Processing Center for 
+payment of the refund, and the examination is closed on the inventory system.   
+• Limiting the capability to close a case from the inventory system to inventory coordinators.  
+The inventory coordinators reconcile the inventory system monthly by comparing closed 
+records to a manual spreadsheet of cases submitted for closure to ensure the closing action 
+was properly recorded.  At the end of the quarter, the inventory coordinator researches the 
+updated Master File3 information for each of the closed cases to determine where the case 
+should be filed for retention. 
+• Reviewing samples of closed examination cases.  Selected cases are quality reviewed 
+quarterly by the Manager, Compliance and Program Management; Manager, Field 
+                                                 
+3 The Master File is the IRS database that stores various types of taxpayer account information.  This database 
+includes individual, business, and employee plans and exempt organizations data. 
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+Page  3 
+Operations; and the Director, TEB.  In addition, mandatory reviews of cases are performed 
+by the Manager, Compliance and Program Management, when cases are referred to the 
+IRS Appeals function or when examiners request technical advice from IRS Counsel 
+regarding the procedural accuracy of potential closing agreements. 
+While the TEB office established several controls, there are still two key areas without controls.  
+If TEB office management does not establish effective controls over these areas, there is a risk 
+that improprieties could occur and go unnoticed by TEB office management.  Specifically, 
+examinations that are determined to be opened-in-error can be closed without documentation of 
+managerial approval, and key procedures that should be completed by different individuals are 
+being performed by the same employee.  Both of these control weaknesses could allow 
+employees to improperly close examinations without managerial approval. 
+Approvals to close examination cases that are opened-in-error were not 
+documented and retained  
+Due to the high-risk nature of tax-exempt bond examination cases that are closed as 
+opened-in-error, IRS procedures require both the supervisor and the Manager, Field Operations, 
+to sign a form approving the closing action.  These forms are required to be retained for 1 year 
+after the inventory coordinator inputs the closing action into the inventory system. 
+We determined the TEB office did not comply with the requirements to document and retain 
+approval forms for any of the 521 examinations that were closed from the inventory system 
+using the opened-in-error disposal code between Fiscal 
+Years 2002 and 2006.  Since approval forms were not 
+used or retained, we could not determine if the high-risk 
+opened-in-error disposal code was used correctly or if it 
+was the appropriate action to take on the examination 
+case.  While it is possible that all closings were 
+appropriate, the lack of control over high-risk closures 
+provides the opportunity for improprieties to occur and go undetected.  For example, 
+IRS examiners could close an examination with an opened-in-error disposal code in exchange for 
+personal compensation since no records exist to show the closing action was approved by a 
+supervisor and the Manager, Field Operations. 
+Between Fiscal Years 2002 and 2006, 2,025 examinations were closed.  During the same period, 
+an additional 521 examination cases were closed using the opened-in-error disposal code.  
+Figure 1 shows the total volume of closed examination cases by fiscal year. 
+Lack of control over high-risk 
+closures provides the 
+opportunity for improprieties to 
+occur and go undetected.   
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+Page  4 
+Figure 1:  Closed Examination Cases by Fiscal Year 
+Fiscal Year 
+2002 
+2003 
+2004 
+2005 
+2006 
+Total 
+Examinations 
+Opened-in-Error 
+235 
+256 
+8 
+19 
+3 
+521 
+All Other 
+Examination 
+Closures 
+366  
+ 
+351  
+ 
+377 
+ 
+466 
+ 
+465  
+ 
+2,025 
+ 
+ Source:  TEB office inventory system data for Fiscal Years 2002 through 2006.4 
+Due to the high volume of opened-in-error disposal codes in Fiscal Years 2002 and 2003, we 
+performed additional research to determine whether the disposal code was being used correctly.  
+TEB office officials informed us that, in Fiscal Years 2002 and 2003, the TEB office began the 
+process of converting the TEB account data from the old system to the IRS Master File.  During 
+the conversion process, examination cases had to be closed on the inventory system and 
+established on the Master File.  To accomplish this, TEB office management decided to use the 
+opened-in-error disposal code, which was an incorrect use of the code because some of the 
+inventory records were actual examinations that just needed to be moved to the Master File.  As 
+a result, the opened-in-error disposal code was used much more frequently during the process of 
+converting records to the Master File in Fiscal Years 2002 and 2003 than in subsequent years. 
+We reviewed Master File data to determine if examinations were conducted on accounts after 
+being converted to the Master File.  We determined that 297 (60 percent) of 491 cases showed 
+an examination was conducted or is currently being conducted.  We reviewed 37 (13 percent) of 
+the 287 closed cases5 and confirmed examinations were conducted.  This is consistent with 
+TEB office management’s explanation of how the opened-in-error disposal code was used to 
+establish accounts on the Master File, with examinations being completed afterwards.  For the 
+remaining 194 cases, we could not identify any examination activity because the case either did 
+not exist on the Master File or the case existed but did not show any examination activity after 
+the opened-in-error disposal code was input. 
+Controls for closing examinations and issuing refunds do not provide reasonable 
+assurance actions are properly approved by TEB office management 
+Once examinations are complete, the TEB office sends closing letters to bond issuers detailing 
+the results.  In 2001, the former Director, TEB, issued a delegation order that authorized 
+supervisors to sign the name of the Director, TEB, and the Manager, Field Operations, to closing 
+                                                 
+4 We did not verify the completeness of this information because we did not have a basis for comparison. 
+5 Of the 297 cases that showed an examination was conducted or is currently being conducted, 287 cases involved a 
+closed examination and 10 involved an open examination.   
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+Page  5 
+letters upon the completion of an examination resulting in an additional tax or in “no change” to 
+tax.  To carry out this action, supervisors were provided signature stamps to manually stamp the 
+Director, TEB, or the Manager, Field Operations, signatures to closing letters.  Examinations 
+involving a claim for refund only require the signature of a refund claim specialist on the closing 
+letter. 6 
+The TEB office uses the following procedures to issue closing letters and refunds:    
+• If it is determined during an examination the bonds do not qualify for tax-exempt status, the 
+examiners attempt to resolve the matter by entering into a closing agreement with the bond 
+issuers.  In other cases, the examiner may initiate a series of adverse closing letters.7  The 
+closing letters are sent to the bond issuers.  These closing letters generally are prepared by 
+the examiner and forwarded to a supervisor for review.  After the supervisor concurs, the 
+letters are emailed to the Manager, Field Operations, for review and concurrence.8  Upon 
+receiving approval, supervisors use the signature stamp to sign the letters for the Manager, 
+Field Operations.  The supervisors then mail the closing letters to the bond issuers and other 
+related stakeholders. 
+• If it is determined during an examination that the bonds complied with Federal tax laws 
+applicable to tax-exempt bonds, a “no change” closing letter9 is prepared by the examiner and 
+forwarded to a supervisor for review and concurrence.  Upon review, supervisors use the 
+signature stamp to sign the “no change” closing letter on behalf of the Manager, Field 
+Operations, without having to obtain the Manager, Field Operations’ concurrence. 
+• If it is determined during a refund claim examination that the bond issuer is due a refund, the 
+examination case file is reviewed by a refund claim specialist who assesses whether the claim 
+is accurate.  Upon concurrence, the specialist signs the closing letter and authorizes payment 
+of a refund.  
+In considering these TEB office procedures, we identified two control weaknesses.  Specifically, 
+controls that ensure concurrence is obtained from the Manager, Field Operations, and/or the 
+Director, TEB, need to be strengthened to better assure closing letters proposing additional tax or 
+“no change” to tax are appropriately approved.  Under the current process, the Manager, Field 
+                                                 
+6 Claims for refunds more than $1 million require mandatory reviews by the Manager, Field Operations, and 
+Manager, Compliance and Program Management.   
+7 If a closing agreement cannot be initially negotiated, the TEB office may issue a Preliminary Adverse Letter and a 
+Proposed Adverse Determination Letter to the bond issuer that includes details of the noncompliance.  The bond 
+issuer may choose to appeal the case, enter into a closing agreement, or not respond.  If the bond issuer does not 
+respond, a Final Determination of Tax Liability is issued, which forfeits the bond issuer’s rights for an appeal and 
+generally results in taxation of the bondholders. 
+8 The draft Adverse Determination Letters are forwarded by supervisors to the Manager, Field Operations, via email 
+because the supervisors are not in the same location as the Manager, Field Operations. 
+9 A ”no change” letter is issued when the TEB office closes the examination with no change to the position that 
+interest received by the bondholders is excludible from gross income under § 103 of the Internal Revenue Code. 
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+Page  6 
+Operations, and the Director, TEB, either send an email to the appropriate supervisor or verbally 
+communicate by telephone approval to use signature stamps.  This procedure enables supervisors 
+to sign and then mail the closing letters.  Government Accountability Office Standards for 
+Internal Control in the Federal Government state “key duties and responsibilities need to be 
+divided or segregated among different people to reduce the risk of error or fraud.”10   However, 
+without documentation of authorizations, there is no assurance that closing actions are approved 
+by management and the process is more susceptible to inappropriate actions. 
+We reviewed 51 (10 percent) of 523 examination case files that were closed between 
+October 1, 2005, and December 31, 2006, with a closing agreement proposing either an 
+additional tax assessment or “no change” to tax.  Additional tax assessments were proposed for 
+27 (53 percent) of the 51 examination case files reviewed, yet no evidence was found to indicate 
+the Director, TEB, and/or the Manager, Field Operations, approved the related closing letters.  
+As mentioned previously, no review was required by the Director, TEB, and/or the Manager, 
+Field Operations, for the remaining 24 cases that involved “no change” to tax so we could not 
+determine if these were appropriate closing actions. 
+The second control weakness we identified is key procedures are being performed by the same 
+employee.  It is critical that evidence of adequate separation of duties exists between the 
+processes of working the case, approving the closing letter, and mailing the closing letter to the 
+bond issuer and other related stakeholders.  Under the existing process, supervisors are provided 
+with the full capability to perform all of these tasks with no requirement to maintain 
+documentation of approvals in the examination case files.  
+This process is especially important for cases involving refund claims.  All examination case 
+files for refund claims are reviewed to determine whether the claim is accurate.  Claims 
+determined to be accurate are forwarded to a refund claim specialist for quality review.  For 
+claims less than $1 million, the refund claim specialist has the capability to prepare a refund 
+voucher, approve payment, and sign the closing letter,11 without being reviewed by the Manager, 
+Compliance and Program Management.  We did not identify any cases in which the refund claim 
+specialist actually prepared the refund voucher or in which any improprieties had occurred; 
+however, our review of 8 (11 percent) of 74 refund claims identified 1 refund claim totaling 
+approximately $20,000 in which the refund claim specialist quality reviewed the refund claim, 
+approved the refund payment, and signed the closing letter without any evidence of managerial 
+review.  
+These control weaknesses are magnified when considering the dollars involved in examination 
+cases.  In Fiscal Year 2004, TEB examination cases had noncompliance assessments averaging 
+approximately $19,000 per case but penalties for promoter misconduct averaged approximately 
+                                                 
+10 GAO/AIMD-00-21.3.1, dated November 1999. 
+11 Employees authorized to approve refund requests must be listed on an official signature list.   
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+Page  7 
+$660,000 per case.12  Based on the large amount of money involved and our concerns that 
+TEB employees are performing multiple functions that should be separated among two or more 
+people, there is substantial risk improprieties could go undetected (e.g., employees could, 
+without managerial knowledge, accept payments for not making appropriate tax assessments or 
+issue refunds when they are not justified).  Developing processes that separate working the cases, 
+approving the closing letters, and mailing the closing letters would substantially reduce the risk 
+of improprieties.  In addition, quality review processes should ensure each of these actions is 
+appropriately documented in the examination case files.  Strengthening controls over 
+examination closures will provide better assurance that capital raised from issuing tax-exempt 
+bonds will be appropriately used for public works projects, and examinations are conducted with 
+integrity and fairness. 
+Recommendations 
+The Director, TEB should: 
+Recommendation 1:  Ensure controls are followed that require the inventory coordinator to 
+close examinations that were opened-in-error only after receiving a form approving the closing 
+action.  Copies of the forms should be maintained by the inventory coordinator or closing 
+function according to existing guidelines. 
+Management’s Response:  IRS management agreed with the recommendation.  
+During Fiscal Year 2008, the TEB office plans to update its Internal Revenue Manual 
+procedures for examination processes.  In doing so, the TEB office plans to ensure 
+controls are followed that require the inventory coordinator to close opened-in-error 
+examinations only after receiving a form approving the closing action.  Copies of the 
+forms will be maintained by the inventory coordinator or closing function according to 
+existing guidelines, or electronically on the new Tax Exempt and Government Entities 
+Division Reporting and Electronic Examination System.   
+Recommendation 2:  Develop and implement controls to ensure the appropriate managerial 
+approvals are obtained and documented for closing letters and refund claims. 
+Management’s Response:  IRS management agreed with the recommendation.  
+During Fiscal Year 2008, the TEB office plans to update its Internal Revenue Manual 
+procedures for examination processes.  In doing so, the TEB office plans to ensure the 
+                                                 
+12 Statistical Portrayal of the Tax Exempt Bonds Office’s Enforcement Activities From Fiscal Year 2002 Through 
+Fiscal Year 2004 (Reference Number 2005-10-186, dated September 2005). 
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+Page  8 
+appropriate managerial approvals are obtained and documented for closing letters and 
+refund claims. 
+Management’s response also included another new control:  the Tax Exempt and 
+Government Entities Division plans to implement a proposed quality review process that 
+will require universal review of all closed TEB office examinations.   
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+Page  9 
+Appendix I 
+ 
+Detailed Objectives, Scope, and Methodology 
+ 
+The overall objectives of this audit were to determine whether closing actions for tax-exempt 
+bond examinations opened-in-error appropriately complied with IRS guidelines and whether 
+security and controls over closing actions for field examination cases were effective.  To 
+accomplish our objectives, we: 
+I. 
+Determined whether TEB office management established effective processes for closing 
+examinations that were opened-in-error.  We (1) conducted research on the IRS Master 
+File1 for all 491 examinations that were closed as “opened-in-error” between Fiscal 
+Years 2002 and 2003 to determine whether an examination was subsequently conducted, 
+(2) reviewed a judgmental sample of 37 (13 percent) of 287 modules that were located on 
+the Master File as being examined and determined whether the disposition of the case 
+was properly approved by TEB office management, and (3) interviewed TEB office 
+personnel to determine whether forms used to request and approve the decisions to close 
+cases as opened-in-error were maintained for all 491 examinations.  We used judgmental 
+sampling because we did not plan to project our results. 
+II.  
+Determined whether TEB office management implemented effective security processes 
+for examination cases established on their inventory system by limiting the capability to 
+close a case from the inventory system to inventory coordinators. 
+III.   
+Determined whether TEB office management established effective processes for ensuring 
+case closing and deletion actions on the inventory system were accurate and appropriately 
+authorized.  We (1) interviewed TEB office personnel to determine the process for 
+reviewing and approving examination cases prior to closure, the post-review process for 
+closed cases, and the process to ensure cases were properly closed from the inventory 
+system and forwarded to the Ogden Submission Processing Center for filing; 
+(2) reviewed a judgmental sample of 51 (10 percent) of 523 examination case files that 
+were closed with a closing agreement or as “no change” on the TEB inventory system 
+between October 1, 2005, and December 31, 2006, to determine the closing action taken 
+and whether the action was appropriately approved; (3) reviewed a judgmental sample of 
+8 (11 percent) of 74 refund claim examinations that were closed from the inventory 
+system between October 1, 2005, and December 31, 2006, to determine whether the 
+claim was appropriately approved; and (4) analyzed all 30 cases that were 
+opened-in-error between October 1, 2003, and September 30, 2006, and determined 
+                                                 
+1 The IRS database that stores various types of taxpayer account information.  This database includes individual, 
+business, and employee plans and exempt organizations data. 
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+Page  10 
+whether any information existed to indicate the opened-in-error disposal action was 
+properly approved by TEB office management.  We used judgmental sampling because 
+we did not plan to project our sample results. 
+Internal controls methodology 
+Internal controls relate to management’s plans, methods, and procedures used to meet its 
+mission, goals, and objectives.  Internal controls include the processes and procedures for 
+planning, organizing, directing, and controlling program operations.  They include the systems 
+for measuring, reporting, and monitoring program performance.  We determined the following 
+internal controls were relevant to our audit objectives:  the TEB office’s policies, procedures, and 
+practices for closing examinations that were established for its inventory system.  We assessed 
+these controls by interviewing relevant TEB office personnel and managers and by analyzing 
+applicable processes and procedures. 
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+Page  11 
+Appendix II 
+ 
+Major Contributors to This Report 
+ 
+Nancy A. Nakamura, Assistant Inspector General for Audit (Headquarters Operations and 
+Exempt Organizations Programs)  
+Troy D. Paterson, Director  
+Gerald T. Hawkins, Acting Director 
+James V. Westcott, Audit Manager 
+Allen L. Brooks, Lead Auditor 
+Margaret A. Anketell, Senior Auditor 
+Stephanie K. Foster, Senior Auditor 
+Yolanda D. Brown, Auditor 
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+Page  12 
+Appendix III 
+ 
+Report Distribution List 
+ 
+Acting Commissioner  C 
+Office of the Commissioner – Attn:  Acting Chief of Staff  C 
+Deputy Commissioner for Services and Enforcement  SE 
+Deputy Commissioner, Tax Exempt and Government Entities Division  SE:T 
+Director, Tax Exempt Bonds, Tax Exempt and Government Entities Division  SE:T:GE:TEB 
+Chief Counsel  CC 
+National Taxpayer Advocate  TA 
+Director, Office of Legislative Affairs  CL:LA 
+Director, Office of Program Evaluation and Risk Analysis  RAS:O  
+Office of Internal Control  OS:CFO:CPIC:IC 
+Audit Liaison:   
+Director, Communications and Liaison, Tax Exempt and Government Entities  
+Division  SE:T:CL 
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+Page  13 
+Appendix IV 
+ 
+Management’s Response to the Draft Report 
+ 
+ 
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+Page  14 
+ 
+The Tax Exempt Bonds Office Has Established  
+Controls, but Improvements Are Needed to Prevent Improprieties 
+ 
+Page  15 
+ 

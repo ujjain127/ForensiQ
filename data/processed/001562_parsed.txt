@@ -1,0 +1,27 @@
+pro read_msok_jpg, date, image, outdate
+;+
+;   Name: read_msok_jpg
+;
+;   Purpose: read daily Mees jpeg CaKline file
+;
+;   6-nov-1995 (SLF) ; new First_Light image
+;-
+indir=get_logenv('DIR_GEN_MCK')   
+files=file_list(indir,'K*.jpg')
+fnames=strsplit(files,'/',/last,/tail)
+fids=str_replace(fnames,'jpg','')
+fids=strmid(fnames,1,11) 
+nfiles=n_elements(fnames)
+
+if files(0) eq '' then begin
+   message,/info,"No Mees Ca Kline files online
+   return
+endif else begin
+   if n_elements(date) eq 0 then ss=nfiles-1 else ss=nfiles-1	;*** kludge
+   outdate=fmt_tim(fid2ex(fids(ss)))
+   read_jpeg,files(ss),image
+endelse
+
+return
+end
+

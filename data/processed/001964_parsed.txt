@@ -1,0 +1,1063 @@
+43 
+MANAGING NON-NATIVE WILDLIFE IN FLORIDA: STATE PERSPECTIVE, POLICY 
+AND PRACTICE 
+ 
+SCOTT HARDIN, Florida Fish and Wildlife Conservation Commission, Tallahassee, Florida, USA 
+ 
+Abstract: Florida has more non-native wildlife species than any other state: 439 introduced species of fish, 
+wildlife and marine organisms have been observed and at least 123 are established, i.e., highly unlikely to be 
+extirpated without human intervention. Florida is an epicenter for non-native species with a long established 
+pet industry, major tourist attractions, and major ports, primarily Miami. The large number of established 
+species is due to climate match with that of popular tropical pets, habitat disturbance that facilitates invasion, 
+and a depauperate vertebrate fauna in tropical and subtropical portions of Florida. The Florida Fish and 
+Wildlife Conservation Commission’s approach to managing non-native wildlife is based on (1) encouraging 
+responsible pet ownership; (2) a regulated industry is preferable to underground traffic; and (3) most 
+introduced species have negligible environmental impacts. Regulations for captive wildlife and non-native 
+aquatic species, first established in the 1970s, employ risk-based bio-security for problematic species, and 
+prohibition of a limited number of species that posed unacceptable risks to the ecosystem, economy, or human 
+health and safety. Effective January 1, 2008, owners of six large reptile species will be required to implant 
+passive integrated transponders to identify individual animals. Although anecdotal evidence suggests dealers 
+have released inventories to establish source populations, the majority of introductions have resulted from 
+release of pets by owners. To close this pathway, a pet surrender network is in the early stages of 
+development. Within the past five years, capacity to detect and manage terrestrial and semi-aquatic species 
+has improved, including surveillance, rapid assessment and response; examples include the Gambian giant 
+pouched rat (Cricetomys gambianus), purple swamphen (Porphyrio porphyrio), and Argentine black and 
+white tegu (Tupinambis merianae). 
+ 
+Key Words: Florida, invasive species, pathways, rapid response, regulations, surveillance. 
+ 
+Managing Vertebrate Invasive Species: Proceedings of 
+an International Symposium (G. W. Witmer, W. C. Pitt, 
+K. A. Fagerstone, Eds). USDA/APHIS/WS, National 
+Wildlife Research Center, Fort Collins, CO. 2007. 
+ 
+ 
+INTRODUCTION 
+ 
+Over 400 species of non-indigenous fish, 
+wildlife and marine organisms have been observed 
+in Florida since its colonization by European 
+settlers in the 16th century. The earliest documented 
+vertebrate introduction dates to 1538 when 
+Hernando de Soto imported European pigs (Sus 
+scrofa) as a food source. Apparently, the settlers 
+traded pigs to indigenous humans who allowed 
+these animals to range free, eventually leading to 
+the widespread establishment of one of the more 
+notorious exotic species. 
+ 
+During Florida’s long history with non-native 
+species, a $300 million captive wildlife industry has 
+developed, including importers, breeders, and 
+tourist attractions that prominently feature exotic 
+animals. In 2005-06, 3982 facilities were permitted 
+for captive wildlife. Furthermore, Florida is the 
+epicenter of the freshwater tropical fish industry, 
+growing 95 percent of the nation’s cultured tropical 
+fish on farms primarily in the Tampa Bay area. 
+Over 800 varieties of tropical fish are cultured in 
+Florida. 
+ 
+In the nascent discipline of invasion biology, 
+there is general acceptance of the so-called ‘rule of 
+10s’, which posits that roughly 10% of introduced 
+species become established, and roughly 10% of 
+those become invasive (Williamson 1996, Bomford 
+2005). Florida’s experience is consistent with the 
+general boundaries of this rule. The Florida Fish 
+and Wildlife Conservation Commission (FWC) has 
+adopted risk-based regulations that (1) prohibit the 
+unauthorized release of any non-native species; (2) 
+restrict possession of species that pose substantial 
+environmental or economic risks, or harm to human 
+health; and (3) permit possession of species not 
+deemed to present significant consequences to 
+native fish and wildlife. 
+ 
+With the substantial level of pet ownership, as 
+well as an existing industry based on captive 
+ 
+44 
+wildlife and aquarium specimens, FWC’s approach 
+to non-native species, reflected in its regulatory 
+framework, is to encourage responsible pet 
+ownership. We believe that a regulated pet 
+industry, allowing environmentally benign species 
+and restricting problematic ones, is preferable to 
+indiscriminate underground traffic that would result 
+from legal bans on the majority of non-native 
+organisms. 
+ 
+STATUS OF NON-NATIVE SPECIES IN 
+FLORIDA 
+ 
+There are approximately 123 established non-
+native species in Florida. Established means 
+unlikely to be extirpated without human 
+intervention. For freshwater fishes and marine 
+species, the definition is a subjective assessment 
+based on collective expert opinion. For wildlife, 
+species are considered established if they have 
+reproduced for five or more years. The list includes 
+22 non-native freshwater fishes (Shafland et al. In 
+Review), 4 amphibians, 36 reptiles, 12 birds, and 
+18 mammals. There are at least 31 marine species, 
+although this number is an estimate at best, owing 
+to the difficulty in surveying the marine 
+environment and the fact that global ship travel pre-
+dated virtually all biological surveys. With the 
+exception of the red lionfish (Pterois volitans) that 
+is possibly established along Florida’s Atlantic 
+Coast, introduced marine species are invertebrates 
+or algae. 
+ 
+Among the freshwater fishes, most introduced 
+species are aquarium releases or escapes from 
+aquaculture, although one species, the pike killifish 
+(Belanesox belizanus) escaped from a medical 
+research facility. Of the 22 permanently established 
+species, 13 are in the widely distributed tropical-
+subtropical Cichlid family and four are South 
+American catfishes. Investigation of introduced 
+fishes in southeast Florida canals has indicated no 
+reductions in absolute abundance or biomass of 
+native species, while the standing crop of all fishes 
+has increased (some due to sterile grass carp 
+[Ctenopharyngodon idella] purposefully introduced 
+for vegetation control). Recently, non-native 
+catfishes, sailfin catfish (Pterygoplythys 
+multiradiatus) and brown hoplo (Hoplosternum 
+littorale) have experienced population expansions 
+over south and central Florida. Study of fish 
+population abundance and diet has not revealed 
+competition or displacement of native fishes. 
+However, sailfin catfish dig spawning burrows, and 
+localized erosion has resulted from this activity. In 
+2000, a prohibited species, bullseye snakehead 
+(Channa marulius) from southeast Asia, were 
+discovered in a canal system in southeast Florida. 
+Six years later, no major changes in fish 
+populations have been observed. 
+ 
+Although only three amphibians are established 
+or potentially established, the Cuban tree frog 
+(Osteopilus septentrionalis), introduced in 1931, is 
+now found as far north and west as Tallahassee 
+(with reports in south Georgia). This large, invasive 
+frog is associated with declines attributed to 
+predation in native hylid frogs, including green tree 
+frogs (Hyla cinerea) and squirrel tree frogs (H. 
+squirella). By contrast, the marine toad (Bufo 
+marinus), native to central America and south 
+Texas, garnered much attention following its 
+introduction in 1971, but has had negligible impact 
+on native wildlife and appears to be declining in the 
+southern part of its range in Florida. 
+ 
+Roughly three quarters of the introduced reptiles 
+are now established in Florida. The list of 
+established reptiles is dominated by lizards (31 
+species), but includes one turtle (red-eared slider 
+[Trachemys scripta elegans]), one crocodilian 
+(spectacled caiman [Caiman crocodiles]), and three 
+snakes. Of the lizards, most were pet releases from 
+owners or dealers, primarily from the families 
+Iguanidae and Gekkonidae, and have caused minor 
+concern in conservation areas. Several large species 
+are established, including the herbivorous green 
+iguana (Iguana iguana) and omnivorous spinytail 
+iguana (Ctenosaurus similis) which are considered 
+nuisances by many Floridians, but no evidence 
+exists for ecological damage. The Nile monitor 
+(Varanus niloticus), a generalist predator and the 
+largest of the African lizards, is established in a 
+small urban area of southwest Florida, causing 
+concern over potential impacts to a nearby 
+population of burrowing owls (Athene cunicularia), 
+a Florida Species of Special Concern. Additionally, 
+Nile monitors are predators of crocodile eggs in 
+Africa, and southward expansion of the Florida 
+population would overlap that of the endangered 
+American crocodile (Crocodilus acutus). 
+ 
+In the past decade, considerable attention has 
+been focused on a reproducing population of 
+Burmese pythons (Python molurus) in extreme 
+south Florida. The distribution of collected snakes 
+suggests that the population may have been the 
+result of released pets. Other speculation centers on 
+the escape of collections of specimens from dealers 
+during Hurricane Andrew in 1992. Regardless, 
+Burmese pythons span the width of Everglades 
+National Park and are commonly found on adjacent 
+ 
+45 
+lands. Although there is no evidence at this time of 
+landscape-level effects, the sociological impact has 
+led to greater restrictions on ownership of this 
+species and several other large reptile species. Less 
+well known is an isolated population of Boa 
+constrictor confined to a tropical hammock “habitat 
+island” in Miami. This population has existed since 
+the 1970s with no expansion or other impacts. 
+ 
+Relatively few introduced birds have become 
+established, with 68% having no more than 9 
+breeding pairs (72 species are not reported 
+breeding), and only 7 species reported from more 
+than 9 of Florida’s 67 counties (B. Pranty, personal 
+communication). The largest group of introduced 
+birds are the Psittacines, with over 70 species 
+reported, undoubtedly pet releases, yet only two 
+species are confirmed established. Noteworthy 
+among resident non-native birds is the monk 
+parakeet (Myiopsitta monachus), well established in 
+south Florida, which builds large colony nests in 
+electrical transformers causing significant 
+economic impact from power outages and 
+equipment loss. A recent introduction, the purple 
+swamphen (Porphyrio porphyrio), has expanded 
+from coastal southeast Florida into the Everglades 
+Conservation Areas, and has been observed on 
+Lake Okeechobee. Its ecological similarity to the 
+native common moorhen (Gallinula chloropus) and 
+purple gallinule (Porphyrula martinica) have 
+prompted efforts to eliminate this member of the 
+rail family native to central Europe and Asia. One 
+non-native bird species, cattle egret (Bubulcus ibis), 
+arrived without human assistance, apparently blown 
+by hurricane winds from nearby Caribbean islands.  
+ 
+Florida’s non-native mammals include species 
+with cosmopolitan distributions, such as the house 
+mouse (Mus musculus), black rat (Rattus rattus) 
+and Norway rat (R. norvegicus), as well as four 
+feral species: pig, dog (Canis familiaris), cat (Felis 
+catus), and goat (Capra hircus). Three non-native 
+mammals have become established both by human 
+introduction as well as natural migration: nine-
+banded armadillo (Dasypus novemcinctus), red fox 
+(Vulpes vulpes), and coyote (Canis latrans), 
+although the latter species’ success is at least 
+partially attributed to extirpation of the red wolf 
+(Canis rufus) in the early 1900s.  Among the more 
+interesting non-native mammals, the rhesus 
+monkey (Macaca mulatta) was introduced to a 
+central Florida tourist attraction in the 1930s and 
+now has an established, stable population in river 
+floodplains, as well as a smaller population in south 
+Florida. Similarly, a population of vervet monkeys 
+(Chlorocebus atheiops) has been established 
+without apparent consequence in an isolated  
+tropical hammock area within the highly urbanized 
+corridor of Broward County in southeast Florida for 
+50 years. The Sambar deer (Cervus unicolor) has 
+been established on St. Vincent Island in northwest 
+Florida for 100 years; the National Wildlife Refuge 
+conducts periodic hunts to control this population. 
+In the Florida Keys, Gambian giant pouched rats 
+(Cricetomys gambianus) have established a 
+localized, reproducing population and are the 
+subject of a multi-agency eradication effort. 
+ 
+INTRODUCTION PATHWAYS 
+ 
+Florida has had a long history of tourist 
+attractions, many of which featured exotic animals, 
+prior to the establishment of captive wildlife 
+regulations. Several non-native species escaped 
+from these facilities either from lax security or from 
+defunct businesses that abandoned their operations. 
+Florida aquaculture, though well regulated in recent 
+years, has contributed to the release of freshwater 
+non-native species. Anecdotal evidence suggests 
+that a possibly established population of Argentine 
+black and white tegu (Tupinambis merianae) may 
+have originated when a dealer released his stock in 
+response to falling market prices. Many non-native 
+lizard observations are in proximity to reptile 
+dealers. 
+ 
+In addition, Florida has three significant ports, 
+and the Port of Miami receives shipments of tens of 
+thousands of imported tropical fish, reptiles, 
+amphibians and plants. Although most specimens 
+have destinations outside Florida, many are 
+consigned to local dealers and breeders.  
+ 
+With the ready availability of non-native pets, it 
+is not surprising that released animals are a major 
+source of introduction. For reptiles, prior to 1950, 
+the few introductions occurred collaterally with 
+freight shipments. Since that time, the volume of 
+introductions has increased sharply, primarily 
+through the pet trade (Figure 1). 
+ 
+Florida’s tropical and subtropical climate further 
+improve the likelihood of success for non-native 
+species, particularly fishes and reptiles. Another 
+aspect conducive to establishment is the relatively 
+depauperate ichthyofauna and herpetofauna in 
+much of peninsular Florida. Unlike most tropical 
+areas of the world, Florida is isolated from land 
+with similar climate. Most native species originated 
+from temperate regions of the southeastern United 
+States, many at the extreme southern end of their  
+ 
+46 
+0
+10
+20
+30
+40
+50
+1880
+1900
+1920
+1940
+1960
+1980
+2000
+no. species imported
+ 
+ 
+Figure 1.  Introduction pathways for non-native reptiles 
+and amphibians in Florida, 1880 - 2000. The Texas 
+horned lizard (Phrynosoma cornutum) was imported by 
+the pet trade in 1934, and is the sole exception to the 
+freight pathway prior to 1940. 
+ 
+ 
+range. As a result, introduced species find a less 
+species, including one native anole, whereas Cuba 
+has 83 native lizard species, including 54 
+anoles. South Florida only has 10 native lizards and 
+over three times as many exotic lizard species (K. 
+Enge, FWC, personal communication). Of the 175 
+species of freshwater fish, many are cyprinids and 
+darters restricted to the temperate streams in north 
+Florida. 
+ 
+Cultural influence appears to have opened new 
+pathways, particularly for non-native fishes. Asian 
+food markets frequently sell live fish, and the 
+bullseye snakehead (Canna marulius), and possibly 
+the swamp eel (Monopterus alba) originated from 
+such operations. Live northern snakeheads (C. 
+argus), a prohibited species, have been confiscated 
+by FWC law enforcement. Brown hoplo 
+(Hoplosternum littorale), a small South American 
+catfish prized as food item, may have been spread 
+by immigrants with no knowledge of laws to the 
+contrary. A Venezuelan immigrant confided to an 
+FWC biologist that he regularly placed hoplo in 
+southeast Florida canals to have a readily available 
+food source. 
+ 
+FWC HISTORY 
+ 
+In response to a growing number of introduced 
+freshwater fishes, biological investigations 
+commenced in the early 1960s, and the Non-Native 
+Fish Research Laboratory was established in south 
+Florida in 1966. Based on investigations by Lab 
+staff, in 1976 several freshwater fishes were legally 
+designated for restricted possession, i.e., these 
+could be possessed only under strict biosecurity by 
+research institutions and public exhibitors, and, 
+under more limited circumstances, commercial 
+producers. This list was re-evaluated in the early 
+1980s when several species were designated as 
+prohibited, removing the possibility of commercial 
+use. These regulations have been modified 
+periodically, including the addition of aquatic 
+organisms other than fishes, zebra mussel 
+(Dreissena polymorpha) in 1993, Australian red 
+claw crayfish (Cherax quadricarinatus) in 1996, 
+and Chinese mitten crab (Eriocheir sinensis) in 
+1999, the latter at the suggestion of the aquaculture 
+industry. 
+ 
+The first regulations for the possession of 
+captive wildlife, primarily exotic species, were 
+established in 1970. This was followed by the 
+creation of a specialized law enforcement unit 
+staffed by officers with degrees in biology to 
+inspect facilities and survey ports to intercept 
+restricted and prohibited imports. Florida’s captive 
+wildlife regulations, the most comprehensive in the 
+United States, continue to evolve. In 2005, a 
+comprehensive review of the regulations was 
+undertaken in conjunction with stakeholders from 
+affected industries and organizations (Table 1), and 
+the first of a series of modified regulations was 
+approved by FWC in 2006. 
+ 
+In 2004, in response to stakeholder concerns, 
+FWC created a section to provide a seamless and 
+comprehensive approach to non-native species 
+issues. This alignment will increase the agency’s 
+capability to respond to terrestrial non-native 
+species. Additional emphasis will be placed on 
+interagency coordination at the local, state and 
+federal level. This cooperative approach is evident 
+in the management examples cited below. 
+ 
+MANAGEMENT APPROACH 
+ 
+The primary tenet in management of non-native 
+species is prevention. There are three aspects of 
+prevention: regulation, outreach, and surveillance. 
+ 
+Regulation 
+ 
+FWC’s position toward prevention is reflected 
+in its primary non-native species regulation, which 
+states that it is unlawful to “to possess, transport or 
+otherwise bring into the state or to release or 
+introduce in the state any freshwater fish, aquatic 
+invertebrate, marine plant, marine animal, or wild 
+animal life that is not native to the state unless such 
+person shall first secure a permit from the 
+Commission” (Rule 68-5.001, Florida 
+Administrative Code). Violation of this rule is a 
+first degree misdemeanor, punishable by a fine up  
+PET TRADE 
+FREIGHT 
+Year 
+47 
+Table 1. Captive wildlife technical assistance representation, Florida Fish and Wildlife Conservation 
+Commission, 2007. 
+Representative 
+Organization 
+Interest 
+Alexa Strauss 
+FELD Entertainment, Inc. 
+Ringling Brothers and 
+Barnum & Bailey Circus 
+Entertainment 
+Terri Parrot-Nenezian, DVM 
+ 
+Wildlife Rehabilitator 
+Dan Martinelli 
+Treasure Coast Wildlife Hospital 
+Wildlife Rehabilitator 
+Eugene Bessette 
+Ophiological Services, Inc. 
+Pet Industry 
+Joe Christman 
+Disney’s Animal Kingdom 
+Entertainment 
+Leroy Coffman, DVM 
+Consultant 
+Pet Industry 
+Ken Johnson 
+Humane Society of the US 
+Animal Welfare 
+Susan Clubb, DVM 
+Hurricane Aviaries 
+Parrot Jungle Island 
+Pet Industry and Entertainment 
+Bill Armstrong 
+Hillsborough County Animal 
+Control 
+Florida Animal Control Assoc. 
+Animal Control 
+R. Donavan Smith 
+Close Up Creatures, Inc. 
+NGALA Private Reserve 
+Pet Industry 
+Kathy Stearns 
+Stearns Zoological Rescue 
+and Rehabilitation 
+Wildlife Rehabilitator 
+ 
+ 
+ 
+to $1,000 and imprisonment for as long as one year. 
+However, this general proscription against  
+unauthorized release does not prevent the 
+possession and display of non-native species, which 
+is addressed through risk-based captive wildlife and 
+non-native species regulations. 
+ 
+Captive wildlife regulations deal primarily with 
+species maintained as personal pets and for public 
+exhibition. There are three classes of captive 
+wildlife, based on the potential danger to human 
+safety, each with permitting requirements (Table 2). 
+Caging and confinement requirements reflect 
+concerns over safety as well as for the welfare of 
+the animal. 
+ 
+Prior to 2007, permits were not required to 
+possess non-venomous, non-native reptiles. In 
+response to the established Burmese python and 
+Nile monitor populations, effective January 1, 
+2008, a $100 permit will be required to possess five 
+species of large constrictor and one large lizard. 
+Additionally, all specimens of these “reptiles of 
+concern” must be permanently identified with a 
+passive integrated transponder tag. These 
+regulations are designed to discourage impulse 
+purchases, and subsequent illegal release, that may 
+lead to establishment of these large species.  
+ 
+Non-native species regulations originated from 
+freshwater fish investigations and list species as 
+‘conditional’ or ‘prohibited’ based on risks posed to 
+native fish and wildlife, economic impacts, or 
+human health and safety (Table 3). In 2007, two 
+species of personal pets were added to the list, 
+based on ecological and economic risks. The red-
+eared slider was designated as conditional due to its 
+intergradation with the native yellow-bellied slider 
+(T. s. scripta). African giant pouched rats 
+(Cricetomys spp.) were designated as prohibited 
+based on risks to Florida agriculture, native listed 
+rodent species, and to human health. 
+ 
+Outreach 
+ 
+Legal restrictions serve as guidance for owners 
+of non-native animals but are ineffective for those 
+unaware of regulations, or individuals who do not 
+understand their rationale. Many residents have 
+moved only recently to Florida, and have no 
+appreciation of native species and habitats. 
+Accordingly, outreach has substantial preventive 
+value and FWC has endeavored to more fully 
+embrace this management tool. The FWC website 
+has a second level page dedicated to non-native 
+species (www.myfwc.com/nonnatives). 
+ 
+ 
+ 
+48 
+Table 2. Regulatory classes of wildlife in Florida. 
+Species/Group Class I (for exhibition 
+only; no personal 
+possession, except for 
+those owned prior to 1980; 
+$250 permit fee) 
+Class II (permit fee $140; 
+applicant must 
+demonstrate one year or 
+1000 hours experience for 
+each species possessed) 
+Class III (no cost permit; 
+applicant must be at least 
+16 years old)  Other 
+Wildlife not classified as I 
+or II or exempt fall into 
+this class. 
+Primates 
+Chimpanzees (Pan), 
+Gorillas (Gorilla), Gibbons 
+(Hylobates), Drills and 
+mandrills (Mandrillus), 
+Orangutans (Pongo), 
+Baboons (Papaio), 
+Siamangs (Symphalangus), 
+Gelada baboons 
+(Theropithecus) 
+Howler monkeys 
+(Alouatta), Uakaris 
+(Cacajao), Mangabeys 
+(Cercocebus), Guenons 
+(Ceropithecus), Bearded 
+sakis (Chiropotes), Guereza 
+monkeys (Colobus), 
+Celebes black apes 
+(Cynopithecus), Idris 
+(Indri), Macaques 
+(Macaca), Langurs 
+(Presbytis), Douc langurs 
+(Pygathrix), Snub-nosed 
+langurs 
+ 
+Felids 
+Snow leopards (Panthera 
+uncia), Leopards (Panthera 
+pardus), Jaguars (Panthera 
+onca), Tigers (Panthera 
+tigris), Lions (Panthera leo) 
+Servals (Leptailurus 
+serval), European and 
+Canadian lynx (Lynx lynx), 
+Cougars & panthers (Puma 
+concolor), Bobcats (L. 
+rufus), Cheetahs
+ 
+Canids 
+ 
+Coyotes (Canis latrans), 
+Gray wolves (C. lupus), 
+Red wolves (C. niger), 
+Asiatic jackals (C. aureus), 
+Black-backed jackals (C. 
+mesomelas), Side-striped 
+jackals (C. adustus), Indian 
+dholes (Cuon alpinus), 
+African hunting dogs 
+(Lycaon pictus) 
+ 
+Mustelids 
+ 
+Wolverines (Gulo gulo), 
+Honey badgers 
+ 
+Other 
+Bears(Ursidae), Rhinoceros 
+(Rhinocerotidae), Elephants 
+(Elephantidae)  
+Hippopotamuses 
+(Hippopotamidae), Cape 
+buffalos (Syncerus caffer 
+caffer) 
+Binturongs (Arctictis 
+binturong), Hyenas 
+(Hyaenidae) 
+ 
+Reptiles 
+Crocodiles, except dwarf 
+and Congo (Crocodilidae), 
+Gavials (Gavialidae), Black 
+caimans (Melanosuchus 
+niger), Komodo dragons 
+(Varanus komodoensis) 
+Dwarf crocodiles 
+(Osteolaemus tetraspis), 
+Alligators, caimans (except 
+American alligator), 
+(Alligatoridae) 
+ 
+Rattites 
+ 
+Ostrich (Struthio camelus), 
+Cassowary (Casuarius) 
+ 
+ 
+ 
+49 
+Table 3.  Non-native species with restrictions on possession in Florida. Refer to regulations in the 
+Florida Administrative Code for more details. 
+Conditional Species (may be possessed for the purpose of public exhibition, research, or 
+commercial purposes) 
+ 
+Freshwater fishes 
+ 
+Grass carp (Ctenopharyngodon idella), Bighead carp 
+(Aristichthys nobilis), Silver carp (Hypophthalmichthys 
+molitrix), Snail or black carp (Mylopharyngodon piceus), 
+Dorados (Salminus spp.), Nile perches (Lates spp.), Blue 
+tilapia (Oreochromis aureus), Wami tilapia (O. 
+hornorum), Mozambique tilapia (O. mossambicus), Nile 
+tilapia (O. niloticus), Walking catfish (Clarias batrachus), 
+Blue catfish (Ictalurus furcatus), Freshwater stingrays 
+(Potamotrygonidae), and Bony-tongue fishes 
+(Osteoglossidae) (except silver arowana [Osteoglossum 
+bicirrhosum]) 
+ 
+ 
+Freshwater Invertebrates 
+Australian red claw crayfish (Cherax quadricarinatus), 
+Red swamp crayfish (Procambarus clarkii), and White 
+river crayfish (Procambarus zonangulas) 
+ 
+ 
+Reptiles 
+Red-eared slider (Trachemys scripta elegans) 
+ 
+ 
+Mammals 
+Nutria (Myocastor coypu) 
+Prohibited Species (may be possessed only by accredited public exhibitors or by research 
+institutions with an approved research plan) 
+ 
+Freshwater fishes 
+ 
+African electric catfishes (Malapteruridae), African 
+tigerfishes (Hydrocyninae), Airbreathing catfishes 
+(Clariidae) (except Walking catfish [Clarias batrachus]), 
+Candiru catfishes (Trichomycteridae), Freshwater electric 
+eels (Electrophoridae), Lampreys (Petromyzonidae), 
+Piranhas and pirambebas (Serrasalminae), Snakeheads 
+(Channidae), Tilapias (Tilapia spp., Sarotherodon spp., 
+Oreochromis spp.) (except  conditional Oreochromis 
+species), Trahiras or tigerfishes (Erythrinidae), Airsac 
+catfishes (Heteropneustidae), and Green sunfish (Lepomis 
+cyanellus) 
+Freshwater Invertebrates 
+Australian crayfish (Cherax spp.), except C. 
+quadricarinatus in a closed tank system, Zebra mussels 
+(Dreissena polymorpha) 
+ 
+ 
+Mammals 
+African giant pouched rats (Cricetomys spp.) 
+ 
+ 
+Marine species 
+Mitten crabs (Eriocheir), Sea snakes (Hydrophiidae), 
+Weeverfishes (Trachinidae), Stone fishes (Synanceia spp.) 
+ 
+ 
+50 
+ 
+To close the personal pet release pathway, FWC 
+has initiated a Non-native Pet Amnesty program. 
+Conducted on weekends, these well-publicized 
+events provide an opportunity to surrender non-
+native pets without penalty. The format calls for 
+multi-agency involvement with substantial focus on 
+outreach. Two events have been conducted with a 
+third planned for February 2008 in Miami. A major 
+concern of pet owners is the welfare of their 
+animal, and arrangements are made for adopters to 
+be at events to minimize the possibility that animals 
+will be euthanized. All pets have been successfully 
+adopted, with the exception of two specimens that 
+were unhealthy at the time of surrender. 
+ 
+The volume of animals surrendered at one-day 
+events is miniscule compared to the number of 
+exotic pets in the state, and the principal value of 
+the weekend Amnesty program is to increase 
+awareness of the problem of non-native species in 
+Florida. The decision to release a pet is based on 
+the circumstances at hand, and we have no illusion 
+that owners will postpone their choice to discard a 
+non-native animal until an event occurs. FWC’s 
+ultimate objective is to develop a pet surrender 
+network, with qualified adopters ready to accept 
+animals on an ongoing basis. The network will be 
+mediated through the website. 
+ 
+Other outreach efforts target specific audiences 
+and leverage exposure. FWC developed a poster 
+highlighting several non-native freshwater fishes, 
+their native continent and their pathway to Florida. 
+This will be distributed at county nature centers, 
+museums, and science classrooms. FWC has 
+pursued a cooperative, rather than adversarial, 
+relationship with the pet industry, and agency 
+attendance at trade shows provides an opportunity 
+to efficiently reach out to dealers as well as 
+potential pet owners. 
+ 
+Florida’s diverse socioeconomic profile presents 
+significant challenges for outreach and education. 
+Extensive Cuban, Mexican, Haitian, and 
+Vietnamese communities, among others, present 
+language as well as cultural barriers. Simple 
+translation of English-language media will be 
+inadequate, and research is needed to determine 
+effective methods to overcome these cultural 
+challenges. 
+ 
+Surveillance and Rapid Detection 
+ 
+When preventive measures fail, it is important 
+to detect non-native species as soon as possible to 
+improve the likelihood of eradication or 
+containment. Florida has an interagency working 
+group to coordinate efforts to prevent and manage 
+non-native and invasive plants and animals. 
+Recognizing that many agencies have staff in the 
+field, Florida state agencies are attempting to utilize 
+this resource to improve surveillance. An initial 
+attempt to map the distribution of exotic applesnails 
+(Pomacea spp.) by providing reporting forms to 
+field staff had limited success, likely due to 
+competition with internal priorities. 
+ 
+The vast majority of introduced species are 
+reported by the public, frequently well after their 
+initial discovery. Accordingly, FWC is in the initial 
+stages of developing a web-based reporting system. 
+The difficulty is in finding the balance of providing 
+adequate information to limit bogus reporting while 
+not overwhelming the non-professional. A 
+simplified version has been employed to solicit 
+reports on Gambian giant pouched rat sightings in 
+the vicinity of their distribution in Grassy Key, 
+Florida (myfwc.com/nonnatives/gambianRat.htm), 
+using photographs to help the public distinguish 
+similar species. This effort has not been widely 
+publicized and has yielded few submissions, 
+including some from areas hundreds of miles from 
+the putative Florida distribution of this species. 
+ 
+Unlike the simple on-line reporting format, a 
+more complex reporting process is in place for non-
+native applesnails, capitalizing on the visibility and 
+distinctiveness of their eggs. The web document 
+provides background on biology, potential impacts, 
+control, and federal regulations, accompanied by 
+photos of eggs and snails (myfwc.com/nonnatives/ 
+Docs/FWC_applesnails_FLMS_handout.pdf). The 
+reporting process calls for the observer to complete 
+a one-page form and submit via facsimile. We have 
+not had an opportunity to assess the quality of 
+reports to date. A reporting format for Reptiles of 
+Concern is under development. 
+ 
+RAPID RESPONSE 
+ 
+FWC’s approach calls for elimination of non-
+native species populations where practical. The 
+majority of introduced species will not become 
+invasive. Regardless, FWC would prefer to 
+eradicate incipient populations rather than risk 
+ecological or economic damage, or harm to human 
+health. Upon detection of a non-native species, a 
+rapid assessment is recommended to determine if 
+eradication is practical, i.e., within financial means, 
+without unacceptable impacts to native species, and 
+commensurate with the potential impact of the 
+introduced organism. 
+ 
+Prior to 2004, several isolated non-native fishes 
+were eradicated by rotenone poisoning of the water 
+ 
+51 
+body. Since 2004, four rapid assessments have been 
+conducted to gauge the potential for eradication. In 
+one instance a limited number of an exotic 
+aquarium species, silver dollar (Metynnis spp., 
+Characidae), were discovered in an isolated 40-ha 
+lake, including evidence of reproduction. Based on 
+the cost of applying rotenone to this water body, the 
+presence of native predatory fish, and the small 
+number of silver dollar encountered, a decision was 
+made to continue sampling rather than pursue 
+eradication. Subsequent observations indicate this 
+introduced species has been eliminated by natural 
+causes. 
+ 
+In 2004, a population of Gambian giant pouched 
+rats in Grassy Key was reported to the U.S. Fish 
+and Wildlife Service (USFWS). Following 
+preliminary investigations by that agency and 
+USDA APHIS Wildlife Services (WS), FWC 
+organized a multi-agency planning effort in March 
+2005, which led to an initial abundance index 
+conducted by WS, along with live trapping and 
+camera surveys to delineate the range of the 
+population. Funding for eradication was 
+unavailable, so FWC obtained a $20,000 grant 
+matched by WS to conduct a pilot eradication 
+project on a portion of the range in June 2006. 
+Subsequently, FWC and WS committed internal 
+funds, along with a grant from USFWS, and in-kind 
+contributions from the South Florida Water 
+Management District (SFWMD) and the Florida 
+Department of Environmental Protection, to initiate 
+an eradication project in early 2007. The first full-
+scale operation to eliminate this population 
+occurred over two years after the initial report. 
+However, based on field observations, this did not 
+decrease the likelihood of success. As of this 
+writing, the first of several periodic surveys to 
+assess survival of Gambian giant pouched rats was 
+underway. 
+ 
+Purple swamphens were first observed in urban 
+southeast Florida in 1996, likely having escaped 
+from a local aviculturist. Over the next several 
+years, this population increased to over 200 birds 
+but remained confined to developed areas. In early 
+2006, SFWMD vegetation management contractors 
+reported purple swamphens in the Everglades 
+Conservation Areas. Subsequently, SFWMD staff 
+observed these birds in some of their water 
+treatment areas. In May 2006, FWC and SFWMD 
+conducted a survey of the areas, which indicated a 
+population of approximately 100 birds. In August 
+2006, night capture methods were evaluated and 
+found to be ineffective. In October 2006, FWC and 
+SFWMD initiated an eradication effort using 
+shotguns and actively pursuing purple swamphens 
+from airboats. As of March 2007, 601 purple 
+swamphens had been killed, leaving a casual 
+estimate of about 50 birds. Subsequent observations 
+have been limited by extremely low water, but 
+additional removal efforts were scheduled for 
+summer 2007, and both agencies remain guardedly 
+optimistic that, at the least, potential impact to 
+native wildlife and vegetation can be minimized. 
+ 
+Argentine black and white tegus were reported 
+from west central Florida in 2006 by Hillsborough 
+County Environmental Services staff, as well as by 
+private land managers in neighboring Polk County. 
+Initial surveys in summer 2006 indicated usage by 
+juvenile tegus of gopher tortoise (Gopherus 
+polyphemus) burrows on public land, corroborating 
+observations by consultants conducting habitat 
+reclamation projects on disturbed lands. Posters 
+were developed to solicit public observations in an 
+attempt to delineate the range of this introduced 
+lizard. Based on credible public reports, it appears 
+that this tegu species occurs over at least 100 km2, 
+although its distribution and habitat preference are 
+not well understood. A member of the Teidae 
+family, tegus were presumed to enter hibernation in 
+late summer, delaying further sampling or removal. 
+A lack of funding and staffing have hampered 
+further efforts at gathering the data requisite to 
+determining if eradication is feasible, and FWC is 
+not optimistic that this species will be eliminated. 
+ 
+ASSESSMENT 
+ 
+In the event that extirpation of an introduced 
+species is deemed to be impractical, assessment of 
+its ecological role is in order to determine 
+appropriate management. Among the factors to be 
+considered are age and growth, diet, reproduction, 
+limiting factors (e.g., temperature, habitat, salinity), 
+and population abundance and composition of 
+introduced and native species. These data may be 
+used to estimate impact, and, consequently the 
+appropriate level of intervention. At the outset, 
+intensity of these studies is high, followed by a 
+reduced level of effort over an extended period. 
+ 
+Most FWC assessments have been of freshwater 
+exotic fishes, focused primarily in the canals of 
+southeast Florida where the greatest number of 
+introductions have occurred. Studies over the past 
+three decades have documented no impacts to 
+native fishes exclusively attributed to introduced 
+species, contrary to our original suppositions. 
+Similar longitudinal studies have not been 
+conducted for non-native terrestrial wildlife, and 
+ 
+52 
+FWC will be pursuing research in this area to 
+determine if the response is similar to our 
+observations from the aquatic environment. 
+ 
+CONCLUSION 
+ 
+Fortunately, very few of Florida’s established 
+non-native species have resulted in significant 
+adverse ecological or economic impacts. However, 
+the minority of problematic introductions can exact 
+substantial ecological or economic damage and it is 
+incumbent upon natural resource agencies to take 
+all reasonable measures to discourage release and 
+escape of non-indigenous fish and wildlife. FWC 
+has chosen to encourage responsible pet ownership 
+rather than adopt a prohibitionist approach, which 
+they believe would be ineffective with the 
+substantial level of pet ownership and the industry 
+that services this demand. 
+ 
+There is a suggestion that the pace of vertebrate 
+introductions or establishment in Florida is slowing 
+in the current decade following an increase during 
+the 1990s (Figure 2). This may be due to increased  
+ 
+0
+5
+10
+15
+20
+25
+30
+35
+prior to
+1960
+1960
+1970
+1980
+1990
+2000
+no. of species reported
+mammal
+amphibian 
+reptile
+ 
+ 
+Non-native Freshwater Fish
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+prior to
+1960
+1960
+1970
+1980
+1990
+2000
+no. species reproducing
+ 
+ 
+ 
+Figure 2. Introduction of non-native vertebrates in 
+Florida by decade. 
+agency focus at the state and national level. 
+However, the pattern of explosive population 
+growth, including diverse cultural influences will 
+continue to be a challenge to natural resource 
+managers.  The most effective barrier to the 
+introduction of non-native organisms is to identify 
+species that pose the greatest risks and limit their 
+possession. Since the development of FWC’s non-
+native species rules, only two fishes have become 
+permanently established, along with two possibly 
+established species. One of the established species, 
+spotted tilapia (Tilapia mariea) may have been 
+present yet not observed at the time of its listing. 
+Better screening (i.e., risk analyses) are needed to 
+aid in this process, and this should be a focus of 
+research. 
+ 
+LITERATURE CITED 
+BOMFORD, M., F. KRAUS, M. BRAYSHER, L. WALTER, 
+AND L. BROWN. 2005. Risk assessment model for the 
+import and keeping of exotic reptiles and 
+amphibians. Report to the Australia Bureau of Rural 
+Sciences. 
+SHAFLAND, P. L., K. B. GESTRING, AND M. S. STANFORD. 
+In review. Criteria for categorizing introduced fishes 
+collected from open waters. Fisheries. 
+WILLIAMSON, N. AND A. FITTER. 1996. The varying 
+success of invaders. Advances in Invasion Biology 
+77:1651-1666. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Decade 
+Decade 

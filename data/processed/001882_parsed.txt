@@ -1,0 +1,1336 @@
+Using Biomarkers to Characterize 
+Human Benzene Metabolism
+S. M. Rappaport
+Schools of Public Health
+University of North Carolina, Chapel Hill
+University of California, Berkeley
+Supported by grant P42ES10126 from the National 
+Institute for Environmental Health Sciences and a contract 
+from the Health Effects Institute
+S. M. Rappaport
+2
+Benzene
+•
+ 
+Human carcinogen
+–
+ 
+First linked with bone marrow toxicity in 1896 
+(Santesson, C. Arch Hyg Berl 31: 337) and with 
+leukemia in 1928 Delore, P. and Borgomano, C. J Med 
+Lyon 9: 227)
+–
+ 
+Dose-response poorly defined 
+–
+ 
+Uncertain risks, particularly at low exposures
+•
+ 
+Mechanism not completely understood 
+–
+ 
+Linked to metabolism
+•
+ 
+Metabolism is complex 
+–
+ 
+Qualitatively similar in all mammals 
+–
+ 
+Important quantitative differences among species
+–
+ 
+Can be affected by genetics (SNPs)
+•
+ 
+Dose-related metabolism poorly characterized in 
+humans
+S. M. Rappaport
+3
+benzene
+O
+N
+S
+CH3
+C
+CH
+CH2
+COOH
+Oxepin
+O
+conjugate
+via GST
+S-phenylmercapturic acid
+COOH
+HOOC
+CHO
+OCH
+E,E-Muconic Acid
+OH
+Phenol
+OH
+Hydroquinone
+O
+O
+1,4-Benzoquinone
+OH
+OH
+HO
+OH
+OH
+Catechol
+O
+OH
+OH
+Benzene Diol Expoxide
+O
+O
+Benzene dihydrodiol
+OH
+1,2-Benzoquinone
+CYP
+CYP2E1
+Nonezymatic 
+Rearrangement
+Epoxide Hydrolase
+CYP
+dihyrodiol dehydrogenase
+CYP2E1
+HO
+OH
+E,E-Muconaldehyde
+1,2,4-trihydroxybenzene
+O
+Benzene Oxide
+CYP2E1
+Benzene Metabolism
+4
+Benzene Biomarkers Among 
+Chinese Workers
+Rothman et al., PNAS, 1995
+Rothman et al., AJIM, 1996
+Rothman et al., EHP 1996
+Rothman et al., Cancer Res, 1997
+Rothman et al., OEM, 1998
+Smith et al., Cancer Res, 1998
+Smith et al., PNAS, 2000
+Yeowell-O’Connell et al., Carcinogenesis, 1998
+Yeowell-O’Connell et al., CEBP, 2001
+Waidyanatha et al., Carcinogenesis, 2001
+Waidyanatha et al., Analyt Biochem, 2004
+Rappaport et al., J Chromatog B, 2002
+STUDY #1 (NCI, UC-Berkeley, UNC)
+44 Exposed subjects and 44 controls 
+in Shanghai, China
+• 
+Very high exposure (med. = 31 ppm)
+• 
+Focus on hematology and cytogenetics
+• 
+Developed and validated biomarkers of 
+exposure (protein adducts, urinary 
+benzene, and urinary metabolites)
+• 
+Evidence of saturable metabolism
+5
+Benzene Biomarkers Among 
+Chinese Workers
+Qu et al., AJIM, 2000
+Qu et al., AJIM, 2002
+Melikian et al., J Chromatog (B), 2002
+Rappaport et al., Cancer Res, 2002
+STUDY #2
+134 Exposed subjects and 
+51 controls in Tianjin, 
+China
+Lower exposure (med. = 3.1 
+ppm)
+• 
+Focus upon hematology 
+and biomarkers of 
+exposure
+0
+500
+1000
+1500
+2000
+0
+10
+20
+30
+40
+50
+Benzene, ppm
+B O-A lb, pmol/g
+6
+Benzene in Air and BO-Alb
+ 
+Adducts
+ 
+(STUDY #2)
+Rappaport, et al., Cancer Res, 62: 1330-1337 (2002).
+Saturation of benzene 
+metabolism beginning at 
+about 1 ppm (much lower than 
+previously suggested)
+Greater unit risk at low 
+exposure levels
+Motivated EPA to reduce 
+benzene content in gasoline 
+(2007)
+CAN THIS FINDING BE 
+VERIFIED?
+10-fold 
+reduction in 
+slope
+S. M. Rappaport
+7
+Vermeulen et al., Ann Occup Hyg, 2004
+Lan et al., Science, 2004
+Lan et al., Zhang et al., Chem-Biol Interact, 2005
+Lan et al., Cancer Res, 2005
+Vermeulen et al., PNAS, 2005
+Chen et al., Carcinogenesis, 2006
+Kim et al., Carcinogenesis, 2006
+Kim et al., CEBP, 2006
+Kim et al., PGEN, in press
+Benzene Biomarkers Among Chinese 
+Workers
+STUDY #3 (NCI, UC-Berkeley, UNC)
+250 Exposed subjects and 140 
+controls in Tianjin, China
+• 
+Similar exposures (med. = 3.7 
+ppm)
+• 
+Focus on exposure-biomarker 
+relationships and mechanism
+S. M. Rappaport
+8
+benzene
+O
+N
+S
+CH3
+C
+CH
+CH2
+COOH
+Oxepin
+O
+conjugate
+via GST
+S-phenylmercapturic acid
+COOH
+HOOC
+CHO
+OCH
+E,E-Muconic Acid
+OH
+Phenol
+OH
+Hydroquinone
+OH
+OH
+Catechol
+O
+OH
+OH
+Benzene Diol Expoxide
+Benzene dihydrodiol
+OH
+CYP
+CYP2E1
+Nonezymatic 
+Rearrangement
+Epoxide Hydrolase
+CYP
+dihyrodiol dehydrogenase
+HO
+OH
+E,E-Muconaldehyde
+O
+Benzene Oxide
+CYP2E1
+Air Samples (n=2783) and Urinary 
+Analytes (n=620)
+Air; Unmetabolized benzene in 
+urine
+Major metabolites 
+(99% of absorbed 
+dose)
+Minor metabolite
+S. M. Rappaport
+9
+Urinary Benzene vs. Exposure
+0.1
+1
+10
+100
+1
+10
+100
+1000
+10000
+100000
+1000000
+urinary benzene, nmol/l
+air benzene, ppm
+LOD for air monitors
+Urinary benzene detected in all exposed AND
+ 
+control subjects –
+ 
+Used to predict benzene 
+exposures in controls
+0.01
+0.1
+1
+10
+100
+1
+10
+100
+1000
+10000
+100000
+urinary benzene, nmol/l
+air benzene, ppm
+B.
+0.01
+0.1
+1
+10
+100
+1
+10
+100
+1000
+10000
+100000
+urinary benzene, nmol/l
+air benzene, ppm
+B.
+Tianjin workers
+Italian workers
+(Ghittori et al., 1993)
+Kim et al., Carcinogenesis, 27:772 (2006)
+S. M. Rappaport
+10
+Metabolites vs. Exposure
+ 
+(Groups of 30 Workers)
+ 
+A. MA
+B. SPMA
+D. CA
+C. PH
+E. HQ
+Urinary metabolites not 
+useful for monitoring 
+environmental exposures 
+to benzene due to 
+background sources 
+(other than benzene)
+Sig. increase above 
+background levels
+Kim et al., Carcinogenesis, 27:772 (2006)
+S. M. Rappaport
+11
+Dose-specific Metabolism
+1
+10
+100
+0.01
+0.1
+1
+10
+100
+air benzene, ppm
+M A/ b en z en e, μm o l/ l/ p p m
+0.01
+0.1
+1
+0.01
+0.1
+1
+10
+100
+air benzene, ppm
+SPM A/ benz ene, μm ol/ l/ ppm
+1
+10
+100
+1000
+0.01
+0.1
+1
+10
+100
+air benzene, ppm
+PH/ benzene, μmol/ l/ ppm
+1
+10
+100
+1000
+0.01
+0.1
+1
+10
+100
+air benzene, ppm
+CA/ b en z en e, μm o l/ l/ p p m
+1
+10
+100
+0.01
+0.1
+1
+10
+100
+air benzene, ppm
+H Q / b en z en e, μm o l/ l/ p p m
+1
+10
+100
+1000
+10000
+0.01
+0.1
+1
+10
+100
+air benzene, ppm
+To tal/ b en z en e, μm o l/ l/ p p m
+A. MA
+B. SPMA
+D. CA
+C. PH
+E. HQ
+F. Total
+Groups (n = 30) after 
+adjustment for 
+background levels
+•
+ 
+Reduced production of 
+major & total metabolites 
+at low exposures (0.01 –
+ 
+1 
+ppm, never reported 
+previously)
+Kim et al., Carcinogenesis, 
+27:772 (2006)
+S. M. Rappaport
+12
+Modeling Metabolite Levels
+ 
+(Natural Splines)
+ 
+Air benzene, ppm
+0.001
+0.01
+0.1
+1
+10
+100
+Concentration of MA, μM
+0.01
+0.1
+1
+10
+100
+1000
+10000
+Air benzene, ppm
+0.001
+0.01
+0.1
+1
+10
+100
+Concentration of SPMA, μM
+0.0001
+0.001
+0.01
+0.1
+1
+10
+100
+1000
+Air benzene, ppm
+0.001
+0.01
+0.1
+1
+10
+100
+Concentration of PH, μM
+1
+10
+100
+1000
+10000
+Air benzene, ppm
+0.001
+0.01
+0.1
+1
+10
+100
+Concentration of CA, μM
+1
+10
+100
+1000
+A. MA
+B. SPMA
+C. PH
+D. CA
+Air benzene, ppm
+0.001
+0.01
+0.1
+1
+10
+100
+Concentration of MA, μM
+0.01
+0.1
+1
+10
+100
+1000
+10000
+Air benzene, ppm
+0.001
+0.01
+0.1
+1
+10
+100
+Concentration of SPMA, μM
+0.0001
+0.001
+0.01
+0.1
+1
+10
+100
+1000
+Air benzene, ppm
+0.001
+0.01
+0.1
+1
+10
+100
+Concentration of PH, μM
+1
+10
+100
+1000
+10000
+Air benzene, ppm
+0.001
+0.01
+0.1
+1
+10
+100
+Concentration of CA, μM
+1
+10
+100
+1000
+A. MA
+B. SPMA
+C. PH
+D. CA
+Air benzene, ppm
+0.001
+0.01
+0.1
+1
+10
+100
+Concentration of HQ, μM
+1
+10
+100
+1000
+E. HQ
+Air benzene, ppm
+0.001
+0.01
+0.1
+1
+10
+100
+Concentration of HQ, μM
+1
+10
+100
+1000
+E. HQ
+Background 
+levels
+Kim et al., CEBP, 2006
+S. M. Rappaport
+13
+Effects of Covariates 
+[GLM+NS]
+No effect of:
+• Alcohol
+•Toluene co-exposure
+  
+  
+  
+Parameter
+  
+Metabolite 
+Adj.R2 
+Covariate 
+Estimate 
+p-value 
+Intercept 
+1.15 
+<0.0001 
+Age 
+-0.016 
+0.001 
+MA 
+0.812 
+Sex (male)
+-0.215 
+0.013 
+Intercept 
+-6.04 
+<0.0001 
+Age 
+-0.016 
+0.086 
+SPMA 
+0.744 
+Sex (male)
+-0.347 
+0.032 
+Intercept 
+4.22 
+<0.0001 
+Age 
+-0.011 
+0.016 
+PH 
+0.608 
+Sex 
+-0.198 
+0.009 
+Intercept 
+2.66 
+<0.0001 
+BMI 
+-0.022 
+0.028 
+Sex (male)
+-0.243 
+0.007 
+CA 
+0.506 
+Smoking 
+0.323 
+0.001 
+Intercept 
+1.96 
+<0.0001 
+Age 
+-0.013 
+0.003 
+Sex (male)
+-0.221 
+0.019 
+HQ 
+0.689 
+Smoking 
+0.338 
+0.001 
+ 
+Sex: females produce 
+more metabolites 
+than males
+Age: metabolite 
+production reduced 1-
+2%/year of life
+Smoking: Cigarette 
+smoke contains HQ 
+and CA
+Kim et al., CEBP, 2006
+S. M. Rappaport
+14
+Dose-Related Metabolism of Benzene
+0
+1000
+2000
+3000
+4000
+total metabolites, umol/l
+0
+10
+20
+30
+40
+50
+60
+air benzene, ppm
+Predicted levels of total metabolites (background adjusted, 
+female subject, 29 y of age)
+0
+100
+200
+300
+400
+500
+total metabolites, umol/l
+0
+1
+2
+3
+4
+5
+air benzene, ppm
+9-fold reduction 
+in slope
+S. M. Rappaport
+15
+benzene
+O
+N
+S
+CH3
+C
+CH
+CH2
+COOH
+Oxepin
+O
+conjugate
+via GST
+S-phenylmercapturic acid
+COOH
+HOOC
+CHO
+OCH
+E,E-Muconic Acid
+OH
+Phenol
+OH
+Hydroquinone
+O
+O
+1,4-Benzoquinone
+OH
+OH
+HO
+OH
+OH
+Catechol
+O
+OH
+OH
+Benzene Diol Expoxide
+O
+O
+Benzene dihydrodiol
+OH
+1,2-Benzoquinone
+CYP
+CYP2E1
+Nonezymatic 
+Rearrangement
+Epoxide Hydrolase
+CYP
+dihyrodiol dehydrogenase
+CYP2E1
+HO
+OH
+E,E-Muconaldehyde
+1,2,4-trihydroxybenzene
+O
+Benzene Oxide
+CYP2E1
+Effects of Metabolism Genes
+CYPs
+S. M. Rappaport
+16
+benzene
+O
+N
+S
+CH3
+C
+CH
+CH2
+COOH
+Oxepin
+O
+conjugate
+via GST
+S-phenylmercapturic acid
+COOH
+HOOC
+CHO
+OCH
+E,E-Muconic Acid
+OH
+Phenol
+OH
+Hydroquinone
+O
+O
+1,4-Benzoquinone
+OH
+OH
+HO
+OH
+OH
+Catechol
+O
+OH
+OH
+Benzene Diol Expoxide
+O
+O
+Benzene dihydrodiol
+OH
+1,2-Benzoquinone
+CYP
+CYP2E1
+Nonezymatic 
+Rearrangement
+Epoxide Hydrolase
+CYP
+dihyrodiol dehydrogenase
+CYP2E1
+HO
+OH
+E,E-Muconaldehyde
+1,2,4-trihydroxybenzene
+O
+Benzene Oxide
+CYP2E1
+Effects of Metabolism Genes
+EPHX
+NQ01
+MPO
+NQ01
+MPO
+GSTs
+S. M. Rappaport
+17
+benzene
+O
+N
+S
+CH3
+C
+CH
+CH2
+COOH
+Oxepin
+O
+conjugate
+via GST
+S-phenylmercapturic acid
+COOH
+HOOC
+CHO
+OCH
+E,E-Muconic Acid
+OH
+Phenol
+OH
+Hydroquinone
+O
+O
+1,4-Benzoquinone
+OH
+OH
+HO
+OH
+OH
+Catechol
+O
+OH
+OH
+Benzene Diol Expoxide
+O
+O
+Benzene dihydrodiol
+OH
+1,2-Benzoquinone
+CYP
+CYP2E1
+Nonezymatic 
+Rearrangement
+Epoxide Hydrolase
+CYP
+dihyrodiol dehydrogenase
+CYP2E1
+HO
+OH
+E,E-Muconaldehyde
+1,2,4-trihydroxybenzene
+O
+Benzene Oxide
+CYP2E1
+Effects of Metabolism Genes
+NQ01 & 
+MPO
+NQ01
+MPO
+NQ01
+MPO
+S. M. Rappaport
+18
+Magnitudes of Genetic Effects and Gene-
+ 
+Environment Interactions
+Kim et al., PGEN, in press
+Several significant 
+effects, most in 
+expected directions
+Most effects are small 
+(< 3-fold)
+SNP EFFECTS ON BENZENE METABOLITES  
+Ratio of (Var:Var)/(Wild:Wild) 
+Air concentration (ppm) 
+Metabolite 
+SNP 
+0.1 
+1 
+10 
+100 
+CYP2E1 
+0.941
+0.666 
+0.472 
+0.333 
+MA 
+NQO1*2  
+0.976
+0.832 
+0.708 
+0.603 
+CYP2E1  
+0.675
+0.619 
+0.567 
+0.519 
+EPHX1  
+1.00 
+1.26 
+1.59 
+2.01 
+GSTT1 
+0.328
+0.236 
+0.17 
+0.122 
+GSTM1 
+0.554
+0.554 
+0.554 
+0.554 
+NQO1*2 (Nonsmokers) 
+0.614
+0.524 
+0.448 
+0.382 
+SPMA 
+NQO1*2 (Smokers) 
+1.74 
+1.48 
+1.27 
+1.08 
+CYP2E1  
+0.75 
+0.542 
+0.392 
+0.283 
+NQO1*2 (Nonsmokers) 
+0.714
+0.714 
+0.714 
+0.714 
+PH 
+NQO1*2 (Smokers) 
+1.22 
+1.22 
+1.22 
+1.22 
+EPHX1  
+1.15 
+1.15 
+1.15 
+1.15 
+NQO1*2  
+0.902
+0.789 
+0.69 
+0.603 
+EPHX1 (Nonsmokers) 
+1.29 
+1.10 
+0.938 
+0.8 
+CA 
+EPHX1 (Smokers) 
+0.685
+0.584 
+0.498 
+0.425 
+CYP2E1  
+0.692
+0.518 
+0.389 
+0.291 
+HQ 
+NQO1*2  
+0.849
+0.849 
+0.849 
+0.849 
+ 
+S. M. Rappaport
+19
+Magnitudes of Genetic Effects and Gene-
+ 
+Environment Interactions
+Kim et al., PGEN, in press
+Most effects vary with 
+conc. due to saturable 
+metabolism and gene-
+environment 
+interactions
+SNP EFFECTS ON BENZENE METABOLITES  
+Ratio of (Var:Var)/(Wild:Wild) 
+Air concentration (ppm) 
+Metabolite 
+SNP 
+0.1 
+1 
+10 
+100 
+CYP2E1 
+0.941
+0.666 
+0.472 
+0.333 
+MA 
+NQO1*2  
+0.976
+0.832 
+0.708 
+0.603 
+CYP2E1  
+0.675
+0.619 
+0.567 
+0.519 
+EPHX1  
+1.00 
+1.26 
+1.59 
+2.01 
+GSTT1 
+0.328
+0.236 
+0.17 
+0.122 
+GSTM1 
+0.554
+0.554 
+0.554 
+0.554 
+NQO1*2 (Nonsmokers) 
+0.614
+0.524 
+0.448 
+0.382 
+SPMA 
+NQO1*2 (Smokers) 
+1.74 
+1.48 
+1.27 
+1.08 
+CYP2E1  
+0.75 
+0.542 
+0.392 
+0.283 
+NQO1*2 (Nonsmokers) 
+0.714
+0.714 
+0.714 
+0.714 
+PH 
+NQO1*2 (Smokers) 
+1.22 
+1.22 
+1.22 
+1.22 
+EPHX1  
+1.15 
+1.15 
+1.15 
+1.15 
+NQO1*2  
+0.902
+0.789 
+0.69 
+0.603 
+EPHX1 (Nonsmokers) 
+1.29 
+1.10 
+0.938 
+0.8 
+CA 
+EPHX1 (Smokers) 
+0.685
+0.584 
+0.498 
+0.425 
+CYP2E1  
+0.692
+0.518 
+0.389 
+0.291 
+HQ 
+NQO1*2  
+0.849
+0.849 
+0.849 
+0.849 
+ 
+S. M. Rappaport
+20
+Magnitudes of Genetic Effects and Gene-
+ 
+Environment Interactions
+Kim et al., PGEN, in press
+Evidence of gene-smoking 
+interactions
+SNP EFFECTS ON BENZENE METABOLITES  
+Ratio of (Var:Var)/(Wild:Wild) 
+Air concentration (ppm) 
+Metabolite 
+SNP 
+0.1 
+1 
+10 
+100 
+CYP2E1 
+0.941
+0.666 
+0.472 
+0.333 
+MA 
+NQO1*2  
+0.976
+0.832 
+0.708 
+0.603 
+CYP2E1  
+0.675
+0.619 
+0.567 
+0.519 
+EPHX1  
+1.00 
+1.26 
+1.59 
+2.01 
+GSTT1 
+0.328
+0.236 
+0.17 
+0.122 
+GSTM1 
+0.554
+0.554 
+0.554 
+0.554 
+NQO1*2 (Nonsmokers) 
+0.614
+0.524 
+0.448 
+0.382 
+SPMA 
+NQO1*2 (Smokers) 
+1.74 
+1.48 
+1.27 
+1.08 
+CYP2E1  
+0.75 
+0.542 
+0.392 
+0.283 
+NQO1*2 (Nonsmokers) 
+0.714
+0.714 
+0.714 
+0.714 
+PH 
+NQO1*2 (Smokers) 
+1.22 
+1.22 
+1.22 
+1.22 
+EPHX1  
+1.15 
+1.15 
+1.15 
+1.15 
+NQO1*2  
+0.902
+0.789 
+0.69 
+0.603 
+EPHX1 (Nonsmokers) 
+1.29 
+1.10 
+0.938 
+0.8 
+CA 
+EPHX1 (Smokers) 
+0.685
+0.584 
+0.498 
+0.425 
+CYP2E1  
+0.692
+0.518 
+0.389 
+0.291 
+HQ 
+NQO1*2  
+0.849
+0.849 
+0.849 
+0.849 
+ 
+S. M. Rappaport
+21
+Conclusions
+Benzene is metabolized more efficiently at air 
+concentrations below 1 ppm
+ 
+(about 9-fold for total 
+metabolites)
+–
+ 
+Observed in two independent Chinese studies using two 
+different biomarkers of exposure (protein adducts and 
+urinary metabolites) 
+Risk assessments based upon linear models may 
+underestimate risks at low exposure levels 
+Metabolism varies with age and differs between males 
+and females
+Metabolizing genes and gene-environment interactions 
+have detectable but small effects on metabolite 
+production
+S. M. Rappaport
+22
+Conclusions
+Biomarkers can be used in observational studies to 
+elucidate effects of metabolism and other 
+phenomena of interest
+IF exposures are carefully measured in the same 
+subjects
+With Thanks To:
+S.M. Rappaport
+23
+•
+ 
+UNC
+–
+ 
+Sungkyoon
+ 
+Kim
+–
+ 
+Suramya
+ 
+Waidyanatha
+–
+ 
+Karen Yeowell-
+ 
+O’Connell 
+–
+ 
+Brent Johnson
+•
+ 
+NCI
+–
+ 
+Nat Rothman 
+–
+ 
+Roel
+ 
+Vermeulen
+–
+ 
+Qing Lan
+–
+ 
+Stephen Chanock
+•
+ 
+NYU
+–
+ 
+Qinshan
+ 
+Qu
+–
+ 
+Roy Shore
+–
+ 
+Beverley Cohen
+•
+ 
+UC-Berkeley
+–
+ 
+Martyn
+ 
+Smith
+–
+ 
+Luoping
+ 
+Zhang
+•
+ 
+IOM  (Beijing)
+–
+ 
+Guilan
+ 
+Li
+–
+ 
+Songnian
+ 
+Yin
+Work supported by NIEHS 
+and HEI

@@ -1,0 +1,519 @@
+NASA/TM—1999-209655
+December 1999
+L. Danielle Koch
+Glenn Research Center, Cleveland, Ohio
+Evaluation of the Tone Fan Noise Design/
+Prediction System (TFaNS) at the NASA
+Glenn Research Center
+The NASA STI Program Office . . . in Profile
+Since its founding, NASA has been dedicated to
+the advancement of aeronautics and space
+science. The NASA Scientific and Technical
+Information (STI) Program Office plays a key part
+in helping NASA maintain this important role.
+The NASA STI Program Office is operated by
+Langley Research Center, the Lead Center for
+NASA’s scientific and technical information. The
+NASA STI Program Office provides access to the
+NASA STI Database, the largest collection of
+aeronautical and space science STI in the world.
+The Program Office is also NASA’s institutional
+mechanism for disseminating the results of its
+research and development activities. These results
+are published by NASA in the NASA STI Report
+Series, which includes the following report types:
+•
+TECHNICAL PUBLICATION. Reports of
+completed research or a major significant
+phase of research that present the results of
+NASA programs and include extensive data
+or theoretical analysis. Includes compilations
+of significant scientific and technical data and
+information deemed to be of continuing
+reference value. NASA’s counterpart of peer-
+reviewed formal professional papers but
+has less stringent limitations on manuscript
+length and extent of graphic presentations.
+•
+TECHNICAL MEMORANDUM. Scientific
+and technical findings that are preliminary or
+of specialized interest, e.g., quick release
+reports, working papers, and bibliographies
+that contain minimal annotation. Does not
+contain extensive analysis.
+•
+CONTRACTOR REPORT. Scientific and
+technical findings by NASA-sponsored
+contractors and grantees.
+•
+CONFERENCE PUBLICATION. Collected
+papers from scientific and technical
+conferences, symposia, seminars, or other
+meetings sponsored or cosponsored by
+NASA.
+•
+SPECIAL PUBLICATION. Scientific,
+technical, or historical information from
+NASA programs, projects, and missions,
+often concerned with subjects having
+substantial public interest.
+•
+TECHNICAL TRANSLATION. English-
+language translations of foreign scientific
+and technical material pertinent to NASA’s
+mission.
+Specialized services that complement the STI
+Program Office’s diverse offerings include
+creating custom thesauri, building customized
+data bases, organizing and publishing research
+results . . . even providing videos.
+For more information about the NASA STI
+Program Office, see the following:
+•
+Access the NASA STI Program Home Page
+at http://www.sti.nasa.gov
+•
+E-mail your question via the Internet to
+help@sti.nasa.gov
+•
+Fax your question to the NASA Access
+Help Desk at (301) 621-0134
+•
+Telephone the NASA Access Help Desk at
+(301) 621-0390
+•
+Write to:
+           NASA Access Help Desk
+           NASA Center for AeroSpace Information
+           7121 Standard Drive
+           Hanover, MD 21076
+L. Danielle Koch
+Glenn Research Center, Cleveland, Ohio
+Evaluation of the Tone Fan Noise Design/
+Prediction System (TFaNS) at the NASA
+Glenn Research Center
+NASA/TM—1999-209655
+December 1999
+National Aeronautics and
+Space Administration
+Glenn Research Center
+Acknowledgments
+I would like to recognize Dr. Edmane Envia for his kind guidance in preparing this report and for use of pertinent
+graphics, data, and analysis results.
+Available from
+NASA Center for Aerospace Information
+7121 Standard Drive
+Hanover, MD 21076
+Price Code: A03
+National Technical Information Service
+5285 Port Royal Road
+Springfield, VA 22100
+Price Code: A03
+NASA/TM1999-209655
+1
+Evaluation of the Tone Fan Noise Design/Prediction System (TFaNS)
+ at the NASA Glenn Research Center
+L. Danielle Koch
+National Aeronautics and Space Administration
+Glenn Research Center
+Cleveland, Ohio 44135
+Abstract
+Version 1.4 of TFaNS, the Tone Fan Noise
+Design/Prediction System, has recently been evaluated at
+the NASA Glenn Research Center.  Data from tests of the
+Allison Ultra High Bypass Fan (UHBF) were used to
+compare to predicted farfield directivities for the radial
+stator configuration.  There was good agreement between
+measured and predicted directivities at low fan speeds
+when rotor effects were neglected in the TFaNS
+calculations.  At higher fan speeds, TFaNS is shown to be
+useful in predicting overall trends rather than absolute
+sound pressure levels.
+Introduction
+The interaction of fan wakes with downstream stator
+vanes is a significant source of tone noise in modern
+turbofan engines. Accurate fan noise prediction codes are
+invaluable tools for engineers working to minimize tone
+noise through changes in blading and duct geometry. Until
+noise predictions can be generated quickly using
+computational aeroacoustic methods, system predictions
+that couple results from source and radiation codes are
+currently the design engineer’s only alternative to more
+simple approaches. TFaNS, 
+the 
+Tone 
+Fan 
+Noise
+Design/Prediction System, is one such code that has
+recently been evaluated at the NASA Glenn Research
+Center and results of that evaluation will be presented here.
+TFaNS was developed by Pratt and Whitney under
+contract to the NASA Glenn Research Center.  It is a suite
+of coupled codes for computing upstream and downstream
+propagating sound pressure levels, as well as far-field
+directivities.  TFaNS consists of five main computer
+codes: AWAKEN:  CFD/Measured Wake Postprocessor
+Version 1.0, SOURCE3D:  Rotor Wake/Stator Interaction
+Code Version 2.5,  Eversman Inlet Radiation Code
+Version 3.0, Eversman Aft Radiation Code Version 3.1,
+and CUP3D:  Fan Noise Coupling Code Version 2.1.
+SOURCE3D is a modified version of the BBN/V072
+Rotor Wake/Stator Interaction Code.  Both codes are well
+documented in References 1-5.  Both SOURCE3D and
+V072 model the blades as twisted flat plates and the duct
+as a constant area annulus.  V072 assumes axial flow
+through the duct while SOURCE3D can include solid
+body swirl in the region between the rotor and the stator.
+Unlike V072, SOURCE3D creates rotor and stator
+acoustic properties files, which are needed as input into
+the CUP3D program.  The acoustic properties files contain
+rotor and stator scattering coefficients and source vector
+mode amplitudes for noise emanating from the stator
+(References 6-7).
+Both of the Eversman Radiation Codes have also been
+modified to work within TFaNS.  The TFaNS version of
+the inlet and aft radiation codes are able to run multiple
+modes and harmonics assuming unit mode amplitude
+input.  Acoustic properties files are also output for use in
+the CUP3D program.  The Eversman Radiation Codes are
+well documented, and the reader is advised to look to
+Reference 2 for more detailed information.
+The two remaining codes are unique to TFaNS.
+CUP3D is a program that will couple the results from
+isolated blade row and radiation codes.  AWAKEN is a
+tool that will create the SOURCE3D input file if the user
+chooses to input wake data from either CFD predictions or
+from measurements rather than using the wake models
+available in the SOURCE3D program.
+The evaluation conducted at the NASA Glenn
+Research Center compares results from the latest version
+of TFaNS (Version 1.4) to experimental data collected
+from the Allison Ultra High Bypass Fan (Reference 8).
+Three conditions were studied:  approach, cutback, and
+takeoff.  Comparisons were also made to predictions made
+earlier by Envia and Nallasamy (Ref. 9) and to results
+from the previous version of TFaNS (Version 1.3).
+Modeling
+The Ultra High Bypass Fan, a low tip speed fan stage
+designed by Allison for NASA Glenn Research Center,
+was used in this study.  This fan had four stator
+configurations and experiments were conducted to study
+the effect of swept and leaned stator vanes.  For the study
+presented here, only the baseline configuration with radial
+vanes in the forward position was modeled with TFaNS.
+A schematic of this baseline configuration can be seen in
+NASA/TM1999-209655
+2
+Figure 1, which also shows the bounds of the
+computational domains.  Coordinates defining the
+flowpath were taken from Table I and from Figures 39 and
+40 of Reference 10.
+Care was taken in creating the input files for
+SOURCE3D and the inlet and aft radiation programs.  To
+simplify the duct geometry as required by the
+SOURCE3D code, the real duct geometry was modeled as
+a constant area annulus.  The inner and outer radii of that
+annulus were set equal to the values of the stator leading
+edge hub and tip positions, respectively.  This was the
+most reasonable choice considering the significant area
+change along the flowpath and the fact that the source
+region was located at the stator leading edge.
+Interface planes upstream and downstream of the rotor
+and stator must be specified within the SOURCE3D input
+file in order to create the acoustic elements needed by
+CUP3D.  An arbitrary reference plane was established at
+the stator leading edge and the duct radius there, used in
+non-dimensionalization, was 11.00 inches.  Interface
+Plane 1 was chosen to be 1.00 inch upstream of the rotor
+leading edge.  Interface Plane 2, located between the rotor
+and the stator, was 1.397 inches upstream of the stator
+leading edge, and Interface Plane 3 was chosen to be
+downstream of the stator trailing edge, 2.734 inches from
+the reference plane (Figure 1).
+Two inlet and one exhaust mesh were created for the
+forward and aft radiation portions of this problem.  The
+input plane for the first inlet mesh was coincident at
+Interface Plane 1 described above (Figures 2a, 2b, and 2c).
+This mesh was used for cases for which the presence of
+the rotor acoustic element was taken into account.  The
+input plane for the second inlet mesh was coincident at
+Interface Plane 2 and was used for cases coupled without
+the rotor acoustic element (Figures 3a, 3b, and 3c). Only
+one exhaust mesh was used in all coupling cases, and the
+input plane for this mesh was coincident at Interface
+Plane 3 (Figures 4a, 4b, and 4c).
+Farfield Boundary for
+Inlet Noise Computations
+Farfield Boundary for
+Exhaust Noise Computations
+Baffle for Inlet Noise
+Computations
+Baffle for Exhaust
+Noise Compuations
+OGV
+Plane 1
+Plane 2
+Plane 3
+Fan
+Figure 1.  Ultra High Bypass Fan Baseline Configuration
+and Computational Domain Boundaries
+Figure 2a.  Inlet Mesh with Input Plane Upstream of the
+Rotor Leading Edge; Detail of Mesh Within the Duct
+Figure 2b. Inlet Mesh with Input Plane Upstream of the
+Rotor Leading Edge; Detail of Mesh Near the Duct
+Figure 2c. Inlet Mesh with Input Plane Upstream of the
+Rotor Leading Edge; Detail of the Farfield Mesh
+NASA/TM1999-209655
+3
+Figure 3a.  Inlet Mesh with Input Plane Between the Rotor
+and the Stator; Detail of Mesh Within the Duct
+Figure 3b. Inlet Mesh with Input Plane Between the Rotor
+and the Stator; Detail of Mesh Near the Duct
+Figure 3c. Inlet Mesh with Input Plane Between the Rotor
+and the Stator; Detail of the Farfield Mesh
+Figure 4a.  Exhaust Mesh with Input Plane Downstream of
+the Stator Trailing Edge; Detail of Mesh Within the Duct
+Figure 4b. Exhaust Mesh with Input Plane Downstream of
+the Stator Trailing Edge; Detail of Mesh Near the Duct
+Figure 4c. Exhaust Mesh with Input Plane Downstream of
+the Stator Trailing Edge; Detail of the Farfield Mesh
+NASA/TM1999-209655
+4
+Results
+Comparisons of predicted sound pressure level sideline
+directivities to measurements are shown in Figures 5-7.
+Results from CUP3D had to be post-processed since noise
+at a constant radius rather than at a specified sideline are
+normally written to the output file.  Two sets of data are
+shown in each of the plots—tone data and the broadband
+noise level at 2 BPF measured at a sideline 88 inches from
+the fan centerline. All predictions should be clipped at the
+broadband levels indicated since tone noise below these
+levels are unrealistic.  Comparisons are presented for three
+operating conditions:  takeoff, cutback, and approach.  The
+rotor speed for each case is 9013 rpm, 7291 rpm, and 5206
+rpm, respectively.
+The graphs in Figure 5 compare the 2 BPF
+measurements, the predictions from Envia and Nallasamy
+reported in Reference 9, and the TFaNS (Version 1.4)
+predictions.  The predictions by Envia and Nallasamy are
+labeled “V072 + Eversman” in the graphs since they were
+generated by combining the results from V072 and the
+stand-alone versions of the Eversman radiation codes.
+The effects of the rotor were neglected in these TFaNS
+(Version 1.4) calculations.
+Comparison of the three graphs in Figure 5 show that
+the best agreement between the data and the predictions
+occurs at the approach condition.  As fan speed is
+increased, 
+both 
+sets 
+of 
+calculations 
+progressively
+overpredict the farfield noise.  This degradation is due
+mainly to the inadequacy of the source model within the
+V072 and TFaNS programs.  The simple model used does
+not represent the effects of the transonic flowfield at the
+higher rotor speeds.  Differences between the two
+predictions are a result of the ways in which the radiated
+source is coupled.  TFaNS combines the inlet and aft
+radiated noise internally.  Noise reflected from rotor and
+stator elements are included when the radiated source is
+coupled.  These reflections are neglected when the V072
+results are coupled.
+Figure 6 shows the comparison between the data and
+results obtained from TFaNS Versions 1.3 and 1.4.
+Corrections to the coding account for the improvements
+seen between the predictions from Versions 1.4 over
+Version 1.3, which employ identical physical models of
+the problem.  Changes to the code improved the
+predictions particularly at approach conditions, with
+smaller differences seen at the higher tip speeds.
+Finally, Figure 7 shows a comparison between the data
+and three different cases run with TFaNS (Version 1.4).
+Those cases labeled “w/o Rotor” are solutions obtained
+without including the rotor acoustic properties files in the
+coupling scheme.   The input  plane for  the inlet  radiation
+Figure 5.  Comparison of Predicted and Measured Farfield
+Sound Pressure Levels at Takeoff, Cutback, and Approach
+Conditions: TFaNS vs. Reference 9 Predictions
+Figure 6.  Comparison of Predicted and Measured Farfield
+Sound Pressure Levels at Takeoff, Cutback, and Approach
+Conditions:  TFaNS Version 1.3 vs. Version 1.4
+NASA/TM1999-209655
+5
+Figure 7.  Comparison of Predicted and Measured Farfield
+Sound Pressure Levels at Takeoff, Cutback, and Approach
+Conditions:  Swirl Effects
+code for these cases lies between the rotor and the stator
+(Figure 3).  The remaining two cases were run
+incorporating   the  rotor  acoustic   properties  files  in  the
+program, CUP3D.   The first of these cases did not include
+solid body swirl in the region between the stator and the
+rotor and is labeled “w/o Swirl.” As the name implies, the
+case labeled “w/ Swirl” does include swirl as solid body
+rotation in this region.  For both of the cases including
+rotor effects, the input plane for the inlet radiation code
+was located upstream of the rotor leading edge (Figure 2).
+As seen before in Figures 5 and 6, agreement between the
+calculations and the data is best at the approach conditions
+and progressively deteriorates as rotor speed is increased.
+Inclusion of the rotor, with or without swirl, does not
+improve the agreement between the data and the
+predictions for any of the fan speeds studied.
+Similar findings were presented by Topol in Reference
+7 for the 22” Advanced Ducted Propeller (ADP) tested in
+the NASA Glenn 9 x 15 Wind Tunnel.    Topol gives
+several explanations for the weak agreement between the
+data and the predictions from TFaNS Version 1.4 that
+include rotor effects.  While 2D aerodynamics can be
+successfully combined with 3D acoustics in the
+SOURCE3D program for low rotor speeds, this technique
+breaks down as frequencies increase.  The mismatch
+causes inaccuracies in the rotor transmission and
+scattering coefficients, resulting in inflated noise
+predictions.  Noise is overpredicted in part, too, by
+limitations in the panel method used to calculate the
+unsteady pressure distribution on the rotor blade.  As
+described in detail in Appendix I of Reference 7, the
+number of panels needed to accurately calculate the blade
+unsteady surface pressure distribution becomes prohibitive
+as the relative freestream Mach number approaches the
+sonic condition.
+Conclusions
+The evaluation of Version 1.4 of  TFaNS at NASA
+Glenn Research Center has shown that TFaNS is a useful
+noise prediction code particularly at low rotor tip speeds.
+Recent changes to the code have improved prediction
+accuracy at  low speeds, if the influence of the rotor is
+omitted from the coupling scheme.  At higher tip speeds,
+TFaNS (Version 1.4) may still prove to be useful in
+predicting overall trends, although absolute noise levels
+calculated may be higher than measurements may show.
+References
+1. D. A. Topol, “Development and Evaluation of a
+Coupled Fan Noise Design System,” 1997, AIAA
+97–1611.
+2. D. A. Topol and W. Eversman, “TFaNS Tone Fan
+Noise Design/Prediction System Vol. II:  User’s
+Manual, 
+TFaNS 
+Vers. 
+1.4,” 
+1998, 
+NASA
+CR–208883.
+3. H. D. Meyer, “Source Methodology for Turbofan
+Noise 
+Prediction 
+(SOURCE3D 
+Technical
+Documentation), 1997, NASA CR–208877.
+4. D. A. Topol and D. C. Mathews, “Rotor Wake/Stator
+Interaction 
+Noise 
+Prediction 
+Code, 
+Technical
+Documentation and User’s Manual,” 1993, NASA
+Contract NAS3–25952.
+5. H. D. Meyer and E. Envia, “Aeroacoustic Analysis of
+Turbofan Noise Generation,” 1996, NASA CR–4715.
+6. D. 
+A. 
+Topol, 
+“TFaNS 
+Tone 
+Fan 
+Noise
+Design/Prediction System  Vol I: System Description,
+CUP3D Technical Documentation and Manual for
+Code Developers,” 1998, NASA CR–208882.
+7. D. 
+A. 
+Topol, 
+“TFaNS 
+Tone 
+Fan 
+Noise
+Design/Prediction System  Vol III:  Evaluation of
+System Codes,” 1998, NASA CR–208884.
+NASA/TM1999-209655
+6
+8. R. P. Woodward, D. M. Elliott, C. E. Hughes, and J.
+J. Berton, “Benefits of Swept and Leaned Stators
+for Fan Noise Reduction,” 1998, NASA TM1998-
+208661.
+9. E. Envia and M. Nallasamy, “Design Selection and
+Analysis of a Swept and Leaned Stator Concept,”
+1998, NASA TM1998–208662.
+10. W.N. Dalton, D. B. Elliott, and K. L. Nickols,
+“Design of a Low Tip Speed Fan for Noise
+Suppression,” 1999, NASA CR–208682.
+This publication is available from the NASA Center for AeroSpace Information, (301) 621–0390.
+REPORT DOCUMENTATION PAGE
+2. REPORT DATE
+19. SECURITY CLASSIFICATION
+ OF ABSTRACT
+18. SECURITY CLASSIFICATION
+ OF THIS PAGE
+Public reporting burden for this collection of information is estimated to average 1 hour per response, including the time for reviewing instructions, searching existing data sources,
+gathering and maintaining the data needed, and completing and reviewing the collection of information.  Send comments regarding this burden estimate or any other aspect of this
+collection of information, including suggestions for reducing this burden, to Washington Headquarters Services, Directorate for Information Operations and Reports, 1215 Jefferson
+Davis Highway, Suite 1204, Arlington, VA  22202-4302, and to the Office of Management and Budget, Paperwork Reduction Project (0704-0188), Washington, DC  20503.
+NSN 7540-01-280-5500
+Standard Form 298 (Rev. 2-89)
+Prescribed by ANSI Std. Z39-18
+298-102
+Form Approved
+OMB No. 0704-0188
+12b. DISTRIBUTION CODE
+8. PERFORMING ORGANIZATION
+ REPORT NUMBER
+5. FUNDING NUMBERS
+3. REPORT TYPE AND DATES COVERED
+4. TITLE AND SUBTITLE
+6. AUTHOR(S)
+7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES)
+11. SUPPLEMENTARY NOTES
+12a. DISTRIBUTION/AVAILABILITY STATEMENT
+13. ABSTRACT (Maximum 200 words)
+14. SUBJECT TERMS
+17. SECURITY CLASSIFICATION
+ OF REPORT
+16. PRICE CODE
+15. NUMBER OF PAGES
+20. LIMITATION OF ABSTRACT
+Unclassified
+Unclassified
+Technical Memorandum
+Unclassified
+National Aeronautics and Space Administration
+John H. Glenn Research Center at Lewis Field
+Cleveland, Ohio  44135–3191
+1. AGENCY USE ONLY (Leave blank)
+10. SPONSORING/MONITORING
+ AGENCY REPORT NUMBER
+9. SPONSORING/MONITORING AGENCY NAME(S) AND ADDRESS(ES)
+National Aeronautics and Space Administration
+Washington, DC  20546–0001
+December 1999
+NASA TM—1999-209655
+E–12011
+WU–522–81–11–00
+12
+A03
+L. Danielle Koch
+Noise; Acoustics; Fan; Rotor; Stator
+Unclassified -Unlimited
+Subject Categories: 07, 64 and 71
+Distribution:   Nonstandard
+Evaluation of the Tone Fan Noise Design/Prediction System (TFaNS) at the
+NASA Glenn Research Center
+Responsible person, L. Danielle Koch, organization code 5940, (216) 433–5656.
+Version 1.4 of TFaNS, the Tone Fan Noise Design/Prediction System, has recently been evaluated at the NASA Glenn
+Research Center.  Data from tests of the Allison Ultra High Bypass Fan (UHBF) were used to compare to predicted
+farfield directivities for the radial stator configuration. There was good agreement between measured and predicted
+directivities at low fan speeds when rotor effects were neglected in the TFaNS calculations. At higher fan speeds, TFaNS
+is shown to be useful in predicting overall trends rather than absolute sound pressure levels.

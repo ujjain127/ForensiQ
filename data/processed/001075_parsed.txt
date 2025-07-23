@@ -1,0 +1,235 @@
+Training Worksheet Job Aid 
+Maintained by Corporate Education, Development & Training (CEDT) 
+Purchase Order       
+A. General Awareness Sandia-Specific Training — Initial and Refresher Training
+Program/ 
+Hazards 
+Title 
+Course 
+Number  
+Annual Counterintelligence Training 
+Members of the Workforce who process, or have access to 
+information. 
+CI100  
+ 
+Annual Integrated Cyber and Information Security Training 
+All members of the SNL workforce who create and process 
+Sandia information are required to complete Integrated Cyber 
+and Information Security Training (COM100) within 14 days 
+from their hire date, and every 12 months thereafter.  All 
+individuals who access Sandia computing resources must have 
+COM100 or a Cyber Security-approved equivalent (e.g. from 
+another DOE Laboratories or Nuclear Weapons Complex).* 
+COM100 
+ 
+ES&H Awareness  
+Required if contractor is on-site.* 
+ESH100 
+ 
+OUO Basics: Understanding Official Use Only 
+Required for all those who handle OUO information.  
+OUO101
+ 
+Property Basics 
+Required for all SNL employees and Staff Augmentation 
+Contractors  
+PROP101
+ 
+Initial Security Briefing  
+Required if contractor has or will have a clearance 
+SEC050 
+ 
+Comprehensive Security Briefing  
+Required if contractor has a clearance 
+SEC150 
+ 
+GENERAL 
+AWARENESS 
+Annual Security Refresher Briefing  
+Required if contractor has a clearance 
+SEC100 
+ 
+*Note: The Sandia Delegated Representative (SDR) may need to provide the material for initial 
+training.  
+ 
+Training Worksheet Job Aid   
+          
+Last updated: 2/24/2006 
+Page 1 of 4 
+Training Worksheet Job Aid 
+Maintained by Corporate Education, Development & Training (CEDT) 
+B. ES&H Generic Training — Initial and Refresher Training 
+Program/ Hazards 
+Title 
+Course Number 
+** 
+ 
+Field Instrumentation Confined Spaces 
+Generic 
+CNF103G 
+ 
+Confined Space 
+Confined Space Safety and 
+Instrumentation Generic 
+CNF104G 
+ 
+Emergency Preparedness Hazardous Materials Technician Training 
+Generic 
+EMG103G 
+ 
+OSHA Health & Safety Basic Training-
+General Worker Generic 
+ENV100G 
+ 
+OSHA Health & Safety Basic Training-
+Occasional Worker Generic 
+ENV102G 
+ 
+OSHA Health & Safety Training Refresher 
+Generic 
+ENV103G 
+ 
+OSHA Health & Safety Training 
+Refresher-Supervisors Generic 
+ENV104G 
+ 
+Environmental Protection 
+Management of Underground Storage 
+Tanks Generic 
+ENV215G 
+ 
+Ergonomics 
+Healthy Back Generic 
+ERG114G 
+ 
+Safe Operation of Motorized Hand Trucks 
+and Pallet Jacks Generic 
+FKL110G 
+ 
+Forklift Operator and Hands-On Training 
+Generic 
+FKL153G 
+ 
+Forklift Safety 
+Forklift Operator Training Refresher 
+Generic 
+FKL153RG 
+ 
+Fall Prevention and Protection Awareness 
+Training Generic 
+FPP105G 
+ 
+Fall Prevention and 
+Protection 
+Fall Prevention and Protection Competent 
+Person Training Generic 
+FPP110G 
+ 
+Training Worksheet Job Aid   
+          
+Last updated: 2/24/2006 
+Page 2 of 4 
+Training Worksheet Job Aid 
+Maintained by Corporate Education, Development & Training (CEDT) 
+Beryllium Awareness 
+BEA100G 
+ 
+Employee Basic Hazcom Generic 
+HAZ101IG 
+ 
+Solvents Generic 
+HAZ202G 
+ 
+Hazards Communication 
+Corrosives Generic 
+HAZ208G 
+ 
+Industrial Hygiene 
+Fundamentals of Industrial Hygiene 
+Generic 
+IH100G 
+ 
+Laser Safety 
+Introduction to Laser Safety Generic 
+LAS110IG 
+ 
+First Aid Awareness Generic 
+MED101G 
+ 
+Standard First Aid Generic 
+MED102G 
+ 
+Cardiopulmonary Resuscitation (CPR) 
+Training Generic  
+MED104G 
+ 
+Occupational Medicine 
+Standard First Aid Generic 
+MED108G 
+ 
+Occupational Noise 
+Occupational Noise Generic 
+NSE100G 
+ 
+Basic Hazardous Material Transportation 
+Training Generic 
+PKX100G 
+ 
+Basic Radioactive Materials 
+Transportation Training Generic 
+PKX111G 
+ 
+Basic Hazardous Waste Transportation 
+Training Generic 
+PKX112G 
+ 
+Basic Explosives Transportation Training 
+Generic 
+PKX114G 
+ 
+Packaging and 
+Transportation 
+Basic Hazardous Material Drivers Training 
+Generic 
+PKX115G 
+ 
+Training Worksheet Job Aid   
+          
+Last updated: 2/24/2006 
+Page 3 of 4 
+Training Worksheet Job Aid 
+Maintained by Corporate Education, Development & Training (CEDT) 
+Air Purifying Respiratory Protection 
+Generic 
+RSP215G 
+ 
+Comprehensive Respiratory Protection 
+Generic 
+RSP217G 
+ 
+Respiratory Protection 
+Respiratory Protection for Supervisors 
+Generic 
+RSP230G 
+ 
+Vehicle Safety 
+Commercial Vehicle Driver Licensing 
+Training Generic 
+VEH102G 
+ 
+** For Sandia use only.  "G" at the end of the course number indicates ES&H generic training; 
+training that is not Sandia-specific.  Generic training is administered by the contracting company.  
+Recorded completion of generic training is the counterpart of the Sandia-specific course, with a "G" 
+suffix. 
+List any other ES&H generic training if applicable.  
+      
+C. Non-ES&H Generic Training (Please complete if applicable.)  
+      
+D. Sandia-Specific Training (ES&H or non-ES&H) (Please complete if applicable.)  
+This training will be administered by Sandia.  
+      
+ 
+Training Worksheet Job Aid   
+          
+Last updated: 2/24/2006 
+Page 4 of 4 

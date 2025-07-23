@@ -1,0 +1,2156 @@
+COMPARISON OF FIELD PERFORMANCE OF MULTIPLE
+SOIL MOISTURE SENSORS IN A SEMI-ARID RANGELAND1
+Ginger B. Paige and Timothy O. Keefer2
+ABSTRACT: Automated electronic soil moisture sensors, such as time domain reﬂectometry (TDR) and capaci-
+tance probes are being used extensively to monitor and measure soil moisture in a variety of scientiﬁc and land
+management applications. These sensors are often used for a wide range of soil moisture applications such as
+drought forage prediction or validation of large-scale remote sensing instruments. The convergence of three dif-
+ferent research projects facilitated the evaluation and comparison of three commercially available electronic soil
+moisture probes under ﬁeld application conditions. The sensors are all installed in shallow soil proﬁles in a well
+instrumented small semi-arid shrub covered subwatershed in Southeastern Arizona. The sensors use either a
+TDR or a capacitance technique; both of which indirectly measure the soil dielectric constant to determine the
+soil moisture content. Sensors are evaluated over a range of conditions during three seasons comparing
+responses to natural wetting and drying sequences and using water balance and inﬁltration simulation models.
+Each of the sensors responded to the majority of precipitation events; however, they varied greatly in response
+time and magnitude from each other. Measured proﬁle soil moisture storage compared better to water balance
+estimates when soil moisture in deeper layers was accounted for in the calculations. No distinct or consistent
+trend was detected when comparing the responses from the sensors or the inﬁltration model to individual pre-
+cipitation events. The results underscore the need to understand how the sensors respond under ﬁeld applica-
+tion and recognize the limitations of soil moisture sensors and the factors that can affect their accuracy in
+predicting soil moisture in situ.
+(KEY TERMS: soil moisture; instrumentation; rangelands; capacitance probe; time domain reﬂectometry; inﬁl-
+tration model.)
+Paige, Ginger B. and Timothy O. Keefer, 2008. Comparison of Field Performance of Multiple Soil Moisture Sen-
+sors in a Semi-Arid Rangeland. Journal of the American Water Resources Association (JAWRA) 44(1):121-135.
+DOI: 10.1111/j.1752-1688.2007.00142.x
+INTRODUCTION
+In situ measurements of soil moisture are used to
+determine the effects of changes in soil moisture on
+hydrology, meteorology, agriculture, and watershed
+condition in semi-arid lands. Reliable measurements
+of
+soil
+moisture
+are
+needed
+for
+a
+large
+variety
+of applications including water balance and hydro-
+logic
+ﬂux
+calculations,
+input
+into
+rainfall
+runoff
+1Paper No. J06127 of the Journal of the American Water Resources Association (JAWRA). Received September 23, 2006; accepted June 4,
+2007. ª 2008 American Water Resources Association. No claim to original U.S. government works. Discussions are open until August 1,
+2008.
+2Respectively, Assistant Professor, University of Wyoming, Laramie WY 82071; and Hydrologist, USDA-ARS Southwest Watershed
+Research Center, Tucson, Arizona 85719. At the time of this research, the senior author was Assistant Research Scientist, USDA-ARS
+Southwest Watershed Research Center, Tucson, Arizona 85719 (E-mail ⁄ Keefer: tkeefer@tucson.ars.ag.gov).
+JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION
+121
+JAWRA
+JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION
+Vol. 44, No. 1
+AMERICAN WATER RESOURCES ASSOCIATION
+February 2008
+inﬁltration
+models,
+ground
+calibration
+of
+remote
+sensing data, irrigation quantity and timing for agri-
+cultural crops, water supply calculations, and evalu-
+ation of potential drought impacts. Soil moisture
+content is an important component of the water bal-
+ance and a signiﬁcant factor in both agricultural
+and rangeland management. However, because of
+the spatial variability of soils and the spatial and
+temporal variability of water content in the soil, it
+can be difﬁcult to accurately measure, especially at
+depth. In response to this need, a wide range of
+methods
+and
+automated
+instruments
+have
+been
+developed
+to
+measure
+moisture
+content
+in
+soils.
+Measurement
+methods
+that
+have
+been
+developed
+over the years include gravimetric sampling, gypsum
+blocks,
+neutron
+scattering,
+and
+recently
+electro-
+magnetic induction methods and probes, such as
+TDR and capacitance probes, which measure the
+dielectric constant of the soil to determine the soil
+moisture content. In most cases, the soil moisture
+content is not directly measured but indirectly calcu-
+lated from a measurable soil property related to soil
+moisture.
+Presently,
+TDR
+and
+capacitance
+probe
+methods
+are
+the
+most
+commonly
+used
+electronic
+methods for measuring soil moisture as they can be
+automated and can be used to measure both spatial
+and temporal changes in soil moisture.
+Currently, many electronic probes are being used
+for long-term measurement and monitoring of soil
+moisture. Examples include the U.S. Department of
+Agriculture, Natural Resource Conservation Service
+(NRCS) which has installed soil moisture capacitance
+probes at more than 100 sites across the country as
+part of the Soil Climate Analysis Network (SCAN;
+http://www.wcc.nrcs.usda.gov/scan/). As many as ﬁve
+soil moisture probes are installed in a single proﬁle
+at multiple depths at each site. The Wyoming Depart-
+ment of Agriculture, in collaboration with the Univer-
+sity of Wyoming, has installed soil moisture probes at
+18 sites across the state to monitor soil moisture for
+drought forage prediction. Again, three capacitance
+probes are installed in single proﬁles at each site.
+However, the ability of the different probes to mea-
+sure effectively soil moisture in situ still needs to be
+determined. The factors that can affect electronic
+probe performance are the variability of the soil
+properties (e.g., bulk density and texture), soil tem-
+perature and salinity (Mead et al., 1995), the meas-
+urement
+frequency (Seyfried
+and Murdock,
+2001,
+2004; Chandler et al., 2004), and even differences
+among
+individual
+sensor
+responses
+(Seyfried
+and
+Murdock, 2001; Bosch, 2004; Chandler et al., 2004).
+Many capacitance probes are more sensitive to spe-
+ciﬁc soil characteristics than TDR probes primarily
+because of the differences in measurement frequency
+(Chandler et al., 2004; Seyfried and Murdock, 2004).
+Most electronic probes come with a factory calibra-
+tion; however, a soil speciﬁc calibration is often
+needed.
+Laboratory evaluation and calibration of electronic
+soil moisture probes often result in fairly good perfor-
+mance
+under
+controlled
+conditions
+(Seyfried
+and
+Murdock, 2001; Bosch, 2004). Bosch (2004) evaluated
+the performance of two capacitance probes (Stevens -
+Vitel
+Hydra
+probe
+and
+Decagon
+Echo
+dielectric
+aquaprobe) in laboratory and ﬁeld settings. Labora-
+tory calibrated probes yielded volumetric soil mois-
+ture estimates within ± 0.05 cm3 cm)3 of observed
+values. While ﬁeld comparison of the Hydra probe
+using factory calibrations resulted in estimates of soil
+moisture within ± 75%. Better agreement was found
+using soil-speciﬁc calibration or the Topp equation
+(Topp et al., 1980). Lieb et al. (2003) compared
+several different soil moisture sensors in an agricul-
+tural ﬁeld setting to neutron probe readings through
+a 90 cm proﬁle. The neutron probe was calibrated
+to the speciﬁc site and soil. Their results state that
+individual probes must be calibrated to speciﬁc soils
+for accurate soil moisture measurements. Chandler
+et
+al.
+(2004)
+successfully
+used
+TDR
+calibrated
+with the Topp Equation to ﬁeld calibrate capacitance
+probes.
+Amer
+et
+al.
+(1994)
+also
+used
+calibrated
+TDR probes to calibrate successfully the moisture
+resistance sensors. However, that process requires
+having calibrated TDR installed with selected probes
+which is unlikely to happen in most ﬁeld applica-
+tions.
+Three different commercially available automated
+soil moisture sensors are all installed in shallow soil
+proﬁles
+in
+a
+well
+instrumented
+small
+semi-arid
+shrub covered watershed in Southeastern Arizona.
+The soil moisture sensors were installed over a two-
+year period as part of three separate and distinct
+studies. The sensors use either a capacitance tech-
+nique or time domain reﬂectometry to measure the
+dielectric constant of the soil. The purpose of this
+study is to evaluate and compare the responses of
+the three different automated soil moisture sensors
+installed in the same semi-arid subwatershed to var-
+iable wetting from natural precipitation events. The
+measured volumetric water content and the lag time
+between precipitation and changes in soil moisture
+at a variety of depths in the soil horizon are qualita-
+tively evaluated for three seasons. A water balance
+model
+using
+measured
+precipitation,
+runoff
+and
+evapotranspiration (ET) to compute changes in soil
+moisture storage is compared to soil moisture stor-
+age determined from each of the three sensor pro-
+ﬁles
+for
+three
+seasons.
+An
+inﬁltration
+model,
+parameterized to the speciﬁc watershed, is used to
+evaluate the responses to the wetting front for spe-
+ciﬁc precipitation events.
+PAIGE AND KEEFER
+JAWRA
+122
+JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION
+Previous studies have looked at the performance of
+soil moisture probes as compared with gravimetric
+measurements or used TDR to calibrate other capaci-
+tance probes; however, few have directly compared
+the performance of different probes under ﬁeld appli-
+cations as they are being employed for long-term
+monitoring of soil moisture. Recently, Walker et al.
+(2004) compared a variety of sensors under similar
+conditions and found differences in response to wet-
+ting. Their study differs from the current in several
+respects. The sensors they employed were installed in
+a 1 m2 area of soil for the purpose of a comparison
+study. Some of the sensors were read at discrete
+times, not continuously recorded. In a simple water
+balance model, a modeled Penman-Monteith ET was
+used and it was assumed there was no drainage
+below 40 cm. In this study, because the sensors were
+installed for different research programs, they were
+installed in separate proﬁles within the same subwa-
+tershed within 250 m of each other (Figure 1). Table 1
+contains summary information on the installation
+locations. All sensors are recorded at 20 min time
+intervals. For the water balance model, ET is mea-
+sured by Bowen Ratio and wetting front limits are
+determined by measurements in the soil proﬁle. It
+is important to note that this is an evaluation of
+the sensor as they are currently being used in ﬁeld
+applications.
+Location
+This study uses data collected from soil moisture
+sensors installed in a subwatershed of the Walnut
+Gulch
+Experimental
+Watershed
+(WGEW).
+WGEW
+(Renard et al., 1993), located in southeastern Arizona,
+is operated by the USDA-ARS Southwest Watershed
+Research
+Center
+(SWRC).
+Lucky
+Hills
+(LH)
+(3144¢38N,
+1103¢16W)
+is
+a
+highly
+instrumented
+subwatershed within WGEW (Figure 1). Vegetation
+at LH is dominated by shrub species including creo-
+sote bush (Larrea tridentata), white-thorn (Acacia
+constricta), tarbush (Flourensia cernua), snakeweed
+(Gutierrezia sarothrae), desert zinnia (Zinnia acerosa)
+FIGURE 1. Location Map of Lucky Hills Subwatershed Within the USDA ARS Walnut Gulch
+Experimental Watershed and Location of the Soil Moisture and Hydrologic Instrumentation.
+COMPARISON OF FIELD PERFORMANCE OF MULTIPLE SOIL MOISTURE SENSORS IN A SEMI-ARID RANGELAND
+JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION
+123
+JAWRA
+and burroweed (Aplopappus tenuisectus). Shrub sur-
+face cover is about 25-30% with the remainder of the
+area being bare interspace. The soil is a sandy grav-
+elly loam (66% sand, 24% silt, 10% clay), with consid-
+erable rock content (28%), high surface rock cover
+(46%), low organic matter (<1%) and bulk density of
+1.64 g⁄cm3 (Kustas and Goodrich, 1994).
+A
+meteorological
+station
+with
+soil
+moisture
+measurement capability is maintained at LH as part
+of
+the
+long-term
+hydrologic
+monitoring
+at
+WGEW. To monitor the soil moisture, six ML2x
+Theta Probes1 (DTP) (Delta-T Devices Ltd., 1999) are
+installed at 5 and 15 cm depths in three separate pro-
+ﬁles under bare surface, shrub cover and a mixed
+bare and shrub cover. All probes are within 2 m hori-
+zontally of each other. The probes have been opera-
+tional since 2001. An electronic weighing bucket
+recording raingauge is located approximately 76 m
+west of the meteorological station. In January 2002,
+as part of a joint USDA-NASA project (Cosh et al.,
+2007) to evaluate remote sensed estimates of near-
+surface soil moisture, three Stevens -Vitel Hydra
+Probe 1 sensors (VHP) (Stevens Water Monitoring
+Systems Inc., 1994) are installed at 5, 15, and 30 cm
+depths under bare surface co-located with the rainga-
+uge. In collaboration with the Jet Propulsion Labora-
+tory and the University of Arizona (Moghaddam
+et al., 2003), two proﬁles of TDR probes are installed
+188 m southwest of the raingauge in January 2003,
+to evaluate the potential of a prototype multi-fre-
+quency ground penetrating radar to measure soil
+moisture at depth. A TDR100 system (Campbell Sci-
+entiﬁc Inc. 2004) is employed to sample the TDR
+probes installed at 5, 15, 30, 50, and 75 cm depths.
+The probes are installed in two separate proﬁles,
+under bare and shrub cover; within two horizontal
+meters of each other at each depth. The locations of
+all of the soil moisture sensors within the LH subwa-
+tershed are presented in Figure 1. The three research
+programs are separate and unique, each having its
+own speciﬁc requirements for measurement of soil
+moisture and selection of sensors; however, several
+measurement factors have been kept constant. Data
+at all three sites are recorded on Campbell Scientiﬁc
+CR10X data loggers at a common 20 min time step.
+The installation process was similar for each. A
+trench was excavated by hand or backhoe. All probes
+were installed into the southern trench face. A small
+horizontal cavity, large enough to accept the probe
+body, was created in the trench face. Probes were
+inserted horizontally into this cavity, by pushing
+the probe tines into the soil at the recessed end of the
+cavity, until the probe head was within the cavity.
+The cavity was repacked with the soil which had
+been removed. Probe lead wires were run vertically
+down the trench face, across the bottom of the trench
+and up the other side, thus preventing preferential
+ﬂow paths to probe head and tines. The soil matrix is
+very rocky and at the time of the installations of
+the VHP and TDR, the soil was extremely dry and
+hard because of prolonged drought conditions, often
+necessitating that pilot holes be drilled to accept the
+probe tines. Although every attempt was made to
+assure good contact between soil and tines, it is
+impossible to know the extent of soil cracking around
+the tines at time of installation.
+In addition, other soil moisture proﬁle measure-
+ments have been made in proximity to these sites in
+the last 15 years by electric resistance sensors (Amer
+et al., 1994), TDR (Whitaker, 1993; Hymer et al.,
+2000) and capacitance sensors (Thoma et al., 2006). A
+USDA-NRCS
+Surface
+Climate
+Analysis
+Network
+(SCAN) site, in operation since 1999, is adjacent
+to the subwatershed (http://www.wcc.nrcs.usda.gov/
+scan/). Other instrumentation include a concrete H
+ﬂume measuring runoff on the 0.35 ha subwatershed
+(encompassing ⁄adjacent to the soil moisture instru-
+mentation), operated as part of the long-term WGEW
+instrumentation network, and a Bowen Ratio (BR)
+System, operated as part of the USDA-ARS, Range-
+land Carbon Flux Project (Svejcar et al., 1997).
+Sensors
+All three sensors indirectly measure the dielectric
+constant of the soil to determine the soil moisture
+content. The dielectric constant is about 1 for air, 5
+for dry soil, and 80 for water. Thus, the addition of
+TABLE 1. Sensor Summary Information.
+DTP
+VHP
+TDR
+Location UTM
+East
+589773
+589697
+589567
+North
+3512434
+3512426
+3512290
+Elevation (m)
+1370
+1368
+1366
+Depth (cm)
+5
+5
+5
+15
+15
+15
+30
+30
+50
+75
+Installation (month ⁄ year)
+7 ⁄ 2001
+1 ⁄ 2002
+1 ⁄ 2003
+Sensing volume (cm3)
+75.4
+29.5
+188.5
+Factory accuracy (+ or ) % VWC)
+5
+3
+2.5
+Bulk Density (g*cm)3)
+1.64
+1.64
+1.64
+1Mention of Trade Names is for convenience of the reader and
+not an endorsement by the US Department of Agriculture or the
+University of Wyoming.
+PAIGE AND KEEFER
+JAWRA
+124
+JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION
+water to dry soil causes an increase in the dielectric
+constant of the soil. Capacitance sensors measure the
+resonance frequency of a circuit where the probe
+itself is a capacitor within the circuit. The capaci-
+tance sensor consists of two electrodes separated by a
+dielectric. When the probe tines are placed in the soil
+medium, the soil becomes part of the dielectric. A
+high frequency electrical pulse applied to the elec-
+trodes causes a resonance frequency to be set up,
+which is measured by the sensor. It is this frequency
+that changes as the soil’s dielectric constant changes
+with moisture content. TDR measures the propaga-
+tion velocity of an electric pulse traveling along the
+sensor wave guides. The reﬂected signal is a function
+of the dielectric constant (Topp et al., 1980).
+The DTP generates a 100 MHz signal that is solely
+dependent upon the soils apparent dielectric content
+while minimizing the inﬂuence of the soils ionic con-
+ductivity. Sensor output is 0 to 1 VDC (direct current
+volts) for a range of measured dielectric constant
+commensurate
+with
+0-50%
+volumetric
+water
+content (VWC). The manufacturer supplies calibra-
+tion equations for mineral and organic soils and esti-
+mates accuracies of ± 5% VWC when using the
+generalized
+equations,
+although
+better
+accuracies
+may be achieved with site-speciﬁc calibrations. The
+probe consists of a plastic cylinder 11 cm long and
+4 cm diameter housing the sensor electronics. Four
+6 cm long tines extend longitudinally from one end of
+the probe, three in triangular fashion around the
+fourth located at the center of the triangle. The
+approximate sampling volume is a 6 cm long cylinder
+with 4 cm diameter.
+The VHP is a capacitance sensor that measures
+the soil dielectric constant by generating a 50 MHz
+signal. This frequency responds to both the capacitive
+and conductive parts of the soil’s electric properties.
+The former is related to soil moisture and the latter
+to soil salinity. The probe also has an integrated
+thermistor to measure soil temperature. The sensor
+outputs four voltages ranging from 0-2.5 VDC. The
+ﬁrst, second, and third voltages are used to determine
+the dielectric constant and the fourth is used to
+determine temperature. Software supplied by the
+manufacturer contains algorithms to resolve the real
+and
+imaginary
+parts
+of
+the
+dielectric
+constant
+(respectively corresponding to the capacitive and con-
+ductive parts of the soil electric response), the soil
+temperature, temperature corrected real and imagi-
+nary dielectric components and soil moisture and soil
+salinity. Soil moisture is calculated from one of three
+calibrations based upon generic soil type: sand, silt or
+clay. The manufacturer’s stated accuracy is ± 3%
+VWC. The probe head is a plastic cylinder about 4 cm
+long and 4 cm diameter housing sensor electronics.
+Four 6 cm long tines extend from one end of the
+probe, three in triangular fashion around the fourth
+located at the center of the triangle. The approximate
+sampling volume is a 6 cm long cylinder with 2.5 cm
+diameter.
+The TDR system uses the Campbell Scientiﬁc
+TDR100, a data logger controlled pulsed signal gener-
+ator. The TDR100 samples reﬂected waveforms which
+are dependent on the velocity of the generated signal,
+the length of the waveguides, and the dielectric con-
+stant of the soil medium. Software supplied with the
+unit allows user-determined control settings for oper-
+ation of the TDR100 and signal interpretation. Two
+relationships between apparent dielectric constant
+and VWC are provided and are nearly equivalent for
+a range of soil water contents and applications. The
+Topp equation (Topp et al., 1980) is a polynomial
+expression relating the dielectric constant to soil
+moisture. The Ledieu (Ledieu et al., 1986) calibration
+linearly relates VWC to the square root of apparent
+dielectric constant. The probe consists of a plastic
+head which holds the coaxial cable connection to the
+two parallel 15 cm long stainless steel wave guides,
+separated by 4 cm. The effective sampling volume is
+estimated to be a cylinder 15 cm long and 4 cm dia-
+meter.
+A site-speciﬁc calibration is needed for most soil
+moisture sensors, although the manufacturers sup-
+plied calibration equations are often acceptable espe-
+cially when the soil type is easily classiﬁed as sand,
+silt, or clay. It is difﬁcult to obtain accurate calibra-
+tions from soils with high rock content, such as those
+at LH, either in situ or in a laboratory using soils
+removed from the site and packed to appropriate bulk
+density. Because of the rock content and the unstable
+nature of the soil when removed by coring, exacer-
+bated when the soil is extremely dry, this is often
+impractical. For these installations, the mineral soil
+calibration provided by the manufacturer was used
+for DTP; the Ledieu equation with site-speciﬁc cali-
+bration coefﬁcients was used for TDR; and the manu-
+facturers supplied calibration for sand soil was used
+for VHP.
+RESULTS
+Seasonal Soil Moisture Patterns
+Correlations between sensors of the same type and
+between the different types of sensors were calculated
+for average daily VWC. For the DTP, correlations
+were calculated between sensors at the same depth, 5
+or 15 cm, under the three covers. For TDR correla-
+tions
+were
+calculated
+between
+sensors
+at
+the
+COMPARISON OF FIELD PERFORMANCE OF MULTIPLE SOIL MOISTURE SENSORS IN A SEMI-ARID RANGELAND
+JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION
+125
+JAWRA
+same depth, 5, 15, or 30 cm, under bare and shrub
+cover covers. Because the VHP proﬁle has no replica-
+tion, the sensors were correlated to the same type of
+sensor located at the NRCS SCAN site approximately
+125 m east of the VHP proﬁle for 5 and 15 cm depths.
+Correlation coefﬁcients, r, are given in Tables 2
+and 3. Correlation for intra-sensor comparisons range
+from 0.83 to 0.99 for DTP, 0.92 to 0.97 for TDR and
+0.82 and 0.87 for VHP. The correlation of the 5 cm
+VHP probes under bare surface cover, but removed
+by 125 m, was about the same as the correlation
+between two DTP under shrub and bare cover but
+separated by 2 m. Whitaker (1993) found negligible
+differences between soil moisture under shrub and
+bare cover at this watershed. Inter-sensor compari-
+sons were done between DTP and TDR at 5 and
+15 cm for bare and shrub cover, between VHP and
+DTP at 5 and 15 cm and between VHP and TDR at 5,
+15, and 30 cm for bare cover only. Correlations for
+inter-sensor comparisons range from 0.81 to 0.94
+under bare cover and from 0.76 to 0.83 for shrub
+cover. The variability of actual soil moisture at this
+watershed has been documented. Whitaker (1993),
+using TDR, reported spatial correlation length of
+0.70 m based on a one-time sample of 51 data points
+spaced 0.10 m apart within 1 m2. These data were
+collected during a longer and larger sampling which
+suggested spatial correlation lengths of 100 m for
+samples at 5 m spacing, over a 4 ha area. Thoma
+et al. (2006) suggests that with sufﬁcient samples a
+1000 m2 area can represent a 1 ha area. Because the
+VHP proﬁle is located under bare cover only, and the
+correlations of the various inter-sensor comparisons
+are within the range of the intra-sensor comparisons
+the following analysis uses only sensors located under
+bare surface cover.
+Three separate time periods were selected for com-
+parison and analysis from the 18 months of common
+operation,
+Winter03,
+Summer03
+and
+Winter04
+(Table 4). Common to all sensors was a diurnal ﬂuc-
+tuation of about 1-2% VWC that appeared to decrease
+with depth, and therefore was considered a function
+of temperature ﬂuctuation at the sensor head, sensor
+lead, or data logger. The 5 cm VHP soil moisture
+reading is about 0.05 less than the DTP and TDR
+during all three periods except in response to precipi-
+tation events. The responses of all three sensors to
+soil wetting through the proﬁle from precipitation
+events and subsequent drying from evaporation and
+transpiration and the intra-proﬁle redistribution of
+water are qualitatively discussed.
+During Winter03 and Summer03, the VHP at 5
+and 15 cm tended to respond to precipitation events
+more immediately and to a greater extent than TDR
+and DTP. DTP tended to respond slower, remain ele-
+vated longer and decrease slower than TDR and
+VHP. During Winter03, the VHP showed a response
+at 30 cm for which the TDR did not and there was no
+TDR response at 50 or 75 cm. During Summer03,
+there was no response by VHP and TDR at 30 cm or
+below. During Winter04, all 5 cm (Figure 2a) and
+15 cm sensors responded equally fast to their maxi-
+mum
+soil
+moisture
+after
+precipitation,
+but
+DTP
+remained elevated longer. At 30 cm (Figure 2b), both
+VHP and TDR respond similarly. An increase in
+moisture was measured at 50 cm, but not at 75 cm,
+by the TDR.
+Hypothesis tests of the equivalence of means and
+variances (Haan, 1977) between each pair of sensors
+TABLE 2. Correlation Coefﬁcients, r, for Intra-Sensor Comparisons
+of Daily Average VWC Under Various Land-Surface Covers.
+Cover
+Depth
+(cm)
+Bare-
+Bare
+Shrub-
+Bare
+Mixed-
+Bare
+Shrub-
+Mixed
+DTP
+5
+–
+0.83
+0.99
+0.86
+DTP
+15
+–
+0.99
+0.97
+0.97
+TDR
+5
+–
+0.95
+–
+–
+TDR
+15
+–
+0.92
+–
+–
+TDR
+30
+–
+0.97
+–
+–
+VHP
+5
+0.87
+–
+–
+–
+VHP
+15
+0.82
+–
+–
+–
+TABLE 3. Correlation Coefﬁcients, r, for Inter-Sensor Comparisons
+of Daily Average VWC Under Bare and Shrub Surface Covers.
+Sensors
+Cover
+Depth (cm)
+DTP-TDR
+DTP-VHP
+VHP-TDR
+Bare
+5
+0.94
+0.81
+0.89
+Bare
+15
+0.91
+0.83
+0.87
+Bare
+30
+–
+–
+0.94
+Shrub
+5
+0.83
+–
+–
+Shrub
+15
+0.76
+–
+–
+TABLE 4. Sensor Comparison Periods.
+Period
+Date
+Day of Year (DOY)
+# Days
+Winter 03
+9 February 2003
+8 June 2003
+40
+159
+120
+Summer 03
+17 July 2003
+17 September 2003
+198
+260
+63
+Winter 04
+21 February 2004
+19 June 2004
+52
+171
+120
+PAIGE AND KEEFER
+JAWRA
+126
+JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION
+at each depth for each season were performed using t
+and F-tests (alpha = 0.05; n = 8640, 4536, and 8640
+for
+Winter03,
+Summer03,
+and
+Winter04,
+respec-
+tively). In 39 of 42 cases, the hypotheses of equiva-
+lence were rejected (p-values < 0.002). In effect, the
+measured
+soil
+moisture
+is
+signiﬁcantly
+different
+among the three types of sensors when evaluating
+their response to seasonal soil moisture ﬂuxes.
+Sensor Proﬁle Soil Moisture Storage
+The total volume of soil moisture through the pro-
+ﬁle was calculated to examine if there were similari-
+ties among the three proﬁles. Soil moisture storage
+measured in each proﬁle was calculated as the sum
+of the soil water per depth interval through the pro-
+ﬁle. A simple moving average ﬁlter was applied to
+the data to eliminate diurnal ﬂuctuations. The three
+proﬁles were 0-20 cm determined for each sensor type
+as the algebraic mean of the 5 and 15 cm sensors;
+0-40 cm determined from the weighted mean of the
+VHP and TDR sensors at 5, 15, and 30 cm with
+weights 1⁄4, 1⁄4, and 1⁄2 respectively; and 0-60 cm
+determined from the weighted mean of the TDR sen-
+sors at 5, 15, 30, and 50 cm with weights 1⁄6, 1⁄6,
+1⁄3, and 1⁄3, respectively.
+During Winter03 (Figure 3a), from DOY 40 to
+DOY
+60,
+as
+precipitation
+occurred
+the
+storage
+increased nearly equivalently in all deﬁned layers.
+After DOY 60, declines in storage deviated between
+two subsets of proﬁles, one being the 0-20 cm DTP
+and 0-40 cm VHP; the other being the 0-20 cm VHP,
+0-20 cm TDR and 0-40 cm TDR. By DOY 160, four of
+these were nearly equivalent; only the 0-20 DTP was
+slightly higher, which was a result of the DTP read-
+ings at 5 and 15 cm remaining higher during the dry
+down periods. A similar distinction was seen in Sum-
+mer03 between the 0-20 cm DTP and 0-40 cm VHP
+on one hand and 0-20 cm VHP, 0-20 cm TDR and
+0-40 cm TDR on the other. The 5 mm difference
+between the 0-20 and 0-40 VHP, starting about DOY
+213 and continuing to DOY 260, was a result of the
+2-3% increase in VWC
+at 30 cm. The 0-20 and
+0-40 cm TDR track identically because there was no
+measurable change in soil moisture at 30 cm. In Win-
+ter04 (Figure 3b), two distinct subsets were evident;
+in this case, the difference was deﬁned by depth and
+not by sensor. Initially, the 0-20 and 0-40 cm storages
+increased identically until about DOY 60. However,
+soon after, the 0-20 cm proﬁles’ storages deviated
+from those at 0-40 cm as inﬁltration and redistribu-
+tion to 30 and 50 cm occurred, doubling VWC at
+30 cm. It is unclear why the storages converged for
+the distinct depths during this period but not in the
+previous periods. It could be that the TDR probes had
+FIGURE 2. Times-Series of VWC During Winter04;
+(a) 5 cm DTP, TDR, and VHP, (b) 30, 50, and 75 cm TDR.
+a
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90 100 110 120 130 140 150
+Day
+m m H 2O
+DTP0-20cm
+VHP0-20cm
+VHP0-40cm
+TDR 0-40cm
+b
+-15
+-5
+5
+15
+25
+35
+45
+52
+62
+72
+82
+92 102 112 122 132 142 152 162
+Day
+m m H 2O
+DTP0-20cm
+VHP0-20cm
+VHP0-40cm
+TDR 0-40cm
+TDR 0-60cm
+FIGURE 3. Measured Cumulative Changes in Soil
+Moisture Storage. (a) Winter03 (TDR 0-20 cm not shown)
+and (b) Winter04 (TDR 0-20 cm not shown).
+COMPARISON OF FIELD PERFORMANCE OF MULTIPLE SOIL MOISTURE SENSORS IN A SEMI-ARID RANGELAND
+JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION
+127
+JAWRA
+ﬁnally equilibrated to the soil after one year of instal-
+lation; however, this does not explain the shift in the
+DTP relative to the 0-20 cm VHP and TDR.
+Hypothesis tests, t-tests and F-tests (alpha = 0.05;
+n = 120, 63, and 120 for Winter03, Summer03, and
+Winter04, respectively) of the equivalence of means
+and variances of the daily soil moisture storage were
+conducted for each pair of sensors, for each season,
+for two depths 0-20 and 0-40 cm. For Winter03, ﬁve
+of eight cases of equivalence were rejected; for Sum-
+mer03, six of eight cases of equivalence were rejected.
+For Winter04, only one of eight tests of equivalence
+was rejected, all other pairs of means and variances
+were equivalent. These results support the conver-
+gence of storage among sensors and divergence of
+storage between depths shown in Figure 3b. Table 5
+contains p-values of the hypotheses tests.
+Water Balance Model
+A simple water balance model was used to esti-
+mate the soil water storage for each of the three sea-
+sonal
+periods.
+One
+of
+the
+compelling
+needs
+for
+reliable in situ measurement of soil moisture is to
+improve the ability to determine the water balance in
+critical areas of concern. The two components of the
+water balance that are most difﬁcult to measure are
+ET and soil moisture storage. In this case, there was
+a unique opportunity to evaluate the three different
+soil moisture sensors within a well instrumented sub-
+watershed where all of the major components of the
+water balance including runoff and ET are being
+measured. The objective was to evaluate which sensor
+soil moisture proﬁle most closely matched the water
+balance model results. The change in daily proﬁle soil
+moisture storage was solved as a residual in the
+water balance equation.
+dS
+dt ¼ P ET Q  G;
+where G is ground-water recharge in mm (assumed
+to be equal to 0), Q is watershed area runoff dis-
+charge in mm, ET is the ET in mm, P is the precipi-
+tation in mm, and dS is the change in proﬁle storage
+in mm with respect to time, in this case one day.
+The model assumes that there is no ground-water
+recharge on these rangeland hillslopes, which is con-
+sistent with previous ﬁndings (Renard et al., 1993).
+Precipitation was measured with an electronic weigh-
+ing bucket digital recording raingauge, with accuracy
+to 0.25 mm in one min. Watershed runoff was mea-
+sured by an H ﬂume (USDA, 1979) located on a
+0.35 ha watershed in proximity to all three soil mois-
+ture sites. On WGEW, runoff occurs primarily in
+summer from high intensity, convective thunder-
+storms, where precipitation intensity often exceeds
+the inﬁltration capacity. On small upland water-
+sheds, such as LH, the runoff may be on the order of
+10-20% of rainfall during this period (Osborn and
+Lane, 1969). Summer03, with a total precipitation
+from DOY 198-260 of 126 mm, resulted in nine runoff
+events with total runoff across the LH subwatershed
+of 25 mm. ET was determined by a BR system (Em-
+merich, 2003).
+Each element of the water balance model intro-
+duces some error or uncertainty. The Lucky Hills
+watershed study area has several recording raingaug-
+es. Raingauge data used in this study were compared
+to those of two similar raingauges. The coefﬁcient of
+variation of total rainfall for each period was 0.01,
+0.02, and 0.006 and the absolute difference in total
+rainfall between the mean and the study raingauge
+was 0.08, 2.16, and 0.55 mm for Winter03, Sum-
+mer03, and Winter04, respectively. Osborn et al.
+(1972) estimated that for a correlation of at least 0.9
+at WGEW raingauges should be within 549 m for
+total storm depth and 305 m for peak 15 min inten-
+sity. These three raingauges are within 250 m of each
+other. Freimund (1992) evaluated errors of similar ra-
+ingauges and ﬂumes on a semi-arid watershed in
+southeast Arizona. Combined random and systematic
+errors could be as high as 10% for precipitation and
+somewhat higher for runoff. However, that analysis
+made recommendations to eliminate much of the
+error, most of which has been accomplished by elec-
+tronic measurement and digital recording of data. A
+conservative estimate of uncertainty in precipitation
+and runoff at LH would be 5%. Measurement of ET
+by the BR method may overestimate daily ET by
+20%, as will be discussed below. Some error is intro-
+duced in the calculation of soil moisture storage.
+TABLE 5. Hypothesis Test p-Values for the Equivalence of
+Means and Variances of Daily Soil Moisture Storage at 0-20 cm
+and 0-40 cm for Winter03, Summer03 and Winter04.
+DTP-VHP
+DTP-TDR
+VHP-TDR
+Winter03
+Mean 0-20 cm
+1E-13
+1E-16
+0.92*
+Variance 0-20 cm
+0.01
+0.13*
+0.02
+Mean 0-40 cm
+–
+–
+0.20*
+Variance 0-40 cm
+–
+–
+6E-4
+Summer03
+Mean 0-20 cm
+0.51*
+1E-6
+1E-7
+Variance 0-20 cm
+1E-4
+0.47
+1E-5
+Mean 0-40 cm
+–
+–
+1E-5
+Variance 0-40 cm
+–
+–
+1E-5
+Winter04
+Mean 0-20 cm
+0.08*
+1E-3
+0.13*
+Variance 0-20 cm
+0.40*
+0.41*
+0.49*
+Mean 0-40 cm
+–
+–
+0.31*
+Variance 0-40 cm
+–
+–
+0.11*
+*Do not reject hypothesis of equivalence.
+PAIGE AND KEEFER
+JAWRA
+128
+JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION
+Manufacturer’s estimation of accuracy of the soil
+moisture sensors, given in Table 1. are about 3-5%.
+The assumption of spatial averaging of point to pro-
+ﬁle soil water storage is systematically applied to all
+sensor proﬁles and it is not part of the water balance
+calculation.
+Initially, during Winter03 (Figure 4a), the water
+balance model predicted a similar increase in storage
+as the sensor proﬁles. By DOY 60, as the sensor pro-
+ﬁles diverged into the two aforementioned subsets,
+the water balance decreased at a rate and level
+between the two subsets, until DOY 100 when the
+reduction in storage from the model exceeded both
+sensor subsets. As the sensor readings reached mini-
+mum of VWC and daily changes in storage became
+zero, the model continued to predict decreases in
+storage, which effectively forces water content to 2%
+by DOY 160. Gravimetric samples of 5 cm soil mois-
+ture taken DOY 136 of 2003 measured about 2%
+VWC. The 5 cm VWC measured by VHP from DOY
+100–160 were about 1% or 2%, but VWC was higher
+at depth.
+During Summer03, initial increases to storage are
+commensurate
+with
+those
+calculated
+from
+sensor
+measurements. However, by DOY 220 the modeled
+cumulative storage was below all of the sensor proﬁled
+storages and continued that way to the end of the per-
+iod. Similar to Winter03, the reduction in storage from
+DOY 239-260 was considerably greater than the
+reductions from the sensors and is of such magnitude
+that soil moisture converted from storage to VWC
+would
+be
+equivalent
+to
+zero.
+During
+Winter04
+(Figure 4b) the sensor and model storages tracked
+very nearly the same for the three deeper storage
+depths. Reductions in storage were very similar from
+DOY 95 to about DOY 124. By that time the sensor
+storage estimates for all depths converged to unchang-
+ing conditions based upon VWC for each sensor and
+reached a minimum of about 3% for 5 cm and 8% for
+15 cm. However, as in the previous two periods, the
+model estimate of storage continued to decrease. This
+decrease of 20 mm was much greater than the maxi-
+mum 6 mm decrease from the sensor storage estimate.
+For the winter seasons, it is illustrative to consider
+that from DOY 78 to DOY 191 in 2003 and from DOY
+101 to DOY 172 in 2004 there was no measurable
+precipitation. Measured soil moisture storage ceased
+to change by about DOY 140 in both years. However,
+the water balance model indicated continued reduc-
+tions in soil moisture storage by about 10 mm in
+2003 and 15 mm in 2004. From the model structure,
+losses from soil moisture storage could be from drain-
+age to depth or from ET as measured by BR. Soil
+moisture changes measured by VHP and TDR indi-
+cate that there was no moisture draining below 30 in
+2003 or below 50 cm in 2004. Hence the loss of soil
+water is likely to be to ET. This poses a problem in
+that the reductions of soil water predicted by BR are
+greater than the water available as measured by the
+sensors.
+Earlier work reported by Kustas et al. (1994),
+Stannard et al. (1994) and Houser et al. (1998) have
+shown high variability in measured or calculated val-
+ues of ET among a variety of methods, including eddy
+covariance, BR, Delta-T and Sigma-T on this same
+watershed. Keefer et al. (1997) assumed that mea-
+sured ET could be reduced by a factor of 0.1-0.15
+based on overestimates of nighttime ET at this and a
+nearby watershed. Houser et al. (1998) showed a 20%
+overestimation of ET by BR when compared to a
+water balance model. Therefore, a second estimate of
+the water balance uses a value of 0.8 of ET measured
+by BR to algebraically solve for the change in mois-
+ture storage (dS).
+dS
+dt ¼ P  0:8ET  Q:
+During Winter03 (Figure 4a), the model storage using
+the reduced ET estimates is nearly the same as the
+a
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90 100 110 120 130 140 150
+Day
+m m H 2O
+P- .8ET
+DTP0-20cm
+TDR 0-40cm
+P- ET
+b
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+52
+62
+72
+82
+92 102 112 122 132 142 152 162
+Day
+m m H 2O
+P- .8ET
+DTP0-20cm
+TDR 0-40cm
+TDR 0-60cm
+P- ET
+FIGURE 4. Modeled and Measured Cumulative Changes in Soil
+Moisture Storage. (a) Winter03 and (b) Winter04. Only measured
+values for DTP 0-20 cm and TDR 0-40 cm representative of the
+other sensors and depths and TDR 0-60 cm in Winter04 are plotted.
+COMPARISON OF FIELD PERFORMANCE OF MULTIPLE SOIL MOISTURE SENSORS IN A SEMI-ARID RANGELAND
+JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION
+129
+JAWRA
+original model during the precipitation period, but
+closely tracks the 0-20 cm DTP and 0-40 VHP storage
+estimates during the drying phase. The empirically
+reduced ET delayed and reduced the estimation of
+storage reduction of the original model. During Sum-
+mer03, after the initial reduction in storage following
+the storage increase because of precipitation, the two-
+model results diverged, bracketing the sensor storage
+estimates for the duration of the period. Reductions
+in storage from the revised water balance model were
+not as great as the ﬁrst model results; the VWC val-
+ues did not go to zero but to about 4%, closer to the
+sensor average estimate of about 6-8% in the 5 and
+15 cm depths. In the Winter04 period (Figure 4b), the
+revised model storage was similar to the original
+model and the deeper sensor proﬁle estimates, until
+about DOY 95 when the reduced ET model began to
+underpredict storage reduction relative to the sensor
+estimates and the original model. However, by DOY
+172 the revised model storage was equivalent to all
+sensor estimates and about 20 mm greater than the
+original model storage estimate.
+Comparing the integrated depth sensor results
+with those of the revised water balance model, there
+were differences among the three seasons. For Win-
+ter03 and Summer03, the results from the integrated
+VHP 0-40 cm measurements were the best at track-
+ing the revised water balance model. However, for
+Winter04,
+the
+integrated
+results
+from
+the
+TDR
+0-60 cm were the best at tracking the original water
+balance model. The primary factor that appears to
+inﬂuence the integrated sensor results to match the
+water balance model was the ability to account for
+changes in soil moisture at depth. For the Summer03,
+the VHP measured increases in VWC at 30 cm while
+the TDR saw no changes in VWC at 30 cm. In Win-
+ter04, the TDR 0-40 cm and the VHP 0-40 cm were
+almost identical. However, the TDR 0-60 cm, matched
+the revised water balance model better as it was able
+to account for increases in VWC at 50 cm.
+Inﬁltration Model
+A more detailed view of the inﬁltration and redis-
+tribution of soil moisture at depth can be seen by con-
+sidering
+individual
+precipitation
+events
+and
+the
+responses of the sensors. Additional analysis of the
+ability of the sensors to measure the changes in soil
+moisture content within the proﬁle was conducted
+using a one-dimensional numerical simulation model.
+A subset of three precipitation events were selected
+from the periods of study and evaluated using an
+inﬁltration model. Three distinct storm types were
+selected for the modeling: a low intensity, medium
+duration single storm (DOY 51 2003); a high inten-
+sity, short duration storm (DOY 206 2003); and a low
+intensity,
+long
+duration
+(multiple-event)
+storm
+(DOY93-94 2004) (Table 6). The storm on DOY 206,
+2003 followed a storm of 24 mm on DOY 205 so the
+initial soil moisture conditions were wet; 15-17 %
+VWC at the 5 cm depth.
+HYDRUS-1D version 7.0 (Simunek et al., 2003) was
+used to model the inﬁltration process and evaluate the
+changes in soil moisture within the proﬁle during and
+after the precipitation events. The model is a useful
+tool for predicting water and solute movement in the
+vadose zone and analyzing laboratory or ﬁeld experi-
+ments involving water ﬂow. Scott et al. (2000) used
+the HYDRUS model (version 6.0) to model recharge
+processes at LH and another subwatershed at WGEW.
+Two different soil model parameter estimation meth-
+ods were used to estimate the soil moisture distribu-
+tion at the two sites and the potential for recharge
+below the root zone. At that time, soil moisture data
+at the two sites were only available on a biweekly or
+monthly time step. For this study, soil moisture data
+are available at a 20 min time step; therefore, the
+measured soil moisture content from the three sensor
+datasets are compared to model output at each sensor
+installed depth for individual events.
+HYDRUS-1D is a numerical simulation model that
+solves for variably saturated one-dimensional ﬂow of
+water,
+heat
+and
+solutes
+through
+porous
+media.
+HYDRUS uses the Richards’ equation for simulating
+variably saturated ﬂow and Fickian-based convection-
+dispersion equations for heat and solute transport.
+The water ﬂow equation incorporates a sink term to
+account for water uptake by plant roots. The govern-
+ing ﬂow equation, Richards’ equation, can be deﬁned
+as
+@h
+@t ¼ @
+@z K @h
+@z þ 1
+
+
+
+
+ S;
+where h is the volumetric moisture content (L3L)3),
+h is the pressure head (L), t is the time (T), z is
+the
+spatial
+coordinate
+(L),
+K
+is
+the
+hydraulic
+conductivity function (LT)1), and S is the sink term
+TABLE 6. Storm Characteristics for the
+Three Events Simulated Using HYDRUS.
+Precipitation
+Event
+Depth
+(mm)
+Peak
+Intensity
+(mm ⁄ h)
+Duration
+(h)
+Simulation
+(h)
+2003: DOY 51
+18.42
+10.66
+7.40
+24
+DOY 206
+16.74
+159.5
+0.33
+24
+2004: DOY 93
+34.96
+26.5
+54.65
+133
+PAIGE AND KEEFER
+JAWRA
+130
+JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION
+(L3L)3T)1). The hydraulic conductivity is a function
+of the pressure head, the van Genuchten soil reten-
+tion parameters (Van Genuchten, 1980), and the
+saturated
+hydraulic
+conductivity
+Ks
+(LT)1).
+The
+hydraulic conductivity function is derived from a
+pore-size distribution model (Mualem, 1976). Though
+the model can simulate heat and solute transport
+and includes provisions for nonlinear, non-equilib-
+rium reactions between the solid and liquid phases,
+only water ﬂow in the liquid phase was simulated
+in this study.
+Richards’ equation is solved numerically using a
+variable time step and deﬁned initial and boundary
+conditions. The required model input parameters are
+residual soil moisture (hr), saturated soil moisture
+(hs), van Genuchten parameters n and a, and Ks. In
+2002, soil cores were extracted from a nearby location
+within the LH subwatershed. The model was para-
+meterized using the soil retention, hydraulic conduc-
+tivity
+and
+van
+Genuchten
+parameter
+values
+determined
+from
+soil
+cores
+(Schapp
+and
+Shouse,
+2003). The upper boundary was set to atmospheric
+boundary condition with surface runoff and the lower
+boundary condition was set to free drainage at a
+depth of 200 cm. The observed precipitation was used
+to parameterize the variable ﬂux surface boundary
+for each simulated event. The model initial conditions
+were determined from the measured TDR soil mois-
+ture values. The hydraulic parameters used as input
+in the model are presented in Table 7. The minimum
+time step (0.001 s) was the same for all simulations,
+though the actual time step and duration varied for
+each simulation (Table 6).
+The results from the simulation results were evalu-
+ated during and following each event. It is important
+to note that the model was not calibrated for this
+analysis. The model input parameters were deter-
+mined from the soil core analysis and were not
+altered to match the measurement results. This was
+necessary for two reasons. This alleviated having to
+select one from three different calibrations and facili-
+tated
+comparison
+all
+of
+the
+sensor
+responses
+to
+changes in soil moisture with those determined by
+the model. The observed TDR measurements were
+used to initialize the model as they cover the greatest
+depth in the soil proﬁle. This fact is taken into
+account when analyzing the results from all three
+sensors.
+Sensor and Model Storm Response
+Differences in the characteristics of the precipita-
+tion events are reﬂected in both the measured and
+modeled responses. The results from two smaller
+storms (DOY 51 and DOY 206) were similar in that
+changes in soil moisture were seen only at the 5 and
+15 cm depths (Figures 5 and 6). For the larger DOY
+93 event, changes in VWC were seen at 30 cm and
+below by the model and both the TDR and VHP sen-
+sors (Figure 7a and b). However, differences among
+the sensors and the model responses can be seen for
+all three events.
+In general, there were differences in both the
+response time and the peak water contents when
+comparing the results from the sensors and the model
+for all three storms (Figures 5-7). The 5 cm VHP was
+always the ﬁrst sensor to respond; however, it did not
+always record the highest VWC. The 5 cm VHP had
+the highest sensor VWC for DOY 206, while 5 cm
+TDR and DTP, though slower to respond had the
+highest VWC for the DOY 51 and DOY 93 storms,
+respectively. The 5 cm hydrus model had the highest
+TABLE 7. Soil Hydraulic Properties
+Used as Input Parameters in HYDRUS.
+hr
+hs
+Ks (cm ⁄ h)
+a
+n
+Parameter
+0.021
+0.372
+21
+0.0571
+1.577
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+0.30
+0
+5
+10
+15
+20
+25
+time (h)
+vwc
+0
+10
+20
+30
+40
+precipitation (mm)
+hydrus 5 cm
+hydrus 15 cm
+TDR 5 cm
+VHP 5cm
+DTP 5 cm
+VHP 15 cm
+TDR 15 cm
+DTP 15 cm
+precip
+FIGURE 5. Model and Sensor Responses
+for Event DOY 51 for 5 and 15 cm Depths.
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+0.30
+0
+5
+10
+15
+20
+25
+time (hr)
+vwc
+0
+10
+20
+30
+40
+50
+precipitation (mm)
+hydrus 5 cm
+hydrus 15 cm
+TDR 5 cm
+VHP 5cm
+DTP 5cm
+VHP 15cm
+DTP 15 cm
+TDR 15 cm
+precip
+FIGURE 6. Model and Sensor
+Responses for DOY 206 5 and 15 cm.
+COMPARISON OF FIELD PERFORMANCE OF MULTIPLE SOIL MOISTURE SENSORS IN A SEMI-ARID RANGELAND
+JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION
+131
+JAWRA
+VWC for DOY 206 storm (Figure 6a and b). For the
+DOY 51 storm, the only sensor response at 15 cm
+was the VHP, which increased to 20% VWC (13%
+increase). This over-measure of VWC by VHP at
+15 cm occurred periodically over the course of the
+study at the advent of wetting. A potential explana-
+tion is that there is preferential ﬂow or a change in
+the bulk density in the vicinity of the VHP proﬁle.
+However,
+the
+hydrus
+model
+did
+show
+a
+slight
+increase (3%) in VWC at this depth. Though this is
+the same percent increase as the VHP at 15 cm, the
+timing and type of the response was very different
+(Figure 5).
+As there is no known value of VWC to which to
+compare the measurement and model responses, the
+results were evaluated relative to each other. The
+percent deviation of each measured or modeled value
+from the average of all the values (sensor and model)
+for a given time step and depth was calculated. The
+percent deviation for each value was compared to the
+calculated coefﬁcient of variability (CV). Figures 8(a
+and b) and 9 (a, b and c) show the average VWC, CV,
+and percent deviations for different depths from DOY
+51 and DOY 93, respectively. No consistent relation-
+ship among the sensor or the model responses was
+found when comparing the results, though there are
+some strong trends. The VHP at 5 cm was lower than
+the calculated CV for both events, indicating an un-
+derprediction in VWC. For DOY 51, 5 cm (Figure 8a),
+the VHP response was signiﬁcantly lower than the
+CV for the majority of the 23 h period and consis-
+tently lower after ﬁve h while the DTP was signiﬁ-
+cantly
+lower
+during
+the
+ﬁrst
+ﬁve h.
+At
+15 cm
+(Figure 8b), only the VHP signiﬁcantly exceeded the
+calculated CV. For event DOY 51, only the results
+from the HYDRUS model were within the bounds of
+the calculated CV. However, in examining the results
+from DOY93 (Figure 9a-c), the results from the model
+were much higher than the CV at hour 20 at the
+15 cm depth and slightly higher at 30 cm. However,
+it is important to note that the results from the TDR
+were within the bounds of the calculated CV for all
+three depths for event DOY 93.
+DISCUSSION
+During the course of this study, the responses of
+three commercially available soil moisture sensors as
+FIGURE 7. (a) Model and Sensor Responses for DOY 93 5 and
+15 cm. (b) Model and sensor responses for DOY 93 30 and 50 cm.
+DOY 51: 5 cm
+-100
+-80
+-60
+-40
+-20
+0
+20
+40
+60
+80
+100
+0
+10
+20
+30
+time (hr)
+deviation (%)
++/-CV
+ave
+Hydrus 5 cm
+TDR 5cm
+DTP 5cm
+VHP 5 cm
+DOY 51: 15 cm
+-100
+-80
+-60
+-40
+-20
+0
+20
+40
+60
+80
+100
+0
+5
+10
+15
+20
+25
+30
+time (hr)
+deviation (%)
++/- CV
+ave
+Hydrus 15 cm
+TDR 15cm
+DTP 15cm
+VHP 15cm
+a
+b
+FIGURE 8. (a) Comparison of Results: Percent Deviation From the
+Average Response for DOY51 at 5 cm. (b) Comparison of results:
+Percent deviation from the average response for DOY51 at 15 cm.
+PAIGE AND KEEFER
+JAWRA
+132
+JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION
+installed for long-term monitoring of soil moisture
+were evaluated. The measured changes in soil mois-
+ture as a result of precipitation events were compared
+to each other and to water balance and inﬁltration
+model results. Over the three season period, there
+were notable differences in the responses among the
+sensors.
+Accounting
+for
+soil
+moisture
+at
+depth
+appears to improve proﬁle soil moisture storage esti-
+mates in comparison to water balance estimates.
+There was a large variation in both storm type and
+in measured sensor response. However, no distinct or
+consistent trend was detected when comparing the
+responses from the sensors or the inﬁltration model
+to individual precipitation events.
+In general, though there were differences among
+measurements at the various depths, the VHP at
+5 cm consistently responded more quickly and often
+to a much higher VWC than the other sensors. The
+responses from the DTP, on the other hand, were
+consistently lower and often lagged behind the other
+sensors in response time. The characteristics of the
+responses from the TDR seemed to change over the
+course of the study. There was a noticeable improve-
+ment
+when
+comparing
+the
+differences
+in
+TDR
+responses
+from
+Winter03
+and
+Winter04
+for
+both
+water balance model and the individual events. This
+may be attributable to settling, indicating an adjust-
+ment time may be necessary to consider before reli-
+able measurements can be expected. Assumptions
+were made regarding both the parameterization of
+the inﬁltration model and the calibrations for the
+sensors both near the surface and at depth. However,
+the primary problem that still remains is how to ver-
+ify⁄validate the measured changes in soil moisture
+content. The uncalibrated numerical model, in most
+cases, performed as well as the sensors in tracking
+the changes in soil moisture in response to individual
+precipitation events.
+The signiﬁcant differences in measured soil mois-
+ture may be due to many factors other than sensor
+error including spatial variability of precipitation,
+soils, inﬁltration, ground cover and biological activity.
+Inﬁltration (Paige and Stone, 1997) and soil moisture
+(Whitaker, 1993) vary at submeter distances in this
+watershed. Whitaker using a single sample set on a
+1 m by 1 m plot found correlation length scale of
+70 cm, but using 5 m grid for 4 sampling dates
+showed spatial correlation of 100 m. Precipitation
+variability can be measured and affects runoff at sub-
+hectare scales at this watershed (Faures et al., 1995)
+Although a soil type can be considered representative
+at this scale, variations do occur through the soil pro-
+ﬁle. Thoma et al. (2006) suggest the number of sam-
+ples needed to reduce variability is about 50 per
+hectare for surface soil samples. That would be 500
+samples for a 10 ha area not including measurements
+at depth. Destructive gravimetric sampling at that
+scale would alter the watershed area if repeated fre-
+quently and the cost, installation and monitoring of
+automated systems at that scale would be prohibitive.
+DO Y 93: 5 c  m 
+-5 0 
+-4 0 
+-3 0 
+-2 0 
+-1 0 
+0 
+10 
+20 
+30 
+40 
+50 
+0
+2
+ 
+0
+4
+ 
+0
+6
+ 
+0
+8
+ 
+0
+1
+ 
+00 
+12 0
+1
+ 
+40 
+ti me (h r) 
+de viat io n (  %) 
+av e 
++/ -C V 
+Hy dr us 5 c  m 
+TD R 5  cm 
+DT P 5  cm 
+VH P 5  cm 
+DOY 93: 15 cm
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+0
+20
+40
+60
+80
+100
+120
+140
+time (hr)
+deviation (%)
+ave
++/- CV
+Hydrus 15 cm
+TDR 15cm
+DTP 15cm
+VHP 15cm
+DOY 93: 30 cm
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+0
+20
+40
+60
+80
+100
+120
+140
+time (hr)
+deviation (%)
+ave
++/- CV
+Hydrus 30 cm
+TDR 30cm
+VHP 30cm
+a 
+b
+c
+FIGURE 9. (a) Comparison of Results: Percent Deviation From the
+Average Response for DOY93 at 5 cm. (b) Comparison of results:
+Percent deviation from the average response for DOY93 at 15 cm.
+(c) Comparison of results: Percent deviation from the average
+response for DOY93 at 30 cm.
+COMPARISON OF FIELD PERFORMANCE OF MULTIPLE SOIL MOISTURE SENSORS IN A SEMI-ARID RANGELAND
+JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION
+133
+JAWRA
+This watershed installation, with the variety of sen-
+sors and the additional beneﬁcial infrastructure in a
+small area, offers a unique opportunity to evaluate
+and compare the range of sensor responses that most
+land management applications cannot duplicate. A
+similarly sized rangeland or pasture would use only a
+few soil moisture sensors in most applications.
+CONCLUSION
+The development of electronic soil moisture sensors
+has facilitated long-term, remote monitoring of soil
+moisture proﬁles. The convergence of three different
+research projects facilitated the evaluation and com-
+parison of three commercially available electronic soil
+moisture probes under ﬁeld application conditions.
+This
+analysis
+showed
+that
+each
+sensor
+responds
+differently
+to
+precipitation.
+Sensor
+response
+and
+resulting VWC are affected by the sensor type as well
+as variability in soil and precipitation. In addition, no
+signiﬁcant difference was found when comparing sen-
+sor responses to precipitation events and to an uncal-
+ibrated inﬁltration model. However, the soil moisture
+sensor data presented in this study and data from
+similar application have been used effectively for sev-
+eral different hydrologic applications and evaluations.
+In this study, the soil moisture data showed that
+using sensor proﬁle soil moisture to measure soil
+moisture
+water
+balance
+storage
+is
+improved
+by
+accounting for ‘‘deeper’’ soil moisture. In addition, the
+data from all of the sensors have been used for calcu-
+lating water balance, ET, and as input to hydrologic
+models (Moran et al., 2006; Thoma et al., 2006;
+Moran et al., In, review). The VHP data were used to
+calibrate remote sensing data for the SMEX (Soil
+Moisture Experiments) project (Cosh et al., 2007) and
+continue to be used for hydrologic studies at WGEW
+and at SCAN sites across the United States. How-
+ever, in all cases, it has been critical to identify and
+when possible quantify the constraints associated
+with the soil moisture data. The results of this analy-
+sis underscore the need to recognize the limitations
+of soil moisture sensors and the factors that can
+affect
+their
+accuracy
+in
+predicting
+soil
+moisture
+in situ.
+ACKNOWLEDGMENTS
+JPL; USDA-NASA-AMSR; William E. Emmerich, David Thoma
+and William Cable, USDA-ARS Southwest Watershed Research
+Center; Paul (Ty) Ferre and Dale Rucker, Department of Hydrology
+and Water Resources, University of Arizona.
+LITERATURE CITED
+Amer, S.A., T.O. Keefer, M.A. Weltz, D.C. Goodrich, and L.B. Bach,
+1994. Soil Moisture Sensors for Continuous Monitoring. Water
+Resources Bulletin, 30(1):69-83.
+Bosch, D.D., 2004. Comparison of Capacitance-Based Soil Water
+Probes in Coastal Plain Soils. Vadose Zone Journal 3:1380-1389.
+Campbell Scientiﬁc, Inc., 2004. TDR100 Instruction Manual. Camp-
+bell Scientiﬁc, Inc., Logan, Utah, 56 pp.
+Chandler, D.G., M. Seyfried, M. Murdock, and J.P. McNamara,
+2004. Field Calibration of Water Content Reﬂectometers. Soil
+Science Society of America Journal 68:1501-1507.
+Cosh, M.H., T.J. Jackson, M.S. Moran, and R. Bindlish, 2007.
+Temporal Persistence and Stability of Surface Soil Moisture in a
+Semi-Arid Watershed. Remote Sensing of Environment (in press).
+Delta-T Devices Ltd., 1999. Theta Probe Soil Moisture Sensor User
+Manual Type ML2X. Delta-T Devices Ltd., Cambridge, England,
+20 pp.
+Emmerich, W.E., 2003. Carbon Dioxide Fluxes in a Semiarid Envi-
+ronment With High Carbonate Soils. Agricultural and Forest
+Meteorology 116:91-102.
+Faures, J.M., D.C. Goodrich, D.A. Woolhiser, and S. Sorooshian,
+1995. Impact of Small-Scale Rainfall Variability on Runoff Mod-
+eling. Journal of Hydrology 173:309-326.
+Freimund, J.R., 1992. Potential Error in Hydrologic Field Data
+Collected From Small Semi-Arid Watersheds. MS Thesis, School
+of Renewable Natural Resources, University of Arizona, Tucson,
+251 pp.
+Haan, C.T., 1977. Statistical Methods in Hydrology (First Edition).
+The Iowa State University Press, Ames, Iowa, 378 pp.
+Houser, P.R., C. Harlow, W.J. Shuttleworth, T.O. Keefer, W.E. Em-
+merich, and D.C. Goodrich, 1998. Evaluation of Multiple Flux
+Measurement Techniques Using Water Balance Information at
+a Semi-Arid Site. In: Proceedings of the Special Symposium on
+Hydrology, Session on Integrated Observations of Semi-Arid
+Land-Surface-Atmosphere Interactions, American Meteorologi-
+cal Society Meeting, 11-16 Jan., 1998, Phoenix, AZ, pp. 84–87.
+American Meteorological Society, Boston, Massachusetts.
+Hymer, D.C., M.S. Moran, and T.O. Keefer, 2000. Soil Water Eval-
+uation Using a Hydrologic Model and Calibrated Sensor Net-
+work. Soil Science Society of America Journal 64:319-326.
+Keefer, T.O., W.P. Kustas, D.C. Goodrich, and K. Quast, 1997. Esti-
+mating Water Use by Semiarid Rangeland Vegetation During
+the Summer in Southern Arizona. In: Proceedings of the 13th
+Conference
+on
+Hydrology,
+American
+Meteorological
+Society
+Meeting, 2-7 Feb., 1997, Long Beach, CA, pp. 151-154, American
+Meteorological Society, Boston, Massachusetts.
+Kustas, W.P., J.H. Blanford, D.I. Stannard, C.S.J. Daughtry, W.D.
+Nichols, and M.A. Weltz, 1994. Local Energy Flux Estimates for
+Unstable Conditions Using Variance Data in Semiarid Range-
+lands. Water Resources Research 30(5):1351-1361.
+Kustas, W.P., and D.C. Goodrich, 1994. Preface to the Special Sec-
+tion on MONSOON 90. Water Resources Research 30(5):1211-
+1225.
+Ledieu, J., P De Ridder, P. De Clerck, and S. Dautrebande, 1986. A
+Method of Measuring Soil Moisture by Time-Domain Reﬂectom-
+etry. Journal of Hydrology 88:319-328.
+Lieb, B.G., J.D. Jabro, and G.R. Matthews, 2003. Field Evaluation
+and Performance Comparison of Soil Moisture Sensors. Soil Sci-
+ence 168(6):396-408.
+Mead, R.M., J.E. Ayars, and J. Liu, 1995. Evaluating the Inﬂuence
+of Soil Texture, Bulk Density and Soil Water Salinity on a
+Capacitance - Probe Calibration. ASAE Paper 95-3264. ASAE,
+St. Joseph, Michigan.
+Moghaddam,
+M.,
+L.
+Pierce,
+P.
+Partridge,
+Y.
+Rahmat-Samii,
+V.
+Cable,
+J.
+Hoffman,
+J.
+Huang,
+Z.
+Hussein,
+D.
+Moller,
+PAIGE AND KEEFER
+JAWRA
+134
+JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION
+E. Rodriguez, M. Thomson, and M. Parker, 2003. Microwave
+Observatory of Subcanopy and Subsurface (MOSS): A Low-
+Frequency Radar for Global Deep Soil Moisture Measurements.
+IGARSS’03, Toulouse, France, July, 2003.
+Moran, M.S., T.O. Keefer, G.B. Paige, R.L. Scott, W.E. Emmerich,
+M.H. Cosh, and P.E. O’Neill, 2006. Partitioning Evapotranspira-
+tion
+Using
+Diural
+Surface
+Temperature
+Variation.
+Second
+Interagency Conference on Research in the Watersheds. (ICRW)
+May 17-19, 2006, USDA SRS Coweeta Hydrologic Laboratory,
+Otto, North Carolina.
+Moran, M.S., R.L. Scott, T.O. Keefer, G.B. Paige, W.E. Emmerich,
+M.H. Cosh, and P.E. O’Neill, In review. Partitioning Evapo-
+transpiration in Semiarid Grassland and Shrubland Ecosystems
+Using Diurnal Surface Temperature Variation. Water Resources
+Research.
+Mualem, Y., 1976. A New Model for Predicting the Hydraulic
+Conductivity of Unsaturated Porous Media. Water Resources
+Research 12:513-522.
+Osborn, H.B., and L.J. Lane, 1969. Precipitation –Runoff Relations
+for
+Very
+Small
+Semiarid
+Rangeland
+Watersheds.
+Water
+Resources Research 5(2):419-425.
+Osborn, H.B., L.J. Lane, and J.F. Hundley, 1972. Optimum Gaging
+of
+Thunderstorm
+Rainfall
+in
+Southeastern
+Arizona.
+Water
+Resources Research 8(1):259-265.
+Paige, G.B., and J.J. Stone, 1997. Measurement Methods to Iden-
+tify and Quantify the Spatial Variability of Inﬁltration on
+Rangelands. Proceedings of the USDA-ARS Workshop, ‘‘Real
+World’’ Inﬁltration, July 22-25, 1996, Pingree Park, Colorado,
+Colorado Water Resources Research Inst. Information Services
+No. 86, pp. 109-121.
+Renard,
+K.G.,
+L.J.
+Lane,
+J.R.
+Simanton,
+W.B.
+Emmerich,
+J.J. Stone, M.A. Weltz, D.C. Goodrich, and S.D. Yakowitz, 1993.
+Agricultural Impacts in an Arid Environment: Walnut Gulch
+Studies. Hydrological Science and Technology 9(1-4):145-190.
+Schapp, M.G., and P.J. Shouse, 2003. A Description of the Proce-
+dures Followed for the Determination of Water Retention and
+Particle Size Distribution for Samples taken from SAHRA’s San
+Pedro Watershed. GEBJ Salinity Laboratory, USDA-ARS, Riv-
+erside, California.
+Scott, R.L., W.J. Shuttleworth, T.O. Keefer, and A.W. Warrick,
+2000.
+Modeling
+Multiyear
+Observations
+of
+Soil
+Moisture
+Recharge
+in
+the
+Semiarid
+American
+Southwest.
+Water
+Resources Research 36(8):2233-2247.
+Seyfried, M.S., and M.D. Murdock, 2001. Response of a New Soil
+Water Sensor to Variable Soil, Water Content, and Tempera-
+ture. Soil Science Society of America Journal 65:28-34.
+Seyfried, M.S., and M.D. Murdock, 2004. Measurement of Soil
+Water Content With a 50-Mhz Soil Dielectric Sensor. Soil Sci-
+ence Society of America Journal 68:394-403.
+Simunek,
+J.,
+M.
+Sejna,
+and
+M.
+Th.
+Van
+Genuchten,
+2003.
+HYDRUS-1D Software Package for Simulating the Movement of
+Water, Heat and Multiple Solutes in Variably Saturated Media
+(Version 7.0). U.S. Salinity Lab., U.S. Department of Agricul-
+ture, Riverside, California.
+Stannard,
+D.I.,
+J.H.
+Blanford,
+W.P.
+Kustas,
+W.D.
+Nichols,
+S.A. Amer, T.J. Schmugge, and M.A. Weltz, 1994. Interpretation
+of Surface Flux Measurements in Heterogeneous Terrain Dur-
+ing Monsoon ‘90. Water Resources Research, 30(5):1227-1239.
+Stevens Water Monitoring Systems Inc., 1994. Hydra Soil Moisture
+Probe Users Manual, Version 1.2. Stevens Vitel, Inc., Chantilly,
+Virginia, 22 pp.
+Svejcar, T., H. Mayeux, and R. Angell, 1997. The Rangeland Car-
+bon Dioxide Flux Project. Rangelands 19:16-18.
+Thoma, D., M.S. Moran, R. Bryant, M.M. Rahman, C.D. Holiﬁeld
+Collins, S.M. Skirvin, E.E. Sano, and K. Slocum, 2006. Compari-
+son of Four Models for Determining Surface Soil Moisture From
+C-Band Radar Imagery. Water Resources Research 42(1):1-12.
+Topp, G.C., J.L. Davis, and A. Annan, 1980. Electromagnetic Deter-
+mination of Soil Water Content: Measurement in Coaxial Trans-
+mission Lines. Water Resources Research 16:574-582.
+USDA (U.S. Department of Agriculture), 1979. Field Manual for
+Research in Agricultural Hydrology, Agriculture Handbook No.
+224, pp. 75-104. US Department of Agriculture, Washington,
+D.C.
+Van Genuchten, M.Th., 1980. A Closed Form Equation for Predict-
+ing the Hydraulic Conductivity of Unsaturated Soils. Soil Sci-
+ence Society of America Journal 44:892-898.
+Walker, J.P., G.R. Willgoose, and J.D. Kalma, 2004. In Situ Mea-
+surement of Soil Moisture: A Comparison of Techniques. Jour-
+nal of Hydrology 293:85-99.
+Whitaker, M.P.L., 1993. Small-Scale Spatial Variability of Soil
+Moisture and Hydraulic Conductivity in a Semi-Arid Rangeland
+Soil in Arizona. MS Thesis, Department of Hydrology and
+Water Resources, University of Arizona, Tucson, 166 pp.
+COMPARISON OF FIELD PERFORMANCE OF MULTIPLE SOIL MOISTURE SENSORS IN A SEMI-ARID RANGELAND
+JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION
+135
+JAWRA

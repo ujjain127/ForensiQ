@@ -1,0 +1,2763 @@
+ 
+  Wetting Front  ■  June 2008                                                                                                                                                               
+ 
+  2                                                                                                                                                            Wetting Front   ■  June 2008 
+ 
+ 
+Evapotranspiration of 
+Corn and Forage 
+Sorghum for Silage  
+ 
+Radiation Partitioning 
+Model for Row Crops: 
+Refinement of the 
+Campbell and Norman 
+1998 Approach 
+ 
+ 
+Technology Transfer 
+News 
+ 
+ 
+Meetings & Presentations 
+ 
+ 
+Publications 
+ 
+ 
+Research Staff 
+ 
+ 
+Newsletter Contact 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personnel News 
+ 
+ 
+  Wetting Front  ■  June 2008                                                                                                                                                              3 
+Weighing 
+lysimeters 
+offer one 
+of the most 
+accurate 
+means to 
+measure ET  
+T. A. Howell 
+S. R. Evett 
+J. A. Tolk 
+K. S. Copeland 
+P. D. Colaizzi 
+P. H. Gowda 
+Evapotranspiration 
+of Corn and 
+Forage Sorghum  
+for Silage 
+The  U.S. Southern High Plains is the center of 
+large regional beef cattle and swine feeding industries 
+with about 35% of all the U.S. feed beef cattle within a 
+250 km radius from Amarillo, TX.  Recently, dairies 
+have expanded within the region with two nearby large 
+cheese processing plants.  The beef feedyards have util-
+ized limited amounts of silages, primarily from corn in 
+past years, but the dairies impose a much greater de-
+mand for forages and silages.  Corn (Zea mays L.) has a 
+large water use, yet it produces high grain yields and 
+digestible nutrients.  Forage sorghum (Sorghum bicolor 
+(L.) Moench) can produce similar silage quality and 
+uses less water, but forage sorghum also yields less bio-
+mass than corn. 
+Howell et al. (2006) presented a summary of crop coef-
+ficient and evapotranspiration (ET) data from Bushland, 
+TX for irrigated corn, wheat (Triticum aestivum L.), 
+sorghum, soybean (Glycine max (L.) Merr.), cotton 
+(Gossypium hirsutum L.), and alfalfa (Medicago sativa 
+L.).  Limited literature exists on ET of corn and forage 
+sorghum grown for silage in the Southern High Plains.  
+The purpose of this paper is to present a preliminary 
+summary of water use and crop coefficient data for corn 
+and forage sorghum produced for silage in the Southern 
+High Plains having a semi-arid, advective environment 
+for the 2006 and 2007 seasons.  Since the 2006 corn 
+was replanted with a short-season hybrid, we’ll focus 
+this report just on the 2007 season’s results. 
+15 June 2007
+Silage Corn
+SE Lysimeter
+3 m
+Figure 1.  SE weighing lysimeter (silage corn) on 15 June 2007 at Bushland, Texas 
+ 
+  4                                                                                                                                                            Wetting Front   ■  June 2008 
+These studies were conducted at the 
+USDA-ARS Conservation and Pro-
+duction Research Laboratory at Bushland, TX (35º 11' 
+N lat.; 102º 06' W long.; 1,170 m elev. above MSL) in 
+2006 and 2007.  Crop ET was measured with two 
+weighing lysimeters (Marek et al., 1988) each located in 
+the center of 4.4-ha 210 m E-W by 210 m N-S fields 
+(two fields arranged in a rectangular  pattern).  The soil 
+at this site is classified as Pullman clay loam (fine, 
+mixed, superactive thermic Torrertic Paleustoll) (Unger 
+and Pringle, 1981; Taylor et al., 1963) which is de-
+scribed as slowly permeable because of a dense B22 
+horizon about 0.3 to 0.5 m below the surface.  The plant 
+available water holding capacity within the top 2.0 m of 
+the profile is approximately 240 mm (Tolk and Howell, 
+2001) ~200 mm to 1.5-m) depth).  A calcareous layer at 
+about the 1.4-m depth limits significant rooting and wa-
+ter extraction below this depth.  Variations of this soil 
+series are common to more than 1.2 million ha of land 
+in this region and about 1/3 of the sprinkler-irrigated 
+area in the Texas High Plains (Musick et al., 1988).  
+Weighing lysimeters offer one of the most accurate 
+means to measure ET (Hatfield, 1990).  Predominate 
+wind direction is SW to SSW, and the unobstructed 
+fetch (fallow fields or dryland cropped areas) in this 
+direction exceeds 1 km. The field slope is less than 0.3 
+percent.  More descriptive information is provided in 
+Howell et al. (1995b), Howell et al. (1997), Evett et al. 
+(2000), and Howell et al. (2004).   
+Lysimeter Procedures 
+Lysimeter mass was determined using a Campbell Sci-
+entific1 CR-7X data logger (Campbell Scientific, Inc., 
+Logan, UT) to measure and record the lysimeter load 
+cell (Interface SM-50, Scottsdale, AZ) signal at 0.5-Hz 
+(2 s) frequency.  The load cell signal was averaged for 5 
+min and composited to 30-min means (reported on the 
+mid point of the 30 min interval, i.e. data were averaged 
+from 0-30 minutes and reported at 15 min).  The 
+lysimeter mass resolution was 0.01 mm, and its accu-
+racy exceeded 0.05 mm (Howell et al., 1995a).  Daily 
+ET was determined as the difference between lysimeter 
+mass losses (from evaporation and transpiration) and 
+lysimeter mass gains (from irrigation, precipitation, or 
+dew) divided by the lysimeter area (9 m2).  A pump 
+regulated to -10 kPa provided vacuum drainage, and the 
+drainage effluent was held in two tanks suspended from 
+the lysimeter (their mass was part of the total lysimeter 
+mass) and independently weighed by load cells 
+(drainage rate data are not reported here).  Lysimeter ET 
+data included days with irrigations and rainfall.  
+Weather Data 
+Solar irradiance, wind speed, air temperature, dew point 
+temperature, relative humidity, precipitation, and baro-
+metric pressure were measured at an adjacent weather 
+station (Howell et al., 1995b) operated by the Texas 
+High Plains ET Network (Porter et al., 2005) placed 
+over an irrigated grass surface (cool-season lawn mix-
+ture containing bluegrass, perennial rye-grass, etc.).   
+Crop Coefficients 
+Reference ET (ETos and ETrs) was computed with the 
+ASCE/EWRI standardized equations (Allen et al., 
+2005) using the Texas High Plains ET Network (Porter 
+et al., 2005).  These calculations were verified using 
+REF-ET© v2 (Allen, 2001).   Crop coefficients were 
+computed as  
+                            
+  
+ 
+ 
+where ETc is the crop water use expressed in mm d-1 
+and 
+represents a reference crop water use ex-
+pressed in the same units (Doorenbos and Pruitt, 1977; 
+Jensen et al., 1990; Allen et al., 1998).  The symbols of 
+ETo and Kco are used for clipped grass (0.12-m tall), and 
+the symbols of ETr and Kcr were used for alfalfa (0.5-m 
+tall) in this paper.  The Kc values are presented and dis-
+cussed qualitatively, here, only on a time scale (day of 
+year).  
+Agronomic Procedures 
+Corn (NC+7373RB, NC+ Hybrids, Lincoln, NB) was 
+planted on 17 May in 2007 (DOY 137).  Forage sor-
+ghum (Dairymaster, Richardson Seeds, Ltd., Vega, TX) 
+was planted on 30 May in 2007 (DOY 150).  The forage 
+sorghum hybrid was a “brown mid rib” variety that re-
+portedly has a higher digestibility (Bean et al., 2007).  
+The previous crop in 2005 was irrigated grain sorghum.  
+In 2006, corn was grown on the NE lysimeter field, and 
+the forage sorghum was grown on the SE lysimeter 
+field.  In 2007, forage sorghum was grown on the NE 
+lysimeter field, and corn was grown on the SE lysimeter 
+field.  Cultural practices were typical for high yielding 
+irrigated silage crops in this region.   
+Irrigation 
+The lysimeter fields were irrigated with a lateral-move 
+sprinkler system to meet the crop water use.  The sprin-
+kler system was a 10-span lateral-move system 
+(Lindsay Manufacturing, Omaha, NB) with an end-feed 
+hose and aboveground, end guidance cable.  The sprin-
+kler system was aligned N-S, and irrigated E-W or W-E.  
+*
+ET
+ET
+K
+c
+c =
+Procedures 
+*
+ET
+1The mention of trade names of commercial products in this 
+article is solely for the purpose of providing specific informa-
+tion and does not imply recommendation or endorsement by the 
+U.S. Department of Agriculture.  
+ 
+  Wetting Front  ■  June 2008                                                                                                                                                              5 
+The system was equipped with gooseneck fittings and 
+spray heads (Nelson Irrigation Corp., Walla Walla, WA) 
+with concave spray plates on drops located about 1.5 m 
+above the ground and 1.5 m apart.  Each spray head was 
+equipped with a 100-kPa pressure regulator and a 1-kg 
+polyethylene drop weight.  Irrigations were scheduled 
+to meet the crop ET water use rate (by daily plotting the 
+lysimeter masses in terms of water depth) and were 
+typically applied in one to two 25-mm applications per 
+week. 
+Soil Water Measurements 
+Soil water contents were measured periodically using a 
+neutron probe (model 503DR Hydroprobe, CPN Inter-
+national, Inc., Martinez, CA) at 0.2-m depth increments 
+beginning with the 0.10-m depth using 30-s counts and 
+methods described in Hignett and Evett (2002).  Two 
+access tubes were located in each lysimeter (read to 1.9-
+m depth), and four tubes were located in the field sur-
+rounding each lysimeter (read to 2.3-m depth).  The 
+probe was field calibrated for the Pullman soil using a 
+method similar to that described by Evett and Steiner 
+(1995). 
+Plant and Yield Sampling 
+In each field for the two crop species, plant samples 
+from three separate 1.5-m2 areas were obtained periodi-
+cally to measure crop development.  These field sam-
+ples were taken at sites about 10 to 20 m away from the 
+lysimeters in areas of the field representative of the 
+lysimeter vegetation.  Leaf area index (LAI), crop 
+height (CH), and aboveground dry matter (DM) were 
+measured from three samples.  Final yield was meas-
+ured by harvesting the lysimeter grain and aboveground 
+plant matter from each lysimeter (9 m2), and dry matter 
+and yield at harvest were measured from three adjacent 
+1.5-m2 plant samples.  Forage quality samples were ob-
+tained and sent to a testing laboratory for nutritive and 
+digestibility analyses (results not presented here).  Field 
+harvest was on 15 October in 2007 (DOY 288). 
+Figure 1 (page 3) shows a photograph 
+Results 
+Day of Year - 2007
+120
+150
+180
+210
+240
+270
+Cumulative Water, mm
+0
+100
+200
+300
+400
+500
+600
+700
+Daily Rainfall or Irrigation, mm
+0
+50
+100
+150
+200
+250
+300
+350
+USDA-ARS
+Bushland, Texas
+Cumulative Irrigation
+Cumulative Total Water
+Cumulative Sorghum ET
+Cumulative Corn ET
+Rain X 3
+Irrigation
+ 
+Figure 2.  Cumulative irrigation, rainfall, and ETc for the forage sorghum and corn 
+(left axis scale) and daily rainfall received (note, daily rainfall was multiplied by 3 to 
+be visible on the right-hand scale) and irrigation applied (right axis scale) to the fields 
+in 2007 at Bushland, Tex. 
+ 
+  6                                                                                                                                                            Wetting Front   ■  June 2008 
+of the SE weighing lysimeter on 15 June 
+2007 with silage corn.  The 2007 year re-
+ceived 411 mm of rainfall (Fig. 2), which is 
+below the long-term Bushland, TX annual 
+precipitation of 480 mm.  The growing sea-
+son rainfall was typical or exceeded the 
+long-term growing season rainfall, however.  
+Figure 2 illustrates the growing season rain-
+fall and irrigation in 2007 along with the 
+cumulative ETc from the two crops.  Table 1 
+presents the crop water use, dry matter yield, 
+and water productivity for each crop in 
+2007.  Both crops are C4 species and should 
+be expected to have similar water productiv-
+ities.  The corn produced nearly identical 
+water productivity (~3.6 kg m-3) to previous 
+corn crops (see Howell et al., 1998 for crop 
+water productivities for corn hybrids with 
+differing maturity).  The forage sorghum had 
+less ET and irrigation requirement in 2007 
+but with comparable water productivity 
+(~3.5 kg m-3) with corn (~3.6 kg m-3) al-
+though the forage sorghum had less yield 
+(~38%).  Figure 3 shows photographs of the 
+fields (Fig. 3A) in 2007 and the forage sor-
+ghum lysimeter (Fig. 3B).  Figure 4 shows a 
+photograph of the forage sorghum silage 
+harvest in 2006. 
+Several reference ET equations were com-
+pared with the ASCE-EWRI Standardized 
+Penman-Monteith equation (ASCE PM 
+ETso) for a short crop reference ET (ETso) 
+(Allen et al., 2005) at Bushland, TX in Table 
+2.  Of interest is the close agreement be-
+tween the ETso (Allen et al., 2005) and the 
+ASCE PM ETo, (Jensen et al., 1990), 1948 
+Penman ETo (48 Pen ETo) and the 1996 
+Kimberly Penman ETo (96 Kpen ETo) equa-
+tions.  The tall crop reference ET (ETr) was 
+consistently about 1.4 times ETso.  The two 
+temperature-radiation reference ET equa-
+tions [1985 Hargreaves (85 Harg ETo) and 
+1972 Priestley-Taylor (72 P-T ETo)] consis-
+tently underestimated ETso at Bushland, TX 
+and had the lowest coefficients of determi-
+  
+Table 1.  Water use, yield, and water productivity of forage sorghum and corn produced for silage at 
+Bushland, Tex. in 2007. 
+  
+  
+Season 
+  
+Species 
+ETc 
+mm 
+Dry Matter 
+g m-2 
+Water Productivity 
+kg m-3 
+2007 
+Forage Sorghum 
+Corn 
+489 
+671 
+1,699 
+2,444 
+3.47 
+3.64 
+ 
+Figure 3.  Photograph of lysimeter fields (A) and NE lysimeter 
+ (B) with forage sorghum on 27 July 2007 at Bushland, Tex. 
+27 July 2007
+F o rag e   S o rghum
+Corn
+67% Irrigation Strip
+3 3 %   I rr i g ation Strip
+N
+A
+27 July 2007
+NE Lysimeter 
+Spray Irrigation
+Forage Sorghum
+B
+ 
+  Wetting Front  ■  June 2008                                                                                                                                                              7 
+ 
+Figure 4.  Photograph of forage sorghum harvest on 6 Oct. 2006 at Bushland, Tex. 
+  
+Table 2.  Regression relations between various reference ET equations for the 2006 and 2007 years (1 March through 31 
+October) at Bushland, Tex. based on Ref-ET (Allen, 2001).  Regression parameters are based on the Standardized Penman-
+Monteith Equation (Allen et al., 2005) as the independent variable (i.e., X of Y = a + b X). 
+  
+  
+2006 & 2007 n=609 
+Equation 
+  
+Mean 
+mm d-1 
+Mean Ratio 
+--- 
+  
+r2 
+--- 
+  
+Intercept 
+mm d-1 
+  
+Slope 
+--- 
+  
+Sy/x1/ 
+mm d-1 
+ASCE PM ETso 
+5.095 
+  
+  
+  
+  
+  
+ASCE PM ETsr 
+7.223 
+1.418 
+0.980 
+-0.232 
+1.463 
+0.562 
+ASCE PM ETr 
+7.325 
+1.438 
+0.979 
+-0.279 
+1.493 
+0.586 
+ASCE PM ETo 
+5.165 
+1.014 
+1.000 
+-0.029 
+1.019 
+0.027 
+82 Kpen ETr 
+6.502 
+1.276 
+0.962 
+-0.023 
+1.281 
+0.679 
+96 Kpen ETo 
+5.196 
+1.020 
+0.888 
+0.092 
+1.002 
+0.952 
+72 Kpen ETr 
+7.321 
+1.437 
+0.951 
+0.336 
+1.371 
+0.832 
+48 Pen ETo 
+5.112 
+1.003 
+0.963 
+0.135 
+0.977 
+0.510 
+85 Harg ETo 
+4.114 
+0.807 
+0.799 
+0.647 
+0.680 
+0.914 
+72 P-T ETo 
+3.550 
+0.697 
+0.645 
+0.559 
+0.587 
+1.166 
+1/ Standard error of the estimate 
+ 
+  8                                                                                                                                                            Wetting Front   ■  June 2008 
+nation (r2).  These relationships are 
+important in translating crop coeffi-
+cients (Kc) from location to location. 
+Crop Development 
+Both crops reached a maximum crop 
+height of nearly 3 m in 2007 (Fig. 5).  
+The forage sorghum had a maximum 
+LAI of 5.4 while the corn LAI maxi-
+mum was slightly greater than 7.  
+The final harvest dry matter was 
+1.70 kg m-2 for the forage sorghum 
+and 2.44 kg m-2 for the corn. 
+Soil Water 
+The 2007 season had a larger initial 
+soil water content than in 2006.  Fig-
+ure 6 shows the mean and standard 
+deviation of soil water content of the 
+upper 1.5-m profile at four neutron 
+tube sites nearby each weighing 
+lysimeter in 2007.  Because the 
+spray heads were not re-nozzled for 
+the different crop fields, the irriga-
+tion amounts applied to each crop 
+during a growing season were ap-
+proximately the same.  This slightly 
+over- irrigated the forage sorghum 
+while slightly deficit irrigating the 
+corn.  The corn field and lysimeter, 
+especially in 2007, had ample soil 
+water in the soil profile to likely 
+meet full crop needs.  But any deficit 
+irrigation of corn may have slightly 
+reduced the evaporation from the 
+soil.  The mean soil water content for 
+the forage sorghum illustrates this 
+“recharge” of the profile (Fig. 6) un-
+til the crop ET met or exceeded irri-
+gation plus rainfall (Fig. 2).  The 
+mean 1.5-m profile soil water con-
+tent didn’t exceed the “field capac-
+ity” of the Pullman soil, except once 
+at one neutron tube site for the for-
+age sorghum.  The corn utilized the 
+available profile soil water when 
+irrigation and rainfall were less than 
+the crop ET.    
+Crop Coefficients 
+Crop coefficients for both species in 
+Figures 7 and 8 for the short-crop 
+reference ET (ETo) and the tall-crop 
+reference ET (ETr), respectively, for 
+the 2007 season.  Although with 
+sprinkler irrigation it is difficult to 
+achieve “basal” conditions (Wright, 
+1982), we drew straight line seg-
+ments like FAO-56 (Allen et al., 
+1998) to estimate our approximation 
+of the “basal” crop coefficients.  In 
+2007, the forage sorghum initial 
+“basal” Kc was estimated as 0.15 for 
+ETo (Fig. 7) and 0.12 for ETr (Fig. 8) 
+while the corn initial “basal” Kc was 
+estimated as 0.20 for ETo (Fig. 7) 
+and 0.17 for ETr (Fig. 8).  The maxi-
+mum forage sorghum “basal” Kc was 
+estimated as 0.90 for ETo (Fig. 7) 
+and 0.70 for ETr (Fig. 8) in 2007 
+while the corn maximum “basal” Kc 
+was estimated as 1.1 for ETo (Fig. 7) 
+and 0.85 for ETr (Fig. 8) in 2007.  
+The initial “basal” Kc for sorghum at 
+Davis, CA was 0.12 (Jensen et al., 
+1990) for ETso.  Wright (1982) de-
+termined the initial corn “basal” Kc 
+at Kimberly, ID as 0.15 for ETsr.  
+The maximum “basal” Kc at Davis, 
+CA for grain sorghum was 1.08 for 
+ETo (Jensen et al., 1990) and 0.93 for 
+field corn for ETr at Kimberly, ID 
+(Wright 1982).  The Bushland forage 
+sorghum “basal” Kc was slightly 
+lower than the reported for Davis, 
+CA data for grain sorghum for the 
+ETo reference ET (0.90 at Bushland 
+in 2007 compared with 1.08 at 
+Day of Year - 2007
+120
+150
+180
+210
+240
+270
+300
+Dry Matter, kg m-2
+0.0
+0.4
+0.8
+1.2
+1.6
+2.0
+2.4
+Leaf Area Index, m2 m-2
+0
+2
+4
+6
+USDA-ARS
+Bushland, Texas
+H
+HD
+SD
+Silk
+12 Lf
+10 Lf
+E
+H
+SD
+8 Lf
+E
+A
+B
+C
+Crop Height, m
+0
+1
+2
+3
+4
+Corn
+Sorghum
+ 
+Figure 5.  Crop development of forage sorghum and corn in 2007 at Bushland, Tex.  
+Top (A) is crop height; middle (B) is leaf area index; and bottom (C) is dry matter.  
+The symbols on C represent emergence (E), leaf number (# Lf); silking (Silk); soft 
+dough (SD); hard dough (HD); and harvest (H).   
+ 
+ 
+ 
+  Wetting Front  ■  June 2008                                                                                                                                                              9 
+Day of Year - 2007
+120
+150
+180
+210
+240
+270
+300
+Soil Water Content (top 1.5 m), m3 m-3
+0.0
+0.2
+0.3
+0.4
+Wilting Point
+Plant
+Corn
+Plant
+Sorghum
+Harvest
+Field Capacity
+USDA-ARS
+Bushland, Texas
+Pullman Clay Loam
+Corn
+Sorghum
+ 
+Figure 6.  Mean and standard deviation of the 1.5-m profile soil water content for the 
+forage sorghum and corn fields (4 neutron tube sites near each weighing lysimeter) in 
+2007 at Bushland, Tex.  Shown are the field capacity and wilting point values for the 
+Pullman clay loam soil (0.33 m3 m-3 and 0.18 m3 m-3, respectively). 
+Day of Year - 2007
+120
+150
+180
+210
+240
+270
+Crop Coefficient (Kco)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+Corn (NC+7373RB)
+Forage Sorghum (Dairymaster)
+USDA-ARS
+Bushland, Texas
+ 
+ 
+Figure 7.  Corn and forage sorghum crop coefficients in 2007 at Bushland, Tex. for 
+short-crop reference ETo (Kco). 
+ 
+ 
+ 
+  10                                                                                                                                                            Wetting Front   ■  June 2008 
+Davis, CA), but the California data were usually based 
+on “real” mowed, irrigated grass reference ET.  The 
+Idaho field corn Kc data were computed using the 1982 
+Kpen reference ETr (Wright, 1982).  When the maxi-
+mum field corn Kc at Kimberly, ID of 0.96 (Jensen et 
+al., 1990) was converted using the 1982 Kpen mean ETr 
+(Table 2) and the mean ASCE-EWRI ETsr (Table 2) 
+[means for 1 March to 31 October], the adjusted Kim-
+berly, ID corn maximum Kc is about 0.85 for ETr at 
+Bushland, TX., which exactly matches the Bushland 
+corn Kc value (0.85) for ETr.  The estimated Bushland 
+“basal” Kc values generally agree with the “basal” Kc 
+values from both Davis, CA and Kimberly, ID when the 
+uncertainties in measuring ETc and in estimating refer-
+ence   
+are considered together with weather data 
+uncertainties (Allen et al., 2005). 
+Forage sorghum offers an attractive 
+alternative to corn for silage in the 
+Southern High Plains to conserve water while achieving 
+nearly equal water productivity as corn.  However, the 
+yield of forage sorghum will be less than corn for silage.  
+In 2007, when a valid comparison between forage sor-
+ghum and corn was feasible, the forage sorghum was 
+about the same height as the corn with LAI being lower 
+(~5.4 compared with ~7.1) and having less dry matter 
+(~1,700 g m-2 compared with ~2,400 g m-2 for corn).  
+However, the forage sorghum ET was significantly less 
+(by ~180 mm in 2007 or ~27%).  The reduced irrigation 
+demand of forage sorghum makes it more compatible 
+with declining well yields as forage demands from dair-
+ies increase on the Southern High Plains.  Forage sor-
+ghum should be examined as an alternative to corn for 
+silage in the regional water planning to meet future wa-
+ter requirements with reduced water availability in the 
+Southern High Plains from the Ogallala Aquifer. 
+These data were obtained 
+through the dedicated and 
+meticulous work of numerous technicians in the USDA-
+ARS Soil and Water Research Unit at Bushland, TX.  
+Their tireless efforts were required to obtain these data, 
+and we sincerely recognize their dedication. 
+ 
+Summary 
+Acknowledgements 
+Day of Year - 2007
+120
+150
+180
+210
+240
+270
+Crop Coefficient (Kcr)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+Corn (NC+7373RB)
+Forage Sorghum (Dairymaster)
+USDA-ARS
+Bushland, Texas
+ 
+Figure 8.  Corn and forage sorghum crop coefficients in 2007 at Bushland, Tex. for 
+tall-crop reference ETr (Kcr). 
+*
+ET
+ 
+  Wetting Front  ■  June 2008                                                                                                                                                              11 
+References 
+Allen, R.G.  (2001).  “REF-ET:  Reference 
+evapotranspiration calculation software for FAO and ASCE 
+standardized equations, Version 2.0 for Windows.”  Univ. of 
+Idaho, Kimberly Res. and Ext. Ctr.  76 p. 
+Allen, R.G., Periera, L.S., Raes, D., and Smith, M.  
+(1998).  “Crop evapotranspiration: Guidelines for 
+computing crop water requirements.”  Irrig. and Drain. 
+Paper No. 56. Rome, Italy: United Nations, Food and Agric. 
+Org. 
+Allen, R.G., Walter, I.A., Elliott, R.L., Howell, T.A., 
+Itenfisu, D., Jensen, M.E., and Snyder, R. L. (eds.).  2005.  
+“The ASCE standardized reference evapotranspiration 
+equation.”  Am. Soc. Civil Engr., Reston, Va.  59 p. with 
+supplemental appendices.  
+Bean, B., McCollum, T., Villareal, B., Robinson, J., 
+Buttrey, E., VanMeter, R., and Pietsch, D.  (2007).  “2007 
+Texas Panhandle Forage Sorghum Silage Trial.”  Tex.  
+Coop. Ext. and Tex. Agric. Experiment Stat., Amarillo. 12 p.  
+http://amarillo.tamu.edu/programs/agronomy/publications/
+Forage%20Sorghum/2007BushlandSorghumSilageTrial.pdf 
+[viewed on 25 January 2008]. 
+Doorenbos, J., and Pruitt, W.O.  (1977).  “Crop water 
+requirements.” Irrig. and Drain. Paper No. 24. Rome, Italy: 
+United Nations, Food and Agric. Org. 
+Evett, S.R., Howell, T.A., Todd, R.W., Schneider, A. 
+D., and Tolk, J.A.  (2000).  “Alfalfa reference ET 
+measurement and prediction.”  pp. 266-272. In Evans, Brian 
+L. Benham, and Todd P. Trooien (eds.) Proceedings of the 
+4th Decennial National Irrigation Symposium, Am. Soc. 
+Agric. and Biol. Engr., St. Joseph, Mich. 
+Evett, S.R., and Steiner, J.L.  (1995).  “Precision of 
+neutron scattering and capacitance type soil water content 
+gauges from field calibrations.”  Soil Sci. Soc. Am. J. 59
+(4):961-968. 
+Hatfield, J.L.  (1990).  “Methods of estimating 
+evapotranspiration.”  pp. 435-474.  In: B.A. Stewart and 
+D.R. Nielsen (eds.) Irrigation of Agricultural Crops, Agron. 
+Mono. No 30, Am. Soc. Agron., Madison, Wisc. 
+Hignett, C., and Evett, S.R. (2002).  “Neutron 
+Thermalization, Chapter 3.1.3.10.”  pp. 501-521.  In J. H. 
+Dane and G. Clarke Topp (eds.) Methods of Soil Analysis, 
+Part 4B Physical Methods, 3rd Edition. Agron. Mon. No. 9, 
+Am. Soc. Agron., Crop Sci. Soc. Am., Soil Sci. Soc. Am., 
+Madison, Wisc.  
+Howell, T.A., Evett, S.R., Tolk, J.A., and  Schneider, 
+A. D.  (2004).  “Evapotranspiration of full-, deficit-
+irrigated, and dryland cotton on the Northern Texas High 
+Plains.”   J. Irrig. and Drain. Engr. (ASCE) 130(4):277-285. 
+Howell, T. A., Evett, S. R., Tolk, J. A., Copeland, K. 
+S., Dusek, D. A., and Colaizzi, P. D.  (2006). “Crop 
+coefficients developed at Bushland, Texas for corn, wheat, 
+sorghum, soybean, cotton, and alfalfa.”  Proc. ASCE-EWRI 
+World Water and Environmental Resources Congress 2006, 
+(CD-ROM), ASCE, Reston, Va. 
+Howell, T.A., Tolk, J.A., Schneider, A.D., and Evett, 
+S.R.  (1998).  “Evapotranspiration, yield, and water use 
+efficiency of corn hybrids differing in maturity.” Agron. J. 
+90(1):3-9. 
+Howell, T.A., Steiner, J.L., Schneider, A.D., Evett, S. 
+R., and Tolk, J.A.  (1997).  “Seasonal and maximum daily 
+evapotranspiration of irrigated winter wheat, sorghum, and 
+corn - Southern High Plains.” Trans. ASAE 40(3)623-634. 
+Howell, T.A., Schneider, A.D., Dusek, D.A., Marek, 
+T.H., and Steiner, J.L.  (1995a).  “Calibration and scale 
+performance of Bushland weighing lysimeters.”  Trans. 
+ASAE 38(4):1019-1024. 
+Howell, T.A., Steiner, J.L., Schneider, A.D., and 
+Evett, S.R.  (1995b).  “Evapotranspiration of irrigated 
+winter wheat — Southern High Plains.”  Trans. ASAE 38
+(3):745-759. 
+Jensen, M.E., Burman, R.D. and Allen, R.G. (eds).  
+(1990).  “Evaporation and irrigation water requirements.”  
+ASCE Manuals and Reports on Eng. Practices No. 70.  New 
+York, N.Y:  Am. Soc. of Civil Eng.  360 pp. 
+Marek, T.H., Schneider, A.D., Howell, T.A., and 
+Ebeling, L. L.  (1988).  “Design and construction of large 
+weighing monolithic lysimeters.”  Trans. ASAE 31(2):477-
+484. 
+Musick, J.T., Pringle, F.B., and Walker, J.D.  (1988).  
+“Sprinkler and furrow irrigation trends -Texas High Plains.”  
+Appl. Engr. Agric. 4(1):46-52. 
+Porter, D., Marek, T., Howell, T. A., and New, L.  
+(2005).  “The Texas High Plains (TXHPET) user manual.”  
+Amarillo Research and Extension Center Report, AREC 05-
+37 Version 1.01, November 2005, Tex. Agric. Exper. Stat., 
+Amarillo.  
+Taylor, H.M., Van Doren, C.E., Godfrey, C.L., and 
+Coover, J.R.  (1963).  “Soils of the southwestern Great 
+Plains field station.”  Misc. Publ.- MP-669, Tex. Agric. Exp. 
+Stat., College Station. 
+Tolk, J.A., and Howell, T. A.  (2001).  “Measured and 
+simulated evapotranspiration of grain sorghum grown with 
+full and limited irrigation in three high plains soils.” Trans. 
+ASAE 44(6)1553-1558. 
+Unger, P. W., and Pringle, F.B.  (1981).  “Pullman 
+soil: Distribution, importance, variability, and 
+management.”  Bull. 13 - 1372, Tex. Agric. Exp. Stat., 
+College Station. 
+Wright, R.L.  (1982).  “New evapotranspiration crop 
+coefficients.”  J. Irrig. and Drain Div. Am. Soc. Civil 
+Engr.:108(IR2):57-74.  
+Return To Index Page 
+ 
+  12                                                                                                                                                            Wetting Front   ■  June 2008 
+Radiative transfer 
+models for the soil-
+plant-atmosphere continuum are the 
+basic drivers for models that describe 
+crop growth and development, 
+evapotranspiration (ET), and gas ex-
+change. Effective water resource man-
+agement in irrigated regions, for exam-
+ple, require accurate estimates of ET, 
+which can be accomplished with two-
+source energy balance models, where 
+the energy balance of the soil and can-
+opy layers are computed separately 
+(Kustas and Norman, 1999; Kustas et 
+al., 2004). Colaizzi et al. (2006) evalu-
+ated a two-source energy balance 
+model against ET measurements of 
+various crops grown in large weighing 
+lysimeters at the USDA-ARS Conser-
+vation and Production Research Labo-
+ratory at Bushland, TX. Overall model 
+agreement with measured ET was ac-
+ceptable; however, they observed sig-
+nificant errors for some energy compo-
+nents, such as net radiation partitioning 
+between the soil and canopy layers for 
+row crops with partial canopy cover. 
+This pointed to the need to investigate 
+and refine radiative transfer models 
+designed for these conditions. 
+Campbell and Norman (1998; 
+hereafter referred to as CN98) de-
+scribed a radiative transfer model for 
+vegetation and soil that only required 
+incident global radiation and basic 
+knowledge of canopy characteristics. 
+The CN98 model separates the visible 
+and near-infrared portions of the short-
+wave spectrum, and further separates 
+these into their direct beam and diffuse 
+components, all of which have very 
+different transmittance and reflectance 
+properties. We refined the CN98 model 
+by including several new parameters 
+that account for the “clumping” nature 
+of row crops for any row orientation 
+(e.g., circular rows typically found un-
+der center-pivot irrigation systems). 
+Briefly, these parameters were the frac-
+tion of canopy cover normal to the so-
+lar beam (fcs), the path length fraction 
+(PLF) of a solar beam propagating 
+through a canopy relative to nadir, and 
+the multiple row function (MRF) to 
+account for a solar beam propagating 
+through more than one crop row at low 
+zenith angles. These parameters were 
+analogous to the “clumping factor” de-
+scribed by Chen and Cihlar (1995), 
+Anderson et al. (2005), and others. We 
+evaluated the CN98 model with these 
+refinements for grain corn, grain sor-
+ghum, and upland cotton, which are 
+important row crops for the Texas High 
+Plains economy. 
+The present study 
+was conducted at the 
+USDA-ARS Conservation and Produc-
+tion Research Laboratory, Bushland, 
+TX, USA (35º 11' N lat., 102º 06' W 
+long., 1,170 m elevation M.S.L.). The 
+climate is semi-arid with a high evapo-
+rative demand of about 2,600 mm per 
+year (Class A pan evaporation) and low 
+precipitation averaging 470 mm per 
+year. Strong advection of heat energy 
+from the South and Southwest is typi-
+cal. The soil was a Pullman clay loam 
+(fine, mixed, super active, thermic tor-
+rertic Paleustolls) with slow permeabil-
+ity (Unger and Pringle, 1981). 
+Instrumentation and measured 
+Radiation Partitioning Model 
+for Row Crops: 
+Refinement of the Campbell and Norman 
+1998 Approach 
+ 
+Introduction 
+Procedure 
+Paul D. Colaizzi 
+Robert C. Schwartz 
+Terry A. Howell 
+Steven R. Evett 
+Judy A. Tolk 
+Soil and Water 
+Management Research Unit 
+USDA-ARS 
+Conservation and Production 
+Research Laboratory 
+Bushland, TX 
+ 
+Fuqin Li 
+Geoscience Australia 
+Australian Centre for Remote 
+Sensing 
+Symonston, Australia 
+ 
+William P. Kustas 
+USDA-ARS 
+Hydrology and Remote Sensing 
+Research Laboratory 
+Beltsville, MD 
+ 
+  Wetting Front  ■  June 2008                                                                                                                                                              13 
+radiation parameters are summarized 
+in Table 1. All measurements were 
+sampled every 6 s and reported as 0.5 
+h averages (0.25 h in 2007). Only days 
+with clear skies were used, which 
+would be of primary interest for re-
+mote sensing applications, and to re-
+duce data sets to a manageable size. 
+Incoming shortwave solar radiation 
+(Rs), incoming photosynthetic active 
+radiation (IPAR), transmitted short-
+wave radiation (TRs), and transmitted 
+PAR (TPAR) were measured for grain 
+corn (Zea mays L.; 1989 and 2007 sea-
+sons), grain sorghum (Sorghum bicolor 
+L.; 1988 and 2007 seasons), and up-
+land cotton (Gossypium hirsutum L.; 
+2000, 2001, and 2007 seasons) 
+(Howell et al., 1997; 2004). Reflected 
+shortwave (RRs), reflected PAR 
+(RPAR), and total net radiation (Rn) 
+were measured for corn (1989 only) 
+and grain sorghum (RPAR measured 
+in 1988 only). (Note that components 
+commonly reported as PAR are actu-
+ally the photosynthetic photon flux 
+density in units of µmol m-2 s-1). In 
+1992, measurements of RRs and 
+RPAR were used over bare soil at two 
+lysimeter sites to determine soil albedo 
+and reflectance in the visible and near 
+infrared spectrums. The RRs and 
+RPAR measurements over bare soil 
+used the same instrumentation as 1988 
+grain sorghum and 1989 corn (Table 1; 
+Tunick et al., 1994). 
+Agreement between observed 
+and predicted (i.e., modeled) radiation 
+parameters (TRs, TPAR, RRs, RPAR, 
+and Rn) was assessed using standard 
+statistical parameters (observed and 
+predicted mean; slope; intercept; coef-
+ficient of determination, r2; root mean 
+square error, RMSE; and bias), as well 
+as, non-squared parameters described 
+by Legates and McCabe (1999) 
+(modified index of agreement, D; 
+modified coefficient of efficiency, ε; 
+and mean absolute error, MAE). D is 
+similar to r2 in that 0 ≤ D ≤ 1, with 
+greater values of D indicating better 
+agreement between observed and pre-
+dicted values. Values of ε range from -
+∞ to 1, and ε = 0 indicates that the 
+mean of all observed values is as good 
+a predictor as the model (if ε < 0, then 
+the mean of observed values is actually 
+a better predictor than the model). 
+MAE should be used in conjunction 
+with RMSE, where the extent that 
+RMSE > MAE indicates outliers in the 
+data. We also computed RMSE di-
+vided by the observed mean expressed 
+as a percentage (RMSE/Ōobs). 
+Statistical parame-
+ters of model agree-
+ment were tabulated 
+for grain corn (Table 1), grain sorghum 
+(Table 2), and upland cotton (Table 3) 
+for each radiation parameter, consist-
+ing of transmitted shortwave radiation 
+(TRs), transmitted photosynthetically 
+active radiation (TPAR), reflected 
+shortwave radiation (RRs), reflected 
+photosynthetically active radiation 
+(RPAR), and total net radiation (Rn). 
+Modeled vs. observed radiation pa-
+rameters were plot for each crop 
+(Figure 1). Overall, most data clustered 
+about the 1:1 line with significant line-
+arity (two-tailed Student t test, α = 
+0.05). All root mean square error 
+(RMSE) values were no greater than 
+1.4 times the corresponding mean ab-
+solute error (MAE) values, indicating 
+reasonably low presence of outliers. 
+The modified index of agreement (D) 
+ranged from 0.664 for cotton Rn 
+(Table 3) to 0.899 for corn TPAR 
+(Table 1). All modified coefficient of 
+efficiency (ε) values were greater than 
+zero, meaning that all models contrib-
+uted additional information beyond the 
+means of observed values (Ōobs). The 
+RMSE/Ōobs values were 30% or less, 
+the largest resulting for corn RPAR 
+(Table 1). These results were encour-
+aging given the inherent difficulty in 
+measuring radiation in plant canopy 
+environments. 
+Transmitted radiation (i.e., TRs 
+and TPAR) tended to cluster at rela-
+tively low values for corn and grain 
+sorghum, because most measurements 
+were obtained after canopy closure 
+(Figure 1). Most of the greater values 
+of TRs and TPAR were observed early 
+in the season before full canopy, with 
+very few occurring late in the season 
+after leaf senescence. However, TRs 
+and TPAR were more uniformly dis-
+tributed across the range of values for 
+cotton. These measurements were ob-
+tained in a deficit-irrigated crop (i.e., 
+50% of full irrigation requirement), 
+with only about 40% of the soil surface 
+covered. Therefore, a portion of the 
+tube solarimeters (used to measure 
+TRs) and line quantum sensors (used 
+to measure TPAR) received direct 
+sunlight during most of the day since 
+the rows of the cotton crop were ori-
+ented east-west. A similar experiment 
+is presently underway with cotton rows 
+oriented north-south, which will test 
+the robustness of CN98 model refine-
+ments. 
+Reflected shortwave radiation 
+(RRs) tended to be distributed some-
+what uniformly in the observed range, 
+whereas reflected photosynthetically 
+active radiation (RPAR) tended to 
+cluster at lower values of the observed 
+range (Figure 1). This was expected 
+because green leaves have much 
+greater absorption (~0.85) of photo-
+synthetically active radiation (i.e., visi-
+ble spectrum around 400 to 700 nm) 
+compared with near-infrared radiation 
+(~0.15). The energy of visible and 
+near-infrared radiation is distributed 
+approximately equally in incoming 
+shortwave radiation (Campbell and 
+Norman, 1998). The modeled underes-
+timates of RPAR for corn (first col-
+umn, fourth plot in Figure 1) occurred 
+late in the season, and were likely the 
+result of tassels and senesced leaves 
+not accounted for in the model. This 
+was also observed for cotton, when 
+leaf senescence may have exposed a 
+greater amount of soil background 
+(which has greater reflection in the 
+visible spectrum). However, cotton 
+RPAR was also overestimated early in 
+the season when canopy cover was 
+low, possibly due to reduced 
+(underestimated) soil reflectance from 
+wetting that was not accounted for. 
+These errors could be easily addressed 
+through actual measurements of sur-
+face reflectance, which are routinely 
+Results &  
+Discussion 
+ 
+  14                                                                                                                                                            Wetting Front   ■  June 2008 
+obtained by ground-based, airborne, or 
+satellite remote sensing platforms 
+(Gowda et al., 2008). 
+Total net radiation (Rn) had sys-
+tematic bias, with overestimates for 
+corn and grain sorghum but underesti-
+mates for cotton, possibly the result of 
+instrument calibration errors. The net 
+radiometer deployed over the 2007 
+grain sorghum had the closest agree-
+ment with modeled values, which can 
+be discerned as the cluster of points 
+closest to the 1:1 line (second column, 
+fifth plot in Figure 1). 
+The Campbell and 
+Norman (1998) ra-
+diative transfer model (CN98) was 
+evaluated with new refinements that 
+accounted for the clumping nature of 
+row crops for grain corn, grain sor-
+ghum, and upland cotton. Acceptable 
+model agreement was obtained for 
+transmitted and reflected radiation, 
+which is an important result for im-
+proving crop water use models used in 
+water resource management. Some 
+error observed in reflected radiation 
+parameters may have been due to leaf 
+senescence later in the season that was 
+not accounted for in the present ver-
+sion of the model, and underestimates 
+of soil reflectance due to wetting 
+events. These errors could be easily 
+addressed by using routine measure-
+ments of surface reflectance from re-
+mote sensing. Systematic bias was ob-
+served for net radiation in all but one 
+season, but this may have been due to 
+instrument calibration errors. The 
+CN98 model will continue to be vali-
+dated and refined with different crop 
+row orientations, as part of the Bush-
+land Agricultural and Evapotranspira-
+tion Experiment of 2008 BEAREX08). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Conclusion 
+References 
+ 
+Anderson, M. C., J. M. Norman, J. M., 
+Kustas, W. P., Li, F., Prueger,  J. H.,  
+and Mecikalski, J. R. 2005. Effects of 
+vegetation clumping on two-source 
+model estimates of surface energy 
+fluxes from an agricultural landscape 
+during SMACEX. J. Hydrometeorol. 
+6: 892-909. 
+Campbell, G. S., and Norman, J. M. 1998. 
+An Introduction to Environmental 
+Biophysics (2nd ed.). New York: 
+Springer-Verlag. 286 pp. 
+Chen, J. M. and Cihlar, J. 1995. Quantify-
+ing the effect of canopy architecture 
+on optical measurments of leaf artea 
+index using two gap size analysis 
+methods. IEEE Trans. Geosci. Re-
+mote Sens. 33: 777-787. 
+Colaizzi, P. D., Evett, S. R., Howell, T. 
+A., Tolk, J. A. and Li, F. 2006. 
+Evaluation of a two-source energy 
+balance model in an advective envi-
+ronment. In Proc. 2006 ASCE-EWRI 
+World Water and Environmental Re-
+sources Congress, 21-25 May, 
+Omaha, NE. CD-ROM. 
+Gowda, P. H., Chávez, J. L., Colaizzi, P. 
+D., Evett, S. R., Howell, T. A. and  
+Tolk, J. A. 2008. ET mapping for 
+agricultural water management: pre-
+sent status and challenges. Irrig. Sci. 
+26(3): 223-237. DOI: 10.1007/
+s00271-007-0088-6. 
+Howell, T. A., J. L. Steiner, A. D. Schnei-
+der, S. R. Evett, and J. A. Tolk. 1997. 
+Seasonal and maximum daily 
+evapotranspiration of irrigated winter 
+wheat, sorghum, and corn: Southern 
+High Plains. Trans. ASAE 40(3): 623-
+634. 
+ 
+ 
+ 
+Howell, T. A., Evett, S. R., Tolk, J. A. and  
+Schneider, A. D. 2004. Evapotranspi-
+ration of full-, deficit-irrigation, and 
+dryland cotton on the Northern Texas 
+High Plains. J. Irrig. Drain. Engrg., 
+Am. Soc. Civil Engrgs. 130(4): 277-
+285. 
+Kustas, W. P. and Norman, J. M. 1999. 
+Evaluation of soil and vegetation heat 
+flux predictions using a simple two-
+source model with radiometric tem-
+peratures for partial canopy cover. 
+Agric. For. Meteorol. 94: 13-29. 
+Kustas, W.P., Li, F., Jackson, T. J., 
+Prueger, J. H., MacPherson, J. I. and  
+Wolde, M. 2004. Effects of remote 
+sensing pixel resolution on modeled 
+energy flux variability of croplands in 
+Iowa. Remote Sensing Environ. 92: 
+535–547. 
+Legates, D. R., and McCabe, Jr., G. J. 
+1999. Evaluating the use of 
+“goodness-of-fit” measures in hydro-
+logic and hydroclimatic model valida-
+tion. Water Resources Res. 35(1): 
+233-241. 
+Tunick, A., Rachele, H., Hansen, F.  B.,  
+Howell, T. A., Steiner, J. L., Schnei-
+der, A. D. and Evett, S.R. 1994. RE-
+BAL '92 - a cooperative radiation and 
+energy balance field study for im-
+agery and electromagnetic propaga-
+tion. Bull. Am. Meteorol. Soc. 75(3): 
+421-430. 
+Unger, P. W., and F. B. Pringle. 1981. 
+Pullman soils: Distribution, impor-
+tance, and management. Bulletin No. 
+1372. College Station, Texas: Texas 
+A&M University, Texas Agricultural 
+Experiment Station. 
+“The Campbell and Norman (1998) 
+radiative transfer model (CN98) was 
+evaluated with new refinements that 
+accounted for the clumping nature of 
+row crops for grain corn, grain 
+sorghum, and upland cotton.” 
+ 
+  Wetting Front  ■  June 2008                                                                                                                                                              15 
+Table 1. Instrumentation used in radiation measurements. The mention of trade names of commercial products is 
+solely for the purpose of providing specific information and does not imply recommendation or endorsement by the 
+U.S. Department of Agriculture. 
+Grain Corn 
+1989 
+  
+2007 
+  
+Parameter 
+Instrument 
+Qty. 
+Instrument 
+Qty. 
+Rs 
+Incident solar radiation 1 
+Eppley 2 PSP 
+2 
+Eppley 2 PSP 
+2 
+IPAR 
+Incident PAR 1 
+Licor 3 LI-190 SA 
+1 
+Licor 3 LI-190 SA 
+1 
+TRs 
+Transmitted solar radiation 
+Decagon 4 tube solarimeter 
+4 
+Delta-T 5 TSL 
+2 
+TPAR 
+Transmitted PAR 
+Licor 3 LQ 
+4 
+Licor 3 LI-191 
+3 
+RRs 
+Reflected solar radiation 
+Eppley 2 B&W 8-48 
+2 
+--- 
+--- 
+RPAR 
+Reflected PAR 
+Licor 3 LI-190 SA 
+2 
+--- 
+--- 
+Rn 
+Total net radiation 
+REBS 6 Q*4 
+2 
+--- 
+--- 
+Ts 
+Surface temperature 
+Everest 7 IRT (nadir) 
+2 
+Exergen 8 IRT/c (soil) 
+6 
+  
+  
+Everest 7 IRT (oblique) 
+2 
+Exergen 8 IRT/c 
+(canopy) 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+Grain Sorghum 
+1988 
+  
+2007 
+  
+Parameter 
+Instrument 
+Qty. 
+Instrument 
+Qty. 
+Rs 
+Incident solar radiation 1 
+Eppley 2 PSP 
+2 
+Eppley 2 PSP 
+2 
+IPAR 
+Incident PAR 1 
+Licor 3 LI-190 SA 
+1 
+Licor 3 LI-190 SA 
+1 
+TRs 
+Transmitted solar radiation 
+Decagon 4 tube solarimeter 
+4 
+Delta-T 5 TSL 
+2 
+TPAR 
+Transmitted PAR 
+Licor 3 LQ 
+4 
+Licor 3 LI-191 
+3 
+RRs 
+Reflected solar radiation 
+Eppley 2 B&W 8-48 
+2 
+Kipp & Zonen10 CM14 
+1 
+RPAR 
+Reflected PAR 
+Licor 3 LI-190 SA 
+2 
+--- 
+--- 
+Rn 
+Total net radiation 
+Frichen 9 net radiometer 
+2 
+REBS 6 Q 7*1 
+2 
+Ts 
+Surface temperature 
+Everest 7 IRT (nadir) 
+2 
+Exergen 8 IRT/c (soil) 
+6 
+  
+  
+Everest 7 IRT (oblique) 
+2 
+Exergen 8 IRT/c 
+(canopy) 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+Upland Cotton 
+2000 & 2001 
+  
+2007 
+  
+Parameter 
+Instrument 
+Qty. 
+Instrument 
+Qty. 
+Rs 
+Incident solar radiation 1 
+Eppley 2 PSP 
+2 
+Eppley 2 PSP 
+2 
+IPAR 
+Incident PAR 1 
+Licor 3 LI-190 SA 
+1 
+Licor 3 LI-190 SA 
+1 
+TRs 
+Transmitted solar radiation 
+--- 
+--- 
+Delta-T 5 TSL 
+3 
+TPAR 
+Transmitted PAR 
+--- 
+--- 
+Licor 3 LI-191 
+3 
+RRs 
+Reflected solar radiation 
+Kipp & Zonen10 C14 
+2 
+--- 
+--- 
+RPAR 
+Reflected PAR 
+Licor 3 LI-190 SA 
+2 
+--- 
+--- 
+Rn 
+Total net radiation 
+REBS 6 Q 7*1 
+2 
+--- 
+--- 
+Ts 
+Surface temperature 
+Exergen 8 IRT/c (oblique) 
+2 
+Exergen 8 IRT/c (soil) 
+6 
+  
+  
+  
+  
+Exergen 8 IRT/c 
+(canopy) 
+6 
+1 Incident measurements were taken at a nearby grass reference site. 
+2 Eppley Laboratory, Inc., Newport, RI, USA. 
+3 Licor, Inc., Lincoln, NE, USA. 
+4 Decagon Devices, Inc. Pullman, WA, USA. 
+5 Delta T Devices, Ltd., Cambridge, U.K. 
+6 Radiation and Energy Balance Systems, Inc., Seattle, WA, USA. 
+7 Everest Interscience, Inc., Tucson, AZ, USA. 
+8 Exergen Corp., Watertown, MA, USA. 
+9 Frichen 
+10 Kipp & Zonen USA, Inc., Bohemia, NY, USA. 
+ 
+ 
+ 
+  16                                                                                                                                                            Wetting Front   ■  June 2008 
+Table 3. Statistical parameters of agreement between observed and modeled transmitted shortwave radiation (TRs), 
+transmitted photosynthetically active radiation (TPAR), reflected shortwave radiation (RRs), reflected 
+photosynthetically active radiation (RPAR), and total net radiation (Rn) for grain sorghum. 
+  
+TRs 
+TPAR 
+RRs 
+RPAR 
+Rn 
+  
+W m-2 
+μmol m-2 s-1 
+W m-2 
+μmol m-2 s-1 
+W m-2 
+n 
+789 
+789 
+775 
+518 
+789 
+mean Obs 
+256.4 
+418.9 
+136.0 
+67.5 
+512.8 
+mean Pred 
+287.3 
+446.3 
+131.8 
+63.4 
+548.7 
+Slope 
+0.955 
+1.000[a] 
+0.677 
+0.898 
+0.983[a] 
+Intercept 
+42.6 
+27.4 
+39.6 
+2.8 
+44.6 
+r2 
+0.870 
+0.923 
+0.746 
+0.829 
+0.840 
+RMSE 
+73.0 
+111.2 
+15.4 
+7.8 
+64.1 
+Bias 
+30.9 
+27.5 
+-4.2 
+-4.1 
+35.8 
+D 
+0.826 
+0.886 
+0.700 
+0.731 
+0.771 
+ε 
+0.655 
+0.769 
+0.482 
+0.471 
+0.507 
+MAE 
+54.4 
+78.0 
+11.6 
+6.1 
+49.1 
+RMSE/Ōobs 
+28% 
+27% 
+11% 
+12% 
+12% 
+[a] Slope or intercept is not significantly different from one or zero, respectively (two-tailed Student t test, α = 0.05). 
+Table 4. Statistical parameters of agreement between observed and modeled transmitted shortwave radiation (TRs), 
+transmitted photosynthetically active radiation (TPAR), reflected shortwave radiation (RRs), reflected 
+photosynthetically active radiation (RPAR), and total net radiation (Rn) for upland cotton. 
+  
+TRs 
+TPAR 
+RRs 
+RPAR 
+Rn 
+  
+W m-2 
+μmol m-2 s-1 
+W m-2 
+μmol m-2 s-1 
+W m-2 
+n 
+319 
+319 
+349 
+1273 
+1273 
+mean Obs 
+356.7 
+601.0 
+145.3 
+101.1 
+582.1 
+mean Pred 
+351.3 
+606.8 
+145.3 
+100.0 
+508.4 
+Slope 
+0.756 
+0.952[a] 
+0.977[a] 
+1.047 
+0.995[a] 
+Intercept 
+81.6 
+34.5 
+3.4[a] 
+-5.9 
+-71.1 
+r2 
+0.732 
+0.754 
+0.910 
+0.814 
+0.946 
+RMSE 
+64.5 
+97.6 
+7.2 
+22.2 
+79.4 
+Bias 
+-5.5 
+5.8 
+0.0 
+-1.1 
+-73.7 
+D 
+0.722 
+0.757 
+0.837 
+0.775 
+0.664 
+ε 
+0.470 
+0.470 
+0.675 
+0.518 
+0.273 
+MAE 
+55.3 
+75.5 
+6.2 
+15.9 
+74.0 
+RMSE/Ōobs 
+18% 
+16% 
+5% 
+22% 
+14% 
+[a] Slope or intercept is not significantly different from one or zero, respectively (two-tailed Student t test, α = 0.05). 
+Table 2. Statistical parameters of agreement between observed and modeled transmitted shortwave radiation (TRs), 
+transmitted photosynthetically active radiation (TPAR), reflected shortwave radiation (RRs), reflected 
+photosynthetically active radiation (RPAR), and total net radiation (Rn) for grain corn. 
+  
+TRs 
+TPAR 
+RRs 
+RPAR 
+Rn 
+  
+W m-2 
+μmol m-2 s-1 
+W m-2 
+μmol m-2 s-1 
+W m-2 
+n 
+545 
+545 
+392 
+392 
+476 
+mean Obs 
+285.1 
+382.6 
+147.3 
+90.6 
+519.2 
+mean Pred 
+268.4 
+382.5 
+152.1 
+71.0 
+568.9 
+Slope 
+0.905 
+1.006[a] 
+0.774 
+1.036[a] 
+1.063 
+Intercept 
+10.5 
+-2.4[a] 
+38.2 
+-22.9 
+17.3 
+r2 
+0.916 
+0.958 
+0.789 
+0.878 
+0.956 
+RMSE 
+64.2 
+89.5 
+9.9 
+26.8 
+55.2 
+Bias 
+-16.7 
+0.0 
+4.9 
+-19.6 
+49.8 
+D 
+0.863 
+0.899 
+0.709 
+0.730 
+0.729 
+ε 
+0.736 
+0.797 
+0.418 
+0.327 
+0.389 
+MAE 
+46.2 
+67.4 
+8.5 
+21.9 
+49.8 
+RMSE/Ōobs 
+23% 
+23% 
+7% 
+30% 
+11% 
+[a] Slope or intercept is not significantly different from one or zero, respectively (two-tailed Student t test, α = 0.05). 
+ 
+  Wetting Front  ■  June 2008                                                                                                                                                              17 
+ 
+Grain Corn 
+Grain Sorghum 
+Upland Cotton 
+y = 0.905x + 10.504
+R2 = 0.916
+0
+200
+400
+600
+800
+1000
+0
+200
+400
+600
+800
+1000
+Observed Transmitted Rs (W m-2)
+Modeled Transmitted Rs (W m-2)
+ 
+y = 0.955x + 42.564
+R2 = 0.870
+0
+100
+200
+300
+400
+500
+600
+700
+800
+0
+100
+200
+300
+400
+500
+600
+700
+800
+Observed Transmitted Rs (W m-2)
+Modeled Transmitted Rs (W m-2)
+ 
+y = 0.756x + 81.641
+R2 = 0.732
+0
+100
+200
+300
+400
+500
+600
+700
+800
+0
+100
+200
+300
+400
+500
+600
+700
+800
+Observed Transmitted Rs (W m-2)
+Modeled Transmitted Rs (W m-2)
+ 
+y = 1.006x - 2.379
+R2 = 0.958
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+Observed Transmitted PAR (µmol m-2 s-1)
+Modeled Transmitted PAR (µmol m
+-2 s-1)
+ 
+y = 1.000x + 27.359
+R2 = 0.923
+0
+200
+400
+600
+800
+1000
+1200
+1400
+0
+200
+400
+600
+800
+1000
+1200
+1400
+Observed Transmitted PAR (µmol m-2 s-1)
+Modeled Transmitted PAR (µmol m
+-2 s-1)
+ 
+y = 0.952x + 34.512
+R2 = 0.754
+0
+200
+400
+600
+800
+1000
+1200
+0
+200
+400
+600
+800
+1000
+1200
+Observed Transmitted PAR (µmol m-2 s-1)
+Modeled Transmitted PAR (µmol m
+-2 s-1)
+ 
+y = 0.774x + 38.186
+R2 = 0.789
+0
+50
+100
+150
+200
+250
+0
+50
+100
+150
+200
+250
+Observed Reflected Rs (W m-2)
+Modeled Reflected Rs (W m-2)
+ 
+y = 0.677x + 39.647
+R2 = 0.746
+0
+50
+100
+150
+200
+250
+0
+50
+100
+150
+200
+250
+Observed Reflected Rs (W m-2)
+Modeled Reflected Rs (W m-2)
+ 
+y = 0.977x + 3.387
+R2 = 0.910
+0
+50
+100
+150
+200
+250
+0
+50
+100
+150
+200
+250
+Observed Reflected Rs (W m-2)
+Modeled Reflected Rs (W m-2)
+ 
+y = 1.036x - 22.909
+R2 = 0.878
+0
+50
+100
+150
+200
+250
+300
+0
+50
+100
+150
+200
+250
+300
+Observed Reflected PAR (µmol m-2 s-1)
+Modeled Reflected PAR (µmol m-2 s-1)
+ 
+y = 0.8978x + 2.7692
+R2 = 0.8294
+0
+30
+60
+90
+120
+150
+0
+30
+60
+90
+120
+150
+Observed Reflected PAR (µmol m-2 s-1)
+Modeled Reflected PAR (µmol m-2 s-1)
+ 
+y = 1.0467x - 5.8664
+R2 = 0.8137
+0
+50
+100
+150
+200
+250
+300
+0
+50
+100
+150
+200
+250
+300
+Observed Reflected PAR (µmol m-2 s-1)
+Modeled Reflected PAR (µmol m-2 s-1)
+ 
+y = 1.063x + 17.288
+R2 = 0.956
+0
+200
+400
+600
+800
+0
+200
+400
+600
+800
+Observed total net radiation (W m-2)
+Modeled total net radiation (W m-2)
+ 
+y = 0.983x + 44.599
+R2 = 0.840
+0
+200
+400
+600
+800
+0
+200
+400
+600
+800
+Observed total net radiation (W m-2)
+Modeled total net radiation (W m-2)
+ 
+y = 0.995x - 71.074
+R2 = 0.946
+0
+200
+400
+600
+800
+1000
+0
+200
+400
+600
+800
+1000
+Observed total net radiation (W m-2)
+Modeled total net radiation (W m-2)
+ 
+Figure 1. Predicted vs. observed parameters for grain corn, grain sorghum, and upland cotton (see Tables 2, 3, and 4 
+for additional statistical parameters of agreement). 
+Return To Index Page 
+ 
+  18                                                                                                                                                            Wetting Front   ■  June 2008 
+Louis Baumhardt attended the 
+statewide “Oklahoma No-Till 
+Conference” for an invited 
+presentation of research results 
+on “Integrated crop-livestock 
+production and tillage effects on 
+crop yields”, Oklahoma City; 
+February 11 and 12, 2008. 
+ 
+From February 2-15, 2008, 
+Research Soil Scientist Steve Evett traveled to Jordan to work 
+with partners in the National Centre for Agricultural Research 
+and Extension, the counterpart of USDA-ARS. A large (2.4 by 
+3.0 by 2.5-m deep, 40-ton) weighing lysimeter was completed, 
+calibrated and commissioned for service to determine crop 
+water use and crop coefficients for irrigation scheduling in the 
+Jordan Valley, where >80% of Jordanian irrigated agriculture 
+exists. The weighing lysimeter is a key part of infrastructure 
+for the Middle Eastern Regional Irrigation Management 
+Information Systems project, a quadrilateral project managed 
+by USDA-OIRP with research partners, weather stations, and 
+irrigation trials in Israel, Jordan and Palestine and with USDA-
+ARS partners at Bushland, Texas, and Fresno, California. The 
+first crop for the lysimeter will be sweet corn, a high value 
+crop in the Jordan Valley, which will be planted in April. 
+Training on lysimeter operation, planning and conduct of field 
+experiments, and analysis of lysimeter and weather data to 
+complete knowledge of crop water use and irrigation 
+scheduling coefficients was planned for the trip, but was 
+postponed to a later time due to poor weather, equipment that 
+was broken in shipping and the subsequent slippage in 
+scheduling required to overcome these obstacles. Still, the 
+completion of the $65,000.00 lysimeter after a multi-year 
+effort is a major milestone on the road to more efficient 
+utilization of water in irrigated agriculture of the region. 
+ 
+José L. Chávez, Paul Colaizzi, Prasanna Gowda and Susan 
+O’Shaughness welcomed students at a booth set up for the 
+West Texas A&M University Spring Career Fair, February 28, 
+2008, West Texas A& M University campus, Canyon, TX. 
+ 
+Susan O’Shaughnessy led: In-House Training with Karen 
+Copeland, Brice Ruthardt, and Chad Ford on Basic 
+Electronics- Theory and Hands on Applications on March 17-
+20, 2008 at Bushland, TX. 
+ 
+Paul Colaizzi led presented information to the Panhandle 
+Groundwater Conservation District in White Deer, TX on Mar 
+26, 2008 on Cotton performance with Spray, LEPA and 
+subsurface drip irrigation. 
+ 
+Steve Evett led the Radiation Safety Training for neutron soil 
+water meters and Hazardous Materials Transport Training for 
+Radioactive Materials on June 3, 2008 at Bushland, Texas for 
+23 persons from ARS and partnering agencies in Texas, 
+Oklahoma and North Carolina.  
+ 
+On June 4, 2008, Kevin Welch of the Amarillo Globe News 
+newspaper was hosted by Steve Evett for a tour of the 
+Bushland Evapotranspiration and Agricultural Remote Sensing 
+Experiment 2008 (BEAREX08) field research activities. This 
+resulted in an article “Measuring Water: Project aims to reduce 
+use of aquifer by farms’ crops” by Mr. Welch in the Amarillo 
+Globe News on Tuesday, June 10, 2008, page 6D. 
+ 
+June 16, 2008, USDA Radio News interviewed Steve Evett 
+about automated irrigation systems using infrared temperature 
+sensors. Steve discussed the development of the automation 
+system, first for drip irrigation and now for center pivot 
+irrigation, and he pointed out that earlier research proved that 
+the system works and developed the underlying theory and 
+methods. System development is now focused on engineering 
+robustness by including weather and soil water sensors and 
+developing control code to produce as reliable a system as 
+possible. 
+Check it out: Texas High Plains ET Network  
+http://txhighplainset.tamu.edu/ 
+Return To Index Page 
+ 
+  Wetting Front  ■  June 2008                                                                                                                                                              19 
+Terry Howell, José Chávez, and Susan O’Shaughnessy attended 
+the 28th Annual International Irrigation Show 
+December 9-11, 2007 in San Diego, CA.  José Chávez presented 
+the paper “Evaluating Three Evapotranspiration Mapping Algo-
+rithms with Lysimetric Data in the Semi-arid Texas High Plains”; 
+Terry Howell presented “Is Irrigation Real or Am I Imagining 
+It?”; Freddie Lamm with Terry Howell and James Bordovosky 
+presented “Ensuring Equal Opportunity Sprinkler Irrigation”; 
+Robert Lascano with Steve Evett presented “Experimental Verifi-
+cation of a Recursive Method to Calculate Evapotranspiration”; 
+Giovanni Piccinni with Jonghan Ko, Amy Wentz, Daniel 
+Leskovar, Terry Howell, and Thomas Marek presented 
+“Determination of Crop Coeffi-
+cients (Kc) For Irrigation Manage-
+ment of Crops”; and Susan 
+O’Shaughnessy presented “IRT 
+Wireless Interface for Automatic 
+Irrigation Scheduling of a Center 
+Pivot System”. 
+ 
+Susan O’Shaughnessy, Terry How-
+ell, Paul Colaizzi, Louis Baum-
+hardt, Brice Ruthardt, Ed Hutcher-
+son, Jim Cresap, Chad Ford, Don 
+McRoberts, and Jennifer Childers 
+attended the Texas North High 
+Plains Conference, January 16, 
+2008, Amarillo, TX. 
+ 
+R. Louis Baumhardt was an invited speaker for the No-Till Okla-
+homa Conference and presented a paper entitled “Integrating Cat-
+tle Grazing into the Dryland Wheat-Sorghum-Fallow Rotation”.  
+The conference dates were February 10–12, 2008 , Oklahoma 
+City, OK. 
+ 
+Susan O’Shaughnessy attended the Central Plains Irrigation Short 
+Course and Exposition, February 19–20, 2008, in Greeley, CO. 
+ 
+Terry Howell and Carole Perryman attended the 2008 SPA Lead-
+ership Conference in Galveston, TX., February 20–21, 2008. 
+ 
+Paul Colaizzi attended the EWRI Leadership Council Weekend 
+February 23-24, 2008 in Los Angeles, CA. 
+On March 3–6, 2008, Prasanna Gowda attended a CR1000/
+Loggernet Training in Logan, UT. 
+ 
+The Ogallala Aquifer Program Workshop was held in Amarillo, 
+TX. on March 11-13, 2008. All SWMRU scientists participated. 
+ 
+Terry Howell and R. Nolan Clark attended the Calera Aquifer 
+Workshop on March 17–19, 2008, in Zacatecas, Mexico.  
+ 
+Louis Baumhardt attended the 38th Biological Systems Simula-
+tion Group Conference April 8-10, 2008, in Temple, TX. and 
+presented a paper on “Simulating the effects of growing season 
+length and irrigation practices on cotton growth and yield”.  
+ 
+José Chávez participated in the Open Path Gas Analyzer Eddy 
+Covariance (OPEC) Training at Campbell Scientific Inc., May 
+12-16, Logan, UT. 
+ 
+Paul Colaizzi, Prasanna Gowda and Terry Howell attended the 
+World Environmental & Water Resources Congress ’08, May 
+12-16, Honolulu, HI. Prasanna Gowda presented “Comparing 
+SEBAL ET with Lysimeter Data in the Semi-Arid Texas High 
+Plains”; Terry Howell presented 
+“Evapotranspiration of Corn and For-
+age Sorghum for Silage”; and Thomas 
+Marek presented with Dana Porter, 
+Terry Howell, Prasanna Gowda, Paul 
+Colaizzi, Steve Amosson, and Fran 
+Bretz “Cotton Production Potential 
+and Water Conservation Impact using 
+the Regional Irrigation Demand 
+Model of Northern Texas”. Paul Co-
+laizzi chaired On-Farm Irrigation Sys-
+tems Committee attended Task Com-
+mittee on Putting Irrigated Agriculture 
+in Perspective, and Presented paper 
+“A review of evolving critical priori-
+ties in irrigated agriculture.” 
+ 
+Terry Howell attended the Consortium for Irrigation Research 
+and Education (CIRE) Annual Meeting, May 21-22, 2008, 
+Uvalde, TX. 
+ 
+Prasanna Gowda attended the ARS Congressional Briefing Con-
+ference in Washington, D.C. on June 2-5, 2008.  
+ 
+On June 11-12, 2008, Steve Evett attended the Information 
+Technology Steering Committee meeting at Beltsville, Mary-
+land. The committee provides review and guid-
+ance to the Office of the Chief Information Offi-
+cer for ARS. 
+Return To Index Page 
+ 
+  20                                                                                                                                                            Wetting Front   ■  June 2008 
+On September 2, 2008, Steve Evett plans to begin work at the Northwest 
+Irrigation and Soils Research Laboratory, Kimberly, Idaho as Research 
+Leader. Steve expects to continue strong collaborations with the Bush-
+land research team, particularly since there are many parallel problems in 
+irrigated agriculture being tackled by the two laboratories. This is a 
+chance for Steve to assume a leadership role in ARS and to return to 
+Southern Idaho where he was raised. Steve's e-mail address remains the 
+same: Steve.Evett@ars.usda.gov. The main office number at USDA-
+ARS, Kimberly is 208-423-5582. 
+“We want everyone to know that we do not make this move lightly, particularly in light of the strong friendships that we have in 
+the Amarillo area. There are a lot of pluses along with the minuses associated with leaving our Bushland family. In particular, we 
+are excited to join the great ARS team at Kimberly and the Kimberly community and schools. Over the years there has been strong 
+collaboration between the Bushland and Kimberly ARS teams, and I expect that this will only be reinforced by our move. Priscilla 
+Sheets, my wife, will teach 5th grade at the Kimberly elementary school and Matthew, our son, will continue his education at the 
+University of Colorado, Boulder. We want to express our sincere gratitude for all the friendships, collaborations, adventures and 
+support that we experienced during the past 18 years in the Texas Panhandle as part of the Amarillo and Bushland communities 
+and the great ARS team at Bushland. Anytime you all are in Southern Idaho, please look us up. We will be very glad to see you.” 
+Congratulations Go To: 
+ 
+Dr. R. Louis Baumhardt recognized as one of 
+four outstanding Associate Editors by the Soil 
+Science Society of America Journal for 2007.  
+[\ 
+Authors listed in the following paper will be 
+receiving an ASABE Superior Paper Award at 
+the ASABE Annual International Meeting, 
+June 29 to July 2, 2008 in Providence, RI:   
+Enciso-Medina, J. M., P. D. Colaizzi, W. L. 
+Multer, and C. R. Stichler. 2007. Cotton re-
+sponse to phosphorus fertigation using subsur-
+face drip irrigation. Applied Engineering Agri-
+culture. 23(3): 299-304. 
+[\ 
+Dr. Steve Evett has been selected as a Fellow 
+of the Soil Science Society of America. He 
+will receive the award at the Annual Interna-
+tional Meetings in October at Houston, TX. 
+[\ 
+Jourdan Bell, Biological Science Technician 
+recently completed a year at Texas A&M Uni-
+versity in College Station, Texas for advanced 
+training towards a Ph.D. in Soil Physics. 
+[\ 
+Jennifer Childers, Biological Science Techni-
+cian, and husband, Casey, welcomed the arri-
+val of Garrett Lee Childers, born on 6/5/2008. 
+[\ 
+Check out a feature story  
+Measuring water Project aims to reduce use of aquifer by farms' crops 
+In Amarillo Globe News, June 10, 2008, at  
+http://www.amarillo.com/stories/061008/bus_10471335.shtml 
+A retirement luncheon 
+was held May 30th 
+recognizing 20 years 
+of Federal Service by 
+Carole Perryman, 
+Program Assistant for 
+the Soil and Water 
+Management Research 
+Unit (SWMRU). 
+Photo Courtesy Kevin Welch / Amarillo Globe-News 
+Paul Colaizzi, agricultural engineer at the Agricultural Research Service Labo-
+ratory at Bushland, holds one of the devices researchers are putting in place in 
+the lab's fields to measure water usage by cotton plants. 
+Return To Index Page 
+SOIL AND WATER MANAGEMENT RESEARCH UNIT 
+2008 Summer Seminar Series 
+CPRL Conference Room at 3:30 pm on Thursday 
+ 
+June 26 Radiation Transmission Through Row Crop Canopies:  
+ 
+A Submodel for the Two-Source Energy Balance (TSEB) Model 
+ 
+by Paul Colaizzi  
+July 3 
+ASABE Meeting 
+July 10  Assessing Crop Evapotranspiration from Point to Regional Scale 
+ 
+in the Texas High Plains by Prasanna Gowda 
+July 17 
+CSREES 202/ASCE ET 
+July 24 
+Treating and Recycling Animal Wastewater for Irrigation Re-Use 
+ 
+by Susan O’Shaughnessy 
+TBA 
+Mineraology of the Pullman Soil by Jourdan Bell 
+ 
+  Wetting Front  ■  June 2008                                                                                                                                                              21 
+Hello everybody! My name is Jairo 
+Hernandez, and I joined the Soil and 
+Water Management Research Unit in the 
+USDA-ARS Conservation and 
+Production Research Laboratory (CPRL), 
+Bushland, TX as a post-doctoral 
+researcher for Dr. Prasanna Gowda this 
+May. My main research interests include 
+groundwater modeling, ET remote 
+sensing, and the application of artificial 
+intelligence in water resources 
+management. Currently I am involved in 
+modeling of a 4-county area in the Texas 
+Panhandle using the MODFLOW and ET 
+remote sensing. This research is a part of 
+the larger project titled “Impacts of 
+alternative water policies on rural 
+economies and aquifer hydrology” 
+funded by the Ogallala Research 
+Initiative.  
+ 
+I am a Ph.D. graduate from Utah State 
+University (USU) in the Biological and 
+Irrigation Engineering Department 
+specializing in irrigation engineering. I 
+graduated in spring of 2008 and my 
+dissertation’s title was “Canal Structure 
+Automation Rules Using a Hydraulic 
+Simulation Model, an Accuracy-based 
+Learning Classifier System, and Genetic 
+Algorithms.” Also, I have a M.S. degree 
+in Water Resources and a B.S. degree in 
+Civil Engineering from “Nacional de 
+Colombia” University and “La Gran 
+Colombia” University, respectively.  
+ 
+I have more than twenty years of 
+experience in hydrology and hydraulics, and I have worked for both private and public agencies in Bogota, Colombia before I 
+moved to the USU to join the Ph.D. program under Dr. Gary Merkley. At USU, I worked in the Remote Sensing Services 
+Laboratory as a graduate research associate and participated in developing a Geographic Information System (GIS) layers for 
+irrigation management in the Dominican Republic. Finally, before starting with the USDA-ARS, I held a research assistant 
+position at the USU Geomorphology Laboratory using remote sensing and GIS for monitoring sediment storage throughout river 
+main channels, and mentored graduate students, too. I love computer programming, and I am proficient in Visual Basic, C++ and 
+C#.  I am very pleased to be a part of the magnificent research team at CPRL. 
+With the cost of gas soaring, a group of employees at the Conservation and Produc-
+tion Research Laboratory recently invested in a used vehicle that was previously used 
+by an adult daycare center. The “Bushland Express” is offered to fellow employees 
+for a small fee. The route is approximately 50 miles round-trip. 
+The Conservation and Production Research Laboratory employees 
+have taken on the challenge of recycling materials used daily 
+around the office. A trailer was purchased to transport cardboard to 
+the recycling center. All boxes have to be completely flattened so 
+that the recycler (Allied Waste) will accept the cardboard. 
+Return To Index Page 
+ 
+  22                                                                                                                                                            Wetting Front   ■  June 2008 
+Agam, N., Kustas, W.P., Anderson, M. C., Li, F., and Colaizzi, P. 
+D.  2007.  Utility of thermal sharpening over Texas High Plains 
+irrigated agricultural fields.  Journal of Geophysical Research 
+Atmospheres.  112(D19110) doi: 10.1029/2007JD008407.   
+Balkcom, K.S., Schomberg, H.H., Reeves, D.W., Clark, A., 
+Baumhardt, R.L., Collins, H.P., Delgado, J.A., Kaspar, T.C., Mitchell, 
+J., Duiker, S. 2007. Managing Cover Crops in Conservation Tillage 
+Systems. In: Clark, A. Managing Cover Crops Profitability. 3rd edition. 
+Handbook Series Book 9. Sustainable Agriculture Network. p. 44-61.  
+Baumhardt, R.L., Staggenborg, S.A., Gowda, P., Colaizzi, P.D., 
+and Howell, T.A. 2007. Evaluating irrigation management strategies to 
+maximize cotton yield and water use efficiency: A simulation analysis 
+[abstract]. ASA-CSSA-SSSA Annual Meeting, November 4-8, 2007, 
+New Orleans, Louisiana. 2007 CDROM 
+Baumhardt, R.L., Staggenborg, S., Gowda, P., Colaizzi, P.D., 
+and Howell, T.A. 2008. Simulating the effects of growing season length 
+and irrigation practices on cotton growth and yield [abstract]. 38th 
+Biological Systems Simulation Conference, April 8-10, 2008, Temple, 
+Texas. p. 20-21.   
+Baumhardt, R.L. 2007. Adapting the dryland wheat-sorghum 
+fallow rotation for use with dryland and deficit irrigated cotton. 10th 
+Annual National Conservation Systems Cotton and Rice Conference, 
+January 29-30, 2007, Houston, Texas. p. 5-7.  
+Baumhardt, R.L., Jones, O.R., and Schwartz, R.C. 2008. Long-
+Term Effects of Profile-Modifying Deep Plowing on Soil Properties and 
+Crop Yield. Soil Sci. Soc. Am. J. 72: 677-682. 
+Chávez Eguez, J.L., Gowda, P., Howell, T.A., and Copeland, 
+K.S. 2007. Evaluating three evapotranspiration mapping algorithms 
+with lysimetric data in the semi-arid Texas High Plains. In: Proceedings 
+of the 28th Annual International Irrigation Show, December 9-11, 2007, 
+San Diego, California. p. 268-283. 2007 CDROM.   
+Chávez Eguez, J.L., Gowda, P., Howell, T.A., and Copeland, 
+K.S. 2007. An aerodynamic temperature-based regional ET model 
+evaluation for Texas High Plains agrometeorological conditions 
+[abstract]. ASA-CSSA-SSSA Annual Meeting, November 4-8, 2007, 
+New Orleans, Louisiana. 2007 CDROM.  
+Colaizzi, P.D., Bliesner, R.D. and Hardy, L.A. 2008.  A review of 
+evolving critical priorities for irrigated agriculture.  In: Proceedings of 
+the Environmental and Water Resources Institute World Congress, May 
+12-16, 2008, Honolulu, Hawaii. 2008 CDROM. 
+Colaizzi, P.D., Gowda, P.H., Marek, T.H. and Porter, D.O. 2008. 
+Irrigation in the Texas High Plains: A brief history and potential 
+reductions in demand. Irrig. and Drain. DOI: 10.1002/ird.418. 
+Colaizzi, P.D., Evett, S.R., Howell, T.A., Schwartz, R.C., Tolk, 
+J.A., Gowda, P., and Chávez Eguez, J.L. 2007. Evaluation of radiati 
+A., on partitioning models at Bushland, Texas [abstract]. ASA-CSSA-
+SSSA Annual Meeting, November 4-8, 2007, New Orleans, Louisiana. 
+2007 CDROM. 
+Colaizzi, P.D., Evett, S.R., Howell, T.A., Schwartz, R.C., Tolk, 
+J.A., Gowda, P., Chávez Eguez, J.L. 2007. Evaluation of radiati A., on 
+partitioning models at Bushland, Texas [abstract]. ASA-CSSA-SSSA 
+Annual Meeting, November 4-8, 2007, New Orleans, Louisiana. 2007 
+CDROM.   
+Evett, S.R. 2008. Gravimetric and volumetric direct measurement 
+of soil water content.   In: Evett, S.R., Heng, L.K., Moutonnet, P., 
+Nguyen, M.L., editors. Field Estimation of Soil Water Content: A 
+Practical Guide to Methods, Instrumentation, and Sensor Technology. 
+IAEA-TCS-30. International Atomic Energy Agency, Vienna, Austria. 
+ISSN 1018-5518. p. 23-37. CHAPTER 2 
+Evett, S.R. 2008. Neutron moisture meters. In: Evett, S.R., Heng, 
+L.K., Moutonnet, P., Nguyen, M.L., editors. Field Estimation of Soil 
+Water Content: A Practical Guide to Methods, Instrumentation, and 
+Sensor Technology. IAEA-TCS-30. International Atomic Energy 
+Agency, Vienna, Austria. ISSN 1018-5518. p. 39-54. CHAPTER 3  
+Evett, S.R. and Heng, L,K. 2008. Conventional time domain 
+reflectometry systems. In: Evett, S.R., Heng, L.K., Moutonnet, P., 
+Nguyen, M.L., editors. Field Estimation of Soil Water Content: A 
+Practical Guide to Methods, Instrumentation, and Sensor Technology. 
+IAEA-TCS-30. International Atomic Energy Agency, Vienna, Austria. 
+ISSN 1018-5518. p. 55-72. CHAPTER 4  
+Evett, S.R. and Cepuder, P. 2008. Capacitance sensors for use in 
+access tubes.  In: Evett, S.R., Heng, L.K., Moutonnet, P., Nguyen, M.L., 
+editors. Field Estimation of Soil Water Content: A Practical Guide to 
+Methods, Instrumentation, and Sensor Technology. IAEA-TCS-30. 
+International Atomic Energy Agency, Vienna, Austria. ISSN 1018-
+5518. p. 73-90.  CHAPTER 5  
+Evett, S.R., Heng, L.K., Moutonnet, P., Nguyen, M.L. 2008. Field 
+Estimation of Soil Water Content: A Practical Guide to Methods, 
+Instrumentation and Sensor Technology. IAEA-TCS-30. International 
+Atomic Energy Agency, Vienna, Austria. ISSN 1018-5518. 131 p.   
+Farahani, H.J., Howell, T.A., Shuttleworth, W.J., Bausch, W.C. 
+2007. Evapotranspiration: Progress in measurement and modeling in 
+agriculture. Transactions of the ASABE. 50(5):1627-1638.   
+Gowda, P., Chávez Eguez, J.L., Howell, T.A., Scanlon, B.R., 
+Neale, C.M., French, A.N., Colaizzi, P.D., and Evett, S.R. 2007. 
+Bushland Evapotranspiration and Agricultural Remote Sensing 
+EXperiment 2007 (BEAREX07) [abstract]. ASA-CSSA-SSSA Annual 
+Meeting, November 4-8, 2007, New Orleans, Louisiana. 2007 CDROM.  
+Gowda, P.H., Mulla, D.J. and Jaynes, D.B. 2008. Modeling impact 
+of timing and amount of nitrogen fertilizer on water quality for an 
+Iowan agricultural watershed. Agricultural Water Management, 
+doi:10.1016/j.agwat.2008.01.004. 
+ Gowda, P. 2007. Book Review of 'Calibration and reliability in 
+groundwater modeling: From uncertainty to decision making' by 
+Howell, T. Agricultural Water Management. 93(3):153-154. Available: 
+doi:10.1016/j.agwat.2007.07.005.   
+Gowda, P.H. 2007. Book Review of "M. F. P. Bierkens, J. C. 
+Gehrels, and K. Kovar (eds).  Calibration and Reliability in 
+Groundwater Modeling: From Uncertainty to Decision Making, Intl. 
+Assoc. of Hydrological Sci. IAHS Press Inc., Wallingford, Oxfordshire 
+OX10 8BB, UK, (Paper Binding £59.00).  pp. 316.  ISBN 1-901-502-
+58-9. Journal of Agricultural Water Management, 93: 153-154. 
+Gowda, P., Mulla, D.J., Jaynes, D.B. 2008. Simulated long-term 
+nitrogen losses for a midwestern agricultural watershed in the United 
+States. Agricultural Water Management. 95:616-624.   
+Gowda, P., Chávez Eguez, J.L., Colaizzi, P.D., Evett, S.R., 
+(Continued on page 23) 
+ 
+  Wetting Front  ■  June 2008                                                                                                                                                              23 
+Howell, T.A., Tolk, J.A. 2007. Remote sensing based energy balance 
+algorithms for mapping ET: Current status and future challenges. 
+Transactions of the ASABE. 50(5):1639-1644.   
+Gowda, P., Howell, T.A., Scanlon, B.R., Copeland, K.S., Bush, 
+K.A. 2007. Preliminary evaluation of sensible heat flux measurements 
+from a large aperture scintillometer using lysimetric data [abstract]. 
+American Geophysical Union Fall Meeting, December 10-14, 2007, San 
+Francisco, California. 2007 CDROM.   
+Gowda, P.H., Chávez, J.L., Colaizzi, P.D., Evett, S.R., Howell, 
+T.A., Tolk, J.A. 2007. ET mapping for agricultural water management: 
+present status and challenges. Irrigation Science. 26(3):223-237. 
+Available: DOI:10.1007/s00271-007-0088-6.  Log No. 210012  
+(published online 2007/publication 2008) 
+Gowda, P., Chávez Eguez, J.L., Howell, T.A., Scanlon, B.R., 
+Neale, C.M., French, A.N., Colaizzi, P.D., Evett, S.R. 2007. Bushland 
+Evapotranspiration and Agricultural Remote Sensing EXperiment 2007 
+(BEAREX07) [abstract]. ASA-CSSA-SSSA Annual Meeting, 
+November 4-8, 2007, New Orleans, Louisiana. 2007 CDROM.   
+Gowda, P., Baumhardt, R.L., Esparza, A.M., Marek, T., Howell, 
+T.A. 2007. Suitability of cotton as an alternative crop in the Ogallala 
+Aquifer Region. Agronomy Journal. 99:1397-1403.   
+Gowda, P. 2007. Book Review of 'Calibration and reliability in 
+groundwater modeling: From uncertainty to decision making' by 
+Howell, T. Agricultural Water Management. 93(3):153-154. Available: 
+doi:10.1016/j.agwat.2007.07.005.  
+Gowda, P., Chávez Eguez, J.L., Colaizzi, P.D., Evett, S.R., 
+Howell, T.A., Tolk, J.A. 2007. Remote sensing based energy balance 
+algorithms for mapping ET: Current status and future challenges. 
+Transactions of the ASABE. 50(5):1639-1644.   
+Gowda, P., Baumhardt, R.L., Howell, T.A., Marek, T.H. 2008. 
+Planting date forecast for cotton using minimum and maximum air 
+temperature [abstract]. 38th Biological Systems Simulation Conference, 
+April 8-10, 2008, Temple,Texas. p. 50-51.   
+Heng, L.K. and Evett, S.R. 2008. Tensiometers.  In: Evett, S.R., 
+Heng, L.K., Moutonnet, P., Nguyen, M.L., editors. Field Estimation of 
+Soil Water Content: A Practical Guide to Methods, Instrumentation, and 
+Sensor Technology. IAEA-TCS-30. International Atomic Energy 
+Agency, Vienna, Austria. ISSN 1018-5518. p. 113-121. CHAPTER 8    
+Heng, L.K., and Evett, S.R. Tensiometers. 2008. Chapter 8 In S.R. 
+Evett, L.K. Heng, P. Moutonnet and M.L. Nguyen (eds.) Field 
+Estimation of Soil Water Content: A Practical Guide to Methods, 
+Instrumentation, and Sensor Technology. IAEA-TCS-30. International 
+Atomic Energy Agency, Vienna, Austria. ISSN 1018-5518.  
+Hignett, C., and Evett, S.R. 2008. Direct and Surrogate Measures 
+of Soil Water Content. In S.R. Evett, L.K. Heng, P. Moutonnet and 
+M.L. Nguyen (eds.) Field Estimation of Soil Water Content: A Practical 
+Guide to Methods, Instrumentation, and Sensor Technology. IAEA-
+TCS-30. International Atomic Energy Agency, Vienna, Austria. ISSN 
+1018-5518. p. 1-22 CHAPTER 1  
+Hignett, C., and Evett, S.R. 2008. Electrical Resistance Sensors for 
+Soil Water Tension Estimates. Chapter 9 In S.R. Evett, L.K. Heng, P. 
+Moutonnet and M.L. Nguyen (eds.) Field Estimation of Soil Water 
+Content: A Practical Guide to Methods, Instrumentation, and Sensor 
+Technology. IAEA-TCS-30. International Atomic Energy Agency, 
+Vienna, Austria. ISSN 1018-5518. p. 123-129. CHAPTER 9 
+Howell, T.A., Tolk, J.A., Evett, S.R., and Copeland, K.S. 2007. 
+Hourly and daily evapotranspiration of alfalfa under regional advection 
+[abstract]. ASA-CSSA-SSSA Annual Meeting, November 4-8, 2007, 
+New Orleans, Louisiana. 2007 CDROM.  
+Howell, T.A., Tolk, J.A., Evett, S.R., Copeland, K.S., Dusek, 
+D.A. 2007. Evapotranspiration of deficit irrigated sorghum and winter 
+wheat. In: Clemmens, A.J., editor. USCID Fourth International 
+Conference on Irrigation and Drainage. The Role of Irrigation and 
+Drainage in a Sustainable Future, October 3-6, 2007, Sacramento, 
+California. p. 223-239. 
+ Howell, T.A., Lamm, F. 2007. Is irrigation real or am I imagining 
+it?. In: Proceedings of the 28th Annual International Irrigation Show, 
+December 9-11, 2007, San Diego, California. p. 284-291. 2007 
+CDROM.   
+Lamm, F.R., Howell, T.A., Bordovsky, J.P. 2007. Ensuring equal 
+opportunity sprinkler irrigation. In: Proceedings of the 28th Annual 
+International Irrigation Show, December 9-11, 2007, San Diego, 
+California. p 147-153. 2007 CDROM.   
+Lascano, R.J. and Evett, S.R. 2007. Experimental verification of a 
+recursive method to calculate evapotranspiration. In: Proceedings of the 
+28th Annual International Irrigation Show, December 9-11, 2007, San 
+Diego, California. p 687-705. 2007 CDROM.   
+Laurent, J.P., and Evett, S.R. 2008. TRIME® FM3 Moisture 
+Meter & T3 Access Tube Probe. In S.R. Evett, L.K. Heng, P. 
+Moutonnet and M.L. Nguyen (eds.) Field Estimation of Soil Water 
+Content: A Practical Guide to Methods, Instrumentation, and Sensor 
+Technology. IAEA-TCS-30. International Atomic Energy Agency, 
+Vienna, Austria. ISSN 1018-5518. p. 91-100. CHAPTER 6 
+Mulla, D.J., Nanagia, V., and Gowda, P. 2007. Complexity in 
+watershed scale nitrogen export: Effects of changing climate and 
+management [abstract]. ASA-CSSA-SSSA Annual Meeting, November 
+4-8, 2007, New Orleans, Louisiana. 2007 CDROM.  
+Nangia, V., Gowda, P.H., Mulla, D.J., and Sands, G.R. 2008. 
+Water Quality Modeling for Impacts of Fertilizer Management Practices 
+on Nitrate-N losses in Tile Drains at the Field-Scale. Journal of 
+Environmental Quality, 37:296-307. doi:10.2134./jeq2007.0224. 
+O'Shaughnessy, S.A., Song, I., Artiola, J.F., and Choi, C.Y. 2008. 
+Nitrogen loss during solar drying of biosolids. Environmental 
+Technology. 29:55-65.  
+O’Shaughnessy, S.A.,  and Evett, S.R. 2007. IRT wireless 
+interface for automatic irrigation scheduling of a center pivot system. In: 
+Proceedings of the 28th Annual International Irrigation Show, 
+December 9-11, 2007, San Diego, California. P. 176-186. 2007 
+CDROM.   
+Piccinni, G., Ko, J., Wentz, A., Leskovar, D., Marek, T. and 
+Howell, T.A. 2007. Determination of crop coefficients (Kc) for 
+irrigation management of crops. In: Proceedings of the 28th Annual 
+International Irrigation Show, December 9-11, 2007, San Diego, 
+California. p. 706-719. 2007 CDROM.   
+Rowland, D., Piccinni, G., Howell, T.A., Ko, J., Marek, T.H., 
+Faircloth, W.H., and Payton, P.R. and Tissue, D.T. 2007. Irrigation in 
+water restricted regions: Managing water use efficiency with limited 
+available water [abstract]. ASA-CSSA-SSSA Annual Meeting, 
+November 4-8, 2007, New Orleans, Louisiana. 2007 CDROM.  
+Schwartz, R.C., Evett, S.R., and Bell, J.M. 2007. Temperature 
+and frequency dependent time-domain reflectometry water content 
+calibrations in fine-textured soils [abstract]. ASA-CSSA-SSSA Annual 
+Meeting, November 4-8, 2007, New Orleans, Louisiana. 2007 CDROM.   
+Schwartz, R.C., Baumhardt, R.L., and Howell, T.A. 2008. 
+Estimation of soil water balance components using an iterative 
+procedure. Vadose Zone J. 7(1):115-123.  
+Stockle, C.O., Kemanian, A.R., Kremer, C., Howell, T.A. 2007. 
+Water- and radiation-use efficiency models for estimating biomass 
+production [abstract]. ASA-CSSA-SSSA Annual Meeting, November 4-
+8, 2007, New Orleans, Louisiana. 2007 CDROM.   
+Tolk, J.A. and Howell, T.A. 2007. Managing field water supply to 
+increase water use efficiency [abstract]. ASA-CSSA-SSSA Annual 
+Meeting, November 4-8, 2007, New Orleans, Louisiana. 2007 CDROM. 
+Unger, P.W. 2008. Soil water and its management. In: Chesworth, 
+W., editor. Encyclopedia of Soil Science. The Netherlands: Springer 
+Press. p. 707-709.  . 
+ 
+(Continued from page 22) 
+Agricultural
+Research
+Service
+USDA-ARS 
+P.O. Drawer 10 
+Bushland, TX  79012-0010 
+Publication Contact 
+ 
+ 
+The Wetting Front publication is designed to foster technology transfer 
+from our research to industry and to agricultural producers in the 
+Southern High Plains and to improve communications with our 
+stakeholders and partners.  
+ 
+All issues will be sent by email or available on the website 
+www.cprl.ars.usda.gov 
+ 
+If you like to receive each issue by email send your  email address in an 
+email with Subject Line:  Wetting Front to nancy.davis@ars.usda.gov. 
+ 
+For actions or corrections to our email list, contact Ms. Nancy Davis by 
+one of the following: 
+ 
+ 
+fax: 
+(806) 356-5750 
+ 
+email:  
+nancy.davis@ars.usda.gov  
+ 
+phone:  
+(806) 356-5732 
+ 
+mail:  
+USDA-ARS 
+ 
+ 
+P.O. Drawer 10 
+ 
+ 
+Bushland, TX  79012 
+Soil and Water Management 
+Research Unit  
+http://www.cprl.ars.usda.gov  
+RESEARCH STAFF  
+ 
+Dr. Terry A. Howell, P.E. 
+Research Leader (Agric. Engr.) 
+(806) 356-5746 
+terry.howell@ars.usda.gov 
+[\ 
+Dr. R. Nolan Clark 
+Laboratory Director (Agric. Engr.) 
+(806) 356-5734 
+nolan.clark@ars.usda.gov 
+[\ 
+Dr. R. Louis Baumhardt 
+Soil Scientist 
+(806) 356-5766 
+r.louis.baumhardt@ars.usda.gov 
+[\ 
+Dr. José L. Chávez 
+Agricultural Engineer 
+(806) 356-5704 
+jose.chavez@ars.usda.gov 
+[\ 
+Dr. Paul D. Colaizzi 
+Agricultural Engineer 
+(806) 356-5763 
+paul.colaizzi@ars.usda.gov 
+[\ 
+Karen S. Copeland 
+Soil Scientist 
+(806) 356-5735 
+karen.copeland@ars.usda.gov 
+[\ 
+Dr. Steven R. Evett 
+Soil Scientist 
+(806) 356-5775 
+steve.evett@ars.usda.gov 
+[\ 
+Dr. Prasanna Gowda 
+Agricultural Engineer 
+(806) 356-5730 
+prasanna.gowda@ars.usda.gov 
+[\ 
+Dr. Susan O’Shaughnessy 
+ Agricultural Engineer 
+(806) 356-5770 
+susan.oshaughnessy@ars.usda.gov  
+[\ 
+Dr. Robert C. Schwartz 
+Soil Scientist 
+(806) 356-5762 
+robert.schwartz@ars.usda.gov 
+[\ 
+Dr. Judy A. Tolk 
+Plant Physiologist 
+(806) 356-5736 
+judy.tolk@ars.usda.gov 
+[\ 
+Donald A. Dusek 
+Collaborator (Agronomist) 
+(806) 356-5747 
+don.dusek@ars.usda.gov 
+[\ 
+Dr. Paul W. Unger 
+Collaborator (Soil Scientist) 
+(806) 356-5749 
+pwunger@suddenlink.net 
+Wetting Front is published semi-annually and distributed by the USDA-ARS, Conservation and Production 
+Research Laboratory, Soil and Water Management Research Unit, P.O. Drawer 10, Bushland, TX  79012-0010. 
+The mention of trade names of commercial products in this [article] [publication] is solely for the purpose of 
+providing specific information and does not imply recommendation or endorsement by the U.S. Department 
+of Agriculture. 
+The United States Department of Agriculture (USDA) prohibits discrimination in all its programs and activities on 
+the basis of race, color, national origin, gender, religion, age, disability, political beliefs, sexual  orientation, 
+and marital or family status. (Not all prohibited bases apply to all programs.) Persons with disabilities who 
+require alternative means for communication of program information (Braille, large print, audiotape, etc.) 
+should contact USDA’s TARGET Center at 202-720-2600 (voice and TDD). 
+To file a complaint of discrimination, write USDA, Director, Office of Civil Rights, Room 326-W, Whitten 
+Building, 14th and Independence Avenue, SW, Washington, DC 20250-9410 or call 202-720-5964 (voice 
+or TDD). USDA is an equal opportunity provider and employer. 
+Any material in this publication may be freely copied and distributed in part of whole if due credit is given to the 
+authors. 
+ 
+    Editors: Dr. Terry A. Howell, P.E. / Nancy Davis 
+Email: terry.howell@ars.usda.gov /  
+ 
+USDA-ARS 
+ nancy.davis@ars.usda.gov 
+ 
+P.O. Drawer 10 
+Phone: (806)356-5746 / (806)356-5732 
+ 
+Bushland, TX 79012-0010 
+Fax: (806)356-5750 
+ 
+ 
+Shipping: 2300 Experiment Station Road 
+Return To Index Page 
+24 

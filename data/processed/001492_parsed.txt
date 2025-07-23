@@ -1,0 +1,211 @@
+1
+A Dream of a Mission:
+The Stellar Imager and Seismic Probe
+A voyage of exploration to understand the
+stars, the formation of planetary systems,
+and the existence of life
+Kenneth G. Carpenter  (LASP-NASA/GSFC)
+and
+Carolus J. Schrijver (LMMS/ATC) 
+Presented at the June 2000 AAS Meeting in Rochester, NY
+2
+Primary Science Goals
+• Study spatial and temporal stellar magnetic activity patterns in a
+sample of stars covering a broad range of activity level, in order to
+understand the underlying dynamo process(es) and thereby
+– enable improved forecasting of solar activity on time scales of days to
+centuries, including Maunder-like minima and “grand maxima” that
+significantly affect geospace and earth’s weather
+– understand the impact of stellar magnetic activity on astrobiology & life
+• Enable asteroseismology (acoustic imaging) to measure internal
+stellar structure and rotation and their relationship to the dynamo
+• Complete the assessment of external solar systems
+– image the central stars of systems for which the Origins IR-interferometry
+missions find and image planets, and determine the impact of  the activity of
+those stars on the habitability of the surrounding planets
+3
+Stellar activity is key to understanding life
+in the Universe and Earth’s habitability
+   The stellar magnetic field
+• slows the rotation of the collapsing cloud, enabling star formation
+• couples evolution of star and pre-planetary disk
+• results in energetic radiation conducive to the formation (&
+destruction) of complex molecules
+• governs the habitability of the biosphere through space weather
+and planetary climate through luminosity, wind, magnetic fields,
+and radiation
+• Problem: there is no comprehensive model of solar/stellar
+magnetic activity
+4
+The impact of the
+Stellar Imager and Seismic Probe
+Imaging stars and their environments and measuring their internal
+structure and dynamics constitute a voyage of discovery and
+exploration that will
+• outdate theories that take stars to be static, layered spheres
+• deepen our understanding of a broad range of physical processes
+• strengthen the foundation of our view of the universe
+• help forecast the activity of the Sun for our society that is
+    living with a star
+5
+Space-weather forecasting
+    To forecast solar and heliospheric activity
+days to decades in advance, and to
+understand solar activity in the past, we
+need to develop and validate a dynamo
+model
+– Testing grounds:
+• The Sun in detail
+• Population studies:
+– Stars like the Sun
+– Other ``cool’’ dwarf & giant stars
+– Very young stars
+– Magnetically interacting binary stars
+Required: a dynamo
+Required: a dynamo
+model to understand
+model to understand
+solar behavior in time
+solar behavior in time
+Solar magnetic map
+Model extrapolation
+6
+Population study of cool stars
+• To understand the dynamo, we need to know how
+magnetic fields are generated and how they behave in
+different circumstances
+• The sun is only one example
+– provides insufficient constraints on theories of dynamos,
+turbulence, structure, and internal mixing
+– must observe other stars to establish how mass, rotation,
+brightness and age affect the patterns of activity  & determine:
+• What determines cycle strength and duration?
+• How common is solar-like activity?
+• Can multiple cycles exist at the surface?
+• What are Maunder-minimum states like?
+• How do polar spots form?
+• What are extremely (in)active stars like?
+7
+Activity and Stellar Interiors -
+the Need for Asteroseismology
+• Although its clearest manifestations are visible on the
+stellar surface, a full understanding of the dynamo
+requires a knowledge of the subsurface layers of the star
+in which it resides
+• Asteroseismology (acoustic imaging) of the star enables
+us to address questions related to the stellar interior
+– Where is the seat of the dynamo?
+– What determines differential rotation and  meridional
+circulation, and what role do they play in the dynamo?
+– What is the impact of magnetic deceleration on internal
+rotation and stellar evolution?
+– How are stellar interiors modified in extremely active stars?
+8
+SISP Primary Performance Goals
+• Image different stars of different activity
+– for a substantial sample of nearby dwarf and giant stars,
+obtain a resolution of  order 1000 pixels ( ~40,000 km on a
+Sun-like star)
+– study a sample in detail, revisiting over many years
+– measure:
+• sizes, lifetimes, and emergence patterns of stellar active regions
+• surface differential rotation, field dispersal by convective motions,
+and meridional circulation
+• directly image the entire convection spectrum on giant stars, and the
+supergranulation on, e.g., the solar counterpart α Cen
+• Enable asteroseismology,  using low to intermediate degree
+non-radial modes to measure internal stellar structure and
+rotation.
+9
+SISP Design Requirements
+• Imaging of stellar activity
+– High contrast at UV wavelengths
+– Obtain a stellar image as fast as possible to avoid
+rotational smearing and activity evolution
+• Imaging of stellar interiors
+– Short integration times for seismology (minutes for
+dwarf stars to hours for giant stars)
+– Low-resolution imaging to measure non-radial resonant
+waves (30-100 resolution elements)
+– Flexible interferometer configuration
+10
+Strawman
+Design Elements
+• SISP is a large space-based UV-optical interferometer, that provides
+a tool to astrophysicists of the same fundamental nature as the
+microscope to biologists, yielding
+– a spatial resolution of 60 and 120 micro-arcsec at 1500 Å and 2800 Å
+– ~ 1000 pixels of resolution over the surface of nearby dwarf stars
+– 9 or more 1-meter class telescopes, plus central “hub”
+– largest telescope-pair baseline at least 500 meters
+– observes in
+• ~10-Ångstrom UV pass bands  (C3+  (100,000 K),  Mg+ h&k (10,000 K))
+• broadband, near-UV or optical continuum (3,000-10,000 K)
+– telescope formation reconfigurable for synthesis imaging
+– 5-10 year mission to study stellar activity/magnetic cycles:
+• individual telescopes/central hub can be refurbished or replaced as needed
+11
+SISP Sample Targets
+Sample target categories:
+χ Ori            “Young Sun”
+β Hyi,           Solar analogs
+     α Cen
+HR 5968       Maunder-
+                      minimum star
+α Boo           “Ancient Sun”
+Altair,            Onset activity
+     Procyon,
+     α Per
+AD Leo,        Flare star; deep
+   Prox Cen      convection
+CM Cam       Giant polar spot
+Capella ,        Magnetically
+    σ CrB          interact. binary
+TY Pyx         Compact binary
+R CMa,         Semi-detached
+    β Per            binary
+α Ori             Supergiant star
+Algol             Mass transfer
+Sirius             Hot star
+  Target diameter D(Bm/500m)(1500A/λ) pixels
+12
+Place in NASA
+Strategic Roadmaps
+• SISP fits on strategic path of  Origins interferometry missions
+– it is a stepping stone towards crucial technology…
+• SISP is comparable in complexity to the Terrestrial Planet Finder, and it may
+serve as a useful technological and operational pathfinder for the Planet
+Imager: SISP resolution is ~40x less demanding than ultimate NASA goal
+– … while addressing science goals of 3 NASA/OSS research Themes
+• understand why the sun varies (SEC)
+• understand the origin of stars, planetary systems, and life (Origins)
+• understand the structure and evolution of stars (SEU)
+– it is complementary to the planetary imaging interferometers
+• Terrestrial Planet Finder  and Planet Imager  null the stellar light to find and
+image planets
+• SISP images the central star to study the effects of that star on the habitability of
+planets and the formation of  life on them.
+• TPF, SISP, and PI together provide complete views of other solar systems
+13
+SISP: a ``2-nd generation’’ mission
+``Origins’’ strategic missions
+Where might SISP fit in the strategic plans?
+Where might SISP fit in the strategic plans?
+                                                                 SISP?
+14
+Current Status
+• Included in far-horizon SEC Roadmap (summer 1999)
+• Mission concept further developed by
+– C.J. Schrijver (Stanford-Lockheed Institute for Space Research)
+– K.G. Carpenter (LASP - NASA/GSFC)
+– in consultation with informal Concept Development Group
+• Presentations of mission concept
+– October, 1999 Cool Stars, Stellar Systems, & the Sun Conference
+– NASA GSFC and HQ on March 6 and March 14, 2000
+– at meetings such as AAS and SPD
+• Web site created:  http://hires.gsfc.nasa.gov/~sisp
+• “white paper” written to describe science goals/technology req’ts
+• Included in SEC “State of the Theme” report (May, 2000)
+• next steps
+– Architecture/Feasibility Studies
+– ground-based Testbed Development Program

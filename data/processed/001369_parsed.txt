@@ -1,0 +1,842 @@
+United States Department of the Interior 
+U.S. Fish and Wildlife Service 
+2321 West Royal Palm Road, Suite 103 
+Phoenix, Arizona 85021-4951 
+Telephone: (602) 242-0210 FAX: (602) 242-2513 
+In Reply Refer To: 
+AESO/SE 
+22410-2005-F-0506 
+December 21, 2006 
+ 
+ 
+ 
+Mr. Robert E. Hollis 
+Division Administrator 
+Federal Highway Administration 
+400 East Van Buren Street 
+One Arizona Center, Suite 410 
+Phoenix, Arizona 85004-0674 
+ 
+RE:  New Beaver Dam Wash Bridge on Highway 91, Mohave County, Arizona 
+ 
+Dear Mr. Hollis: 
+ 
+Thank you for your request for formal consultation with the U.S. Fish and Wildlife Service 
+(FWS) pursuant to section 7 of the Endangered Species Act of 1973 (16 U.S.C. 1531-1544), as 
+amended (Act).  Your request was dated November 21, 2006, and received by us on November 
+24, 2006.  At issue are impacts that may result from the proposed new Beaver Dam Wash Bridge 
+on Highway 91 in Mohave County, Arizona.  The proposed action may affect the endangered 
+Virgin River chub (Gila seminuda) in Beaver Dam Wash. 
+ 
+In your letter, you requested our concurrence that the proposed action was not likely to adversely 
+affect the endangered woundfin (Plagopterus argentissimus), southwestern willow flycatcher 
+(Empidonax traillii extimus), and the conservation agreement species the Virgin spinedace 
+(Lepidomeda mollispinis mollispinis).  We concur with your determinations and provide our 
+rationales in Appendix A to this biological opinion. 
+ 
+This final biological opinion is based on information provided in the September 20, 2006, 
+biological assessment, information provided to us by your letter dated November 21, 2006, and 
+other sources of information.  Literature cited in this biological opinion is not a complete 
+bibliography of all literature available on the species of concern, bridge construction on streams 
+or rivers and its effects, or on other subjects considered in this opinion.  A complete 
+administrative record of this consultation is on file at this office. 
+ 
+CONSULTATION HISTORY 
+ 
+The Arizona Department of Transportation (ADOT), in anticipation of involvement of the 
+Federal Highways Administration (FHA), contacted us by letter dated May 27, 2005, requesting 
+a list of endangered, threatened, or proposed species and critical habitat that could be in the  
+ 
+ 
+2
+vicinity of the proposed rehabilitation or replacement of the existing Highway 91 bridge over 
+Beaver Dam Wash.  We responded with a species list on June 23, 2005. 
+ 
+We discussed this project with representatives of ADOT, FHA, and your contractors on June 9, 
+2006.  The project description was provided, and information that would be required in the 
+biological assessment discussed. 
+ 
+We received the biological assessment on October 6, 2006.  Upon our review of the document, 
+we had several questions concerning aspects of the project.  We provided these questions to you 
+in a letter dated October 26, 2006.  You responded with the answers to our questions in a letter 
+dated November 21, 2006.  We initiated formal consultation with you by letter on November 24, 
+2006.  We sent you a draft biological opinion on December 15, 2006.  We are sending you the 
+final biological opinion on December 21, 2006. 
+ 
+BIOLOGICAL OPINION 
+ 
+DESCRIPTION OF THE PROPOSED ACTION 
+ 
+The following description of the proposed action is taken from the biological assessment (URS 
+2006).  Maps, photos, and diagrams of the action area, the new bridge, and Beaver Dam Wash 
+are included in the assessment and are incorporated by reference. 
+ 
+Major flooding in January 2005 caused by heavy rains in northwestern Arizona and southern 
+Utah washed out the southern approach road for the County Highway 91 Bridge over Beaver 
+Dam Wash. The hydraulic/structural integrity of the bridge was placed at risk due to scour 
+around the pile foundations and streambank erosion. A study of alternatives in November 2005 
+determined that the existing bridge was irreparable and that a new bridge would need to be 
+constructed. The newly engineered bridge will be slightly longer (400 feet versus 330 feet) and 
+slightly wider than the existing bridge, and will include a new 10-foot multi-use path on the east 
+side of the bridge for bikes and pedestrians. It will also have longer spans. The new bridge will 
+be located approximately 50 feet south of the existing bridge so that it is better aligned with the 
+Beaver Dam Wash channel. The proposed bridge alignment will be shifted 19 feet to the east so 
+that vehicles can continue using the existing bridge while the new bridge is being constructed. 
+ 
+The design of the bridge takes into account a number of factors including: 
+ 
+ Improved hydraulic conditions such as lower flow velocity, lower backwater elevations, 
+and reduced scour depths resulting from the longer 100-foot spans and overall increased 
+length of the bridge. 
+ 
+ Improved load-carrying capacity that will accommodate truck loading. Six-foot-diameter 
+pier shafts will be drilled down below the potential scour depth, which will provide better 
+foundation for the bridge. 
+ Improved public safety by providing an adequately wide pathway for pedestrian traffic 
+including 100-foot-long guardrails and GET terminators (crash protection) installed at the 
+ 
+ 
+3
+ends of the concrete barriers on the bridge, which will provide further pedestrian/vehicle 
+protection. 
+ Improved debris conveyance ability due to longer 100-foot spans, which will be better 
+able to pass large drifting vegetation such as uprooted cottonwood trees, thereby 
+minimizing the potential for damage to the bridge. 
+ Improved flow conditions will be provided by gabion-lined training/spur dikes that are 
+installed 225 feet upstream (northwest shore) and 600 feet upstream (southwest shore) 
+and, minimally, 50 feet downstream of the bridge. Twenty-four-inch diameter culverts 
+will drain the local nuisance runoff that accumulates behind the dikes. Embankment 
+drains will intercept on-site runoff from the bridge surface and discharge it into Beaver 
+Dam Wash. 
+Of concern for downstream effects, an analysis of the potential for changes in hydraulic effects 
+of the new bridge was completed and is included in the biological assessment.  This analysis is 
+included here. 
+ 
+Beaver Dam Wash is a dynamic riverine system that changes its geometric characteristics during 
+extreme flood events as shown by the floods that occurred during January 2005. The steep 
+channel slope (45 feet/mile) creates high velocities that combined with erodible soils, and 
+localized blockages resulting from debris pile-up, results in a widened channel to accommodate 
+the extreme flow volumes. This is visually apparent when comparing aerial photos before and 
+after the January 2005 flood. In a 1992 photo the channel is narrow, whereas post-January 2005 
+photos show a fairly wide channel caused by severe bank erosion. Lack of stabilized training 
+dikes through the existing bridge abutments and blockages in the channel upstream of the bridge 
+due to uprooted cottonwood trees, brush and trees combined with the outside bend of the channel 
+resulted in the flow outflanking the south bridge abutment and the loss of the south roadway 
+approach embankment. Loss of the roadway embankment resulted in severe erosion of the 
+southern bank immediately upstream of the bridge. 
+ 
+A hydraulic evaluation for the 100-year flow event using the current channel geometrics and the 
+proposed 400-foot long bridge was performed for 8,650 linear feet (1.64 miles) of this riverine 
+system. This evaluation covers the stream channel from 3,750 feet downstream to 4,900 feet 
+upstream of the proposed bridge. The channel characteristics have been modeled with 26 cross 
+sections. The 100-year flow/velocity distribution for each cross section is summarized in a table 
+contained in the biological assessment. Tables of detailed 100-year flow/velocity calculations, 
+one for each cross section, are also contained in the biological assessment. 
+ 
+The proposed 400-foot long bridge is longer than the existing 330-foot long bridge and 
+approximately the same length as the narrowest upstream cross-section at Section 19.5. The 
+hydraulic characteristics of these two sections are very similar. For example, the bridge has a 
+flow area of 2,181 square feet with an average velocity of 14 feet per second, and Section 19.5 
+has a flow area of 2,146 square feet with an average velocity of 14 feet per second. Flow velocity 
+through approximately 87 percent of the bridge area is within the range of 11 to 15 feet per 
+second and 13 percent is within the range of 16 to 20 feet per second. Similarly, flow velocity 
+through approximately 89 percent of the Section 19.5 area is within the range of 11 to 15 feet per 
+second and 9 percent is within the range of 16 to 20 feet per second. The remaining 2 percent 
+ 
+ 
+4
+area is at less than 10 feet per second. These similarities show that the proposed bridge opening 
+will be compatible with the dynamics of the existing riverine system. 
+ 
+BRIDGE DEMOLITION AND CONSTRUCTION ACTIVITIES 
+ 
+Bridge construction will take place in two phases. During Phase 1, the old bridge will remain 
+open to traffic while a portion of the new bridge is constructed. In Phase 2, traffic will be 
+diverted to the new bridge, the old bridge will be demolished and removed, and the remaining 
+portion of the bridge will be constructed. Each phase of construction is estimated to take 
+approximately 6 months and demolition of the existing bridge is estimated to take from 1 to 2 
+months. 
+ 
+In order to prevent demolition debris from contaminating Beaver Dam Wash and downstream 
+waters in the Virgin River, care will be exercised when dismantling the components of the old 
+bridge superstructure and bents (support structure under bridge). A layer of woven geofabric will 
+be placed in the bed of the wash below the work area to catch and contain any debris that may 
+fall during demolition. The areas of pile removal will be brought back to natural grade upon 
+removal of the pile segment.  The construction staging area used for all phases of construction 
+will be located on a highly disturbed parcel of land on the southwestern corner of the intersection 
+between Highway 91 and Beaver Dam Drive.   
+ 
+The proposed bridge construction will require activities to occur within the Beaver Dam Wash 
+streambed, both above and below the ordinary high-water mark, and adjacent to the active 
+channel. These proposed activities include constructing access routes to each of the bridge pier 
+locations, constructing a temporary crane pad at each pier, drilling for bridge-pier foundations, 
+placing concrete for the piers, and constructing the bridge and training dikes. A drilling rig will 
+be positioned on the temporary drill pad, and will then drill through the pad to create the pier 
+shafts. Drill pads will be large enough to contain machinery and any excavated materials 
+generated during the drilling activities. 
+  
+All excavated material will be removed from the vicinity of the active channel and will be used 
+for highway embankment/grading outside of the waters of the U.S. Excavated soil materials 
+generated by the drilling operations will be temporarily placed in the riverbed outside the waters 
+of the U.S. and then removed in a systematic manner from the site. In order to access the work 
+area, temporary access routes will be established in previously disturbed locations from the north 
+and south banks.  
+ 
+Culverts/flume pipes will be installed under temporary construction roads in each active channel 
+within the streambed in order to effectively convey the flow downstream without interruption. 
+These will be of sufficient size to provide adequate flow rates during minor storm events and be 
+properly aligned with each active channel, such that bank erosion and streambed scour are 
+prevented. Sand bags and plastic sheeting diversion structure or equivalent will be used to 
+develop an effective seal and to divert stream flow through the culvert/flume pipe. Some very 
+minor modifications to the stream bottom may be required to achieve an effective seal. The 
+culverts/flume pipes will be covered with excavated sand or gravel so that an active travel-way 
+would be maintained across the work area. The use of this crossing method would greatly reduce 
+the impact to the downstream environment by limiting the amount of instream work and 
+ 
+ 
+5
+sediment release. In this way, construction activities will be isolated from the active stream 
+channel(s). The installation and use of these culverts/flume pipes will be temporary, as they will 
+be removed when construction in the streambed is complete. 
+ 
+To minimize and mitigate the possible effect the project will have on the Virgin River chub, the 
+following conservation measures will be included in the final bid package for the Mohave 
+County construction contract: 
+ 
+• Mojave County and the construction contractors shall use best management practices and 
+consider technical advice and biological information on ways to minimize adverse effects 
+to the Virgin River chub and its habitat (e.g., protection against toxic spills into the river 
+and floodplain, reduction of sedimentation, minimizing loss of riparian vegetation). 
+• During construction in the streambed, active flows will be diverted through the 
+culverts/flumes in order to effectively convey the flow downstream without interruption. 
+Block seines will be placed upstream and downstream of the culvert/flume locations 
+before they are installed. Any fish that are present between the seines will be netted and 
+moved downstream of the lower block seine by qualified fisheries’ biologists, permitted 
+by Arizona Game and Fish Department (AGFD) and FWS. Then the culverts/flumes will 
+be installed and the block seines will be removed. Culverts/flume pipes will be of 
+sufficient size to provide adequate flow rates during minor storm events and be properly 
+aligned with each active channel, such that bank erosion and streambed scour are 
+prevented. A sand bag or sand bag and plastic sheeting diversion structure or equivalent 
+will be used to develop an effective seal and to divert stream flow through the 
+culvert/flume pipe. The use of this crossing method would greatly reduce the impact to 
+the downstream environment by limiting the amount of instream work and sediment 
+release. In this way, construction activities will be isolated from the active stream 
+channel(s). If Virgin River chub occur in the project area at this time, they will safely be 
+conveyed through the project area by way of these culverts/flumes. 
+• A containment and clean-up plan for accidental spills of toxic materials shall be in place 
+and available to workers on site. In the unlikely event of such an accident, effects to 
+Virgin River chub habitat will be minimized. Virgin River chub downstream of the 
+project area could be affected by debris and/or sediment carried downstream as a result of 
+demolition activities or a change in the flow of Beaver Dam Wash. To prevent this, a 
+layer of woven geofabric shall be placed below the work site before demolition begins to 
+catch any debris that may fall and prevent it from moving downstream into areas of 
+designated critical habitat. It is not expected that the diversions necessary for work on 
+bridge piers will be large enough to affect the quality or quantity of water downstream.  
+ 
+STATUS OF THE SPECIES 
+ 
+The Virgin River chub (Gila seminuda) was listed as endangered in the Federal Register on 
+August 24, 1989 (54 FR 35305).  Critical habitat was designated for this species on January 25, 
+2000, (65 FR 4140, 4156) and a Recovery Plan was completed in April 1995.  The area 
+designated as critical habitat for the Virgin River chub is the mainstem Virgin River and its 100-
+yr floodplain, extending from the confluence of La Verkin Creek to Halfway Wash.  The critical 
+ 
+ 
+6
+habitat designation along the Virgin River includes 31.6 miles in Arizona, 37.3 miles in Utah, 
+and 18.6 miles in Nevada.  The Virgin River chub was first collected in the 1870s from the 
+Virgin River near Washington, Utah.  Historically, it was collected in the mainstream Virgin 
+River from Pah Tempe Springs, Utah, downstream to the confluence with the Colorado River in 
+Nevada (Cope and Yarrow 1875, Cross 1975).  Presently, the Virgin River chub occurs within 
+the mainstem Virgin River from Pah Tempe Springs, Utah, downstream to at least the Arizona-
+Nevada border.  Anecdotal information suggests that Virgin River chub were very abundant 
+before the 1900's and that the abundance and range of Virgin River chub has declined 
+substantially throughout its range in Utah, Arizona, and Nevada since European settlement and 
+water development.  Reasons for this decline are thought to be mainly habitat loss through 
+dewatering of the river system such that some areas are inundated by reservoirs and other areas 
+are completely dewatered.  Also, competition from nonnative species which prey on young life-
+stages of Virgin River chub also contributes to population declines.   
+ 
+When the Virgin River chub was listed it was considered a subspecies of roundtail chub (G. 
+robusta) and its taxonomic classification was G. robusta seminuda.  At the time of listing, chubs 
+in the Muddy River were considered a separate unnamed subspecies, G. robusta spp., commonly 
+referred to as Moapa roundtail chub.  This population was not included in the listing of the 
+Virgin River chub. 
+ 
+DeMarais et al. (1992) asserted that full species status was warranted for the Virgin River chub 
+and reclassified it as Gila seminuda.  The Moapa roundtail chub was also included as G. 
+seminuda by DeMarais, although he recognized it as a distinctive population.  On July 24, 1995, 
+the Fish and Wildlife Service proposed a change in rank from subspecies to species for the 
+Virgin River chub, a change in the status of the Virgin River population of Virgin River chub 
+from a subspecies to a vertebrate population segment, and provided notice of a status review of 
+the Virgin River chub in the Muddy River to determine if this vertebrate population segment 
+warranted listing (60 FR 37866).  This action was not finalized. 
+ 
+Virgin River chub is most often associated with deep runs or pools habitats of slow to moderate 
+velocities with large boulders or instream cover, such as root snags.  Both adults and juveniles 
+are associated with these habitats; however, the larger adults are collected most often in the 
+deeper pools within the river.  Hardy et al. (1989) determined that Virgin River chubs were most 
+often collected in depths ranging from 0.6 to 3.0 feet, in velocities ranging from 0.0 to 2.5 feet 
+per second, over sand substrates with boulders or instream cover.  Schumann (1978) and Deacon 
+et al. (1987) determined that the adult temperature preference was approximately 75 degrees 
+Fahrenheit. 
+ 
+Very little is known about the population dynamics of this species, including reproductive 
+biology, population size, and variability.  However, spawning is known to occur in the spring, 
+and ripe females have been reported during the months of April, May and June (Hickman 1987).  
+Hickman (1987) also noted that good spawning years for the chub coincided with good spawning 
+years for woundfin.  It is likely that Virgin River chub live for many years, perhaps for decades, 
+but they mature rapidly and probably spawn in their second or third year of life (Williams and 
+Deacon 1998).  More specific information on the population dynamics of this species will be 
+required before recovery can be achieved. 
+ 
+ 
+7
+There have been few informal or formal section 7 consultations that involve Virgin River chub in 
+the vicinity of the action area.  The Bureau of Land Management (BLM) has completed formal 
+consultations on their Arizona Strip resource management planning and statewide fire 
+management planning.  Two biological opinions for rotenone treatment of the Virgin River 
+downstream of Mesquite Diversion do not apply to the Virgin River or Beaver Dam Wash in the 
+project area. 
+ 
+The construction of Kellner jacks and other bank protection devices in Beaver Dam Wash was 
+the subject of consultation in 1995 and 2006.  Projects were put in place downstream of the 
+existing bridge on both sides of the wash.  The 1995 projects were damaged or removed by the 
+2005 flood.  The 2006 project was recently completed and is in place on the north shore of the 
+wash immediately downstream of the proposed action. 
+ 
+ENVIRONMENTAL BASELINE 
+ 
+The environmental baseline includes past and present impacts of all Federal, State, or private 
+actions in the action area, the anticipated impacts of all proposed Federal actions in the action 
+area that have undergone formal or early section 7 consultation, and the impact of State and 
+private actions which are contemporaneous with the consultation process.  The environmental 
+baseline defines the current status of the species and its habitat in the action area to provide a 
+platform to assess the effects of the action now under consultation. 
+ 
+A. STATUS OF THE SPECIES WITHIN THE ACTION AREA 
+ 
+DESCRIPTION OF THE ACTION AREA 
+ 
+The action area is defined as Beaver Dam Wash and its associated floodplain from one mile 
+above the existing Highway 91 bridge to and including its confluence with the Virgin River.  The 
+area upstream of the bridge is included because of potential flow issues through the work area 
+and post-construction resulting from the footprint of the new bridge.  Also, fish in this upstream 
+area are the ones most likely to move through the culverts during the construction phase. 
+ 
+The action area is located in northwestern Mohave County, Arizona, on County Highway 91 
+north of the interchange with Interstate 15, where the highway crosses Beaver Dam Wash. 
+Beaver Dam Wash originates in the Bull Valley Mountains of southwestern Utah and flows west 
+and south through Utah, Nevada, and Arizona towards its confluence with the Virgin River near 
+Littlefield, Arizona. The wash contains both perennial and ephemeral reaches. The perennial 
+reach that flows from near the Arizona border to the confluence with the Virgin River conveys 
+stormwater and snowmelt from the surrounding Tule Spring Hills and Clover Mountains, and is 
+generally composed of a main channel (braided at low flow) that meanders through a large open 
+streambed (BLM 1998). 
+  
+The action area along Beaver Dam Wash consists of approximately two miles upstream of the 
+confluence with the Virgin River. The portion of the action area at and south of the existing 
+bridge consists of a wetland, riparian vegetation and low-density residential development. 
+Upstream from the existing bridge, abandoned agricultural fields are found along the northern 
+ 
+ 
+8
+streambank terrace. On the northern streambank terrace, downstream from the bridge, is a low-
+density residential development. The southern portion of the project area includes residential, 
+mixed-use and recreational development. The southern streambank terrace upstream from the 
+bridge consists of low-density residential development. A private golf course is located on the 
+southern streambank terrace, downstream from the bridge. 
+  
+Urban and rural development activities have removed most of the native upland vegetation 
+within the vicinity of the project area, which is generally bordered by urban land uses in the 
+northeast and mixed agricultural/industrial/urban land uses in the south. Few native upland 
+communities exist within the project area, as the majority of the area is either developed or 
+disturbed. Remaining vegetation in these areas is generally represented by nonnative species 
+including Russian thistle (Salsola iberica) and red brome (Bromus rubens). Where native upland 
+vegetation can be found, it consists primarily of rabbitbrush (Chrysothamnus spp.), mesquite 
+(Prosopsis spp.), and sacred datura (Datura meteloides). 
+ 
+Riparian vegetation in and along the wash consists of various age classes of Fremont cottonwood 
+(Populus fremontii) and narrow-leafed willow (Salix exigua), as well as tamarisk (Tamarix 
+ramosissima) and seep willow (Baccharis salicifolia). Canopy cover is varied in the riparian area 
+ranging from approximately 40 to 95 percent. Riparian trees vary from young to mature 
+cottonwoods and willows ranging from approximately 10 to 50 feet in height. Mid-story 
+vegetation is made up of tamarisk and seep willow with understory vegetation consisting mainly 
+of red-brome grass, sacred datura and Russian thistle, as well as riparian tree seedlings. Open 
+park-like areas with mature cottonwoods and willow trees and an open understory are found 
+along the northern streambank, upstream of the bridge. Other areas include dense thickets of 
+tamarisk and seep willow along the northern streambank and in the channel upstream of the 
+bridge with near monocultures of recently established tamarisk in some areas on the downstream 
+side of the bridge along the northern streambank and in the channel. Photographs of the 
+representative vegetation and channel morphology in the project area are presented in the 
+biological assessment. 
+ 
+Closer to the bridge the understory becomes denser. This area is considered emergent and 
+forested wetland that totals approximately 1.2 acres in size and is fed by a perennial spring that 
+flows from the shallow groundwater in the area. Seasonal flooding likely provides supplemental 
+water to the area. Vegetation here is clearly denser than the surrounding plant community. 
+Herbaceous vegetation and riparian tree seedlings dominate the understory. Species include 
+cattail (Typha sp.), smartweed (Polygonum sp.), annual rabbitsfoot grass (Polypogon 
+monspeliensis), spikerush (Eleocharis sp.), seedling narrow-leafed willow (Salix exigua), and 
+seedling tamarisk (Tamarisk ramosissima). Filamentous algae are present on the slow-moving 
+water. The mid-story is mostly composed of narrow-leafed willow, Fremont cottonwood Russian 
+olive (Elaeagnus angustifolia), and tamarisk. The channel area is generally open with a limited 
+understory of red brome grass Russian thistle, as well as some riparian tree species seedlings. 
+ 
+Within the action area, Beaver Dam Wash has a low gradient, with a wide streambed 
+(approximately 225 to 325 feet), a normal active channel width of approximately 5 feet, and a 
+substrate of coarse alluvial sand and/or gravel. Surface flow is present in Beaver Dam Wash 
+within the project area year-round during all but the driest years. Streamflow data for Beaver 
+ 
+ 
+9
+Dam Wash are limited to about 1 year of systematic record (October 15, 1993 to September 16, 
+1994) from the U.S. Geological Survey (USGS) water gauging station at the Highway 91 Bridge 
+at Beaver Dam. During normal flows, the river is slow moving, with a mean monthly discharge 
+of 2.6 cubic feet per second in 1994. However, the river is susceptible to periodic flooding, 
+which typically occurs during the spring runoff and during late-summer monsoons. 
+ 
+The public land surrounding the confluence of Beaver Dam Wash and the Virgin River is a very 
+dynamic landscape influenced by extremely active channels of these two desert streams (BLM 
+1998). Floods in Beaver Dam Wash are commonly produced by summer thunderstorms and 
+winter frontal rains. The long-duration flooding associated with frontal systems generally causes 
+the greatest changes in channel morphology (BLM 1998). Following floods, Beaver Dam Wash 
+frequently forms new channels within the wider parts of the floodplain, resulting in braiding and 
+disconnected oxbows. Aquatic vegetation within the channels is limited by variable flow 
+conditions and unstable substrates. The absence of major dams upstream of Beaver Dam Wash 
+allows relatively natural flooding events to occur within the floodplain during peak flows. 
+Channel evolution during and after such flood events produces a wide variety of aquatic and 
+riparian habitats over a relatively short period of time (BLM 1998). 
+ 
+Changes in channel morphology and riparian condition occurred during the major flood in 
+January 2005, which damaged the bridge. The 1992 channel morphology is characterized by a 
+straighter main channel that flows in a southeasterly direction under the bridge. The streambed, 
+particularly downstream of the bridge, is almost completely covered by riparian vegetation except 
+directly over the active channel. 
+ 
+After the January 2005 flood, the channel morphology changed so that the now-braided channel 
+flows under the bridge in a more easterly direction (compare Figures 2 and 4). Large swaths of 
+dense riparian habitat, including large cottonwoods and willows, were swept away from the 
+southern side of the wash. Destruction of riparian vegetation was less extensive on the northern 
+side of the streambank, but most of the under- and mid-story vegetation was washed away in 
+these areas as well. With the loss of so much riparian vegetation the diversity of aquatic habitats 
+was reduced and riparian habitat was reset to an early seral condition. 
+ 
+The current riparian habitat, 18 months after the flood, covers the northern side of the 
+streambank for the length of the project area. Upstream of the bridge it is composed primarily of 
+a willow/cottonwood overstory with a sparse understory of tamarisk, seep willow, red brome 
+grass, and riparian tree seedlings. South of the bridge, riparian vegetation consists of a near 
+monoculture of tamarisk saplings located within the channel. In general, it is reasonable to 
+assume that, as has happened after many previous floods along this wash, this successional 
+pattern will continue and pre-flood conditions will return in a relatively short period of time 
+(BLM 1998). 
+ 
+SPECIES STATUS IN THE ACTION AREA 
+ 
+Virgin River chub have been captured within Beaver Dam Wash (usually within 15 to 20 yards 
+of the confluence), but are seldom encountered more than 100 yards from the confluence (Herder 
+2006). It has been suggested that this occurs mostly in the summer as chub (with a critical 
+maximum temperature of 94oF) move to cooler spring-fed tributaries to escape very warm, low-
+ 
+ 
+10
+flow temperature water in the Virgin River (Deacon et al. 1987).  However, surveys in 2003 in 
+November and December caught six Virgin River chub below the Highway 91 bridge, indicating 
+that Virgin River chub use the area at other times of the year as well (Morvilius and Fridell 
+2004). Surveys in 2002 have captured 358 Virgin River chub in the vicinity of Beaver Dam 
+Wash near the confluence with the Virgin River (USFWS unpublished data), so there is a 
+connected population that uses both of these waters. 
+ 
+B. FACTORS AFFECTING SPECIES’ ENVIRONMENT WITHIN THE ACTION 
+AREA 
+ 
+The Virgin River chub has declined in numbers largely due to the introduction and proliferation 
+of non-native fishes such as red shiner and loss or degradation of habitat (USFWS 1995).  The 
+introduction and proliferation of red shiner into the aquatic ecosystem has contributed 
+significantly to the species’ decline because it competes with native fish such as the Virgin River 
+chub for food resources and space, and may be a predator of the larval and young-of-the year life 
+stages thereby reducing survival and recruitment of native fishes. 
+ 
+Activities that have contributed to loss or degradation of habitat include channelization, 
+impoundments, water diversions, and groundwater pumping.  These actions affect the amount of 
+water available in the streams, the timing of that availability (based on changes to the natural 
+hydrograph), connectivity to the historical floodplain, and physical changes to the habitat 
+through changes in sediment processes and water temperature.  Effects to the physical 
+components of the aquatic habitats may be subtle or obvious, and the response of the Virgin 
+River chub to those changes is reflected in the decline of the species. 
+ 
+EFFECTS OF THE ACTION 
+ 
+Effects of the action refer to the direct and indirect effects of an action on the species or critical 
+habitat, together with the effects of other activities that are interrelated and interdependent with 
+that action that will be added to the environmental baseline.  Interrelated actions are those that 
+are part of a larger action and depend on the larger action for their justification.  Interdependent 
+actions are those that have no independent utility apart from the action under consideration.  
+Indirect effects are those that are caused by the proposed action and are later in time, but are still 
+reasonably certain to occur. 
+ 
+During construction in the streambed, active flows will be diverted through the culverts/flumes 
+described under description of the proposed action. Block seines will be placed upstream and 
+downstream of the culvert/flume locations before they are installed. Fish between the seines will 
+be netted and moved downstream of the lower block seine by qualified fisheries’ biologists, 
+permitted by AGFD and FWS. Then the culverts/flumes will be installed and the block seines 
+will be removed. If Virgin River chub occur in the project area at this time, they will safely be 
+conveyed through the project area by way of these flumes. 
+ 
+Virgin River chub are known to occur in the project area, so there is the potential for direct 
+effects from the placement and removal of the culverts. Biologists involved with construction of 
+the block seines and subsequent netting of fish will be required to possess State and Federal 
+permits authorizing capture of Virgin River chub.  Indirect effects on the Virgin River chub 
+ 
+ 
+11
+include effects of the action on the physical environment inhabited by the species downstream of 
+the construction site but still within the action area. Through alterations of the habitat, individual 
+Virgin River chub in the project area may be affected. Indirect effects could include (1) potential 
+siltation and erosion in the river channel in the vicinity of the construction; (2) potential spills of 
+oil, fuel, or other hazardous materials into the river; and (3) loss of riparian vegetation and 
+subsequent changes in erosion and sedimentation rates and nutrient flow. While these effects are 
+expected to be unlikely, they will be localized and temporary should they occur, and will be 
+largely mitigated by the included conservation measures.  Due to the width and design of the 
+new bridge, effects to stream flows and associated hydrologic processes are unlikely to occur. 
+ 
+No interrelated or interdependent activities were identified for this proposed action.   
+ 
+CUMULATIVE EFFECTS 
+ 
+Cumulative effects include the effects of future State, tribal, local or private actions that are 
+reasonably certain to occur in the action area considered in this biological opinion.  Future 
+Federal actions that are unrelated to the proposed action are not considered in this section 
+because they require separate consultation pursuant to section 7 of the Act. 
+ 
+The Virgin River Valley and Beaver Dam Wash are likely to continue to experience additional 
+urbanization over the near future.  Change in use of existing water supplies, both surface and 
+groundwater, from agricultural uses to municipal uses may result.  Additional supplies of water 
+for the growing area would likely come from groundwater as the surface water supply is limited. 
+ 
+CONCLUSION 
+ 
+After reviewing the current status of the Virgin River chub, the environmental baseline for the 
+action area, the effects of the proposed new Beaver Dam Wash Bridge and the cumulative 
+effects, it is the FWS's biological opinion that the new Beaver Dam Wash Bridge as proposed, is 
+not likely to jeopardize the continued existence of the Virgin River chub.  Critical habitat for this 
+species has been designated at the mouth of Beaver Dam Wash with the Virgin River; however, 
+this action is not anticipated to affect that area and no destruction or adverse modification of that 
+critical habitat is anticipated. 
+ 
+Our determination is based on the following rationale: 
+ 
+1. The number of Virgin River chub in the area that would be affected by construction of 
+the bridge is not a significant part of the local population. 
+2. The conservation measures included in the proposed action minimize the risk of taking an 
+individual of the Virgin River chub during the construction period. 
+3.  The new bridge would not result in changes to water flow under the bridge that could 
+adversely affect habitat conditions in Beaver Dam Wash. 
+ 
+The conclusions of this biological opinion are based on full implementation of the project as 
+described in the Description of the Proposed Action section of this document, including any 
+Conservation Measures that were incorporated into the project design. 
+ 
+ 
+12
+ 
+INCIDENTAL TAKE STATEMENT 
+ 
+Section 9 of the Act and Federal regulations pursuant to section 4(d) of the Act prohibit the take 
+of endangered and threatened species, respectively, without special exemption.  “Take” is 
+defined as to harass, harm, pursue, hunt, shoot, wound, kill, trap, capture or collect, or to attempt 
+to engage in any such conduct.  “Harm” is defined (50 CFR 17.3) to include significant habitat 
+modification or degradation that results in death or injury to listed species by significantly 
+impairing essential behavioral patterns, including breeding, feeding, or sheltering.  Harass is 
+defined (50 CFR 17.3) as intentional or negligent actions that create the likelihood of injury to 
+listed species to such an extent as to significantly disrupt normal behavior patterns which 
+include, but are not limited to, breeding, feeding or sheltering.  “Incidental take” is defined as 
+take that is incidental to, and not the purpose of, the carrying out of an otherwise lawful activity.  
+Under the terms of section 7(b)(4) and section 7(o)(2), taking that is incidental to and not 
+intended as part of the agency action is not considered to be prohibited taking under the Act 
+provided that such taking is in compliance with the terms and conditions of this Incidental Take 
+Statement. 
+ 
+AMOUNT OR EXTENT OF TAKE 
+ 
+The FWS anticipates two Virgin River chub will be taken as a result of this proposed action.  
+The incidental take is expected to be in the form of direct mortality from operations to place and 
+remove the culverts.  Because the fisheries biologists who will be netting and moving the native 
+fish captured during the operation will have permits from AGFD and FWS to handle the fish, no 
+take from harm or harassment is assigned to the proposed project. 
+ 
+EFFECT OF THE TAKE 
+ 
+In the accompanying biological opinion, the FWS determined that this level of anticipated take is 
+not likely to result in jeopardy to the species or destruction or adverse modification of critical 
+habitat. 
+ 
+REASONABLE AND PRUDENT MEASURES AND TERMS AND CONDITIONS 
+ 
+The conservation measures included in the proposed action are appropriate to minimize the take 
+of the Virgin River chub and additional reasonable and prudent measures and terms and 
+conditions to address the potential for take are not needed.  We are including monitoring and 
+reporting requirement as a reasonable and prudent measure to document any take that occurs. 
+ 
+1. The FHA shall monitor incidental take resulting from the proposed action and report to 
+the FWS the findings of that monitoring. 
+ 
+A. The FHA will designate a responsible party to monitor the project area and other 
+areas that could be affected by the proposed action to ascertain take of individuals 
+of the species. This monitoring will be accomplished by the fisheries biologists 
+ 
+ 
+13
+involved in placing the culverts as described in conservation measures included in 
+the proposed action.   
+ 
+i. All native fish species captured during the placement and removal of the culverts 
+will be placed downstream of the work area as provided for in the conservation 
+measures.  The number of each species captured and moved will be recorded. 
+ 
+ii. Any Virgin River chub found injured or dead will be salvaged and the body 
+placed in a freezer to preserve the tissues for later research. 
+ 
+B. The FHA shall submit a report of the monitoring to the Arizona Ecological Services 
+Field Office within 90 days after completion of the proposed action.  This report 
+will briefly document the implementation of the conservation measures, report on 
+the number of native fish encountered, and document any mortalities of Virgin 
+River chub. 
+ 
+Disposition of Dead or Injured Listed Species  
+ 
+Upon locating a dead, injured, or sick listed species initial notification must be made to the 
+FWS's Law Enforcement Office, 2450 W. Broadway Rd, Suite 113, Mesa, Arizona, 85202, 
+telephone: 480/967-7900) within three working days of its finding.  Written notification must be 
+made within five calendar days and include the date, time, and location of the animal, a 
+photograph if possible, and any other pertinent information.  The notification shall be sent to the 
+Law Enforcement Office with a copy to this office.  Care must be taken in handling sick or 
+injured animals to ensure effective treatment and care, and in handling dead specimens to 
+preserve the biological material in the best possible state. 
+ 
+CONSERVATION RECOMMENDATIONS 
+ 
+Section 7(a)(1) of the Act directs Federal agencies to utilize their authorities to further the 
+purposes of the Act by carrying out conservation programs for the benefit of endangered and 
+threatened species.  Conservation recommendations are discretionary agency activities to 
+minimize or avoid adverse effects of a proposed action on listed species or critical habitat, to 
+help implement recovery plans, or to develop information. 
+ 
+We have not identified any conservation recommendations for the proposed action. 
+ 
+REINITIATION NOTICE 
+ 
+This concludes formal consultation on the action(s) outlined in the (request/reinitiation request).  
+As provided in 50 CFR §402.16, reinitiation of formal consultation is required where 
+discretionary Federal agency involvement or control over the action has been retained (or is 
+authorized by law) and if: (1) the amount or extent of incidental take is exceeded; (2) new 
+information reveals effects of the agency action that may affect listed species or critical habitat in 
+a manner or to an extent not considered in this opinion; (3) the agency action is subsequently 
+modified in a manner that causes an effect to the listed species or critical habitat not considered 
+ 
+ 
+14
+in this opinion; or (4) a new species is listed or critical habitat designated that may be affected by 
+the action.  In instances where the amount or extent of incidental take is exceeded, any 
+operations causing such take must cease pending reinitiation. 
+ 
+The FWS appreciates the FHA’s efforts to identify and minimize effects to listed species from 
+this project.  For further information please contact Lesley Fitzpatrick at (602) 242-0210 (x236) 
+or me at (x244).  Please refer to the consultation number, 22410-2005-F-0506 in future 
+correspondence concerning this project. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+/s/ Steven L. Spangle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Field Supervisor  
+ 
+cc: 
+Assistant Field Supervisor, Las Vegas Field Office, Fish and Wildlife Service,  
+ 
+    Las Vegas, NV 
+ 
+Field Supervisor, Utah Field Office, Fish and Wildlife Service, West Valley City, UT  
+ 
+Ms. Marjorie Blaine, Corps of Engineers, Tucson, AZ 
+ 
+ 
+Branch Chief, Arizona Game and Fish Department, Phoenix, AZ 
+ 
+Regional Supervisor, Arizona Game and Fish Department, Flagstaff, AZ 
+ 
+    (Attn: Chuck Benedict) 
+ 
+W:\Lesley Fitzpatrick\05-F-0506 final.doc:MTR 
+ 
+ 
+ 
+15
+LITERATURE CITED 
+ 
+Bureau of Land Management. 1998.  Beaver Dam Wash Instream Flow Assessment. Denver, 
+Colorado. 
+ 
+Cope, E. E. and H. C. Yarrow.  1875.  Report upon the collections of fishes made in portions of 
+Nevada, Utah, California, Colorado, New Mexico, and Arizona, during the years 1871, 
+1872, 1873, and 1874.  Rept. Georgr. Geol. Expl. Surv. W 100th Meridian (Wheeler 
+Survey), 5:635-703. 
+ 
+Cross, J. N.  1975.  Ecological distribution of the fishes of the Virgin River (Utah, Arizona, 
+Nevada).  Unpubl. M.S. Thesis, University of Nevada, Las Vegas. 
+ 
+Deacon, J. E., P. B. Schumann, and E. L. Stuenkel.  1987.  Thermal tolerances and preferences of 
+fishes of the Virgin River System (Utah, Arizona, Nevada).  Great Basin Nat. 47(4):538-
+546. 
+DeMarais, B. D., T. E. Dowling, M. E. Douglas, W. L. Minkley, and P. C. Marsh.  1992.  Origin 
+of Gila seminuda [Teleostei: Cyprinidea] through introgressive hybridization; Implications 
+for evolution and conservation.  Proc. Nat. Acad. Sci. 89:2747-2751. 
+ 
+Hardy, T. B., B. Bartz, and W. Carter.  1989.  Population dynamics of the fishes in the Virgin 
+River from 1984 through 1987 and impact analyses of the Quail Creek and North Creek 
+reservoir systems.  Utah State University, Logan, Utah. 
+ 
+Herder, Mike. 2006. Bureau of Land Management, Arizona Strip Field Office. Personal 
+communication with URS Corporation. February 24. 
+ 
+Hickman, T. J.  1987.  Study of fishes in the Virgin River (Utah).  Ann. Rept., 1986.  Western 
+Ecosystems, P.O. Box 1575, St. George, Utah. 
+ 
+Morvilius, M. and R. Fridell.  2004.  Virgin Spinedace 2003 Distribution Monitoring: La Verkin 
+Creek, Ash Creek, and Beaver Dam Wash.  Publication Number 04-07.  Utah Division of 
+Wildlife Resources.  Salt Lake City. 
+ 
+Schumann, P. B.  1978.  Response to temperature and dissolved oxygen in the roundtail chub, 
+Gila robusta (Baird and Girard).  Unpubl. M.S. Thesis, University of Nevada, Las Vegas. 
+ 
+URS Corporation.  2006.  Final Biological Evaluation for Beaver Dam Wash Bridge.  Prepared 
+for Federal Highway Administration and Arizona Department of Transportation.  
+ 
+U.S. Fish and Wildlife Service.  1995.  Virgin River Fishes Recovery Plan.  Region 6, Denver, 
+CO. 
+ 
+Williams, C. D. and J. E. Deacon.  1998.  Recommendations for a Comprehensive Virgin River 
+Watershed and Native Fishes Conservation Program.  Pacific Rivers Council. 
+ 
+ 
+ 
+16
+ APPENDIX A 
+ 
+Concurrences with May Affect, Not Likely to Adversely Affect 
+ 
+Southwestern Willow Flycatcher 
+ 
+The endangered southwestern willow flycatcher is known from the Virgin River in the vicinity of 
+Beaver Dam Wash.  There were no indications of the presence of any breeding or nesting 
+southwestern willow flycatchers during any of the surveys conducted in 2005 and 2006.  It is 
+unlikely that new flycatchers will breed in the area (or in nearby critical habitat on the Virgin 
+River) for the next several years because of the habitat destruction caused by the January 2005 
+flood event (Mike Herder 2006). Therefore, potential effects of the proposed project on 
+southwestern willow flycatchers from construction activities likely would be in the form of direct 
+disturbance to migrating birds and disturbance or destruction of potentially suitable foraging and 
+resting habitat. Direct disturbance to migrant birds (if present) will include noise from heavy 
+equipment and construction. However, migrant flycatchers probably habituate to noise from 
+construction vehicles and other proposed construction activities as well as current vehicle traffic 
+on the bridge and agriculture noise from the surrounding area. No exceedingly loud activities, 
+such as pile driving or blasting, are proposed. 
+  
+An estimated 0.69-acre of potential migrating and foraging habitat will be permanently disturbed 
+by the construction of the northern training dike. During construction of the new bridge and the 
+dismantling of the existing bridge segments, a small additional amount of riparian vegetation 
+may have to be temporarily disturbed. Although this vegetation likely provides suitable 
+migrating and foraging habitat for southwestern willow flycatchers, it constitutes only a small 
+fraction of the remaining habitat available along Beaver Dam Wash and the Virgin River for use 
+by flycatchers. Furthermore, vegetation clearing and removal in these areas likely will occur 
+from November to March, when southwestern willow flycatchers are on their wintering grounds 
+in Latin America. Therefore, potential direct and indirect effects to southwestern willow 
+flycatchers from construction activities associated with the proposed project are expected to be 
+insignificant since the birds will not be present when vegetation removal occurs.  
+ 
+The FWS concurs with the finding of “may affect, not likely to adversely affect.” 
+ 
+Woundfin 
+ 
+There is suitable habitat for the endangered woundfin in the Virgin River downstream of the 
+Indirect effects to the woundfin in this area are similar to those described for the Virgin 
+spinedace and Virgin River chub, and include potential siltation and erosion in the river channel 
+in the vicinity of the diversion; loss of riparian vegetation and subsequent changes in erosion and 
+sedimentation rates and nutrient flow; and potential spills of oil, fuel, or other hazardous 
+materials into the river. While these effects are expected to be unlikely, they will be localized 
+and temporary should they occur, and will be largely mitigated by the conservation measures 
+included in the proposed action.  Long-term changes to flows or hydraulic conditions in Beaver 
+Dam Wash are not likely to occur.  The effects are therefore both discountable and insignificant 
+and are not likely to adversely affect the woundfin. 
+ 
+ 
+17
+ 
+The FWS concurs with the finding of “may affect, not likely to adversely affect.” 
+ 
+Virgin Spinedace 
+ 
+Virgin spinedace is a species covered by a conservation agreement that includes the spinedace 
+habitat in Beaver Dam Wash.  It could be directly affected during the removal of existing piers 
+and construction of new pier columns in the low-flow channel. Spinedace downstream of the 
+project area could be affected by debris and/or sediment carried through the action area as a 
+result of demolition activities or a change in the flow of Beaver Dam Wash. It is not expected 
+that the diversions necessary for work on bridge piers will be large enough to affect the quality 
+or quantity of water downstream. Since the new bridge is designed to be better aligned with the 
+current channel morphology, no permanent changes to downstream flow or sedimentation 
+patterns are expected. 
+ 
+During construction in the streambed, active flows will be diverted through the culverts/flumes 
+described in the biological assessment. Block seines will be placed upstream and downstream of 
+the culvert/flume locations before they are installed. Fish between the seines will be netted and 
+moved downstream of the lower block seine by qualified fisheries’ biologists permitted by 
+AGFD and USFWS. Then, the culverts/flumes will be installed and the block seines will be 
+removed. If Virgin spinedace occur in the project area at this time, they will be safely conveyed 
+through the project area by way of these flumes. 
+ 
+Virgin spinedace are found in the action area, so there is a likelihood of direct effects occurring 
+from implementation of the proposed project. Biologists conducting the preconstruction surveys 
+and netting will be required to possess State and Federal permits authorizing capture of Virgin 
+spinedace. Virgin spinedace may be netted and moved downstream during the placement and 
+removal of the culverts.  Once those are placed, Virgin spinedace should be able to move through 
+the area.  There would be no long-term adverse effect to the flows due to the new bridge. 
+ 
+Indirect effects on the Virgin spinedace include effects of the action on the physical environment 
+inhabited by the species. Through alterations of the habitat, individual Virgin spinedace in the 
+project area may be affected. Indirect effects could include (1) potential siltation and erosion in 
+the river channel in the vicinity of the construction; (2) potential spills of oil, fuel, or other 
+hazardous materials into the river; and (3) loss of riparian vegetation and subsequent changes in 
+erosion and sedimentation rates and nutrient flow. While these effects are expected to be 
+unlikely, they will be localized and temporary should they occur, and will be largely mitigated 
+by conservation measures incorporated into the proposed action. 
+ 
+The FWS appreciates the incorporation of protective measures for the Virgin spinedace into the 
+proposed action.  The proposed action may affect, but is not likely to adversely affect this 
+subspecies. 

@@ -1,0 +1,1277 @@
+SUPPORTING STATEMENT 
+FOR 
+MEDICAL DEVICES: CURRENT GOOD MANUFACTURING PRACTICE (CGMP), 
+QUALITY SYSTEM (Q/S) REGULATION 
+21 CFR PART 820 
+OMB No. 0910-0073 
+ 
+A. 
+JUSTIFICATION 
+ 
+The Food and Drug Administration (FDA) is requesting extension of approval for information 
+collection requirements in 21 CFR Part 820 (Attachment A).  Current Good Manufacturing 
+Practices (CGMP) are set forth in this Quality System (QS) regulation.  The authority for this 
+regulation is covered under the Federal Food, Drug, and Cosmetic Act (the Act), 21 U. S. C. 
+sections 351, 352, 360, 360c, 360d, 360e, 360h, 360i, 360j, 360l, 371, 374, 381, and 383 
+(Attachment B). 
+ 
+1. 
+Circumstances Making the Collection of Information Necessary 
+ 
+The CGMP/QS regulation includes requirements for purchasing and service controls; clarifies 
+recordkeeping requirements for device failure and complaint investigations; clarifies requirements 
+for verifying/validating production processes and process or product changes; and, clarifies 
+requirements for product acceptance activities, quality data evaluations and corrections of non-
+conforming product/quality problems.  Requirements are compatible with specifications in 
+international quality standards, ISO 9001, "Quality Systems Model for Quality Assurance in 
+Design/ Development, Production, Installation, and Servicing.  See American National Standard 
+ANSI/ASQC Q 9001-1994 which corresponds to ISO 9001: 1994.  Harmonization is fostered 
+by SMDA Sec. 15 which added sect. 803 to the Federal Food, Drug and Cosmetic Act (act) to 
+encourage FDA to establish an Office of International Relations to work with foreign countries 
+towards mutual recognition of CGMP requirements. 
+ 
+Below is a description of information collection requirements in the CGMP/QS regulation:  
+ 
+21 CFR 820.20(a) – Recordkeeping 
+ 
+Executive management shall establish (i.e. define, document, implement) the quality policy and 
+maintain it at all organizational levels. 
+ 
+21 CFR 820.20(b) – Recordkeeping 
+ 
+Manufacturers shall establish and maintain organizational structure adequate to design and 
+produce devices, and establish responsibilities and resources appropriate to manage, perform and 
+assess activities affecting quality. 
+ 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+2
+21 CFR 820.20(c) – Recordkeeping 
+ 
+Quality systems shall be reviewed for suitability and effectiveness at defined intervals; and dates 
+and results, documented. 
+ 
+21 CFR 820.20(d) – Recordkeeping 
+ 
+A quality plan defining quality practices, resources, and activities, shall be established and 
+maintained. 
+ 
+21 CFR 820.20(e) – Recordkeeping 
+ 
+Manufacturers shall establish and maintain quality system procedures, instructions; and outline 
+appropriate documentation. 
+ 
+21 CFR 820.22 – Recordkeeping 
+ 
+Quality system audits/reaudits shall be done per established procedures; and results and dates, 
+documented in reports reviewed by management. 
+ 
+21 CFR 820.25(b) – Recordkeeping 
+ 
+Manufacturers shall establish and maintain procedures identifying training needs, and document 
+training. 
+ 
+21 CFR 820.30(a)(1) – Recordkeeping 
+ 
+Manufacturers of Class III, II and certain Class I devices shall establish and maintain procedures 
+for the design of devices. 
+ 
+21 CFR 820.30(b) – Recordkeeping 
+ 
+A plan describing design and development activities shall be established, maintained, reviewed, 
+updated and approved as device design evolves. 
+ 
+21 CFR 820.30(c) – Recordkeeping 
+ 
+Procedures identifying design input requirements shall be established and maintained; and 
+requirements, approval dates and persons, documented. 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+3
+ 
+21 CFR 820.30(d) – Recordkeeping 
+ 
+Procedures defining design output and acceptance criteria shall be established and maintained; 
+and approvals of design output records, documented. 
+ 
+21 CFR 820.30(e) – Recordkeeping 
+ 
+Procedures shall be established and maintained for systematic design review; and results, 
+documented in the design history file (DHF). 
+ 
+21 CFR 820.30(f) – Recordkeeping 
+ 
+Procedures shall be established and maintained for verifying device design; and, results, dates, 
+methods and persons used, documented in the DHF. 
+ 
+21 CFR 820.30(g) – Recordkeeping 
+ 
+Procedures shall be established and maintained for validating design; and results, dates, methods 
+and persons, documented in the DHF. 
+ 
+21 CFR 820.30(h) – Recordkeeping 
+ 
+Procedures shall be established and maintained ensuring the device design is correctly translated 
+into production specifications. 
+ 
+21 CFR 820.30(i) – Recordkeeping 
+ 
+Procedures shall be established and maintained to identify, document, verify or validate, review 
+and approve design changes, before implementation. 
+ 
+21 CFR 820.30(j) – Recordkeeping 
+ 
+A DHF shall be established/maintained for each device, referencing records showing the device 
+was developed per the design plan/requirements. 
+ 
+21 CFR 820.40 – Recordkeeping 
+ 
+Manufacturers shall establish and maintain procedures controlling approval and distribution of 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+4
+required documents and document changes. 
+ 
+21 CFR 820.40(a) – Recordkeeping 
+ 
+Before issuance, all documentation shall be reviewed and approved by designated personnel; and, 
+approval dates and signatures, documented. 
+ 
+21 CFR 820.40(b) – Recordkeeping 
+ 
+Manufacturers shall maintain a record of approved changes, including descriptions, affected 
+documents, approval dates, and signatures. 
+ 
+21 CFR 820.50 and (a)(1-3) – Recordkeeping 
+ 
+Manufacturers shall establish/maintain procedures for product quality requirements to be met by 
+suppliers, contractors; record evaluations; define controls based on these evaluations; and, 
+maintain a record of acceptable suppliers. 
+ 
+21 CFR 820.50(b) – Recordkeeping 
+ 
+Purchasing documents identifying specified requirements for products and services, shall be 
+established, reviewed and approved. 
+ 
+21 CFR 820.60 – Recordkeeping 
+ 
+Procedures shall be established and maintained for identifying product during receipt, production, 
+distribution and installation. 
+ 
+21 CFR 820.65 – Recordkeeping 
+ 
+Procedures shall be established and maintained to identify, by control number, lots of life 
+supporting or sustaining implants and their components. 
+ 
+21 CFR 820.70(a) (1-5) – Recordkeeping 
+ 
+Manufacturers shall establish and maintain process control procedures, including instructions, 
+SOPs, production methods, monitoring measures for parameters, reference standards, approvals, 
+and workmanship criteria. 
+ 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+5
+21 CFR 820.70(b) – Recordkeeping 
+ 
+Procedures shall be established and maintained for changes in a specification, method, process, or 
+procedure, including verification or validation. 
+ 
+21 CFR 820.70(c) – Recordkeeping 
+ 
+Manufacturers shall establish and maintain procedures to control environmental conditions and 
+document results of systems inspections. 
+ 
+21 CFR 820.70(d) – Recordkeeping 
+ 
+Requirements shall be established and maintained for  
+personnel's health, cleanliness, practices 
+and clothing adversely affecting product quality. 
+ 
+21 CFR 820.70(e) – Recordkeeping 
+ 
+Each manufacturer shall establish and maintain procedures to prevent equipment and product 
+contamination by adverse substances. 
+ 
+21 CFR 820.70(g)(1) – Recordkeeping 
+ 
+Schedules shall be established and maintained for equipment adjustment, cleaning and 
+maintenance; and maintenance, documented. 
+ 
+21 CFR 820.70(g)(2) – Recordkeeping 
+ 
+Results of periodic maintenance inspections, dates, and inspectors shall be documented. 
+ 
+21 CFR 820.70(g)(3) – Recordkeeping 
+ 
+Limitations or tolerances shall be posted on or near equipment and be available to adjusters. 
+ 
+21 CFR 820.70(h) – Recordkeeping 
+ 
+Manufacturers shall establish and maintain procedures for using and removing adverse 
+manufacturing materials. 
+ 
+21 CFR 820.70(i) – Recordkeeping 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+6
+ 
+A protocol shall be established to validate software/changes for computers and automatic data 
+processing; and validation results, documented. 
+ 
+21 CFR 820.72(a) – Recordkeeping 
+ 
+Procedures shall be established/maintained for equipment calibration, inspection, checks, handling, 
+storage and for documenting these activities. 
+ 
+21 CFR 820.72(b) – Recordkeeping 
+ 
+Established calibration procedures shall provide for directions, accuracy/precision limits, and 
+remedial actions; and such actions, documented. 
+ 
+21 CFR 820.72(b)(1) – Recordkeeping 
+ 
+Absent national or international calibration standards,  
+manufacturers shall establish and 
+maintain in-house standards. 
+ 
+21 CFR 820.72(b)(2) – Recordkeeping 
+ 
+Records shall identify calibrated equipment, dates, calibrators and next calibration. 
+ 
+21 CFR 820.75(a) – Recordkeeping 
+ 
+Validation procedures shall be established and maintained for processes whose results are not 
+verifiable by inspection and test; and validation results, dates, approving signatures and equipment, 
+documented. 
+ 
+21 CFR 820.75(b) – Recordkeeping 
+ 
+Procedures shall be established and maintained for keeping validated process parameters within 
+specified parameters. 
+ 
+21 CFR 820.75(b)(2) – Recordkeeping 
+ 
+Monitoring, control methods, and data for validated processes shall be documented. 
+ 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+7
+21 CFR 820.75(c) – Recordkeeping 
+ 
+Results of revalidation activities for product changes or process deviations shall be documented. 
+ 
+21 CFR 820.80(a) – Recordkeeping 
+ 
+Manufacturers shall establish and maintain procedures for acceptance activities, including 
+inspections, tests or other assessments. 
+ 
+21 CFR 820.80(b) – Recordkeeping 
+ 
+Procedures shall be established/maintained for incoming acceptance by inspection/test/other 
+verification; and acceptance/rejection, documented. 
+ 
+21 CFR 820.80(c) – Recordkeeping 
+ 
+Procedures shall be established and maintained to ensure in-process product meets specified 
+requirements and is controlled until inspections, tests or verifications are completed and approvals, 
+documented. 
+ 
+21 CFR 820.80(d) – Recordkeeping 
+ 
+Procedures shall be established and maintained so that finished devices meet acceptance criteria 
+and are not distributed until device master record (DMR) activities are completed; data, 
+reviewed; and approvals, documented. 
+ 
+21 CFR 820.80(e) – Recordkeeping 
+ 
+Acceptance dates, results, performance signatures and equipment shall be recorded in the device 
+history record (DHR). 
+ 
+21 CFR 820.86 – Recordkeeping 
+ 
+Product acceptance status shall be identified during receipt, manufacture, packaging, labeling, 
+installation and servicing. 
+ 
+21 CFR 820.90(a) – Recordkeeping 
+ 
+Manufacturers shall establish and maintain procedures for identification, documentation, 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+8
+evaluation, and disposition of nonconforming product. 
+ 
+21 CFR 820.90(b)(1) – Recordkeeping 
+ 
+Manufacturers shall establish/maintain procedures for review/disposition of nonconforming 
+product; and dispositions/concessions, documented. 
+ 
+21 CFR 820.90(b)(2) – Recordkeeping 
+ 
+Procedures shall be established/maintained for rework, reevaluation of product/adverse rework 
+effects; and, activities/results, recorded in DHR. 
+ 
+21 CFR 820.100(a)(1-7) – Recordkeeping 
+ 
+Procedures and requirements shall be established and maintained for corrective/preventive 
+actions, including: analysis of data from process, work, quality, servicing records; investigation of 
+nonconformance causes; identification of  corrections and their effectiveness; recording of changes 
+made; and, appropriate distribution and managerial review of corrective and preventive action 
+information. 
+ 
+21 CFR 820.100(b) – Recordkeeping 
+ 
+All corrective/preventive activities shall be documented. 
+ 
+21 CFR 820.120 – Recordkeeping 
+ 
+Manufacturers shall establish/maintain procedures to control labeling storage/application; and 
+examination/release for storage and use, documented. 
+ 
+21 CFR 820.120(b), (d) – Recordkeeping 
+ 
+Labels/labeling used shall be documented in DHR. 
+ 
+21 CFR 820.130 – Recordkeeping 
+ 
+Manufacturers shall ensure device packaging and shipping containers are designed to protect 
+devices from alteration or damage. 
+ 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+9
+21 CFR 820.140 – Recordkeeping 
+ 
+Handling procedures shall be established and maintained to prevent product mix-ups, and adverse 
+effects. 
+ 
+21 CFR 820.150(a), (b) – Recordkeeping 
+ 
+Manufacturers shall establish/maintain procedures for controlling product storage areas/stock 
+rooms and for authorizing receipt/dispatch. 
+ 
+21 CFR 820.160(a) – Recordkeeping 
+ 
+Manufacturers shall establish/maintain distribution control procedures so released devices- 
+distributed, errors- resolved, expired product- not distributed. 
+ 
+21 CFR 820.160(b) – Recordkeeping 
+ 
+Distribution records shall be maintained, identifying consignees, products, quantities, dates, and 
+control numbers shipped. 
+ 
+21 CFR 820.170(a), (b) – Recordkeeping 
+ 
+For installed devices, manufacturers shall establish instructions, inspection/test procedures, make 
+them available, and record results. 
+ 
+21 CFR 820.180 and (b), (c) – Recordkeeping 
+ 
+Required records shall be: maintained at manufacturing sites or other sites accessible to 
+manufacturers and FDA; made readily  
+available to FDA; retained for device's life expectancy 
+or 2 years; and, per request, audit reviews certified. 
+ 
+21 CFR 820.181(a)-(e) – Recordkeeping 
+ 
+Manufacturers shall maintain DMRs that contain reference: device/process specifications, quality 
+assurance procedures/specifications, packaging /labeling specifications, and 
+installation/maintenance/servicing procedures. 
+ 
+21 CFR 820.184(a)-(f) – Recordkeeping 
+ 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+10
+For each unit/lot/batch, manufacturers shall maintain DHRs demonstrating manufacture per 
+DMR/regulatory requirements; manufacturing dates; quantities made/distributed; acceptance 
+records; labels/labeling; control numbers. 
+ 
+21 CFR 820.186 – Recordkeeping 
+ 
+Manufacturers shall maintain a quality system record (QSR) that contains/references/documents 
+procedures/activities not specific to particular devices. 
+ 
+21 CFR 820.198(a), (c), (g) – Recordkeeping 
+ 
+Manufacturers shall maintain complaint files/establish procedures for receiving/reviewing/evaluating 
+complaints, to include: recording why complaints are not investigated, and investigating complaints 
+about devices not meeting specifications or associated with events reportable to FDA under 
+separate regulations; and, when complaint units are at separate or foreign sites, maintaining the 
+records at the manufacturer's regular U.S. records site, or at the firm's U.S. designated agent. 
+ 
+21 CFR 820.200(a) – Recordkeeping 
+ 
+Where servicing is required, manufacturers shall establish/ maintain procedures for 
+performing/verifying that servicing requirements are met and service reports (for FDA reportable 
+events) are processed as complaints. 
+ 
+21 CFR 820.200(d) – Recordkeeping 
+ 
+Service reports shall record the device, date, service, service done, and test and inspection data. 
+ 
+21 CFR 820.250(a) – Recordkeeping 
+ 
+As appropriate, manufacturers shall establish and maintain procedures to identify valid statistical 
+techniques to access process/product acceptability. 
+ 
+21 CFR 820.250(b) – Recordkeeping 
+ 
+Written sampling plans shall be based on valid statistical rationale; and procedures, established, 
+maintained and reviewed to ensure their adequacy. 
+ 
+2. 
+Purpose and Use of the Information 
+ 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+11
+CGMP/QS information collections will assist FDA inspections of manufacturer compliance with 
+quality system requirements encompassing design, production, installation and servicing processes. 
+ Manufacturers must ensure that medical devices meet design specifications and that design 
+specifications are effectively transferred from research and development to production.  FDA 
+review of Medical Device Reports (MDRs) for 1991 showed that some 59 deaths and 929 
+serious injuries were attributed to design-related device failures.  Manufacturer compliance with 
+CGMP/QS requirements should decrease such failures and save manufacturers millions of dollars 
+by avoiding recalls caused by inadequate design.  Since the last approval of this information 
+collection, there has been some decrease noted of the number of firms with design-related recalls. 
+ However, this regulation is still in its infancy and many firms have yet to design new products that 
+incorporate design control requirements.  Over the next two years, we will begin to receive 
+information pertaining to whether recalls are design related and better evaluate the effectiveness of 
+the quality system regulation.  
+ 
+“Harmonized” CGMP/QS requirements have benefited export oriented manufacturers because 
+they are consistent with the ISO 9000 international quality standards.  The least expensive way for 
+U.S. firms to meet the medical device directives of the European Union (EU) and obtain the EU 
+mark to sell their products is to certify that their quality systems comply with the ISO standards.  
+By complying with CGMP/QS requirements US manufacturers will satisfy both domestic and 
+international regulatory requirements. 
+ 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+12
+Not implementing the CGMP/QS regulation would result in the continuation of a significant 
+number of preventable deaths and injuries, and in the loss by manufacturers of substantial savings 
+attributable to reduced recall costs, improved manufacturing efficiency and improved access to 
+international markets. 
+ 
+3. 
+Use of Information Technology and Burden Reduction 
+ 
+In the Federal Register of March 20, 1997 (62 FR 13430) (Attachment C), FDA published a 
+final rule establishing procedures for electronic records, electronic signatures, and electronic 
+submissions.  Firms may use appropriate technology in accordance with this rule to comply with 
+the CGMP/QS recordkeeping requirements. 
+ 
+FDA is also using information technology to assist in the reduction of information burden to 
+respondents of information queries.  Presently, respondents to FDA information collection’s may 
+use computer word processing, electronic form, spreadsheet, and database software to collect 
+and format information for submission to FDA.  FDA has reduced the burden of responding to 
+regulatory statute through the use of these electronic applications, the Fax-On-Demand fax-back 
+system, the Electronic Docket, and the Internet.   
+ 
+In addition, FDA is currently receiving manufacturer’s application by computer word processing, 
+electronic form and CD-ROM to assist in reducing manufacturer’s application submission 
+burdens. However, in the event that FDA requests an applicant to deliver copies of their 
+application to FDA, electronic storage allows for the fastest transmission of those records to 
+FDA. 
+ 
+FDA has attempted to maximize current technology to reduce burden for respondents of its data 
+by the methods mentioned above.  FDA will continue to pursue methods of applying technology 
+to reduce burden to the respondents of its information collections. 
+ 
+4. 
+Efforts to Identify Duplication and Use of Similar Information 
+ 
+Required information is available from individual manufacturers and not other sources.  FDA is the 
+only regulatory Federal agency responsible for collecting such information. 
+ 
+5. 
+Impact on Small Business or Other Small Entities 
+ 
+CGMP/QS requirements have a significant impact on a substantial number of small businesses.  
+However, when the CGMP/QS became final rule and exempted the majority of Class I device 
+manufacturers from design controls, FDA estimated a decrease in compliance costs by 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+13
+approximately $6.8 million, 60 percent of which would have been borne by small businesses.  By 
+excluding component manufacturers from CGMP/QS requirements, FDA eliminated potential 
+rises in the cost of components purchased by small businesses.  By deleting "complete" and "all" 
+from many previous recordkeeping provisions, FDA provides small businesses with greater 
+flexibility in determining the type and quantity of necessary records.  By harmonizing requirements 
+with international standards, FDA provides benefits to small firms pursuing exports since they no 
+longer need to expend resources to maintain a quality system for FDA regulated domestic 
+products and another for foreign regulated exports. 
+ 
+Small firms are assisted by the Division of Small Manufacturers Assistance (DSMA) within FDA's 
+Center for Devices and Radiological Health (CDRH). DSMA was established, as required by the 
+1976 Amendments to the act, to provide technical and other non-financial assistance to small 
+firms, expressly to aid them in complying with the requirements of the act.  DSMA participates in 
+and conducts conferences, workshops; and seminars on the application and interpretation of 
+relevant regulations.  DSMA also consults with small firms; and develops and disseminates 
+CGMP educational materials, thereby reducing small business expenditures to achieve 
+compliance.  DSMA staff is available to respond to questions via a toll-free telephone number, 
+and provides additional information to firms on its website, located at http:\\www.fda.gov (once 
+on the site, click on the Center for Devices and Radiological Health (CDRH) link, and choose the 
+DSMA link). 
+ 
+6. 
+Consequences of Collecting the Information Less Frequently 
+ 
+There are no technical or legal obstacles to the collection of information required by this 
+collection.  Sect. 510(h) of the act requires FDA to inspect registered manufacturers of Class II 
+(special controls) devices and Class III (premarket approval) devices, at least once every 2  
+years.  FDA inspects manufacturers of Class I (general controls) devices as often as feasible.  If 
+inspection reviews were conducted less frequently, FDA? s effectiveness in increasing the safety 
+of medical devices by monitoring manufacturers?  compliance with CGMPs, would be significantly 
+reduced. 
+ 
+7. 
+Special Circumstances Relating to the Guidelines of 5 CFR 1320.5. 
+ 
+ 
+Collections are consistent with 5 CFR 1320.5 except for the requirement in  820.180(b). This 
+section requires records to be retained for a period equivalent to the design and expected life of 
+the device, but in no case less than 2 years from release for distribution.  This is necessary since 
+many devices are labeled for extended periods of use.  For example, pacemaker life expectancy 
+depends on battery life, which is usually more than 3 years.  Manufacturers must retain records as 
+required above in order to perform failure/problem investigations and FDA must have access to 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+14
+these records to conduct long range investigations protecting public health.  
+ 
+8. 
+Comments in Response to the Federal Register Notice and Efforts to Consult Outside 
+Agency 
+ 
+ 
+Notice has been published in the Federal Register on February 19,2004 (68 FR 7755) soliciting 
+comments on this information collection prior to its submission to the Office of Management and 
+Budget (OMB) as required by 5 CFR 1320.8(d) (Attachment D).  No comments were received. 
+ 
+ 
+FDA staff met with or discussed CGMP/QS requirements on numerous occasions over the last 3 
+years.  CDRH is proactive in ensuring that the medical device industry and other affected 
+individuals are made aware of on-going issues relating to the CGMP/QS regulations.  The Agency 
+Medical Device GMP/QS expert has participated in numerous conferences and seminars relating 
+to the CGMP/QS regulatory requirements.  During these sessions, our GMP/QS experts share 
+information through speeches and panel discussions that provide a forum for open discussion.  
+During these discussions guidance and direction is often given to the audience to help them 
+understand their regulatory responsibilities under the GMP/QS regulation.  In addition, issues are 
+sometimes identified by the audience that provide the Agency areas that we may need to clarify to 
+affected individuals. 
+ 
+9. 
+Explanation of Any Payment or Gift to Respondents 
+ 
+There is no payment or gift to respondents of this information collection. 
+ 
+10. Assurance of Confidentiality Provided to Respondent 
+ 
+CDRH complies with the Freedom of Information Act (5 U.S.C. 552) and FDA?s Public 
+Information regulation at 21 CFR Part 20, 820.180(a) of the CGMP/QS regulation provides that 
+records deemed confidential by manufacturers may be marked to aid FDA in determining what 
+information may be disclosed under 21 CFR Part 20. 
+ 
+11. Justification for Sensitive Questions. 
+ 
+Information required by the CGMP/QS regulation doesn’t include questions of a sensitive nature, 
+such as sexual behavior and attitudes, religious beliefs or matters considered private. 
+ 
+12. Estimate of Hour Burden Including Annualized Hourly Costs 
+ 
+The CGMP/QS regulation applies to some 8,254 respondents. These recordkeepers consist of 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+15
+8,188 original respondents and an estimated 66 hospitals which re-manufacture or re-use single 
+use medical devices.  They include manufacturers, subject to all requirements and contract 
+manufacturers, specification developers, repackers/relabelers and contract sterilizers, subject only 
+to requirements applicable to their activities.  Hospital re-manufacturers of single use medical 
+devices (SUD’s) are now defined to be manufacturers under guidelines issued by the Center for 
+Devices and Radiological Health’s (CDRH) Office of Surveillance and Biometrics (OSB).  
+Respondents to this collection have no reporting activities, but must make required records 
+available for review or copying during FDA inspection.  The regulation contains additional 
+recordkeeping requirements in such areas as design control, purchasing, installation, and 
+information relating to the re-manufacture of single use medical devices. The estimates for burden 
+are derived from those incremental tasks that were determined when the new CGMP/QS 
+regulation became final as well as those carry-over requirements.  The carry-over requirements 
+are based on decisions made by the agency on July 16, 1992, under OMB Paperwork Reduction 
+Act submission No. 0910-0073.  This still provides valid baseline data. 
+ 
+FDA estimates respondents will have a total annual recordkeeping burden of approximately 
+2,833,020 hours (shown as 2,833,020 in Table 1 of this justification statement due to rounding).  
+This figure also consists of approximately 143,052 hours spent on a start-up basis by 650 new 
+firms.  Table 1 below identifies burden estimates per sections of the regulation. 
+Table 1 – Estimated Annual Recordkeeping Burden 
+ 
+ 
+ 
+ 
+CFR Section 
+ 
+ 
+Number of 
+Recordkeepers
+ 
+Annual 
+Frequency of 
+Recordkeeping
+ 
+ 
+Total 
+Annual Hours 
+ 
+ 
+Hours Per 
+Recordkeeper 
+ 
+ 
+Total 
+Hours 
+Total Operating 
+and 
+Maintenance 
+Cost 
+820.20(a) 
+8,254
+1
+8,254
+6.58
+54,311 
+---------
+820.20(b) 
+8,254
+1
+8,254
+4.43
+36,565 
+---------
+820.20(c) 
+8,254
+1
+8,254
+6.17
+50,927 
+---------
+820.20(d) 
+8,254
+1
+8,254
+9.89
+81,632 
+---------
+820.20(e) 
+8,254
+1
+8,254
+9.89
+81,632 
+---------
+820.22 
+8,254
+1
+8,254
+32.72 270,071 
+---------
+820.25(b) 
+8,254
+1
+8,254
+12.68 104,661 
+---------
+820.30(a)(1) 
+8,254
+1
+8,254
+1.75
+14,445 
+---------
+820.30(b) 
+8,254
+1
+8,254
+5.95
+49,111 
+---------
+820.30(c) 
+8,254
+1
+8,254
+1.75
+14,445 
+---------
+820.30(d) 
+8,254
+1
+8,254
+1.75
+14,445 
+---------
+820.30(e) 
+8,254
+1
+8,254
+23.39
+193,061 
+---------
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+16
+820.30(f) 
+8,254
+1
+8,254
+37.42
+308,865 
+---------
+820.30(g) 
+8,254
+1
+8,254
+37.42
+308,865 
+---------
+820.30(h)  
+8,254
+1
+8,254
+3.34
+27,568 
+---------
+820.30(i) 
+8,254
+1
+8,254
+17.26
+142,464 
+---------
+820.30(j) 
+8,254
+1
+8,254
+2.64
+21,791 
+---------
+820.4 
+8,254
+1
+8,254
+8.91
+73,543 
+---------
+820.40(a)- (b) 
+8,254
+1
+8,254
+2.04
+16,838 
+---------
+820.50(a)(1) - 
+(3) 
+8,254
+1
+8,254
+21.9
+180,763 
+$1,181,925 
+820.50(b) 
+8,254
+1
+8,254
+6.02
+49,689 
+---------
+820.60 
+8,254
+1
+8,254
+0.32
+2,641 
+---------
+820.65 
+8,254
+1
+8,254
+0.67
+5,530 
+---------
+820.70(a)(1) - 
+(5) 
+8,254
+1
+8,254
+1.85
+15,270 
+---------
+820.70(b)-(c) 
+8,254
+1
+8,254
+1.85
+15,270 
+---------
+820.70(d) 
+8,254
+1
+8,254
+2.87
+23,689 
+---------
+820.70(e) 
+8,254
+1
+8,254
+1.85
+15,270 
+---------
+820.70(g)(1) - 
+(g)(3) 
+8,254
+1
+8,254
+1.43
+11,803 
+---------
+820.70(h) 
+8,254
+1
+8,254
+1.85
+15,270 
+---------
+820.70(i) 
+8,254
+1
+8,254
+7.5
+61,905 
+---------
+820.72(a) 
+8,254
+1
+8,254
+4.92
+40,610 
+---------
+820.72(b)(1) 
+to (b)(2) 
+8,254
+1
+8,254
+1.43
+11,803 
+---------
+820.75(a) 
+8,254
+1
+8,254
+2.69
+22,203 
+---------
+820.75(b) 
+8,254
+1
+8,254
+1.02
+8,419 
+---------
+820.75(c) 
+8,254
+1
+8,254
+1.11
+9,162 
+---------
+820.80(a)-(e) 
+8,254
+1
+8,254
+4.8
+39,619 
+---------
+820.86 
+8,254
+1
+8,254
+0.79
+6,521 
+---------
+820.90(a) 
+8,254
+1
+8,254
+4.95
+40,857 
+---------
+820.90(b)(1) - 
+(b)(2) 
+8,254
+1
+8,254
+4.95
+40,857 
+---------
+820.100 (a)(1) 
+- (a)(7) 
+8,254
+1
+8,254
+12.48
+103,010 
+---------
+820.100(b) 
+8,254
+1
+8,254
+1.28
+10,565 
+---------
+820.120 
+8,254
+1
+8,254
+0.45
+3,714 
+---------
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+17
+820.120(b) 
+8,254
+1
+8,254
+0.45
+3,714 
+---------
+820.120(d) 
+8,254
+1
+8,254
+0.45
+3,714 
+---------
+820.130 
+8,254
+1
+8,254
+0.45
+3,714 
+---------
+820.140 
+8,254
+1
+8,254
+6.34
+52,330 
+---------
+820.150(a)-(b)
+8,254
+1
+8,254
+5.67
+46,800 
+---------
+820.160(a)-(b)
+8,254
+1
+8,254
+0.67
+5,530 
+---------
+820.170(a)-(b)
+8,254
+1
+8,254
+1.5
+12,381 
+---------
+820.180 (b-c) 
+8,254
+1
+8,254
+1.5
+12,381 
+---------
+820.181(a)-(e)
+8,254
+1
+8,254
+1.21
+9,987 
+---------
+820.184(a)-(f) 
+8,254
+1
+8,254
+1.41
+11,638 
+---------
+820.186 
+8,254
+1
+8,254
+0.4
+3,302 
+---------
+820.198(a)-(c)
+8,254
+1
+8,254
+4.94
+40,775 
+---------
+820.200(a) and 
+(d) 
+8,254
+1
+8,254
+2.61
+21,543 
+---------
+820.250 
+8,254
+1
+8,254
+0.67
+5,530 
+---------
+Totals 
+ 
+2,833,020
+$1,181,925 
+ 
+ 
+ 
+Explanation of Recordkeeping Burden Estimate  
+ 
+Burden (labor) hour and cost estimates were originally developed under FDA contract by Eastern 
+Research Group, Inc. (ERG) in 1996 when the CGMP/QS regulation became final.  These figures 
+are still accurate.  Additional factors considered in deriving estimates included: 
+ 
+?? Establishment type: Query has been made of CDRH’s registration/listing data bank and count 
+was 8188 domestic firms subject to CGMPs.  In addition, hospitals which re-use or re-
+manufacture devices are now considered manufacturers under new FDA guidance.  During 
+the last report it was estimated that out of the 6,000 hospitals in the U.S., 1/3 of them (or 
+2,000 hospitals) will re-use or re-manufacture single use medical devices. After investigations 
+of many hospitals and the changes in enforcements of FDA’ requirements for hospitals, the 
+numbers of re-use or re-manufactures of single use medical devices have decrease from the 
+estimated 2000 to an estimated 66 hospitals. Thus, the number of manufacturers will increase 
+from 8,188 to 8,254 making that the total number of firms subject to CGMPs. 
+ 
+?? Potentially affected establishments: Except for manufacturers, not every type of firm is subject 
+to every CGMP/QS requirement.  For example, all are subject to Quality Policy (820.20(a)), 
+Document Control (820.40), and other requirements, whereas only manufacturers and 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+18
+specification developers are subject to Subpart C, Design Controls.  The type of firm subject 
+to each requirement was identified by the ERG. 
+ 
+?? FDA estimated the burden hours (and costs) for the previous CGMP regulation in 1992. That 
+estimate was submitted to OMB on May 4, 1992, under OMB Paperwork Reduction Act 
+submission No. 0910-0073.  It was approved by OMB on 7/16/92 and expired on June 30, 
+1995.  The methodology used is different than that used by ERG in estimating incremental 
+tasks when the new CGMP/QS became final rule.  Nevertheless, the agency believes its 1992 
+estimate adequately represents labor hours (and costs) needed to comply with previous 
+CGMP requirements carried over into the new CGMP/QS regulation. The 1992 estimate 
+used 9,289 respondents (rather than 8,254 respondents), which compensates for differences 
+in methodology. 
+ 
+?? FDA estimates that some 650 “new” establishments (marketing devices for the first time) will 
+expend some 143,052 “development” hours on a one-time start-up basis to develop records 
+and procedures for the CGMP/QS regulation.   
+ 
+?? FDA estimates that annual labor hours are apportioned as follows: 40% - to requirements 
+dealing with manufacturing specifications, process controls and the DHR; 20% - to 
+requirements dealing with components and acceptance activities; 25% - to requirements 
+dealing with equipment, records (the DMR and QSR), complaint investigations, 
+labeling/packaging and reprocessing/investigating product nonconformance; and, 15 % - to 
+quality audit, traceability, handling, distribution, statistical, and other requirements.   
+ 
+Estimate of Burden Hour Cost 
+ 
+FDA estimates the total annualized burden hour cost at $43.1 million.  Total Burden Hours of 
+2,833,020 x $15.20 per hour. 
+ 
+ 
+13. Estimate of the Other Total Annual Cost Burden to Respondent or Recordkeepers 
+ 
+Based on data developed by ERG, respondents will incur about $1.2 million in annual additional 
+supplier auditing requirements, 21 CFR 820.50(a). 
+ 
+factors  
+ 
+ 
+ 
+small 
+ 
+medium 
+large 
+            very large 
+firms 
+ 
+firms 
+ 
+firms 
+ 
+ firms 
+ 
+- travel cost per visit....            $500 
+ 
+$500            $500 
+ 
+$500 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+19
+- visits per year.... 
+ 
+           x 0.5 
+            x 1.0 
+           x 2.0 
+ 
+ x 4.0 
+- no. of affected firms....                    x 4,678  
+x 1,993           x 613                x 383 
+   (mfrs. and contract mfrs) 
+- noncompliance rate 
+ 
+ 
+x 0.50  
+x 0.40  
+x 0.20               x 0.10 
+- Totals ($1,181,925)  
+ 
+$584,125 
+$398,600        $122,600           $76,600        
+ 
+No capital, start-up or maintenance costs are incurred by respondents to comply with the GMP/QS 
+regulation.   
+ 
+14. Annualized Cost to the Federal Government 
+ 
+The estimate annualized cost to FDA is $6,650,000. 
+ 
+Staff Years 
+ 
+ 
+Average Annual Salary  
+ 
+Total 
+ 
+190 
+ 
+ 
+ 
+ 
+$45,000 
+ 
+ 
+ 
+$8,550,000 
+ 
+Based on past experience, it is anticipated that it will take a total of 190 staff years to properly 
+maintain and enforce the CGMP/QS final regulation.  The $45,000 annual salary is taking into 
+consideration the grade levels of headquarters personnel, field investigators and lab technicians. 
+ 
+15. Explanation for Program Changes or Adjustments 
+ 
+At the time of the last approval of this information collection, the old CGMP regulation was 
+replaced and implemented by the new CGMP/QS regulation.  The newly implemented 
+CGMP/QS regulation was approved by OMB on October7, 1996.  Some changes have evolved 
+since the last approval was granted.  Adjustments have been made to the burden hours, 
+operational and maintenance costs and total number of respondents.  These changes are based on 
+the following factors: 
+ 
+It is believed that the estimated numbers for hospitals, which re-use or re-manufactures single use 
+medical devices, has decrease because of a series of FDA investigations and the enforcement 
+requirements of FDA.  As a result it is estimated that 66 hospitals re-use or re-manufacturer single 
+use medical devices.  
+ 
+? ? One-time incremental tasks associated with implementing the new regulation have been 
+eliminated and the annual burden as a result of the new regulation has been combined with the 
+carry-over tasks from the old regulation.  
+ 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+20
+? ? One-Time operating and maintenance costs associated with the incremental tasks has been 
+eliminated. 
+ 
+? ? Thus, the number of burden hours has decreased by 334,650 hours (from 3,167,670 hours to 
+2,833,020 hours) and the amount of annual Operating and Maintenance costs has remained 
+the same ($1,181,925).  The burden hour decreases are attributable to recalculation of the 
+burden and costs due to experience in implementing this regulation by FDA. 
+ 
+16. Plans for Tabulation and Publication and Project Time Schedule 
+ 
+The results of this collection of information will not be published. 
+ 
+17. Reason(s) Display of OMB Expiration Date is Inappropriate 
+ 
+Currently, CDRH is not requesting an exemption for display of the OMB expiration date. 
+ 
+18. Exceptions to Certification for Paperwork Reduction Act Submissions 
+ 
+Currently, CDRH is not requesting an exemption to Certification for the Paperwork Reduction 
+Act Submissions.  There are no exceptions to the certification statement identified in Item 19 of 
+the OMB Form 83-I. 
+ 
+ 
+Supporting Statement - OMB No. 0910-0073 
+ 
+ 
+ 
+21
+List of Attachments to Supporting Statement 
+ 
+Attachment A - Code of Federal Regulations (21 CFR Part 820) 
+Attachment B - The Federal Food, Drug and Cosmetic Act, Chapter V, Subchapter A - Drugs and 
+Devices; Chapter VII, Subchapter A - General Administrative Provisions; and Chapter 
+VIII - Imports and Exports 
+Attachment C - FDA Electronic Signature Federal Register Notice, March 20, 1997 (62 FR 13430) 
+Attachment D - Federal Register 60 Day Notice Soliciting Comments on "Medical Devices: Current 
+Good Manufacturing Practice (CGMP), Quality System (QS) Regulation - 21 CFR 
+Part 820", [February 28, 2001], 66 FR 12798, Docket No. 01N-0063. 
+Attachment E - Code of Federal Regulations (5 CFR 1320.8) 

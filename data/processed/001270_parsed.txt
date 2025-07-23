@@ -1,0 +1,96 @@
+DECAGON 
+~
+~
+~
+~
+J
+~
+F$[S n5;;;.;fy i:ogpl 
+01 HAY 23 Wfl 3: 47 
+FSIS Docket Clerk, Docket #00-048N 
+Food Safety and Inspection Service 
+U.S. Department of Agriculture 
+Room 102, Cotton Annex, 
+300 12th Street, S.W. 
+Washington, D.C. 20250-3700. 
+To Whom It May Concern: 
+30-048N 
+Anthony J. Fontana, Jr. Ph.D. 
+30-048N- 
+13 
+This letter is in reference to the public comments requested on the Lmonocytogenes Relative 
+Risk Draft Assessment and Action Plan. It is our understanding that the Action Plan is aimed at 
+reducing the incidence of listeria1 gastroenteritis and listeriosis resulting from the contamination 
+of the United States food supply with L. monocytogenes. We also note that the stated goal of the 
+new USDA regulations is to reduce the incidence of illness or death due to listeriosis by 50% 
+during by 2005. As manufacturers of water activity instrumentation, Decagon Devices, Inc. is 
+aware of the ways in which water activity instruments can be used by food processors to reduce 
+the risk of food-borne illness. We suggest that water activity be used as part of a program to 
+reduce the risk of sickness or death due to L. monocytogenes contamination. 
+As presently constituted, the eight-area action plan for the reduction of the presence of L. 
+monocytogenes in food products focuses almost exclusively on detection of the bacteria and the 
+creation of new handling procedures for ready-to-eat food products. While more stringent 
+detection testing and new handling procedures will certainly help reduce the risk of a L. 
+monocytogenes outbreak, even the 50% goal assumes that some contaminated food products will 
+reach consumers in spite of these new efforts. A more complete food safety plan should include a 
+method for evaluating whether L. rnonocytogenes-contaminated products can support 
+proliferation, since the level of bacteria present invariably affects the severity of the illness in 
+persons who consume contaminated products. Water activity testing can be used for this risk 
+assessment. 
+In the section entitled “Post-Retail Growth of Listeria”, the Draft Risk Assessment Document 
+states “even when L. rnonocytogenes is initially present at a low level in a contaminated food, the 
+microorganism can multiply during storage, including storage at refrigeration temperatures”. 
+Concurrently, it has been shown that L. monocytogenes growth is very difficult to control though 
+refrigeration alone. However, it also is proven that below a water activity of 0.92 no growth of L. 
+rnonocytogenes occurs (Farber et aZ., 1992). Water activity in combination with other hurdles, 
+such as pH, temperature, or modified atmosphere packaging, will limit growth even at higher 
+than 0.92 water activity levels. 
+It is impractical to bring the water activities of some products such as frankfurters and soft 
+cheese below this level. However, using the 0.92 a, standard, it is possible to assess the risk of 
+post-packaging L. monocytogenes growth in most food products. This relates directly to many of 
+the products appearing on the Draft Risk Assessment Document’s Table 1, including: Smoked 
+Seafood, Preserved Fish, Natural Cheese, Aged Cheese, Dry/Semi-Dry Fermented Sausages, 
+PM, and Meat Spreads. Because the water activities of these products are relatively close to 
+0.92, simple changes in processing or formulation that slightly lower the water activity can stop 
+L. monocytogenes growth. Furthermore, continual monitoring of water activity can confirm that 
+all product runs that leave a processing facility will be safe from L. monocytogenes growth. 
+We recognize that water activity testing is not a complete solution to the problem of L. 
+monocytogenes contamination. However, it can be an integral part of a strategy for reducing the 
+incidence of illness due to this bacterium. We urge the USDA, FDA, CDC, and FSIS to use 
+water activity testing to improve the efficacy of the L. monocytogenes action plan. We have 
+attached a reference list of research papers related to water activity and L. monocytogenes 
+growth. Should you require further reference material, or any other information on this subject, 
+please contact us. 
+Best Regards, 
+Anthony J. Fontana Jr. Ph.D. 
+Applications Engineer 
+Water Activity and Listeria monocytogenes References 
+Chen, N. and Shelef, L. A. (1992). Relationship between water activity, salts of lactic acid, and 
+growth of Listeria monocytogenes in a meat model system. Journal of Food Protection. 
+55 574-578. 
+Cheroutre-Vialette, M., Lebert, I., Hebraud, M., Labadie, J. C., and Lebert, A. (1998). Effects of 
+pH or aw stress on growth of Listeriu monocytogenes. International Journal of Food 
+Microbiology. 42( 1 -2):7 1-77. 
+Dalgaard, P. and Jorgensen, L. V. (1998). Predicted and observed growth of Listeria 
+monocytogenes in seafood challenge tests and in naturally contaminated cold-smoked salmon. 
+International Journal of Food Microbiology. 40: 105-1 15. 
+Debevere, J. H. (199 1). Listeriu monocytogenes food-borne infection: Present-day situation and 
+control. Voeding. 52:258-263. 
+Debevere, J. H. (1991). Listeria monocytogenes foodborne infections: Current situation and 
+control. Voeding. 52: 189-194. 
+Farber, J. M., Coates, F., and Daley, E. (1992). Minimum water activity requirements for the 
+growth of Listeria monocytogenes. Letters In Applied Microbiology. 15: 103-105. 
+Miller, A. J. (1992). Combined water activity and solute effects on growth and survival of 
+Listeria monocytogenes Scott A. Journal of Food Protection. 55414-418. 
+Nolan, D. A., Chamblin, D. C., and Troller, J. A. (1992). Minimal water activity levels for 
+growth and survival of Listeria monocytogenes and Listeriu innocuu. International Journal of 
+Food Microbiology. 16:323-335. 
+Tapia de Daza, M. S., Villegas, Y., and Martinez, A. (1991). Minimal water activity for growth 
+of Listeriu monocytogenes as affected by solute and temperature. International Journal of 
+Food Microbiology. 14:333-338. 
+Tienungoon, S., Ratkowsky, D. A., McMeekin, T. A., and Ross, T. (2000). Growth limits of 
+Listeriu monocytogenes as a function of temperature, pH, NaC1, and lactic acid. Applied and 
+Environmental Microbiology. 66( 1 1):4979-4987. 
+Wijtzes, T., Mcclure, P. J., Zwietering, M. H., and Roberts, T. A. (1993). Modelling bacterial 
+growth of Listeria monocytogenes as a function of water activity, pH and temperature. 
+International Journal of Food Microbiology. 18: 139-149. 

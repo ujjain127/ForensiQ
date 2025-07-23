@@ -1,0 +1,482 @@
+1
+FOCUS
+Locating Hydrothermal Vents
+GRADE LEVEL
+7-8
+FOCUS QUESTIONS
+What are hydrothermal vents and where are they 
+found? 
+What is a CTD and how is it used? 
+How can pH be used as an indicator of hydrother­
+mal vent activity?
+LEARNING OBJECTIVES
+Students will learn how hydrothermal vents are 
+formed and where they are located on the ocean 
+floor.
+Students will learn how scientists use CTDs to locate 
+hydrothermal vents.
+Students will learn how to determine the pH of a 
+water sample and how this variable can be used to 
+detect hydrothermal vent activity. 
+ADDITIONAL INFORMATION FOR TEACHERS OF DEAF STUDENTS
+There are no formal signs in American Sign 
+Language for any of these words and many are 
+difficult to lip-read. This activity is really designed 
+to teach pH. You can start with that part of the 
+activity (# 6 in the procedures), then go back and 
+discuss how scientists would sample water if it was 
+not easily accessible to them.  You can then intro­
+duce CTD’s as a way to collect this information. 
+The third part of the lesson can then be discus­
+sion of hydrothermal vents and their properties. 
+A reflection could be looking back at the pH and 
+temperature lab and answering the final two ques­
+tions regarding which sample was taken near a 
+hydrothermal vent and how the data supports this 
+hypothesis. That would be a good time to make the 
+“white smoker” discussed in Step 16.  Depending 
+on the background of the students, their knowledge 
+of chemistry, and the depth to which you wish to 
+go into this material, it may take two lessons to 
+accomplish this activity.
+MATERIALS
+ One yo-yo
+ One chart showing where spreading ridges are 
+located in the ocean floor
+ National Geographic Video entitled “Dive to the 
+Edge of Creation,” if available
+ Pictures of hydrothermal vents from website: http:
+//www.divediscover.whoi.edu
+ Pictures of animals that live near hydrothermal 
+vents from website: 
+     http://www.divediscover.whoi.edu
+ Picture of CTD frame and sampling bottles from 
+website: http://www.divediscover.whoi.edu
+ One gallon of water, chilled in a refrigerator
+ Vinegar
+ A heat source (microwave oven or hot plate)
+ One eyedropper
+ One tablespoon
+ One data record sheet per student
+Galapagos Rift Expedition
+Yo-Yos, Tow-Yos 
+and pH, Oh My!
+2
+Galapagos Rift Expedition – Grades 7-8 
+Focus: Locating hydrothermal vents
+oceanexplorer.noaa.gov
+Per group of four students:
+ Five beakers labeled A, B, C, D and E
+ One Alka-seltzer tablet (optional)
+ Four thermometers 
+ 20 strips of pH paper and one color  indicator 
+scale
+AUDIO/VISUAL MATERIALS
+TV/VCR  the National Geographic Video “Dive to the 
+Edge of Creation” is available 
+TEACHING TIME
+45 minutes
+SEATING ARRANGEMENT
+Groups of four students
+MAXIMUM NUMBER OF STUDENTS
+36 students
+KEY WORDS
+Tow-yo
+Conductivity
+Salinity
+CTD
+Sampling bottle
+pH
+Acidic 
+Basic
+Hydrothermal vent
+Galapagos Islands
+Plumes
+Hydrothermal 
+White smokers
+Black smokers
+Vents
+Molten
+Crust
+Ionization
+BACKGROUND INFORMATION
+Hydrothermal vents were first found by scientists 
+using towed cameras back in 1976 along the coast 
+of the Galapagos Islands. One year later, scientists 
+traveled over 2,900 meters below the surface of 
+the ocean using the manned submersible, Alvin, for 
+the first in situ human observations of these newly-
+found structures on the deep sea floor. Scientists 
+were very surprised and excited to find towering 
+plumes of black smoke rising from the seafloor, but 
+had no idea then what they were. 
+ 
+Scientists now know that the black smoke was not 
+smoke at all; it was a hydrothermal fluid that was 
+so hot that it could melt metal. The hot fluid car­
+ries dissolved metals from beneath the surface of 
+the seafloor out to cold ocean water. When the 
+hot fluid mixes with seawater, the metals combine 
+with sulfur and this combination forms small black 
+particles. The black particles provide the effect of 
+smoke! There are also white smokers. The fluid 
+coming out of white smokers is generally cooler 
+than the black smokers and flows more slowly. The 
+white color comes from minerals (which lack met­
+als) that mix with the surrounding seawater.
+ 
+Vents occur in areas where warm water flows 
+into the ocean from chimney-like structures on 
+the ocean floor. These vents form in places where 
+there is volcanic activity. Volcanic activity occurs in 
+places around the Earth called ocean ridges where 
+ocean plates are moving away from one another. 
+Erupting lava creates new seafloor.
+Near vents, water travels through cracks in the 
+seafloor and is heated by hot, molten rock far 
+below the ocean crust. Temperatures can reach as 
+high as 400°C. As the water heats up, it reacts 
+with the rocks in the ocean crust. These chemical 
+reactions remove all of the oxygen from the water 
+and, therefore, the water becomes acidic. The hot 
+water rises to the surface of the seafloor and spews 
+out of the vent openings. The pH of this fluid varies 
+from roughly 3 to 5. This hydrothermal fluid carries 
+with it dissolved metals and other chemicals from 
+deep beneath the ocean floor. The water around 
+a hydrothermal vent is more acidic, is higher in 
+salinity and temperature, and is less clear than 
+water from similar depths nearby that lack vents. 
+3
+oceanexplorer.noaa.gov
+Galapagos Rift Expedition – Grades 7-8 
+Focus: Locating hydrothermal vents
+Scientists must sample very close to hydrother­
+mal vents to detect high temperatures as the cold 
+surrounding water of the deep sea at 2 degrees 
+Celsius rapidly absorbs the heat generated from 
+the vents.
+Scientists note the location of hydrothermal vents 
+carefully when they find them so that they are able 
+to return to the area for future observations of vent 
+activity. However, finding new areas of hydrother­
+mal vent activity can be quite challenging. One of 
+the tools scientists use to find vents is a CTD sensor 
+(a conductivity, temperature and depth sensor). 
+The CTD frame can also carry water-sampling 
+bottles that look like long skinny bottles with a cap 
+on the end. Scientists on board a research vessel 
+drop the CTD frame with sampling bottles attached 
+over the side and down to a specific water depth. 
+They are able to send an electronic current down 
+the cable and the current causes the cap on the 
+sampling bottle to open. Water from that depth 
+rushes into the sampling bottle, the cap closes, and 
+the scientists then pull the sensor up through the 
+water column back to the research vessel. Because 
+scientists continually send the CTD frame down to 
+a predetermined depth and then bring it back to 
+the research vessel, this type of sampling can be 
+thought to resemble the up and down movement 
+of a “yo-yo.” Since the CTD is towed behind a 
+research vessel as it goes up and down, scientists 
+bestowed the name of this type of sampling as a 
+“tow-yo.”
+The CTD´s “job” is to measure conductivity and 
+temperature of the seawater at various depths, and 
+in some cases, it can collect water samples from 
+various depths for scientists to study on board the 
+ship. Using data sent up the conducting cable that 
+connects the CTD to the ship, scientists map hydro­
+thermal signals detected in the water column above 
+the seafloor. Once a hydrothermal plume is detect­
+ed, they send an electrical pulse down the cable. 
+That triggers a sample bottle on the CTD frame to 
+collect a water sample. 
+When the CTD and water sample bottles are 
+hauled back on the ship, the researchers take the 
+water samples and transfer them the ship’s labo­
+ratory. There they perform analyses to identify 
+hydrothermal chemicals such as iron, manganese, 
+methane, and hydrogen. If scientists detect signifi­
+cant amounts of hydrogen in a water sample (a 
+low pH), then this can be an indicator of proximity 
+to high-temperature vents.
+A water molecule, H2O, is composed of two hydro­
+gen atoms and one oxygen atom. When water 
+dissociates or separates, it forms H+ and OH-. This 
+process is known as ionization. The hydrogen 
+ion, H+, has a positive charge because it lost an 
+electron, while the hydroxide ion, OH-, has a nega­
+tive charge due to its gaining an electron. When 
+another substance that ionizes is added, acids 
+and bases are formed. An acid is created when 
+excess hydrogen ions are present, while a base is 
+formed when excess hydroxide ions are present. To 
+determine if a substance is acidic or basic, the pH 
+should be determined.
+pH is a measure of the hydronium (H30+) concen­
+tration in a water solution. The pH scale ranges 
+from 0 to 14. If the solution contains more H+ ions, 
+it is acidic while one containing more OH- ions is 
+basic. A neutral solution will have a pH of 7.
+0---------------------------7-------------------------14
+most acidic 
+       neutral 
+      most basic
+          (H+>OH-)                 (H+<OH-)
+pH can be measured using a variety of methods. 
+pH paper is often used and is simple and inexpen­
+sive. There are indicators like phenolphthalein and 
+methyl red, as well as foods that change colors 
+in the presence of acids and bases. A variety of 
+household items can be used as examples of acids 
+or bases. Lemon juice, orange juice, soda, and 
+vinegar are acids. Humans also have a very strong 
+acid—hydrochloric acid—inside their stomachs to 
+aid digestion. The lining of the human stomach is 
+designed to protect the stomach from the strong 
+4
+Galapagos Rift Expedition – Grades 7-8 
+Focus: Locating hydrothermal vents
+oceanexplorer.noaa.gov
+acid, however those people with holes in the lining 
+of their stomachs (ulcers) often suffer very painful 
+results. Examples of bases include bleach and bak­
+ing soda. Solutions that have very low pHs or very 
+high pHs can do tremendous damage to the human 
+body.
+The pH is one attribute that determines the biotic 
+characteristics of a body of water. Most plants can 
+tolerate a pH range of 6.5 to 13 while a large 
+variety of animals prefer 6.5 to 7.5. For this rea­
+son, the low pH found around hydrothermal vents 
+creates a harsh environment in which only unique­
+ly-adapted organisms can survive. 
+LEARNING PROCEDURE
+Prior to class:
+1. Chill one gallon of water overnight in a refrig­
+erator.
+2. For each group of four students, fill five 100ml 
+beakers with chilled water and label each 
+with an A, B, C, D or E.
+3. Heat the water in all beakers labeled D for 
+60 seconds in the microwave oven shortly 
+before the start of class.
+4. Add 3 drops of vinegar to all beakers labeled 
+C and E and stir.
+5. Add one tablespoon of vinegar to all beakers 
+labeled D and stir.
+6. Practice your yo-yo skills!
+During class:
+1. Divide the class into groups of four.
+2. Provide each student with a data worksheet.
+3. Discuss the characteristics of hydrothermal 
+vents with students. Explain where they are 
+located and what they are.
+4. Get out your yo-yo and begin to move the 
+yo-yo up and down along the string. Once 
+you have their attention, explain to students 
+the design and function of a CTD. You can 
+take a step forward with each downward 
+movement of the yo-yo and tell students that 
+scientists use a CTD in a similar manner; 
+they travel “forward” by research vessel and 
+sample the water below with each down­
+ward cast of the CTD.
+5. Explain that sampling bottles are attached to 
+the CTD and explain how sampling bottles 
+function.
+6. Explain the concept of pH. Provide examples 
+of common acids and bases. Explain why the 
+water around a hydrothermal vent is acidic.
+7. Explain to students that they are about to 
+conduct an experiment to determine which 
+sample was taken (using a CTD frame and 
+sampling bottle) from a location very near a 
+hydrothermal vent.
+8. Provide sample A, B, C, D and E to each 
+group of four students.
+9. Provide two thermometers to each group of 
+four students.
+10.  Provide 20 strips of pH paper to each group 
+of four students with at least one pH color 
+indicator chart per group.
+11.  Explain that each student will need to record 
+the temperature and pH of each sample on 
+their data worksheet.
+12.  Model the correct way to measure pH with 
+a pH strip.
+13.  Ask the group, as a whole, to come up with 
+a hypothesis as to which sample was col­
+lected near a hydrothermal vent. Require 
+that they be able to support their hypothesis 
+using the data they have collected.
+14. Provide 20 minutes for the groups to com­
+plete their experiments, fill out their work­
+sheets, and form their hypotheses.
+15. Ask the groups to report their hypotheses.
+16. Optional: for any group that correctly identi­
+fies sample D as the sample taken very near 
+a hydrothermal vent, provide the group with 
+an Alka-Seltzer to place in sample D. The 
+fizzing looks similar to a white smoker on a 
+hydrothermal vent.
+THE BRIDGE CONNECTION
+www.vims.edu/bridge
+Choose Data Port from the sidebar on the left, then 
+On-line Data, and then go to General Sources, 
+5
+oceanexplorer.noaa.gov
+Galapagos Rift Expedition – Grades 7-8 
+Focus: Locating hydrothermal vents
+then to the Digital Library for Earth Systems 
+Education. Once you reach this site, conduct a 
+search using the term “hydrothermal vents.”
+THE “ME” CONNECTION
+Have students do research to determine three 
+similarities and three differences between the land-
+based geyser called “Old Faithful” at Yellowstone 
+National Park and a deep sea hydrothermal vent.  
+CONNECTIONS TO OTHER SUBJECTS
+Biology, English/Language Arts
+EVALUATION
+Provide students with the following hypothetical 
+situation: there is a local citizens group that is 
+concerned about the health of a lake in their area. 
+Twenty years ago, someone threw several canisters 
+of a strong acid into the lake. The canisters have 
+rusted and now have begun leaking. Have students 
+write a letter to the citizen group explaining how 
+they could use a CTD with a water sampling bottle 
+and pH paper to pinpoint where in the lake the 
+canisters have begun to leak.
+EXTENSIONS
+Have your students visit            
+http://oceanexplorer@noaa.gov and www.divediscover.whoi.edu 
+with a member of their family each day to keep up 
+to date with the  latest Galapagos Rift Expedition 
+discoveries.
+Build your own sampling bottle. Let students tape 
+nails or weights to the outside of a small bottle so 
+that it will sink when placed in water. Twist a screw 
+eye into a cork that fits the mouth of the bottle. 
+Mark a string or nylon cord at six inch intervals 
+and tie it to the screw eye. Now tie another 12-inch 
+piece of string from the screw eye around the neck 
+of the bottle. Let this 12-inch piece of string hang 
+loosely. Insert the cork just tightly enough so that it 
+will stay in place when the bottle is lifted by the first 
+string. Carefully, lower the bottle into the water to a 
+depth from which a sample is to be obtained. Next, 
+jerk the string to remove the cork, wait for bubbles 
+to stop rising to the surface and then pull the bottle 
+up (From The Everyday Science Source-book, Dale 
+Seymour Publications, 1985).
+Have students read and summarize any of the 
+following articles from past issues of National 
+Geographic:
+Oases of Life in the Cold Abyss          
+October, 1977
+Return to the Oases of the Deep 
+ 
+ 
+November, 1979
+Light in the Abyss Reveals Life 
+ 
+ 
+November, 1994
+Rebirth of a Deep-sea Vent 
+ 
+ 
+ 
+November, 1994
+Life at the Bottom, May, 1998
+Deep-sea Geysers of the Atlantic 
+ 
+ 
+October, 1992
+Deep Sea Vents: Science at the Extreme 
+ 
+October, 2000
+RESOURCES
+http://oceanexplorer@noaa.gov and www.divediscover.whoi.edu 
+- Follow the Galapagos Rift Expedition daily 
+as documentaries and discoveries are posted 
+each day for your classroom use. A wealth 
+of resource information can also be found at 
+both of these sites.
+ 
+http://www.pmel.noaa.gov/vents/nemo/
+ 
+http://www.divediscover.whoi.edu
+ 
+http://www.nationalgeographic.com
+ 
+http://www.marine.whoi.edu/ships/alvin/alvin.htm
+ 
+http://www.ocean.udel.edu/deepsea
+Gordon, David George. “Explosions from the Deep.” 
+National Geographic World, June 2000, 
+18-21.
+Haymon, Rachel and Richard A. Lutz. “Rebirth of a 
+Deep-Sea Vent.” National Geographic, Nov. 
+1994, 114-126.
+Rona, Peter A. “Deep-Sea Geysers of the Atlantic.” 
+National Geographic, October 1992, 105-
+109.
+6
+Galapagos Rift Expedition – Grades 7-8 
+Focus: Locating hydrothermal vents
+oceanexplorer.noaa.gov
+Van Dover, Cindy Lee. “The Ecology of Deep-Sea 
+Hydrothermal Vents.” Princeton University 
+Press, 2000. 
+Van Dover, Cindy Lee. “The Octopus’s Garden: 
+Hydrothermal Vents and Other Mysteries of 
+the Deep Sea.” Perseus Press, 1996.
+Woodman, Nancy. “Sea-Fari Deep.” National 
+Geographic Books, 1999.
+NATIONAL SCIENCE EDUCATION STANDARDS
+Content Standard A: Science as Inquiry
+• Abilities necessary to do scientific inquiry
+•  Understandings about scientific inquiry
+Content Standard B: Physical Science
+• Properties and changes of properties in matter
+Content Standard D: Earth and Space Science
+• Structure of the earth system
+Content Standard E: Science and Technology
+• Abilities of technological design
+FOR MORE INFORMATION
+Paula Keener-Chavis, National Education    
+ 
+ 
+Coordinator/Marine Biologist
+NOAA Office of Exploration
+Hollings Marine Laboratory
+331 Fort Johnson Road, Charleston SC 29412
+843.762.8818
+843.762.8737 (fax)
+paula.keener-chavis@noaa.gov
+ACKNOWLEDGEMENTS
+This lesson plan was produced by Stacia Fletcher, 
+South Carolina Aquarium, Charleston, SC  for the 
+National Oceanic and Atmospheric Administration. 
+If reproducing this lesson, please cite NOAA as the 
+source, and provide the following URL: 
+http://oceanexplorer.noaa.gov
+oceanexplorer.noaa.gov
+Galapagos Rift Expedition – Grades 7-8 
+Focus: Locating hydrothermal vents
+Student Handout
+Name:
+Sample Data
+                         Sample               Temperature                   pH
+                         
+                             A
+                             B
+                             C
+                             D
+                             E
+Which sample do you think was taken near a hydrothermal vent?
+How does your data support this hypothesis?

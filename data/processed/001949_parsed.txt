@@ -1,0 +1,714 @@
+ 
+ 
+ 
+The Business Systems Modernization Quality 
+Assurance Function Has Established a Solid 
+Set of Policies and Procedures That Can Be 
+Further Enhanced 
+ 
+February 2003 
+ 
+Reference Number:  2003-20-067 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This report has cleared the Treasury Inspector General for Tax Administration disclosure 
+review process and information determined to be restricted from public release has been 
+redacted from this document. 
+ 
+DEPARTMENT OF THE TREASURY 
+                                    WASHINGTON, D.C.  20220 
+ 
+                          INSPECTOR GENERAL 
+                                      for TAX 
+                              ADMINISTRATION  
+ 
+ 
+February 27, 2003  
+ 
+ 
+MEMORANDUM FOR DEPUTY COMMISSIONER FOR MODERNIZATION & 
+CHIEF INFORMATION OFFICER  
+ 
+ 
+FROM: 
+Gordon C. Milbourn III 
+ Acting Deputy Inspector General for Audit 
+ 
+SUBJECT: 
+ Final Audit Report - The Business Systems Modernization 
+Quality Assurance Function Has Established a Solid Set of 
+Policies and Procedures That Can Be Further Enhanced  
+(Audit # 200220017) 
+ 
+ 
+ 
+This report presents the results of our review of the Business Systems Modernization 
+(BSM) Quality Assurance (QA) function.  The overall objective of this review was to 
+identify gaps between the existing BSM QA policies and procedures and best practice 
+QA policies and procedures. 
+In a previous review by the Treasury Inspector General for Tax Administration, we 
+determined that an independent BSM QA function with policies and procedures had not 
+been established.1  Since that time, the Internal Revenue Service (IRS) has established 
+a BSM QA function with a solid set of policies and procedures.  The BSM QA function 
+has also begun to conduct effective audits of BSM activities. 
+In summary, while much progress has been made, policies and procedures concerning 
+independence, planning, skills assessments, standards compliance, stakeholder 
+involvement, corrective action processing, and metrics could be enhanced to improve 
+future operations.  During the review, we shared our results with the Associate 
+Commissioner, BSM, and the BSM QA Manager.  Several actions were taken to 
+address the issues we raised; these actions are discussed throughout the report.  For 
+actions that could not be completed during the time period of our review, we provided 
+detailed recommendations to assist the BSM QA function in continuously improving its 
+operations.  These recommendations included initiating and documenting an 
+                                                 
+1 Significant Risks Need to Be Addressed to Ensure Adequate Oversight of the Systems Modernization Effort 
+(Reference Number 2000-20-099, dated June 2000). 
+2 
+ 
+independent path to staff, plan, execute, and report on the status of Business Systems 
+Modernization Office processes and products, enhancing existing QA policies and 
+procedures, and improving BSM QA performance metrics. 
+Management’s Response:  The Deputy Commissioner for Modernization & Chief 
+Information Officer generally agreed with our recommendations and is taking 
+appropriate corrective actions to further improve BSM QA procedures.  These actions 
+include assessing the appropriateness of including an escalation process in the BSM 
+QA procedures and revising the procedures as necessary, enhancing audit and 
+corrective action procedures, and developing a metrics methodology.  We agree that 
+these actions are a good start toward improving the independence and operations of the 
+BSM QA function.  Management’s complete response to the draft report is included as 
+Appendix IV. 
+Copies of this report are also being sent to the IRS managers affected by the report 
+recommendations.  Please contact me at (202) 622-6510 if you have questions or  
+Gary V. Hinkle, Acting Assistant Inspector General for Audit (Information Systems 
+Programs), at (202) 927-7291. 
+ 
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+ 
+Table of Contents 
+Background ...............................................................................................Page   1 
+An Effective Business Systems Modernization Quality Assurance  
+Organization Has Been Established..........................................................Page   2 
+Enhancements Can Be Made to Further Improve Quality Assurance  
+Policies and Procedures............................................................................Page   3 
+Recommendations 1 and 2: .......................................................... Page 11 
+Recommendation 3: ...................................................................... Page 12 
+Appendix I – Detailed Objective, Scope, and Methodology.......................Page 13 
+Appendix II – Major Contributors to This Report........................................Page 14 
+Appendix III – Report Distribution List .......................................................Page 15 
+Appendix IV – Management’s Response to the Draft Report ....................Page 16 
+ 
+ 
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  1 
+In 1998, the Internal Revenue Service (IRS) initiated the 
+Business Systems Modernization (BSM) program to 
+modernize its outdated computer systems and related 
+information technology.  The BSM program is one of the 
+most complex and expensive efforts ever undertaken by the 
+IRS.  
+In Fiscal Year (FY) 2000, the Treasury Inspector General 
+for Tax Administration (TIGTA) performed the first in a 
+series of audits to evaluate the IRS’ oversight of the new 
+BSM effort.1  The review included an assessment of the 
+BSM Quality Assurance (QA) function.  As a result of the 
+audit, we recommended that the IRS establish an 
+independent QA function that reported directly to the IRS 
+Chief Information Officer (CIO).  We also recommended 
+that the IRS finalize and fully implement QA policies and 
+procedures.  
+Since the completion of our first audit, the IRS has 
+established a BSM QA function, whose mission is to 
+provide BSM senior management with confidence that the 
+products being built and services being provided for all 
+modernization activities are produced by repeatable, 
+standardized, and effective processes and conform to 
+applicable contractual, program, and project requirements.  
+The BSM QA function conducts audits of the Business 
+Systems Modernization Office (BSMO)2 organizational 
+units, the PRIME3 Quality Management Office, the TRW4 
+QA organization, and other contractor program functions 
+and projects.  
+Our audit was conducted at the IRS National Headquarters 
+in Washington, D.C., between June and November 2002 in 
+                                                 
+1 Significant Risks Need to Be Addressed to Ensure Adequate Oversight 
+of the Systems Modernization Effort (Reference Number 2000-20-099, 
+dated June 2000). 
+2 The IRS created the BSMO to oversee the BSM effort. 
+3 The PRIME contractor and integrator for BSM is Computer Sciences 
+Corporation, which heads an alliance of leading technology companies 
+that provide assistance to the IRS. 
+4 The TRW Corporation is responsible for developing certain  
+finance-related BSM projects. 
+Background 
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  2 
+accordance with Government Auditing Standards.  Detailed 
+information on our audit objective, scope, and methodology 
+is presented in Appendix I.  Major contributors to the report 
+are listed in Appendix II. 
+The IRS has established an effective BSM QA organization 
+by creating a set of policies and procedures, hiring staff to 
+perform QA activities, conducting effective audits, and 
+enlisting the MITRE Corporation5 to provide an independent 
+review of BSM QA operations.  
+Policies and procedures for performing audits and other QA 
+activities were first established in June 2000 and have been 
+refined since that time.  In addition, documentation of the 
+purpose and scope of the function has been established.  
+In March 2001, the BSMO hired the Dynamics Research 
+Corporation to begin conducting QA audits.  Before that 
+time, the BSMO supplemented the BSM QA staff with 
+MITRE Corporation personnel.  At the end of our audit 
+work, three IRS and seven Dynamics Research Corporation 
+employees were assigned to the BSM QA function.   
+Since March 2001, the BSM QA function has published five 
+audit reports dealing with a number of critical issues.  These 
+audits included a review of the Integrated Master Schedule,6 
+the Process Asset Library7 management process, the 
+acquisition management process, the PRIME Quality 
+Management Office, and the TRW QA organization.  We 
+found that the reports raised significant issues and provided 
+important feedback for the areas under review.  
+The BSM QA function has also recognized the need to 
+continuously improve.  During our review, the BSMO 
+tasked the MITRE Corporation to perform an independent 
+review of the BSM QA function to verify that the function 
+                                                 
+5 The MITRE Corporation provides the IRS with specific expertise in 
+managing the systems modernization program. 
+6 The Integrated Master Schedule is a collection of project schedules 
+that have been integrated to form a program view that represents project 
+dependencies. 
+7 The Process Asset Library is a web-based repository that contains 
+systems life cycle process documentation. 
+An Effective Business Systems 
+Modernization Quality Assurance 
+Organization Has Been 
+Established  
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  3 
+was performing activities according to policy, plans, and 
+procedures.  The MITRE Corporation found that the BSM 
+QA function had generally adhered to policies and 
+procedures; however, some improvement opportunities were 
+noted.  
+Similar to the MITRE Corporation, we identified areas for 
+improvement.  During our review, we compared BSM QA 
+policies and procedures to best practice audit procedures.  
+We communicated any areas for improvement to the 
+Associate Commissioner (AC), BSM, and BSM QA 
+Manager.  Comments from the AC, BSM, and BSM QA 
+Manager are interspersed throughout the remainder of this 
+report. 
+The reporting level for the BSM QA function has 
+increased; however, further steps can be taken to 
+enhance independence 
+We previously recommended that the BSM QA function 
+report directly to the CIO.  Currently, the BSM QA function 
+reports to the AC, BSM.  The Government Auditing 
+Standards indicate that auditors “…should report the results 
+of their audits and be accountable to the head or deputy head 
+of the government entity and should be organizationally 
+located outside the staff or line management function of the 
+unit under audit.”  While not designated as an internal audit 
+organization, the BSM QA function does perform audits of 
+the BSMO, which is headed by the AC, BSM.  In this way, 
+the BSM QA function is similar to an internal audit 
+function. 
+Current policies and procedures indicate that the AC, BSM, 
+is responsible for:  1) ensuring adequate BSM QA staffing;  
+2) approving the BSM QA Plan; 3) approving BSM QA 
+policies and procedures; 4) receiving and reviewing status 
+reports; and 5) resolving untimely, unresolved, or 
+ineffective responses to QA reports.  Since BSMO audits 
+are within the scope of BSM QA activities, some of these 
+activities might involve a conflict of interest for the  
+AC, BSM (who is directly responsible for BSMO 
+operations). 
+Enhancements Can Be Made to 
+Further Improve Quality 
+Assurance Policies and 
+Procedures  
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  4 
+The current AC, BSM, is considered a “champion” for the 
+BSM QA function; however, we believe that policies and 
+procedures should specifically articulate a clearer 
+independent path to staff, plan, execute, and report on the 
+status of BSMO processes and products should this situation 
+change.  Without organizational independence, a future  
+AC, BSM, could eliminate (or not fully staff) the BSM QA 
+function, hold undue influence over BSM QA reporting, or 
+redirect QA resources away from audits of the BSMO. 
+The AC, BSM, indicated that he did not feel that increasing 
+the independence for the BSM QA function would improve 
+operations because the CIO would not have the time to 
+manage the BSM QA function properly and the focus 
+currently provided by the function would therefore suffer.  
+The AC, BSM, also indicated that he considered BSMO 
+audits to be only a small aspect of the BSM QA mission. 
+The BSM QA function should implement proactive,  
+risk-based planning 
+The Control Objectives for Information and Related 
+Technology8 suggests critical success factors to look for 
+during an independent audit of an information technology 
+program.  Two of these critical success factors are:   
+1) risk-based planning is used to identify business and 
+information technology activities for initial and cyclical 
+reviews, and 2) audits should be planned and conducted 
+proactively.  
+We determined that an informal planning process was being 
+used to determine priorities and to select the modernization 
+processes, programs, and projects to receive QA audit 
+coverage.  Currently, the BSM QA Manager discusses the 
+priorities with the AC, BSM, and establishes a 6-month 
+rolling audit schedule.  The BSM QA Manager and the  
+                                                 
+8The Control Objectives for Information and Related Technology is a 
+generally applicable and accepted standard for good information 
+technology security and control practices that provides a reference 
+framework for management, users, and information systems audit, 
+control, and security practitioners.  
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  5 
+AC, BSM, meet frequently to discuss program status and 
+priorities and to make revisions to the QA audit schedule.  
+Without a formal risk-based planning process, the BSM QA 
+function may not be reviewing BSM processes, programs, 
+and projects with the highest risks and priorities.  Using 
+informal methods to identify priorities and establish the 
+audit schedule could allow significant risks in critical BSM 
+activities to go undiscovered.  The MITRE Corporation’s 
+recently completed independent review of the BSM QA 
+function supports the need for a formal, proactive,  
+risk-based planning process. 
+To assist in the effort to improve proactive, risk-based 
+planning, we provided the AC, BSM, with an example of a 
+risk-based planning model that could be used for planning 
+audits.  The AC, BSM, agreed that a more formal process 
+was needed and stated that he felt that risk-based planning 
+was being conducted; however, the method had not been 
+documented.  We determined that not having a documented 
+risk-based planning method was due to the function’s 
+relatively early stage of development. 
+Management Action:  The BSMO has identified 
+improvements to the QA planning process as a high-level 
+goal for FY 2003. 
+The BSM QA function should analyze current and 
+future skills needs 
+Human capital is defined by the National Academy of 
+Public Administration as the “identification of competencies 
+and skills … needed to realize an organization’s mission and 
+operating goals.”  According to the General Accounting 
+Office (GAO), acquiring and developing staffs whose size 
+and skills meet agency needs is one of the most pervasive 
+challenges now facing the Federal Government.9   
+During our review, the IRS and contractor employee 
+turnover rates were extremely high.  According to the BSM 
+QA Manager, some of this turnover was to correct the skill 
+                                                 
+9 NASA Management Challenges:  Human Capital and Other Critical 
+Areas Need to be Addressed (GAO-02-945T, dated July 2002). 
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  6 
+mix within the BSM QA function.  In a changing 
+environment, it is important that needed skills are 
+documented so that current and future BSM QA and 
+contractor personnel can be assessed to determine if staff are 
+collectively qualified or need training.  Without an analysis 
+of skill levels, the BSM QA function may not be able to 
+meet the Government Auditing Standards, which require 
+that audit teams collectively possess the knowledge and 
+skills needed to conduct an audit. 
+However, the BSM QA function had not assessed current 
+skill levels against needed skills.  To assist in the effort to 
+improve QA human capital planning, we provided the  
+AC, BSM, and the BSM QA Manager with an example of a 
+model that could be used for assessing skills gaps.  We 
+determined that not conducting detailed human capital 
+planning was due to the function’s relatively early stage of 
+development.   
+Management Action:  The BSM QA Manager stated that she 
+had begun working on general and specific competencies 
+needed within the BSM QA program and had developed a 
+proposed training plan.  This action is in addition to human 
+capital actions being taken at the Modernization, 
+Information Technology and Security (MITS) Services level 
+of the IRS. 
+Both the TIGTA and the GAO have reported weaknesses 
+regarding human capital planning within the BSMO.10  
+According to the IRS, the MITS Services organization will 
+be establishing a MITS Services-wide skills inventory.  The 
+MITS Services organization has also created a human 
+factors life cycle and conducted interviews with its 
+executives to determine current and future skills gaps.  
+                                                 
+10 Significant Risks Need to Be Addressed to Ensure Adequate Oversight 
+of the Systems Modernization Effort (Reference Number 2000-20-099, 
+dated June 2000); and Business Systems Modernization:  IRS Needs To 
+Better Balance Management Capacity with Systems Acquisition 
+Workload (GAO-02-356, dated February 2002). 
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  7 
+Since there is an outstanding recommendation to improve 
+human capital planning, we are not making any additional 
+recommendations at this time. 
+The BSM QA function should plan and execute audits 
+using a recognized, professional standard 
+The Government Auditing Standards require a reference in 
+each audit report to the standard being used for conducting 
+the audit.  The audit plans prepared by the BSM QA 
+function did not include a reference to a recognized 
+professional standard that would be followed.  Also, only 
+three of the five audit reports we reviewed included a 
+reference to a professional standard.  
+Without following a recognized professional standard, 
+audits may not be conducted uniformly and may not be 
+comparable.  We determined that a professional standard 
+was not included in the QA documentation due to the 
+function’s relatively early stage of development. 
+Audit communications during fieldwork should be 
+improved 
+The Government Auditing Standards require that audit 
+results be reported timely.  In our opinion, interim reporting 
+to those being audited helps ensure conformity with this 
+standard.  
+The BSM QA procedures require communication during 
+various phases of the audit, including planning, preparation, 
+performance, and reporting.  However, this contact does not 
+include status reporting during fieldwork with anyone other 
+than BSM QA management.   
+In the absence of such interim reporting, there can be greater 
+difficulty in reaching agreements, as well as a tendency to 
+receive negative feedback from those being audited.  
+Incorporating such status reporting during fieldwork could 
+result in corrective actions being taken timelier, as well as 
+the receipt of more timely input from those being audited. 
+After we discussed this issue with the AC, BSM, and the 
+BSM QA Manager, the BSM QA Manager stated that the 
+function had worked hard on improving communications 
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  8 
+during planning and reporting.  However, it now needed to 
+focus on improving communications during audit fieldwork. 
+Management Action:  The BSM QA Manager indicated that 
+more frequent status briefings have already been initiated in 
+a current audit and that procedures would be revised in the 
+future. 
+Corrective action processing procedures can be 
+improved  
+The BSM QA function performs process audits to determine 
+if processes conform to applicable plans, standards, 
+procedures, and requirements.  When the audit team 
+identifies findings or observations during the review, they 
+are reported in either Corrective Action Reports (CAR) or 
+Improvement Opportunity reports.  CARs are issued for 
+findings, while Improvement Opportunity reports are issued 
+for observations.  The BSM QA procedures define findings 
+as non-adherence to a standard and observations as 
+improvements to existing processes or documentation   
+(e.g., procedures which are out-of-date, incomplete, unclear, 
+or confusing). 
+The BSM QA contractor is required to monitor and validate 
+that corrective actions have been taken.  In addition, BSM 
+QA procedures require that priorities be assigned to the 
+corrective actions.  We determined that procedures could be 
+improved in both of these areas. 
+Procedures for assigning priorities can be improved  
+We reviewed a judgmental sample of eight CARs and found 
+that the lowest priority was improperly assigned to six of the 
+CARs.  Although the procedures list the priorities and the 
+elements that make up the priorities, the procedures do not 
+provide a formal method for assigning the priorities to 
+individual CARs.  The six CARs that were assigned the 
+lowest priority included findings such as modernization 
+products could be delivered with unresolved quality issues, 
+the PRIME Quality Management Office was not sufficiently 
+independent, and not all program and project QA activities 
+were being performed. 
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  9 
+The BSM QA Manager explained that the CAR procedures 
+were outdated and did not apply when the CARs were first 
+generated.  Therefore, the BSM QA function did not use the 
+procedures to assign priorities.  Instead, the priorities were 
+informally assigned to the CARs (i.e., no reasons were 
+documented explaining why a particular priority was 
+assigned).  Without appropriate priorities being assigned, 
+corrective actions may not receive appropriate priority 
+attention or visibility. 
+Management Action:  The BSM QA Manager stated that a 
+follow-up audit of the PRIME Quality Management Office 
+has been initiated to review the corrective actions taken on 
+the CARs, including the six CARs that were identified as 
+having an inappropriate priority rating. 
+The BSM QA Manager also indicated that revisions to the 
+verification and validation procedures have been drafted, 
+including a method of assigning priorities to corrective 
+actions. 
+Corrective actions were closed before they were verified 
+and validated 
+We reviewed a judgmental sample of eight CARs and one 
+Improvement Opportunity report and found that the 
+corrective actions in six of the CARs were not verified and 
+validated.  Although the six CARs were closed, the BSM 
+QA function did not obtain sufficient evidence that the 
+corrective actions had been completed prior to closure.  The 
+unresolved issues in these six CARs include potential 
+quality defects in delivered modernization products and 
+programs or projects that the PRIME Quality Management 
+Office had never audited. 
+These issues were identified because the BSM QA 
+corrective action verification and validation processes are 
+still maturing.  For example, we noted that the procedures 
+did not require the creation of a follow-up audit or 
+monitoring plan to ensure that corrective actions were 
+completed.  Without an adequate follow-up process, the 
+BSM QA function has no assurance that the problems 
+identified in the CARs have been corrected.  
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  10 
+Management Action:  The BSM QA function initiated a 
+follow-up review of the PRIME Quality Management 
+Office.  The audit will include a review of the status of prior 
+corrective actions.  The BSM QA Manager also indicated 
+that revisions to the verification and validation procedures 
+have been drafted.  The procedures will include definitive 
+guidance on developing appropriate issue (or finding) 
+statements, setting a timeline for completion of the 
+corrective actions, and preparing follow-up and monitoring 
+plans as appropriate.  
+Measuring the performance of the QA program could be 
+improved 
+The BSM QA procedures require that metrics be developed 
+and captured to assist in achieving QA objectives and 
+measuring the effectiveness of the QA program.  The QA 
+procedures include quality goals and objectives and contain 
+the metrics to be captured and analyzed.  The Control 
+Objectives for Information and Related Technology 
+suggests that an effective QA system should include  
+well-defined, measurable quality standards.  Also, the 
+system should contain key goal indicators to measure the 
+effectiveness of the QA program, such as increased 
+customer satisfaction with services rendered. 
+Our review showed that the BSM QA measurement process 
+is still maturing.  Although QA metrics were defined in the 
+QA procedures and some metrics were captured, procedures 
+for the selection and use of metrics need to be improved.  
+We noted that metrics to determine the effectiveness of the 
+BSM QA function had not been established, standards had 
+not been developed to analyze against actual metrics, and 
+metrics were not consistently captured and analyzed.  We 
+also noted that certain metrics were being captured that 
+could be counter-productive due to their focus on quantity 
+versus quality. 
+Without a good measurement process, IRS management 
+cannot ensure an effective and efficient BSM QA function is 
+in place.  To assist in the effort to improve the QA metric 
+program, we provided the AC, BSM, and BSM QA  
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  11 
+Manager with examples of best practices metrics that could 
+be used for QA activities. 
+Management Action:  The BSMO has identified developing 
+QA measures as a high-level goal for FY 2003. 
+Recommendations 
+To ensure that the BSM QA function continues to improve, 
+we recommend that the BSM QA Manager:  
+1. Initiate and document an independent path to staff, plan, 
+execute, and report on the status of BSMO processes 
+and products. 
+Management’s Response:  The BSMO QA Office will 
+assess the appropriateness of including an escalation process 
+in the BSM QA procedures and revise the procedures as 
+necessary. 
+Office of Audit Comment:  We agree that this action is a 
+good start toward improving the independence of the BSM 
+QA function.     
+2. Enhance existing QA policies and procedures. 
+a. Select and document a recognized professional audit 
+standard that is followed when planning, executing, 
+and reporting audits. 
+b. Institute and document an interim reporting process 
+to interested stakeholders (e.g., those being audited) 
+during fieldwork. 
+c. Develop, implement, and document a formal  
+risk-based planning process to select modernization 
+processes, programs, and projects for coverage. 
+d. Revise procedures to include a methodology for 
+assigning priorities to the corrective actions. 
+e. Require follow-up audit plans and monitoring plans 
+be developed to guide verification and validation 
+activities. 
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  12 
+f. Require meetings be held with those responsible for 
+taking corrective actions to reach agreement on what 
+corrective actions will be implemented and when the 
+implementation should be completed. 
+Management’s Response:  The Deputy Commissioner for 
+Modernization & CIO agreed with the recommendation and 
+plans to enhance audit and corrective action procedures.   
+3. Improve BSM QA performance metrics. 
+a. Develop standards to analyze against the actual 
+metrics to measure the progress in achieving goals 
+and objectives. 
+b. Develop a procedure and methodology for uniformly 
+selecting, capturing, analyzing, and using metrics. 
+c. Incorporate best practice metrics into the QA 
+procedures.  
+d. Remove or minimize metrics that focus strictly on 
+capturing numbers because they may be  
+counter-productive. 
+Management’s Response:  The Deputy Commissioner for 
+Modernization & CIO agreed with the recommendation and 
+plans to develop a metrics methodology.  
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  13 
+ 
+Appendix I 
+ 
+ 
+Detailed Objective, Scope, and Methodology 
+ 
+The overall objective of this review was to identify gaps between the existing Business Systems 
+Modernization (BSM) Quality Assurance (QA) policies and procedures and best practice QA 
+policies and procedures.  To accomplish our objective, we determined if any gaps existed 
+between best practice QA policies and procedures and current BSM QA policies and procedures 
+and evaluated any ongoing improvement or corrective actions being taken in the following areas:  
+A. Independence. 
+B. Planning. 
+C. Metrics and Management Information Systems. 
+D. Standards Compliance. 
+E. Stakeholder Involvement. 
+F. Corrective Action Processing. 
+G. Skills/Training Needs. 
+ 
+ 
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  14 
+Appendix II 
+ 
+ 
+Major Contributors to This Report 
+ 
+Scott Wilson, Assistant Inspector General for Audit (Information Systems Programs) 
+Gary V. Hinkle, Acting Assistant Inspector General for Audit (Information Systems Programs) 
+Scott Macfarlane, Director 
+Troy Paterson, Audit Manager 
+Ken Carlson, Senior Auditor 
+Paul Mitchell, Senior Auditor 
+Wallace Sims, Senior Auditor 
+ 
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  15 
+Appendix III 
+ 
+ 
+Report Distribution List 
+ 
+Acting Commissioner  N:C 
+Associate Commissioner, Business Systems Modernization  M:B 
+Chief Counsel  CC  
+National Taxpayer Advocate  TA  
+Director, Legislative Affairs  CL:LA 
+Director, Office of Program Evaluation and Risk Analysis  N:ADC:R:O 
+Office of Management Controls  N:CFO:F:M 
+Audit Liaison: 
+Associate Commissioner, Business Systems Modernization  M:B 
+ 
+ 
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  16 
+Appendix IV 
+ 
+ 
+Management’s Response to the Draft Report 
+ 
+ 
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  17 
+ 
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  18 
+ 
+The Business Systems Modernization Quality Assurance Function  
+Has Established a Solid Set of Policies and Procedures That Can Be  
+Further Enhanced 
+ 
+Page  19 
+ 

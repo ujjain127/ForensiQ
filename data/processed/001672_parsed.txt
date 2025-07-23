@@ -1,0 +1,1514 @@
+January 2008      Volume 34 Number 1
+The Joint Commission Journal on Quality and Patient Safety
+USP Medication Safety Forum
+Angela K.M. Lipshutz, M.P.H.
+Laura L. Morlock, Ph.D.
+Andrew D. Shore, Ph.D.
+Rodney W. Hicks, Ph.D., A.P.R.N.
+Sydney M. Dy, M.D., M.Sc.,
+Peter J. Pronovost, M.D., Ph.D.
+Bradford D. Winters, M.D., Ph.D.
+Department Editor: James G. Stevenson, Pharm.D., College of
+Pharmacy, University of Michigan, and University of Michigan
+Hospitals. This department features medication error issues based
+on data collected by the United States Pharmacopeia (USP).
+46
+M
+edical errors are one of the leading causes of
+death and injury in the United States, respon-
+sible for more deaths each year than AIDS,
+breast cancer, or motor vehicle accidents.1 Medication
+errors are the most common type of medical error.2 A
+medication error is “any preventable event that may cause
+or lead to inappropriate medication use or patient harm
+while the medication is in the control of the health care
+professional, patient, or consumer.”3 Considerable evi-
+dence demonstrates that medication errors are frequent,
+costly, and occur in all health care settings.4–6
+The analysis reported in this article focuses on one type
+of adverse event involving medications in acute care inpa-
+tient settings—errors associated with code situations. A
+code situation is defined as “an emergency situation in
+which a specialized team of health care professionals [is]
+summoned to the scene by an agreed upon signal (e.g.,
+code blue), to deliver immediate life support measures to
+the patient.”7(p. 113) This definition differs from the stricter
+definition of cardiac and/or respiratory arrest propounded
+by the American Heart Association in that it is more
+inclusive of severely harmful events such as profound
+hypotension, arrhythmias, and severe respiratory depres-
+sion that may progress to an arrest.8
+Code situations interrupt the normal work flow of a
+hospital, requiring staff from various areas of the hospital
+to leave their work areas to attend to a critically ill patient.
+Given the emergent nature of the situation, little time is
+available to providers for thought, discussion, and estab-
+lishment of effective cross-coverage of duties. Many differ-
+ent types of error can occur during code situations, and
+these errors can affect a variety of patients. Such errors
+include not only errors to the patient coding but also
+errors to other patients whose health care providers are
+attending the code.
+Literature on code-related errors is scarce, and informa-
+tion on code-related errors affecting patients other than
+the one involved in the code is largely unavailable.
+Improving the safety and efficacy of code situations
+requires a better understanding of the type and character-
+istics of errors that occur during these unique times. The
+specific aim of this study was to describe code-related
+errors using a national medication error report database
+(MEDMARX®) that captures information on these and
+other types of medication errors. 
+Methods
+DATA SOURCE
+MEDMARX is a national, voluntary, anonymous medica-
+tion error reporting system maintained by the United
+States Pharmacopeia. Currently collecting more than
+14,000 error reports per month from caregivers and staff
+of member facilities, the database now holds more than
+1.2 million adverse drug event records from more than
+880 subscribing hospitals, health systems, and other
+health care facilities. Subscribing facilities, representing
+every state in the United States, include academic centers,
+community facilities, government-affiliated hospitals, and
+Medication Errors Associated 
+with Code Situations in U.S. 
+Hospitals: Direct and 
+Collateral Damage 
+Copyright 2008 Joint Commission on Accreditation of Healthcare Organizations
+47
+January 2008      Volume 34 Number 1
+The Joint Commission Journal on Quality and Patient Safety
+specialty hospitals of varying bed size. Nearly two-thirds of
+these facilities have fewer than 200 beds, 80% are general
+community hospitals, 7% are teaching institutions, and
+30% are government operated, making MEDMARX
+comparable to the United States hospital population as
+characterized by the American Hospital Association.9,10
+We included error reports submitted to MEDMARX
+between January 1, 2000, and December 31, 2005, with
+“code situation,” as defined, selected from a structured list
+of contributing factors. Given the difference in code situ-
+ations in-hospital as compared to out-of-hospital, only in-
+hospital errors were included. Non-code-related in-
+hospital errors were used for comparison. 
+ANALYSIS
+We performed both qualitative and quantitative 
+analyses.
+Qualitative Analysis. Our qualitative analysis of the
+reports used free-text descriptions of the error to create a
+new variable describing how the error was related to a code
+situation (the “relationship to code situation variable”).
+Values include error to the patient involved in the code,
+error to a patient other than the one coding (a “collateral
+damage error”), error that precipitated a code situation,
+and error that occurred after a code situation. We expect-
+ed the majority of the error reports to describe errors to the
+patient involved in the code. Error reports were assigned
+values for the new variable only if the free-text description
+contained information confirming that the contributing
+factor “code situation” was chosen on the basis of the pro-
+vided MEDMARX definition. Confirmation was based
+on the presence of one or more of the following key words
+in the free-text description: code, emergency, mask venti-
+lation, intubation, advanced cardiac life support (ACLS),
+seizure, status epilepticus, cardiopulmonary resuscitation
+(CPR), defibrillation, arrhythmia, cardioversion, cardiac
+arrest, respiratory arrest, resuscitation, rescue efforts,
+STAT, trauma, ventilator, life-threatening, hypotension,
+critical situation, and airway established. 
+Two researchers [A.K.M.L., B.D.W.] independently
+reviewed the free-text descriptions and generated a value
+of the new variable for each report. Reports without any of
+these key words but describing grave clinical situations
+were assigned a value based on reviewer consensus. Error
+reports that did not meet these criteria were excluded from
+the analysis. The excluded reports described general med-
+ication errors and/or errors in which “code situation” was
+selected as a contributing factor on the basis of a definition
+of code that differs from the MEDMARX definition (for
+example, code defined as “a word, letter, number, or other
+symbol used in a code system to mark, represent, or iden-
+tify something”11).
+Quantitative Analysis. We performed quantitative
+analysis on all reports that met inclusion criteria, as well as
+subgroup analysis by the variable describing relationship
+to the code situation. Comparisons were made among
+code-related errors as well as between code-related and
+non-code-related in-hospital errors reported during the
+same period. We hypothesized (1) that code-related errors
+would be more harmful and more likely to result in cor-
+rective action than non-code-related errors, and (2) that
+collateral damage errors would be more likely to report
+distractions and work load increases as contributing fac-
+tors than noncollateral damage errors. Statistical signifi-
+cance was assessed using the chi-square test or Fisher’s
+exact test (for cells with n < 10). Univariate odds ratios
+(ORs) were calculated. 
+We performed multiple logistic regression with general-
+ized estimating equation and robust estimation of variance
+to examine the relationship between collateral damage
+errors and resulting corrective action, with adjustment for
+characteristics of the error and harm resulting from the
+error. Our primary outcome measure was whether the
+error resulted in any corrective action; we hypothesized
+that collateral damage errors would be less likely to result
+in corrective actions than other code-related errors. The
+type of action taken was a secondary outcome measure.
+We classified actions as policy-level or non-policy-level.
+Policy-level actions included acquisition or modification
+of computer software, environmental modification,
+change in formulary, initiation or alteration of a policy or
+procedure, and modification of staffing practice or policy.
+We assumed that errors with no reported corrective action
+resulted in no action. Our primary predictor variable was
+whether or not the code-related error was a collateral dam-
+age error; resulting harm was a secondary predictor vari-
+able. We adjusted for location of the error, node at which
+the error occurred, whether or not the error occurred on a
+weekend, contributing factors associated with the error,
+and cause of the error.
+Copyright 2008 Joint Commission on Accreditation of Healthcare Organizations
+48
+January 2008      Volume 34 Number 1
+The Joint Commission Journal on Quality and Patient Safety
+We checked for interaction between harm and all other
+covariates; no statistically significant interaction was
+found. The likelihood ratio test was used to exclude
+unnecessary covariates. Collinearity for logistic regression
+analyses was checked by performing multiple linear regres-
+sion instead of the logistic regression analyses to calculate
+the variance inflation factors, which were all less than 2.0.
+We used the Hosmer-Lemeshow test to assess goodness of
+fit of the final model. Generalized linear models were used
+in the event of poor model fit. 
+We explored alternative models to test some of our
+assumptions. First, we imputed 452 missing values for the
+outcome of resulting corrective action and repeated the
+analysis. Imputation of the missing values did not change
+the results of the analysis. In addition, we repeated the
+analysis excluding a cluster of 100 collateral damage error
+reports from one facility that were identical in nature and
+therefore had questionable integrity. Exclusion of these
+reports did not affect our conclusions. Statistical analyses
+were performed using Stata statistical software release 9.0
+(Stata Corporation, College Station, TX). 
+Results
+CHARACTERISTICS OF CODE-RELATED ERRORS
+From 2000 to 2005, a total of 1,043,939 errors were
+reported to the MEDMARX database from 834 health
+care facilities. Code situation was selected as a contribut-
+ing factor in 2,288 (0.22%) errors from 384 facilities,
+2,034 errors of which occurred in a hospital setting. In
+contrast, there were 897,194 non-code-related in-hospital
+errors. Among the 2,034 code-related errors,
+■29 were prescription coding errors (those who reported
+the error chose code situation on the basis of a definition
+of the term different from the one provided by MED-
+MARX).
+■1,163 were general medication errors with none of our
+key words in the free-text description; it was not possible
+to determine why code situation was chosen as a con-
+tributing factor in these cases nor to determine a value for
+the relationship to code variable. These 1,163 errors were
+excluded from the analysis. 
+Therefore, 842 error reports were available for this
+analysis. 
+Of these 842 errors, 94% occurred in general commu-
+nity hospitals. Errors most commonly occurred in a gener-
+al patient care ward (70%), emergency department (ED;
+8.2%), or intensive care unit (ICU; 7.5%). Eighty-six per-
+cent of these errors occurred during medication adminis-
+tration. The most common type of error was an omission
+error (72%); 9.0% were improper dose errors and 5.7%
+were unauthorized drug administration errors. Errors most
+frequently involved registered nurses (45%) and respirato-
+ry therapists (43%), and were also most frequently discov-
+ered by these two groups. The errors involved 137 unique
+drugs and 52 unique therapeutic classes. Anti-
+asthma/bronchodilators (69%), autonomic medications
+(5.2%), and sedative/hypnotics (4.5%) were the most
+common therapeutic classes implicated in the errors. Each
+report listed, on average, 1.5 causes of the error: 30% of
+errors were associated with performance (human) deficit,
+16% with work flow disruption, and 12% with lack of
+adherence to a procedure or protocol. Although all reports
+listed “code situation” as a contributing factor, 37% select-
+ed at least one other contributing factor, and 7% had a
+total of four or more contributing factors. The most com-
+mon additional contributing factors were emergency situ-
+ation, work load increase, and insufficient staffing. Fifty
+five (6.5%) of the errors were associated with patient
+harm, and there were five deaths (0.59%), making code-
+related errors 39 times more likely to result in harm than
+non-code-related in-hospital errors (95% confidence
+interval [CI]: 28.9–51.4) and 51.5 times more likely to
+result in death (95% CI: 16.4–124.6). 
+Only 390 of the 842 reports answered the MEDMARX
+question regarding actions taken in response to the error.
+We assumed that lack of response to this question implied
+no action resulted from the error. Overall, 29% of errors
+resulted in some action. The most common reported
+actions were “informed staff who made the initial error”
+(17% of all errors) and provision of additional education
+or training (6.4% of all errors). Only 4.4% of errors result-
+ed in report of a policy-level action. Harmful errors were
+3.8 times more likely than non-harmful errors to result in
+action (95% CI: 2.17–6.64), and 3.7 times more likely to
+result in a policy-level action (95% CI: 1.54–8.80).
+CHARACTERISTICS OF ERRORS BY RELATIONSHIP
+TO THE CODE SITUATION
+Not all the code-related error reports described errors
+occurring during a code situation and affecting the patient
+Copyright 2008 Joint Commission on Accreditation of Healthcare Organizations
+49
+January 2008      Volume 34 Number 1
+The Joint Commission Journal on Quality and Patient Safety
+involved in the code. In fact, the error reports described
+four distinct ways in which the error could be associated
+with a code situation. Table 1 (above) provides excerpts
+from free-text error descriptions for error reports in each
+of these categories. Table 2 (page 50) summarizes the 842
+error reports by their relationship to the code situation.
+Nearly three-quarters (74%) of the reported errors
+involved patients other than the patient involved in the
+code, that is, collateral damage errors. Twenty-one percent
+involved patients directly experiencing codes, 3% involved
+errors preceding—and possibly precipitating—codes, and
+2% affected patients following a code. 
+Table 3 (page 51) and Table 4 (page 52) show the char-
+acteristics of the error reports by their relationship to the
+code situation. Errors affecting the patient involved in the
+code were statistically significantly more likely to be harm-
+ful than other code-related errors (OR for harm 6.7; 95%
+CI: 3.66–12.41), whereas collateral damage errors were
+less likely to be harmful (OR, 0.005; 95% CI:
+0.0001–0.30). Not surprisingly, errors preceding codes
+were the most likely to result in harm. Two of the report-
+ed five deaths were associated with errors occurring during
+Error to patient 
+Patient on weight-based dopamine drip. Weight in pounds was entered as kilograms 
+coding during code
+for drip calculation. Drip started during code/hypotensive crisis.
+Bretylium 500 mg (10mL) intravenous (IV) ordered for patient brought in by EMS in 
+cardiac arrest with CPR. R.N. drew up Breviblock (Esmolol) 500 mg (50 mL). Vial and
+syringe shown to another R.N. and it was confirmed to be correct. Drug was pushed by
+second R.N. Code continued without success and patient expired. 
+Epinephrine syringes defective during CPR. Unable to inject once screwed together.
+Patient finally resuscitated and transferred to MICU.
+Error to patient other  
+Patient called for pain med. Patient’s nurse was in a code in another room. Nurse at
+than the one coding 
+desk checked medication administration record (MAR) and administered 10 mg 
+(collateral damage)
+morphine IV. After code ended, nurses spoke and the patient's nurse had 
+administered a dose prior to code but was unable to document it on the MAR due to the
+code situation.
+Lopressor, Vasotec, and Solucortef IV given to wrong patient. Nurse states another
+patient had just coded, was being transferred to CCU.
+Proventil dose was omitted on a 74-year-old female due to respiratory therapist busy at
+a code.
+Error preceding a code
+Demerol and Phenergan were ordered by the physician and given by the nurse. Both
+were listed in MAR with adverse reaction by patient. Patient felt “faint” with Phenergan
+given, she was laid flat and monitored. Within 5 minutes, respirations ceased—patient
+was bagged to 100% O2 on bivalve mask. Several minutes later, the patient had no
+pulse and CPR was started. CPR was successful. Patient put on ventilator. 
+After open heart surgery, the patient's blood pressure fell precipitously. Patient returned
+to operating room for exploratory surgery. The cause of the blood pressure drop was
+found to be the inadvertent restart of nitroglycerin, which was still hanging at the bedside
+but was not ordered.
+Error occurring after a code
+After surviving a code situation, the patient had systolic blood pressure in the 50s; a
+dopamine drip was started without improvement. Report from pulmonary step-down unit
+said the drip was infusing at 10 mcg/hr. It was actually infusing at 10 mcg/kg/hr or 0.4
+cc/hr. 
+Crash cart opened in ICU but not replaced until 5 days later. Policy is daily checks on
+the unit.
+* Excerpts may have been edited for clarity, spelling, and grammar. EMS, emergency medical services; R.N., registered nurse; CPR, cardiopulmonary
+resuscitation; MICU, medical intensive care unit; CCU, critical care unit. 
+Table 1. Excerpts of Free-Text Descriptions of Errors, by Relationship to Code Situation*
+Copyright 2008 Joint Commission on Accreditation of Healthcare Organizations
+50
+January 2008      Volume 34 Number 1
+The Joint Commission Journal on Quality and Patient Safety
+the code and affecting the patient involved in the code,
+and three were associated with errors preceding the code.
+No deaths were reported as a result of collateral damage
+errors. Errors among the four subgroups did not differ sig-
+nificantly by time of day or day of week. 
+Collateral Damage Errors. Collateral damage errors
+were statistically significantly more likely to report work
+flow disruption as a cause of the error than other code-
+related errors; more than  20% of collateral damage errors
+reported this type of disruption as a probable cause. In
+addition, insufficient staffing and work load increase were
+statistically significantly more likely to be reported as con-
+tributing factors for collateral damage errors than other
+code-related errors, reported in 17% and 15% of collater-
+al damage reports, respectively. Collateral damage errors,
+overwhelmingly errors of omission (92%), were most
+commonly associated with the administration node. The
+errors occurred overwhelmingly on adult patient care units
+(86%). 
+As expected, the medications implicated in the error
+varied by subgroup as well. Nearly 90% of collateral dam-
+age errors involved anti-asthmatic drugs and bronchodila-
+tors, reflecting a high proportion of missed respiratory
+therapy treatments in this group. However, 52 unique
+drug classes were implicated in collateral damage errors;
+other drug classes commonly involved included central
+nervous system medications (13.1%) and autonomic med-
+ication (7.1%). (Percentage totals may exceed 100%
+because multiple therapeutic classes can be included in
+each report.) 
+Errors Affecting the Coded Patient. In comparison,
+errors occurring during the code and affecting the patient
+coding were more likely to be due to an improper dose or
+quantity of a drug, and contributing factors included
+emergency situation and distractions. Common causes
+included performance deficit and communication. These
+errors often occurred in the ED/admitting or adult ICU as
+well as the adult patient care unit and were more frequent-
+ly due to problems at the dispensing (26%) and prescrib-
+ing (11%) nodes. Autonomic medications and sedative
+hypnotics accounted for almost 40% of errors occurring
+during the code and affecting the patient coding. Errors
+preceding code situations involved a variety of therapeutic
+classes, including opioids (15%), antianginals (12%), and
+beta-lactams (8%).
+TAKING CORRECTIVE ACTION AFTER ERRORS
+OCCUR
+Table 5 (page 53) shows the percent of errors resulting
+in action by the relationship of the error to the code situ-
+ation. As compared to other code-related errors and non-
+code-related in-hospital errors, collateral damage errors
+were statistically significantly less likely to result in any
+action taken. Only 18% of these errors resulted in an
+action; the most common action reported was “informed
+staff who made the initial error.”  In comparison, nearly
+60% of other code-related errors resulted in action, and
+40% of non-code-related in-hospital errors resulted in
+action. Furthermore, only 2.9% of collateral damage
+errors resulted in a policy-level action—statistically signif-
+icantly less than other code-related errors (8.6%; p =
+.0004) but more than non-code-related errors (only 1.7%
+resulted in policy-level action, p = .025). Changes in
+staffing practice or policy accounted for more than 80% of
+policy-level actions reported after collateral damage errors.
+Given evidence that action is more likely after harmful
+errors, we performed multiple logistic regression to assess
+the relationship between collateral damage errors and cor-
+rective action, controlling for harm and other potential
+confounders (Table 6, page 54). Collateral damage errors
+were 88% less likely than other code-related errors to
+result in corrective action of any kind (95% CI:
+80%–92% less likely). Further, errors in which the
+reporter identified contributing factors in addition to code
+situation were statistically significantly more likely to
+result in action; of these, errors associated with distractions
+were the most likely to result in action (p < .001). Whether
+the error resulted in harm was not statistically significant
+in the multiple logistic regression model. The node of the
+Relation of Error to Code Situation
+n
+%
+Error to patient involved in code
+177
+21.0
+Error to patient other than the 
+one involved in the code
+621
+73.8
+Error preceding a code
+28
+3.3
+Error occurring after a code
+16
+1.9
+Total
+842
+100
+Table 2: Code-Related Error Reports by Relationship
+to Code Situation
+Copyright 2008 Joint Commission on Accreditation of Healthcare Organizations
+51
+January 2008      Volume 34 Number 1
+The Joint Commission Journal on Quality and Patient Safety
+error and whether or not the error occurred on a weekend
+were not included in the final model on the basis of likeli-
+hood ratio testing. To evaluate policy-level corrective
+actions, we used underdispersed logistic regression to
+adjust for poor fit. Policy-level corrective actions were
+73% less likely after collateral damage errors as compared
+with all other code-related errors, after adjusting for all
+covariates (95% CI: 54%–84% less likely).
+Discussion
+Several studies have assessed medication errors during
+resuscitations, and many other studies have looked at the
+larger issue of performance during code situations and
+code quality.12–17 None of these studies, however, have
+effectively described the impact or nature of medication
+errors that occur during codes, nor have they attempted to
+assess the collateral damage associated with code situa-
+tions. Our study describes the landscape of medication
+errors associated with code situations in hospitals in the
+United States and identifies potential opportunities to
+improve medication safety, on the basis of reports from a
+national, anonymous, voluntary error reporting system.
+As reported, nearly three-quarters of code-related errors
+were collateral damage errors, in which the patient affect-
+ed by the medication error was someone other than the
+patient involved in the code. Most of these errors were
+administration errors secondary to omission of a respirato-
+ry therapy treatment, but extra doses, improper quantities,
+prescribing errors, and wrong route/patient/time errors
+were also reported. Not surprisingly, collateral damage
+Error to
+Error to
+Patient Involved 
+Another 
+Error 
+Error 
+in Code
+Patient
+Preceding Code
+After Code
+Total
+n = 177
+n = 621
+n = 28
+n = 16
+n = 842
+n
+%
+n
+%
+n
+%
+n
+%
+n
+%
+Level of Harm
+No harm
+144
+81.4
+620
+99.8*
+9
+32.1
+14
+87.5
+787
+93.5
+Harm
+33
+18.6*
+1
+0.2
+19
+67.9*
+2
+12.5
+55
+6.5
+Common Contributing Factors†
+Emergency situation
+43
+24.3*
+110
+17.7
+5
+17.9
+1
+6.3
+159
+18.9
+Insufficient staffing
+3
+1.7
+106
+17.1*
+1
+3.6
+1
+6.3
+111
+13.2
+Work load increase
+4
+2.3
+94
+15.1*
+2
+7.1
+1
+6.3
+100
+11.9
+Distractions
+24
+13.6*
+25
+4.0
+4
+14.3
+1
+6.3
+54
+6.4
+Inexperienced staff
+9
+5.1*
+4
+0.6
+3
+10.7*
+0
+0
+16
+1.9
+Cross-coverage
+1
+0.6
+13
+2.1
+1
+3.6
+0
+0
+15
+1.8
+Shift change
+2
+1.1
+5
+0.8
+1
+3.6
+0
+0
+8
+1.0
+Patient transfer
+3
+1.7
+2
+0.3
+2
+7.1
+1
+6.3
+8
+1.0
+Common Types of Error†
+Omission error
+23
+13.0
+574
+92.4*
+4
+14.3
+3
+18.8
+604
+71.7
+Improper dose/quantity
+54
+30.5*
+9
+1.4
+9
+32.1*
+4
+25.0*
+76
+9.0
+Unauthorized/wrong drug
+35
+19.8*
+3
+0.5
+8
+28.6*
+2
+12.5
+48
+5.7
+Wrong time
+15
+8.5*
+15
+2.4
+2
+7.1
+1
+6.3
+33
+3.9
+Extra dose
+8
+4.5
+12
+1.9
+1
+3.6
+0
+0
+21
+2.5
+Prescribing error
+12
+6.8*
+3
+0.5
+0
+0
+2
+12.5*
+17
+2.0
+Drug prepared incorrectly
+13
+7.3*
+1
+0.2
+1
+3.6
+0
+0
+15
+1.8
+Wrong administration 
+technique
+9
+5.1*
+0
+0
+1
+3.6
+3
+18.8*
+13
+1.5
+Wrong dosage form
+4
+2.3*
+1
+0.2
+1
+3.6
+0
+0
+6
+0.7
+* Significantly greater at p < 0.05 (chi-square or Fisher's exact test compared to all other code-related errors)
+† Multiple contributing factors and error types may be reported for each error; therefore column totals may exceed 100%
+Table 3. Level of Harm, Contributing Factors, and Types of Error, by Relationship to Code Situation 
+Copyright 2008 Joint Commission on Accreditation of Healthcare Organizations
+52
+January 2008      Volume 34 Number 1
+The Joint Commission Journal on Quality and Patient Safety
+errors were often attributed to work load increases, insuf-
+ficient staffing, work flow disruption, and performance
+deficit. Fortunately, these errors were likely to result in
+near misses rather than patient harm. 
+Even after controlling for harm level, however, collater-
+al damage errors were far less likely to result in any action
+to reduce the risk of recurrence and, when actions were
+taken, they were often not policy-level actions. This lack of
+corrective action is troubling given that all errors harbor
+the potential for harm and even death. Often, little is
+known about harmless errors and near misses, making it
+difficult to make system-level changes to prevent a similar
+error from leading to a sentinel event; with this large num-
+ber of collateral damage errors, we have uncovered system-
+level problems in ready need of corrective action.
+Error to
+Error to
+Patient Involved 
+Another 
+Error 
+Error 
+in Code
+Patient
+Preceding Code
+After Code
+Total
+n = 177
+n = 621
+n = 28
+n = 16
+n = 842
+n
+%
+n
+%
+n
+%
+n
+%
+n
+%
+Node
+Prescribing
+19
+10.7*
+1
+0.2
+4
+14.3*
+1
+6.3
+25
+3.0
+Transcribing/documenting
+10
+5.7*
+6
+1.0
+3
+10.7*
+3
+18.8*
+22
+2.6
+Dispensing
+46
+26.0*
+18
+2.9
+2
+7.1
+3
+18.8
+69
+8.2
+Administering
+102
+57.6
+595
+95.8*
+19
+67.9
+8
+50.0
+724
+86.0
+Monitoring
+0
+0.0
+1
+0.2
+0
+0
+1
+6.3*
+2
+0.2 
+Location
+Adult ward
+52
+29.4
+535
+86.2*
+9
+32.1
+7
+43.8
+603
+71.6
+Adult ICU
+31
+17.5*
+22
+3.5
+10
+35.7*
+6
+37.5*
+69
+8.2
+ED/admitting
+45
+25.4*
+18
+2.9
+3
+10.7
+3
+18.8
+69
+8.2
+Pediatrics
+4
+2.3
+11
+1.8
+0
+0
+0
+0
+15
+1.8
+Pediatric ICU
+3
+1.7
+2
+0.3
+0
+0
+0
+0
+5
+0.6
+Peri-op/procedure labs
+13
+7.3*
+0
+0
+0
+0
+0
+0
+13
+1.5
+Obstetrics
+2
+1.1
+5
+0.8
+1
+3.6
+0
+0
+8
+1.0
+Psychiatry
+1
+0.6
+5
+0.8
+0
+0
+0
+0
+6
+0.7
+Ancillary services
+26
+14.7*
+23
+3.7
+5
+17.9*
+0
+0
+54
+6.4
+Common Causes†
+Performance (human) 
+deficit
+69
+39*
+138
+22.2
+12
+42.9
+8
+50.0*
+227
+27.0
+Workflow disruption
+2
+1.1
+128
+20.6*
+0
+0
+0
+0
+130
+15.4
+Procedure/protocol 
+not followed
+35
+19.8*
+54
+8.7
+6
+21.4
+3
+18.8
+98
+11.6
+Communication
+45
+25.4*
+31
+5.0
+4
+14.3
+1
+6.3
+81
+9.6
+Knowledge deficit
+32
+18.1*
+6
+1.0
+5
+17.9*
+1
+6.3
+44
+5.2
+Verbal order
+37
+20.9*
+0
+0
+2
+7.1
+0
+0
+39
+4.6
+System safeguard(s)
+19
+10.7*
+10
+1.6
+2
+7.1
+1
+6.3
+32
+3.8
+Dispensing device 
+involved
+22
+12.4*
+4
+0.6
+1
+3.6
+0
+0
+27
+3.2
+Calculation error
+13
+7.3*
+1
+0.2
+5
+17.9*
+2
+12.5
+21
+2.5
+Drug distribution system
+18
+10.2*
+3
+0.5
+0
+0
+0
+0
+21
+2.5
+Documentation
+8
+4.5*
+7
+1.1
+2
+7.1
+1
+6.3
+18
+2.1
+Monitoring 
+inadequate/lacking
+4
+2.3
+10
+1.6
+1
+3.6
+1
+6.3
+16
+1.9
+* Significantly greater at p < 0.05 (chi-square or Fisher's exact test compared to all other code-related errors)
+† Multiple causes of errors may be reported for each error; therefore column totals may exceed 100%
+Table 4: Error Node, Location and Common Causes, by Relationship to Code Situation 
+Copyright 2008 Joint Commission on Accreditation of Healthcare Organizations
+53
+January 2008      Volume 34 Number 1
+The Joint Commission Journal on Quality and Patient Safety
+STRATEGIES FOR REDUCING ERRORS: PREVENTION
+OF CODE SITUATIONS
+The ideal solution to the problem of code-related med-
+ication errors is prevention of code situations. Although
+complete elimination is not a realistic goal, reducing the
+frequency of code situations is potentially feasible.
+Implementation of rapid response systems (RRS) is one
+strategy that may decrease the frequency of codes. In one
+study, introduction of an RRS was associated with a 50%
+reduction in the incidence of unexpected cardiac arrest.18
+Although a recent systematic review of RRSs found only
+weak to moderate evidence that such systems are associat-
+ed with a decrease in cardiac arrest rates,19 these systems do
+show promise in reducing the number of code situations.
+However, RRSs still require planning for the adequate cov-
+erage of all patients when caregivers on the rapid response
+team respond to a deteriorating patient.
+Another strategy involves do-not-resuscitate (DNR)
+orders. The frequency of errors due to code situations
+highlights the importance of having early conversations
+with patients regarding code status and DNR orders.
+Knowledge of a patient’s preference not to be resuscitated
+can save the patient from the trauma of being coded, save
+the family from the anguish that such a situation can bring
+about, and prevent collateral damage errors from affecting
+other patients. Still, only 52% of patients who do not wish
+to be resuscitated have DNR orders on their charts.20
+STRATEGIES FOR REDUCING COLLATERAL DAMAGE
+ERRORS
+Although reduction in the frequency of code situations
+may decrease the incidence of all code-related errors, other
+system-level solutions must also be considered to reduce
+the risk of future harm (Table 7, page 55). Given the fre-
+quency with which work load increases, insufficient
+staffing, and workflow disruption were associated with
+collateral damage errors (Sidebar 1, page 55), staffing level
+and structure and cross-coverage protocols and strategies
+should be scrutinized. Increased nurse staffing levels have
+been shown to reduce adverse patient outcomes, decrease
+rates of cardiac arrest, and shorten lengths of stay in both
+medical and surgical patients.21
+Undoubtedly, increased
+nurse staffing levels would decrease the incidence of collat-
+eral damage errors associated with code situations.
+However, such a solution has significant financial costs.
+Other, less expensive solutions could include staffing
+redesign, such that every patient has a backup care
+provider in the event his or her primary care provider is
+away at a code, and cross-coverage protocols for code situ-
+ations. 
+Because omissions of respiratory therapy as a result of
+another patient’s code situation were found at such high
+frequency, consideration of these treatments is warranted.
+First, we should ask whether they are necessary in all cases.
+Although evidence substantiates the usefulness of nebuliz-
+er treatments in asthma,22 chronic obstructive pulmonary
+disease,23 and mechanically ventilated patients,24 wide-
+spread use in hospitalized patients is not supported in the
+literature. Indeed, respiratory therapy is only one example
+of drugs that are commonly used, perhaps without a valid
+clinical indication. Research into the proportion of
+patients receiving drug therapy without a valid indication
+Error to
+Error to
+Patient Involved 
+Another 
+Error 
+Error 
+in Code
+Patient
+Preceding Code
+After Code
+Total
+n = 177
+= 621
+n = 28
+n = 16
+n = 842
+n
+%
+n
+%
+n
+%
+n
+%
+n
+%
+No action taken
+70
+39.5
+509
+82.0
+10
+35.7
+10
+62.5
+599
+71.1
+Action taken 
+107
+60.5
+112
+18.0*
+18
+64.3
+6
+37.5
+243
+28.9
+No policy-level
+action taken
+161
+91.0
+603
+97.1
+25
+89.3
+16
+100
+805
+95.6
+Policy-level action taken
+16
+9.0
+18
+2.9*
+3
+10.7
+0
+0
+37
+4.4
+* Significantly less at p < .001 (chi-square or Fisher's exact test compared with all other code-related errors).
+Table 5. Actions Taken as  Result of the Error, by Relationship to Code Situation
+Copyright 2008 Joint Commission on Accreditation of Healthcare Organizations
+54
+January 2008      Volume 34 Number 1
+The Joint Commission Journal on Quality and Patient Safety
+must be undertaken, and the unnecessary use of such treat-
+ment should be stopped. Second, the human resources
+associated with the administration of these medications
+should be addressed. The free-text descriptions of collater-
+al damage errors in our study implied that in many institu-
+tions, nurses are not permitted to administer respiratory
+treatments even when a respiratory therapist is busy in a
+code situation. Although division of labor is obviously ben-
+eficial, rigid policies and procedures regarding delineation
+of responsibilities regarding respiratory therapy, as well as
+other duties, may need to be modified to ensure appropri-
+ate provision of care when human resources are limited. 
+STUDY LIMITATIONS
+First, although the sample was drawn from one of the
+largest medication error reporting systems in the United
+States, the sample size in our study is relatively small and
+may not accurately reflect the universe of code-related
+errors. It is also possible that the proportion of collateral
+damage errors in our study overestimates the actual pro-
+portion of collateral damage errors among all code-related
+errors. This may be true for several reasons. Errors involv-
+ing the coding patient may be underreported. Because the
+expected success rate of resuscitation is low, “an unsuccess-
+ful outcome does not invoke looking for errors in treat-
+ment.”13(p. 404) In addition, patients involved in a failed
+resuscitation do not show signs of unexpected deteriora-
+tion as other patients do, making errors harder to identify.
+Further, collateral damage errors may have been overre-
+ported in our database by nurses and respiratory therapists
+eager for change in policies and/or practices. More than
+100 of the collateral damage errors came from one facility;
+however, the reports were submitted during a period of
+three and a half years, and results of the primary analysis
+did not differ significantly when these reports were exclud-
+ed (analysis not shown), suggesting this cluster did not sig-
+nificantly affect our conclusions. 
+A second consideration is that MEDMARX error
+reports may underestimate the level of resulting harm
+because of omitted or unknown data. Providers who com-
+plete the error reports may not know or evaluate the full
+impact of the collateral damage error, especially if that
+impact is delayed. Providers may also be hesitant to report
+the actual severity of a harmful error because of fear of
+reprisal or lack of a culture of safety. Indeed, in our analy-
+sis, we observed that reporters of code-related errors tend-
+ed to underestimate the level of severity of the error; for
+example, errors preceding code situations often were not
+reported as errors “that required intervention necessary to
+sustain life”—the definition of a code situation. In addi-
+tion, many omission errors were reported as errors that
+“did not reach the patient.” Of course, omission errors by
+definition involve medication failing to reach the patient;
+but it does not necessarily follow that the error (and its
+deleterious effects) does not reach the patient. 
+This study is also limited by our assumption that errors
+Odds Ratio
+Robust 95% CI
+p Value
+LL
+UL
+Collateral damage error*
+0.12
+0.08
+0.20
+< .001
+Harm 
+0.73
+0.37
+1.43
+0.36
+Contributing factor reported†
+Distractions
+9.76
+2.86
+33.29
+< .001
+Emergency situation
+2.08
+1.19
+3.65
+0.01
+Workload increase
+2.62
+1.26
+5.47
+0.01
+Staffing issues
+5.21
+3.27
+8.31
+< .001
+Location of error
+Intensive care unit
+1.78
+0.94
+3.35
+0.08
+Pediatrics
+1.44
+0.40
+5.16
+0.57
+Error caused by human deficit
+1.54
+1.06
+2.24
+0.02
+Hosmer-Lemeshow Chi-Square  
+6.38
+0.38
+*Compared with other code-related errors. CI, confidence interval; LL, lower limit; UL, upper limit.
+† Compared with reports with no contributing factor other than “code situation.” 
+Table 6. Results of Logistic Regression Analysis with Any Corrective Action as Outcome Variable (n = 842)
+Copyright 2008 Joint Commission on Accreditation of Healthcare Organizations
+55
+January 2008      Volume 34 Number 1
+The Joint Commission Journal on Quality and Patient Safety
+with no reported corrective action resulted in no action. In
+fact, some of the errors with no reported corrective action
+might have resulted in corrective action that was either not
+reported or took place after the error report was filed.
+Finally, other limitations of this study relate to the use of
+data from an anonymous reporting system. These include
+inability to assess the validity of the data as well as the
+inability to identify over- and underreporting. Although
+we excluded code situation errors that clearly used a differ-
+ent definition of code situation than the one employed by
+MEDMARX, it is possible that not all code-related errors
+included in this analysis were truly related to code situa-
+tions in accordance with the MEDMARX definition. It is
+also possible that some errors related to MEDMARX-
+defined code situations were mistakenly omitted because
+of our relatively conservative inclusion criteria. 
+Conclusion
+Medication errors associated with code situations not only
+affect only the patient involved in the code but have impli-
+cations for other patients as well. Code-related errors
+involving the coding patient carry significant risk for
+harm, whereas collateral damage errors seem to have a
+1. Reduce the frequency of code situations.
+■Implement Rapid Response Systems (RRS).
+■ Review institutional policies and procedures regard-
+ing do-not-resuscitate (DNR) orders.
+■ Ensure adequate patient-to-staff ratios.
+2. Reduce collateral damage medication errors.
+■ Consider “redundant staffing” so that all patients
+have “backup” providers in the event their primary
+providers are responding to a code. (This may include
+creating “groups” of patient responsibility so that more
+than one person is familiar with each patient.) 
+■ Develop cross-coverage protocols to care for
+patients whose providers are responding to a code.
+■ Avoid cross-coverage of patients by providers who
+do not know them.
+■ Examine institutional policies and procedures
+regarding indications for the necessity of respiratory
+therapy.
+■ Consider whether trained nurses can deliver respi-
+ratory drugs when respiratory therapists are respond-
+ing to a code or other emergency.
+■ Develop protocols and systems that require a  
+double-check for all medication administration for all
+patients when a cardiopulmonary arrest or RRS event
+occurs on the ward.
+3. Review postcode procedures.
+■ Establish clear roles and responsibilities for post-
+code procedures, including restocking the “crash
+cart.”
+Table 7. Strategies for Reducing Code-Related
+Medication Errors
+A complex patient with a medical history that included
+hypertension, coronary artery disease (CAD), and severe
+chronic obstructive pulmonary disease (COPD) was
+recuperating on an intermediate-care medical ward after
+a COPD exacerbation associated with a pulmonary 
+infection. The patient’s medications included a course of 
+levofloxacin for the infection, intravenous (IV) metoprolol
+and enalapril for the hypertension and CAD, and IV
+hydrocortisone taper for the COPD exacerbation.
+One evening, the patient’s registered nurse (R.N.)
+became involved in the cardiac arrest of another patient
+on the ward. The resuscitation was long but successful,
+and the nurse became very busy arranging for the trans-
+fer of the postcode patient to the intensive care unit. The
+R.N. asked a licensed practical nurse (L.P.N.) to adminis-
+ter the COPD patient’s IV medications, which were due
+during the time he was occupied with the coding patient.
+The L.P.N., who had not previously cared for the COPD
+patient, accessed the medication administration record
+but mistakenly administered the metoprolol, hydrocorti-
+sone, and enalapril to a third, unrelated patient, who did
+not have a history of hypertension or COPD.
+After the code patient’s transfer was completed, the R.N.
+noted that the medications had been administered to the
+wrong patient. Physical examination and vital signs
+demonstrated that, despite the error, the patient who mis-
+takenly received the three medications was able to main-
+tain his blood pressure and heart rate within acceptable
+limits, although these vital signs were depressed from
+baseline. This patient required an increased level of
+monitoring. The patient with the COPD exacerbation
+received the appropriate medication several hours late. 
+The MEDMARX report of this incident identified the 
+following factors as contributing to the error: 
+■ Communication
+■ Performance (human) deficit
+■ Procedure/protocol not followed
+■ Work flow disruption
+■ Code situation
+■ Distractions
+Sidebar 1. Case Study
+Copyright 2008 Joint Commission on Accreditation of Healthcare Organizations
+56
+January 2008      Volume 34 Number 1
+The Joint Commission Journal on Quality and Patient Safety
+lower risk. However, because collateral damage errors are
+often secondary to system problems such as understaffing
+and limited cross-coverage, they are likely harbingers of
+future harmful errors. Unfortunately, collateral damage
+errors are unlikely to result in corrective action. The sys-
+tem problems exposed by collateral damage errors deserve
+attention. Further research into the causes and conse-
+quences of these errors is in order. Action must be taken at
+the policy level to mitigate the weaknesses in the system
+that allow these errors to occur. 
+Laura L. Morlock, Andrew D. Shore, Sydney M. Dy, and Peter J. Pronovost
+have received salary support from the United States Pharmacopeia. Laura
+L. Morlock and Sydney M. Dy have also received honoraria from the United
+States Pharmacopeia. 
+References
+1. Institute of Medicine: To Err Is Human: Building a Safer Health
+System. Washington, DC: National Academy Press, 1999. 
+2. Clancy T.R.: Medication error prevention: Progress of initiatives.
+JONAS Healthc Law Ethics Regul 6:3–12, Jan.–Mar. 2004.
+3. National Coordinating Council for Medication Error and Prevention:
+About Medication Errors: What Is a Medication Error?
+http://www.nccmerp.org/aboutMedErrors. html. (last accessed Nov. 27,
+2007).
+4. Aspden P., et al.: Preventing Medication Errors (Quality Chasm).
+Washington, DC.: National Academy Press, 2006.
+5. Lubell J., DoBias M.: Medication errors persist: IOM report high-
+lights steps to reduce severity, frequency. Mod Healthc 36:10, Jul. 24,
+2006.
+6. Rothschild J.M., et al.: Analysis of medication-related malpractice
+claims: Causes, preventability, and costs. Arch Intern Med
+162:2414–2420, Nov. 25, 2002.
+7. Hicks R.W., et al.: MEDMARX 5th Anniversary Data Report: A
+Chartbook of 2003 Findings and Trends 1999–2003. Rockville, MD:
+USP Center for the Advancement of Patient Safety, 2004.
+8. American Heart Association: Cardiac Arrest. http://www.american-
+heart.org/presenter.jhtml?identifier=4481 (last accessed Nov. 27, 2007).
+9. American Hospital Association (AHA): 2007 AHA Hospital Statistics.
+Chicago: AHA, 2006.
+10. American Hospital Association: Fast Facts on U.S. Hospitals.
+http://www.aha.org/aha/resource-center/Statistics-and-Studies/fast-
+facts.html (last accessed Nov. 27, 2007).
+11. Dictionary.com: Code. http://dictionary.reference.com/browse/code
+(last accessed Nov. 27, 2007).
+12. Kozer E., et al.: Prospective observational study on the incidence of
+medication errors during simulated resuscitation in a paediatric emer-
+gency department. BMJ 329:132, Dec. 4, 2004.
+13. Vardi A., et al.: Prevention of potential errors in resuscitation med-
+ications orders by means of a computerised physician order entry in pae-
+diatric critical care. Resuscitation 73:400–406, Jun. 2007.
+14. Abella B.S., et al.: Quality of cardiopulmonary resuscitation during
+in-hospital cardiac arrest. JAMA 293:305–310, Jan. 19, 2005.
+15. Peberdy M.A., et al.: Cardiopulmonary resuscitation of adults in the
+hospital: A report of 14,720 cardiac arrests from the national registry of
+cardiopulmonary resuscitation. Resuscitation 58:297–308, Sep. 2003.
+16. Eisenberg M.S., Mengert T.J.: Cardiac resuscitation. N Engl J Med
+344:1304–1313, Apr. 26, 2001.
+17. Strzyzewski N.: Common errors made in resuscitation of respirato-
+ry and cardiac arrest. Plast Surg Nurs 26:10–4, Jan.-Mar. 2006.
+18. Buist M.D., et al.: Effects of a medical emergency team on reduc-
+tion of incidence of and mortality from unexpected cardiac arrests in
+hospital: Preliminary study. BMJ 324:387–390, Feb. 16, 2002.
+19. Winters B.D., et al.: Rapid response systems: A systematic review.
+Crit Care Med 35:1238–1243, May 2007.
+20. Hakim R.B., et al.: Factors associated with do-not-resuscitate orders:
+Patients’ preferences, prognoses, and physicians’ judgments. SUPPORT
+investigators. Study to Understand Prognoses and Preferences for
+Outcomes and Risks of Treatment. Ann Intern Med 25:284–293, Aug.
+15, 1996.
+21. Needleman J., et al.: Nurse-staffing levels and the quality of care in
+hospitals. N Engl J Med 346:1715–1722, May 30, 2002.
+22. Papiris S., et al.: Clinical review: Severe asthma. Crit Care 6:30–44,
+Nov. 22, 2001.
+23. Cooper C.B., Tashkin D.P.: Recent developments in inhaled thera-
+py in stable chronic obstructive pulmonary disease. BMJ 330:640–644,
+Mar. 19, 2005.
+24. Dhand R.: New frontiers in aerosol delivery during mechanical ven-
+tilation. Respir Care 49:666–677, Jun. 2004.
+J
+Angela K.M. Lipshutz, M.P.H., formerly a graduate student,
+Johns Hopkins Bloomberg School of Public Health, Johns
+Hopkins University, Baltimore, is a Medical Student, University
+of California, San Francisco. Laura L. Morlock, Ph.D., is
+Professor and Associate Chair for Health Management
+Programs, and Andrew D. Shore, Ph.D., is Assistant
+Scientist, Department of Health Policy and Management,
+Johns Hopkins Bloomberg School of Public Health. Rodney
+W. Hicks, Ph.D., A.P.R.N., formerly Manager, Patient Center
+Research, Department of Patient Safety, United States
+Pharmacopeia, Rockville, Maryland, is UMC Health System
+Endowed Chair for Patient Safety and Professor, School of
+Nursing, Texas Tech University Health Sciences Center,
+Lubbock, Texas. Sydney M. Dy, M.D., M.Sc., is Assistant
+Professor, Departments of Medicine and Oncology, Johns
+Hopkins University School of Medicine and is Assistant
+Professor, Department of Health Policy and Management,
+Johns Hopkins Bloomberg School of Public Health, Baltimore.
+Peter J. Pronovost, M.D., Ph.D., is Professor and Director of
+Adult Critical Care, Johns Hopkins University Schools of
+Medicine and Nursing and John Hopkins Bloomberg School of
+Public Health, Baltimore, and a member of The Joint
+Commission Journal on Quality and Patient Safety’s Editorial
+Advisory Board. Bradford D. Winters, M.D., Ph.D., is
+Assistant Professor, Department of Anesthesiology and
+Critical Care Medicine, Johns Hopkins University School of
+Medicine. Please address requests for reprints to Bradford D.
+Winters, bwinters@jhmi.edu. 
+Copyright 2008 Joint Commission on Accreditation of Healthcare Organizations

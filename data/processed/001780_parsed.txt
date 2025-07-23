@@ -1,0 +1,1425 @@
+HETA 2000-0283-2823
+Rehabilitation Services Commission
+Columbus, Ohio
+Ronald M. Hall, M.S.
+Kenneth F. Martinez, MSEE, CIH
+Elena Page, M.D., M.P.H.
+This Health Hazard Evaluation (HHE) report and any recommendations made herein are for the specific facility evaluated and may not be universally 
+applicable.  Any recommendations made are not to be considered as final statements of NIOSH policy or of any agency or individual involved.   
+Additional HHE reports are available at http://www.cdc.gov/niosh/hhe/reports 
+ 
+This Health Hazard Evaluation (HHE) report and any recommendations made herein are for the specific facility evaluated and may not be universally 
+applicable.  Any recommendations made are not to be considered as final statements of NIOSH policy or of any agency or individual involved.  
+Additional HHE reports are available at http://www.cdc.gov/niosh/hhe/reports 
+ 
+This Health Hazard Evaluation (HHE) report and any recommendations made herein are for the specific facility evaluated and may not be universally 
+applicable.  Any recommendations made are not to be considered as final statements of NIOSH policy or of any agency or individual involved.  
+ 
+applicable.  Any recommendations made are not to be considered as final statements of NIOSH policy or of any agency or individual involved.  
+Additional HHE reports are available at http://www.cdc.gov/niosh/hhe/reports 
+ 
+ii
+PREFACE
+The Hazard Evaluations and Technical Assistance Branch (HETAB) of the National Institute for
+Occupational Safety and Health (NIOSH) conducts field investigations of possible health hazards in the
+workplace.  These investigations are conducted under the authority of Section 20(a)(6) of the Occupational
+Safety and Health (OSHA) Act of 1970, 29 U.S.C. 669(a)(6) which authorizes the Secretary of Health and
+Human Services, following a written request from any employer or authorized representative of employees,
+to determine whether any substance normally found in the place of employment has potentially toxic effects
+in such concentrations as used or found.
+HETAB also provides, upon request, technical and consultative assistance to Federal, State, and local
+agencies; labor; industry; and other groups or individuals to control occupational health hazards and to
+prevent related trauma and disease.  Mention of company names or products does not constitute endorsement
+by NIOSH.
+ACKNOWLEDGMENTS AND AVAILABILITY OF REPORT
+This report was prepared by Ronald M. Hall , Kenneth F. Martinez, and Elena Page of HETAB, Division of
+Surveillance, Hazard Evaluations and Field Studies.  Desktop publishing was performed by Robin Smith.
+Review and preparation for printing were performed by Penny Arthur.
+Copies of this report have been sent to employee and management representatives at the Rehabilitation
+Services and Commission and the OSHA Regional Office.  This report is not copyrighted and may be freely
+reproduced.  Single copies of this report will be available for a period of three years from the date of this
+report.  To expedite your request, include a self-addressed mailing label along with your written request to:
+NIOSH Publications Office
+4676 Columbia Parkway
+Cincinnati, Ohio 45226
+800-356-4674
+After this time, copies may be purchased from the National Technical Information Service (NTIS) at
+5825 Port Royal Road, Springfield, Virginia  22161.  Information regarding the NTIS stock number may be
+obtained from the NIOSH Publications Office at the Cincinnati address.
+For the purpose of informing affected employees, copies of this report shall be
+posted by the employer in a prominent place accessible to the employees for a
+period of 30 calendar days.
+iii
+Highlights of the NIOSH Health Hazard Evaluation
+ Evaluation of indoor air quality at the 
+Rehabilitation Services Commission (RSC)
+NIOSH investigators visited the RSC building in Columbus, Ohio to evaluate the indoor air quality. They inspected
+the building’s interior and exterior, and all air- handling units.  They measured moisture in building materials and
+general indoor air quality comfort parameters.  They interviewed 29 employees to assess symptoms potentially related
+to the work environment.
+What NIOSH Did
+#
+We checked the building’s interior and exterior for
+moisture problems.
+#
+We looked at the air-handling units (AHU).
+#
+We measured moisture throughout the building.
+#
+We measured temperature, relative humidity, and
+carbon dioxide in the building..
+#
+We talked to employees regarding health concerns
+related to the work environment.
+#
+We looked at the medical records of employees
+known to have certain illnesses.
+What NIOSH Found
+#
+Some AHUs did not drain very well (standing
+water was in a few of the units).
+#
+A bathroom exhaust fan was not working during
+our survey.
+#
+AHUs appeared clean and provided good air
+filtration, but did not provide enough outside air
+during our evaluation.
+#
+Reported symptoms included asthma, and eye,
+nose, and throat irritation.
+What Rehabilitation Services
+Commission Managers Can Do
+#
+Bring in more outside air by adjusting outside air
+intakes on AHU’s.
+#
+Clean drain pans  on   AHUs and, if necessary,
+adjust  them to allow for better drainage of water.
+#
+Fix the bathroom exhaust fan and periodically
+check bathroom exhaust fans to make sure they are
+working.
+#
+Promptly replace any water-damaged material.
+#
+Improve communication and address employee
+concerns. 
+What the Rehabilitation Services
+Commission Employees Can Do
+#
+Do not use ion-generating or electrostatic
+precipitator  air  cleaners.  These may  produce
+ozone and cause respiratory symptoms.
+#
+Employees who have health concerns about work
+should consult their doctor.
+#
+Employees should talk to the safety committee
+about work-related health concerns.
+CDC
+CENTERS FOR DISEASE CONTROL
+AND PREVENTION
+What To Do For More Information:
+We encourage you to read the full report.  If you
+would like a copy, either ask your health and
+safety representative to make you a copy or call 
+1-513/841-4252 and ask for
+ HETA Report # 2000-0283-2823
+Highlights of the NIOSH Health Hazard Evaluation
+iv
+HETA 2000-0283-2823
+Rehabilitation Services Commission
+Columbus, Ohio
+January 2001
+Ronald M. Hall, M.S.
+Kenneth F. Martinez, MSEE, CIH
+Elena Page, M.D., M.P.H.
+SUMMARY
+On May 5, 2000, the National Institute for Occupational Safety and Health (NIOSH) received a request from
+employees at the Rehabilitation Services Commission (RSC) regarding indoor air quality problems at the
+RSC building in Columbus, Ohio.  Health concerns included chronic sinus infections, allergies, asthmatic
+bronchitis, and chronic pulmonary problems.  On July 11 and 12, 2000, NIOSH investigators conducted a
+walk-through inspection of the building’s interior and exterior, and of the air handling units (AHU).
+Measurements to detect moisture incursion and general indoor air quality comfort parameters were also
+made.  NIOSH physicians interviewed 29 employees to assess health complaints potentially related to the
+work environment. 
+Moisture measurements on the inside of the exterior walls and the concrete slab did not indicate a chronic
+water incursion problem.  The AHUs appeared clean and provided good air filtration.  The condensate pans
+on some of the AHU were not draining properly.  The building was under positive pressure; the cafeteria was
+under negative pressure to minimize odors in the building.  One non-functional bathroom exhaust fan was
+identified.  Several carbon dioxide measurements exceeded 800 ppm, indicating an inadequate supply of
+outdoor air.  The AHUs were recently switched from a manual adjustment system to a computer- controlled
+system.  Although the computer-controlled system indicated air intakes at 10%, they were actually closed.
+Thirteen of the 29 employees interviewed reported a physician diagnosis of asthma.  Six of these employees
+reported a consistent increase in symptoms related to being in the workplace.  In addition to asthma, 10 of
+the 29 employees interviewed reported upper respiratory symptoms or mucous membrane irritation
+temporally related to the work environment.  Ten of the 29 reported having positive allergy tests for dust
+mites.  Four employees reported no symptoms related to work.  
+Medical records were obtained for three individuals who reported being diagnosed with asthma since
+beginning work at the RSC, and who reported a consistent increase in symptoms related to being at work.
+One of the three had information in the medical record possibly consistent with a diagnosis of asthma, but
+no evidence of a decrement in lung function at work; two did not have documented evidence of asthma.  
+Among the 29 persons interviewed, the most frequently reported observation was that the work environment
+was dusty and the cloth-covered cubicles were dirty.  Several persons complained of odors from the kitchen.
+In addition, several employees reported the use of ion-generating or electrostatic precipitator air cleaners
+(these air cleaners may produce ozone) at their desks.
+v
+There was no evidence of a significant indoor air quality problem at the RSC building.  Minor
+problems were noted, including a non-operational bathroom exhaust fan, a deficiency in
+supplied outdoor air, and the use of ozone generating air cleaners.  Reported symptoms included
+asthma, and eye, nose, and throat irritation.  Recommendations include repair of the bathroom
+fan, adjusting the outside air dampers to increase the supply of outdoor air, and elimination of
+ozone-generating air cleaners.  
+Keywords: SIC 9199 (General Government, Not Elsewhere Classified) indoor air quality, indoor
+environmental quality, HVAC systems, asthma. 
+TABLE OF CONTENTS
+Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ii
+Acknowledgments and Availability of Report . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ii
+Highlights of the NIOSH Health Hazard Evaluation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iv
+Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Building and Ventilation System Description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Industrial Hygiene Evaluation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Medical Evaluation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Evaluation Criteria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Carbon Dioxide (CO2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Temperature and Relative Humidity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Work-Related Asthma . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Industrial Hygiene . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Comfort Parameters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Medical . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Discussion and Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Recommendations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Health Hazard Evaluation Report No. 2000-0283-2823
+Page 1
+INTRODUCTION
+On May 5, 2000, the National Institute for
+Occupational Safety and Health (NIOSH)
+received a confidential request from employees at
+the Rehabilitation Services Commission (RSC)
+regarding indoor air quality (IAQ) problems at the
+RSC building in Columbus, Ohio.  Health
+concerns included chronic sinus infections,
+allergies, asthmatic bronchitis, and chronic
+pulmonary problems.
+On July 11-12, 2000, NIOSH investigators
+conducted a site visit at the RSC building.  An
+opening conference was held with RSC
+management, facility maintenance personnel,
+union representatives, and concerned employees.
+Information was obtained relating to the building
+and the history of the concerns involving IAQ
+issues.  A walk-through inspection of the
+building’s interior and exterior focused on the
+eight heating, ventilating, and air-conditioning
+(HVAC) units located on the roof and on past
+moisture incursion.  Temperature, relative
+humidity (RH), and carbon dioxide (CO2) were
+measured inside the building on July 12, 2000.
+Private medical interviews were conducted to
+assess health complaints potentially related to the
+work environment.  A closing conference was
+held on July 12, 2000, during which preliminary
+findings were discussed.
+BACKGROUND
+Building and Ventilation
+System Description
+The RSC is located in a 12-year-old one-story
+brick and glass structure with approximately
+142,000 square feet (ft2) of indoor floor space.
+The building is occupied mainly during the hours
+between 7:00 a.m. and 6:00 p.m.  Over 600
+employees work in the RSC building.  The
+majority of the office space is open, with rows of
+cubicles separated by carpeted partitions
+approximately four feet in height.  The cubicles
+are equipped with typical office furniture,
+including video display terminals and keyboards.
+The entire building is carpeted, with the exception
+of the main hallway (located through the center of
+the building) and the cafeteria area.  Smoking is
+not permitted inside the RSC building.  
+The ventilation system consists of eight large
+variable-air-volume HVAC units (each with a
+capacity of providing 18,000 cubic feet per
+minute) mounted on the roof.  Return air is
+supplied through an open plenum above the
+ceiling.  The temperature and amount of outdoor
+air introduced into the building are automatically
+controlled.  During our survey, the night-time
+temperature controls were set at 68°F for a low
+temperature and 78°F for a high temperature.  The
+outside air intake for each of the HVAC units was
+set at 10% during the time of our evaluation.
+Each HVAC unit was equipped with 60% -
+efficient bag filters. 
+METHODS
+Industrial Hygiene
+Evaluation
+NIOSH investigators inspected the interior and
+exterior of the building for evidence of water
+damage and microbial contamination to identify
+potential sources of contamination and pathways
+for moisture vapor intrusion.  The eight HVAC
+units mounted on the roof of the building were
+also inspected. 
+Indicators of occupant comfort were measured in
+various locations.  Real-time CO2, temperature,
+and  RH measurements were taken using a hand-
+held, battery operated, TSI Q-Track (Model 8550)
+IAQ monitor.  This portable monitor uses a non-
+dispersive infrared absorption (NDIR) sensor to
+measure CO2 in the range of 0-5000 parts per
+million (ppm).  It is capable of measuring
+temperature in the range of 32 to 122°F, with an
+accuracy of 1°F. This instrument also measures
+RH in the range of 5 to 95%, with an accuracy of
+±3%.  Temperature and RH measurements were
+also collected and logged for a continuous 24-hour
+Page 2
+Health Hazard Evaluation Report No. 2000-0283-2823
+period using HOBO H8 Pro Series loggers.  These
+battery-operated loggers use an internal
+temperature sensor and external RH sensor.  The
+operating range is -22 to 122°F for temperature
+and 0 to 100% RH.
+Moisture measurements were collected along the
+floor and drywall near the exterior perimeter of
+the building using a non-destructive Tramex
+Moisture Encounter (Tramex Ltd., Shankill, Co.
+Dublin, Ireland).  This meter operates by using
+low-frequency electronic transmitters (5-25
+kilohertz [kHz]).  When moisture is present the
+resistance decreases and the meter displays a
+signal.  Additional moisture incursion
+measurements were collected using a Delmhorst
+Instrument Company Moisture Tester, Model BD-
+9.  This meter provides direct readings for
+moisture content in the range of 8 to 50% on
+wood.  A reference scale is used for comparative
+readings on non-wood materials.  This portable
+instrument uses the amount of electrical
+conductivity in the material being tested to
+determine its moisture content. 
+Smoke tube tests were conducted throughout the
+building to determine if the building was under
+positive pressure and to test the effectiveness of
+the bathroom vents.  Smoke tube tests were also
+conducted in the cafeteria area to determine if the
+cafeteria was under negative or positive pressure
+in relation to the rest of the building.
+Medical Evaluation
+NIOSH physicians interviewed the three
+confidential requesters by telephone.  One of the
+requesters provided a list of employees with
+asthma. During the site visit, 26 employees were
+interviewed.  Of these 26, 9 were employees
+from the list provided by the requestor, 12 were
+randomly selected from a personnel phone list,
+and 5 responded to an email that was sent by
+management to all personnel notifying them of
+our availability if they had any concerns regarding
+air quality in the building and/or health
+complaints related to work.  Medical records were
+reviewed for three employees who reported
+having been diagnosed with asthma since working
+in the building and who related their symptoms to
+work.
+EVALUATION CRITERIA
+NIOSH investigators have completed over 1,200
+investigations of the occupational indoor
+environment in a wide variety of non-industrial
+settings.  Almost all of these investigations have
+been conducted since 1979.  Overall, the
+symptoms and health complaints reported by
+building occupants have been diverse and usually
+not suggestive of any particular medical diagnosis
+or readily associated with a causative agent.
+Symptoms frequently reported usually include
+headaches, unusual fatigue, itching or burning
+eyes, skin irritation, nasal congestion, dry or
+irritated throats, and other respiratory irritations.
+Typically, the workplace environment has been
+implicated because workers often report that their
+symptoms lessen or resolve when they leave the
+building.
+A number of published studies have reported a
+high prevalence of symptoms among occupants of
+office buildings.1,2,3,4,5 Scientists investigating
+indoor environmental problems believe that there
+are multiple factors contributing to building-
+related occupant complaints.6,7  Among these
+factors are imprecisely-defined characteristics of
+HVAC systems, cumulative effects of exposure to
+low concentrations of multiple chemical
+pollutants, odors, elevated concentrations of
+particulate matter, microbiological contamination,
+and physical factors such as thermal comfort,
+lighting, and noise.8,9,10,11,12,13  Design,
+maintenance, and operation of HVAC systems are
+critical to their proper functioning and provision
+of healthy and thermally comfortable indoor
+environments.  Indoor environmental pollutants
+can arise from either outdoor sources or indoor
+sources.
+Other studies have shown that occupant
+perceptions of the indoor environment are more
+closely related to the occurrence of symptoms
+than any measured indoor contaminant or
+condition.14,15,16  Some studies have shown
+relationships between psychological, social, and
+Health Hazard Evaluation Report No. 2000-0283-2823
+Page 3
+organizational factors in the workplace and the
+occurrence 
+of 
+symptoms and comfort
+complaints.16,17,18,19
+Less often, an illness may be found to be
+specifically related to something in the building
+environment.  Some examples of potentially
+building-related illnesses are allergic rhinitis,
+allergic asthma, hypersensitivity pneumonitis,
+Legionnaires’ disease, Pontiac fever, and carbon
+monoxide (CO) poisoning. 
+Environmental problems NIOSH investigators
+have found in the non-industrial indoor
+environment have included the following: poor air
+quality due to ventilation system deficiencies,
+overcrowding, volatile organic chemicals from
+office furnishings, emissions from office
+machines and from structural components of the
+building and its contents, tobacco smoke,
+microbiological contamination, and outside air
+pollutants; comfort problems due to improper
+temperature and RH conditions, poor lighting, and
+unacceptable noise levels; adverse ergonomic
+conditions; and job-related psychosocial stressors.
+In most cases, however, these indoor
+environmental problems could not be directly
+linked to the health effects reported by the
+building’s occupants.
+Standards specific for the non-industrial indoor
+environment do not exist.  NIOSH, the
+Occupational Safety and Health Administration
+(OSHA), and the American Conference of
+Governmental Industrial Hygienists (ACGIH),
+have published regulatory standards or
+recommended limits for occupational exposures to
+specific chemical and physical agents.20,21,22 With
+few exceptions, pollutant concentrations observed
+in non-industrial indoor environments fall well
+below these published occupational standards or
+recommended exposure limits.  The American
+Society of Heating, Refrigeration, and Air-
+conditioning Engineers (ASHRAE) has published
+recommended building ventilation design criteria
+and thermal comfort guidelines.23,24  The ACGIH
+has also developed a manual of guidelines for
+approaching investigations of building-related
+complaints that might be caused by airborne living
+organisms or their effluents.25  
+Measurements of indoor environmental
+contaminants have generally not proved to be
+helpful in determining the cause of symptoms and
+complaints, except where there are strong or
+unusual sources, or a proven relationship between
+contaminants and specific building-related
+illnesses.  The low-level concentrations of
+particles and variable mixtures of organic
+materials usually found are difficult to interpret
+and usually impossible to causally link to
+observed and reported health symptoms.
+However, measuring ventilation and comfort
+indicators such as CO2, temperature, and RH, has
+proven useful in the early stages of an
+investigation in providing information relative to
+the proper functioning and control of HVAC
+systems.  
+NIOSH and the Environmental Protection Agency
+(EPA) jointly published a manual on building air
+quality, written to help prevent environmental
+problems in buildings and solve problems when
+they occur.26  This manual suggests that indoor
+environmental quality (IEQ) is a constantly
+changing interaction of a complex set of factors.
+Four of the most important elements involved in
+the development of IEQ problems are: (1) a source
+of odors or contaminants; (2) a problem with the
+design or operation of the HVAC system; (3) a
+pathway between the contaminant source and the
+location of the complaint; and (4) the building
+occupants.  A basic understanding of these factors
+is critical to preventing, investigating, and
+resolving IEQ problems. 
+Carbon Dioxide (CO2)
+CO2 is a normal constituent of exhaled breath, and
+if monitored at equilibrium concentrations in a
+building, may be useful as a screening technique
+to evaluate whether adequate quantities of fresh
+air are being introduced into an occupied space.
+The American National Standards Institute
+(ANSI)/ASHRAE Standard 62-1989, Ventilation
+for Acceptable Indoor Air Quality, recommends
+outdoor air supply rates of 20 cubic feet per
+Page 4
+Health Hazard Evaluation Report No. 2000-0283-2823
+minute per person (cfm/person) for office spaces
+and conference rooms, 15 cfm/person for
+reception 
+areas, 
+classrooms, 
+libraries,
+auditoriums, and corridors, and 60 cfm/person for
+smoking lounges.  Maintaining the recommended
+ASHRAE outdoor air supply rates when the
+outdoor air is of good quality, and there are no
+significant indoor emission sources, should
+provide for acceptable IAQ.
+CO2 is not considered a building air pollutant, but
+CO2 concentration is used as an indicator of the
+adequacy of outside air supplied to occupied
+areas.  Indoor CO2 concentrations are normally
+higher than the generally constant ambient CO2
+concentration (range 300-350 ppm).  ASHRAE
+Standard 62-1989 recommends 1,000 ppm as the
+upper limit for comfort (odor) reasons.23  When
+indoor CO2 concentrations exceed 800 ppm in
+areas where the only known source is exhaled
+breath, inadequate ventilation is suspected.27
+Elevated CO2 concentrations suggest that other
+indoor contaminants may also be increased.  It is
+important to note that CO2 is not an effective
+indicator of ventilation adequacy if the ventilated
+area is not occupied at its usual level when the
+measurements are made.
+Temperature and Relative
+Humidity
+Temperature and RH measurements are often
+collected as part of an IEQ investigation because
+these parameters affect the perception of comfort
+in an indoor environment.  The perception of
+thermal comfort is related to one’s metabolic heat
+production, the transfer of heat to the
+environment, physiological adjustments, and body
+temperatures.28  Heat transfer from the body to the
+environment is influenced by factors such as
+temperature, humidity, air movement, personal
+activities, and clothing.  The ASHRAE Standard
+55-1992, specifies conditions in which 80% or
+more of the occupants would be expected to find
+the environment thermally comfortable.24 
+Work-Related Asthma
+Asthma is a chronic inflammatory disease of the
+airways characterized by symptoms of
+breathlessness, wheezing, chest tightness, and
+coughing, that is at least partially reversible with
+pharmacologic agents or time.  Genetics play a
+large role in the development of asthma,
+accounting for 30-80% of the asthma risk, with
+the rest apparently related to environmental
+exposures.29  Asthma is a common diagnosis in
+both adults and children, with an estimated 17.3
+million individuals in the United States having
+asthma in 1998.30  
+Work-related asthma (WRA) is asthma
+attributable to, or made worse by, exposures in the
+workplace.  There are two categories of WRA,
+occupational asthma (OA) and work-aggravated
+asthma (WAA).31  WAA is symptomatic asthma
+that is worsened by workplace exposures.  OA is
+new-onset asthma caused by exposures at work.
+OA, which affects only a portion of an exposed
+population, develops after a latent period ranging
+from months to years.  The symptoms of OA
+usually occur within minutes of exposure but may
+also occur several hours after exposure.
+Symptoms of OA usually get worse as the
+workweek continues, but improve on weekends
+and vacations.  As OA progresses, recovery may
+take days to weeks.32
+RESULTS
+Industrial Hygiene
+Evidence of water damage was observed on one
+ceiling tile located on the west side of the
+building.  (Building maintenance was informed of
+the tile location so that they could determine the
+source of the moisture and replace the tile.)  Other
+areas where moisture incursion would likely occur
+(along exterior walls and around windows and
+entrances) were checked for moisture content.
+Moisture measurements did not indicate any
+chronic water incursion.  Visible active fungal
+growth was not observed on any building
+Health Hazard Evaluation Report No. 2000-0283-2823
+Page 5
+materials.  Visual inspection indicated that general
+housekeeping was appropriate. 
+The HVAC units were recently switched from a
+manual adjustment system to a computer-
+controlled system.  During our evaluation, the
+computer-controlled system had the outside air
+intakes (for the units on the roof) adjusted to 10%.
+However, the units were actually closed.  The
+computer-controlled system was fairly new and
+had not been accurately calibrated.  Maintenance
+personnel were working on the system during the
+evaluation to fix the disparity.
+Inspection of the HVAC units did not reveal any
+visible microbial contamination.  However, some
+of the HVAC units (# 1, 2, 5, 7, and 8) had
+standing water in the condensate drip pans with
+some visible rust.  The outside air intakes for
+HVAC units #4 and #5 were located in close
+proximity to bathroom exhaust vents on the roof
+(see Figure 1).  Depending upon the wind
+directions, there may be opportunities for the
+bathroom exhaust odors to be entrained into the
+outside air intakes of units #4 and #5 .  
+The smoke tube tests indicated that the building
+was under positive pressure.  Positive pressure
+inside the building reduces the possibility of
+unfiltered/unconditioned air and outside water
+vapor from penetrating the building.  The cafeteria
+was under negative pressure, which helps keep
+odors from this area from being disseminated into
+work spaces.  The smoke test also identified a
+bathroom vent (near the main entrance of the
+building) that was not operating. 
+Tables 1 and 2 present the CO2 measurements
+inside and outside the building on July 12, 2000.
+CO2 measurements were made in 24 locations in
+the morning and afternoon.  During the morning,
+the CO2 concentrations inside the building ranged
+from 435 ppm to 769 ppm with a mean of 570
+ppm.  CO2 measurements obtained from the same
+locations in the afternoon ranged from 780 ppm to
+1,006 ppm, with a mean of 880 ppm.  All CO2
+concentrations inside the building in the morning
+were below the NIOSH recommeded criteria of
+800 ppm.  In the afternoon, 20 of the 24
+measurements inside the building had CO2
+concentrations that exceeded the NIOSH
+recommended criteria of 800 ppm.  CO2
+concentrations outside the building ranged from
+293 to 353 ppm in the morning, and from 270 to
+360 ppm in the afternoon, with means of 320 ppm
+and 310 ppm, respectively.
+Comfort Parameters
+Tables 1 and 2 present the temperature and RH
+measurements inside the building.  There were
+some deviations outside the recommended
+temperature range, however the majority of
+temperature and RH measurements were  within
+a range in which 80% or more of the occupants
+would be expected to find the environment
+thermally comfortable (ASHRAE Standard
+55–1992.)
+Figures 2-5 graphically illustrate the temperature
+variations over a 24–hour period (measured with
+the HOBO Pro Series loggers) at different
+locations.  These figures illustrate variation in
+temperature from data loggers placed in areas that
+are serviced by different AHUs during occupied
+and unoccupied hours.  The area of the building
+serviced by AHU #2 (see Figure 2) had
+temperatures ranging between 71.8 - 76.6°F
+during occupied hours.  In the area serviced by
+AHU #3 (see Figure 3), the temperatures ranged
+from 68.3 to 74°F, and in the area serviced by
+AHU #5 (see Figure 4) the temperatures ranged
+from 71.7 to 75.9°F.  The area of the building that
+is serviced by AHU # 7 (see Figure 5) had
+temperatures ranging from 69 to 75.2°F during
+occupied hours. 
+Medical
+Thirteen of the 29 persons interviewed reported a
+physician diagnosis of asthma.  Seven reported
+being diagnosed with asthma prior to working at
+RSC; of these, two reported no change in
+symptoms related to presence in the workplace,
+two reported an occasional increase in symptoms
+related to odors or dust in the building, and three
+reported a consistent increase in symptoms related
+to presence in the workplace.  Of the six
+Page 6
+Health Hazard Evaluation Report No. 2000-0283-2823
+diagnosed since beginning work at RSC, two
+reported no change in symptoms related to
+presence in the workplace, one noted
+an occasional increase in symptoms if the copiers
+were being used extensively, and three reported a
+consistent increase in symptoms related to
+presence in the workplace.   
+In addition to asthma, 10 of the 29 employees
+interviewed reported upper respiratory symptoms
+or mucous membrane irritation temporally related
+to the work environment.  Ten of the 29 reported
+having positive allergy tests for dust mites.  Four
+employees reported no symptoms related to work.
+Medical records were obtained for the three
+individuals who reported both being diagnosed
+with asthma since beginning work at the RSC and
+having a consistent increase in symptoms related
+to being at work.  One of the three had
+information in the medical record possibly
+consistent with a diagnosis of asthma, but no
+evidence of a decrement in lung function at work;
+two did not have documented evidence of asthma.
+Among the 29 persons interviewed, the most
+frequently reported observation was that the work
+environment was dusty and the cloth-covered
+cubicles were dirty.  Several persons complained
+of odors from the kitchen.  In addition, several
+persons reported the use of ozone generating air
+cleaners at their desks.
+DISCUSSION AND
+CONCLUSIONS
+This evaluation did not reveal the existence of
+microbial reservoirs or suggest a chronic water
+incursion problem in the building.  A water-
+damaged ceiling tile was found.  
+Smoke tube tests revealed that the building was
+maintained under a positive pressure with respect
+to the outdoor environment.  Thus, contaminants
+and moisture from outdoors should not enter the
+RSC building through open doors or penetrations
+in the building envelope.
+Smoke tests indicated that the cafeteria was under
+negative pressure relative to the rest of the
+building.  Keeping the cafeteria under negative
+pressure will help prevent odors from entering the
+rest of the building.  Smoke tests conducted in the
+women’s bathroom near the main entrance of the
+building indicated that this room was under
+positive pressure, and that the exhaust fan was not
+operating. 
+CO2 measurements 
+above 
+the 
+NIOSH
+recommended criteria of 800 ppm indicate that the
+HVAC system is not providing enough outdoor air
+to the occupied areas.  The HVAC system should
+be capable of maintaining outdoor air supply rates
+of at least 20 cfm/person for office spaces.23  The
+current AHUs utilize computer– controlled,
+variable-air-volume boxes to control temperature
+and the amount of outdoor air brought into the
+building.  During our evaluation, the computer-
+controlled system needed to be adjusted so that
+the setting for the outside air intakes on the
+computer matched the actual outside air damper
+adjustments on the HVAC units.  Previously, CO2
+concentrations were measured in the building by
+consultants.  These data indicated that CO2
+concentrations were below 800 ppm inside the
+building when the outside air intakes were set
+higher than 15%.  Based on that previous survey,
+a minimum damper setting (>15%) should be
+established to ensure that an adequate amount of
+outdoor air is supplied to the building at all times.
+Two of the HVAC units (unit #4 and #5) had
+outside air intakes near bathroom exhaust fans.
+This allows odors from the exhaust fans to be
+entrained into the HVAC units.  The HVAC units
+appeared to be clean and have good air filtration
+systems.  Some of the condensate pans had
+evidence of standing water and rust.  Condensate
+pans should allow for good drainage to prevent
+standing water and rust inside the HVAC systems.
+Asthma was reported by several persons, and
+some of these felt that symptoms were related to
+the work environment.  Two of three medical
+records reviewed from employees who reported a
+physician diagnosis of asthma did not support a
+diagnosis of asthma.  Ten persons reported upper
+Health Hazard Evaluation Report No. 2000-0283-2823
+Page 7
+respiratory symptoms or mucous membrane
+irritation temporally related to the work
+environment. 
+Based on medical interviews, a commonly
+reported concern was the dust in the work
+environment.  Several employees had allergy
+testing that indicated allergies to dust mites.  Dust
+mites of the genus Dermatophagoides are the
+most important source of allergens in house dust,
+and there is sufficient evidence in the medical
+literature to show a causal relationship between
+dust mite allergen exposure and asthma
+exacerbations in sensitized individuals.  Dust
+mites require four things to thrive: sites for
+nesting, such as carpet, upholstered furniture,
+mattresses, and bedding; the presence of humans
+whose skin scales provide a food source;
+temperature optimal for growth; and humidity.
+Dust mite levels can be reduced by removing
+carpets or treating them with benzyl benzoate,
+eliminating or reducing upholstered furnishings or
+replacing them with leather, plastic, or other
+smooth-surfaced materials, 
+reducing or
+eliminating unnecessary fabrics such as draperies,
+and lowering humidity.33
+Several employees reported the use of personal air
+cleaners (i.e., portable ion-generating and
+electrostatic precipitator devices).  There is
+limited evidence that particle air cleaners are
+associated with a reduction in asthma symptoms.33
+In addition, ion-generating air cleaners and
+electrostatic precipitators can produce ozone in
+significant quantities.34  Ozone is a mucous
+membrane and lung irritant.  Exposure to ozone is
+associated with measurable decreases in lung
+function.  Such exposure also results in increased
+responsiveness of the airways to nonspecific
+stimuli.  Symptoms include cough, chest pain,
+shortness of breath, throat irritation, and
+wheezing.  These effects are self–limited.35  
+RECOMMENDATIONS
+1. The predetermined computer setting should
+periodically be compared with the actual
+adjustment of the outside air damper on the
+HVAC units during preventive maintenance
+inspections.  A minimum damper setting of 15%
+should be established to ensure that an adequate
+amount of outdoor air is supplied.
+2. The AHU condensate pans should be cleaned
+and adjusted to allow for good drainage.
+3. The outside air intakes of HVAC units #4
+and #5 should be relocated to avoid entraining
+bathroom exhaust fan emissions.  
+4. All bathroom exhaust fans should be checked
+periodically.  If not operating properly, they
+should be fixed to meet original design
+specifications. 
+5. The water–damaged ceiling tile noted during
+our evaluation should be discarded.  As a general
+rule, all porous water- or mold-damaged material
+that cannot be dried within 24 to 48 hours should
+be discarded.  Attempts to clean or disinfect
+mold–contaminated porous materials are generally
+unsuccessful.  Any identified sources of excessive
+moisture or leaks that may cause water damage to
+the building’s interior or furnishings should be
+promptly eliminated.  Any episodes of water
+incursion should be dealt with promptly.  Water
+should be removed immediately from porous,
+water–damaged furnishings, carpets, and
+construction materials.  Heat fans should be used
+within 24 hours to dry carpets and other
+applicable surfaces.  Steam or other water-based
+cleaning methods which add moisture to the
+environment must be used with extreme care.  A
+written program for dealing with water incursion
+and IAQ incidents should be implemented.  
+6. References regarding a written program to
+deal with IAQ issues include the “Building Air
+Quality Action Plan,”36 and the “Building Air
+Quality – A Guide for Building Owners and
+Facility Managers.”37  The “Building Air Quality
+Action Plan” is particularly useful for the
+implementation of an effective IEQ management
+program.  These documents contain some of the
+best practical advice available regarding the
+prevention, evaluation, and correction of IEQ
+problems. 
+Page 8
+Health Hazard Evaluation Report No. 2000-0283-2823
+1. Kreiss KK, Hodgson MJ [1984]. Building
+associated epidemics.  In: Walsh PJ, Dudney CS,
+Copenhaver ED, eds.  Indoor air quality.  Boca
+Raton, FL: CRC Press, pp. 87–108. 
+2. Gammage RR, Kaye SV, eds. [1985].
+Indoorair and human health: Proceedings of the
+Seventh Life Sciences Symposium.  Chelsea, MI:
+Lewis Publishers, Inc. 
+3. Woods JE, Drewry GM, Morey PR [1987].
+Office worker perceptions of indoor air quality
+effects on discomfort and performance.  In: Seifert
+B, Esdorn H, Fischer M, et al., eds.  Indoor air
+‘87, Proceedings of the 4th International
+Conference on Indoor Air Quality and Climate.
+Berlin Institute for Water, Soil and Air Hygiene.
+4. Skov P, Valbjorn O [1987].  Danish indoor
+climate study group.  The “sick” building
+syndrome in the office environment: The Danish
+town hall study.  Environ Int 13:349–399.
+5. Burge S, Hedge A, Wilson S, Bass JH,
+Robertson A [1987].  Sick building syndrome: a
+study of 4373 office workers.  Ann Occup Hyg
+31:493–504.
+6. Kreiss K [1989].  The epidemiology of
+building-related complaints and illness.
+Occupational Medicine:  State of the Art Review
+4(4):575–592.
+7. Norback D, Michel I, Widstrom J [1990].
+Indoor air quality and personal factors related to
+the sick building syndrome.  Scan J Work Environ
+Health 16:121–128.
+8. Morey PR, Shattuck DE [1989].  Role of
+ventilation in the causation of building-associated
+illnesses.  Occupational Medicine: State of the Art
+Review 4(4):625–642.
+9. Mendell MJ, Smith AH [1990].  Consistent
+pattern of elevated symptoms in air-conditioned
+office buildings: A reanalysis of epidemiologic
+studies.  Am J Public Health 80(10):1193–1199.
+10. Molhave L, Bach B, Pedersen OF [1986].
+Human reactions during controlled exposures to
+low concentrations of organic gases and vapors
+known as normal indoor air pollutants.  Environ
+Int 12:167–175.
+11. Fanger PO [1989].  The new comfort
+equation for indoor air quality.  ASHRAE J
+31(10):33–38.
+12. Burge HA [1989].  Indoor air and infectious
+disease.  Occupational Medicine: State of the Art
+Review 4(4):713–722.
+13. Robertson AS, McInnes M, Glass D, Dalton
+G, Burge PS [1989].  Building sickness, are
+symptoms related to the office lighting?  Ann
+Occup Hyg 33(1):47–59.
+7. Ozone-generating air cleaners should not be
+used.
+8. Dust in the work environment should be
+minimized by frequent vacuuming of carpets and
+cubicle upholstery with a high–efficiency
+particulate air (HEPA)-filtered vacuum.
+9. Periodic assessments of the building pressure
+(related to outside pressure) and the cafeteria
+pressure (related to the pressure inside the
+building) should be conducted.
+10. Communication between management and
+employees should be improved in order to
+facilitate the exchange of concerns about
+environmental conditions in the building.
+Employees should be made aware of the problems
+with the building and decisions made by building
+managers to address those problems.  Employees
+with work-related health concerns should be
+encouraged to report these concerns to the
+appropriate management personnel, and should
+consult their health care provider to determine the
+cause and proper treatment.
+REFERENCES
+Health Hazard Evaluation Report No. 2000-0283-2823
+Page 9
+14. Wallace LA, Nelson CJ, Dunteman G [1991].
+Workplace characteristics associated with health
+and comfort concerns in three office buildings in
+Washington, D.C. In: Geshwiler M, Montgomery
+L, and Moran M, eds.  Healthy buildings.
+Proceedings of the ASHRAE/ICBRSD conference
+IAQ’91.  Atlanta, GA.  The American Society of
+Heating, Refrigeration, and Air-Conditioning
+Engineers, Inc.
+15. Haghighat F, Donnini G, D’Addario R
+[1992].  Relationship between occupant
+discomfort as perceived and as measured
+objectively.  Indoor Environ 1:112–118.
+16. NIOSH [1991].  Hazard evaluation and
+technical assistance report: Library of Congress
+Madison Building, Washington, D.C. Cincinnati,
+OH: U.S. Department of Health and Human
+Services, Public Health Service, Centers for
+Disease Control, National Institute for
+Occupational Safety and Health, NIOSH Report
+No. HETA 88-364-2104 - Vol.III.
+17. Skov P, Valbjorn O, Pedersen BV [1989].
+Influence of personal characteristics, job related
+factors, and psychosocial factors on the sick
+building syndrome.  Scand J Work Environ Health
+15:286–295.
+18. Boxer PA [1990].  Indoor air quality: A
+psychosocial perspective.  J Occup Med
+32(5):425–428.
+19. Baker DB [1989].  Social and organizational
+factors in office building-associated illness.
+Occupational Medicine: State of the Art Review
+4(4):607–624. 
+20. CDC [1992].  NIOSH recommendations for
+occupational safety and health: Compendium of
+policy documents and statements.  Cincinnati,
+OH: U.S. Department of Health and Human
+Services, Public Health Service, Centers for
+Disease Control and Prevention, National Institute
+for Occupational Safety and Health, DHHS
+(NIOSH) Publication No. 92-100.
+21. Code of Federal Regulations [1989].  OSHA
+Table Z-1-A.  29 CFR 1910.1000. Washington,
+D.C.:  U.S. Government Printing Office, Federal
+Register.
+22. ACGIH [1999].  1999 Threshold limit values
+for chemical substances and physical agents and
+biological exposure indices.  Cincinnati, OH:
+American Conference of Governmental Industrial
+Hygienists.
+23. ASHRAE [1990].  Ventilation for acceptable
+indoor air quality.  Atlanta, GA: American Society
+for Heating, Refrigeration, and Air-conditioning
+Engineers.  ANSI/ASHRAE Standard 62–1989.
+24. ASHRAE [1992].  Thermal environmental
+conditions for human occupancy.  Atlanta, GA:
+American Society of Heating, Refrigeration, and
+Air-conditioning Engineers.  ANSI/ASHRAE
+Standard 55–1992.
+25. ACGIH [1989].  Guidelines for the
+assessment of bioaerosols in the indoor
+environment.  Cincinnati, OH: American
+Conference of Governmental Industrial
+Hygienists.  
+26. NIOSH/EPA [1991].  Building air quality: a
+guide for building owners and facility managers.
+Cincinnati, OH: U.S. Department of Health and
+Human Services, Public Health Service, Centers
+for Disease Control, National Institute for
+Occupational Safety and Health, DHHS (NIOSH)
+Publication No. 91–114.
+27. NIOSH [1994].  NIOSH testimony to the U.S.
+Department of Labor: statement of the National
+Institute for Occupational Safety and Health.
+Presented at the public hearing on the proposed
+rulemaking on Indoor Air Quality, September 28,
+1994.  NIOSH policy statements.  Cincinnati, OH:
+Department of Health and Human Services, Public
+Health Service, Centers for Disease Control and
+Prevention, National Institute for Occupational
+Safety and Health.
+Page 10
+Health Hazard Evaluation Report No. 2000-0283-2823
+28. NIOSH [1986].  Criteria for a recommended
+standard: occupational exposure to hot
+environments, revised criteria.  Cincinnati, OH:
+U.S. Department of Health and Human Services,
+Public Health Service, Centers for Disease
+Control, National Institute for Occupational
+Safety and Health, DHHS (NIOSH) Publication
+No. 86–13.
+29. Institute of Medicine [2000].Major isuues in
+understanding asthma. Chapter 1. In: Clearing the
+air; asthma and indoor air exposure.  Washington
+DC: National Academy Press, pp.  19–38.
+30. Institute of Medicine [2000].  Executive
+Summary.  In: Clearing the air; asthma and indoor
+air exposure.  Washington DC: National Academy
+Press, pp. 1–18.
+31. Friedman-Jimenez G, Beckett WS, Szeinuk J,
+Petsonk EL [2000].  Clinical evaluation,
+management and prevention of work-related
+asthma.  Am J Ind Med 37:121–141.  
+32. Chan-Yeung M [1994].  Asthma.  Chapter
+11.1.  In: Rosenstock L, Cullen MR, eds.
+Textbook of occupational and environmental
+medicine.  Philadelphia, PA: W.B. Saunders, pp.
+197–209.  
+33. Institute of Medicine [2000].  Indoor biologic
+exposures. Chapter 5. In: Clearing the air; asthma
+and indoor air exposure.  Washington DC:
+National Academy Press, pp. 105–222.
+34. Institute of Medicine [2000].  Impact of
+ventilation and air cleaning on asthma. Chapter
+10. In: Clearing the air; asthma and indoor air
+exposure.  Washington DC: National Academy
+Press, pp. 327–393.
+35. Bylin G [1996].  Controlled human studies of
+ozone exposure.  Scand J Work Environ Health
+22(suppl 3):52–71.  
+36. NIOSH/EPA [1998].  Building Air Quality –
+Action Plan.  National Institute for Occupational
+Safety and Health,  Cincinnati, OH: U.S.
+Department of Health and Human Services, Public
+Health Service, Centers for Disease Control and
+Prevention, National Institute for Occupational
+Safety and Health, DHHS (NIOSH) Publication
+No. 98–123.
+37. NIOSH/EPA [1991].  Building Air Quality –
+A Guide for Building Owners and Facility
+Managers.  Cincinnati, OH: U.S. Department of
+Health and Human Services, Public Health
+Service, Centers for Disease Control, National
+Institute for Occupational Safety and Health,
+DHHS (NIOSH) Publication No. 91–114.
+Health Hazard Evaluation Report No. 2000-0283-2823
+Page 11
+Table 1
+Carbon Dioxide, Temperature, and Relative Humidity Levels
+Rehabilitation Services Commission building
+Columbus, Ohio
+HETA 2000-0283-2823
+July 12, 2000
+Measurements
+Taken in AHU Area
+CO2
+(ppm)
+Temperature
+(oF)
+Relative Humidity
+(%)
+Morning
+AHU#1
+530
+72
+42.8
+470
+72
+42.7
+475
+72.3
+42.6
+585
+72.3
+44.3
+AHU#2
+459
+72.3
+41.2
+490
+73.2
+41.2
+496
+72.6
+41.5
+AHU#3
+658
+71.5
+38.2
+650
+72.6
+42.7
+724
+72.8
+38.9
+728
+72.8
+38.5
+AHU#4
+575
+71.1
+43.8
+664
+71.5
+39
+AHU#5
+435
+72
+39.4
+456
+72.1
+39.6
+465
+72.3
+40.3
+AHU#6
+435
+73.5
+38.3
+457
+73.4
+38.3
+AHU #7
+656
+73.7
+40.3
+620
+73.2
+41.5
+625
+73
+42.4
+AHU#8
+769
+73.6
+39
+653
+73.9
+39.7
+565
+74.7
+40.1
+Outside Building
+353
+73.5
+42.5
+353
+74.5
+40.2
+297
+69.2
+45.1
+293
+70.5
+45.5
+Table 2
+Carbon Dioxide, Temperature, and Relative Humidity Levels
+Rehabilitation Services Commission building
+Columbus, Ohio
+HETA 2000-0283-2823
+July 12, 2000
+Measurements
+Taken in AHU Area
+CO2
+(ppm)
+Temperature
+(oF)
+Relative Humidity
+(%)
+Page 12
+Health Hazard Evaluation Report No. 2000-0283-2823
+Afternoon
+AHU#1
+863
+71.5
+40.5
+878
+71.7
+41.1
+988
+72.3
+45.3
+890
+72.4
+43.7
+AHU#2
+859
+72.6
+39.5
+935
+74.4
+40.4
+875
+74.7
+38.1
+AHU#3
+920
+72.1
+42.8
+1006
+73.2
+41.5
+965
+73.3
+41
+975
+73.8
+41.4
+AHU#4
+975
+72.1
+44
+915
+72
+43
+AHU#5
+812
+74.8
+35
+780
+74.7
+34
+853
+74.3
+36.6
+AHU#6
+837
+74.8
+36.4
+829
+74.7
+36.3
+AHU #7
+798
+74.1
+37.5
+784
+73.5
+38.2
+831
+73.4
+40.4
+AHU#8
+915
+74.4
+41.1
+860
+74.9
+40.5
+780
+73.5
+41.1
+Outside Building
+344
+81
+43.3
+360
+84.9
+38.1
+278
+82.2
+33.7
+270
+80.2
+42.8
+Health Hazard Evaluation Report No. 2000-0283-2823
+Page 13
+Temperature Fluctuations in the Area of AHU #2
+68
+70
+72
+74
+76
+78
+13:26
+15:01
+16:36
+18:11
+19:46
+21:21
+22:56
+0:31
+2:06
+3:41
+5:16
+6:51
+8:26
+10:01
+11:36
+13:11
+14:46
+Time (Military)
+Temperature ( oF)
+non-occupied hours
+occupied hours
+occupied
+ hours
+Figure 2.  Temperature fluctuations in the area within the building
+serviced by AHU #2.
+   Figure 1. Bathroom exhaust near outside air intake.
+Page 14
+Health Hazard Evaluation Report No. 2000-0283-2823
+Temperature Fluctuations in Area of AHU # 5
+69
+70
+71
+72
+73
+74
+75
+76
+77
+13:20
+14:55
+16:30
+18:05
+19:40
+21:15
+22:50
+0:25
+2:00
+3:35
+5:10
+6:45
+8:20
+9:55
+11:30
+13:05
+14:40
+Time (Military)
+Temperature ( oF)
+non-occupied hours
+occupied hours
+occupied
+hours
+Figure 4.  Temperature fluctuations in the area within the building
+serviced by AHU #5.
+Temperature Fluctuations in the Area of AHU # 3
+64
+66
+68
+70
+72
+74
+76
+13:27
+14:57
+16:27
+17:57
+19:27
+20:57
+22:27
+23:57
+1:27
+2:57
+4:27
+5:57
+7:27
+8:57
+10:27
+11:57
+13:27
+14:57
+Time (Military)
+Temperature ( oF)
+non-occupied hours
+occupied hours
+occupied
+ hours
+Figure 3.  Temperature fluctuations in the area within the building
+serviced by AHU #3.
+Health Hazard Evaluation Report No. 2000-0283-2823
+Page 15
+Temperature Fluctuations in the Area of AHU # 7
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+13:24
+14:54
+16:24
+17:54
+19:24
+20:54
+22:24
+23:54
+1:24
+2:54
+4:24
+5:54
+7:24
+8:54
+10:24
+11:54
+13:24
+14:54
+Time (Military)
+Temperature ( oF)
+non-occupied hours
+occupied hours
+occupied 
+hours
+Figure 5.  Temperature fluctuations in the area within the
+building serviced by AHU #7.
+For Information on Other
+Occupational Safety and Health Concerns
+Call NIOSH at:
+1–800–35–NIOSH (356–4674)
+or visit the NIOSH Web site at:  www.cdc.gov/niosh
+!
+Delivering on the Nation’s promise:
+Safety and health at work for all people
+through research and prevention

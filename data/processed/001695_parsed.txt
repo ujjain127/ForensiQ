@@ -1,0 +1,990 @@
+Toxicology 236 (2007) 103–113
+Particle size-dependent radical generation from wildland ﬁre smoke
+Stephen S. Leonard a,∗, Vince Castranova a, Bean T. Chen a, Diane Schwegler-Berry a,
+Mark Hoover b, Chris Piacitelli c, Denise M. Gaughan c
+a Pathology and Physiology Research Branch, Health Effects Laboratory Division, National Institute for
+Occupational Safety and Health, Morgantown, WV, USA
+b Laboratory Research Branch, Division of Respiratory Disease Studies,
+National Institute for Occupational Safety and Health, Morgantown, WV, USA
+c Field Studies Branch, Division of Respiratory Disease Studies,
+National Institute for Occupational Safety and Health, Morgantown, WV, USA
+Received 29 September 2006; received in revised form 9 April 2007; accepted 10 April 2007
+Available online 24 April 2007
+Abstract
+Fireﬁghting, along with construction, mining and agriculture, ranks among the most dangerous occupations. In addition, the work
+environment of ﬁreﬁghters is unlike that of any other occupation, not only because of the obvious physical hazards but also due to
+the respiratory and systemic health hazards of smoke inhalation resulting from combustion. A signiﬁcant amount of research has
+been devoted to studying municipal ﬁreﬁghters; however, these studies may not be useful in wildland ﬁreﬁghter exposures, because
+the two work environments are so different. Not only are wildland ﬁreﬁghters exposed to different combustion products, but their
+exposure proﬁles are different.
+The combustion products wildland ﬁreﬁghters are exposed to can vary greatly in characteristics due to the type and amount of
+material being burned, soil conditions, temperature and exposure time. Smoke inhalation is one of the greatest concerns for ﬁreﬁghter
+health and it has been shown that the smoke consists of a large number of particles. These smoke particles contain intermediates of
+hydrogen, carbon and oxygen free radicals, which may pose a potential health risk.
+Our investigation looked into the involvement of free radicals in smoke toxicity and the relationship between particle size and
+radical generation. Samples were collected in discrete aerodynamic particle sizes from a wildﬁre in Alaska, preserved and then
+shipped to our laboratory for analysis. Electron spin resonance was used to measure carbon-centered as well as hydroxyl radicals
+produced by a Fenton-like reaction with wildﬁre smoke. Further study of reactive oxygen species was conducted using analysis of
+cellular H2O2 generation, lipid peroxidation of cellular membranes and DNA damage. Results demonstrate that coarse size-range
+particles contained more carbon radicals per unit mass than the ultraﬁne particles; however, the ultraﬁne particles generated more
+•OH radicals in the acellular Fenton-like reaction. The ultraﬁne particles also caused signiﬁcant increases in H2O2 production by
+monocytes and lipid peroxidation. All particle sizes showed the ability to cause DNA damage. These results indicate that the radical
+generation and the damage caused by them is not only a function of surface area but is also inﬂuenced by changing chemical and
+other characteristics due to particle size.
+© 2007 Elsevier Ireland Ltd. All rights reserved.
+Keywords: Free radicals; Fireﬁghters; Particulate sampling; Smoke inhalation; Electron spin resonance
+∗Corresponding author. Fax: +1 304 285 5938.
+E-mail address: SEL5@cdc.gov (S.S. Leonard).
+1. Introduction
+Over 15,000 wildland ﬁreﬁghters are employed by the
+Federal government each year and exposed annually to
+0300-483X/$ – see front matter © 2007 Elsevier Ireland Ltd. All rights reserved.
+doi:10.1016/j.tox.2007.04.008
+104
+S.S. Leonard et al. / Toxicology 236 (2007) 103–113
+extremely hazardous working conditions during ﬁre sup-
+pression activities at wildland ﬁres (Ward et al., 1989).
+Fireﬁghting ranks among the most dangerous occupa-
+tions, along with construction, mining and agriculture
+(Leigh, 1995; US Bureau of Labor Statistics, 2003).
+The work environment of ﬁreﬁghters is unlike that of
+any other occupation, not only because of the obvious
+physical hazards but also due to the respiratory and sys-
+temic health hazards from smoke inhalation resulting
+from combustion (Jankovic et al., 1991; Lees, 1995).
+Fireﬁghters, both municipal (structural) and wildland,
+are known to have respiratory problems (Musk et al.,
+1982; Materna et al., 1992). Much research has been
+devoted to the deleterious effects of smoke exposure
+in municipal ﬁreﬁghters (Burgess et al., 2001; Chia et
+al., 1990; Scannell and Balmes, 1995; Bergstrom et al.,
+1997). Those results, however, may not be generaliz-
+able to wildland (grass, brush and forest) ﬁreﬁghters,
+given the difference in smoke composition, the longer
+duration of exposures for wildland ﬁreﬁghters and the
+fact that municipal ﬁreﬁghters routinely wear respira-
+tory protection while wildland ﬁreﬁghters do not. Due
+to these differences the exposure levels of municipal
+and wildland ﬁreﬁghters to airborne contaminants can
+be expected to differ. Wildland ﬁreﬁghters are not likely
+to experience the extreme acute exposures that structural
+ﬁreﬁghters may encounter while working in conﬁned
+spaces. However, they may spend several days or weeks
+working in smoke for shifts of 12 h or longer. Use
+of a self-contained breathing apparatus is not feasible,
+and respiratory protection consists primarily of ban-
+dannas tied over the nose and mouth (Sutton et al.,
+1990).
+Previous studies of wildland ﬁreﬁghters showed
+cross-season changes in prevalence of one or more
+respiratory symptom(s) (Rothman et al., 1991; Liu et
+al., 1992; Betchley et al., 1997). Respiratory problems
+are estimated to affect 5–10% of wildland ﬁreﬁghters.
+Studies of forest ﬁreﬁghters have shown both short-
+and long-term effects on their pulmonary functions
+(Rothman et al., 1991; Serra et al., 1996). Another
+study (Jalava et al., 2006) found major differences
+between the coarse and ultraﬁne particles in proinﬂam-
+matory cytokines production and apoptosis in RAW
+264.7 cells. However, differences in MTT tests and NO
+production were relatively small. The study suggests
+that the aerosol smoke particles, which had undergone
+long-range transport, had chemically transformed during
+aging.
+Smoke is the most obvious product of combus-
+tion and by far the most complex. While smoke can
+be viewed simplistically as partially combusted car-
+bonaceous material, it is really a complicated array
+of organic and inorganic compounds originating from
+the combusted material, decomposed from the origi-
+nal material or formed from the combustion process
+(Large et al., 1990). Combustion chemistry predicts that
+the majority of the reactive intermediates generated in
+ﬁres will be free radicals (Bizovi and Leikin, 1995;
+Lowry et al., 1985; MacFarland, 1968; Pryor et al.,
+1990). The chemical intermediates generated are usu-
+ally in the form of hydrogen, carbon and oxygen free
+radicals (Tuve, 1976). These free radicals have been
+suggested to be involved in mechanisms involved in
+bronchopulmonary carcinogenesis, ﬁbrogenesis, inﬂam-
+mation and toxicity (Shi et al., 1994; Leonard et al.,
+2004a,b). Previous investigations have identiﬁed wood
+smoke as a source of free radicals (Yamaguchi et al.,
+1992; Lowry et al., 1985; Leonard et al., 2000). Free radi-
+cal mechanisms have been implicated in general toxicity,
+inﬂammation, ﬁbrogenesis, bronchopulmonary carcino-
+genesisandatheroscleroticplaqueformation(Vallyathan
+et al., 1995). It has been demonstrated that smoke gen-
+erated in wood ﬁres also generates carbon-centered free
+radical species. Carbon-centered free radicals have been
+shown to initiate reactions in the bronchopulmonary tree,
+where inhaled smoke particles deposit (Lachoki et al.,
+1989).
+Investigations have suggested that oxygen-derived
+free radicals and their metabolites, reactive oxygen
+species (ROS), are important mediators of pulmonary
+injury, including asthma (Jarjour and Calhoun, 1994),
+adult respiratory distress syndrome (Gonzalez et al.,
+1996; McCord et al., 1994), pulmonary ﬁbrosis and
+inﬂammation caused by exposure to asbestos (Kamp et
+al., 1992; Goodglick and Kane, 1986) or silica (Tuomala
+et al., 1992; Vallyathan et al., 1995). Earlier studies
+(Kimura et al., 1988; Traber et al., 1989; Brown et al.,
+1988) have suggested a role of free radicals in smoke
+inhalation injury but have not identiﬁed the types of
+free radicals involved or the biological mechanism of
+action. Wildﬁre smoke has been associated with chronic
+obstructive pulmonary disease (COPD) and bronchial
+asthma (Jalava et al., 2006; Mott et al., 2005).
+In March 2004, a pilot study was initiated by NIOSH
+to assess the feasibility of collecting medical and envi-
+ronmental exposure data preseason, in a wildﬁre setting
+and post-season. The National Interagency Fire Center
+arranged for the National Park Service Alpine Inter-
+agency Hotshot Crew (IHC) of the Rocky Mountain
+National Park (n = 20 total ﬁreﬁghters) to participate in
+the pilot study. In the summer of 2004, NIOSH staff
+accompanied the Alpine IHC to the Boundary Fire in
+Fox, AK. The Boundary Fire was the fourth largest
+S.S. Leonard et al. / Toxicology 236 (2007) 103–113
+105
+ﬁre of 2004 burning a total of 537,098 acres from
+6/20/04 to 9/3/04 and we used this ﬁre as a representative
+sampling of the possible types of smoke wildland ﬁre-
+ﬁghters can be exposed to and conditions they would deal
+with.
+We hypothesize that free radicals are associated with
+wildﬁre smoke and that particle size plays a role in the
+type of radicals generated. Furthermore, these radicals
+are related to hydrogen peroxide generation, and have
+the ability to cause lipid peroxidation and DNA strand
+breaks. Our hypothesis will be tested by performing
+experiments related to the following speciﬁc aims: (1)
+determine and quantify particle-induced ROS associated
+with particle size using a cell-free model. (2) Deﬁne the
+mechanism and types of radicals involved in the process.
+(3) Determine if cellular exposure to wildland ﬁre can
+cause activation of redox systems. (4) Determine if wild-
+land ﬁre smokes samples have the ability to cause DNA
+strand breaks associated with ROS. The major goals of
+the present study are focused on answering these ques-
+tions.
+2. Materials and methods
+2.1. Reagents
+Chelex 100 chelating resin was purchased from Bio-
+Rad Laboratories (Richmond, CA, USA). Phosphate-buffered
+saline (PBS) (KH2PO4 (1.06 mM), Na2HPO4 (5.6 mM), NaCl
+(154 mM), pH 7.4), was purchased from Biowhittaker Inc.
+(Walkersville, MD, USA). The PBS was treated with chelex
+100 to remove transition metal ion contaminants. Dulbecco’s
+modiﬁed Eagles medium (DMEM), 5,5-dimethyl-1-pyroline-
+oxide (DMPO), fetal bovine serum (FBS), FeSO4, H2O2 and
+penicillin/streptomycin were purchased from Sigma Chemi-
+cal Company (St. Louis, MO, USA). The spin trap, DMPO,
+was puriﬁed by charcoal decolorization and vacuum distilla-
+tion and was free of ESR detectable impurities. Quartz sample
+tubes were purchased from Wilmad Glass (Buena, NJ, USA).
+DNA fragments,  Hind III, were purchased from Invitro-
+gen (Carlsbad, CA, USA). Vistra green nucleic acid stain
+was purchased from Amersham Biosciences (Piscataway, NJ,
+USA).
+2.2. Cell culture
+RAW 264.7 mouse peritoneal monocytes were purchased
+from American type culture collection (Rockville, MD). RAW
+264.7 cells are commonly used and have been found to respond
+to particle exposure in a manner similar to primary alveolar
+macrophages (Hiura et al., 1999; Jalava et al., 2006; Leonard
+et al., 2000, 2004a,b; Li et al., 2003; Zhang et al., 2005). RAW
+264.7 cells were cultured in DMEM with 10% FBS, 2 mM
+l-glutamine and 50 mg/ml pen/strep at 37 ◦C in a 5% CO2 incu-
+bator. Cells were split after conﬂuence approximately every 3
+days.
+2.3. Smoke sampling
+Six sets of aerodynamically size-selected aerosol sam-
+ples were collected with the Micro-Oriﬁce Uniform Deposit
+Impactor (MOUDI) model# 110 with rotator (MSP, Inc.,
+Minneapolis, MN, USA) at wildﬁre mop-up and back-burn
+operations over the course of 5 days. These operations are
+deﬁned as—mop-up: to make a ﬁre safe or reduce residual
+smoke after the ﬁre has been controlled by extinguishing or
+removing burning material along or near the control line and
+back-burn: a ﬁre set along the inner edge of a ﬁre line to
+consume the fuel in the path of a wildﬁre and/or change the
+direction of force of the ﬁre’s convection column. The MOUDI
+is an 11-stage research-grade cascade impactor (including a
+ﬁnal ﬁlter to collect particles <0.056 m). Filters used were
+from Millipore Corp. (Billerica, MA, USA) 47 mm, 0.8 m,
+PVC model PVC0847600. PVC was selected because it was
+previously demonstrated to have no effect in the analysis. The
+MOUDI substrates are normally coated with grease to ensure
+adherence of deposited particles and to avoid bounce of large
+particles to lower stages of the impactor. However, grease
+can alter the surface of collected aerosol particles and is not
+suitable for use in collecting samples for free radical anal-
+ysis. Therefore, the cascade impactor was operated without
+grease substrates to collect and fractionate the smoke aerosol.
+This approach was based on the assumption that the tarry
+nature of smoke particles would negate major concerns for
+particle bounce or entrainment. The MOUDI samplers were
+placed as close to the ﬁre as was permitted by the hotshot
+crews in regard to safety of the ﬁreﬁghters and the NIOSH
+personnel taking the samples. The samplers were supported
+on a tripod of steel legs in order to place the sampling inlet
+approximately 5 ft off the ground to simulate breathing space
+of a ﬁreﬁghter. The average sampling time was 3.5 h. The
+long sampling time was required in order to obtain sufﬁcient
+mass within the time period of ﬁreﬁghter exposure. Particle
+bounce, particularly in the larger sizes, may have been an
+issue due to the long sampling time. The mass concentration
+of particulates ranged from 0.75 to 1.3 mg/m3. Filters were
+immediately placed on dry ice and shipped to NIOSH for
+temporary storage at −80 ◦C until free radical analysis was
+performed.
+Filter suspensions, which were used for H2O2, lipid perox-
+idation and DNA damage analysis, were prepared by splitting
+the ﬁlters into three size groups. For this study, the size groups
+were deﬁned as ultraﬁne (0.042–0.24 m), ﬁne (0.42–2.4 m)
+and coarse (4.2–24 m) particles. The groups consisted of four
+ﬁlters each of which were placed in PBS and blended on ice
+into ﬁne slurry using a Tissue Tearor (Biospec Products Inc.,
+Racine, WI). Pre- and post-ﬁlter weights were used to calculate
+a ﬁnal concentration of 1 mg/ml smoke suspension. The slurry
+was centrifuged, and the smoke suspension was decanted from
+the ﬁlter pellet. A clean control suspension was also prepared
+at a ratio of 4 ﬁlters/1 ml PBS.
+106
+S.S. Leonard et al. / Toxicology 236 (2007) 103–113
+2.4. Free radical measurements
+ESR spin trapping was used to detect both carbon radi-
+cals and short-lived free radical intermediates. Carbon radicals
+were measured directly by placing the ﬁlter into a 5 mm quartz
+sample tube and placing it in the ESR cavity. Hydroxyl radicals
+were measured using the addition-type reaction of a short-lived
+radical with a paramagnetic compound (spin trap) to form a rel-
+atively long-lived free radical product (spin adduct), which can
+then be studied using conventional ESR. For hydroxyl radical
+measurements, reactants were mixed in test tubes at a ﬁnal
+volume of 1.0 ml of PBS in the presence of 1 mM H2O2. The
+reaction mixture was then transferred to a ﬂat cell for ESR mea-
+surement. Experiments were performed at room temperature
+and under ambient air.
+The concentrations given in the ﬁgure legends are ﬁnal
+concentrations. The intensity of the signal is used to measure
+the amount of short-lived radicals trapped, and the hyperﬁne
+couplings of the spin adduct are characteristic of the origi-
+nal trapped radicals. Spin trapping is the method of choice
+for detection and identiﬁcation of free radical generation due
+to its speciﬁcity and sensitivity. All ESR measurements were
+conducted using a Bruker EMX spectrometer (Bruker Instru-
+ments Inc., Billerica, MA 01821, USA) and a ﬂat cell assembly.
+Hyperﬁne couplings were measured (to 0.1 G) directly from
+magnetic ﬁeld separation using potassium tetraperoxochro-
+mate (K3CrO8) and 1,1-diphenyl-2-picrylhydrazyl (DPPH) as
+reference standards (Janzen and Blackburn, 1968; Buettner,
+1987). The relative radical concentration was estimated by
+multiplying half of the peak height by (Hpp)2, where Hpp
+represents peak-to-peak width. The Acquisit program was used
+for data acquisitions and analyses (Bruker Instruments Inc.,
+Billerica).
+2.5. Scanning electron microscopy
+For scanning electron microscopy (SEM), the ﬁlters were
+trimmed into pie-shaped sections and mounted onto aluminum
+stubs with double-stick carbon tape. The samples were then
+coated with gold/palladium and viewed on a JEOL 6400 scan-
+ning electron microscope (Tokyo, Japan) at 20 kV. Elemental
+analysis of particles was done using a Princeton Gamma-Tech
+IMIX system (Princeton, NJ, USA).
+2.6. H2O2 measurements
+H2O2 production was monitored using a Bioxytech
+quantitative hydrogen peroxide assay kit (H2O2-560, Oxis
+International Inc., Portland, OR, USA). Measurements were
+made on a system containing 5 × 106 RAW 264.7 mouse
+peritoneal monocytes per millilitre in pH 7.4 PBS and expos-
+ing them to the size groupings (refer to ﬁlter methods) of
+wildﬁre smoke solution. Cells were exposed to wildland ﬁre
+smoke solution [100 g/ml] for 30 min in a 37 ◦C incubator.
+Absorbance was monitored at a wavelength of 560 nm using a
+Spectra Max 250 multi-well plate reader (Molecular Devices,
+Sunnyvale, CA, USA).
+2.7. Lipid peroxidation
+Lipid peroxidation of RAW 264.7 mouse peritoneal
+monocytes was measured by using a colormetric assay for mal-
+ondialdehyde (LPO-586 Oxis International Inc., Portland). A
+reaction mixture contained various size groups (refer to ﬁl-
+ter methods) of wildﬁre smoke samples [100 g/ml], H2O2
+(1 mM) and 1 × 107 cells in a total volume of 1.0 ml PBS (pH
+7.4). A Fenton reaction, FeSO4 (1 mM), H2O2 (1 mM) and
+1 × 107 cells, was also carried out as a positive control. The
+mixtures were exposed for 1 h in a shaking water bath at 37 ◦C.
+The measurement of lipid peroxidation is based on the reac-
+tion of a chromogenic reagent with malonaldehyde at 45 ◦C
+(Brambilla et al., 1989). The absorbance of the supernate was
+measured at 586 nm.
+2.8. DNA damage
+The DNA strand break assay was carried out according to
+methods described earlier (Daniel et al., 1993). Brieﬂy, reac-
+tions were performed in phosphate-buffered saline (pH 7.4) in
+1.5 ml polypropylene tubes at 37 ◦C. A positive control reaction
+between FeSO4 and H2O2 was used to generate hydroxyl radi-
+cals. A reaction mixture contained various size groups (refer to
+ﬁlter methods) of wildﬁre smoke samples [100 g/ml], 10 g
+DNA ( Hind III fragments) and H2O2 (1 mM). This solution
+was allowed to react for 30 min at 37 ◦C in a shaking water
+bath. To this solution, 2 l of gel loading buffer (50 mM EDTA,
+2.5% sodium dodecyl sulfate (SDS), 0.1% bromophenol blue)
+was added, and then electrophoresis was performed in 0.7%
+agarose at 1–2 V/cm in 40 mM tris acetate buffer containing
+2 mM EDTA (pH 8.0). Gels were stained in vistra green nucleic
+acid stain (5 l/ml) for 30 min and photographed under UV
+light using a Stratagene Eagle Eye II (Stratagene Inc., La Jolla,
+CA 92037, USA).
+2.9. Statistics
+Data were expressed as mean ± standard error of the mean
+(S.E.M.) (n = 3) for each group. One-way ANOVA test was
+performed using SigmaStat statistical software (Jandel Scien-
+tiﬁc, San Rafael, CA, USA) to compare the responses between
+treatments. Statistical signiﬁcance was set at P < 0.05.
+3. Results
+3.1. Particle size distribution
+Table 1 shows the mass-based distribution of particle
+sizes collected by the 12 MOUDI samplers. The wild-
+land ﬁre smoke shows a bell-shaped distribution with the
+highest %masses, 14.5, 11.3 and 13 being found on ﬁlters
+4, 5 and 6, respectively. These sizes range from a mean
+of 4.2–1.34 m. The ultraﬁne (ﬁlters 9, 10, 11 and 12)
+particles have the lowest overall mass, making up 20.2%
+S.S. Leonard et al. / Toxicology 236 (2007) 103–113
+107
+Table 1
+Particle mass-based size distribution
+Filter
+number
+Mean
+diameter (m)
+Mass concentration
+(% of total)
+1
+24
+6.3
+2
+13.4
+7
+3
+7.4
+8.3
+4
+4.2
+14.5
+5
+2.4
+11.3
+6
+1.34
+13
+7
+0.74
+10
+8
+0.42
+9.5
+9
+0.24
+7.8
+10
+0.134
+5.7
+11
+0.074
+3.7
+12
+0.042
+3
+of the total mass collected, while the ﬁne (ﬁlters 5, 6, 7
+and 8) particles have the highest overall mass (43.8%)
+of the overall mass collected. Our toxicological studies
+showed that the ultraﬁne particle generated the highest
+amount of ROS associated damage in assays preformed.
+The complete %distribution can be seen in Table 1.
+3.2. Stable free radicals
+Fig. 1 shows a typical ESR spectrum recorded from
+a wildland smoke ﬁlter sample. The spectrum shape and
+magnetic ﬁeld location were assigned to carbon-centered
+radicals (R•). Carbon-centered radials are relatively sta-
+ble free radicals which, depending on environmental
+conditions, can have a half-life of up to several days.
+The carbon radical spectra were not observed in the
+Fig. 1. A typical ESR spectrum of the carbon radical recorded from a
+dry ﬁlter measurement. No change in spectral intensity was observed
+over a 3-day period. ESR settings were center ﬁeld, 3490 G; scan width,
+100 G; time constant, 0.40 s; modulation amplitude, 1 G; receiver gain,
+6.32 × 104; frequency, 9.828 GHz; power, 100 mW.
+aqueous samples with DMPO added. Control PVC ﬁl-
+ters were tested and showed no radical formation. The
+spectra strength was found to vary with particle size and
+composition as reported in Figs. 3 and 4.
+3.3. Radicals generated from H2O2 reaction
+Fig. 2 shows an example of the spectra generated
+from wildland ﬁre smoke exposed ﬁlters when treated
+with H2O2, to create a Fenton-like reaction, in the pres-
+ence of the radical spin trap DMPO. Filters were treated
+in order to measure their potential to generate reac-
+tive radical species when inhaled. The spectrum shown
+in Fig. 2 demonstrates the 1:2:2:1 quartet splitting of
+aN = aH = 14.9 as indicated by the magnetic ﬁeld legend.
+Using these splitting constants, this 1:2:2:1 quartet can
+be assigned to the DMPO/•OH adduct, showing •OH
+radical generation. To further verify the involvement of
+transition metals in the formation of the •OH radical,
+a chelator, deferoxamine, was added at various con-
+centrations. Concentrations of 0.1, 0.5, 1.0 and 2.0 mM
+deferoxamine showed decreasing •OH peaks as the con-
+centration of the chelator increased (data not shown).
+3.4. Radical characteristics
+Fig. 3 displays the relationship between radical peak
+height per unit milligram and aerodynamic diameter of
+the particles. The results show that the carbon radical was
+stronger in the larger particles per unit mass, while the
+•OH radical was stronger per unit mass in the smaller
+particles. This could indicate that the larger particles
+Fig. 2. The generation of short-lived •OH radicals by wildland smoke
+upon reaction with H2O2. ESR spectrum recorded 3 min after reac-
+tion was initiated in PBS (pH 7.4) containing H2O2 [1 mM] and
+DMPO [100 mM] vortexed for 1 min with the ﬁlter. ESR settings were
+center ﬁeld, 3490 G; scan width, 100 G; time constant, 0.40 s; modula-
+tion amplitude, 1 G; receiver gain, 6.32 × 104; frequency, 9.828 GHz;
+power, 100 mW.
+108
+S.S. Leonard et al. / Toxicology 236 (2007) 103–113
+Fig. 3. Free radical activity per unit particle mass. Radical strength
+of •OH was greatest per unit mass in the smaller particle sizes, while
+carbon radicals were stronger per unit mass in the coarser particles.
+were produced at a lower temperature and generated
+particles with less complete combustion in which the
+carbon radicals stayed intact. The smaller particles may
+have been produced at higher temperatures and lower
+oxygen states, which may have dissipated the carbon
+radical by forming cross-links and produced more poten-
+tially reactive hydroxyl radical precursors (Halliwell and
+Gutteridge, 2000a).
+Fig. 4 demonstrates the relationship between radi-
+cal peak height per unit particle surface area (m2) and
+median aerodynamic diameter of each particle size frac-
+tion. The surface area relationship was based on the
+assumption that all particles were spherical in shape with
+unit density. The results indicate that the ESR peaks are
+surface area-dependent for the ultraﬁne and ﬁne sizes,
+Fig. 4. Free radical activity per unit particle surface area. Both •OH
+and carbon radicals showed good surface area correlation for ultraﬁne
+and ﬁne sizes however, underestimation of true particle surface area or
+particle bounce may have inﬂuenced the coarse particle results.
+Fig. 5. Elemental particle proﬁle and electron micrograph of particles
+on ﬁrst ﬁlter stage (median particle diameter 24 m). Particle proﬁle
+shows high amounts of Si and Fe, which could be found in soil residue
+taken up in the burning process.
+i.e., over these particle sizes, equivalent surface area pro-
+duced equivalent radicals. The coarse particles departure
+from this correlation may be partly due to an under-
+estimate of the coarse particle surface area (i.e., true
+particle shape may provide substantially larger surface
+area than calculated from the assumption of spherical
+particle shape), or party due to particle bounce of large
+particles, an artifact of the required long sampling time.
+3.5. Electron microscopy
+Figs. 5 and 6 show representative samples from two
+of the ﬁlter sizes. Fig. 5 shows the ﬁrst, and largest
+particle size, ﬁlter stage (24 m) and a typical particle
+elemental proﬁle and electron micrograph. The elemen-
+tal proﬁle shows high amounts of both silica (Si) and
+Fig. 6. Elemental particle proﬁle and electron micrograph of particles
+on sixth ﬁlter stage (median particle diameter 1.34 m). Smaller parti-
+cles show a different proﬁle than the larger fraction containing carbon,
+which could be the result of combustion. The clumping of the smaller
+particles can also be observed.
+S.S. Leonard et al. / Toxicology 236 (2007) 103–113
+109
+iron (Fe), these reactive elements may have been part of
+the combusted wood ﬁber or taken up from soil during
+the burning process. Both Si and Fe have been shown
+to be capable of reactive oxygen species generation. Si
+acts through the splitting of Si O bonds generating •Si
+and Si O• radicals on the fracture surfaces (Castranova
+et al., 1995). Fe generates ROS through its transition
+metal characteristics and the Fenton reaction with H2O2
+(Halliwell and Gutteridge, 2000b). Fig. 6 shows ﬁlter
+stage (1.34 m); the elemental proﬁle for these smaller
+particles shows no measurable Si or Fe. It can also be
+noted that while the particles are small, they show clump-
+ing which may further affect their surface area related
+characteristics.
+3.6. H2O2
+It has been shown in the previous section that H2O2
+was involved in the •OH radical generation from wildﬁre
+smoke particles via Fenton-like reaction. H2O2 genera-
+tion was measured from RAW 264.7 cells exposed to
+wildﬁre smoke suspended in PBS. As shown in Fig. 7,
+this mixture generated H2O2 as determined by an assay,
+which measures the oxidation of ferrous ions (Fe2+) to
+ferricions(Fe3+)byhydrogenperoxideunderacidiccon-
+ditions. Exposure of cells to wildﬁre smoke resulted in
+a signiﬁcant increase in H2O2 production in the ultra-
+ﬁne (0.042–0.24 m) and the ﬁne (0.42–2.4 m) sizes
+groups, demonstrating activation of ROS systems within
+the cells. However, the coarse (4.2–24 m) size group
+Fig. 7. H2O2 production in 5 × 106/ml RAW 264.7 cells stimulated
+by wildland ﬁre smoke. Cells were incubated with wildﬁre smoke
+[100 g/ml], for 30 min in a 37 ◦C incubator. H2O2 production in incu-
+bation mixtures of ﬁlter size groups, both control and smoke exposed
+and a Fenton reaction positive control were measured. Data presented
+are means of ±S.D. for four sets of experiments. Asterisks (*) indi-
+cate a signiﬁcant increase in H2O2 production compared to control
+(P < 0.05).
+was not signiﬁcantly different from the control in cellu-
+lar H2O2 production. Therefore, on an equivalent mass
+basis, small particles were more potent stimulants of
+H2O2 production by monocytes than large particles.
+3.7. Lipid peroxidation
+Fig. 8 shows the generation of malondialdehyde
+(MDA) after exposure of RAW 264.7 cells to wildﬁre
+smoke suspensions. The results show that the ultra-
+ﬁne (0.042–0.24 m) and the ﬁne (0.42–2.4 m) sized
+groups induced a signiﬁcant increase in MDA, from lipid
+peroxidation, compared to the clean ﬁlter groups. The
+coarse (4.2–24 m) sized group showed a small increase
+in lipid peroxidation over the clean ﬁlter group, which
+was not signiﬁcant.
+3.8. DNA damage
+Fig. 9 shows  Hind III digested DNA after expo-
+sure to wildﬁre smoke suspensions and H2O2. Lane
+1 shows DNA alone with sharp, undamaged DNA
+bands. Lane 2 contains DNA + H2O2 [1 mM] + clean ﬁl-
+ter suspension, which also shows undamaged focused
+bands. However, in lane 3, which contains DNA + H2O2
+[1 mM] + ultraﬁne (0.042–0.24 m) wildﬁre ﬁlter sus-
+pension, DNA damage is apparent in the form of smeared
+bands. The band smearing is caused by DNA being
+cut into randomly sized pieces and blurring the gel
+when stained instead of staying in sharp focused bands.
+DNA damage is also seen in lane 4 which contains
+Fig. 8. Wildland ﬁre smoke-induced lipid peroxidation. Exposure mix-
+turecontained100 lwildlandsmokesample[100 g/ml],and5 × 107
+RAW 264.7 cells. Fenton reaction-induced lipid peroxidation exposure
+mixture contained 1.0 mM FeSO4, 0.1 mM H2O2 and 5 × 107 RAW
+264.7 cells. Data presented are means of ±S.D. for four sets of experi-
+ments. Asterisks (*) indicate a signiﬁcant increase in lipid peroxidation
+compared to control (P < 0.05).
+110
+S.S. Leonard et al. / Toxicology 236 (2007) 103–113
+Fig. 9. DNA strand breaks induced by wildﬁre smoke. Lane
+1,
+
+Hind
+III
+digested
+DNA
+alone;
+lane
+2,
+DNA + H2O2
+[1 mM] + clean control ﬁlter suspension; lane 3, DNA + H2O2
+[1 mM] + 0.042–0.24 m wildﬁre ﬁlter suspension [100 g/ml]; lane
+4, DNA + H2O2 [1 mM] + 0.42–2.4 m wildﬁre ﬁlter suspension
+[100 g/ml];lane5,DNA + H2O2 [1 mM] + 4.2–24.0 mwildﬁreﬁlter
+suspension [100 g/ml].
+DNA + H2O2 [1 mM] + ﬁne (0.42–2.4 m) ﬁlter sus-
+pension and in lane 5 which contains DNA + H2O2
+[1 mM] + coarse (4.2–24.0 m) ﬁlter suspension. The
+results suggest generation of radicals from the reaction
+of the wildﬁre smoke suspension with H2O2 and the
+resulting DNA damage. Sodium formate, an •OH radical
+scavenger, and deferoxamine, a metal chelator, inhib-
+ited DNA damage caused by wildﬁre smoke plus H2O2,
+demonstrating that a transition metal reaction with the
+H2O2 was involved in the •OH generated DNA damage
+(data not shown).
+4. Discussion
+The present study was undertaken to investigate pos-
+sible radical generation in wildﬁre smoke particles and
+to determine if their effects were size and surface area-
+dependent. Our results determined that wildﬁre smoke
+contains both carbon radicals and precursors, which are
+able to react and generate hydroxyl radicals (•OH) from
+a Fenton-like reaction with H2O2 as well as ROS gen-
+eration after exposure to cells. Electron spin resonance
+(ESR) analysis showed that carbon radicals were found
+in all ﬁlter samples; however, a higher concentration per
+milligram was found in the coarse (4.2–24 m) parti-
+cles leading us to believe that the larger particles were
+made up mostly of ash, not fully combusted wood parti-
+cles, and some soil particles swept up during the process
+of burning. The decreasing amount of carbon radicals
+measured in the ﬁne (0.42–2.4 m) and the ultraﬁne
+(0.042–0.24 m) sizes demonstrate that these groups
+were made up of particles further along in the pyrolysis
+process and due to oxygen depletion as well as tempera-
+turethecarbonradicalshadcross-linkedtoformcovalent
+bonds (Halliwell and Gutteridge, 2000b). Carbon radi-
+cals are relatively stable and unlikely to do much damage
+in biological systems (Jankovic et al., 1993). ESR was
+also used to determine the •OH generating potential of
+the particles. All wildﬁre ﬁlter sizes showed genera-
+tion of •OH upon reaction with H2O2. Hydroxyl radical
+generation was decreased when deferoxamine, a metal
+chelator, was added to the reaction, indicating that a tran-
+sition metal or metals were at least partly responsible
+for the •OH generation (Halliwell, 1989). The reaction
+with H2O2 was signiﬁcant because inhaled particles are
+likelytoundergophagocytosisoncedepositedinthelung
+(Patierno and Landolph, 1989). In this process, alveo-
+lar macrophages and other cellular constituents generate
+H2O2 as part of the respiratory burst (Halliwell and
+Gutteridge, 2000c; Forman and Torres, 2002; Liu et al.,
+1997). The H2O2 generated in response to the inhaled
+particles can react with transition metals and other pre-
+cursors present in the smoke, which by a Fenton-like
+reaction can generate •OH (Halliwell and Gutteridge,
+2000a).
+Table 1 showed the distribution of particle mass-
+based size. This distribution shows that the equivalency
+of mass among the three groups: ultraﬁne (20.2%), ﬁne
+(43.8%) and coarse (36.1%) was good and would be a
+good model as to the bioavailability in humans. The three
+basic size groups of the particles tested deposit into dif-
+ferent regions of the lung. Coarse particles are mostly
+deposited in the nasal area with some penetrating into
+the conducting airways. Fine particles are deposited in
+all three regions, but the majority are found in alveolar
+region of the lung. Ultraﬁne particles penetrate into the
+conducting tracheo-bronchial zone, deep into the pul-
+monary zones and alveoli, where they can gain access
+to the pulmonary interstitium (Castranova et al., 1991;
+Pietropaoli et al., 2004; Chalupa et al., 2004).
+Our results indicated that there were more ROS per
+milligram in the smaller particles. Speciﬁcally, ultraﬁne
+particles showed the highest production per unit mil-
+ligram, which is of interest because these same particles
+are able to penetrate deep into the pulmonary system and
+into the alveolar region. This increase in radical produc-
+tion corresponds to the greater surface area exposed to
+allow reaction with the H2O2. In an organism, this same
+increase in surface area would allow greater interaction
+with macrophages and other defense systems, many of
+which would react with the particle contents and gener-
+ate ROS. Measurement of radicals showed surface area
+dependence in the ultraﬁne and ﬁne sizes; however, the
+coarse particles demonstrated a possible experimental
+S.S. Leonard et al. / Toxicology 236 (2007) 103–113
+111
+artifact that could be related either to the assumption
+that particle surface area was equivalent to that of round
+smooth spheres, or to particle bounce due to the long
+sampling time. By the same token (similar to the col-
+lection of coarse particles on the lower stage as a result
+of particle bounce), the dry tar-like ﬁne particles could
+be collected on the higher stage of the impactor as well.
+The SEM micrographs indicate that depending on the
+humidity of the environment, tar-like ﬁne particles could
+coagulate into aggregate particles while still in the air-
+borne state. As a result, these aggregate particles would
+be collected on the higher stages of the impactor and con-
+sidered as coarse particles. As a result, this phenomenon
+also promotes the higher ratio for the coarse particles as
+indicated in our results.
+The results indicate that wildﬁre smoke is heteroge-
+neousandcomplex.Particlesurfaceareamaybeacritical
+factor in radical production characteristics of wildﬁre
+smoke.
+On an equivalent mass basis, the ultraﬁne and ﬁne
+sizes also showed signiﬁcant increase in H2O2 genera-
+tion from RAW cells, which indicate that these particles
+are more reactive, generate a stronger respiratory burst
+in cells, and therefore, may have more •OH generation
+potential. The strong respiratory burst acts synergisti-
+cally with the surface area and chemical composition of
+the particles to provide more reactive surfaces. The ultra-
+ﬁne and ﬁne particles also showed a signiﬁcant increase
+in lipid peroxidation in exposed RAW cells again indi-
+cating their potential for damage to cells and organisms.
+Lipid peroxidation results in a release of lipid-derived
+radicals (R•, RO• and ROO•) (Shi et al., 1988) These
+radicalscanhaveacascadeeffectandleadtofurtherreac-
+tionsinthecellmembraneandreleasecatalyticallyactive
+iron (Vladimirov, 1986), which will further increase the
+generation of ROS. Lipid peroxidation and its products
+have been found to cause DNA damage (Vaca et al.,
+1988) and may function as tumor initiators (Comporti,
+1985).
+The signiﬁcant increase seen in H2O2 production and
+lipid peroxidation by exposure of cells to both ultraﬁne
+and ﬁne wildﬁre smoke suspensions correlates well with
+the results measured from •OH generation by these same
+particles.
+The data further demonstrate that the •OH radicals
+generated from the reaction between the wildﬁre smoke
+and H2O2 caused DNA strand breaks. All size groups
+were observed to cause DNA damage with no signif-
+icant difference seen between them. It should be noted
+that •OH radicals generated in the reaction of H2O2 with
+certain metal ions, such as nickel (Inoue and Kawanishi,
+1989), copper or zinc containing SOD (Yim et al., 1990),
+exhibit very little reactivity. For example, the •OH radi-
+cals produced by these systems cannot be scavenged by
+ethanol or formate. The reason for this non-reactivity is
+believed to be that •OH radicals are generated within
+the domain of certain macromolecules, and hence are
+not “free” to exhibit signiﬁcant reactivity (Inoue and
+Kawanishi, 1989; Yim et al., 1990). However, the results
+obtained from the present study show that •OH radi-
+cals generated from materials found in wildﬁre smoke
+have the potential to cause DNA damage. Furthermore,
+H2O2, and •OH may cause other cellular damage via
+mechanism typically associated with reactions initiated
+by reactive oxygen species, for example, dG hydroxyla-
+tion and protein–DNA cross-links. They may also cause
+activation of nuclear transcription factors, such as NF-
+B, over-expression of certain oncogenes and induction
+of p53 mutation (Chen et al., 2000; Shi et al., 1998).
+In conclusion, the results of the present study
+demonstrate that wildﬁre smoke particles have differ-
+ent chemical characteristics over different size-ranges
+and can generate ROS, which are affected by both sur-
+faceareaandthesedifferentcharacteristics.Theparticles
+can cause cellular respiratory burst, increased generation
+of radical precursors, such as H2O2 and can also cause
+lipid peroxidation. These same radicals are also respon-
+sible for DNA damage. The most reactive particles were
+observed to be the ultraﬁne group, which can penetrate
+furthest into the lung of an exposed ﬁreﬁghter. Future
+studies involving the in vivo exposure of wildﬁre smoke
+are planned to further study the impact the free radical
+formation can have in lipid peroxidation and DNA dam-
+age. Therefore, our results suggest that wildﬁre smoke
+may cause acute lung injury. Since particle size and sur-
+face area of the smoke exposure are signiﬁcant factors
+in radical generation and particle deposition, particle
+size should be considered when developing protective
+strategies.
+Acknowledgements
+We would like to thank the Alpine Interagency Hot-
+shotcrew,theNationalInteragencyFireCenterandSteve
+Hart’s Type 1 Incident Management Team for allowing
+us to collect data at the Boundary Fire, Fox, AK.
+References
+Betchley, C., Koenig, J.Q., van Belle, G., 1997. Pulmonary function
+and respiratory symptoms in forest ﬁreﬁghters. Am. J. Ind. Med.
+31, 503–509.
+Bizovi, K.E., Leikin, J.D., 1995. Smoke inhalation among ﬁreﬁghters.
+Occup. Med. 10 (4), 721–733.
+112
+S.S. Leonard et al. / Toxicology 236 (2007) 103–113
+Brambilla, G., Martelli, A., Marinari, U.M., 1989. Is lipid peroxidation
+associated with DNA damage? Mutat. Res. 214, 123–127.
+Brown,M.,Desai,M.,Traber,L.D.,Herndon,D.N.,Traber,D.L.,1988.
+Dimethylsulfoxide with heprin in the treatment of smoke inhalation
+injury. J. Burn Care Rehabil. 9, 22–25.
+Buettner, G.R., 1987. ESR parameters of spin adducts. Free Radic.
+Biol. Med. 3, 259–303.
+Bergstrom, C.E., Eklund, A., Skold, M., Tornling, G., 1997. Broncho-
+alveolar lavage ﬁndings in ﬁreﬁghters. Am. J. Ind. Med. 32,
+332–336.
+Burgess, J.L., Nanson, C.J., Bolstad-Johnson, D.M., Gerkin, R.D.,
+Hysong, T.A., Lantz, R.C., Sherrill, D.L., Crutchﬁeld, C.D., Quan,
+S.F., Bernard, A.M., Witten, M.L., 2001. Adverse respiratory
+effects following overhaul in ﬁreﬁghters. J. Occup. Environ. Med.
+43, 467–473.
+Castranova, V., Dalal, N.S., Vallyathan, V., 1995. Role of surface free
+radicals in the pathogenicity of silica. In: Castranova, V., Vally-
+athan, V., Wallace, W.E. (Eds.), Silica and Silica-induced Lung
+Diseases. CRC Press, New York, pp. 91–94.
+Castranova, V., Kang, J.H., Moore, M.D., Pailes, W.H., Frazer, D.G.,
+Schwegler-Berry, D., 1991. Inhibition of stimulant-induced acti-
+vation of phagocytic cells with tetrandrine. J. Leukoc. Biol. 50 (4),
+412–422.
+Chalupa, D.C., Morrow, P.E., Oberd¨orster, G., Utell, M.J., Frampton,
+M.W., 2004. Ultraﬁne particle deposition in subjects with asthma.
+Environ. Health Perspect. 112 (8), 879–882.
+Chen, F., Ding, M., Lu, Y., Leonard, S.S., Vallyathan, V., Castranova,
+V., Shi, X., 2000. Participation of MAP kinase p38 and IkB kinase
+in chromium(VI)-induced NF-B and AP-1 activation. J. Environ.
+Pathol. Toxicol. Oncol. 19, 231–238.
+Chia,K.S.,Jeyaratnam,J.,Chan,T.B.,Lim,T.K.,1990.Airwayrespon-
+sivness of ﬁreﬁghters after smoke exposure. Br. J. Ind. Med. 47 (8),
+524–527.
+Comporti, M., 1985. Biology of disease: lipid peroxidation and cellular
+damage in toxic liver injury. Lab. Invest. 53, 599–623.
+Daniel, L.N., Mao, Y., Safﬁotti, U., 1993. Oxidative DNA damage by
+crystalline silica. Free Rad. Biol. Med. 14, 463–472.
+Forman, H.J., Torres, M., 2002. Reactive oxygen species and cell sig-
+naling: respiratory burst in macrophage signaling. Am. J. Res. Crit.
+Care Med. 166, S4–S8.
+Gonzalez, P.K., Zhuang, J., Doctrow, S.R., Malfroy, B., Benson, P.F.,
+Menconi, N.J., 1996. Role of oxidant stress in the adult respiratory
+distress syndrome. Shock 6 (Suppl. 1), S23–S26.
+Goodglick, L.A., Kane, A.B., 1986. Role of reactive oxygen metabo-
+lites in crocidolite asbestos toxicity mouse macrophages. Cancer
+Res. 46, 5558–5566.
+Halliwell, B., 1989. Protection against tissue damage in vivo by des-
+ferrioxamine: what is its mechanism of action? Free Radic. Biol.
+Med. 7, 645–651.
+Halliwell, B., Gutteridge, J.M.C., 2000a. The chemistry of free radicals
+and related ‘reactive species’. In: Free Radicals in Biology and
+Medicine. Oxford Science Publications, New York, pp. 38–39.
+Halliwell, B., Gutteridge, J.M.C., 2000b. The chemistry of free radicals
+and related ‘reactive species’. In: Free Radicals in Biology and
+Medicine. Oxford Science Publications, New York, pp. 52–54.
+Halliwell, B., Gutteridge, J.M.C., 2000c. Reactive species as useful
+biomolecules. In: Free Radicals in Biology and Medicine. Oxford
+Science Publications, New York, pp. 448–467.
+Hiura, T.S., Kaszubowski, M.P., Li, N., Nel, A.E., 1999. Chemi-
+cals in diesel exhaust particles generate reactive oxygen radicals
+and induce apoptosis in macrophages. J. Immunol. 163, 5582–
+5591.
+Inoue, S., Kawanishi, S., 1989. ESR evidence for superoxide,
+hydroxyl and singlet oxygen produced from hydrogen peroxide and
+nickel(II) complex of glycylglycyl-l-histidine. Biochem. Biophys.
+Res. Commun. 159, 445–451.
+Jalava, P.I., Raimo, O., Halinen, A.I., Penttinen, P., Pennanen, A.S.,
+Sillanpaa, M., Sandell, E., Hillamo, R., Hirvonen, M.R., 2006. In
+vitro inﬂammation and cytotoxic effects of size-segregated par-
+ticulate samples collected during long-range transport of wildﬁre
+smoke to Helsinki. Toxicol. Appl. Pharmacol. 215, 341–353.
+Janzen, E.G., Blackburn, B.J., 1968. Detection and identiﬁcation of
+short-lived free radicals by an electron spin resonance trapping
+technique. J. Am. Chem. Soc. 90, 5909–5910.
+Jankovic, J., Jones, W., Burkhart, J., 1991. Environmental study of
+ﬁreﬁghters. Ann. Occup. Hyg. 35, 581–602.
+Jankovic, J., Jones, W., Castranova, V., Dalal, N., 1993. Measurement
+of short-lived reactive species and long-lived free radicals in air
+samples from structural ﬁres. Appl. Occup. Environ. Hyg. 8 (7),
+650–654.
+Jarjour, N.N., Calhoun, W.J., 1994. Enhanced production of oxygen
+radicals in asthma. J. Lab. Clin. Med. 123, 131–136.
+Kamp, D.W., Graceffa, P., Pryor, W.A., Weitzman, S.A., 1992. The
+role of free radicals in asbestos-induced diseases. Free Radic. Biol.
+Med. 12, 293–315.
+Kimura, R., Traber, L.D., Herndon, D.N., Neuhous, G.D., Traber,
+D.L., 1988. Treatment of smoke-induced pulmonary injury with
+nebulized dimethylsulfoxide. Circ. Shock 25, 333–341.
+Lachoki, T.M., Nuggahalli, S.K., Church, D.E., Pryor, W.A., Scherer,
+K.V., 1989. The smoke produced from the oxidative pyrolysis of
+perﬂuoropolymers: an ESR spin-trapping study. Chem. Res. Tox-
+icol. 2, 174–180.
+Large, A.A., Owens, G.R., Hoffman, L.A., 1990. The short-term effect
+of smoke exposure on the pulmonary function of ﬁreﬁghters. Chest
+97, 806–809.
+Lees, P.S.J., 1995. Combustion products and other ﬁreﬁghter expo-
+sures. Occup. Med. 10 (4), 691–706.
+Leigh, J.P., 1995. Causes of Death in the Workplace. Greenwood Pub-
+lishing Group, Inc., Westport, CT.
+Leonard, S.S., Wang, S., Shi, X., Jordan, B.S., Castranova, V., Dubick,
+M.A., 2000. Wood smoke particles generate free radicals and cause
+lipid peroxidation, DNA damage, NF-B activation and TNF-
+release in macrophages. Toxicology 150, 147–157.
+Leonard, S.S., Roberts, J.R., Antonini, J.M., Castranova, V., Shi, X.,
+2004a. PbCrO4 mediates cellular responses via reactive oxygen
+species. Mol. Cell. Biochem. 255 (1/2), 171–179.
+Leonard, S.S., Bower, J.J., Shi, X., 2004b. Metal-induced toxicity,
+carcinogenesis, mechanisms and cellular responses. Mol. Cell.
+Biochem. 255 (1/2), 3–10.
+Li, N., Sioutas, C., Cho, A., Schmitz, D., Misra, C., Sempf, J., Wang,
+M., Oberley, T., Froines, J., Nel, A., 2003. Ultraﬁne particulate pol-
+lutants induce oxidative stress and mitochondrial damage. Environ.
+Health Perspect. 111 (4), 455–460.
+Liu, L., Elwing, H., Karlsson, A., Nimeri, G., Dahlgren, C., 1997.
+Surface-related triggering of the neutrophil respiratory burst.
+Characterization of the response induced by IgG adsorbed to
+hydrophilic and hydrophobic glass surfaces. Clin. Exp. Immunol.
+109, 204–210.
+Liu, D., Tager, I.B., Balmes, J.R., 1992. The effect of smoke inhalation
+onlungfunctionandairwayresponsivenessinwildlandﬁreﬁghters.
+Am. Rev. Respir. Dis. 146, 1469–1473.
+Lowry, W.T., Peterson, J., Petty, C.S., Badgett, J.L., 1985. Free radical
+production from controlled low-energy ﬁres: toxicity considera-
+tions. J. Forensic Sci. 1, 73–85.
+S.S. Leonard et al. / Toxicology 236 (2007) 103–113
+113
+MacFarland, H.N., 1968. The pyrolysis of plastics—problems in deﬁn-
+ing their toxicity. Am. Ind. Hyg. Assoc. J. 29, 7–9.
+Materna, B.L., Jones, J.R., Sutton, P.M., Rothman, N., Harrison, R.J.,
+1992. Occupational exposures in California wildland ﬁre ﬁghting.
+Am. Ind. Hyg. Assoc. J. 53 (1), 69–76.
+McCord, J.M., Gao, B., Leff, J., Flores, S.C., 1994. Neutrophil-
+generated free radicals: possible mechanisms of injury in adult
+respiratory distress syndrome. Environ. Health Perspect. 102
+(Suppl. 10), 57–60.
+Mott, J.A., Mannino, D.M., Alverson, C.J., Kiyu, A., Hashim, J., Lee,
+T., Falter, K., Redd, S.C., 2005. Cardiorespiratory hospitalizations
+associated with smoke exposure during the 1997 Southeast Asian
+forest ﬁres. Int. J. Hyg. Environ. Health 208, 75–85.
+Musk, A.W., Peters, J.M., Bernstein, L., Rubin, C., Monroe, C.B.,
+1982. Pulmonary function in ﬁreﬁghters: acute changes in ventila-
+tory capacity and their correlates. Br. J. Ind. Med. 36 (1), 29–34.
+Patierno, S.R., Landolph, J.R., 1989. Soluble vs. insoluble hexavalent
+chromate. Relationship of mutation to in vitro transformation and
+particle uptake. Biol. Trace Elem. Res. 21, 469–474.
+Pietropaoli, A.P., Frampton, M.W., Hyde, R.W., Morrow, P.E.,
+Oberd¨orster, G., Cox, C., Speers, D.M., Frasier, L.M., Chalupa,
+D.C., Huang, L.S., Utell, M.J., 2004. Pulmonary function, diffus-
+ing capacity, and inﬂammation in healthy and asthmatic subjects
+exposed to ultraﬁne particles. Inhal. Toxicol. 16 (Suppl. 1), 59–72.
+Pryor, W.A., Nuggehalli, S.K., Scherer, K.V., Church, D.F., 1990.
+An electron spin resonance study of the particles produced in the
+pyrolysis of perﬂuoro polymers. Chem. Res. Toxicol. 3, 2–7.
+Rothman, N., Ford, D.P., Baser, M.E., 1991. Pulmonary function and
+respiratory symptoms in wildland ﬁreﬁghters. J. Occup. Med. 33,
+1163–1167.
+Scannell, C.H., Balmes, J.R., 1995. Pulmonary effects of ﬁreﬁghting.
+Occup. Med. 10 (4), 789–801.
+Serra, A., Mocci, F., Randaccio, F.S., 1996. Pulmonary function in
+Sardinian ﬁreﬁghters. Am. J. Ind. Med. 30, 78–82.
+Shi, X., Chiu, A., Chen, C.T., Halliwell, B., Castranova, V., Vally-
+athan, V., 1998. Reduction of chromium(VI) and its relationship to
+carcinogenesis. J. Toxicol. Environ. Health 2, 101–118.
+Shi, X., Dalal, N.S., Vallyathan, V., 1988. ESR evidence for the
+hydroxyl radical formation in aqueous suspension of quartz parti-
+cles and its possible signiﬁcance to lipid peroxidation in silicosis.
+J. Toxicol. Environ. Health 25, 237–245.
+Shi, X., Mao, Y., Knapton, A.D., Ding, M., Rojanasakul, Y., Gannett,
+P.M., Dalal, N.S., Liu, K., 1994. Reaction of Cr(VI) with ascor-
+bate and hydrogen peroxide generates hydroxyl radicals and causes
+DNA damage: role of Cr(IV)-mediated Fenton-like reaction. Car-
+cinogenesis 15, 2475–2478.
+Sutton, P.M., Castorina, J., Harrison, R.J., 1990. Carbon monoxide
+exposure in wildland ﬁreﬁghters. Cal. Dept. Health Sci., FI-87-008.
+Traber, D.L., Herndon, D.N., Tarber, L.D., 1989. Free radical scav-
+engers in the cardiopulmonary response to endotoxin. Progr. Clin.
+Biol. Res. 308, 885–890.
+Tuomala, M.H., Hirvonen, M.R., Savolainen, K.M., 1992. Production
+of inositol phosphates and reactive oxygen metabolites in quartz-
+dust-stimulated human polymorphonuclear leukocytes. FEBS Lett.
+296, 57–60.
+Tuve, R.L., 1976. Principles of ﬁre protection chemistry. NFPA,
+125–135.
+US Bureau of Labor Statistics, 2003. Occupational Injuries and
+Illnesses in the US by Industry. International Association of Fire-
+ﬁghters, Washington, DC, 1995–1996.
+Ward, D.E., Rothman, N., Strickland, P., 1989. The Effects of Fire
+SmokeonFireﬁghters:AComprehensiveStudyPlan.UnitedStates
+Department of Agriculture Forest Service Intermountain Research
+Station, Missoula, MT.
+Vaca, C.E., Wilhelm, J., Harms-Ringdahl, M., 1988. Interaction of lipid
+peroxidation products with DNA. Rev. Mutat. Res. 195, 137–149.
+Vallyathan, V., Castranova, V., Pack, D., Leonard, S., Shumaker,
+J., Hubbs, A.F., Shoemaker, D.A., Ramsey, D.M., Pretty, J.R.,
+Malaurin, J.L., 1995. Freshly fractured quartz inhalation leads
+to enhanced lung injury and inﬂammation: potential role of free
+radicals. Am. J. Respir. Crit. Care Med. 152, 1003–1009.
+Vladimirov, Y.A., 1986. In: Johnson Jr., J.E., Walford, R., Harman, D.,
+Miquel, J. (Eds.), Free Radicals, Aging and Degenerative Diseases.
+Liss, New York, pp. 141–195.
+Yim, M.B., Chock, P.B., Stadtman, E.R., 1990. Copper, zinc superox-
+idedismutasecatalyzeshydroxylradicalproductionfromhydrogen
+peroxide. Proc. Natl. Acad. Sci. U.S.A. 87, 5006–5010.
+Yamaguchi, K.T., Stewart, R.J., Wang, H.M., Hudson, S.E., Vierra,
+M., Akhtar, A., Hoffman, C., George, D., 1992. Measurement of
+free radicals from smoke inhalation and oxygen exposure by spin
+trapping and ESR spectroscopy. Free Radic. Res. Commun. 16 (3),
+167–174.
+Zhang, Y., Fong, C.C., Wong, M.S., Tzang, C.H., Lai, W.P., Fong,
+W.F., Sui, S.F., Yang, M., 2005. Molecular mechanisms of survival
+and apoptosis in RAW 264.7 macrophages under oxidative stress.
+Apoptosis 10 (3), 545–556.

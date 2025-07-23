@@ -1,0 +1,944 @@
+Periodic Changes in the K-band Spectral
+Angular Diameters of Mira Variables at
+PTI
+Robert R. Thompson
+Jet Propulsion Lab/University of Wyoming
+Michelle Creech-Eakman
+Jet Propulsion Lab/Caltech
+Gerard T. van Belle
+Jet Propulsion Lab
+195th Meeting of the American Astronomical Society
+Atlanta, GA
+January 13, 2000
+Abstract
+We report angular size measurements of 16 oxygen-rich, 6 carbon-rich and 4 S-type
+Mira variables taken at the Palomar Testbed Interferometer (PTI) as part of a long-
+term observational program. These data represent the first direct measurements, both
+spatially-resolved (1.5-4.5 mas) and spectrally-resolved in 0.1 µm bins spread over
+the K-band, as a function of phase. Additionally, diameters taken in 4 spectral
+channels spread over the H-band are presented.
+Utilizing the AFOEV and AASVO databases to determine the phase in visual light,
+periodic changes in the 2.2um diameter with respect to the band edges are seen for
+O-rich Miras whereas a more uniform angular size structure is seen in C-rich Miras.
+Comparisons are made to O- and C-rich non-Mira giants which do not exhibit these
+characteristics.
+This work is part of the Mira observational program at PTI to investigate the
+chemistry (C/O ratio, metal abundance), period length, and strength of the acoustic
+shock as evidence for the mode of pulsation.
+Program Stars
+Name
+HD
+HIP
+IRC Latest P V* max V* min K mag Sp Type Nights (K) Nights (H) Calib HD
+EAS Sp Type Calib HD
+EAS Sp Type
+R Ori
+31798
+23165
+---------
+384.84
+9.1
+13.4
+4.05
+Ce (Ne)
+1
+31295
+0.64+/-0.03
+A0V
+RZ Peg
+209890
+109089
++30484
+437.82
+7.6
+13.6
+2.87
+Ce (Ne)
+8
+1
+210459
+1.24+/-0.15
+F5III
+209149
+0.95+/-0.11 F5III
+U Lyr
+----------
+95024
++40345
+466.72
+8.3
+13.5
+2.2
+Ce (Ne)
+1
+176437
+1.05+/-0.11
+B9III
+V CrB
+141826
+77501
++40273
+364.18
+6.9
+12.2
+1.97
+Ce (Ne)
+2
+145675
+0.48+/-0.03
+K0V
+VX Gem
+55284
+34859
++10156
+368.05
+8.5
+12.8
+2.94
+Ce (Re)
+5
+57006
+0.60+/-0.04
+F8V
+Y Per
+21280
+16126
+----------
+245.07
+8.1
+10.9
+3.25
+Ce (Re)
+2
+20675
+0.57+/-0.03
+F6V
+T And
+1795 ----------
++30009
+277.06
+7.7
+14.3
+3.16
+M3e
+5
+2190
+0.92+/-0.09
+M0III
+1404
+0.40+/-0.02 A2V
+R Vir
+109914
+61667
++10256
+151.05
+6.2
+12.1
+2.24
+M4.5e
+2
+1
+115383
+0.63+/-0.04
+G0Vs
+R Boo
+128609
+71490
++30260
+218.49
+6.7
+12.8
+1.99
+M4e
+3
+134803
+0.62+/-0.04
+A3V
+R Cet
+15105
+11350
++00032
+162.21
+7.2
+14
+3.04
+M4e
+1
+13468
+0.92+/-0.09
+G9III
+R Psc
+9203 ----------
++00019
+348.47
+7.1
+14.8
+1.92
+M4e
+5
+7804
+0.34+/-0.02
+A3V
+SW Peg
+----------
+----------
++20506
+405.04
+8
+14
+2.48
+M4e
+1
+1
+204642
+0.85+/-0.08
+K2III
+VX Aur
+----------
+36314
++40177
+325.4
+8.2
+13
+1.71
+M4e
+1
+58412
+0.38+/-0.03
+A1V
+X Del
+199170 ----------
++20492
+301.22
+8.2
+14.6
+2.87
+M5.5e
+7
+2
+190406
+0.51+/-0.03
+G1V
+R Del
+192502
+99802
++10459
+283.22
+7.6
+13.7
+1.87
+M5e
+4
+196180
+1.02+/-0.05
+A3V
+S Lac
+213191
+110972
++40512
+243.4
+7.6
+13.9
+2.51
+M5e
+3
+207088
+0.83+/-0.06
+G8III
+S Ser
+136695
+75170
++10290
+358.65
+7.7
+14.1
+1.53
+M5e
+5
+137510
+0.43+/-0.02
+G0IV-V
+134323
+1.20+/-0.10 G6V
+TU And
+2890
+2546
++30012
+327.63
+7.8
+13.1
+2.05
+M5e
+6
+7229
+0.28+/-0.02
+G9III+
+3690
+0.32+/-0.02 K0Iab
+Z Cyg
+190163 ----------
++50314
+324.22
+7.6
+14.7
+2.44
+M5e
+1
+185395
+0.71+/-0.05
+F4V
+V CMi
+53847 ----------
++10153
+352.08
+7.4
+14.9
+1.95
+M6.5e
+2
+57006
+0.60+/-0.04
+F8V
+S Peg
+220033
+115242
++10533
+318.32
+7.4
+13.8
+1.59
+M6e
+1
+222603
+0.52+/-0.03
+A7V
+X Gem
+48912
+32512
++30166
+260.76
+7.6
+13.6
+1.78
+M6e
+3
+51834
+0.92+/-0.08
+K4III
+45112
+0.78+/-0.05 F8Ibcp
+R Gem
+53791
+34356
++20171
+356.78
+6
+14
+2.12
+Se
+4
+50692
+0.56+/-0.02
+G0V
+56537
+0.72+/-0.05 A3V
+X And
+1167 ----------
++50003
+394.36
+8.5
+15.2
+3.05
+Se
+5
+571
+0.87+/-0.09
+F2II
+4058
+0.38+/-0.03 A5Vsb
+R CMi
+54300
+34474
++10154
+350.67
+7.4
+11.6
+2.92
+Spe
+1
+58715
+0.76+/-0.06
+B8Ve
+U Cas
+4350 ----------
++50014
+277.8
+8
+15.4
+2.45
+Sse
+6
+6920
+0.37+/-0.03
+F8V
+The PTI Mira data set
+92 spectral observations, binned by phase
+P<325     P >325
+M-type
+    10               6
+C-type (R, N)    1               5
+S-type                1               3
+O-rich Miras
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+2.0
+2.0
+2.1
+2.1
+2.2
+2.2
+2.3
+2.3
+2.4
+2.4
+2.5
+lambda (um)
+theta (UD, mas)
+R Boo, 0.207
+R Boo, 0.370
+R Cet, 0.369
+R Del, 0.243
+R Psc, 0.956
+R Psc, 0.034
+R Vir, 0.175
+R Vir, 0.412
+R Vir, 0.759
+O-rich Miras
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+2.0
+2.0
+2.1
+2.1
+2.2
+2.2
+2.3
+2.3
+2.4
+2.4
+2.5
+lambda (um)
+theta (UD, mas)
+TU And, 0.871
+TU And, 0.932
+TU And, 0.115
+V CMi, 0.924
+VX Aur, 0.997
+X Del, 0.977
+X Del, 0.066
+X Del, 0.139
+X Gem, 0.149
+X Gem, 0.225
+Z Cyg, 0.253
+O-rich Miras
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+2.0
+2.0
+2.1
+2.1
+2.2
+2.2
+2.3
+2.3
+2.4
+2.4
+2.5
+lambda (um)
+theta (UD, mas)
+S Lac, 0.981
+S Lac, 0.923
+S Peg, 0.026
+S Ser, 0.013
+S Ser, 0.155
+SW Peg, 0.980
+T And, 0.976
+T And, 0.019
+T And, 0.124
+S-type Miras
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+2.0
+2.0
+2.1
+2.1
+2.2
+2.2
+2.3
+2.3
+2.4
+2.4
+2.5
+lambda (um)
+theta (UD, mas)
+R CMi
+R Gem(1)
+R Gem(1)
+U Cas(1)
+U Cas(1)
+U Cas(1)
+X And(1)
+X And(2)
+C-type Miras
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+2.0
+2.0
+2.1
+2.1
+2.2
+2.2
+2.3
+2.3
+2.4
+2.4
+2.5
+lambda (um)
+theta (UD, mas)
+R Ori
+U Lyr(1)
+V Crb(1)
+VX Gem
+VX Gem
+VX Gem
+Y Per(1)
+RZ Peg(2)
+RZ Peg(2)
+RZ Peg(2)
+Derived Parameters
+• Slope = ∆θ / ∆λ
+• Depth = θmodel(2.2) - θdata(2.2)
+Calibration of the Visibility data
+•
+Selection of calibrating stars based on these criteria whenever possible:
+Size (0.0 - 1.0 mas corresponds to V2 = 1.0 - 0.9 at 2.2µm, B=100m)
+Distance from target (< 10 deg)
+MK spectral type (main sequence)
+Object type (non-variable ordinary stars)
+•
+Calibrators taken within 15 minutes of target data
+•
+Reduction of visibilities (V2) considers a temporally-weighted average
+of the calibrator within a 2-hour window of the individual target scan
+under calibration. Calibrator visibilities closest to the target scan are
+given a higher weight than those at the edge of the +/-1 hr window.
+•
+Statistical errors on angular diameters per night are  < 2%
+(< 0.05 mas).
+•
+Statistical errors on all diameter ratios, slopes and depths are
+< 5%.
+•
+All angular diameters are fitted to a uniform disk (UD) model.
+Non-Mira M-type Giants
+• 2 M-giant stars are shown for comparison to O-rich Miras.
+• No 2.2 µm feature is detected.
+• Only a very small slope across the K-band for both stars:
+∆θ / ∆λ ∼ 0.2
+HD 193347, M2 III
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+1.9
+2.0
+2.1
+2.2
+2.3
+2.4
+2.5
+lambda (um)
+theta (UD, mas)
+9 9 2 2 2
+9 9 2 3 7
+9 9 2 3 9
+HD 163947, M5 III
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+1.9
+2.0
+2.1
+2.2
+2.3
+2.4
+2.5
+lambda (um)
+theta (UD, mas)
+99177
+99222
+99239
+Non-Mira Carbon Giants
+HIP 113715, C (SRP)  - VY And
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+1.9
+2
+2.1
+2.2
+2.3
+2.4
+2.5
+lambda (um)
+theta (UD, mas)
+99211
+99257
+99285
+S, R, N stars
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+1.9
+2
+2.1
+2.2
+2.3
+2.4
+2.5
+lambda (um)
+theta (UD, mas)
+HDC6409, S (M2+)   
+HDC37536 - S (M2IIIs)
+HDC208512, R3   
+HIP105539, Nvar
+•
+3 observations of VY And over 75 days show no 2.2 µm feature, with
+a slope (∆θ / ∆λ) ∼ 0.3
+•
+2 carbon stars show no 2.2 µm feature, with slopes ranging 0.5 − 1.2
+•
+2 S-type stars show no 2.2 µm feature, with slopes ranging 0.3 - 0.7
+An Oxygen-rich Mira
+• P = 301d, M5.5e
+• Calibrated, non-normalized data shown spans 55 days, or
+~ 20% of X Del’s cycle.
+• H-band size is ~ 15% smaller than the center 2.2 µm size.
+X Del (HD 199170) M5.5e
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+1.5
+1.7
+1.9
+2.1
+2.3
+2.5
+lambda (um)
+theta (UD, mas)
+99242, 0.977
+99243, 0.981
+99244, 0.984
+99269, 0.066
+99271, 0.073
+99285, 0.119
+99297, 0.159
+99246, 0.990
+99256, 0.023
+A Carbon-rich Mira
+• P = 437.8d, Ce
+• Calibrated, non-normalized data shown spans 67 days, or
+~15% of RZ Peg’s cycle.
+• H-band size is 13% smaller than the center 2.2 µm size.
+RZ Peg (HD 209890) Ce
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+1.5
+1.7
+1.9
+2.1
+2.3
+2.5
+lambda (um)
+theta (UD, mas)
+9 9 2 4 2 ,  0 . 1 6 5
+9 9 2 4 3 ,  0 . 1 6 8
+9 9 2 4 4 ,  0 . 1 6 8
+9 9 2 5 7 ,  0 . 2 0 0
+9 9 2 6 9 ,  0 . 2 2 7
+9 9 2 8 5 ,  0 . 2 6 3
+9 9 2 9 7 ,  0 . 2 9 1
+9 9 3 0 9 ,  0 . 3 1 9
+9 9 2 5 6 ,  0 . 1 9 7
+Composite O-rich Mira
+• These panels represent an ensemble average of 16 O-rich
+Mira stars, normalized to their 2.0 µm size. The V-shape
+feature centered at 2.2 µm is most pronounced before
+visual maximum.
+O-rich Miras
+0.8
+0.9
+1.0
+1.1
+1.2
+1.9
+2.0
+2.1
+2.2
+2.3
+2.4
+2.5
+lambda (um)
+theta(2.x)/theta(2.0)
+P hi = 0.05
+0.15
+0.25
+0.35
+O-rich Miras
+0.8
+0.9
+1.0
+1.1
+1.2
+1.9
+2.0
+2.1
+2.2
+2.3
+2.4
+2.5
+lambda (um)
+theta(2.x)/theta(2.0)
+Phi=0.60
+0 . 8 5
+0 . 9 5
+Composite C-rich Mira
+• 10 stars make up the C-rich composite Mira.
+• As with the O-rich composite star, the C-rich composite
+Mira shows greater 2.2 µm absorption near φ ~ 0.9.
+However, this minimum angular size effect recovers
+quickly after only 0.1 of phase.
+• The 2.4 µm size changes markedly over the course of one
+cycle.
+C-rich Miras
+0.8
+0.9
+1.0
+1.1
+1.2
+1.3
+1.4
+1.9
+2.0
+2.1
+2.2
+2.3
+2.4
+2.5
+lambda (um)
+theta(2.x)/theta(2.0)
+0.05
+0.15
+0.25
+0.35
+C-rich Miras
+0.8
+0.9
+1.0
+1.1
+1.2
+1.3
+1.4
+1.9
+2.0
+2.1
+2.2
+2.3
+2.4
+2.5
+lambda (um)
+theta(2.x)/theta(2.0)
+0.5
+0.85
+0.95
+Normalized Angular Sizes
+•
+No true continuum exists within the spectral channels; however the 2.0 µm
+angular size changes are the smallest. It is then taken to be the continuum in
+this data set.
+•
+Changes in the 2.2 µm and 2.4 µm sizes are more pronounced in the C-rich
+Miras. The C-rich Miras are much more extended across the K-band than are
+O-rich Miras; additionally, the C-rich Miras tend to have greater amplitude
+variations in 2.2 µm and 2.4 µm sizes.
+Normalized 2.4 um Angular Size
+1.0
+1.1
+1.2
+1.3
+1.4
+0.0
+0.5
+1.0
+1.5
+2.0
+Phase
+theta(2.4)/theta(2.0)
+O-rich Miras
+C-rich Miras
+Normalized 2.2 um Angular Size
+0.8
+0.9
+1.0
+1.1
+1.2
+0.0
+0.5
+1.0
+1.5
+2.0
+Phase
+theta(2.2)/theta(2.0)
+O-rich Miras
+C-rich Miras
+Changes in line slope and 2.2µm depth
+2.2 um Depth
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.0
+0.5
+1.0
+1.5
+2.0
+Lambda (um)
+theta(model)-theta(data)
+O-rich Miras
+C-rich Miras
+Slope of line shape
+0.4
+0.6
+0.8
+1
+1.2
+1.4
+1.6
+1.8
+2
+0
+0.5
+1
+1.5
+2
+Phase
+Value
+O-rich Slope
+C-rich Slope
+•
+Line slope: O-rich Miras have a multiple peak structure, implying intervals of
+expansion/compression within the K-band. The peak at φ ~ 0.05 is followed by a fast
+compression at φ ~ 0.35. C-rich Miras show a smooth interval of expansion and
+compression within the K-band, being widest at φ ~ 0.05 and thinnest at φ ~ 0.50. They
+are also much more extended in the K-band than their O-rich counterparts.
+•
+Depth: This parameter is the deviation from the endpoint model line to the actual data.
+In O-rich Miras, the 2.2 µm deviation is greatest just before visual maximum, and takes
+a sharp dip just after this maximum. For C-rich Miras, this deviation is also a maximum
+near φ ~ 0.9, but gradually reaches a minimum near φ ~ 0.5.
+•
+The O-rich depth curve is clearly much larger than that for C-rich Miras, and is a
+consequence of the “V” shape character in their diameter spectra.
+Spectroscopic Data
+•
+K-band spectra of χ Cyg (S-type
+Mira) showing changes with
+phase along with some line
+identifications.
+•
+Spectra of two non-Mira carbon
+stars.
+•
+(Wallace and Hinkle, 1997)
+Future Work
+Further investigation is needed to see how various chemical species play a role
+with respect to the character of the spectral angular diameter data for O-rich, C-rich
+and S-type Miras:
+12CO and 13CO, CN, OH and H2O  (stellar lines and instrumental/atmospheric effects),
+various metals (Si, V, Sc, Ti) and metal compounds in low-temperature (< 3000K)
+atmospheres using available spectroscopic data.
+The IR camera (NICMOS-3) in use at PTI provides a wavelength resolution of
+R ~ 22. A new IR camera (HAWAII) is being developed and will be online at PTI
+beginning March 2000. This camera will yield a wavelength resolution of R ~ 90.
+Other considerations...
+Distances and Linear Radii
+Period-length correlation
+Radial velocity correlation
+The presence/absence of Si and OH circumstellar masers
+The role of acoustic shocks
+Acknowledgements
+This work made extensive use of the following databases:
+Association Francaise des Observateurs d’Etoiles Variables
+(AFOEV), American Association of Variable Star Observers
+(AAVSO), and SIMBAD (CDS/Strasbourg).
+This work is part of research leading to the Ph.D. degree at the
+University of Wyoming, Department of Physics and Astronomy for
+RRT.
+We gratefully thank The PTI Science Collaboration for their input
+and fruitful discussions.
+The work performed here was conducted at the Jet Propulsion
+Laboratory, California Institute of Technology, under contract with
+the National Aeronautics and Space Administration.

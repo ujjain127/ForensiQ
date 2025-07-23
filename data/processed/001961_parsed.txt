@@ -1,0 +1,1963 @@
+Physics Summary I:
+Higgs, Top/QCD, Loops (incl. γγ, eγ, e−e−)
+Sven Heinemeyer, Zaragoza
+Bangalore, 03/2006
+20 minutes (minus discussion time) ⇒the usual apologies
+• Physics at the ILC
+• Higgs
+• Top/QCD
+• LoopVerein
+• Outlook
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+1
+1. Physics at the ILC
+(ILC always includes γγ, eγ, e−e−)
+Reality: ILC will start after the LHC
+Q: What will the ILC add to the LHC?
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+2
+1. Physics at the ILC
+(ILC always includes γγ, eγ, e−e−)
+Reality: ILC will start after the LHC
+Q: What will the ILC add to the LHC?
+A: The ILC will add precision
+⇒The ILC delivers ⊕needs precision!
+The ILC can make discoveries
+⇒What can the ILC detect/discover?
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+2
+1. Physics at the ILC
+(ILC always includes γγ, eγ, e−e−)
+Reality: ILC will start after the LHC
+Q: What will the ILC add to the LHC?
+A: The ILC will add precision
+⇒The ILC delivers ⊕needs precision!
+The ILC can make discoveries
+⇒What can the ILC detect/discover?
+Where are we in this respect? (Status? What is needed? Achievement?)
+−Higgs
+−Top/QCD
+−LoopVerein ⇒relevant for all other topics!
+−SUSY
+−New Physics at TeV, precision electroweak
+−Cosmological connections
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+2
+2. Higgs
+The LHC will ﬁnd a Higgs and measure its characteristics:
+ [GeV]
+H
+m
+110 120 130 140 150 160 170 180 190
+(H,X)
+ g
+(H,X)
+ 
+ g
+∆
+0
+   
+0.1
+   
+0.2
+   
+0.3
+   
+0.4
+   
+0.5
+(H,Z)
+ g
+(H,W)
+ g
+)τ
+(H,
+ g
+(H,b)
+ g
+(H,t)
+ g
+H
+1/2 Γ
+without Syst. uncertainty
+2 Experiments
+-1
+ L dt=2*300 fb
+∫
+-1
+WBF: 2*100 fb
+[M. D¨uhrssen et al. ’04]
+−mass: δMh ≈200 MeV
+−couplings: (2 ∗300 + 2 ∗100) fb−1 :
+typical accuracies of 20-30%
+for mH ≤150 GeV
+10% accuracies for HV V couplings
+above WW threshold
+Assumption:
+−g2
+HV V ≤g2
+HV V,SM × 1.05
+−SM rates for the Higgs
+Problems:
+−valid in weakly interacting models
+−rates much lower than in SM ??
+−physics can/will hide in 5% margin
+−self-couplings out of reach
+⇒ILC comes in
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+3
+Higgs: theory situation
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+4
+Higgs: theory situation
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+4
+Higgs: theory situation
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+⇒
+⇒
+⇒
+⇒
+⇒
+⇒
+⇒
+⇒
+⇒
+⇒
+⇒
+⇒
+⇑
+needed for ILC
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+4
+Higgs: theory situation
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+Important observables:
+−masses (parameter relations)
+−production cross sections
+−decay widths + distributions
+→quantum numbers
+−tools (computer codes)
+(⇒connection to experiment)
+new standards: SLHA, SPA
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+5
+Higgs: experimental situation
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+Important observables:
+−masses (parameter relations)
+−production cross sections
+−decay widths + distributions
+→quantum numbers
+−tools (computer codes)
+(⇒connection to experiment)
+new standards: SLHA, SPA
+Experimental situation:
+Corresponding analyses
+take into account as much as possible
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+6
+Higgs: experimental situation
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+Experimental situation:
+Corresponding analyses
+take into account as much as possible
+Experiment naturally somewhat
+behind theory calculations
+reason: theory ⊕experiment
+⇒more interaction (tools?)
+one main point of (this) workshop
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+7
+Higgs: experimental situation
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+What is missing?
+[Snowmass report ’05
+hep-ph/0511332]
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+8
+Higgs: experimental situation
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+What is missing?
+[Snowmass report ’05
+hep-ph/0511332]
+−full simulations
+−more precision for SM, MSSM, . . .
+(easy extensions: NMSSM, . . . )
+−prepare for heavy SM-like Higgs
+−more tools (SLHA, SPA)
+−LHC/ILC interplay
+. . .
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+8
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+••
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+9
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+••
+•
+talk by P. Gay : SM: λhhh at ILC
+λhhh measurement with hhZ, hhνeνe
+∆E/E = 40%, L = 2 ab−1,
+√s = 500, 800 GeV, Mh = 120 GeV
+no information about b charge used
+detector: parametric simulation
+S/√S + B = 4.9, 8.1
+∆λ/λ = 14%, 18%
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+10
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+••
+talk by P. Gay : SM: λhhh at ILC
+λhhh measurement with hhZ, hhνeνe
+∆E/E = 40%, L = 2 ab−1,
+√s = 500, 800 GeV, Mh = 120 GeV
+no information about b charge used
+detector: parametric simulation
+S/√S + B = 4.9, 8.1
+∆λ/λ = 14%, 18%
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+10
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+••
+•
+talk by T. Barklow : SM: λhhh at ILC
+e+e−→ZHH →q¯q b¯b b¯b ⇒λhhh
+√s = 500, L = 1000 fb−1, Mh = 120
+∆E/E = 60% →30% ≡4 × L
+⇒strong energy resolution dep.!
+all backgrounds incl.
+neural network analysis
+⇒∆λ/λ = 0.4 . . . 0.5
+⇒not the end, room for improvement
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+11
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+••
+talk by T. Barklow : SM: λhhh at ILC
+e+e−→ZHH →q¯q b¯b b¯b ⇒λhhh
+√s = 500, L = 1000 fb−1, Mh = 120
+∆E/E = 60% →30% ≡4 × L
+⇒strong energy resolution dep.!
+all backgrounds incl.
+neural network analysis
+⇒∆λ/λ = 0.4 . . . 0.5
+⇒not the end, room for improvement
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+11
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+••
+•
+talk by A. Rosca : SM: λhhh at ILC
+λhhh measurement in fusion channel
+√s = 1 TeV, or 1.5 TeV, L = 1 ab−1
+Mh = 140 . . . 180 GeV
+Pe−= 80%, Pe+ = 40%
+100% detection eﬃciency
+no backgrounds ⇒best case
+⇒δλ/λ = 5 −10%
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+12
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+••
+talk by A. Rosca : SM: λhhh at ILC
+λhhh measurement in fusion channel
+√s = 1 TeV, or 1.5 TeV, L = 1 ab−1
+Mh = 140 . . . 180 GeV
+Pe−= 80%, Pe+ = 40%
+100% detection eﬃciency
+no backgrounds ⇒best case
+⇒δλ/λ = 5 −10%
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+12
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+••
+•
+talk by M. Krawczyk :
+MSSM: γγ →H, A →b¯b
+MH ≈MA > 200 GeV, large tan β
+→2 analyses with
+diﬀerent background for h →q¯q
+⇒in principle agreement :-)
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+13
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+••
+•
+talk by S. Rai : e+e−→Zh →l+l−gg
+UED: modiﬁcation of h →gg via KK
+modes of W, t or the Radion
+σ(e+e−→l+l−+ 2j)
+σ(e+e−→l+l−b¯b)
+⇒good reach to distinguish models
+⇒complementary to LHC
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+14
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+••
+talk by S. Rai : e+e−→Zh →l+l−gg
+UED: modiﬁcation of h →gg via KK
+modes of W, t or the Radion
+σ(e+e−→l+l−+ 2j)
+σ(e+e−→l+l−b¯b)
+⇒good reach to distinguish models
+⇒complementary to LHC
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+14
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+••
+•
+talks by M. Dahiya : anom. Higgs
+couplings at eγC
+[D. Choudhury, M. Dahiya ’05]
+→anomalous hWW, hZZ coupl.
+ILC: good determination of hZZ
+can e−γC add information?
+⇒no good sensitivity
+Can e+γC or Pe± help?
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+15
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+••
+talks by M. Dahiya : anom. Higgs
+couplings at eγC
+[D. Choudhury, M. Dahiya ’05]
+→anomalous hWW, hZZ coupl.
+ILC: good determination of hZZ
+can e−γC add information?
+⇒no good sensitivity
+Can e+γC or Pe± help?
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+15
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+••
+•
+talk by S. Rai : e−e−→φ−−
+higher Higgs reps: ⇒φ++, φ−−
+e−e−→γφ−−→γX
+→Eγ = const.
+⇒robust signal, no prior for mass
+very small couplings can be probed
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+16
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+••
+talk by S. Rai : e−e−→φ−−
+higher Higgs reps: ⇒φ++, φ−−
+e−e−→γφ−−→γX
+→Eγ = const.
+⇒robust signal, no prior for mass
+very small couplings can be probed
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+16
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+••
+•
+talk by A. Ferrari : tan β determina-
+tion at CLIC
+e+e−→HA →t¯tb¯b, . . .
+e+e−→H+H−→tbτντ at CLIC
+(i.e. for heavy heavy Higgs bosons)
+comparison of signal rates and decays
+MA = 700, tan β = 4 . . . 10
+⇒δ/ tan β/ tan β = 10 −20%
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+17
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+••
+talk by A. Ferrari : tan β determina-
+tion at CLIC
+e+e−→HA →t¯tb¯b, . . .
+e+e−→H+H−→tbτντ at CLIC
+(i.e. for heavy heavy Higgs bosons)
+comparison of signal rates and decays
+MA = 700, tan β = 4 . . . 10
+⇒δ/ tan β/ tan β = 10 −20%
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+17
+Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•
+•••
+•••
+•••••••
+•
+•
+•••
+talk by S.H. : FeynHiggs:
+MSSM Higgs tool
+[Hahn, S.H., Hollik, Weiglein ’98-’05]
+MSSM w/o complex parameters
+Higgs masses, mixing angles,
+couplings, production XS, BRs
+Corrections up to 2L (masses: 3L)
+www.feynhiggs.de
+www.feynhiggs.de/fhucc online
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+18
+3. Top/QCD (few QCD, more top)
+The top is guaranteed at the ILC ⇒sure physics case!
+EWSB: just a heavy quark?
+special role for t in EWSB?
+strong constraint on any model
+Precision physics:
+δmexp
+t
+leading parametric uncertainty
+→could obscure new physics
+SUSY: mt crucial input parameter
+drives SSB/uniﬁcation
+Little Higgs: heavier top
+Tevatron/LHC: “rough” measurements
+of mass, couplings, BRs
+ILC: high precision of everything
+. . . if we are ready
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+19
+Few QCD:
+⇒one talk :-)
+Most important top observables:
+• top quark mass: mt (most important input parameter)
+measurement from production peak position
+experiment: ok – theory: not yet (mshortdistance
+t
+→mMS
+t
+)
+⇒no news here :-(
+• top quark width: Γt ⇒no news here :-(
+• top quark production cross section: σtt
+precise prediction needed for mt
+new physics contributions? experiment: ok – theory: nearly...?
+⇒no news here :-(
+• top quark branching ratios
+→anomalous couplings →O (%) at ILC, polarization crucial
+ToDo: fully exploit polarization
+⇒one talk :-)
+vary more than 1 coupling
+QCD corrections to SM
+tools for e+e−→6f, 8f at O (αs) (6f: Lusifer)
+• top Yukawa coupling: Yt
+→connection to Higgs sector
+⇒two talks :-)
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+20
+Few QCD:
+⇒one talk :-)
+Most important top observables:
+• top quark mass: mt (most important input parameter)
+measurement from production peak position
+experiment: ok – theory: not yet (mshortdistance
+t
+→mMS
+t
+)
+⇒no news here :-(
+• top quark width: Γt ⇒no news here :-(
+• top quark production cross section: σtt
+precise prediction needed for mt
+new physics contributions? experiment: ok – theory: nearly...?
+⇒no news here :-(
+• top quark branching ratios
+→anomalous couplings →O (%) at ILC, polarization crucial
+ToDo: fully exploit polarization
+⇒one talk :-)
+vary more than 1 coupling
+QCD corrections to SM
+tools for e+e−→6f, 8f at O (αs) (6f: Lusifer)
+• top Yukawa coupling: Yt
+→connection to Higgs sector
+⇒two talks :-)
+QCD talk by R. Godbole: σ(γγ →had)
+→use data from p¯p →γγ
+model with 3 free parameters
+⇒predict σ(γγ →had)
+⇒new (preliminary) results similar
+to old results (but more solid now)
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+21
+Few QCD:
+⇒one talk :-)
+Most important top observables:
+• top quark mass: mt (most important input parameter)
+measurement from production peak position
+experiment: ok – theory: not yet (mshortdistance
+t
+→mMS
+t
+)
+⇒no news here :-(
+• top quark width: Γt ⇒no news here :-(
+• top quark production cross section: σtt
+precise prediction needed for mt
+new physics contributions? experiment: ok – theory: nearly...?
+⇒no news here :-(
+• top quark branching ratios
+→anomalous couplings →O (%) at ILC, polarization crucial
+ToDo: fully exploit polarization
+⇒one talk :-)
+vary more than 1 coupling
+QCD corrections to SM
+tools for e+e−→6f, 8f at O (αs) (6f: Lusifer)
+• top Yukawa coupling: Yt
+→connection to Higgs sector
+⇒two talks :-)
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+22
+Few QCD:
+⇒one talk :-)
+Most important top observables:
+• top quark mass: mt (most important input parameter)
+measurement from production peak position
+experiment: ok – theory: not yet (mshortdistance
+t
+→mMS
+t
+)
+⇒no news here :-(
+• top quark width: Γt ⇒no news here :-(
+• top quark production cross section: σtt
+precise prediction needed for mt
+new physics contributions? experiment: ok – theory: nearly...?
+⇒no news here :-(
+• top quark branching ratios
+→anomalous couplings →O (%) at ILC, polarization crucial
+ToDo: fully exploit polarization
+⇒one talk :-)
+vary more than 1 coupling
+QCD corrections to SM
+tools for e+e−→6f, 8f at O (αs) (6f: Lusifer)
+• top Yukawa coupling: Yt
+→connection to Higgs sector
+⇒two talks :-)
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+22
+Few QCD:
+⇒one talk :-)
+Most important top observables:
+• top quark mass: mt (most important input parameter)
+measurement from production peak position
+experiment: ok – theory: not yet (mshortdistance
+t
+→mMS
+t
+)
+⇒no news here :-(
+• top quark width: Γt ⇒no news here :-(
+• top quark production cross section: σtt
+precise prediction needed for mt
+new physics contributions? experiment: ok – theory: nearly...?
+⇒no news here :-(
+• top quark branching ratios
+→anomalous couplings →O (%) at ILC, polarization crucial
+ToDo: fully exploit polarization
+⇒one talk :-)
+vary more than 1 coupling
+QCD corrections to SM
+tools for e+e−→6f, 8f at O (αs) (6f: Lusifer)
+• top Yukawa coupling: Yt
+→connection to Higgs sector
+⇒two talks :-)
+talk by R. Singh: lepton characteristics
+in t decay
+⇒new physics probe
+angular distribution of secondary lepton
+insensitive to anomalous Wtb coupling
+El dist. for anomalous Wtb coupling
+use of polarization advantageous
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+22
+Few QCD:
+⇒one talk :-)
+Most important top observables:
+• top quark mass: mt (most important input parameter)
+measurement from production peak position
+experiment: ok – theory: not yet (mshortdistance
+t
+→mMS
+t
+)
+⇒no news here :-(
+• top quark width: Γt ⇒no news here :-(
+• top quark production cross section: σtt
+precise prediction needed for mt
+new physics contributions? experiment: ok – theory: nearly...?
+⇒no news here :-(
+• top quark branching ratios
+→anomalous couplings →O (%) at ILC, polarization crucial
+ToDo: fully exploit polarization
+⇒one talk :-)
+vary more than 1 coupling
+QCD corrections to SM
+tools for e+e−→6f, 8f at O (αs) (6f: Lusifer)
+• top Yukawa coupling: Yt
+→connection to Higgs sector
+⇒two talks :-)
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+23
+top/Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+••
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+23
+top/Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+•••
+talk by R. Singh : t polarization to
+probe Higgs CP
+[R. Godbole, S. Kraml, R. Singh ’05]
+γγ →H, A →τ+τ−or t¯t
+MSSM, CPX scenario
+⇒CP-even and CP-odd Higgs mix
+δP −
+τ
+can probe CP for low MH±
+δP −
+t
+can probe CP for high MH±
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+24
+top/Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+••
+talk by R. Singh : t polarization to
+probe Higgs CP
+[R. Godbole, S. Kraml, R. Singh ’05]
+γγ →H, A →τ+τ−or t¯t
+MSSM, CPX scenario
+⇒CP-even and CP-odd Higgs mix
+δP −
+τ
+can probe CP for low MH±
+δP −
+t
+can probe CP for high MH±
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+24
+top/Higgs: contributions in Bangalore
+SM
+SUSY
+other
+...
+models/observables
+LO
+NLO
+NNLO
+N3LO
+. . .
+precision (“loops”)
+established
+partial results
+established
+partial
+experiment
+theory
+••
+talk by E. Asakawa : Higgs CP at γC
+MSSM: γγ →H, A →t¯t
+→top angular decay distribution
+⇒possible to distinguish H and A
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+25
+4. LoopVerein
+Why is it necessary to include all those loop corrections?
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+26
+4. LoopVerein
+Why is it necessary to include all those loop corrections?
+Experimental situation:
+ILC →provide high accuracy measurements !
+Theory situation:
+measured observables have to be compared with theoretical predictions
+(of your favorite model)
+High precision of data can only fully be exploited if it is matched with
+theoretical calculations at the same level of accuracy
+We could not make full use of the great ILC precision
+without corresponding loop calculations
+We have to work NOW to achieve necessary accuracy in time
+Theory/Loop calculations should be viewed as an essential part of
+the ILC Physics program
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+26
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+Technique well established
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+27
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+Technique well established
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Missing: axis for # of scales
+(# loops + # legs + # scales) advances very slowly
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+27
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+Technique well established
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+27
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+Technique well established
+Partial results/special cases
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+28
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+Technique well established
+Partial results/special cases
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+28
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+Technique well established
+Partial results/special cases
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Three results from the front
+••
+•
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+29
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+Technique well established
+Partial results/special cases
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Three results from the front
+••
+•
+•
+1 loop, 2 →4, SM
+[Denner, Dittmaier, Roth, Wieders ’05]
+e+e−→4f: full EW 2 →4
+→crucial for MW measurement at GigaZ
+Pentagons, Hexagons, . . .
+complex mass scheme for gauge bosons
+corrections O (10%) (beyond DPA)
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+29
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+Technique well established
+Partial results/special cases
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Two results from the front
+•••
+1 loop, 2 →4, SM
+[Denner, Dittmaier, Roth, Wieders ’05]
+e+e−→4f: full EW 2 →4
+→crucial for MW measurement at GigaZ
+Pentagons, Hexagons, . . .
+complex mass scheme for gauge bosons
+corrections O (10%) (beyond DPA)
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+29
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+Technique well established
+Partial results/special cases
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Three results from the front
+••
+•
+•
+1 loop, 2 →4, SM
+[GRACE ’05]
+e+e−→ν¯νHH: ﬁrst full EW 2 →4
+→Higgs self-coupling measurement
+3416 diagrams, 218 Pent. 74 Hex.
+checks: UV/IR div., gauge par. independ.
+corrections O (10%) (top-loop in HHH)
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+30
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+Technique well established
+Partial results/special cases
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Two results from the front
+••
+1 loop, 2 →4, SM
+[GRACE ’05]
+e+e−→ν¯νHH: ﬁrst full EW 2 →4
+→Higgs self-coupling measurement
+3416 diagrams, 218 Pent. 74 Hex.
+checks: UV/IR div., gauge par. independ.
+corrections O (10%) (top-loop in HHH)
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+30
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+Technique well established
+Partial results/special cases
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Three results from the front
+••
+•
+1 loop, 2 →3, MSSM
+[T. Hahn et al. ’05]
+FeynArts, FormCalc, LoopTools
+New: All SUSY counter terms
+Higgs in complex MSSM (3 × 3)
+Non-Minimal Flavor Violation (tree)
+full 2 →3 at 1L
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+31
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+Technique well established
+Partial results/special cases
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+31
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+Technique well established
+Partial results/special cases
+Required to be under control for ILC
+= leading eﬀects
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+32
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Technique well established
+Partial results/special cases
+Required to be under control for ILC
+= leading eﬀects
+Contributions in Bangalore
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+33
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Technique well established
+Partial results/special cases
+Required to be under control for ILC
+= leading eﬀects
+Contributions in Bangalore
+•
+•
+•
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+33
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Contributions in Bangalore
+•
+•
+•
+•
+talk by Y. Yasui : 1 loop, 2 →2, MSSM
+[GRACE ’06]
+GRACE →GRACE/SUSY
+First checks: 1 →2 (∼10 procs)
+2 →2: e+e−→˜χ±
+i ˜χ±
+j
+agreement with older results
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+34
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Contributions in Bangalore
+•
+•
+•
+talk by E. Berger : 1 loop: 2 →3, SM
+[Balazs, Berger, Nadolski, Qiu, Yuan ’06]
+H →γγ + QCD background
+QT spectrum: signal vs. bgr:
+peak at 40 GeV vs. 27 GeV
+two large scales: mγγ and QT ⇒LL resum.
+→veriﬁcation with CDF data
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+35
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Contributions in Bangalore
+•
+•
+•
+•
+talk by S.H. : 2L vacuum, MSSM + Ren.
+[S.H., W. Hollik, H. Rzehak, G. Weiglein ’06]
+2L top/stop corr. to Mh: O (αsαt) complex
+→renormalization at 2L/1L level
+incl. complex phases
+⇒sizable eﬀects for Mh
+currently included in FeynHiggs
+LC: δMexp
+h
+= 0.05 GeV
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+36
+0
+1
+2
+3
+# loops
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 # legs
+vacuum graphs
+∆ρ
+self-energies
+∆r, masses
+1 →2, sin2 θeﬀ
+2 →2, 1 →3
+Bhabha
+2 →3
+ee →4f
+ee →4f + γ
+ee →6f
+Contributions in Bangalore
+•
+•
+•
+•
+talk by S.H. : 2L vacuum, MSSM + Ren.
+[S.H., W. Hollik, H. Rzehak, G. Weiglein ’06]
+2L top/stop corr. to Mh: O (αsαt) complex
+→renormalization at 2L/1L level
+incl. complex phases
+⇒sizable eﬀects for Mh
+currently included in FeynHiggs
+LC: δMexp
+h
+= 0.05 GeV
+ 106
+ 108
+ 110
+ 112
+ 114
+ 116
+ 118
+ 120
+ 200  400  600  800  1000 1200 1400 1600 1800 2000
+Mh1 [GeV]
+m˜g [GeV]
+MSUSY = 500 GeV
+ϕ˜g = 0
+ϕ˜g = 0.5π
+ϕ˜g = π
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+36
+5. Outlook
+. . . no time left . . .
+There is progress in the right direction,
+at least for Higgs, top/QCD, loops, . . .
+(sometimes one might wish for more activities)
+Some goals can be met without problems, other are harder (as usual)
+and some are very diﬃcult!
+⇒We must not stop in our eﬀorts
+⇒We must support the people doing the really hard work
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+37
+5. Outlook
+. . . no time left . . .
+There is progress in the right direction,
+at least for Higgs, top/QCD, loops, . . .
+(sometimes one might wish for more activities)
+Some goals can be met without problems, other are harder (as usual)
+and some are very diﬃcult!
+⇒We must not stop in our eﬀorts
+⇒We must support the people doing the really hard work
+If we continue with the hard work, physics will be ready
+for the ILC start
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+37
+So let’s work while we await the ILC:
+Sven Heinemeyer, LCWS06 Bangalore, 13.03.2006
+38

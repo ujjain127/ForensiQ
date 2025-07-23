@@ -1,0 +1,2278 @@
+ 
+CHAPTER 7 
+ 
+NEST MICROCLIMATE 
+ 
+ 
+INTRODUCTION 
+ 
+ 
+Innate selection of beneficial nest-site microclimate by birds can moderate extreme 
+environmental conditions and has the potential to improve reproductive success and increase 
+fitness (Webb and King 1983, Walsberg 1985).  Although nest microclimate may influence avian 
+reproductive success, other factors such as habitat and food availability also are important (Cody 
+1985, Gloutney and Clark 1997).  Potential covariance with other evolutionary forces such as 
+predation further complicates any investigation of microclimatic nest-site selection (Martin 
+1995). 
+ 
+Most studies of microclimatic nest-site selection have concentrated on non-passerines.  
+Waterfowl (Gloutney and Clark 1997), hummingbirds (Calder 1973), and woodpeckers (Connor 
+1975, Inouye 1976, Inouye et al. 1981) in particular have been evaluated with respect to various 
+aspects of microclimatic regulation.  Selected species from each of these groups have 
+demonstrated a preference for specific physical attributes within their nesting habitat as strategies 
+to maximize heat gain, minimize heat loss, or manipulate wind exposure depending on the 
+situation.  Several species of woodpeckers excavate cavities whose entrance holes are oriented 
+toward or away from the sun, again depending on the situation and the need to regulate nest 
+microclimate. 
+ 
+Microclimatic selection by passerines has received less attention than that of non-passerines, 
+with most investigations of passerines directed at either ground-nesters or those building covered 
+nests.  Horned Lark (Eremophila alpestris) is probably the most thoroughly studied ground-
+nesting passerine, and numerous studies indicate that it selects nest locations based on compass 
+orientation as a way to manipulate wind exposure, solar insolation, and resulting nest 
+microclimate (Cannings and Threlfall 1981, With and Webb 1993, Hartman and Oring 2003).  
+Cactus Wren (Campylorhynchus brunneicapillus) and Verdin (Auriparus flaviceps) orient the 
+entrances to their covered nests either away from or toward prevailing winds in different parts of 
+the nesting season to moderate nest microclimate (Austin 1974, 1976).  
+ 
+Microclimatic nest-site selection has been investigated in only a few open-cup, shrub- or tree-
+nesting passerines.  The Warbling Vireo (Vireo gilvus) is very sensitive to fluctuations in nest 
+microclimate (Walsberg 1981), and the San Miguel Island Song Sparrow (Melospiza melodia 
+micronyx) may benefit from microhabitats that maintain higher nest relative humidity (Kern et al. 
+1990). 
+ 
+Gloutney and Clark (1997) pointed out that nonrandom distribution of nests strongly supports the 
+microhabitat (i.e., microclimate) selection hypothesis.  For example, nest-site selection for 
+thermal advantages has been offered as an explanation as to why nonrandom nest-site placement 
+occurs in many species (Kern and van Riper 1984, Bekoff et al. 1987, van Riper et al. 1993).  
+ 
+94 
+Nests placed in dense vegetation have been suggested to be less susceptible to predation (Cody 
+1985), and may also benefit from protection from wind, nocturnal heat loss, and diurnal heat gain 
+(Walsberg 1981, 1985).  Because the microhabitat of an individual can influence energy 
+expenditure (Warkentin and West 1990), calories conserved through beneficial nest-site selection 
+can aid reproductive efforts and improve fitness (Gloutney and Clark 1997).  
+ 
+Air temperature alone cannot portray the microclimate of an incubating bird (Gloutney and Clark 
+1997).  Solar insolation, vapor pressure (i.e., relative humidity), and wind speed interact in a 
+complex manner with temperature to define microclimate (McArthur 1990), so that many 
+physiological investigators instead calculate ‘operative temperature,’ the complex formula that 
+integrates all of the above factors (Gloutney and Clark 1997). 
+ 
+The purpose of this microclimate investigation was to document temperature, relative humidity, 
+and soil moisture at nests of Southwestern Willow Flycatchers, an open-cup nesting passerine. 
+We tested the null hypothesis that no difference existed between (1) a flycatcher nest site,  
+(2) a randomly located adjacent site within that flycatcher territory, and (3) unoccupied riparian 
+habitat outside of that territory.  Air temperature, relative humidity, and soil moisture were used 
+as indices to microclimate, although it was recognized that substantial interaction likely occurred 
+between those three variables. 
+ 
+ 
+METHODS 
+ 
+OVERVIEW 
+ 
+We located active flycatcher nests at four life history study areas (Pahranagat, Mesquite, 
+Mormon Mesa, and Topock) between May and July 2003.  Temperature, relative humidity, and 
+soil moisture were measured at three locations relative to each nest for the purpose of examining 
+microclimate at three levels of potentially increasing differences in flycatcher nesting habitat use, 
+as follows:  
+ 
+1. Within 1 m of a nest (i.e., the nest site). 
+2. Within the territory associated with that nest (but 5–10 m from the nest; i.e., within-
+territory site). 
+3. Within unoccupied riparian habitat 50–200 m from the nearest known nest or territory 
+(i.e., non-use site).   
+ 
+We began collecting microclimate data simultaneously at nest, within-territory, and non-use sites 
+within 48–72 hours of the time an active nest was vacated.  A nest was defined as vacated if it 
+met one of the following criteria:  (1) it had been abandoned for any reason (including brood 
+parasitism) at any stage of the nesting cycle after the first flycatcher egg was laid, (2) it had 
+fledged young and was no longer active, or (3) it had been depredated after the first egg was laid.  
+This technique minimized disturbance due to equipment placement or increased human activity 
+near the nest as recommended by Hartman and Oring (2003), while still allowing for quantitative 
+post-use comparisons of microclimate.  
+ 
+95 
+Temperature, relative humidity, and soil moisture data were collected over a period of at least  
+14 full days (midnight to midnight), after which time we transferred the equipment and effort 
+used to collect microclimate data to the nest, within-territory, and non-use sites for another 
+recently-vacated nest (i.e., including a second brood or second nesting attempt).  The 14-day 
+study period for each nest became the focus of all final analyses.  Renests, or second nests of a 
+known pair, were treated as independent data points because nests were the unit of analysis of 
+this study and not individuals or pairs.  All equipment used to collect microclimate data was 
+removed after 14 full days from the time the last active nest had been vacated. 
+ 
+TEMPERATURE AND RELATIVE HUMIDITY (T/RH) MEASUREMENTS 
+ 
+Measurements of T/RH were recorded automatically every 15 minutes using a HOBO H8 Pro 
+(Onset Computer Corporation, Pocasset, MA) that combines a thermometer (degrees Celsius), 
+relative humidity monitor, and digital data logger (hereafter referred to as a sensor array).   
+We camouflaged all HOBO sensor arrays by placing them in an inverted small, plastic bowl 
+coated with spray adhesive and local vegetation.  The opening at the bottom was covered with 
+shadecloth, allowing free air circulation around the sensor array.  The HOBO sensor arrays were 
+placed in four different location types in a manner consistent with an overall randomization 
+design, as follows: 
+ 
+(1) Seasonal-variation (SV) sensor arrays:  When field personnel arrived at the four life history 
+study areas in early May, they placed SV sensor arrays at representative locations within the 
+riparian and adjacent desertscrub habitat.  The riparian SV sensor arrays were designed to 
+monitor T/RH fluctuations throughout the nesting season within the riparian zone to document 
+ambient environmental conditions throughout the study period.  Riparian SV sensor arrays were 
+placed in the nearest tree or woody shrub at their representative sites using a prearranged random 
+number selection sequence (see 3C–3E below).  The desertscrub SV sensor arrays at each study 
+area were placed in desert habitat outside of the riparian zone to document local extremes in 
+T/RH.   
+ 
+(2) Nest-site (NS) sensor arrays:  Once a known nest was vacated, an NS sensor array was placed 
+less than 1 meter from the nest, preferably hanging directly below it.  Sensor arrays were 
+camouflaged so as not to disturb birds that may have returned to the nest to recycle nesting 
+material.  Canopy closure was visually estimated as < 25%, 25–75%, or >75% at all nest, within-
+territory, and non-use sites, and habitat type was identified as native (cottonwood/willow), exotic 
+(tamarisk), or mixed native and exotic (see data forms in Appendix A). 
+ 
+(3) Within-territory (WT) sensor arrays:  A WT sensor array was placed at a location within the 
+territory of the pair that attended the corresponding nest.  The WT sensor array sites were 
+determined by means of the following instructions and the use of random number sequences: 
+ 
+A. The compass direction to walk from the nest, given in degrees from North, was 
+determined from a random number sequence. 
+B. The distance (between 5 and 10 m) to walk in the designated direction was determined 
+from a random number sequence.  Once that distance was traveled, the closest woody tree 
+or shrub was selected for sensor array placement.  If several trees were tied for closest, 
+96 
+one of the field crew tossed a rock over his or her shoulder and the woody tree or shrub 
+closest to its resting place was the one in which the sensor array was placed.  
+C. The sensor array was placed within the documented range of flycatcher nest heights 
+(Sogge et al. 1997), and maximum height depended upon local tree or shrub maximum 
+height at each of the four life history study areas.  Sensor arrays were placed at a height 
+between 1.5 and 5.0 m, as determined from a random number sequence, at Mesquite, 
+Mormon Mesa, and Topock, and between 1.5 and 10.0 m (or as high as reasonably 
+possible) at Pahranagat.  If the random number at Pahranagat was greater than 
+approximately 7 m, the sensor array was placed as close to the random height as 
+reasonably possible.  If the tree or shrub chosen for a sensor array location was of 
+insufficient height to accept the height from the random number sequence, then field 
+personnel placed the sensor array at the first height in the sequence that was less than the 
+height of the tree or shrub. 
+D. The distance (0–3 m) at which the sensor array was placed from the bole of the tree or 
+center of the shrub was determined from a random number sequence.  If the tree or shrub 
+was of insufficient radius to accept the distance from the random number sequence, then 
+field personnel placed the sensor array at the first number in the sequence that was less 
+than the radius of the tree or shrub.   
+E. The compass direction, given in degrees from north, at which the sensor array was placed 
+from the bole of the tree or center of the shrub was determined from a random number 
+sequence.  If there was no branch in this compass direction that would support the sensor 
+array at the height and distance specified in (C) and (D), field personnel proceeded 
+clockwise around the tree or shrub until a suitable branch was located.   
+ 
+If, as presented in C and D, a number from a subsequent random number sequence (sequence 
+meaning a row in the random number table) was used because the number in the initial sequence 
+was too high, then both sequences were considered used and no longer available for future use.  
+If these directions took field personnel outside of the riparian zone or to a site without trees or 
+shrubs, they returned to the nest site and used the next sequence of random numbers. 
+ 
+(4) Non-use habitat (NU) sensor arrays:  At all life history study areas, we identified NU habitat 
+after the first territories and nests were located.  Two computer-generated circles were centered 
+on each nest site or territory center, one 50 m in radius and one 200 m in radius.  The area 
+between the two circles that was within the study area boundaries and was at least 50 m from all 
+other nests or territory centers was classified as NU and divided into equal numbered grids on 
+digitized, geo-referenced, and numbered aerial photographs.  The grids to be used for NU 
+purposes were selected using computer-generated random numbers, and the centroid of each 
+selected grid became the random point near which the sensor arrays were placed.  The NU site 
+was located in the field using the UTM coordinates and a Rino 110 GPS unit.  The exact location 
+of the sensor array was determined by selecting the closest woody tree or shrub and using the 
+procedures in 3C–3E above.  If the NU site was inaccessible (e.g., impenetrable vegetation or 
+deep water) or was in clearly unsuitable habitat (e.g., open marsh), the next UTM coordinate for 
+a random NU site was used.   
+ 
+97 
+SOIL MOISTURE (SM) MEASUREMENTS 
+ 
+We took SM measurements using two methods: (1) SV SM sensor arrays were placed at 
+representative locations throughout the four study areas at the same sites as the SV T/RH arrays 
+in riparian habitat to document daily range and rate of change, and (2) hand-held probes were 
+used to document SM at NS, WT, and NU sites during the 14-day period after nests were 
+vacated.  No SV SM sensor arrays were placed in desertscrub habitat. 
+ 
+(1) In mid-May, field personnel placed SV sensor arrays at representative sites within the 
+riparian zone at each of the four life history study areas.  If the locations for any of the SV SM 
+sensor arrays were inundated or exhibited 100% saturated soils, field personnel placed the sensor 
+array 5 m beyond the edge of the inundated or saturated area in a compass direction determined 
+by a random number sequence.  The decision rule for 100% saturated soil was as follows:  
+a 1-cm-deep trench created with a stick filled with water or unstable mud in less than one minute.   
+ 
+SM data was collected at 1-hour intervals using a Smart Soil Moisture Sensor SM monitor 
+connected to a 4-channel HOBO Micro Station data logger (both by Onset Computer Corp., 
+Pocasset, MA).  All SM sensor arrays were buried horizontally with the flat side perpendicular to 
+the ground surface and the top edge of the sensor 1 cm beneath the soil surface. 
+ 
+(2) We used hand-held probes (20-cm Ech2o probes connected to Ech2o check readouts, by 
+Decagon Devices Inc., Pullman, WA) to gather SM data during the 14-day period after nests 
+were vacated at NS, WT, and NU sites.  SM data were collected directly underneath the T/RH 
+sensor arrays on 3–7 days during the 14-day sample period.  Measurements were taken between 
+0700 and 1000 hours to eliminate the potential bias of time-of-day changes in the soil capillary 
+fringe.  A trench slightly narrower than the probe was excavated with a putty knife to ensure 
+good soil-to-probe contact.  Probes were inserted horizontally into the trench with the top of the 
+sensor 1 cm beneath the soil surface.  SM was assumed to be 100% at sites that were flooded, 
+inundated, or met the 100% saturated decision rule, and no SM measurements were collected at 
+these sites. 
+ 
+If a willow flycatcher pair initiated a second nest within 10 m of its initial nest at which T/RH 
+and SM were being documented, field personnel used hand-held probes to gather SM data at the 
+same time that the second nest was being checked for contents/status (approximately every  
+three days) to minimize disturbance.  Therefore, it was likely that the number of SM 
+measurements would be seven at vacated nests where no second nest was located nearby, while 
+the number of SM measurements was likely to be closer to three at vacated nests where a second 
+nest was located nearby.  Although a minimum of three to seven SM measurements were 
+essential for statistical purposes, SM measurements were taken on as many days as possible 
+during the 14-day sample period.   
+ 
+Soil samples were collected at each SM site (SV, NS, WT, NU) when sensor arrays were initially 
+set up.  Samples were approximately the size of a medium apple, collected from the surface 
+down to and including a depth of 5 cm, and placed in a heavy zip-lock plastic bag labeled with  
+the site designation.  Because soil texture strongly influences capillary action and therefore 
+overall SM (Sumner 2000), analysis of soil composition may be conducted in future years as 
+time and funding allow. 
+98 
+STATISTICAL ANALYSES 
+ 
+We downloaded data from the T/RH and SM sensor arrays at SV, NS, WT, and NU sites into 
+databases at the end of the field season.  We merged all data to create one dataset for further 
+analysis, with the exception of the SV dataset, which was summarized separately for descriptive 
+purposes and was not included in any of the analyses.  Data from SM sensor arrays occasionally 
+exhibited negative values, an anomaly that may have been the result of poor calibration with 
+saline and/or sandy soil.  All negative SM data were omitted from all summaries and analyses.  
+We calculated the following variables for each sensor array, by day and by overall study period: 
+ 
+• 
+Mean soil moisture 
+• 
+Mean diurnal temperature 
+• 
+Mean maximum diurnal temperature 
+• 
+Mean diurnal relative humidity 
+• 
+Mean nocturnal temperature 
+• 
+Mean minimum nocturnal temperature 
+• 
+Mean nocturnal relative humidity 
+• 
+Mean daily temperature range (mean diurnal maximum minus nocturnal minimum) 
+ 
+The overall study period constituted the entire season for SV sensor arrays and the 14 days of 
+monitoring for sites associated with nests (NS, WT, and NU).  We determined diurnal and 
+nocturnal periods by using the actual daily sunrise and sunset times reported for the region by the 
+National Weather Service (2003).   
+ 
+We used Tukey’s multiple comparison test with a one-way Analysis-of-Variance (ANOVA) to 
+determine whether placing the sensor arrays after the nest had been vacated was appropriate, by 
+testing the mean weekly diurnal temperatures of the SV sensor arrays at each study area.  Any 
+consecutive weeks at a study area that were significantly different would be an indication that 
+placing the sensor arrays after nests had been vacated was inappropriate.   
+ 
+We used probability plots and other distribution tests to test the response variables for normality.  
+Chi-square (X2) and one-way ANOVA tests were used to test the single effects of the three 
+location types (NS, WT, NU) and other predictor variables for all response variables.   
+If significant differences were found (P<0.05), we used Tukey’s multiple comparison test to 
+determine pairwise differences. 
+ 
+We used multiple factor ANOVA (multiple ANOVA) analyses with and without interaction 
+terms to determine significant differences in means between location types for all temperature, 
+humidity, and soil moisture variables.  Multiple ANOVA tests for a difference in means, while 
+controlling for the variance by study area, habitat, and canopy closure.  The full initial analysis 
+was:   
+Response variable = Location Type + Study Area + Habitat + Canopy + (Location Type 
+* Study Area) + (Location Type * Habitat) + (Location Type * Canopy) + (Study Area * 
+Habitat) + (Study Area * Canopy) + (Habitat * Canopy) + (Location Type * Study Area * 
+Habitat) + (Location Type * Study Area * Canopy) + (Location Type * Habitat * 
+99 
+Canopy) + (Study Area * Habitat * Canopy) + (Location Type * Study Area * Habitat * 
+Canopy). 
+ 
+The R2 value for the multiple ANOVA analyses identified the extent of the variation in the 
+response variable that was explained by the predictor variables in each analysis.  
+Tukey’s multiple comparison test was used to determine pairwise differences for significant 
+variables. The P values presented in the multiple ANOVA analyses were for type III sum of 
+squares. All analyses were conducted using SAS Version 8 (SAS Institute 1999). 
+ 
+RESULTS  
+ 
+SEASONAL VARIATION 
+ 
+Twenty SV T/RH sensor arrays and 16 SV SM sensor arrays were placed at the four life history 
+study areas from 14 to 22 May and remained in place until late August.  Because of mechanical 
+malfunction, some SV sensor arrays did not initiate data collection or stopped collecting data 
+during mid-season.  This was true of all five SV T/RH sensor arrays at Topock.  All but one of 
+the SV SM sensor arrays functioned throughout the season.  The results from all SV sensor 
+arrays indicated desertscrub sites were substantially hotter and drier than riparian sites  
+(Tables 7.1 and 7.2). 
+ 
+Table 7.1.  Seasonal variation in riparian habitat by study area for Southwestern Willow Flycatcher 
+microclimate data from along the Virgin and lower Colorado Rivers, May–August 2003.  All values are ± 
+1 standard deviation (in parenthesis); N/A=data not available. 
+Descriptive statistics  
+Pahranagat 
+Mesquite 
+Mormon 
+Mesa 
+Topock 
+N (Temp./Humidity) 
+1 
+3 
+3 
+0 
+N (Soil Moisture) 
+3 
+4 
+4 
+4 
+Mean soil moisture (%) 
+24.9 (±13.0) 
+20.6 (±14.2) 
+25.1 (±9.8) 
+25.3 (±6.5) 
+Mean diurnal temperature (°C) 
+26.4 (±2.3) 
+30.7 (±2.5) 
+32.3 (±4.1) 
+N/A 
+Mean maximum diurnal temperature (°C) 
+35.4 (±3.8) 
+39.7 (±4.2) 
+43.3 (±5.2) 
+N/A 
+Mean diurnal relative humidity (%) 
+39.0 (±15.6) 
+42.4 (±12.1) 
+39.3 (±13.3) 
+N/A 
+Mean nocturnal temperature (°C) 
+21.9 (±2.6) 
+24.2 (±3.0) 
+21.5 (±4.2) 
+N/A 
+Mean minimum nocturnal temperature (°C) 
+17.0 (±3.3) 
+19.0 (±3.6) 
+16.6 (±4.6) 
+N/A 
+Mean nocturnal relative humidity (%) 
+40.3 (±15.9) 
+52.8 (±14.9) 
+58.5 (±14.3) 
+N/A 
+Mean daily temperature range (°C) 
+18.4 (±5.1) 
+20.7 (±5.7) 
+26.7 (±5.1) 
+N/A 
+ 
+100 
+Table 7.2. Seasonal variation in desertscrub habitat by study area for Southwestern Willow Flycatcher 
+microclimate data along the Virgin and lower Colorado Rivers, May–August 2003.  All values are ± 1 
+standard deviation (in parenthesis); N/A=data not available. 
+Descriptive statistics  
+Pahranagat 
+Mesquite 
+Mormon 
+Mesa 
+Topock 
+N (Temp./Humidity) 
+2 
+2 
+1 
+0 
+Mean diurnal temperature (°C) 
+32.5 (±3.7) 
+37.1 (±3.1) 
+36.7 (±3.4) 
+N/A 
+Mean maximum diurnal temperature (°C) 
+41.0 (±4.6) 
+45.1 (±4.4) 
+45.0 (±4.6) 
+N/A 
+Mean diurnal relative humidity (%) 
+20.4 (±12.2) 
+17.3 (±9.9) 
+18.0 (±9.4) 
+N/A 
+Mean nocturnal temperature (°C) 
+25.0 (±3.2) 
+30.1 (±2.5) 
+29.8 (±3.1) 
+N/A 
+Mean minimum nocturnal temperature (°C) 
+19.0 (±3.6) 
+23.9 (±3.1) 
+24.3 (±3.5) 
+N/A 
+Mean nocturnal relative humidity (%) 
+26.7 (±16.3) 
+22.1 (±12.9) 
+23.2 (±11.1) 
+N/A 
+Mean daily temperature range (°C) 
+21.9 (±4.4) 
+21.2 (±4.9) 
+20.8 (±4.8) 
+N/A 
+ 
+ 
+DATA COLLECTION AFTER NESTS WERE VACATED 
+ 
+Only two sets of consecutive weeks were found to be significantly different in mean diurnal 
+temperature: the first and second week in August at Mormon Mesa (P<0.05) and the third and 
+fourth week in May at Mesquite (P<0.05).  These two anomalous sets of weeks were not during 
+the peak of the nesting season (June-July), which exhibited fairly consistent mean diurnal 
+temperatures from week to week.     
+ 
+LOCATION TYPES:  DESCRIPTIVE STATISTICS AND SINGLE EFFECTS ANALYSIS 
+ 
+We placed sensor arrays at all nests within each of the four life history study areas.  Data on 
+T/RH were successfully collected for 48 NS, 46 WT, and 38 NU sites (Tables 7.3 through 7.6).  
+The location type data were normally distributed for all response variables, so that no 
+transformations or elimination of outliers were needed.   
+ 
+All study areas except Pahranagat showed a significant difference in percent canopy closure 
+between pairwise location types (NS, WT, NU; Tables 7.3 through 7.6).  The NU sites were 
+primarily responsible for this difference, since they had a significantly greater proportion of sites 
+with less than 25% canopy as compared to NS sites at Mesquite or WT sites at Mesquite, 
+Mormon Mesa, and Topock.   
+ 
+Single effects analyses (Tables 7.3 through 7.6) indicate that during daytime, NS sites were 
+cooler and more humid than NU sites at Mesquite and Pahranagat, although they were similar at 
+Mormon Mesa and Topock (Figures 7.1 and 7.2).  The NU sites were hotter and drier than either 
+NS or WT sites at Mesquite and Pahranagat, but were similar to NS and WT sites at Mormon 
+Mesa and Topock.   
+ 
+101 
+Mean nocturnal temperatures and humidity were generally similar between location types, 
+although the average minimum nocturnal temperatures were lower for NU sites.  In general,  
+NU sites had the greatest mean daily temperature range, and NS sites had the lowest mean daily 
+temperature range.   
+  
+SM was similar among location types; however, the descriptive statistics (Tables 7.3 through 
+7.6) showed wide variance in percent SM readings.  Despite the SM difference among location 
+types at Pahranagat (P = 0.048), we decided to exclude SM from all subsequent analyses. 
+ 
+Table 7.3.  Descriptive statistics (Chi-square) and single effects (ANOVA) for Southwestern Willow 
+Flycatcher microclimate data by location type at Pahranagat, June–August 2003.  Values for soil moisture 
+and subsequently listed response variables are ± 1 standard deviation (in parenthesis); N/A=data not 
+available. 
+Response variables 
+Nest 
+Site 
+Within 
+Territory 
+Non-use 
+Χ2 or  
+F-value 
+P 
+Significant 
+pairwise 
+differences 
+N (Temp./Humidity Sensor Arrays) 
+11 
+9 
+8 
+-- 
+-- 
+-- 
+N (Soil Moisture Probes) 
+11 
+10 
+9 
+-- 
+-- 
+-- 
+Habitat  
+     Native (cottonwood or willow) 
+11 (100.0)* 
+9 (100.0) 
+8 (100.0) 
+     Exotic (tamarisk) 
+0 (0.0) 
+0 (0.0) 
+0 (0.0) 
+     Mixed (native and exotic) 
+0 (0.0) 
+0 (0.0) 
+0 (0.0) 
+N/A 
+N/A 
+N/A 
+Canopy closure  
+ 
+    Less than 25% 
+0 (0.0) 
+1 (11.1) 
+0 (0.0) 
+    25%-75% 
+1 (9.1) 
+2 (22.2) 
+3 (37.5) 
+    More than 75% 
+10 (90.9) 
+6 (66.7) 
+5 (62.5) 
+4.5 
+0.345 
+-- 
+Mean soil moisture (%) 
+24.9 (±8.5) 
+25.3 (±9.8) 
+15.4 (±9.9) 
+3.4 
+0.048 
+-- 
+Mean diurnal temperature (°C) 
+27.7 (±1.5) 
+28.8 (±1.5) 
+30.6 (±2.4) 
+6.0 
+0.007 
+NU>NS 
+Mean maximum diurnal 
+temperature (°C) 
+38.6 (±3.3) 
+40.9 (±3.6) 
+42.4 (±5.8) 
+2.0 
+0.163 
+-- 
+Mean diurnal relative humidity (%) 
+43.4 (±7.6) 
+41.0 (±7.7) 
+31.1 (±7.5) 
+6.4 
+0.006 
+NS>WT>NU
+Mean nocturnal temperature (°C) 
+24.3 (±1.2) 
+24.6 (±1.2) 
+25.7 (±2.5) 
+1.7 
+0.210 
+-- 
+Mean minimum nocturnal 
+temperature (°C) 
+15.0 (±2.3) 
+14.4 (±2.2) 
+16.2 (±3.3) 
+1.1 
+0.361 
+-- 
+Mean nocturnal relative humidity  
+(%) 
+43.8 (±7.8) 
+42.9 (±8.7) 
+37.2 (±9.7) 
+1.5 
+0.249 
+-- 
+Mean daily temperature range (°C) 16.1 (±3.0) 
+18.8 (±4.2) 
+18.3 (±3.4) 
+1.7 
+0.206 
+-- 
+*N followed by % of column totals 
+102 
+ 
+Table 7.4.  Descriptive statistics (Chi-square) and single effects (ANOVA) for Southwestern Willow 
+Flycatcher microclimate data by location type at Mesquite, June–August 2003.  Values for soil moisture 
+and subsequently listed response variables are ± 1 standard deviation (in parenthesis). 
+Response variables 
+Nest 
+Site 
+Within 
+Territory 
+Non-use 
+Χ2 or  
+F-value 
+P 
+Significant 
+pairwise 
+differences 
+N (Temp./Humidity Sensor Arrays) 
+18 
+17 
+17 
+-- 
+-- 
+-- 
+N (Soil Moisture Probes) 
+14 
+13 
+17 
+-- 
+-- 
+-- 
+Habitat  
+ 
+     Native (cottonwood or willow) 
+9 (50.0)* 
+11 (64.7) 
+8 (47.1) 
+     Exotic (tamarisk) 
+2 (11.1) 
+0 (0.0) 
+2 (11.8) 
+     Mixed (native and exotic) 
+7 (38.9) 
+6 (35.3) 
+7 (41.2) 
+Χ2=2.6 
+0.628 
+-- 
+Canopy closure  
+ 
+    Less than 25% 
+0 (0.0) 
+1 (5.9) 
+9 (52.9) 
+    25%-75% 
+13 (72.2) 
+13 (76.5) 
+7 (41.2) 
+    More than 75% 
+5 (27.8) 
+3 (17.7) 
+1 (5.9) 
+Χ2=19.5 <0.001 
+NS>NU, 
+WT>NU 
+Mean soil moisture (%) 
+16.8 (±10.4) 
+18.5 (±9.7) 
+11.1 (±12.3) 
+F=2.0 
+0.155 
+-- 
+Mean diurnal temperature (°C) 
+30.8 (±2.3) 
+32.2 (±2.7) 
+36.1 (±3.8) 
+F=15.1 
+<0.001 
+NU>NS, 
+NU>WT 
+Mean maximum diurnal 
+temperature (°C) 
+41.8 (±4.3) 
+45.8 (±5.7) 
+51.9 (±6.9) 
+F=13.9 
+<0.001 
+NU>NS, 
+NU>WT 
+Mean diurnal relative humidity (%) 
+51.2 (±12.6) 
+46.3 (±10.2)
+35.6 (±7.1) 
+F=10.4 
+<0.001 
+NS>NU, 
+WT>NU 
+Mean nocturnal temperature (°C) 
+24.2 (±1.9) 
+24.1 (±2.0) 
+24.0 (±2.3) 
+F=0.0 
+0.957 
+-- 
+Mean minimum nocturnal 
+temperature (°C) 
+16.6 (±2.3) 
+15.9 (±2.4) 
+14.7 (±2.5) 
+F=2.6 
+0.081 
+-- 
+Mean nocturnal relative humidity 
+(%) 
+62.8 (±10.4) 
+61.0 (±9.4) 
+59.0 (±8.5) 
+F=0.7 
+0.484 
+-- 
+Mean daily temperature range (°C) 
+19.3 (±4.6) 
+22.4 (±5.2) 
+29.0 (±5.6) 
+F=16.3 
+<0.001 
+NU>NS, 
+NU>WT 
+*N followed by % of column totals 
+ 
+103 
+Table 7.5.  Descriptive statistics (Chi-square) and single effects (ANOVA) for Southwestern Willow 
+Flycatcher microclimate data by location type at Mormon Mesa, June–August 2003.  Values for soil 
+moisture and subsequently listed response variables are ± 1 standard deviation (in parenthesis). 
+Response variables 
+Nest 
+Site 
+Within 
+Territory 
+Non-use 
+Χ2 or  
+F-value 
+P 
+Significant 
+pairwise 
+differences 
+N (Temp./Humidity Sensor Arrays) 
+12 
+11 
+6 
+-- 
+-- 
+-- 
+N (Soil Moisture Probes) 
+6 
+7 
+8 
+-- 
+-- 
+-- 
+Habitat  
+ 
+     Native (cottonwood or willow) 
+4 (33.3)* 
+4 (36.4) 
+0 (0.0) 
+     Exotic (tamarisk) 
+1 (8.3) 
+1 (9.0) 
+3 (50.0) 
+     Mixed (native and exotic) 
+7 (58.3) 
+6 (54.5) 
+3 (50.0) 
+6.9 
+0.143 
+-- 
+Canopy closure  
+ 
+    Less than 25% 
+0 (0.0) 
+0 (0.0) 
+1 (16.7) 
+    25%-75% 
+10 (83.3) 
+11 (100.0) 
+3 (50.0) 
+    More than 75% 
+2 (16.7) 
+0 (0.0) 
+2 (33.3) 
+8.3 
+0.083 
+WT>NU 
+Mean soil moisture (%) 
+5.4 (±6.2) 
+9.2 (±7.7) 
+7.0 (±10.4) 
+0.3 
+0.715 
+-- 
+Mean diurnal temperature (°C) 
+33.1 (±3.4) 
+33.6 (±3.0) 
+33.4 (±3.1) 
+0.1 
+0.933 
+-- 
+Mean maximum diurnal 
+temperature (°C) 
+46.6 (±4.7) 
+47.7 (±5.3) 
+47.8 (±4.3) 
+0.2 
+0.8261 
+-- 
+Mean diurnal relative humidity (%) 
+39.1 (±9.6) 
+37.4 (±7.6) 
+37.7 (±8.7) 
+0.1 
+0.8878 
+-- 
+Mean nocturnal temperature (°C) 
+23.9 (±3.2) 
+23.5 (±3.2) 
+21.2 (±3.2) 
+1.5 
+0.251 
+-- 
+Mean minimum nocturnal 
+temperature (°C) 
+16.6 (±2.6) 
+15.9 (±2.6) 
+13.5 (±2.2) 
+3.0 
+0.070 
+-- 
+Mean nocturnal relative humidity 
+(%) 
+56.5 (±6.0) 
+56.8 (±7.3) 
+62.5 (±10.1) 
+1.5 
+0.245 
+-- 
+Mean daily temperature range (°C) 
+23.7 (±5.1) 
+24.7 (±3.8) 
+27.4 (±2.9) 
+1.5 
+0.241 
+-- 
+*N followed by % of column totals 
+ 
+104 
+Table 7.6.  Descriptive statistics (Chi-square) and single effects (ANOVA) for Southwestern Willow 
+Flycatcher microclimate data by location type at Topock, June–August 2003.  Values for soil moisture 
+and subsequently listed response variables are ± 1 standard deviation (in parenthesis); N/A=data not 
+available. 
+Response variables 
+Nest 
+Site 
+Within 
+Territory 
+Non-use 
+Χ2 or  
+F-value 
+P 
+Significant 
+pairwise 
+differences 
+N (Temp./Humidity Sensor Arrays) 
+7 
+9 
+7 
+-- 
+-- 
+-- 
+N (Soil Moisture Probes) 
+8 
+8 
+8 
+-- 
+-- 
+-- 
+Habitat  
+ 
+     Native (cottonwood or willow) 
+0 (0.0)* 
+0 (0.0) 
+0 (0.0) 
+     Exotic (tamarisk) 
+7 (100.0) 
+9 (100.0) 
+7 (100.0) 
+     Mixed (native and exotic) 
+0 (0.0) 
+0 (0.0) 
+0 (0.0) 
+N/A 
+N/A 
+N/A 
+Canopy closure   
+ 
+    Less than 25% 
+0 (0.0) 
+0 (0.0) 
+2 (28.6) 
+    25%-75% 
+5 (71.4) 
+4 (44.4) 
+5 (71.4) 
+    More than 75% 
+2 (28.6) 
+5 (55.6) 
+0 (0.0) 
+9.2 
+0.056 
+WT>NU 
+Mean soil moisture (%) 
+28.7 (±4.7) 
+21.4 (±8.9) 
+27.1 (±5.8) 
+2.6 
+0.098 
+-- 
+Mean diurnal temperature (°C) 
+33.0 (±2.1) 
+32.2 (±2.5) 
+34.2 (±4.6) 
+0.8 
+0.476 
+-- 
+Mean maximum diurnal 
+temperature (°C) 
+43.9 (±4.8) 
+42.6 (±4.8) 
+48.0 (±9.8) 
+1.4 
+0.283 
+-- 
+Mean diurnal relative humidity (%) 
+53.2 (±5.7) 
+56.5 (±9.1) 
+55.7 (±12.5) 
+0.3 
+0.783 
+-- 
+Mean nocturnal temperature (°C) 
+27.0 (±1.2) 
+26.7 (±1.4) 
+25.7 (±1.4) 
+2.0 
+0.161 
+-- 
+Mean minimum nocturnal 
+temperature (°C) 
+19.3 (±1.3) 
+19.2 (±1.2) 
+17.9 (±2.0) 
+1.9 
+0.171 
+-- 
+Mean nocturnal relative humidity 
+(%) 
+65.1 (±3.4) 
+66.5 (±4.7) 
+68.7 (±5.2) 
+1.2 
+0.325 
+-- 
+Mean daily temperature range (°C) 17.4 (±3.9) 
+16.3 (±4.5) 
+21.7 (±8.3) 
+1.9 
+0.182 
+-- 
+*N followed by % of column totals 
+ 
+ 
+105 
+Figure 7.1.  Mean diurnal temperature by study area and location type for Southwestern Willow Flycatcher microclimate data along the 
+Virgin 
+and 
+lower 
+Colorado 
+River 
+regions, 
+June–August 
+2003.
+Mormon Mesa
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+21
+23
+25
+27
+29
+31
+33
+35
+37
+39
+41
+43
+45
+47
+Month-Day
+Average Temperature (C)
+NS
+WT
+SU
+Mesquite West
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+MODAY
+623
+625
+627
+629
+701
+703
+705
+707
+709
+711
+713
+715
+717
+719
+721
+723
+725
+727
+729
+731
+802
+804
+806
+808
+810
+812
+814
+816
+Month-Day
+Average Temperature (C)
+NS
+WT
+SU
+Parahnagat
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+MODAY
+704
+706
+708
+710
+712
+714
+716
+718
+720
+722
+724
+726
+728
+730
+807
+809
+811
+813
+815
+817
+819
+821
+Month-Day
+Average Temperature (C)
+NS
+WT
+SU
+Topock Marsh
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+MODAY
+704
+706
+708
+710
+712
+714
+716
+718
+720
+722
+724
+726
+728
+730
+801
+803
+805
+807
+Month-Day
+Average Temperature (C)
+NS
+WT
+SU
+Figure 7.1.  Mean diurnal temperature by study area and location type for Southwestern Willow Flycatcher microclimate data along the Virgin and lower 
+Colorado Rivers, June–August 2003. 
+106 
+ 
+Figure 7.2.  Mean diurnal relative humidity by study area and location type for Southwestern Willow Flycatcher microclimate data along 
+the 
+Virgin 
+and 
+lower 
+Colorado 
+River 
+regions, 
+June–August 
+2003.
+Mormon Mesa
+0
+10
+20
+30
+40
+50
+60
+70
+80
+MODAY
+618
+620
+622
+624
+626
+628
+630
+702
+704
+706
+708
+710
+712
+714
+716
+718
+720
+722
+724
+726
+728
+730
+801
+Month-Day
+Average Relative Humidity (%)
+NS
+WT
+SU
+Mesquite West
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+MODAY
+623
+625
+627
+629
+701
+703
+705
+707
+709
+711
+713
+715
+717
+719
+721
+723
+725
+727
+729
+731
+802
+804
+806
+808
+810
+812
+814
+816
+Month-Day
+Average Relative Humidity (%)
+NS
+WT
+SU
+Pahranagat
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+MODAY
+704
+706
+708
+710
+712
+714
+716
+718
+720
+722
+724
+726
+728
+730
+807
+809
+811
+813
+815
+817
+819
+821
+Month-Day
+Average Relative Humidity (%)
+NS
+WT
+SU
+Topock Marsh
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+MODAY
+704
+706
+708
+710
+712
+714
+716
+718
+720
+722
+724
+726
+728
+730
+801
+803
+805
+807
+Month-Day
+Average Relative Humidity (%)
+NS
+WT
+SU
+Figure 7.2.  Mean diurnal relative humidity by study area and location type for Southwestern Willow Flycatcher microclimate data along the Virgin and
+lower Colorado Rivers, June–August 2003. 
+107 
+INDIVIDUAL EFFECT OF PREDICTOR VALUES 
+ 
+Single effects analyses (Tables 7.7 through 7.10) illustrate the individual effect that each 
+predictor had on response variables.  Location type (Table 7.7) was significantly related to mean 
+diurnal temperature, mean maximum diurnal temperature, mean diurnal relative humidity, and 
+mean daily temperature range.   
+ 
+Study areas differed significantly for all response variables (Table 7.8).  Topock exhibited the 
+highest overall (i.e., diurnal and nocturnal) humidity and highest nocturnal temperatures of all 
+study areas.  Diurnal temperatures at Topock were statistically similar to the two other hottest 
+study areas (Mormon Mesa and Mesquite).  However, Topock was similar to Pahranagat in that 
+those two study areas exhibited the lowest mean daily temperature range.  Pahranagat exhibited 
+the lowest nocturnal humidity, lowest diurnal temperature, and lowest mean minimum nocturnal 
+temperature.  Pahranagat and Mormon Mesa exhibited the lowest diurnal humidity.   
+ 
+Habitat types were also significantly different for all response variables (Table 7.9).  Native 
+habitats, which were almost synonymous with Pahranagat, exhibited the lowest diurnal and 
+nocturnal temperatures and the lowest mean daily temperature range as compared to exotic or 
+mixed habitats.  Exotic habitat, typified by the tamarisk monoculture at Topock, had the highest 
+overall humidity, the highest nocturnal temperatures, and was tied with mixed habitat for the 
+highest diurnal temperatures.  Mixed habitats had the highest mean daily temperature range. 
+ 
+Categories of canopy closure differed significantly for mean diurnal temperature, mean 
+maximum diurnal temperature, mean nocturnal relative humidity, and mean daily temperature 
+range (Table 7.10).   
+ 
+Table 7.7.  Single effects ANOVA testing location type by response variable for Southwestern Willow 
+Flycatcher microclimate data along the Virgin and lower Colorado Rivers, June–August 2003.  Location 
+type values are ± 1 standard deviation (in parenthesis). 
+Location type 
+Response variables 
+Nest 
+Site 
+Within 
+Territory 
+Non-use 
+F-value 
+P 
+Significant 
+pairwise 
+differences 
+Mean diurnal temperature (°C) 
+31.0 (±3.4) 
+31.9 (±2.9) 
+34.2 (±4.1) 
+9.8 
+<0.001 
+NU>WT>NS 
+Mean maximum diurnal 
+temperature (°C) 
+42.6 (±5.0) 
+44.7 (±5.5) 
+48.6 (±7.6) 
+10.4 
+<0.001 
+NU>WT>NS 
+Mean diurnal relative humidity 
+(%) 
+46.7 (±11.3) 
+45.1 (±10.9) 
+38.7 (±11.8) 
+5.8 
+0.004 
+NS>WT>NU 
+Mean nocturnal temperature 
+(°C) 
+24.6 (±2.3) 
+24.6 (±2.3) 
+24.2 (±2.8) 
+0.3 
+0.768 
+-- 
+Mean minimum nocturnal 
+temperature (°C) 
+16.6 (±2.6) 
+16.2 (±2.7) 
+15.4 (±2.9) 
+2.1 
+0.130 
+-- 
+Mean nocturnal relative 
+humidity (%) 
+57.2 (±11.2) 
+57.5 (±11.1) 
+56.8 (±13.6) 
+0.1 
+0.956 
+-- 
+Mean daily temperature range 
+(°C) 
+19.4 (±5.0) 
+21.0 (±5.4) 
+25.2 (±6.9) 
+11.1 
+<0.001 
+NU>WT>NS 
+ 
+ 
+108 
+Table 7.8.  Single effects ANOVA testing study area by response variable for Southwestern Willow 
+Flycatcher microclimate data along the Virgin and lower Colorado Rivers, June–August 2003.  Study area 
+values are ± 1 standard deviation (in parenthesis). 
+Study area 
+Response variables 
+Pahranagat 
+(PA) 
+Mesquite (MW)
+Mormon Mesa 
+(MM) 
+Topock (TM) 
+F-value 
+P 
+Significant 
+pairwise 
+differences 
+Mean diurnal 
+temperature (°C) 
+28.9 (±2.1) 
+33.0 (±3.7) 
+33.3 (±3.1) 
+33.1 (±3.2) 
+13.0 
+<0.001 
+MM>PA, 
+MW>PA, 
+TM>PA 
+Mean maximum diurnal 
+temperature (°C) 
+40.4 (±4.4) 
+46.4 (±7.0) 
+47.3 (±4.7) 
+44.6 (±6.8) 
+7.7 
+<0.001 
+MM>PA, 
+MW>PA 
+Mean diurnal relative 
+humidity (%) 
+39.1 (±9.0) 
+44.5 (±12.0) 
+38.2 (±8.4) 
+55.3 (±9.1) 
+14.6 
+<0.001 
+TM>MW, 
+TM>PA, 
+TM>MM, 
+MW>MM 
+Mean nocturnal 
+temperature (°C) 
+24.8 (±1.7) 
+24.1 (±2.0) 
+23.2 (±3.3) 
+26.5 (±1.4) 
+10.2 
+<0.001 
+TM>MW, 
+TM>PA, 
+TM>MM, 
+PA>MM 
+Mean minimum noc-turnal 
+temperature (°C) 
+15.2 (±2.6) 
+15.7 (±2.5) 
+15.7 (±2.7) 
+18.8 (±1.6) 
+11.8 
+<0.001 
+TM>MW, 
+TM>PA, 
+TM>MM 
+Mean nocturnal relative 
+humidity (%) 
+41.6 (±8.8) 
+61.0 (±9.5) 
+57.9 (±7.6) 
+66.7 (±4.5) 
+47.2 
+<0.001 
+TM>MW, 
+TM>PA, 
+TM>MM, 
+MW>PA, 
+MM>PA 
+Mean daily tempera-ture 
+range (°C) 
+17.6 (±3.6) 
+23.5 (±6.5) 
+24.8 (±4.4) 
+18.3 (±6.0) 
+13.3 
+<0.001 
+MM>TM, 
+MM>PA, 
+MW>PA, 
+MW>TM 
+ 
+Table 7.9.  Single effects ANOVA testing habitat type by response variable for Southwestern Willow 
+Flycatcher microclimate data along the Virgin and lower Colorado Rivers, June-August 2003.  Habitat 
+type values are ± 1 standard deviation (in parenthesis). 
+Habitat type 
+Response variables 
+Native 
+(cottonwood 
+or willow) 
+Exotic 
+(tamarisk) 
+Mixed  
+(native and 
+exotic) 
+F-value 
+P 
+Significant 
+pairwise 
+differences 
+Mean diurnal temperature 
+(°C) 
+30.6 (±3.1) 
+33.5 (±3.3) 
+34.0 (±3.3) 
+16.1 
+<0.001 
+Mix>Nat, 
+Tam>Nat 
+Mean maximum diurnal 
+temperature (°C) 
+42.9 (±5.8) 
+45.9 (±6.7) 
+48.1 (±6.2) 
+8.8 
+<0.001 
+Mix>Nat 
+Mean diurnal relative 
+humidity (%) 
+43.3 (±11.3) 
+51.9 (±11.1) 
+37.8 (±8.9) 
+15.0 
+<0.001 
+Tam>Nat> 
+Mix 
+Mean nocturnal 
+temperature (°C) 
+24.0 (±2.4) 
+25.7 (±2.0) 
+24.2 (±2.6) 
+6.3 
+0.002 
+Tam>Mix, 
+Tam>Nat 
+Mean minimum nocturnal 
+temperature (°C) 
+15.5 (±2.7) 
+17.8 (±2.6) 
+15.9 (±2.3) 
+8.9 
+<0.001 
+Tam>Mix, 
+Tam>Nat 
+Mean nocturnal relative 
+humidity (%) 
+53.1 (±13.4) 
+66.1 (±6.5) 
+56.6 (±7.7) 
+15.8 
+<0.001 
+Tam>Mix, 
+Tam>Nat 
+Mean daily temperature 
+range (°C) 
+20.3 (±5.7) 
+20.7 (±7.0) 
+24.8 (±5.2) 
+7.2 
+0.001 
+Mix>Tam, 
+Mix>Nat 
+109 
+Table 7.10.  Single effects ANOVA testing canopy closure by response variable for Southwestern 
+Willow Flycatcher microclimate data along the Virgin and lower Colorado Rivers, June–August 2003.  
+Canopy closure values are ± 1 standard deviation (in parenthesis). 
+Canopy closure categories 
+Response variables 
+< 25% 
+25-75% 
+> 75% 
+F-value 
+P 
+Significant 
+pairwise 
+differences 
+Mean diurnal 
+temperature (°C) 
+36.5 (±4.4) 
+32.7 (±3.1) 
+29.8 (±2.4) 
+27.7 
+<0.001 
+(<25)>(25–
+75)>(>75) 
+Mean maximum diurnal 
+temperature (°C) 
+52.8 (±7.6) 
+45.8 (±5.9) 
+41.0 (±3.8) 
+24.9 
+<0.001 
+(<25)>(25–
+75)>(>75) 
+Mean diurnal relative 
+humidity (%) 
+37.9 (±8.4) 
+44.1 (±12.0) 
+45.4 (±11.8) 
+2.3 
+0.109 
+-- 
+Mean nocturnal 
+temperature (°C) 
+24.6 (±2.0) 
+24.3 (±2.6) 
+24.7 (±2.2) 
+0.5 
+0.638 
+-- 
+Mean minimum nocturnal 
+temperature (°C) 
+15.1 (±2.7) 
+16.3 (±2.7) 
+16.2 (±2.8) 
+1.2 
+0.293 
+-- 
+Mean nocturnal relative 
+humidity (%) 
+61.1 (±7.1) 
+59.2 (±10.3) 
+52.2 (±14.2) 
+6.0 
+0.003 
+(<25)>(>75), 
+(25–75)>(>75) 
+Mean daily temperature 
+range (°C) 
+28.5 (±5.9) 
+22.5 (±5.6) 
+17.6 (±4.4) 
+24.5 
+<0.001 
+(<25)>(25–
+75)>(>75) 
+ 
+ 
+MULTIPLE ANOVA MODEL 
+ 
+Location type remained a significant predictor for mean diurnal temperature, mean maximum 
+diurnal temperature, mean diurnal relative humidity, and mean daily temperature range even 
+after adjusting for study area, habitat, and canopy closure (Table 7.11).  When significant 
+interaction terms were added to the analysis, location type remained significant for mean diurnal 
+temperature and mean maximum diurnal temperature, but not for mean diurnal relative humidity 
+or mean daily temperature range (Table 7.12). 
+ 
+Because location type as a significant predictor of the above response variables was most likely 
+due to the disproportionately large sample size from Mesquite, the multiple ANOVA analysis 
+was rerun without including any data from that study area.  The new analysis remained 
+significant for all response variables, but location type was not a significant predictor  
+(Table 7.13).   
+ 
+The next analysis removed NU sites to make a discrete comparison between only NS and WT 
+sites at all study areas because all the significant differences for the single effects of location type 
+came from NU sites.  This multiple ANOVA showed that NS sites remained significant 
+predictors of mean maximum diurnal temperature and mean daily temperature range.  However, 
+only mean maximum diurnal temperature remained significant (Table 7.14) when significant 
+interaction terms were added.  Across all study areas, mean maximum diurnal temperature at NS 
+sites was 4.0oC cooler than at NU sites and 2.1oC cooler than at WT sites (Table 7.7), although 
+temperature differences by location type differed by study area (Tables 7.3 through 7.6). 
+110 
+Table 7.11.  Single effects (without interaction terms) multiple ANOVA for location type testing of 
+predictor variables by response variable for Southwestern Willow Flycatcher microclimate data along the 
+Virgin and lower Colorado Rivers, June–August 2003.  Canopy closure categories=percentages. 
+Response 
+variables 
+F-value 
+for overall 
+model 
+P for 
+overall 
+model 
+R2 (%) 
+F-value 
+for 
+location 
+type 
+P for 
+location 
+type (Type 
+III SS) 
+Other 
+significant 
+predictors 
+Significant 
+pairwise 
+differences 
+Mean diurnal 
+temperature (°C) 
+12.2 
+<0.001 
+47.3 
+5.1 
+0.008 
+Habitat, 
+Canopy 
+closure  
+NU>NS, 
+Mix>Nat, 
+(<25)>(25–
+75)>(>75) 
+Mean maximum 
+diurnal temperature 
+(°C) 
+9.0 
+<0.001 
+40.0 
+5.1 
+0.008 
+Canopy 
+closure 
+NU>NS, 
+(<25)>(25–
+75)>(>75) 
+Mean diurnal relative 
+humidity (%) 
+10.2 
+<0.001 
+43.0 
+6.7 
+0.002 
+Study area, 
+Habitat 
+NS>NU,  
+WT>NU, 
+MW>MM, 
+TM>MM, 
+MW>PA, 
+TM>PA, 
+Nat>Mix 
+Mean nocturnal 
+temperature (°C) 
+4.1 
+<0.001 
+23.3 
+1.1 
+0.354 
+Study area 
+PA>MM, 
+TM>MM 
+Mean minimum 
+nocturnal 
+temperature (°C) 
+4.9 
+<0.001 
+26.3 
+1.7 
+0.188 
+Study area 
+TM>MM, 
+TM>MW, 
+TM>PA 
+Mean nocturnal 
+relative humidity (%) 
+17.9 
+<0.001 
+57.0 
+0.7 
+0.484 
+Study area, 
+Habitat 
+MM>PA, 
+MW>PA, 
+TM>PA, 
+Mix>Nat, 
+Tam>Mix 
+Mean daily 
+temperature range 
+(°C) 
+12.2 
+<0.001 
+47.4 
+7.5 
+<0.001 
+Study area, 
+Canopy 
+closure 
+NU>NS, 
+NU>WT, 
+MM>PA, 
+MM>TM, 
+MW>TM, 
+(<25)>(25–
+75), (<25)> 
+(>75) 
+ 
+ 
+111 
+Table 7.12.  Single effects (with significant interaction terms) multiple ANOVA for location type testing 
+of predictor variables by response variable for Southwestern Willow Flycatcher microclimate data along 
+the Virgin and lower Colorado Rivers, June–August 2003.  Canopy closure categories=percentages. 
+Response variables 
+F-value 
+for overall 
+model 
+P for 
+overall 
+model 
+R2 (%) 
+F-value 
+for 
+location 
+type 
+P for 
+location 
+type (Type 
+III SS) 
+Other 
+significant 
+predictors in 
+reduced model 
+Significant 
+pairwise 
+differences 
+Mean diurnal 
+temperature (°C) 
+10.6 
+<0.001 
+51.6 
+3.7 
+0.028 
+Study area, 
+Canopy closure, 
+Habitat * Study 
+area 
+MM>PA, 
+MW>PA 
+Mean maximum 
+diurnal temperature 
+(°C) 
+9.0 
+<0.001 
+40.0 
+5.1 
+0.008 
+Canopy closure 
+NU>NS, 
+(<25)>(25–
+75), (<25)> 
+(>75) 
+Mean diurnal relative 
+humidity (%) 
+8.9 
+<0.001 
+47.2 
+2.7 
+0.070 
+Study area, 
+Habitat, Habitat 
+* Canopy 
+closure 
+MW>MM, 
+TM>MM, 
+MW>PA, 
+TM>PA, 
+Nat>Mix, 
+Tam>Mix 
+Mean nocturnal 
+temperature (°C) 
+4.1 
+<0.001 
+23.3 
+1.1 
+0.354 
+Study area 
+TM>MM, 
+PA>MM 
+Mean minimum 
+nocturnal 
+temperature (°C) 
+4.9 
+<0.001 
+26.3 
+1.7 
+0.188 
+Study area 
+TM>MM, 
+TM>MW, 
+TM>PA 
+Mean nocturnal 
+relative humidity (%) 
+8.0 
+<0.001 
+71.1 
+1.6 
+0.210 
+Study area, 
+Habitat, Type * 
+Study area * 
+Canopy closure 
+-- 
+Mean daily 
+temperature range 
+(°C) 
+5.9 
+<0.001 
+59.2 
+0.0 
+0.972 
+Canopy closure, 
+Study area * 
+Canopy closure 
+-- 
+ 
+112 
+Table 7.13.  Single effects (with significant interaction terms) multiple ANOVA for location type testing 
+of predictor variables by response variable for Southwestern Willow Flycatcher microclimate data along 
+the Virgin and lower Colorado Rivers, June–August 2003.  Canopy closure categories=percentages.   
+The Mesquite study area was not included in this analysis. 
+Response variables 
+F-value 
+for 
+overall 
+model 
+P for 
+overall 
+model 
+R2 (%) 
+F-value 
+for 
+location 
+type 
+P for 
+location 
+type (Type 
+III SS) 
+Other 
+significant 
+predictors in 
+reduced model 
+Significant 
+pairwise 
+differences 
+Mean diurnal 
+temperature (°C) 
+10.7 
+<0.001 
+60.8 
+0.5 
+0.624 
+Habitat, Canopy 
+closure, Habitat 
+* Study area 
+MM>PA 
+Mean maximum 
+diurnal temperature 
+(°C) 
+7.9 
+<0.001 
+47.1 
+0.2 
+0.847 
+Study area, 
+Canopy closure 
+MM>TM, 
+(<25)>(25–
+75),(>25)> 
+(>75) 
+Mean diurnal relative 
+humidity (%) 
+12.1 
+<0.001 
+66.3 
+0.9 
+0.408 
+Study area, 
+Habitat, Canopy 
+closure, Habitat 
+* Canopy 
+closure 
+TM>MW> 
+PA>MM, 
+Nat>Mix, 
+Tam>Mix, 
+(>75)>(25–
+75) 
+Mean nocturnal 
+temperature (°C) 
+4.1 
+<0.001 
+23.3 
+1.1 
+0.354 
+Study area 
+TM>MM, 
+PA>MM 
+Mean minimum 
+nocturnal 
+temperature (°C) 
+4.9 
+<0.001 
+35.6 
+0.4 
+0.689 
+Study area 
+TM>MM, 
+TM>PA 
+Mean nocturnal 
+relative humidity (%) 
+12.9 
+<0.001 
+83.3 
+2.7 
+0.078 
+Study area, 
+Habitat, Habitat 
+* Canopy 
+closure 
+-- 
+Mean daily 
+temperature range 
+(°C) 
+6.5 
+<0.001 
+68.8 
+1.0 
+0.391 
+Habitat, Canopy 
+closure, Study 
+area * Canopy 
+closure 
+-- 
+ 
+ 
+113 
+Table 7.14.  Single effects (with significant interaction terms) multiple ANOVA for location 
+type testing of predictor variables by response variable for Southwestern Willow Flycatcher 
+microclimate data along the Virgin and lower Colorado Rivers, June–August 2003.  Canopy 
+closure categories=percentages.  This analysis did not include NU location type, but did include 
+all study areas. 
+Response variables 
+F-value 
+for 
+overall 
+model 
+P for 
+overall 
+model 
+R2 (%) 
+F-value 
+for 
+location 
+type 
+P for 
+location 
+type (Type 
+III SS) 
+Other 
+significant 
+predictors in 
+full analysis 
+Significant 
+predictors 
+in reduced 
+analysis 
+Mean diurnal 
+temperature (°C) 
+11.5 
+<0.001 
+57.3 
+3.7 
+0.060 
+Habitat, Study 
+area * Habitat 
+-- 
+Mean maximum 
+diurnal temperature 
+(°C) 
+6.8 
+<0.001 
+39.1 
+5.9 
+0.017 
+Study area, 
+Habitat 
+MM>TM, 
+Mix>Nat, 
+Tam>Nat 
+Mean diurnal relative 
+humidity (%) 
+7.3 
+<0.001 
+46.7 
+2.4 
+0.127 
+Study area, 
+Habitat, Habitat 
+* Canopy 
+closure 
+MW>MM, 
+TM>MM, 
+MW>PA, 
+TM>PA, 
+Nat>Mix 
+Mean nocturnal 
+temperature (°C) 
+3.6 
+0.001 
+25.1 
+0.0 
+0.951 
+-- 
+-- 
+Mean minimum 
+nocturnal 
+temperature (°C) 
+5.5 
+<0.001 
+34.1 
+0.9 
+0.335 
+Study area 
+TM>MM, 
+TM>MW, 
+TM>PA 
+Mean nocturnal 
+relative humidity (%) 
+8.0 
+<0.001 
+68.8 
+1.4 
+0.236 
+Study area, 
+Habitat, Habitat 
+* Canopy 
+closure 
+-- 
+Mean daily 
+temperature range 
+(°C) 
+4.7 
+<0.001 
+52.9 
+0.1 
+0.771 
+Habitat, Canopy 
+closure 
+-- 
+ 
+ 
+DISCUSSION 
+ 
+SEASONAL VARIATION 
+ 
+The finding that desertscrub habitat was substantially hotter and drier than riparian habitat was 
+consistent with what would be expected, although it was useful to document the difference for 
+comparative purposes.   
+ 
+DATA COLLECTION AFTER NESTS WERE VACATED 
+ 
+Results from the SV sensor arrays validated our method of initiating data collection immediately 
+after nests were vacated to minimize human disturbance.  Only two sets of consecutive weeks 
+outside of the peak of flycatcher nesting season were found to be significantly different in mean 
+114 
+diurnal temperature.  However, future studies should revisit this approach to data collection for 
+additional validation. 
+ 
+LOCATION TYPES:  DESCRIPTIVE STATISTICS AND SINGLE EFFECTS ANALYSIS 
+ 
+Three of the four study areas showed a significant difference in percent canopy closure between 
+location types, with the NU sites primarily responsible for the difference. This was because  
+NU sites had a significantly greater proportion of sites with less than 25% canopy closure as 
+compared to NS sites.  This suggests habitat with greater canopy closure was much less available 
+in the 50–200 m ring (potential NU sites) around nests.  This finding is consistent with the 
+vegetation analyses presented in the previous chapter and concurs with results reported by other 
+investigators (Sogge and Marshall 2000, Allison et al. 2003) showing that flycatchers may prefer 
+habitat with dense vegetation that provides a more favorable microclimate.   
+ 
+Diurnal conditions at NS sites were generally cooler and more humid than NU sites, while  
+NU sites tended to be hotter and drier and exhibited lower minimum nocturnal temperatures than 
+NS and WT sites.  This difference between NU sites versus NS and WT sites was because many 
+NU sites had canopy closure <25% but no NS or WT sites did.  Greater canopy closure tends to 
+moderate microclimate by shading the habitat from short-wave solar radiation during midday, 
+conserving long-wave radiation that would otherwise dissipate into the atmosphere at night, and 
+helping to conserve humidity. 
+ 
+Consultation with the engineers at Onset Computers indicated that incomplete contact between 
+the SM probe and the dense, riparian clay soils may have caused the wide variance in mean SM 
+values, which caused us to drop SM from the multiple ANOVA analyses.  In subsequent years 
+other methods will be evaluated to better quantify percent SM in order to include SM as a 
+variable in the final microclimate analyses. 
+ 
+INDIVIDUAL EFFECT OF PREDICTOR VALUES 
+ 
+The four life history study areas differed significantly for all response variables.  The differences 
+between Topock (hotter and most humid) and Pahranagat (coolest and least humid) were likely 
+due to their contrasting geographic settings.  The Topock study area lies farthest south, is lowest 
+in elevation, and is surrounded by an extensive complex of inundated wetlands.  Pahranagat is 
+located farthest north, is highest in elevation, and is surrounded by comparatively small wetlands 
+and a relatively deep lake.  Extreme differences in habitat type between the two areas may also 
+affect local microclimate.  Topock comprises of very dense, monotypic tamarisk of relatively 
+low stature, while Pahranagat consists of native riparian forest exhibiting the highest mean 
+canopy height of all the study areas (see previous chapter). 
+ 
+Percent canopy closure differed significantly for mean diurnal temperature, maximum diurnal 
+temperature, nocturnal relative humidity, and daily temperature range.  Sites with greater than 
+75% canopy closure were responsible for most of the difference because they exhibited the 
+lowest diurnal temperatures, the highest nocturnal relative humidity, and the lowest mean daily 
+temperature range.  As discussed above, greater canopy closure moderates overall temperature 
+fluctuations. 
+115 
+MULTIPLE ANOVA 
+ 
+In summary, our findings indicate that Southwestern Willow Flycatchers prefer habitats 
+exhibiting the lowest mean maximum diurnal temperatures for nest placement (i.e., the coolest 
+locales).  To a lesser extent, flycatchers also selected microclimates within their territories 
+exhibiting the lowest mean diurnal temperature for nest placement (i.e., locales with the most 
+thermally moderate microclimate).  NU sites tended to exhibit less canopy closure, were hotter 
+and drier during daytime, and had a greater mean daily temperature range (i.e., were less 
+thermally stable) than either nest (NS) or territory (WT) locales.  These characteristics may have 
+been partially responsible for the absence of nesting flycatchers in adjacent NU habitat because 
+pairs attempting to nest there may have to expend more energy on thermoregulation for 
+themselves and for their nest contents, an expenditure that would theoretically reduce fitness. 
+ 
+COMPARISON WITH OTHER FINDINGS 
+ 
+Allison et al. (2003) reported that habitat within Southwestern Willow Flycatcher nesting 
+territories exhibited greater canopy closure than non-nesting plots in Arizona, a relationship they 
+suggested might provide a more favorable (i.e., more moderate) microclimate at nests.   
+Our finding that NS and WT sites had greater canopy closure than NU sites was consistent with 
+Allison et al. (2003).  Our vegetation findings (see previous chapter) parallel this, in that canopy 
+closure was greater at NS than NU sites.   
+ 
+At the four life history study areas, McKernan and Braden (2001a, 2001b) reported that mean 
+daily temperature range (they used the term “variation in temperature”) was significantly greater 
+at NU sites than either NS or WT sites, but that NS and WT sites were similar.  However, their 
+difference between NU and NS sites was small, which was apparently the reason they discounted 
+the difference as biologically insignificant and reported the following:  “Selection of nest sites or 
+territories by the…flycatcher was not found to be affected by specific requirements in 
+temperature, relative humidity, or stability in these microclimate variables.  Therefore, the 
+microclimate variables are unlikely to limit habitat suitability for the species” (McKernan and 
+Braden 2001b:78).  They also reported that “…microclimate variables between native and non-
+native habitat types, under the same hydrological conditions, do not limit habitat suitability for 
+the …flycatcher” (McKernan and Braden 1999:58, McKernan and Braden 2001b:81). 
+ 
+Our single effects analysis indicated a significantly greater mean daily temperature range at  
+NU compared to NS sites (similar to that of McKernan and Braden 2001b), although we also 
+detected greater mean daily temperature range at WT than at NS sites.  However, after adjusting 
+for study area, habitat, and canopy closure, and after significant interaction terms were included 
+in our final multiple ANOVA analysis, mean maximum diurnal temperature was the only 
+response variable that significantly predicted location type.   
+ 
+In addition, we suggest the differences among our mean maximum diurnal temperatures at the 
+three location types, although small, appear to be biologically meaningful since they paralleled 
+significant vegetative differences identified in the previous chapter and reported by Allison et al. 
+(2003).  Therefore, we propose that microclimate (in a complex interaction with habitat type, 
+vegetative structure, and perhaps other factors) appears likely to limit nesting habitat suitability.  
+116 
+This key difference between our findings and those of McKernan and Braden (2001b) should be 
+interpreted with caution as we were unable to replicate their field methods, and we used a 
+different approach to statistical analysis.  Additional microclimate data collected in subsequent 
+years will show whether the patterns observed in 2003 are consistent across years and will help 
+clarify whether suitable nesting habitat for willow flycatchers is limited by microclimate.   
+ 

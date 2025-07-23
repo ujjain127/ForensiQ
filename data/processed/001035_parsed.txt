@@ -1,0 +1,1539 @@
+Report Template Update  = 04-30-05_rev.12  
+Department of Health and Human Services 
+OFFICE OF  
+INSPECTOR GENERAL  
+GENERIC DRUG UTILIZATION IN  
+STATE MEDICAID PROGRAMS 
+Daniel R. Levinson 
+Inspector General  
+July 2006 
+OEI-05-05-00360 
+Report Template Update  = 04-30-05_rev.12  
+Office of Inspector General  
+http://oig.hhs.gov 
+The mission of the Office of Inspector General (OIG), as mandated by Public Law 95-452, 
+as amended, is to protect the integrity of the Department of Health and Human Services 
+(HHS) programs, as well as the health and welfare of beneficiaries served by those 
+programs.  This statutory mission is carried out through a nationwide network of audits, 
+investigations, and inspections conducted by the following operating components: 
+Office of Audit Services 
+The Office of Audit Services (OAS) provides all auditing services for HHS, either by 
+conducting audits with its own audit resources or by overseeing audit work done by others. 
+Audits examine the performance of HHS programs and/or its grantees and contractors 
+in carrying out their respective responsibilities and are intended to provide independent 
+assessments of HHS programs and operations.  These assessments help reduce waste, 
+abuse, and mismanagement and promote economy and efficiency throughout HHS. 
+Office of Evaluation and Inspections 
+The Office of Evaluation and Inspections (OEI) conducts national evaluations to provide 
+HHS, Congress, and the public with timely, useful, and reliable information on 
+significant issues.  Specifically, these evaluations focus on preventing fraud, waste, or 
+abuse and promoting economy, efficiency, and effectiveness in departmental programs.  
+To promote impact, the reports also present practical recommendations for improving 
+program operations. 
+Office of Investigations 
+The Office of Investigations (OI) conducts criminal, civil, and administrative 
+investigations of allegations of wrongdoing in HHS programs or to HHS beneficiaries 
+and of unjust enrichment by providers.  The investigative efforts of OI lead to criminal 
+convictions, administrative sanctions, or civil monetary penalties. 
+Office of Counsel to the Inspector General 
+The Office of Counsel to the Inspector General (OCIG) provides general legal services to 
+OIG, rendering advice and opinions on HHS programs and operations and providing all 
+legal support in OIG's internal operations. OCIG imposes program exclusions and civil 
+monetary penalties on health care providers and litigates those actions within HHS. 
+OCIG also represents OIG in the global settlement of cases arising under the Civil False 
+Claims Act, develops and monitors corporate integrity agreements, develops compliance 
+program guidances, renders advisory opinions on OIG sanctions to the health care 
+community, and issues fraud alerts and other industry guidance. 
+Δ E
+X
+E
+C
+U
+T
+I
+V
+E
+ 
+S
+U
+M
+M
+A
+R Y
+ 
+ 
+OBJECTIVE 
+To determine the extent of generic drug utilization in State Medicaid 
+programs during 2004. 
+BACKGROUND 
+Medicaid is a jointly funded Federal and State health insurance 
+program for certain low income and medically needy persons. 
+Prescription drug costs are one of the largest and fastest growing 
+Medicaid expenditures, totaling more than $34 billion in fiscal     
+year 2003. 
+Rising Medicaid costs have bolstered Federal support for using generic 
+drugs to contain Medicaid prescription drug expenditures.  A generic 
+drug is chemically identical to its brand name counterpart, with the 
+same therapeutic effect and the same risk-benefit profile.   Generic 
+drugs are, on average, 63 percent less expensive than brand name 
+drugs. 
+The Centers for Medicare & Medicaid Services (CMS) has encouraged 
+generic drug substitution (i.e., substituting a generic drug for its brand 
+name equivalent) as a safe and effective way for States to increase 
+generic drug utilization and reduce costs.  Many States have 
+implemented policies to encourage generic substitution in their State 
+Medicaid programs.   
+Generic substitution is not possible when a provider prescribes a single 
+source drug (i.e., a drug that has no generic equivalent).  While single 
+source drugs are the only available treatment for some conditions, other 
+conditions are treatable with a number of drugs, some of which have 
+generic equivalents and some of which do not.  Some States and private 
+insurers encourage health care providers to prescribe drugs with generic 
+equivalents rather than single source drugs, which tend to be newer and 
+more expensive.  
+The overall level of generic drug utilization is determined both by the 
+frequency of generic substitution at the pharmacy counter and by 
+physician prescribing patterns.  Therefore, in addition to assessing 
+overall generic drug utilization (i.e., the percentage of all prescriptions 
+that were generics), this study calculated the following indicators that 
+contributed to overall generic utilization: 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+i 
+E
+X
+E
+C
+U
+T
+I
+V
+E
+ 
+S
+U
+M
+M
+A
+R
+Y
+ 
+1.  Generic substitution rate: the percentage of all prescriptions for 
+multisource drugs (i.e., drugs that have a generic substitute) that 
+were dispensed as generics. 
+2.  Single source prescribing rate: the percentage of all prescriptions 
+that were written for single source drugs (i.e., drugs that have no 
+generic version). 
+FINDINGS 
+On average, generics were dispensed 89 percent of the time when 
+generic substitutes were available. The “generic substitution rate” 
+measures how often generics are dispensed when generic substitutes 
+are available. Across all States, both the median and the average 
+generic substitution rates were 89 percent. Twenty-three States had 
+generic substitution rates at or above 90 percent. This compares 
+favorably with a 90 percent private sector benchmark. 
+Overall, generic substitution rates were similar across States. However, 
+States showed substantial variation in their generic substitution rates 
+within certain therapeutic classes (i.e., groups of drugs that treat the 
+same medical condition). For example, the generic substitution rate for 
+anticoagulant drugs (blood thinners) ranged from 27 percent in one 
+State to 100 percent in another. 
+On average, 41 percent of prescriptions were written for drugs that 
+have no generic substitutes.  Single source drugs have no generic 
+substitutes.  Therefore, the proportion of prescriptions that are written 
+for them (i.e., the single source prescribing rate) limits States’ 
+opportunities for generic drug utilization. 
+On average, single source drugs comprised 41 percent of all prescriptions 
+filled. Thus, for this 41 percent of prescriptions, there was no opportunity 
+to dispense a generic drug. Across State Medicaid programs, the single 
+source prescribing rate ranged from 34 percent to 50 percent. 
+On average, 54 percent of all drugs dispensed were generics.  The 
+“generic utilization rate” is the percentage of all prescriptions dispensed 
+that were generics. Across all States, both the median and the average 
+generic utilization rates were 54 percent. By State, generic utilization 
+rates varied from 44 percent to 61 percent. To place these rates in 
+context, trade publications report 2004 generic utilization rates of 
+approximately 48 percent to 52 percent for many private pharmacy benefit 
+organizations and health plans. 
+O EI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+ii 
+E
+X
+E
+C
+U
+T
+I
+V
+E
+ 
+S
+U
+M
+M
+A
+R
+Y
+ 
+Variation in generic utilization was primarily explained by variation in 
+single source prescribing. Generic drug utilization is affected both by 
+generic drug substitution and by physician prescribing patterns. 
+However, because generic substitution was both high and consistent 
+across States, single source prescribing was the primary explanation for 
+differences in generic drug utilization overall. Generic utilization was 
+highest in States where single source prescribing was lowest. 
+CONCLUSION 
+We found that overall, State Medicaid programs demonstrated high 
+generic drug utilization in 2004. On average, 54 percent of all 
+prescriptions dispensed were generics, a figure that compares favorably 
+to rates reported in the private sector. 
+On average, generics were dispensed 89 percent of the time when 
+generic substitutes were available. The high levels of generic 
+substitution that we found for many Medicaid programs suggest that 
+many States may have already achieved most of the growth in generic 
+utilization possible through increasing generic substitution. However, 
+certain therapeutic classes show substantial variation in States’ generic 
+substitution rates, and thus, greater potential for gains in States with 
+lower rates in these classes. 
+To achieve significant increases in generic drug utilization, it is 
+important to recognize that single source drug prescribing caps the level 
+of generic drug utilization that a State Medicaid program can attain. 
+States may realize greater gains by encouraging the prescribing of 
+multisource drugs, which have generic equivalents, through counter-
+detailing, step therapy requirements, or other means. However, such 
+efforts must be undertaken with caution to ensure that patients 
+maintain access to appropriate treatment. 
+In light of these findings, we suggest that CMS consider the following: 
+o  For States seeking to further increase generic substitution, CMS 
+could assist States in identifying and targeting their efforts to 
+promote generics in therapeutic classes wherein their State rate is 
+substantially lower than other States and opportunities for gains 
+are greatest. 
+o  For States seeking more substantial gains in generic utilization, 
+CMS could offer information and technical assistance in shifting 
+utilization from single source to multisource drugs in a clinically 
+O EI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+iii 
+E
+X
+E
+C
+U
+T
+I
+V
+E
+ 
+S
+U
+M
+M
+A
+R
+Y
+ 
+responsible manner.  In particular, CMS has developed expertise in 
+the therapeutic interchangeability of drugs through Medicare’s 
+oversight of Part D formularies.  Such expertise would be a valuable 
+resource for States that desire assistance in developing policies to 
+influence prescribing patterns while ensuring that beneficiaries 
+maintain access to appropriate treatment. 
+AGENCY COMMENTS 
+In its comments, CMS indicated that it strongly encourages the 
+dispensing of generic drugs. As OIG noted in our report, drug 
+manufacturer rebates may occasionally provide States with better 
+prices on some brand name drugs than on generics. CMS suggested 
+that this could account for lower generic utilization rates for certain 
+therapeutic classes in some States.  In response to our suggestions, 
+CMS stated that it will share this report with States and encourage 
+State Medicaid agencies to review their generic drug use by therapeutic 
+class. Finally, CMS indicated its willingness to share its expertise on 
+therapeutic interchangeability with States but noted that States also 
+have other qualified sources of this information. 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+iv 
+i 
+Δ T A
+B
+L
+E
+ 
+O
+F
+ 
+C
+O
+N
+T
+E
+N
+T
+S
+ 
+ 
+E X E C U T I V E  S U M M A R Y  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+I N T R O D U C T I O N  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1  
+F I N D I N G S  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7  
+Generics dispensed in 89 percent of cases where  
+   a generic exists  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7  
+Single source drugs comprised 41 percent of prescriptions. . . . . . .  8  
+Of all drugs dispensed, 54 percent were generics  . . . . . . . . . . . . . .  9  
+C O N C L U S I O N  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11  
+ 
+Agency Comments  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12  
+E N D N O T E S  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13  
+A P P E N D I X E S  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17  
+A:    Key Terms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17  
+B:  Generic Drug Utilization Indicators by State. . . . . . . . . . . . . .  19  
+C:  Analysis of the Impact on Medicaid Generic Drug Utilization   
+ of Dual Eligibles’ 2006 Shift to Medicare . . . . . . . . . . . . . . . . .  21  
+D:    Agency Comments. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  22  
+A C K N O W L E D G M E N T S  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  23  
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+Δ I
+N
+T
+R
+O
+D
+U
+C
+T
+I
+O
+N
+ 
+ 
+OBJECTIVE 
+To determine the extent of generic drug utilization in State Medicaid 
+programs during 2004. 
+BACKGROUND 
+Medicaid Prescription Drug Coverage 
+Medicaid is a jointly funded Federal and State health insurance 
+program for certain low-income and medically needy persons. 
+Individual States establish eligibility requirements, benefit packages, 
+and payment rates for their Medicaid programs under broad Federal 
+standards administered by the Centers for Medicare & Medicaid 
+Services (CMS). Medicaid requires that States provide basic services to 
+beneficiaries to receive Federal matching funds.  States may also receive 
+Federal funding if they provide other optional services. 
+All State Medicaid programs have elected to include prescription drug 
+coverage. States are constrained by Federal law and regulation from 
+implementing certain drug cost containment tools that are available to 
+private health plans. Most significantly, Medicaid must cover all drugs, 
+brand and generic, whose manufacturers have entered into Medicaid 
+Rebate Agreements (with a few specific exceptions).1 
+Medicaid Prescription Drug Expenditures 
+Prescription drug coverage is one of the largest and fastest growing 
+Medicaid expenditures.  In fiscal year 2003, Medicaid spent more than 
+$34 billion on prescription drugs.2  Medicaid prescription drug costs 
+doubled between 1998 and 2002, rising from less than 8 percent to over 
+11 percent of the total Medicaid budget.3  From 2000 to 2002 alone, 
+prescription drug expenditures in fee-for-service Medicaid programs 
+grew faster than expenditures in any other Medicaid service category, 
+averaging an 18.8 percent increase per year.4  As a result of rising costs, 
+States currently devote over one-fifth of their budgets to Medicaid 
+spending.5 
+Approximately 6 million beneficiaries are eligible for both Medicaid and 
+Medicare (dual eligibles).6  This population represents about 15 percent 
+of all Medicaid beneficiaries.7  On January 1, 2006, prescription drug 
+coverage for these beneficiaries transferred from Medicaid to Medicare.8 
+This shift may affect Medicaid drug utilization patterns and 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+1 
+I
+N
+T
+R
+O
+D
+U
+C
+T
+I
+O
+N
+ 
+expenditures, given dual eligibles’ extensive utilization of prescription 
+drugs. However, Medicaid will continue to be responsible for 45 million 
+nondually eligible beneficiaries. 
+Generic Drugs 
+A generic drug is chemically identical to its brand name counterpart, 
+with the same therapeutic effect and the same risk-benefit profile.  To 
+be approved by the Food and Drug Administration (FDA), a generic 
+drug must contain the same amount(s) of the same active ingredient(s) 
+as the brand name product.9   (For a detailed definition of this and other 
+key terms, please see Appendix A.)  The generic drug must also be the 
+same strength, be available in the same dosage, have the same route of 
+administration, and have essentially the same labeling as the brand 
+name drug. Generic drug manufacturing and packaging facilities are 
+held to the same safety and quality standards as those of brand name 
+drugs. 
+Potential Savings from Increasing Generic Drug Utilization 
+Generic drugs are much less expensive than brand name drugs.  In 
+2003, the average brand name prescription cost $83.66, while the 
+average generic prescription cost $30.58, a 63 percent difference.10 
+Rising Medicaid costs have bolstered Federal support for using generic 
+drugs to contain Medicaid prescription drug expenditures.11  During 
+congressional hearings on Medicaid prescription drug reimbursement 
+held in December 2004, the Chairman of the Committee on Energy and 
+Commerce stated that “. . . generic drugs have a critical role to play in 
+containing soaring drug costs.”12  Congress has also indicated its 
+interest in using generic drugs to control costs; the Medicare 
+Prescription Drug, Improvement, and Modernization Act of 2003 
+includes provisions to promote generics in the new Medicare 
+prescription drug benefit. 
+Pursuant to Federal law and regulation, States retain some flexibility in 
+containing Medicaid drug costs through encouraging a shift from brand 
+name to generic drug utilization.  States can achieve this shift by 
+encouraging pharmacies to dispense generics when possible and by 
+encouraging doctors to prescribe multisource drugs (i.e., drugs with 
+generic equivalents) when clinically indicated.  
+Forty-one State Medicaid programs have “mandatory generic 
+substitution” policies, which require that generic drugs be dispensed 
+whenever a generic version of the drug is available.13  However, many 
+States allow physicians to override mandatory generic substitution by 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+2 
+I
+N
+T
+R
+O
+D
+U
+C
+T
+I
+O
+N
+ 
+indicating “Dispense as Written” and/or “Brand Medically Necessary” on 
+the prescription. A few States require physicians or pharmacists to take 
+additional steps to override the substitution, such as obtaining prior 
+authorization from the Medicaid program and/or citing a specific 
+medical necessity for the brand (such as allergy to an inactive 
+ingredient in the generic) before the brand name drug can be dispensed. 
+Some State Medicaid programs have taken other measures to encourage 
+generic drug utilization. These include placing generics on the 
+preferred drug list, setting higher copayments for brand name drugs, 
+paying higher pharmacy dispensing fees for generic drugs, requiring 
+beneficiaries to try a generic drug for their condition before covering a 
+brand name drug (“step therapy”), and educating health care providers 
+about use of generic drugs (“counter-detailing”).14 
+Generic Drug Substitution 
+“Generic substitution” means dispensing a generic drug instead of its 
+brand name equivalent. Generic substitution is only possible when a 
+health care provider prescribes a multisource drug (i.e., a drug with a 
+generic equivalent). Generic substitution occurs when a physician 
+prescribes the generic version of a multisource drug rather than its 
+brand name equivalent, or when a pharmacist is presented with a 
+prescription for a multisource brand name drug and dispenses the 
+generic version instead.15 
+Theoretically, States should be able to achieve high generic substitution 
+rates, because generic drugs are chemically and therapeutically 
+equivalent to their brand name counterparts. There are situations in 
+which generic substitution is not possible, but these circumstances are 
+rare.  For example, a small percentage of patients may medically 
+require the brand name version of a drug if they are allergic to an 
+inactive ingredient such as a dye or binder found in the generic version. 
+Additionally, disruptions in the supply chain may mean that a 
+pharmacy occasionally does not have the generic version of a drug in 
+stock and must dispense the brand name.16  Despite these potential 
+barriers, generic substitution rates above 90 percent have been reported 
+by private health plans.17 
+Generic substitution is an attractive option for cost containment, 
+because it can save money without adversely affecting beneficiaries’ 
+health. CMS encourages generic substitution as a safe and effective 
+strategy by which States may lower Medicaid drug costs, noting the 
+90 percent substitution rates achieved in some private health plans.18 
+O EI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+3 
+I
+N
+T
+R
+O
+D
+U
+C
+T
+I
+O
+N
+ 
+While generic substitution generally achieves savings, it may not save 
+money in all circumstances.  Medicaid’s net drug payments are based on 
+reimbursement to pharmacies, minus rebates from drug manufacturers. 
+Shifting from brand name to generic drugs will almost always lower 
+Medicaid reimbursements because generic drugs are generally much 
+less expensive than brand name drugs.  However, States usually receive 
+higher Medicaid rebates for brand name drugs than for generic drugs. 
+In some cases, it is possible that the higher Medicaid rebate could lead 
+to a lower net payment for a brand name drug than for its generic 
+equivalent. 
+Single Source Drug Prescribing   
+The rate at which single source drugs (i.e., drugs with no generic 
+equivalents) are prescribed in a State depends on a number of factors. 
+These include prescriber habits, patient demand for newer or highly 
+advertised drugs, and therapeutic advances associated with newer 
+drugs. For some conditions, single source drugs are the only available 
+treatment. However, other conditions are treatable with a number of 
+different drugs, some of which have generic equivalents and some of 
+which do not.  For some patients, only one prescription drug option is 
+appropriate, but for other patients, a variety of drugs may work equally 
+well. In those instances, some States and private insurers encourage 
+health care providers to prescribe drugs with generic equivalents rather 
+than single source drugs, which tend to be newer and more expensive.  
+SCOPE AND METHODOLOGY 
+Scope 
+This study focused on analyzing States’ patterns of generic drug 
+utilization rather than describing States’ policies.  Detailed information 
+on State Medicaid policies, including policies that encourage generic 
+utilization, is available from multiple sources.  Further, we did not test 
+for evidence of causal links between State policies and patterns of 
+generic drug utilization.  Generic drug utilization is influenced by 
+numerous factors in addition to State Medicaid policies, and we had no 
+means of controlling for those factors to identify the effects of the 
+policies themselves. 
+Instead, by calculating indicators of generic utilization and 
+benchmarking States against one another, this study explored the 
+potential avenues for increasing generic drug utilization.  We did not 
+make any clinical assessments as to what rates of generic substitution, 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+4 
+I
+N
+T
+R
+O
+D
+U
+C
+T
+I
+O
+N
+ 
+single source drug prescribing, or overall generic utilization are 
+desirable or appropriate. 
+Methodology 
+In this study, we analyzed the population of national drug codes (NDC) 
+for drugs purchased by State Medicaid programs through fee-for-service 
+in 2004. To do so, we used utilization data from the Medicaid Drug 
+Rebate (MDR) program and drug product data from First DataBank. 
+The MDR data do not include utilization for drugs purchased by 
+managed care organizations or pharmacy benefit managers under 
+contract with State Medicaid agencies. The data also do not include 
+utilization for drugs purchased from entities that receive the 340B 
+discount.19  Drug utilization data were not available for the State of 
+Arizona because it did not participate in the MDR program. 
+Because the populations that use prescription drugs most heavily, as 
+well as pharmacy benefits as a whole, are frequently excluded from 
+Medicaid managed care, the fee-for-service population accounts for the 
+majority of Medicaid prescriptions.20 
+Measuring Generic Utilization 
+For each State (including the District of Columbia, herein referred to as 
+a State), we calculated the overall rate of generic drug utilization by 
+dividing the total number of generic drug prescriptions by the total of all 
+prescriptions. We also calculated the following two indicators that 
+contribute to overall utilization: 
+1.  Generic substitution rate: we divided the number of generic drug 
+prescriptions by the total of all multisource prescriptions (both 
+generic and multisource brand). We considered a drug substitutable 
+if it has an FDA A-rated generic equivalent available.21 
+2.  Single source prescribing rate:  we divided the total of all single 
+source prescriptions by the total of all prescriptions. 
+To determine whether the shift of dual eligibles from Medicaid to 
+Medicare drug coverage will likely affect Medicaid generic utilization 
+patterns, we repeated our calculation of the generic substitution rate, 
+single source prescribing rate, and generic utilization rate with dual 
+eligibles excluded from the analysis. We estimated the proportion of 
+prescriptions for each NDC that were dispensed to dual eligibles using 
+2003 Medicaid Statistical Information System data (the most recent 
+available). See Appendix C for our analysis of the impact on Medicaid 
+O EI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+5 
+I
+N
+T
+R
+O
+D
+U
+C
+T
+I
+O
+N
+ 
+generic drug utilization of the dually eligible population’s shift to 
+Medicare. 
+Comparing Patterns of Generic Utilization 
+To compare generic drug utilization among State Medicaid programs, 
+we calculated the mean, median, standard deviation, and range for each 
+indicator. 
+Standards 
+This study was conducted in accordance with “Quality Standards for 
+Inspections” issued by the President’s Council on Integrity and 
+Efficiency and the Executive Council on Integrity and Efficiency. 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+6 
+F
+I
+N
+D
+I
+N
+G
+S
+ 
+F
+I
+N
+D
+I
+N
+G
+S
+ 
+Δ F
+I
+N
+D
+I
+N
+G
+S
+ 
+On average, generics were dispensed 89 percent 
+of the time when generic substitutes were 
+available 
+The “generic substitution rate” 
+measures how often generics are 
+dispensed when generic substitutes 
+are available. CMS has encouraged 
+State Medicaid programs to increase generic substitution, noting that 
+some private health plans have achieved rates of over 90 percent.22 
+Overall, Medicaid was close to achieving this private sector benchmark 
+in 2004. Across all States, both the median and the average generic 
+substitution rates were 89 percent. Twenty-three States had generic 
+substitution rates at or above 90 percent.  Appendix B displays the 
+generic substitution rate for each State Medicaid program. 
+We found no evidence that generic substitution will change 
+substantially due to the 2006 transfer of dual eligibles from Medicaid to 
+Medicare drug coverage.  Excluding dual eligibles from the analysis 
+produced an average generic substitution rate of 88 percent for nondual 
+eligibles, just 1 percentage point lower than the overall average.  
+Appendix C provides additional analysis of the impact on Medicaid 
+generic drug utilization of the dually eligible population’s shift to 
+Medicare. 
+Generally, generic substitution rates were similar across States 
+Across States, Medicaid programs did not demonstrate substantial 
+variation in their levels of generic substitution.  The lowest State rate 
+was 83 percent, 9 percentage points below the highest State rate of 
+92 percent. However, the majority of States were clustered tightly 
+around the median substitution rate of 89 percent.  For example, 
+substitution rates for the middle 80 percent of States all fell within a    
+4 point range, from 87 percent to 91 percent.   
+However, States’ generic substitution rates varied within certain therapeutic 
+classes of drugs 
+Within certain therapeutic classes (i.e., groups of drugs that treat the 
+same medical condition), some State Medicaid programs achieved 
+substantially higher generic substitution rates than others. For 
+example, the generic substitution rate for anticoagulant drugs (blood 
+thinners) ranged from 27 percent in one State to 100 percent in another. 
+For other therapeutic classes, States demonstrated greater consistency 
+in their generic substitution rates. For example, generic substitution 
+rates for narcotic analgesics (pain relievers) ranged from 95 percent to 
+100 percent across the States.  Table 1 presents the minimum and 
+maximum generic substitution rates across States for selected 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+7 
+F
+I
+N
+D
+I
+N
+G
+S
+ 
+therapeutic classes, as well as the total 2004 Medicaid reimbursement 
+for multisource drugs in each class to provide an overview of fiscal 
+significance. 
+Table 1: Substitution Rates and Reimbursement Across State Medicaid Programs 
+for Selected Therapeutic Classes in 2004 
+Therapeutic Class 
+Minimum 
+Maximum 
+Percentage 
+Point Difference 
+Medicaid 
+Reimbursement* 
+Narcotic analgesics 
+95% 
+100% 
+5 
+$712,000,000 
+Psychostimulants-
+Antidepressants 
+61% 
+89% 
+28 
+$616,000,000 
+Anticonvulsants 
+80% 
+99% 
+19 
+$570,000,000 
+Diabetic therapy 
+63% 
+91% 
+28 
+$396,000,000 
+Antiulcer/gastrointestinal 
+preparations 
+69% 
+99% 
+30 
+$302,000,000 
+Antiarthritics 
+86% 
+100% 
+14 
+$264,000,000 
+Anticoagulants 
+27% 
+100% 
+73 
+$187,000,000 
+Bronchial dilators 
+31% 
+78% 
+47 
+$154,000,000 
+Antinauseants 
+93% 
+100% 
+7 
+$130,000,000 
+Systemic contraceptives 
+4% 
+79% 
+75 
+$98,000,000 
+*Rounded to the nearest million. Includes reimbursement only for multisource drugs in each therapeutic class. 
+Source: Office of Inspector General analysis of 2004 State Medicaid drug utilization data, 2006. 
+On average, 41 percent of prescriptions were 
+written for drugs that have no 
+generic substitutes 
+Single source drugs have no 
+generic substitutes. When a 
+single source drug is prescribed, 
+a generic drug cannot be 
+dispensed. Therefore, the proportion of prescriptions that are written 
+for single source drugs (i.e., the single source prescribing rate) limits 
+States’ opportunities to utilize generic drugs. 
+On average, single source drugs comprised 41 percent of all 
+prescriptions filled. Thus, for this 41 percent of prescriptions, there was 
+no opportunity to dispense a generic drug. 
+O EI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+8 
+F
+I
+N
+D
+I
+N
+G
+S
+ 
+Levels of single source drug prescribing varied across States 
+Across State Medicaid programs, the single source prescribing rate 
+ranged from a high of 50 percent (New Jersey) to a low of 34 percent 
+(Washington and Hawaii). Consequently, there were substantially 
+fewer opportunities to dispense generic drugs in some States than in 
+others.  Many factors may affect single source drug prescribing, 
+including patient mix, prescriber habits, advances in certain drug 
+treatments, and patient demand for newer or highly advertised drugs. 
+Appendix B provides the single source prescribing rate for each State. 
+The “generic utilization rate” is the
+On average, 54 percent of all drugs dispensed 
+percentage of all prescriptions
+were generics 
+dispensed that were generics.  Across 
+all States, both the median and the average generic utilization rates 
+were 54 percent.  To place these numbers in context, trade publications 
+report 2004 generic utilization rates of approximately 48 percent to  
+52 percent for many private pharmacy benefit organizations and health 
+plans.23 
+State Medicaid programs varied in their generic utilization.  The 
+highest State rate (61 percent) was 17 percentage points higher than 
+the lowest State rate (44 percent).  In four States, 60 percent or more of 
+all drugs dispensed were generics.  By comparison, in eight States less 
+than half of all drugs dispensed were generics.  Appendix B provides the 
+generic utilization rate for each State. 
+Variation in generic utilization was primarily explained by variation in single 
+source drug prescribing 
+Generic drug utilization is affected both by generic drug substitution 
+and by physician prescribing patterns.  However, because there was 
+little variation in generic substitution, it did not play a major role in 
+explaining differences between States in overall utilization.  For 
+example, 17 States had generic substitution rates of 90 percent.  
+However, generic utilization in those States ranged from 48 percent to 
+61 percent. 
+In contrast, the relationship between generic utilization and single 
+source prescribing was strong. Generic utilization was highest in States 
+where single source prescribing was lowest.  For example, of all     
+50 States reviewed, Washington had the highest generic utilization 
+(State rate was 61 percent) and the lowest single source prescribing   
+(34 percent). Conversely, New Jersey had both the lowest generic 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+9 
+States' 2004 Generic Utilization Rates
+F
+I
+N
+D
+I
+N
+G
+S
+ 
+utilization (State rate was 44 percent) and the highest single source 
+prescribing (50 percent). 
+Chart 1 displays 2004 generic utilization and single source prescribing 
+data from the 50 States. 
+65% 
+60% 
+States’ 
+2004 
+Generic 55% 
+Utilization 
+Rates 
+50% 
+45% 
+40% 
+Chart 1: State Medicaid Programs’ Generic Utilization Rates  
+vs. Single Source Drug Prescribing Rates in 2004 
+30% 
+35% 
+40% 
+45% 
+50% 
+55% 
+States' 2004 Single Source Prescribing Rates 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+10 
+Δ
+C
+O
+N
+C
+L
+U
+S
+I
+O
+N
+ 
+Δ C
+O
+N
+C
+L
+U
+S
+I
+O
+N
+ 
+ 
+We found that, overall, State Medicaid programs demonstrated high 
+generic drug utilization in 2004.  On average, 54 percent of all prescriptions 
+filled were generics.  To place this rate in context, trade publications 
+report 2004 generic utilization rates of 48 percent to 52 percent for 
+many private pharmacy benefit organizations and health plans.24 
+On average, generics were dispensed 89 percent of the time when 
+generic substitutes were available.  Twenty-three States had generic 
+substitution rates at or above 90 percent, comparing favorably with the 
+90 percent private sector benchmark noted by CMS.  The high levels of 
+generic substitution that we found for many Medicaid programs suggest 
+that many States may have already achieved most of the growth in 
+generic utilization possible through increasing generic substitution.  
+Still, some States, particularly those with substitution rates below the 
+median, may wish to consider taking additional measures to increase 
+generic substitution.  Certain therapeutic classes show substantial 
+variation in States’ generic substitution rates, and thus, greater 
+potential for gains in States with lower rates in those classes. 
+To achieve significant increases in generic drug utilization, it is 
+important to recognize that single source drug prescribing caps the level 
+of generic drug utilization a State Medicaid program can attain.  States 
+may realize greater gains by encouraging the prescribing of multisource 
+drugs, which have generic equivalents, through counter-detailing, step 
+therapy requirements, or other means.  However, such efforts must be 
+undertaken with caution to ensure that patients maintain access to 
+appropriate treatment. 
+In light of these findings, we suggest that CMS consider the following: 
+o 
+For States seeking to further increase generic substitution, CMS could 
+assist States in identifying and targeting their efforts to promote 
+generics in therapeutic classes wherein their State rate is 
+substantially lower than other States and opportunities for gains are 
+greatest. 
+o  For States seeking more substantial gains in generic utilization, 
+CMS could offer information and technical assistance in shifting 
+utilization from single source to multisource drugs in a clinically 
+responsible manner.  In particular, CMS has developed expertise in 
+the therapeutic interchangeability of drugs through Medicare’s 
+oversight of Part D formularies.  Such expertise would be a valuable 
+resource for States that desire assistance in developing policies to 
+influence prescribing patterns. 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+11 
+C
+O
+N
+C
+L
+U
+S
+I
+O
+N
+ 
+ 
+AGENCY COMMENTS 
+In its comments, CMS indicated that it strongly encourages the 
+dispensing of generic drugs. As OIG noted in our report, drug 
+manufacturer rebates may occasionally provide States with better 
+prices on some brand name drugs than on generics. CMS suggested 
+that this could account for lower generic utilization rates for certain 
+therapeutic classes in some States.  In response to our suggestions, 
+CMS stated that it will share this report with States and encourage 
+State Medicaid agencies to review their generic drug use by therapeutic 
+class. Finally, CMS indicated its willingness to share its expertise on 
+therapeutic interchangeability with States but noted that States also 
+have other qualified sources of this information.  
+The full text of CMS’s comments is included in Appendix D. 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+12 
+Δ E
+N
+D
+N
+O
+T
+E
+S
+ 
+ 
+1 These exceptions include:  agents when used to promote fertility; 
+agents when used for cosmetic purposes or hair growth; agents when 
+used for the symptomatic relief of cough and colds; prescription vitamins 
+and mineral products, except prenatal vitamins and fluoride 
+preparations; nonprescription drugs; barbiturates; and benzodiazepines.  
+42 U.S.C. § 1396r-8(d)(2). 
+2 Testimony of Dennis Smith, Director, Center for Medicaid and State 
+Operations, Centers for Medicare & Medicaid Services, before the House 
+Energy and Commerce Subcommittee on Oversight and Investigations, 
+December 7, 2004.  Available online at 
+new.cms.hhs.gov/apps/media/press/testimony.asp?Counter=1278. 
+Accessed January 18, 2006. 
+3 Bruen, Brian and Ghosh, Arunabh.  Kaiser Commission on Medicaid 
+and the Uninsured.  “Medicaid Prescription Drug Spending and Use,” 
+page 3. June 2004. 
+4 Ibid. 
+5 National Governor’s Association and National Association of State 
+Budget Officers.  “Fiscal Survey of States,” page 3.  June 2005. 
+6 Centers for Medicare & Medicaid Services.  “A Strategy for 
+Transitioning Dual Eligibles from Medicaid to Medicare Drug Coverage.” 
+May 2, 2005.  Available online at 
+www.cms.hhs.gov/medicarereform/strategyforduals.pdf. 
+7 Centers for Medicare & Medicaid Services.  “2003 CMS Statistics.” 
+Available online at www.cms.hhs.gov/researchers/pubs/03cmsstats.pdf. 
+8 Centers for Medicare & Medicaid Services.  “A Strategy for 
+Transitioning Dual Eligibles from Medicaid to Medicare Drug Coverage.” 
+May 2, 2005.  Available online at 
+www.cms.hhs.gov/medicarereform/strategyforduals.pdf. 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+13 
+9 Food and Drug Administration.  “What are Generic Drugs?”  
+Available online at www.fda.gov/cder/ogd/#Introduction. Accessed 
+January 18, 2006. 
+10 National Association of Chain Drug Stores.  “Issue Brief:  Retail 
+Prescription Prices for Generic Drugs.”  October 2004.  Available at 
+www.nacds.org/user-assets/pdfs/gov_affairs/issuebriefs/. 
+11 For example:  Centers for Medicare & Medicaid Services.  “Safe and 
+Effective Approaches to Lowering Prescription Drug Costs:  Best 
+Practices Among State Medicaid Drug Programs.”  September 9, 2004. 
+Also, “Medicaid Prescription Drug Reimbursement:  Why the 
+Government Pays Too Much, 2004”:  Hearing Before the Subcommittee 
+on Oversight and Investigations of the Senate Committee on Energy and 
+Commerce, 108th Congress, 2nd Session. 
+12 “Medicaid Prescription Drug Reimbursement:  Why the Government 
+Pays Too Much, 2004”:  Hearing Before the Subcommittee on Oversight 
+and Investigations of the Senate Committee on Energy and Commerce, 
+108th Congress, 2nd Session. 
+13 National Pharmaceutical Council.  Pharmaceutical Benefits Under 
+State Medical Assistance Programs, 2003. 
+14 National Pharmaceutical Council.  Pharmaceutical Benefits Under 
+State Medical Assistance Programs, 2003. 
+Crowley, Jeffrey; Ashner, Deb; Elam, Linda.  Kaiser Commission on 
+Medicaid and the Uninsured.  Medicaid Outpatient Prescription Drug 
+Benefits: Findings from a National Survey, 2003.  December 2003.    
+Page iv. 
+Centers for Medicare & Medicaid Services.  Medicaid Prescription 
+Reimbursement by State – Quarter Ending March 2005.  Available online 
+at www.cms.gov/meidcaid/drugs/pre0305.pdf. Accessed August 22, 2005. 
+15 In some States, pharmacists must inform and/or obtain the 
+consumer’s permission to make this substitution.  Additionally, such 
+substitution at the pharmacy counter may be requested by the consumer 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+14 
+in order to save money on copays, coinsurance, or out-of-pocket drug 
+costs. 
+16 Food and Drug Administration.  “Drug Shortages.”  Available online 
+at www.fda.gov/cder/drug/shortages. Accessed August 18, 2005. 
+17 Centers for Medicare & Medicaid Services.  “Safe and Effective 
+Approaches to Lowering Prescription Drug Costs:  Best Practices Among 
+State Medicaid Drug Programs.”  September 9, 2004. 
+18 Ibid. 
+19 The 340B Drug Discount Program is a Federal discount program that 
+requires pharmaceutical manufacturers to lower outpatient drug prices 
+for qualified Federal grantees including Community Health Centers and 
+Disproportionate Share Hospitals. 
+20 Centers for Medicare & Medicaid Services.  Statistical Compendium:  
+Medicaid Pharmacy Benefit Use and Reimbursement in 1999.  Exhibit 3. 
+21 Generic drugs that receive an A rating have been found by FDA to be 
+pharmaceutically and therapeutically equivalent to the brand name 
+product.  All A-rated products either have no known or suspected 
+bioequivalence problems (codes AA, AN, AO, AP, and AT), or any 
+suspected bioequivalence problems have been resolved with in vivo or in 
+vitro evidence (code AB). 
+Food and Drug Administration, The Orange Book, page xii.  Available 
+online at www.fda.gov/cder/orange/obannual.pdf. Accessed February 9, 
+2006. 
+22 Centers for Medicare & Medicaid Services.  “Safe and Effective 
+Approaches to Lowering Prescription Drug Costs:  Best Practices Among 
+State Medicaid Drug Programs.”  September 9, 2004. 
+23 Managed Care Week.  “Some Insurers Say Pharmacy Costs Could 
+Help Drive Medical Cost Growth in 2004.”  May 24, 2004.  Available 
+online at 
+www.aishealth.com/ManagedCare/GenBus/MCWSomeInsure.html. 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+15 
+PharmaCare.  “Press Release:  Advantage Health Solutions and 
+PharmaCare Partnership Results in Proven Cost Savings.”  October 13, 
+2004. Available online at www.pharmacare.com/corporate/news_info.jsp. 
+Drug Benefit News.  “Continued Increases in Generic Utilization Mean 
+Big Savings.”  October 15, 2004.  Available online at 
+www.aishealth.com/DrugCosts/DBNGeneric.html. 
+Raymond James Associates, Inc.  “CaremarkRX.”  Available online at 
+www.raymondjames.com/pdfs/company/cmx080405c_1636.pdf. 
+Samalonis, Lisa B. Drug Topics.  “Generic Drug Use Varies Widely by 
+State.” April 1, 2005.  Available online at 
+www.drugtopics.com/drugtopics/articleDetail.jsp?id=152728. 
+24 Ibid. 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+16 
+A
+P
+P
+E
+N
+D
+I
+X
+ 
+~
+ 
+A
+ 
+Δ A
+P
+P
+E
+N
+D
+I
+X
+ 
+~
+ 
+A
+ 
+ 
+KEY TERMS 
+Single source drug: A brand name drug with no generic equivalent.  
+Multisource brand drug: A brand name drug with at least one generic 
+equivalent. Medicaid’s technical term for these drugs is “innovator 
+multiple-source” drugs. 
+Generic drug: A drug that is a chemical copy of a brand name drug.  
+Medicaid’s technical term for these drugs is “non-innovator multiple-
+source” drugs.  All generic drugs are considered multisource drugs, since 
+a brand version was available first. 
+Generic utilization rate:  The percentage of all prescriptions filled that 
+were generics. 
+Generic substitution: Substituting a generic drug for its brand name 
+equivalent. 
+Generic substitution rate:  The percentage of prescriptions for all 
+multisource drugs (both multisource brand and generic) that are 
+dispensed as generics. This indicator measures how often a generic is 
+dispensed when a generic version of the prescribed drug exists.  It is 
+sometimes referred to as the generic “penetration” or “efficiency” rate. 
+Single source drug prescribing rate: The percentage of all prescriptions 
+that are written for single source drugs.  This indicator measures how 
+often providers write a prescription for a drug that has no generic 
+equivalent. 
+Therapeutic substitution: Substituting one drug for another that is 
+chemically different but treats the same medical condition. 
+Active ingredient: A substance in a drug that gives the drug its 
+pharmaceutical effect.  A multisource brand name drug and its generic 
+equivalent(s) share the same active ingredient.  
+Inactive ingredient: A substance in a drug that does not impact its 
+pharmaceutical effect, such as dyes or fillers.  A multisource brand 
+name drug and its generic equivalent(s) may have different inactive 
+ingredients. 
+Therapeutic class: A group of drugs that treat the same medical 
+condition. 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+17 
+A
+P
+P
+E
+N
+D
+I
+X
+ 
+~
+A
+ 
+National drug code (NDC): A unique numeric identifier for each drug 
+that includes information about the manufacturer, strength, dosage, 
+and package size. 
+Step therapy: A cost control mechanism that requires patients to try a 
+less expensive (often generic) drug for their condition before a more 
+expensive (often brand name) drug will be covered. 
+Counter-detailing: Educational outreach to health care providers. 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+18 
+Δ A
+P
+P
+E
+N
+D
+I
+X
+ 
+~
+ 
+B
+ 
+ 
+GENERIC DRUG UTILIZATION INDICATORS BY STATE 
+Table 2 presents the following rates for each State Medicaid program. 
+o Generic substitution rate:  the percentage of all prescriptions for 
+drugs with generic equivalents that were dispensed as generics.  
+o Single source prescribing rate:  the percentage of all prescriptions 
+that were for single source drugs, which have no generic equivalent. 
+o Generic utilization rate:  the percentage of all prescriptions filled 
+that were generics. 
+Table 2: Generic Drug Utilization in State Medicaid Programs, 2004 
+State 
+Generic  
+Substitution Rate 
+Single Source 
+Prescribing Rate 
+Generic 
+Utilization Rate 
+Alabama 
+90% 
+35% 
+61% 
+Alaska 
+85% 
+48% 
+46% 
+Arkansas 
+88% 
+44% 
+52% 
+California 
+83% 
+46% 
+50% 
+Colorado 
+89% 
+40% 
+55% 
+Connecticut 
+90% 
+46% 
+49% 
+Delaware 
+89% 
+46% 
+49% 
+District of Columbia 
+91% 
+44% 
+52% 
+Florida 
+92% 
+45% 
+51% 
+Georgia 
+89% 
+43% 
+52% 
+Hawaii 
+92% 
+34% 
+60% 
+Idaho 
+89% 
+46% 
+49% 
+Illinois 
+89% 
+36% 
+59% 
+Indiana 
+90% 
+36% 
+59% 
+Iowa 
+89% 
+39% 
+57% 
+Kansas 
+90% 
+42% 
+53% 
+Kentucky 
+90% 
+37% 
+59% 
+Louisiana 
+89% 
+43% 
+52% 
+Maine 
+84% 
+42% 
+53% 
+Maryland 
+90% 
+47% 
+48% 
+Massachusetts 
+90% 
+38% 
+58% 
+Michigan 
+90% 
+40% 
+55% 
+Minnesota 
+91% 
+39% 
+56% 
+Mississippi 
+90% 
+43% 
+52% 
+Missouri 
+90% 
+38% 
+56% 
+Source:  Office of Inspector General analysis of 2004 State Medicaid drug utilization data, 2006. 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+19 
+A
+P
+P
+E
+N
+D
+I
+X
+ 
+~
+ 
+B
+ 
+ 
+Generic Drug Utilization in State Medicaid Programs, 2004 Continued 
+State 
+Generic  
+Substitution Rate 
+Single Source 
+Prescribing Rate 
+Generic 
+Utilization Rate 
+Montana 
+88% 
+40% 
+56% 
+Nebraska 
+89% 
+36% 
+59% 
+New Hampshire 
+88% 
+39% 
+56% 
+New Jersey 
+89% 
+50% 
+44% 
+New Mexico 
+86% 
+36% 
+58% 
+New York 
+87% 
+45% 
+50% 
+Nevada 
+90% 
+41% 
+54% 
+North Carolina 
+88% 
+45% 
+49% 
+North Dakota 
+88% 
+41% 
+53% 
+Ohio 
+87% 
+42% 
+54% 
+Oklahoma 
+90% 
+37% 
+58% 
+Oregon 
+90% 
+35% 
+60% 
+Pennsylvania 
+88% 
+43% 
+51% 
+Rhode Island 
+91% 
+43% 
+52% 
+South Carolina 
+89% 
+45% 
+49% 
+South Dakota 
+88% 
+45% 
+50% 
+Tennessee 
+90% 
+39% 
+56% 
+Texas 
+90% 
+40% 
+55% 
+Utah 
+89% 
+39% 
+56% 
+Vermont 
+91% 
+43% 
+51% 
+Virginia 
+88% 
+39% 
+56% 
+Washington 
+90% 
+34% 
+61% 
+West Virginia 
+89% 
+39% 
+55% 
+Wisconsin 
+90% 
+39% 
+56% 
+Wyoming 
+87% 
+45% 
+51% 
+Source:  Office of Inspector General analysis of 2004 State Medicaid drug utilization data, 2006. 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+20 
+Δ A
+P
+P
+E
+N
+D
+I
+X
+ 
+~
+ 
+C
+ 
+ 
+ANALYSIS OF THE IMPACT ON MEDICAID GENERIC DRUG 
+UTILIZATION OF DUAL ELIGIBLES’ 2006 SHIFT TO MEDICARE 
+In 2006, dual eligibles began receiving prescription drug coverage 
+through Medicare.  Dual eligibles made up approximately 15 percent of 
+Medicaid beneficiaries in 2004, and their transfer from Medicaid to 
+Medicare will affect Medicaid’s overall prescription drug expenditures.  
+However, excluding dual eligibles from our analysis made little 
+difference in patterns of generic drug utilization. Table 3 displays 2004 
+average generic substitution, single source prescribing, and generic 
+utilization rates for all Medicaid beneficiaries and for nondually eligible 
+beneficiaries. 
+Table 3: 2004 Indicators of Generic Drug Utilization:  
+All Medicaid Beneficiaries vs. Nondually Eligible Beneficiaries 
+Generic  
+Single Source 
+Generic  
+Substitution Rate 
+Prescribing Rate 
+Utilization Rate 
+All Medicaid Beneficiaries 
+89% 
+41% 
+54% 
+Nondually Eligible Beneficiaries 
+88% 
+43% 
+53% 
+Percentage Point Difference 
+(-1) 
++2 
+(-1) 
+Source:  Office of Inspector General analysis of 2004 State Medicaid drug utilization data, 2006. 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+21 
+Δ
+A
+P
+P
+E
+N
+D
+I
+X
+ 
+~
+ 
+D
+ 
+Δ A
+P
+P
+E
+N
+D
+I
+X
+ 
+~
+ 
+D
+ 
+ 
+AGENCY COMMENTS 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+22 
+Δ A
+C
+K
+N
+O
+W
+L
+E
+D
+G
+M
+E
+N
+T
+S
+ 
+ 
+This report was prepared under the direction of Ann Maxwell, Regional 
+Inspector General for Evaluation and Inspections in the Chicago 
+regional office.  Other principal Office of Evaluation and Inspections 
+staff who contributed include: 
+Erin Lemire, Project Leader 
+Louise Schoggen, Lead Analyst 
+Mark Stiglitz, Program Analyst 
+Tom Komaniecki, Senior Program Analyst 
+Linda Boone Abbott, Program Specialist 
+Tricia Davis, Director, Medicare and Medicaid Branch 
+ 
+OEI-05-05-00360 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  S TAT E M E D I C A I D  P R O G R A M S  
+23 

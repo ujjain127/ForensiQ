@@ -1,0 +1,1190 @@
+1028
+Ecological Applications, 9(3), 1999, pp. 1028–1038
+q 1999 by the Ecological Society of America
+VISUAL AND SEMIOCHEMICAL DISRUPTION OF HOST FINDING
+IN THE SOUTHERN PINE BEETLE
+B. L. STROM,1,2,4 L. M. ROTON,1 R. A. GOYER,2 AND J. R. MEEKER3
+1USDA Forest Service, Southern Research Station, 2500 Shreveport Highway, Pineville, Louisiana 71360 USA
+2Department of Entomology, Louisiana State University Agricultural Center, Baton Rouge, Louisiana 70803 USA
+3Florida Department of Agriculture, Division of Forestry, Gainesville, Florida 32614 USA
+Abstract.
+The importance of visual silhouettes for host ﬁnding by the southern pine
+beetle (SPB), Dendroctonus frontalis (Coleoptera: Scolytidae), and the potential for dis-
+ruption of this process using visual deterrents were evaluated with multiple-funnel traps,
+painted white or black, and with clear, white, or black Plexiglas sticky panels. All traps
+and panels were baited with the SPB attractant frontalure. The effect of combined semi-
+ochemical and visual disruption was evaluated in funnel traps by including the antiaggre-
+gation pheromone verbenone, or the repellent/inhibitory host compound 4-allylanisole, in
+addition to the attractant. Visual treatments had a highly signiﬁcant effect on catch of SPB
+and the predatory clerid beetle Thanasimus dubius. In attractant-baited traps, white paint
+alone reduced the average number of SPB caught by 72% in Florida and 68% in Louisiana.
+The repellent 4-allylanisole reduced catch of SPB by 56% in Florida and 45% in Louisiana.
+Verbenone was eluted at 25% of the targeted rate and did not affect total catch in either
+place. White panels trapped 79% fewer SPB than black, and 55% fewer than clear, with
+both differences signiﬁcant. Clear panels also caught signiﬁcantly fewer (254%) SPB than
+black panels. Capture of T. dubius was reduced signiﬁcantly by clear (261%) or white
+(256%) panels compared to black but did not differ signiﬁcantly between clear and white
+panels. The percentage of female SPB captured was not signiﬁcantly changed by visual
+treatments but was, as expected, reduced by verbenone. Neither visual nor semiochemical
+treatments inﬂuenced the sex ratio of T. dubius. The potential for using visual disruptants
+for protection of trees was assessed in front of a single SPB infestation by painting trees
+either white or black to 4.5 m. White trees showed fewer landings by SPB and a reduced
+density of successful and total SPB attacks within, but not above, the painted area. These
+results show that both SPB and T. dubius can be signiﬁcantly affected by altering visual
+silhouettes, and that visual and semiochemical treatments, especially used in combination,
+may increase effectiveness of bark beetle disruption strategies.
+Key words:
+Cleridae; Dendroctonus frontalis; host selection; Thanasimus dubius; vision; visual
+behavior.
+INTRODUCTION
+Host selection by insects consists of a series of ﬁve
+steps: host-habitat ﬁnding, host ﬁnding, host recogni-
+tion, host acceptance, and host suitability (Kogan
+1994). These steps lead to acceptance or rejection of
+a resource (Kennedy 1965, Miller and Strickler 1984).
+Under appropriate conditions, individuals progressive-
+ly narrow their search, responding to environmental
+stimuli with programmed behaviors, until they locate
+a suitable host. If conditions are not appropriate the
+process is disrupted, thus ‘‘stranding’’ the insect at a
+previous step (Kogan 1994). Because insects sense en-
+vironmental variables through multiple sensory mo-
+dalities, each potentially linked to behavioral events
+associated with host selection, there are multiple op-
+portunities to disrupt insect host selection by targeting
+a variety of sensory cues. Interplay between or among
+Manuscript received 16 December 1997; revised 5 Novem-
+ber 1998; accepted 6 November 1998.
+4 E-mail: bstrom@asrr.arsusda.gov
+modalities during host selection is common, thereby
+increasing behavioral plasticity (Harris and Miller
+1982, Prokopy and Owens 1983, Miller and Strickler
+1984), further suggesting that disruption may be en-
+hanced by targeting more than one sensory cue.
+The southern pine beetle, Dendroctonus frontalis
+Zimmermann, is an aggressive, tree-killing bark beetle
+that primarily attacks standing trees (Gara et al. 1965;
+see Moser et al. 1987 for exceptions). Its host range
+includes pine species common to the southern United
+States, with loblolly pine (Pinus taeda L.) and shortleaf
+pine (Pinus echinata L.) the most frequently infested
+(Price et al. 1992). Host selection by this beetle in-
+volves a variety of sensory cues, likely including ol-
+faction, vision, mechanoreception, and gustation (Gara
+et al. 1965, Kinzer et al. 1969, Elkinton and Wood
+1980, White 1981, Raffa and Berryman 1982, Payne
+1986). Successful reproduction of SPB depends upon
+mass attack of conspeciﬁcs overwhelming host de-
+fenses and causing tree death (Raffa and Berryman
+1987). This is accomplished through pheromonally me-
+August 1999
+1029
+VISUAL DISRUPTION OF HOST FINDING
+diated aggregation and necessarily leads to multiple
+models for host selection, i.e., the majority of beetles
+ﬁnd hosts by secondary (pheromonal) signals, while
+ﬁrst-attacking, pioneer beetles (Borden 1974) use other
+means that are not fully understood at present.
+Olfactory cues are considered to be the most im-
+portant stimuli for attracting and inhibiting bark beetles
+(Wood 1982). This belief, combined with the need to
+understand and modify bark beetle behavior and de-
+velop efﬁcient trapping methods, has concentrated be-
+havioral research of scolytids on semiochemicals
+(Wood 1982, Payne and Billings 1989, Salom et al.
+1992, Hayes et al. 1994). Semiochemicals have im-
+portant effects on behavior, have been widely used to
+monitor populations, and have been effectively used at
+times to control bark beetle infestations (Borden 1993,
+1997). Because of variability of responses to semi-
+ochemicals among individual beetles (Berisford et al.
+1990), management tactics based on semiochemicals
+can vary in effectiveness (Rudinsky et al. 1974, Borden
+et al. 1986, Borden 1993, 1997, Shea 1994). In addi-
+tion, attempts to improve effectiveness of inhibitory
+semiochemicals against SPB through increasing elution
+rates or applying multiple elutants have not signiﬁ-
+cantly changed results (Hayes et al. 1994). This sug-
+gests that a better understanding of the bark beetle host
+selection process could be used to improve the effec-
+tiveness of management tactics that include behavioral
+deterrents.
+Visual orientation of bark beetles to hosts has long
+been considered an important component of their host
+selection process (Gara et al. 1965, Shepherd 1966,
+Lanier 1983, Payne and Coulson 1985, Borden et al.
+1986, Payne 1986, Turchin and Odendaal 1996). Many
+species of scolytids, including SPB, land on dark, ver-
+tical objects, and this feature often is incorporated into
+traps to increase their effectiveness (Lindgren 1983).
+Management of the SPB routinely includes cutting trees
+in front of infestations, in part to remove nearby ver-
+tical silhouettes. Gara et al. (1965) proposed three mod-
+els of SPB host selection, one of which suggests that
+when an area has aggregation pheromone present (i.e.,
+in an actively expanding infestation) vision is the most
+important orientation behavior.
+Vision has been largely ignored in studies of host
+orientation and in the development of new management
+tactics, which are usually semiochemically based. Our
+objectives were to determine whether the orientation
+of SPB to simulated hosts (i.e., traps) can be disrupted
+by altering the appearance of visual silhouettes, and,
+if so, to determine its importance relative to, and in
+conjunction with, semiochemical deterrents for tree
+protection.
+MATERIALS AND METHODS
+Semiochemical effects of paint
+According to the manufacturer, the only difference
+between the two spray paints that we used is pigmen-
+tation (S. DiSalzatore, Krylon Division of the Sherwin-
+Williams Company, 30 January 1996, personal com-
+munication), not volatile solvents or carriers. Labora-
+tory bioassays were used to examine potential repellent
+effects of each paint on walking SPB (Hayes et al.
+1994). Sticky panels made from Plexiglas that was clear
+or colored (without paint) were used to compare total
+catch when visual silhouettes were altered without
+paint. Potential alteration of elution rates (i.e., the rate
+of evaporation of the semiochemical from the lure),
+due to different temperatures of white- and black-paint-
+ed traps, was assessed by placing two traps, one white
+and one black, in two light environments: full sun and
+full shade. Light levels were measured using a cepto-
+meter (Decagon, Pullman, Washington) read in four
+cardinal directions at two times (0930, 4 September
+1996; 1230, 6 September 1996). Elution rates of fron-
+talure were measured gravimetrically on 26 August and
+17 September 1996. Six elution devices (Table 1) were
+placed on each trap.
+Funnel trap studies
+To determine the disruptive potential of visual treat-
+ments alone and in combination with semiochemicals,
+six treatments were tested simultaneously (Table 1) us-
+ing 16-unit multiple funnel traps (Phero Tech, Incor-
+porated, Delta, British Columbia, Canada). Traps were
+painted either white or black (three traps of each) with
+glossy spray paint (Krylon Division, Sherwin-Williams
+Company, Solon, Ohio). Black paint (applied over the
+black plastic) was used to control for potential semi-
+ochemical effects of the paint, as well as any potential
+differences in escape rates due to any physical alter-
+ations of the trapping surface. Each of the six traps
+contained the SPB attractant frontalure (Table 1). Ad-
+ditionally, to test the effectiveness of visual treatments
+combined with semiochemicals, one trap of each color
+also contained the antiaggregation pheromone verben-
+one or the host-produced repellent compound 4-allyl-
+anisole.
+Treated traps were randomly placed along the most
+active front of SPB infestations, at least 10 m apart and
+from unattacked trees. Traps were collected daily for
+six consecutive days and systematically rotated after
+each collection so that each treatment appeared in each
+location once (Hayes et al. 1994). Total catches of SPB
+and a major predator, Thanasimus dubius (F.) (Cole-
+optera: Cleridae), were counted from daily collections.
+Each 6-d set of collections was considered one repli-
+cate. In Florida, ﬁve sites were used to produce six
+replicates in June 1995. In July 1995, two sites in Lou-
+isiana were used for four additional replicates.
+Sticky panel studies
+To eliminate any possibility of paint volatiles af-
+fecting SPB behavior, and to include a ‘‘no silhouette’’
+treatment (i.e., clear to the human eye), an experiment
+was conducted using sticky panels (61 3 41 3 0.32
+1030
+B. L. STROM ET AL.
+Ecological Applications
+Vol. 9, No. 3
+TABLE 1.
+Description of semiochemical and visual treatments used in SPB and T. dubius trapping studies in Florida and
+Louisiana.
+A) Semiochemical treatments
+Semiochemical
+Elution device
+Rate
+Reported function
+Frontalure†
+transfer pipette
+transfer pipette
+transfer pipette
+80 mg/d‡
+46–58 mg/d§
+48–56 mg/d\
+aggregation pheromone
+Verbenone
+sponge inside bag
+35 mg/d¶
+multifunctional/inhibit aggregation
+4-allylanisole
+vial with wick
+160 mg/d#
+inhibit aggregation/repellent
+B) Visual treatments
+Trap
+Type
+Color
+Surface
+Funnel traps
+Sticky panels
+16 funnel
+61 3 45 cm
+black or white
+black, white, clear
+paint††
+Plexiglas‡‡
+Note: Antiaggregation semiochemicals, verbenone and 4-allylanisole, were eluted individually from traps with frontalure.
+† Frontalure is an SPB attractant consisting of a 2:1 ratio of alpha-pinene, a host-produced synergist, and frontalin, an
+aggregation pheromone.
+‡ Hayes et al. 1994.
+§ Lower value is elution rate of frontalure on black traps in low light (X 5 11.5 mmol·m22·s21); higher value is elution
+rate on black traps in full sun (1913.8 mmol·m22·s21).
+\ Elution rates as above but on white traps. Note that elution rates between black and white traps did not differ within a
+light environment (low light: t 5 0.62, df 5 10, P 5 0.55; full sun: t 5 1.20, df 5 10, P 5 0.26).
+¶ M. Dalusky and C. W. Bersiford, unpublished data. Note that the elution rate of verbenone is ;25% that used for inhibition
+in many ﬁeld studies.
+# Hayes et al. 1994.
+†† Gloss black (number 81601) or gloss white (number 81501) spray paint (Krylon Division of the Sherwin-Williams
+Company, Solon, Ohio).
+‡‡ AtoHaas Plexiglas MC, AtoHaas, Philadelphia, Pennsylvania.
+cm thick) constructed from clear, black, or white Plexi-
+glas (Table 1), covered with clear polyethylene ﬁlm
+(0.1016 mm thick) and coated with Stikem Special
+(Michel and Pelton Company, Emeryville, California).
+A single pipette of frontalure (Table 1) was attached
+to each panel. Panels were placed in a six-position
+array, as described above, with each treatment being
+represented two times. After each collection period,
+traps were rotated sequentially until each trap had ap-
+peared in each location twice (12 collection periods;
+12 replications).
+Effect of tree painting on landing and colonization
+The effect of painting potential host trees on infes-
+tation by SPB and Ips spp. was evaluated in a 14-yr-
+old loblolly pine plantation located at Idlewild Re-
+search Station, Clinton, Louisiana. In front of an active
+SPB infestation, 15 trees were selected and randomly
+assigned three visual treatments (unpainted, black, or
+white), giving ﬁve replications of each treatment. Trees
+were painted to ;4.5 m using latex house paint (Wal-
+Mart, Incorporated, Bentonville, Arkansas) in July
+1995. Sticky traps (9 3 30 3 1.25 cm thick) were
+attached to each painted tree at 2.5 m on 11 July 1995.
+They consisted of wood, painted black or white to
+match each tree, covered with 0.1016 mm thick ‘‘vis-
+queen’’ (Poly America, Grand Prairie, Texas) that was
+coated with Stickem Special and misted lightly with
+permethrin (2% concentration in water). Sticky traps
+were collected approximately every other day until
+trees were felled.
+When the active front of the SPB infestation had
+moved past the group of treated trees, trees were eval-
+uated and, if mass attacked, felled and sampled for
+attacks at roughly 2-m intervals. Attacks were identi-
+ﬁed as SPB (successful or unsuccessful) or nuptial
+chambers of Ips spp. Three species of Ips were present
+(I. avulsus, I. calligraphus, I. grandicollis), but no ef-
+fort was made to attribute damage to individual species.
+Reﬂectance spectra
+Reﬂectance spectra of visual treatments were gen-
+erated by comparison to a white standard using a Lab-
+sphere RSA-HP-84 integrating sphere (Labsphere,
+North Sutton, New Hampshire) attached to a Hewlett-
+Packard HP 8452A Diode Array spectrophotometer.
+Statistical analyses
+The numbers of SPB or T. dubius caught during each
+collection period were transformed by (log10[Y 1 1])
+to normalize data and reduce heteroscedasticity of var-
+iances. Funnel trap experiments were analyzed by
+mixed-model ANOVA using a randomized block ex-
+perimental design with a 2 3 3 factorial treatment
+structure and site as the (random effect) blocking factor
+(PROC GLM; SAS Institute 1994). Data from Florida
+and Louisiana were analyzed separately. For sticky
+panel experiments, data were analyzed using a two-
+way mixed-model ANOVA with date of collection rep-
+resenting replicates and including the effects of visual
+treatment, as well as appropriate interaction terms, in
+the model (PROC GLM; SAS Institute 1994). Collec-
+tion date and its interaction terms were considered ran-
+dom variables. Means were compared using the Least
+August 1999
+1031
+VISUAL DISRUPTION OF HOST FINDING
+Signiﬁcant Difference procedure (LSD; SAS Institute
+1994) only if the overall model and the individual main
+effect were signiﬁcant. Where interaction terms were
+not signiﬁcant (P . 0.10) across analyses, they were
+removed from ANOVA models. The effect of treat-
+ments on the percentage of females captured in funnel
+traps was determined with the SAS system for cate-
+gorical data analysis (PROC CATMOD; SAS Institute
+1994). Individual contrasts were used to compare
+means where appropriate.
+To determine the effect of trap color and environ-
+mental light on elution rates, mean elution rates of
+frontalure on black and white traps were compared us-
+ing t tests for each date in each light environment.
+The average sum of SPB and clerids captured on
+sticky traps placed on painted trees were analyzed by
+t test. Sums were used for analysis because the total
+number of captures is the most relevant due to the
+strong temporal component of mass attacks among
+trees in the study. The mean number of SPB attacks,
+total and successful, was analyzed by one-way ANO-
+VA. Attack data from each tree were pooled to produce
+two means: one from below 4.5 m (4.5 m was the top
+of the painted area on painted trees) and one from above
+4.5 m, with separate analyses conducted for each of
+the two locations. The mean number of Ips nuptial
+chambers below 4.5 m was not subjected to statistical
+analysis because of the frequency of zeros in the data
+set. One white tree was not attacked by either SPB or
+Ips, and was excluded from the analysis.
+RESULTS
+Semiochemical effects of paint
+Neither paint had any repellent effect on walking
+SPB in the laboratory (white: 22 SPB tested, 11 female
+and 11 male, 0 repelled; black: 21 SPB tested, 10 fe-
+male and 11 male, 0 repelled). Additionally, our results
+obtained with Plexiglas panels were similar to those
+obtained with painted funnel traps (Figs. 1 and 2), fur-
+ther suggesting that semiochemical effects of black and
+white paint, if any exist, were similar. Comparison of
+frontalure-only treatments shows that white Plexiglas
+panels caught 79% fewer SPB than black, while white-
+painted funnel traps caught 72% fewer SPB in Florida
+and 68% fewer in Louisiana than their black counter-
+parts.
+There was no signiﬁcant difference observed be-
+tween frontalure eluted from black (X¯ 5 46 mg/d, low
+light; 58 mg/d, full sun) or white (X¯ 5 48 mg/d, low
+light; 56 mg/d, full sun) funnel traps within each light
+treatment (t 5 0.6187, df 5 10, P 5 0.5499, low light;
+t 5 1.2035, df 5 10, P 5 0.2565, full sun).
+Funnel trap studies
+SPB.—In Florida, white multiple funnel traps caught
+72% fewer SPB’s than black traps when both traps were
+baited with attractant alone (Fig. 1A). Semiochemical
+treatment also signiﬁcantly inﬂuenced trap catch of
+SPB (Table 2). The repellent 4-allylanisole reduced
+catch of SPB by 56 and 97% when placed on black
+and white traps, respectively, when compared to the
+black treatment with attractant only (Fig. 1A). Due to
+such factors as infestation size and pine basal area, site
+was a signiﬁcant explanatory variable (Table 2). The
+interaction terms visual 3 semiochemical treatments
+and site 3 visual 3 semiochemical treatments were not
+statistically signiﬁcant for the Florida data.
+In Louisiana, catches of SPB averaged less than half
+those in Florida (Fig. 1B), with site again being sig-
+niﬁcant and visual treatment being the most signiﬁcant
+factor. White traps with attractant only caught 68%
+fewer SPB than the semiochemically equivalent black
+treatment. The repellent 4-allylanisole reduced trap
+catch by 45% alone and by 83% in combination with
+white paint. There was no signiﬁcant interaction be-
+tween semiochemical and visual treatments in either
+Florida or Louisiana.
+Semiochemical treatment signiﬁcantly affected sex
+ratio in both Florida (
+5 308.05, P 5 0.0000) and
+2
+x2
+Louisiana (
+5 100.61, P 5 0.0000), while visual
+2
+x2
+treatment did not (
+5 0.06, P 5 0.8117, Florida;
+2
+x1
+5 0.15, P 5 0.6970, Louisiana). Verbenone had the
+2
+x1
+greatest effect on capture of females in both places,
+catching 65.6% females in Florida (compared with
+frontalure alone, 39.3% females,
+5 231.53, P 5
+2
+x1
+0.0000; or frontalure with 4-allylanisole, 25.9%, fe-
+males,
+5 154.99, P 5 0.0000) and 64.5% in Lou-
+2
+x1
+isiana (compared with frontalure alone, 37.2% females,
+5 80.52, P 5 0.0000; or frontalure with 4-allylan-
+2
+x1
+isole 33.2% females,
+5 65.44, P 5 0.0000). The
+2
+x1
+interaction between semiochemical and visual treat-
+ments was not signiﬁcant in Florida (
+5 4.36, P 5
+2
+x2
+0.1128) but was signiﬁcant in Louisiana (
+5 13.47,
+2
+x2
+P 5 0.0012). This effect was made signiﬁcant by a
+higher percentage of females captured in black ver-
+benone traps compared to white verbenone traps (67%
+female vs. 55% female) and a lower percentage of fe-
+males in black 4-allylanisole traps compared to white
+(31% female vs. 40% female). Because the magnitude
+of this effect was small compared to the main effect
+of the semiochemical, comparisons were made between
+semiochemical treatments, as previously described.
+Thanasimus dubius.—Although more than twice as
+many T. dubius were caught in Louisiana than in Flor-
+ida (1679 vs. 793), reductions in catches caused by the
+white silhouettes were similar, 85% in Florida and 88%
+in Louisiana. Site was again a signiﬁcant variable (Ta-
+ble 2). In both states, total clerid capture was unaffected
+by semiochemical treatment, as was sex ratio (
+5
+2
+x2
+2.09, P 5 0.3523). In Florida, the percentage of female
+clerids captured varied from a low of 40.9% in white
+verbenone traps to a high of 52.5% in white frontalure
+traps, while in Louisiana the percentage of females
+varied from 45.9% in black traps baited with frontalure
+and 4-allylanisole to 59.7% in white traps baited with
+1032
+B. L. STROM ET AL.
+Ecological Applications
+Vol. 9, No. 3
+FIG. 1.
+Mean (11 SEM) catch per collection date of southern pine beetle (A, B) and Thanasimus dubius (clerids) (C, D)
+in funnel traps at sites in Florida (A, C) and Louisiana (B, D). Traps had semiochemical (Front 5 frontalure alone; Verb 5
+verbenone 1 frontalure; 4-AA 5 4-allylanisole 1 frontalure) and visual (black bars denote black traps; white bars, white
+traps) treatments. All traps included the attractant frontalure. Note that values of the vertical (y) axes differ among panels.
+frontalure and verbenone. However, visual treatment
+had a small effect on sex ratio of clerids caught (
+5
+2
+x1
+4.59, P 5 0.0322). White traps caught more female
+clerids (54.9%) than did black traps (47.8%), but white
+traps caught only 224 clerids, while black traps cap-
+tured 1455 clerids. The interaction between semi-
+ochemical and visual treatments was not signiﬁcant
+(
+5 0.59, P 5 0.7428).
+2
+x2
+Sticky panel studies
+The effects of Plexiglas sticky traps on SPB (Fig. 2)
+were similar to those found with funnel traps baited
+with attractant alone (Fig. 1A, B). Date of collection
+was signiﬁcant (F11,22 5 34.0714, P , 0.0001, MSE 5
+0.1343); this is not surprising since the dynamics of
+SPB infestations vary dramatically over short periods
+of time. The effect of visual treatment was highly sig-
+niﬁcant (F2,22 5 59.4348, P , 0.0001), with white pan-
+els (X¯ 6 1 SE 5 68 6 13.7 SPB) catching 79% fewer
+than black (320 6 60.5 SPB; P , 0.0001) and 55%
+fewer than clear (149 6 37.5 SPB; P , 0.0014). Clear
+panels caught signiﬁcantly (254%) fewer SPB than
+black panels (P , 0.0001). The interaction between
+date and visual treatment was not signiﬁcant (F22,36 5
+1.5105, P 5 0.1328).
+T. dubius also were signiﬁcantly affected by panel
+color (F2,11 5 19.7158, P , 0.0001, MSE 5 0.2175).
+Catch on clear and white panels did not differ (P 5
+0.3364). Both clear and white caught fewer T. dubius
+than black (P , 0.0001); clear reduced catch by 61%
+and white by 56%. The catch of clear panels did not
+differ signiﬁcantly from that of white, suggesting that
+clerids respond differently than SPB in this regard.
+Date (F11,22 5 4.7643, P , 0.0009) had a signiﬁcant
+effect on total catch, and the interaction between date
+and visual treatment also had a small, but signiﬁcant,
+effect on the total number of T. dubius caught (F22,36
+5 2.3734, P , 0.0103).
+August 1999
+1033
+VISUAL DISRUPTION OF HOST FINDING
+FIG. 2.
+Mean (11 SEM) catch per collection date of south-
+ern pine beetle (SPB) and Thanasimus dubius (clerids) on
+sticky panels baited with frontalure in Louisiana. Treatments
+consisted of clear (white bars), black (black bars), or white
+(hatched bars) Plexiglas panels. Different letters indicate sig-
+niﬁcant differences between treatments (least signiﬁcant dif-
+ference test; P , 0.05).
+TABLE 2.
+ANOVA tables for trapping studies with funnel
+traps (Florida and Louisiana; semiochemical treatments
+were frontalure [FL] only, FL 1 verbenone, FL 1 4-al-
+lylanisole; visual treatments were white paint, black paint).
+Factor
+df
+MS
+F
+P
+Florida
+Southern pine beetle
+Site
+Visual treatment
+Semiochemical
+treatment
+Site 3 Vis. 3 Sem.†
+Residual
+4
+1
+2
+22
+186
+71.9
+97.4
+17.0
+1.4
+1.0
+53.11
+71.89
+12.55
+1.36
+0.0001
+0.0001
+0.0002
+0.1417
+Total
+215
+T. dubius
+Site
+Visual treatment
+Semiochemical
+treatment
+Site 3 Vis. 3 Sem.†
+Residual
+4
+1
+2
+22
+186
+2.42
+22.09
+0.64
+0.41
+0.71
+5.91
+53.88
+1.57
+0.76
+0.0022
+0.0001
+0.2110
+0.7576
+Total
+215
+Louisiana
+Southern pine beetle
+Site
+Visual treatment
+Semiochemical
+treatment
+Site 3 Vis. 3 Sem.†
+Residual
+1
+1
+2
+7
+132
+9.99
+35.69
+8.08
+1.86
+0.86
+7.33
+26.19
+5.93
+2.47
+0.0303
+0.0014
+0.0311
+0.0806
+Total
+143
+T. dubius
+Site
+Visual treatment
+Semiochemical
+treatment
+Site 3 Vis. 3 Sem.†
+Residual
+1
+1
+2
+7
+132
+5.64
+67.97
+0.61
+0.46
+0.83
+12.28
+148.03
+1.34
+0.67
+0.0099
+0.0001
+0.3226
+0.6941
+Total
+143
+Notes: T. dubius is Thanasimus dubius LeConte, a clerid
+predator of the southern pine beetle. The interaction term
+visual treatment 3 semiochemical treatment was not signif-
+icant (P . 0.10) in each case and was deleted from the AN-
+OVA model.
+† The 3-way interaction term (site 3 visual 3 semiochem-
+ical treatment) was used as the denominator for F tests on
+main effects.
+Effect of tree painting on landing and colonization
+All of the unpainted and black-painted trees were
+attacked by SPB. Four of ﬁve white trees were attacked
+by SPB; however, the pattern of colonization differed
+from the other two treatments (Fig. 3). Sticky traps
+showed that more SPB landed on black trees (74.4 6
+17.6 SPB) than white (16.4 6 2.9 SPB; t 5 3.25, P 5
+0.0117, df 5 8). Although very few clerids were cap-
+tured, they followed the same pattern with total land-
+ings on black trees (3.8 6 0.02 clerids) being greater
+than white (0.8 6 0.37 clerids; t 5 3.20, P 5 0.0127,
+df 5 8).
+Below 4.5 m, paint had a signiﬁcant effect on the
+density of SPB attacks (F2,11 5 28.76, P , 0.0001, MSE
+5 8.37). Attack density was highest on unpainted trees
+(16.9 6 2.05 attacks/500 cm2), followed by black (10.2
+6 0.32 attacks/500 cm2) and white (2.2 6 0.72 attacks/
+500 cm2). For SPB, all three treatment means were
+signiﬁcantly different (unpainted vs. black, P ,
+0.0036; vs. white, P , 0.0001; black vs. white, P ,
+0.0017; least signiﬁcant difference test, SAS Institute
+1994). The density of Ips nuptial chambers below 4.5
+m was not subjected to statistical analysis due to the
+prevalence of zeros; however, the pattern of attack by
+Ips in white vs. unpainted or black trees appears to
+differ (Fig. 3B). Below 4.5 m the density of Ips attacks
+is higher in white trees, suggesting that an interaction
+between visual treatment and resource utilization by
+SPB and Ips is possible.
+Reﬂectance spectra
+Reﬂectance spectra of visual treatments are pre-
+sented in Fig. 4. With the exception of noise in the
+300-350 nm ultraviolet range, reﬂectance of the three
+white surfaces employed is, as expected, markedly
+higher than the three black surfaces. Clear and black
+Plexiglas reﬂect to a similar degree, yet catch of SPB
+and T. dubius differed between them, suggesting that
+reﬂectance is only one of several visual properties uti-
+lized by these species for host ﬁnding. We have in-
+cluded an average reﬂectance spectrum from loblolly
+pine bark for comparison (Fig. 4), although we did not
+measure landing rates on unpainted trees.
+DISCUSSION
+The results demonstrate that host selection by the
+southern pine beetle can be disrupted by both visual
+and semiochemical deterrents, and when combined
+their action shows promise for reducing attacks to lev-
+els that may effectively protect trees. The total number
+1034
+B. L. STROM ET AL.
+Ecological Applications
+Vol. 9, No. 3
+FIG. 3.
+Attack density (number/500 cm2) of
+(A) southern pine beetle (SPB) or (B) Ips spe-
+cies on loblolly pine stems, painted white or
+black to 4.5 m, or unpainted (4 Pnt 5 in paint;
+4.5 Unpnt 5 above paint). Data are from ﬁve
+replicate trees taken from a single SPB infes-
+tation, Louisiana 1995. Note that there are no
+data for unpainted trees at 3 m or 4 m.
+of beetles necessary for host tree mortality is unknown,
+but it is clear that high densities of beetles must attack
+rapidly for healthy trees to be killed. For example,
+Raffa and Berryman (1983) determined that 40 suc-
+cessful attacks per square meter are necessary for
+lodgepole pine, Pinus contorta, to succumb to attack
+by Dendroctonus ponderosae Hopkins. With SPB,
+Hodges et al. (1979) suggest that 100 attacks/m2 were
+necessary to overcome the defenses of an ‘‘average’’
+loblolly or shortleaf pine. Neither of these studies gives
+data on the minimum area over which these densities
+must occur for tree death. In trying to determine the
+total number of SPB needed for mortality, Cook and
+Hain (1987) observed that ;2000 SPB caged onto a
+tree bole were insufﬁcient to overcome the defenses of
+most loblolly and shortleaf pines in their study. Al-
+though tree death depends on rate of beetle recruitment,
+tree size, and defensive capabilities, it is not necessary
+for protective treatments to eliminate landings, because
+host defenses can thwart a signiﬁcant number of at-
+tacking individuals (Thatcher et al. 1980, Cook and
+Hain 1987). The ;90% reduction that we observed
+when visual and semiochemical deterrents were com-
+bined may be enough for tree protection, but studies
+speciﬁcally addressing this potential application need
+to be carried out. In addition, as our tree attack data
+show (Fig. 3A, B), the effects on nontarget species must
+be evaluated as well (Hayes and Strom 1994).
+Published experiments investigating scolytid re-
+sponses to visual cues have reported mixed results;
+however, most studies were designed speciﬁcally to
+improve trapping efﬁciency and have limited their in-
+terpretations to effects on attraction (Lindgren et al.
+1983, Dubbel et al. 1985, Fatzinger 1985). Trypoden-
+dron lineatum (Olivier) responding to attractants were
+unaffected by clear traps or those of a different hue
+(i.e., dominant wavelength) (Lindgren et al. 1983, Dub-
+bel et al. 1985), but white traps, where included, caught
+the fewest individuals (Dubbel et al. 1985). Catch of
+Ips typographus L. depended upon trap location and
+spacing, with interactions between sensory modalities
+(olfaction and vision) and environments (wooded and
+open) being observed (Niemeyer 1985). Ips montanus
+(Eichhoff) and Dendroctonus ponderosae preferred
+dark colors over light ones, and fewer D. terebrans
+(Olivier) were caught in traps painted glossy white than
+ﬂat black (Fatzinger 1985). Although the appearance
+of clear traps is based on human perception, and may
+therefore be misleading (see Fig. 4), the lack of a no-
+silhouette treatment from these previously cited ex-
+periments makes it difﬁcult to determine whether dif-
+ferences were due to attraction or repellency of the
+different treatments.
+The relationship between scolytid responses to col-
+ors and their visual physiology is unclear, and, to our
+knowledge, it is unknown whether true color vision
+(i.e., the ability to distinguish colors according to their
+wavelength composition at any intensity [Browne and
+August 1999
+1035
+VISUAL DISRUPTION OF HOST FINDING
+FIG. 4.
+Reﬂectance spectra for treatments
+utilized in host-ﬁnding disruption studies. (Lob-
+lolly pine spectrum is the mean of bark from 11
+trees.)
+Bennett 1981]) exists in this family. In the laboratory,
+Groberman and Borden (1981, 1982) found good cor-
+relation between electroretinogram (ERG) responses
+and walking behavior for Ips paraconfusus Lanier,
+Dendroctonus pseudotsugae Hopkins, and T. lineatum.
+They found two sensitivity maxima in the visual range
+(400–700 nm), one at ;450 nm (blue) and one at ;520
+nm (green) for both I. paraconfusus and D. pseudo-
+tsugae (Groberman and Borden 1982). In walking as-
+says, T. lineatum and D. pseudotsugae were similarly
+attracted to these wavelengths (Groberman and Borden
+1981); however, their studies excluded ultraviolet light
+(300–400 nm), a range in which there is often another
+peak of response. Clearly more research is necessary
+before the relationship between light environments and
+ﬁeld behavior of bark beetles is understood and treat-
+ments can be successfully applied.
+Loblolly pine bark (Fig. 4) may produce a highly
+visible signal under a forest canopy. Although it varies
+considerably to the human eye, Hailman (1979) reports
+loblolly pine bark to be dark orange (see Fig. 4), a hue
+which produces a highly visible signal in the yellow–
+green light of woodland shade (Endler 1993). The vis-
+ibility of these relatively long wavelengths for bark
+beetles is undetermined; however, hues reﬂecting long
+wavelengths often effectively capture forest-dwelling
+insects such as Aedes mosquitoes (Browne and Bennett
+1981, Muir et al. 1992) and various scolytids (Schon-
+herr 1977, Moser and Browne 1978, Lindgren et al.
+1983). Whether this is because these hues are more or
+less visible is unknown. Data from our study indicate
+that white traps are apparent to SPB, but avoided, while
+black traps are attractive. The latter appears also to be
+true for T. dubius, as suggested by Wyatt et al. (1993).
+Although attack density was intermediate on black-
+painted trees, we did not attempt to evaluate the relative
+difference in attraction between black and unpainted
+trees. Clearly an increased understanding of the eco-
+logical mechanisms of visual attraction and repellency
+are important for the use of visual disruption in man-
+agement.
+Kogan (1994) proposes that olfaction and vision are
+likely the most important senses for host ﬁnding, an
+idea supported by our data with SPB. Bark beetles, like
+SPB, that rely on aggregation to kill trees for successful
+reproduction, necessarily have more than one method
+of host selection. Pioneering individuals (Borden 1974)
+attack ﬁrst, without beneﬁt of aggregation pheromone,
+while all others have the opportunity to respond to
+pheromones. Gara et al. (1965) proposed that both ol-
+faction and vision are important for host-ﬁnding by
+SPB, with their relative importance depending upon
+local conditions. For example, they suggest that vision
+is the most important sensory modality when an area
+has aggregation pheromone present; beetles land on
+vertical silhouettes without regard to whether or not
+they are hosts. Although not explicitly tested by Gara
+et al. (1965) or others for SPB, available data suggest
+1036
+B. L. STROM ET AL.
+Ecological Applications
+Vol. 9, No. 3
+that host recognition by bark beetles is gustatory, not
+taking place until the adult bores through the outer bark
+to the phloem (Elkinton and Wood 1980, Raffa and
+Berryman 1982).
+Life history characteristics may relate visual and ol-
+factory cues to host-ﬁnding strategies of bark beetles
+(Raffa et al. 1993). Prokopy and Owens (1978) hy-
+pothesize that generalist vs. specialist insects, cate-
+gories usually applied in the context of chemical ecol-
+ogy, might also be useful for describing visual behav-
+ior. They suggest that visual orientation is dependent
+upon the formation of search images based on plant
+morphological characters that afford visual distinction
+of hosts. The result that SPB were greatly affected by
+our visual treatments (both white and clear) and that
+this species is, at most, oligophagous, suggests that
+SPB may be considered a visual specialist (sensu Pro-
+kopy and Owens 1978). However, we propose that this
+designation depends on host form (vertical vs. hori-
+zontal silhouettes) rather than species. In the presence
+of attractants, SPB lands readily upon any dark, vertical
+silhouette, including nonhosts (Gara et al. 1965). Den-
+droctonus ponderosae, also considered an aggressive
+species (Raffa et al. 1993), lands randomly on vertical
+objects (Hynum and Berryman 1980) and does not dis-
+tinguish between susceptible and resistant hosts until
+gustation (Raffa and Berryman 1982). Closely related,
+less aggressive species (e.g., Ips pini (Say) and Ips
+perroti Swaine) that readily attack nonvertical host ma-
+terial, but have similarly limited host species ranges,
+do not seem to be as affected by our visual treatments
+(B. D. Ayres, unpublished data). Byers (1993) used
+baited ‘‘puddle’’ traps, apparently without any silhou-
+ette, to effectively capture I. typographus, suggesting
+that this species is not affected by visual silhouettes
+when aggregation pheromone is present. Whether these
+patterns of attack and trap results are related to these
+Ips spp. being visual generalists, due to their propensity
+to attack multiple host forms, or alternatively, that Ips
+species simply use vision less than Dendroctonus spe-
+cies, remains to be seen but needs testing. Lindgren et
+al. (1983) report that the ambrosia beetles T. lineatum
+and Gnathotrichus sulcatus (LeConte) also considered
+unaggressive scolytids, are similarly unaffected by trap
+color, although materials used were relatively nonre-
+ﬂective, and white was not included in the treatments.
+We hypothesize that the importance of visual sil-
+houettes for scolytid host ﬁnding is related to their level
+of aggression and host utilization patterns. Less ag-
+gressive species often are able to use olfaction to locate
+hosts, i.e., have demonstrated primary attraction (Raffa
+et al. 1993), and may infest branches or horizontal
+hosts, sometimes preferring these over vertical forms
+(Gara et al. 1965). These species may be considered
+visual generalists, leading them to be less affected by
+visual treatments (Prokopy and Owens 1978). Aggres-
+sive species, on the other hand, do not tend to orient
+by way of primary attractants (Moeck et al. 1981, Raffa
+et al. 1993), and land predominantly on vertical objects,
+suggesting that they are visual specialists. In tying to-
+gether visual ecology and insect management, Prokopy
+and Owens (1978) suggest that visual specialists, the
+aggressive bark beetles in our hypothesis, can be more
+easily manipulated using visual deterrents.
+White color (paint) signiﬁcantly reduced landings
+and attacks of SPB on trees in our study, suggesting
+that the use of a nonattractive colored surface (e.g.,
+white) has potential for tree protection. SPB attacks
+were concentrated on the stem area primarily above the
+white paint (Fig. 3), leading us to believe that painting
+higher (perhaps up to and into the live crown) or using
+a semiochemical deterrent in addition to the paint, as
+was effective with funnel traps, would increase the ef-
+fectiveness of this treatment for protection of individ-
+ual trees. Black paint appeared to have an intermediate
+effect on attack density (Fig. 3); however, we cannot
+separate these effects between pre- and post-landing.
+Visual treatments may increase management alter-
+natives for control of SPB infestations. Buffer areas of
+uninfested trees are routinely felled at the advancing
+edge of SPB infestations to enhance the effectiveness
+of cut-and-remove or cut-and-leave control strategies
+(Thatcher et al. 1980). Cutting a buffer eliminates ver-
+tical silhouettes in close proximity to aggregation pher-
+omone and provides distance between potential hosts
+and emerging beetles; however, it also necessitates that
+the number of uninfested trees that are cut is greatly
+increased. Vertical silhouette modiﬁcation could be
+substituted for felling in areas with high-value trees,
+while still providing protection from lethal attacks.
+Our data for the southern pine beetle demonstrate
+that multiple deterrents (e.g., semiochemical and vi-
+sual) can increase the effectiveness of management tac-
+tics based on behavioral manipulation of this bark
+beetle, and perhaps others. For visual silhouette mod-
+iﬁcation to be operationally feasible, methods other
+than paint will probably have to be developed. In ad-
+dition, semiochemicals currently used for SPB man-
+agement are eluted at very high rates compared to other
+species, perhaps suggesting that more effective com-
+pounds or mixtures are yet to be identiﬁed. Research
+and development of semiochemicals is ongoing, and
+more efﬁcacious products, that are easier to apply, may
+be available in the future. However, disruption strate-
+gies that target multiple behavioral modalities may be
+more effective for management of those species that
+use vision as an important component in their host
+selection process.
+ACKNOWLEDGMENTS
+We thank C. W. Berisford and M. Dalusky (University of
+Georgia) for determination of verbenone elution rates; J.
+Chambers (Louisiana State University) for use of the cep-
+tometer; S. Carr and G. Lenhard (Louisiana State University)
+and C. Steiner (USDA Forest Service) for expert technical
+assistance; Florida Department of Agriculture, Division of
+Forestry for providing access to ﬁeld sites in Florida; C.
+August 1999
+1037
+VISUAL DISRUPTION OF HOST FINDING
+Otremba and U. L. Barnwell for ﬁeld assistance in Florida;
+Idlewild Research Station (Louisiana State University) and
+Avondale Boy Scout Camp (Boy Scouts of America) for pro-
+viding ﬁeld sites in Louisiana; B. Ayres (Woods Run Forest
+Products, Inc.), J. Borden (Simon Fraser University), S. Carr
+(Louisiana State University), S. Clarke, K. Klepzig, B. Par-
+resol, J. Reeve (USDA Forest Service), S. Seybold (Univer-
+sity of Nevada–Reno), S. Strom, and one anonymous reviewer
+for improving the manuscript.
+LITERATURE CITED
+Berisford, C. W., T. L. Payne, and Y. C. Berisford. 1990.
+Geographical variation in response of southern pine beetle
+(Coleoptera: Scolytidae) to aggregating pheromones in lab-
+oratory bioassays. Environmental Entomology 19:1671–
+1674.
+Borden, J. H. 1974. Aggregation pheromones in the Scol-
+ytidae. Pages 135–160 in M. C. Birch, editor. Pheromones.
+North-Holland, Amsterdam, The Netherlands.
+. 1993. Strategies and tactics for the use of semi-
+ochemicals against forest insect pests in North America.
+Pages 265–279 in R. D. Lumsden and J. L. Vaughn, editors.
+Pest management: biologically based technologies. Amer-
+ican Chemical Society, Washington, D.C., USA.
+. 1997. Disruption of semiochemical-mediated ag-
+gregation in bark beetles. Pages 421–438 in R. T. Carde´
+and A. K. Minks, editors. Insect pheromone research, new
+directions. Chapman and Hall, New York, New York, USA.
+Borden, J. H., D. W. A. Hunt, D. R. Miller, and K. N. Slessor.
+1986. Orientation in forest Coleoptera: an uncertain out-
+come of responses by individual beetles to variable stimuli.
+Pages 97–109 in T. L. Payne, M. C. Birch, and C. E. J.
+Kennedy, editors. Mechanisms in insect olfaction. Clar-
+endon Press, Oxford, UK.
+Browne, S. M., and G. F. Bennett. 1981. Response of mos-
+quitoes (Diptera: Culicidae) to visual stimuli. Journal of
+Medical Entomology 18:505–521.
+Byers, J. 1993. Orientation of bark beetles Pityogenes chal-
+cographus and Ips typographus to pheromone-baited pud-
+dle traps placed in grids: a new trap for control of scolytids.
+Journal of Chemical Ecology 19:2297–2316.
+Cook, S. P., and F. P. Hain. 1987. Susceptibility of trees to
+southern pine beetle, Dendroctonus frontalis (Coleoptera:
+Scolytidae). Environmental Entomology 16:9–14.
+Dubbel, V., K. Kerck, M. Sohrt, and S. Mangold. 1985. In-
+ﬂuence of trap color on the efﬁciency of bark beetle pher-
+omone traps. Zeitschrift fu¨r Angewandte Entomologie 99:
+59–64.
+Elkinton, J. S., and D. L. Wood. 1980. Feeding and boring
+behavior of the bark beetle Ips paraconfusus (Coleoptera:
+Scolytidae) on the bark of a host and non-host tree species.
+Canadian Entomologist 112:797–809.
+Endler, J. A. 1993. The color of light in forests and its
+implications. Ecological Monographs 63:1–27.
+Fatzinger, C. W. 1985. Attraction of the black turpentine
+beetle (Coleoptera: Scolytidae) and other forest Coleoptera
+to turpentine-baited traps. Environmental Entomology 14:
+768–775.
+Gara, R. I., J. P. Vite´, and H. H. Cramer. 1965. Manipulation
+of Dendroctonus frontalis by use of a population aggre-
+gating pheromone. Contributions from Boyce Thompson
+Institute 23:55–66.
+Groberman, L. J., and J. H. Borden. 1981. Behavioral re-
+sponse of Dendroctonus pseudotsugae and Trypodendron
+lineatum (Coleoptera: Scolytidae) to selected wavelength
+regions of the visible spectrum. Canadian Journal of Zo-
+ology 59:2159–2165.
+Groberman, L. J., and J. H. Borden. 1982. Electrophysio-
+logical response of Dendroctonus pseudotsugae and Ips
+paraconfusus (Coleoptera: Scolytidae) to selected wave-
+length regions of the visible spectrum. Canadian Journal
+of Zoology 60:2180–2189.
+Hailman, J. P. 1979. Environmental light and conspicuous
+colors. Pages 289–354 in E. H. Burtt, Jr., editor. The be-
+havioral signiﬁcance of color. Garland STPM Press, New
+York, New York, USA.
+Harris, M. O., and J. R. Miller. 1982. Synergism of visual
+and chemical stimuli in the oviposition behaviour of Delia
+antiqua (Meigen) (Diptera: Anthomyiidae). Pages 117–122
+in Proceedings of the Fifth International Symposium on
+Insect–plant Relationships. Pudoc, Wageningen, The Neth-
+erlands.
+Hayes, J. L., and B. L. Strom. 1994. 4-Allylanisole as an
+inhibitor of bark beetle (Coleoptera: Scolytidae) aggrega-
+tion. Journal of Economic Entomology 87:1586–1594.
+Hayes, J. L., B. L. Strom, L. M. Roton, and L. L. Ingram,
+Jr. 1994. Repellent properties of the host compound 4-al-
+lylanisole to the southern pine beetle. Journal of Chemical
+Ecology 20:1595–1615.
+Hodges, J. D., W. W. Elam, W. F. Watson, and T. E. Nebeker.
+1979. Oleoresin characteristics and susceptibility of four
+southern pines to southern pine beetle (Coleoptera: Scol-
+ytidae) attacks. Canadian Entomologist 111:889–896.
+Hynum, B. G., and A. A. Berryman. 1980. Dendroctonus
+ponderosae
+(Coleoptera:
+Scolytidae):
+pre-aggregation
+landing and gallery initiation on lodgepole pine. Canadian
+Entomologist 112:185–191.
+Kennedy, J. S. 1965. Mechanisms of host plant selection.
+Proceedings of the Association for Applied Biology 56:
+317–322.
+Kinzer, G. W., A. F. Fentiman, Jr., T. F. Page, Jr., R. L. Foltz,
+J. P. Vite´, and G. B. Pitman. 1969. Bark beetle attractants:
+identiﬁcation, synthesis and ﬁeld bioassay of a new com-
+pound isolated from Dendroctonus. Nature 221:477–478.
+Kogan, M. 1994. Plant resistance in pest management. Pages
+73–128 in R. L. Metcalf and W. H. Luckmann, editors.
+Introduction to insect pest management. John Wiley and
+Sons, New York, New York, USA.
+Lanier, G. N. 1983. Integration of visual stimuli, host odor-
+ants, and pheromones by bark beetles and weevils in lo-
+cating and colonizing host trees. Pages 161–171 in S. Ah-
+mad, editor. Herbivorous insects, host seeking behavior and
+mechanisms. Academic Press, New York, New York, USA.
+Lindgren, B. S. 1983. A multiple funnel trap for scolytid
+beetles (Coleoptera). Canadian Entomologist 115:299–302.
+Lindgren, B. S., J. H. Borden, L. Chong, L. M. Friskie, and
+D. B. Orr. 1983. Factors inﬂuencing the efﬁciency of pher-
+omone-baited traps for three species of ambrosia beetles
+(Coleoptera: Scolytidae). Canadian Entomologist 115:303–
+313.
+Miller, J. R., and K. L. Strickler. 1984. Finding and accepting
+host plants. Pages 127–157 in W. J. Bell, and R. T. Carde´,
+editors. Chemical ecology of insects. Sinauer, Sunderland,
+Massachusetts, USA.
+Moeck, H. A., D. L. Wood, and K. Q. Lindahl, Jr. 1981. Host
+selection behavior of bark beetles (Coleoptera: Scolytidae)
+attacking Pinus ponderosa with special emphasis on the
+western pine beetle, Dendroctonus brevicomis. Journal of
+Chemical Ecology 7:49–83.
+Moser, J. C., and L. E. Browne. 1978. A nondestructive trap
+for Dendroctonus frontalis Zimmerman (Coleoptera: Scol-
+ytidae). Journal of Chemical Ecology 4:1–7.
+Moser, J. C., R. A. Sommers, P. L. Lorio, Jr., J. R. Bridges,
+and J. J. Witcosky. 1987. Southern pine beetles attack
+felled green timber. U.S. Forest Service Research Note SO–
+342.
+Muir, L. E., B. H. Kay, and M. J. Thorne. 1992. Aedes aegypti
+(Diptera: Culicidae) vision: response to stimuli from the
+optical environment. Journal of Medical Entomology 29:
+445–450.
+1038
+B. L. STROM ET AL.
+Ecological Applications
+Vol. 9, No. 3
+Niemeyer, H. 1985. Field response of Ips typographus L.
+(Col., Scolytidae) to different trap structures and white ver-
+sus black ﬂight barriers. Zeitschrift fu¨r Angewandte En-
+tomologie 99:44–51.
+Payne, T. L. 1986. Olfaction and vision in host ﬁnding by
+a bark beetle. Pages 111–116 in T. L. Payne, M. C. Birch,
+and C. E. J. Kennedy, editors. Mechanisms in insect ol-
+faction. Clarendon, London, UK.
+Payne, T. L., and R. F. Billings. 1989. Evaluation of (S)-
+verbenone applications for suppressing southern pine
+beetle (Coleoptera: Scolytidae) infestations. Journal of
+Economic Entomology 82:1702–1708.
+Payne, T. L., and R. N. Coulson. 1985. Role of visual and
+olfactory stimuli in host selection and aggregation behavior
+by Dendroctonus frontalis. Pages 73–82 in L. Safranyik,
+editor. The role of the host in the population dynamics of
+forest insects. Forestry Canada, Paciﬁc Forestry Centre,
+Victoria, British Columbia, Canada.
+Price, T. S., C. Doggett, J. M. Pye, and T. P. Holmes. 1992.
+A history of southern pine beetle outbreaks in the south-
+eastern United States. Georgia Forestry Commission, Ma-
+con, Georgia, USA.
+Prokopy, R. J., and E. D. Owens. 1978. Visual generalist
+with visual specialist phytophagous insects: host selection
+behaviour and application to management. Entomologia
+Experimentalis et Applicata 24:409–420.
+Prokopy, R. J., and E. D. Owens. 1983. Visual detection of
+plants by herbivorous insects. Annual Review of Ento-
+mology 28:337–364.
+Raffa, K. F., and A. A. Berryman. 1982. Gustatory cues in
+the orientation of Dendroctonus ponderosae (Coleoptera:
+Scolytidae) to host trees. Canadian Entomologist 114:97–
+104.
+Raffa, K. F., and A. A. Berryman. 1983. The role of host
+plant resistance in the colonization behavior and ecology
+of bark beetles (Coleoptera: Scolytidae). Ecological Mono-
+graphs 53:27–49.
+Raffa, K. F., and A. A. Berryman. 1987. Interacting selective
+pressures in conifer-bark beetle systems: a basis for recip-
+rocal adaptations? American Naturalist 129:234–262.
+Raffa, K. F., T. W. Phillips, and S. M. Salom. 1993. Strategies
+and mechanisms of host colonization by bark beetles. Pages
+103–128 in T. D. Schowalter, and G. Filip, editors. Beetle–
+pathogen interactions in conifer forests. Academic Press,
+London, UK.
+Rudinsky, J. A., M. E. Morgan, L. M. Libbey, and T. B.
+Putnam. 1974. Additional components of the Douglas ﬁr
+beetle (Col., Scolytidae) aggregative pheromone and their
+possible utility in pest control. Zeitschrift fu¨r Angewandre
+Entomologie 76:65–77.
+Salom, S. M., R. F. Billings, W. W. Upton, M. J. Dalusky, D.
+M. Grosman, T. L. Payne, C. W. Berisford, and T. N. Shaver.
+1992. Effect of verbenone enantiomers and racemic endo-
+brevicomin on response of Dendroctonus frontalis (Cole-
+optera: Scolytidae) to attractant-baited traps. Canadian
+Journal of Forest Research 22:925–931.
+SAS Institute. 1994. The SAS system for Macintosh. Release
+6.10. SAS Institute, Cary, North Carolina, USA.
+Schonherr, J. 1977. Importance of visual stimuli in the host
+selection behavior of bark beetles (Dendroctonus ponde-
+rosae and Ips montanus). Colloques Internationaux du Cen-
+tre National de la Recherche Scientiﬁque 265:187–193.
+Shea, P. J., technical coordinator. 1994. Proceedings of the
+symposium on management of western bark beetles with
+pheromones: research and developoment. U.S. Forest Ser-
+vice, General Technical Report PSW-GTR-150.
+Shepherd, R. F. 1966. Factors inﬂuencing the orientation and
+rates of activity of Dendroctonus ponderosae Hopkins (Co-
+leoptera: Scolytidae). Canadian Entomologist 98:507–518.
+Thatcher, R. C., J. L. Searcy, J. E. Coster, and G. D. Hertel,
+editors. 1980. The southern pine beetle. U.S. Department
+of Agriculture Technical Bulletin 1631.
+Turchin, P., and F. J. Odendaal. 1996. Measuring the effective
+sampling area of a pheromone trap for monitoring popu-
+lation density of southern pine beetle (Coleoptera: Scoly-
+tidae). Environmental Entomology 25:582–588.
+White, J. D. 1981. A bioassay for tunneling responses of
+southern pine beetles to host extractives. Journal of the
+Georgia Entomological Society 16:484–492.
+Wood, D. L. 1982. The role of pheromones, kairomones, and
+allomones in the host selection behavior of bark beetles.
+Annual Review of Entomology 27:411–446.
+Wyatt, T. D., A. D. G. Phillips, and J. C. Gregoire. 1993.
+Turbulence, trees and semiochemicals: wind-tunnel ori-
+entation of the predator, Rhizophagus grandis, to its bark-
+beetle prey, Dendroctonus micans. Physiological Ento-
+mology 18:204–210.

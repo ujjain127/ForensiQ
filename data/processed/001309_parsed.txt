@@ -1,0 +1,1536 @@
+RESEARCH
+New Phytol. (2000), 147, 117–129
+Eﬀects of altered water regimes on
+forest root systems
+J. D. JOSLIN"*, M. H. WOLFE# P. J. HANSON$
+"Belowground Forest Research, 112 Newcrest Lane, Oak Ridge, TN 37830, USA
+#Atmospheric Sciences and Environmental Assessments, Tennessee Valley Authority,
+LAB 1C-N, Pine St., Norris, TN 37828–0920, USA
+$Environmental Sciences Division, Oak Ridge National Laboratory, Building 1059,
+PO Box 2008, Oak Ridge, TN 37831–6422, USA
+Received 21 October 1999; accepted 24 March 2000
+
+How ecosystems adapt to climate changes depends in part on how individual trees allocate resources to their
+components. A review of research using tree seedlings provides some support for the hypothesis that some tree
+species respond to exposure to drought with increases in root:shoot ratios but little change in total root
+biomass. Limited research on mature trees over moderately long time periods (2–10 yr), has given mixed results
+with some studies also providing evidence for increases in root:shoot ratios. The Throughfall Displacement
+Experiment (TDE) was designed to simulate both an increase and a decrease of 33% in water inputs to a mature
+deciduous forest over a number of years. Belowground research on TDE was designed to examine four hypo-
+thesized responses to long-term decreases in water availability; (1) increases in ﬁne-root biomass, (2) increases in ﬁne
+root:foliage ratio, (3) altered rates of ﬁne-root turnover (FRT), and (4) depth of rooting. Minirhizotron root
+elongation data from 1994 to 1998 were examined to evaluate the ﬁrst three hypotheses. Diﬀerences across
+treatments in net ﬁne-root production (using minirhizotron root elongation observations as indices of biomass
+production) were small and not signiﬁcant. Periods of lower root production in the dry treatment were
+compensated for by higher growth during favorable periods. Although not statistically signiﬁcant, both the highest
+production (20 to 60% higher) and mortality (18 to 34 % higher) rates were found in the wet treatment, resulting
+in the highest index of FRT. After 5 yr, a clear picture of stand ﬁne-root-system response to drought exposure
+has yet to emerge in this forest ecosystem. Our results provide little support for either an increase in net ﬁne-root
+production or a shift towards an increasing root:shoot ratio with long-term drought exposure. One possible
+explanation for higher FRT rates in the wet treatment could be a positive relationship between FRT and nitrogen
+and other nutrient availability, as treatments have apparently resulted in increased immobilization of nutrients in
+the forest ﬂoor litter under drier conditions. Such hypotheses point to the continued need to study the interactions
+of water stress, nutrient availability and carbon-ﬁxation eﬃciency in future long-term studies.
+Key words: global climate, drought, root growth, ﬁne-root turnover (FRT), root mortality, upland oaks, carbon
+allocation.
+
+The Intergovernmental Panel on Climate Change
+(IPCC) concluded that climate has changed over the
+past century and is expected to continue to change
+(Houghton et al., 1996). Increases in the levels of
+greenhouse gases in the atmosphere are predicted to
+cause an additional 1.0–3.5°C increase in average
+global
+surface
+temperatures
+by
+the
+year
+2100
+(Kattenberg
+et
+al.,
+1996).
+These
+temperature
+increases should modify global hydrologic budgets,
+*Author for correspondence (tel ­1 423 483 2487; fax ­1 423
+483 2487; e-mail jdjoslin!esper.com).
+leading to increased winter precipitation at high
+latitudes, with more hot days and fewer cold days
+(Rind et al., 1990; Kattenberg et al., 1996). The
+response of forests to decreased water availability is
+considered to be a key issue in climate change
+scenarios (Wigley et al., 1984). Concerns regarding
+eﬀects on vegetation have been ampliﬁed because
+rates of change are expected to occur more rapidly
+than past successional processes and species dispersal
+rates (Solomon, 1986; Pastor & Post, 1988; Davis,
+1989; Overpeck et al., 1991).
+The ability of ecosystems – and individual com-
+ponents thereof – to survive and adapt to changes in
+climate will depend in part on how individual trees
+118
+RESEARCH
+J. D. Joslin et al.
+Table 1. Summary of seedling irrigation studies with respect to the eﬀects of absence of irrigation (vs irrigation)
+on increases in root biomass, root:shoot ratio and rooting depth
+Study
+Species
+Root biomass
+Root:shoot
+Root depth
+Torreano & Morris (1998)
+Pinus taeda
+ns
+ns
+Yes
+Osunubi & Davies (1981)
+Quercus robur
+Yes
+–
+YES
+Betula pendula
+ns
+ns
+ns
+Bongarten & Teskey (1987)
+Pinus taeda
+ns
+YES
+–
+Tomlinson & Anderson (1998)
+Quercus rubra
+ns
+YES
+–
+Pallardy & Rhoads (1993)
+Juglans nigra
+ns
+YES
+–
+Quercus stellata
+ns
+–
+Quercus alba
+ns
+–
+Acer saccharum
+ns
+–
+ns, no signiﬁcant diﬀerence; Yes, trend showing increase; YES, statistically signiﬁcant increase; –, no data available.
+allocate resources to their various plant components.
+Aboveground forest productivity will certainly de-
+pend in part on the allocation of carbon (C)
+belowground. The way in which plants balance
+resources between photosynthetic organs, support-
+ing stems and branches, reproductive organs and
+root systems is a complex process that plant
+physiologists have long been struggling to under-
+stand. It has been well documented that tree species
+adapted to dry climatic regimes generally have higher
+root:shoot ratios (R:S) and deeper root systems than
+species that are more suited to mesic climatic regimes
+(van Buijtenen et al., 1976; Caldwell & Richards,
+1986; Bongarten & Teskey, 1987; Pallardy &
+Rhoads, 1993). Kozlowski et al. (1991) list 10
+references that document the successful avoidance of
+water stress by some deep-rooted tree species able to
+use subsurface sources of water.
+Such evidence has probably contributed to the
+general concept that trees frequently respond to dry
+conditions by altering R:S ratios and by increasing
+rooting depth (Kozlowski et al., 1991). Several
+hypotheses have arisen from this general concept
+concerning the eﬀects of long-term decreases in
+water availability: (1) increases in ﬁne-root biomass,
+root length density and gross and net root elongation;
+(2) increases in R:S, especially the ﬁne-root biomass
+:foliar biomass ratio; (3) altered rates of FRT; (4)
+increased depth of rooting and}or density of ﬁne
+roots at greater depths.
+The ﬁrst objective of this manuscript is to review
+evidence in the literature that pertains to these
+hypotheses with regard to tree species. The second
+objective is to present results from one long-term
+study that pertains to hypotheses 1–3.
+What scientiﬁc evidence exists that indicates that
+exposure to increasingly dry moisture regimes results
+in trees allocating a higher percentage of their
+resources to their root systems? At least one gradient
+study indicates that, within a single tree species, the
+ratio of ﬁne-root biomass:aboveground biomass is
+considerably greater under xeric conditions than
+under mesic conditions (Comeau & Kimmins, 1989).
+Another such gradient study, however, found no
+signiﬁcant diﬀerence in living ﬁne-root biomass
+across three sites exhibiting a natural gradient of soil
+water availability (Santantonio & Hermann, 1985).
+In fact, in this study, living ﬁne-root biomass was
+lowest at the driest site, whereas FRT rates were
+highest at this site.
+It is quite well established that tree root elongation
+declines as soil water potential decreases across the
+range ®0.3 to ®1.2 MPa and that it virtually ceases
+close to or before the latter point (Larson, 1980;
+Teskey & Hinckley, 1981; Kuhns et al., 1985;
+Torreano & Morris, 1998; J. D. Joslin et al.,
+unpublished). But what impact does exposure to
+water stress have on ﬁne-root growth in portions of
+the rooting zone that are less dry or during
+subsequent periods when soil is rewetted? Several
+studies indicate that, when trees experience moisture
+stress in one part of the rooting zone, root growth
+increases in areas where water is still available,
+usually at greater depths (Dickman et al., 1996;
+Hendrick & Pregitzer, 1996; Torreano & Morris,
+1998; Table 1). Osunubi & Davies (1981) found this
+to be the case for seedlings of a deep-rooted tree
+species (English oak, Quercus robur), but not for a
+shallow-rooted species (silver birch, Betula pendula).
+In irrigation studies, prior exposure to water stress
+has yielded various plant responses. In Bongarten &
+Teskey (1987), loblolly pine (Pinus taeda) seedlings
+previously exposed to drought developed higher
+R:S ratios than nonexposed seedlings (Table 1).
+Tomlinson & Anderson (1998) found that, in
+northern red oak (Quercus rubra) seedlings subjected
+to moderate water stress, the sink strength of the
+belowground plant parts increased. By contrast,
+Pallardy & Rhoads (1993) reported that prior
+exposure to drought had no eﬀect on the subsequent
+root growth of seedlings of four diﬀerent tree species.
+Similarly, Torreano & Morris (1998) found reduced
+root growth and no change in R:S ratios in loblolly
+pine seedlings receiving the lowest level of irrigation.
+Gower et al. (1992) found that the percentage of
+net primary productivity (NPP) allocated below-
+ground over a 2-yr period was signiﬁcantly higher in
+nonirrigated
+Douglas-ﬁr
+(Pseudotsuga
+menziesii)
+RESEARCH
+Water eﬀects on forest root systems
+119
+Table 2. Summary of long-term, stand-level irrigation studies with respect to the eﬀects of absence of irrigation
+(vs irrigation) on increases in root biomass, root:shoot ratio and rooting depth
+Study (duration of
+study)
+Dominant species
+Root biomass
+Root:shoot
+Root depth
+DeVisser et al.
+Picea abies
+Yes
+Yes
+–
+(1994) (3–4 yr)
+Pseudotsuga
+Yes
+ns
+–
+menziesii
+Picea abies
+Yes
+Yes
+–
+Bredemeier et al.
+Picea abies
+ns
+ns
+–
+(1998) (3 yr)
+Devakumar et al. (1999)
+Hevea
+ns
+YES
+NO
+(10 yr)
+brasiliensis
+Gower et al. (1992)
+Pseudotsuga
+YES
+YES
+–
+(2 yr)
+menziesii
+Dickman et al.
+Populus deltoides
+ns
+–
+YES
+(1996) (4 yr)
+(hybrid)
+ns, no signiﬁcant diﬀerence; Yes, trend showing increase; YES, statistically signiﬁcant increase; NO, statistically
+signiﬁcant decrease; –, no data available.
+stands than in irrigated stands (Table 2). Similarly,
+R:S ratios were more than two-fold higher in a
+nonirrigated rubber tree (Hevea brasiliensis) plan-
+tation than in an irrigated one, after 10 yr of dry
+season irrigation (Devakumar et al., 1999). Further
+support for R:S shifts comes from long-term
+irrigation studies on coniferous forests as part of the
+EXMAN
+(Experimental
+manipulation
+of
+forest
+ecoystems) project in Europe (Devisser et al., 1994).
+In three of these studies, irrigation treatments over
+3–4 yr diminished net root production relative to
+nonirrigated treatments, while irrigation increased
+aboveground
+biomass
+production.
+By
+contrast,
+Bredemeier et al. (1998) observed no eﬀect of prior
+artiﬁcial exposure to drought on subsequent Norway
+spruce (Picea abies) stand root production.
+For predictions of the long-term response of
+forests
+to
+climate
+changes,
+all
+of
+the
+studies
+mentioned are limited when extrapolating results to
+mature deciduous forests. Gradient studies are
+subject to confounding by genetic diﬀerences in the
+trees growing at the various sites, as well as other
+uncontrolled site diﬀerences. The extrapolation of
+results from short-term studies on seedlings under
+artiﬁcial conditions to long-term eﬀects on ‘natural’,
+mature forests, obviously requires considerable cau-
+tion. Even stand-irrigation results are often based on
+relatively short-term responses.
+Our conﬁdence in predicting forest responses to
+climate change are greatly limited by the lack of
+long-term
+ecosystem-level
+studies.
+Practical
+limitations are obvious barriers to such research.
+Such studies as, the EXMAN Project, where inputs
+of water and nutrients were controlled in ﬁve stands
+for 3 or 4 yr (Beier & Rasmussen, 1993; Devisser et
+al., 1994), the long-term irrigation research of
+Devakumar et al. (1999) on rubber tree plantations
+and the research of Gower et al. (1992), have begun
+to shed light on the eﬀects of varying the supply of
+water on forest growth responses, above and below-
+ground (Table 2). Even in the context of global
+climate change, the 2–4-yr length of the Gower et al.
+(1992) and Devisser et al. (1994) studies might be
+considered relatively short-term!
+These long-term studies were conducted on
+conifer forests of the western USA or on tropical
+evergreen species. Root-growth strategies for co-
+niferous tree species are often quite distinct from
+those for deciduous angiosperms tree species (Bauhs
+& Messier, 1999). The oak–hickory and northern
+hardwood forests of the north temperate zone have
+been identiﬁed as sensitive plant communities that
+are likely to show early responses to climate change.
+The upland oak-dominated forest found on the
+Walker Branch Watershed (Oak Ridge, TN, USA) is
+a good example of one of these critical and com-
+mercially valuable vegetation zones. The Through-
+fall Displacement Experiment (TDE) on this water-
+shed has the speciﬁc goals of looking at the long-term
+eﬀects of both decreasing and increasing water inputs
+to the forest ﬂoor on a mature deciduous forest in the
+warm temperate zone. This 1.92-ha ﬁeld manipu-
+lation experiment is examining both aboveground
+and belowground changes, looking not only at
+alterations in tree growth, mortality and C allocation,
+but also at the morphological and physiological
+mechanisms behind such changes.
+Belowground research as part of the TDE is
+focused on the four hypotheses mentioned pre-
+viously, by comparing ﬁne-root responses across the
+three treatments. To date, data from minirhizotrons,
+root coring, soil pits and root ingrowth cores have
+been collected over a 5-yr period. Net changes in
+absolute values for ﬁne-root biomass, root length
+density, root:shoot ratios and root distribution will
+not be available until repeated coring and excavation
+are carried out after the ﬁfth year. However, in the
+meantime, 5 yr of minirhizotron observations on
+120
+RESEARCH
+J. D. Joslin et al.
+root elongation across the treatments are being used
+as indicators of the treatment eﬀects on ﬁne-root
+production, ratios of ﬁne-root production:foliar
+production and FRT rates. This paper presents
+results from this extensive period of minirhizotron
+data collection and relate them to three of the four
+hypotheses introduced earlier – alterations in (1) root
+production, both gross and net, (2) root:shoot ratios
+and (3) rates of FRT. Evidence pertaining to
+hypothesis 4 (changes in rooting depth) is currently
+lacking. The results presented will be restricted to
+root elongation occurring in the area of greatest
+treatment eﬀect (as evidenced by the monitoring of
+soil water potential) and of greatest rooting density,
+that is the upper 30 cm of the soil proﬁle on the
+upper slope of the experimental plots. Greater root
+response variability in minirhizotron observations,
+coupled with smaller treatment diﬀerences in both
+soil water potentials and ﬁne-root responses at lower
+depths, make the results from the upper 30 cm the
+most interesting.
+
+Study site
+All the belowground research reported here was
+conducted as part of the TDE, which is located on
+the
+Walker
+Branch
+Watershed
+in
+Oak
+Ridge,
+Tennessee, USA. At the beginning of the study, the
+overstory of the site was dominated by chestnut oak
+(Quercus prinus L.), white oak (Quercus alba L.),
+black gum (Nyssa sylvatica Marsh.) and red maple
+(Acer rubrum L.) (Table 3). The understory was
+dominated by red maple, dogwood (Cornus ﬂorida
+L.) and black gum with 29, 19 and 14% of sapling
+basal area, respectively. Initial stand basal area
+averaged 21 m# ha−", with each treatment plot nearly
+identical. Mean leaf area index averaged 6.3 m# m−#
+over the ﬁrst 4 yr of the study. The study site lies on
+a southeast-facing slope with uniform residual soils
+that are cherty, infertile and permeable. The soils are
+classiﬁed as Typic Paleudults by the US system of
+soil classiﬁcation. Soil water content at ﬁeld capacity
+Table 3. Overstory composition: total basal area by species and treatment plot for trees "0±1 m diameter at
+breast height at the beginning of the study (March 1994) (adapted from Hanson et al., 1998)
+Total basal area by treatment plot (m# ha−") (% of total)
+Species
+Wet
+Ambient
+Dry
+Entire area
+Quercus prinus
+5±6 (26%)
+3±3 (16%)
+7±7 (36%)
+5±5 (26%)
+Quercus alba
+6±5 (30%)
+4±9 (24%)
+1±9 (9%)
+4±4 (21%)
+Nyssa sylvatica
+1±9 (9%)
+3±8 (19%)
+2±9 (14%)
+2±9 (14%)
+Acer rubrum
+2±4 (11%)
+2±3 (11%)
+2±5 (12%)
+2±4 (11%)
+Quercus spp.
+2±1 (10%)
+1±4 (7%)
+1±7 (8%)
+1±8 (9%)
+Liriodendron tulipifera
+1±3 (6%)
+1±4 (7%)
+2±3 (11%)
+1±6 (8%)
+Other species
+1±7 (8%)
+2±9 (14%)
+2±2 (11%)
+2±3 (11%)
+Total
+21±6
+20±1
+21±2
+21±0
+ranges from 22% to 36%, depending on horizon. At
+‘wilting point’ (®1.5 MPa), soil water contents
+varied between 8–12% (Hanson et al., 1995, 1998).
+Mean annual precipitation is 1358 mm and mean
+temperature is 14.1°C. Soil temperature at 10-cm
+depth regularly ﬂuctuates from an average low of
+1°C in January to a high of 26°C in July–August;
+lows during the growing season occur in early April
+and average 9°C. Further details on the TDE site,
+climate, soils and vegetation are available in Hanson
+et al. (1995, 1998).
+The TDE experimental system is designed to
+maintain multi-year changes in soil water potential
+similar to those which might occur as a result of
+global climate change. Treatments simulate both a
+33% increase (wet treatment) and a 33% decrease
+(dry treatment) in water inputs, relative to control
+(ambient treatment). The reduction of throughfall
+by 33% was used because the soil water reductions
+expected would be similar to that experienced during
+a 1980’s drought in the southeastern USA (Cook et
+al., 1988), that resulted in increased mortality of tree
+saplings and reduced growth of vegetation (Jones et
+al., 1993). These treatments were generated by
+passively collecting and diverting 33% of throughfall
+from the dry plot to the wet plot through a system of
+trough-like collectors and pipes. The wet, dry and
+ambient treatments each encompass an area of 0.64
+ha (80¬80 m). No statistically signiﬁcant diﬀerences
+in soil temperature were observed among treatments.
+Additional details on daily climate and the ex-
+perimental design and performance of the TDE
+system are available in Hanson et al. (1995, 1998).
+Minirhizotrons
+Minirhizotron tubes (30) were installed in the TDE
+site between February and March 1994. In each of
+the three TDE treatment plots, 10 tubes were
+installed, ﬁve along the upper slope (at approx.
+340 m elevation) and ﬁve along the lower slope (at
+approx. 330 m elevation). The tubes were installed
+pointing upslope at a 45° angle to the slope to a
+vertical depth of 90 cm; however, because of the
+RESEARCH
+Water eﬀects on forest root systems
+121
+high rock content, the maximum depth achieved
+for most tubes was between 60 and 90 cm. The
+minirhizotron tubes (5.7 cm in diameter and 130 cm
+long) were etched with a single set of 130 equally
+spaced grids (Hendrick & Pregitzer, 1992). Only
+data from the upper 30 cm of the soil proﬁles on the
+upper slope tubes are presented in this paper.
+Video imaging of roots, using a Circon color
+agricultural camera (Circon Inc., Santa Barbara,
+CA, USA), was conducted during the growing
+seasons 1994–98. In each year, imaging began in
+April before bud break and continued biweekly
+throughout October, with all root activity on the
+etched face of the tube recorded along with depth
+information. With the exception of 1995, 13–15
+observation periods were recorded each year. Video
+images were digitized using PC based MSU-
+ROOTS software (Michigan State University In-
+structional Media Center; Enslin et al., 1994) to
+measure root length production and to track the
+changes in the condition of ﬁne roots over the
+duration of the study. All roots were categorized as
+new since the last sampling date, previously existing
+and still alive, dead, or missing. If a root became
+‘missing’ before being categorized as dead, and did
+not reappear at a future photographic session, it was
+considered dead from the time of disappearance.
+Fine-root production and mortality measurements
+were made as described by Hendrick & Pregitzer
+(1993). Such minirhizotron measurements of ﬁne-
+root elongation and mortality do not provide direct
+measurements of total ﬁne-root-biomass production
+or mortality; however, they do serve as excellent
+indices of such production and mortality across
+treatments. Root production (elongation) for a given
+time interval was considered to be the length of new
+roots in each set of ﬁve minirhizotrons per plot,
+present on a given sample date, that were not present
+on the previous sample date. Further details on
+minirhizotron installation and data collection can be
+found in Joslin & Wolfe (1998, 1999).
+Fine-root turnover
+Fine-root turnover refers to the process by which
+roots are produced, die and decompose. It has been
+deﬁned as the ratio of annual ﬁne-root production to
+either the maximum or minimum belowground
+standing crop of ﬁne roots (Dahlman & Kucera,
+1965; Gill & Jackson, 2000). Although this ratio
+provides an index of the rate at which new roots are
+being produced to replace those which are dying, we
+prefer a deﬁnition that acknowledges that the rate of
+turnover is really the average rate for all three
+processes involved – production, mortality and
+decomposition (Joslin & Henderson, 1982, 1987;
+Santantonio & Hermann, 1985). While it is com-
+monly assumed that ecosystems are near equilibrium
+with regard to the rates of these three processes, so
+that there is no net long-term change in the biomass
+of roots over time, this is clearly not the case in some
+ecosystems, particularly aggrading ones, or for
+certain time intervals. Hence, while the ratio of one
+of these processes, such as root production, to the
+standing crop is sometimes used as an index of
+turnover rate, the ideal measure would be one that
+employs the average of all three rates. Here we use
+the sum of root elongation (an index of production)
+and of root mortality as an index of turnover rate,
+since we
+have
+no
+data
+for this
+site
+on
+root
+decomposition rate, and since the initial standing
+ﬁne-root biomass did not diﬀer signiﬁcantly across
+treatment plots or slope position (Joslin & Wolfe,
+1999). It should be noted that because minirhizotron
+elongation and mortality measurements cannot be
+accurately converted into root biomass production
+estimates (e.g. in units of kg ha−" yr−"), these
+measurements cannot provide absolute turnover
+ﬁgures. Instead these measures are used as an index
+of FRT, for comparison purposes across treatments.
+Soil water measurements
+Soil water content was measured across the entire
+study area using an 8¬8-m grid system of time
+domain reﬂectometers (TDR; Soil Moisture Equip-
+ment Corp., Santa Barbara, CA, USA: Hanson et
+al., 1998). Soil-water measurements were conducted
+biweekly during the growing season and monthly
+during the dormant season, beginning in August
+1992. Raw volumetric soil-water-content data from
+TDR measurements were corrected for mean coarse
+fraction of soil at a given location (Hanson et al.,
+1998). Soil-water-content measurements were con-
+verted to soil water potential using soil water
+retention
+curves
+developed
+from
+representative
+samples from the A, AE and EB horizons. Curves
+were developed from gravimetric measurements of
+soil water content and psychrometric measures of
+soil water potential. Thermocouple psychrometers
+(SC-10,
+Decagon
+Devices,
+Inc.,
+Pullman,
+Washington, DC, USA) were calibrated with a
+graded series of NaCl solutions before each use and
+these soil temperature readings were used in the
+conversion of TDR measurements into soil-water-
+potential values. Soil-water-potential conversions
+using the retention curve for the AE horizon were
+used for the 0–35 cm depth interval, as this horizon
+occupied 75% of the upper 35 cm of the proﬁle and
+was considered most representative of this depth
+interval.
+Foliar production and phenology
+Fallen leaves and other aboveground litter (i.e. twigs,
+seeds,
+etc.)
+were
+collected
+from
+49
+baskets
+(0.53¬0.38 m ¯ 0.20 m−#) per treatment, located
+near the central 49 (7 rows¬7 columns) grid
+122
+RESEARCH
+J. D. Joslin et al.
+0
+–1
+–1.5
+–2.5
+–2.0
+–0.5
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Fine root growth (mm)
+Soil matrice potential (¾)
+26 Apr
+11 Oct
+22 Aug
+15 July
+8 June
+1994
+24 May
+16 Oct
+11 Sept
+31 July
+26 June
+1995
+5 Apr
+22 May
+14 Sept
+17 Aug
+17 July
+22 June
+1996
+28 Mar
+11 Oct
+9 June
+19 Oct
+11 Sept
+4 Aug
+7 July
+1997
+16 Apr
+10 June
+8 Sept
+3 Aug
+20 July
+5 July
+1998
+5 May
+5 Oct
+13 May
+4 Sept
+8 Aug
+8 July
+10 June
+16 Apr
+30 Sept
+12 May
+10 Sept
+11 Aug
+10 July
+10 June
+14 Apr
+7 Oct
+11 May
+30 Aug
+3 Aug
+6 July
+8 June
+13 Apr
+28 Sept
+26 Oct
+5 June
+22 Sept
+26 Aug
+28 July
+1 July
+27 Apr
+21 Oct
+16 June
+7 Oct
+8 Sept
+11 Aug
+14 July
+19 May
+Fig. 1. Periodic root elongation intensity (mean net elongation per tube per 14-d interval) observed at minirhizotron faces in the upper 30 cm of the soil
+proﬁles on the upper slope position over the ﬁve growing seasons by treatment, juxtaposed with soil matric water potential for the upper 35 cm of the
+upper slope by treatment for the corresponding period. Standard errors of the mean are given for 1998 root elongation as an illustration of variability in
+the biweekly data. Treatments: open squares, wet (33% increase in water input relative to control); closed triangles, ambient (control); closed circles,
+dry (33% decrease in water input relative to control).
+RESEARCH
+Water eﬀects on forest root systems
+123
+intersections of each of the three treatment blocks of
+the TDE. Litter collections were made periodically
+throughout each of the 5 yr (typically mid-May, late-
+Aug, and biweekly during the period 1 Oct–1 Dec of
+each year). Litter samples were oven-dried at 70°C,
+sorted into foliar and nonfoliar components and the
+total mass determined. Litter production was then
+converted to a ground area (g m−#) basis.
+Statistical analyses and data presentation
+For the purposes of data presentation and statistical
+analysis, the primary experimental unit used was the
+summed response for each individual minirhizotron
+tube, across the appropriate depth and time interval.
+Since this study focuses on the upper 30 cm of the
+soil proﬁles on the upper slope, summed data from
+each of these tubes on root production, root mortality
+and net root production were analyzed. Thus,
+whether annual or 5-yr comparisons between treat-
+ments are being presented, they are based on
+summed data from ﬁve minirhizotron tubes per
+treatment. Statistical comparisons are restricted to
+annual
+and
+5-yr
+treatment
+diﬀerences.
+Mini-
+rhizotron data were collected almost entirely during
+the growing season (Apr–Oct) as already mentioned.
+During the summer of 1996, video equipment failure
+occurred in late June which resulted in a ‘data gap’
+for the remainder of that growing season; conse-
+quently no data are available from this period. As
+most of this period of missing data corresponded
+with the most severe drought of the research period
+(Fig. 1) and our data indicate minimal root growth
+occurring below –0.6 MPa water potential, we
+believe that very little root growth occurred in any of
+the treatments during the majority of this period.
+Mortality certainly occurred during this time, but
+we obviously have no data to report. The 5-yr totals
+for ﬁne-root production and mortality do not include
+data from this period nor from any winter period.
+Checks for the occurrence of winter period root
+elongation, from January and March 1998 mini-
+rhizotron measurements, revealed that this winter
+period accounted for !5% of the annual total.
+Data collected during the ﬁrst year (1994), im-
+mediately
+following
+minirhizotron
+installation,
+strongly suggest that excessive root proliferation
+occurred during this year as a result of root pruning
+eﬀects and soil disturbance impacts on nutrient
+availability (Fig. 1). This eﬀect and its probable
+causes have been thoroughly described in Joslin &
+Wolfe (1999). Whereas the magnitude of mini-
+rhizotron measures of root growth appears to have
+been ampliﬁed during this period, there is no
+evidence for any treatment-related biases. The data
+from this ﬁrst year appear to correctly reﬂect, across
+the three treatments, the phenology of ﬁne-root
+production and mortality, as well as the relative
+quantity of organic matter involved in these pro-
+cesses. Hence raw data from this ﬁrst year are
+presented and analyzed along with data from the
+subsequent 4 yr.
+Statistical tests for the main eﬀects of treatment on
+an annual basis were conducted for each year using
+analysis of estimated coeﬃcients based on response
+curves (Gurevitch & Chester, 1986; Meredith &
+Stehman, 1991). Polynomial response functions were
+ﬁtted to 13 repeated measures of each experimental
+unit using orthogonal contrasts. The estimated
+coeﬃcients of these functions were then treated as
+primary
+data
+and
+analyzed
+using
+univariate
+ANOVA, with the GLM procedure of SAS (SAS
+Institute, 1989). Statistical tests for diﬀerences
+between treatments for the entire 5-yr period were
+conducted using univariate ANOVA on summed
+data across the appropriate tubes within a treatment
+and the appropriate depth interval. ANCOVA was
+applied to annual stand foliar production values,
+using the 1993 data as the covariate. Main eﬀects of
+year and treatment were evaluated with signiﬁcance
+determined from P-values !0.10.
+
+Patterns of ﬁne-root production and mortality over
+ﬁve years
+Fig. 1 juxtaposes ﬂuctuations in soil water potential
+and ﬁne-root elongation at biweekly intervals across
+the 5 yr of minirhizotron observation. As already
+discussed in the Materials and Methods section and
+in Joslin & Wolfe (1999), the magnitude of all
+responses during the ﬁrst year (1994) are ampliﬁed
+across all three treatments. One trend that is
+apparent in several growing seasons (predominantly
+1994, 1996 and 1998) is that early summer growth
+tends to last longer in the wet treatment than the
+ambient or dry, and that mid-summer growth spurts
+are more likely in the wet treatment. Whereas
+diﬀerences in soil water potential are small between
+treatments, soil drying generally occurs sooner and is
+more severe in the dry and ambient treatments.
+Previous studies with white oak indicate that root
+elongation rate begins to decline markedly at soil
+water potentials between ®0.4 and ®0.8 MPa and
+virtually ceases at c. ®1.2 MPa (Larson & Whitmore,
+1970; Teskey & Hinckley, 1981; Kuhns et al., 1985).
+Our results with this mix of upland hardwood
+species generally agree with this conclusion (Fig. 1;
+J. D. Joslin et al., unpublished). It is noteworthy that
+root elongation rate diﬀerences among treatments
+often begin to occur as soil water potentials reach
+®0.5 MPa in the dry treatment before the other
+treatments. Also few diﬀerences occur among treat-
+ments in late August, September or October, as a lull
+in root growth in these upland hardwood species
+seems to occur at this time of year regardless of
+moisture conditions (Teskey & Hinckley, 1981;
+124
+RESEARCH
+J. D. Joslin et al.
+400
+350
+300
+250
+200
+150
+100
+50
+0
+Root length (mm)
+1994
+1995
+1996
+1997
+1998
+Year
+Fig. 2. Mean annual gross root growth (elongation) by treatment for each of the 5 yr (1994–98). Gross
+growth ¯ mean of sums of new root elongation measurements over a particular growing season for all ﬁve
+minirhizotron tubes within a treatment. Error bars indicate SE of the mean. Treatment diﬀerences were not
+signiﬁcantly diﬀerent in any year. Treatments: closed columns, wet (33% increase in water input relative to
+control); grey columns, ambient (control); open columns, dry (33% decrease in water input relative to control).
+140
+120
+100
+80
+60
+40
+20
+0
+–20
+–40
+–60
+1994
+1995
+1996
+1997
+1998
+Year
+Root length (mm)
+Fig. 3. Mean annual net root growth (elongation) by treatment for each of the 5 yr (1994–98). Net growth ¯
+gross growth minus mortality. Error bars indicate SE of the mean. Treatment diﬀerences were signiﬁcant
+(P !0.1) only during 1 yr, 1996. Treatments: closed columns, wet (33% increase in water input relative to
+control); grey columns, ambient (control); open columns, dry (33% decrease in water input relative to control).
+McClaugherty et al., 1982; Kuhns et al., 1985;
+Joslin & Henderson, 1987; Hendrick & Pregitzer,
+1996).
+Gross and net root production for the entire 5-yr
+period are depicted in Figs 2 and 3. This depiction
+highlights how ﬁne-root growth (both gross and net)
+in trees in the dry treatment, after their root growth
+was reduced relative to the other treatments during
+the
+ﬁrst
+growing
+season
+(1994),
+subsequently
+exceeded that in the other two treatments during the
+following 2 yr. The higher level of gross ﬁne-root
+production in the dry compared with the other two
+treatments was marginally signiﬁcant (P !0.10)
+only during 1996 (Joslin & Wolfe, 1998). In the
+fourth and ﬁfth years, gross production was com-
+parable across all treatments. As noted previously,
+the 1998 pattern was similar to 1994, with the dry
+treatment lagging behind the other two as an
+apparent result of an earlier mid-season drought in
+the dry treatment. The wet treatment August peak in
+1998 appears to be the result of an outlier, though
+determination of outliers is diﬃcult with a highly
+RESEARCH
+Water eﬀects on forest root systems
+125
+800
+600
+400
+200
+–200
+0
+–400
+–600
+–800
+Wet
+Ambient
+Dry
+Treatment
+Root length (mm)
+Fig. 4. Summation of 5 yr of gross root growth (grey columns), root mortality (open columns) and net root
+growth (closed columns) by treatment. Each value represents the mean of summed root length data for ﬁve
+minirhizotron tubes. Error bars indicate SE of the mean. No treatment diﬀerences are statistically signiﬁcant.
+600
+500
+400
+300
+200
+100
+0
+1994
+1995
+1996
+1997
+1998
+Mean
+Year
+Foliar litter mass (g m–2)
+Wet plot
+Dry plot
+Ambient
+Mean litterfall production
+Fig. 5. Annual stand litterfall production (covariate adjusted means) by year and treatment, using the 1993 data
+as the covariate. ANCOVA for treatment main eﬀects revealed no statistically signiﬁcant treatment eﬀects for
+any year, nor any diﬀerences between years.
+spatially and temporally variable parameter such as
+root growth, and with our relatively small number of
+minirhizotron tubes. Despite periods of drought
+during 1995 and 1998, ﬁne-root production was
+apparently able to compensate with suﬃcient growth
+during more favorable periods.
+Five-year totals of ﬁne-root production, mortality
+and turnover
+Fig. 4 depicts the summation, across all 5 yr, of gross
+ﬁne-root production, ﬁne-root mortality and net
+ﬁne-root production (the diﬀerence between the ﬁrst
+two values). Whereas diﬀerences are small in gross
+root production, the highest rate was found in the
+wet treatment, closely followed by the dry treatment.
+Although treatment diﬀerences were not signiﬁcant,
+the highest mortality was also found in the wet
+treatment; in fact, mortality was 20% and 60%
+higher in the wet treatment than in the dry and
+ambient treatments, respectively. This combination
+of higher mortality and higher production rates in
+the wet treatment resulted in comparable amounts of
+net root production across the three treatments.
+Mortality in all treatments occurred at a relatively
+steady rate throughout each growing season, with no
+apparent relationship to soil water potential or soil
+temperature.
+126
+RESEARCH
+J. D. Joslin et al.
+Using the average of root production and root
+mortality as an index of root turnover (as described
+in the Materials and Methods section) the com-
+bination of higher root production and higher
+mortality in the wet treatment resulted in indices of
+FRT that were 18% and 34% higher than in the dry
+and ambient treatments, respectively (Table 4).
+Treatment diﬀerences again were not statistically
+signiﬁcant. The high rate of FRT in the wet
+treatment coincides with the fact that this treatment
+also had the highest rate of leaf litter decomposition
+(Todd & Hanson, 1999).
+Foliar production and ﬁne root: foliage ratio
+Annual stand-level foliar biomass production (as
+indexed by litterfall) has not been signiﬁcantly
+aﬀected by either the throughfall treatments during
+any of the 5 yr or by interannual diﬀerences in
+weather. Annual production of aboveground litterfall
+at the stand level (Fig. 5) has been nearly constant at
+approx. 500 g m−# yr−". Whereas the annual in-
+crement of coarse root, bole and tree branch
+production (i.e. woody increment) has not been
+signiﬁcantly aﬀected by the TDE treatments to date,
+statistically
+signiﬁcant
+(P
+!0.05)
+inter-annual
+diﬀerences in wood production have been observed
+(Hanson et al., 1998; P. J. Hanson & D. E. Todd,
+pers. comm.). Because there have been no stat-
+istically signiﬁcant eﬀects of the water regime
+treatments on either foliar biomass (Fig. 5) or on the
+long-term net increment in ﬁne-root biomass (as
+indexed by net root elongation measures in mini-
+rhizotrons; Fig. 4), we cannot conclude from these
+data that there has been any signiﬁcant treatment
+eﬀect on ﬁne root : foliage ratio over this 5-yr period.
+
+One of the most interesting ﬁndings from these
+observation of root elongation over 5 yr, is the
+apparent resilience of this forest ecosystem in
+ostensibly maintaining a relatively constant ﬁne root
+mass over the long-term (i.e. net root length
+production is not signiﬁcantly diﬀerent from zero for
+any treatment), despite seeming short-term declines
+during certain periods, particularly in the dry
+treatment. This resilience, most evident in the dry
+treatment, is dependent on the ability of the stand to
+respond opportunistically with spurts of root growth
+during periods of high soil moisture and moderate
+temperature. The results of our research indicate
+that, in this ecosystem, the major pulse of root
+elongation is apparently genetically programmed to
+occur in late spring and early summer, a pattern
+similar to that in many deciduous forests in much of
+the temperate zone (Joslin, 1983; Hendrick &
+Pregitzer, 1996; J. D. Joslin et al., unpublished). At
+the same time, they also seem to indicate that root
+growth can be increased, in an apparent compensa-
+tory response, following periods of net reduction in
+ﬁne-root biomass.
+After 5 yr, these results do not give a clear picture
+of root system response to drought exposure in this
+forest ecosystem. Net ﬁne-root growth was signiﬁ-
+cantly higher (P !0.10) during 1996 in the dry
+treatment, a response that could be interpreted as a
+whole-stand adaptation to the reduced water inputs
+and higher water stress experienced during the
+previous 2 yr (Joslin & Wolfe, 1998). Conversely,
+this response could be interpreted as simply an
+‘equilibration response’, with the dry stand restoring
+its previous level of ﬁne-root biomass.
+The absence of either higher net ﬁne-root pro-
+duction or higher R:S ratios in the dry treatment
+compared with other treatments is not consistent
+with some of the literature (Tables 1, 2). As noted
+previously, several studies on seedlings (Osunubi &
+Davies, 1981, English oak; Bongarten & Teskey,
+1987; Tomlinson & Anderson, 1998) support the
+concept of a shift towards increased ﬁne-root growth
+with increasing drought exposure. Similarly, at least
+three long-term irrigation studies on plantations or
+forests provide support for root responses of a
+similar nature and}or a shift in R:S ratio (Gower et
+al., 1992; Devisser et al., 1994; Devakumar et al.,
+1999). The results of Devakumar et al. (1999),
+showing a decrease in R:S ratio with irrigation, are
+particularly convincing evidence for the particular
+species studied, since the study was conducted over
+a 10-yr period. However, the results of certain
+experiments
+with
+contrasting
+results
+indicate,
+perhaps, that such a response may be highly species-
+speciﬁc (Osunubi & Davies, 1981; Pallardy &
+Rhoads, 1993).
+In our study, the possibility that root systems are
+tapping supplies of water deep in the soil proﬁle
+during
+dry
+periods
+has
+not
+been
+eliminated.
+Although a very high bulk density (bulk density ¯
+approx. 1.75 g cm−$) argillic horizon appears to
+restrict root growth to the upper 90 cm, there
+remains
+the
+possibility
+that
+some
+roots
+have
+penetrated this barrier. The lack of strong or highly
+signiﬁcant responses to the water treatments might,
+in part, be a result of reduced treatment eﬀects
+caused by this phenomenon. This question is
+currently being investigated. A second reason for the
+lack of statistically signiﬁcant results is the relatively
+high variability in growth rates observed between
+minirhizotrons, coupled with the relatively low
+number of tubes (n ¯ 5) per treatment, and slope
+position. Such reductions in statistical power are
+largely the result of the high labor requirements of
+measuring root growth and the natural variability in
+root distribution and responses; two factors that
+have consistently plagued root research since its
+inception. The Devisser et al. (1994) study closely
+examined ﬁne-root biomass responses at three of ﬁve
+RESEARCH
+Water eﬀects on forest root systems
+127
+Table 4. Indices of ﬁne-root turnover (FRT) by
+treatment for the entire ﬁve-year period
+Treatment
+Wet
+Ambient
+Dry
+FRT index
+1070 (221)
+796 (75)
+908 (136)
+FRT index equals mean values, for all ﬁve minirhizotron
+tubes within a treatment, for summed root elongation plus
+summed root mortality. SE of the mean in parentheses.
+Treatment diﬀerences are not statistically signiﬁcant.
+sites. Whereas more available water resulted in lower
+ﬁne-root biomass relative to the drier treatment
+(control), the diﬀerences were rather small and not
+statistically
+signiﬁcant.
+Positive
+aboveground
+responses to irrigation in their study, however,
+resulted in a decrease in R:S ratio with increasing
+water availability. Our results, however, lend little
+support, at least at this site across this range of water
+stress, to the hypothesis of a shift towards an increase
+in the ﬁne-root biomass:foliar biomass ratio with
+increasing drought exposure.
+The results of our study indicate a higher index of
+FRT in the wet treatment than in the ambient and
+dry
+treatments
+(Table
+4).
+Again
+treatment
+diﬀerences were not statistically diﬀerent. The wet
+treatment had the highest gross ﬁne-root production
+over 5 yr of treatment; it also had the highest ﬁne-
+root mortality rate. In a review on root turnover, Gill
+& Jackson (2000) found that globally there was a
+positive correlation between mean annual precipita-
+tion and FRT (r ¯­0.57), but that the relation-
+ship was not statistically signiﬁcant. By contrast,
+Ewel & Gholz (1991) predicted no change in
+FRT with decreasing moisture availability in slash
+pine (Pinus elliottii) stands. Similarly, Santantonio &
+Hermann (1985) and Pregitzer et al. (1993) found
+greater average ﬁne-root longevity (i.e. lower turn-
+over rates) under moist conditions than under dry
+conditions.
+These conﬂicting results can perhaps be explained
+by the diﬀerent experimental designs and conditions.
+The Santantonio & Hermann (1985) experiment
+deals with a water availability gradient across three
+Douglas-ﬁr-dominated stands. Genetic diﬀerences
+in the Douglas-ﬁr stock are certain to have occurred
+at these three separate sites where tree species have
+had millenia to adapt genetically to site conditions.
+Such a genetically evolved diﬀerence in tree root-
+growth pattern is clearly diﬀerent from a short-term
+adaptive response of an existing stand to a changing
+water regime. The Pregitzer et al. (1993) study, by
+contrast, examined the rate of FRT in isolated
+irrigated microsites within a stand over a relatively
+short time period. In such a study, root longevity in
+a small part of a root system exposed to portions of
+the soil environment with unique characteristics, is
+likely to be quite diﬀerent from the response of an
+entire root system to changes introduced uniformly
+across the stand and its soil proﬁle over a long time
+span.
+Fine-root mortality, across 5 yr of our study
+showed no seasonal pattern during the 6-month
+growing season, remaining fairly constant through-
+out the period. These results are consistent with
+those reported in Edwards & Norby (1999), even
+though artiﬁcial temperature manipulations did
+increase mortality rates across temperature treat-
+ments in that study. Such lack of seasonality in
+mortality is somewhat paradoxical since there is
+support for shorter root life spans in trees as soil
+temperatures increase (Hendrick & Pregitzer, 1993;
+Pregitzer et al., 1997, 2000). Gill & Jackson (2000)
+also noted that one might expect higher root
+mortality
+rates
+during
+periods
+of
+high
+soil
+temperatures since root respiration rates, nutrient
+mineralization rates, and pathogen and herbivore
+levels all increase with soil temperature. Although
+our results do not support such a seasonal pattern,
+the frequent occurrence of reductions of soil moist-
+ure during the periods of highest soil temperature
+are likely to introduce a confounding variable. Our
+results also do not support an increase in root
+mortality during leaf senescence in this upland oak
+forest, in contrast to other studies on northern
+hardwood
+forests
+(McClaugherty
+et
+al.,
+1982;
+Hendrick & Pregitzer, 1992, 1996).
+Perhaps greater insight into possible causes of
+higher rates of root turnover in our wet treatment
+can be gained from studies that demonstrate that
+root turnover rates are positively related to the
+availability of nitrogen (N) in an ecosystem. The
+throughfall treatments in our study are having a
+statistically signiﬁcant impact on the accumulation
+of foliar litter on the forest ﬂoor, such that litter
+layers are thickest on the dry site and thinnest on the
+wet site (Todd & Hanson, 1999). This is clearly a
+result of a positive relationship between wetness of
+the forest ﬂoor and litter decomposition rate. An
+unexpected result of this litter accumulation is
+increased immobilization of N and other nutrients in
+the thicker forest ﬂoor layers on the drier sites,
+probably resulting in its reduced availability for root
+uptake. Evidence of lower nutrient availability in soil
+solution nutrient concentrations on the dry site
+compared with the wet site has recently appeared (D.
+W. Johnson, pers. comm.). Although this hypothesis
+is speculative at this point, Eissenstat et al. (2000)
+note that increasing N concentrations in ﬁne roots
+reduce longevity, which he attributes, in part, to
+increasing respiration costs with higher N levels, as
+reported by both Reich et al. (1998) and Pregitzer et
+al. (1998). Nadelhoﬀer et al. (1985) and Nadelhoﬀer
+(2000) have also found that root turnover rates are
+positively correlated with soil N availability across a
+number of studies. Eissenstat et al. (2000) further
+128
+RESEARCH
+J. D. Joslin et al.
+propose that the beneﬁts accrued from maintaining
+roots with short life spans are reduced when
+nutrients are in short supply.
+High rates of FRT should result in greater
+volumes of soil being explored, or at least the same
+volumes being ‘re-explored’ with higher frequency,
+and sites of high nutrient availability being ‘tapped’.
+Whereas such exploration would appear to come at a
+greater cost to trees in terms of C utilization for the
+construction of new roots, the trees on the wetter site
+also have greater annual rates of C ﬁxation and so can
+perhaps ‘aﬀord’ the C expenditure. These hypoth-
+eses point to the continued need to study the
+interactions of water stress, nutrient availability and
+C ﬁxation eﬃciency in future studies.
+
+This research was sponsored by the Program for Eco-
+system Research, Environmental Sciences Division, Oﬃce
+of Health and Environmental Research, US Department
+of Energy under contract no. DE-ACO5-96OR22464
+with Lockheed Martin Energy Research Corporation.
+Research was conducted on the Oak Ridge National
+Environmental Research Park. The authors acknowledge
+the assistance of Emily Childs, Brian Hale, Alan Mays,
+Anita Rose, Larry Shelton, Brian Sunderland and Erich
+Webber in photographing and analyzing root data; of E.
+G. O’Neill in providing minirhizotron equipment and
+other assistance; of Ron Hendricks and Kurt Pregitzer and
+associates at Michigan State University in providing
+methodological and equipment advice; and of Donald
+Todd and numerous students in maintaining the TDE site
+and collecting supporting data.
+
+Bauhs J, Messier C. 1999. Soil exploitation strategies of ﬁne
+roots in diﬀerent tree species of the southern boreal forest of
+eastern Canada. Canadian Journal of Forest Research 29:
+260–273.
+Beier BC, Rasmussen L, eds. 1993. EXMAN – Experimental
+manipulation of forest ecoystems in Europe. Ecosystem Research
+Report no. 7. Brussels, Belgium: Commission of the European
+Communities.
+Bongarten BC,Teskey RO. 1987. Dry weight partitioning and its
+relationship to productivity in loblolly pine seedlings from
+seven sources. Forest Science 33: 255–267.
+Bredemeier M, Blanck K, Dohrenbusch A, Lamersdorf N,
+Meyer AC, Murach D, Parth A, Xu YJ. 1998. The Solling
+roof project – site characteristics, experiments, and results.
+Forest Ecology and Management 101: 281–293.
+Caldwell MM, Richards JH. 1986. Competing root systems:
+morphology and models of absorption. In: Givnish TJ, ed. On
+the economy of plant form and function. Cambridge, UK:
+Cambridge University Press, 251–273.
+Comeau PG, Kimmins JP. 1989. Above- and below-ground
+biomass and production of lodgepole pine on sites with diﬀering
+soil moisture regimes. Canadian Journal of Forest Research 19:
+447–454.
+Cook ER, Kablack MA, Jacoby GC. 1988. The 1986 drought in
+the southeastern United States: how rare an event was it?
+Journal of Geophysical Research 93: 14257–14260.
+Dahlman RC, Kucera CL. 1965. Root productivity and turnover
+in native prairie. Ecology 46: 84–89.
+Davis MB. 1989. Lags in vegetation response to greenhouse
+warming. Climatic Change 15: 75–82.
+Devakumar AS, Prakash PG, Sathik MBM, Jacob J. 1999.
+Drought alters the canopy architecture and micro-climate of
+Hevea brasiliensis trees. Trees – structure and function 13:
+161–167.
+Devisser PH, Beier BC, Rasmussen L, Kreutzer K, Steinber
+N, Bredemeier M, Blanck K, Farrell EP, Cummins T.
+1994. Biological response of 5 forest ecosystems in the EXMAN
+project to input changes of water, nutrients and atmospheric
+loads. Forest Ecology and Management 68: 15–29.
+Dickman DI, Nguyen PV, Pregitzer KS. 1996. Eﬀects of
+irrigation and coppicing on above-ground growth, physiology,
+and ﬁne-root dynamics of two ﬁeld-grown hybrid poplar
+clones. Forest Ecology and Management 80: 163–174.
+Edwards
+NT,
+Norby
+RJ.
+1999.
+Belowground
+respiratory
+responses of sugar maple and red maple saplings to atmospheric
+CO# enrichment and elevated air temperature. Plant and Soil
+206: 85–97.
+Eissenstat DM, Wells CE, Yanai RD, Whitbeck JL. 2000.
+Building roots in a changing environment: implications for
+root longevity. New Phytologist 147: 33–42.
+Enslin WR, Pregitzer KS, Hendrick RL. 1994. MSU ROOTS:
+A PC-based program to quantify plant roots. East Lansing, MI,
+USA: Center for Remote Sensing, Michigan State University.
+Ewel KC, Gholz HL. 1991. A simulation-model of the role of
+belowground dynamics in a Florida pine plantation. Forest
+Science 37: 397–438.
+Gill RA, Jackson RB. 2000. Global patterns of root turnover for
+terrestrial ecosystems. New Phytologist 147: 13–31.
+Gower ST, Vogt KA, Grier CC. 1992. Carbon dynamics of
+Rocky-Mountain Douglas-ﬁr – inﬂuence of water and nutrient
+availability. Ecological Monographs 62: 43–65.
+Gurevitch J, Chester ST Jr. 1986. Analysis of repeated measures
+experiments. Ecology 67: 251–255.
+Hanson PJ, Todd DE, Edwards NT, Huston MA. 1995. Field
+performance of the Walker Branch Throughfall Displacement
+Experiment. In: Jenkins A, Ferrier RC, Kirby C, eds. Ecosystem
+manipulation experiments: scientiﬁc approaches, experimental
+design and relevant results. Ecosystems Research Report No. 20.
+Brussels, Belgium: Commission of the European Communities,
+307–313.
+Hanson PJ, Todd DE, Huston MA, Joslin JD, Croker JL, Auge
+RM. 1998. Description and ﬁeld performance of the Walker
+Branch Throughfall Displacement Experiment: 1993–1996.
+Oak Ridge National Laboratory Technical Manuscript ORNL}
+TM-13568. Oak Ridge, TN, USA.
+Hendrick RL, Pregitzer KS. 1992. The demography of ﬁne
+roots in a northern hardwood forest. Ecology 73: 1094–1104.
+Hendrick RL, Pregitzer KS. 1993. The dynamics of ﬁne root
+length, biomass, and nitrogen content in two northern hard-
+wood ecosystems. Canadian Journal of Forest Research 23:
+2507–2520.
+Hendrick RL, Pregitzer KS. 1996. Temporal and depth-related
+patterns of ﬁne root dynamics in northern hardwood forests.
+Journal of Ecology 84: 167–176.
+Houghton JT, Meira-Filho LG, Callander BA, Harris N,
+Kattenberg A, Maskell K, eds. 1996. Climate change 1995:
+the science of climate change, New York, USA: Cambridge
+University Press.
+Jones EA, Reed DD, Mroz GD, Liechty HO, Cattelino PJ.
+1993. Climate stress as a precursor to forest decline: paper birch
+in northern Michigan, 1985–1990. Canadian Journal of Forest
+Research 23: 229–233.
+Joslin JD. 1983. The quantiﬁcation of ﬁne root turnover in a white
+oak stand. PhD thesis, University of Missouri, Columbia, MO,
+USA.
+Joslin JD, Henderson GS. 1982. A test of the budget method: a
+revised approach to the measurement of ﬁne root turnover. In:
+Muller RN, ed. Central Hardwood Forest Conference, Pro-
+ceedings of the Fourth Meeting, 1982, University of Kentucky,
+Lexington. Lexington, KY, USA: University of Kentucky,
+220–228.
+Joslin JD, Henderson GS. 1987. Organic matter and nutrients
+associated with ﬁne root turnover in a white oak stand. Forest
+Science 33: 330–346.
+Joslin JD, Wolfe MH. 1998. Impacts of water input manipu-
+lations on ﬁne root production and mortality in a mature
+hardwood forest. Plant and Soil 204: 165–174.
+Joslin JD, Wolfe MH. 1999. Disturbances during minirhizotron
+installation can aﬀect root observation data. Soil Science Society
+of America Journal 63: 218–221.
+RESEARCH
+Water eﬀects on forest root systems
+129
+Kattenberg A, Giorgi F, Grassl H, Meehl GA, Mitchell JFB,
+Stouﬀer RJ, Tokioka T, Weaver AJ, Wigley TML. 1996.
+Climate models – projections of future climate. In: Houghton
+JT, Meira-Filho LG, Callander BA, Harris N, Kattenberg A,
+Maskell K, eds. Climate change 1995: The science of climate
+change,
+New
+York,
+USA:
+Cambridge
+University
+Press,
+283–357.
+Kozlowski TT, Kramer PJ, Pallardy SG. 1991. The physio-
+logical ecology of woody plants, 2nd edn. San Diego, CA, USA:
+Academic Press Ltd.
+Kuhns MR, Garrett HE, Teskey RO, Hinckley TM. 1985.
+Root growth of black walnut trees related to soil temperature,
+soil water potential, and leaf water potential. Forest Science 31:
+617–629
+Larson MM. 1980. Eﬀects of atmospheric humidity and zonal
+soil water stress on initial growth of planted northern red oak
+seedlings. Canadian Journal of Forest Research 10: 549–554.
+Larson MM, Whitmore FW. 1970. Moisture stress aﬀects root
+regeneration and early growth of red oak seedlings: inﬂuence of
+soil temperature Forest Science 16: 495–498.
+McClaugherty CA, Aber JD, Melillo JM. 1982. The role of ﬁne
+roots in the organic matter and nitrogen budgets of two forested
+ecosystems. Ecology 63: 1481–1490.
+Meredith MP, Stehman SV. 1991. Repeated measures experi-
+ments in forestry: focus on analysis of response curves.
+Canadian Journal of Forest Research 21: 957–965.
+Nadelhoﬀer KJ. 2000. The potential eﬀects of nitrogen de-
+position on ﬁne-root production in forest ecosystems. New
+Phytologist 147: 131–139.
+Nadelhoﬀer KJ, Aber JD, Melillo JM. 1985. Leaf litter
+production and soil organic matter dynamics along a nitrogen
+availability gradient in southern Wisconsin (USA). Ecology 66:
+1377–1390.
+Osunubi O, Davies WJ. 1981. Root growth and water relations
+of oak and birch seedlings. Oecologia (Berlin) 51: 343–350.
+Overpeck JT, Bartlein PJ, Webb T III. 1991. Potential
+magnitude of future vegetation change in eastern North
+America: comparisons with the past. Science 254: 692–695.
+Pallardy SG, Rhoads JL. 1993. Morphological adaptations to
+drought in seedlings of deciduous angiosperms. Canadian
+Journal of Forest Research 23: 1766–1774.
+Pastor J, Post WM. 1988. Response of northern forests to CO#-
+induced climate change. Nature 334: 55–58.
+Pregitzer KS, Hendrick RL, Fogel R. 1993. The demography
+of ﬁne roots in response patches of water and nitrogen. New
+Phytologist 125: 575–580.
+Pregitzer KS, King JS, Burton AJ, Brown SS. 2000. Responses
+of tree ﬁne roots to temperature. New Phytologist 147: 105–115.
+Pregitzer KS, Kubiske ME, Yu CK, Hendrick RL. 1997.
+Relationships among root branch order, carbon, and nitrogen in
+four temperate species. Oecologia 111: 302–308.
+Pregitzer KS, Laskowski MJ, Burton AJ, Lessard VC, Zak
+DR. 1998. Variation in sugar maple root respiration with root
+diameter and soil depth. Tree Physiology 18: 665–670.
+Reich PB, Walters MB, Tjoelker MG, Vanderklein D,
+Buschena C. 1998. Photosynthesis and respiration rates
+depend on leaf and root morphology and nitrogen concentration
+in nine boreal tree species diﬀering in relative growth rate.
+Functional Ecology 12: 395–405.
+Rind D, Goldberg R, Hansen J, Rosenzweig C, Ruedy R.
+1990. Potential evapotranspiration and the likelihood of future
+drought. Journal of Geophysical Research 95(D7): 9983–10004.
+Santantonio D, Hermann RK. 1985. Standing crop, production,
+and turnover of ﬁne roots on dry moderate, and wet sites of
+mature Douglas-ﬁr in western Oregon. Annales des Sciences
+Forestieres 42: 113–142.
+SAS Institute. 1989. SAS}STAT1 users guide. Version 6. 4th edn,
+Vol. 1 and 2. Cary, NC, USA: SAS Institute.
+Solomon AM. 1986. Transient response of forests to CO#-
+induced climate change: simulation modeling experiments in
+eastern North America. Oecologia 68: 567–579.
+Teskey RO, Hinckley TM. 1981. Inﬂuence of temperature and
+water potential on root growth of white oak. Physiologia
+Plantarum 52: 363–369.
+Todd DE, Hanson PJ. 1999. Sustained precipitation manipu-
+lations alter forest litter mass in an oak forest. In: Abstracts from
+the Annual Meeting of the Soil Science Society of America,
+October 31–November 14, 1999, Salt Lake City, Utah. Madison,
+WI, USA: Soil Science Society of America, 295.
+Tomlinson PT, Anderson PD. 1998. Ontogeny aﬀects response
+of northern red oak seedlings to elevated CO# and water stress.
+II. Recent photosynthate distribution and growth. New Phy-
+tologist 140: 493–504.
+Torreano SJ, Morris LA. 1998. Loblolly pine root growth and
+distribution under water stress. Soil Science Society of America
+Journal. 62: 818–827.
+van Buijtenen JP, Bilan V, Zimmerman RH. 1976. Morpho-
+physiological characteristics related to drought resistance in
+Pinus taeda. In: Cannell MGR, Last FT, eds. Tree physiology
+and yield improvement. London, UK: Academic Press, 348–359.
+Wigley TML, Briﬀa KR, Jones PD. 1984. Predicting plant
+productivity and water resources. Nature 312: 102–103.

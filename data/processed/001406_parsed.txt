@@ -1,0 +1,197 @@
+United States 
+   Pollution Prevention 
+EPA744R-94-005
+Environmental Protection 
+   and Toxics 
+February 1998
+Agency 
+   (7406)
+Cleaner Technologies
+Substitutes Assessment
+Industry:  Screen Printing
+DRAFT
+Use Cluster:  Screen Reclamation
+Developed in Cooperation with the Screen
+Printing Association International and the
+University of Tennessee Center for Clean
+Products and Clean Technologies
+(2/12/98)
+Cleaner Technologies Substitutes
+Assessment
+Executive Summary
+Industry:  Screen Printing
+Use Cluster:  Screen Reclamation
+United States Environmental Protection Agency
+Office of Pollution Prevention and Toxics
+Design for the Environment Program
+Developed in Cooperation with the Screen Printing Association
+International and the University of Tennessee Center for Clean
+Products and Clean Technologies
+DRAFT
+February 1998
+DRAFT—September 1994
+iii
+Disclaimer
+Cleaner Technologies Substitutes Assessment:  Screen Printing Screen Reclamation is
+in draft form, should not be quoted or cited, and has not been subjected to required EPA policy
+or technical reviews.  The final version of this document is expected to be released in late-1994. 
+Information on cost and product usage in this document was provided by individual product
+vendors and has not been independently corroborated by EPA.  The use of specific trade names
+or the identification of specific products or processes in this document are not intended to
+represent an endorsement by the EPA or the U.S. government.  Discussion of environmental
+statutes is intended for information purposes only; this is not an official guidance document
+and should not be relied on by companies in the printing industry to determine applicable
+regulatory requirements.
+DRAFT—September 1994
+iv
+Acknowledgements
+A special thanks is extended to the Screen Printing Association International (SPAI),
+particularly Marci Kinter and Dan Marx, for their extensive efforts in the Design for the
+Environment Screen Printing Project.  We thank the members of the SPAI Environmental
+Committee for their helpful comments and prior review of sections of this document.
+This document was also developed in cooperation with the University of Tennessee
+Center for Clean Products and Clean Technologies; much gratitude to Lori Kincaid and Dean
+Menke for their active participation and useful advice.
+We appreciate the participation of the following screen printing manufacturers in
+various aspects of the project, including the performance demonstration.  These manufacturers
+can be contacted through the information given below.  A particular thanks is extended to our
+performance demonstration co-chair, Neil Bolding, from Autotype Americas.
+Amerchem
+Image Technology, Inc.
+165 W. Mittel Drive
+1170 North Armando St.
+Wood Dale, IL 60191
+Anaheim, CA 92806
+Contact: J.P. Godinez
+Contact: Harry Emtiaz
+(708) 616-8600
+(714) 632-5292
+Autotype Americas
+KIWO
+2050 Hammond Drive
+P.O. Box 1009
+Schaumberg, IL 60173-3810
+Seabrook, TX 77586
+Contact: Neil Bolding
+Contact: Clark King
+(708) 303-5900
+1-800-KIWO-USA
+Ciot International Services
+Nichols and Associates, Inc.
+48 Marlin Drive
+111575 Rupp Drive
+Whippany, NJ 07981-1279
+Burnsville, MN 55337
+Contact: George Ciottone
+Contact: Oliver Nichols
+(201) 503-1922
+(612) 895-1766
+Franmar Chemical Associates
+Ruemelin Manufacturing
+P.O. Box 483
+3860 N. Palmer St.
+Normal, IL 61761
+Milwaukee, WI 53212
+Contact: Frank Sliney
+Contact: Charlie Ruemelin
+(309) 452-7526
+(414) 962-6500
+Hydro Engineering, Inc.
+865 West 2600 South
+Salt Lake City, UT 84119
+Contact: Bob Roberts
+(801) 247-8424
+DRAFT—September 1994
+v
+The performance demonstration was successful due to the voluntary participation and
+cooperation of the following screen printing facilities.  We appreciate your valuable efforts.
+Action Graphics, Louisville, KY
+Artcraft, Portland, OR
+Burlington Graphic Systems, Union Grove, WI
+Coburn Corporation, Lakewood, NJ
+Fastamps and Fasigns, Randolph, MA
+Gangi Studios, N. Hollywood, CA
+Gillespie Decals Inc., Wilsonville, OR
+Identification Products, Bridgeport, CT
+Ivey-Seright International, Inc., Seattle, WA
+Karagraphic, Kent, WA
+Leading Edge Graphics, Minnetonka, MN
+M&M Displays Inc., Philadelphia, PA
+Masterscreen Products Inc., Portland, OR
+Mobius, Inc., Eugene, OR
+Modagraphics, Rolling Meadows, IL
+Morrison & Burke, Inc., Santa Ana, CA
+Nameplate & Panel Technology, Carol Stream, IL
+Paramount Screen Printing, Milwaukee, WI
+Philadelphia Decal, Philadelphia, PA
+Phillips Plastics Co., Fredonia, WI
+Quantum Graphics, Redmond, WA
+Royal Label, Boston, MA
+Screen Process Specialists, Plymouth, WI
+Much gratitude is extended to the following members of the U.S. Environmental
+Protection Agency DfE Staff and DfE Printing Project Risk Management-2 (RM-2) Workgroup
+who worked on this document.
+DfE Staff:
+Stephanie Bergman
+Economics, Exposure and Technology Division, OPPT
+Beverly Boyd
+Economics, Exposure and Technology Division, OPPT
+Kathryn Pirrotta Caballero
+Economics, Exposure and Technology Division, OPPT
+Jed Meline
+Economics, Exposure and Technology Division, OPPT
+RM-2 Workgroup:
+Robert Boethling
+Exposure Assessment Branch, Economics, Exposure and
+Technology Division, OPPT
+Richard Clements
+Environmental Effects Branch, Health & Environmental
+Review Division, OPPT
+James Darr
+Risk Analysis Branch, Chemical Screening & Risk
+Assessment Division, OPPT
+Susan Dillman
+Technical Programs Branch, Chemical Management
+Division, OPPT
+Sondra Hollister
+Exposure Assessment Branch, Economics, Exposure and
+Technology Division, OPPT
+Pat Kennedy
+Exposure Assessment Branch, Economics, Exposure and
+Technology Division, OPPT
+Susan Krueger
+Regulatory Impacts Branch, Economics, Exposure and
+Technology Division, OPPT
+Fred Metz
+Industrial Chemistry Branch, Economics, Exposure and
+Technology Division, OPPT
+DRAFT—September 1994
+vi
+Paul Quillen
+Chemical Engineering Branch, Economics, Exposure and
+Technology Division, OPPT
+Paul Randall
+Office of Research & Development, Cincinnati, Ohio
+Heidi Siegelbaum
+New Chemicals Branch, Chemical Control Division, OPPT
+This document was prepared under EPA Contract 68-D2-0064, Work Assignment 2-23,
+by ICF Incorporated of Fairfax, VA, under the direction of James Dickson.  The EPA Work
+Assignment Manager was Stephanie Bergman.
+The basis of the Performance Demonstration was a report prepared by Abt Associates,
+specifically Cheryl Keenan and Andrew Stoeckle, of Cambridge, MA for the EPA Office of
+Research & Development.
+For More Information
+For more information on the DfE Printing Project or other DfE industry projects, contact
+Pollution Prevention Information Clearinghouse (PPIC)
+U.S. Environmental Protection Agency
+401 M Street, SW (PM-211A)
+Washington, DC  20460
+Telephone:  202/260-1023
+Facsimile:  202/260-0178
+or
+The Design for the Environment Program
+U.S. Environmental Protection Agency
+Office of Pollution Prevention and Toxics
+401 M Street, SW (7406)
+Washington, DC  20460
+Telephone: 202/260-1678

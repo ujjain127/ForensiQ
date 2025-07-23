@@ -1,0 +1,282 @@
+Vostal  5/17/2005
+C  B  
+C  B  
+E  R
+E  R
+Update on FDA Review of 
+Bacterial Detection Devices for a 
+Platelet Release Test Indication 
+and Extension of Platelet Dating
+Jaro Vostal, M.D. Ph.D.
+Division of Hematology, OBRR, 
+CBER
+ACBSA
+May 17, 2005
+Vostal  5/17/2005
+C  B  
+C  B  
+E  R
+E  R
+Current approach to validation of a release test 
+indication for bacterial detection devices
+• Obtain data on performance of the FDA cleared 
+devices when used to meet the AABB bacterial 
+detection standard 5.1.5.1 since 3/04
+• Use data as a basis for approval of 7 day platelets 
+provided there is a commitment to perform a post 
+marketing study
+• Post marketing study will consist of additional 
+cultures on outdated products (day 7)  to confirm 
+the day 1 negative culture readings 
+• Goal is to demonstrate a point estimate of risk at 
+day 7 to be 1/10,000 with a 95% upper confidence 
+limit that the risk is <1/5,000
+• Study size ~ 50,000 platelet units
+Vostal  5/17/2005
+C  B  
+C  B  
+E  R
+E  R
+Testing Scheme for Bacterial Detection Device 
+Performance Validation (Q/C and Post Market Data)
+Bacterial 
+detection
+result
+Repeat 
+testing
+True Positive
+Q/C
+data
+False Positive
+Repeat 
+testing
+True Negative
+Post 
+market 
+data
+7 day storage
+Clinical use
+False Negative
+Vostal  5/17/2005
+C  B  
+C  B  
+E  R
+E  R
+Current post marketing study design 
+outline
+• First sample collected early in storage 
+– Aerobic and anaerobic bottles
+• Second sample collected at outdate 
+after day 7
+– Aerobic and anaerobic bottles
+Vostal  5/17/2005
+C  B  
+C  B  
+E  R
+E  R
+Analysis of post marketing data
+• Determine residual risk of bacterial 
+contamination for 7 day platelets tested early in 
+storage by a bacterial detection device
+• Acceptable risk for aerobic and anaerobic 
+bacteria
+– point estimate of risk at day 7 to be 1/10,000 with a 
+95% upper confidence limit that the risk is <1/5,000
+• Comparison of detection rates for aerobic and 
+anaerobic bacteria in the aerobic and anaerobic 
+bottles
+• If aerobic detection method is capable of 
+reducing the residual risk of anaerobic bacteria 
+as defined above, then anaerobic method will 
+not be required for release of platelets
+Vostal  5/17/2005
+C  B  
+C  B  
+E  R
+E  R
+Alternative post market studies for a release 
+test indication of a bacterial detection device
+• Sponsor may choose not to test the early 
+storage sample by an anaerobic method 
+(aerobic testing only) if test sensitivity is 
+enhanced in other ways
+• Due to the undefined risk of anaerobic 
+bacteria this type of a study design will need 
+to be performed under an IND if platelets are 
+transfused after day 5 storage
+Vostal  5/17/2005
+C  B  
+C  B  
+E  R
+E  R
+Alternative post market studies for a release 
+test indication of a bacterial detection device
+• The final sample at storage out-date will need 
+to be tested with both an aerobic and 
+anaerobic method
+• A finding of clinically significant anaerobes at 
+outdate would require a change in the study 
+protocol to culture for anaerobes early in 
+storage
+• Data from the study can be used to seek 
+clearance of the device as a release test
+Vostal  5/17/2005
+C  B  
+C  B  
+E  R
+E  R
+Current estimate of risk from anaerobic bacteria 
+contaminating platelet products
+• True risk has not been defined 
+• Published studies and reporting to the FDA 
+indicate that the risk exists although it is 
+small
+• Three mortalities from transfusion 
+transmitted anaerobic bacteria reported to 
+the FDA
+• 2000-
+Clostridium p.  
+red cells
+• 2001-
+Clostridium p. 
+platelets
+• 2005-
+Eubacterium limosum
+platelets
+Vostal  5/17/2005
+C  B  
+C  B  
+E  R
+E  R
+Literature reports of anaerobic 
+bacteria in blood products
+Year
+Product
+Organism
+Outcome
+1998*
+Platelets
+Clostridium p. fatal
+2001**
+RBCs
+Clostridium p. sepsis
+*   McDonald et al.  Transfusion Medicine 8:19-22
+** Blajchman, M.A. et al.  Transfusion 41: 427
+Vostal  5/17/2005
+C  B  
+C  B  
+E  R
+E  R
+te Boekhorst, P.A.W  et al. Clinical 
+significance of bacteriologic screening in 
+platelet concentrates. Transfusion 45: 514-
+519, 2005
+• Sanquin Blood Bank Southwest Region, 
+Rotterdam, the Netherlands
+• 28,104 pooled platelet concentrates 
+• Aerobic and Anaerobic BacT/ALERT (5-10 
+ml/bottle)
+• 184 (~1/153) confirmed positive for bacteria
+• 9 (~1/3000) anaerobic Gram positive cocci
+• 9(~1/3000) Propionibacterium acnes
+Vostal  5/17/2005
+C  B  
+C  B  
+E  R
+E  R
+European experience with extended storage of 
+platelet pools.  Ruby N.I Pieters et al.  FDA Blood 
+products Advisory Committee, March 2003
+• Sanquin Blood Bank Northwest Region, 
+Amsterdam, The Netherlands
+• 8,778 pooled platelet concentrates
+• BacT/ Alert, Aerobic and Anaerobic 
+bottles (5-10 ml/bottle)
+• 76 confirmed positive (~1/120)
+• 37 Propionibacterium spp (~1/237)
+• 3 Peptostreptococcus spp (~1/3000)
+Vostal  5/17/2005
+C  B  
+C  B  
+E  R
+E  R
+Munksgaard, L. et al.  Detection of bacterial 
+contamination of platelet components:  six year 
+experience with the BacT/ALERT system.  
+Transfusion 2004; 44:1166-1173
+• Odense University  Hospital, Odense, 
+Denmark
+• 22, 057 platelet concentrates ( buffy 
+coat)
+• Aerobic bottle only, 10 mL/bottle
+• 70 confirmed positives (~1/300)
+• 20 Propionibacterium acnes (~1/2000)
+• 1 Clostridium perfringens (~1/20,000)
+Vostal  5/17/2005
+C  B  
+C  B  
+E  R
+E  R
+Is Propionibacterium acnes contaminated 
+blood a risk to transfusion recipients?
+Jakab, E. et al. Severe infections caused by proprionibacterium acnes:
+an underestimated pathogen in late postoperative infections 
+Yale J. Biol. Med 1996, 69:477-82
+• Frequent contaminant of blood
+• Has been associated with clinical syndromes of 
+endocarditis, post craniotomy infections, 
+arthritis, spondylodiscitis, endophthalmitis, 
+pansinusitis
+• Predominant predisposing conditions were 
+surgery preceding infection 2wks – 4 years and 
+implantation of foreign bodies
+• Can be a pathogen in certain patients
+• May cause disease in some patients receiving 
+contaminated blood
+Vostal  5/17/2005
+C  B  
+C  B  
+E  R
+E  R
+Clinical consequences of transfusing P.acnes 
+contaminated platelet products
+Perez, P et al.  Determinants of transfusion associated bacterial contamination: results 
+of the French BACTHEM Case-control study. Transfusion 2001, 41:862-872
+• Clinical presentation of 16 cases of bacterial 
+contamination associated with PC transfusions 
+(nonfatal)
+• 3/16 were positive for Propionibacterium acnes
+• Patient 
+clinical presentation
+shock or sepsis
+• Male 41
+fever, urticaria
+none
+• Male 62
+fever, fatigue, 
+consciousness disorders
+severe sepsis
+• Male 71
+fever, chills, anxiety, tachypnea,
+erythematous rash
+none
+Vostal  5/17/2005
+C  B  
+C  B  
+E  R
+E  R
+Summary of submission process for bacterial 
+detection devices to release platelet products and 
+extend platelet shelf life to 7 days.
+• Define analytical sensitivity (spiking studies)
+• Device cleared for Q/C use
+– Collect Q/C data to determine true and false positive rate in 
+clinical setting
+• Use Q/C data to support submission of a release test indication
+• Clearance of release test with commitment to do a post 
+marketing study
+• Current study design:  aerobic and anaerobic detection from 
+early sampling confirmed with aerobic and anaerobic detection 
+at outdate
+• Alternate designs of post marketing studies will be considered 
+but may need to be done under an IND

@@ -1,0 +1,725 @@
+ 
+FS 17-1 
+EVA/121/BAS 
+ 
+ 
+GENERIC 
+EVA REF 
+ 
+ 
+ 
+ 
+ 
+ 
+GENERIC EVA REFERENCE 
+P1 OVERVIEW .......................................................................................................   FS 17-3 
+P1 FORWARD FACE (FACE 1) .............................................................................   FS 17-4 
+P1 AFT FACE (FACE 4) .........................................................................................   FS 17-5 
+P1 ZENITH SIDE (FACE 2) ....................................................................................   FS 17-6 
+P1 NADIR SIDE (FACE 6)......................................................................................   FS 17-7 
+P1 HANDRAILS AND WIFs, FACES 1, 2, AND 6 ..................................................   FS 17-8 
+P1 HANDRAILS AND WIFs, FACE 4 .....................................................................   FS 17-9 
+P1 ORUs.................................................................................................................   FS 17-12 
+QD TOOLBAGS INSTALLED ON CREWLOCK ZENITH.......................................   FS 17-14 
+QD TOOLBAG CONTENTS ...................................................................................   FS 17-15 
+FLUID QD BAIL LEVERS .......................................................................................   FS 17-16 
+FLUID QD RELEASE TOOLS ................................................................................   FS 17-17 
+FLUID QD CAP TOOLS..........................................................................................   FS 17-18 
+1.0-IN BUTTON DEPRESS TOOL .........................................................................   FS 17-19 
+1.0-IN BUTTON DEPRESS TOOL – INSTALLED..................................................   FS 17-20 
+1.5-IN FLUID QD SPOOL POSITIONING DEVICE................................................   FS 17-21 
+1.0-IN FLUID QD SPOOL POSITIONING DEVICE................................................   FS 17-22 
+0.5-IN FLUID QD SPOOL POSITIONING DEVICE...................................................FS 17-23 
+0.5-IN SPD BOOTIE EXTENSION .........................................................................   FS 17-23 
+TETHER SHUTTLE STOWAGE.............................................................................   FS 17-24 
+MT STOP................................................................................................................   FS 17-25 
+WVS EXTERNAL TRANSCEIVER ASSY (WETA).................................................   FS 17-26 
+NODE WETA INSTALL – CP12..............................................................................   FS 17-27 
+P1 WETA INSTALL – CP08....................................................................................   FS 17-28 
+TRRJ OVERVIEW – STBD.....................................................................................   FS 17-29 
+TRRJ OVERVIEW – P1 PORT/S1 STBD...............................................................   FS 17-30 
+RADIATOR OVERVIEW.........................................................................................   FS 17-31 
+UHF ANTENNA ......................................................................................................   FS 17-32 
+ 
+ 
+FS 17-2 
+EVA/121/BAS 
+ 
+GENERIC 
+EVA REF 
+ 
+ 
+ 
+ 
+This Page Intentionally Blank 
+P1 OVERVIEW (Keel Pins and Drag Links stowed) 
+ 
+FS 17-3 
+EVA/121/BAS 
+     
+ 
+    
+ 
+ 
+ 
+Aft 
+Port 
+Zenith 
+Radiator Beam 
+Ammonia Tank Assy 
+Vent Panel 
+UMA (MT WS 6) 
+UMA (MT WS 7) 
+Nadir Utility Tray  
+(seg-seg connections 
+ at each end) 
+Radiator Beam 
+Launch Locks 
+Ammonia Tank  
+Assy 
+RBVM 
+(1 of 6) 
+Radiator Beam
+Thermostat  
+Box 
+UHF Antenna 
+(shown stowed) 
+Zenith Utility Tray 
+(seg-seg connections at each end) 
+Face 
+6 
+Face 1 
+Face 
+2 
+Aft 
+Port
+Nadir
+P1 FORWARD FACE (FACE 1) 
+ 
+FS 17-4 
+EVA/121/BAS 
+ 
+ 
+ZENITH 
+STBD 
+CETA 
+CART 
+PUMP 
+MODULE 
+TUS REEL 
+GUIDE (1 OF 18) 
+TRRJ/FHRC 
+UHF ANT 
+(Shown stowed, 
+now deployed) 
+DRAG LINK 
+KEEL PIN
+DDCU
+RJMCs MDMs 
+RPMC
+BAY 06 
+BAY 08 
+BAY 10
+BAY 12 
+BAY 14 
+BAY 16
+MT WORKSITE 6 
+MT WORKSITE 7
+SHROUDS 
+NOT SHOWN
+NOTE:  Drag links and keel pins stowed 
+P1 AFT FACE (FACE 4) 
+ 
+FS 17-5 
+EVA/121/BAS 
+ 
+ 
+PORT 
+NADIR 
+AMMONIA TANK 
+ASSEMBLY 
+NITROGEN TANK 
+ASSEMBLY 
+GRAPPLE FIXTURE 
+(FOR SRMS HANDOFF)
+INBOARD 
+RADIATOR 
+3 
+CENTER 
+RADIATOR 
+2 
+OUTBOARD 
+RADIATOR 
+1 
+CAPTURE 
+LATCH 
+NOTE:  Shrouds not shown on radiator beams and aft face 
+GRAPPLE FIXTURE 
+(FOR SSRMS P1 INSTALL) 
+P1 ZENITH SIDE (FACE 2) 
+ 
+FS 17-6 
+EVA/121/BAS 
+ 
+ 
+ 
+ 
+ 
+ 
+PORT 
+AFT 
+AMMONIA TANK 
+ASSEMBLY 
+ZENITH 
+UTILITY 
+TRAY 
+CETA CART 
+(shown stowed 
+for launch) 
+SFU PNL 
+A123  
+TORQUE 
+BOX
+THERMOSTAT 
+BOX  
+THERMOSTAT 
+BOX 
+MDM  
+WVS 
+ANTENNA 
+PORT AND 
+RADIATOR 
+BEAM LAUNCH 
+LOCKS (18) 
+(All released) 
+P1 NADIR SIDE (FACE 6) 
+ 
+FS 17-7 
+EVA/121/BAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aft 
+Port 
+Drag Link Stowage Brackets 
+(Drag Links and Keel Pins not shown) 
+CETA Cart shown in 
+the launch 
+configuration with 
+brake handles 
+stowed 
+UHF Antenna 
+(Shown stowed) 
+P1 HANDRAILS AND WIFS, FACES 1, 2, AND 6 
+ 
+FS 17-8 
+EVA/121/BAS 
+ 
+FORWARD FACE 
+P1 HANDRAILS AND WIFS, FACE 4 
+ 
+FS 17-9 
+EVA/121/BAS 
+ 
+BAY 6 
+BAY 8 
+BAY 10 
+BAY 12 
+BAY 14 
+BAY 16 
+VIEW LOOKING PORT
+P1 HANDRAILS AND WIFS, FACE 4 (Cont) 
+ 
+FS 17-10 
+EVA/121/BAS 
+STARBOARD
+NADIR
+FORWARD
+jsc48024-113_006.cnv
+3614
+3619
+3625
+3631
+3635
+3648
+3658
+3665
+3669
+3677
+3685
+FACE 2
+3691
+FACE 1
+FACE 6
+3692
+3616
+3621
+3623
+3627
+3633
+3637
+3657
+3651
+3667
+3659
+3675
+3671
+3679
+3687
+3688
+FACE 4
+ 
+3650 
+BAY 16 
+BAY 14 
+BAY 12 
+BAY 10 
+BAY 8 
+BAY 6 
+VIEW LOOKING STBD 
+SECTION B - B
+VIEW OF BULKHEAD BETWEEN
+ISS BAY 10 AND BAY 12
+(PI RAY 3 AND PI RAY 4)
+jsc48024-113_009
+3638
+FORWARD
+NADIR
+3640
+3641
+3642
+3639
+P1 HANDRAILS AND WIFS, FACE 4 (Cont) 
+ 
+FS 17-11 
+EVA/121/BAS 
+ 
+ 
+AFT FACE 
+*OI WIF 
+(Not installed) 
+P1 ORUs 
+ 
+FS 17-12 
+EVA/121/BAS 
+ 
+ 
+ 
+ 
+AC Baseband 
+Signal Processor 
+(ACBSP) 
+Ammonia Tank 
+Assy (ATA) 
+Radiator Beam Valve Modules 
+(RBVMs) 
+Cable Guide Assy (CGA) 
+(1 of 18) 
+UHF 
+Antenna 
+Wireless Video 
+System (WVS) 
+ 
+Nadir RPCMs 
+DC-DC Converter 
+Unit (DDCU) 
+MDMs 
+Rotary Joint Motor Controllers 
+(RJMCs) 
+TRRJ/FHRC 
+Drive Lock 
+Assys (DLAs) 
+Pump Module 
+Assy (PM-A) 
+Nitrogen 
+Tank Assy 
+(NTA) 
+S-Band 
+Transponder 
+(XPDR) 
+Umbilical Mating Assy 
+(UMA) (1 of 2) 
+ZENITH 
+PORT 
+FORWARD 
+Zenith RPCMs 
+Posn H 
+4B-G 
+4B-F 
+4B-E 
+Posn D 
+Posn C 
+1A-B 
+1A-A 
+2B-A 
+2B-B 
+2B-C 
+2B-D 
+3A-E 
+3A-F 
+3A-G 
+Posn H 
+#1 
+#1
+#2 
+#2 
+P1 ORUs (Cont) 
+ 
+FS 17-13 
+EVA/121/BAS 
+ 
+ 
+PORT 
+ZENITH 
+FORWARD
+PTR MDM 
+Thermostat 
+Box #1 
+Wireless Video 
+System (WVS) 
+Radiator Beam 
+Valve Module 
+(RBVM) (1 of 6) 
+Radiators 
+Ammonia Tank Assy 
+(ATA) 
+Thermostat 
+Box #2 
+QD TOOLBAGS INSTALLED ON CREWLOCK ZENITH 
+ 
+FS 17-14 
+EVA/121/BAS 
+Toolbox 1
+Toolbox 2 
+0556
+0551 
+0561 
+Gap Spanners 
+(-303) 
+0552
+0557
+0558
+0553
+0562 
+Short integral 
+tether 
+(2 per bag) 
+(Bag not installed)
+ 
+ 
+FWD 
+STBD 
+QD TOOLBAG CONTENTS 
+ 
+FS 17-15 
+EVA/121/BAS 
+ 
+(location obscured)
+FLUID QD BAIL LEVERS 
+ 
+FS 17-16 
+EVA/121/BAS 
+ 
+Small QD Bail Lever 
+Tether point 
+Small QD Bail Lever 
+1.5-in QD Bail Lever 
+Tether point 
+FLUID QD RELEASE TOOLS 
+ 
+FS 17-17 
+EVA/121/BAS 
+ 
+Small QD Release Tool 
+w/FID Gauge 
+1.5-in QD Release Tool 
+w/FID Gauge 
+tether 
+point 
+tether 
+point 
+FLUID QD CAP TOOLS 
+ 
+FS 17-18 
+EVA/121/BAS 
+ 
+1/2-in QD Cap Tool 
+1-in QD Cap Tool 
+1/4-in QD Cap Tool 
+1.0-IN BUTTON DEPRESS TOOL 
+ 
+FS 17-19 
+EVA/121/BAS 
+ 
+Plunger to engage QD 
+Button (Hidden) 
+Soft Dock Lever 
+(Both Sides) 
+Lower Saddle
+Hard Dock
+(moves up and
+down to engage
+backside of QD
+button)
+EVA Knob with 7/16-in
+EVA Bolt Drive
+Status Indicator
+(Both Sides)
+C Clamp Structure 
+(Lightening Pocket Not 
+Shown) 
+7/16-in EVA Bolt
+NOTE:  Button Depress Tool  
+ 
+requires installation  
+ 
+of Anti-Kickback Tool 
+ 
+to engage QD 
+J-lock to fix knob in place
+1.0-IN BUTTON DEPRESS TOOL – INSTALLED 
+ 
+FS 17-20 
+EVA/121/BAS 
+ 
+Anti-Kickback Tool 
+Button Depress Tool can be 
+installed on QD from either side 
+1.5-IN FLUID QD SPOOL POSITIONING DEVICE 
+ 
+FS 17-21 
+EVA/121/BAS 
+ 
+FWD PART 
+(WISHBONE STOP) 
+AFT PART 
+(REAR SPRING FINGER STOP) 
+LANYARD 
+BALL PLUNGER 
+BLACK MARK FACES FLUID LINE 
+BLACK MARK FACES MALE QD 
+BLACK MARKS 
+FACE EACH 
+OTHER 
+1.0-IN FLUID QD SPOOL POSITIONING DEVICE 
+ 
+FS 17-22 
+EVA/121/BAS 
+ 
+2. ROTATE INTO PLACE
+3. PULL TOWARD 
+FLUID LINE TO 
+SEAT HOOKS
+2. ROTATE INTO PLACE
+3. PULL TOWARD 
+FLUID LINE TO 
+SEAT HOOKS
+1. HOOK UNDER BOSS 
+OF UNLOCKED 
+BUTTON COLLAR 
+0.5-IN FLUID QD SPOOL POSITIONING DEVICE 
+ 
+FS 17-23 
+EVA/121/BAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.5-IN SPD BOOTIE EXTENSION 
+ 
+ 
+ 
+LOCK PIN 
+(2 Position Ball Detent) 
+SLIDER 
+(2 Position Ball Detent) 
+BASE 
+OUT
+IN 
+Pile Velcro 
+Hook Velcro 
+TETHER SHUTTLE STOWAGE 
+ 
+FS 17-24 
+EVA/121/BAS 
+ 
+S0 Stbd 
+Aft Wedge Face 
+S0 Stbd
+Bulkhead
+Tether Shuttle 
+Stowage 
+HR 3413
+HR 3412
+WIF 5 
+HR 3438
+HR 3411
+HR 3410 
+S0 Handrail 
+Bridge 
+Airlock Spur 
+HR 3409 
+Stbd 
+Fwd 
+Nadir 
+MT STOP 
+ 
+FS 17-25 
+EVA/121/BAS 
+ 
+ 
+MT STOP STOWED 
+MT STOP 
+MT STOP DEPLOYED 
+MT STOP DEPLOYED
+PIP PIN 
+P1
+PORT
+STBD 
+Nadir 
+WVS EXTERNAL TRANSCEIVER ASSY (WETA) 
+ 
+FS 17-26 
+EVA/121/BAS 
+ 
+S-BAND ANTENNAS (6) 
+UHF ANTENNA
+NODE WETA INSTALL – CP12 
+ 
+FS 17-27 
+EVA/121/BAS 
+ 
+ 
+ZENITH 
+FWD 
+STBD 
+J679 
+J678 
+J677 
+P4 
+P3 
+P2 
+P1 WETA INSTALL – CP08 
+ 
+FS 17-28 
+EVA/121/BAS 
+ 
+ 
+ 
+P1 panel A101 
+Zenith 
+Port 
+Fwd 
+TRRJ OVERVIEW –  STBD 
+ 
+FS 17-29 
+EVA/121/BAS 
+ 
+ISS BAY 12/14 
+BULKHEAD 
+P1 BAY 14 
+(S1 BAY 13) 
+P1 BAY 12 
+(S1 BAY 11) 
+DLAs 
+BAX 
+FHRC 
+NADIR 
+AFT 
+TORQUE BOX 
+P1: ISS BAY 12, LOOKING PORT/AFT 
+S1: ISS BAY 11, LOOKING STBD/AFT 
+TRRJ OVERVIEW –  P1 PORT/S1 STBD 
+ 
+FS 17-30 
+EVA/121/BAS 
+ 
+ 
+AFT 
+FHRC SUPPORT 
+STRUT 
+2 PLACES 
+MALE FLUID QDs 
+STINGER QDs
+TRRJ NADIR/PORT 
+LOOKING STBD 
+BAX 
+FHRC 
+TORQUE BOX 
+FWD 
+ZENITH 
+M3 
+M4 
+M5 
+M6 
+TRRJ STINGER 
+DLA 
+HANDHOLD 
+HANDRAIL
+FHRC ORU 
+HANDHOLD 
+BEARING 
+ASSEMBLY 
+STINGER BOLT 10 
+STINGER BOLT 11 
+RADIATOR OVERVIEW 
+ 
+FS 17-31 
+EVA/121/BAS 
+ 
+RADIATOR PANEL STOWED AND CINCHED 
+SIDE CINCH BOLTS 
+RADIATOR BEAM VALVE 
+MODULE (RBVM) 
+END CINCH BOLT 
+EVA MANUAL 
+DEPLOY DRIVE 
+C3 
+GP2
+GP3
+C4 
+GP4
+GP3 
+CINCH 
+EVA Manual 
+Deploy Drive 
+C6
+C5
+C1 
+C2 
+GRAPPLE 
+BAR ATTACH 
+POINT (GP) 
+UHF ANTENNA 
+ 
+FS 17-32 
+EVA/121/BAS 
+ 
+ 
+ 
+ 
+P1         P2 
+P3  
+(behind 
+handrail) 

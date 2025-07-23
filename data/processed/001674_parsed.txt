@@ -1,0 +1,934 @@
+Department of Veterans Affairs 
+VHA HANDBOOK 1108.06 
+Veterans Health Administration 
+Transmittal Sheet 
+Washington, DC  20420 
+June 27, 2006 
+ 
+INPATIENT PHARMACY SERVICES 
+ 
+ 
+1.  REASON FOR ISSUE.  This Veterans Health Administration (VHA) Handbook provides 
+specific direction and procedures related to the appropriate storage, handling, and dispensing of 
+medications and supplies for VHA medical center inpatients.  
+ 
+2.  SUMMARY OF MAJOR CHANGES.  This VHA Handbook incorporates updates to the 
+previous Manual M-2, Part VII, Chapter 3, new United States Pharmacopeia (USP), Chapter 
+<797> requirements for sterile products, new guidelines for automated pharmacy systems, and 
+Health Insurance Portability and Accountability Act (HIPAA) of 1996 requirements. 
+ 
+3.  RELATED DIRECTIVE.  VHA Directive 1108 (to be published). 
+ 
+4.  RESPONSIBLE OFFICE.  The Chief Consultant, Pharmacy Benefits Management Strategic 
+Health Group (119) is responsible for the contents of this Handbook.  Questions may be 
+addressed to (202) 273-8429. 
+ 
+5.  RECISSIONS.  VHA Manual, M-2, Part VII, Chapter 3, Inpatient Services, dated  
+July 20, 1995, is rescinded. 
+ 
+6.  RECERTIFICATION.  This VHA Handbook is scheduled for recertification on, or before, 
+the last working day of June 2011.   
+ 
+ 
+ 
+ 
+Jonathan B. Perlin, MD, PhD, MSHA, FACP 
+ 
+Under Secretary for Health 
+ 
+DISTRIBUTION: CO: 
+E-mailed 6/27/06 
+ 
+FLD: 
+VISN, MA, DO, OC, OCRO, and 200 – E-mailed 6/27/06 
+ 
+ 
+T-1 
+June 27, 2006 
+ VHA HANDBOOK 1108.06 
+ 
+ 
+i 
+CONTENTS 
+ 
+INPATIENT PHARMACY SERVICES 
+ 
+PARAGRAPH 
+PAGE 
+ 
+1.  Purpose ...................................................................................................................................... 1 
+ 
+2.  Authority ................................................................................................................................... 1 
+ 
+3.  Scope ......................................................................................................................................... 1 
+ 
+4.  Responsibility of the Chief, Pharmacy Service ........................................................................ 1 
+ 
+5.  Medication Management Systems. ........................................................................................... 2 
+ 
+6.  Administration of the Medical Management Systems .............................................................. 2 
+ 
+7.  Automated Pharmacy Systems ................................................................................................. 3 
+ 
+8.  Medication Brought into the Medical Center by Patients ........................................................ 4 
+ 
+9.  Medication Orders .................................................................................................................... 5 
+ 
+10.  Compounded Sterile Preparations .......................................................................................... 6 
+ 
+11.  Radiopharmaceuticals ............................................................................................................. 8 
+ 
+12.  Bulk Compounding and Prepackaging ................................................................................... 8 
+ 
+13.  Pharmacy Staffing During Off-hours ...................................................................................... 9 
+ 
+14.  Drug Recalls ........................................................................................................................... 9 
+ 
+15.  Medication Safety ................................................................................................................. 10 
+ 
+16.  Hand Hygiene ....................................................................................................................... 12 
+ 
+17.  References ............................................................................................................................. 13 
+ 
+ 
+ 
+June 27, 2006 
+ VHA HANDBOOK 1108.06 
+ 
+ 
+ 
+1 
+ 
+INPATIENT PHARMACY SERVICES 
+ 
+ 
+1.  PURPOSE  
+ 
+ This Veterans Health Administration’s (VHA) Handbook provides specific direction and 
+procedures related to the appropriate handling and dispensing of all medications and medication-
+related ancillary products to inpatients.   
+ 
+2.  AUTHORITY 
+ 
+ 
+The Pharmacy Service must be in compliance with relevant standards of the Joint 
+Commission on Accreditation of Healthcare Organizations (JCAHO); the practice standards, 
+guidelines, and technical bulletins of the American Society of Health System Pharmacists 
+(ASHP); and the United States Pharmacopeia (USP) Chapter <797> (entitled “Pharmaceutical 
+Compounding – Sterile Preparations); and requirements of the Health Insurance Portability and 
+Accountability Act (HIPAA) as they pertain to patient privacy.  The Department of Veterans 
+Affairs (VA) follows all applicable Federal and state laws (where adopted) and regulations 
+concerning the dispensing of medications to hospitalized patients. 
+ 
+3.  SCOPE 
+ 
+ 
+The scope of this Handbook encompasses the medication management systems utilized for 
+all inpatients and, where applicable, to other bed services (i.e., same-day-surgery, hemodialysis 
+units, etc.) in VA medical facilities. 
+ 
+4.  RESPONSIBILITY OF CHIEF, PHARMACY SERVICE 
+ 
+ 
+The Chief of Pharmacy Service is responsible for: 
+ 
+ 
+a.  The provision of a safe medication management system. 
+ 
+ 
+b.  The utilization of Veterans Health Information Systems and Technology Architecture 
+(VistA) applications for all information management. 
+ 
+ 
+c.  A planned and systematic monitoring program to evaluate, on an annual basis, the quality 
+and the appropriateness of pharmacy services in regard to the medication use process.  NOTE:  
+This monitoring and evaluation program is an integral part of the overall Performance 
+Improvement Program of the medical center. 
+ 
+ 
+d.  Adequate staffing and space, as defined by existing criteria, provided for inpatient 
+medication distribution, and clinical and administrative programs. 
+ 
+ 
+e.  Clean, orderly, well-lit, free of clutter, distraction, and noise workspaces where 
+medications are prepackaged.  
+ VHA HANDBOOK 1108.06 
+June 27, 2006 
+ 
+ 
+2 
+ 
+ 
+f.  Ensuring the provision of ongoing educational activities and the competency of all 
+pharmacy professional, technical, and ancillary support staff. 
+ 
+ 
+g.  Disposing of all patient-specific information as soon as possible in a manner to ensure 
+privacy. 
+ 
+ 
+h.  Ensuring that Pharmacy Service provides adequate direction for the receipt, distribution, 
+control, accountability, and quality of medications used throughout the medical center. 
+ 
+ 
+i.  Ensuring that an annual assessment is conducted of the processes used throughout the 
+medical center for compounding sterile medications, consistent with established standards and 
+best practices. 
+ 
+5.  MEDICATION MANAGEMENT SYSTEMS 
+ 
+ 
+a.  Unit-Dose Drug Distribution System.  A unit-dose drug distribution system, which 
+permits identification of the drug up to the point of administration, must be the primary 
+distribution system for all inpatient areas.  Medications dispensed are to be contained in single 
+unit packages and dispensed in ready-to-administer forms, when possible.  The exceptions are 
+patients authorized for self-medication in select bed sections (see VHA Handbook 1108.3 Self 
+Medication Program).  
+ 
+ 
+b.  Automatic Replenishment Drug Distribution System.  The automatic replenishment 
+drug distribution system is one in which medications are prepackaged in an amount, or volume, 
+consistent with established par levels.  These medications are dispensed in the most ready-to-
+administer forms available from the manufacturer, or if feasible, in unit-doses that have been 
+repackaged by the pharmacy or licensed repackager.  
+ 
+6.  ADMINISTRATION OF THE MEDICATION MANAGEMENT SYSTEMS 
+ 
+ 
+The Chief of Pharmacy Services, or designee, must ensure that: 
+ 
+ 
+a.  All medication orders are reviewed by a licensed pharmacist prior to the administration of 
+the drug, except when required for emergent need where all processes are controlled by a 
+licensed independent practitioner (LIP).  In those instances where a prior review is not possible, 
+the pharmacist must review the order as soon as possible (within 24 hours) in accordance with 
+JCAHO requirements. 
+ 
+ 
+b.  Orders are dispensed for individual patients up to a 24-hour period.  In the case of nursing 
+home care units (NHCU), or long-term units, quantities in excess of a 24-hour supply may be 
+issued (i.e., 48 hours, 72 hours, or up to 30 days when a cardex system is utilized), if 
+appropriately packaged.  Cart-less systems meet the intent of this requirement and are considered 
+unit-dose medication supply systems. 
+ 
+ 
+c.  Standardized administration times and response times for first doses are to be established 
+in local medical center policy to ensure the timely administration of medications.  Off-schedule 
+June 27, 2006 
+ VHA HANDBOOK 1108.06 
+ 
+ 
+ 
+3 
+dispensing of "STAT," "NOW," and change orders must be addressed in local medical center 
+policy. 
+ 
+ 
+d.  Bar-coded medications are delivered to the inpatient units at scheduled times and in 
+suitable containers that fully identify the patient.  When point-of-care delivery systems (i.e., 
+Pyxis, Omnicell, AcuDose, etc.) are used, patient profiling interfaces are required.  
+ 
+ 
+e.  If local medical center policy permits the use of starter packs or sample medications, these 
+items are controlled and dispensed by Pharmacy Service, and meet all applicable medication 
+management standards; all prepackaging and repackaging of unit doses must have the 
+appropriate packaging records. 
+ 
+ 
+f.  The VistA Automatic Replenishment system is utilized to record usage data including the 
+unit or clinic, the item(s) provided, and the quantities provided as the record of inventory 
+accountability.  Pharmacy personnel maintain and utilize these computer records for inventory 
+accountability. 
+ 
+ 
+g.  Stock levels consistent with the needs of the using unit or clinic are established by 
+pharmacy, unit and/or clinic personnel.  
+ 
+ 
+h.  All prepackaged units contain the name of the medication, its formulation (i.e., tablet, 
+capsule), strength, lot number, barcode, and expiration date.   
+ 
+ 
+i.  Appropriate prepackaging records, such as the VA Form 10-1362, Pharmacy Service 
+Prepackaging Record or the electronic equivalent, is maintained to ensure complete 
+identification in the case of a drug recall or other need for validation.  These records are to be 
+retained for a period of three years. 
+ 
+ 
+j.  Only pharmaceutical items are permitted in medication storage refrigerators.  Medication 
+refrigerator temperature monitoring must be handled according to local medical center policy. 
+ 
+ 
+k.  Commercially available sterile product solutions are bar-coded and available on nursing 
+care units as stated in local medical center policy.  Those admixtures requiring storage at reduced 
+temperatures are to be placed in the designated medication refrigerators. 
+ 
+ 
+l.  All approved medication storage areas (including pharmacy storage areas) are inspected 
+by Pharmacy personnel every 30 days and in accordance with all applicable standards.  NOTE:  
+Storage of medication in areas other than approved locations is not authorized.   
+ 
+7.  AUTOMATED PHARMACY SYSTEMS 
+ 
+ 
+a.  “Automated Pharmacy Systems” include, but are not limited to, mechanical systems that 
+perform operations or activities (other than compounding or administration) relative to the 
+storage, packaging, dispensing, or distribution of medications.  These systems may collect, 
+control, and maintain all transaction information.   
+ 
+ VHA HANDBOOK 1108.06 
+June 27, 2006 
+ 
+ 
+4 
+ 
+b.  Automated pharmacy systems must be utilized by Pharmacy Service to improve 
+efficiency and accuracy. 
+ 
+ 
+c.  Pharmacy service must establish written policy and procedures to assess workflow, 
+establish training programs, and standardize the use of the equipment to include minimum 
+competency requirements for all personnel who have access to, and operate the equipment.  The 
+use of automated pharmacy systems requires written policy and procedures in place prior to their 
+installation to ensure safety, accuracy, security, and patient confidentiality.  This policy must 
+define access limits to the equipment and medications. 
+ 
+ 
+d.  Automated pharmacy systems must include a standardized Health Level 7 (HL-7) 
+interface to the VistA system. 
+ 
+ 
+e.  Pharmacy service must establish performance requirements for the manufacturer, 
+pharmacy service personnel, and the automated pharmacy system during and after 
+implementation, including installation, workflow assessment, maintenance, and training. 
+ 
+ 
+f.  Pharmacy Service must develop a plan for ensuring safe and efficacious use of the 
+system(s) with a focus on patient safety.  The plan needs to identify the minimum standards that 
+are routinely assessed through an established monitoring and quality assurance program.  The 
+plan needs to address high-risk drugs, medication errors, and controlled substance discrepancies.  
+  
+ 
+g.  Pharmacy Service must establish a contingency plan in the event of a system, power, or 
+process failure.  This plan needs to include who is contacted when the system is down and how 
+medications stored in the system are to be secured and/or obtained.  It is recommended that a 
+system be established to determine how to recognize when a system failure occurs or is 
+imminent; how to compensate to protect patient safety when failures occur; and how failures are 
+to be corrected expeditiously. 
+ 
+ 
+h.  Pharmacy Service must ensure that patient confidentiality is maintained in accordance 
+with HIPAA standards.  Safeguards must be established to prevent "outside" access to patient 
+data. 
+ 
+ 
+i.  Pharmacy Service must implement an ongoing quality assurance program that monitors 
+performance of the automated pharmacy system.  Standards and required documentation must be 
+included in local policies and procedures.  NOTE: See subparagraphs 17b, 17e, and 17g for 
+sources of standards. 
+ 
+8.  MEDICATION BROUGHT INTO MEDICAL CENTER BY PATIENTS 
+ 
+ 
+a.  A process must be established to safely control, or manage, medications brought into the 
+medical centers by patients or family members.  Local medical center policy must provide 
+guidance as to the disposition, storage, or destruction of these medications. 
+ 
+ 
+b.  For those facilities that allow patients to bring non-VA medications(s) into the medical 
+center, these medications must not be administered unless the treating provider makes the 
+June 27, 2006 
+ VHA HANDBOOK 1108.06 
+ 
+ 
+ 
+5 
+determination that its use is appropriate and required.  The provider must give specific written 
+orders to administer the medication(s).  
+ 
+ 
+c.  If the medication is required and the pharmacy service cannot obtain the medication in a 
+timely manner through the regular or everyday procurement methods, a pharmacist must identify 
+and validate the medication. 
+ 
+ 
+d.  If authorized for use, the pharmacy service relabels and reissues the medication in 
+accordance with the provider’s instructions, using standard labeling as required for inpatient 
+dispensing. 
+ 
+9.  MEDICATION ORDERS   
+ 
+ 
+a.  Electronic order entry using the Computerized Patient Records System (CPRS) must be 
+utilized whenever possible.  If unavailable, a legible copy of all prescriber’s medication orders 
+must be directly transmitted to the pharmacy.  These orders must include all information required 
+by CPRS. 
+ 
+ 
+b.  All medication orders must be reevaluated by the provider with any change in patient 
+status or relocation to another ward or service.  Blanket reinstatement of previous orders for 
+medications discontinued as a result in change of patient status or patient movement is not 
+acceptable.  NOTE:  In instances when the same treatment team follows the patient after 
+relocation to another ward or unit, local medical center policy may define requirements for stop 
+orders or the reinstatement of prior orders for medications. 
+ 
+ 
+c.  To ensure that only medications needed to treat the patient’s condition are ordered, a 
+pharmacist must verify all inpatient orders taking into consideration the current diagnosis and the 
+indication for each medication. 
+ 
+ 
+d.  The medical center must develop a local written policy to establish the required elements 
+of a complete medication order. 
+ 
+ 
+e.  Since the generic name of a medication is preferred, only the generic name is to be 
+documented in the medication profile.  Providers are encouraged to use the generic name 
+whenever possible during the prescribing process.  Once the order is verified by the pharmacist, 
+the generic name must be expressed in the patient’s medication record. 
+ 
+ 
+f.  The medical center must develop a written policy that identifies the requirements for 
+indication-for-use on the medication order. 
+ 
+ 
+g.  Non-formulary medications prescribed for humanitarian or compassionate use must be 
+submitted using the non-formulary request process and receive the Pharmacy and Therapeutics 
+Committee approval prior to use.  NOTE:  Additional details are available in Directive 2001-
+044 VA National Formulary Process. 
+ 
+ VHA HANDBOOK 1108.06 
+June 27, 2006 
+ 
+ 
+6 
+ 
+h.  The medical center must develop a written policy that establishes the special precautions 
+or procedures for ordering drugs with look-alike or sound-alike names. 
+ 
+ 
+i.  Pharmacists are to take appropriate actions, as established by medical center policy, for 
+medication orders that are incomplete, illegible, or unclear.   
+ 
+ 
+j.  A written policy must be developed that specifies the required elements of any of the 
+following types of orders deemed acceptable for use:  As needed, or pro re nata (PRN), or if 
+needed (SOS) orders; standing orders; hold orders; automated stop orders; resume orders (see 
+subpar. 9b); titrating orders; taper orders; range orders; compounded medications; medication-
+related devices (e.g., nebulizers, catheters, etc.); investigation medications; and medications at 
+discharge.   
+ 
+ 
+k.  The Pharmacy and Therapeutics Committee must establish a mechanism for reviewing 
+and updating preprinted order sheets, if approved in medical center policy.  Preprinted order 
+sheets are only to be considered when prescribing cannot take place utilizing CPRS order entry. 
+ 
+ 
+l.  A listing of non-approved abbreviations to be avoided during the act of prescribing must 
+be established.  This listing must be reviewed by the Pharmacy and Therapeutics Committee and 
+established in local medical center policy. 
+ 
+ 
+m.  Allergy and adverse drug reaction (ADR) information must be recorded in the electronic 
+medical record.  When the electronic medical record is not available and medications are to be 
+administered, documentation must include an allergy or ADR assessment.  Medications are only 
+to be dispensed if an allergy assessment has been completed. 
+ 
+ 
+n.  Pharmacy Service must develop a written facility-approved contingency plan for 
+implementation in the event of computer system failures. 
+ 
+ 
+o.  Where electronic order entry is unavailable, all medications, including parenteral fluids, 
+must be ordered on VA Form 10-1158, Doctor's Orders, or other approved form.  The 
+medication order must have the medication name, dosage, dosage schedule or desired flow rate, 
+duration of therapy, and other information as established by local medical center policy.  
+Automatic stop dates are determined by local medical center policy in accordance with JCAHO 
+standards.  NOTE:  The notation, keep vein open (KVO) or, to keep open (TKO), must be 
+accompanied by the appropriate flow rate determined by the physician. 
+ 
+ 
+p.  Verbal or telephone orders are discouraged, however, they may be accepted in an 
+emergency when urgency is a factor and it clearly is in the best interest of the patient.  The 
+pharmacist or nurse receiving the verbal or telephone order must immediately commit it to 
+writing and read it back to the provider to verify the accuracy in accordance with local medical 
+center policy.  (The verbal order must then be made available electronically according to local 
+VistA recovery plans.) 
+ 
+10.  COMPOUNDED STERILE PREPARATIONS 
+ 
+June 27, 2006 
+ VHA HANDBOOK 1108.06 
+ 
+ 
+ 
+7 
+ 
+a.  Risk levels of all areas must be assessed where sterile products are prepared.  All 
+compounded sterile preparations (CSP) must be accurately identified, measured, diluted, and 
+mixed; and be correctly purified, sterilized, packaged, sealed, labeled, stored, dispensed, and 
+distributed in a manner consistent with USP Chapter <797> provisions (entitled “Pharmaceutical 
+Compounding – Sterile Preparations”) and the ASHP Guidelines found at 
+http://www.ashp.org/SterileCpd/797guide.pdf . 
+ 
+ 
+b.  All hazardous (e.g., cancer chemotherapy) CSPs must be prepared in an appropriate area 
+separate from routine sterile product preparation.  Such preparations of potentially hazardous 
+medications must be prepared in a hood that meets all USP, ASHP, and National Institute for 
+Occupational Safety and Health (NIOSH) requirements. 
+ 
+ 
+c.  Pharmacy personnel are responsible for the preparation and storage of all CSPs, except in 
+emergency circumstances where immediate use is warranted, or when preparation stability is an 
+issue. 
+ 
+ 
+d.  A pharmacist must check and verify each CSP.  The preparation must be discarded if 
+there is any evidence of compounding error, contamination, precipitation, or other physical or 
+chemical incompatibility.  If the CSP contains a controlled substance, then a record of the 
+destruction on VA Form 10-2638, Controlled Substance Administration Record, must be 
+completed.  This record must have the signatures of two pharmacists who have witnessed the 
+destruction. 
+ 
+ 
+e.  Manufacturer pre-mixed CSPs that have an outer wrapper must be dispensed for the 
+patient with a label (i.e., double stick, flagged label) that can be affixed to the CSP once the outer 
+wrapper is removed.  Local medical center policy must state how pre-mixed CSPs are to be 
+stored, handled, and labeled. 
+ 
+ 
+f.  The CSP label is to be affixed directly to the preparation and delivered to the patient care 
+area.  When a light protective outer bag is required, the label must be affixed directly to the 
+Intraveneneous (IV) product, in addition to the outer bag.  These labels must contain the 
+following: 
+ 
+ 
+(1)  Patient's name; 
+ 
+ 
+(2)  Identifier number; 
+ 
+ 
+(3)  Ward and/or medical center locations; 
+ 
+ 
+(4)  Date prepared; 
+ 
+ 
+(5)  Identity of each additive, diluents, volume, and flow rate (if specified); 
+ 
+ 
+(6)  Special instructions (if specified); 
+ 
+ 
+(7)  Identifier of the preparer and/or checker; 
+ VHA HANDBOOK 1108.06 
+June 27, 2006 
+ 
+ 
+8 
+ 
+ 
+(8)  Beyond use date; and 
+ 
+ 
+(9)  Barcode or the equivalent. 
+ 
+NOTE: Outer wraps on pre-mixed products must be removed prior to labeling. 
+ 
+ 
+g.  All orders and CSPs must be checked by a pharmacist prior to dispensing the product. The 
+following are the minimum requirements for the pharmacist check. 
+ 
+ 
+(1)  The CSP is checked for accuracy and completeness.  Particular attention is to be given to 
+patient identity, identity of the drug additive, amounts added as evidenced by the empty vials or 
+ampoules used, and solutions used.  The pharmacist then places their unique identifier on the 
+product label. 
+ 
+ 
+(2)  Authorized nursing personnel must check the intravenous (IV) label against the 
+physician's order in the virtual due list in Bar Code Medication Administration (BCMA) prior to 
+administering the product to a patient.  If there is any discrepancy, the nurse must contact the 
+Pharmacy Service for problem resolution or correction. 
+ 
+ 
+h.  Unless otherwise specified on the IV label, all unused CSPs must be returned to the 
+pharmacy within 24 hours of receipt.   
+ 
+ 
+i.  CSPs containing hazardous ingredients must be disposed of according to medical center 
+policy and in accordance with all applicable local, state, and Federal requirements. 
+ 
+11.  RADIOPHARMACEUTICALS 
+ 
+ 
+a.  A radiopharmaceutical is a radioactive compound used for diagnosis and/or therapy of 
+disease.  It is a pharmaceutical and, as such, must conform to all legal, ethical, and professional 
+handling requirements of other pharmaceuticals.  As it is a radioactive drug, it must conform to 
+all legal and safety requirements established by the Nuclear Regulatory Commission (NRC).  
+ 
+ 
+b.  Nuclear Medicine Service is responsible for the storage and compounding of 
+radiopharmaceuticals unless a nuclear pharmacist is on staff. 
+ 
+ 
+c.  Appropriate credentials for all pharmacists involved in the preparation of 
+radiopharmaceuticals are required. 
+ 
+ 
+d.  Quality control must be in accordance with current Federal Regulations concerning 
+radiopharmaceuticals and radioactive diagnostic agents.  Records of all compounded and 
+dispensed material are to be maintained in accordance with current Federal Regulations. 
+ 
+ 
+e.  Designated areas that conform to Occupational Safety and Health Administration (OSHA) 
+standards are required for the storage, preparation, and disposal of radiopharmaceuticals.   
+ 
+12.  BULK COMPOUNDING AND PREPACKAGING 
+June 27, 2006 
+ VHA HANDBOOK 1108.06 
+ 
+ 
+ 
+9 
+ 
+ 
+a.  Quality control of both the production and the product for bulk compounding must be in 
+accordance with USP Chapter <795>, Professional Standards and Federal Regulations. 
+ 
+ 
+b.  Appropriate records must be maintained. 
+ 
+ 
+(1)  A standardized formula or recipe is to be established using VA Form 10 – 2423, 
+Compounding Master Formula card, for the bulk compounded product. 
+ 
+ 
+(2)  Each manufacturing action of the standardized formula requires the completion of VA 
+Form 10-1361, Pharmacy Manufacturing and Assay Record. 
+ 
+ 
+(3)  A VA Form 10-1362, Pharmacy Service Prepackaging Record, must be completed to 
+record all unit packaging of a bulk compounded product. 
+ 
+13.  PHARMACY STAFFING DURING OFF-HOURS 
+ 
+ 
+a.  When the onsite pharmacy is not open 24 hours-a-day and 7 days-a-week, a LIP must 
+review the medication order in the pharmacist’s absence.  This review must be in addition to the 
+prescriber’s review, completed before the first dose is administered, and be in accordance with 
+Professional Standards.  The pharmacist must conduct a retrospective review of the order as soon 
+as possible, or when the pharmacy opens. 
+ 
+ 
+b.  Access to medications must be limited to those individuals approved by local medical 
+center policy.  Open access to the entire pharmacy by a non-pharmacist is not allowed.  Those 
+medications deemed to be emergent can be stored in a night cabinet, automated storage and 
+distribution device, or a controlled section of the pharmacy.   
+ 
+ 
+c.  A qualified pharmacist must be available either on-call or at another location to answer 
+questions and/or provide access to medications that are not available in the night cabinet, 
+automated storage and distribution device, or the controlled section of the pharmacy. 
+ 
+ 
+d.  The process for providing after-hours medication must be evaluated on an ongoing basis 
+to determine what medications are accessed routinely and why.  Changes must be implemented, 
+as appropriate, to reduce the number of times that non-pharmacist staffs are required to obtain 
+medications from emergency storage. 
+ 
+14.  DRUG RECALLS 
+ 
+ 
+a.  Upon receipt of a written or verbal notification from the Food and Drug Administration 
+(FDA), a pharmaceutical manufacturer, the Facility Recall Coordinator, or other sources, the 
+Chief of Pharmacy Service is responsible for initiating appropriate drug recall procedures. 
+ 
+ 
+b.  The FDA Recall Guidelines categorizes all recalls into three classes according to the level 
+of potential hazard.  Under these guidelines, it is the institution’s duty to take full responsibility 
+for product recalls.  These duties include follow-up checks to ensure that recall is started, 
+ VHA HANDBOOK 1108.06 
+June 27, 2006 
+ 
+ 
+10 
+initiation of progress reports to FDA regarding the recall, and when required, the institution of 
+drug recall from patients.  Drug classifications are available at 
+http://www.fda.gov/cdrh/oivd/presentations/041905-bernier_files/textonly/slide16.html
+ 
+ 
+c.  If a Class I Recall is announced requiring drug recovery from the patient, a computerized 
+VistA search is to be used to identify all patients who have recently received the recalled drug. 
+ 
+ 
+d.  The pharmacy’s Designated Area Specialist is required to notify the Facility Recall 
+Coordinator to ensure that the VHA Recall Cascade has been initiated.  
+ 
+ 
+e.  Depending on the nature of the recall, the Chief of Pharmacy Service, or designee, 
+initiates proper documentation for the disposition of the product in accordance with existing 
+Federal Supply Service Regulations.  For Class I Recalls, a follow-up report to the Pharmacy 
+Benefits Management Service of all findings and actions may be required. 
+ 
+ 
+f.  Pharmacy personnel must review all storage areas for the recalled drug including 
+automated dispensing equipment and approved ward stock locations.  All recalled drugs must be 
+sequestered so as to prohibit any further use. 
+ 
+ 
+g.  Pre-packing records must be checked and all applicable lot numbers must be immediately 
+suspended from use.   
+ 
+ 
+h.  Pharmacy personnel must check all incoming stock to ensure that subsequent receipt of 
+the recalled drug is sequestered.  
+ 
+ 
+i.  The disposition of all drug recalls must be reported to the Pharmacy and Therapeutics 
+Committee for review and documentation in their meeting minutes. 
+ 
+15.  MEDICATION SAFETY 
+ 
+ 
+a.  It is the responsibility of the Chief, Pharmacy Services, in conjunction with the 
+appropriate Department or Service representatives, to ensure that the medical center identifies 
+drug-related problems and implements measures to improve medication safety.  
+ 
+ 
+b.  Services or processes that may be utilized to successfully measure or improve medication 
+safety are: 
+ 
+ 
+(1)  Computerized physician order entry; 
+ 
+ 
+(2)  Bar Code Medication Administration; 
+ 
+ 
+(3)  Medication error reporting and multidisciplinary analysis; 
+ 
+ 
+(4)  Adverse drug event reporting and multidisciplinary analysis; 
+ 
+ 
+(5)  Utilization of Clinical Pharmacy Specialists to provide: 
+ 
+June 27, 2006 
+ VHA HANDBOOK 1108.06 
+ 
+ 
+ 
+11 
+ 
+(a)  Pharmacist-based Anticoagulation Clinics; 
+ 
+ 
+(b)  Pharmacist-based Pharmacotherapy or other specialty clinics; 
+ 
+ 
+(c)  Multidisciplinary team rounds or meetings; 
+ 
+ 
+(d)  Concurrent medication review in long-term care facilities; 
+ 
+ 
+(e)  Pharmacokinetic dosing services; 
+ 
+ 
+(f)  Antibiotic surveillance services; 
+ 
+ 
+(g)  Diabetic teaching services; 
+ 
+ 
+(h)  Pain management services; 
+ 
+ 
+(i)  Non-formulary and/or restricted drug request review and approval; 
+ 
+ 
+(j)  Nutritional support services for parenteral nutrition; 
+ 
+ 
+(k)  Medication use measures; and  
+ 
+ 
+(l)  Drug information services and newsletters. 
+ 
+ 
+c.  All necessary actions to reduce the likelihood of intentional or unintentional untoward use 
+of selected point-of-care medications must be taken at each facility.  Some of these agents are 
+insulin, potassium, epinephrine, digoxin, lidocaine, pancuronium, succinyl choline, atropine, 
+verapamil and diazepam.  Appropriate controls over ward-stocked medications must be included 
+in local medical center policy.  This policy must include, at a minimum, the prior-listed agents.  
+These controls ensure the availability of these and similarly stocked agents, provide for patient 
+safety, and facilitate accountability of doses dispensed.  Local policy needs to ensure: 
+ 
+ 
+(1)  Stock levels are limited to necessary quantities, as determined by actual use; 
+ 
+ 
+(2)  Stock locations are appropriate and necessary, as determined by actual use; 
+ 
+ 
+(3)  A process of accountable distribution is in place; 
+ 
+ 
+(4)  Medications are stored in a secure manner; 
+ 
+ 
+(5)  Access to medication is limited to those persons who dispense or administer medication; 
+ 
+ 
+(6)  Administration is documented in the permanent patient and hospital or clinic record; 
+ 
+ 
+(7)  Means to track return and destruction of outdated and unused products (i.e., a return 
+goods contract) is in place; and 
+ VHA HANDBOOK 1108.06 
+June 27, 2006 
+ 
+ 
+12 
+ 
+ 
+(8)  A means to reconcile distribution with use exists. 
+ 
+ 
+d.  The local Pharmacy and Therapeutics Committees must review the issue and consider 
+point-of-care automated dispensing systems to support any manual accountability systems 
+currently in place. 
+ 
+ 
+e.  The establishment of a multidisciplinary Medication Safety Committee is required for the 
+review of both institutional and national reports of adverse drug events and the development of 
+strategies for improving the safety of the medication use process.  
+ 
+16.  HAND HYGIENE 
+ 
+ 
+a.  Hand hygiene must be a consideration in pharmacy practice and management.  Hand 
+hygiene and other hygienic and procedural practices associated with preparing sterile 
+compounded medications are described in the USP, Chapter <797>.  Hand hygiene practices for 
+those who provide direct patient care are described in the Centers for Disease Control and 
+Prevention (CDC) Guideline for Hand Hygiene in Healthcare Settings.  See Website 
+www.cdc.gov/handhygiene/download/hand_hygiene_core.ppt.   
+ 
+ 
+b.  For pharmacy staff working to prepare non-sterile preparations and packaging drugs for 
+distribution to inpatients, the following practices are to be observed: 
+ 
+ 
+(1)  Pharmacy Staff must wash their hands with antimicrobial soap and water (or alcohol 
+based antimicrobial hand rub) in the following situations:  
+ 
+ 
+(a)  Whenever hands are visibly soiled; 
+ 
+ 
+(b)  Prior to starting work and prior to returning to work after leaving the pharmacy area; 
+ 
+ 
+(c)  After all patient contact; 
+ 
+ 
+(d)  After removal of gloves; 
+ 
+ 
+(e)  After using the bathroom; and 
+ 
+ 
+(f)  Before eating.  NOTE:  Eating and drinking must be confined to those areas of the 
+pharmacy where it is not prohibited. 
+ 
+ 
+(2)  Pharmacy Staff must decontaminate their hands with antimicrobial soap and water or 
+with an alcohol-based hand rub in the following situations; 
+ 
+ 
+(a)  After coughing, sneezing, or wiping their nose with a tissue or handkerchief; and 
+ 
+ 
+(b)  Before donning gloves for any pharmacy work that requires gloving to maintain good 
+hygiene practices. 
+ 
+June 27, 2006 
+ VHA HANDBOOK 1108.06 
+ 
+ 
+ 
+13 
+ 
+d.  All health care workers who provide direct, hands-on care to patients must not wear 
+artificial fingernails or extenders; this includes non-supervisory and supervisory personnel who 
+regularly or occasionally provide direct, hands-on care to patients.  In addition, pharmacy staff 
+preparing sterile products such as medications that will be administered intravenously must not 
+wear artificial fingernails.  
+ 
+ 
+e.  Management must ensure that disposable gloves, antimicrobial soap, alcohol-based hand 
+rub, and hand lotion designed for use in health care settings are all made available in the work 
+area of pharmacy staff. 
+ 
+17.  REFERENCES 
+ 
+ 
+a.  American Society of Health-System Pharmacists.  ASHP Guidelines on the Safe Use of 
+Automated Medication Storage and Distribution Devices. American Journal of Health System 
+Pharmacists (AM J Health-Syst Pharm) 1998; 55:1403-7. 
+ 
+ 
+b.  American Society of Health-System Pharmacists.  ASHP Guidelines on the Safe Use of 
+Automated Compounding Devices for the Preparation of Parenteral Nutrition Admixtures.  AM J 
+Health-Syst Pharm. 2000; 57:1343-8. 
+ 
+ 
+c.  American Society of Health-System Pharmacists.  ASHP statement on the pharmacist’s 
+role with respect to drug delivery systems and administration devices.  American Journal of 
+Hospital Pharmacists (AM J Hosp Pharm) 1993; 50:1724-5. 
+ 
+ 
+d.  American Society of Consultant Pharmacists.  ASCP Policy Statement on Automation in 
+Pharmacy.  ASCP July 18, 1997. 
+ 
+ 
+e.  Felkey BG, Flynn EA, Barker KN et al.  Automation and information technology – 
+satisfying pharmacy’s needs while complying with state board regulations.  National Association 
+of the Boards of Pharmacy-US. Pharmacy, 1999. 
+ 
+ 
+f.  Barker KN., Felkey BG, Flynn EA, Carper JL.  White paper on automation in pharmacy.  
+Consultant Pharm.  1998;13(3):256-93. 
+ 
+ 
+g.  Barker KN.  Ensuring safety in the use of automated medication dispensing systems.  Am 
+J Health-Syst Pharm.  1995;52:2445-7. 
+ 
+ 
+h.  Health Insurance Portability and Accountability Act, 1996. 
+ 
+ 
+i.  National Association of Boards of Pharmacy Model State Pharmacy Act and Model Rules 
+of the National Association of Boards of Pharmacy June 2003. 
+ 
+ 
+j.  Title 38 United States Code (U.S.C.) Part V, Chapter 73, Subchapter 3, Section 7332, 
+“Confidentiality of Certain Medical Records.” 
+ 
+ VHA HANDBOOK 1108.06 
+June 27, 2006 
+ 
+ 
+14 
+ 
+k.  Pharmaceutical Compounding - Sterile Preparations, (General Information Chapter 
+<797>). In: The United States Pharmacopoeia, 28th rev., and the National Formulary, 23rd ed. 
+Rockville, MD: United States Pharmacopoeia Convention; 2005:2461-2477. 
+ 
+ 
+l.  Pharmaceutical Compounding – Nonsterile Preparations, (General Information Chapter 
+<795>).In: The United States Pharmacopoeia, 28th rev., and the National Formulary, 23rd ed. 
+Rockville, MD: United States Pharmacopoeia Convention; 2005:2457-2460. 
+ 

@@ -1,0 +1,689 @@
+   
+Federal Trade Commission
+THE COMPETITIVE IMPLICATIONS
+OF GENERIC BIOLOGICS
+Remarks of
+Commissioner Pamela Jones Harbour
+ABA Sections of Antitrust and Intellectual Property Law
+Intellectual Property Antitrust:
+Strategic Choices, Evolving Standards,
+and Practical Solutions
+San Francisco, California
+June 14, 2007
+ 
+1
+In the matter of Rambus Inc., FTC Dkt. No. 9302, Opinion of the Comm’n (Aug. 2, 2006),
+available at http://www.ftc.gov/os/adjpro/d9302/060802commissionopinion.pdf.
+2
+In the matter of Rambus Inc., FTC Dkt. No. 9302, Remedy Statement of Comm’r Pamela Jones
+Harbour, Concurring in Part and Dissenting in Part (Feb. 5, 2006), available at
+http://www.ftc.gov/os/adjpro/d9302/070205harbourstmnt.pdf.
+Page 1 of 23
+I.
+INTRODUCTION
+Good afternoon.  Thank you for your kind introduction, and for inviting me to participate
+in this conference.  It is my pleasure to join you today.
+I have served as an FTC Commissioner for almost four years now.  Throughout my term,
+I have devoted a great deal of attention to issues at the intersection of intellectual property and
+competition law.  The Commission’s unanimous Rambus liability decision,1 issued last August
+under my authorship, is one particularly noteworthy example.
+But I am not going to talk about standard-setting today.  I will leave that discussion to
+tomorrow morning’s panelists – other than to put in a shameless plug, before a captive audience,
+for my dissenting statement on remedy in Rambus.  The statement is available on the
+Commission’s website.2
+When I accepted this invitation, I was determined to talk about something a little off the
+beaten path – something that would be thought-provoking for this highly skilled audience. 
+I decided I would share what I have learned thus far about so-called “generic biologics” – also
+known as “follow-on” biologics, or FOBs.  (As I will explain in a moment, the two terms are not
+necessarily interchangeable, but for now I will use them that way.)  I believe you will be hearing
+even more about generic biologics in the future.  And what you hear may have a lot of rhetoric
+3
+Compare, e.g., Generic Pharmaceutical Association, Biogenerics (undated), available at
+http://www.gphaonline.org/AM/Template.cfm?Section=FDA_Science&TEMPLATE=/CM/HTMLDisplay.cfm&CO
+NTENTID=1948 (“GPhA strongly supports . . . legislation that would establish the necessary, efficient, and effective
+abbreviated [approval] pathway for biogenerics . . . .  Biogenerics would bring competition into the healthcare
+system, reduce costs and increase consumer access to affordable medicines.”); American Association of Retired
+Persons, News Release, AARP Urges Congress to Act on Generic Biologics (March 26, 2007), available at
+http://www.aarp.org/issues/advocacy/affordable_rx.html (“Safe, cost-effective generic biologics are a common sense
+alternative . . . .  Science has progressed to the point where it is possible to create generic biologics and to do it
+safely.”); Barr Pharmaceuticals, Inc., Health Policy Issue Brief, Generic Biologics – An Unmet Opportunity to Save
+Billions on American Healthcare (undated), available at
+http://www.barrlabs.com/overview/government/BRL_pp-biologics.pdf (“[G]eneric competition for biotech
+pharmaceuticals has the potential to offer consumers dramatic and substantial savings, while also lowering America’s
+healthcare bill.”) with Biotechnology Industry Organization, News Release, BIO Urges Congress to Prioritize
+Patient Safeway and Biomedical Innovation in Pathway for Follow-On Biologics (May 2, 2007), available at
+http://bio.org/news/newsitem.asp?id=2007_0502_01 (“In order to ensure that new pioneer biotechnology products
+continue to reach patients and physicians, any pathway for the approval of follow-on biologics must protect patient
+safety and preserve incentives to innovate”); Pharmaceutical Research and Manufacturers of America, Press Release,
+PhRMA Statement on Follow-On Biologics Legislation (April 5, 2007), available at
+http://www.phrma.org/news_room/press_releases/phrma_statement_on_follow-on_biologics_legislation/ (“[W]e
+remain concerned that patient safety could be at significant risk if the current legislative follow-on biologics
+proposals move forward.”).
+Page 2 of 23
+attached to it, because different interest groups have strong – sometimes clashing – views on this
+topic.3
+As an FTC Commissioner, I have two goals.  I speak only for myself – not necessarily the
+Commission or any other Commissioners – but I will be up-front about my own agenda. 
+First, I want to ensure that the dialogue on generic biologics includes a principled and
+rigorous analysis of competition dynamics, especially from the perspective of consumers.  I will
+sketch out a framework of key questions that should be considered.  Even if you do not practice
+in the biotech sector, these big-picture questions are fascinating – especially because, ultimately,
+we and our loved ones will be affected as consumers of these drugs.
+Second, I want to ensure that the Federal Trade Commission is an integral part of the
+dialogue on generic biologics.  For years, the Commission has been intimately involved in
+shaping competition law and policy relating to generic drugs.  The FTC’s expertise is unique and
+valuable.  It should be tapped further, as generic biologics move to center stage in the drama of
+American healthcare.
+Page 3 of 23
+The Commission has a long history of working closely and cooperatively with the U.S.
+Department of Health and Human Services Food and Drug Administration (FDA), whose
+scientific expertise complements our competition expertise.  Our agency also has an excellent 
+relationship with legislators who focus on issues relating to drug costs.  On behalf of consumers,
+I would like to see the Commission continue to foster all of these connections.  Likewise, I hope
+that legislators and regulators will continue to seek the advice and knowledge of our talented
+FTC staff, as they try to solve the generic biologics puzzle.
+II.
+BACKGROUND ON BIOLOGICS
+Some background is necessary before I tee up the competition issues.  I am going to begin
+exactly where I began, when I started to hear about issues relating to generic biologics.  I asked
+the obvious question:  what are biologics?
+In simplest terms, biologics are drugs created from living cells, tissues, or organisms,
+through biologic processes.  These drugs replicate natural biologic substances in our bodies, such
+as enzymes, antibodies, or hormones.  Biologics are known as “large molecule” drugs, which
+means they typically are very complex in structure.
+Many of today’s “miracle” drugs are biologics.  These drugs are used to treat cancer,
+immune disorders, and metabolic diseases.  They drastically reduce disabling symptoms, and
+sometimes even save lives.
+Biologics require extremely sophisticated manufacturing techniques.   Biologics
+manufacturers must program a living source to mass-produce a specific biological material.  For
+example, scientists may use recombinant DNA technology to program instructions directly into
+4
+Biologics may be produced by mammalian cells (frequently Chinese hamster ovarian cells), or
+from yeast or E. coli cells.
+5
+IMS Health Inc., Press Release, IMS Reports U.S. Prescription Sales Jump 8.3 Percent in 2006, to
+$274.9 Billion (March 8, 2007), available at 
+http://www.imshealth.com/ims/portal/front/articleC/0,2777,6599_3665_80415465,00.html.
+6
+Safe and Affordable Biotech Drugs – The Need for a Generic Pathway: Hearing on H.R. 1038
+Before the H. Comm. on Oversight and Gov’t Reform, 110th Cong. (2007) [hereinafter House Oversight Hearing]
+(statement of Mary Nathan, Gaucher patient), available at
+Page 4 of 23
+the DNA of a cell.4  The cell will produce the desired protein, which can be harvested and used
+as a therapeutic drug or a diagnostic product.
+In contrast, traditional pharmaceutical drugs are “small molecule” compounds that are
+chemically synthesized, and usually consist of pure chemical substances.  They are easier to
+manufacture, and they are also easier to analyze after they are manufactured.
+A.
+The High Cost of Biologics
+Not surprisingly, biologics are among the most expensive drug products.
+þ
+Sales of biologics were $40.3 billion in 2006, which was about 15 percent of total
+U.S. prescription drug sales of nearly $275 billion.  The biologics market is
+growing much faster than the market for traditional pharmaceuticals.  Sales of
+biologics increased 20 percent in 2006, compared to just over 8 percent growth for
+overall pharmaceutical sales.5
+þ
+According to figures from the Centers for Medicare and Medicaid Services
+(CMS), the top two anemia drugs, both biologics, accounted for 17 percent of all
+Medicare Part B carrier drug spending in 2005.  Two other biologics – for
+rheumatoid arthritis and cancer – accounted for an additional 13 percent of all
+Medicare Part B carrier spending.
+þ
+CMS spends approximately $2 billion per year on Epogen, a biologic for treating
+anemia.  That is only one drug and one payor.  (To put this in context, the FTC’s
+entire budget for FY 2007 is about a tenth of that, just over $220 million.)
+þ
+Treatment with Avastin, a colon cancer drug, costs $100,000 per year per patient.
+þ
+Treatment with Ceredase – a lifesaving drug used to treat Gaucher Disease, a rare
+genetic disorder – costs over $300,000 per year per patient.6
+http://oversight.house.gov/documents/20070326135446-36789.pdf.
+Page 5 of 23
+Biologics are expensive, in part, because they cost so much to develop and manufacture. 
+But another major reason for their high cost is that, with very rare exceptions, there are no
+generic biologics available on the market in the United States.
+III.
+WHY ARE THERE NO GENERIC BIOLOGICS?
+So, that leads to the obvious next question:  why are there no generic biologics in the
+United States? 
+There are a few different explanations.  And to be honest, it is my perception that
+different constituencies spin these factors in different ways.  But in attempting to untangle the
+issues and present them to you objectively, I have identified two interrelated categories of
+obstacles to market entry by generic biologics:  scientific and regulatory.
+A.
+The Science of Follow-On Biologics
+On the scientific front, some argue that there can be no true “generic” version of a
+biologic drug. 
+In the realm of traditional pharmaceuticals, there is a basic assumption that a generic drug
+is both chemically and therapeutically equivalent to a pioneer or branded drug.  I won’t say
+“identical” because it is possible that a generic drug might, for example, have different inactive
+ingredients.  But with respect to a small-molecule pharmaceutical, it is relatively easy – for a
+chemist, at least – to compare a pioneer drug to a potential generic alternative, look at the
+chemical composition of the two drugs, and determine that they have the same active ingredient
+7
+U.S. Food & Drug Admin., Center for Drug Evaluation & Research, Frequently Asked Questions
+About Therapeutic Biological Products, No. 9 (updated July 26, 2006), http://www.fda.gov/cder/biologics/qa.htm.
+8
+See, e.g., Xenia P. Kobylarz, The Patent Killer, IP LAW & BUS. (May 2007), available at
+http://www.ipww.com/display.php/file=/texts/0507/barr (Johnson & Johnson changed manufacturing process for an
+anemia drug; new formulation unexpectedly caused certain compounds to leach out of uncoated rubber stoppers used
+on drug vials, causing clumps to form in bloodstream and triggering an extreme form of anemia); House Oversight
+Hearing, supra note 6 (statement of Inger Mollerup, Vice President, Novo Nordisk A/S), available at
+http://oversight.house.gov/documents/20070326122040-15085.pdf (slight change in amino acid sequence in early
+version of fast-acting insulin analogue caused significantly increased incidence of tumor growth in rats during
+preclinical animal toxicological studies).
+Page 6 of 23
+at the same level of potency.  It is also relatively easy to determine whether the generic drug
+enters the bloodstream and affects the human body in the same way as the pioneer drug.
+When your doctor writes a prescription and does not check the box prohibiting generic
+substitution of a traditional pharmaceutical . . . and when the pharmacist fills your prescription
+with a generic alternative . . . and when you go home and take the generic drug every morning . . .
+everyone is relying on the same assumption:  that the generic will be just as safe and effective as
+the branded version.
+The same assumptions cannot necessarily be made when it comes to biologics.  As the
+argument goes, it is impossible to exactly replicate a complex biological process, which is so
+dependent on specific manufacturing details.  In some sense, the process is the product.  And
+even slight changes in the manufacturing process – including minor changes in equipment or
+facilities – might affect the molecular composition of the biological product.  The changes in the
+molecule might not be detectable by standard chemical or molecular biology characterization
+techniques.  But these changes could profoundly alter the safety or efficacy profile of the drug.7 
+In particular, these changes may affect the immunogenicity profile of a biologic, meaning that
+they might alter the body’s immune response to the drug.8  In short, unless the manufacturing
+process is identical, some argue, one cannot guarantee that the output will be the same.
+9
+An excellent primer on the Hatch-Waxman regulatory scheme is included in Fed. Trade Comm’n,
+Generic Drug Entry Prior to Patent Expiration: An FTC Study (July 2002) [hereinafter FTC Generic Drug Study], at
+3 et seq., available at http://www.ftc.gov/os/2002/07/genericdrugstudy.pdf.
+Page 7 of 23
+In addition, it may be difficult to identify the clinically active components of a complex,
+large-molecule biologic drug.  For some of these drugs, scientists will tell you, “we know the
+drug works, but we really aren’t quite sure why.”  That may make it tricky – if not impossible –
+to determine whether a follow-on drug is “bioequivalent” to a pioneer drug.  At best, a follow-on
+biologic may be “biosimilar” to an existing biologic.
+It is worth noting, however, that some biologics are less complex than others.  And
+scientists seem to agree that, at least for some biologics, the technology does exist to identify safe
+and effective follow-ons, without having to completely replicate all of the clinical trials.  I will
+return to this point later in my remarks.
+B.
+Hatch-Waxman for Traditional Pharmaceuticals
+With that scientific primer in mind, let’s turn to the regulatory  front, where it all comes
+down to one basic regulatory reality.  The Hatch-Waxman pathway – which is commonly used by
+generic firms to obtain abbreviated approval of small-molecule drugs – cannot be used for most
+biologics.
+I do not want to turn this into a speech about the Hatch-Waxman Act, because it has been
+the subject of much discussion at this conference and countless others over the years.9  But just in
+case anyone in this audience is unfamiliar with it, I will attempt to summarize Hatch-Waxman
+with very broad strokes.
+When a drug company seeks FDA approval for a new, branded drug, it files a New Drug
+Application, or NDA.  As part of the NDA process, the pioneer firm must conduct extensive
+Page 8 of 23
+human clinical trials, and submit all of those results to the FDA, to prove that the drug is safe and
+effective.
+When a generic firm seeks approval of a generic alternative to an existing pharmaceutical
+drug, the generic firm does not need to start from scratch.  Under the Hatch-Waxman regulatory
+scheme, the generic firm can submit an Abbreviated New Drug Application, or ANDA.  The
+generic firm must establish that its drug is “pharmaceutically equivalent” – meaning that it uses
+the identical active ingredient, in the same amount and dosage form.  The generic firm also must
+establish “bioequivalence” – which means the drug is absorbed into the bloodstream of healthy
+human volunteers at roughly the same rate and extent as the branded drug (within an 80 to 120
+percent margin of equivalence).
+If the generic firm can satisfy these requirements, the firm does not need to replicate all of
+the clinical studies that the branded firm submitted as part of its NDA.  For example, the generic
+may not need to conduct two-year toxicity tests in animals, or lengthy Phase One, Two, and
+Three clinical tests to prove safety and efficacy.  In effect, the generic firm gets to ride on the
+coattails of the branded firm, relying on the safety and efficacy data generated by the branded
+firm.  This dramatically reduces the research and development costs for generic firms, which is a
+major reason why they are able to charge so much less for their generic products.  In addition to
+speeding the availability of lower-cost alternatives, the ANDA process also avoids duplicative,
+unnecessary human testing, which potentially addresses ethical as well as financial challenges.
+At the heart of Hatch-Waxman is a quid pro quo that balances the interests and incentives
+of branded and generic firms, especially with respect to research and development (R&D) and
+innovation.  When the branded firm files an NDA, it must also list with the FDA all patents that
+cover the new drug.  This listing of “Approved Drug Products with Therapeutic Equivalence
+10
+See, e.g., Tam Q. Dinh, Potential Pathways for Abbreviated Approval of Generic Biologics under
+Existing Law and Proposed Reforms to the Law, 62 FOOD DRUG L.J. 77 (2007); Nawel Bailey & Nathaniel Lipkus,
+Follow-On Biopharmaceuticals: A New Frontier in the Battle Between Brand and Generic, ANTITRUST HEALTH
+CARE CHRON ICLE, March 2007, Vol. 20, No. 4, at 11 (publication of the Health Care & Pharmaceuticals Committee,
+Antitrust Section, American Bar Association); David M. Dudzinski, Reflections on Historical, Scientific, and Legal
+Issues Relevant to Designing Approval Pathways for Generic Versions of Recombinant Protein-Based Therapeutics
+and Monoclonal Antibodies, 60 FOOD DRUG L.J. 143 (2005).
+Page 9 of 23
+Evaluations” is known as the FDA Orange Book.   When a generic firm files an ANDA that
+references an existing NDA, the generic firm must certify that any of the patents listed in the
+Orange Book pursuant to the original NDA are either invalid, or are not infringed, by the generic
+drug.
+Hatch-Waxman provides certain incentives to the first ANDA filer, to encourage generic
+firms to challenge weak patents via patent infringement lawsuits.  Notably, the first ANDA filer
+gets 180 days of marketing exclusivity once it successfully challenges the patents and its product
+is approved and marketed, meaning that no other generic can enter during that time.
+Likewise, in order to preserve R&D incentives for the branded firms, Hatch-Waxman
+gives the branded firm a 30-month cushion after an ANDA is filed and patent litigation ensues. 
+During that time, no generic entry is allowed.
+C.
+No Regulatory Pathway for Follow-On Biologics
+So there is my whirlwind summary of Hatch-Waxman.  For our purposes today, the
+important thing to realize is:  there is no comparable regulatory scheme for biologics.
+Whole law review articles have been written on this topic, and there are many different
+interpretations of how the regulations play out, in terms of the scope of FDA authorization and
+the original legislative intent.  If you are interested, I encourage you to consult these other
+sources for more details.10 
+11
+A comparability “bridging study” often is used when manufacturing changes occur, but the product
+is still manufactured using the same (or very similar) master cell banks and the same (or very similar) upstream and
+downstream processes.  For example, the location of manufacture may change, or a firm entering commercial
+production may scale up its production from a small bioreactor to a larger one.  In order to establish comparability,
+the producer must be able to demonstrate that any changes in the manufacturing process will not adversely impact
+the drug’s quality, safety, and efficacy.  See U.S. Dep’t of Health & Human Servs, Food & Drug Admin., Center for
+Drug Evaluation and Research & Center for Biologics Evaluation and Research, Guidance for Industry: Q5E
+Page 10 of 23
+But in a nutshell, for historical reasons, the FDA approves biologics under a different set
+of regulations.  While the Food, Drug, and Cosmetics Act applies to traditional pharmaceuticals,
+biologics also are subject to the Public Health Service Act.  Biologics are approved pursuant to a
+Biologics Licensing Application, or BLA, instead of an NDA.
+If a product has been approved as a “biologic” rather than a “drug” under FDA
+regulations – in other words, if it derives from a BLA instead of an NDA, which is the case for
+most biologics – any follow-on product is ineligible for approval under Hatch-Waxman.  And
+currently, there is no Hatch-Waxman-like process that applies to BLAs.
+D.
+A Few Other Observations on the Intersection of Science and Regulation
+Now, to further complicate matters before I talk specifically about competition issues, let
+me make three observations on the interesting interplay between the science and regulation of
+biologics.
+1.
+Existing Regulations Tolerate Manufacturing Changes
+First, the approval of a BLA involves strict FDA oversight of the sourcing,
+manufacturing, and packaging process, to ensure that different lots of the same biologic are
+equally safe, pure, and effective.  But, importantly, there is some degree of tolerance for
+variations among batches, as long as the lots are “consistently acceptable” and the manufacturing
+process is carefully monitored to assure predictable outcomes.11
+Comparability of Biotechnological/Biological Products Subject to Changes in Their Manufacturing Process (June
+2005), available at http://www.fda.gov/cber/gdlns/ichcompbio.pdf.
+12
+Barr, Health Policy Issue Brief, supra note 3, at 2.
+13
+Omnitrope’s eventual approval was preceded by a long and complicated legal history.  Sandoz’s
+2003 application forthe approval of Omnitrope languished at the FDA for years because the FDA claimed it did not
+have the authority to approve follow-on biologics.  Sandoz eventually brought a declaratory judgment action in
+federal district court.  The court agreed that the FDA needed to make a timely decision, and granted Sandoz’s motion
+Page 11 of 23
+Recall the “science” factors I discussed earlier, where I highlighted the “process is the
+product” argument against generic biologics.  But others might argue that the existing BLA
+scheme itself demonstrates that it is possible to strike an appropriate balance between the high
+costs of biologics, the idiosyncrasies of biologics manufacture, and the safety of consumers. 
+After all, even batches of the “same” biologic are not expected to be identical.  To quote a policy
+piece by Barr Pharmaceuticals, one of the major generic firms:
+The science to create affordable generic biotech drugs exists today. . . . It is being
+done every time a brand manufacturer changes a manufacturing process or
+location and uses comparability to ensure the biotech drug will provide the same
+safety and efficacy. . . . [B]iotech firms routinely justify process and site changes
+via comparability studies.  For example, if an innovator biotech company seeks
+changes in processes supporting the manufacture of their products, or seeks to
+change the manufacturing location of a product, comparability is the process by
+which the amended product is judged to provide the same clinical effect and
+safety profile.12
+Given this existing compromise with respect to branded biologics, the “process is the
+product” argument against generic biologics loses some force.
+2.
+NDA vs. BLA Loophole
+Second, for reasons I won’t get into today, some older biologics actually were approved
+under the traditional “drug” pathway, pursuant to NDAs.  Insulin and human growth hormone are
+oft-cited examples.  In fact, Omnitrope, a follow-on version of a human growth hormone, was
+approved under Hatch-Waxman in May 2006;13 the same drug previously had been approved as a
+for summary judgment.  Sandoz, Inc. v. Leavitt, 427 F. Supp. 2d 29 (D.D.C. 2006).   See also U.S. Dep’t of Health
+& Human Servs, Food & Drug Admin., Center for Drug Evaluation & Research, Omnitrope (somatropin [rDNA
+origin]) Questions and Answers (May 30, 2006), http://www.fda.gov/cder/drug/infopage/somatropin/qa.htm:
+[Question] Does today’s approval of Omnitrope create a new pathway for follow-on versions of all
+protein products?  [Answer] No.  The approval of Omnitrope in a 505(b)(2) application does not
+establish a pathway for approval of follow-on products for biological products licensed under
+section 351 of the Public Heath Service Act, nor does it mean that more complex and/or less well
+understood proteins approved as drugs under the Food, Drug, and Cosmetic Act could be approved
+as follow-on products.
+But see Generic Pharmaceutical Association, Press Release, GPhA Hails Omnitrope Approval As Significant First
+Step in Opening Door to Biopharmaceutical Savings for U.S. Consumers, Says Decision Demonstrates that
+Pathway Exists for Approvals (May 31, 2006), available at
+http://www.gphaonline.org/AM/Template.cfm?Section=Press_Releases&TEMPLATE=/CM/ContentDisplay.cfm&C
+ONTENTID=2535 (quoting Kathleen Jaeger, GPhA President and Chief Executive Officer):
+The approval of this product represents a significant first step toward opening the door for billions
+of dollars in potential savings on biopharmaceutical products for American consumers . . . . It
+demonstrates that generic companies can develop safe and effective biopharmaceutical products. It
+demonstrates that FDA already has the authority to approve such products. And it brings our nation
+one step closer to the day when generic versions of expensive biopharmaceuticals will be readily
+available, as they already are in Europe and around the world, to help dramatically lower
+America’s health care costs.
+14
+European Medicines Agency, Press Release, European Medicines Agency adopts first positive
+opinion for a similar biological medicinal product (Jan. 27, 2006), available at
+http://www.emea.europa.eu/pdfs/human/press/pr/3179706en.pdf; Sandoz International Industries, Media Release,
+Sandoz Receives European Commission Marketing Authorization for Omnitrope® (April 18, 2006), available at
+http://www.sandoz.com/site/en/company/media/news/pool/omnitrope_approval.pdf.
+15
+Narinder S. Banait, Follow-on Biological Products – Legal Issues (Fenwick & West LLP 2005),
+available at http://www.fenwick.com/docstore/publications/IP/follow-on.pdf.
+Page 12 of 23
+“biosimilar” in Europe.14  Follow-on insulin and human growth hormone products are in
+development, and some of them already have been marketed in other countries.15
+Granted, these two types of drugs are relatively simple in structure, so it may be 
+somewhat easier to analyze and approve follow-on products.  But proponents of generic biologics
+argue that, given the current state of the science, it would be equally possible to analyze and
+characterize follow-ons of more complex biologics, without requiring full duplication of clinical
+trials.  If true, there is no clear scientific reason to allow generic entry under NDAs but
+categorically prohibit it under BLAs.
+16
+See especially U.S. Dep’t of Justice & Fed. Trade Comm’n, Antitrust Guidelines for the Licensing
+of Intellectual Property (April 6, 1995), available at http://www.ftc.gov/bc/0558.pdf; Fed. Trade Comm’n, To
+Promote Innovation: The Proper Balance of Competition and Patent Law and Policy (Oct. 2003), available at
+http://www.ftc.gov/os/2003/10/innovationrpt.pdf; U.S. Dep’t of Justice & Fed. Trade Comm’n, Antitrust
+Enforcement and Intellectual Property Rights: Promoting Innovation and Competition (April 2007), available at
+http://www.ftc.gov/reports/innovation/P040101PromotingInnovationandCompetitionrpt0704.pdf.
+17
+See, e.g., Steve Miller, MD & Jonah Houts, Potential Savings of Biogenerics In the United States
+(Feb. 2007), available at
+http://www.express-scripts.com/ourcompany/news/outcomesresearch/onlinepublications/study/potentialSavingsBiog
+enericsUS.pdf (calculating total estimated savings of $71 billion over a ten-year period if the FDA develops a
+pathway for approval of follow-on biologics, based on patent expiration predictions for biologics in four major
+therapeutic categories); but see Biotechnology Industry Organization, News Release, Express Scripts and PCMA
+Follow-On Biologics Studies Are Based on Flawed Assumptions That Undermine Their Credibility (Feb. 22, 2007),
+available at http://bio.org/news/newsitem.asp?id=2007_0222_04 (“Assumptions about patent expirations that are
+inconsistent with credible analyst reports seriously call into question more than $40 billion of the alleged savings
+cited by the Express Scripts study”).
+Page 13 of 23
+3.
+Patent Landscape for Biologics
+Third, I’ve managed to speak all this time and I still haven’t talked about the patent
+landscape for biologics – which is probably horrifying to the patent lawyers in the room.  Surely,
+patent protection must be a relevant factor in the debate over generic biologics?  Well, it is and it
+isn’t.
+Of course, biologics typically are covered by multiple patents.  This includes not only
+patents on the products, but also patents on many of the basic research tools used to develop
+potential biologic drug products.  Moreover, a firm’s proprietary manufacturing process may be
+covered by trade secrets, which goes back to the “process is the product” argument.  And the data
+generated during clinical trials may also be proprietary.  In order to preserve R&D incentives, it
+is critical to protect the intellectual property (IP) of pioneer firms.  The Commission has long
+recognized this fundamental tenet.16
+But the truth is, some biologics already have lost patent protection, or are likely to lose
+patent protection in the near future.17  For these products, generic entry is being blocked not by
+Page 14 of 23
+IP, but primarily by the lack of an approval pathway.  In other words, for many biologics, patents
+may not be an obstacle to generic entry.
+IV.
+GUIDANCE FROM A COMPETITION PERSPECTIVE
+With all of that background in mind, how should competition law deal with issues
+relating to generic biologics?  I see at least a few areas where competition policy might inform
+the debate.
+A.
+What’s Best For Consumers?
+As an FTC Commissioner – and a state antitrust enforcer before that – I am always
+guided by one fundamental principle:  do what is best for consumers.  In the realm of biologics, it
+is easy to focus on the spiraling costs of these high-tech miracle drugs, and to conclude that more
+competition and cheaper generic alternatives would benefit consumers.  Certainly, it is tempting
+to believe that more competition and lower prices are always desirable.  As an antitrust lawyer,
+that would be my first instinct as well.
+1.
+Safety
+ But jumping to this conclusion too quickly might be short-sighted for several reasons, the
+most obvious of which is patient safety.  The Hatch-Waxman abbreviated approval process for
+generic pharmaceuticals is premised on the ability to identify truly equivalent drugs, and thereby
+assure their safety when substituted for branded drugs.  But as I discussed earlier, the tradeoff
+may be different with biologics.  Sometimes, it may not be possible to assure that a follow-on
+biologic meets a safe level of equivalence, without at least some additional clinical studies.  Yes,
+Page 15 of 23
+these studies may raise the cost and delay the entry of generic biologics.  But if safety is a major
+concern – if a drug could cure or kill you depending on how “equivalent” it really is – a delay,
+and a higher but quality-adjusted price, may be acceptable.
+I urge the FDA to take the lead in establishing whether – or, more likely, under what
+circumstances, according to what sliding scale – the science exists or needs to be developed to
+support the approval of generic biologics with some form of abbreviated testing.  If the science is
+there or can be developed, then by all means let’s not hide behind science as an excuse.  Let’s
+move the ball forward and find a way to facilitate market entry of safe and effective generic
+biologics.  But first, someone – probably the FDA – needs to objectively determine where the
+science really is, so that policymakers can rely on facts, instead of rhetoric and position papers
+from various interest groups.
+2.
+Short- vs. Long-Term Effects on Innovation
+Jumping to conclusions about lower-priced generic biologics poses another risk as well:
+the risk that short-term gains could be offset by longer-term harm to competition and consumers. 
+Specifically, any regime for approval of generic biologics must strike an appropriate balance
+between promoting generic entry in the short run, and preserving incentives to innovate in the
+long run.
+As I mentioned earlier, the Hatch-Waxman scheme was designed to balance the desire for
+lower-cost generics with the IP rights of pioneer firms, to ensure that branded firms would still
+have adequate incentives to engage in costly R&D activities.  It was also designed to create
+incentives for aggressive R&D by generic firms, via the promise of market exclusivity for the
+first ANDA filer upon successful challenge of patents listed in the Orange Book.  But it would be
+18
+The Commission has, in the past, challenged improper Orange Book listings.  See, e.g., Bristol-
+Myers Squibb Co., 135 F.T.C. 444 (2003) (consent order), available at
+http://www.ftc.gov/os/decisions/docs/Volume135.pdf; Biovail Corp., 134 F.T.C. 407 (2002) (consent order),
+available at http://www.ftc.gov/os/decisions/docs/Volume134.pdf.
+Page 16 of 23
+incorrect to assume that Hatch-Waxman can simply be imported from the pharmaceutical realm
+to biologics.  There are too many critical differences.
+In particular, pharmaceutical drugs usually are covered by a relatively small number of
+patents, owned by a small number of firms.  Biologics, in contrast, may be covered by a much
+greater number of patents – including research tool patents – owned by multiple entities.  Patents
+on large-molecule biologics also tend to be far more complex than patents for small-molecule
+drugs.
+3.
+Gaming the Hatch-Waxman System
+These differences open up the possibility of “gaming” a Hatch-Waxman-like system in
+ways that would harm consumers.  In the realm of biologics – with more patents, more patent
+owners, and a lot more dollars at stake – there likely would be even greater incentives and
+opportunities to game the system.
+For example, I would be very skeptical of a follow-on biologic approval pathway that
+included an Orange Book-like system of patent listings.  Each Orange Book listing represents a
+new hurdle for would-be entrants.  With respect to biologics – where patents are far more
+numerous and complex – it might be even easier, and more tempting, to exploit Orange Book
+listings.  A biologics manufacturer might make small tweaks to its manufacturing process,
+generate new patents, and list them in a “biologic Orange Book” at the last minute – or make
+other questionable Orange Book listings that would thwart follow-on entry plans.18
+19
+Fed. Trade Comm’n, Medicare Prescription Drug and Improvement Act Requires Drug
+Companies to File Certain Agreements with the Federal Trade Commission and U.S. Department of Justice (Jan.
+2004), available at http://www.ftc.gov/os/2004/01/040106pharmrules.pdf  (“Section 1112 of Subtitle B . . . of Title
+XI of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 . . . requires that brand name
+drug manufacturers and generic drug applicants file certain agreements with the Federal Trade Commission and the
+Assistant Attorney General . . . within 10 business days of execution of the agreement. This requirement covers
+agreements executed on or after January 7, 2004.”).
+20
+In the Matter of Schering-Plough Corp. et al., FTC Dkt. No. 9297, available at
+http://www.ftc.gov/os/adjpro/d9297/index.shtm.
+Page 17 of 23
+I am also concerned about importing the problem of “exclusion payments” from
+pharmaceuticals to biologics, but on an even more massive scale.  The Commission has been
+especially vocal in its opposition to exclusion payments, which are an unintended consequence of
+the Hatch-Waxman 180-day exclusivity provision.  Under the guise of settling patent litigation, a
+branded firm can effectively block generic entry by paying the first ANDA filer to stay off the
+market.  The branded drug maintains its monopoly, and the branded firm and the first filer split
+the monopoly profits – at consumers’ expense.
+The Medicare Prescription Drug, Improvement, and Modernization Act of 2003 imposed
+a requirement that certain patent settlement agreements between branded and generic firms be
+filed with the FTC and the Department of Justice, to provide the agencies with greater visibility
+into these potentially anticompetitive practices.19  The Commission pursued one exclusion
+payment case, the Schering case, all the way to the Supreme Court.20  And when certiorari was
+denied in that case – and, not coincidentally, the number of patent settlement filings
+skyrocketed – we began working even more aggressively with legislators to close some of the
+Hatch-Waxman loopholes relating to the 180-day exclusivity provision.
+I don’t want to give you the wrong impression.  I am a firm believer in the benefits of
+generic competition, and I applaud the efforts of policymakers to extend generic competition to
+biologics.  But I think it is important not to make critical policy decisions based on potentially
+21
+See, e.g., Duke University Fuqua School of Business, News Release, Generic Biologic Drugs
+Unlikely to Offer Significant Savings (May 2, 2007), available at
+http://www.fuqua.duke.edu/news/biologics-0507.html; Henry G. Grabowski et al., Entry and competition in generic
+biologicals, 28 MANAGERIAL & DECISION AL ECON. 1 (2007), available at
+Page 18 of 23
+flawed assumptions about the incentives of generic firms.  Generic firms exist, primarily, to
+make money for their shareholders.  They do not necessarily exist to look out for the interests of
+consumers.  It would be wrong to assume that what is best for generic firms is always best for
+consumers.  As we have seen in the exclusion payment context, sometimes what is best for
+generic firms is actually harmful to consumers.  We must not forget that someone needs to be
+looking out specifically for consumers.
+Going back to my innovation point, in the realm of biologics, the Orange Book and
+180-day marketing exclusivity quid pro quo is not needed.  Given the extremely high price at
+which biologics are sold, and the relatively small number of firms capable of manufacturing
+follow-on biologics, the promise of market exclusivity is not needed to entice R&D investment. 
+The incentives to innovate are already high.  All that is missing is a regulatory pathway for the
+approval of follow-on biologics.
+B.
+Vigor of Generic Competition
+One other area where competition policy might inform the debate is in thinking about the
+likely structure of biologics markets, if and when a follow-on approval pathway is created, and
+how this structure might influence competitive dynamics.
+Realistically, only a few of the biggest generic firms will be able to afford the huge
+investments needed to manufacture generic biologics.  Some have argued that entry by follow-on
+biologics may not meaningfully bring prices down if there are not enough generic entrants, which
+might reduce the expected savings to the government and other payors.21  The Commission’s
+http://faculty.fuqua.duke.edu/~dbr1/research/Biogenerics.pdf; House Oversight Hearing, supra note 6 (statement of
+Henry G. Grabowski, Ph.D.), available at http://oversight.house.gov/documents/20070416132526.pdf.
+22
+FTC Generic Drug Study, supra note 9, at 9; see also David Reiffen and Michael R. Ward,
+Generic Drug Industry Dynamics, Fed. Trade Comm’n Bureau of Econ. Working Paper No. 248 (Feb. 2002),
+available at http://www.ftc.gov/be/workpapers/industrydynamicsreiffenwp.pdf.
+23
+See, e.g., FTC Generic Drug Study, supra note 9, at 9, citing Congressional Budget Office, A CBO
+Study:  How Increased Competition from Generic Drugs Has Affected Prices and Returns in the Pharmaceutical
+Industry (July 1998) at 28, available at http://www.cbo.gov/ftpdocs/6xx/doc655/pharm.pdf (“The study found that,
+for drugs that are available in both generic and brand-name versions, the average price of a generic prescription was
+approximately half of the average price of a brand-name prescription [based on retail pharmacy data from 1993 and
+1994].”).  See also National Association of Chain Drug Stores, Industry Facts-At-A-Glance: Pharmaceutical
+Pricing, http://www.nacds.org/wmspage.cfm?parm1=507#pharmpricing (average brand-name prescription cost
+$111.02 in 2006, compared to $32.23 for average generic prescription, reflecting average savings of nearly 71%).
+Page 19 of 23
+own report on generic drug competition agreed that the price effects are greatest when there are
+multiple generic competitors.22
+But when you are talking about billion-dollar drugs, even small savings can be
+significant.  A 50 percent discount on a small-molecule drug that costs $20 is $10.23  But even a
+five percent discount on a biologic that costs $20,000 per year is $1000.  That’s a lot of money,
+in real dollar terms.
+An analysis of market structure also must consider the role of drug substitution laws in
+encouraging generic competition.  With respect to traditional pharmaceuticals, as I alluded to
+earlier, pharmacists in most states can substitute a generic version for a branded drug, without
+consulting with the doctor who wrote the original prescription.  For many payors, automatic
+substitution is a huge element in obtaining cost savings from generics.  But automatic
+substitution is far less likely to take hold in the realm of high-tech and expensive biologics,
+where treatment decisions are made on a case-by-case basis, and there are so many therapeutic
+variables in play.  Rather, physicians probably would have to write prescriptions for specific
+follow-on biologics.  Their willingness to do so – and the willingness and ability of insurers to
+24
+As one commentator has noted,
+Do not expect to hear your pharmacist say, Oops, I almost forgot to mention that I’m giving you
+the generic version of that monoclonal antibody your doctor prescribed. . . . Even if the FDA is not
+excessively cautious in permitting [follow-on biologics] to enter the market, there is the matter of
+what doctors and patients will do.  Compared to payers and academic thought leaders, doctors
+have always been the toughest sell for generic drugs.  When choosing between a branded pioneer
+biologic and a quasi-generic of uncertain bioequivalence, doctors have been exceptionally
+reluctant to switch.
+John E. Calfee, Facing Reality on Follow-on Biologics, HEALTH POLICY OUTLOOK (newsletter of the American
+Enterprise Institute for Public Policy) (April 24, 2007), available at
+http://www.aei.org/publications/pubID.26010/pub_detail.asp.
+25
+Access to Life-Saving Medicine Act, H.R. 1038 & S. 623, 110th Cong. (2007); Affordable
+Biologics for Consumers Act, S. 1505, 110th Cong. (2007); Patient Protection and Innovative Biologic Medicines
+Act of 2007, H.R. 1956, 110th Cong. (2007).
+26
+Complete hearing materials are available at http://oversight.house.gov/story.asp?ID=1223.
+Page 20 of 23
+channel patients toward lower-priced alternatives – will dramatically affect the cost savings that
+generic biologics might bring about.24
+V.
+NEXT STEPS
+So, where do we go from here?  Scientists have been discussing generic biologics for
+quite some time.  Now, the academic literature on the law and policy of generic biologics is
+beginning to grow.  And often, a flurry of ideas is a good predictor of action in the near future.
+A.
+Congressional Interest
+Congress clearly is interested in these issues.  Various bills have been introduced in the
+House and the Senate to create an abbreviated approval pathway for biologics.25  As recently as
+March 2007, the House Committee on Oversight and Government Reform (chaired by
+Representative Henry Waxman, of Hatch-Waxman fame) held a “Hearing on Safe and
+Affordable Biotech Drugs – The Need for a Generic Pathway.”26  Not surprisingly, the speakers
+at that hearing were overwhelmingly in favor of the concept of creating a regulatory scheme to
+27
+The speakers included representatives from the FDA, large and small biotechnology firms, the
+academic and scientific communities, AARP, patient groups, heath care benefits providers, and government entities
+that purchase large quantities of biopharmaceuticals on behalf of insured patients.
+28
+House Oversight Hearing, supra note 6 (statement of Janet Woodcock, M.D., Deputy
+Commissioner, Chief Medical Officer, FDA), available at
+http://oversight.house.gov/documents/20070326104056-22106.pdf.
+29
+In addition to the Schering litigation, see supra note 20, the Commission also has pursued
+enforcement actions against mergers and other conduct that impacted competition in generic drug markets.  See, e.g.,
+Warner Chilcott Corporation and Barr Pharmaceuticals., Civil Action No. 1:05-CV-2179-CKK (D.D.C.) (complaint
+filed Nov. 7, 2005; amended complaint filed Dec. 2, 2005; final order against Warner Chilcott issued Oct. 24, 2006),
+available at http://www.ftc.gov/os/caselist/0410034/0410034.htm; Perrigo Company and Alpharma Inc., Civil
+Action No. 1:04CV01397 (RMC) (D.D.C.), (complaint filed August 17, 2004; final orders issued August 25, 2004),
+available at http://www.ftc.gov/os/caselist/0210197/0210197.shtm ; 
+Actavis Group hf. & Abrika Pharmaceuticals, Inc., C-4190 (consent order issued May 22, 2007), available at
+http://www.ftc.gov/os/caselist/0710063/index.shtm; Hospira, Inc. & Mayne Pharma Ltd., C-4182 (consent order
+issued March 23, 2007), available at http://www.ftc.gov/os/caselist/0710002/index.htm; Watson Pharmaceuticals,
+Inc. & Andrx Corp., C-4172 (consent order issued December 6, 2006), available at
+http://www.ftc.gov/os/caselist/0610139/index.htm; Barr Pharmaceuticals, Inc., C-4171 (consent order issued
+December 8, 2006), available at http://www.ftc.gov/os/caselist/0610217/0610217.htm; Teva Pharmaceutical
+Industries Ltd. & IVAX Corp., C-4155 (consent order issued March 2, 2006), available at
+http://www.ftc.gov/os/caselist/0510214/0510214.htm; Novartis AG, 140 F.T.C. 480 (2005) (consent order),
+available at http://www.ftc.gov/os/decisions/docs/Volume140.pdf.  See generally Fed. Trade Comm’n, Bureau of
+Competition, Healthcare Services & Products Division, Overview of FTC Antitrust Actions in Pharmaceutical
+Services and Products (April 2007), available at http://www.ftc.gov/bc/0608rxupdate.pdf (full listing of all
+Commission actions in the pharmaceutical industry).
+Page 21 of 23
+facilitate market entry of generic biologics.27  Testimony by an FDA official at that hearing was
+more cautious, but she indicated that the agency would be issuing a series of “guidance
+documents” regarding follow-on protein products.28  It seems inevitable that legislation
+ultimately will emerge from Congress, although it unclear what form that legislation will take.
+B.
+Role for the FTC
+As the debate continues, I hope and expect that the FTC will play an important role.  Our
+agency has been closely involved in monitoring the competitive effects of Hatch-Waxman over
+the years.  Through advocacy as well as aggressive enforcement,29 we have fought to maintain
+competition in markets for generic drugs, and to close unintended but dangerous Hatch-Waxman
+loopholes that have denied consumers the full benefits of generic competition.  In recent months,
+30
+See especially Fed. Trade Comm’n, Protecting Consumer Access to Generic Drugs: The Benefits
+of a Legislative Solution to Anticompetitive Patent Settlements in the Pharmaceutical Industry, Prepared Statement
+before the Subcomm. on Commerce, Trade, and Consumer Protection, Comm. on Energy and Commerce, U.S.
+House of Reps. (May 2, 2007), available at
+http://www.ftc.gov/os/testimony/P859910%20Protecting_Consume_%20Access_testimony.pdf.
+31
+See, e.g., Energy Policy Act of 2005, Pub. L. No. 109-58 § 1809, 119 Stat. 594 (2005) (requiring
+the Commission to “conduct an investigation to determine if the price of gasoline is being artificially manipulated by
+reducing refinery capacity or by any other form of market manipulation or price gouging practices.”); Science, State,
+Justice, Commerce, and Related Agencies Appropriations Act, 2006, Pub. L. No. 109-108 § 632, 119 Stat. 2290
+(2005) (appropriations legislation directed the Commission to conduct an investigation into nationwide gasoline
+prices and possible price gouging in the aftermath of Hurricane Katrina); Fed. Trade Comm’n, FTC Investigation of
+Gasoline Price Manipulation and Post-Katrina Gasoline Price Increases, Prepared Statement before the Comm. on
+Commerce, Science, and Transp., U.S. Senate (May 23, 2006), available at
+http://www.ftc.gov/os/testimony/0510243CommissionTestimonyConcerningGasolinePrices05232006Senate.pdf 
+(presenting Commission’s findings in the two mandated investigations).
+Page 22 of 23
+FTC officials and staff have been particularly active in supporting legislation to end
+anticompetitive exclusion payments from branded firms to generics.30
+The FTC has developed tremendous expertise in analyzing the competitive dynamics of
+generic pharmaceuticals.  This expertise should be brought to bear on biologics, as current
+legislative proposals evolve.  In addition to providing informal advice, it might be worthwhile for
+Commission staff to conduct a formal, disciplined study of the likely competitive effects of
+creating a Hatch-Waxman-like scheme for follow-on biologics.  Of course, the Commission’s
+resources are limited.  But as we have seen in the past, if Congress orders us to conduct a study,
+it tends to happen31 – so we’ll see what Congress might ask of us in the future.
+C.
+European Perspective
+I also expect that we can learn from our counterparts in Europe, where a pathway has
+existed since 2004 for abbreviated approval of “biosimilars.”  Of course, we need to consider
+how the European Medicines Agency, Europe’s equivalent of the FDA, has balanced safety
+versus costs – and whether the United States is prepared to strike the same balance.  But given
+Page 23 of 23
+the global dimensions of the pharmaceutical and biotech industries – and, importantly, the global
+nature of the science underlying drug innovations – I expect we might derive some useful
+insights if we look abroad.
+VI.
+CONCLUSION
+To conclude, biologics are the wave of the future, and issues relating to generic biologics
+are going to become even hotter as more biologics enter the market.  While these drugs often
+work miracles, they come at a huge cost, to individuals as well as to society as a whole.  The
+availability of generic biologics is likely to lower prices and expand the benefits of biologics to a
+greater number of consumers.  But policymakers should tread carefully, to ensure they fully
+understand the likely competitive implications and long-term consequences of their decisions. 
+And in any event, the FTC should be a part of that process. 
+Thank you for your time today.

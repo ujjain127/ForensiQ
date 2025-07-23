@@ -1,0 +1,958 @@
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+1
+Geomorphologic Impacts of
+Geomorphologic Impacts of 
+Culvert Replacement and Removal:
+Culvert Replacement and Removal: 
+Avoiding Channel Incision 
+ 
+By Janine Castro, Geomorphologist, U.S. Fish and Wildlife Service, Portland, OR 
+ 
+These guidelines are used by Oregon Fish and Wildlife Office when implementing culvert replacement and 
+removal projects, and are recommended practices for entities involved in stream crossing activities.  These 
+guidelines should serve to assist with any culvert-related endangered species consultation requirements.  
+Compliance with these guidelines should assist in minimizing or avoiding impacts during project 
+construction activities, and are intended to help culvert projects result in long-term benefits to listed 
+species recovery.  However, consistency with these guidelines does not negate the need for Endangered 
+Species Act (ESA) consultation on culvert removal and replacement projects, where listed ESA species may 
+be present.  For additional information on ESA compliance requirements for culvert replacement and 
+removal projects, please contact the U.S. Fish and Wildlife Service’s Oregon Fish and Wildlife Office at 
+(503) 231-6179 (Rollie White), or any of the following field offices: LaGrande (541- 962-8509), Bend (541-
+383-7146), Newport (541-867-4558), or Roseburg (541-957-3474). 
+ 
+OVERVIEW 
+ 
+This technical note describes a specific methodology for determining the vertical stability 
+of stream channels in the vicinity of existing road crossings (primarily culverts), although 
+the methodology is applicable along any reach of a stream.  Vertical stability refers to the 
+relative constancy over time of streambed elevation through a given stream reach.  A 
+streambed that deepens over time is referred to as “incising,” while a rising bed elevation 
+is indicative of an “aggrading” stream channel.  Streams that are incising or aggrading on 
+a reach scale are considered to be vertically unstable. However, local variations in bed 
+elevation are inherent in streams because of scour and fill processes, and should not be 
+confused with vertically unstable channels.  
+ 
+Vertical stability is of considerable interest at culverts because these structures often 
+provide elevational control for incising stream channels. Provision of elevational control 
+or “grade control” is important because removal of this control may allow channel 
+incision to migrate upstream, potentially affecting habitat and impeding fish passage. Of 
+primary concern to the U.S. Fish and Wildlife Service (Service), and hence the subject of 
+this paper, are culvert removal or replacement projects in vertically unstable streams. 
+Activities associated with these streams can lead to additional channel incision with a 
+resultant loss of habitat and potential fish passage blockage. Changes to the channel 
+profile post-project are collectively referred to as channel “regrade”. 
+ 
+   
+BACKGROUND 
+ 
+Culverts are part of our transportation network and as such, are typically planned, 
+designed, installed, and maintained by various departments of transportation at the local, 
+county, state and federal level.  Biologists become involved in culvert replacement and 
+Photo Courtesy of Jane Kelly 
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+2
+removal projects because the structures interface directly with stream systems and thus 
+floodplain, riparian, and stream habitat.  Because of this interface, culvert removal and 
+replacement projects require interdisciplinary participation.   
+ 
+It is deceptively easy to assume that culvert-related problems in a stream system are site-
+specific and site-limited.  This is not always the case, and may in fact be the exception.  
+Streams are linear systems that move mass and energy along the channel primarily in 
+upstream/downstream directions and through the floodplain in all directions.  It is critical 
+that these linkages are well understood and analyzed before any instream action is taken.  
+Improperly installed culverts compromise or eliminate fish and other aquatic species 
+passage and can alter the quantity or quality of stream corridor habitat.  Even properly 
+designed and installed culverts can become fish passage barriers if channel incision 
+occurs downstream and migrates upstream to an existing culvert, since culverts are static 
+structures in dynamic systems. 
+ 
+Channel incision, the overall lowering of a streambed over time, is one of the most 
+common channel processes encountered when working in streams in the Pacific 
+Northwest (PNW).  Understanding the causal factor and related stream adjustments as 
+they pertain to the channel incision and evolution process is essential so that these 
+processes are addressed when designing instream projects.  By overlooking the 
+geomorphology of these streams because of lack of time, money, or expertise, otherwise 
+well-intentioned and well-planned projects may be completely ineffective or detrimental 
+to the stream system and related habitat. 
+ 
+Incision Processes 
+ 
+Channel incision may exist at a site prior to project implementation, which requires 
+special design considerations, or it may occur post-project, potentially altering the 
+effectiveness of the project. Channel incision can be initiated in numerous ways (Table 
+1). One of the most common initiators is a change in peak discharge due to land 
+management activities and infrastructure.   
+ 
+Table 1:  Causes of Channel Incision 
+ 
+A. Decreased Erosional Resistance 
+a. Decreased or modified riparian vegetation cover or rooting strength due to 
+increased agricultural activity, urbanization, timber harvest, overgrazing, fires and 
+droughts. 
+b. Watershed surface disturbance causing decreased permeability (i.e. 
+urbanization). 
+c. Removal of instream structural elements such as large wood or beaver dams. 
+ 
+B. Increased Erosional Forces 
+a. Constriction of flow by culverts, dikes, bridges, and fill material. 
+b. Concentration of flow by roads, trails, and ditches. 
+c. Steepening of gradient and energy slope by channelization and meander cutoffs, 
+base-level lowering by decreased lake or reservoir level. 
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+3
+d. Increase in duration, frequency, or intensity of sediment-transporting flows due to 
+more rapid routing of water to the receiving channel, increase in volume of flood 
+peaks, or artificially elevated wet-season base flows. 
+e. Decrease of sediment load. 
+ 
+Modified from: Schumm, Harvey, & Watson, 1984. 
+ 
+ 
+A primary mechanism that changes the volume and timing of peak flows is the road 
+network, which essentially increases the drainage density of channels, intercepts 
+subsurface water, and decreases the time for overland runoff to reach the stream channel.  
+Even though a watershed receives the same amount of precipitation, it is transported 
+through the system much more quickly, thus resulting in higher peak discharges and 
+resultant increases in stream power.  This increased stream power can more effectively 
+erode the streambed and banks.  Because the total amount of water remains relatively 
+constant, base flows decrease because the rapid runoff reduces the total amount of water 
+that can infiltrate and be stored in the soil.  
+ 
+Lane’s (1955) stream balance relationship clarifies this point:  
+ 
+ 
+Q S ∝ Qs d50 
+ 
+ 
+ 
+     
+  
+where Q = channel-forming discharge,  S = channel gradient,  Qs = bed-material discharge, and 
+d50 = median grain size of bed material.  
+ 
+The stream balance equation indicates that if available stream power is augmented by an 
+increase in discharge or the gradient of the stream, there would be an excess amount of 
+stream power relative to the discharge of bed-material sediment whose resistance is a 
+measure of particle diameter. Additional sediment would be eroded from the channel 
+resulting in: (1) an increase in bed-material discharge to an amount commensurate with 
+the heightened stream power, and (2) a decrease in channel gradient and, consequently, 
+stream power as the elevation of the channel bed is lowered.   
+ 
+Assuming, for illustrative purposes, that the streambed and banks are composed of the 
+same material, the streambed will erode first.  This is due to the higher shear stresses 
+exerted on the bottom of the stream channel by the flowing water.  The streambed will 
+continue to erode until (1) the critical bank height is exceeded resulting in bank failure 
+and channel widening which may restore the sediment/water balance, (2) a control point 
+is encountered such as bedrock, buried wood, pipelines, bridge aprons, fords, or culverts, 
+(3) deposits of coarse sediment armor the channel bed, or (4) there is a significant change 
+in valley type (i.e. alluvial with floodplain to confined with hillslope interaction) and/or 
+gradient (i.e. low gradient to a much steeper gradient).  If the channel bed is more 
+resistant to erosion than the banks (i.e. cobble bed with sand banks), then bank erosion 
+will be the likely mode of adjustment. 
+ 
+Since channel incision generally migrates upstream, an existing culvert may be acting as 
+a grade control, halting the upstream progression of the headcut and channel regrade.  
+ 
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+4
+ 
+Stream Impacts from Undersized Culverts 
+ 
+Culverts in the PNW have always been problematic for migrating anadromous and 
+resident fish species, but have also impacted other aquatic and terrestrial species because 
+they disrupt the longitudinal continuity, or connectedness, of a stream channel.  There has 
+been a great amount of interest and subsequent activity to replace culverts in the PNW 
+with larger culverts or bridges which do not constrict flow or disrupt natural stream 
+processes during low to moderate flows in the stream channel. 1 Culverts are often 
+replaced or removed because they are fish passage barriers due to (1) high velocities, (2) 
+shallow flow depths, (3) length of run with no resting areas, or (4) excessive jump height.  
+High quality aquatic habitat or habitat required for a specific species life stage may exist 
+above a culvert providing the impetus for replacement or removal; however, replacing or 
+removing a culvert without a thorough understanding of the stream dynamics may result 
+in the loss of the upstream habitat that was the stimulus for the project. 
+ 
+Culvert design historically focused on passing water, not sediment and large wood, which 
+resulted in small pipes that become pressurized during high flows.  This has resulted in 
+significant problems at culverts including (1) plugging due to large wood transport, (2) 
+sediment deposition at the inlet due to the backwater effect, and (3) high velocity flows 
+exiting the culvert resulting in channel scour.  
+ 
+Plugging of a culvert during flood flows can result in overtopping and failure of the road 
+prism.  The road fill material is then directly delivered to the stream system, potentially 
+impacting downstream habitat. Bank erosion and plunge pools can develop at the 
+downstream end of a culvert due to flow constriction within the barrel of the culvert and 
+the resultant turbulent jet of water at the outlet.  It is the turbulent jet that dislodges 
+particles on the bed and banks of the channel, generally resulting in a deep plunge pool 
+and erosion of the streambanks (Figure 1).  A wedge-shaped sediment deposit upstream 
+of a culvert is also expected when a culvert (1) is undersized, (2) is located above the 
+streambed elevation for the provision of stormwater detention, or (3) becomes plugged 
+with debris due to the decreased velocities and backwater effect.  The sediment deposit 
+generally occurs directly upstream (mid-channel) of the culvert which can then cause 
+deflection of flow around the deposit and erosion of the streambanks and road fill.  This 
+is considered a localized effect of an undersized culvert and can be corrected with culvert 
+replacement or removal and sediment excavation.  Grade control is generally not 
+necessary.  Using the elevation of the culvert and the stream gradient, the upstream extent 
+of incision through the sediment wedge and the total volume of sediment can be 
+calculated.  
+ 
+Figure 1.  Undersized Culvert and Bridge Replacement 
+                                                 
+1 For specific information on culvert design for fish passage in Oregon refer to the Oregon Department of 
+Fish and Wildlife document “Guidelines and Criteria For Stream-Road Crossings” (1997) and Oregon 
+House Bill 3002. For Washington State, refer to the Revised Code of Washington (RCW), Titles 75 and 77, 
+and the Washington Administrative Code (WAC) Chapters 220-110-010 through 220-110-360. 
+ 
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+5
+ 
+Photo Courtesy of Dan Perritt 
+ 
+Stream Impacts from Channel Incision 
+ 
+Culvert replacement or removal may allow channel incision to progress upstream 
+unchecked.  Upstream migration of channel incision proceeds in a relatively predictable 
+manner and is system-wide.  The channel typically deepens due to a change in the 
+proportionality between the amount and size of sediment, the amount of water, and the 
+stream slope.  For example, channel incision is very common downstream of dams 
+because the bedload is effectively removed from the stream system, disrupting the 
+balance between sediment input and sediment output from the reach.   After channel 
+incision has occurred and the channel bed becomes stable, the “new” channel can contain 
+higher flows before spilling out onto the floodplain.  The subsequent pressure of the 
+greater confined flows is then translated to the streambanks where significant erosion can 
+occur.  Once the channel has enlarged to such an extent that the near bank shear stress is 
+significantly reduced, the system will start to stabilize.  This “Channel Evolution Model” 
+has been well-documented and is discussed later in the Methodology Section of this 
+document (Schumm, Harvey, and Watson, 1984; Simon and Rinaldi, 2000). 
+ 
+If system-wide channel incision has occurred and a culvert is providing grade control, 
+replacement or removal of the culvert may result in the following responses: 
+ 
+1. Headcut migration upstream and subsequent deepening of the stream channel. 
+2. Relatively higher channel banks that may exceed critical height resulting in mass 
+failure (bank erosion). 
+3. Addition of sediment to the stream system due to erosion of the channel 
+boundary. 
+4. Disconnection of floodplains from active stream channels. 
+5. Prematurely dewatered or disconnected backwater habitat. 
+6. Locally increased channel slope and loss of pool habitat. 
+7. Drainage of shallow aquifers which affects riparian vegetation. 
+8. Meander cut-offs due to knickpoint migration across a meander neck caused by an 
+increased elevation drop between the old floodplain and active channel bed. 
+9. Deposition of large masses of sediment causing localized channel braiding and 
+instability of the streambanks. 
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+6
+ 
+METHODOLOGY FOR DETERMINING VERTICAL CHANNEL STABILITY 
+ 
+The main geomorphic concern with culvert replacement and removal is a rapid, and 
+potentially catastrophic, regrade of the stream channel including channel bed degradation, 
+lateral erosion, and subsequent deposition of eroded sediments. An existing vertically 
+unstable condition indicates that the likelihood for channel regrade following culvert 
+replacement or removal is high.  To evaluate the risk for channel regrade, several 
+approaches may be used to determine if a stream is actively incising or has historically 
+incised.  Two methodologies (channel evolution and longitudinal profiles) are presented 
+which are widely-used and generally adequate for the purpose of culvert evaluation. 
+ 
+Channel evolution is most obvious in streams with cohesive beds and banks (Figure 2), 
+because headcuts remain fairly vertical as they progress upstream, and are thus readily 
+visible.  In gravel-bedded rivers, headcuts may be dispersed out through several thousand 
+feet of channel and may only be detectable with longitudinal surveys.  The Channel 
+Evolution Model is a good tool for reconnaissance level work, however, longitudinal 
+profiles are required to quantify the actual extent of incision.  While the Channel 
+Evolution Model indicates a trend for channel stability, longitudinal profiles provide 
+some of the data required for the design of grade control structures. 
+ 
+Figure 2. Example of Channel Evolution from South Dakota 
+S ta g e  1
+S ta g e  2
+S ta g e  3
+S ta g e  4
+ 
+Photo courtesy of Lyle Steffen 
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+7
+ 
+Channel Evolution Model 
+ 
+Channel evolution is the progression from a stable channel, to channel incision, to 
+widening, to stabilization (Figure 3).  While the rate and timing of the various stages can 
+vary dramatically, the general trend is well documented (Schumm et al., 1984; Simon and 
+Rinaldi, 2000). The use of channel evolution models is appropriate for alluvial streams 
+that can vertically and/or laterally adjust.  
+ 
+Determining what stage of channel evolution exists above and below a culvert is 
+instrumental in determining the vertical stability of a stream channel.  Since channel 
+incision is typically followed by channel widening and floodplain development in 
+unconstrained alluvial channels, a difference in the stages of channel evolution above and 
+below a culvert (for example, Stage I upstream of a culvert and Stage III below the 
+culvert) can indicate that the culvert is functioning as grade control structure, essentially 
+preventing a headcut from migrating upstream. In this case, it may be prudent to add 
+grade control in addition to culvert replacement or removal so that additional channel 
+incision does not occur above the structure. 
+ 
+ 
+Figure 3:  Channel Evolution Model 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From Schumm, Harvey, and Watson, 1984. 
+ 
+ 
+ 
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+8
+When determining if channel incision is affecting or has affected a particular stream 
+reach, there are numerous channel degradation indicators that can be used for assessment 
+(Table 2). 
+ 
+Table 2.  Channel Degradation Indicators 
+ 
+ü Headcuts – a vertical drop or off-set in the channel bed. 
+ü No Sediment Deposits – erosion of the channel bed down to bedrock or other resistant soil layer. 
+ü Toe of Bank is Vertical – lack of a sediment facet at the interface between the streambed and banks. 
+ü Cultural Features Exposed – exposed bridge footings or aprons, exposed pipelines, or perched culverts. 
+ü Historical Reference – individual accounts, historical photos, and old maps or surveys. 
+ü Lack of Pools – long reaches of riffle or run, no pool areas. 
+ü Dead or Dying Riparian Vegetation – loss of riparian vegetation due to lowering of shallow aquifer. 
+ü Dewatering of Aquifers – effluent from banks and evidence from wells and piezometers. 
+ü Upland Species Encroaching into Floodplain – change in moisture conditions resulting in plant 
+community changes. 
+ 
+ 
+The stage of channel evolution can be determined by investigating the type of erosion 
+that is occurring at a site.  If the primary mechanism is erosion of the channel bed, then 
+the channel is at Stage 2.  If bank erosion is the primary process, then the channel is at 
+Stage 3.  Stage 4 channels exhibit some channel stability and sediment deposition near 
+the banks.  It may be difficult to determine whether a stream is at a Stage 1 or 5 if the 
+degree of incision is minimal.  It is not uncommon to have a Stage 1 channel above a 
+culvert and a Stage 5 channel below.  If the degree of incision is only a few feet, it may 
+be hard to detect, although the impacts of removing the culvert may still occur (see 
+Stream Impacts from Channel Incision, page 5).  This situation requires a longitudinal 
+profile to determine the actual degree of channel bed off-set and the stages of channel 
+evolution. 
+ 
+Note: erosion of the outside of meander bends is a natural process and does not 
+necessarily indicate channel incision. 
+ 
+Longitudinal Profile 
+ 
+Longitudinal profiles provide information about overall stream gradient, habitat unit 
+gradient (pool, riffle, run), habitat unit length and spacing, profile breaks or headcuts, 
+residual pools, and bed roughness and variation.  A surveyed longitudinal profile for at 
+least 20 channel widths (centered on the road crossing) will be necessary when 
+determining the existence and magnitude of a potential headcut.  In addition, it is 
+important to survey beyond the area that is directly influenced by the culvert (i.e. the 
+sediment deposit upstream and area of expansion scour downstream, or beyond areas 
+influenced by other structures such as revetments)(Figure 4).   
+ 
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+9
+ 
+ 
+ 
+Figure 4. Culvert with Upstream Sediment Deposit 
+ 
+A longitudinal profile (Figure 5) is a plot of the thalweg elevation of the stream channel 
+which includes all major bed features.  A longitudinal profile can also capture the (1) 
+current water elevation, (2) channel forming discharge (bankfull) indicators, (3) 
+floodplain elevations, and (4) terrace elevations.  Average channel slope can be 
+calculated from a longitudinal profile if the survey is extensive enough. 2 
+ 
+Once the profile is surveyed and plotted, it is necessary to determine if there is an off-set 
+of the channel bed at the stream culvert. Examples of longitudinal profiles with and 
+without a bed elevation off-set are provided below (Figures 5 and 6). 
+ 
+ 
+                                                 
+2 Refer to “Stream Channel Reference Sites: An Illustrated Guide to Field Techniques” (Harrelson et al. 
+1994) for specific guidance on surveying a longitudinal profile. 
+ 
+75
+80
+85
+90
+95
+100
+105
+110
+300
+500
+700
+900
+1100
+1300
+1500
+1700
+1900
+Channel Distance (m)
+Elevation (m)
+Sediment 
+Deposit
+Culvert
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+10
+Figure 5:  Longitudinal Profile – No Channel Bed Off-Set 
+ 
+Figure 6:  Longitudinal Profile - With Channel Bed Off-Set 
+ 
+75
+80
+85
+90
+95
+100
+105
+110
+300
+500
+700
+900
+1100
+1300
+1500
+1700
+1900
+Channel Distance (m)
+Elevation (m)
+Water
+Channel Bed
+Culvert
+Average Channel Slope
+ 
+ 
+75
+80
+85
+90
+95
+100
+105
+110
+300
+500
+700
+900
+1100
+1300
+1500
+1700
+1900
+Channel Distance (m)
+Elevation (m)
+Water
+Channel Bed
+Culvert
+Average Channel Slope
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+11
+Post-Project Monitoring 
+ 
+To evaluate the success and/or failure of culvert replacement and removal, documentation 
+of the design process, changes to the design during construction, and follow-up 
+monitoring is required.  In general, photo points are useful for documenting significant 
+changes to the stream, and should be taken from the road surface looking both upstream 
+and downstream. For monitoring, benchmarks and monumented cross-sections should be 
+used for the longitudinal survey.  Benchmarks should be located well outside the area of 
+potential stream influence.  The survey should include floodplain and terrace elevations 
+to determine if additional channel incision has occurred. 
+ 
+Refer to published monitoring guidelines for specific information regarding monitoring 
+protocols. 
+ 
+ 
+RISK ASSESSMENT 
+ 
+Once field reconnaissance and surveys are complete, a determination regarding vertical 
+channel stability is required.  If a channel is vertically unstable, then a risk assessment 
+should be performed to determine the potential for additional channel erosion and habitat 
+degradation. 
+ 
+Determining whether the degree of channel incision is significant requires an integration 
+of field indicators and professional judgment.  For example, a one-foot headcut may be 
+inconsequential for a stream that is 100-feet wide with a large floodplain, especially if the 
+bed material is large (gravel to cobble).  If the stream is only 10-feet wide and is sand-
+bedded, a one-foot headcut may pose a significant threat to habitat.   
+ 
+Referring back to the potential stream system response to channel incision (page 5), 
+consider the following: 
+ 
+1. Headcut migration upstream and subsequent deepening of the stream channel. 
+• 
+Will the headcut cause a fish passage barrier in the channel or at an 
+upstream structure?   
+i. Determine if barrier will be short-term or long-term. 
+ii. Develop a monitoring and contingency plan. 
+• 
+What is the likelihood that grade control will be encountered and how far 
+is it from the site? 
+i. Look for evidence of bedrock, boulders or buried wood.   
+ii. Determine distance to grade control and calculate volume of 
+sediment that will be excavated by the stream between the project 
+site and the upstream grade control. 
+• 
+Is there other infrastructure that will be affected? 
+i. Determine if there are any upstream road crossings, pipeline 
+crossings, irrigation diversions, or electric or fiber optic cables. 
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+12
+2. Relatively high channel banks that may exceed critical height resulting in mass 
+failure (bank erosion). 
+• 
+How much bank erosion will occur? 
+i. Determine average bank heights and potential rates of erosion. 
+ii. Evaluate land use and structures in the area.   
+iii. Consider easements. 
+• 
+Is bank stabilization necessary? 
+i. Determine if there are existing bank stabilization structures. 
+ii. Consider alternatives for non-structural bank protection. 
+3. Addition of fine sediment to the stream system due to erosion of the channel 
+boundary. 
+• 
+Is the stream water quality limited? 
+i. Calculate the volume of fine sediment that will be added to the 
+channel from both the bed and banks due to erosion.   
+ii. Calculate the volume of sediment stored upstream of the existing 
+culvert. 
+• 
+What is the caliber of sediment (clay, silt, sand)? 
+i. Determine how will this affect downstream habitat (redds, 
+macroinvertebrates). 
+ii. Evaluate increases in turbidity. 
+4. Disconnection of floodplains from active stream channels. 
+• 
+How often will the old floodplain be inundated -- once every 2, 5, 10, 100-
+years?  
+i. Determine channel cross-sectional area and estimate frequency of 
+floodplain inundation.  Inundation less frequent than the 5-year 
+flow indicates a channel that is highly incised and probably 
+unstable.  
+• 
+Will this significantly increase stream power within the main channel 
+(more concentrated flow)? 
+i. Calculate stream power and determine if this will cause an 
+increase in sediment transport.  If the stream transports more 
+sediment, additional incision is likely. 
+5. Prematurely dewatered or disconnected backwater habitat. 
+• 
+Will backwater habitat be completely disconnected or will it be functional 
+for much shorter periods during the year? 
+i. Survey available backwater habitat and determine how frequently 
+it can be accessed by species of interest. 
+ii. Improve connectivity if possible. 
+6. Locally increased channel slope and loss of pool habitat. 
+• 
+Are lack of pools a limiting factor in the stream?   
+i. From the longitudinal survey, determine the pool/riffle ratio. 
+ii. If pool/pool spacing is greater than 20 channel widths for stream 
+gradients less than 1%, pool habitat is probably lacking. 
+• 
+Is pool quality a limiting factor in the stream? 
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+13
+i. From the longitudinal profile, determine the residual pool depths 
+(depth of water in a pool assuming zero discharge).  The pool 
+should be longer than the channel is wide. 
+7. Drainage of shallow aquifers which affects riparian vegetation. 
+• 
+Can the riparian vegetation survive a drop in the water table 
+commensurate with expected incision? 
+i. Evaluate the age structure and condition of the riparian plant 
+community. 
+ii. Determine if there are any impermeable soil layers that will 
+prevent roots from following the water table.  
+• 
+Many wetland species are very sensitive to changes in moisture regimes.  
+Monitoring of the plant community is recommended.   
+8. Meander cut-offs due to knickpoint migration across a meander neck caused by an 
+increased elevation drop between the old floodplain and active channel bed. 
+• 
+What is the potential for channel straightening and simplification?  
+i.  This process is more common in deeply incised channels with 
+somewhat cohesive banks that flood on a five to ten-year basis. 
+ii. Determine flood re-entry points that are susceptible to meander 
+cut-offs. 
+iii. Determine historical channel patterns and compare to current 
+condition. 
+9. Deposition of large masses of sediment causing localized channel braiding and 
+instability of the streambanks. 
+• 
+Is deposition of coarse sediment en masse likely for the stream in 
+question? 
+i. Extensive bar formation is more common in arid streams, streams 
+with high sediment loads, and streams that have “flashy” 
+hydrographs. 
+ii. Calculate the amount of sediment that will be eroded from the 
+channel boundary, assume it will be deposited locally, and 
+consider the impact of this sediment to channel form. 
+iii. Mid-channel bars may form, causing concentrated flow near both 
+banks.  
+• 
+Is local aggradation a concern for fish passage? 
+i. Wide, shallow channels can be fish passage barriers due to the 
+lack of concentrated flow, or due to all flows going subsurface. 
+ 
+There are numerous other potential impacts due to headcut migration that are site-
+specific.  It is not necessary to quantify all of these processes, but they should be at least 
+qualitatively evaluated for a risk assessment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+14
+OPTIONS FOR GRADE CONTROL FOR INCISING CHANNELS 
+ 
+It is not possible to describe all of the various scenarios for culvert replacement or 
+removal because each site is unique and requires an individual assessment as discussed 
+above.  There are however, general characteristics of each treatment that may be 
+favorable in different stream systems.   
+ 
+Grade control treatment alternatives discussed in this document include, but are not 
+limited to, (1) do nothing, (2) large roughness elements, (3) rock and log weirs, and (4) 
+constructed step-pools and cascades.  The choice of treatment may be based on site 
+limitations (i.e. channel slope or bed material type), material availability, economics, land 
+use, design competence or familiarity, and/or regulatory restrictions (i.e. jump heights for 
+fish). 
+ 
+The “Do Nothing” Alternative 
+ 
+If the evaluation of channel evolution and the longitudinal profile indicate a low risk for 
+channel incision (i.e. minimal headcut relative to channel size or evidence of natural 
+grade control such as bedrock, cemented gravel, or buried wood), and downstream 
+riparian and channel conditions are adequate, then a “no-action” alternative is indicated.  
+The culvert would be replaced or removed without the addition of grade control. 
+ 
+Determining the significance of a headcut is site-specific and requires the judgement of a 
+geomorphologist or other trained professional.  An evaluation of downstream channel 
+resilience (i.e. the existence of floodplains, stable banks, well vegetated riparian zones, 
+etc.) is essential because this area will be impacted by the additional sediment generated 
+from channel erosion.   
+ 
+Benefits 
+1. Least expensive in the near-term (economically). 
+2. No maintenance. 
+3. No risk of grade control failure. 
+ 
+Limitations (see Risk Assessment, page 11) 
+1. Large potential for lost instream and terrestrial habitat. 
+2. Loss of riparian vegetation. 
+3. Downstream flooding. 
+4. Channel widening. 
+5. Increased turbidity and suspended sediments. 
+6. Mid-channel bar formation due to increased sediment load. 
+7. Decreased bank stability. 
+8. Loss of wetlands. 
+ 
+ 
+ 
+ 
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+15
+Large Roughness Elements: Wood and Boulders 
+ 
+In many PNW streams, large wood and boulders provide natural grade control in the 
+form of channel spanning log jams or debris flow deposits.  It is often feasible to mimic 
+this natural analog to provide grade stabilization in areas where the risk of headcut 
+migration exists.  The goal of using large roughness elements is not to completely halt the 
+incision process, but rather to slow it down and spread the elevation change over a greater 
+length of channel.   
+ 
+Since log jams are porous structures, not all of the sediment will be held in place; 
+however, sediment inputs will be spread out over time rather than introduced to the 
+stream as one large pulse.  A log jam is also self-maintaining as long as more large wood 
+is available in the stream system. 
+ 
+To hold existing sediment in place above a culvert, large wood should be buried into the 
+stream bottom and should be relatively channel-spanning.  Boulders can be used as 
+anchor points or to increase structure mass to reduce buoyancy.  As with any structural 
+approach, risk can be dispersed through several smaller structures rather than relying on a 
+single large structure.  Log jams placed downstream of a road crossing should have some 
+sort of natural or artificial anchoring, but do not necessarily need to be buried in the 
+channel bed.  The downstream large wood will capture some sediment as it moves 
+through the reach. 
+ 
+Benefits 
+1. Provides some stability for upstream banks while allowing dynamic stream 
+response. 
+2. Improves habitat diversity. 
+3. Self-healing and possibly self-maintaining if there is an upstream source of wood. 
+ 
+Limitations 
+1. Initially requires large wood source for construction.  
+2. Lack of readily accessible, specific design guidance. 
+3. Structures change over time – variable factor of safety. 
+4. Risk of damage to infrastructure due to wood transport. 
+ 
+Rock and Log Weirs 
+ 
+Rock and log weirs (Figures 7 and 8) have been used for many years to stabilize channel 
+beds.  Straight weirs disperse flows and can cause channel widening and thus structure 
+flanking (erosion around the ends of the structure).  To minimize this effect, ‘V’ shaped 
+weirs that are oriented with the apex upstream and are lower in the center were 
+developed.  Since water crosses perpendicular to the weir face, the ‘V’ shape redirects 
+flow back to the center of the channel. 
+ 
+ 
+ 
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+16
+Figure 7: Rock Weir 
+ 
+ 
+Figure 8: Log Weir 
+ 
+ 
+ 
+Rock and log weirs may be installed to provide some of the following functions: (1) 
+stabilize stream gradient; (2) create pool habitat; (3) establish and maintain a lower width 
+to depth ratio; (4) provide fish passage by concentrating low flows in flat-bottomed 
+channels into narrower, deeper channels; (5) control flow direction and therefore 
+minimize meandering; (6) raise water surface elevations to provide water to diversions 
+and off-channel habitat; (7) center, and sometimes create, a stream thalweg; (8) provide 
+energy dissipation; (9) protect streambanks by redirecting stream flow; and (10) increase 
+sedimentation along streambanks, and recruit and/or maintain spawning gravel (NRCS, 
+2000).   
+ 
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+17
+Benefits 
+1. Relatively inexpensive for smaller streams. 
+2. Easy to design, with available guidance tools (NRCS, 2000). 
+3. Material is easily obtained. 
+ 
+Limitations 
+1. Potential for unnatural appearance. 
+2. Maintenance. 
+3. Prone to failure by undermining or outflanking. 
+4. Federal and state requirements for aquatic species passage can result in very low 
+weir heights.  This may cause weirs to be impractical in steeper streams or in 
+areas where the right-of-way is limited and there is no access to adjacent property.  
+If weirs must be placed close together, the jet from one weir impinges on the next 
+one, tending to undermine or wash it out, and the weir system becomes a turbulent 
+chute which could become a fish passage barrier. 
+ 
+Constructed Step-Pool and Cascades 
+ 
+One of the newest grade control methods is the construction of artificial cascades or step-
+pools (Figure 9).  Cascades and step-pools are natural stream types which are found in 
+steep channels (greater than 3%).  Although these stream types may be out of context for 
+a given project site, they do rely on natural channel processes to pass water, sediment, 
+wood, and aquatic organisms.  Step-pools or cascades are most appropriate in stream 
+reaches that are naturally steep or in areas where work area is limited due to rights-of-
+way or other constraints; they may also be preferable in areas where banks are high and 
+excavation is considerable. 
+ 
+Figure 9: Constructed Step-Pool and Cascade 
+ 
+Photo courtesy of Rob Sampson 
+ 
+ 
+ 
+Photo courtesy of Dan Perritt 
+ 
+ 
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+18
+Benefits 
+1. Minimizes work area. 
+2. Provides energy dissipation. 
+3. Minimizes the number of structures for large elevation changes or steep stream 
+slopes. 
+4. Materials are easy to obtain. 
+ 
+Limitations 
+1. Lack of specific design guidance. 
+2. Requires careful design and construction. 
+3. Stabilization of bed material below the grade control structure can be difficult; 
+potential for undermining of the step-pool structure. 
+4. Risk of low flows going completely subsurface through the structure. 
+5. Consecutive jumps for fish may limit aquatic species passage. 
+6. Maintenance. 
+ 
+A “culvert confined cascade” has been designed and implemented in the PNW, which is a 
+variation of the constructed cascade approach.  The culvert is placed at a relatively steep 
+angle, connecting the upstream and downstream stable bed elevations.  The headcut is 
+basically incorporated into the length of the culvert.  This may work in areas with a 
+minimal perch height on relatively low gradient streams.  Rock is required within the 
+culvert to provide bed roughness to allow for fish passage.  For steeper slopes and higher 
+perches, a culvert confined cascade will likely be a fish passage barrier, especially for 
+juveniles.  Rock within the culvert could trap debris and cause chronic maintenance 
+issues or risk of failure.  Available information on design and success of this technique is 
+limited at this time. 
+ 
+SUMMARY 
+ 
+A tremendous amount of time, energy, and money is spent replacing or removing fish-
+impassable culverts.  Because of the magnitude of effects, it is critical that a 
+geomorphological evaluation of the site be completed to determine potential impacts both 
+at the site and along the stream channel.  Vertical instability can result in a whole suite of 
+negative impacts that range from loss of backwater habitat to increased levels of 
+turbidity. An evaluation of the risks to channel morphology, habitat, and infrastructure 
+should be performed before any decision is made regarding culvert removal or 
+replacement.  By utilizing the Channel Evolution Model and longitudinal profiles, the 
+risk can be quantified, or at least described in terms of potential impacts, which is an 
+important tool for managers that oversee stream related projects.  These risks will 
+determine whether grade control structures are necessary. 
+ 
+ 
+ 
+ 
+ 
+ 
+USFWS – Oregon Fish and Wildlife Office, Portland, OR 
+ 
+ 
+February 2003 – Version 2.0 
+ 
+19
+ 
+ACKNOWLEDGEMENTS 
+ 
+This manuscript was greatly improved by the input from many individuals including: 
+Paul Bakke, Jane Kelly, Mark Mouser, Skip Haak, Bianca Streif, Janet Oatney, Chad 
+Moore, Chris Hamilton, Alan Wetzel, Diana Hwang, Brendan White, Jon Mann, Dan 
+Perritt, Timmie Mandish, Doug Young, and Jennifer Cannon.  Thank you for your time 
+and effort. 
+ 
+ 
+ 
+REFERENCES 
+ 
+Fischenich, C. and J.V. Morrow, Jr.  2000.  Reconnection of floodplains with incised 
+channels.  US Army Corps of Engineers, ERDC TN-EMRRP-SR-09. 
+ 
+Galay, V.J.  1983.  Causes of river bed degradation.  Water Resources Research, 
+19(5):1057-1090. 
+ 
+Harrelson, C.C., C.L. Rawlins, and J.P. Potyondy.  1994.  Stream Channel Reference 
+Sites: An Illustrated Guide to Field Technique.  General Technical Report RM-
+245. Fort Collins, CO: U.S. Department of Agriculture, Forest Service, Rocky 
+Mountain Forest and Range Experiment Station.  
+ 
+Harvey, M.D. and C.C. Watson.  1986.  Fluvial processes and morphological thresholds 
+in incised channel restoration.  Water Resources Bulletin, 22(3):359-368. 
+ 
+Lane, E.W.  1955.  Design of stable alluvial channels. Transactions, American Society of Civil 
+Engineers 120(2776):1234-1260. 
+ 
+NRCS (Natural Resources Conservation Service).  2000.  Design of Rock Weirs.  
+Engineering Technical Note Number 24, Portland, Oregon. 
+ 
+Schumm, S.A., M. Harvey, and C. Watson.  1984.  Incised Channels: Morphology, 
+Dynamics, and Control.  Water Resources Publications, Littleton, CO. 
+ 
+Simon, A. and M. Rinaldi.  2000.  Channel instability in the loess area of the Midwestern 
+United States.  Journal of the American Water Resources Association, 36(1):133-
+150. 

@@ -1,0 +1,1203 @@
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+1
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+UNITED STATES BANKRUPTCY COURT
+NORTHERN DISTRICT OF CALIFORNIA
+SECURITY NATIONAL GUARANTY,
+INC., dba SNG DEVELOPMENT
+COMPANY and SNG REALTY,
+Debtor.
+Case No. 03-55847-MM
+Chapter 11
+SECURITY NATIONAL GUARANTY,
+INC., dba SNG DEVELOPMENT
+COMPANY and SNG REALTY,
+Plaintiff,
+vs.
+SHORES LLC, et al.,
+Defendants.
+Adversary No. 03-5504
+SECURITY NATIONAL GUARANTY,
+INC., dba SNG DEVELOPMENT
+COMPANY and SNG REALTY,
+Plaintiff,
+vs.
+SHORES LLC, et al.,
+Defendants.
+ 
+Adversary No. 04-5102
+MEMORANDUM DECISION AND
+ORDER AFTER TRIAL
+The following constitutes 
+the order of the court. Signed July 19, 2005
+Marilyn Morgan
+U.S. Bankruptcy Judge
+________________________________________
+Entered on Docket 
+July 20, 2005
+GLORIA L. FRANKLIN, CLERK 
+U.S BANKRUPTCY COURT 
+NORTHERN DISTRICT OF CALIFORNIA
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+2
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+INTRODUCTION
+Before the court are two complaints by Security National Guaranty, Inc., which have been consolidated
+for purposes of trial.  The complaints seek a determination of the amounts due under a secured promissory
+note, raising issues regarding the application of California’s usury laws and the statute of frauds.  Resolution of
+these legal issues is significant since the defendant’s expert computes the debt on the note at $18,950,687.68,
+while the plaintiff’s expert indicates the debt is $7,800,235.88. 
+FACTUAL BACKGROUND
+The facts are largely undisputed, either set forth by stipulation or through the uncontroverted testimony
+of Edmond Ghandour, the president and sole shareholder of Security National Guaranty, Inc. (SNG).  Don
+D. Lukens, the other signatory to the contracts at issue, has moved out of state and did not testify at trial.
+Although the facts are generally agreed, controversy arises in their interpretation. 
+Monterey Bay Shores is a 39.65 acre parcel west of coastal Highway 1 in Sand City, California, just
+north of Monterey and Carmel, which Ghandour believes is the last developable real property on the California
+coastline.  In 1992, the California State Parks Foundation and the Dezonia Family Trust each owned a one-half
+interest in the property.  In June, 1993, SNG acquired an option to purchase Monterey Bay Shores for $4
+million that expired on December 31, 1996. 
+SNG needed financing in order to exercise the option, however, conventional financing was unavailable.
+The only alternative available to SNG was a “hard  money” loan.  In November 1996, when all other potential
+sources of funding had evaporated, and the purchase option would soon expire, a loan broker introduced
+Ghandour to Lukens, dba Community Group Funding (“CGF”), a business that offered loans of broker
+controlled funds in return for deeds of trust secured by real property.  Lukens was the principal of CGF, but
+he was also a licensed real estate broker.
+During November and December 1996, Lukens and Ghandour negotiated the terms of a loan to enable
+SNG to purchase and develop the Monterey Bay Shores property.  The loan terms contemplated funding over
+multiple phases since Lukens did not have the funds necessary to advance all the loan proceeds at one time.
+Funds were so short that on December 27, 1996, just four days before the option expired, Lukens imposed
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+3
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+as a condition to the loan that SNG acquire, in lieu of cash, two additional real properties in California, one in
+Adelanto, San Bernardino County, and one in Bakersfield, Kern County.  Lukens asserted that SNG could
+quickly liquidate these properties and apply the proceeds to the interest reserve fund for the last six months of
+the loan period.  Ghandour testified that he assented to the inclusion of the Adelanto and Bakersfield properties
+with an aggregate assigned value of $900,000 in lieu of cash upon Lukens’ assurance that SNG could reconvey
+the properties if their market values were not as represented. 
+During their negotiations, Ghandour specifically requested that all reserve funds be placed in interest
+bearing trust accounts in favor of SNG.  Still, Lukens never promised to create a reserve account.  By a
+commitment letter from CGF dated December 27, 1996, Lukens provided:
+An interest reserve on said Four Million Dollars ($4,000,000) shall be established by Lender,
+and Lender shall cause the first twelve months of monthly interest payments to be made from
+said reserve.  The payments shall be made by means of a bookkeeping entry on Lender’s
+books.  Borrower shall have no interest in said reserve, except to the extent that Borrower may
+pay off the full amount of the loan prior to the expiration of the first twelve (12) months of the
+loan.
+On December 30, 1996, Ghandour on behalf of SNG and Lukens, dba CGF, executed a Promissory
+Note and a Loan Agreement.  The Note was in the principal amount of $7.5 million, accrued interest at the rate
+of 14% per annum, included an 18% default rate of interest, matured in January 1999, and was secured by the
+Monterey Bay Shores property.  The Loan Agreement provided that CGF, defined in the agreement as
+“Lender,” would fund the loan proceeds in three phases.  It also provided that the lender would credit a
+disbursement of $900,000 to account for the transfer of the Adelanto and Bakersfield properties.  Consistent
+with the commitment letter, the Loan Agreement provided the following with respect to reserves for the
+payment of interest and entitlements:
+First Phase
+*  *  *
+(e)
+The sum of Five Hundred Sixty Thousand Dollars ($560,000) shall be retained by
+Lender as a twelve month interest reserve on the sums set forth in sub-paragraphs a through
+d above. 
+(f)
+The sum of One Hundred Sixty Two Thousand Dollars ($162,000) shall be retained
+by Lender and disburse (sic) Borrower, upon the written request of Borrower, for entitlements
+which are directly related to the use of the Property.  Borrower’s request shall set forth the
+amount of fund requested, the entitlement to which it is applicable, and proof of the expense.
+Funds will be disbursed by Lender on the 1st day of the month for all requests received and
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+4
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+approved by Lender prior to the 15th day of the previous month.
+Second Phase
+*   *   *
+The sum of Ten Thousand Five Hundred Dollars ($10,500) shall be retained by
+Lender as a nine (9) month interest reserve on the sums set forth in sub-paragraphs a through
+d above.
+Third Phase
+*   *   *
+(d)
+The sum of Four Hundred Ninety Thousand Dollars ($490,000) shall be retained by
+Lender as a twelve month interest reserve on all funds disbursed and retained in the Third
+Phase.  In addition Lender shall retain an interest reserve in the sum of Two Hundred Eighty
+Thousand Dollars ($280,000) for an additional six months on all funds disbursed and retained
+in the First Phase and an interest reserve in the amount of Seven Thousand Dollars ($7,000)
+for an additional six months on all funds disbursed and retained in the Second Phase.
+(e)
+The sum of One Hundred Ninety Six Thousand Five Hundred Dollars ($196,500) shall
+be retained by Lender and disbursed to Borrower, upon the written request of Borrower, for
+entitlements which are directly related to the use of the Property.  Borrower’s request shall set
+forth the amount of fund requested, the entitlement to which it is applicable, and proof of the
+expense.  Funds will be disbursed by Lender on the 1st day of the month for all requests
+received and approved by Lender prior to the 15th day of the previous month.
+Section 7.15 of the Loan Agreement specifically provided that the terms of the agreement “may not
+be modified, waived, discharged, or terminated except by a written instrument signed by the party against
+whom enforcement of the modification, waiver, discharge, or termination is asserted.”  From the inception of
+the loan, observance of its terms was fluid, and negotiations concerning its structure continued.  The parties
+immediately entered into a written amendment to the Loan Agreement whereby, subject to Lukens’ discretion,
+SNG could use up to $250,000 designated for the interest reserve to pay for entitlements.
+SNG’s acquisition of the State Parks Foundation’s interest in the property closed on January 6, 1997.
+CGF funded the purchase price and recorded a deed of trust in first position.  However, it did not deposit the
+entitlements reserve and the interest reserve amounts in interest bearing trust accounts established for SNG’s
+benefit.  The checks from CGF were issued from general operating accounts of CGF, and some were returned
+for insufficient funds and required re-issuance.  SNG experienced significant delay and difficulty obtaining
+checks for entitlements.  Ghandour testified that he would not have agreed that interest would accrue on the
+reserves had he realized that the reserves were not funded in trust accounts per the custom and practice in the
+industry.  Nonetheless, he never complained of this non-compliance to Lukens.
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+5
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+CGF funded the first phase of the purchase with investment proceeds from various lenders, including
+the Ng Cobb Trust, Straight Jacket Enterprises, and the Tri-County Produce Profit Sharing Plan and Trust,
+in the amounts of $300,000, $600,000, and $75,000, respectively.  Thereafter, it  received funds from other
+investors, including $125,000 from Jessie Barbara Dixon in February 1997.  CGF furnished  a
+Lender/Purchaser Disclosure Statement and Service Agreement and Power of Attorney to each of these
+investors.  On the Department of Real Estate Loan Origination forms, Lukens consistently identified the investor
+as the lender and characterized the secured loan to SNG as a multiple lender transaction for which Lukens, as
+broker, was acting as an agent in arranging the loan.
+First American Title Insurance Company required that the lenders be aggregated into one entity for title
+insurance purposes.  In response to this requirement, Shores LLC was formed in June 1997, and Lukens was
+designated its manager.  By June 30, 1997, CGF had not found lenders to fund the acquisition of the interest
+of the Dezonia Family Trust.  Its inability to fund required that SNG obtain an extension from Dezonia to August
+15, 1997.  On June 27, 1997, SNG and Dezonia amended the purchase contract to provide that SNG would
+pay a penalty of $75,000 for the extension, $100,000 as a portion of the purchase price, $68,762.18 in interest
+on the balance of the purchase price, $23,539.76 in real property taxes, and additional penalties of $2,000 per
+day if the close of escrow were extended beyond August 15, 1997 to September 15, 1997.  To account for
+the delay, SNG and CGF also entered into the Second Amendment to Loan Agreement dated June 28, 1997,
+which provided:
+Lender desires an extension of time to perform its obligations to fund certain portions of the
+Loan described in the Loan Agreement, in part to allow it to form a limited liability company
+or other entity to hold by assignment all of the Lender’s interest in the Loan Agreement and the
+Note. . . .
+The Second Amendment provided that CGF would pay one-half of the real property taxes and the additional
+penalties of $2,000 per day, but that the $75,000 penalty would be drawn against the interest reserve.  It
+further provided that all lender’s and broker’s fees in connection with the third phase of the Loan Agreement
+would not be earned until closing of the purchase of the Dezonia interest.  Ghandour contends that any delay
+beyond the time of formation of Shores was attributable to Lukens’ need to raise more funds from investors.
+Although Ghandour was unaware of it at the time, Lukens’ real estate broker’s license expired on
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+6
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+September 10, 1997.  Lukens allowed his license to lapse while he was under investigation by the Federal
+Bureau of Intelligence and the Securities and Exchange Commission for improprieties involving investors’ funds.
+CGF again did not have sufficient funds to close the purchase of the Dezonia interest by the extended
+date, September 15, 1997.  Consequently, SNG obtained a further extension of the closing date.  SNG and
+Dezonia entered into another amendment of the purchase contract effective September 12, 1997 to extend the
+closing date to December 15, 1997.  The amendment provided that SNG would pay a $60,000 penalty for
+the delay, $200,000 as a portion of the purchase price, $26,252.41 in interest on the balance of the purchase
+price, all accrued real property taxes, and additional penalties of $1,000 per day until close of escrow.
+Thereafter, SNG and CGF entered into the Third Amendment to Loan Agreement, which provided that SNG
+would execute a deed of trust equal in priority to the first deed of trust previously recorded and that CGF
+would bear the expense of any additional penalties of $1,000 per day and not charge it against the loan.  CGF
+also paid the $60,000 penalty but did not charge it against the loan.  
+Throughout the fall of 1997, Ghandour corresponded with CGF inquiring about the status of funding
+the purchase of the Dezonia interest and received assurances that Lukens was soliciting funds from investors
+and doing his best to have the funds available.  The escrow on SNG’s purchase of the Dezonia interest
+ultimately closed on November 26, 1997.  The Department of Real Estate disclosure statement for Michelle
+Karpinski indicates that her investment funds in the amount of $650,000 were advanced just days before on
+November 24, 1997.  A statement from Prudential Securities for a CGF account reflects a deposit on
+November 24, 1997 in the same amount as the Karpinski investment, as well as two other large deposits in
+the amounts of $350,000 and $550,000 that same day.  The Prudential Securities statement also shows that
+on November 25, 1997, CGF withdrew from that account $1,446,510,43, the same amount that was
+deposited into the escrow.  
+In January 1998, the Adelanto and the Bakersfield properties were transferred to SNG.  Ghandour
+testified that, from the inception, SNG did not want the properties.  He obtained brokers’ opinions of the values
+and determined that they were worth far less than represented.  As it turned out, the properties were difficult
+to market.  The Bakersfield property had environmental remediation problems.  SNG reconveyed the
+properties to Lukens in August 1998, but Lukens again conveyed the properties to SNG in December 1998.
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+7
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+In January 1999, when the Promissory Note matured, SNG was unable to pay it since the entitlement
+process was not complete, and SNG had not been able to liquidate the Adelanto and Bakersfield properties.
+CGF recorded a Notice of Default on January 26, 1999 and on May 13, 1999 posted a Notice of Trustee’s
+Sale scheduled for May 28, 1999.  However, CGF did not proceed with the Trustee’s sale because, on May
+15, 1999, SNG, CGF, and Shores entered into a letter agreement modifying the terms of the Promissory Note
+and Loan Agreement.  Ghandour was anxious to resolve the default under the Promissory Note and Loan
+Agreement because there was an important Coastal Commission hearing scheduled for May 20, 1999, and,
+as a result of Lukens’ prompting, the project was under scrutiny by local media.  The letter agreement provided
+that CGF and Shores would rescind the Notice of Trustee’s Sale and extend the maturity date of the
+Promissory Note to January 6, 2000.  SNG agreed to pay $750,000 for the extension, to accept the Adelanto
+and Bakersfield properties as provided in the Loan Agreement, and to list the property with a national broker
+if the loan were not repaid by January 6, 2000.  SNG also acknowledged that the loan had been fully funded
+and that all conditions had been performed.  Nonetheless, Ghandour testified that the parties agreed that a full
+accounting would be performed after the letter agreement was executed.  
+Lukens executed the letter agreement on behalf of CGF and Shores.  Although the letter agreement
+contains a signature line for David J. Abraham, Jr., who is a licensed real estate broker associated with CGF,
+Abraham did not execute the agreement.  During his deposition, Abraham testified that he did not have any
+knowledge of or participation in the Monterey Bay Shores loan.  Ghandour also testified that Abraham was
+not involved in the Monterey Bay Shores loan in any manner.  
+Finally, SNG and CGF agreed as to how to account for the Adelanto and Bakersfield properties in
+September 1999.  Ghandour testified that Lukens agreed to reduce the amount of the loan by the difference
+between $900,000, plus accrued interest, and the total amount for which SNG sold the properties, net of
+expenses.  He memorialized the terms of that agreement by memorandum dated September 10, 1999;
+however, a copy of the memorandum purportedly executed by Lukens was not admitted into evidence at trial
+as the document was not produced during discovery, and Lukens’ signature could not be authenticated.  In
+September 1999, SNG sold the Adelanto property to Tanam Corporation, a corporation wholly owned by
+Ghandour’s wife, Anna Ghandour, for only $25,000.  SNG sold the Bakersfield property for $260,000 in
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+8
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+February 2000.
+SNG defaulted under the terms of the letter agreement by failing to repay the loan in January 2000.
+Shores thereafter commenced non-judicial foreclosure proceedings by posting a Notice of Default, then
+subsequently publishing a Notice of Trustee’s Sale, under the power of sale clause in the deeds of trust.  Before
+a non-judicial foreclosure sale took place, however, SNG filed a complaint against Shores in Monterey County
+Superior Court on June 18, 2003 for fraud, breach of contract, rescission, reformation, and for an accounting.
+SNG sought, but failed to obtain, a temporary restraining order to enjoin the non-judicial foreclosure sale.  
+SNG commenced this Chapter 11 case by filing a voluntary petition on August 22, 2003.  It removed
+the pending Monterey County Superior Court action to the bankruptcy court and also filed an adversary
+proceeding to determine the extent, validity, and priority of liens.  These two proceedings are now before the
+court.  Since the commencement of the bankruptcy case and the adversary proceeding, Shores has sold its
+interest in the Promissory Note and Deed of Trust to The Berkley Group, which has agreed to be bound by
+this judgment.
+CONTENTIONS OF THE PARTIES
+The key disputed issue is whether SNG is required to repay all the interest and fees due under the Loan
+Agreement, or whether usury law applies to portions of the loan.  The parties stipulate that the only applicable
+exemption to usury is the licensed broker exemption.  SNG asserts that the loan was a multiple lender
+transaction arranged over an extended period of time.  It concedes that it must pay interest and fees on the
+amounts funded prior to September 10, 1997 when Lukens’ broker’s license expired.  However, SNG
+contends that the amounts funded after Lukens’ license expired accrued interest at a usurious rate.  Shores
+disputes that Lukens engaged in any activities after September 10, 1997 that would have required a broker’s
+license.
+SNG further contends that the May 15, 1999 letter agreement is a forbearance agreement subject to
+the usury law.  Because Lukens was no longer licensed at the time he arranged the forbearance agreement,
+SNG argues that the agreement does not qualify for the licensed broker exemption.  Shores responds that the
+May 15, 1999 letter agreement constitutes a settlement of an exempt transaction that remains exempt from the
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+9
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+usury law.
+Next, the parties dispute the accounting of certain disbursements.  First, SNG contends that CGF failed
+to fund the interest and entitlements reserves in interest bearing trust accounts.  It argues that interest cannot
+accrue on the unfunded reserves.  Shores responds that the Loan Agreement should be enforced pursuant to
+its terms, which did not mandate the deposit of the reserves into interest bearing accounts, but allowed for
+interest accrual nonetheless.
+Secondly, SNG contends that Lukens agreed to modify the loan terms such that SNG would not have
+to repay the $900,000 attributable to the Adelanto and Bakersfield properties.  Instead, SNG would only be
+required to repay the actual amount for which SNG ultimately sold the two properties, net of expenses.  Shores
+disputes that the parties entered into an enforceable agreement modifying the amount due for the Adelanto and
+Bakersfield properties.
+Finally, the parties stipulate that Lukens voluntarily paid some of the interest and late penalties
+associated with the Dezonia extensions and did not charge these amounts to the loan.  However, they dispute
+the existence of agreements modifying the amounts SNG would pay on account of penalties and interest arising
+from the extensions.  SNG contends that Lukens agreed not to charge to the loan a penalty payment in the
+amount of $75,000 and an interest payment of $26,252.41.  Shores asserts there is no enforceable modification
+agreement.
+At the close of its evidence, SNG made an election of its remedies and determined to forego its
+rescission claims.
+LEGAL DISCUSSION
+I.  
+Portions of the Monterey Bay Shores Loan Are Usurious
+A.
+The Monterey Bay Shores Loan is a Multiple Lender Transaction Arranged by
+Lukens
+California law provides an exemption to the limitation on interest rates for a loan or forbearance made
+or arranged by a California licensed real estate broker and secured in whole or in part by liens on real property.
+Cal. Const. art. XV, § 1; Cal. Civ. Code § 1916.1.  A loan is “made” by a licensed real estate broker when
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+10
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+the broker acts as a principal in the transaction by lending his own money.   Del Mar v. Caspe, 222 Cal
+App.3d 1316, 1324 (Cal. Ct. App. (6th Dist.) 1990).  A loan or forbearance is “arranged by” a licensed  real
+estate broker when the broker acts for compensation or in expectation of compensation for soliciting,
+negotiating, or arranging the loan for another.  Cal. Civ. Code § 1916.1.  The phrase “arranged by” refers to
+some conduct by a real estate broker, acting as a third party intermediary rather than as a party to the loan, that
+causes a loan to be obtained or procured.  It includes structuring the loan as an agent for the lender, setting the
+interest rate and points to be paid, setting the terms of the forbearance agreement, reviewing the loan and
+forbearance documents, conducting title searches, or drafting the terms of the loan.  Gibbo v. Berger, 123 Cal.
+App. 4th 396, 402 (Cal. Ct. App. (4th Dist.) 2004).  The court must look beyond the form of the transaction
+to its substance.  Ghirardo v. Antonioli, 8 Cal.4th 791, 802 (1994); Boerner v. Colwell Co., 21 Cal.3d 37,
+44 (1978).  The character of a transaction is determined from all the surrounding facts and circumstances.
+Montgomery v. Spect, 55 Cal. 352, 353-54 (1880).  
+Although the Loan Agreement and Note define Lukens as the Lender and SNG as the Borrower, there
+is an abundance of evidence clearly indicating that the Monterey Bay Shores loan is a multiple lender transaction
+arranged by Lukens on behalf of third party investors.  Lukens acknowledged by letter dated December 27,
+1996 that he would be raising the funds from investors.  Some of the loan proceeds were paid to CGF through
+escrow as fees for the transaction.  The evidence establishes that Lukens solicited funds from investors over
+an extended period of time to meet the funding requirements under the Loan Agreement.  Lukens corresponded
+with the Monterey Bay Shores investors requesting checks or confirming the receipt of their investment funds
+and prepared and furnished to the investors Lender/Purchaser Disclosure Statements and Service Agreements
+and Powers of Attorney.  In these Department of Real Estate disclosure statements, Lukens consistently
+identified the investor as the lender and characterized the Monterey Bay Shores loan as a multiple lender
+transaction for which Lukens acted as broker and agent in arranging the loan.  The disclosure statements for
+the Ng Cobb Trust, Straight Jacket Enterprises, and the Tri-County Produce Profit Sharing Plan and Trust
+suggest that investor funds in the amounts of $300,000, $600,000, and $75,000, respectively, were advanced
+late December 1996 or early January 1997, shortly before the close of escrow on the State Parks Foundation’s
+one-half interest in the Monterey Bay Shores property.  A title report reflects that these investors and others
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+11
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+received from Lukens assignments of fractional interests of the Monterey Bay Shores deed of trust in February
+1997.  After the loan matured, Ghandour noted that a list of investors’ proportionate interests in the Monterey
+Bay Shores Note was appended to the Note. 
+After the acquisition of the interest of the State Parks Foundation, Lukens continued to solicit funds to
+meet the disbursements requirements of the second and third phases under the Loan Agreement.  The
+disclosure statement for Jessie Barbara Dixon, who invested $125,000, reflects that Lukens was soliciting funds
+from her in February 1997.  However, it appears Lukens was not able to raise sufficient funds to timely meet
+CGF’s disbursements obligation to SNG since checks for entitlements were periodically dishonored or
+reissued.  At Lukens’ request, SNG obtained an extension from June 30, 1997 to September 15, 1997 from
+Dezonia to purchase the second one-half interest in the property.  The Second Amendment to Loan Agreement
+between SNG and CGF recited, “Lender desires an extension of time to perform its obligations to fund certain
+portions of the Loan. . . .”    Although Shores asserts that First American Title required that the fractional
+interests in the first deed of trust be aggregated, this requirement had been fulfilled by June 1997 with the
+formation of Shores LLC.  Ghandour frequently inquired of Lukens when the acquisition of the Dezonia interest
+would be funded and received assurances from CNG’s staff on August 28, 1997 that Lukens was “doing his
+best to have funds available. . . .”   When escrow did not close by September 15, 1997, SNG obtained a
+further extension from Dezonia, and Lukens voluntarily paid some of the penalties and interest associated with
+the extensions without charging the amounts to the Monterey Bay Shores loan, suggesting his acknowledgment
+of responsibility for the delay.  Lukens’ conduct, including soliciting funds, negotiating terms, and furnishing
+documents for compensation, constitutes “arranging” the loan as defined in Cal Civ. Code § 1916.1.
+B.
+The Third Phase Funding for the Acquisition of the Dezonia Interest is Usurious
+The distinction whether a licensed broker lent his personal funds or negotiated a loan between the
+lender and the borrower does not effect the applicability of the exemption to the transaction because, in both
+circumstances, the loan would be exempt from the usury law. 8 Miller & Starr, California Real Estate § 21:34
+(West (3d ed.) 2001).  The character of the transaction is significant because whether and when broker
+services were performed determines whether the licensed broker exemption is applicable.  The exemption
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+12
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+applies only if the broker was licensed at the time the services that give rise to the commission were performed.
+Del Mar v. Caspe, 222 Cal App.3d at 1333-34.  Different funded portions of a loan may be analyzed
+separately to determine whether the exemption is applicable.  See, e.g., In re Lara, 731 F.2d 1455, 1462-63
+(9th Cir. 1984).  Once the borrower establishes that a loan is usurious on its face, the burden shifts to the lender
+to prove that the loan qualifies for an exemption.  Jansen v. Nu-West, Inc., 6 P.3d 98, 102 (Wash. Ct. App.
+2000), review denied, 143 Wash.2d 1006 (2001); Stevens v. Security Pacific Mortgage Corp., 768 P.2d
+1007, 1012 (Wash. Ct. App. 1989), review denied, 112 Wash.2d. 1023 (1989) ; 45 AM. JUR. 2d Interest
+and Usury § 354-55 (West 2005).  In this case, Shores bears the burden of proof that the licensed broker
+exemption is applicable.  
+Lukens was a licensed broker when the Loan Agreement was negotiated and when the acquisition of
+the State Parks Foundation’s interest closed.  SNG and Shores have stipulated that the first phase funding is
+subject to the licensed broker exemption.  The second phase funding of a portion of the purchase price for the
+Dezonia interest is also exempt.  However, Lukens’ brokerage license expired on September 10, 1997 before
+the third phase of the loan was funded.  Whether the exemption is applicable to the third phase funding turns
+on whether Lukens was “arranging” the loan after his license had expired. 
+While Shores argues that $336,252.41 disbursed into the Dezonia escrow on September 15, 1997
+was not solicited after Lukens lost his license, no evidence was introduced to meet its burden of proof.  The
+stipulated facts reveal that the escrow for the acquisition of the Dezonia interest closed on November 26, 1997.
+CGF made the escrow deposit for the purchase price of the Dezonia interest from an account at Prudential
+Savings.  A statement for the Prudential Savings account reflects that on November 24, 1997, CGF made three
+large deposits, including one for $650,000 from investor Michelle Karpinski.  The court infers from this
+evidence that Lukens raised the funds necessary to close escrow from investors during the period between
+September 15, 1997 and November 25 1997 after he was no longer licensed.  He apparently deposited the
+investors’ funds into CGF’s Prudential Securities account and issued a check from that account into the
+Dezonia escrow.  The activities in which Lukens engaged after September 10, 1997 can only be construed as
+arranging the loan on behalf of third parties.  He had conveyed fractional shares of the deed of trust to Shores
+and various other investors.  The weight of the evidence indicates that Lukens continued to arrange the loan
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+13
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+after September 10, 1997 by soliciting and raising funds, negotiating amendments to the loan, and preparing
+the deed of trust that was recorded after the acquisition of the Dezonia interest.  Under the circumstances,
+Shores has failed to meet its burden of proof that the licensed broker exemption is applicable to the third phase
+funding under the Loan Agreement. 
+C.
+The May 15, 1999 Letter Agreement Constitutes a Forbearance Subject to the
+Usury Law
+ 
+Usury law includes forbearances within the scope of its prohibition on excessive interest.  Cal. Const.
+art. XV, § 1; Cal. Civ. Code § 1916.1.  A forbearance is the giving of further time for the payment of a debt
+or an agreement not to enforce a claim at its due date.  Southwest Concrete Products v. Gosh Construction
+Corp., 51 Cal.3d 701, 705 (1990); Boerner v. Colwell, 21 Cal.3d at 44, fn.7.  The May 15, 1999 letter
+agreement extended the maturity date of the Promissory Note by one year to January 6, 2000, rescinded the
+Notice of Trustee’s Sale of the Monterey Bay property, and provided for the payment of a $750,000 fee for
+the extension.  It constitutes a forbearance subject to the usury law.  Whether it is exempt depends upon
+whether a licensed broker arranged the transaction.  As Shores’ manager, Lukens acted as its agent in
+negotiating with Ghandour the terms of the extension and forbearance.  However, he was no longer a licensed
+broker in May 1999.  Shores suggests that David Abraham, a broker associated with CGF, may have
+participated in negotiating the May 15, 1999 letter agreement.  However, the evidence is to the contrary.  His
+deposition indicates that Abraham had no knowledge of or involvement in any aspect of the Monterey Bay
+Shores loan.  Ghandour’s testimony corroborates this.  Shores has failed to meet its burden of proof that the
+licensed broker exemption applies to the May 15, 1999 letter agreement.  Consequently, the forbearance is
+also usurious.
+Ghirardo v. Antonioli, 8 Cal.4th 791, and DCM Partners v. Smith, 228 Cal. App. 3d 729 (Cal. Ct.
+App. (4th Dist. (1991), upon which Shores relies, are distinguishable.  These cases involved modifications of
+exempt credit sales, which retained their exempt character.  They did not involve either a loan or forbearance
+of money to which the usury law is applicable.  The difference between a credit sale and a forbearance of a loan
+is that a purchaser who cannot afford the purchase price can simply walk away from a high interest rate while
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+14
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+a borrower is forced by economic circumstances to resort to a usurious loan.  Ghirardo v. Antonioli, 8 Cal.4th
+at 804-05.  A forbearance is a separate element in a transaction.  Although the original loan is not usurious, any
+extension or forbearance of the loan may be subject to the usury limitations unless it is exempt by some other
+provision.  8 Miller & Starr, California Real Estate § 21:4. 
+Generally, a usurious forbearance, renewal, or extension of a non-usurious loan taints only the
+forbearance since it is considered a separate transaction.  The original non-usurious loan is unaffected and may
+be enforced according to its terms.  See, e.g., Westman v. Dye, 214 Cal. 28 (1931); Strike v. Trans-West
+Discount Corp., 92 Cal. App. 3d 735 (Cal. Ct. App. (4th Dist.) 1979).  See also 45 AM. JUR. 2D Interest and
+Usury § 242 (West 1999); 47 C.J.S. Interest & Usury § 180 (West 1982).  A creditor may collect the
+interest at the contract rate and the principal under the original loan.  8 Miller & Starr, California Real Estate
+§ 21:4.  Here, however, the May 15, 1999 letter agreement modified the terms of the original Loan Agreement.
+Under California law, a modification supercedes the original agreement.  Thiele v. Merrill Lynch, Pierce, Fenner
+& Smith, 59 F. Supp. 2d 1067, 1070 (S.D. Cal. 1999).  It changes the obligations of a party by the subsequent
+mutual agreement of the parties and alters the affected portions of the original written contract.  Yet, where the
+general purpose of the contract is the same, the original contract is not extinguished, remains in effect, and may
+be enforced as modified.  Travelers Ins. Co. v. Workmen’s Comp. Appeals Bd., 68 Cal. 2d 7, 17 (1967),
+disapproved on other grounds, Levesque v. Workmen’s Comp. Appeals Bd., 1 Cal. 3d 627 (1970); Conley
+v. Matthes, 56 Cal. App. 4th 1453, 1465 (Cal. Ct. App. (2nd Dist.) 1997), review denied; 1 Miller & Starr,
+California Real Estate § 1:96, 1:98. 
+The case of Westman v. Dye involved an action to recover a promissory note in the principal amount
+of $2,500 with interest at 8% per annum.  The note was renewed for successive six month intervals with the
+lender charging $125 for each renewal.  The California Supreme Court agreed with the lower courts that the
+renewals were usurious because the payment of 8% plus the bonus for the renewal exceeded the interest rate
+permitted by statute.  Although not usurious at its inception, a usurious renewal taints all subsequent related
+transactions.  The Court allowed the lender to collect interest on only the original, non-usurious note.  It
+declined to award any interest that accrued subsequent to the effective date of the usurious renewal.  Westman
+v. Dye, 214 Cal. at 37-38. 
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+15
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+Shores has asserted that the May 15, 1999 letter agreement is unenforceable because all beneficiaries
+did not execute it.  However, where there are multiple beneficiaries to a deed of trust, one beneficiary may
+exercise its remedies following a default without the consent of the other beneficiaries.  See Perkins v. Chad
+Dev. Corp., 95 Cal. App. 3d 645, 650-51 (Cal. Ct. App. (4th Dist.) 1979); 1 Bernhardt, California
+Mortgage and Deed of Trust Practice § 1.42 (3rd ed. 2005).   Here in particular, Shores cannot reasonably
+argue that the May 15, 1999 letter agreement is not enforceable because Lukens, as its manager, executed it
+on behalf of Shores.  It has not raised any other viable defenses to enforcement.  Hence, the Loan Agreement
+may be enforced according to its terms, as modified by the May 15, 1999 letter agreement.  While the original
+non-usurious loan may be enforced according to its terms, however, the creditor is subject to the penalties
+applicable to the usurious renewal or forbearance.  See Westman v. Dye, 214 Cal. at 36-38; 8 Miller & Starr,
+California Real Estate § 21:4.  As a result, Shores may collect interest at the contract rate for the first phase
+only through the effective date of the May 15, 1999 letter agreement.
+Where the transaction was originally usurious, a subsequent renewal is also rendered usurious.  Taylor
+v. Budd, 217 Cal. 262, 265-66 (1933); Westman v. Dye, 214 Cal. at 38.  Consequently, Shores may not
+collect any interest on the third phase funding under the Loan Agreement, which the court previously concluded
+to be usurious.  The effect of a determination that a transaction is usurious is that the creditor may recover only
+the principal and prejudgment interest at the legal rate from the date of maturity until the date of judgment.  It
+cannot recover any interest that accrued during the term of the loan before maturity.  Green v. Future Two, 179
+Cal. App. 3d 738, 744 (Cal. Ct. App. (2nd Dist.) 1986).
+II.
+Interest Does Not Accrue on Unfunded Interest and Entitlements Reserves 
+The Loan Agreement clearly provides that $1,347,500 would be retained by the Lender as an interest
+reserve and that $358,000 would be retained by the Lender and disbursed to the Borrower upon the
+Borrower’s written request for entitlements for the property, yet is silent as to whether the reserves would be
+deposited into interest bearing trust accounts established for SNG’s benefit.  SNG’s expert, Guy Puccio,
+testified that in the mortgage lending industry, it is customary practice that funds earmarked for a specific
+purpose should be maintained in a segregated, interest-bearing account identified for that purpose.  Moreover,
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+16
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+California law mandates that interest must be computed on the actual amounts advanced from the date of the
+advance, and further that interest accrues only on amounts actually made available to the borrower.  Penziner
+v. West American Finance Co., 133 Cal. App. 578, 590 (Cal. App. (1st Dist.) 1933); 13A CAL. JUR.3d
+Consumer and Borrower Protection Laws § 661 (West 2004).  Here, there is no evidence that the interest
+and entitlements reserves were ever deposited into interest bearing trust accounts.  To the contrary, the checks
+for entitlements disbursements, which SNG frequently forwarded to its vendors, were issued from CGF’s
+general account.  Consequently, SNG is not liable for interest accrual on the reserve amounts.
+With respect to SNG’s claim for breach of contract for failure to fund the reserves, that claim has been
+waived.  It was plain as early as May 1997 when CGF was issuing checks to SNG vendors that the
+disbursements were being made from CGF’s general operating account.  Nonetheless, Ghandour concedes
+that he never complained to Lukens that the reserves were not set aside.  Instead, SNG continued to accept
+performance from CGF.  If an aggrieved party with knowledge of a contract breach continues to accept
+performance from the breaching party, that conduct may constitute a waiver of the breach.  Whitney Investment
+Co. v. Westview Development Co., 273 Cal. App. 2d 594, 603 (Cal. Ct. App. (4th Dist.) 1969).  Although
+interest may not accrue on the unfunded amounts, the court concludes that SNG has waived any claim for
+breach of contract arising from the failure to segregate the interest and entitlements reserves.
+III.
+SNG and CGF Did Not Enter Into an Enforceable Modification with Respect to Accounting
+for the Bakersfield and Adelanto Properties
+The Loan Agreement provides that $900,000 would be disbursed to SNG upon the recordation of the
+deeds of trust on the Adelanto and Bakersfield properties.  SNG contends that negotiations over the treatment
+of the properties were ongoing because SNG never wanted to include them in the transaction.  Finally, in
+September 1999 Lukens agreed to reduce the amount of the loan attributable to these two properties.
+Ghandour testified that the parties agreed to assign values to the Adelanto and Bakersfield properties based
+on their sales prices and would book only the net proceeds of sales to  the loan, memorialized in a
+memorandum by Ghandour to Lukens dated September 10, 1999. 
+Under California law, the statute of frauds provides that, subject to a few exceptions not applicable in
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+17
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+this case, when a contract is in writing, any modification of the written agreement also must be in writing
+executed by each of the parties.  Twohey v. The Realty Syndicate Co., 4 Cal. 2d 379, 383 (1935); Haase v.
+Lamia, 229 Cal. App. 2d 654, 659 (Cal. Ct. App. (2nd Dist.) 1964); Cal. Civ. Code § 1698; 1 Miller & Starr,
+California Real Estate § 1:65, 1:98 (3rd ed. 2000).  Moreover, the Loan Agreement itself provides that its
+terms may not be modified, waived or discharged except by a writing executed by the party against whom
+enforcement is sought.  The purported signature of Lukens on the September 10, 1999 memorandum by
+Ghandour could not be authenticated, and the signed memorandum was not admitted into evidence.  As a
+result, it does not satisfy the statute of frauds and may not be used to reduce the amount of the debt attributable
+to the Adelanto and Bakersfield properties.  Consequently, SNG must repay the loan amount attributable to
+these two properties as provided for in the Loan Agreement, except that interest would not accrue on that
+amount because it was disbursed after Lukens lost his license. 
+IV.
+SNG and Lukens Did Not Enter Into an Enforceable Modification with Respect to the
+Disputed $75,000 Penalty Payment to Dezonia
+SNG contends that Lukens agreed that the $75,000 penalty that CGF paid to Dezonia for the
+extension of the purchase closing through September 15, 1997 would not be charged to the loan because
+Lukens’ inability to timely fund the purchase had caused the delay.  The Second Amendment to the Loan
+Agreement provides that the $75,000 penalty would be drawn against the interest reserve under the Loan
+Agreement.  Later, Lukens paid the $60,000 penalty incurred under the Third Amendment to Loan Agreement
+and did not charge the amount against the loan. 
+SNG offered a letter dated September 14, 1997 from Ghandour to Lukens, in which Ghandour
+confirmed their agreement that Lukens would bear the cost of the $75,000 penalty.  However, Lukens did not
+execute the letter.  As discussed supra, a written contract may only be modified by a written agreement
+executed by the parties.  Twohey v. The Realty Syndicate Co., 4 Cal. 2d at 383; Haase v. Lamia, 229 Cal.
+App. 2d at 659.  Because the Loan Agreement expressly limits modifications to a writing executed by the party
+against whom enforcement is sought, the September 14, 1997 letter by Ghandour is not sufficient to satisfy the
+statute of frauds.  Absent an enforceable modification, SNG must repay the disputed Dezonia penalty as part
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+18
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+of the loan amount.
+V.
+SNG Has Not Established an Enforceable Agreement With Respect to the Disputed
+$26,252.41 Interest Payment to Dezonia
+As required under the second amendment to the purchase contract with Dezonia, SNG made an
+interest payment in the amount of $68,762.18 to Dezonia from loan advances by CGF.  The Second
+Amendment to the Loan Agreement provides that the $68,762.18 payment would be included in the loan
+amount.  CGF also advanced funds on behalf of SNG to make interest payments to Dezonia in the amounts
+of $26,252.41 and $21,056.33 in connection with the extension through December 15, 1997.  SNG does not
+dispute that the interest payment in the amount of $21,056.33 should be part of the loan.  However, SNG
+contends that Lukens agreed that the interest payment in the amount of $26,252.41 would not be charged
+against the loan because of Lukens’ role in the delay.  It has not proffered any documentary evidence to
+support this contention, and the agreements between SNG and GCF are silent as to the allocation of this
+payment.
+Courts often refer to the course of dealing between the parties to interpret contracts that are silent as
+to the disputed terms.  See Insurance Co. of North America v. NNR Aircargo Service (USA), Inc., 201 F.3d
+1111 (9th Cir. 2000); Southern Pacific Transportation Co. v. Santa Fe Pacific Pipelines, Inc., 74 Cal. App.
+4th 1232, 1240 (Cal Ct. App. (1st Dist.) 1999).  Throughout the term of the Monterey Bay Shores loan, the
+parties consistently treated the interest payments as part of the amounts to be repaid under the loan.  SNG has
+failed to establish why the $26,252.41 interest payment should be treated any differently.
+CONCLUSION
+The Monterey Bay Shores loan is a multiple lender transaction arranged by Lukens, whose brokerage
+license expired on September 10, 1997.  Consequently, the first phase and second phase funding are subject
+to the licensed broker exemption to usury, and SNG must repay the principal with interest at the contract rate
+through the date it was superceded by the May 15, 1999 letter agreement.  However, the third phase does not
+qualify for the exemption, so SNG must repay only the principal plus interest at the legal rate from the date of
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+19
+MEMORANDUM DECISION AND ORDER AFTER TRIAL 
+maturity, as extended, until the date of judgment.  The May 15, 1999 letter agreement constitutes a forbearance
+subject to usury law and supercedes the terms of the Loan Agreement.  Like the third phase, the forbearance
+is usurious, and SNG must repay only the principal plus interest at the legal rate from the date of maturity until
+the date of judgment.
+Under California law, SNG is not required to pay interest on unfunded interest and entitlements
+reserves.  However, it has waived any claim for breach of contract arising from CGF’s failure to segregate the
+reserves because it accepted performance from CGF without complaint.
+The statute of frauds precludes SNG from enforcing a modification to the written Loan Agreement, as
+amended, unless the modification is in writing executed by the party against whom enforcement is sought.  As
+a result, SNG must repay the amounts attributable to the Bakersfield and Adelanto properties and the $75,000
+Dezonia penalty in accordance with the terms of the Loan Agreement, as amended.   
+Finally, SNG has failed to establish any basis for treating the $26,252.41 Dezonia interest payment
+differently than the parties’ prior course of dealing.  Accordingly, it must also repay this amount.
+The parties are directed to recompute the amounts owing on the Note.  Plaintiff shall submit a proposed
+judgment accompanied by a declaration indicating that both counsel have reviewed the calculations and find
+them consistent with the court’s decision.
+Good cause appearing, IT IS SO ORDERED.
+* * * END OF ORDER * * *
+UNITED STATES BANKRUPTCY COURT
+     For The Northern District Of California
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Adversary No. 03-5504
+SERVICE LIST
+ELLEN CIRANGLE
+PATRICIA BONHEYO
+STEIN & LUBIN LLP
+600 MONTGOMERY STREET 14TH FLOOR
+SAN FRANCISCO CA 94111
+DAVID S QUINTANA
+LAW OFFICE OF DAVID S QUINTANA
+300 ESPLANADE DRIVE SUITE 1180
+OXNARD CA 93036
+JOHN P CHRISTIAN
+TOBIN & TOBIN
+500 SANSOME STREET 8TH FLOOR
+SAN FRANCISCO CA 94111
+RUSSELL F SAUER
+AMY QUARTAROLO
+LATHAM & WATKINS LLP
+633 W FIFTH STREET SUITE 4000
+LOS ANGELES CA 90071-2007
+BRECK E MILDE
+JASON TOLU
+TERRA LAW LLP
+60 S MARKET STREET SUITE 200
+SAN JOSE CA 95113
+MICHAEL W MALTER
+JULIE H ROME-BANKS
+BINDER & MALTER LLP
+2775 PARK AVENUE 
+SANTA CLARA 95050
+DAVID V DUPERRAULT
+SILICON VALLEY LAW GROUP
+152 N. THIRD STREET SUITE 900
+SAN JOSE CA 95112

@@ -1,0 +1,356 @@
+18
+$
+Agricultural Research/June 1999
+Fighting Fusarium
+A
+lmost every year, a disease called
+head scab wreaks havoc some-
+where in America.
+Scab now ranks as the worst
+plant disease to hit the United
+States since the stem rust of the 1950s. In
+the past decade, outbreaks in Illinois,
+Indiana, Michigan, Minnesota, North
+Dakota, Ohio, and South Dakota have led
+to more than $1 billion in crop losses.
+Caused by a fungus known as Fusar-
+ium graminearum, scab gets its name from
+the whitish-gray lesions that form on the
+kernel-bearing portion, or head, of infect-
+ed wheat or barley plants. The Fusarium
+microbe can also cause root, stalk, and
+ear rots in corn.
+Infected wheat kernels often shrivel
+and become discolored, and they may
+harbor compounds called mycotoxins that
+are manufactured by the fungus. Most
+notable of these natural compounds is
+deoxynivalenol, which can make wheat
+unsuitable for flour or cereals and too toxic
+for sale as animal feed.
+Today, Agricultural Research Service
+scientists at a half-dozen laboratories
+around the United States are exploring an
+array of tactics to thwart the fungus.
+Deactivating the Toxin
+One defensive strategy relies on ex-
+ploiting the mechanism apparently used
+by F. sporotrichioides, a relative of F.
+graminearum, to protect itself from its
+own toxin, known as T-2.
+“Because both of these Fusarium
+species produce toxins the same way,”
+explains ARS microbiologist Nancy J.
+Alexander, “the process they use to
+deactivate those toxins may also be
+similar.”
+Alexander and colleagues with ARS
+at Peoria, Illinois, found—in F. sporotri-
+chioides—a T-2 resistance gene that they
+named TRI-R.
+“This gene,” says Alexander, “cues the
+fungus to make an enzyme that alters the
+structure of the toxin. The enzyme does
+this by placing a protective chemical
+group on the toxin. The altered toxin
+apparently can’t harm the fungus.
+“Equipping wheat and barley plants
+with a gene to deactivate the toxin made
+by the scab fungus, F. graminearum,
+might give the plants a new and powerful
+form of protection.”
+Expelling the Toxin
+Another organism in nature—the Sac-
+charomyces cerevisiae yeast used in
+breadmaking—has a gene called PDR5
+that can pump toxins out of its cells.
+Alexander and co-researchers borrowed
+PDR5 from scientists at The Catholic
+University of America in Washington,
+D.C. They rebuilt it to work in plants.
+Now, ARS colleagues in Fargo, North
+Dakota, are moving PDR5 and TRI-R into
+barley, while co-workers in Albany, Cal-
+ifornia, are transferring the genes into
+wheat.
+ARS geneticist Lynn S. Dahleen at
+Fargo has some healthy plants with the
+TRI-R gene working inside and others that
+boast the PDR5 gene. “Now our goal,”
+says Dahleen, “is to get both genes up and
+running in the same barley plant—pref-
+erably one that’s either a commercial
+variety or at least similar to a commercial
+barley.”
+One target of Dahleen’s experiments:
+MNBrite, a commercial barley from the
+University of Minnesota. The North Da-
+kota Barley Council is financing some of
+this work.
+A handful of wheat plants nurtured in
+an Albany lab and greenhouse are also
+now outfitted with either the PDR5 or
+TRI-R gene. Ann E. Blechl and Patricia
+A. Okubara at Albany used a gene gun, or
+bioblaster, to propel gold particles coated
+with these genes into wheat cells. Fusar-
+ium-resistance testing will follow. The
+North American Millers Association is
+funding part of this research.
+Proteins To Knock Fusarium Out
+Blechl and Okubara are also examin-
+ing wheat genes that may knock out the
+pathogen.
+In tests elsewhere, proteins produced
+on command by these genes hindered still
+another F. graminearum relative, F. oxy-
+sporum. A scientist at the University of
+Zurich provided one of these experimen-
+tal genes. It tells plants to make what’s
+known as a thaumatin-like protein. A
+second gene, isolated by Kent F. McCue
+at the Albany center, directs plants to
+produce a protein called purothionin.
+Another protein in the thionin fami-
+ly—hordothionin—is a target of research
+by ARS scientists and their colleagues in
+Madison, Wisconsin.
+ARS molecular biologist Ronald W.
+Skadsen says, “We think hordothionin
+and another protein, permatin, may play
+a role in keeping Fusarium from gaining
+a foothold in barley kernels.” Skadsen
+and colleagues cloned two genes that
+barley plants use to make the proteins.
+“In barley,” Skadsen says, “these pro-
+teins are found only inside the kernel.
+We’re hoping to rebuild the genes so that
+Geneticist Ann Blechl looks at root growth
+on genetically engineered wheat plants that
+may carry new genes for resistance to
+Fusarium.
+JACK  DYKINGA  (K5147-10 )
+Agricultural Research/June 1999
+19
+Plant pathologist James D.
+Miller (right) inoculates
+progeny of a durum-emmer
+cross with Fusarium fungus as
+geneticists Leonard R. Joppa
+(left) and Norman D. Williams
+assist in selecting flowering
+heads for testing.
+Lighter, discolored barley heads are
+infected with Fusarium head scab fungi.
+BRUCE  FRITZ  (K8472-1 )
+BRUCE  FRITZ  (K8475-1 )
+Grower and trade organizations are supporting development of a variety of defensive tactics.
+20
+$
+Agricultural Research/June 1999
+plants will produce the proteins on leaf-
+like structures that surround the kernel,
+where Fusarium can begin its attack.”
+The American Malting Barley Asso-
+ciation and the North American Barley
+Genome Mapping Project help fund the
+research.
+Help From a Wild Relative
+A wheat cousin called wild emmer has
+resistance genes that might be moved into
+domesticated wheat. Emmer is a relative
+of durum wheat, which is used to make
+flour for pasta and for pizza doughs.
+North Dakota State University re-
+searchers, along with ARS plant pathol-
+ogist James D. Miller and ARS geneti-
+cists Leonard R. Joppa and Norman D.
+Williams at Fargo, are crossing emmer
+with domesticated durum wheats. The
+work gets some support from grants from
+the Agricultural Production and Utiliza-
+tion Committee of North Dakota, North
+Dakota Wheat Commission, and U.S. Du-
+rum Growers Association.
+In other experiments, they are cross-
+ing wild emmer with special wheats called
+aneuploids.
+“Aneuploids are invaluable to us,” says
+Williams, “because they take up individ-
+ual emmer chromosomes intact. That
+makes it easier to find which emmer chro-
+mosome contains a resistance gene. Once
+we locate that chromosome, we may be
+able to pinpoint the location of the resis-
+tance gene on it—or at least that of an
+associated marker gene.”
+Markers Tell Us Where It’s At
+A marker gene is a sequence of DNA
+that acts somewhat like a signpost to in-
+dicate the presence of a gene of interest.
+“When we find wheat-emmer hybrids that
+have a resistance gene or marker,” Wil-
+liams says, “we can select the best of these
+plants for further breeding.”
+“The more scab-resistance markers
+scientists can identify,” says geneticist
+James A. Anderson, “the closer we should
+all come to locating the actual resistance
+genes that we’re seeking.” Anderson,
+the offspring.
+“We chose a Chinese variety as one of
+the parents,” says Anderson, “because
+some Chinese wheats appear to have the
+best natural resistance.”
+The researchers located markers for
+two genes that, Anderson says, “seem to
+have significant impact on scab resis-
+tance. The three other markers indicate
+genes that make minor contributions.”
+Other promising markers have been
+discovered by scientists with the Univer-
+sity of Illinois at Urbana, working with
+ARS molecular biologists Guihua Bai—
+now at Peoria—and Leslie L. Domier at
+Urbana. They crossed Ning 7840, a scab-
+resistant Chinese wheat, with Clark, a
+susceptible variety developed in Indiana.
+“One marker,” says Bai, “is linked to
+a gene that may account for up to 50 per-
+cent of the scab resistance. Several other
+markers are for two minor genes that may
+account for another 20 percent of the re-
+sistance.”
+Further research may reveal other new
+markers linked to different resistance
+genes. “Resistance from different genetic
+sources,” says Bai, “is the best option,
+because it will give breeders a larger pool
+from which to develop new varieties for
+the future.”
+Screening for Resistance
+The best-performing plants from these
+and other experiments may make their
+way to the Uniform Regional Scab Nurs-
+ery, a rigorous program of scab-resistance
+screening of new wheats for the upper
+Midwest. ARS plant geneticist Robert H.
+Busch, who is at St. Paul, coordinates the
+nursery, helping breeders field-test can-
+didate wheats.
+Previously, Busch helped oversee dis-
+tribution of USDA funds for scab-resis-
+tance research at ARS labs and universi-
+Geneticist Robert Busch examines a newly
+developed, high-yielding, scab-tolerant
+spring wheat variety.
+BRUCE  FRITZ  (K8471-1 )
+formerly with ARS at Pullman, Washing-
+ton, and now with the University of Min-
+nesota at St. Paul, is among the first to find
+a scab-resistance marker in wheat.
+He did the work with researchers at
+North Dakota State University. The re-
+search was funded by a USDA National
+Research Initiative Grant, the North
+American Millers Association, and the
+North Dakota State University Research
+Foundation.
+In all, the team discovered five mark-
+ers. They crossed a scab-resistant wheat
+from China, called Sumai 3, with a mod-
+erately susceptible variety, called Stoa,
+from North Dakota. Then they examined
+Conventional breeding and biotechnology may bring
+Agricultural Research/June 1999
+21
+ties nationwide. This year those funds to-
+taled $3.5 million.
+In his own breeding research, Busch
+develops scab-tolerant wheats for the
+upper Midwest, including one he is re-
+leasing this year. “Through both conven-
+tional breeding and biotechnology,”
+Busch says, “we expect to be able to offer
+high-yielding wheats with even more scab
+resistance in the future.”
+Some of the other new wheats and
+barleys for the upper Midwest might con-
+tain genes discovered or rebuilt by
+Busch’s ARS colleagues at St. Paul.
+William R. Bushnell, for example, is
+developing a faster, less expensive test to
+determine if experimental scab-resistance
+genes can help cells foil Fusarium.
+Plant physiologist William Bushnell and technician Tessa Goff examine a computerized
+image of red barley cells expressing antifungal genes shot into barley tissues.
+BRUCE  FRITZ  (K8469-1 )
+He links a gene he is testing for scab
+resistance to another gene that cues plants
+to make anthocyanin, a natural pigment
+that gives fall leaves their red colors. After
+the genes are shot into plant tissue, cells
+with the anthocyanin gene turn red. This
+means they have likely taken up the gene
+for possible scab resistance, as well.
+When the tissue is inoculated with
+Fusarium and monitored under a micro-
+scope, the distinctive color makes it fast-
+er and easier to pinpoint these key cells.
+Microbial Controls
+In addition to giving plants new, more
+powerful genes to boost scab resistance,
+scientists are scrutinizing about 700 mi-
+crobes for their potential to serve as bio-
+logical controls of the fungus.
+ARS plant pathologist David A.
+Schisler at Peoria and colleagues at Ohio
+State University are testing the microbes
+for their ability to gobble up two com-
+pounds naturally present on wheat heads
+when Fusarium strikes. The compounds
+are choline and betaine. They nourish the
+fungus as it grows from the male organs
+of wheat flowers—where it sometimes
+lands—to where it can infect the devel-
+oping kernel deeper inside the flower.
+Says Schisler, “We are also perfecting
+a liquid fermentation medium to econom-
+ically produce the most effective mi-
+crobes.” The medium could be sprayed
+on wheat during flowering.
+Other new tactics for outflanking the
+Fusarium fungi might come from sleuth-
+ing the microbe’s development. To stalk
+the fungus, former Peoria microbiologist
+Thomas M. Hohn borrowed a gene from
+a bioluminescent jellyfish, Aequorea
+victoria, and hooked it to the fungus.
+The jellyfish gene causes the fungus to
+glow a telltale green when fungal-infected
+tissues are exposed to fluorescent light.
+Though the idea of using the jellyfish gene
+in lab experiments isn’t new, Hohn was
+apparently the first to use it for spying on
+Fusarium.
+“This innovative pairing of jellyfish
+and Fusarium,” says molecular biologist
+Skadsen, “should shed new light on the
+biology of this destructive fungus.”—By
+Marcia Wood, Don Comis, Ben Hardin,
+Linda McGraw, and Kathryn Barry
+Stelljes, ARS.
+This research is part of Plant Diseas-
+es, an ARS National Program described
+on the World Wide Web at http://
+www.nps.ars.usda.gov/programs/
+cppvs.htm.
+Contact scientists mentioned in this
+story through:
+Marcia Wood, phone (510) 559-6070,
+fax (510) 559-5882, e-mail
+mwood@asrr.arsusda.gov.
+Don Comis, phone (301) 504-1625, fax
+(301) 504-1641, e-mail
+dcomis@asrr.arsusda.gov. N
+high-yielding wheats with even more scab resistance.

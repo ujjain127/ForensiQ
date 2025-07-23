@@ -1,0 +1,509 @@
+Classification No.: 
+2190.8 
+Approval Date: 
+12/06/2004 
+Review Date: 
+12/06/2007 
+ACCESS TO CURRENT AND OUTDATED INFORMATION ON EPA’S WEB SITE 
+1. 
+PURPOSE. This document establishes EPA’s policy for keeping information on the EPA 
+public access Web site current, and providing access to useful information that is no 
+longer current but is still valuable to the public as reference and/or background material. 
+Undertaking these measures will improve the efficiency of EPA’s Web site in general, as 
+well as the efficiency of the Web site’s search engine. 
+2. 
+AUDIENCE. Office Directors and Regional equivalents, data owners, Web site 
+managers and contractor employees who produce and maintain EPA Web sites. 
+3. 
+BACKGROUND.  How EPA presents information affects how the public perceives, 
+understands and uses that information for environmental analysis, decision-making and 
+educational purposes. Some information continues to reflect current EPA decisions and 
+activities (i.e., remains relevant) for years.  For example, several EPA regulations 
+promulgated in the 1980s  remain effective and continue to be enforced.  Such regulations 
+reflect current EPA policy and should thus be considered current despite the date of their 
+original publication. 
+In contrast, some information becomes obsolete and irrelevant after only a month.  For 
+example, a Web page that promotes an upcoming event that month will contain obsolete 
+information as soon as the event is over. 
+With the fast-paced growth of EPA’s public access Web site, effective management of 
+information is essential.  It is important to distinguish information that is current from 
+what is outdated, but still useful. Otherwise, it can be difficult for people to locate the 
+information they are most interested in accessing, or to determine what information 
+accurately describes current EPA policy decisions and activities. Similarly, EPA’s Web 
+site search engine should not inundate users with obsolete information. 
+4. 
+DEFINITIONS.  The terms, content owner and data owner, refer to the EPA staff 
+person who develops, manages and maintains a Web page or Web area, and is intimately 
+familiar with the information documents, and/or databases that are posted in that Web 
+area. The content or data owner of a particular Web area is also generally the content 
+expert for the topics covered in that Web area. 
+EPA ORDER 
+2190.8 
+Approval Date: 12/06/2004 
+Review Date: 12/06/2007 
+Current information refers to information that reflects current EPA policy, regulations, 
+programmatic activities and responsibilities. 
+Old [or dated] information means information that was created in the past, in some 
+cases, many years ago, but that still reflects current EPA decisions and/or activities. (Also 
+see “Current information” above.)  Such information has not been superseded by policy 
+decisions, data or other materials released at a later date, and in the case of regulatory 
+requirements, is still legally enforced.  (Examples:  RCRA Revision Checklist 59: 
+Hazardous Waste Miscellaneous Units, 54 FR 615-617, promulgated on January 9, 1989, 
+and Effluent Guideline for Pharmaceutical Manufacturing Point Source Category, 48 FR, 
+49821, promulgated on October 27, 1983.) 
+Dead or broken link refers to an inactive link to a uniform resource locator (URL) (i.e., 
+Web site), through the link’s retirement, change of address, or server error. 
+Information is a communication or representation of knowledge such as facts or opinions 
+in any medium or form, including textual, numerical, graphic, cartographic, narrative or 
+audiovisual forms.  Examples include Web page text, images and links, as well as 
+information available online and/or in hardcopy, including databases, models, reports, 
+studies, memoranda, correspondence and other documents.  "EPA information," for the 
+purpose of this Order, is defined as that information which is gathered or maintained by 
+EPA, or information obtained from other sources for which EPA accepts a stewardship 
+role. 
+Obsolete information means information that no longer reflects current EPA policy, 
+responsibilities and programmatic activities, AND IS NOT useful or relevant to the public. 
+Most of this information includes ephemeral information about short-lived announcements 
+and activities. 
+Orphan Web site refers to those sites or areas of the EPA public access Web site that are 
+no longer maintained and/or no longer linked to other pages. 
+Outdated information means information that no longer reflects current EPA policy, 
+responsibilities and programmatic activities, but that is still useful to the public as 
+reference or background information.  It includes regulations, guidance and policies that 
+are no longer used or enforced, or that have been superseded by more recently released 
+decisions. Such information often provides invaluable historical context to current 
+decisions, requirements and activities.  For purposes of this policy, such information is 
+not considered to be obsolete or useless. 
+-2-
+EPA ORDER 
+2190.8 
+Approval Date: 12/06/2004 
+Review Date: 12/06/2007 
+5. 
+POLICY.  EPA is committed to maintaining and refreshing current information on the 
+Agency’s Web site, while continuing to provide access to historical information that is of 
+interest to EPA’s stakeholders and the public. This policy establishes criteria for the 
+following categories of information: 
+a. 
+Current and old information that still reflects EPA decisions and activities, 
+regardless of its age, 
+b.  
+Outdated information that can be updated, 
+c. 
+Outdated information that cannot be updated, but is still useful and should 
+be maintained on the public access Web site for reference purposes, and 
+d. 
+Obsolete information that is no longer useful to the public and should be 
+permanently removed from the public access Web site. 
+See the Definitions section above regarding the definition of terms such as “current,” 
+“old,” “outdated” and “obsolete” information. 
+It is easy to confuse the requirements and implications of this policy with record keeping 
+requirements, as well as Freedom of Information Act (FOIA) requirements.  These issues, 
+which must be kept separate, are addressed in sections 8 and 9  below. 
+In order to implement this policy, program and regional office directors will be held 
+responsible for periodically assessing the currency, relevancy and accessibility of the 
+information they manage on the Agency Web site. (See section 10 below.) 
+(1) Current and old information that still reflects current EPA decisions and 
+activities – Regardless of when the information was originally created and 
+published, it might still reflect current policy decisions and activities and have 
+lasting value. There are many years-old regulations, policies and programmatic 
+descriptions posted on the Web site that are still accurate and have not been 
+superseded by more recent information.  All such information posted on the Web 
+site must be dated using the original publication or release date, as described in 
+section VII. below. This type of information should not be labeled and treated as 
+outdated. 
+(2) Outdated information that can be updated – Outdated information on the Web 
+site that can be updated to accurately reflect the Agency’s most recent policy 
+decisions, programs or activities, should be revised and posted.  It is up to each 
+office to determine which information can, and should, be revised. After it has 
+been updated and posted, it should be regularly reviewed for its relevance and 
+usefulness to the public. (Recommended time frame for revising outdated 
+-3- 
+EPA ORDER 
+2190.8 
+Approval Date: 12/06/2004 
+Review Date: 12/06/2007 
+information that can be updated: as soon as possible but no longer than a month 
+after it is discovered.) 
+(3) Outdated information that cannot be updated but is still useful to the public – 
+A large amount of outdated but valuable information cannot be updated, but 
+should be maintained on the public access Web site for reference and background 
+purposes. Some of this information may pertain to activities that have been 
+completed or closed out, or information that has been superseded.  It may also be 
+information that reflects past policy decisions that have since changed, but that 
+need to be made available to the public to provide context for newer policy 
+decisions. In all these cases it is important to notify the public that the 
+information no longer reflects current EPA decisions or activities.  Therefore, 
+content owners must label the information as outdated with a standardized notice 
+and graphic icon explaining that it is no longer current and is provided for 
+reference purposes only. (See section 5 How to label outdated information that 
+cannot be updated but is still useful to the public with a notice and icon below.) 
+A. Useful, outdated information that should be maintained on the EPA 
+public access Web site and labeled as no longer current – include the 
+following: 
+i. Regulations, guidance and policies that are no longer in effect and/or 
+have been superseded, but that still provide context to more recent 
+legislation or policy determinations.  Research and other materials directly 
+related to these outdated regulations, policies, etc., are also included in 
+this category. Recommended time frame for content owners to apply the 
+notice and icon: within a month after such information becomes 
+outdated. 
+ii. Proposed regulations, as well as draft and proposed guidance and 
+policies for which a final version has been released, and thus, are not of 
+themselves in force, but provide valuable historical information. 
+Recommended time frame for content owners to apply the notice and icon: 
+within a month after a final version becomes effective. 
+iii. Technical documents, research studies, models, databases or other 
+information that are no longer current, but are useful as reference 
+resources. Recommended time frame for content owners to apply the 
+notice and icon: as soon as possible but no longer than three months 
+after they are no longer current, accurate and/or in effect. 
+-4-
+EPA ORDER 
+2190.8 
+Approval Date: 12/06/2004 
+Review Date: 12/06/2007 
+iv. Information about EPA projects, programs and activities that are no 
+longer active, or that have been completed or suspended, but have helped 
+define programmatic decisions, policies, etc. and are still useful to 
+maintain for reference purposes.  This includes “orphan Web sites” (see 
+Definitions section above) that are important to maintain for reference 
+purposes about past Agency activities. Recommended time frame for 
+content owners to apply the notice and icon: within six months after they 
+are completed or suspended. 
+v. Materials from conferences, symposiums, workshops, seminars and 
+meetings, such as agendas, lists of session participants, session 
+presentation materials, papers, and other relevant documents that are still 
+useful to maintain for reference purposes.  Such materials should be 
+periodically reviewed for their relevance and usefulness to the public. 
+Recommended time frame for content owners to apply the notice and icon: 
+within a month after conclusion of the event. (Please note that 
+announcement notices posted prior to conferences, symposiums, etc., 
+including information about registration, lodging, travel and other 
+logistics, should be permanently removed from the Web site within a 
+month after the session has concluded; see (4)A.1. below.) 
+vi. Other miscellaneous types of outdated information not included in the 
+groups above. Recommended time frame for content owners to apply the 
+notice and icon: within a month after the information is no longer current, 
+accurate and/or in effect. 
+B. Exemption for time sensitive information – The following 
+materials that are inherently time sensitive and are clearly marked 
+with a release date do not need to be labeled with an outdated 
+information notice: 
+(1) Speeches, testimony and transcripts by EPA senior 
+managers. 
+(2) Press releases and other news items which are 
+maintained on the public access server for historical 
+background purposes. 
+(3) Materials that carry a date of issue and are produced 
+periodically to describe or summarize program activities, 
+including annual reports, progress reports, and newsletters. 
+-5- 
+EPA ORDER 
+2190.8 
+Approval Date: 12/06/2004 
+Review Date: 12/06/2007 
+The public is likely to realize that the materials listed above 
+reflect EPA’s decisions and activities at a specific point in 
+time and that the Agency’s decisions and activities may 
+change in the future. 
+(4) Obsolete information that is no longer useful to the public – should be 
+permanently deleted from the EPA public access Web site.  Some obsolete 
+information may still be useful to maintain for internal reference purposes, and 
+should be maintained on the Agency’s intranet site.  (See section (4) B. below.) 
+There is no need to maintain obsolete information on the public access Web site even if it 
+is determined to be a record (i.e., a copy of an official record).  Record keeping 
+obligations are fulfilled through the official copy in the record keeping system.  (See 
+section 8 below.) Content owners may wish to preserve some information that has 
+outlived its usefulness to the public, but that is still relevant to Agency employees, on the 
+Agency’s intranet site. (See section (4) B. below.) Using the examples provided below, 
+each office is responsible for determining which information is no longer useful and 
+should thus be permanently removed from the EPA public access Web site. 
+A. Obsolete information includes, but is not limited, to the following: 
+1. Announcements, brochures, logistics and other non-substantive 
+material about meetings, conferences or other events that have 
+concluded (e.g., registration, travel arrangements, lodging, 
+directions). Recommended removal time frame: as soon as 
+possible but no longer than a month after they are no longer 
+current, accurate and/or in effect. 
+2. Announcements for programmatic deadlines that have passed 
+(e.g., grant opportunities, public comment periods). 
+Recommended removal time frame: as soon as possible but no 
+longer than a month after deadline. 
+3. Public comments for non-regulatory activities that have already 
+been addressed. Recommended removal time frame: three 
+months after the final decision has been made or activity has been 
+completed. 
+4. Information posted on the EPA homepage and on various top 
+pages under “Recent Additions” or other similar categories. 
+Recommended time frame for deleting such information from the 
+“Recent Additions” or similar category on the Agency’s main 
+-6- 
+EPA ORDER 
+2190.8 
+Approval Date: 12/06/2004 
+Review Date: 12/06/2007 
+homepage:  three months after the date they were posted. 
+Recommended time frame for deleting such information from the 
+“Recent Additions” or similar category on various program and 
+regional offices’ top pages: six months after the date they were 
+posted. (There may be instances in which program and regional 
+offices need to display information under “Recent Additions” for a 
+relatively long period of time, such as displaying certain 
+information affecting childrens’ health several months prior to and 
+after the beginning of the school year.) 
+5. Information that is marked with a “new” icon.  After such 
+information has been posted for one month it should no longer be 
+considered “new” and the icon should be removed.  Recommended 
+time frame for removing the “new” icon: a month after such 
+information was originally posted. 
+6. News items, clips, etc. about Agency activities that are no 
+longer relevant or useful to the general public. Recommended 
+removal time frame: a month after the date they were posted on 
+the Web site. 
+7. Information about long-term activities, projects and  programs, 
+as well as publications, reports, and data, that content owners and 
+managers determine to be no longer useful or relevant to the 
+public. Recommended removal time frame:  as soon as possible 
+after it is discovered, but no longer than three months. 
+8. “Orphan Web sites” (see the Definitions section above) that are 
+no longer useful to the public and/or have no historical value. 
+Recommended removal time frame:  immediately upon discovery. 
+9. “Dead or broken links” (see the Definitions section above), as 
+well as links that take the viewer to obsolete, irrelevant 
+information.  Recommended removal time frame:  immediately 
+upon discovery. 
+B. Obsolete information to post and maintain on the Agency’s intranet 
+site – Some information that has outlived its usefulness to the public may 
+still be relevant to Agency employees.  Content owners should use their 
+judgment to determine if obsolete information removed from the public 
+access Web site should be posted on the EPA intranet site.  All obsolete 
+information posted on the intranet should be labeled at the top of each 
+-7- 
+EPA ORDER 
+2190.8 
+Approval Date: 12/06/2004 
+Review Date: 12/06/2007 
+page, with a notice stating it is obsolete information that is being 
+maintained on the intranet for reference purposes only. 
+HOW TO HANDLE DIFFERENT TYPES OF 
+PREVIOUSLY POSTED INFORMATION 
+IF THE 
+INFORMATION 
+THEN 
+IS... 
+AND IT... 
+IT IS... 
+AND YOU SHOULD... 
+USING... 
+still relevant to the 
+reflects current 
+old 
+leave it alone 
+Section (1) 
+public 
+EPA decisions 
+above 
+and/or activities 
+still relevant to the 
+can be updated 
+outdate 
+update and re-post it on the 
+Section (2) 
+public 
+d 
+public access Web site 
+above 
+still relevant to the 
+cannot be 
+outdate 
+leave it on the public access 
+Sections (3) 
+public 
+updated 
+d 
+Web site but label it with a 
+above and 
+the standard notice and icon 
+(5) below 
+no longer relevant 
+cannot be 
+obsolete 
+remove it from the public 
+Section (4) 
+to the public 
+updated 
+access Web site (if it still 
+above 
+useful for internal purposes, 
+consider moving it to 
+EPA’s intranet) 
+(5). How to label outdated information that cannot be updated but is still useful to 
+the public with a notice and icon – EPA content owners must clearly label all 
+outdated information maintained on the Web site to help users distinguish it from 
+current information.  A graphic icon and standardized notice (“EPA no longer 
+updates this information, but it may be useful as a reference or resource”) 
+have been developed to label outdated but still useful information.  Instructions 
+for displaying it at the top of relevant pages, as well as sample pages and coding 
+details are provided at http://www.epa.gov/epafiles/outdatedpages.htm. 
+A. Links to outdated Agency information – When a Web page with 
+current information includes a link to outdated EPA information, display 
+the appropriate icon to the right of the link. See the sections in the EPA 
+Web Guide regarding this smaller sized “link icon” at 
+http://www.epa.gov/epafiles/outdatedpages.htm . When the link is to an 
+Agency maintained area, the notice and full-size icon should be displayed 
+-8- 
+EPA ORDER 
+2190.8 
+Approval Date: 12/06/2004 
+Review Date: 12/06/2007 
+at the top of the linked area’s home page. (Hint: the small icon goes with 
+links to pages that are labeled using the large icon.) 
+B. Labeling outdated information in different electronic formats – 
+All outdated Web pages, documents and databases, except those 
+produced in PDF format, must be labeled with the outdated 
+information notice and graphic icon.  This includes documents, 
+such as memos, letters, reports, studies, etc. produced in HTML 
+format.  Even outdated sub-pages, linked pages and materials 
+buried several layers below an outdated top page should be labeled 
+so that they can be identified as no longer current if a viewer 
+locates them, for example, directly through a search engine.  (See 
+the guidance in the Web Guide under Documents/EPA Orders and 
+Memoranda at http://www.epa.gov/epafiles/outdatedpages.htm for 
+more detailed information regarding how to label and tag such 
+outdated information in order to comply with the Look and Feel 
+Policy.) Do not assume that visitors will see higher-level pages 
+and associated labels. 
+Due to technological difficulties associated with inserting graphics 
+into old PDF files, all outdated documents produced in PDF format 
+will be exempt from displaying the outdated information graphic 
+icon. Outdated PDF files are NOT EXEMPT from displaying the 
+outdated notice text. Each outdated PDF document should clearly 
+display the outdated information notice text at the top of the first 
+page of the document. 
+C. Exemption from EPA’s Look and Feel Policy for outdated 
+information – All outdated information on the public access Web 
+site that is properly labeled with the outdated information notice is 
+exempt from the Agency Look and Feel Policy.  See 
+http://www.epa.gov/epafiles/outdatedpages.htm for detailed 
+instructions regarding application of the notice. See 
+http://www.epa.gov/webguide/docs/epaweb.html for further 
+information about the EPA Look and Feel Policy. 
+(6). Ranking which pages to label first – Due to resource constraints, it may be 
+difficult to label all outdated pages immediately.  Therefore, the first several 
+layers or top Web pages should be labeled first.  Information determined to be 
+“influential” as described in the Agency’s Information Quality Guidelines (See 
+http://www.epa.gov/oei/qualityguidelines), as well as important scientific and/or 
+-9- 
+EPA ORDER 
+2190.8 
+Approval Date: 12/06/2004 
+Review Date: 12/06/2007 
+technical information, should be given priority in deciding which information to 
+label first.  If outdated information is maintained in a separate archive location, 
+the top archive page should be labeled first. While all of the individual pages 
+maintained in the archive should be labeled, rank the order in which to label them 
+according to the instructions above. 
+(7). Date stamping – In order to adequately inform the public about various 
+Agency decisions and activities, data owners must ensure that all information 
+placed on the Web site displays the date when the decision or activity originally 
+became effective.  For example, in order to understand the historical significance 
+of a particular requirement or decision, one needs to know what period of time it 
+was in place. Data owners should add the appropriate signature and effective date 
+to all new documents, including policy directives, regulations, guidance, reports, 
+memos, letters, etc.  Outdated documents and databases, if not previously dated, 
+should be dated retrospectively as resources allow. 
+(8). Record keeping and outdated information – In order for information in any 
+format to be considered a record, it must meet the definition of a Federal record 
+[44 U.S.C. Section 3301]. (See www.epa.gov/records/ for more information.)  A 
+record can be made available to the public in various formats (i.e., hard copy 
+document, video, email, Web page, Web site portal, etc.).  Web pages and 
+materials posted on EPA’s Web site are often available in other formats, 
+particularly in hard copy.  Information that is designated as a record, regardless of 
+format, must be  maintained in a record keeping system and retained in 
+accordance with the applicable records schedule (See 
+intranet.epa.gov/records/schedule to review schedules). If an electronic record 
+keeping system is not in use for the storage of official electronic records, the 
+record must be printed and filed in a paper record keeping system.  (The Agency 
+is in the process of developing a content management system that will provide 
+electronic record keeping capabilities.) 
+Program and regional offices are responsible for ensuring that records are 
+maintained in accordance with EPA’s records schedules.  According to current 
+EPA records management requirements, information posted on the Web site that 
+is already contained in an office record keeping system should be managed in 
+accordance with programmatic needs and the principles in this policy.  Such 
+information does not rely on the Web copy to meet records management 
+requirements and the Web copy may be deleted prior to the scheduled record 
+keeping date of disposal. However, in order to comply with the Agency's records 
+management program (see Chapter 10 of the Information Resources Management 
+Policy Manual, EPA Directive 2100 – 
+http://www.epa.gov/irmpoli8/polman/chaptr10.htm), once an official record is 
+-10- 
+EPA ORDER 
+2190.8 
+Approval Date: 12/06/2004 
+Review Date: 12/06/2007 
+disposed of in accordance with its record schedule, all copies of the information 
+should be disposed of as well. Thus, all duplicate information posted on the Web 
+site should be removed upon the same scheduled disposal date as the official 
+record. 
+This Order is in compliance with Agency records management policies.  The 
+National Archives and Records Administration (NARA) is currently developing 
+guidance on managing Web records.  Record keeping policies and guidance 
+referenced here are subject to change during the life of this policy directive. For 
+further information about record keeping requirements, see 
+www.epa.gov/records/. 
+(9). Freedom of Information Act (FOIA) and outdated information - The FOIA 
+requires that final Agency opinions and orders, statements of Agency policy and 
+interpretations, Agency staff manuals, and other records be made available in 
+electronic format.  It is EPA’s policy to disseminate these records to the general 
+public through the Agency’s public access Web site.  Such records should be 
+maintained and removed from the public access Web site in accordance with 
+EPA’s record retention policies. 
+For more information about FOIA and E-FOIA, go to http://www.epa.gov/foia/. 
+(10). Periodic review of outdated information – In order to enhance the public’s 
+access to timely, current information, program and regional offices are expected 
+to regularly review and update as appropriate all outdated Web pages, documents, 
+and databases maintained on the Web site and follow the procedures discussed 
+above. Program and regional offices will be held responsible for performing this 
+type of Web site management once a year. 
+6. 
+Roles and Responsibilities. The Chief Information Officer/Assistant Administrator, 
+Office of Environmental Information,  and the Associate Administrator for Public Affairs 
+are jointly responsible for monitoring compliance with this Order.  
+Office Directors in each EPA program office and equivalent managers reporting directly 
+to the Regional Administrator in the regions are responsible for ensuring compliance with 
+this Order, particularly for ensuring that a review of outdated Web pages, documents and 
+databases is conducted at least once a year. 
+Staff level content owners and managers are responsible for ensuring that any content 
+they manage and/or maintain on the public access server complies with this Order. 
+7. 
+Authorities. The Information Technology Reform Act of 1996, Pub. L. 104106, 
+established the position of Chief Information Officer in federal agencies in place of the 
+designated senior official for information resources management previously established 
+by the Paperwork Reduction Act. This provision establishes clear accountability for 
+EPA ORDER 
+2190.8 
+Approval Date: 12/06/2004 
+Review Date: 12/06/2007 
+agency information resources management activities, provides for greater coordination 
+among the agency's information activities, and ensures greater visibility of such activities 
+within each agency. 
+Electronic Freedom of Information Amendments of 1996 (E-FOIA) mandate that 
+agencies make all reasonable efforts to provide information to requesters in the medium 
+of their choice (hard copies, electronic data, CDs, etc.). 
+8. 
+Related Documents. Web Guide (http://www.epa.gov/webguide/) 
+Records Management Web site (http://www.epa.gov/records/) 
+FOIA Web site (http://www.epa.gov/foia/) 
+Memorandum of Understanding between the Offices of Public 
+Affairs and Environmental Information, “Management and 
+Oversight Responsibilities for EPA”s Web Site,” November 8, 
+2002 
+(http://intranet.epa.gov/webgroup/memos/OPAOEIMOU.pdf) 
+9. 
+Recertification Date. Three years from date issued. 
+10. 
+Additional Information. For further information about this policy, please contact the 
+Chief of the Policy and Program Management Branch, Office of Information Analysis 
+and Access, 202-566-0668. 

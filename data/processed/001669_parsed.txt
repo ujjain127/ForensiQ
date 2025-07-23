@@ -1,0 +1,1620 @@
+Characterization of Chemical Libraries for Luciferase Inhibitory Activity
+Douglas S. Auld,† Noel T. Southall,† Ajit Jadhav,† Ronald L. Johnson,† David J. Diller,‡ Anton Simeonov,†
+Christopher P. Austin,† and James Inglese*,†
+NIH Chemical Genomics Center, National Human Genome Research Institute, National Institutes of Health, Bethesda, Maryland 20892-3370,
+and Pharmacopeia Inc., Princeton, New Jersey 08543
+ReceiVed October 16, 2007
+To aid in the interpretation of high-throughput screening (HTS) results derived from luciferase-based assays,
+we used quantitative HTS, an approach that deﬁnes the concentration-response behavior of each library
+sample, to proﬁle the ATP-dependent luciferase from Photinus pyralis against more than 70 000 samples.
+We found that approximately 3% of the library was active, containing only compounds with inhibitory
+concentration-responses, of which 681 (0.9%) exhibited IC50 < 10 µM. Representative compounds were
+shown to inhibit puriﬁed P. pyralis as well as several commercial luciferase-based detection reagents but
+were found to be largely inactive against Renilla reniformis luciferase. Light attenuation by the samples
+was also examined and found to be more prominent in the blue-shifted bioluminescence produced by R.
+reniformis luciferase than in the bioluminescence produced by P. pyralis luciferase. We describe the
+structure-activity relationship of the luciferase inhibitors and discuss the use of this data in the interpretation
+of HTS results and conﬁguration of luciferase-based assays.
+Introduction
+Bioluminescence occurs in a variety of organisms and serves
+primarily as defense and communication means; the color of
+luminescence is adapted to the visual systems of the organism.1
+Bioluminescence colors can range from blue to red (Figure 1a).
+The particular wavelength that is emitted depends in part on
+the type of luciferins that is employed, and these cover diverse
+structural classes (Figure 1a).2 Luciferases from organisms that
+yield very bright bioluminescence have been adapted for use
+as reporters in high-throughput screening (HTS)a assays, the
+most common being from the jellyﬁsh Aequorea Victoria, the
+sea pansy Renilla reniformis, and the ﬁreﬂy Photinus pyralis.
+Fireﬂy luciferase enables a variety of HTS applications,
+including reporters for gene expression in cellular signaling
+assays, sensors for the ATP content of cells as a measure of
+cell viability, and in biochemical assays to measure both ATP-
+dependent enzyme reactions, such as kinases, and non-ATP-
+dependent enzymes, such as the cytochrome P450 (CYP) family
+of oxidoreductases by using pro-luciferin CYP substrates.3 The
+active site of ﬁreﬂy luciferase binds ATP and a luciferin
+containing a benzthiazole core. The bioluminescent reaction
+proceeds through the formation of a luciferyl-adenylate inter-
+mediate and leads to the production of AMP, oxyluciferin, and
+light (Figure 1b).4 The environment of the active site also
+* To whom correspondence should be addressed. E-mail: jinglese@
+mail.nih.gov. Phone: 301-217-5723. Fax: 301-217-5736.
+† National Institutes of Health.
+‡ Pharmacopeia Inc.
+a Abbreviations: IC50, determined by using the detection cocktail from
+PK-Light; IC50Luc, determined by using puriﬁed P. pyralis luciferase;
+IC50Promega, determined by using the detection cocktail from Kinase-Glo;
+IC50SteadyGlo, determined by using the reporter gene formulation SteadyGlo
+and puriﬁed P. pyralis luciferase; IC50BrightGlo, determined by using the
+reporter gene formulation BrightGlo and puriﬁed P. pyralis luciferase;
+IC50Renilla, determined by using puriﬁed R. reniformis luciferase; HTS, high-
+throughput screening; AMP, adenosine 5′-monophosphate; ATP, adenosine
+5′-triphosphate; qHTS, quantitative high-throughput screening; BSA, bovine
+serum albumin; DMSO, dimethylsulfoxide; NCGC, NIH Chemical Ge-
+nomics Center; SD, standard deviation; AID, Assay Identiﬁer number for
+PubChem; MCS, maximal common substructures; CID, Compound Identiﬁer
+number for PubChem; Z′, a score of assay performance measured in the
+absence of test compounds where values between 0.5 and 1.0 represent
+acceptable assays; MW, molecular weight; BEH, bridged ethyl hybrid;
+LCMS, liquid chromatography–mass spectrometry; ELSD, evaporative light
+scattering detection; EGFR, epidermal growth factor receptor.
+Figure 1. Bioluminescence of the luciferyl-luciferase reaction. (a)
+The spectrum of bioluminescence is shown at left along with the names
+of the organisms that produce the luminescence. Also shown at right
+are luciferins for ﬁreﬂy (Lampryridae) and railroad worms (Phengo-
+didae), sea pansies and jellyﬁsh (Cnidarians), mollusks (Latia), and
+ostracods (Crustacea; the ostracod Cypridina (Vargula) hirgendorﬁi).
+(b) Enzymatic reaction of Photonis luciferase. Luciferin and adenosine
+5′-triphosphate (ATP) substrates are used by luciferase to form a
+luciferyl-adenosine 5′-monophosphate (AMP) intermediate that is
+subsequently oxidized in the presence of oxygen to generate light, as
+well as the products oxyluciferin, CO2, and AMP.
+J. Med. Chem. 2008, 51, 2372–2386
+2372
+10.1021/jm701302v CCC: $40.75
+2008 American Chemical Society
+Published on Web 03/26/2008
+inﬂuences the wavelength of the light emitted, and single amino
+acid changes within the active site of P. pyralis luciferase can
+shift the luminescence from yellow-green to red.5
+Because ﬁreﬂy luciferase is used as a detection reagent in
+cell- and protein-based assays, it is widely appreciated that
+compounds may interfere with this detection through a variety
+of mechanisms.6 These include direct inhibition of the enzyme
+by speciﬁc competition with one or both substrates and
+nonspeciﬁc inhibition, as for example, enzyme denaturation or
+attenuation of the luminescent signal through photonic processes
+such as absorbance or the inner-ﬁlter effect.7 Although not
+described in the literature, luciferase assay interference has been
+identiﬁed within industrial HTS laboratories by accumulating
+numerous data sets from luciferase-based screens and then by
+using this information to ﬂag compounds that are frequently
+active in this mode of detection. However, compounds that are
+active against luciferase may also be genuinely active against
+the target of interest. For instance, resveratrol8,9 is a potent
+luciferase inhibitor that complicates the interpretation of data
+collected from luciferase-based reporter gene assays for this
+compound.10 Such observations emphasize the need to under-
+stand luciferase inhibition by small molecules when these are
+characterized in common luciferase-based assays, particularly
+those that measure cytotoxic effects where a misinterpretation
+of the data could result in discarding useful leads.
+A counter-screen database to ﬂag assay interferences, such
+as luciferase inhibition, would be very useful, but no such
+database is currently publicly available. We therefore investi-
+gated the frequency and type of compounds that have activity
+against ﬁreﬂy luciferase within a set of publicly accessible
+compounds. We employed a concentration-response-based
+screening strategy, termed quantitative high-throughput screen-
+ing (qHTS),11 that produced potency values for approximately
+72 000 compounds (see PubChem AID 411). The active
+structures and series identiﬁed can be used to reﬁne and gain
+information on the selection of actives obtained from many
+commonly used luciferase-based assays. Also, we suggest a
+model for how substrate-competitive inhibitors identiﬁed here
+may bind in the luciferase active site, and how differences in
+ATP binding between protein kinases and ﬁreﬂy luciferase may
+inﬂuence the interpretation of inhibitors derived from luciferase-
+coupled protein kinase assays. On the basis of these data, several
+approaches to the design of luciferase assays are suggested that
+should improve these assays by reducing the potential for
+compound interference.
+Material and Methods
+Reagents. ATP, bovine serum albumin (BSA), Tween 20,
+potassium chloride, imidazole, resveratrol, D-luciferin, and apigenin
+were purchased from Sigma-Aldrich (St. Louis, MO). Magnesium
+chloride was acquired from Quality Biological (Gaithersburg, MD),
+and dimethylsulfoxide (DMSO), certiﬁed ACS grade, was purchased
+from Fisher (Waltham, MA). R. reniformis luciferase was purchased
+from Chemicon International (cat. no. 4400). The luciferase-based
+detection reagents used were PK-Light (Lonza, Allendale, NJ),
+EasyLite (Perkin-Elmer, Waltham, MA), and Kinase-Glo (Promega,
+Madison, WI). The luciferase reporter gene reagents used were
+SteadyGlo and BrightGlo (Promega). Puriﬁed wild-type P. pyralis
+luciferase was obtained from Sigma (cat. no. L9506).
+Preparation of Compound Libraries and Control Plates. The
+72 377-member library was collected from several sources: 1280
+compounds from Sigma-Aldrich (LOPAC1280), 1120 compounds
+from Prestwick Chemical Inc. (Illkirch, France), 280 puriﬁed natural
+products from TimTec (Newark, DE), three 1000-member combi-
+natorial libraries from Pharmacopeia (Cranbury, NJ), 977 com-
+pounds from Tocris (Ellisville, MO), 63 021 compounds from the
+NIH Molecular Libraries Small Molecule Repository,12 1981
+compounds from the National Cancer Institute, and 718 compounds
+from Boston University Center for Chemical Methodology and
+Library Development. Libraries were prepared as described.11,13
+Controls were added from a separate 1536-well compound plate
+as follows: columns 1 and 2, 16-point titrations in duplicate of
+resveratrol and apigenin, respectively (both beginning at 20 mM
+in DMSO); column 3, neutral control (DMSO); column 4, control
+inhibitor (20 mM resveratrol).
+Luciferase Assay and qHTS. A total of 2 µL/well of substrate/
+buffer concentrate (10 µM ATP, 50 mM KCl, 7 mM MgCl2, 0.05%
+BSA, 0.01% Tween 20, and 50 mM imidazole pH 7.2, ﬁnal
+concentration) was dispensed into Kalypsys (San Diego, CA) solid
+white 1536-well plates by using a bottle-valve solenoid-based
+dispenser (Kalypsys). A total of 23 nL of compound solution was
+transferred to the assay plate by using a Kalypsys pin tool equipped
+with a 1536-pin array14 containing 10 nL slotted pins (FP1S10,
+0.457 mm diameter, 50.8 mm long; V&P Scientiﬁc, San Diego,
+CA). After transfer, 2 µL/well of PK-Light (resuspended in buffer
+B described in ref 15) was dispensed for a ﬁnal assay volume of 4
+µL/well. After an 8 min incubation at ambient temperature,
+luminescence was detected by a ViewLux (Perkin-Elmer) by using
+a 5 s exposure time and 1X binning. All screening operations were
+performed by using a fully integrated Kalypsys robotic system
+containing one RX-130 and two RX-90 Staübli anthropomorphic
+robotic arms.
+qHTS Data Analysis. Screening data were processed by using
+in-house-developed software. Percent activity was computed from
+the median values of the uninhibited, or neutral, control (32 wells
+located in column 3) and the 20 µM resveratrol, or 100% inhibited,
+control (32 wells, column 4). For assignment of plate concentrations
+and sample identiﬁers, ActivityBase (ID Business Solutions Ltd.,
+Guildford, UK) was used for compound and plate registrations. An
+in-house database was used to track sample concentrations across
+plates. Correction factors were generated from 18 control assay
+plates containing vehicle (DMSO) only that were inserted uniformly
+throughout the screen to monitor background systematic variation
+in assay signal, potentially resulting from reagent dispensers or
+decreases in enzyme-speciﬁc activity, for example. Curve ﬁtting
+was performed by using an in-house-developed algorithm. A four-
+parameter Hill equation was ﬁtted to the concentration-response
+data by minimizing the residual error between the modeled and
+observed responses. The noise of the assay was estimated by
+calculating the standard deviation (SD) of the activity values
+obtained at the lowest tested compound concentration, and outliers
+were identiﬁed and masked by modeling the Hill equation and
+determining whether the differences exceeded the assay noise. qHTS
+data was depicted by using Origin (OriginLab, Northampton, MA).
+Data were deposited in PubChem (AID 411).
+SAR Analysis. The curve classiﬁcation used is the same as the
+one described elsewhere.11 Brieﬂy, concentration-response curves
+are categorized into four classes. Class 1 contains complete
+concentration-response curves showing both upper and lower
+asymptotes and r2 values greater than 0.9. Class 2 contains
+incomplete concentration-response curves lacking the lower
+asymptote and shows r2 values greater than 0.9. Class 3 curves are
+of the lowest conﬁdence because they are deﬁned by a single
+concentration point where the minimal acceptable activity is set at
+3 SD of the mean activity calculated as described above. Curves
+are classiﬁed as negative or positive, depending on whether they
+exhibit a signal decrease (apparent inhibition) or increase (apparent
+activation). Finally, class 4 contains compounds that do not show
+any concentration-response curves and are therefore classiﬁed as
+inactive. Active compounds were identiﬁed as a range of curve
+classes from -1 through -3 to select for compounds showing signal
+decreases. Once an active set of compounds was identiﬁed,
+hierarchical agglomerative clustering with a 0.7 Tanimoto cutoff
+was performed by using Leadscope (Leadscope Inc., Columbus,
+OH) ﬁngerprints, which are ideally suited for two-dimensional
+scaffold-based clustering. For each cluster, maximal common
+substructures (MCS) were extracted, a manual step of MCS
+qHTS Analysis of Fireﬂy Luciferase
+Journal of Medicinal Chemistry, 2008, Vol. 51, No. 8
+2373
+trimming was performed to create a list of scaffolds, and any
+overlapping scaffolds were abridged to a canonical set. Each
+scaffold was then represented as a precise deﬁnition to indicate
+descriptors such as the number of attachment points or the ring
+size variability. All ﬁlters were then relaxed to include the entire
+negative (i.e., class 4) assay data.
+Analytical QC of Compounds. The entire library was subjected
+to purity analysis before plating (Galapagos Biofocus DPI, South
+San Francisco, CA).16 Active compounds that were obtained from
+commercial sources were reanalyzed for purity. For these resupplied
+compounds, the purity analysis was performed via liquid chromato-
+graphy-mass spectrometry (LCMS) analysis on a Waters AC-
+QUITY reverse-phase UPLC system and a 1.7 M BEH column
+(2.1 × 50 mm) by using a linear gradient in 0.1% aqueous formic
+acid (5% ACN in water increasing to 95% over 3 min). Compound
+purity was measured on the basis of peak integration from both
+UV/vis absorbance and evaporative light scattering detection
+(ELSD), and compound identity was determined on the basis of
+mass analysis; all compounds passed purity criteria (>95%).
+Follow-up Luciferase Assays. A total of 46 compounds were
+obtained and subjected to several luciferase assays by using a 1536-
+well plate format including the qHTS PK-Light detection conditions.
+The same buffer as the one described for the qHTS assay protocol
+was used for additional detection reagents, except that 2 µL of either
+EasyLite or Kinase-Glo was added for detection. Fireﬂy luciferase
+was assayed in the qHTS assay buffer by using P. pyralis luciferase
+and
+D-luciferin at ﬁnal concentrations 10 nM and 10 µM,
+respectively. This assay system was also used to vary both ATP
+and D-luciferin concentrations.
+Luciferase reporter gene reagents (SteadyGlo and BrightGlo)
+were assayed by using 5 nM puriﬁed P. pyralis luciferase (Sigma)
+with no additional ATP or D-luciferin added. Activity against R.
+reniformis was assayed in 50 mM NaCl, 0.05% BSA, 0.01% Tween
+20, and 50 mM Tris-acetate pH 7.2 buffer by using 10 nM R.
+reniformis luciferase and 10 µM coelentrazine. All follow-up
+concentration-response curves were derived from 16 2-fold
+concentrations. Each compound was assayed in duplicate, and this
+experiment was repeated on two or three separate days.
+Light Attenuation Assay. Experiments to assess the luminescent-
+light attenuation (e.g., light-absorbing or inner-ﬁlter effects) of
+compounds were performed by using a Fluoromax-4 (Horiba Jobin
+Yvon, Edison, NJ) spectroﬂuorometer equipped with a single-
+cuvette sample holder. Assays were performed at room temperature
+by using two-chamber Spectrosil Far UV quartz cuvettes (Starna
+Cells, Atascadero, CA). To observe the luminescence from a
+luciferyl-luciferase reaction mixture alone, the cuvette was placed
+in the sample holder such that the enzyme reaction was facing the
+detector. For measurement of the light-attenuation effect of test
+compounds, the second compartment was ﬁlled with the same
+volume (800 µL) of compound solution in matching buffer, and
+the cuvette was placed in the holder with the compound compart-
+ment being situated between the luciferase-containing compartment
+and the light detector. Thus, the luciferase-only and compound-
+attenuated signals were measured in rapid succession by simply
+ﬂipping the cuvette and exposing the respective compartments to
+the detector face. In order to measure unattenuated luminescence
+on this instrument, the excitation monochromator was tuned to an
+IR frequency (1000 nm), and the excitation slit width was decreased
+to a minimum (0.1 nm). At these settings, the background (buffer-
+or substrate-only samples in the same cuvette) remained constant
+from day-to-day at 160-190 cps (photon counts per second),
+whereas the measured values from the different experiments
+performed were generally between 104 and 5 × 106 cps. The light
+emitted from the samples was measured as an emission scan
+generally between 400 and 700 nm, at monochromator wavelength
+steps of 2 nm and integration time of 0.1 s. The P. pyralis ﬁreﬂy
+luciferase reaction used 100 µM ATP and D-luciferin with 100 nM
+enzyme, and the R. reniformis reaction used 50 µM coelentrazine
+and 100 nM enzyme; the buffers described above were used for
+the follow-up assays. Compounds were titrated by 2-fold dilutions
+starting at a concentration of 100 µM until no quenching was
+observed. The emission slit width was 5 nm for the ﬁreﬂy luciferase
+assays and 10 nm for the R. reniformis experiments.
+Modeling of Luciferase Inhibitor. Modeling of substrate
+competitive inhibitors and comparison of ATP binding between a
+protein kinase and luciferase was performed by using the luciferase
+protein from Japanese ﬁreﬂy (PDB code 2D1R)5 and the epidermal
+growth factor receptor (EGFR) protein kinase, cocrystalized with
+a 4-anilinoquinazoline inhibitor or an ATP analogue (PDB codes
+1M1717 and 2GS7,18 respectively). The Japanese ﬁreﬂy structure
+was chosen because it was solved in complex with both oxyluciferin
+and AMP. The Japanese ﬁreﬂy and P. pyralis luciferase show high
+overall sequence similarity (68% identity and 82% similarity with
+only a single amino acid gap), and their binding sites are nearly
+perfectly conserved. We therefore reasoned that the Japanese ﬁreﬂy
+structure is an acceptable model for luciferase bound to substrates
+or inhibitors in either the AMP- or luciferin-binding site. All
+inhibitor-binding models were built manually starting from either
+of the cocrystallized substrates in the structure 2D1R and were
+further optimized by using MOE (Molecular Operating Environ-
+ment, 2006).
+Results
+Luciferase qHTS. To proﬁle the chemical library for activity
+against luciferase, the luciferase enzyme from P. pyralis was
+assayed by using a commercially available detection system
+containing enzyme, luciferin, and buffer components.15 The
+enzyme activity was linear over a range of 5-20 µM of ATP,
+and 10 µM was chosen for the assay. The screen was performed
+in a 1536-well plate format with a ﬁnal assay volume of 4 µL
+per well. Resveratrol and apigenin, luciferase inhibitors identiﬁed
+through a counter-screen of pyruvate kinase actives,11 were used
+as inhibitor controls.
+Luciferase activity was screened against small molecules by
+using a concentration-response method (qHTS).11 Unlike
+traditional HTS, where libraries are tested at a single concentra-
+tion, qHTS measures activity across multiple concentrations
+allowing the generation of titration-response curves for all
+library compounds. In the luciferase qHTS, the library was tested
+as a series of at least seven 5-fold dilutions beginning at a
+concentration of 57 µM for ∼85% of the compounds and 25 or
+11 µM for the remainder.
+A total of 441 1536-well microtiter plates were processed.
+The 426 plates accepted for further analysis averaged a signal-
+to-background ratio of 7.9 ( 0.9 and Z′ ) 0.85 ( 0.08,
+indicating a strong and consistent assay response over the entire
+screen. During the run, a dispenser tip was partially blocked
+for 16 plates, which caused lower Z′ values (0.18-0.59) and
+20% lower activity for the affected compounds (Figure 2A).
+The inhibitor control titrations included on every plate were
+highly precise, and the minimum signiﬁcance ratios (MSR,
+minimum signiﬁcance ratio that represents the smallest potency
+ratio between two measurements that is statistically signiﬁcant
+with 95% conﬁdence)19 for resveratrol and apigenin were 1.8
+and 1.6, respectively (Figure 2B).
+The luciferase qHTS resulted in titration-response proﬁles
+of 72 377 samples derived from 654 336 assayed wells (Figure
+2A). Screening was performed at a rate of 6.6 samples/s on the
+Kalypsys automated screening platform, thus generating data
+for one concentration-response curve per second. Concentra-
+tion-response curves were ﬁtted to the data corresponding to
+each sample and categorized into four classes: (1) complete
+response curves containing upper and lower asymptotes, (2)
+incomplete response curves having an upper asymptote, (3)
+poorly ﬁt curves or activity only at the highest tested concentra-
+tion, and (4) inactive where activity was below 30%.11
+The screen identiﬁed 2311 samples comprising 3.1% of the
+library as active (classes 1-3) and 70 061 as inactive (class 4).
+2374
+Journal of Medicinal Chemistry, 2008, Vol. 51, No. 8
+Auld et al.
+All actives were inhibitors. Compounds associated with the
+highest quality curves, classes 1a, 1b, and 2a, comprising 209,
+136, and 247 samples, respectively, represented 0.8% of the
+collection (Figure 2C). Class 2b was the largest class of actives,
+containing 1295 samples, whereas class 3 totaled 424 samples.
+The luciferase qHTS tested compound activities at concentra-
+tions from 3.7 nM to as high as 57 µM. We estimated that the
+luciferase concentration was ∼1 nM in the assay,15 indicating
+that our determination of inhibitor IC50 should be accurate
+because the enzyme concentration was below the lowest tested
+compound concentration. The distribution of potencies for each
+curve class indicated that, as expected, the mean IC50 increased
+with decreasing curve class quality (Table 1). The class 1a
+category contained the most potent inhibitor, and IC50 values
+ranged from 0.04 to 5 µM, whereas class 1b potencies spanned
+from 0.25 to 8 µM. The potencies of class 2 compounds were
+lower, class 2a and 2b compounds having IC50 g 1.3 µM and
+IC50 g 0.4 µM, respectively. Many class 2b and 3 IC50 values
+were above the highest tested concentration; these were
+extrapolated from incomplete curves; therefore, they should be
+considered approximations.
+Luciferase SAR. Active library members with high-
+conﬁdence curve classes (1a, 1b, and 2a) were selected and
+subjected to hierarchical clustering by using Leadscope ﬁnger-
+prints to generate MCS. Seven chemotypes were chosen for
+further analysis on the basis of the number of analogues
+associated with the MCS, potency of these analogues, and
+known biological information associated with the compounds
+(see Figure 3 for core structures). For example, the most highly
+representative structures observed from this analysis were the
+2 aryl-substituted benzo-[d]thiazole, -imidazole, and -oxazole-
+containing series, likely analogues of the benzthiazole-based
+luciferin substrate. We also selected four clusters that did not
+show obvious similarity to either luciferin or ATP, represented
+by a set of 1,2,4-oxadiazoles, a series of quinoline compounds,
+and several compounds with a substituted (Z)-(amino)prop-2-
+en-1-one core or benzlyamide core, as well as compounds with
+known pharmacological activity. Substructure searches against
+the entire library were performed by using the scaffolds that
+deﬁned each of these clusters in order to deﬁne a chemical series
+composed of active and inactive analogues.
+We next examined the bioactivity proﬁle for active com-
+pounds found within each chemical series across 39 qHTS
+assays performed at the NCGC. These included six luciferase-
+based assays and 33 assays that used ﬂuorescence detection
+involving reporters such as GFP or -lactamase, or reagents
+such as protease proﬂuorescent peptide substrates. On average,
+three-quarters of the active compounds in each cluster identiﬁed
+from the luciferase qHTS were found to be active in all six
+luciferase assays, whereas the activity averaged only 10% across
+the 33 nonluciferase-based assays (Figure 3). Luciferase-coupled
+enzyme assays that used the same luciferase-based detection
+reagent showed the highest degree of correlation (Figure 3a-g,
+ﬁrst two dark gray bars, qHTS assays 1 and 2). Within each
+luciferase active series, the fraction of active compounds was
+often found to be >50% for luciferase assays with a cell-based
+format, and the unrelated red-luminescence-emitting click beetle
+luciferase showed the lowest activity for each series. In some
+series, the fraction of active compounds was found to be ∼50%
+in nonluciferase assays; for example, a series containing core 4
+(quinoline, Figure 3d, qHTS assays 12 and 13) was active in
+two ﬂuorescence-based enzyme assays. The activity in these
+two assays was associated with lower-conﬁdence curve classes
+(e.g., class 3) and gave rise to activation of the assay signal.
+Therefore, for these ﬂuorescence-based assays, the activity of
+quinoline compounds appears to be due to sample ﬂuorescence
+(for further discussion of ﬂuorescent compound interference see
+ref 20). We next wished to understand the range of activity these
+compounds displayed against various luciferase-based assay
+formats and the nature of this inhibition.
+Benzthiazole Series. We chose to focus on a set of benz-
+thiazole compounds because of the high similarity to the 2-(4,5-
+dihydrothiazol-2-yl)benzo[d]thiazole core of luciferin (Figure
+1). Compounds containing core 1 (benzthiazole, Figure 3) were
+one of the largest chemical series with 89 active analogues and
+524 inactive analogues (Figure 4a). The potency of the active
+analogues covered a large range, the most potent compound
+approaching 100 nM, and many showing class 1 concentration-
+response curves (Figure 4a). Compounds containing core 2
+(benzimidazole, Figure 3) or 3 (benzoxazole, Figure 3) were
+less active, and core 2 contained more actives of broader potency
+than core 3 (compare Figure 4b and c). Also, core 3 showed a
+Figure 2. Luciferase qHTS. (a) Concentration-response data are shown for active (red) and inactive (blue) compounds. Activities for 352 compounds
+(green) were reduced because of a partially occluded reagent dispenser tip. (b) Titration-response curves for the control luciferase inhibitors,
+resveratrol (blue) and apigenin (red). (c) Representation of class 1 concentration-response curves derived from the qHTS. Data points are shown
+in red with blue wire-frames drawn through the points to represent the concentration-response curves.
+Table 1. Analysis of qHTS
+curve classiﬁcation
+IC50 (µM)
+1a
+1b
+2a
+2b
+3
+total
+<0.1
+5
+0
+0
+0
+0
+5
+0.1-1
+58
+15
+0
+2
+5
+80
+1-10
+146
+121
+176
+104
+49
+596
+10-100
+0
+0
+71
+1058
+261
+1390
+>100
+0
+0
+0
+131
+109
+240
+total per
+classiﬁcation
+209
+136
+247
+1295
+424
+2311
+% of library
+0.29
+0.19
+0.34
+1.79
+0.59
+3.19
+qHTS Analysis of Fireﬂy Luciferase
+Journal of Medicinal Chemistry, 2008, Vol. 51, No. 8
+2375
+ﬂatter potency distribution, exhibiting mainly class 2 curves,
+compared to either core 1 or 2.
+Representative active analogues containing core 1 identiﬁed
+in the qHTS were obtained and tested for assay-format sensitiv-
+ity in several commonly used luciferase detection kits and
+against puriﬁed P. pyralis luciferase or R. reniformis luciferase
+(Table 2) to examine selectivity. Compounds 1a-h inhibited
+all the common ﬁreﬂy-based detection formats, except the
+Promega Kinase-Glo reagent, for which we observed reduced
+inhibition for these compounds in several instances. Kinase-
+Glo utilizes a different ﬁreﬂy luciferase (Photuris pennsylVanica)
+mutated for improved HTS performance and stability (Promega,
+personal communication). Wild-type P. pennsylVanica shows
+48.7% identity (∼68% similarity) to P. pyralis,21,22 and
+therefore, the reduced activity observed here is not surprising.
+However, variation of the R2 position modulated selectivity
+against the P. pennsylVanica luciferase in some cases. For
+example, compound 1b (CID 1225609) containing 5-methylth-
+iophene at position R1 is inactive at a 57 µM testing concentra-
+tion, whereare the des-methyl analogue (1a, CID 670282)
+showed an IC50 ≈10 µM (IC50Promega, Table 2). Furthermore,
+compounds 1d (CID 887167) and 1e (CID 1245272) containing
+the 2-methlyfuran moiety at R1 showed appreciable inhibitory
+activity against this detection reagent (IC50Promega ≈4 µM). This
+ﬁnding suggests that large-scale screening with P. pennsylVanica
+ﬁreﬂy luciferase would identify inhibitors with a different SAR
+than what is described here for P. pyralis.
+To probe the mode of inhibition, we measured the IC50 for
+compounds shown in Table 2 at various ATP and luciferin
+substrate concentrations. Accordingly, compounds 1a-f were
+found to be luciferin antagonists, because increasing the luciferin
+to 1 mM abolished the inhibition, whereas increasing ATP only
+marginally affected the inhibition by using a Km level of luciferin
+(see Figure 5a for example). We also observed reduced
+inhibition when puriﬁed luciferase was added to the reporter
+gene reagents (ICSteadyGlo and IC50BrightGlo, Table 2) in compa-
+rision to an assay that used puriﬁed luciferase, and Km levels
+of substrates (IC50Luc, Table 2) suggesting reporter gene
+formulations use high concentrations of luciferase substrates.
+However, for the most potent compounds analyzed in this series.
+compound 1g (CID 2350207) and compound 1h (CID 727725),
+we noted that this strict dependence on luciferin substrate
+concentration disappeared, and the potency showed only
+marginal shifts at high substrate concentrations. For example,
+compound 1g inhibition depended on ATP in addition to
+luciferin concentration. In contrast, the IC50 of compound 1h
+varied slightly from 0.3 to 1 µM at Km vs saturating luciferin
+and ATP levels, respectively (data not shown). Interestingly,
+compound 1h had appreciable activity in the P. pennsylVanica
+ﬁreﬂy reagent cocktail, whereas its inactivity against R. reni-
+formis luciferase implies a nonspeciﬁc effect, such as light
+attenuation, as a mechanism of compound 1h inhibition. The
+R2 group of compound 1h can act to modulate potency but also
+changes inhibition mode, possibly via interactions that exclude
+Figure 3. Bioactivity proﬁle of the major chemical series. The activity across 39 different qHTS assays is shown for the active (i.e., qHTS
+classiﬁcation 1-3) compounds from each chemical series identiﬁed in the luciferase qHTS (a-g). The fraction of compounds from each cluster
+that was active in each assay is shown. The luciferase-based assays are shown as dark gray bars at the left of each plot, and the nonluciferase-based
+assays are shown as light gray bars. qHTS assays 1 and 2, luciferase-coupled biochemical assays; 3-5, cell-based ﬁreﬂy luciferase reporter assays;
+6, cell-based red emitting luciferase from click beetle Pyrophorus plagiophthalamus reporter assay.36
+2376
+Journal of Medicinal Chemistry, 2008, Vol. 51, No. 8
+Auld et al.
+ATP binding and the formation of the luciferly adenylate
+intermediate. Stable analogues of the luciferyl-AMP intermedi-
+ate have been shown to be potent inhibitors of ﬁreﬂy luciferase
+that act in a noncompetitive manner.23
+Quinoline Series. A series of substituted quinilones were
+examined on the basis of the known activity of quinolines as
+competitive inhibitors of ATP-dependent enzymes such as
+protein kinases.24 Compounds containing core 4 contained fewer
+library analogues with potency in the micromolar range (Figure
+4d). However, approximately half of the activity was associated
+with class 1 curves.
+Representative compounds were obtained and subjected to
+the analysis described above (Table 3). In all cases, the inhibition
+mediated by these compounds could be competed by varying
+either luciferin or ATP, and the compounds were found to be
+inactive at 1 mM concentrations of both substrates (Figure 5b).
+As mentioned above, the absence of inhibition in the reporter
+gene formulations may be explained by the probable high
+substrate concentrations present in these assay mixtures and the
+dependence of potency on substrate concentration observed for
+the quinoline series. Further, none of the compounds showed
+strong inhibition in the P. pennsylVanica ﬁreﬂy reagent cocktail,
+Figure 4. Pharmacological proﬁle of the major chemical series. (a-g) Curve class and potency distribution of the seven chemical series identiﬁed
+in the luciferase qHTS. Curves corresponding to class 1a (red), class 1b (green), class 2 (blue), class 3 (orange), and class 4 (light gray) are depicted
+in the bar charts. The proportions of active curve classes 1–3 (white) and the inactive class 4 (light gray) are indicated in the pie charts. To represent
+the range and average activity of a series, a normal distribution ﬁt was calculated by using Origin software on the basis of the maximum, minimum,
+and mean of the activity data. The chemical series shown are (a) benzthiazole (1), (b) benzimidazole (2), (c) benzoxazole (3), (d) quinoline (4), (e)
+1,2,4-oxadizole (5), (f) (Z)-(R1amino)prop-2-en-1-ones (6), and (g) benzlyamides (7).
+Table 2. Characterization of Selected Benzthiazoles from the qHTSa
+Analogue
+R1
+R2 (N-substituted)
+IC50
+IC50Luc
+IC50PE
+IC50Promega
+IC50SteadyGlo
+IC50BrightGlo
+IC50Renilla
+a
+Mesyl
+thiophene-2-carboxamide
+6.1 ( 1
+1.1 ( 0.4
+1.3 ( 1.1
+9.5 ( 0.5
+2.5 ( 1.3
+3.2 ( 2.8
+Inactive
+b
+Mesyl
+5-methylthiophene-2-carboxamide
+5.4 ( 0.05
+1.1 ( 0.4
+3.2 ( 0.4
+Inactive
+10 ( 5.8
+13.3 ( 12.2
+n.d.
+c
+Me
+thiophene-2-carboxamide
+1.4 ( 0.1
+0.5 ( 0.1
+1.7 ( 0.4
+>50
+6.9 ( 0.12
+6.7 ( 4.6
+Inactive
+d
+OEt
+2-methylfuran-3-carboxamide
+4.2 ( 1
+0.65 ( 0.11
+5.7 ( 1.1
+3.8 ( 1.3
+3.6 ( 0.6
+4
+Inactive
+e
+OMe
+2-methylfuran-3-carboxamide
+2.1 ( 0.5
+1.2 ( 0.34
+4.5 ( 0.7
+3.6 ( 0.6
+10.3 ( 6.5
+5.9 ( 1.6
+Inactive
+f
+OEt
+3-(thiophen-2-yl)urea
+1.45 ( 0.1
+0.6 ( 0.3
+2.1 ( 0.5
+Inactive
+12.0 ( 0.0
+11.3 ( 6.6
+Inactive
+g
+H
+(4-phenoxy)-1-(4-methylpiperazin-1-yl)
+ethanone
+0.9 ( 0.1
+0.3 ( 0.1
+0.4 ( 0
+Inactive
+1 ( 0.5
+6.5 ( 2.1
+22.5 ( 8
+h
+H
+2-phthalazin-1(2H)-one
+0.2 ( 0.02
+0.3 ( 0.1
+0.15 ( 0.06
+5.1 ( 1.1
+0.6 ( 0.4
+0.7 ( 0.7
+Inactive
+a PubChem CIDs: (1a) 670282, (1b) 1225609, (1c) 739615, (1d) 887167 (1e) 1245272, (1f) 4101591, (1g) 2350207, and (1h) 727725. Activity of compounds
+was determined via measurement of luminescence in the indicated format. IC50, activity in primary assay (Lonza); IC50Luc, activity against puriﬁed P. pyralis
+luciferase; IC50PE, activity measured by using EasyLite; IC50Promega, activity measured by using Kinase-Glo; IC50SteadyGlo, activity in luciferase reporter gene
+detection mix; IC50BrightGlo, activity in luciferase reporter gene detection mix; IC50Renilla, activity against R. reniformis. Potencies in µM. n.d., not determined.
+Data shown are mean ( SD for at least four replications.
+qHTS Analysis of Fireﬂy Luciferase
+Journal of Medicinal Chemistry, 2008, Vol. 51, No. 8
+2377
+suggesting that these compounds do not interact with a
+conserved site in the two luciferases.
+The quinoline series was also the only series analyzed that
+showed consistent inhibition against the R. reniformis luciferase.
+In general, this inhibition was ∼10-fold weaker than what was
+found against puriﬁed P. pyralis, but some compounds showed
+IC50 ≈10 µM (e.g., 4a, CID 3241312 and 4c, CID: 3238892),
+which is comparable to typical compound screening concentra-
+tions. Light attenuation is not the likely mechanism of R.
+reniformis inhibition by these series (see below). It is possible
+that the 2-phenylquinoline core is also able to antagonize R.
+reniformis substrate binding by mimicking the phenyl-imida-
+zopyrazinone core of coelenterazine (see Figure 1). Substitutions
+at all three phenyl groups around the imidazopyrazinone core
+have been used to modulate the wavelength of bioluminescence
+of R. reniformis luciferase, suggesting some plasticity in
+substrate binding.25
+Luciferase Inhibitors Showing Noncompetitive Inhibition.
+We noted several compound series for which the observed
+inhibition had marginal dependence on the concentration of
+Figure 5. Dependence of inhibition on substrate concentration for three representative series. Luciferin or ATP was varied at (b) 1 µM, (O) 10
+µM, (9) 100 µM, and (0) 1000 µM. (a) Substrate variation data for the benzthiazole (1a). The graph shows that inhibition can be relieved upon
+increasing the luciferin concentration, and the inset graph shows that ATP variation has little effect on the inhibition (holding the luciferin concentration
+constant at 10 µM, approximately the Km). (b) Substrate variation data for the quinoline (4e). The graph shows that inhibition can be relieved when
+either the ATP or the luciferin concentration (inset graph) is increased. (c) Substrate variation data for the 1,2,4-oxadiazole (5c). The graph shows
+that the inhibition remains relatively constant when varying either the luciferin or the ATP concentration (inset graph).
+Table 3. Characterization of Selected Quinoline Analogues from the qHTSa
+a PubChem CIDs: (4a) 3241312, (4b) 2093195, (4c) 3238892, (4d) 1540951, and (4e) 3237815. Activity of compounds was determined via measurement
+of luminescence in the indicated format. IC50, activity in primary assay (PK-Light); IC50Luc activity against puriﬁed P. pyralis luciferase; IC50PE, activity
+measured by using EasyLite; IC50Promega, activity measured by using Kinase-Glo; IC50SteadyGlo, activity in luciferase reporter gene; IC50BrightGlo, activity in
+luciferase reporter gene detection mix; IC50Renilla, activity against R. reniformis. Potencies in µM. Data shown are mean ( SD for at least four replications.
+2378
+Journal of Medicinal Chemistry, 2008, Vol. 51, No. 8
+Auld et al.
+either substrate, which is consistent with a noncompetitive
+inhibition mode (i.e., IC50 ≈Ki).26 One of the most prominent
+series in this category identiﬁed in the qHTS were compounds
+containing core 5 (1,2,4-oxadiazole, Table 4). Here, among the
+large number of analogues present within the compound library,
+approximately one-third were active (Figure 4e), displaying a
+broader range of potencies than the benzoxazole series (Figure
+4c).
+Varying substrate concentration did not signiﬁcantly change
+the IC50 values of the oxadiazole series (Figure 5c). Compounds
+in this series showed inhibition across all the luciferase cocktails
+containing P. pyralis, with weaker inhibition at the P. penn-
+sylVanica ﬁreﬂy reagent cocktail (Table 4). The most potent
+oxadiazole 5c (CID 926663, Table 4, IC50 ≈200 nM) inhibited
+all detection reagents but only weakly inhibited the P. penn-
+sylVanica and R. reniformis luciferases. In compound 5c, a
+pyridine at position R1 improves the potency of this series
+between 4- and 10-fold over phenyl (compound 5a, CID
+3241690).
+Another series contained core 6 ((Z)-(R1amino)prop-2-en-1-
+one). Although few closely related analogues were present in
+the compound collection for this series, nearly half of the actives
+showed class 1 concentration-response curves, and several
+showed potencies well below 1 µM (Figure 4f). Representative
+analogues containing core 6 were obtained (compounds 6a-e,
+Table 5) and subjected to further analysis. Compound 6c (CID
+2260658) was one of the most potent compounds identiﬁed
+within this series (IC50 ≈100 nM). Variation of both ATP and
+luciferin showed inhibition of a noncompetitive nature similar
+to the oxadiazole shown in Figure 5c.
+A series of compounds containing core 7 (benzyl amides,
+Table 6) also contained noncompetitive inhibitors with numerous
+analogues, among which nearly one-third were active in the
+luciferase assay (Figure 4g). Several of these compounds showed
+activity <1 µM, with an average potency of just below 10 µM.
+The most potent compound 7c (CID 649849), carrying a
+5-methyl pyridin-2-yl at position R1, had an IC50 of ∼300 nM
+in all luciferase detection reagents except the P. pennsylVanica
+ﬁreﬂy reagent cocktail. This series was largely inactive on R.
+reniformis luciferase, which is in agreement with the other
+noncompetitive series. The apparent R. reniformis luciferase
+activity of compound 7a (CID 5483116) is thought to derive
+from luminescence attenuation not enzyme inhibition (discussed
+further below). Compound 7a is a known γ-aminobutyric acid
+receptor antagonist. We noted several additional compounds,
+the biological activities of which are known, and we describe
+these in the following section.
+Luciferase Activity within Known Bioactive Compounds.
+The libraries screened in this study included a number of
+commonly used bioactive compound libraries and some puriﬁed
+natural product libraries obtained from commercial sources. We
+have indicated in Tables 7 and 8 the known bioactive com-
+pounds that were subjected to further analysis, and these are
+discussed in turn.
+A series of bioactives including ﬂavonoids and known
+inhibitors of enzymes such as kinases27–29 is shown in Table 7.
+Many protein kinase HTS assays monitor ATP depletion through
+a reduction of luminescence from the ATP-dependent ﬁreﬂy
+luciferase reaction. Here, compounds that inhibit both the
+luciferase and the protein kinase will have opposite effects on
+the luminescent signal, potentially resulting in false negatives.
+In general, these compounds were of low molecular weight
+(MW) (<300). Similar to series with cores 1-7 described above,
+the compounds had greatly reduced or no activity against P.
+Table 4. Characterization of Selected 1,2,4-Oxadiazoles from the qHTSa
+Analogue
+R1
+R2
+IC50
+IC50Luc
+IC50PE
+IC50Promega
+IC50SteadyGlo
+IC50BrightGlo
+IC50Renilla
+a
+phenyl
+naphthalen-2-yl
+1.6 ( 0.0
+0.4 ( 0.1
+2.1 ( 0.4
+Inactive
+1.4 ( 0.4
+2.6 ( 2.1
+Inactive
+b
+pyridin-2-yl
+3-chlorophenyl
+2.1 ( 0.4
+0.5 ( 0.2
+0.7 ( 0.1
+7.4 ( 1.4
+1.5 ( 0.1
+1.2 ( 0.9
+>50
+c
+pyridin-2-yl
+naphthalen-2-yl
+0.22 ( 0.04
+0.1 ( 0.03
+0.22 ( 0.04
+11.3 ( 1.8
+0.2 ( 0.1
+0.2 ( 0.1
+25 ( 7.9
+d
+phenyl
+2,4-dimethoxyphenyl
+0.4 ( 0.06
+0.15 ( 0.06
+1.1 ( 0.2
+13 ( 0.0
+1.1 ( 0.2
+0.3 ( 0.05
+Inactive
+e
+pyridin-2-yl
+3-chloro-4-methylphenyl
+2.1 ( 0.2
+0.22 ( 0.04
+0.8 ( 0.1
+22 ( 2.1
+1.6 ( 0.3
+1.4 ( 1.1
+Inactive
+f
+pyridin-2-yl
+3,4-dichlorophenyl
+4.1 ( 0.5
+0.84 ( 0.4
+1.9 ( 0.3
+19 ( 1.4
+3.3 ( 1.3
+3.9 ( 2.8
+Inactive
+g
+4-methylphenyl
+2-bromophenyl
+3.3 ( 0.5
+1.0 ( 0.9
+2.3 ( 0.5
+Inactive
+11 ( 3.2
+12 ( 7.9
+Inactive
+h
+pyridin-2-yl
+5-bromofuran-2-yl
+13 ( 1.0
+3.2 ( 1.4
+5.1 ( 0.5
+12 ( 5.5
+2.6 ( 0.75
+12 ( 1.9
+Inactive
+i
+pyridin-2-yl
+bipheny-4-yll
+2.6 ( 1.9
+0.1 ( 0.03
+0.5 ( 0.1
+Inactive
+0.14 ( 0.09
+0.3 ( 0.2
+Inactive
+j
+phenyl
+2-chloro-4-methylphenyl
+0.5 ( 0.03
+0.15 ( 0.2
+0.4 ( 0.1
+10.5 ( 2.2
+0.16 ( 0.05
+0.3 ( 0.2
+Inactive
+a PubChem CIDs: (5a) 3241690, (5b) 650707, (5c) 926663, (5d) 893238, (5e) 660258, (5f) 695758, (5g) 867101, (5h) 752709, (5i) 838877, and (5j)
+2056784. Activity of compounds was determined via measurement of luminescence in the indicated format. IC50, activity in primary assay (PK-Light);
+IC50Luc, activity against puriﬁed P. pyralis luciferase; IC50PE, activity measured by using EasyLite; IC50Promega, activity measured by using Kinase-Glo;
+IC50SteadyGlo, activity in luciferase reporter gene detection mix; IC50BrightGlo, activity in luciferase reporter gene detection mix; IC50Renilla, activity against R.
+reniformis. Potencies in µM. Data shown are mean ( SD for at least four replications.
+Table 5. Characterization of Selected (Z)-(R1amino)prop-2-en-1-ones from the qHTS
+Analogue
+R1
+R2
+IC50
+IC50Luc
+IC50PE
+IC50Promega
+IC50SteadyGlo
+IC50BrightGlo
+IC50Renilla
+a
+3-ﬂuorophenyl
+benzo[d][1,3]dioxol-5-yl
+1.2 ( 0.2
+0.3 ( 0.1
+1.2 ( 0.2
+>50
+0.9 ( 1.1
+1.9 ( 1.7
+Inactive
+b
+pyridin-2-yl
+4-chlorophenyl
+4.1 ( 0.8
+2.0 ( 1.1
+4.7 ( 1.0
+Inactive
+0.5 ( 0.2
+1.2 ( 0.8
+Inactive
+c
+2-bromophenyl
+pyridin-2-yl
+0.17 ( 0.04
+0.08 ( 0.07
+0.17
+10 ( 0.07
+0.2 ( 0.1
+0.08 ( 0.02
+>50
+d
+4-ﬂuorophenyl
+furan-2-yl
+3.6 ( 0.6
+1 ( 0.5
+1.1 ( 0.18
+14.2 ( 2.3
+4 ( 0.6
+3.6 ( 0.6
+Inactive
+e
+4-dimethylaminophenyl
+phenyl
+0.6 ( 0.1
+0.21 ( 0.05
+0.4 ( 0.1
+3.2 ( 1.4
+0.6 ( 0.4
+0.7 ( 0.7
+11
+a PubChem CIDs: (6a) 5310801, (6b) 5310655, (6c) 2260658, (6d) 2195987, and (6e) 2188632. Activity of compounds was determined via measurement of
+luminescence in the indicated format. IC50, activity in primary assay (PK-Light); IC50Luc, activity against puriﬁed P. pyralis luciferase; IC50PE, activity measured by
+using EasyLite; IC50Promega, activity measured by using Kinase-Glo; IC50SteadyGlo, activity in luciferase reporter gene detection mix; IC50BrightGlo, activity in luciferase
+reporter gene detection mix; IC50Renilla, activity against R. reniformis. Potencies in µM. Data shown are mean ( SD for at least four replications.
+qHTS Analysis of Fireﬂy Luciferase
+Journal of Medicinal Chemistry, 2008, Vol. 51, No. 8
+2379
+pennsylVanica and R. reniformis. The most potent compound
+against P. pyralis luciferase was ﬂavonoid 9 from the TimTec
+library, having an IC50 of 50 nM against puriﬁed ﬁreﬂy
+luciferase, demonstrating noncompetitive behavior and activity
+in the ﬁreﬂy-based luminescence reporter assays (see p53 assay,
+PubChem AID 902 and 924). However, another ﬂavonoid, 10,
+annotated as a noncompetitive inhibitor of mitogen activated
+protein kinase,30 showed signiﬁcantly weaker inhibition that was
+relieved by using 1 mM concentrations of luciferin or ATP.
+Inhibition by compound 8 (indoprofen)31 and compound 12
+could also be reduced by using high concentrations of either
+substrate, whereas compound 11 (piﬁthrin-R),28 containing an
+imino-tetrahydrobenzothiazole core, exhibited noncompetitive
+inhibition; the potency did not vary appreciably in the presence
+of 1 mM of each substrate (IC50 ) 1.6 µM).
+In addition to the previously described resveratrol,10 we
+observed a series of diaryl compounds, the predominant
+structural class of which is associated with inhibition of
+metabotropic glutamate signaling (Table 8). Inhibition by all
+these compounds was relieved in the presence of 1 mM luciferin
+and ATP, and the majority showed reduced inhibition against
+R. reniformis. The exceptions were inhibitors 15 and 16,
+involved with glutamate pharmacology;32,33 however, these
+compounds demonstrated optical interference (see below, Sup-
+porting Information, Figure S1).
+Potential Binding Modes of the Quinoline and Benzthia-
+zole Inhibitors. The substrate-competitive binding mechanism
+of the benzthiazole and quinoline series supported modeling
+these into the active site of ﬁreﬂy luciferase. The quinoline core
+is a known scaffold for many ATP-competitive protein kinase
+inhibitors, and as mentioned above, compounds with dual
+luciferase and protein kinase activity could result in false
+negatives when ﬁreﬂy luciferase-based detection is used.
+Therefore, we were interested in comparing the adenosine
+pockets of protein kinases and ﬁreﬂy luciferase to examine
+whether this quinoline series could be accommodated by the
+ATP binding pocket of protein kinases. Also, to examine the
+mode of binding of the benzthiazole series, we modeled this
+into the active site of ﬁreﬂy luciferase.
+We ﬁrst examined the adenosine binding pockets for both
+ﬁreﬂy luciferase and a typical protein kinase, the EGFR kinase.
+In both the luciferase and the EGFR kinase cases, adenosine
+binds in a narrow groove but with quite different contacts
+(Figure 6a,c). The packing contacts in protein kinases, Val702,
+Ala719, and Leu820 (Figure 6a), involve lipophilic amino acids,
+typically Val, Ala, Leu, or Met. In contrast, the stacking
+interactions between adenosine and luciferase include an
+edge-face aromatic interaction (Tyr342) and packing between
+the backbone of the -turn between Gly318 and Pro320. In both
+cases, adenosine further interacts through hydrogen bonds with
+its N1 and amino group. The hydrogen bonds to the protein
+kinase are to a backbone NH and a carbonyl oxygen of a short
+-strand called the hinge region. In the case shown, the hydrogen
+bonds are with the NH of Met769 and the backbone carbonyl
+of residue 767. For the luciferase protein, the NH2 of adenosine
+forms a hydrogen bond with the backbone carbonyl of Gly341,
+whereas N1 of adenosine forms a water-mediated hydrogen bond
+with the side chain of Gln340. In both cases, the ribose makes
+limited contacts with the respective binding site and appears to
+act more as a spacer between adenosine and the phosphates.
+The 2′-hydroxyl interacts with Asp424 of the Japanese ﬁreﬂy
+luciferase. In many protein kinases, an interaction between the
+2′-hydroxyl and an aspartic acid is also observed. This aspartic
+acid is the equivalent to Cys773 in EGFR shown in Figure 6a,
+whereas in other protein kinases, this residue can be Asp, Glu,
+Gln, Ser, Thr, and Ala, which indicates that this is not a critical
+interaction. Finally, the motifs for recognizing the phosphates
+bear no similarity between the two enzymes. The phosphates
+of ATP interact with the protein kinase through a pair of bound
+Mg2+ ions. Additionally, the protein kinase provides a lysine
+(Lys721 in EGFR) to interact with the R-phosphate. The lysines
+are the only point of similarity between the protein kinase and
+Table 6. Characterization of Selected Benzylamides from the qHTSa
+a PubChem CIDs: (7a) 5483116 (Tocris-2143), (7b) 653989, (7c) 649849, (7d) 1540545, and (7e) 94777. Activity of compounds was determined via
+measurement of luminescence in the indicated format. IC50, activity in primary assay (PK-Light); IC50Luc, activity against puriﬁed P. pyralis luciferase;
+IC50PE, activity measured by using EasyLite; IC50Promega, activity measured by using Kinase-Glo; IC50SteadyGlo, activity in luciferase reporter gene detection
+mix; IC50BrightGlo, activity in luciferase reporter gene detection mix; IC50Renilla, activity against R. reniformis. Potencies in µM. Data shown are mean ( SD
+for at least four replications.
+2380
+Journal of Medicinal Chemistry, 2008, Vol. 51, No. 8
+Auld et al.
+luciferase phosphate-binding sites (Lys721 in EGFR and Lys531
+in luciferase). The phosphate of AMP interacts with luciferase
+through a large number of backbone and side-chain hydrogen
+bonds.
+We next modeled the quionline 4c (CID 3238892) into the
+adenosine pocket of luciferase. The quinoline/quinazoline core
+is a well-known scaffold for protein kinases and represents one
+of the earliest classes of small-molecule protein kinase inhibi-
+tors.34 It has been shown crystallographically that the quinazo-
+line/quinoline binds to the protein kinase through a key hydrogen
+bond with N1 to the hinge backbone NH of the protein kinase;17
+in essence, N1 of the quinoline mimics the interaction between
+adenosine N1-Met769 NH (Figure 6b). In this binding mode,
+however, the protein kinase adenosine pocket would not stericly
+tolerate a phenyl ring at the C2 position for the quinoline-based
+luciferase inhibitor because of a steric clash with the backbone
+carbonyl of residue 767 (Figure 6b). Indeed, in order to
+accommodate the 2-phenyl substitution, the crystallographically
+observed binding mode for the quinazoline would have to shift
+so far that the N1 nitrogen would no longer be able to form the
+critical interaction with the backbone NH of the hinge.
+Compound 4c could be accommodated in the luciferase active
+site in a mode where both the AMP and luciferin binding would
+be expected to be affected, which is consistent with the substrate
+variation studies mentioned above (see Figure 6d). This points
+the 2-phenyl toward the luciferin-binding site and the piperazine
+and subsequent polar groups toward the phosphate-binding site
+which is both polar and solvent-exposed; this is consistent with
+the tolerance for a wide variety of polar substituents. Thus, these
+larger (MW > 375) quinoline-based luciferase inhibitors can
+be accommodated into the luciferase substrate pocket but are
+unlikely to bind to protein kinases with the binding mode
+consistently observed in protein kinase/quinoline cocrystal
+structures. (Both 4d (CID 1540951) and 4c were subsequently
+checked for activity against the kinases IR, LCK, EGFR, and
+PKA and were found to be inactive (the highest tested
+concentration was 20 µM; Reaction Biology Corp., Malvern,
+PA).)
+Modeling of the benzthiazole-based luciferase inhibitor 1a
+into the luciferase pocket illustrates how this molecule can ﬁt
+into the narrow pocket occupied by that of oxyluciferin (Figure
+6e,f). This pocket is formed from above by aromatic stacking
+with Phe249 and from below by the C of Ala350 and the
+backbone of Gly343-Leu344. This orientation points the
+thiophene toward the AMP pocket, where extension at the R2
+position would protrude into the AMP phosphate-binding site
+and would suggest a more mixed inhibition pattern for larger
+R2 substituents, which is consistent with what was observed with
+compounds 1g and 1h.
+Examination of Light Attenuation by Luciferase Inhibi-
+tors. A mode of nonspeciﬁc inhibition could arise through
+compound-speciﬁc absorbance or light scattering. In this case,
+compounds that interfere with luminescence detection could
+appear as luciferase inhibitors. We compared the absorbance
+spectrum for representative compounds from each series to
+the emission spectrum of either ﬁreﬂy or R. reniformis luciferase
+Table 7. Known Enyzme-Based Inhibitors from the qHTSa
+a Activity of compounds was determined via measurement of luminescence in the indicated format. IC50, activity in primary assay (PK-Light); IC50Luc
+activity against purif ied P. pyralis luciferase; IC50PE, activity measured by using EasyLite; IC50Promega, activity measured by using Kinase-Glo; IC50SteadyGlo,
+activity in lucif erase reporter gene detection mix; IC50BrightGlo, activity in luciferase reporter gene detection mix; IC50Renilla, activity against R. reniformis.
+Potencies in µM. n.d., not determined. Data shown are mean ( SD for at least four replications.
+qHTS Analysis of Fireﬂy Luciferase
+Journal of Medicinal Chemistry, 2008, Vol. 51, No. 8
+2381
+(Figure 7a). The majority of the compounds characterized here
+were colorless in solution and absorbed light below 400 nm.
+However, a few compounds absorbed light between 400 and
+550 nm. To test light attenuation, we prepared samples in a
+split cuvette; one-half of the cuvette was ﬁlled with the luciferase
+reaction and the other half contained the compound solution in
+the same buffer. In this experiment, measurement of lumines-
+cence through the compound solution gives information on
+absorbance, and the same cuvette can be used to measure
+unattenuated luminescence by simply rotating the cuvette so
+that the light is detected directly from the luciferase reaction.
+We selected this mode of detection because we wanted to
+measure optical interferences by these compounds in a manner
+that was completely separate from any enzyme-speciﬁc effects.
+The most highly colored compound tested in follow-up assays
+was compound 15, a dark blue dye (showing broad absorption
+between 450 and 600 nm, data not shown) that weakly inhibited
+both R. reniformis and the reporter gene formulations (10-20
+µM IC50), and we found that this compound was able to quench
+approximately 50% of the luminescence from either R. reni-
+formis or P. pyralis luciferases at a concentration of 20 µM
+(Supporting Information, Figure S1). Similarly, compounds such
+as lissamine or napthol blue black that showed either pink or
+dark blue solutions, respectively, were able to attenuate lumi-
+nescence produced by P. pyralis luciferase, whereas compounds
+having yellow or brown solutions such as tartrazine or for
+compound 16 did not affect P. pyralis luciferase luminescence,
+even at 100 µM; this is consistent with the emission spectrum
+of ﬁreﬂy luciferase. However, when R. reniformis luciferase was
+used in the reaction, we were able to detect light attenuation at
+100 µM compound 16 (Supporting Information, Figure S1),
+which is consistent with its visible absorbance spectrum
+(absorption between 400 and 500 nm, Figure 7a). Also, an active
+series of 3-substituted 2H-chromen-2-ones contained a potent
+member 18 (CID 94381, Supporting Information, Figure S1,
+Figure 7b), and we observed a ﬂuorescent-yellow solution for
+this compound with strong absorption between 400 and 525
+nm (Figure 7a). The absorbance of compound 18 largely
+overlapped the emission spectrum of R. reniformis luciferase
+(Figure 7a), and we found that compound 18 attenuated light
+emitted from R. reniformis but not P. pyralis luciferase (Figure
+7c).
+Discussion
+Luciferase enzymes are used widely in HTS as reporters in
+cell-based assays and as sensors of ATP concentration in cell
+viability or in biochemical assays of kinases; their use has been
+extended to measure the activity of proteases and cytochrome
+P450s as well.3 Because of this widespread use, an understand-
+ing of the chemotypes that can directly affect this enzyme’s
+activity and thus lead to assay-related artifacts is critical. In
+addition, on the basis of the evolutionary diversity of ﬁreﬂy
+luciferases, their utilization of ATP, and the fact that these
+enzymes are naturally outﬁtted with a robust assay, luciferases
+are an ideal model system for chemical genomics. We have
+therefore tested the activity of a large publicly available chemical
+library against ﬁreﬂy luciferase and established a comprehensive
+proﬁle of the library members that inhibit the enzyme.
+The assay showed excellent performance in a continuous
+robotic experiment where concentration-response curves for
+72 377 compounds were determined in a single experiment.
+Table 8. Known Biological Actives from the qHTSa
+a Activity of compounds was determined via measurement of luminescence in the indicated format. IC50, activity in primary assay (PK-Light); IC50Luc
+activity against purif ied P. pyralis luciferase; IC50PE, activity measured by using EasyLite; IC50Promega, activity measured by using Kinase-Glo; IC50SteadyGlo,
+activity in lucif erase reporter gene detection mix; IC50BrightGlo, activity in luciferase reporter gene detection mix; IC50Renilla, activity against R. reniformis.
+Potencies in µM. Data shown are mean ( SD for at least four replications.
+2382
+Journal of Medicinal Chemistry, 2008, Vol. 51, No. 8
+Auld et al.
+With this primary screening data, we performed SAR analyses
+to identify structural characteristics of the inhibitors. The active
+series identiﬁed in the luciferase qHTS provide a rich database
+for comparison to other screening results obtained from com-
+monly used ﬁreﬂy luciferase-based detection reagents (PubChem
+AID 411; we will continue to update this data set as new
+compounds are added). All of the identiﬁed chemical series also
+inhibited wild-type P. pyralis luciferase, and many inhibited
+luciferase-based detection reagents from other suppliers. The
+potencies of these compounds were within the concentration
+ranges typically were tested in HTS (e.g., 10 µM), many
+compounds showed IC50 values <1 µM. Additionally, com-
+parison of the luciferase actives to 39 other qHTS campaigns
+performed at our center indicated that these compounds
+exhibited activity in assays utilizing luciferase, including one
+that employs a luciferase from the luminous click beetle P.
+plagiophthalamus. Therefore, these scaffolds will be useful to
+ﬂag, because these compounds have the potential of inhibiting
+this common reporter in a variety of HTS formats. We noted
+that a reporter-gene-based assay that used Steadylite (Perkin-
+Elmer reagent; PubChem AID 618) for detection showed a 53%
+overlap between the actives derived by using a 6 SD cutoff of
+the reported percent control values and our luciferase actives
+showing class 1 curves. In addition, for compounds identiﬁed
+as activators in cell-based luciferase reporter assays (e.g., AID
+522), we noted an enrichment (>10-fold) of luciferase inhibitors
+suggesting the potential of reporter stabilization through lu-
+ciferase-inhibitor complex formation.
+The most prominent clusters identiﬁed in our study contained
+the benzthiazole, benzimidazole, or benzoxazole core. The high
+representation of these chemotypes in luciferase actives is likely
+related to the benzthiazole-based luciferin substrate and ATP
+dependence of ﬁreﬂy luciferase. Several of the benzthiazole
+series were competitive with luciferin; however, modulation of
+the R2 group could change the substrate dependence to a
+noncompetitive mode, potentially by engaging the adenylate-
+binding site as suggested by our modeling studies (Figure 6).
+One of the most striking practical and evolutionary features
+of nearly all the luciferase actives identiﬁed here was their
+relative inactivity against the luciferase detection reagent that
+uses a variant of P. pennsylVanica ﬁreﬂy luciferase. Although
+certain compounds showed appreciable inhibition (IC50 e 10
+µM), the majority was inactive, and none showed inhibition
+comparable to what was observed in P. pyralis-based reagents.
+Figure 6. Modeling of substrate-competitive inhibitors. The EGFR protein kinase chain (green chains, a and b) and the Japanese ﬁreﬂy luciferase
+(gray chains, c-f) in complexes with adenosine (ATP or AMP) or as models of the putative inhibitor complexes. (a) The EGFR receptor kinase
+adenosine pocket shown with Mg-ATP bound taken from the EGFR cocrystal structure (PDB code 2GS7). (b) Modeling of 2-phenyl substituted
+quinazoline/quinolines. The binding mode of a quinazoline-based kinase inhibitor (yellow chain) in the EGFR adenosine pocket. The portion shown
+in yellow was taken from the EGFR cocrystal structure 1M17. The 2-phenyl (purple) substituent was added with ideal geometry, keeping the rest
+of the molecule ﬁxed and ignoring the protein. In this binding mode, the N1 of the quinazoline makes the equivalent hydrogen bond to N1 of the
+adenosine. A phenyl at the position 2 of the quinazoline (purple side chain) directly clashes with the backbone of the hinge residues, in this case
+767. In order to sterically ﬁt, the 2-phenyl quinazoline would have to considerably shift position, signiﬁcantly disrupting the critical N1-hinge-NH
+hydrogen bond. (c) Binding of AMP in ﬁreﬂy luciferase taken from the cocrystal structure (PDB code 2D1R). (d) Modeling of the quinoline 4c
+(yellow chain) into the luciferase pocket. The best ﬁt has the quinoline occupying approximately the same space as the purine of AMP, and N1 of
+the quinoline is near N7 of the purine. This allows the 2-phenyl substituent to reach into the luciferin binding pocket in nearly the identical space
+as shown for the benzthiazole. This quinoline-series binding mode further allows the polar substituent to extend into the phosphate-binding region,
+which is consistent with the fact that the luciferase inhibitory activity is tolerant of a number of polar substituents at this position. (e) Binding of
+luciferin in ﬁreﬂy luciferase taken from the cocrystal structure (PDB code 2D1R). (f) Modeling of the benzthiazole 1a (purple chain) into the
+luciferase pocket. The structure is shown to occupy nearly identical space as the luciferin (green overlaid structure), with the substitution at the four
+positions of the phenyl ring reaching into the phosphate binding region of AMP.
+qHTS Analysis of Fireﬂy Luciferase
+Journal of Medicinal Chemistry, 2008, Vol. 51, No. 8
+2383
+However, small changes in structure within a benzthiazole
+scaffold (compare compounds 1a and 1b) could lead to weak
+inhibition, suggesting that inhibition of P. pennsylVanica is just
+as achievable as what we observed here for P. pyralis but will
+exhibit a different SAR. We are currently testing this by using
+a reagent cocktail containing P. pennsylVanica luciferase and a
+full qHTS of the compound collection to determine the extent
+of inhibition.
+Compounds such as 18 illustrate the complexity of decon-
+voluting nonspeciﬁc interference by light absorption from
+genuine inhibition of the luciferase enzyme. Compound 18
+showed potent inhibition in detection reagents employing ﬁreﬂy
+luciferase, and this inhibition could be relieved by adding excess
+substrates. Furthermore, the benzimidazole core present in
+compound 18 is consistent with the SAR shown here for ﬁreﬂy
+luciferase inhibitors, and closely related analogues were present
+in the luciferase screen that showed greatly reduced activity
+(e.g., compound 20, CID 100335, Supporting Information, Table
+S1). Therefore, this series appears to be a genuine inhibitor of
+the ﬁreﬂy luciferase enzyme. However, this series also contains
+a coumarin chromophore, and we observed a potency of 5 µM
+for compound 18 against R. reniformis luciferase. From the light-
+attenuation experiment and the absorbance spectrum of this
+compound, it is possible that its apparent luciferase-inhibition
+activity is due to light absorption by the compound. It is difﬁcult
+to
+correlate
+the
+amount
+of
+light
+attenuation
+obser-
+ved in the cuvette experiment described above to that which
+occurs in a 1536-well assay volume. Therefore, although the
+coumarin series compounds exempliﬁed by 18 appear to be
+ﬁreﬂy luciferase enzyme inhibitors, proper assignment of the
+activity against R. reniformis luciferase will require further
+investigation. In general, the interpretation problems presented
+by these types of colored compounds in HTS must be kept in
+mind, because they may act as enzyme inhibitors, light
+attenuators (particularly of blue-shifted luminescence), or both.
+Several general strategies for determining and reducing
+luciferase assay interference can be derived from this proﬁling
+study. First, ﬁreﬂy or red-shifted variants of the P. plagioph-
+thalamus luciferase should be employed whenever possible to
+eliminate nonspeciﬁc light attenuation effects. R. reniformis
+luciferase emits predominately blue luminescence (<3% of
+photons having wavelengths >600 nm),35 rendering this lu-
+ciferase more sensitive to optical interference by the many small-
+molecule compounds that absorb light in this range. A recent
+ﬂuorescence proﬁle of the library used here showed that ∼0.1%
+of the compounds emitted ﬂuorescence by using 480 nm
+excitation light20 that is near the emission maximum of R.
+reniformis. Second, the use of bandpass ﬁlters to collect only
+the bathochromic light emitted by ﬁreﬂy luciferase (i.e., 600
+nm) rather than the clear ﬁlters typically used is advisable in
+order to decrease light attenuation, if the signal strength is
+adequate. The use of bandpass ﬁlters in two-color dual-
+luciferase-based assays has been described for 1536-well cell-
+based assay systems,36 and in principle, such a strategy could
+be used for any luminescent-based assay. This strategy is
+analogous to the use of red-shifted ﬂuorophores to reduce
+compound ﬂuorescence.20 Third, the complete lack of luciferase
+activators identiﬁed in the present study suggests that luciferase-
+coupled reactions are ideal for assays where stimulation of the
+luminescent signal is desired, because the direct activation of
+the luciferase enzyme reaction by library compounds appears
+to be very rare.
+The luciferases P. pyralis and R. reniformis have been a
+popular choice for constructing dual-luciferase-based assays, but
+the marked differences in SAR and optical interference we have
+observed here between these two luciferases suggest that such
+Figure 7. Evaluation of light attenuation by luciferase inhibitors. (a) Top absorbance spectra are shown for quinolione 4a (1, black), (Z)-(R1amino)prop-
+2-en-1-one 6a (2, purple), coumarin 20 (3, green), mGluR5 antagonist 16 (4, magenta), benzthiazole 1d (5, orange), benzylamide 7a (6, red), and
+oxadizaole 5c (7, blue). Lower graph on left shows the luminescence spectra of R. reniformis luciferase (left spectrum) vs ﬁreﬂy luciferase (right
+spectrum). Emission spectra are shown as percentages of the AUC for each spectrum. Dotted lines correspond to the emission maxima. (b) Structure
+of coumarin 18 and potencies for ﬁreﬂy and R. reniformis luciferases. (c) Firely luminescence in the absence (black line) and presence (red line)
+of 100 µM compound 18. (d) R. reniformis luminescence in the absence (black line) and presence (red line) of 100 µM compound 18.
+2384
+Journal of Medicinal Chemistry, 2008, Vol. 51, No. 8
+Auld et al.
+assays should be constructed with more homologous pairs of
+luciferases. For example, red- and green-emitting versions of
+luminous click beetle P. plagiophthalamus luciferase have been
+engineered by introducing single amino acid changes in the
+luciferin-binding site.37 In this assay format, a single detection
+reagent containing the benzthiazole-based luciferin substrate is
+added to detect both red- and green-emitting reporters. These
+nearly identical engineered click beetle luciferases represent an
+ideal design for dual-luciferase-based assays, because the
+inhibition proﬁle should reﬂect a similar SAR. Also, the red
+and green shifted luminescence will render this reporter less
+susceptible to optical compound interferences.
+The largest series of luciferase inhibitors in this study
+contained a 2-aryl-substituted benzo- [d]thiazole, -imidazole,
+and -oxazole cores. Modeling of a benzthiazole inhibitor
+supported that this type of inhibitor overlaps the same space as
+the luciferin substrate, and certain substitutions are capable of
+protruding into the AMP pocket as well. The benzthiazole
+conforms to a narrow groove created above by Phe249 and
+below by the C of Ala350 and the backbone of Gly343-Leu344.
+With compound 1g, the methoxy-phenyl is positioned so that
+the ether and subsequent carbonyl oxygen can mimic hydrogen
+bonds observed between the phosphate of AMP and luciferase.
+This positions the piperizine so that its basic center is in the
+polar and solvent-exposed phosphate-binding site. Therefore,
+this type of compound inhibits ﬁreﬂy luciferase by direct
+competition with luciferin or by an interaction with both the
+luciferin and AMP pocket, and we noted both modes of
+inhibition within a series of benzthiazole compounds identiﬁed
+here. In uncharacterized compound collections, such scaffolds
+should be examined in orthogonal assays to properly assign the
+activity.
+The use of luciferase-based detection for measuring protein
+kinase activity is a common practice in HTS.6 Compounds that
+inhibit via interaction with the ATP-binding site are the most
+common type of protein kinase inhibitors. Dual inhibitors of
+luciferases and protein kinases are certainly possible because
+of the ATP dependence of both enzymes. Such compounds are
+unlikely to be scored as active because inhibition of both the
+protein kinase and the luciferase will have opposite effects on
+the luminescent signal, potentially resulting in false negatives.
+We identiﬁed a series of low MW compounds (<300 Da,
+compounds 8-12) from the qHTS that have been annotated as
+protein kinase inhibitors, and these showed inhibition patterns
+of luciferase that suggest interactions with both the AMP- and
+luciferin-binding pockets. Flavonoids such as 10, a known µM
+MEK inhibitor, have planar structures that can be accommodated
+in the narrow groove of either kinase or luciferase enzymes.
+Therefore, dual activity may be common in such compounds,
+and the luciferase reaction should be measured by using multiple
+time points, or an alterative assay format should be used to
+address this issue.38
+The quinoline/quinazoline core is commonly found in ATP-
+competitive protein kinase inhibitors, and we identiﬁed a series
+of quinoline-based luciferase inhibitors. We were interested in
+determining whether our quinoline series could be easily
+accommodated into the adenosine pocket of protein kinase by
+using the known protein kinase binding for quinolines. However,
+in this case, we noted large differences in adenosine binding
+between protein kinases and luciferase and a clash with the
+backbone of the gate-keeper residue when attempting to model
+a representative quinoline-based inhibitor into the adenosine
+pocket of a typical protein kinase. Therefore, for such larger
+(>375 daltons) heterocyclic compounds, a different SAR is
+likely between luciferase and protein kinase inhibitors. Broad-
+based screening of a publicly available compound collection
+against protein kinases has not been performed to date, but such
+information would be extremely useful in further deﬁning the
+SAR of different ATP-dependent enzymes. Such a data set not
+only would be useful for identifying potential assay interferences
+as detailed here but would also aid in understanding the
+selectivity rules for ATPases in general.
+We also identiﬁed a large collection of compounds that
+showed no obvious structural similarity to either ATP or
+luciferin and noncompetitive inhibition of luciferase; inhibition
+was not relieved at even high (mM) concentrations of both
+substrates. This mechanism of action against ﬁreﬂy luciferase
+was also found for resveratrol, a compound with activity against
+SIRT1 among other effects.10
+Although true inhibition of the enzyme reaction through
+substrate-competitive mechanisms is likely for compounds in
+which the inhibition can be modulated by variation of substrate
+concentrations (e.g., the benzthiazolines, which act as luciferin
+antagonists), nonspeciﬁc compound effects on luciferase through
+mechanisms such as aggregation39,40 could lead to pseudoin-
+hibition of the enzyme. However, mitigating against this
+possibility, minimal or no activity was found for most of these
+apparent noncompetitive inhibitors by using the P. pennsyl-
+Vanica ﬁreﬂy reagent cocktail and the R. reniformis luciferase,
+suggesting speciﬁc inhibition of P. pyralis luciferase. The
+presence of 0.01% Tween 20 in the luciferase assay buffer used
+in our qHTS also implies that compound aggregation is not a
+predominant mechanism for the luciferase inhibitors identiﬁed
+here, as does the fact that these compounds were often active
+in reporter gene assays using BrightGlo and SteadyGlo reagents
+where high (∼0.1%) concentrations of detergents such as Triton
+X-100 are present. Finally, cross-proﬁling of this luciferase data
+set versus a qHTS designed to detect detergent-sensitive
+promiscuous inhibitors39 conﬁrmed that the compounds dis-
+cussed here were distinct from those classiﬁed as aggregation-
+based. The database established here should be useful in ﬂagging
+these types of compounds that will be an issue in HTS, because
+their inhibition persists even at high substrate concentrations.
+Although compound interference based on such nonspeciﬁc
+interactions as aggregation have been described in detail,39,40
+many other causes of assay-related (as opposed to the desired
+target-related) HTS actives exist, such as ﬂuorescent interference
+or inhibition of a speciﬁc assay component such as the luciferase
+enzyme described here. The luciferase proﬁle presented here is
+one of several library characterizations that the NCGC has
+performed on our publicly available compound collection. We
+have previously proﬁled the library for ﬂuorescence20 and
+aggregation39 properties, among others. The amount of activity
+that we observed for luciferase inhibition (3% of the library) is
+comparable to interferences obtained by other means, such as
+ﬂuorescent compound interference. These modes of inhibition
+can greatly overshadow the actives of interest, which typically
+represent ∼0.1% of the library. For example, in a pyruvate-
+kinase-luciferase-coupled assay,11 we noted that more than half
+of the actives were luciferase inhibitors. The luciferase data set
+is currently being used to provide a full description of the SAR
+between these two purine-dependent enzymes. Such detailed
+descriptions of the chemotypes capable of interfering with
+common reporters are urgently needed, particularly because
+public HTS databases grow in size and structural scope. The
+luciferase data set described here will serve as a useful counter-
+screen for future luciferase-based HTS assays.
+qHTS Analysis of Fireﬂy Luciferase
+Journal of Medicinal Chemistry, 2008, Vol. 51, No. 8
+2385
+Acknowledgment.
+This research was supported by the
+Molecular Libraries Initiative of the NIH Roadmap for Medical
+Research and the Intramural Research Program of the National
+Human Genome Research Institute, National Institute of Health.
+We thank Adam Yasgar and Paul Shinn for compound manage-
+ment support, Sam Michael and Carleen Klumpp for automation
+assistance, Jeremy Smith for analytical chemistry support, Ryan
+MacArthur for analysis of PubChem data, and Craig Thomas
+for critical reading of this manuscript.
+Supporting Information Available: Table S1 shows analogues
+of a coumarin scaffold including compound 18 that were subjected
+to further assays or identiﬁed in the qHTS. Figure S1 shows the
+ﬁreﬂy luminescence in the presence of lissamine and the dye napthol
+blue/black and the luminescence from R. reniformis in the presence
+of tartrazine as well as compounds 15 and 16 (at 100 µM). This
+material is available free of charge via the Internet at http://
+pubs.acs.org.
+References
+(1) Wenzel, J. W.; Branham, M. A. The origin of photic behavior and
+the evolution of sexual communication in ﬁreﬂies (Coleoptera:
+Lampyridae). Cladistics 2003, 19, 1–22.
+(2) Ohmiya, Y.; Kjima, S.; Nakamura, M.; Niwa, H. Bioluminescence in
+Limpet-Like Snail, Latia neritoides. Bull. Chem. Soc. Jpn. 2005, 78,
+1197–1205.
+(3) Fan, F.; Wood, K. V. Bioluminescent assays for high-throughput
+screening. Assay Drug DeV. Technol. 2007, 5, 127–36.
+(4) Deluca, M. Fireﬂy luciferase. AdV. Enzymol. Relat. Areas Mol. Biol.
+1976, 44, 37–68.
+(5) Nakatsu, T.; Ichiyama, S.; Hiratake, J.; Saldanha, A.; Kobashi, N.;
+Sakata, K.; Kato, H. Structural basis for the spectral difference in
+luciferase bioluminescence. Nature 2006, 440, 372–6.
+(6) Inglese, J.; Johnson, R. L.; Simeonov, A.; Xia, M.; Zheng, W.; Austin,
+C. P.; Auld, D. S. High-throughput screening assays for the identiﬁca-
+tion of chemical probes. Nat. Chem. Biol. 2007, 3, 466.
+(7) Lakowicz, J. R. Principles of Fluorescence Spectroscopy; Springer:
+Berlin, 2006.
+(8) Shankar, S.; Singh, G.; Srivastava, R. K. Chemoprevention by
+resveratrol: Molecular mechanisms and therapeutic potential. Front.
+Biosci. 2007, 12, 4839–54.
+(9) Blagosklonny, M. V. An anti-aging drug today: From senescence-
+promoting genes to anti-aging pill. Drug DiscoVery Today 2007, 12,
+218–224.
+(10) Bakhtiarova, A.; Taslimi, P.; Elliman, S. J.; Kosinski, P. A.; Hubbard,
+B.; Kavana, M.; Kemp, D. M. Resveratrol inhibits ﬁreﬂy luciferase.
+Biochem. Biophys. Res. Commun. 2006, 351, 481–484.
+(11) Inglese, J.; Auld, D. S.; Jadhav, A.; Johnson, R. L.; Simeonov, A.;
+Yasgar, A.; Zheng, W.; Austin, C. P. Quantitative high-throughput
+screening: A titration-based approach that efﬁciently identiﬁes biologi-
+cal activities in large chemical libraries. Proc. Natl. Acad. Sci. USA
+2006, 103, 11473–8.
+(12) http://www.ncbi.nlm.nih.gov/sites/entrez?db)pcsubstance&term)mlsmr.
+(13) Yasgar, A.; Shinn, P.; Jadhav, A.; Auld, D. S.; Michael, S.; Zheng,
+W.; Austin, C. P.; Inglese, J.; Simeonov, A. Compound management
+for quantitative high-throughput screening. J. Assoc. Lab. Automation
+2008, 13, 79–89.
+(14) Cleveland, P. H.; Koutz, P. J. Nanoliter dispensing for uHTS using
+pin tools. Assay Drug DeV. Technol. 2005, 3, 213–25.
+(15) Sharon, P. M.; Crouch, K.J. S. Methods and kits for detecting protein
+kinases. U.S. Patent 6911319, 2005.
+(16) http://mlsmr.glpg.com.
+(17) Stamos, J.; Sliwkowski, M. X.; Eigenbrot, C. Structure of the epidermal
+growth factor receptor kinase domain alone and in complex with a
+4-anilinoquinazoline inhibitor. J. Biol. Chem. 2002, 277, 46265–72.
+(18) Zhang, X.; Gureasko, J.; Shen, K.; Cole, P. A.; Kuriyan, J. An allosteric
+mechanism for activation of the kinase domain of epidermal growth
+factor receptor. Cell 2006, 125, 1137–49.
+(19) Eastwood, B. J.; Farmen, M. W.; Iversen, P. W.; Craft, T. J.;
+Smallwood, J. K.; Garbison, K. E.; Delapp, N. W.; Smith, G. F. The
+minimum signiﬁcant ratio: a statistical parameter to characterize the
+reproducibility of potency estimates from concentration-response
+assays and estimation by replicate-experiment studies. J Biomol Screen
+2006, 11, 253–61.
+(20) Simeonov, A.; Jadhav, A.; Thomas, C. J.; Wang, Y.; Huang, R.;
+Southall, N.; Shin, P.; Smith J.; Austin, C.P.; Auld, D. S.; Inglese, J.
+Fluorescent spectroscopic proﬁling of compound libraries. J. Med.
+Chem. 2008, this issue.
+(21) Ye, L.; Buck, L. M.; Schaeffer, H. J.; Leach, F. R. Cloning and
+sequencing of a cDNA for ﬁreﬂy luciferase from Photuris pennsyl-
+Vanica. Biochim. Biophys. Acta 1997, 1339, 39–52.
+(22) Hall, M. P.; Gruber, M. G.; Hannah, R. R.; Jennens-Clough M. L.;
+Wood, K. V. Stabilization of ﬁreﬂy luciferase using directed eVolution;
+John Wiley & Sons: New York, 1998.
+(23) Branchini, B. R.; Murtiashaw, M. H.; Carmody, J. N.; Mygatt, E. E.;
+Southworth, T. L. Synthesis of an N-acyl sulfamate analog of luciferyl-
+AMP: A stable and potent inhibitor of ﬁreﬂy luciferase. Bioorg. Med.
+Chem. Lett. 2005, 15, 3860–4.
+(24) Boschelli, D. H. 4-Anilino-3-quinolinecarbonitriles: An emerging class
+of kinase inhibitors. Curr. Top. Med. Chem. 2002, 2, 1051–63.
+(25) Hart, R. C.; Matthews, J. C.; Hori, K.; Cormier, M. J. Renilla reniformis
+bioluminescence: Luciferase-catalyzed production of nonradiating
+excited states from luciferin analogues and elucidation of the excited
+state species involved in energy transfer to Renilla green ﬂuorescent
+protein. Biochemistry 1979, 18, 2204–10.
+(26) Burlingham, B.; Widlanski, T. An intuitive look at the relationship of
+Ki and IC50: A more general use for the Dixon plot. J. Chem. Educ.
+2003, 80, 214–218.
+(27) Sun, L. T. N.; Tang, F.; App, H.; Hirth, P.; McMahon, G.; Tang, C.
+Synthesis and biological evaluations of 3-substituted indolin-2-ones:
+A novel class of tyrosine kinase inhibitors that exhibit selectivity
+toward particular receptor tyrosine kinases. J. Med. Chem. 1998, 41,
+2588–2603.
+(28) Pietrancosta, N.; Moumen, A.; Dono, R.; Lingor, P.; Planchamp, V.;
+Lamballe, F.; Bahr, M.; Kraus, J. L.; Maina, F. Imino-tetrahydro-
+benzothiazole derivatives as p53 inhibitors: discovery of a highly potent
+in vivo inhibitor and its action mechanism. J. Med. Chem. 2006, 49,
+3645–52.
+(29) Dudley, D. T.; Pang, L.; Decker, S. J.; Bridges, A. J.; Saltiel, A. R. A
+synthetic inhibitor of the mitogen-activated protein kinase cascade.
+Proc. Natl. Acad. Sci. USA 1995, 92, 7686–7688.
+(30) Alessi, D. R.; Cuenda, A.; Cohen, P.; Dudley, D. T.; Saltiel, A. R.
+PD 098059 is a speciﬁc inhibitor of the activation of mitogen-activated
+protein kinase kinase in vitro and in vivo. J. Biol. Chem. 1995, 270,
+27489–94.
+(31) Ventafridda, V.; Martino, G.; Mandelli, V.; Emanueli, A. Indoprofen,
+a new analgesic and anti-inﬂammatory drug in cancer pain. Clin.
+Pharmacol. Ther. 1975, 17, 284–9.
+(32) Roseth, S.; Fykse, E. M.; Fonnum, F. Uptake of L-glutamate into rat
+brain synaptic vesicles: effect of inhibitors that bind speciﬁcally to
+the glutamate transporter. J. Neurochem. 1995, 65, 96–103.
+(33) Varney, M. A.; Cosford, N. D.; Jachec, C.; Rao, S. P.; Sacaan, A.;
+Lin, F. F.; Bleicher, L.; Santori, E. M.; Flor, P. J.; Allgeier, H.;
+Gasparini, F.; Kuhn, R.; Hess, S. D.; Velicelebi, G.; Johnson, E. C.
+SIB-1757 and SIB-1893: Selective, noncompetitive antagonists of
+metabotropic glutamate receptor type 5. J Pharmacol. Exp. Ther. 1999,
+290, 170–81.
+(34) Fry, D. W.; Kraker, A. J.; McMichael, A.; Ambroso, L. A.; Nelson,
+J. M.; Leopold, W. R.; Connors, R. W.; Bridges, A. J. A speciﬁc
+inhibitor of the epidermal growth factor receptor tyrosine kinase.
+Science 1994, 265, 1093–5.
+(35) Loening, A. M.; Wu, A. M.; Gambhir, S. S. Red-shifted Renilla
+reniformis luciferase variants for imaging in living subjects. Nat. Meth.
+2007, 4, 641–643.
+(36) Davis, R. E.; Zhang, Y. Q.; Southall, N.; Staudt, L. M.; Austin, C. P.;
+Inglese, J.; Auld, D. S. A cell-based assay for IκBR stabilization using
+a two-color dual luciferase-based sensor. Assay Drug DeV. Technol.
+2007, 5, 85–104.
+(37) Almond, B. H. E.; Stecha, P.; Garvin, D.; Paguio, A.; Butler, B.; Beck,
+M.; Wood, M.; Wood, K. Introducing Chroma-Luc technology.
+Promega Notes 2003, 85, 11–14.
+(38) Singh, P.; Harden, B. J.; Lillywhite, B. J.; Broad, P. M. Identiﬁcation
+of kinase inhibitors by an ATP depletion method. Assay Drug DeV.
+Technol. 2004, 2, 161–9.
+(39) Feng, B. Y.; Simeonov, A.; Jadhav, A.; Babaoglu, K.; Inglese, J.;
+Shoichet, B. K.; Austin, C. P. A high-throughput screen for aggrega-
+tion-based inhibition in a large compound library. J. Med. Chem. 2007,
+50, 2385–90.
+(40) McGovern, S. L.; Caselli, E.; Grigorieff, N.; Shoichet, B. K. A common
+mechanism underlying promiscuous inhibitors from virtual and high-
+throughput screening. J. Med. Chem. 2002, 45, 1712–22.
+JM701302V
+2386
+Journal of Medicinal Chemistry, 2008, Vol. 51, No. 8
+Auld et al.

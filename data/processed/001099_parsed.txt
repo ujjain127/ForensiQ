@@ -1,0 +1,680 @@
+This article appeared in a journal published by Elsevier. The attached
+copy is furnished to the author for internal non-commercial research
+and education use, including for instruction at the authors institution
+and sharing with colleagues.
+Other uses, including reproduction and distribution, or selling or
+licensing copies, or posting to personal, institutional or third party
+websites are prohibited.
+In most cases authors are permitted to post their version of the
+article (e.g. in Word or Tex form) to their personal website or
+institutional repository. Authors requiring further information
+regarding Elsevier’s archiving and manuscript policies are
+encouraged to visit:
+http://www.elsevier.com/copyright
+Author's personal copy
+   Journal of
+       Arid
+Environments
+Journal of Arid Environments 72 (2008) 677–686
+Late-Holocene fossil rodent middens from the
+Arica region of northernmost Chile
+C.A. Holmgrena,, E. Rosellob, C. Latorrec,d, J.L. Betancourte
+aDepartment of Geography, California State University, Long Beach, 1250 Bellﬂower Boulevard, Long Beach, CA 90840, USA
+bDepto. Arqueologı´a y Museologı´a, Universidad de Tarapaca´, Arica, Chile
+cCASEB-Dept. Ecologia, Pontiﬁcia Universidad Cato´lica de Chile, Casilla 113-D, Santiago, Chile
+dInstituto de Ecologia y Biodiversidad (IEB), Las Palmeras 3425, Nunoa, Santiago, Chile
+eDesert Laboratory, US Geological Survey, 1675 W. Anklam Road, Tucson, AZ 85745, USA
+Received 28 May 2007; received in revised form 8 September 2007; accepted 10 September 2007
+Available online 22 October 2007
+Abstract
+Identiﬁcation of 440 taxa of plant macrofossils in 14 rodent (Abrocoma) middens collected from 2800 to 3590 m
+elevation at the latitude of Arica, Chile (181S) provide snapshots of vegetation in the northernmost Atacama Desert over
+the past 3000 years. Midden ﬂoras show considerable stability throughout the late Holocene, which may be due in part to
+the broad elevational ranges of many perennial species and midden insensitivity to changes in plant community structure.
+The greatest variability is found in annuals in the Prepuna, a climatically sensitive zone. This variability, however might
+also arise from the brevity of midden depositional episodes. As the ﬁrst midden record from the Arica–Parinacota Region
+(Chile’s northernmost administrative region), this study demonstrates the potential for future midden research in this area.
+r 2007 Elsevier Ltd. All rights reserved.
+Keywords: Atacama Desert; Holocene; Paleovegetation; Rodent middens
+1. Introduction
+Plant macrofossils preserved in rodent middens have proven a valuable source of late Quaternary
+paleoecological and paleoclimatological evidence in arid and semi-arid regions of the Western Hemisphere
+and other parts of the world (Betancourt, 2004; Betancourt and Saavedra, 2002; Betancourt et al., 1990;
+Pearson and Betancourt, 2002). During the past decade, much of the focus has been on developing the midden
+record from the Paciﬁc slope of the central Andes (16–261S) just above hyperarid core of the Atacama Desert
+in southern Peru and northern Chile (Betancourt et al., 2000; Holmgren et al., 2001; Latorre et al., 2002, 2003,
+2005, 2006; Maldonado et al., 2005). These studies have been pivotal in chronicling past pluvial events when
+plant distributions were displaced up to 1000 m in elevation, with the midden assemblages able to resolve both
+the seasonality and amount of precipitation. As in North America, hundreds of radiocarbon-dated and
+ARTICLE IN PRESS
+www.elsevier.com/locate/jaridenv
+0140-1963/$ - see front matter r 2007 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jaridenv.2007.09.003
+Corresponding author. Current address: Department of Geography and Planning, Buffalo State College, 1300 Elmwood Avenue
+Buffalo, NY 14222, USA. Tel.: +1 716 878 5568; fax: +1 716 878 4009.
+E-mail address: holmgrca@buffalostate.edu (C.A. Holmgren).
+Author's personal copy
+archived middens from the Atacama are now being mined for a variety of studies (e.g., Kuch et al., 2002).
+Here, we report on plant macrofossil assemblages spanning the last 3200 yr BP from 14 fossil rodent middens
+collected in the Andean Precordillera east of Arica, Chile, not far from the Peruvian border. Middens from
+this region can provide vegetation histories to support interpretation of the rich archeological legacies of the
+Atacama region.
+Rodent middens are deposits of plant materials (seeds, leaves, twigs, bones, pollen, and fecal pellets) encased
+in crystallized urine, and are abundantly preserved in rock shelters, crevices, and caves in the Atacama Desert.
+Both Pleistocene and Holocene-aged plant macrofossils are often identiﬁable at the species level, providing
+high taxonomic resolution. Rock dwelling rodents typically have very limited foraging ranges so these deposits
+also represent the surrounding vegetation with a high degree of spatial resolution. A recent taphonomic study
+of Abrocoma middens from northern Chile indicated that no plants from beyond 30 m were found within
+modern middens (Salinas and Latorre, 2007). Radiocarbon dates from midden plant materials or fecal pellets
+provide excellent chronological control. However, middens are stratigraphically discontinuous; therefore
+individual middens represent ‘‘snapshots’’ of ﬂoral assemblages that have to be collated to develop local
+chronologies of vegetation change.
+Midden-forming rodents in northern Chile include Abrocoma cinerea (Abrocomidae), Lagidium viscacia
+(Chinchillidae), and Phyllotis spp. (Cricetidae). Based on fecal pellets, all middens in our study were made by
+Abrocoma, although the diurnal L. viscacia was often spotted on rocky hillslopes. A. cinerea has a generalist
+diet (Corte´ s et al., 2002), and in addition to caching food, these rodents collect plant materials for nest and den
+construction, resulting in midden assemblages that are representative of hillslope vegetation within the
+foraging ranges of the animals. Although the surrounding vegetation is well represented in modern A. cinerea
+middens, dietary selectivity may increase in more productive environments (Salinas and Latorre, 2007) such as
+in our study area, potentially introducing bias. A bias in plant abundance in the midden record may also result
+from variations in the length of depositional episodes and a tendency for rodents to collect plants growing
+nearest to the midden.
+2. Study area
+2.1. Geology and climate
+The study area is located on the Paciﬁc slope of the Cordillera Occidental of the Andes between 2800 and
+3590 m elevation (Fig. 1). This slope consists primarily of Cretaceous–Tertiary volcanic rocks, especially
+ignimbrites. Ignimbrites form from very mobile volcanic ﬂows consisting of ash particles and heated volcanic
+gases, with some of the most massive deposits in northern Chile covering 1000–3000 km3 (Seyfried et al.,
+1999). Abundant caves and rockshelters within the ignimbrites provide locations suitable for midden
+preservation throughout the study area. Tertiary eolian and alluvial sediments ﬁll the valleys to the west.
+Deep, steep-walled valleys oriented east–west surrounding Arica are a result of tectonic destabilization and the
+collapse of massive packets of sediments (Seyfried et al., 1999). Several volcanoes with peaks between 5000
+and 6000 m punctuate the landscape.
+The climate of the study area is hyperarid due to a combination of factors including location beneath the
+South Paciﬁc Anticyclone high-pressure zone, the cold upwelling Peruvian Current offshore that creates a
+temperature inversion and inhibits convection, and the rainshadow effect of the Andes blocking moisture from
+the Amazon. The scarce precipitation that does occur comes from three primary sources. At elevations below
+1000 m thick fog develops during the winter due to a temperature inversion off the Paciﬁc coast. Where it
+intersects the steep coastal slopes it provides sufﬁcient moisture to support ‘‘lomas’’ vegetation. These fog-
+zone communities exist as bands of vegetation surrounded by hyperarid habitat and consist of highly variable
+mixtures of annuals, short-lived perennials, succulents, and woody scrub vegetation, often with high levels of
+endemicity (Rundel et al., 1991). During summer months, the South America Summer Monsoon (SASM)
+brings convective moisture across the Andes as heating occurs over the Amazon Basin. Because of the strong
+rainshadow effect of the Andes, much of the moisture from summer monsoon storms that cross the Andes falls
+at high elevations and rarely reaches the coast (Houston and Hartley, 2003). Interannual summer precipitation
+variability is primarily inﬂuenced by El Nin˜ o-Southern Oscillation (ENSO) and the strength and position of
+ARTICLE IN PRESS
+C.A. Holmgren et al. / Journal of Arid Environments 72 (2008) 677–686
+678
+Author's personal copy
+the Bolivian High and South Atlantic convergence zone, with wetter conditions association with La Nin˜ a
+events and drier ones with El Nin˜ os (Garreaud et al., 2003; Lenters and Cook, 1999; Vuille and Keimig, 2004;
+Zhou and Lau, 1998). Further to the south (4251S), rainfall occurs primarily during winter when the South
+Paciﬁc Anticyclone weakens and allows polar fronts and cut-off low pressure cells to travel northward (Miller,
+1976). On rare occasions, these cells penetrate as far north as the study area to generate winter precipitation
+(Vuille, 1999).
+Arica, located on the coast at 5 m elevation, receives less than 1 mm of precipitation/year. For the period of
+record from 1931 to 1989, most of the scant moisture fell during winter months (June–September) in years
+with strong El Nin˜ o events: 1940–1941, 1957–1958, 1972–1973, and 1982–1983 (Ortlieb and Machare´ , 1993),
+with smaller amounts occurring in summer months (December–February). At the higher elevations of our
+study area, SASM precipitation dominates and contributes 10’s to 100’s of millimeters of precipitation per
+year, depending on elevation. Murmuntani, located at 3280 m and less than 20 km northeast of our site at
+Cerro Copaquilla, receives an annual average of 156 mm of precipitation, while Parinacota Volcano at 4395 m
+receives 372 mm (Arroyo et al., 1988). Because vegetation in the study area is primarily limited by the amount
+of summer rainfall, which varies as a function of rainout with elevation and distance from the crest of the
+Andes, any displacement of species up or downslope recorded in rodent middens should reﬂect changes in the
+amount of precipitation received.
+2.2. Vegetation
+Vegetation in northern Chile can be divided into several vegetation bands. Vegetation classiﬁcation and
+characteristic species are based on previous studies (Villagra´ n et al., 1982, 1983) and our own observations. A
+table of plant taxa including family, growth form, and common name is available in Appendix A, electronic
+version only. With the exception of occasional herbaceous lomas vegetation below 1000 m, the Cordillera
+Occidental below 2700 m consists of ‘‘Absolute Desert’’ where plants are absent from the landscape. Above
+2700 m, Absolute Desert gives way to the Prepuna located in the Andean Precordillera and consisting of
+widely spaced xerophytic plants characterized by the shrubs Atriplex imbricata, Ambrosia artemisioides, the
+cactus Browningia, and the annuals Calandrinia, Lepidium, and Cistanthe. The Tolar, or Puna, between 3400
+ARTICLE IN PRESS
+Fig. 1. Map of study area in northernmost Chile showing the location of sites mentioned in the text. Midden sites at Puquios Norte and
+Cerro Copaquilla are indicated in bold.
+C.A. Holmgren et al. / Journal of Arid Environments 72 (2008) 677–686
+679
+Author's personal copy
+and 4000 m is a diverse shrub belt characterized by scrub-type vegetation including Ephedra breana, Fabiana
+ramulosa, Diplostephium, and Baccharis tola. The transitional zone between the Tolar and High Tolar includes
+tussock grasses and cushion plants, but is dominated by shrubs of the Asteraceae family (Baccharis,
+Chuquiraga, and Parastrephia). The High Tolar above 4000 m is dominated by the tussock grasses Festuca
+and Deyeuxia and the cushion plants Azorella compacta and Pycnophyllum bryoides. A pronounced vegetation
+gradient with elevation is evident in the transect we measured from 2700 to 4700 m along the northern oil
+pipeline road (Fig. 2).
+3. Methods
+Nine rodent middens were collected from the Puquios Norte site near the Puquios Railroad Station
+(3443–3589 m) and ﬁve from Cerro Copaquilla (2950–3140 m) southeast of Zapahuira (Fig. 1), and represent
+the ﬁrst midden records from the Arica–Parinacota Region of northernmost Chile. The elevation of Cerro
+Copaquilla is located within the Prepuna zone and the elevation of Puquios Norte corresponds to the
+transition between the Prepuna and Tolar zones. Middens were processed and analyzed according to well-
+established procedures (Spaulding et al., 1990). In the laboratory, middens were examined for stratigraphic
+discontinuities and separated into discrete units if necessary, the outer weathering rind removed with a chisel,
+and the samples placed into buckets of water to dissolve the crystallized rodent urine (amberat) and to release
+midden materials. After wet screening and oven drying, sample weights ranged from 56 to 258 g. Dry midden
+material was screened through 2 mm (No. 10) and 1 mm (No. 18) sieves to separate size classes and facilitate
+sorting of plant remains. The entire 2-mm portion and a 1-g subsample from the 1-mm portion were sorted for
+plant macrofossils and used to assign relative abundances. All remaining material from the 1-mm fraction was
+also examined for rare types. Macrofossil abundances were quantiﬁed using a relative abundance scale of 1–5,
+ARTICLE IN PRESS
+Elevation
+(m)
+Cistanthes sp.
+Cryptantha parviflora
+Atriplex imbricata
+Browningia candelaris
+Chorizanthe commissuralis
+Descurainia sp.
+Calandrinia sp.
+Tagetes multiflora
+Plantago sp.
+Cristaria sp.
+Lepidium sp.
+Stipa annua
+Paronychia microphylla
+Ambrosia artemisioides
+Piqueria floribunda
+Spergularia fasciculata
+Junellia sp.
+Sisymbrium sp.
+Tarasa operculata
+cf. Neuentobotrys linifolius
+Opuntia sphaerica
+Oreocereus sp.
+Senecio sp. 1
+Arequipa sp.
+Lupinus oreophilus
+Pellea ternifolia
+Senecio sp. 2
+Cheilanthes pruinata
+Coreopsis suaveolens
+Diplostephium meyenii
+Atriplex sp.
+Astragalus sp.
+Opuntia camachoi
+Ephedra breana
+Fabiana ramulosa
+Acantholippia punensis
+Nassella sp.
+Chuquiraga atacamensis
+Tetraglochin sp.
+Adesmia spinosissima
+Deyeuxia sp. 1
+Anatherostipa venusta
+Nassella cf. nardoides
+Deyeuxia sp. 2
+Baccharis tola var. incarem
+Parastrephia quadrangularis
+Parastrephia lucida
+Parastrephia lepidophylla
+Baccharis tola
+Sencecio nutans
+Opuntia ignescens
+Deyeuxia sp. 3
+Pycnophyllum molle
+Xenophyllum ciliolatum
+Chersodoma jodopappum
+Festuca sp.
+Azorella compacta
+Pycnophyllum bryoides
+total species
+4700
+4
+4600
+10
+4500
+11
+4400
+10
+High
+4300
+7
+Tolar
+4200
+7
+4100
+5
+4000
+5
+3900
+13
+3800
+14
+3750
+12
+3700
+7
+3650
+13
+Tolar
+3600
+14
+3550
+8
+3500
+16
+3450
+11
+3400
+9
+3350
+8
+3300
+10
+3250
+8
+3200
+9
+3150
+9
+3100
+9
+3050
+9
+3000
+9 Prepuna
+2950
+9
+2900
+8
+2850
+7
+2800
+6
+2750
+6
+2700
+3
+Absolute
+Desert
+Fig. 2. Vegetation transect from 2700 to 4700 m along the northern oil pipeline road showing the change in plant species with elevation.
+C.A. Holmgren et al. / Journal of Arid Environments 72 (2008) 677–686
+680
+Author's personal copy
+where 0 ¼ 0 fragments, 1 ¼ 1 fragment, 2 ¼ 2–25, 2.5 ¼ 26–50, 3 ¼ 51–75, 3.5 ¼ 76–100, 4 ¼ 101–150,
+4.5 ¼ 151–200, and 5X200 fragments. Fragments included any identiﬁable plant part, whether entire or not.
+Plant taxa were identiﬁed based on comparison with modern reference materials including ﬁeld collections and
+herbarium specimens. Radiocarbon analyses were done by Geochron Laboratories in Billerica, MA and the
+dates calibrated using the CALIB 4.4 Intcal04 curve (Stuiver and Reimer, 1993). All values within the text are
+reported as the midpoint of the calibrated 2s age ranges (Table 1) to facilitate comparison with other records.
+4. Results and discussion
+The temporal coverage of the 14 middens is uneven, probably due to the limited number of samples
+(Table 1). The oldest midden was dated to 3180 yr BP and the next oldest midden does not occur until
+1410 yr BP. There is, however, relatively good coverage for the last 1410 years. Given the prevalence of
+middens 410,000 yr old in the central and southern Atacama (Latorre et al., 2002, 2003, 2006; Maldonado
+et al., 2005), we were surprised by the lack of older middens at the sites that we sampled in the Arica region. If
+there is actually a physical reason for this, it may have to do with higher relative humidity, either in general or
+episodically, which would prevent or reverse crystallization of rodent urine. Discovery of older middens may
+require more intensive survey than was feasible in the present study.
+Macrofossils from more than 40 taxa in 19 families were identiﬁed to genus or species. The relative
+abundances of select taxa through time are plotted in Fig. 3. The midden record is characterized by the
+apparent stability of many species. Both modern and past vegetation assemblages contain a mix of Prepuna
+and Tolar species with a small number of plants from the Tolar–High Tolar transition zone. It is apparent
+from our transect (Fig. 2) that many of the stable elements have broad elevational ranges and occur across
+vegetation zones. Species with large elevational ranges may not be sensitive to small variations in
+precipitation. The persistence of species with more restricted elevational ranges such as Tarasa operculata,
+Sisymbrium, Opuntia sphaerica, and Coreopsis suaveolens, however, suggests that the amount of precipitation
+received in the study area during the late Holocene may have been relatively stable.
+The species that exhibit the greatest variability in our record are annuals found in the Prepuna zone. These
+include Cardionema cf. andina, Cistanthe, Cristaria, Lepidium, Nolana, and Parietaria debilis. Because SASM
+precipitation rains out at higher elevations, the lower Prepuna zone tends to receive smaller amounts and less
+reliable precipitation. Adequate germination conditions are met only in occasional years, so the greater
+temporal variability of annuals, compared to perennials that can establish in good years and persist through
+less favorable ones, is not surprising. On the other hand, annuals can probably establish in Absolute Desert
+uninhabitable by perennials. The fringe of vegetation near Absolute Desert is transient through time due to
+occasional ‘‘invasions’’ by annuals into Absolute Desert. This is possible due to the longer viability of annual
+seed banks. Arroyo et al. (1988) have noted that the percentage of annuals between 18 and 191S is greatest at
+lower elevations (2000–3000 m), although annual cover ﬂuctuates widely between wet and dry years. In
+addition, annuals require warmer conditions, which may also explain their greater abundance at lower
+elevations. These factors may likewise be responsible for the patchy record of annual grasses, which are more
+common at the lower elevation site of Cerro Copaquilla. The greatest number of grasses and Prepuna annuals
+are present at 800 and 390 yr BP at Copaquilla and 3180, 1410, 590, and 250 yr BP at Puquios Norte, possibly
+denoting periods of increased precipitation. Replication of this pattern from more middens will help verify
+whether the greater number of annuals during these periods does indeed reﬂect increased precipitation.
+Mid- to late-Holocene climate proxy records show conﬂicting precipitation levels between the Altiplano and
+the Paciﬁc slope of the Andes. After 3500 yr BP lake levels (Abbott et al., 2003; Baker et al., 2001) and ice
+cores (Thompson et al., 1998) suggest the onset of wetter conditions on the Altiplano. Superimposed on this
+trend are periods of lowered lake levels from 3200 to 2800, 2400 to 2200, 1700 to 1500, and 900 to 600 yr BP
+(Abbott et al., 1997, 2003). Mourguiart et al. (1998) see a similar rise in Lake Titicaca water levels after
+4200 yr BP, a dry phase around 2200 yr BP, and a ﬁnal wet phase after 600 yr BP. Although Lake Titicaca
+records indicate increased moisture after 600 yr BP, a core from Lago Chungara´ (181150S) shows this was
+interrupted by periods of increased salinity and lower water levels between 1880–1905 and 1935–1950 AD
+(Valero-Garce´ s et al., 2003). At Laguna Seca (181110S) an increase in herbaceous pollen suggests drier
+conditions beginning 4000–3000 yr BP, although this change in vegetation may result from the onset of
+ARTICLE IN PRESS
+C.A. Holmgren et al. / Journal of Arid Environments 72 (2008) 677–686
+681
+Author's personal copy
+ARTICLE IN PRESS
+Table 1
+Radiocarbon dates and site locations of rodent middens
+Midden designation
+Material
+dated
+14C Age
+(yr BP)
+Lab code
+d13C
+(%)
+Calibrated
+(2s) age
+range (yr BP)
+Midpoint of
+calibrated age
+range
+Latitude (1S)
+Longitude
+(1W)
+Elevation
+(m)
+Slope
+aspect
+Puquios Norte 524A
+Fecal pellets
+3050760
+GX-27394
+24.1
+3000–3355
+3180
+S18112.0680
+W69146.3120
+3589
+WNW
+Puquios Norte 526
+Fecal pellets
+1160770
+GX-27355
+23.5
+851–1256
+1050
+S18112.0610
+W69146.3630
+3576
+ESE
+Puquios Norte 528
+Fecal pellets
+1550760
+GX-27393
+23.8
+1302–1522
+1410
+S18112.1630
+W69146.4500
+3527
+SE
+Puquios Norte 530A
+Fecal pellets
+640760
+GX-27356
+23.6
+521–662
+590
+S18112.1360
+W69146.4880
+3545
+ESE
+Puquios Norte 533
+Fecal pellets
+310780
+GX-27446
+23.9
+0–499
+250
+S18112.4380
+W69146.6010
+3498
+SE
+Puquios Norte 507
+Fecal pellets
+800760
+GX-27391
+23.6
+564–790
+680
+S18112.5180
+W69146.5850
+3500
+NW
+Puquios Norte 510C
+Fecal pellets
+1310780
+GX-27396
+23.4
+976–1309
+1140
+S18112.6090
+W69146.8240
+3443
+ESE
+Puquios Norte 534B
+Fecal pellets
+1340760
+GX-27354
+23.8
+1067–1306
+1190
+S18112.5770
+W69146.8200
+3453
+E
+Puquios Norte 574
+Fecal pellets
+160750
+GX-27359
+24.1
+0–279
+140
+S18112.3450
+W69142.7510
+3450
+S
+Copaquilla 519B
+Fecal pellets
+340760
+GX-27392
+23.6
+153–496
+330
+S18123.6740
+W69138.0370
+2950
+SE
+Copaquilla 545B
+Fecal pellets
+920740
+GX-27447
+19.6
+687–905
+800
+S18123.6860
+W69139.0900
+2969
+N
+Copaquilla 564
+Fecal pellets
+360760
+GX-27358
+23.6
+283–499
+390
+S18123.6640
+W69139.1130
+2960
+SE
+Copaquilla 553
+Fecal pellets
+530760
+GX-27448
+23.2
+334–632
+480
+S18125.1760
+W69138.9040
+3100
+SSE
+Copaquilla 568
+Fecal pellets
+410780
+GX-27395
+20.9
+283–538
+410
+S18125.3780
+W69139.1440
+3140
+N
+C.A. Holmgren et al. / Journal of Arid Environments 72 (2008) 677–686
+682
+Author's personal copy
+ARTICLE IN PRESS
+Fig. 3. Plant macrofossil abundance through time for select species from Puquios Norte (top graph) and Cerro Copaquilla (bottom
+graph). Note the change in scale along age axis for the two sites.
+C.A. Holmgren et al. / Journal of Arid Environments 72 (2008) 677–686
+683
+Author's personal copy
+camelid pastoralism rather than changes in moisture supply (Baied and Wheeler, 1993). Clearly, there is not
+enough agreement among records to present an uniﬁed picture of late-Holocene climate on the Altiplano.
+Unlike the Altiplano, records from the Paciﬁc slope of the Andes indicate generally drier conditions during
+the late Holocene. Wetter periods superimposed on this drying trend are often out of phase with Altiplano
+records. Wetland deposits from Zapahuira Springs (18–191S), located in close proximity to our study site,
+dating from 3100 to 1300 and 1200 to 400 yr BP and springs at Quebrada Puripica (231S) dating from 2600 to
+1300 yr BP indicate higher water table levels during times of lowered water levels in Altiplano lakes (Rech,
+2001; Rech et al., 2003). Middens from 22 to 231S near the Salar de Atacama also suggest wet conditions from
+3490 to 2320 yr BP (Latorre et al., 2006), 1800 to 1200 yr BP (Latorre et al., 2003), and 800 yr BP (Latorre
+et al, 2006; Maldonado et al., 2005). In Peru, Lago Aricota (171220S) likewise developed high stands at 1700
+and 1300 yr BP (Placzek et al., 2001).
+Our midden record, which is admittedly sparse, indicates vegetation from the Arica area has been relatively
+stable for at least 1410 yr BP, and possibly for as long as 3180 yr BP. The trends towards drier conditions noted
+in other records from the Paciﬁc slope of the Andes and ﬂuctuations between wetter and drier conditions seen
+in records elsewhere in the region are not evident in our record. Instead, the arid Paciﬁc slope of the Andes at
+the latitude of Arica supported a harsh but stable environment occupied by xerophytic shrubs, annuals, and
+cacti. However, as stated previously, this apparent stability may simply be a reﬂection of the broad elevational
+ranges of several perennial species present in the record. Also, because midden assemblages are subject to bias
+due to ﬁltering by rodents, macrofossils species presence or absence data are generally more reliable than
+macrofossil relative abundances and changes in plant community structure (species abundances) may or may
+not be recorded in the midden record (Holmgren et al., 2001). In any case, the cause of discrepancies in records
+from the Altiplano and Paciﬁc slope of the Andes remains unresolved. It is possible that these discrepancies
+are due to variations in temporal resolution, response time, and/or record sensitivity. They may also result
+from the geographical complexity of the regional climate and diverse controls on interannual variability in
+northern Chile (Vuille and Keimig, 2004).
+Despite some uncertainty in the climatic interpretation possible from this record, our study clearly
+demonstrates the potential for future midden studies in northernmost Chile. As in the central Atacama
+Desert, rodent middens in northernmost Chile represent a key resource for reconstructing late Quaternary
+vegetation and evaluating climatic evidence derived from paleohydrologic records. In order to increase
+the scope of inference, we suggest that larger numbers of middens will be needed to both increase tem-
+poral coverage and resolution, while allowing for greater replication of reconstructed vegetation assembl-
+ages and patterns. Finally, identiﬁcation of more sensitive areas for prospecting is needed. Whereas
+many middens have been collected near the lower limits of vascular plants in the central and southern
+Atacama, rocky areas suitable for midden preservation in the Arica area occur at higher elevations where the
+vegetation may be less sensitive to precipitation variability and perhaps more sensitive to past variations
+in temperature. Continued exploration will no doubt lead to more favorable collection locales in northern-
+most Chile.
+Acknowledgments
+We thank Nathan English for ﬁeld assistance; Eliana Belmonte and Carolina Villagra´ n for assistance with
+plant identiﬁcations; Calogero Santoro for suggesting sites; and Geochron Laboratory for 14C dates. We
+thank two anonymous reviewers whose insightful comments helped to improve this manuscript. This research
+was funded by NSF and the US Geological Survey.
+Appendix A. Supplementary Material
+Supplementary data associated with this article can be found in the online version at doi:10.1016/
+j.jaridenv.2007.09.003.
+ARTICLE IN PRESS
+C.A. Holmgren et al. / Journal of Arid Environments 72 (2008) 677–686
+684
+Author's personal copy
+References
+Abbott, M.B., Binford, M.W., Brenner, M., Kelts, K.R., 1997. A 3500 14C yr high-resolution record of water-level changes in Lake
+Titicaca, Boliva/Peru. Quaternary Research 47, 169.
+Abbott, M.B., Wolfe, B.B., Wolfe, A.P., Seltzer, G.O., Aravena, R., Mark, B.G., Polissar, P.J., Rodbell, D.T., Rowe, H.D., Vuille, M.,
+2003. Holocene paleohydrology and glacial history of the central Andes using multiproxy lake sediment studies. Palaeogeography,
+Palaeoclimatology, Palaeoecology 194, 123–138.
+Arroyo, M.T.K., Squeo, F.A., Armesto, J.J., Villagra´ n, C., 1988. Effects of aridity on plant diversity in the northern Chilean Andes:
+results of a natural experiment. Annals of the Missouri Botanical Garden 75, 55–78.
+Baied, C.A., Wheeler, J.C., 1993. Evolution of high Andean puna ecosystems: environment, climate, and culture change over the last
+12,000 years in the Central Andes. Mountain Research and Development 13, 145–156.
+Baker, P.A., Seltzer, G.O., Fritz, S.C., Dunbar, R.B., Grove, M.J., Tapia, P.M., Cross, S.L., Rowe, H.D., Broda, J.P., 2001. The history of
+South American tropical precipitation for the past 25,000 years. Science 291, 640–643.
+Betancourt, J.L., 2004. Arid lanas paleobiogeography: the fossil rodent midden record in the Americas. In: Lomolino, M.V., Heaney,
+L.R. (Eds.), Frontiers in Biogeography: New Directions in the Geography of Nature. Sinauer Associates, Inc., pp. 27–46.
+Betancourt, J.L., Saavedra, B., 2002. Nuevo me´ todo paleoecolo´ gico para el estudio de zonas a´ ridas en Sudame´ rica: paleomadrigueras de
+roedores (New paleoecological method for the study of arid lands of South America: Rodent middens). Revista Chilena de Historia
+Natural 75, 527–546.
+Betancourt, J.L., Van Devender, T.R., Martin, P.S. (Eds.), 1990. Packrat Middens: the Last 40,000 Years of Biotic Change. University of
+Arizona Press, Tucson.
+Betancourt, J.L., Latorre, C., Rech, J.A., Quade, J., Rylander, K.A., 2000. A 22,000-yr record of monsoonal precipitation from northern
+Chile’s Atacama Desert. Science 289, 1542–1546.
+Corte´ s, A., Rau, J.R., Miranda, E., Jime´ nez, J.E., 2002. Ha´ bitos alimenticios de Lagidium viscacia y Abrocoma cinerea: roedores sinto´ picos
+en ambientes altoandinos del norte de Chile (Food-habits of Lagidium viscacia and Abrocoma cinerea: syntopic rodents in high Andean
+environments of northern Chile). Revista Chilena de Historia Natural 75, 583–593.
+Garreaud, R., Vuille, M., Clement, C., 2003. The climate of the Altiplano: observed current conditions and mechanisms of past changes.
+Palaeogeography, Palaeoclimatology, Palaeoecology 194, 5–22.
+Holmgren, C.A., Betancourt, J.L., Rylander, K.A., Roque, J., Tovar, O., Zeballos, H., Linares, E., Quade, J., 2001. Holocene vegetation
+history from fossil rodent middens near Arequipa, Peru. Quaternary Research 56, 242–251.
+Houston, J., Hartley, A.J., 2003. The central Andean west-slope rainshadow and its potential contribution to the origin of hyper-aridity in
+the Atacama Desert. International Journal of Climatology 23, 1453–1464.
+Kuch, M., Rohland, N., Betancourt, J.L., Latorre, C., Steppan, S., Poinar, H.N., 2002. Molecular analysis of an 11,700-year old rodent
+midden from the Atacama Desert, Chile. Molecular Ecology 11, 913–924.
+Latorre, C., Betancourt, J.L., Rylander, K.A., Quade, J., 2002. Vegetation invasions into absolute desert: a 45,000-yr rodent midden
+record from the Calama-Salar de Atacama Basins, northern Chile (22–241S). Geological Society of America Bulletin 114, 349–366.
+Latorre, C., Betancourt, J.L., Rylander, K.A., Quade, J., Matthei, O., 2003. A vegetation history from the arid prepuna of northern Chile
+(22–231S) over the last 13,500 years. Palaeogeography, Palaeoclimatology, Palaeoecology 194, 223–246.
+Latorre, C.L., Betancourt, J.L., Rech, J.A., Quade, J., Holmgren, C., Placzek, C.P., Vuille, M., Rylander, K.A., 2005. Late Quaternary
+history of the Atacama Desert. In: Smith, M., Hesse, P. (Eds.), 23 Degrees South: Archaeology and Environmental History of the
+Southern Deserts. National Museum of Australia Press, Canberra, Australia, pp. 73–90.
+Latorre, C.L., Betancourt, J.L., Arroyo, M.T.K., 2006. Late Quaternary vegetation and climate history of a perennial river canyon in the
+Rı´o Salado Basin (221S) of northern Chile. Quaternary Research 65, 450–466.
+Lenters, J.D., Cook, K.H., 1999. Summertime precipitation variability over South America: role of the large-scale circulation. Monthly
+Weather Review 127, 409–431.
+Maldonando, A., Betancourt, J.L., Latorre, C., Villagran, C., 2005. Pollen analyses from a 50,000-yr rodent midden series in the southern
+Atacama Desert. Journal of Quaternary Science 20, 493–507.
+Miller, A., 1976. The climate of Chile. In: Schwerdfeger, W. (Ed.), World Survey of Climatology, vol. 12. Climates of Central and South
+America. Elsevier, Amsterdam, pp. 113–145.
+Mourguiart, Ph., Correge, T., Wirrmann, D., Argollo, J., Montenegro, M.E., Pourchet, M., Carbonel, P., 1998. Holocene
+palaeohydrology of Lake Titicaca estimated from an ostracod-based transfer function. Palaeogeography, Palaeoclimatology,
+Palaeoecology 143, 51–72.
+Ortlieb, L., Machare´ , J., 1993. Former El Nin˜ o events: records from western South America. Global and Planetary Change 7, 181–202.
+Pearson, S., Betancourt, J.L., 2002. Understanding arid environments using fossil rodent middens. Journal of Arid Environments 50,
+499–511.
+Placzek, C., Quade, J., Betancourt, J.L., 2001. Holocene lake level ﬂuctuations of Lake Aricota, southern Peru. Quaternary Research 56,
+181–190.
+Rech, J.A., 2001. Late Quaternary paleohydrology and surﬁcial processes of the Atacama Desert, Chile (18–241S): evidence from
+paleowetland deposits and stable isotopes of soil salts. Ph.D. Dissertation, Department of Geosciences, University of Arizona, 222pp.
+Rech, J.A., Pigati, J.S., Quade, J., Betancourt, J.L., 2003. Re-evaluation of mid-Holocene deposits at Quebrada Puripica, northern Chile.
+Palaeogeography, Palaeoclimatology, Palaeoecology 194, 207–222.
+Rundel, P.W., Dillon, M.O., Palma, B., Money, H.A., Gulmon, S.L., Ehleringer, J.R., 1991. The phytogeography and ecology of the
+coastal Atacama and Peruvian Deserts. Aliso 13, 1–49.
+ARTICLE IN PRESS
+C.A. Holmgren et al. / Journal of Arid Environments 72 (2008) 677–686
+685
+Author's personal copy
+Seyfried, H., Wo¨ rner, G., Uhlig, D., Kohler, I., Calvo, C., 1999. Introduccio´ n a la geologı´a y morphologı´a de los Andes en el norte de
+Chile. Chungara´ (Arica) 30, 7–39.
+Salinas, M.E., Latorre, C., 2007. Un Estudio Tafono´ mico sobre la Representatividad de la Diversidad de Especies Vegetales en
+Paleomadrigueras de Roedores del Norte de Chile, Resu´ menes de la III Reunio´ n Binacional de Ecologia, 29 Septiembre–4 Octubre,
+La Serena, Chile. (Available online at /http://www.socecol.cl/congresoS).
+Spaulding, W.G., Betancourt, J.L., Croft, L.K., Cole, K.L., 1990. Packrat middens: their composition and methods of analysis.
+In: Betancourt, J.L., Van Devender, T.R., Martin, P.S. (Eds.), Packrat Middens: The Last 40,000 Years of Biotic Change. University of
+Arizona Press, Tucson, pp. 59–84.
+Stuiver, M., Reimer, P.J., 1993. Extended 14C database and revised CALIB radiocarbon calibration program. Radiocarbon 35, 215–230.
+Thompson, L.G., Davis, M.E., Mosley-Thompson, E., Sowers, T.A., Henderson, K.A., Zagorodnov, V.S., Lin, P.-N., Mikhalenko, V.N.,
+Campen, R.K., Bolzan, J.F., Cole-Dai, J., Francou, B., 1998. A 25,000-yr tropical climate history from Bolivian ice cores. Science 282,
+1858–1864.
+Valero-Garce´ s, B.L., Delgado-Huertas, A., Navas, A., Edwards, L., Schwalb, A., Ratto, N., 2003. Patterns of regional hydrological
+variability in central-southern Altiplano (18–261S) lakes during the last 500 years. Palaeogeography, Palaeoclimatology, Palaeoecology
+194, 319–338.
+Villagra´ n, C., Arroyo, M.K.T., Armesto, J.J., 1982. La vegetacio´ n de un transecto altitudinal en los Andes del norte de Chile (18–191S).
+In: Veloso, A., Bustos, E. (Eds.), El Ambiente Natural y las Poblaciones Humanas de los Andes del Norte de Chile (Arica, Lat. 181280S),
+vol. 1. Rostlac, Montevideo, pp. 13–69.
+Villagra´ n, C., Arroyo, M.K.T., Marticorena, C., 1983. Efectos de la desertacio´ n en la distribucio´ n de la ﬂora andina de Chile. Revista
+Chilena de Historia Natural 56, 137–157.
+Vuille, M., 1999. Atmospheric circulation over the Bolivian Altiplano during dry and wet periods and extreme phases of the Southern
+Oscillation. International Journal of Climatology 19, 1579–1600.
+Vuille, M., Keimig, F., 2004. Interannual variability of summertime convective cloudiness and precipitation in the central Andes derived
+from ISCCP-B3 data. Journal of Climate 17, 3334–3348.
+Zhou, J., Lau, K.-M., 1998. Does a monsoon climate exist over South America? Journal of Climate 11, 1020–1040.
+ARTICLE IN PRESS
+C.A. Holmgren et al. / Journal of Arid Environments 72 (2008) 677–686
+686

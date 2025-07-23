@@ -1,0 +1,152 @@
+MANUAL OF POLICIES AND PROCEDURES 
+ 
+CENTER FOR DRUG EVALUATION AND RESEARCH 
+MAPP 5310.7 
+ 
+ 
+Originator:  Office of New Drug Quality Assessment 
+Effective Date:  2/21/2007; 11/3/2007 
+ 
+Page 1 
+OFFICE OF NEW DRUG QUALITY ASSESSMENT 
+ 
+ 
+Acceptability of Standards from Alternative Compendia (BP/EP/JP)  
+ 
+ 
+CONTENTS 
+ 
+PURPOSE 
+BACKGROUND 
+DEFINITION 
+POLICY 
+RESPONSIBILITIES AND PROCEDURES 
+EFFECTIVE DATE 
+ 
+ 
+PURPOSE 
+ 
+• 
+This MAPP provides clarification to Office of New Drug Quality Assessment (ONDQA) 
+reviewers on the appropriate use of quality standards for excipients, drug substances, and drug 
+products found in alternative compendia, specifically the British Pharmacopoeia (BP), the 
+European Pharmacopoeia (EP), and the Japanese Pharmacopoeia (JP), during chemistry, 
+manufacturing, and controls (CMC) review of new drug applications (i.e., investigational new 
+drug applications (INDs) and new drug applications (NDAs)). 
+ 
+• 
+This MAPP is not intended to establish the BP, EP, and/or JP as official compendia in place of or 
+in addition to the United States Pharmacopeia/National Formulary (USP/NF). 
+ 
+• 
+This MAPP is not intended to preclude any current efforts to establish a process for evaluation 
+and regulatory acceptance of harmonized analytical procedures and/or acceptance criteria. 
+ 
+BACKGROUND 
+ 
+• 
+It is not uncommon for drug sponsors and applicants to propose specifications (i.e., attributes, 
+analytical procedures, and acceptance criteria) for the excipients, drug substances, and drug 
+products in their applications based on quality standards in the British Pharmacopoeia (BP), the 
+European Pharmacopoeia (EP), or the Japanese Pharmacopoeia (JP).  However, because the 
+United States Pharmacopeia/National Formulary (USP/NF) is a drug compendium officially 
+recognized in the United States, reviewers have been reluctant to accept BP, EP, or JP quality 
+standards as part of the drug application review process, even when the standards in the BP, EP, 
+or JP are equivalent to or better than the corresponding USP/NF standards.  In the past, ONDQA 
+reviewers gave varying advice to the pharmaceutical industry about the use of these standards in 
+applications.  Some have informed companies that standards in USP/NF monographs must be 
+used as the specifications; others have said that the standards in the BP/EP/JP monographs could 
+be used, but the USP/NF monographs would be considered the official standards. 
+ 
+MANUAL OF POLICIES AND PROCEDURES 
+ 
+CENTER FOR DRUG EVALUATION AND RESEARCH 
+MAPP 5310.7 
+ 
+Originator:  Office of New Drug Quality Assessment 
+Effective Date:  2/21/2007; 11/3/2007 
+ 
+Page 2 
+DEFINITIONS 
+ 
+• 
+Official Compendium:  The Federal Food, Drug, and Cosmetic Act (the Act) uses this term to 
+mean the official USP, the official NF, or the official Homeopathic Pharmacopeia of the United 
+States or any supplement to them. 
+• 
+Pharmacopeia:  A book containing the official standards for drug quality, published by the 
+authority of a government or a medical or pharmaceutical society.  The most referenced 
+pharmacopeias are the British Pharmacopoeia (BP), the European Pharmacopoeia (EP), the 
+Japanese Pharmacopoeia (JP), and the United States Pharmacopeia (USP).   
+• 
+British Pharmacopoeia (BP):  The official standards for medicinal and pharmaceutical 
+substances in the United Kingdom.  The standards are legally enforceable in the United Kingdom 
+and in most of the Commonwealth (http://www.pharmacopoeia.co.uk/).   
+• 
+European Pharmacopoeia (EP):  The official standards for medicines in Europe, including bulk 
+drug substances, chemical and biological analytical methods, and reagents.  It is maintained and 
+distributed by the European Directorate for the Quality of Medicines (http://www.pheur.org).  
+• 
+Japanese Pharmacopoeia (JP):  The official Japanese standards for the description and quality 
+of drug substances and products.  It is maintained and distributed by the Society of Japanese 
+Pharmacopoeia (http://www.sjp.jp/index_e.htm), a nonprofit organization authorized by the 
+Japanese Ministry of Health, Labour, and Welfare.  
+• 
+United States Pharmacopeia/National Formulary (USP/NF):  The official compendia of the 
+United States of America for excipients, drug substances, and drug products.  It is published 
+every year by the United States Pharmacopeial Convention (http://www.usp.org/).  
+ 
+ 
+POLICY 
+ 
+• 
+It is reasonable to accept an applicant’s proposal to use a quality standard from the BP, EP, or JP 
+as part of the specifications for an excipient, drug substance, or drug product in the drug 
+application, if the standard in the BP, EP, or JP is equivalent to or better than the corresponding 
+standard in the USP/NF.  Equivalent standards have the same acceptance criteria and make use of 
+analytical procedures based on similar principles (e.g., chromatographic, spectroscopic, titration) 
+and performance characteristics (e.g., specificity, accuracy, precision).  A standard can be 
+considered better than a corresponding standard for a number of reasons, including narrower 
+ranges for acceptance criteria or superior performance of the analytical procedure (e.g, improved 
+specificity, greater accuracy). 
+• 
+If there is no USP/NF monograph for an excipient, drug substance, or drug product, and the 
+applicant proposes to use an analytical procedure from the BP, EP, or JP in a specification in lieu 
+of the corresponding analytical procedure in the General Chapters of the USP/NF, the BP, EP, or 
+JP procedure is considered an alternative analytical procedure and may be used provided the 
+analytical procedure in the BP, EP, or JP is equivalent to or better than the corresponding 
+analytical procedure in the USP/NF. 
+• 
+The USP/NF monographs are the official standards when excipients, drug substances, or drug 
+products are tested for compliance with the USP/NF monograph.   
+• 
+This MAPP applies to the CMC evaluation of new drug applications performed by the 
+CDER/OPS/Office of New Drug Quality Assessment.  
+MANUAL OF POLICIES AND PROCEDURES 
+ 
+CENTER FOR DRUG EVALUATION AND RESEARCH 
+MAPP 5310.7 
+ 
+Originator:  Office of New Drug Quality Assessment 
+Effective Date:  2/21/2007; 11/3/2007 
+ 
+Page 3 
+RESPONSIBILITIES AND PROCEDURES 
+ 
+• 
+It is the responsibility of the applicant to justify the use of a standard from the BP, EP, or JP in 
+lieu of the USP/NF standard in the application.  The applicant should also provide a copy of the 
+referenced BP, EP, or JP monograph or analytical procedure and a statement acknowledging the 
+corresponding USP/NF monograph as the official standard or the corresponding analytical 
+procedure as the regulatory analytical procedure. 
+• 
+The ONDQA CMC reviewer should assess the proposed specification to determine whether it can 
+be considered to be equivalent to or better than the corresponding USP/NF standard.   
+• 
+The respective ONDQA Branch Chief and Division Director are responsible for the appropriate 
+application of this MAPP.     
+ 
+EFFECTIVE DATE 
+ 
+This MAPP is effective upon publication. 
+ 

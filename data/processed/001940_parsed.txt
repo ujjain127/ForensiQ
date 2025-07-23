@@ -1,0 +1,1674 @@
+SECURITIES AND EXCHANGE COMMISSION 
+17 CFR PARTS 240 and 242 
+[Release No. 34-55970; File No.  S7-21-06]  
+RIN 3235-AJ76 
+Regulation SHO and Rule 10a-1  
+AGENCY: Securities and Exchange Commission. 
+ACTION: Final rule. 
+SUMMARY:  The Securities and Exchange Commission (“Commission”) is amending 
+the short sale price test under the Securities Exchange Act of 1934 (“Exchange Act”).  
+The amendments are intended to provide a more consistent regulatory environment for 
+short selling by removing restrictions on the execution prices of short sales (“price tests” 
+or “price test restrictions”), as well as prohibiting any self-regulatory organization 
+(“SRO”) from having a price test.  In addition, the Commission is amending Regulation 
+SHO to remove the requirement that a broker-dealer mark a sell order of an equity 
+security as “short exempt,” if the seller is relying on an exception from a price test.   
+DATES:  Effective Date:    July 3, 2007.
+Compliance Date:  July 6, 2007.  
+FOR FURTHER INFORMATION CONTACT: James A. Brigagliano, Associate 
+Director, Josephine J. Tao, Assistant Director, Lillian Hagen, Special Counsel, Victoria 
+L. Crane, Special Counsel, Office of Trading Practices and Processing, Division of 
+Market Regulation, at (202) 551-5720, at the Securities and Exchange Commission, 100 
+F Street, NE, Washington, DC 20549-6628. 
+ 
+ 
+SUPPLEMENTARY INFORMATION:  The Commission is removing Rule 10a-1 [17 
+CFR 240.10a-1], amending Rule 200 of Regulation SHO [17 CFR 242.200], and adding 
+Rule 201 of Regulation SHO [17 CFR 242.201] under the Exchange Act.  
+I. 
+Introduction 
+A. 
+Executive Summary 
+In December 2006, the Commission proposed amendments to remove the price 
+test of Rule 10a-1 and add Rule 201 of Regulation SHO to provide that no price test, 
+including any price test of any SRO, shall apply to short sales in any security.1  In 
+addition, we proposed to prohibit any SRO from having a price test.2  We also proposed 
+to amend Rule 200(g) of Regulation SHO to remove the requirement that a broker-dealer 
+mark a sell order of an equity security as “short exempt” if the seller is relying on an 
+exception from a price test.3
+The proposed amendments were designed to modernize and simplify short sale 
+regulation and, at the same time, provide greater regulatory consistency by removing 
+restrictions where they no longer appear effective or necessary.   
+We received twenty-seven comment letters in response to the proposed 
+amendments.  Commenters included individual investors, attorneys, an academic, 
+individual traders, brokerage firms, the New York Stock Exchange LLC (“NYSE”), the 
+International Association of Small Broker-Dealers and Advisors (“IASBDA”), the 
+Securities Traders Association (“STA”), the Managed Funds Association (“MFA”), the 
+                                                 
+1 See Exchange Act Release No. 54891 (Dec. 7, 2006), 71 FR 75068 (Dec. 13, 2006) (“Proposing 
+Release”). 
+ 
+2 See id.
+ 
+3 See id.
+ 
+2
+ 
+ 
+Securities Industry and Financial Markets Association (“SIFMA”) and the American 
+Stock Exchange LLC (“Amex”).  While most commenters supported the Commission’s 
+proposals, some expressed concerns regarding particular provisions. 4  We discuss 
+specific comments below in connection with the discussion of the amendments. 
+After carefully considering the comments, we are adopting the amendments as 
+proposed.  In particular, we are removing Rule 10a-1 and adding Rule 201 of Regulation 
+SHO to provide that no price test, including any price test by any SRO, shall apply to 
+short selling in any security.  In addition, Rule 201, as adopted, will prohibit any SRO 
+from having a price test.   
+Because we are adopting our proposal to remove all current price test restrictions, 
+as well as prohibit any SRO from having its own price test, we are also amending Rule 
+200(g) of Regulation SHO5 to remove the requirement that a broker-dealer mark a sell 
+order of an equity security as “short exempt” if the seller is relying on an exception from 
+the price test of Rule 10a-1, or any price test of any exchange or national securities 
+association.6
+ 
+ 
+ 
+                                                 
+4 A number of comment letters received in response to the proposed amendments discussed issues unrelated 
+to the Proposing Release.  We have included a summary of these comment letters in Section IV.  Other 
+Comments, below. 
+   
+5 17 CFR 242.200(g). 
+ 
+6 These amendments affect price tests and related marking requirements only.  They do not relate to other 
+provisions of Regulation SHO.  We note, however, that on June 13, 2007, at an Open Commission 
+Meeting, we approved amendments to eliminate the “grandfather” provision of Regulation SHO, and 
+proposed amendments to eliminate the options market maker exception of Regulation SHO.  These 
+amendments do not alter the amendments to eliminate the grandfather provision, or the proposal to 
+eliminate the options market maker exception.   
+ 
+ 
+3
+ 
+ 
+B. 
+Background   
+The Commission originally adopted Rule 10a-1 in 1938 to restrict short selling in 
+a declining market.7  Paragraph (a) of Rule 10a-1 covers short sales in securities 
+registered on, or admitted to unlisted trading privileges (“UTP”) on, a national securities 
+exchange (“listed securities”), if trades of the security are reported pursuant to an 
+“effective transaction reporting plan” and information regarding such trades is made 
+available in accordance with such plan on a real-time basis to vendors of market 
+transaction information.8  
+Rule 10a-1(a)(1) provides that, subject to certain exceptions, a listed security may 
+be sold short (A) at a price above the price at which the immediately preceding sale was 
+effected (plus tick), or (B) at the last sale price if it is higher than the last different price 
+(zero-plus tick).9  Short sales are not permitted on minus ticks or zero-minus ticks, 
+subject to narrow exceptions.  The operation of these provisions is commonly described 
+as the “tick test.”   
+ 
+The core provisions of Rule 10a-1 have remained virtually unchanged since its 
+adoption almost 70 years ago.  Over the years, however, in response to changes in the 
+securities markets, including changes in trading strategies and systems used in the 
+marketplace, the Commission has added exceptions to Rule 10a-1 and granted numerous 
+                                                 
+7 See Exchange Act Release No. 1548 (Jan. 24, 1938), 3 FR 213 (Jan. 26, 1938). 
+ 
+8 Rule 10a-1 uses the term "effective transaction reporting plan" as defined in Rule 600 of Regulation NMS 
+(17 CFR 242.600) under the Exchange Act.  See 17 CFR 240.10a-1(a)(1)(i). 
+ 
+9 The last sale price is the price reported pursuant to an effective transaction reporting plan, i.e., the 
+consolidated tape, or to the last sale price reported in a particular marketplace.  Under Rule 10a-1, the 
+Commission gives market centers the choice of measuring the tick of the last trade based on executions 
+solely on their own exchange rather than those reported to the consolidated tape.  See 17 CFR 240.10a-
+1(a)(2). 
+ 
+ 
+4
+ 
+ 
+written requests for relief from the rule’s restrictions.10  These requests for exemptive 
+relief have increased dramatically in recent years in response to significant developments 
+in the securities markets, such as the increased use of matching systems that execute 
+trades at independently derived prices during random times within specific time intervals 
+and the spread of fully automated markets.  Also, decimal pricing increments have 
+substantially reduced the difficulty of short selling on an uptick.  In addition, under 
+current price test regulation, different price tests apply to different securities trading in 
+different markets and apply generally only to large or more actively-traded securities.11   
+In 2004, we adopted Rule 202T of Regulation SHO,12 which established 
+procedures for the Commission to temporarily suspend price tests so that the Commission 
+could study the effectiveness of these tests.13  Pursuant to the process established in Rule 
+202T of Regulation SHO, we issued an order (“First Pilot Order”) creating a one year 
+                                                 
+10 See Proposing Release, 71 FR at 75071-75072 (discussing exceptions to Rule 10a-1 added by the 
+Commission and relief granted by the Commission from the rule’s restrictions in recent years). 
+ 
+11 Rule 10a-1’s tick test is based on the last reported sale and applies to securities listed on a national 
+securities exchange.  The NASD’s and Nasdaq’s bid tests are based on the last bid rather than the last 
+reported sale and apply only to short sales in Nasdaq Global Market securities.  See NASD Rule 5100, 
+available at 
+http://nasd.complinet.com/nasd/display/display.html?rbid=1189&record_id=1159007939&element_id=115
+9006014&highlight=5100#r1159007939; Nasdaq Rule 3350, available at 
+http://nasdaq.complinet.com/nasdaq/display/display.html? rbid=1705&element_id=16.  Thus, under the 
+current market structure, Nasdaq Global Market securities traded on Nasdaq or the over-the-counter 
+(“OTC”) market and reported to an NASD facility are subject to Nasdaq’s or the NASD’s bid tests; other 
+listed securities traded on an exchange, or otherwise, are subject to Rule 10a-1’s tick test.  Nasdaq-listed 
+securities traded on exchanges other than Nasdaq are not subject to any short sale price test restrictions.  In 
+addition, smaller and more thinly-traded securities, such as Nasdaq Capital Market securities and securities 
+quoted on the OTC bulletin board (“OTCBB”) and pink sheets, are not subject to any price test restrictions 
+wherever traded.   
+ 
+12 17 CFR 242.202T. 
+ 
+13 See id.; see also Exchange Act Release No. 50103 (July 28, 2004), 69 FR 48008, 48012-48013 (Aug. 6, 
+2004) (“Regulation SHO Adopting Release”).   
+ 
+ 
+5
+ 
+ 
+pilot (“Pilot”) temporarily suspending the provisions of Rule 10a-1(a) and any price test 
+of any exchange or national securities association for short sales of certain securities.14   
+The Pilot was designed to assist the Commission in assessing whether changes to 
+current short sale regulation are necessary in light of current market practices and the 
+purposes underlying short sale regulation.15  The Commission stated in the Regulation 
+SHO Adopting Release that conducting a pilot pursuant to Rule 202T would “allow us to 
+obtain data on the impact of short selling in the absence of a price test to assist in 
+determining, among other things, the extent to which a price test is necessary to further 
+the objectives of short sale regulation, to study the effects of relatively unrestricted short 
+selling on market volatility, price efficiency, and liquidity, and to obtain empirical data to 
+help assess whether a price test should be removed, in part or in whole, for some or all 
+securities, or if retained, should be applied to additional securities.”16  As noted in the 
+Regulation SHO Adopting Release, the empirical data from the Pilot was to be obtained 
+and analyzed “as part of [the Commission’s] assessment as to whether the price test 
+                                                 
+14 Exchange Act Release No. 50104 (July 28, 2004), 69 FR 48032 (Aug. 6, 2004).  Specifically, the First 
+Pilot Order suspended price tests for: (1) short sales in the securities identified in Appendix A to the First 
+Pilot Order; (2) short sales in the securities included in the Russell 1000 index effected between 4:15 p.m. 
+EST and the open of the consolidated tape on the following day; and (3) short sales in any security not 
+included in paragraphs (1) and (2) effected in the period between the close of the consolidated tape and the 
+open of the consolidated tape on the following day.  In addition, the First Pilot Order provided that the Pilot 
+would commence on January 3, 2005 and terminate on December 31, 2005, and that the Commission might 
+issue further orders affecting the operation of the First Pilot Order.  Id. at 48033.  On November 29, 2004, 
+we issued an order resetting the Pilot to commence on May 2, 2005 and end on April 28, 2006 to give 
+market participants additional time to make systems changes necessary to comply with the Pilot.  Exchange 
+Act Release No. 50747 (Nov. 29, 2004), 69 FR 70480 (Dec. 6, 2004).  On April 20, 2006, we issued an 
+order (“Third Pilot Order”) extending the termination date of the Pilot to August 6, 2007, the date on which 
+temporary Rule 202T of Regulation SHO expires.  Exchange Act Release No. 53684 (April 20, 2006), 71 
+FR 24765 (April 26, 2006).  The purpose of the Third Pilot Order was to maintain the status quo with 
+regard to price tests for Pilot securities while the staff completed its analysis of the Pilot data and the 
+Commission conducted any additional short sale rulemaking.   
+ 
+15 69 FR at 48032.   
+ 
+16 Regulation SHO Adopting Release, 69 FR at 48009. 
+ 
+ 
+6
+ 
+ 
+should be removed or modified, in part or whole, for actively-traded securities or other 
+securities.”17   
+Thus, the Commission’s Office of Economic Analysis (“OEA”) gathered the data 
+made public during the Pilot, analyzed this data and provided the Commission with a 
+summary report on the Pilot.18  The OEA Staff’s Summary Pilot Report examined several 
+aspects of market quality including the overall effect of price tests on short selling, 
+liquidity, volatility and price efficiency.  The Pilot data was also designed to allow the 
+Commission and members of the public to examine whether the effects of price tests are 
+similar across stocks.19   
+In addition, the Commission encouraged outside researchers to examine the Pilot.  
+In response to this request, the Commission received four completed studies (the 
+                                                 
+17 Id. at 69 FR at 48013.  In the Regulation SHO Adopting Release we noted that “the purpose of the [P]ilot 
+is to assist the Commission in considering alternatives, such as:  (1) Eliminating a Commission-mandated 
+price test for an appropriate group of securities, which may be all securities; (2) adopting a uniform bid test, 
+and any exceptions, with the possibility of extending a uniform bid test to securities for which there is 
+currently no price test; or (3) leaving in place the current price tests.”  Id. at 69 FR at 48010. 
+ 
+18 See Office of Economic Analysis U.S. Securities and Exchange Commission, Economic Analysis of the 
+Short Sale Price Restrictions Under the Regulation SHO Pilot (Feb. 6, 2007) (the “OEA Staff’s Summary 
+Pilot Report”), available at https://www.sec.gov/news/studies/2007/regshopilot020607.pdf.  See also Office 
+of Economic Analysis U.S. Securities and Exchange Commission, Economic Analysis of the Short Sale 
+Price Restrictions Under the Regulation SHO Pilot (Sept. 14, 2006) (the “OEA Staff’s Draft Summary Pilot 
+Report”), available at http://www.sec.gov/about/economic/shopilot091506/draft_reg_sho_pilot_report.pdf.  
+Prior to the publication of the Proposing Release, OEA made available on the Commission’s Internet Web 
+site, the OEA Staff’s Draft Summary Pilot Report.  The conclusions reached in the OEA Staff’s Summary 
+Pilot Report do not differ from those in the OEA Staff’s Draft Summary Pilot Report. 
+ 
+19 In the Regulation SHO Adopting Release, the Commission stated its expectation that data on trading 
+during the Pilot would be made available to the public to encourage independent researchers to study the 
+Pilot.  See Regulation SHO Adopting Release, 69 FR at 48009, n.9.  Accordingly, nine SROs began 
+publicly releasing transactional short selling data on January 3, 2005.  The nine SROs were the AMEX, 
+ARCA, BSE, CHX, NASD, Nasdaq, National Stock Exchange, NYSE and Phlx.  The SROs agreed to 
+collect and make publicly available trading data on each executed short sale involving equity securities 
+reported by the SRO to a securities information processor.  The SROs publish the information on a monthly 
+basis on their Internet Web sites.   
+ 
+ 
+7
+ 
+ 
+“Academic Studies”) from outside researchers that specifically examine the Pilot data.20  
+The Commission also held a public roundtable (the “Regulation SHO Roundtable”) that 
+focused on the empirical evidence learned from the Pilot data (the OEA Staff’s Draft 
+Summary Pilot Report, Academic Studies, and Regulation SHO Roundtable are referred 
+to collectively herein as, the “Pilot Results”).21  The Pilot Results contained a variety of 
+observations, which we considered in determining whether or not to propose removal of 
+current price test restrictions and whether to adopt the amendments today.  Generally, the 
+Pilot Results supported removal of current price test restrictions.22    
+ 
+Based on our review of the Pilot Results and of the status of current price test 
+restrictions, we proposed to remove Rule 10a-1 and add Rule 201 of Regulation SHO to 
+provide that no price test, including any price test of any SRO, shall apply to short sales 
+in any security.  Rule 201 would also prohibit any SRO from having a price test.  In 
+addition, because we proposed to remove all current price test restrictions, and prohibit 
+any price test by any SRO, we proposed to amend Rule 200(g) of Regulation SHO to 
+remove the requirement that a broker-dealer mark a sell order of an equity security as 
+“short exempt” if the seller is relying on an exception from the price test of Rule 10a-1, 
+or any price test of any exchange or national securities association. 
+ 
+                                                 
+20 See Karl Diether, Kuan Hui Lee and Ingrid M. Werner, It’s SHO Time!  Short-Sale Price-Tests and 
+Market Quality, June 20, 2006; Gordon J. Alexander and Mark A. Peterson, The Effect of Price Tests on 
+Trader Behavior and Market Quality:  An Analysis of Reg. SHO (forthcoming in Journal of Financial 
+Markets); J. Julie Wu, Uptick Rule, short selling and price efficiency, August 14, 2006; Lynn Bai, The 
+Uptick Rule of Short Sale Regulation – Can it Alleviate Downward Price Pressure from Negative Earnings 
+Shocks?  2006 (“Bai”). 
+ 
+21 A transcript from the roundtable (“Roundtable Transcript”) is available at 
+http://www.sec.gov/about/economic/shopilottrans091506.pdf. 
+ 
+22 See Proposing Release, 71 FR at 75072-75075 (discussing the Pilot Results). 
+ 
+ 
+8
+ 
+ 
+II. 
+Removal of Price Test Restrictions 
+We proposed to remove Rule 10a-1 and add Rule 201 of Regulation SHO to 
+provide that no price test, including any price test of any SRO, shall apply to short sales 
+in any security.  In addition, we proposed to prohibit any SRO from having a price test.  
+We are adopting the amendments, as proposed. 
+A. 
+Comments Summary 
+The comments on the proposed amendments varied.  Most commenters (including 
+individual traders, academics, broker-dealers, MFA, STA, NYSE, and SIFMA) 
+advocated removing all price test restrictions.23  These commenters believe that price test 
+restrictions are no longer necessary in today’s markets, which are more transparent and 
+where there is real-time regulatory surveillance that can easily monitor for and detect any 
+short sale manipulation.24  In addition, these commenters noted that market 
+developments, such as technological innovations and decimalization, have transformed 
+the trading landscape since Rule 10a-1 was first adopted and has changed the impact of 
+price test restrictions.25   
+                                                 
+23 See, e.g., letter from Howard Teitelman, CSO, Trillium Trading (Feb. 6, 2007) (“Teitelman Letter”); 
+letter from S. Kevin An, Deputy General Counsel, E*TRADE (Feb. 9, 2007) (“E*TRADE Letter”); letter 
+from Carl Giannone (Feb. 11, 2007) (“Giannone Letter”); letter from David Schwarz (Feb. 12, 2007) 
+(“Schwarz Letter”); letter from John G. Gaine, President, MFA (Feb. 12, 2007) (“MFA Letter”); letter from 
+Lisa M. Utasi, Chairman of the Board and John C. Giesea, President and CEO, STA (Feb. 12, 2007) (“STA 
+Letter”); letter from Gerard S. Citera, Executive Director, U.S. Equities, UBS (Feb. 14, 2007) (“UBS 
+Letter”); letter from Mary Yeager, Assistant Secretary, NYSE (Feb. 14, 2007) (“NYSE Letter”); letter from 
+James J. Angel, Ph.D., CFA, Associate Professor of Finance, McDonough School of Business, Georgetown 
+University (Feb. 14, 2007) (“Angel Letter”); letter from Ira D. Hammerman, SIFMA Managing Director 
+and General Counsel (Feb. 16, 2007) (“SIFMA Letter”). 
+ 
+24 See, e.g., Giannone Letter, supra note 23; E*TRADE Letter, supra note 23; STA Letter, supra note 23; 
+UBS Letter, supra note 23. 
+ 
+25 See, e.g., MFA Letter, supra note 23. 
+ 
+ 
+9
+ 
+ 
+In supporting the proposal, one commenter expressed its view that “short selling 
+enhances market liquidity and contributes to stock pricing efficiency, and thus is an 
+important part of our securities markets, and that the existing restrictions on the execution 
+prices of short sales . . . inhibit the free-market price discovery mechanism of an efficient 
+market.”26  In addition, this commenter noted the significant financial, technology and 
+human resources it expends on ensuring compliance with price test restrictions.27  This 
+commenter believes that the compliance costs and loss of market benefits created by 
+short sales (such as, added liquidity and price efficiency) outweigh any potential or 
+theoretical regulatory benefits of price tests.28   
+In expressing its support for prohibiting SROs from having their own price tests, 
+SIFMA noted that without this prohibition SROs “could feel pressured to maintain a 
+price test as a marketing tool for attracting issuer listings.  This would lead to an 
+environment, as exists today, where there would be disparate price tests, or even no price 
+test, depending on the market on which a security trades.  Such a result imposes 
+unnecessary compliance costs upon broker-dealers (without also providing real benefits 
+to investors) and leads to regulatory arbitrage.”29   
+                                                 
+26 E*TRADE Letter, supra note 23.  See also, MFA Letter, supra note 23 (stating that the MFA regards 
+short selling as an essential method by which investors, including fiduciaries managing others’ assets, can 
+manage risk, hedge their portfolios, and reflect their view that the current market price of a security is 
+higher than it should be). 
+ 
+27 See E*TRADE Letter, supra note 23. 
+ 
+28 See id.  See also, UBS Letter, supra note 23 (noting that there are substantial programming, 
+implementation, and ongoing compliance costs associated with maintaining price test restrictions). 
+ 
+29 SIFMA Letter, supra note 23.  See also, E*TRADE Letter, supra note 23 (commenting that allowing 
+SROs to have their own price tests would increase compliance and systems change costs to market 
+participants, including broker-dealers executing customer short sales).  In addition, in its letter, SIFMA 
+commented that allowing SROs to have their own price tests could raise best execution concerns for 
+broker-dealers determining how best to route short sale orders, i.e., in that a broker-dealer would need to 
+ 
+10
+ 
+ 
+Similarly, the STA commented that eliminating price test restrictions and 
+prohibiting SROs from implementing the same would eliminate regulatory arbitrage in 
+short sale regulation and would allow marketplaces to compete with each other on the 
+basis of execution quality, rather than on regulatory disparities, which it believes, would 
+increase public investor confidence in the markets.30  The NYSE stated its belief that all 
+equity markets should be regulated equally, noting that “[i]t is inappropriate that the 
+federal securities laws, through the application of Rule 10a-1, requires trading of NYSE-
+listed securities to be held to a different standard than those listed on other markets.”31  
+The NYSE further noted that it believes the “practical effect of the proposed amendments 
+will be to level the playing field in the area of short sales and establish a more consistent 
+and uniform regulatory regime across all markets.”32
+Two commenters (both individual investors) opposed the proposed amendments 
+noting the need for price tests to prevent “bear raids.”33  Other commenters (including 
+individual traders and E*Trade), however, noted that sharp market declines, such as those 
+induced by “bear raids,” are highly unlikely to occur in today’s markets which are 
+                                                                                                                                                 
+consider whether to route short sale orders received to a market that has a price test, as opposed to a market 
+which does not and which could thus perhaps provide a faster execution.  See SIFMA Letter, supra note 23. 
+ 
+30 See STA Letter, supra note 23. 
+ 
+31 NYSE Letter, supra note 23. 
+ 
+32 Id.
+ 
+33 See, e.g., letter from Jim Ferguson (Dec. 19, 2006); letters from David Patch (Jan. 1, 2007; Jan. 12, 2007) 
+(“Patch Letters”).  A “bear raid” involves the active selling of a security short to drive down the security’s 
+price in the hopes of convincing less informed investors of a negative material perception of the security, 
+triggering sell orders.  Falling prices could trigger margin calls and possibly forced liquidations of the 
+security, depressing the price further.  This unrestricted short selling could exacerbate a declining market in 
+a security by eliminating bids, and causing a further reduction in the price of a security by creating an 
+appearance that the security’s price is falling for fundamental reasons.  At the time, many people blamed 
+“bear raids” for the 1929 stock market crash and the market’s prolonged inability to recover from the crash.  
+See 8 Louis Loss & Joel Seligman, Securities Regulations, § 8-B-3 (3d ed. 2006).     
+ 
+ 
+11
+ 
+ 
+characterized by much smaller spreads, higher liquidity, and greater transparency than 
+when the rule was adopted almost 70 years ago.34
+One commenter, although generally in support of removing all price test 
+restrictions, believes that at some level unrestricted short selling should be collared.35  
+This commenter supported having a 10% circuit breaker to prevent panic in the event 
+there is a major market collapse.36  The NYSE also noted its concern about unrestricted 
+short selling during periods of unusually rapid and large market declines.  This 
+commenter stated that the effects of an unusually rapid and large market decline could 
+not be measured or analyzed during the Pilot because such decline did not occur during 
+the period studied.  Accordingly, the NYSE commented that it believes SROs should be 
+permitted to propose rules to be applied in such situations should they deem it 
+appropriate.37  
+As an alternative to removing all price test restrictions, one commenter suggested 
+extending the Pilot to include more securities to better evaluate the benefits of completely 
+eliminating current price test restrictions.38  Another commenter, the IASBDA, noted that 
+while it believes that the staff makes a compelling case for the removal of price test 
+                                                 
+34 See, e.g., E*Trade Letter, supra note 23; Giannone Letter, supra note 23; Schwarz Letter, supra note 23.  
+In addition, we note that panelists at the Regulation SHO Roundtable stated the belief that price test 
+restrictions do not provide protection from bear raids.  See Roundtable Transcript. 
+ 
+35 See Giannone Letter, supra note 23. 
+ 
+36 See id.
+ 
+37 See NYSE Letter, supra note 23.  The NYSE also noted that it believes that SROs should be permitted to 
+maintain existing rules consistent with this concept, such as NYSE Rule 80(A)(a) (requiring the entry of 
+any index arbitrage order to sell any component stock of the S&P 500 Stock Price IndexSM with the 
+instruction “sell plus” on any trading day when the NYSE Composite Index® declines below its closing 
+value on the prior trading day by at least the “two-percent” value, as calculated according to the 
+methodology found in NYSE Rule 80A.10).  See id. 
+ 
+38 See Teitelman Letter, supra note 23. 
+ 
+ 
+12
+ 
+ 
+restrictions for the Russell 3000 securities, it fails to address whether the issuers of other 
+securities should have some choice in whether they want their stock subject to a price 
+test.39  IASBDA commented that “[b]y insisting that it must be all or none the staff may 
+unnecessarily force small issuers to accept an environment which is most unkind to their 
+securities.”40  Furthermore, IASBDA criticized the Pilot for not including OTCBB stocks 
+and other small stocks.41  This commenter noted that “[t]he Russell 3000 is a broad based 
+index in terms of capitalization but there are roughly 9000 stocks in the publicly reporting 
+universe.  The Russell 3000 Index offers investors access to the broad U.S. equity 
+universe representing approximately 98% of the U.S. market, but roughly 33% of 
+individual stocks.  The SEC’s Advisory Committee Report on Small Public Companies 
+Final report concluded there were 9,428 companies listed including the otcbb.  Report at 
+p.5.”42  Thus, IASBDA stated that there may be an argument for phasing in the 
+elimination by starting with the larger stocks and concluding with the OTCBB and 
+smaller segments of the market.  IASBDA suggested that this methodology might allow 
+the Commission to learn something from its observance of the large stocks without a tick 
+test.43
+                                                 
+39 See letter from Peter Chepucavage, General Counsel, Plexus Consulting, on behalf of International 
+Association of Small Broker-Dealers and Advisors (Dec. 19, 2006) (“IASBDA Letter”). 
+ 
+40 Id.
+ 
+41 Id.
+ 
+42 Id.
+ 
+43 See id.
+ 
+ 
+13
+ 
+ 
+Similarly, Amex believes that it is premature to remove price tests from smaller 
+securities pending further analysis.44  In its comment letter, Amex stated that it has 
+“noted numerous statements in the Proposing Release, the OEA Staff’s Draft Summary 
+Pilot Report, and the Roundtable Transcript that suggest that the impact of eliminating 
+short sale price tests may differ between large capitalization and small capitalization 
+securities.  Such a differential impact would obviously be of great concern to the Amex, 
+which has a large concentration of small capitalization issuers.”45  Thus, Amex 
+commented that while it is not suggesting that price test restrictions be extended to 
+additional securities, nor is it adamantly opposing the ultimate removal of price test 
+restrictions from small capitalization securities to which price tests currently apply, it is 
+advocating additional study before such action is taken in connection with small 
+capitalization securities.46   
+We noted in the Proposing Release that in connection with the Pilot, nine 
+reporting markets have been making public information about short selling transactions,47  
+and we requested comment regarding whether it would be in the public interest to request 
+that markets continue to release this information.48  In response, the NYSE expressed its 
+                                                 
+44 See letter from Claire P. McGrath, Senior Vice President and General Counsel, Amex (Feb. 16, 2007) 
+(“Amex Letter”). 
+ 
+45 Id.   
+ 
+46 See id.   
+ 
+47 See Proposing Release, 71 FR at 75069; see also, supra note 19. 
+ 
+48 See Proposing Release, 71 FR at 75077.  Specifically, we sought comment regarding whether requesting 
+the markets to continue to release such information would improve transparency of short selling.  In 
+addition, we asked whether it would help the Commission monitor the markets for potential abuses if the 
+Commission were to approve the removal of price tests.  We also asked for comment regarding how costly 
+it would be for the markets to continue to produce the data and whether there are any less costly 
+alternatives to the current information being released by the markets. 
+ 
+ 
+14
+ 
+ 
+objection to the Commission continuing to require the markets to collect and make this 
+information publicly available, noting that collecting and producing such information has 
+proven to be costly and time-consuming.49  The MFA commented that it believes such 
+information should only be made available to law enforcement authorities.50  Another 
+commenter, however, urged the Commission to work with the SROs to ensure that data 
+similar to that made publicly available during the Pilot, continues to be available to 
+researchers after the Pilot.51   
+In its letter, the NYSE stated that it believes that “the stated purpose for publicly 
+releasing such data during the pilot – i.e., encouraging independent researchers to study 
+the pilot’s effects – has already been successfully accomplished, as evidenced by the 
+academic studies published and public roundtable held concerning the results of the pilot 
+data.”52  The NYSE also did not believe that we should request that the SROs submit 
+periodic reports regarding the effects of the removal of price test restrictions at regular 
+intervals, such as on a semi-annual or annual basis, stating that such a requirement, in 
+addition to collecting and making publicly available data on short sale transactions, 
+would “greatly exacerbate costs.”53
+B. 
+Response to Comments 
+                                                 
+49 See NYSE Letter, supra note 23. 
+ 
+50 See MFA Letter, supra note 23.  The MFA commented that it is “concerned that public transactional 
+short selling data may fuel frivolous issuer lawsuits against market participants with a legitimate but 
+different view of the value of an issuer’s securities.”  Id. 
+ 
+51 See Angel Letter, supra note 23. 
+ 
+52 NYSE Letter, supra note 23. 
+ 
+53 See id.
+ 
+ 
+15
+ 
+ 
+We have carefully considered all the comments we received regarding the 
+proposed amendments.  In particular, we note the comments regarding the need for price 
+test restrictions to prevent the use of short selling to drive down the market in “bear 
+raids.”  One of the Commission’s stated objectives when it adopted Rule 10a-1 in 1938 
+was to prevent short sellers from accelerating a declining market by exhausting all 
+remaining bids at one price level, causing successively lower prices to be established by 
+long sellers.54  In addition, in the Proposing Release, we noted that although short selling 
+serves useful market purposes, such as increasing market liquidity and price efficiency, it 
+also may be used to illegally manipulate stock prices.55  Because of the Commission’s 
+stated objective when it adopted Rule 10a-1 and our concerns about the potential use of 
+short sales to manipulate stock prices, OEA examined the Pilot data for any indication 
+that there is an association between extreme price movements and price test restrictions.  
+OEA, however, did not find any such association.56  We also note that although we are 
+removing current price test restrictions, today’s markets are characterized by high levels 
+of transparency and regulatory surveillance.  These characteristics greatly reduce the risk 
+of undetected manipulation and permit regulators to monitor for the types of activities 
+that current price test restrictions are designed to prevent.  In addition, we note that the 
+general anti-fraud and anti-manipulation provisions of the federal securities laws continue 
+to prohibit activity designed to improperly influence the price of a security.57
+                                                 
+54 See Exchange Act Release No. 13091 (Dec. 21, 1976), 41 FR 56530 (Dec. 28, 1976). 
+ 
+55 See Proposing Release, 71 FR at 75070. 
+ 
+56 See OEA Staff’s Summary Pilot Report at 56, supra note 18. 
+ 
+57 See, e.g., Securities Act of 1933 Section 17(a), Exchange Act Section 9(a), 10(b), and 15(c), and Rule 
+10b-5 thereunder.   
+ 
+ 
+16
+ 
+ 
+In addition, with respect to comments regarding the Commission allowing SROs 
+to adopt price test restrictions in the event of unusually rapid and large market declines, 
+we have determined not to take such action at this time.58  We believe that allowing 
+SROs to adopt price test restrictions under such circumstances could undermine a 
+primary objective of the proposed amendments of achieving regulatory uniformity and 
+simplicity.59  For the same reasons, we do not believe that we should implement a circuit 
+breaker for short sales at this time.   
+We note, however, that pursuant to Section 36 of the Exchange Act, in the future 
+the Commission could determine that circumstances have arisen that justify the issuance 
+of an exemption from the provisions of Rule 201.60  Should an SRO request the 
+Commission issue such an exemption in conjunction with the filing of an SRO proposed 
+rule change to establish a price test restriction, when considering any such request, the 
+Commission would consider, among other things, whether the proposed rule change is 
+consistent with the objectives of today’s amendments of providing regulatory simplicity 
+and consistency.  In addition, to issue an exemption pursuant to Section 36, the 
+                                                 
+58 See NYSE Letter, supra note 23.   
+ 
+59 We note, however, that Section 12(k)(2) of the Exchange Act provides that the Commission, “in an 
+emergency, may by order summarily take such action to alter, supplement, suspend, or impose 
+requirements or restrictions with respect to any matter or action subject to regulation by the Commission or 
+a self-regulatory organization under the securities laws, as the Commission determines is necessary in the 
+public interest and for the protection of investors (i) to maintain or restore fair and orderly securities 
+markets (other than markets in exempted securities); (ii) to ensure prompt, accurate, and safe clearance and 
+settlement of transactions in securities (other than exempted securities); or (iii) to reduce, eliminate, or 
+prevent the substantial disruption by the emergency of (I) securities markets (other than markets in 
+exempted securities), investment companies, or any other significant portion or segment of such markets, or 
+(II) the transmission or processing of securities transactions (other than transactions in exempted 
+securities).”  In addition, SROs may also continue to have rules consistent with the concept of circuit 
+breakers.   
+ 
+60 See 15 U.S.C. 78mm.   
+ 
+ 
+17
+ 
+ 
+Commission would have to find that such an exemption is necessary or appropriate in the 
+public interest, and is consistent with the protection of investors.61
+In response to IASBDA’s comment regarding allowing issuers to have a choice as 
+to whether or not they want their stock to be subject to a price test, we have determined 
+not to take such action at this time.  A primary goal of the amendments is to bring 
+uniformity to, and simplify, short sale regulation.  To allow issuers to have a choice as to 
+whether or not their stock is subject to a price test would undermine this primary 
+objective.  In addition, we note that in the Proposing Release we specifically requested 
+comment from issuers regarding their views of the impact of the proposed amendments 
+on their securities.62  We did not, however, receive any comments from issuers.63   
+In addition, with respect to IASBDA’s comment regarding the universe of 
+securities subject to the Pilot and, in particular, that the Pilot did not include securities 
+quoted on the OTCBB, we note that the Pilot did not include this class of securities 
+because securities quoted on the OTCBB are not currently subject to any price test 
+restrictions. 
+Both the IASBDA and Amex suggested removing price tests from larger 
+securities first to allow time to study the impact of the permanent removal of price test 
+restrictions before such action is taken for smaller securities.  We do not believe that such 
+                                                 
+61 See id.
+ 
+62 See Proposing Release, 71 FR at 75076. 
+ 
+63 We note that the IASBDA is an advocacy group for small broker-dealers and advisers (including lawyers 
+and hedge funds). 
+ 
+ 
+18
+ 
+ 
+an approach would provide new results relevant to smaller securities. 64  As we noted in 
+the Proposing Release, while there is some evidence supporting the application of price 
+test restrictions to smaller securities, the evidence is not strong enough to warrant the 
+continuation of current price test restrictions to any subset of securities.65  Such 
+continuation would also undermine a primary goal of these amendments of providing 
+greater uniformity and simplicity to short sale regulation. 
+In connection with whether we should request that SROs continue to make public 
+information regarding short sale transactions similar to that obtained during the Pilot, we 
+note that the SROs have provided such information during the Pilot at our request so that 
+researchers could provide the Commission with their own empirical analyses of the 
+Pilot.66  We have determined at this time not to propose to require the SROs to make 
+information similar to that obtained during the Pilot publicly available on a regular basis. 
+With respect to whether the SROs should submit periodic reports regarding the 
+effects of the removal of price tests, and in response to commenters concerns that traders 
+may have been on “good behavior” during the Pilot, 67 we note that while we believe that 
+                                                 
+64 See IASBDA Letter, supra note 39; Amex Letter, supra note 44.  We note that many smaller or thinly-
+traded securities, such as Nasdaq Capital Market securities and securities quoted on the OTCBB and pink 
+sheets, are not currently subject to any price test restrictions. 
+ 
+65 See Proposing Release, 71 FR at 75076.  In addition, we note that academics have previously examined 
+short selling in a matched sample of Nasdaq National Market stocks, which were subject to price test 
+restrictions, and Nasdaq SmallCap stocks, which were not, during a period of high volatility and rapidly 
+declining stock prices (September 2000 to August 2001).  In this study’s sample of 2,275 observations, the 
+study found no significant differences in the overall level of short selling, or the frequency of days with 
+abnormally negative returns and abnormally high short selling.  See Michael G. Ferri, Stephen E. 
+Christophe, and James J. Angel, A short look at bear raids: Testing the bid test, 2004. 
+ 
+66 See Regulation SHO Adopting Release, 69 FR at 48009. 
+ 
+67 For example, in its letter, Amex noted a comment by OEA in the OEA Staff’s Draft Summary Pilot 
+Report that it is possible that traders might behave differently if a rule were permanently and completely 
+removed than if it is only temporarily and incompletely removed, and that traders with manipulative 
+intentions might be on good behavior if they believe that heightened scrutiny during the Pilot increases 
+their chances of getting caught.  See Amex Letter, supra note 44. 
+ 
+19
+ 
+ 
+current price test restrictions are no longer effective or necessary, we intend to closely 
+monitor for potentially abusive trading activities.  We expect that the markets will 
+similarly continue to surveil for trading abuses.  To the extent we obtain evidence of 
+possible violations of the federal securities laws, we will pursue investigations and law 
+enforcement actions as warranted. 
+We have carefully considered the comments and continue to believe that the 
+amendments are appropriate in light of market developments that have occurred in the 
+securities industry since the Commission adopted Rule 10a-1 in 1938, such as 
+decimalization, the increased use of matching systems that execute trades at 
+independently derived prices during random times within specific time intervals, and, 
+most recently, the spread of fully automated markets.  We believe the amendments will 
+bring increased uniformity to short sale regulation, level the playing field for market 
+participants, and remove an opportunity for regulatory arbitrage. 
+In addition, we note that only one commenter questioned the economic evidence 
+supporting the amendments, but we believe that the critique is inapplicable.68  The Pilot 
+was designed to assist the Commission in assessing whether changes to current short sale 
+regulation are necessary in light of current market practices and the purposes underlying 
+                                                                                                                                                 
+ 
+68 One commenter expressed concern about the methodologies used in the Pilot studies.  See Patch Letters, 
+supra note 33 (stating that “the methods in which the OEA conducted their analysis (specifically the 
+duration of time) is flawed.  Bear raids do not last for months but over days or weeks and such analysis by 
+the OEA, looking over large windows of time without looking at micro trading, is a flawed approach”).  
+But see, OEA Staff’s Summary Pilot Report at 9, supra note 18 (stating that OEA focused its investigation 
+on price patterns that might indicate manipulative behavior at a daily or intraday frequency).  In addition, 
+we note that panelists from the Regulation SHO Roundtable were asked to critique the studies and all 
+panelists generally agreed with the results.  See Roundtable Transcript at 49-57, 72-80, supra note 21. 
+ 
+ 
+20
+ 
+ 
+price test regulation.69  During the comment period, we received one additional study 
+examining the results of the Pilot.70  This study found results that are consistent with 
+other Pilot studies previously submitted to, and discussed by, the Commission, which 
+generally found that current price test restrictions do not enhance market quality.71   
+Thus, after carefully considering the comments received, we are adopting the 
+amendments, as proposed.   
+III. 
+Removal of “Short Exempt” Marking Requirement 
+Because we proposed to remove Rule 10a-1 and prohibit any SRO from having a 
+price test, we also proposed to amend Rule 200(g) of Regulation SHO72 to remove the 
+requirement that a broker-dealer mark a sell order of an equity security as “short exempt” 
+if the seller is relying on an exception from the tick test of Rule 10a-1, or any price test of 
+any exchange or national securities association.73  We are adopting the amendment as 
+proposed. 
+Rule 200(g) of Regulation SHO provides that a broker-dealer must mark all sell 
+orders of any security as “long,” “short,” or “short exempt.”74  Further, Rule 200(g)(2) of 
+Regulation SHO provides that a short sale order must be marked “short exempt” if the 
+seller is “relying on an exception from the tick test of 17 CFR 240.10a-1, or any short 
+                                                 
+69 69 FR at 48032.  See also, Proposing Release, 71 FR at 75068-75069, 75072-75073 (discussing the Pilot 
+and the Pilot Results). 
+ 
+70 See Bai, supra note 20.  See also, OEA Staff’s Summary Pilot Report at 85, supra note 18.   
+ 
+71 Bai found that the Pilot had no effect on stock price reactions to negative earnings shocks.  See Bai, supra 
+note 20.  See also, Proposing Release, 71 FR at 75072-75075 (discussing the Pilot Results).   
+ 
+72 17 CFR 242.200(g). 
+ 
+73 Broker-dealers would, however, continue to be required to mark sell orders as either “long” or “short” in 
+compliance with Rule 200(g). 
+ 
+74 See 17 CFR 242.200(g). 
+ 
+ 
+21
+ 
+ 
+sale price test of any exchange or national securities association.”75  The “short exempt” 
+marking requirement provides a record that short sellers are availing themselves of the 
+various exceptions to, or exemptions from, the application of the restrictions of Rule 10a-
+1 or of any price test of any exchange or national securities association.  
+A. 
+Comments Summary 
+  
+We received five comment letters, from the MFA, STA, UBS, NYSE, and 
+SIFMA in response to the proposed amendment.76  Generally, the commenters supported 
+the Commission’s proposal to remove the “short exempt” marking requirement.77
+Although the STA stated that it supports the proposal to remove the “short 
+exempt” marking requirement in Regulation SHO, the STA commented that it believes 
+that securities currently marked “short exempt” pursuant to Rule 203(b)(2)(ii) of 
+Regulation SHO78 should be marked “long” rather than “short” because marking such 
+orders “short” “does not accurately describe the customer’s ownership of the same and 
+                                                 
+75 See id. at 242.200(g)(2). 
+ 
+76 See MFA Letter, supra note 23; STA Letter, supra note 23; UBS Letter, supra note 23; NYSE Letter, 
+supra note 23; SIFMA Letter, supra note 23. 
+ 
+77 See MFA Letter, supra note 23; STA Letter, supra note 23; UBS Letter, supra note 23.  In its letter, the 
+MFA noted that it believes broker-dealers are in the best position to raise compliance issues related to their 
+systems and the “short exempt” marking requirement.  Thus, the MFA urged the Commission to carefully 
+consider any compliance concerns raised by broker-dealers in considering this proposal.  See MFA Letter, 
+supra note 23. 
+ 
+78 17 CFR 242.203(b)(2)(ii).  Rule 203(b)(2)(ii) of Regulation SHO excepts from the locate requirement of 
+Regulation SHO any sale of a security that a person is deemed to own pursuant to Rule 200 of Regulation 
+SHO, provided that the broker-dealer has been reasonably informed that the person intends to deliver such 
+security as soon as all restrictions on delivery have been removed.  If the person has not delivered such 
+security within 35 days after the trade date, the broker-dealer that effected the sale must borrow securities 
+or close out the short position by purchasing securities of like kind and quantity.  Such circumstances could 
+include the situation where a convertible security, option, or warrant has been tendered for conversion or 
+exchange, but the underlying security is not reasonably expected to be received by settlement date.  
+Another situation could be where a customer owns stock that was formerly restricted, but pursuant to Rule 
+144 under the Securities Act of 1933, the security may be sold without restriction.  In connection with the 
+sale of such security, the security may not be capable of being delivered on settlement date due to 
+processing to remove the restricted legend. 
+ 
+ 
+22
+ 
+ 
+could cause confusion and anger from public investors when they receive confirmation of 
+the sale of a security they understood they owned.”79  Similarly, SIFMA commented that 
+its member firms would encourage the Commission to amend the definition of a “long” 
+sale to include these types of sales “to avoid unintended consequences and mistaken 
+perceptions by issuers and others as to the nature of the sale.”80   
+In addition, SIFMA commented that rather than removing the “short exempt” 
+marking requirement, SIFMA firms generally would prefer that the Commission preserve 
+the “short exempt” marking requirement, specifically amending Regulation SHO to 
+indicate that a sale should be marked “short exempt” if effected in reliance on an 
+exception from the “locate” requirement, pursuant to Rule 203(b)(2) of Regulation 
+SHO.81  According to SIFMA, firms “generally are of the view that preserving “short 
+exempt” marking for such situations should assist their compliance efforts by identifying 
+short sales for which a locate is not required to be obtained.”82
+                                                 
+79 STA Letter, supra note 23. 
+80 SIFMA Letter, supra note 23. 
+ 
+81 Id.  Rule 203(b)(2) provides an exception from the locate requirement of Rule 203(b)(1) for:  “(i) A 
+broker or dealer that has accepted a short sale order from another registered broker or dealer that is required 
+to comply with paragraph (b)(1) of this section, unless the broker or dealer relying on this exception 
+contractually undertook responsibility for compliance with paragraph (b)(1) of this section; (ii) Any sale of 
+a security that a person is deemed to own pursuant to §242.200, provided that the broker or dealer has been 
+reasonably informed that the person intends to deliver such security as soon as all restrictions on delivery 
+have been removed.  If the person has not delivered such security within 35 days after the trade date, the 
+broker-dealer that effected the sale must borrow securities or close out the short position by purchasing 
+securities of like kind and quantity; (iii) Short sales effected by a market maker in connection with bona-
+fide market making activities in the security for which this exception is claimed; and (iv) Transactions in 
+security futures.” 
+ 
+82 SIFMA Letter, supra note 23.  SIFMA noted in its letter that, if the Commission decides not to amend the 
+definition of a “long” sale in Rule 200(g) as suggested by SIFMA, it would strongly urge the Commission 
+to continue to allow firms to mark sales “short exempt,” in reliance on the exception from the Regulation 
+SHO “locate” requirement in Rule 203(b)(2)(ii) of Regulation SHO.  Id.  UBS also commented that we 
+should retain the “short exempt” marking requirement to “identify certain short sale transactions as exempt 
+from the affirmative determination requirements for regulatory and compliance requirements.”  UBS 
+Letter, supra note 23. 
+ 
+ 
+23
+ 
+ 
+ 
+The MFA and NYSE responded to our request for comment in the Proposing 
+Release regarding whether, in the absence of price test restrictions, the marking of sell 
+orders would continue to need to be transparent to market makers and specialists.83  
+Currently, to facilitate the application of price test restrictions, market makers and 
+specialists receive information allowing them to distinguish short sales from other sales.   
+In its comment letter, the MFA stated that “[i]n protecting the confidentiality of 
+customer orders and maintaining a level playing field for all market participants, MFA 
+supports the idea of availing order marking information only to brokers preparing order 
+tickets.”84  The MFA believes that the “best safeguard for maintaining the integrity of 
+order information is by limiting order marking information to those necessary in carrying 
+out compliance functions.”85   
+NYSE, on the other hand, expressed its belief that it is “necessary that the overall 
+short interest in a security, as well as information on whether a particular sell order 
+introduced to the Exchange is long or short, continue to be transparent intra-day to 
+specialists in the securities in which they are registered.”86  NYSE noted that “[f]or a 
+specialist, making the correct determination regarding the necessity of a dealer 
+transaction at any given moment includes an understanding of the general market 
+                                                 
+83 See Proposing Release, 71 FR at 75078.  Specifically, in the Proposing Release we stated that:  “To 
+facilitate the application of Rule 10a-1, NASD Rule 5100, and Nasdaq Rule 3350, market makers and 
+specialists receive information allowing them to distinguish short sales from other sales.  In other words, 
+the information on whether an order is marked “long,” “short,” or “short exempt” is made transparent to 
+market makers and specialists but not to other market participants or the public.  In the absence of price test 
+restrictions, would the marking of sell orders need to be transparent to market makers and specialists?  
+Would there be any systems or market quality costs/benefits associated with not revealing this information 
+to specialists and market makers?” 
+ 
+84 MFA Letter, supra note 23. 
+ 
+85 Id. 
+ 
+86 NYSE Letter, supra note 23. 
+ 
+ 
+24
+ 
+ 
+conditions in a particular security, including the actual or reasonably anticipated needs of 
+the market.  The intra-day short interest position in a security as well as whether 
+particular orders are long or short are critical pieces of information in the overall mix of 
+factors that combine to form the “market” in that security.”87  The NYSE believes that 
+the absence of such information would result in poorer overall market quality.88
+ 
+B. 
+Response to Comments 
+We have carefully considered all the comments we received.  In response to the 
+STA’s and SIFMA’s comments regarding revising the definition of when an order should 
+be marked “long” to include sales of securities excepted from the locate requirement 
+pursuant to Rule 203(b)(2)(ii) of Regulation SHO, we have determined not to take such 
+action at this time.  Although these are sales of securities that a person is “deemed to 
+own” pursuant to Rule 200 of Regulation SHO,89 the securities will not be delivered in 
+time for settlement of the transaction and, therefore, we believe that such sales are more 
+appropriately marked as “short” rather than “long” sales.90   
+In addition, in response to STA’s comment that the marking of these orders as 
+“short” does not accurately describe the customer’s ownership of the same and could 
+cause confusion and anger from public investors when they receive confirmation of the 
+sale of a security they understood they owned, we note that the order marking 
+                                                 
+87 Id.
+ 
+88 See id.
+ 
+89 17 CFR 242.200(a)-(f). 
+ 
+90 Regulation SHO provides that an order can only be marked “long” if the seller is deemed to own the 
+security being sold pursuant to paragraphs (a) through (f) of Rule 200 of Regulation SHO and either:  (i) 
+The security to be delivered is in the physical possession or control of the broker or dealer; or (ii) It is 
+reasonably expected that the security will be in the physical possession or control of the broker or dealer no 
+later than settlement of the transaction.  See 17 CFR 242.200(g).  Thus, Regulation SHO contemplates that 
+only those sell orders that will be available for delivery on settlement date can be marked “long.”   
+ 
+ 
+25
+ 
+ 
+requirements are to facilitate the surveillance and monitoring of compliance with other 
+provisions of Regulation SHO, such as the borrowing and delivery requirements for long 
+sales under Rule 203(a),91 and the locate requirements for short sales under Rule 
+203(b).92  Regulation SHO does not require that a broker-dealer reveal an order marking 
+to its customer.  Nor do we believe at this time that it is necessary for a customer to 
+receive such information.   
+In addition, we have determined not to retain the “short exempt” marking 
+requirement or revise the definition of when an order should be marked “short exempt” to 
+include those circumstances in which a short sale is excepted from the locate 
+requirements of Rule 203(b)(2) of Regulation SHO.93  The “short exempt” marking 
+requirement has only ever applied if the seller is relying on an exception from a price test.  
+It has never applied to sales that do not have to comply with the locate requirement of 
+Regulation SHO.94  Today’s amendment to remove the “short exempt” marking 
+requirement is necessitated by the fact that we are removing current price test restrictions 
+and prohibiting any SRO from having a price test.  Thus, we do not believe that it is 
+appropriate at this time to re-define the order marking requirements of Regulation SHO 
+as suggested by commenters.  We will, however, consider separately whether further 
+action in this area is necessary or warranted. 
+With respect to the MFA’s and NYSE’s comments regarding the transparency of 
+order markings to market participants other than those broker-dealers with responsibility 
+                                                 
+91 17 CFR 242.203(a). 
+ 
+92 17 CFR 242.203(b). 
+ 
+93 17 CFR 242.203(b)(2). 
+ 
+94 See id.
+ 
+ 
+26
+ 
+ 
+for compliance with the marking requirements of Regulation SHO, we have determined 
+at this time to not take any action to limit the transparency of order markings in this 
+way.95  We will continue, however, to review whether further action by the Commission 
+on this matter is necessary or warranted.   
+After carefully considering the comments received, we are adopting the proposed 
+amendment without modification.    
+IV. 
+Other Comments 
+We received eight comment letters from individual investors discussing other 
+provisions of Regulation SHO,96 most notably the grandfather provision of that rule.97  In 
+addition, these commenters expressed concerns about naked short selling.  This release 
+discusses amendments that will affect price tests and related marking requirements only.  
+They do not relate to other provisions of Regulation SHO or naked short selling, which 
+are the subject of other Commission rulemaking.98
+V. 
+Paperwork Reduction Act 
+ 
+The adopted amendments to Regulation SHO impose a “collection of 
+information” within the meaning of the Paperwork Reduction Act of 1995;99 however, 
+                                                 
+95 Currently, which market participants are able to see the marking for a sell order is established by SRO 
+rule and varies among the SROs. 
+ 
+96 See 17 CFR 242.200 et seq. 
+ 
+97 See letter from Joan Oleary (Jan. 22, 2007); letter from Candice Grant (Jan. 21, 2007); letter from Roland 
+L. Pitts (Dec. 28, 2006); letter from Charles P. Bennett, M.D. (Jan. 18, 2007); letter from Carlos Molina 
+(Jan. 17, 2007); letter from Lars D. Roose (Feb. 11, 2007); letter from Hillary Thomas (Feb. 11, 2007); 
+letter from H. Glenn Bagwell, Jr. (Feb. 12, 2007).  These comment letters relate to File No.  S7-12-06 
+regarding proposed amendments to Regulation SHO and were considered in connection with that 
+rulemaking. 
+ 
+98 See Regulation SHO Amendments Proposing Release, 71 FR 41710; see also, supra n.[6]. 
+ 
+99 44 U.S.C. 3501 et seq. 
+ 
+ 
+27
+ 
+ 
+the collection of information is covered by the approved collection for Exchange Act 
+Rule 19b-4.100  Rule 201(a) of Regulation SHO provides that no price test, including any 
+price test of any SRO, shall apply to short sales in any security.  In addition, Rule 201(b) 
+of Regulation SHO prohibits any SRO from having a price test.  Thus, to the extent that 
+any SRO currently has a price test, that SRO is required to amend its rules to comply with 
+these amendments to Regulation SHO.  Any such amendments will need to be filed with 
+the Commission as proposed rule changes, pursuant to Section 19(b) of the Exchange 
+Act101 and Rule 19b-4 thereunder.  This collection of information, however, will be 
+collected pursuant to Exchange Act Rule 19b-4 and, therefore, will not be a new 
+collection of information for purposes of the amendments. 
+VI. 
+Consideration of Costs and Benefits of Proposed Amendments to Rule 10a-1 
+and Regulation SHO 
+ 
+ 
+The Commission is sensitive to the costs and benefits that result from our rules.  
+Thus, in the Proposing Release, we solicited comments related to the costs and benefits 
+associated with the proposed amendments.102  We explicitly requested that commenters 
+provide supporting empirical data for any positions advanced.  In addition, we 
+specifically requested comment regarding the costs and benefits of unrestricted short 
+selling activity and any costs associated with complying with the proposed amendments, if 
+the Commission were to adopt the proposed amendments.  We also requested comment 
+regarding any costs relating to the removal of price test restrictions adopted by the SROs.  In 
+addition, we requested comment on the potential costs for any modification to both 
+                                                 
+100 17 CFR 240.19b-4. 
+ 
+101 15 U.S.C. 78s(b). 
+ 
+102 See Proposing Release, 71 FR at 75078-75079. 
+ 
+ 
+28
+ 
+ 
+computer systems and surveillance mechanisms and for information gathering, 
+management, and recordkeeping systems or procedures, as well as any potential benefits 
+resulting from the proposals for registrants, issuers, investors, brokers or dealers, other 
+securities industry professionals, regulators, and other market participants. 
+ 
+Four commenters, the STA, UBS, SIFMA, and Amex provided comments related to 
+the costs and benefits of the proposed rule amendments.103  We discuss these comment 
+letters below. 
+ 
+A. 
+Removal of Price Test Restrictions 
+ 
+1. 
+Benefits 
+ 
+In the Proposing Release, we solicited comment on any benefits that could be 
+realized if the Commission adopts the proposed amendments, including both short-term 
+and long-term benefits.  In addition, we solicited comment regarding benefits to market 
+efficiency, pricing efficiency, market stability, market integrity, and investor protection.  
+Only the STA submitted comments noting benefits of the proposed amendments.104   
+ 
+In its comment letter, the STA noted that it does not believe that the proposed 
+amendments would result in higher trading costs or wider spreads.105  In addition, the 
+STA stated that it believes the proposed amendments would lead to a reduction in 
+surveillance and compliance costs.106
+ 
+We believe that this is an appropriate time to remove existing price test 
+restrictions because current price test regulation is inconsistent across markets, 
+                                                 
+103 See STA Letter, supra note 23; UBS Letter, supra note 23; SIFMA Letter, supra note 23; Amex Letter, 
+supra note 44. 
+ 
+104 See STA Letter, supra note 23. 
+ 
+105 See id.
+ 
+106 See id.
+ 
+29
+ 
+ 
+potentially creates an unlevel playing field, allows for regulatory arbitrage and has not 
+kept pace with the types of trading systems and strategies currently used in the 
+marketplace.  In addition, today’s markets are characterized by high levels of 
+transparency and regulatory surveillance.  These characteristics greatly reduce the risk of 
+undetected manipulation and permit regulators to monitor for the types of activities that 
+Rule 10a-1 and other price tests are designed to prevent. 
+ 
+We believe that the removal of current price test restrictions will benefit market 
+participants by providing market participants with the ability to execute short sales in all 
+securities in all market centers without regard to price test restrictions.  In addition, 
+market centers will be competing for executions on a level playing field because they will 
+not be affected by the existence or non-existence of price test restrictions.     
+ 
+We also believe that removing all current price test restrictions is preferable to 
+applying different tests in different markets, which can require market participants to 
+apply different rules to different securities depending on which market the trade is 
+executed.  Thus, we believe that the amendments will reduce confusion and compliance 
+difficulties for market participants.   
+We also believe that the amendments will benefit exchanges and other market 
+centers because market participants will no longer be able to select a market on which to 
+execute a short sale based on the applicability of price test restrictions.  The amendments 
+will remove a competitive disadvantage purportedly experienced by some market centers 
+because market participants will no longer route orders to avoid application of a market 
+center’s price test.  Nor will market centers that do not have a price test be able to use that 
+factor to attract order flow away from market centers that have a price test.   
+ 
+30
+ 
+ 
+In addition, the amendments will result in benefits associated with systems and 
+surveillance mechanisms because these systems and mechanisms will no longer need to 
+be programmed to account for price test restrictions based on last sale and last bid 
+information.  We also note that in the absence of price test restrictions, new staff 
+(compliance personnel, associated persons, etc.) will no longer need to be trained 
+regarding rules relating to price tests.  Over the long run, we believe this will likely lead 
+to decreased training and compliance costs for market participants.  
+We also believe that the amendments will lead to a reduction in costs because 
+market participants and their lawyers, both in-house and outside counsel, will no longer 
+need to make either informal (phone calls) or formal (letters) requests for exemptions 
+from Rule 10a-1.   
+   
+In addition, we anticipate that the removal of price test restrictions may result in 
+increased price efficiency because prices will be determined by buy and sell interest, 
+without any artificial restraints on short selling.  
+ 
+          2. 
+ Costs  
+ 
+We recognize that the amendments may result in some costs to market 
+participants.  As an aid to evaluating the costs of the proposed amendments, we solicited 
+comment in the Proposing Release.  In particular, we sought comment regarding the costs 
+of the proposed amendments to market participants, including broker-dealers and SROs, 
+related to systems changes to computer hardware and software, reprogramming costs, and 
+surveillance and compliance costs, including whether these costs would be incurred on a 
+ 
+31
+ 
+ 
+one-time or ongoing basis.107  Four commenters, the STA, UBS, SIFMA and Amex 
+submitted comments regarding costs associated with the proposed amendments.108   
+ 
+In their comment letters, the STA, UBS and SIFMA noted potential 
+reprogramming costs that market participants may incur if the Commission does not act 
+on the proposed amendments prior to market participants reprogramming their systems in 
+response to the new regulatory framework created by Regulation NMS109 and the desire 
+of investors and other market participants for more automated and efficient trading 
+services.110  On January 24, 2007, we extended the date for all automated trading centers 
+(both SRO trading facilities and Alternative Display Facility participants) to have fully 
+operational Regulation NMS-compliant trading systems to July 9, 2007 (the “Regulation 
+NMS Compliance Date”).111  In meeting the Regulation NMS Compliance Date, market 
+participants have been developing new systems or modifying existing systems to be 
+Regulation NMS-compliant.   
+ 
+In their comment letters, STA, UBS, and SIFMA urged the Commission to act on 
+the proposed amendments prior to the Regulation NMS Compliance Date.112  In its letter, 
+STA noted that “[i]f the SEC’s proposal is implemented subsequent to the operation of 
+Regulation NMS to certain securities, it will require industry-wide reprogramming of 
+Regulation NMS compliance systems during the infancy of the Rules implementation, a 
+                                                 
+107 See Proposing Release, 71 FR at 75079-75080. 
+ 
+108 See STA Letter, supra note 23; UBS Letter, supra note 23; SIFMA Letter, supra note 23; Amex Letter, 
+supra note 44. 
+ 
+109 See Exchange Act Release No. 51808 (June 9, 2005), 70 FR 37496 (June 29, 2005). 
+ 
+110 See STA Letter, supra note 23; UBS Letter, supra note 23; SIFMA Letter, supra note 23. 
+ 
+111 See Exchange Act Release No. 55160 (Jan. 24, 2007), 72 FR 4202 (Jan. 30, 2007). 
+ 
+112 See STA Letter, supra note 23; UBS Letter, supra note 23; SIFMA Letter, supra note 23. 
+ 
+ 
+32
+ 
+ 
+most sensitive time period.  As a result, the immediate success of Regulation NMS could 
+be compromised.”113  As discussed in Section IX below, these amendments will be 
+effective immediately upon publication in the Federal Register.  Thus, market 
+participants will have notice and time prior to the Regulation NMS Compliance Date to 
+reprogram their systems without regard to current price test restrictions. 
+ 
+In its comment letter, Amex stated that “[w]hile it is difficult to predict future 
+trading activities and the resultant need for new or different regulatory programs, [its] 
+best estimate is that there would probably be no material impact on [its] regulatory 
+costs.”114  Amex noted that although staff time and technology resources would no longer 
+be required to monitor compliance with price tests, surveillance by Amex staff of order 
+marking violations would still be required.  In addition, Amex commented that “the 
+absence of a tick test to discourage potential “bear raids” and other manipulative 
+activities could result in the need to devote additional resources to such regulatory 
+programs than is currently the case.”115
+ 
+We believe that costs associated with the amendments will be minimal because 
+the infrastructure necessary to comply with the amendments are, for the most part, 
+already be in place.  Market participants have needed to establish or modify their systems 
+and surveillance mechanisms to exempt those securities included in the Pilot from all 
+                                                 
+113 STA Letter, supra note 23.  In addition, in its comment letter, SIFMA urged the Commission to take 
+steps to eliminate price test restrictions prior to the Regulation NMS Compliance Date to alleviate the 
+necessity for firms to, in the course of instituting programming changes to meet the new requirements of 
+Regulation NMS, program systems to comply with price test restrictions, only to be required to reverse 
+such programming costs shortly thereafter.  SIFMA stated that cost estimates for firms to program for such 
+changes varied, from as low as approximately $200,000 for some firms to as high as $2 million for others.  
+See SIFMA Letter, supra note 23. 
+ 
+114 Amex Letter, supra note 44. 
+ 
+115 Id.
+ 
+ 
+33
+ 
+ 
+price test restrictions.116  In addition, any further changes to systems and surveillance 
+mechanisms or procedures will be relatively minor because the amendments will remove 
+all price test restrictions rather than, for example, impose a modified price test.  We also 
+believe that market participants will not need to incur costs to purchase new systems, or 
+increase staffing based solely on the implementation of the amendments.   
+ 
+Although we recognize that market participants may incur costs to modify, 
+establish or implement existing or new supervisory and compliance procedures due to the 
+amendments, these costs will be minimal because market participants already have in 
+place supervisory or compliance procedures to monitor for trading activity that current 
+price test restrictions are designed to deter.   
+ 
+We recognize that SROs that have adopted price tests will incur costs associated 
+with removing such price tests.  For example, the NASD and Nasdaq have their own bid 
+tests that, under the amendments, will no longer be applicable.117  In addition, some 
+exchanges have adopted rules in conformity with the provisions of Rule 10a-1, which 
+will no longer be applicable.  SROs may incur costs associated with the processes to 
+remove such rules, including filing rule changes with the Commission, as well as 
+reprogramming systems designed to enforce these rules.  Although we requested 
+                                                 
+116 The Pilot exempts a select group of securities from price test restrictions during regular trading hours.  
+Between the close of the consolidated tape and the open of the consolidated tape on the following day, 
+however, all equity securities are exempted from price test restrictions.  See 69 FR at 48033.  
+ 
+117 See NASD Rule 5100, available at 
+http://nasd.complinet.com/nasd/display/display.html?rbid=1189&record_id=1159007939&element_id=115
+9006014&highlight=5100#r1159007939; Nasdaq Rule 3350, available at 
+http://nasdaq.complinet.com/nasdaq/display/display.html? rbid=1705&element_id=16. 
+ 
+ 
+34
+ 
+ 
+comment regarding these costs, including costs relating to preparing and filing any 
+necessary rule changes with the Commission,118 we did not receive any comments. 
+ 
+We also recognize that the amendments may increase transaction costs, decrease 
+quoted depth, and increase intraday price volatility, particularly in small stocks.  The 
+Pilot results suggest, however, that these changes are small in magnitude and would not 
+significantly increase costs or reduce liquidity.119
+B. 
+Removal of “Short Exempt” Marking Requirement 
+1. 
+Benefits 
+We are amending Rule 200(g) of Regulation SHO to remove the “short exempt” 
+marking requirement.120  Rule 200(g)(2) of Regulation SHO provides that a short sale 
+order must be marked “short exempt” if the seller is “relying on an exception from the 
+tick test of 17 CFR 240.10a-1, or any short sale price test of any exchange or national 
+securities association.”121  Thus, because we are removing all current price test 
+restrictions, as well as prohibiting any SRO from having a price test, the “short exempt” 
+marking requirement will no longer be applicable.  In addition, we note that removing the 
+“short exempt” marking requirement will promote regulatory simplification because the 
+marking requirement will no longer be applicable.   
+2. 
+Costs 
+Although we sought public comment on costs, we did not receive any such 
+comments relating to this proposed amendment.  We recognize, however, that there may 
+                                                 
+118 See Proposing Release, 71 FR at 75079-75080. 
+ 
+119 See id. at 75072-75075 (discussing the results of the Pilot). 
+ 
+120 17 CFR 242.200(g). 
+ 
+121 See id. at § 242.200(g)(2). 
+ 
+ 
+35
+ 
+ 
+be some costs associated with removing the “short exempt” marking requirement.  Some 
+market participants, including broker-dealers and SROs, may have to reprogram systems 
+and update supervisory procedures due to the removal of the “short exempt” marking 
+requirement.  Sales of securities previously marked “short exempt,” however, will 
+continue to be marked either “long” or “short.”  Thus, we believe that such costs will be 
+minor.   
+VII.  Consideration of Burden on Competition and Promotion of Efficiency, 
+Competition, and Capital Formation 
+ 
+ 
+Section 3(f) of the Exchange Act requires the Commission, whenever it engages 
+in rulemaking and whenever it is required to consider or determine if an action is 
+necessary or appropriate in the public interest, to consider whether the action would 
+promote efficiency, competition, and capital formation.122  In addition, Section 23(a)(2) 
+of the Exchange Act requires the Commission, when making rules under the Exchange 
+Act, to consider the impact such rules would have on competition.123  Exchange Act 
+Section 23(a)(2) prohibits the Commission from adopting any rule that would impose a 
+burden on competition not necessary or appropriate in furtherance of the purposes of the 
+Exchange Act.   
+ 
+ 
+In the Proposing Release, we solicited comment on the proposed amendments’ 
+effects on efficiency, competition, and capital formation.  In addition, we requested, but 
+did not receive, comments regarding the impact of the proposed amendments on the 
+                                                 
+122 15 U.S.C. 78c(f). 
+ 
+123 15 U.S.C. 78w(a)(2). 
+ 
+ 
+ 
+36
+ 
+ 
+economy generally pursuant to the Small Business Regulatory Enforcement Fairness Act 
+of 1996.124
+ 
+We have considered the proposed amendments to Rule 10a-1 and Regulation 
+SHO in light of the standards of Section 23(a)(2) of the Exchange Act and believe the 
+adopted amendments will not impose any burden on competition not necessary or 
+appropriate in furtherance of the Exchange Act. 
+ 
+The amendments will remove the price test restrictions of Rule 10a- 1125 and 
+provide that no price test, including any price test of any SRO, shall apply to short sales 
+in any security.  The amendments will also prohibit any SRO from having a price test.  In 
+addition, the amendments will remove the “short exempt” marking requirement of Rule 
+200(g) of Regulation SHO because this marking requirement applies only if the seller is 
+relying on an exception from the tick test of Rule 10a-1 or any short sale price test of any 
+exchange or national securities association. 
+ 
+Current short sale regulation is inconsistent.  For example, Rule 10a-1 applies 
+only to short sale transactions in listed securities.  The NASD’s and Nasdaq’s bid tests 
+apply only to Nasdaq Global Market securities.  No price tests apply to short sales in 
+Nasdaq Capital Market securities or securities quoted on the OTCBB or pink sheets.  In 
+addition, no price test applies to short sales of Nasdaq Global Market securities executed 
+on exchanges trading Nasdaq securities on a UTP basis, unless the market on which the 
+securities are being traded has adopted its own price test.  Moreover, the current 
+exceptions to, and exemptions from, the price tests for a wide range of short selling 
+activities have limited the applicability of the restrictions contained in these rules.  The 
+                                                 
+124 Pub. L. 104-121, tit. II, 110 Stat. 857 (1996). 
+ 
+125 17 CFR 242.10a-1. 
+ 
+37
+ 
+ 
+end result is inconsistent short sale regulation of securities, depending on the market 
+where the securities are trading, and the type of short selling activity.  Thus, the 
+amendments are intended to promote regulatory simplification and uniformity by no 
+longer permitting the current price test restrictions on short selling.   
+ 
+We believe that the amendments will not harm efficiency because the empirical 
+evidence from the Pilot Results shows that the Pilot did not adversely impact price 
+efficiency.  Further, market participants will no longer have to apply different price tests 
+to securities trading in different markets.   
+In addition, we believe that the amendments will not have an adverse impact on 
+capital formation because the empirical evidence from the Pilot Results shows that the 
+price tests have very little impact on overall market quality and, particularly in large 
+securities, may be harmful to overall market quality.     
+We believe that the amendments will promote competition among exchanges and 
+other market centers because market participants will no longer be able to select a market 
+on which to execute a short sale based on the applicability of price test restrictions.  The 
+amendments will remove a purported competitive disadvantage experienced by some 
+market centers because market participants will no longer route orders to avoid 
+application of a market center’s price test.  Nor will market centers that do not have a 
+price test be able to use that factor to attract order flow away from market centers that 
+have a price test.  Moreover, the amendments will level the playing field for all market 
+participants by requiring that no price test shall apply to any short sale in any security in 
+any market.126
+                                                 
+126 Although we recognize there could conceivably be a need in the future for SROs to propose new price 
+test restrictions, in considering whether to approve any such proposals, the Commission would, among 
+ 
+38
+ 
+ 
+VIII. Final Regulatory Flexibility Analysis 
+ 
+ 
+The Commission has prepared the Final Regulatory Flexibility Analysis 
+(“FRFA”), in accordance with the provisions of the Regulatory Flexibility Act 
+(“RFA”),127 regarding the proposed amendments to Rule 10a-1 and Regulation SHO, 
+Rules 200 and 201, under the Exchange Act.   
+A. 
+Need for the Amendments 
+ 
+Based on the Pilot Results as well as our review of the status of short sale 
+regulation in the context of the current application of Rule 10a-1 and other price tests, 
+including the exceptions to the current rules and grants of relief from Rule 10a-1 by the 
+Commission for a wide range of short selling activities, we believe it is necessary to 
+remove Rule 10a-1 and to amend Regulation SHO to provide that no price test, including 
+any price test by any SRO, shall apply to short selling in any security.  In addition, the 
+amendments will prohibit any SRO from having a price test.  These amendments are 
+designed to modernize and simplify short sale regulation in light of current short selling 
+systems and strategies used in the marketplace, while providing greater regulatory 
+consistency to short selling.  We are also removing the “short exempt” marking 
+requirement of Regulation SHO because this requirement only applies if a seller is 
+relying on an exception to a price test. 
+ 
+ 
+                                                                                                                                                 
+other things, determine whether or not such proposals are consistent with the objectives of today’s 
+amendments.  Additionally, in order for an SRO to adopt new price test restrictions pursuant to Section 
+19(b) of the Exchange Act, an exemption from the provisions of Rule 201 pursuant to Section 36 of the 
+Exchange Act would be necessary. 
+ 
+127 5 U.S.C. 604. 
+ 
+39
+ 
+ 
+ 
+B. 
+Significant Issues Raised by Public Comment 
+The Initial Regulatory Flexibility Analysis (“IRFA”) appeared in the Proposing 
+Release.128  We requested comment in the IRFA on the impact the proposed amendments 
+would have on small entities and how to quantify the impact.  We received two comment 
+letters generally discussing the impact of the proposed amendments to remove price test 
+restrictions on small issuers,129 which we discuss below.  
+ 
+C. 
+Small Entities Subject to the Rule 
+ 
+The entities covered by the amendment will include small broker-dealers, small 
+businesses, and any investor who effects a short sale that qualifies as a small entity.  
+Although it is impossible to quantify every type of small entity that may be able to effect 
+a short sale in a security, Paragraph (c)(1) of Rule 0-10 under the Exchange Act130 states 
+that the term “small business” or “small organization,” when referring to a broker-dealer, 
+means a broker or dealer that had total capital (net worth plus subordinated liabilities) of 
+less than $500,000 on the date in the prior fiscal year as of which its audited financial 
+statements were prepared pursuant to §240.17a-5(d); and is not affiliated with any person 
+(other than a natural person) that is not a small business or small organization.  In the 
+IRFA in the Proposing Release, we estimated that as of 2005, there were approximately 
+                                                 
+128 See Proposing Release, 71 FR at 75081-75082. 
+ 
+129 See IASBDA Letter, supra note 39; Amex Letter, supra note 44.  IASBDA expressed concern that the 
+proposed amendments might “unnecessarily force small issuers to accept an environment which is most 
+unkind to their securities.”  See IASBDA Letter, supra note 39.  In its letter, Amex advocated for additional 
+study of the effects of price test restrictions on small capitalization securities before the Commission 
+removes such restrictions on these securities.  See Amex Letter, supra note 44. 
+ 
+130 17 CFR 240.0-10(c)(1). 
+ 
+ 
+40
+ 
+ 
+910 broker-dealers that qualified as small entities as defined above.131  Presently, we 
+estimate that as of 2006 there are approximately 894 broker-dealers that qualify as small 
+entities, as defined above.132   
+Paragraph (e) of Rule 0-10 under the Exchange Act133 states that the term "small 
+business" or "small organization," when referring to an exchange, means any exchange 
+that: (1) has been exempted from the reporting requirements of Rule 11Aa3-1 under the 
+Exchange Act; and (2) is not affiliated with any person (other than a natural person) that 
+is not a small business or small organization, as defined by Rule 0-10.  No national 
+securities exchanges are small entities because none meets these criteria.  There is one 
+national securities association (NASD) that is subject to these amendments.  NASD is not 
+a small entity as defined by 13 CFR 121.201.  
+Any business, however, regardless of industry, will be subject to the amendments 
+if it effects a short sale.  The Commission believes that, except for the broker-dealers 
+discussed above, an estimate of the number of small entities that fall under the 
+amendments is not feasible. 
+ 
+D. 
+Reporting, Recordkeeping, and other Compliance Requirements 
+We recognize that the amendments may impose some new or additional reporting, 
+recordkeeping, or compliance costs on any affected party, including broker-dealers, that 
+are small entities.   
+                                                 
+131 These numbers are based on OEA’s review of 2005 FOCUS Report filings reflecting registered broker-
+dealers.  This number does not include broker-dealers that are delinquent on FOCUS Report filings. 
+ 
+ 
+ 
+132 These numbers are based on OEA’s review of 2006 FOCUS Report filings reflecting registered broker-
+dealers.  This number does not include broker-dealers that are delinquent in their FOCUS Report filings. 
+ 
+133 17 CFR 240.0-10(e). 
+ 
+41
+ 
+ 
+ 
+As discussed above, three commenters noted potential reprogramming costs that 
+market participants may incur if the Commission does not act on the proposed 
+amendments prior to the Regulation NMS Compliance Date.  In meeting the Regulation 
+NMS Compliance Date, market participants have been developing new systems or 
+modifying existing systems to be Regulation NMS-compliant.  In their comment letters, 
+STA, UBS, and SIFMA urged the Commission to act on the proposed amendments prior 
+to the Regulation NMS Compliance Date.134  In its letter, STA noted that “[i]f the SEC’s 
+proposal is implemented subsequent to the operation of Regulation NMS to certain 
+securities, it will require industry-wide re-programming of Regulation NMS compliance 
+systems during the infancy of the Rules implementation, a most sensitive time period.  As 
+a result, the immediate success of Regulation NMS could be compromised.”135  As 
+discussed in Section IX below, these amendments will be effective immediately upon 
+publication in the Federal Register.  Thus, market participants will have notice and time 
+prior to the Regulation NMS Compliance Date to reprogram their systems without regard 
+to current price test restrictions. 
+ 
+In order to comply with the Pilot when it became effective on May 2, 2005, small 
+entities needed to modify their systems and surveillance mechanisms to exempt those 
+securities included in the Pilot from current price test restrictions.  Thus, the systems and 
+surveillance mechanisms required to comply with the amendments are already be in 
+place.  We believe that any necessary additional systems and surveillance changes will be 
+small because, due to the Pilot, systems are currently programmed to exempt many 
+                                                 
+134 See STA Letter, supra note 23; UBS Letter, supra note 23; SIFMA Letter, supra note 23. 
+ 
+135 STA Letter, supra note 23. 
+ 
+ 
+42
+ 
+ 
+securities from price test restrictions prior to the close of the consolidated tape and 
+exempt all securities from price test restrictions between the close of the consolidated 
+tape and the open of the consolidated tape on the following day.   
+We believe that any reprogramming costs or updating of surveillance mechanisms 
+associated with the removal of the “short exempt” marking requirement will be minimal 
+because sales of securities will continue to be required to be marked either “long” or 
+“short.”  The amendments will merely remove an alternative marking requirement. 
+ 
+E. 
+Agency Action to Minimize the Effect on Small Entities  
+ 
+The RFA directs the Commission to consider significant alternatives that will 
+accomplish the stated objective, while minimizing any significant adverse impact on 
+small entities.  Pursuant to Section 3(a) of the RFA,136 the Commission considered the 
+following types of alternatives in connection with the amendments: (a) the establishment 
+of differing compliance or reporting requirements or timetables that take into account the 
+resources available to small entities; (b) the clarification, consolidation, or simplification 
+of compliance and reporting requirements under the rule for small entities; (c) the use of 
+performance rather than design standards; and (d) an exemption from coverage of the 
+rule, or any part thereof, for small entities. 
+ 
+The amendments are intended to modernize and simplify price test regulation by 
+removing restrictions on the execution prices of short sales contained in current price 
+tests, such as Rule 10a-1.  As such, we believe that imposing different compliance 
+requirements, and possibly a different timetable for implementing compliance 
+requirements, for small entities would undermine the goal of the amendments.  In 
+                                                 
+136 5 U.S.C. 603(c). 
+ 
+43
+ 
+ 
+particular, the request by IASBDA and Amex for a gradual phase-in of the amendments 
+to permit price test restrictions to continue for small securities pending further study, 
+would cause considerable uncertainty, such as how to treat securities that episodically 
+move between the definition of small and large capitalization.  Moreover, we do not 
+believe that such an approach would provide new results relevant to smaller securities.  
+As we noted in the Proposing Release, while there is some evidence supporting the 
+application of price test restrictions to smaller securities, the evidence is not strong 
+enough to warrant its continuation in any subset of securities.137  In addition, we note that 
+many smaller or thinly-traded securities, such as Nasdaq Capital Market securities, and 
+securities quoted on the OTCBB and pink sheets, are not currently subject to any price 
+test restrictions. 
+ 
+Thus, we have concluded that it would be inconsistent with the goal of the 
+amendments to phase-in small capitalization securities or to further clarify, consolidate, 
+or simplify the amendments for small entities.  Finally, the amendments will impose 
+performance standards rather than design standards. 
+IX. 
+Administrative Procedure Act 
+ 
+Section 553(d) of the Administrative Procedure Act (“APA”) generally provides 
+that a substantive rule may not be made effective less than 30 days after notice is 
+published in the Federal Register.138  Two exceptions to the 30-day requirement, among 
+                                                 
+137 See Proposing Release, 71 FR at 75076.  See also, supra, note 65 (discussing a prior study by academics 
+of price test restrictions on smaller securities).  
+ 
+138 5 U.S.C. 553(d). 
+ 
+ 
+44
+ 
+ 
+others, are (i) for a substantive rule that relieves a restriction, and (ii) an agency's finding 
+of good cause for providing a shorter effective date.139  
+ 
+ The amendments will remove all current restrictions on the price at which a 
+security can be sold short.  Because the amendments relieve a restriction on short selling, 
+these amendments may be made effective less than 30 days after notice is published in 
+the Federal Register. 
+ 
+In addition, we note that a number of commenters to the proposed amendments 
+discussed potential reprogramming costs that market participants may incur if the 
+proposed amendments are not effective prior to the Regulation NMS Compliance 
+Date.140  In meeting the Regulation NMS Compliance Date, market participants have 
+been developing new systems or modifying existing systems to be Regulation NMS-
+compliant.  Immediate effectiveness of these amendments is necessary to provide market 
+participants with sufficient notice and time prior to the Regulation NMS Compliance 
+Date to reprogram their systems without regard to current price test restrictions. 
+    Specifically, immediate effectiveness of the amendments is expected to 
+alleviate any necessity for market participants to, in the course of instituting 
+programming changes to meet the requirements of Regulation NMS, program systems to 
+comply with price test restrictions, only to be required to reverse such programming 
+shortly thereafter.  Absent immediate effectiveness, market participants may expend 
+unnecessary time and resources programming systems to comply with price test 
+restrictions that are being removed.  Thus, the Commission finds that there is good cause 
+                                                 
+139 See id. at 553(d)(1), 553(d)(3). 
+ 
+140 See, e.g., STA Letter, supra note 23; UBS Letter, supra note 23; SIFMA Letter, supra note 23. 
+ 
+45
+ 
+ 
+for making the amendments effective immediately upon publication in the Federal 
+Register. 
+X. 
+ Statutory Authority and Text of the Amendments 
+ 
+Pursuant to the Exchange Act and, particularly, Sections 2, 3(b), 6, 9(a), 10(a), 
+11A, 15, 15A, 17, 17A, 23(a) thereof, 15 U.S.C. 78b, 78c(b), 78f, 78i(a), 78j(a), 78k-1, 
+78o, 78o-3, 78q, 78q-1, 78w(a), the Commission is removing Rule 10a-1, § 240.10a-1, 
+and amending Regulation SHO, §§ 242.200 and 201.   
+Text of the Amendments to Rule 10a-1 and Regulation SHO 
+List of Subjects in 17 CFR Parts 240 and 242 
+Brokers, Fraud, Reporting and recordkeeping requirements, Securities. 
+For the reasons set out in the preamble, Title 17, Chapter II, of the Code of 
+Federal Regulations is amended as follows. 
+PART 240 – GENERAL RULES AND REGULATIONS, SECURITIES 
+EXCHANGE ACT OF 1934 
+1. The authority citation for part 240 continues to read in part as follows: 
+Authority: 15 U.S.C. 77c, 77d, 77g, 77j, 77s, 77z-2, 77z-3, 77eee, 77ggg, 77nnn, 
+77sss, 77ttt, 78c, 78d, 78e, 78f, 78g, 78i, 78j, 78j-1, 78k, 78k-1, 78l, 78m, 78n, 78o, 78p, 
+78q, 78s, 78u-5, 78w, 78x, 78ll, 78mm, 80a-20, 80a-23, 80a-29, 80a-37, 80b-3, 80b-4, 
+80b-11, and 7201 et. seq.; and 18 U.S.C. 1350, unless otherwise noted. 
+ 
+* * * * * 
+2.  Section 240.10a-1 is removed and reserved and the undesignated heading 
+preceding the section is removed. 
+PART 242 — REGULATIONS M, SHO, ATS, AC AND NMS, AND CUSTOMER 
+MARGIN REQUIREMENTS FOR SECURITY FUTURES 
+ 
+46
+ 
+ 
+3.  The authority citation for part 242 continues to read as follows: 
+Authority: 15 U.S.C. 77g, 77q(a), 77s(a), 78b, 78c, 78g(c)(2), 78i(a), 78j, 78k-
+1(c), 781, 78m, 78n, 78o(b), 78o(c), 78o(g), 78q(a), 78q(b), 78q(h), 78w(a), 78dd-1, 
+78mm, 80a-23, 80a-29, and 80a-37. 
+ 
+ 
+4.   Section 242.200 is amended by revising the introductory text of paragraph (g) 
+and removing and reserving paragraph (g)(2) to read as follows: 
+§ 242.200 
+Definition of “short sale” and marking requirements. 
+* * * * * 
+ 
+ 
+(g) A broker or dealer must mark all sell orders of any equity security as “long” or 
+“short.” 
+* * * * * 
+ 
+ 
+5.   Section 242.201 is added to read as follows:   
+§ 242.201   
+Price test. 
+(a) No short sale price test, including any short sale price test of any self-
+regulatory organization, shall apply to short sales in any security.   
+(b) No self-regulatory organization shall have any rule that is not in conformity 
+with, or conflicts with, paragraph (a) of this section. 
+By the Commission. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+J. Lynn Taylor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Assistant Secretary 
+ 
+Dated:  June 28, 2007 
+ 
+47

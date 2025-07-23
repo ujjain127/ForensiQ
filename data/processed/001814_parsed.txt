@@ -1,0 +1,207 @@
+1 For more on Committee of the Whole, see CRS Report RS20147, Committee of the Whole:  An
+Introduction, by Judy Schneider.
+Congressional Research Service ˜ The Library of Congress
+CRS Report for Congress
+Received through the CRS Web
+Order Code RS20067
+Updated January 11, 2005
+How Measures Are Brought to the 
+House Floor:   A Brief Introduction
+James V. Saturno
+Specialist on the Congress
+Government & Finance Division
+Summary
+This report presents a brief description of the five methods used to bring proposed
+legislation to the House floor for consideration.  These methods allow for consideration
+as a privileged matter, under the limited privilege of a special calendar or day, under
+suspension of the rules, under the terms of a special rule, or by unanimous consent.  This
+report will be updated to reflect any changes in the rules or practices of the House.
+Introduction
+There is no single method that the House must employ in calling up or considering
+proposed legislation.  Article I, Section 5 of the Constitution allows each house of
+Congress to determine for itself the “Rules of its Proceedings,” and the House has used
+this freedom to provide itself several alternative procedures for raising measures for
+consideration.  These procedures allow the House to tailor its consideration depending on
+the circumstances and content of the measure.
+When a measure is reported by a House committee, it is placed on a calendar.  Tax,
+authorization, and appropriation measures are placed on the Union Calendar (so-called
+because such measures must be considered in the Committee of the Whole House on the
+State of the Union, known as the Committee of the Whole1).  Other matters go on the
+House Calendar.  These calendars are essentially lists of measures that committees have
+recommended for further consideration by the House.  It would be virtually impossible
+for the House to consider all of the proposed legislation on these lists and it would be
+equally impractical for the House to attempt to consider each of these measures in the
+order in which they appear on these lists.  Therefore, the House has evolved a system for
+establishing priorities.  This system is based on a concept called “privilege.”
+CRS-2
+2 Privileged reports by the Committee on Rules are further specified in Rule XIII, clause 6.
+The rules and practices of the House provide five methods by which a measure may
+be raised for consideration.  A measure may be brought to the floor as a privileged matter,
+under the limited privilege of a special calendar or day, under suspension of the rules,
+under the terms of a special rule, or by unanimous consent.
+Privileged Measures
+House Rule XIV, clause 1, specifies a daily order of business for the House to
+follow.  In practice, that order is not usually observed because House rules also specify
+several types of measures that are privileged, and therefore may interrupt the order of
+business.  These types of measures may be called up on the floor whenever another matter
+is not already pending.  They are then considered only when the House agrees to do so by
+agreeing to a unanimous consent request, voting to resolve into Committee of the Whole
+(in the case of general appropriation bills), or raising and voting on the question of
+consideration.  In this way the House gives precedence to important classes of business
+without losing its power to decide (by majority vote) to consider any measure it chooses.
+Currently, privileged measures include:
+! bills and resolutions reported under the right of a committee to report at
+any time (Rule XIII, clause 5(a)); this category currently includes:
+- general appropriations bills,
+- continuing resolutions after September 15,
+- concurrent resolutions on the budget,
+- reconciliation bills,
+- resolutions from the Committee on Rules concerning the rules of the House,
+joint rules, or the order of business (known as “special rules”),2
+- resolutions from the Committee on Standards of Official Conduct
+recommending action as a result of an investigation, and
+- measures reported from the Committee on House Administration concerning
+enrolled bills, contested elections, printing for the use of the House,
+expenditures from the contingent fund (including committee funding
+resolutions), or noncurrent records of the House;
+! conference reports after three days (Rule XXII, clause 7(a));
+! motions to discharge or instruct conferees (Rule XXII, clause 7(c));
+! questions of the privileges of the House or questions of personal privilege
+(Rule IX, clause 2);
+! resolutions of inquiry (Rule XIII, clause 7); and
+CRS-3
+3 The constitution mandates that the House “shall proceed to reconsider” a vetoed bill.  It is the
+usual, but not invariable, rule that a bill returned with the objections of the President shall be read
+and considered at once [Hinds, Asher C., Precedents of the House of Representatives of the
+United States, including references to the Constitution, the laws, and decisions of the United
+States Senate, vol. IV, sections 3534-3536 (Washington:  GPO, 1907).]  However, it has also
+been interpreted as complied with by laying the bill on the table, referring it to a committee,
+postponing consideration to a day certain, or immediately voting on reconsideration [Cannon,
+Clarence, Precedents of the House of Representatives of the United States, including references
+to provisions of the Constitution, the laws, and decisions of the United States Senate, vol. VII,
+section 1105 (Washington:  GPO, 1935).]
+4 For more detail see CRS Report 97-552, The Discharge Rule in the House:  Principal Features
+and Uses, by Richard S. Beth.
+! measures vetoed by the President (Article I, Section 7 of the U.S.
+Constitution).3
+Special Calendars or Days
+Other measures may be accorded a more limited form of privilege.  These measures
+may interrupt the order of business, but only in certain specified circumstances.  This
+limited privilege can apply to special calendars (i.e., lists of legislation), such as the
+Discharge or Private Calendars.  It can also apply to special types of legislation regardless
+of which calendar they appear on, such as the special days on which District of Columbia
+business is privileged, or even to committees, such as with Calendar Wednesday.  These
+special procedures allow the House to set aside predictable periods of time when it may
+consider various categories of proposed legislation.
+Discharge Calendar4
+Under House Rule XV, clause 2, if a committee fails to report a measure, a motion
+to discharge the committee from further consideration of the measure may be made on the
+second or fourth Monday of a month if 218 Members have signed a petition for that
+purpose and certain waiting periods are met.  If the motion is agreed to, a further motion
+is in order to consider the measure discharged.  If the measure coming up by discharge is
+a special rule for considering another measure, the special rule is automatically
+considered.  A measure called up from the Discharge Calendar is considered in the House
+or in the Committee of the Whole, as appropriate.
+District Days
+Article I, Section 8 of the Constitution grants Congress the power to “exercise
+exclusive legislation in all cases whatsoever, over such district (not exceeding ten miles
+square) as may, by cession of particular states, and the acceptance of Congress, become
+the seat of the government of the United States ....”  Because of this special responsibility
+over the District of Columbia, House rules provide that measures from either the House
+or Union Calendar dealing with District business are privileged for consideration on the
+second and fourth Mondays of each month (Rule XV, clause 4).  A measure called up by
+this method is considered in the House or in the Committee of the Whole, as appropriate.
+CRS-4
+5 For more detail, see CRS Report 98-628, Private Bills:  Procedure in the House, by Richard S.
+Beth.
+6 For more detail, see CRS Report RL32474, Suspension of the Rules in the House of
+Representatives, by Thomas P. Carr.
+Private Calendar5
+Private legislation concerns measures of a private, rather than a public, nature (i.e.,
+those that apply only to specified individuals, corporations, institutions, etc.), and
+typically involve such things as claims against the government and immigration problems.
+Such measures are privileged for consideration on the first and third Tuesdays of each
+month (Rule XV, clause 5).  The Speaker is required to direct the clerk to call measures
+on the Private Calendar on the first Tuesday, but consideration on the third Tuesday is
+discretionary.  Consideration of measures on the Private Calendar may also be dispensed
+with on either the first or third Tuesday by two-thirds vote.
+On days when the Private Calendar is privileged the Speaker directs the clerk to call
+each bill on the Private Calendar.  The measures are then passed by unanimous consent
+with little or no debate if no Member objects.  If one Member objects the measure is
+“passed over without prejudice” for later consideration.  If two or more Members object,
+the measure is automatically recommitted to the committee that reported it.  The rule also
+allows that on the third Tuesday omnibus measures, embodying those private bills that
+have been previously rejected, may have preference (although this procedure is now rarely
+used).  Each party appoints Members (currently three) as “official objectors” to act as
+watchdogs over private legislation.
+Calendar Wednesday
+The Calendar Wednesday procedure is rarely used by the House today.  Also known
+as the “Call of Committees,” this rule allows a committee to overcome what it feels is
+inaction or indifference by the majority leadership or the Rules Committee, or both, if the
+House wishes to consider a measure (Rule XV, clause 7).  The rule allows each
+committee in turn to call up bills not otherwise privileged that have been reported but that
+have not reached the House floor through a more conventional route.  Under modern
+practice the call of committees is routinely dispensed with by unanimous consent.
+Suspension of the Rules
+Suspension of the rules is used to provide expedited consideration of relatively non-
+controversial legislation.  It is the most commonly used method for raising measures for
+consideration.  Between two-thirds and three-quarters of measures that became public
+laws in recent Congresses have been considered by this method.6
+The procedure for suspension of the rules is spelled out in House Rule XV, clause
+1.  Under this rule, the Speaker may recognize a Member to move to suspend the rules and
+pass a particular measure on Mondays, Tuesdays, Wednesdays, and the last six days of
+CRS-5
+7 For more detail on special rules see, CRS Report 96-938, Special Rules in the House of
+Representatives, by Stanley Bach, James V. Saturno, and Christopher M. Davis.  Rule XIII,
+clause 6(e) and Rule XV, clause 3 also provide that an adverse report by the Committee on Rules
+on a special rule is privileged for consideration on the second and fourth Mondays of a month,
+and may be called up by any Member.
+a session.  There is no requirement limiting suspension motions to measures reported
+from committees.
+A suspension motion may be debated for 40 minutes (equally divided between a
+proponent and opponent); may not be amended from the floor (although the motion itself
+may include changes to the measure); and must pass by a two-thirds vote of those present
+and voting.  The suspension procedure effectively waives all rules of the House that
+would prevent consideration of a measure, so that no points of order may be made against
+the measure on the House floor.
+Unlike other special days, the suspension procedure is not designed to grant limited
+privilege to a specific class of legislation or empower the House to circumvent a
+recalcitrant committee or leadership.  The Speaker’s authority with regard to suspension
+motions is not limited by the rules of the House.  Party rules, however, establish
+boundaries that the Speaker is generally expected to observe.  The rules of the Republican
+Conference (and previously of the Democratic Caucus) direct the Speaker not to recognize
+Members to move to suspend the rules for measures that would involve more than $100
+million.  Currently, Republican Conference rules further provide that the Speaker should
+not schedule any bill for consideration under the suspension procedure that does not
+include a cost estimate, has not been cleared by the minority, or is opposed by more than
+one-third of a reporting committee’s members, unless the rule is waived by a majority of
+the party’s elected leadership.
+Special Rules
+The House Committee on Rules is authorized to report resolutions on the order of
+business.  These resolutions, called special rules, are privileged under Rule XIII, clause
+5(a), and generally provide for the House to make in order floor consideration of a
+measure.7  In effect, special rules allow the House to take a measure from the House or
+Union Calendar (or even one not reported by a committee), and give it privilege to be
+considered.  Most major and controversial legislation is considered under this method.
+Otherwise privileged measures, such as appropriations bills and budget resolutions, may
+come before the House on the adoption of a special rule as well.  Special rules are
+considered in the House under the one-hour rule, but the measure covered by the special
+rule is typically considered in the Committee of the Whole (although consideration in the
+House can be specified if it is appropriate).
+Special rules set the terms and conditions for consideration of the specified measure.
+Special rules typically state a period for general debate on the measure as a whole, and
+expedite final action after the Committee of the Whole is finished with consideration.
+Special rules may include provisions to structure the amending process for a measure and
+CRS-6
+may also waive points of order against consideration of a bill, against specified
+provisions, or against amendments.
+Unanimous Consent
+For some noncontroversial matters, the Speaker will recognize a Member to ask for
+unanimous consent that a measure be passed.  If any Member objects to the request, the
+measure will fail to pass.  In this circumstance, no formal debate can take place, but
+Members may sometimes reserve the right to object in order to clarify the content or
+purposes of a measure.  Unanimous consent requests can also be made to provide for
+consideration of a measure, although this is rare.  The request may designate a procedure
+under which debate may take place and amendments may be offered.  Typically, the
+Speaker will not recognize a Member to make a unanimous consent request unless it has
+been cleared by both the majority and minority.

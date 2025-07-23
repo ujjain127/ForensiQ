@@ -1,0 +1,1784 @@
+COLLBRAN PROJECT
+ROCK AND SOIL SOURCES
+PRE-DECISIONAL 
+ENVIRONMENTAL ASSESSMENT
+Prepared By:
+U.S. Bureau of Reclamation
+Western Colorado Area Office
+Grand Junction, Colorado
+Prepared For:
+U.S. Forest Service
+Grand Mesa, Uncompahgre, and 
+Gunnison National Forests
+Grand Junction, Colorado
+October 31, 2000
+TABLE OF CONTENTS
+CHAPTER 1 - INTRODUCTION
+Need for and Purpose of Action . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Authority . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Background Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Scoping . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Issues and Concerns . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+CHAPTER 2 - ALTERNATIVES
+No Action . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Proposed Action . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Alternatives Eliminated From Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Environmental Commitments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+CHAPTER 3 - AFFECTED ENVIRONMENT AND ENVIRONMENTAL CONSEQUENCES
+General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Recreation Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Land and Vegetation Resources
+Timber Harvesting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Noxious Weeds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Fish and Wildlife Resources
+Wildlife . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Fisheries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Forest Service Sensitive Species . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Threatened and Endangered Species . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Water Resources
+Water Rights and Use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Water Quality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Transportation and Access . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Cultural Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Indian Trust Assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Environmental Justice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Social and Economic Factors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Summary and Mitigation Measures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+CHAPTER 4 - CONSULTATION AND COORDINATION
+General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Consultation with other Agencies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+LIST OF PREPARERS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+REFERENCES CITED
+1
+TABLE OF CONTENTS (Cont.)
+APPENDIX A – DISTRIBUTION LIST
+APPENDIX B - USFWS AND FS SPECIES LIST
+FIGURES
+Vicinity Map . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Frontispiece Map
+Figure 1 - Collbran Project Rock and Soil Sources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+TABLES
+Table 1 - Timber Sales within the Collbran Project Area . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Table 2 - Sport Fisheries Reservoirs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Table 3 - Forest Service Access Roads . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+2
+CHAPTER 1 - INTRODUCTION
+Need for and Purpose of Action
+This Pre-Decisional Environmental Assessment (EA) discusses developing four (4) rock and soil
+sources (borrow pits) by the Bureau of Reclamation (Reclamation) for use in operation and
+maintenance of fifteen privately owned reservoirs on the Grand Mesa National Forest, Mesa
+County, Colorado.   Reclamation prepared this EA in cooperation with the U.S. Forest Service
+(Forest Service) to comply with the National Environmental Policy Act (NEPA), Endangered
+Species Act, and related U.S. Department of Agriculture and Department of Interior policies and
+regulations.  If based on this analysis, the Forest Service concludes the proposed action would
+have no significant impact on the human environment, preparation of an environmental impact
+statement would not be required before the action could be implemented.
+In 1957 under contracts with the Collbran Conservation District and the reservoir owners, the
+United States agreed to operate and maintain the private reservoirs associated with the Collbran
+Project.  A need has been identified to provide a long-term (up to 10 years) source of rock and
+soil material for the operation and maintenance of fifteen private reservoirs.  Rock and soil
+sources need to be close to the reservoirs to allow for easy access and reduce hauling costs.  The
+purpose of the proposed action is to allow for the operation and maintenance of the reservoirs
+under contract by Reclamation.
+The Collbran Project, in west-central Colorado, developed, for multiple purposes, a major part of
+the unused water in Plateau Creek and its principal tributaries. Supplemental irrigation service is
+furnished to approximately 21,000 acres. Electrical energy is also generated.  Major project
+works include Vega Dam and Reservoir, two powerplants, two major diversion dams, about 37
+miles of canal, and about 18 miles of pipeline and penstock.  East Fork Diversion Dam and
+Feeder Canal, along with the Bonham-Cottonwood Collection System, carry water to Bonham
+Reservoir, which supplies water to operate the Molina powerplants. The project also
+rehabilitated and modified the operation of 17 small privately owned storage reservoirs on the
+Grand Mesa situated in the Cottonwood Creek and Big Creek watersheds.  Two of the reservoirs,
+Blackman and Currier, were subsequently breached.  Fifteen reservoirs now provide water for
+power generation through the exchange of storage water on Grand Mesa for irrigation water
+from Vega Reservoir.
+Authority
+Soil and rock fall in the category of mineral materials under Forest Service regulations (36 CFR
+228.41(c)).  The Forest Service policy is to make mineral materials on National Forest Lands
+available to the public and to local, State and Federal agencies (36 CFR 228.43).  The Forest
+Service is authorized to dispose of mineral materials under the Materials Act of July 31, 1947, as
+amended.  The proposed development of these sources for borrow and riprap falls under
+authority given in 36 CFR 228.41(c)(4), Construction Materials.  The disposal of the mineral
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+3
+materials proposed by Reclamation would be handled as a single entry source under 36 CFR
+228.42. The disposal of mineral materials on National Forest System Lands occurs at the
+discretion of the Forest Service.
+The GMUG Land and Resource Management Plan (Forest Plan) calls to consider authorizing
+common variety mineral disposal under terms and conditions to prevent or control adverse
+impacts on surface resources and uses (Forest Plan, page III-64). The Forest Plan further
+identifies that reclamation objectives will be to return the land to the planned uses.                    
+Background Information
+Forest Service and Reclamation MOU
+In 1959, Reclamation and the Forest Service entered into a Memorandum of Understanding
+(MOU) in regards to the construction of the Collbran Project.  The Forest Service granted
+Reclamation permission to construct, operate and maintain the Bonham-Cottonwood Pipeline,
+the Upper Molina Penstock, and East Fork Feeder Canal; and reconstruct, rehabilitate, operate
+and maintain existing reservoirs on the Big Creek-Cottonwood Creek drainages.  The Forest
+Service also granted Reclamation the right to construct access roads where needed to perform
+construction work and the right to borrow materials where available for construction purposes.
+Reclamation agreed to establish contact with the Forest Supervisor for use and occupancy of
+national forest lands, and obtain review and approval by the Forest Supervisor of proposed
+location and plans for access roads, borrow areas, or construction work areas.
+Scoping
+Public input on the proposed development of the rock and soil sources was requested through a
+scoping letter, a news release and a public notice.  A scoping letter was sent to 18 interested
+parties on August 23, 2000 (project file).  A news release appeared in the Plateau Valley Times
+on August 28, 2000 (project file), and a public notice appeared in the Grand Junction Daily
+Sentinel on August 22, 2000 (project file).  Each asked for public comments to be submitted on
+the proposed project.  No public comments were received.
+The alternatives discussed in Chapter 2 are No Action and Proposed Action.  The proposed
+action would establish four rock and soil sources (borrow pits) to provide materials for operation
+and maintenance of the fifteen private reservoirs.
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+4
+Issues and Concerns
+Each issue and concern described below is discussed in Chapter 3.  More information on scoping
+activities is included in Chapter 4.
+Recreation Resources
+Public Use of the National Forest - The Grand Mesa National Forest provides numerous
+recreational opportunities including fishing, hunting, camping, hiking, snowmobiling and cross
+country skiing.  The forest is heavily used by the public.  The proposed project should limit
+potential conflicts with recreational uses.
+Land and Facility Resources
+Timber Harvesting Activities - Coordination is needed with the Forest Service to avoid
+potential conflicts with timber harvesting activities.
+Noxious Weed Control - Weed control activities are needed to prevent the spread of noxious
+weeds.
+Pit Plan - The Forest Service needs to review and approve a “Pit Plan” prepared by Reclamation
+that specifies how each site will be used and reclaimed.
+Fish and Wildlife Resources
+Forest Service Sensitive Species - In addition to species listed on the Federal Threatened and
+Endangered Species list, impacts to species considered sensitive by the Forest Service must be
+evaluated.
+Transportation and Access
+Off-Road Usage and Tresspass - The use of off-road vehicles is prohibited in most of the
+Grand Mesa National Forest.  The Forest Service has expressed concerns about creating
+temporary roads that become used by off-road vehicles.    
+CHAPTER 2 - ALTERNATIVES
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+5
+This chapter describes the No Action and the Proposed Action alternatives for providing rock
+and soil materials for the operation and maintenance of fifteen (15) privately owned reservoirs
+(reservoirs) in association with the Collbran Project.  Alternatives that were eliminated from
+detailed analysis are also discussed.
+No Action
+Under this alternative, the Forest Service would not take action to permit Reclamation to develop
+four (4) rock and soil sources to provide material for the operation and maintenance of the
+reservoirs.  Rock and soil materials would be acquired from other sources and transported
+considerable distances to the project sites and would significantly increase operation and
+maintenance costs.
+Proposed Action
+Under this alternative, the Forest Service would issue a “minerals use permit” to Reclamation to
+develop four rock and soil sources to provide materials for the operation and maintenance of the
+reservoirs.
+Reclamation proposes to develop four rock and soil source sites (See Figure 1) including the
+following:
+1.
+Cottonwood #5 Rock and Soil Source Site
+2.
+Bonham Pipeline Rock and Soil Source Site
+3.
+East Fork Rock and Soil Source Site
+4.
+Lambert Rock and Soil Source Site
+With exceptions to the Lambert Rock and Soil Source Site, each site was previously used as a
+rock and soil source in the 1970s during the construction of the Collbran Project.  Each rock and
+soil source is described in greater detail below.
+Cottonwood #5 Rock and Soil Source Site:  
+The Cottonwood #5 Rock and Soil Source Site was used in the 1970's to provide materials for
+various construction activities on the Grand Mesa associated with the Collbran Project.  The site
+is located about 0.1 mile northwest of Cottonwood #5 Reservoir.  The site is located at the end of
+and would be accessed using Forest Service Road 258.1B.  The proposed action would to
+remove up to 5,000 cubic yards of soil material from a 1.4 acre site within a 10 year period.
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+6
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+7
+Bonham Pipeline Rock and Soil Source Site:   
+The Bonham Pipeline Rock and Soil Source Site was used in the 1970's for various construction
+activities on the Grand Mesa associated with the Collbran Project..  The site is approximately ½
+mile northwest of Bonham Reservoir.  The site is located along the south side of and would be
+accessed using Forest Service Road 259.  The proposed action would remove up to 5,000 cubic
+yards of rock riprap and 2,500 cubic yards of soil material from a 2.75 acre site within a 10 year
+period.
+East Fork Rock and Soil Source Site:
+The East Fork Rock and Soil Source Site was also used in the 1970's in conjunction with the
+Collbran Project.  The site is approximately ½ mile east of Bonham Reservoir along a gated dirt
+road used to access the East Fork Diversion Dam and Feeder Canal from Forest Service Road
+121.  The proposed action would remove up to 5,000-cubic yards of soil material and
+1,000 cubic yards of rock riprap material from a 0.5 acre site within a 10 year period.  
+Lambert Rock and Soil Source Site:
+The Lambert Rock and Soil Source Site would be a new site.  The area has been previously
+disturbed for timber harvesting.  The site is approximately 1/8 mile southwest of Lambert
+Reservoir.  The site is located on the south side of a logging road developed for timber sale
+activities.  The site would be accessed using Forest Service Road 114 to the logging road.  An
+existing skid trail approximately 1/8-mile long would be used to haul material as needed to
+Lambert Reservoir.  The proposed action would remove 5,000-cubic yard of material from a
+2.75 acre site within a 10 year period.   
+Alternatives Eliminated from Analysis
+The Forest Service and Reclamation considered the following alternatives to provide rock and
+soil materials for operation and maintenance of the reservoirs, but eliminated them from detailed
+analysis for the following reasons:
+1.  Acquiring rock and soil sources from private sources.
+There are currently no private sources of rock and soil material on the Grand Mesa that
+could provide the needed materials.  Using private sources would require long hauling
+distances and make the operation and maintenance of the reservoirs financially infeasible.
+2.  Developing rock and soil sources in other locations on the National Forest.
+This alternative was eliminated because the National Forest is managed for multiple use
+and could result in conflicts with other uses of the forest (fishing, hiking, etc.).
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+8
+Environmental Commitments
+The proposed action includes measures as needed to:
+•
+reduce soil erosion and protect water quality
+•
+control of noxious weeds
+•
+road closures as prescribed by the Forest Service
+Reclamation would develop a “Pit Plan” approved by the Forest Service which would outline pit
+reclamation requirements including recontouring and revegetation.
+CHAPER 3 - AFFECTED ENVIRONMENT AND
+ENVIRONMENTAL CONSEQUENCES
+General
+This chapter discusses resources that may be affected by actions taken to provide rock and soil
+source material for operation and maintenance activities associated with fifteen private reservoirs
+on the Grand Mesa.  During the preparation of this Draft EA, information on issues and concerns
+was received from affected users, resource agencies, private interests, recreation interest groups
+and citizens, and other parties (see Chapter 4, Consultation and Coordination, for further details).
+For each resource, the potentially affected area and/or interests are identified, existing conditions
+are described, and impacts expected under the No Action and Proposed Action alternative are
+discussed.  The chapter concludes with a summary comparison of the alternatives and a list of
+mitigation measures.
+Mesa County has a population of about 110,000.  Grand Junction, the largest city in Mesa
+County, was founded in 1881 .  The closest community to the project is the town of Collbran,
+Colorado which was incorporated in 1908.  Collbran is a farming/recreation community with a
+population of around 228.
+Grand Mesa National Forest
+The project is in Mesa County, Colorado within the Grand Valley Ranger District of the Grand
+Mesa, Uncompahgre, and Gunnison National Forests.  The Grand Mesa National Forest was
+originally established in 1892 by President Benjamin Harris as the Battlement Mesa Forest
+Reserve.  The forest covers 351,705 acres and features the world’s largest flat-top mountain. The
+forest is managed for multiple use and supports about 13,000 cattle and provides about
+58,000-acre-feet of water from 300 lakes (USDA 2000).  The Grand Mesa National Forest is
+managed using the Forest Plan.  The plan was adopted in 1983 and amended in 1991.  A new
+Forest Plan for the Grand Mesa, Uncompahgre, and Gunnison National Forests is currently being
+developed by the Forest Service (USDA 2000).
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+9
+Collbran Project
+Reclamation constructed the Collbran Project in the 1960's and 1970's.  The project includes
+both irrigation and hydropower components.  Project features include Vega Dam and Reservoir,
+Leon-Park Feeder Canal, Southside Canal, rehabilitation of Bonham Dam and Reservoir, East
+Fork Diversion Dam and Feeder Canal, Bonham-Cottonwood Pipeline, Upper Molina Penstock
+and Powerplant, Lower Molina Penstock and Powerplant, and Substations and Transmission
+Lines (U.S. Department of Interior 1981).  In 1957, the Bureau of Reclamation entered into
+agreements with the Collbran Conservancy District and private reservoir owners to exchange
+water from 17 private reservoirs on the Grand Mesa for water in Vega Reservoir.  Under these
+agreements, Reclamation assumed the operation and maintenance of the reservoirs to produce
+electricity at the Upper and Lower Molina Powerplants.  
+Private reservoirs which were covered under those agreements included (See Figure 1):
+1.  Cottonwood Lake Reservoir #1
+2.  Cottonwood Lake Reservoir #2
+3.  Cottonwood Lake Reservoir #4
+4.  Cottonwood Lake Reservoir #5
+5.  Parker Basin Reservoir #1 (known as Neversweat)
+6.  Parker Basin Reservoir #2 (known as Little Meadows)
+7.  Parker Basin Reservoir #3 (known as Big Meadows)
+8.  Dawson Reservoir (known as Lambert)
+9.  Big Creek Reservoir #1
+          10.  Big Creek Reservoir #3 (known as Atkinson)
+          11.  Big Creek Reservoir #4 (known as Forty Acre)
+          12.  Big Creek Reservoir #5 (known as Silver Lake)
+          13.  Big Creek Reservoir #7 (known as Bonham)
+          14.  Fred DeCamp Reservoir
+          15.  T.E. Kitson Reservoir (known as Kitson)
+          16.  Blackman Reservoir (breached and abandoned)
+          17.  Currier Reservoir (breached and abandoned)     
+Because the private reservoirs are located within the Grand Mesa National Forests and many of
+the reservoirs predated the establishment of the Forest, Reclamation and the Forest Service
+entered into a Memorandum of Understanding.  The MOU entered in 1959, addressed
+procedures on how the two Federal Agencies would cooperate with regards to the construction,
+operation, and maintenance of the Collbran Project.
+ Recreation Resources
+The Grand Mesa National Forest was first established in 1892 to set aside timber for the United
+States.  Over the years, the role of the National Forest has changed to become “multiple use”. 
+Recreation has become a major focus of the Forest Service providing such recreational
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+10
+opportunities such as fishing, hunting, camping, picnicking, hiking, boating, swimming, skiing
+snowmobiling and wildlife viewing.  In 1999, the Grand Mesa provided 1.1 million recreation-
+based-days (RBD) of recreation (USFS 2000).  
+In the project area, recreation is primarily dispersed with fishing at the reservoir sites, and
+hunting and snowmobiling in the general area.  The closest developed campground is located at
+Cottonwood #1 Reservoir , which is about 1.5 miles from the Cottonwood #5 Rock and Soil
+Source Site.
+The No Action alternative would limit or restrict Reclamation’s ability to operate and maintain
+the reservoirs which over time could degrade the reservoirs and impact recreation associated
+with the reservoirs and potentially develop dam safety concerns which could possibly endanger
+the downstream public.  Under the proposed action, the rock and soil sources would be used as
+needed, primarily during the summer months, to provide materials for general maintenance
+activities associated with the fifteen reservoir sites.  The major recreational uses (hunting and
+snowmobiling) occur in the fall and winter, therefore, no conflict between recreational use and
+the proposed action is projected.                                  .  
+Land and Vegetation Resources
+Timber Harvesting
+The proposed borrow sites are within active or future planned timber sale areas.  According to
+the Forest Plan, five timber sales within the project area have either occurred, are currently
+active, or planned in the near future.  The timber sales are as follows:
+Table 1. - Timber Sales within the Collbran Project Area 
+Name
+Dates of Sale
+Acres
+Harvest Prescription
+Leon Peak
+1989-1994
+   854
+5.4 MMBF
+Englehart
+1985-1994
+1,300
+9.8 MMBF
+Big Creek
+1990-1992
+   505
+3.5 MMBF
+Bonham
+1995-?
+ 
+   700
+3 to 5 MMBF
+Cottonwood
+1993-?
+  
+   125
+0.5 MMBF
+The No Action alternative would have no affect on timber resources.  Under the proposed action,
+coordination with the Forest Service may be necessary if one of the rock and soil sources is
+being used during an active timber sale.  The Forest Service expressed concerns with heavy
+equipment used to transport borrow material interfering with timber hauling trucks. 
+Coordination with the Forest Service should address this concern and the proposed action is not
+projected to affect timber harvesting activities.  In addition, Reclamation would be required to
+obtain a free timber use permit to remove about 4 trees at the Lambert site and a small group of
+young aspen trees and seedlings at the Bonham Pipeline site to allow heavy equipment to access
+each site.
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+11
+Noxious Weeds 
+Noxious weeds are and will continue to be a major challenge for land managers in the west.  The
+Forest Service expressed concerns about the potential to spread noxious weeds on the Forest.  
+Reclamation has active integrated pest management programs to control noxious weeds on
+Reclamation lands to comply with Title 35 Article 5.5 (Colorado Noxious Weed Act).  Currently
+noxious weeds are not a problem at the four proposed rock and soil source sites; however with
+increased activity, the potential for noxious weed invasion is possible.  If noxious weeds become
+established, Reclamation will work with the Forest Service to develop appropriate control
+methods. 
+  
+Fish and Wildlife Resources
+Wildlife
+The Grand Mesa National Forest supports diverse populations of fish and wildlife.  The Forest
+provides excellent fawning, calving and summer habitat for mule deer (Odocoileus hemionus)
+and elk (Cervus americanas). The No Action alternative would have no affect on wildlife. Under
+the proposed action, wildlife may be temporarily displaced when heavy equipment is being
+operated; however the use of equipment will be infrequent and in short duration.  The proposed
+action is not projected to significantly impact wildlife resources. 
+Fisheries
+The Colorado Division of Wildlife through stocking programs has developed numerous sport
+fisheries of rainbow trout (Oncorhyncus mykiss) , Colorado River cutthroat trout (Oncorhynchus
+clarki pleuriticus), Snake River cutthroat trout (Oncorhyncus clarki subsp.), brown trout (Salmo
+trutta), brook trout (Salvelinus fontinalis), splake (namaycush x Salvelinus fontinalis) and Arctic
+grayling (Thynallus arcticus) (Colorado Outdoors ND).
+Table 2 shows the reservoirs within close proximity to the project area and the primary sport
+fisheries.  The No Action alternative would limit or restrict Reclamation’s ability to operate and
+maintain the reservoirs which over time could degrade the reservoirs and impact fish habitat
+associated with the reservoirs and potentially develop dam safety concerns which could possibly
+endanger the downstream public.  The proposed action is not projected to impact fisheries
+resources.
+Table 2 - Sport Fisheries Reservoirs 
+Reservoir
+Distance to Borrow Site
+Sport Fisheries
+Bonham Reservoir
+0.3 mi. from East Fork site
+Snake River cutthroat and rainbow trout
+Atkinson Reservoir
+0.9 mi. from East Fork site
+rainbow, cutthroat, and brook trout
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+12
+Big Creek Reservoir
+1.7 mi. from East Fork site
+Colorado River cutthroat trout
+Lambert Reservoir
+0.2 mi. from Lambert site
+not stocked
+Cottonwood No. 5
+Reservoir
+0.1 mi. from Cottonwood No. 5
+site
+Snake River and Colorado River cutthroat, and
+brook trout.
+Neversweat Reservoir
+0.8 mi. from Cottonwood No. 5
+site
+rainbow and brook trout
+Big Meadows Reservoir
+0.5 mi. from Cottonwood No. 5
+site
+rainbow and brook trout
+Little Meadows Reservoir
+0.3 mi. from Cottonwood No. 5
+site
+not stocked
+Cottonwood No. 4
+Reservoir
+1.0 mi. from Cottonwood No. 5
+site
+rainbow trout
+Cottonwood No. 1
+Reservoir
+1.1 mi. from Cottonwood No. 5
+site
+rainbow, cutthroat, and brook trout, and splake
+DeCamp Reservoir
+0.8 mi. from Cottonwood No. 5
+site
+brook trout
+Silver Lake
+2.5 miles from Cottonwood No.
+5 site
+Colorado River cutthroat
+Forty-Acre Lake
+3.25 miles from Cottonwood
+No. 5 and Bonham Pipeline
+sites
+brook trout
+Lily Lake
+1.75 miles from Cottonwood
+No. 5 site
+rainbow and brook trout
+Kitson Reservoir
+0.6 mi. from Cottonwood No. 5
+site
+rainbow and brook trout, and Arctic grayling
+Forest Service Sensitive Species
+The Forest Service provided a list of 45 sensitive species that may occur within the project area
+or be affected by the proposed project.  Each species was evaluated based on habitat type and the
+projects potential to affect the sensitive species (Appendix B).  Both the No Action alternative
+and the proposed action are projected to have no affect on sensitive species.
+Threatened and Endangered Species
+Threatened and endangered species are plants and animals legally protected under the
+Endangered Species Act (ESA).  This EA is designed to serve as the Forest Service’s biological
+assessment under Section 7 of ESA.  The U.S. Fish and Wildlife Service (2000) provided a list
+of threatened and endangered species that might be affected by the proposed project or might
+occur within the project area.  The list is as follows:
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+13
+Bald eagle
+Haliaeetus leucocephalus
+Threatened
+Canada lynx
+Lynx canadensis
+Threatened
+Colorado pikeminnow
+Ptychocheilus lucius
+Endangered
+Razorback sucker
+Xyrauchen texanus
+Endangered
+Humpack chub
+Gila cypha
+Endangered
+Bonytail
+Gila elegans
+Endangered
+Boreal Toad
+Bufo boreaus boreas
+Candidate
+Inventories were conducted by Reclamation biologists in July/September 2000.  Literature
+research and personal communications were also used to evaluate proposed project effects on
+listed and candidate species.  Each species was evaluated in terms of potential project impacts
+and the proposed action is projected to have no affect on threatened, endangered or candidate
+species.  The known distribution and status of these species are discussed below.
+Bald Eagle
+The bald eagle (Haliaeetus leucocephalus) was classified as endangered in 43 of the 48
+contiguous states on February 14, 1978.  The species was reclassified threatened by the U.S. Fish
+and Wildlife Service August 11, 1995 (U.S. Fish and Wildlife Service 1995b).
+Life History:
+The bald eagle is distinctive by its white head, white tail plumage, dark brown to charcoal black
+wing and body plumage, and massive yellow bill.  The bald eagle ranges from 30-43 inches (75-
+108 cm) in height and has a wing span between 7-8 ft.  Males often appear darker than females. 
+Females are larger than males.  Immature bald eagles (6 months to 2 years old) have a dusky
+head and tail plumage (Peterson 1990; U.S. Bureau of Reclamation 1994).  
+Feeding habitats are eclectic, reflecting the opportunistic behavior of large raptors.  Prey include
+fishes, ground dwelling scuirids, waterfowl, ungulate carrion and lagomorphs (U.S. Bureau of
+Reclamation 1994).  
+Age of first breeding is commonly assumed to be coincident with acquisition of definitive adult
+plumage.  Breeding commonly occurs between ages 6 and 7 years old.  Nest building and repair
+occur every year.  Both male and females build stick nests used over many years.  Nests can be
+as large as 3 m (10 ft.) high and 2.1 m (7 ft.) wide.    Alternate nests may be present in the
+breeding area, but pairs usually use one nest until it either falls from the tree or the tree is lost
+(U.S. Bureau of Reclamation 1994).
+Egg laying normally occurs in early February to mid-April depending on elevation.  Average
+clutch size is two eggs.  Incubation averages 31 to 35 days.  Eggs hatch in mid-March to mid-
+May and the nesting period lasts 11 to 14 weeks.  Both genders incubate, brood and feed young
+but the female performs most of the tasks.  Fledglings are dependent on adults for 6 to 10 weeks
+and adults will feed juveniles other than their own (U.S. Bureau of Reclamation 1994).
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+14
+Habitat Preference/Detail:
+Bald eagles occupy riparian or lacustrine habitats almost exclusively during the breeding season,
+but occasionally exploit upland areas for food and roost sites, especially during the winter.  Nests
+sites are mostly commonly distributed around the periphery of lakes and reservoirs larger than 80
+acres in size.  Nesting also occurs linearly along forested corridors of major rivers, usually
+within 1 mile of shore; however, cases have been reported of birds nesting as far as 9.3 miles
+from water while exploiting locally abundant prey such as prairie dogs (U.S. Bureau of
+Reclamation 1994).   
+Distribution and Abundance:
+The bald eagle is the only species of Haliaeetus occurring in and restricted to North America. 
+Historic bald eagle distribution included every state (except Hawaii) and Canadian province and
+portions of northern and eastern Mexico (Brown 1976).   Populations became depressed in the
+1960's from effects of use of the pesticide DDT.
+The Colorado Division of Wildlife considers the Colorado River and portions of Plateau Creek
+to be bald eagle winter range.  Eagles have been observed in concentrations at the mouth of
+DeBeque Canyon and usage observed throughout the riparian corridor. The closest known nest
+site is Westwater (CDOW 2000).  A major roosting site was recorded on the south side of
+Plateau Creek approximately 20 miles northwest of the project site (Bureau of Land
+Management 1996).
+Impacts from the Proposed Action:
+No known roosting or nesting habitat occurs with the project area; however, bald eagles may
+incidentally use the area during migration.   According to Reclamation personnel stationed at the
+Bonham Field Office, bald eagles are rarely seen in the project area.  Three birds were seen at
+project reservoirs for approximately one week in February 1999 (USBR 2000).  No birds have
+been seen using the project area in the spring, summer or fall.  The proposed action is projected
+to have no affect on bald eagles.
+Canada lynx
+The Canada lynx (Lynx canadensis) was listed as threatened by the U.S. Fish and Wildlife
+Service on March 24, 2000 (U.S. Fish and Wildlife Service 2000).  The listing applies to the
+contiguous United States Distinct Population Segment.  
+Life History:
+ Lynx are medium-sized cats, specialized predators that are highly dependant on snowshoe hares
+(Lepus americanus) for food.  Long legs and large feet make lynx highly adapted for hunting in
+soft deep snow where snowshoe hares spend the winter (Quinn and Parker 1987).  Canada lynx
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+15
+inhabit primarily the boreal, sub-boreal, and western montane forests of North America (Koehler
+and Aubry 1994).
+In the north, Canada lynx breed through March and April (Quinn and Parker 1987).  It is
+assumed that females only breed with one male but this assumption has not been tested. 
+Gestation is about 70 days.  During periods when hares are most abundant, yearling lynx give
+birth.  Male lynx are thought to be incapable of breeding during the first year (Mowat et al
+1999).
+Habitat Preference/Detail:
+Lynx habitat in the Southern Rockies is likely found within the subalpine and upper montane
+forest zones, typically between 2,450 - 3,650 m (8,000 and 12,000 feet) in elevation.  Depending
+on latitude and moisture gradients; however, the lower range of suitable lynx habitat may begin
+at lower or higher elevations (Ruediger et al 2000).  The Canada Lynx Conservation Assessment
+and Strategy (Ruediger et al 2000) recommends that lynx habitat be thought of in terms of a
+habitat mosaic with the forest landscapes, rather than as simple vegetation types.  Spruce-fir,
+lodgepole pine, white fir, aspen, and mesic Douglas-fir may all provide foraging and/or denning
+habitat for lynx.  High elevation sagebrush, mountain shrub, riparian, and wetland shrub
+communities may also be important in providing alternative prey resources.   Lynx relocated in
+Colorado in 1999 are frequently located in well developed riparian and valley wetland shrub
+habitats of the upper montane and subalpine zones.
+Denning habitat in the Southern Rockies is likely to occur most often in late-successional spruce-
+fir forest with a substantial amount of large diameter woody debris on the forest floor, frequently
+found on north to northeast exposures.  Younger forests may, in some cases, provide similar
+characteristics.  Fires, blowdowns, and certain timber harvesting practices can leave considerable
+stacked and jack-strawed large-diameter woody debris under forest canopies, providing excellent
+denning potential.  For the denning habitat to be functional, it must be in or adjacent to large
+areas of quality foraging habitat.  Denning habitat should provide multiple quality den site
+options to female lynx (Ruediger 2000).
+The Forest Service (2000) conducted habitat analysis using vegetation maps for the Grand Mesa. 
+Eight habitat units containing denning, winter foraging, summer foraging, and capable habitats
+were mapped.  The management units include Kannah Creek, Mesa Lakes, Cottonwood Lakes,
+Island Lakes, Green Mountain, the Flat Tops, Ruth Mountain, and South Mann Peak.
+Suitable habitat was mapped using the following criteria:
+A. Denning Habitat
+•
+Spruce-fir: Crown cover >40% only with tree size classes large or very large.
+•
+Cool Moist Douglas-fir (<11% pine): Crown cover >70% only with tree stands
+with tree size classes large or very large.
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+16
+•
+Aspen with Crown Cover >40% and >40% Conifer: Only stands with tree size
+classes large or very large.
+•
+Lodgepole: Same as spruce-fir criteria.
+B.  Summer Foraging Habitat
+•
+Spruce-fir: Crown cover >40% including all tree size classes.
+•
+Cool Moist Douglas-fir (<11% pine): Crown cover >40% including all tree size
+classes.
+•
+Lodgepole: Stands with small tree size classes.
+•
+Aspen with Crown Cover >40% and >40% Conifer: All stands with medium,
+large and very large trees plus stand with small individuals.
+•
+Willow Riparian: Within 400 meters of the above cover types plus alpine willow
+riparian corridors above 11,500 feet.
+•
+Upland Mountain Shrub Communities: Does not include oakbrush.
+C.  Winter Foraging Habitat
+•
+Spruce-fir: Crown cover >40% including all stands with all tree size classes.
+•
+Cool Moist Douglas-fir (<11% pine): Crown cover >40% including all stands
+with all tree size classes.
+•
+Lodgepole: Stands with small individuals.
+•
+Aspen with Crown Cover >40% and >40% Conifer: All stands with medium,
+large and very large tree size classes plus all stands with small individuals.
+•
+Willow Riparian: Within 400 meter of the above cover types.
+D.  Capable Habitat (Currently Unsuitable)
+•
+3A structural stages of spruce-fir and Douglas-fir.
+•
+Conifer invaded aspen with <40% conifer.
+•
+All lodgepole which does not meet the suitable criteria.  
+E.  Non-Habitat
+•
+4A structural stages of spruce-fir, aspen, Douglas-fir; all stages of oakbrush, pure
+aspen, ponderosa pine, pinyon pine-juniper, grasses, and forbs, along with rock
+and water.
+ 
+Distribution and Abundance:
+The North American distribution of lynx and their two most important prey species, snowshoe
+hares and red squirrels, roughly coincide ( Hall 1981).  During the 1800's and early 1900's, lynx
+occurred in Colorado, Idaho, Maine, Michigan, Minnesota, Montana, New Hampshire, New
+York, Utah, Washington, Wisconsin, and Wyoming.  Relatively few records occur in other
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+17
+states.  Lynx are scarce in New Hampshire and were thought to be extinct in New York,
+Colorado and Utah.  The status of lynx in the remaining states is unknown (Ruggiero et al 1999). 
+In 1969, three lynx species were taken in adjacent counties (Pitkin, Eagle, and Lake Counties) in
+the central core of the Southern Rockies.  In 1972, two lynx were trapped in Clear Creek County. 
+During the 1973-74 winter, two lynx were illegally trapped within the Vail Ski Area boundaries. 
+No specimens have been collected since that time but lynx tracks were documented in 1989 in
+the vicinity of the Vail Ski Area and in 1991 at a proposed ski area site south of Wolf Creek Pass
+in the eastern San Juan Mountains.  In recent years, probable lynx tracks or sightings have
+occurred in Summit, Park, Montezuma, Costilla, and Eagle Counties.
+In 1999 and 2000, the Colorado Division of Wildlife transplanted 96 lynx from Canada and
+Alaska into the San Juan Mountains.  Of these a majority have established or appear to be
+establishing in the Southern Rockies.  Other individuals have taken up residence as far east as
+Cuchara Pass in Huerfano County, and as far north as Rocky Mountain National Park ( Ruediger
+et al 2000).  
+Impacts of the Proposed Action:
+While lynx have not been documented within the project area, potential suitable habitat occurs
+throughout the Grand Mesa National Forest.  In February of 2000, the U.S. Forest Service and
+the U.S. Fish and Wildlife Service entered into a Canada Lynx Conservation Agreement (CLCA)
+to promote the conservation of the Canada lynx on federal lands managed by the signatories. 
+Overlaying the rock and soil source borrow sites with lynx habitat mapping completed by the
+Forest Service shows all rock and soil source sites within non-habitat about a ½ mile from
+denning or capable lynx habitat.  The CLCA identifies actions to reduce or eliminate adverse
+effects or risks to the species and its habitats, and to maintain the ecosystem on which the lynx
+depends including:
+To coordinate assessment and planning efforts between the two agencies and with
+appropriate entities (e.g. Bureau of Land Management, National Park Service, State and
+Tribal agencies) to assure a comprehensive approach to conserving lynx;
+   
+To use the Science Report and LCAS, together with locally specific information as
+appropriate, as the basis for these actions; and
+To use the Science Report and LCAS, together with locally specific information as
+appropriate, as the basis of streamlining section 7 conferencing and consultation between
+the FS and FWS should the lynx be listed under ESA.
+The LCAS identifies the following conservation measures which are applicable to the proposed
+project:
+Other Human Developments: Oil and Gas Leasing, Mines, Reservoirs, Agriculture
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+18
+1.  If activities are proposed in lynx habitat, develop stipulations for limitations on timing
+of activities and surface use and occupancy at the leasing stage.
+2.  Minimize snow compaction when authorizing and monitoring developments. 
+Encourage remote monitoring of sites that are located in lynx habitat, so that they do not
+have to be visited daily.
+3.  Develop a reclamation plan (e.g. road reclamation and vegetation rehabilitation) for
+abandoned well sites, closed mines to restore suitable habitat for lynx.
+4.  Close newly constructed roads ( built to access mines or leases) in lynx habitat to
+public access during project activities.  Upon project completion, reclaim or obliterate
+these roads.
+The proposed action is designed to comply with these conservation measures.  The rock and soil
+sources will only be used in late spring, summer and early fall.  The project will utilize only
+existing forest service roads with the exception of about 1/8 of a mile of skid trail near Lambert
+Reservoir that was developed during previous timber harvesting activities.  Reclamation will
+attempt to keep this trail closed to vehicles by constructing berms and falling trees across the
+trail.  Reclamation will use the trail for hauling materials from the Lambert Rock and Soil Source
+site to Lambert Reservoir and close the trail if there are long lapses (more than 5 days) in using
+the site. 
+With implementation of the above conservation measures, the proposed action is projected to
+have no effect on the Canada lynx or suitable lynx habitat.  
+Razorback Sucker
+The Razorback sucker (Xyrauchen texanus) was listed as endangered by the U.S. Fish and
+Wildlife on October 23, 1991 (U.S. Fish and Wildlife Service 1991).  Critical habitat was
+designated on March 21, 1994 (U.S. Fish and Wildlife Service 1999).
+Life History:
+The razorback sucker is an endemic species unique to the Colorado River Basin.  Razorback
+sucker were historically abundant and widely distributed within warmwater reaches throughout
+the Colorado River Basin.  The species can be identified by its large fleshy subterminal mouth
+and is the only sucker with an abrupt sharp-edged dorsal keel behind its head.  Adults often
+exceed 3 kg (6 pounds) in weight and 600 mm (2 feet) in length.
+Males are smaller and slimmer than females but have larger fins and a more exaggerated
+predorsal keel.  In late winter to spring, both sexes exhibit breeding colors of dark brown to
+black dorsally and yellow ventrally with a lateral band that can be orange, reddish, or violet. 
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+19
+Riverine spawning is linked to the ascending limb of the hydrograph, generally during May or
+June in the upper Colorado River Basin (Minckley et al 1991).  Spawning appears to be ritual.
+Habitat Preference/Details:
+Razorback suckers occupy a variety of habitats during their lives.  In general, razorback suckers
+prefer calmer, flatwater reaches over higher velocity whitewater or canyon reaches (Minckley et
+al. 1991). Adults occupy shoreline and mainline channel habitats including slow runs, shallow to
+deep pools, backwaters, eddies, and other slow velocity habitats associated with sand substrates
+(Tyus and Karp, 1990; Osmundson and Kaeding 1991). During spawning, preference appears to
+consist of gravel and cobble substrates clear of fine materials.  The fish create depressions of
+20 cm or more for spawning.  All documented spawning in rivers occur in broad, flatwater areas
+(Minckley et al. 1991).  Young fish remain along shorelines in embayments and tributaries and
+then disperse into channels or larger backwaters.  Juveniles appear to drift downstream into these
+habitat types (Minckley 1991).  Tyus and Karp (1990) and Osmundson and Kaeding (1991)
+describes these habitat preferences in greater detail.  
+Distribution and Abundance:
+Historically, razorback suckers were found in the mainstem Colorado River and major tributaries
+in Arizona, California, Colorado, Nevada, New Mexico, Utah, Wyoming and in Mexico
+(Minckley 1983).  Population declines can be attributed to constructions of dams and reservoirs,
+introduction of nonnative fishes, and dewatering of the Colorado River system (U.S. Fish and
+Wildlife Service 1999).  Reproduction may also be affected by selenium contamination in the
+Upper Colorado River.
+The current distribution and abundance of razorback sucker has been significantly reduced
+throughout the Colorado River system (U.S. Fish and Wildlife Service 1999).  In the upper
+Colorado River basin, razorback sucker populations are the largest in the Green River and lower
+Yampa River.  In the Colorado River, most razorbacks are found in the Grand Valley near Grand
+Junction, Colorado (U.S. Fish and Wildlife Service 1999).  In 1991 and 1992, 28 adults were
+collected from isolated ponds adjacent to the Colorado River near DeBeque, Colorado (Burdick
+1992). 
+Razorback sucker’s range in the Colorado River currently extend upstream to Rifle, Colorado. 
+Most razorbacks have been documented in flooded gravel pit ponds adjacent to the river. 
+Razorback suckers have been documented as far upstream as river mile 183.6 and in 1988 as far
+as river mile 235 near Rifle, Colorado (U.S. Fish and Wildlife Service 1999; Burdick 1992).
+To date, the Service has stocked 10,998 4- to 11-inch razorback suckers in the upper Colorado
+River near Parachute, Colorado.  Razorback suckers have been documented drifting over all
+three diversion structures (Burdick 2000).  The Recovery Program approved plans to stock
+102,100 6-inch and 30,600 12-inch razorback suckers between Rifle and DeBeque Canyon,
+Colorado within the next five years (U.S. Fish and Wildlife Service 1999).
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+20
+ 
+Critical habitat was designated for the razorback sucker by the U.S. Fish and Wildlife Service on
+March 21, 1994.  The three designated areas encompass 1) Colorado, Mesa and Garfield
+Counties, 2) Colorado, Delta and Mesa Counties and 3) Utah, Grand, San Juan, Wayne, and
+Garfield Counties (U.S. Fish and Wildlife Service 1994).
+The project area is within a tributary watershed to designated critical habitat the Colorado River
+in Colorado, Mesa and Garfield Counties, as follows:
+Colorado, Mesa and Garfield Counties.  The Colorado River and its 100-year flood plain
+from the Colorado River Bridge at exit 90 north off Interstate 70 in T. 6 S., R. 93 W.,
+section 16 (6th Principal Meridian) downstream to Westwater Canyon in T. 20 S., R. 25
+E., section 12 (Salt Lake Principal Meridian) including the Gunnison River and its 100
+year flood plain from the Redlands Diversion Dam in T. 1 S., R. 1 W., section 27 (Ute
+Meridian) to the confluence with Colorado River in T. 1 S., R. 1 W., section 22 (Ute
+Meridian).
+Impact from the Proposed Action:
+The proposed action will not result in additional depletions from the Colorado River and will not
+affect designated critical habitat. 
+A Programmatic Biological Opinion issued by the U.S. Fish and Wildlife Service considers
+implementation of the Recovery Implementation Program Recovery Action Plan as a reasonable
+and prudent alternative for historic and future depletions and development on the Upper
+Colorado River (U.S. Fish and Wildlife Service 1999). The Collbran Project was included in the
+consultation.
+Because the proposed action will not require additional depletions from the Colorado River and
+will not affect designated critical habitat, the proposed action is projected to have no affect on
+razorback sucker. 
+Colorado Pikeminnow
+The Colorado Pikeminnow (Ptychocheilus lucius) was listed as endangered by the U.S. Fish and
+Wildlife on March 11, 1967 (U.S. Fish and Wildlife Service 1967).  Critical habitat was
+designated on March 21, 1994 (U.S. Fish and Wildlife Service 1994).  
+Life History:
+The Colorado pikeminnow (formerly known as the Colorado squawfish) is an endemic species
+unique to the Colorado River Basin.  It is the largest cyprinid fish native to North America.  It is
+a streamlined riverine fish that can reach lengths of 1.8 m and weights of 45 kg (Minckley 1973). 
+The Colorado pikeminnow is a long-lived (50 + yrs.), large, elongated fish with large nearly
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+21
+horizontal mouth and long, slender pharyngeal teeth adapted for grasping and holding prey
+(Minckley 1973, Osmundson et al 1997).  
+Once Colorado pikeminnows reach a size of 3 or 4 inches, their diet consists almost exclusively
+of other fishes.  Males become sexually mature earlier and at a smaller size than females.  All
+fish mature by age 7 and 500 mm (20 inches) in length (Vanicek and Kramer 1969). 
+Spawning is linked to the descending limb of the natural hydrograph as waters reach or exceed
+20O C (U.S. Fish and Wildlife Service 1999).  Spawning generally occurs between late June and
+late August.  
+Habitat Preference/Details:
+Spawning sites are comprised of clean-cobble substrate with deep interstitial voids (U.S. Fish
+and Wildlife Service 1999).  The Colorado pikeminnow is believed to migrate to pool/riffle areas
+near the spawning sites.  The fish appear to use deep pools, eddies, or mixing zones as resting
+areas near the spawning sites (Holden 1999).  Warm water temperature, discharge, and
+photoperiod (on or near Spring Solstice) are possible spawning and/or spawning migration cues
+(Holden 1999).
+Young of  year Colorado pikeminnow are found most frequently in backwaters.  These waters
+appear to be important nursery habitat until the fish reaches approximately 100 mm total length
+(Holden 1999).
+Adult Colorado pikeminnow have been collected from all habitat types but most frequently from
+low-velocity areas including runs, eddies, backwaters, and pooled canyon mouths.  During
+spring (pre-runoff and runoff) adults tend to use backwaters, flooded mouths of washes, and
+other low-velocity habitats that are warmer than main channel habitats.  As warm waters and
+flows recede, they use eddies and other low-velocity habitats associated with the main channel. 
+During the fall and winter they continue to use lower-velocity shoreline habitats (Holden 1999).
+Distribution and Abundance:
+Historically, Colorado pikeminnow were distributed throughout warm water reaches of the
+Colorado River Basin from Wyoming to Mexico.  By the 1970's, the fish was extirpated from the
+lower basin below Glen Canyon Dam and from portions of the upper basin.  Colorado
+pikeminnow are currently restricted to the Upper Colorado River Basin and inhabit warm water
+reaches in the Colorado, Green, and San Juan Rivers and their associated tributaries.  Population
+declines can be attributed to construction of dams and reservoirs, introduction of nonnative
+fishes, dewatering of the Colorado River system and the loss of natural hydrology (U.S. Fish and
+Wildlife Service 1999).  
+In the Colorado River, Colorado pikeminnow are found in low numbers with recruitment in
+pulses from infrequent strong year classes (Osmundson and Burnham 1998).   In the spring of
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+22
+2000, sixty-five 14- to18-inch adult Colorado Pikeminnow were stocked in the upper Colorado
+River near Parachute, Colorado.  These fish were fitted with radio-transmitters to monitor
+movements.  Fish have been documented drifting over the Grand Valley Project Dam.  One of
+the tagged Colorado pikeminnow had recently moved into the Government Highline Canal.  This
+fish passed through the first canal siphon and was located in the canal near Island Acres State
+Park.  Later this fish was located above the Grand Valley Project Dam near the Interstate 70
+tunnel.  This fish apparently swam back up the canal, through the siphon, and back through the
+headgates at the diversion dam (Burdick 2000).
+Critical habitat was designated for the Colorado pikeminnow by the U.S. Fish and Wildlife
+Service on March 21, 1994 (U.S. Fish and Wildlife Service 1994).  The six designated areas
+encompass 1) Yampa River, 2) Green River, 3) White River, 4) Gunnison River, 5) Colorado
+River and 6) San Juan River (U.S. Fish and Wildlife Service 1994).
+The project area is within a tributary watershed to designated critical habitat for the Colorado
+River in Colorado, Mesa and Garfield Counties which reads as follows:
+Colorado, Mesa and Garfield Counties; and Utah, Grand, San Juan, Wayne, and Garfield 
+Counties.  The Colorado River and its 100-year flood plain from the Colorado River
+Bridge at exit 90 north off Interstate 70 in T. 6 S., R. 93 W., section 16 (6th Principal
+Meridian) downstream to North Wash, including the Dirty Devil arm of Lake Powell up
+to the full pool elevation, in T. 33 S., R 14 E., section 29 (Salt Lake Principal Meridian).
+Impact from the Proposed Action:
+A Programmatic Biological Opinion issued by the U.S. Fish and Wildlife Service considers
+implementation of the Recovery Implementation Program Recovery Action Plan as a reasonable
+and prudent alternative for historic and future depletions and development on the Upper
+Colorado River (U.S. Fish and Wildlife Service 1999). The Collbran Project was included in the
+consultation.
+Because the proposed action will not require additional depletions from the Colorado River and
+will not affect critical habitat, it is projected that the proposed action will have no affect on the
+Colorado pikeminnow.
+Bonytail 
+The bonytail (Gila elegans) was classified as endangered by the U.S. Fish and Wildlife Service
+on April 23, 1980 (U.S. Fish and Wildlife Service 1980).  Critical habitat was designated on
+March 21, 1994 (U.S. Fish and Wildlife Service 1994).
+Life History:
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+23
+Bonytail are considered big or mainstream river species that prefer pools and eddies. It  has an
+elongated body with a thin caudal peduncle, which gives the bonytail its name.  Adult bonytail
+have been described as gray or olivaceous on the back with silvery sides and a white belly. 
+Breeding males exhibit bright red-orange lateral slashes between the paired fins, and small
+tubercles on the head and anterior of the body.  Breeding females are more subdued and
+tubercles are less well developed.  A slight orange coloration at the base of the fins is present in
+both sexes throughout most of the year (U.S. Fish and Wildlife Service 1990b).
+Bonytail generally reach total lengths of 300-350 mm; however, specimens up to 600 mm have
+been documented (Minckley 1973).  Bonytail are closely related to humpback chub (Gila cypha)
+and roundtail chub (Gila robusta).
+Habitat Preference/Detail:
+Bonytail have always been considered big or mainstream species, but little is known about the
+habitat preferences of the bonytail, primarily because the fish is so rare.  Bonytail appear to
+prefer pools and eddies rather than areas with more current (U.S. Fish and Wildlife Service
+1990b).  Bonytail in Lake Mohave appear to occupy lacustrine habitat rather than upstream
+riverine habitat near Hoover Dam.  Cold water releases from Lake Mead are believed to limit the
+use of the riverine habitat (U.S. Fish and Wildlife Service 1990b). 
+Distribution and Abundance:
+Historically, the bonytail was distributed throughout the Upper and Lower Colorado River Basin. 
+Currently the bonytail is restricted to portions of Lake Mohave and Lake Mead and small non-
+reproducing populations in upper basin in Desolation and Cataract Canyons (U.S. Fish and
+Wildlife Service 1990b).
+Extensive work since 1974 to develop hatchery stock primarily from Lake Mead was conducted
+by the U.S. Fish and Wildlife Service.  Stocking in the Upper Colorado River between Palisade
+and Loma, Colorado is being considered by the Recovery Program.
+Critical habitat was designated by the U.S. Fish and Wildlife Service in 1994 consisting of
+portions of the Yampa, Green and Colorado Rivers (U.S. Fish and Wildlife Service 1994).  The
+project area is approximately 57 river miles upstream of the critical habitat area.  The critical
+habitat area is describe as:
+Utah, Grand County; and Colorado, Mesa County.  The Colorado River from Black
+Rocks (river mile 137) in T. 10 S., R. 104 W., section 25 (6th Principal Meridian)
+downstream to Fish Ford in T. 21 S., R. 24 E., section 35 (Salt Lake Principal Meridian).
+Impact from the Proposed Action:
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+24
+A Programmatic Biological Opinion issued by the U.S. Fish and Wildlife Service considers
+implementation of the Recovery Implementation Program Recovery Action Plan as a reasonable
+and prudent alternative for historic and future depletions and development on the Upper
+Colorado River (U.S. Fish and Wildlife Service 1999). The Collbran Project was included in the
+consultation.
+The proposed action will have no affect the bonytail or designated critical habitat.
+Humpback Chub
+The humpback chub (Gila cypha) was classified as endangered by the U.S. Fish and Wildlife
+Service on March 11, 1967 (U.S. Fish and Wildlife Service 1967).  Critical habitat was
+designated on March 21, 1994 (U.S. Fish and Wildlife Service 1994).
+Life History: 
+The humpback chub is a medium-sized fish (<500 mm) that is endemic to the Colorado River
+Basin.  The humpback is closely related to the bonytail (Gila elegans) and the roundtail chub
+(Gila robusta).  Humpback chub have a laterally-compressed and tapering fusiform body, short
+narrow caudal peduncle with deeply forked tail fin, and large falcate paired fins.  Adults have a
+narrow flattened head with small eyes and a long fleshy snout and inferior subterminal mouth
+(Valdez and Rayel 1995).
+Humpbacks spawn in March to June depending on locality and water temperature. Spawning has
+been documented to occur soon after the highest spring flow when water temperatures approach
+20o C.  Juvenile fish are found in low velocity shorelines and backwaters.  Recruitment beyond
+the 2-year age class is extremely rare.  Low water temperatures and predation by non-native fish
+are believed to be the primary factors influencing recruitment (U.S. Fish and Wildlife Service
+1999).
+Habitat Preference/Detail:    
+The humpback chub requires warmer water to induce spawning (>20o C).  Adult humpback
+appear to prefer white-water canyons; however, its original distribution is not known. Data in
+Black Rocks and Westwater Canyon indicates that young utilize shallow areas (U.S. Fish and
+Wildlife Service 1999).
+Distribution and Abundance:
+The original distribution of humpback chub is unknown.  Fossil records trace humpback chub to
+about 4000 B.C. but the species was not described until the 1940's.  Until the 1950's, humpback
+chub was known only to occur in the Grand Canyon.  Specimens were later documented from the
+Upper Green River, the lower Yampa, the White River, and the Colorado River near Moab,
+Utah.
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+25
+The largest populations occur in the Little Colorado and Colorado Rivers in the Grand Canyon, 
+and in Black Rocks and Westwater Canyon in the upper Colorado River.  Fish have also been
+documented in DeBeque Canyon and one fish was collected in the Gunnison River (U.S. Fish
+and Wildlife Service 1999).
+Critical Habitat was designated on March 21, 1999 (U.S. Fish and Wildlife Service 1999) and
+includes a portion of the Colorado River approximately 57 river miles downstream from the
+project area.  The designation is as follows:
+Utah, Grand County; and Colorado, Mesa County.  The Colorado River from Black
+Rocks in T. 10 S., R. 104 W., section 25 (6th Principal Meridian) downstream to Fish
+Ford in T. 31 S., R. 24 E., section 35 (Salt Lake Principal Meridian).
+ Impact from the Proposed Action:
+A Programmatic Biological Opinion issued by the U.S. Fish and Wildlife Service considers
+implementation of the Recovery Implementation Program Recovery Action Plan as a reasonable
+and prudent alternative for historic and future depletions and development on the Upper
+Colorado River (U.S. Fish and Wildlife Service 1999). The Collbran Project was included in the
+consultation.
+Because the proposed action will not require additional depletions from the Colorado River and
+will not affect critical habitat, the proposed action will have no affect on the humpback chub.  
+Boreal Toad
+The boreal toad (Bufo boreas boreas) is currently considered “warranted but precluded” for
+federal listing under the Endangered Species Act, and is considered a “Sensitive Species” in the 
+Rocky Mountain Region of the USFS.  Boreal toad is listed as endangered in the State of
+Colorado.
+Life History:
+The boreal toad is a subspecies of the western toad and has dark, brown-black, warty skin with a
+white to cream-colored dorsal stripe which can be broken or partially missing.  Dark spots blotch
+the light underside over the chest and abdominal area.  The adult toads lack cranial crests and
+have oval parotoid glands.  Adults are large in size, with males being 2.4 to 3.2 in. (60 to 80 mm)
+long and females being 3 to 4 in. (75 to 100 mm) long from snout to vent.  Eggs are laid in
+shallow waters.  Round black eggs are linearly spaced in one to three rows within long strings of
+two-layered jelly.  Tadpoles are jet black in color though sometimes turning brown and generally
+aggregate in shallow water.  Toadlets are similar in appearance to adults but have reddish-orange
+coloration on the toes and often lack the middorsal stripe, especially when small (Stebbins 1985,
+Loeffler 1998).   Boreal toads are primarily insectivores.
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+26
+Breeding generally occurs in late May and early June, but may be as late as July at higher
+elevations, coinciding with the melting of winter snowpack.  Female adults may not breed every
+year.  Egg and tadpole development is temperature dependant. Hatching to metamorphosis takes
+about 75 days with metamorphosis occurring from late July to mid-August (Loeffler 1998).  
+Natural predators of the boreal toad include, but are not restricted to common raven, gray jay,
+western garter snake, tiger salamander, spotted sandpiper, badger, red fox, robin, racoon, and
+predacious diving beetle larvae.   Boreal toad eggs and tadpoles are toxic or distasteful to most
+predators.  Mortality has been estimated as high as 95 to 99 percent through the second year of
+life.  Boreal toads can live to nine years or older and researchers speculate that they may live as
+long as 20 years (Loeffler 1998).
+Habitat Preference/Detail:
+The southern Rocky Mountain boreal toad occupies forest habitats between 7,500 and 12,000
+feet in Colorado, southeast Wyoming, and north-central New Mexico.  Boreal toads occupy three
+different types of habitats during a one year cycle: breeding ponds, summer range, and
+overwinter refugia.  These specific habitats occur within lodgepole pine or spruce-fir forests
+(Loeffler 1998).
+Distribution is limited to areas with suitable breeding habitat in lodgepole pine, spruce-fir
+forests, and alpine meadows.  Breeding takes place in shallow, quiet water in lakes, marshes,
+bogs, ponds, and wet meadows, often with egg placement optimizing thermal effects of the
+summer sun.  Breeding has been recorded from large permanent lakes, glacial kettle ponds, man-
+made ponds, beaver ponds, marshes, and roadside ditches (Loeffler 1998).
+Less is known about summer habitats but radio-telemetry studies in Colorado indicate that there
+is considerable use of upland montane forests and rocky areas, with an affinity for locations with
+spring speeps (Loeffler 1998).  
+Distribution and Abundance:
+Historically boreal toads occurred from southeastern Alaska south to northern California, and
+east to Montana, Wyoming, Colorado and New Mexico.  In the Rockies of Colorado, Wyoming
+and New Mexico (Southern Rocky Mountain Population), the boreal toad is found near surface
+waters along foothills, mountain meadows, and mesic sub-alpine forests.  The boreal toad was
+once considered abundant throughout the higher elevations of Colorado and southwestern
+Wyoming.  Historic range of the boreal toad included the Grand Mesa and Gunnison National
+Forests in Gunnison, Delta and Mesa Counties.  Historic areas of occurrence on the Grand Mesa
+have no recent confirmed records (Loeffler 1997 and Loeffler 1998).
+Impact from the Proposed Action:
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+27
+The proposed action will not affect habitat types preferred by boreal toad.  All four rock and soil
+source sites are on dry well-drained slopes will a predominance of boulder-size rock. All sites
+are considerable distances from suitable breeding habitat (>1/8 mile).  The proposed action is
+projected to have no affect on the boreal toad.  
+Summary of Project Impacts on Threatened and Endangered Species
+The proposed action is expected to have no affect on Federally listed or candidate species. 
+Project activities would be stopped if endangered species are encountered, and the Service would
+be consulted.  Appendix B shows the anticipated project affect for Federally candidate,
+threatened and endangered species, and Forest Service sensitive species.
+WATER RESOURCES
+Water Rights and Use
+Water rights and use were described previously in Chapter 2 as it relates to the Collbran Project. 
+The No Action alternative could potentially affect the ability to store water in the fifteen private
+reservoirs.  Continued maintenance is needed to ensure that adequate water storage is available. 
+The proposed action would provide a reliable source of rock and soil material for the continued
+maintenance of Collbran Project dams.
+Water Quality
+Water quality is not expected to be affected by the proposed action.  
+TRANSPORTATION AND ACCESS
+The Grand Mesa National Forest has a well developed transportation system.  The Forest Service
+maintains Forest Service roads for recreation, timber harvesting and other activities.  All roads
+within the project area are bladed and maintained to provide access in the spring, summer and
+fall.  Access to the project area is from the town of Collbran, Colorado using Forest Service
+Road 121.  Rock and soil sources will be accessed using the existing Forest Service Roads
+shown in Table 3.
+Table 3 - Forest Service Access Roads
+Rock and Soil Source Site
+            Access Roads
+Cottonwood #5 Site
+FS 121, FS 257, FS 258, and FS 258.1B
+Bonham Pipeline Site
+FS 121, FS 259
+East Fork Site
+FS 121, East Fork Pipeline Road
+Lambert Site
+FS 121, FS 114, existing logging road
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+28
+An existing skid trail will be used to transport rock and soil material from the Lambert Rock and
+Soil Source Site to Lambert Reservoir.  This skid trail has been closed with fallen trees and
+berms.  The skid trail will be reopened when transporting material to Lambert Reservoir. 
+Reclamation would use fallen trees, berms, and reseeding to reclose the road.  The trail would
+only be open during hauling and use will be monitored.  If the public begins to use the skid trail,
+Reclamation would consult with the Forest Service.  
+Unauthorized off-road use continues to a problem on the Grand Mesa and Forest Service
+Regulations provide fines for infractions.  Fresh all-terrain vehicles (ATV) tracks have been seen
+on the closed skid trail indicating that ATVs are using the closed trail to illegally access Lambert
+Reservoir.  Additional enforcement in the Lambert area may be needed to prevent unauthorized
+access. 
+CULTURAL AND HISTORIC RESOURCES
+No cultural or historic resources were found during cultural resource surveys (USFS 2000
+; therefore, no impacts are projected under the No Action alternative or proposed
+action.
+INDIAN TRUST ASSETS
+Indian trust assets are defined as legal interests in property held in trust by the United States for
+Indian Tribes or individuals, or property that the United States is otherwise charged by law to
+protect.  No indian trust assets are known to occur within the project area; therefore, no impacts
+are projected under the No Action alternative or proposed action.  
+ENVIRONMENTAL JUSTICE
+Executive Order 12898 established environmental justice as a federal agency priority to ensure
+that minority and low-income groups are not disproportionally affected by Federal actions.  The
+ethnicity of the majority (88 percent) of residents in the project area is white (U.S. Bureau of
+Census 2000).  Other ethnicities of persons in the area include Hispanic (9 percent), and Native
+Americans, Asians, and Blacks, all less than 3 percent.  Under the No Action alternative and
+proposed action, there are no disproportionate impacts projected on any particular group of
+individuals. 
+SOCIAL AND ECONOMIC FACTORS
+The Collbran Project is one of the key elements in the social and economic fabric of the Grand
+Mesa.  For about 40 years, it has supported area farmers, provided power generation, recreation
+and fish and wildlife development, and enhanced the overall quality of life in Mesa County.  The
+proposed action provides support to the Collbran Project by providing economically affordable
+sources of rock and soil material for the continued maintenance of fifteen private reservoirs
+associated with the project.
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+29
+Under the No Action alternative, Reclamation would not be able to use rock and soil material
+from Forest Service lands which would require transportation of materials from sources off the
+Grand Mesa.  This would increase the reservoir maintenance costs significantly.  Under the
+proposed action, there would be no impact to local employment, schools, public services, or the
+overall income to the town of Collbran and Mesa County. 
+SUMMARY AND MITIGATION MEASURES
+In summary, the primary effect of the proposed action would allow Reclamation to utilize rock
+and soil material from Forest Service lands within close proximately to Collbran Project
+reservoirs.  The proposed project is designed to provide reliable and economically affordable
+rock and soil material for the maintenance of the reservoirs.
+The following environmental and social/economic commitments are included in the project plan:
+•
+Disturbed areas would be restored through the replacement of topsoil, preparation of land
+for seeding, and seeding with grasses and shrub species.  Noxious weeds would be
+controlled.  Rehabilitation would comply with an approved pit plan for each site.
+•
+Materials would only be removed from the sites when ground conditions are dry. 
+Hauling activities would be restricted during winter.
+•
+Rock and soil sources would be rehabilitated with an “as you go” philosophy.
+•
+Reclamation would use fallen trees and berms to keep the Lambert skid trail closed when
+not in use. 
+•
+Reclamation would follow all terms and conditions of Forest Service special use permits.
+•
+Reclamation would stop and consult with the Forest Service if endangered species or
+cultural resources were found during the life of the special use permit.
+•
+Reclamation would provide the Forest Service with the volume of rock and soil material
+removed from each site on an annual basis as described in the special use permit.
+ 
+CHAPTER IV - CONSULTATION AND COORDINATION
+General
+The preferred alternative was developed jointly by Reclamation and the Forest Service.  Public
+input on the proposed development of the rock and soil sources was requested through a scoping
+letter, a news release and a public notice.  A scoping letter was sent to 18 interested parties on
+August 23, 2000 (project file).  A news release appeared in the Plateau Valley Times on August
+28, 2000 (project file), and a public notice appeared in the Grand Junction Daily Sentinel on
+August 22, 2000 (project file).  Each asked for public comments to be submitted on the proposed
+project.  No public comments were received.
+Collbran Project Rock and Soil Source Pre-Decisional Environmental Assessment 
+30
+Consultation with Other Agencies
+List of Agencies
+U.S. Fish and Wildlife Service
+LIST OF PREPARERS
+The draft environmental assessment was prepared by the Bureau of Reclamation with the
+assistance of Forest Service.  Listed below are employees involved with the formulation of this
+document.
+Name
+Title
+Agency
+Terence Stroh
+General Biologist
+Bureau of Reclamation, Western
+Colorado Area Office, Grand
+Junction, Colorado
+Glenn Stone
+Civil Engineer
+Bureau of Reclamation, Western
+Colorado Area Office, Grand
+Junction, Colorado
+Liane Mattson
+Geologist
+U.S. Forest Service, Paonia Ranger
+District, Paonia, Colorado
+REFERENCES CITED
+Brown, L.H.  1976.  Eagles of the world.  Universe Books, New York.
+ 
+Burdick, B.D. 1992.  A plan to evaluate stocking to augment or restore razorback suckers in the
+Upper Colorado River.  U.S. Fish and Wildlife Service, Final Report, Grand Junction, Colorado.
+Burdick, B.D. 2000.  Personal Communications on July 31, 2000.  U.S. Fish and Wildlife
+Service, Grand Junction, Colorado.
+Bureau of Land Management 1996.  Replacement of Plateau Creek Pipeline: Biological
+Assessment.  Bureau of Land Management, Grand Junction Resource Area, Grand Junction,
+Colorado.
+Colorado Division of Wildlife.  2000.  Personal communication with Mike Grode on July 21,
+2000. Colorado Division of Wildlife, Grand Junction Colorado.
+Colorado Outdoors.  ND.  Fishing on the Grand Mesa, A Guide to Trout Fishing in 100 Lakes
+and 25 Streams.  Colorado Outdoors, Colorado Division of Wildlife, Denver, Colorado.
+Holden, P.B. (Ed.).  1999.  Flow recommendations for the San Juan River.  San Juan River Basin
+Recovery Implementation Program, U.S. Fish and Wildlife Service, Albuquerque, N.M.
+Koehler, G.M. and K.B. Aubry.  1994.  Lynx, Pages 74-98 in L.F. Ruggiero, K.B. Aubry, S.W.
+Buskirk, L.J. Lyon, and W.J. Zielinski, editors.  The scientific basis for conserving forest
+carnivores: American marten, fisher, lynx, and wolverine in the western United States.  Gen.
+Tech. Rep. RM-254, Fort Collins, CO: U.S. Department of Agriculture, Forest Service,
+Intermountain Forest and Range Experiment Station.
+Loeffler, C.  1997.  Report on the Status and Conservation of the Boreal Toad (Bufo boreas
+boreas) in the Southern Rocky Mountains.  The Boreal Toad Recovery Team, Colorado Division
+of Wildlife, Denver, CO.
+Loeffler, C.  1998.  Conservation Plan and Agreement for the Management and Recovery of the
+Southern Rocky Mountain Population of the Boreal Toad (Bufo boreas boreas).  The Boreal
+Toad Recovery Team and Technical Advisory Group, Colorado Division of Wildlife.  Denver,
+CO.
+Minckley, W.L. 1973.  Fishes of Arizona. Arizona Game and Fish Department, Phoenix.  
+Minckley, W.L.  1983.  Status of the razorback sucker, Xyrauchen texanus (Abbott), in the lower
+Colorado River Basin.  Southwest Naturalist 28(2):165-187.
+Minckley, W.L., P.C. Marsh, J.E. Brooks, J.E. Johnson, and B.L. Jensen.  1991.  Management
+toward recovery of razorback sucker (Xyrauchen texanus).  In W.L. Minckley and J.E. Deacon,
+Eds.  Battle Against Extinction.  University of Arizona Press, Tucson.
+Mowat, G., K.G. Poole, and M. O’Donoghue.  1999.  Chapter 9 - Ecology of Lynx in Northern
+Canada and Alaska in The Scientific Basis for Lynx Conservation (The Lynx Science Reports) ,
+USDA Forest Service General Technical Report, RMRS-GTR-30.
+Nesler, T. P.  1998.  Five Year Stocking Plan for Endangered Colorado River Fish Species in
+Colorado.  Colorado Division of Wildlife,  Denver.
+Nesler, T.P. 2000.  Personal Communications on July 31, 2000 with Tom Chart, U.S. Bureau of
+Reclamation Upper Colorado Regional Office.  Colorado Division of Wildlife.
+Osmundson, D.B. and Burnham.  1998.  Status and Tends of the Endangered Colorado
+squawfish in the Upper Colorado River.  Transactions of the American Fisheries Society
+127:959-972.
+Osmundson, D.B. and L.R. Kaeding.  1991.  Flow recommendations for maintenance and
+enhancement of rare fish habitat in the 15-Mile Reach during October-June.  Final Report. 
+U.S. Fish and Wildlife Service, Grand Junction, Colorado. 
+Osmundson, D.B., R.J. Ryel and T.E. Mourning.  1997.  Growth and survival of Colorado
+Squawfish in the upper Colorado River.  Transactions of the American Fisheries Society 136-
+687-698.
+Quinn, N.W.S. and J.E. Thompson.  1987.  Lynx.  Pages 683-694 in M. Novak, J.A. Baker, M.E.
+Obbard, and B. Malloch, editors.  Wild furbearer management and conservation in North
+American.  Ontario Trappers Association, North Bay.
+Ruediger, B., J. Clarr, S. Gniadek, B. Holt, L. Lewis, S. Mighton, B. Naney, G. Patton, T.
+Rinaldi, J. Trick, A. Vandehey, F. Wahl, N. Warren, D. Wenger, and A. Williamson.  2000. 
+Canada lynx conservation assessment and strategy.  USDA Forest Service, USDI Fish and
+Wildlife Service, USDI Bureau of Land Management, and USDI National Park Service. 
+Missoula, MT.
+Stebbins, R.C.  1985.  A field guide to western reptiles and amphibians.  Houghton Mifflin Co.,
+Boston, 366 pp.
+Tyus, H.M. and C.A. Karp.  1990.  Spawning and movements of razorback sucker, Xyrauchen
+texanus, in the Green River basin of Colorado and Utah.  Southwestern Naturalist 35:427-433.
+U.S. Bureau of Census.  1999.  Population Estimates for Counties by Race and Hispanic Origin. 
+Website URL.  http:/www.census.gov/population/estimates/county/crh/crhco99.txt.
+  
+U.S. Department of Agriculture.  1999.  U.S. Forest Service Website URL.  
+http:/www.fs.fed.us/r2/gmug/home/foresthistory.htm.
+U.S. Department of Agriculture.  2000.  1999 Annual Monitoring and Evaluation Report, Grand
+Mesa, Uncompahgre, and Gunnison National Forests.  U.S. Forest Service, Delta,
+Colorado.
+U.S. Department of Interior.  1981.  Water and Power Resources Service, Project Data.  U.S.
+Government Printing Office, Denver, Colorado.  1463 pp.
+U.S. Fish and Wildlife Service.  1967.  Native fish and wildlife: endangered species.  Federal
+Registrar 32-4001.
+U.S. Fish and Wildlife Service.  1980.  Determination that Bonytail Chub (Gila elegans) is an
+endangered species.  Federal Registrar 45-27710-27713.
+U.S. Fish and Wildlife Service.  1987a.   Recovery implementation program for endangered fish
+species in the Upper Colorado River Basin.  U.S. Department of Interior, Fish and Wildlife
+Service, Region 6, Denver, Colorado.  
+U.S. Fish and Wildlife Service.  1987b. Final environmental assessment: Recovery
+implementation program for endangered fish species in the Upper Colorado River Basin.  U.S.
+Department of Interior, Fish and Wildlife Service, Region 6, Denver, Colorado.  
+ 
+U.S. Fish and Wildlife Service.  1990b.  Bonytail Chub Recovery Plan.  Colorado River Fishes
+Recovery Team, U.S. Fish and Wildlife Service, Denver, Colorado.
+U.S. Fish and Wildlife Service.  1991.  Endangered and threatened wildlife and plants: the
+razorback sucker (Xyrauchen texanus) determined to be an endangered species.  Federal
+Registrar 56-54957-54967.
+U.S. Fish and Wildlife Service.  1994..  Endangered and Threatened Wildlife and Plants;
+Determination of Critical Habitat for Four Colorado River Endangered Fishes; Final Rule. 
+Federal Registrar 59-13374-13400.
+U.S. Fish and Wildlife Service.  1995b.  Endangered and Threatened Species; Bald Eagle
+Reclassification; Final Rule.  Federal Registrar 60-36000.
+U.S. Fish and Wildlife Service.  1999.  Final Programmatic Biological Opinion. U.S. Fish and
+Wildlife Service, Grand Junction, Colorado.   
+U.S. Fish and Wildlife Service.  2000.  Flow Recommendations to Benefit Endangered Fishes in
+the Colorado and Gunnison Rivers.  Recovery Program Project Number 54, Draft Final Report. 
+U.S. Fish and Wildlife Service, Grand Junction, Colorado.
+U.S. Forest Service.  2000.  Personal Communication on August 31, 2000 with Lynn Kolund,
+Recreational Specialist, Grand Valley Ranger District, Grand Mesa, Gunnison and Uncompahgre
+National Forests, U.S. Forest Service, Grand Junction, Colorado.
+U.S. Bureau of Reclamation.  1994.  Montana Bald Eagle Management Plan.  Bureau of
+Reclamation, Montana Projects Office, Billings, Montana
+U.S. Bureau of Reclamation.  2000.  Personal communication with Don Wiltse on October 10,
+2000.  Bonham Field Office, Bureau of Reclamation.
+Vanicek, C.D. and R.H. Kramer.  1969.  Life history of the Colorado squawfish Ptychocheilus
+lucious and the Colorado chub Gila robusta in the Green River in Dinosaur National Monument,
+1964-1966.  Transactions of the American Fisheries Society 98(2):193.
+U.S. Fish and Wildlife Service.  2000.  Federal Register, Volume 65, No. 58.
+Valdez, R.A. and R.J. Ryel.  1995.  Life history and ecology of the humpback chub (Gila cypha)
+in the Colorado River, Grand Canyon, Arizona.  Final Report to Bureau of Reclamation, Salt
+Lake City, Utah.  Contract No. 0-CS-40-09110.  BIO/WEST Report No. TR-250-05.  286 pp.
+SPECIES
+HABITAT DESCRIPTION
+ELEVATION
+STATUS
+Habitat
+Present
+or 
+Absent
+Affected
+by the
+proposed
+project
+APPENDIX B -USFWS and USFS Species List
+i
+Plants
+Gunnison Milkvetch
+(Astragalus anisus)
+Dry gravelly flats & hillsides in sandy
+clay soils overlaying granitic bedrock,
+usually among or under low sagebrush.
+7,500-8,500 ft.
+USFS
+Sensitive
+Absent
+No
+Molybdenum Milkvetch
+aka Leadville Milkvetch
+(Astragalus molybdenus)
+Rocky slopes and turf hillsides above
+timberline.  Usually on limestone.
+11,400-13,200
+ft.
+USFS
+Sensitive
+Absent
+No
+Reflected Moonwort
+(Botrychium echo)
+Gravelly soils, rocky hillsides, grassy
+slopes and meadows.
+9,500-11,000 ft.
+USFS
+Sensitive
+Absent
+No
+Pale Moonwart
+(Botrychium pallidum)
+Open exposed hillsides, burned or
+cleaned areas, old mining sites.
+9,800-10,600 ft.
+USFS
+Sensitive
+Absent
+No
+Round-leaf Sundew
+(Drosera rotundifolia)
+Floating Peat Mats.
+9,100-9,800 ft.
+USFS
+Sensitive
+Absent
+No
+Wolly Fleabane
+(Erigeron lanatus)
+Steep alpine scree and talus slopes.
+12,500-13,500
+ft.
+USFS
+Sensitive
+Absent
+No
+Altai Cotton-grass
+(Eriophorum brandegei)
+Fens.
+9,500-14,000 ft.
+USFS
+Sensitive
+Absent
+No
+Beardtongue Gilia
+aka Black Canyon Gilia
+(Gilia penstemonoides)
+Cracks on vertical walls, narrow ledges
+and cliff rims.  Grows in gneiss, schist
+and shale.
+6,800-9,000 ft.
+USFS
+Sensitive
+Absent
+No
+Colorado Tansy-Aster
+(Machaeranthera
+coloradoensis)
+Gravelly areas in mountain parks, slopes
+and rock outcrops up to dry tundra.
+8,500-12,500 ft.
+USFS
+Sensitive
+Absent
+No
+Hapeman’s Coolwort
+aka Hanging Garden
+Sullivantia
+(Sullivantia hapemanii)
+Hanging gardens; wet cliffs and boulders
+of various geology including limestone,
+shale and quartsite.
+7,000-10,000 ft.
+USFS
+Sensitive
+Absent
+No
+Mammals
+North American Lynx
+(Felix lynx canadensis)
+Dense spruce-fire stands in association
+with rock outcrops and large boulders. 
+Large snowshoe hare populations.
+>9,000 ft.
+Federally
+Threatened
+Absent
+No
+Pygmy Shrew
+(Microsorex hoyi montanus)
+Subalpine forests, clear-cut and
+selectively logged forests, forest-
+meadow edges, boggy meadows, willow
+thickets, aspen-fir forests, and subalpine
+parklands.
+>9,600 ft.
+USFS 
+Sensitive
+Absent
+No
+SPECIES
+HABITAT DESCRIPTION
+ELEVATION
+STATUS
+Habitat
+Present
+or 
+Absent
+Affected
+by the
+proposed
+project
+APPENDIX B -USFWS and USFS Species List
+ii
+Spotted Bat
+(Euderma maculatum)
+Ponderosa of montane forests, pinyon-
+juniper woodlands, and open semidesert
+shrublands.  Rocky cliffs are necessary
+to provide suitable cracks and crevices
+for roosting, as is access to water.
+>10,600 ft.
+USFS
+Sensitive
+Absent
+No
+Townsend’s Big-eared Bat
+(Plecotus townsendii)
+Semidesert shrublands, pinyon-juniper
+woodlands, and open montane forests. 
+Frequently associated with caves for day
+roosts and hibernacula but will also use
+abandoned buildings and crevices on
+rock cliffs for refuge.
+>9,500 ft.
+USFS
+Absent
+No
+Ringtail
+(Bassariscus astutus)
+Arid and semiarid habitats throughout
+the Southwest.  In Colorado typically
+associated with rocky canyon country
+and foothill areas of pinyon-juniper
+woodlands, montane shrublands, or
+mixed conifer-oakbrush.  Den in rock
+crevices, under large boulders, in hollow
+trees, or in old buildings.
+<9,200 ft
+USFS
+Sensitive
+Absent
+No
+Marten
+(Martens americana)
+Subalpine spruce-fir and lodgepole pine
+forests, alpine tundra, and occasionally
+montane forests.  Generally associated
+with older growth or mixed-age stands.
+>30% canopy cover needed.  Den in tree
+cavities, rock piles, and burrows, and
+frequently rest on trees limbs during the
+day.
+Most areas of
+coniferous
+forests in the
+higher
+mountains of
+Colorado
+USFS 
+Sensitive
+Absent
+No
+North American Wolverine
+(Gulo gulo luscus)
+Boreal forests and tundra.  In Canada
+and Alaska, prefer marshy areas such as
+the lowland spruce forests that support
+extensive wetlands.  Large and diverse
+ungulate populations important.
+USFS
+Sensitive
+Absent
+No
+Birds
+Common Loon
+(Gavia immer)
+Conifer lakes, tundra ponds, open lakes,
+bays, sea
+USFS
+Sensitive
+Absent
+No
+Northern Goshawk
+(Accipter gentilis apache)
+Aspen, conifer and cottonwood stand
+>10,000 ft.
+USFS
+Sensitive
+Absent
+No
+SPECIES
+HABITAT DESCRIPTION
+ELEVATION
+STATUS
+Habitat
+Present
+or 
+Absent
+Affected
+by the
+proposed
+project
+Ferruginous Hawk
+(Buteo regalis)
+Grasslands and shrublands with varied
+topography including hills, ridges and
+valleys
+USFS
+Sensitive
+Absent
+No
+APPENDIX B -USFWS and USFS Species List
+iii
+Merlin
+(Falco columbarius)
+Open woods, cliffs, adjacent to
+grasslands, tundra; in migration also
+foothills, marshes, open country coasts.
+USFS
+Sensitive
+Absent
+No
+Columbia sharp-tail grouse
+(Tympanachus phasianellus
+columbianus)
+shrublands and mountain shrublands.
+USFS
+Sensitive
+Absent
+No
+American Bittern
+(Botaurus lentiginosus)
+Large wetlands with tall, emergent
+vegetation, especially cattails.
+USFS
+Sensitive
+Absent
+No
+White-faced Ibis
+(Plegados chihi)
+Wet, marsh type habitat.
+USFS
+Sensitive
+Absent
+No
+Greater Sandhill Crane
+(Grus canadensis tabida)
+Wetland habitats.
+USFS
+Sensitive
+Absent
+No
+Western Snowy Plover
+(Charadrius alexandrinus
+nivosus)
+Wetland habitats.
+USFS
+Sensitive
+Absent
+No
+Long-billed curlew
+(Numenius americanus)
+shortgrass prairies.
+USFS
+Sensitive
+Absent
+No
+Black Tern
+(Childonias niger)
+Marsh complexes > 50 acres.
+USFS
+Sensitive
+Absent
+No
+Western Yellow-billed
+Cuckoo
+(Coccyzus americanus)
+Old growth riparian woodlands with
+dense undergrowth.
+USFS
+Sensitive
+Absent
+No
+Bald Eagle
+(Haliaeetus leucocephalus)
+Federally
+Threatened
+Absent
+No
+Western Burrowing Owl
+(Athene cunicularia)
+Rodent burrows in grasslands,
+shrublands, deserts and grass urban
+areas.
+USFS
+Sensitive
+Absent
+No
+Flammulated Owl
+(Otus flammeolus)
+Open Ponderosa Pine or forests similar
+features, e.g. dry montane conifer or
+aspen. 
+6,000-10,000 ft.
+USFS
+Sensitive
+Absent
+No
+Black Swift
+(Cypseloides niger)
+Nest on vertical rock faces, near
+waterfalls or in dripping caves
+6,500-12,000 ft.
+USFS
+Sensitive
+Absent
+No
+Lewis’s Woodpecker
+(Melanerpes lewis)
+Open pine forests, burnt-over areas with
+abundant snags and stumps, riparian and
+rural cottonwoods, and pinyon-juniper
+woodlands.
+USFS
+Sensitive
+Absent
+No
+SPECIES
+HABITAT DESCRIPTION
+ELEVATION
+STATUS
+Habitat
+Present
+or 
+Absent
+Affected
+by the
+proposed
+project
+Northern Three-toed
+Woodpecker
+(Picoides tridactylus)
+Subalpine forests, spruce-fir and ponderosa
+pine with diseased trees.
+7,000-12,000 ft.
+USFS
+Sensitive
+Absent
+No
+Olive-side Flycatcher
+(Contopus borealis)
+Conifer forests with snags.
+USFS
+Sensitive
+Absent
+No
+Pygmy Nuthatch
+(Sitta pygmaea)
+Ponderosa or other coniferous forests.
+USFS
+Sensitive
+Absent
+No
+APPENDIX B -USFWS and USFS Species List
+iv
+Golden-crowned Kinglet
+(Regulus satrapa)
+Old growth coniferous forests
+7,600-11,600 ft.
+USFS
+Sensitive
+Absent
+No
+Loggerhead Shrike
+(Lanius ludovicianus)
+Shortgrass prairies.  Also in lowland
+riparian and pinyon-juniper woodlands.
+USFS
+Sensitive
+Absent
+No
+Baird’s Sparrow
+(Ammodramus bairdii)
+Grassland prairies.
+USFS
+Sensitive
+Absent
+No
+Fox Sparrow
+(Passerella iliaca)
+Riparian willow shrublands and wet willow
+meadows.
+7,500-11,000 ft.
+USFS
+Sensitive
+Absent
+No
+Fishes
+Colorado Pikeminnow
+(Ptychocheilus lucius)
+Colorado River and its Tributaries
+Federally
+Endangered
+Absent
+No
+Razorback Sucker
+(Xyrauchen texanus)
+Colorado River and its Tributaries
+Federally
+Endangered
+Absent
+No
+Humpback Chub
+(Gila chypa)
+Colorado River and its Tributaries
+Federally 
+Endangered
+Absent
+No
+Bonytail
+(Gila elegans)
+Colorado River and its Tributaries
+Federally
+Endangered
+Absent
+No
+Amphibians
+Tiger Salamander
+(Ambystoma tigrinum)
+Frequents quiet water of ponds, reservoirs,
+lakes and temporary rain pools, and streams
+from arid sagebrush plains and rolling
+grasslands to mountain meadows and
+forests.
+USFS
+Sensitive
+Absent
+No
+Western Boreal Toad
+(Bufo boreas boreas)
+Wetlands and alpine forests.
+8,000-11,900 ft.
+USFS
+Sensitive
+Absent
+No
+Northern Leopard Frog
+(Rana pipiens)
+Frequents springs, creeks, rivers, ponds,
+canals, and reservoirs where there is
+permanent water and growth of cattails or
+other aquatic vegetation.  May forage far
+from water in damp meadows.
+USFS
+Absent
+No
+Invertebrates
+Regal Fritillary Butterfly
+(Speyenia idalia)
+Tall-grass prairies.
+Absent
+No

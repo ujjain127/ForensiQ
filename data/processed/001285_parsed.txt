@@ -1,0 +1,2119 @@
+Report as of 2006 for 2003KS33B: "A Field Assessment of a 
+Method for Estimation of Ground-Water Consumption 
+By Phreatophytes"
+ 
+Publications 
+ 
+• Conference Proceedings: 
+o Arnold, D., and J.J. Butler, Jr., Salt-cedar control activities and 
+water-table monitoring on the Arnold Ranch, Clark County, 
+Kansas, an invited presentation to the CPR for Wetlands and 
+Streams II Conference, Wichita, KS, Sept. 28, 2005. 
+o Bauer, J., Evaluating the effectiveness of salt cedar control 
+measures as a means of water conservation along the 
+Cimarron River, Kansas, undergraduate honor’s thesis, 
+Department of Geological Sciences, University of Colorado at 
+Boulder, October, 2005. 
+o Butler, J.J., Jr., Whittemore, D.O., and G.J. Kluitenberg, 
+Studies of ground-water consumption by phreatophytes in 
+river valleys of Kansas (abstract), Trans. Kansas Academy 
+Science, v. 108, no. 3/4, pp. 165-166, 2005. 
+o Butler, J.J., Jr., Whittemore, D.O., and G.J. Kluitenberg, A field 
+investigation of ground-water consumption by phreatophytes 
+in river valleys of Kansas (abstract), 50th Annual Midwest 
+Ground Water Conf., Program with Abstracts, Illinois State 
+Geol. Survey OFS 2005-13, p. 18, 2005. 
+o Butler, J.J., Jr., Whittemore, D.O., and G.J. Kluitenberg, A field 
+investigation of ground-water consumption by phreatophytes, 
+presentation at the 14th Annual Kansas Hydrology Seminar, 
+Topeka, November 18, 2005. 
+o Butler, J.J., Jr., Kluitenberg, G.J., Whittemore, D.O., Healey, 
+J.M., and X. Zhan, Quantifying ground-water savings achieved 
+by salt-cedar control measures: A demonstration project 
+(abstract), Eos, v. 86, no. 18, Jt. Assem. Suppl., Abstract 
+H33B-06, 2005 
+o Keller, J., Shea, J., Bauer, J., Butler, J.J., Jr., Kluitenberg, 
+G.J., and D.O. Whittemore, A field investigation of the 
+influence of spatial variability in hydraulic properties on 
+phreatophyte-induced fluctuations in the water table (abstract), 
+50th Annual Midwest Ground Water Conf., Program with 
+Abstracts, Illinois State Geol. Survey OFS 2005-13, p. 19, 
+2005. 
+o Kluitenberg, G.J., Butler, J.J., Jr., and D.O. Whittemore, A field 
+investigation of major controls on phreatophyte-induced 
+fluctuations in the water table (abstract), Annual Meetings 
+Abstracts [CD-ROM], ASA, CSSA, and SSSA, Madison, WI, 
+2005. 
+o Shea, J., Bauer, J., Keller, J., Butler, J.J., Jr., Kluitenberg, 
+G.J., Whittemore, D.O., Loheide, S.P., II, and W. Jin, An 
+assessment of the vulnerability of native phreatophytes to 
+replacement by invasive species in a mid-continent riparian 
+setting (abstract), Eos, v. 86, no. 52, Fall Meet. Suppl., 
+Abstract B23A-1037, 2005. 
+• Other Publications: 
+o Bauer, J., Shea, J., Keller, J., Butler, J.J., Jr., Kluitenberg, 
+G.J., and D.O. Whittemore, Diurnal water table fluctuations: 
+An underutilized indicator of ground-water consumption by 
+plants (abstract), Eos, v. 86, no. 52, Fall Meet. Suppl., 
+Abstract B23A-1038, 2005. 
+o Butler, J.J., Jr., Quantifying water consumption by 
+phreatophytes in narrow riparian corridors, presentation to the 
+University of Kansas Field Station & Ecological Reserves 
+Seminar Series, March 11, 2005. 
+o Butler, J.J., Jr., Diurnal water-table fluctuations: An 
+underutilized indicator of groundwater consumption by plants, 
+an invited presentation given as part of the Environmental 
+Seminar Series at the Desert Research Institute, Reno, NV, 
+November 4, 2005. 
+o Butler, J.J., Jr., and D.O. Whittemore, Arkansas River 
+phreatophytes, in Kansas Geological Survey Open-File Rept. 
+2005-17, pp. 4.9-4.12, 2005 (used for presentations for the 
+2005 Kansas Field Conference [Larned, June 9, 2005] and the 
+Kansas Water Authority tour west of Garden City [August 10, 
+2005]). 
+o Butler, J.J., Jr., Whittemore, D.O., and G.J. Kluitenberg, 
+Ground water assessment in association with salt cedar 
+control – Report on year one activities, Kansas Geological 
+Survey Open-File Rept. 2005-19, 28 pp., 2005. 
+• Articles in Refereed Scientific Journals: 
+o Butler, J.J., Jr., Kluitenberg, G.J., Whittemore, D.O., Loheide, 
+S.P., II, Jin, W., Billinger, M.A., and X. Zhan, A field 
+investigation of phreatophyte-induced fluctuations in the water 
+table, Water Resour. Res., pending revisions. 
+o Loheide, S.P., II, Butler, J.J., Jr., and S.M. Gorelick, 
+Estimation of groundwater consumption by phreatophytes 
+using diurnal water table fluctuations: A saturated-unsaturated 
+flow assessment, Water Resour. Res., v. 41, W07030, 
+doi:10.1029/2005WR003942, 2005. 
+ 
+Report Follows 
+ 
+1
+KWRI PROGRESS REPORT – YEAR FOUR  
+ 
+Project Title: A Field Assessment of a Method for Estimation of Ground-
+Water Consumption by Phreatophytes: Impact of Shallow-Rooted 
+Vegetation and Direct Evaporation From the Water Table 
+Duration of Reporting Period: March 1, 2006 - February 28, 2007 
+Federal Funding for Reporting Period: $37,280 
+Investigators and Affiliations: James J. Butler, Jr., Kansas Geological Survey 
+(PI), Gerard J. Kluitenberg, Kansas State University (Co-PI), Donald O. 
+Whittemore, Kansas Geological Survey (Co-PI). 
+Research Category: Statewide Competitive Grant 
+Descriptors: phreatophytes, ground water, evapotranspiration, water balance  
+ 
+ 
+PROBLEM AND RESEARCH OBJECTIVES 
+ 
+ 
+Low streamflows are an increasing problem in Kansas and other areas of the United 
+States.  As a result, smaller amounts of water are available for diversions to water supplies and 
+wetlands, for inflows to reservoirs, for capture by wells in nearby aquifers, for sustaining aquatic 
+wildlife, and for recreation.  Stream-aquifer interactions play an important role in the generation 
+and maintenance of low streamflows.  Ground-water development in regional aquifers that 
+discharge water to stream corridors and in alluvial aquifers immediately adjacent to streams is 
+often a major factor responsible for low-flow periods.  However, consumption of ground water 
+by phreatophytes in riparian zones could also be an important contributor to reduction of stream 
+flow.  Recently, partly in response to concerns about water consumption, expensive measures for 
+phreatophyte control have been advocated for stretches of rivers in western Kansas. 
+Present understanding of phreatophyte activity in stream-aquifer systems in Kansas is 
+insufficient to assess the magnitude of that activity.  This project is directed at refining 
+methodologies for quantitative assessment of phreatophyte activity, and utilizing those methods 
+to assess water savings as part of a demonstration of salt-cedar control measures along the 
+Cimarron River.  Specifically, the major objectives for the project are to 1) refine methodologies 
+for quantifying the consumption of ground water by phreatophytes, and 2) use these methods to 
+determine ground-water savings produced by control of invasive phreatophytes (salt cedar and 
+Russian olive) along a portion of the Cimarron River in Kansas.  An auxiliary objective of this 
+work is to gather a detailed data set on the major fluxes in stream-aquifer systems that can serve 
+as the basis for research proposals on the quantitative assessment of stream-aquifer interactions 
+in settings common to the Great Plains. 
+ 
+The six activities proposed for the fourth year of this project were as follows: 
+1. Monitoring of water levels and meteorologic parameters at both the Larned Research Site 
+and the Ashland Research Site;  
+2. Monitoring of vadose-zone moisture during the growing season at the Larned and Ashland 
+sites using the neutron probe, and the testing and deployment of a new generation of capacitance 
+sensors for measurement of volumetric water content at the Ashland site;  
+3. Determination of specific yield; 
+ 
+2
+Figure 2 – Barometric pressure correction at LRS well LWPH3.
+6613LWPH3 2003-07-14 to 08-04.xls
+14.75
+14.8
+14.85
+14.9
+14.95
+15
+7/14
+7/19
+7/24
+7/29
+8/3
+  Date
+Absolute pressure (PSI)
+6613LWPH3 2003-07-14 to 08-04.xls
+2.6
+2.65
+2.7
+2.75
+2.8
+2.85
+2.9
+7/14
+7/19
+7/24
+7/29
+8/3
+  Date
+Water level (ft)
+Figure 1 – Location map for sites used in this study.
+4. Assessing the rate of ground-water consumption by shallow-rooted vegetation and direct 
+evaporation at the Ashland site;  
+5. Modeling of water flow under unsaturated and saturated conditions in the vicinity of 
+selected wells at the Ashland site; 
+6. Reassessing the ground-water savings obtained through phreatophyte-control efforts at the 
+Ashland site.  
+ 
+  
+METHODOLOGY 
+ 
+ 
+This work is being 
+done at two Kansas 
+Geological Survey 
+(KGS)/Kansas State 
+University (KSU) research 
+sites: the Larned Research 
+Site (LRS) located 
+adjacent to the United 
+States Geological Survey 
+stream-gaging station on 
+the Arkansas River near 
+Larned in central Kansas, 
+and the Ashland Research 
+Site (ARS) located along 
+the Cimarron River south 
+of Ashland in southwest 
+Kansas (Figure 1).  The 
+KGS/KSU research team 
+focused on the LRS in the first two years of 
+the project and then expanded the scope of 
+the project in year three to include the ARS.  
+The vegetation at the LRS is dominated by 
+phreatophytes that are native to the Arkansas 
+River riparian zone (cottonwood, willow, and 
+mulberry), while the ARS is dominated by 
+invasive phreatophytes (salt cedar and 
+Russian olive). 
+ 
+A series of shallow wells have been 
+installed at the LRS and ARS to monitor the 
+position of the water table through time. All 
+wells are equipped with integrated pressure 
+transducer/datalogger units (In-Situ 
+MiniTroll) that are programmed to take 
+pressure-head readings every 15 minutes.  
+Since riparian-zone wells can be overtopped 
+during periods of high stream flow (at least 
+ 
+3
+10 wells at the LRS and one at the ARS have been overtopped in the course of this project), 
+absolute pressure sensors are used at most wells (12 out of 19 wells at the LRS and all six wells 
+at the ARS) instead of the standard gauge-pressure sensors. The absolute-pressure sensors 
+measure the pressure exerted both by the height of the overlying column of water in the well and 
+by the atmosphere. The atmospheric pressure component is removed using data from a barometer 
+at the site. Figure 2 displays records from an absolute-pressure sensor in the riparian zone at the 
+LRS prior to and after the barometric pressure correction. Manual measurements of water levels 
+in the monitoring wells are taken biweekly during the summer and bimonthly otherwise to 
+assess the performance of the pressure sensors and, if necessary, to adjust the calibration 
+parameters.  Three barometers are maintained at each site, one of which is designated the site 
+reference, to ensure data collection is not impacted by failure of a barometer. Barometer 
+performance at each site is assessed through a comparison of the three site barometers.  In 
+addition, a handheld barometer is used to assess sensor performance during site visits.  
+A series of neutron-probe access tubes have been installed at each site (eight access tubes 
+at the LRS and six at the ARS), so that volumetric water content can be measured at biweekly 
+intervals during the growing season. Measurements in the access tubes are recorded with a 
+neutron probe (Model 503 DR Hydroprobe Moisture Depth Gauge; Campbell Pacific Nuclear) 
+using a count duration of 16 s and depth increments of either 0.076 m or 0.152 m. Standard 
+counts are recorded in the field both prior to and after access tube measurements. The mean 
+standard count for the duration of the study is used to convert each measured count to a count 
+ratio (CR). The soil volumetric water content (m3 m−3), θ, corresponding to each measured count 
+ratio is calculated with the calibration equation θ = 0.2929 × CR − 0.0117, which is based on 
+laboratory calibrations and an adjustment for PVC pipe. 
+In the summer of 2006 (fourth year of project), a new generation of capacitance sensors 
+for the measurement of volumetric water content, Decagon ECH2O-TE sensors, was deployed in 
+shallow pits at the ARS, each of which was adjacent to one of the ARS monitoring wells and 
+neutron-probe access tubes.  The sensors were used to monitor volumetric water content, bulk 
+electrical conductivity, and temperature for 8-16 hours at a 5-min logging interval.  A total of 
+three pits were used and 15 probes were installed at differing depths (maximum depth of 1.07 m) 
+in each pit.  At the end of the monitoring period, the sensors were removed and soil samples 
+were taken from each sensor location. The soil samples were transported to a KSU laboratory for 
+measurement of volumetric water content.  Prior to deployment, the electrical conductivity and 
+temperature readings provided by the sensors were extensively evaluated at the KGS. 
+Vertical profiles of specific conductance and temperature within individual wells were 
+measured approximately monthly during the summer and once in the spring and fall in the LRS 
+riparian-zone wells using a YSI Model 30 meter and a 50-ft cable.  Specific conductance and 
+temperature were recorded at the same time interval as pressure head in two LRS and one ARS 
+wells using integrated multiparameter probe/datalogger units (two In-Situ MP Troll 9000 units 
+and one YSI 600SL Sonde).   
+Weather stations (Hobo Weather Station logger and sensors, Onset Computer Corp.) 
+were in operation at both sites during year four. The weather stations are equipped with sensors 
+to measure precipitation, air temperature, relative humidity, global irradiance [direct and diffuse 
+solar irradiance], wind speed and direction, and barometric pressure. Data are averaged (air 
+temperature, global irradiance, barometric pressure, and wind speed and direction) or summed 
+(precipitation) and logged at a 15-minute interval. The only exception is the relative humidity 
+sensor, which provides a single measurement at the end of the 15-minute interval. Potential 
+ 
+4
+evapotranspiration is calculated from the meteorologic data using the Penman-Monteith equation 
+(Allen et al., 1998). The wind speed and direction sensor failed abruptly at the LRS in 
+November of 2005, causing the datalogger to shut down.  This sensor was replaced in year 
+four. 
+A steady periodic analytical solution for water-table fluctuations produced by periodic 
+forcing, such as diurnal variations in evapotranspiration, was developed in year four following 
+the approach of Townley (1995).  This solution was used to assess the impact of phreatophyte-
+control activities and uncut phreatophytes on water-table fluctuations measured in the ARS 
+wells.  
+Additional funding was made available to project investigators in year four by the KGS 
+for the purpose of developing a cooperative research program in ecohydrology with a plant 
+physiologist at the University of Kansas (Joy Ward) and her postdoc (Jesse Nippert).  During 
+the 2006 growing season, travel monies were provided by this project and the KGS to allow 
+Nippert to travel to the ARS to collect data on water movement within the salt cedar. Nippert 
+gathered data on water pressure within leaves, water loss from leaves, sources of leaf water, 
+and various other mechanisms and parameters related to photosynthesis.  That data, in 
+conjunction with the hydrologic data described earlier, allowed further insights to be obtained 
+regarding water consumption by salt cedar.  
+ 
+ 
+MAJOR ACTIVITIES AND PRINCIPAL 
+FINDINGS   
+ 
+The principal findings of the fourth 
+year of the project will be briefly discussed in 
+the context of the six activities proposed for 
+year four: 
+ 
+Activity 1: Monitoring of water levels and 
+meteorologic parameters at both the Larned 
+Research Site and the Ashland Research Site 
+– Pressure-head measurements were obtained 
+at 15-minute intervals at 19 wells at the LRS 
+and six wells at the ARS. Meteorologic 
+parameters were measured at 15-minute 
+intervals at weather stations at both sites.  
+There was no flow in the Arkansas River at 
+the LRS for most of year four.  The three 
+periods during which flow did occur were 
+8/20-9/8/06, 1/2-1/20/07, and 2/20/07 
+through the end of year four (2/28/07).  One 
+well in the LRS network, LWPH1, was 
+destroyed as a result of high river flows 
+during the late August event (plans are 
+underway to replace it). There was flow in 
+the Cimarron River at the ARS throughout 
+8/17/04
+8/18/04
+8/19/04
+8/20/04
+8/21/04
+8/22/04
+Time (major tick mark at midnight)
+2.13
+2.12
+2.11
+2.1
+2.09
+2.08
+2.07
+2.06
+2.05
+Depth to Water Table (m below lsf)
+0
+0.01
+0.02
+0.03
+0.04
+0.05
+0.06
+0.07
+0.08
+0.09
+0.1
+0.11
+Average Sapflow Velocity (mm/s)
+0
+1
+2
+3
+4
+Precipitation (mm summed over 15 minutes)
+Water Table
+Sapflow Velocity - Tree 404
+Precipitation
+Figure 3A – Depth to water table from land surface at well 
+LWPH2 in LRS with sapflow velocity from nearby 
+cottonwood and precipitation from LRS weather station 
+(from Butler et al., 2007).
+ 
+5
+much of the year.  However, there was an extended period of no flow from late spring to late 
+summer as a result of a period of anomalously hot and dry conditions.  A paper primarily based 
+on the LRS and ARS data was revised, accepted, and published in the journal Water Resources 
+Research in year four (Butler et al., 2007). Figure 3A is a figure from that paper in which the link 
+between the sapflow velocity measured in a LRS cottonwood and water-table fluctuations is 
+illustrated (fluctuations are virtually nonexistent during period of low sapflow), while Figure 3B 
+is a figure from the same paper that displays the diurnal water-table fluctuations typical of those 
+observed during the growing season in five of the six wells at the ARS (all but well Ash32).  
+The 2006 growing season was one of the hottest and driest on record for the vicinity of 
+the ARS.  Daily maximum (Tmax) and minimum air temperature, as well as total daily 
+precipitation, have been recorded in the town of Ashland (approx. 17 km north of ARS) since 
+1900 (data provided by Mary Knapp, KS state climatologist). The high mean Tmax (31.2 °C) and 
+low precipitation (251 mm)  during the 2006 growing season (4/1-10/1/06) were comparable to 
+the great droughts of the 1930’s, the period of the driest and hottest consecutive growing seasons 
+for the last century in the Ashland 
+area.  In the long-term data set 
+(1900-2006), six years had total 
+growing season precipitation ≤ 
+251 mm, and 20 years had mean 
+Tmax ≥ 31.2 °C. However, only 
+two years, 1934 and 1954, had 
+both a mean Tmax ≥ 31.2 °C and 
+precipitation ≤ 251 mm, the 
+conditions recorded over the 
+growing season in 2006.  Thus, 
+the hydrologic data from the 2006 
+growing season provided an 
+excellent opportunity to assess the 
+utilization of ground water by 
+ARS vegetation during a severe 
+drought. 
+Figure 4A presents water-
+level and related data from well 
+Ash31 that are representative of 
+conditions observed at the ARS 
+wells during the 2006 growing 
+season. A clear diurnal pattern of 
+water-level fluctuations can be 
+seen in the late spring and early 
+summer. However, at four of the 
+five ARS wells that display 
+diurnal fluctuations, the 
+magnitude of these fluctuations 
+significantly decreased after the 
+water table fell past the lowest  
+Figure 3B – Depth to water from land surface recorded at ARS 
+well Ash22 from 8/20-10/22/04 (from Butler et al., 2007). Inset is 
+expanded view of five days from the record. Rises in the water 
+table after 9/21 are primarily due to rises in river stage produced by 
+seasonal decreases in upstream irrigation pumping and plant water 
+use, and by upstream precipitation (only the two precipitation 
+events marked on the figure [Ppt.] occurred at the site and neither 
+exceeded a total of 0.01 m; first frost did not occur until 11/3). 
+8/21
+8/28
+9/4
+9/11
+9/18
+9/25
+10/2
+10/9 10/16
+Date (tick mark at midnight)
+1.2
+1.15
+1.1
+1.05
+1
+0.95
+0.9
+0.85
+0.8
+0.75
+Depth to Water (m below lsf)
+              
+Ppt.
+Ppt.
+9/4/04
+9/5/04
+9/6/04
+9/7/04
+9/8/04
+9/9/04
+Date (major tick mark at midnight)
+1.09
+1.08
+1.07
+1.06
+1.05
+1.04
+1.03
+1.02
+1.01
+1
+0.99
+Depth to Water (m below lsf)
+              
+8:00 AM
+6:00 PM
+ 
+6
+ 
+0.30 0.35
+Volumetric water content (m3 m-3)
+0.30 0.35
+Depth below surface (m)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+0.30 0.35
+0.30 0.35
+0.30 0.35
+0.20 0.25 0.30 0.35
+0.20 0.25 0.30 0.35
+0.30
+5/8  5/15  5/22  5/29  6/5  6/12  6/19  6/26  7/3  7/10  7/17  7/24  7/31  8/7  8/14  8/21  8/28  9/4  
+Daily 
+Precipitation 
+0
+10
+20
+30
+clay & silt
+sand & silt
+mostly sand
+sand 
+Depth below surface (m)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+5/29 6/5
+5/22
+5/15
+5/8
+6/12
+9/4
+6/19 6/26 7/3 7/10 7/17
+7/31
+7/24
+8/7 8/14 8/21 8/28
+30
+20
+10
+0
+Precipitation
+(mm/d)
+clay/silt
+sand/silt
+sand +     
+sand
+Figure 4A – Depth to the water table from land surface at well Ash31 (blue line, left y-axis) and related data for late spring and summer of 
+2006. Vertical black lines are volumetric water content (top x-axis) as a function of depth; intercept of the volumetric water content lines 
+with the bottom x-axis is the date of measurement. Dashed horizontal lines delineate zones of similar soil texture (upper right y-axis); no 
+information collected below lowest dashed line due to position of water table at time of soil sampling. Vertical bars are magnitude of daily 
+precipitation (lower right y-axis). The ellipse indicates period of water table record expanded in Figure 4B. The X marks a four day 
+interruption of water table monitoring (7/16-19) due to sensor malfunctioning as a result of premature battery failure.  
+ 
+7
+position previously recorded during this study (Figure 4B), suggesting that the water table had 
+fallen beyond the reach of the roots of the phreatophytic vegetation at the ARS, an interpretation 
+similar to that proposed earlier to explain the disappearance of diurnal fluctuations with declines 
+in the water table at the LRS (Butler et al., 2007). This sizable reduction in the magnitude of the 
+diurnal fluctuations observed at well Ash31 is accompanied by a large decrease in the volumetric 
+water content in the sand interval centered at 0.6 m below land surface (Figure 4A), suggesting 
+that the vegetation may have increasingly utilized vadose-zone water as the water table dropped 
+beyond the reach of its roots.  The plant physiology data collected by Nippert during the 2006 
+growing season revealed that the salt cedars functioned at near their physiologic maximum 
+throughout this entire period. An article describing the ecohydrologic data collected at the ARS 
+during the 2006 growing season is currently in the review process.  
+ 
+Activity 2: Monitoring of vadose-zone moisture during the growing season at the Larned and 
+Ashland sites using the neutron probe, and the testing and deployment of a new generation of 
+capacitance sensors for measurement of volumetric water content at the Ashland site – Vadose-
+zone moisture was monitored biweekly during the growing season at eight locations (four 
+adjacent to monitoring wells) at the LRS 
+and six locations (adjacent to monitoring 
+wells) at the ARS, as in the previous 
+years of this project. Figure 4A provides 
+an example of the data that were obtained 
+at the ARS through this monitoring. 
+ 
+The neutron-probe data provide 
+valuable information about vertical and 
+temporal changes in volumetric water 
+content.  However, the coarse resolution, 
+in both time and space, does limit the 
+insights that can be obtained from these 
+data. An important emphasis of year four 
+was the investigation of the capability of 
+a new generation of capacitance probes 
+(Decagon ECH2O-TE) to provide 
+measurements of volumetric water 
+content at the same 15-minute interval as 
+the water-level and meteorological 
+sensors, even in the presence of the high 
+soil and water salinity at the ARS (Butler 
+et al., 2005). Nachabe et al. (2005) have 
+demonstrated the potential use of such 
+information for estimation of ground-
+water consumption by phreatophytes.  
+An extensive period of probe evaluation 
+was carried out in the KGS laboratories 
+(assessment of temperature and electrical 
+conductivity [EC] measurements) and at 
+the ARS (assessment of volumetric water 
+Figure 4B – Depth to the water table from land surface at 
+well Ash31 for the period in late June of 2006 indicated 
+by the ellipse in Figure 4A.
+25
+26
+27
+28
+29
+30
+Date (tick mark at midnight)
+0.9
+0.89
+0.88
+0.87
+0.86
+0.85
+0.84
+0.83
+0.82
+0.81
+0.8
+Depth to Water (m below lsf)
+     Well Ash31
+June 25-29, 2006
+Previous water table low
+ 
+8
+content measurements). The temperature measurements were found to be within the stated 
+specifications in all tests performed at the KGS.  However, the EC measurements were found to 
+be in error as a result of incorrect calibration relationships for moderate to high electrical 
+conductivities.  After two rounds of correction of calibration relationships by the manufacturer, 
+the EC measurements were found to be within the stated specifications.  After passing the 
+temperature and EC assessments performed in the KGS laboratories, the probes were deployed at 
+the ARS.  
+ 
+A total of 45 probes were installed in three pits at the ARS (15 probes installed at 
+differing depths in each pit).  Out of those 45 probes, only 16 had volumetric water content 
+readings close (i.e. within the reported accuracy specification of the sensors) to laboratory 
+determined volumetric water content measurements from soil samples taken at the same 
+locations in the pit. Twenty-two of the 29 sensors that were not in agreement with the soil 
+sample measurements were in materials with bulk EC values greater than 0.5 dS/m.  Twenty-
+four sensors had EC values greater than 0.5 dS/m, only two of those had volumetric water 
+content readings close to the laboratory measurements of the soil samples.  Not one sensor 
+with a bulk EC value greater than 0.85 dS/m had a volumetric water content reading close to 
+the soil sample measurement.  As a result of the poor performance of the sensors in the ARS 
+pits, the decision was made not to deploy these sensors at the ARS. Alternative approaches for 
+obtaining volumetric water content data at the same 15-minute interval as the water-level and 
+meteorological sensors are currently under consideration. The Appendix provides further 
+information about the field assessment of the Decagon probes at the ARS.  
+ 
+Activity 3: Determination of specific yield – The analysis of volumetric-water-content and 
+water-level data (Skaggs et al., 1978; Romano and Santini, 2002) can result in reasonable 
+estimates of specific yield (SY) as shown in previous years of this project (McKay et al., 2004; 
+Keller et al., 2005). However, that approach does not appear viable at the ARS because the 
+finer texture of the ARS sediments do not allow the periods of rapid soil-moisture change 
+required by the method (needed so that soil-moisture changes due to drainage/wetting will 
+dominate over changes produced by plant water use). Instead, SY estimates were obtained for 
+the ARS by simulating vertical water movement and then using the simulated results to 
+evaluate the terms in Eq. [22] of Raats and Gardner (1974). Numerical simulations of one-
+dimensional vertical water movement were performed with HYDRUS-1D (Simunek et al., 
+2005) for a range of fluxes and for both falling and rising water tables. The soil hydraulic 
+properties required for those simulations were estimated using ROSETTA (ver. 1.2), a 
+software package for evaluating the hierarchical pedotransfer functions of Schaap et al. (1998, 
+2001). Specifically, hydraulic properties were estimated with the ROSETTA pedotransfer 
+function model that uses soil particle size (sand, silt, and clay percentages) as input. Particle 
+size data were obtained from soil samples collected in the vicinity of each of the ARS wells in 
+the third year of this project (see Year Three Report). The KSU Soil Characterization 
+Laboratory completed particle size analysis of those samples early in year four. 
+Example results for well Ash12 (Figure 5) show that SY generally increases with 
+increasing depth to water for the case of a falling water table.  Whereas uniform soil results in 
+a monotonic increase in SY with increasing depth to water, the results for well Ash12 clearly 
+show deviations from monotonic behavior. This is a direct result of vertical variations in soil 
+texture, which cause soil hydraulic properties to vary with depth throughout the profile. The 
+ 
+9
+results in Figure 5 also show that 
+specific yield depends on the 
+magnitude of the flux across the 
+water table. In addition, well Ash12 
+results for the case of a rising water 
+table (not shown) revealed that 
+estimates of SY are influenced by the 
+direction of water table movement. 
+It is clear from these results that SY 
+is not a static property. For a given 
+water table depth and soil texture, 
+specific yield varies with the 
+direction of water table movement 
+and the magnitude of the flux across 
+the water table. A distinct advantage 
+of the method described here for 
+estimating SY is that it explicitly 
+accounts for transient effects due to 
+the motion of the water table and 
+the flux of water across the water 
+table. 
+ 
+Activity 4: Assessing the rate of 
+ground-water consumption by 
+shallow-rooted vegetation and direct 
+evaporation at the Ashland site – 
+Limited progress was made on this 
+activity in year four as a result of the 
+unsuitable weather conditions during the 2006 growing season and the unexpectedly large 
+amount of time required for the sensor assessment described in Activity 2 in the early summer of 
+2006.  In late June of 2006, the diurnal fluctuations virtually ceased at two (Ash21 and Ash31) of 
+the three wells that were to be used for this activity (e.g., Figure 4B), thus making it impossible 
+to pursue the planned experiments after that time.  However, some insight into the relative 
+contributions of ground-water consumption by shallow-rooted vegetation and direct evaporation 
+was obtained from the analytical solution described in Activity 5 and previously collected water-
+level data. 
+ 
+Activity 5: Modeling of water flow under unsaturated and saturated conditions in the vicinity of 
+selected wells at the Ashland site – This activity was a major focus of the latter half of year four.  
+As described in previous reports (e.g., Butler et al., 2005), the ARS is subdivided into four plots 
+of approximately four hectares each in which different salt-cedar control measures are being 
+applied. Control measures are not used in Plot 1 (wells Ash11 and Ash12) so that data unaffected 
+by those measures can be obtained throughout the project. Water-level data collected prior to any 
+control activities clearly indicate that the magnitude of the water-table fluctuations is highly 
+dependent on the apparent vitality of the phreatophyte community in the vicinity of each well 
+Figure 5 – Example of specific yield (SY) estimates for the case of 
+a falling water table at well Ash12. Estimates of SY are shown as a 
+function of depth to the water table for three different fluxes (q) 
+across the water
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+Specific Yield
+3
+2.5
+2
+1.5
+1
+0.5
+0
+Depth to Water Table (m below lsf)
+q= 0.1 cm/d
+q = 0.2 cm/d
+q = 0.3 cm/d
+ 
+10
+(Butler et al., 2005, 2007). Salt-cedar control measures began to be implemented at the ARS in 
+March of 2005. At that time, Plots 2-4 were clear cut except for circles ranging from 20-30 m in 
+radius, centered at each well. The radii of those circles of vegetation were progressively reduced 
+through repeated cuttings in the summer of 2005 until the vegetation circles were completely 
+removed on August 9, 2005.  Only the invasive phreatophytes were cut at the site; grasses, forbs, 
+and low-lying bushes were largely unaffected.  A chemical treatment (Remedy 
+and diesel-fuel mix) was applied to the salt-cedar regrowth in Plot 2 (wells Ash21 and Ash22) 
+following the cutting, but no chemical treatment was applied in Plot 3 (wells Ash31 and Ash32). 
+Water levels, volumetric water content, and meteorological parameters were monitored before, 
+during, and after these control activities. Note that no wells were installed in Plot 4 because of 
+the eventual planned burn in that plot. 
+The initial expectation was that the diurnal fluctuations would virtually cease after the 
+cutting.  However, 
+as illustrated in 
+Figure 6 for well 
+Ash22, that 
+expectation was 
+not realized at any 
+of the ARS wells 
+at which 
+fluctuations were 
+observed prior to 
+cutting (Ash21, 
+Ash22, and 
+Ash31).  Possible 
+explanations for 
+the continued 
+fluctuations 
+include ground-
+water 
+consumption by 
+the uncut grasses, 
+forbs, and small 
+bushes, and by 
+direct evaporation 
+from the water table in the vicinity of the well, and ground-water consumption by invasive 
+phreatophytes outside of the cut area.  In order to assess the possibility of this latter mechanism, 
+steady periodic analytical solutions for water-table fluctuations produced by diurnal variations 
+in evapotranspiration were developed by extending the general approach described in Townley 
+(1995) to the configuration illustrated in Figures 7A-B.  Of particular interest is the solution 
+for which R1 goes to zero (vegetation circle completely removed). Substituting reasonable 
+parameters for the ARS into that solution revealed that fluctuations at the central well produced 
+by the invasive phreatophytes outside the circle of cut vegetation should greatly differ in both 
+amplitude and phase from those produced by vegetation in the immediate vicinity of the well.  
+The data plotted in Figures 6A-B show that such a difference was not observed. Thus, it is 
+considered unlikely that ground-water consumption by invasive phreatophytes outside the cut 
+9/15/05
+9/16/05
+9/17/05
+9/18/05
+9/19/05
+9/20/05
+Date (tick mark at midnight)
+1.4
+1.38
+1.36
+1.34
+1.32
+1.3
+Depth to Water at Ash12 (m below surface)
+1.16
+1.14
+1.12
+1.1
+1.08
+1.06
+Depth to Water at Ash22 (m below surface)
+Comparison of Well Ash12
+and Well Ash22 - Post-Cut 
+Ash22 - well in area with cutting 
+     and chemical treatment
+Ash12 - well in background-monitoring
+    area - no cutting or chemical treatment
+9/8/04
+9/9/04
+9/10/04
+9/11/04
+9/12/04
+9/13/04
+Date (tick mark at midnight)
+1.38
+1.36
+1.34
+1.32
+1.3
+1.28
+Depth to Water at Ash12 (m below surface)
+1.14
+1.12
+1.1
+1.08
+1.06
+Depth to Water at Ash22 (m below surface)
+  Comparison of Well Ash12
+   and Well Ash22 - Pre-Cut 
+Ash12 - well in background-monitoring 
+    area - no cutting or chemical treatment 
+Ash22 - well in area with cutting 
+     and chemical treatment 
+Figure 6 – Depth to the water table from land surface at wells Ash12 and 
+Ash22 prior to (A – left figure) and after (B- right figure) clear cutting all 
+invasive phreatophytes from Plot 2 in August of 2005. Data for Ash12 
+included to show the pattern of fluctuations observed in Plot 1 where no 
+control activities were applied.
+ 
+11
+circle is producing the diurnal fluctuations observed after completion of cutting and chemical 
+treatment.  
+Development of 
+periodic analytical 
+solutions for 
+consideration of 
+configurations similar 
+to that at the LRS and 
+for unsaturated 
+conditions is ongoing. 
+ 
+Activity 6: Reassessing 
+the ground-water 
+savings obtained 
+through phreatophyte-
+control efforts at the 
+Ashland site – The 
+ground-water savings 
+achieved through 
+phreatophyte-control 
+activities at the ARS 
+were estimated using an 
+approach, developed in 
+this work, based on 
+ratios of the White 
+equation (White, 1932; 
+Loheide et al., 2005). 
+This approach is illustrated in Figure 8 where ETG is the evapotranspirative consumption of 
+ground water 
+expressed as a daily 
+rate, SY is the 
+readily available 
+specific yield 
+(dimensionless), r is 
+the net inflow 
+calculated from the 
+night-time 
+(midnight to 4 
+A.M.) recovery of 
+water levels 
+expressed as a daily 
+rate, and s is the net 
+change in water-
+table position over 
+one day expressed 
+Figure 7A – Schematic areal view of configuration of cut and uncut salt cedars 
+around wells Ash21, Ash22, and Ash31 during the 2005 cutting period (not to 
+scale).
+Figure 7B – Schematic cross-sectional view of the vicinity of wells Ash21, Ash22, and 
+Ash31 during the 2005 cutting period (not to scale). Well at left is at center of Figure 7A.  
+ETG is the evapotranspirative consumption of ground water, differences in heights of arrows 
+indicate relative differences in ETG between cut and uncut regions. Vegetation in area of cut 
+salt cedars primarily consists of grasses, forbs, and small bushes. 
+ 
+12
+as a daily rate (by convention positive with decrease in water-table elevation).  The ratio in the 
+numerator of the left-hand side of the expression in Figure 8 characterizes the changes in ETG 
+at Ash22 between the pre-cut and post-cut periods. A similar ratio in the denominator of the 
+left-hand side characterizes the changes in ETG at Ash12 between these same periods.  The 
+changes in Ash12 reflect the impact on ETG of factors other than the phreatophyte-control 
+activities.  The right-hand side of the expression in Figure 8 is obtained by substituting the 
+White equation for each ETG term.  Because the same depth intervals were used for the pre-cut 
+and post-cut periods (e.g., Figure 6), SY cancels out in both the numerator and the 
+denominator. 
+The reductions in ETG calculated with the ratio approach illustrated in Figure 8 varied 
+between the three wells (Ash21, Ash22, and Ash31) from 23-56% in the month immediately 
+following cutting (time intervals shown in Figure 6 – average of three wells was 40%) .  
+However, an analysis using the same depth intervals in 2006 (June 9-13) found that the 
+reductions varied from 2-42% (average of three wells was 22%). Thus, the reduction in ETG 
+gained from the phreatophyte-control activities appears to be decreasing with time, despite the 
+severe drought 
+conditions 
+experienced 
+during the 
+2006 growing 
+season. This 
+decreased 
+reduction in 
+ETG may be a 
+result of 1) 
+increased 
+growth (and 
+thus water 
+use) of 
+grasses, forbs, 
+and small 
+bushes due to 
+increased 
+exposure to 
+sunlight as a 
+result of the 
+removal of the 
+large 
+phreatophytes, 
+2) increased direct evaporation from the water table due to the increased exposure of the land 
+surface to sunlight, and 3) regrowth of salt cedar (both plots have experienced regrowth 
+following the initial application of control activities).  Future work of this project will be directed 
+at assessing the relative importance of ground-water consumption by these various mechanisms. 
+Unless the impact of these mechanisms is better understood, it will be difficult to reliably 
+estimate the potential water savings to be achieved through control of invasive phreatophytes.  
+Note that the salt cedar regrowth in plot 3 was cut on September 7, 2006. Monitoring will 
+12
+22
+12
+22
+)
+(
+)
+(
+)
+(
+)
+(
+Ash
+cut
+pre
+Y
+cut
+post
+Y
+Ash
+cut
+pre
+Y
+cut
+post
+Y
+Ash
+G
+G
+Ash
+G
+G
+s
+r
+S
+s
+r
+S
+s
+r
+S
+s
+r
+S
+ET
+ET
+ET
+ET
+cut
+pre
+cut
+post
+cut
+pre
+cut
+post
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
++
++
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
++
++
+⇒
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+−
+−
+−
+−
+−
+−
+−
+−
+Figure 8 – Example of approach for using diurnal water-table fluctuations to 
+estimate changes in ground-water consumption by vegetation following clear 
+cutting of invasive phreatophytes about wells in Plots 2 and 3 in August of 2005.  
+Data for Ash12, well in Plot 1 where no control activities were applied, used to 
+assess impact of changes on ground-water consumption at the ARS due to factors 
+other than clear cutting of phreatophytes. 
+ 
+13
+continue at the ARS throughout this project so that the ultimate reduction in ETG achieved 
+through phreatophyte-control measures can be assessed. 
+ 
+14
+REFERENCES CITED 
+Allen, R.G., Pereira, L.S., Raes, D., and M. Smith, Crop evapotranspiration – Guidelines for 
+computing crop water requirements, FAO Irrigation and Drainage Paper 56, Food and 
+Agricultural Organization of the United Nations, Rome, 1998.  
+Butler, J.J., Jr., Kluitenberg, G.J., Whittemore, D.O., Loheide, S.P., II, Jin, W., Billinger, M.A., 
+and X. Zhan, A field investigation of phreatophyte-induced fluctuations in the water 
+table, Water Resour. Res., v. 43, W02404, doi:10.1029/2005WR004627, 2007. 
+Butler, J.J., Jr., Whittemore, D.O., and G.J. Kluitenberg, Ground water assessment in association 
+with salt cedar control – Report on year one activities. Kansas Geological Survey Open-
+File Rept. 2005-19, 28 pp., 2005. 
+Keller, J., J. Shea, J. Bauer, J.J. Butler, Jr., G.J. Kluitenberg, and D.O. Whittemore. 2005. A field 
+investigation of the influence of spatial variability in hydraulic properties on 
+phreatophyte-induced fluctuations in the water table. 50th Annual Midwest Ground 
+Water Conf., Program with Abstracts, Illinois State Geol. Survey OFS 2005-13, p. 19. 
+Loheide, S.P., II, Butler, J.J., Jr., and S.M. Gorelick, Estimation of groundwater consumption by 
+phreatophytes using diurnal water table fluctuations: A saturated-unsaturated flow 
+assessment, Water Resour. Res., v. 41, W07030, doi:10.1029/2005WR003942, 2005. 
+McKay, S.E., G.J. Kluitenberg, J.J. Butler, Jr., X. Zhan, M.S. Aufman, and R. Brauchler. 2004. 
+In-situ determination of specific yield using soil moisture and water level changes in the 
+riparian zone of the Arkansas River, Kansas, Eos 85, no. 47, Fall Meet. Suppl., Abstract 
+H31D-0425). 
+Nachabe, M.H., N. Shah, M. Ross, and J. Vomacka. 2005. Evapotranspiration of two vegetation 
+covers in a shallow water table environment. Soil Sci. Soc. Am J. 69, 492-499. 
+Raats, P.A.C., and W.R. Gardner. 1974. Movement of water in the unsaturated zone near a water 
+table. p. 311-357. In J. van Schilfgaarde (ed.) Drainage for agriculture. Agron. Monogr. 
+17. ASA, Madison, WI. 
+Romano, N., and A. Santini. 2002. Water retention and storage – field. In Dane, J.H., and G.C. 
+Topp, eds. Methods of Soil Analysis – Part 4: Physical Methods. SSSA Book Ser. 5.  
+SSSA and ASA, Madison, WI, p. 721-738. 
+Schaap, M.G., F.J. Leij, and M.Th. van Genuchten. 1998. Neural network analysis for 
+hierarchical prediction of soil hydraulic properties. Soil Sci. Soc. Am. J. 62:847-855. 
+Schaap, M.G., F.J. Leij, and M.Th. van Genuchten. 2001. ROSETTA: A computer program for 
+estimating soil hydraulic parameters with hierarchical pedotransfer functions. J. Hydrol. 
+251:163-176. 
+Simunek, J., M.Th. van Genuchten, and M. Senja. 2005. The HYDRUS-1d software package for 
+simulating the one-dimensional movement of water, heat, and multiple solutes in 
+variably-saturated media. Version 3.0. HYDRUS Software Series 1. Department of 
+Environmental Sciences, University of California, Riverside, CA. 
+Skaggs, R.W., Wells, L.G., and S.R. Ghate, Predicted and measured drainage porosities for field 
+soils, Trans. ASAE 22, 522-528, 1978. 
+Townley, L.R., The response of aquifers to periodic forcing, Adv. Water Resour., v. 18, no. 3, 
+125-146, 1995. 
+USDA-SCS. 1982. Soil survey of Clark County Kansas. U.S. Gov. Print. Office, Washington, 
+DC. 
+ 
+15
+White, W.N. 1932. A method of estimating ground-water supplies based on discharge by plants 
+and evaporation from soil – results of investigations in Escalante Valley, Utah, U.S. 
+Geological Survey Water Supply Paper 659-A, 105 p. 
+ 
+ 
+PAPERS AND PRESENTATIONS  
+ 
+Butler, J.J., Jr., An ecohydrologic investigation of groundwater consumption by phreatophytes, 
+an invited presentation to the Environmental Resources and Policies Program, Southern 
+Illinois Univ., Carbondale, IL, March 8, 2006. 
+Butler, J.J., Jr., Overview of research at the Larned Research Site, presentation to the South 
+Asian Water Resources Delegation, Larned Research Site, Dec. 6, 2006.  
+Butler, J.J., Jr., What the heck is a phreatophyte? A field investigation of ecohydrologic 
+processes in stream-aquifer systems, 2007 Henry Darcy Distinguished Lecture Series – 
+presented at Emporia State University (Jan. 31, 2007) and Kansas State University (Feb. 
+15, 2007). 
+Butler, J.J., Jr., Kluitenberg, G.J., and D.O. Whittemore, A field assessment of a method for 
+estimation of ground-water consumption by phreatophytes, presentation to the KWRI 
+Administrative Council, Topeka, Dec. 7, 2006. 
+Butler, J.J., Jr., Kluitenberg, G.J., Whittemore, D.O., and D. Arnold, An investigation of ground-
+water savings achieved through salt-cedar control activities (abstract), Proc. 23rd Annual 
+Water and Future of Kansas Conf., 2006. 
+Butler, J.J., Jr., Kluitenberg, G.J., Whittemore, D.O., Loheide, S.P., II, Jin, W., Billinger, M.A., 
+and X. Zhan, A field investigation of phreatophyte-induced fluctuations in the water 
+table, Water Resour. Res., v. 43, W02404, doi:10.1029/2005WR004627, 2007. 
+Butler, J.J., Jr., Whittemore, D.O., Shea, J., Bauer, J., Kluitenberg, G.J., Loheide, S.P., II, and W. 
+Jin, The vulnerability of native phreatophytes to ground-water level declines in the 
+middle Arkansas River valley, Kansas (abstract), Trans. Kansas Academy Science, v. 
+109, no. 3/4, p. 249, 2006. 
+Cook, A., Geyer, T.,  Shook, G., Butler, Jr., J.J., Whittemore, D.O., and G.J. Kluitenberg, 
+Focused recharge in a semi-arid riparian zone (abstract), Eos, v. 87, no. 52, Fall Meet. 
+Suppl., Abstract H11A-1222, 2006. 
+Kluitenberg, G.J., Butler, J.J., Jr., Whittemore, D.O., and D. Arnold,  Quantifying ground-water 
+savings achieved by tamarisk control: A demonstration project in the riparian zone of the 
+Cimarron River, Kansas (abstract), Program and Abstracts, The 2006 Tamarisk Research 
+Conference: Current Status and Future Directions, pp. 28-29, 2006.   
+Kluitenberg, G.J., Butler, J.J., Jr., Whittemore, D.O., Jin, W., Zhan, X., Loheide, S.P., II, and D. 
+Arnold, A field investigation of major controls on phreatophyte-induced fluctuations in 
+the water table (abstract), Proc. 23rd Annual Water and Future of Kansas Conf., 2006. 
+Whittemore, D.O., Sophocleous, M.A., and J.J. Butler, Jr., Downstream extension of dry river 
+bed conditions for the Arkansas River, Kansas (abstract), 51st Annual Midwest Ground 
+Water Conf., Program with Abstracts, Univ. Nebraska, p. 15, 2006. 
+ 
+ 
+ 
+16
+INFORMATION TRANSFER 
+ 
+ 
+Eleven presentations concerning this project were presented at various venues both 
+within and outside of Kansas during year four, including the 2006 Tamarisk Research 
+Conference in Fort Collins, Colorado. Two of these presentations were part of the 2007 Henry 
+Darcy Distinguished Lectureship that was awarded to James Butler. Early in year five, Butler 
+presented additional Darcy lectures on this project at universities and research institutes in the 
+United States, China, Taiwan, the Netherlands, Germany, Austria, Spain, and the United 
+Kingdom.  Additional lectures will be presented later in the year at universities and research 
+institutes in the United States and Canada. One manuscript describing the results of the field 
+investigation of phreatophyte-induced fluctuations in the water table was published in the journal 
+Water Resources Research.  An additional manuscript on the summer 2006 work at the Ashland 
+Research Site is currently in review. 
+ 
+ 
+STUDENT SUPPORT  
+ 
+Three students participating in the Applied Geohydrology Summer Research 
+Assistantship Program of the Kansas Geological Survey were partially supported from this grant 
+during the summer of 2006.  These students contributed to the aspects of the project involving 
+water-level and vadose-zone monitoring, conductance measurements, Decagon probe laboratory 
+and field assessment, and weather-station upkeep.  One student, Angela Cook from the 
+University of Colorado at Boulder, presented a poster on a portion of the summer work at the 
+Fall Conference of the American Geophysical Union in San Francisco in December of 2006. One 
+KSU undergraduate participating in the Agronomy Undergraduate Research Assistantship 
+Program assisted with vadose-zone monitoring and Decagon probe field assessment. 
+ 
+17
+Appendix - Report on Field Assessment of Decagon ECH2O-TE Sensors 
+ 
+ 
+Summary 
+On 6/28- 6/30/06, a KGS/KSU research team conducted a field assessment of the 
+Decagon ECH2O-TE sensors at the Ashland Research Site in southwestern Kansas. We 
+installed the sensors in pits adjacent to three monitoring sites and monitored volumetric water 
+content, bulk electrical conductivity, and temperature for 8-16 hours using a 5-min logging 
+interval.  A total of three pits were used and 15 probes were installed at differing depths in 
+each pit.  At the end of the monitoring period, the sensors were removed and soil samples 
+were taken from the same depth intervals. The samples were then taken to the lab for 
+measurement of volumetric water content.  Out of the 45 sensors, only 16 had soil moisture 
+readings close (i.e. within the reported accuracy specifications of the sensors) to the soil 
+moisture measurements obtained in the laboratory. Twenty-two of the 29 sensors that were not 
+in agreement with the measurements were in materials with bulk EC values greater than 0.5 
+dS/m.  Twenty-four sensors had EC values greater than 0.5 dS/m – only two of those had soil 
+moisture values close to the measurements.  Not one sensor with a bulk EC value greater than 
+0.85 dS/m had a soil moisture reading close to the measurement.  In the following sections, we 
+provide further details about the site and the sampling methods. 
+ 
+ 
+ 
+Site Overview 
+ 
+The Ashland Research Site (ARS) is located along the Cimarron River in southwestern 
+Kansas a few miles north of the Oklahoma border (Figure 1).  Since August of 2004, the 
+Kansas Geological Survey and Kansas State University have been studying water-use by 
+phreatophytes and the efficacy of various salt-cedar control measures at the site.  We have 
+installed a network of shallow water-table wells and neutron-probe access tubes along with a 
+weather station.  Each well is paired with a neutron-probe access tube that is located within 5 ft 
+of the well.  The well and access tube pairing will be designated as a monitoring site in this 
+report. We monitor water-table position and various meteorological parameters at a 15-minute 
+interval throughout the year, while soil moisture is measured on a biweekly basis during the 
+growing season.  We want to use the Decagon sensors to obtain information on temporal 
+variations in soil moisture over the same time interval used for the water-level and 
+meteorological data.   
+ 
+ 
+ 
+18
+ 
+Figure 1 – Location map of the Ashland Research Site (ARS).  
+ 
+ 
+ 
+Installation and Sampling Procedures 
+Sensor Installation 
+ 
+On the evening of 6/28 and the morning of 6/29, we dug two pits (Ash32 and Ash21) at 
+the site with a backhoe and one shallow pit (Ash22) with shovels. Each pit was adjacent 
+(within 15-20 ft) to the monitoring site from which it derived its name. Beginning in the 
+morning of 6/29, we installed 15 sensors in each pit (Figure 2) following the instructions 
+outlined in the sensor manual.  In general, sensor installation went smoothly.  Once installed, 
+the sensors were programmed to log at a 5-minute interval. During daylight hours, we 
+periodically went to each pit and sprayed the pit faces with a light mist of water to prevent 
+excessive drying of the soil exposed at the pit faces.  
+ 
+ 
+ 
+ 
+ 
+19
+ 
+ 
+ 
+Figure 2 – Pit Ash22 with installed sensors 
+ 
+Sensor Removal and Soil Sampling 
+ 
+We began to remove the sensors late in the afternoon of 6/29. We removed the sensors 
+in the order in which they were installed.  All the sensors were removed from pit Ash32 in the 
+late afternoon of 6/29.  The sensors were removed from pits Ash21 and Ash22 in the morning 
+and early afternoon of 6/30. As the sensors were removed, soil samples were taken adjacent to 
+the position of the sensors using a pair of sampling rings. Figure 3 shows the orientation (top 
+view) of sampling rings relative to the sensor.  The sampling rings were made from thin-wall 
+aluminum tubing.  The height of each ring was 5.0 cm, the diameter was 4.8 cm, so the 
+volume of each was 90.5 cm3, giving a total sample volume of 181 cm3.  The bottom edge of 
+each ring was beveled to form a cutting edge.  The rings were placed in position after forming 
+a smooth, level surface approximately 2.5 cm above the level of the sensor "blades" (Figure 4 
+shows surface immediately prior to sampling at pit Ash32).  Rings were vertically driven into 
+the soil by tapping.  A small block of wood was placed on the ring, and then a hammer was 
+used to deliver light blows to the block.  After insertion, the bottom edge of the rings ended up 
+approximately 2.5 cm below the level of the sensor "blades".  In soil layers with higher clay 
+content, a light coating of WD-40 was applied to the exterior of the sampling rings.  Care was 
+taken to avoid getting lubricant on the interior surface of the rings.  We experienced little to no 
+problems with compaction of the samples.  The position of the rings was adjusted slightly in a 
+few instances to avoid roots and other irregularities.  
+The sensor was removed after the rings were driven to depth and a small masonry 
+trowel was inserted beneath a ring to shear off the sample and lift it out.  Additional trimming 
+ 
+20
+(with edge of trowel) was required on occasion to ensure that the bottom of the sample was 
+level with the bottom of the sampling ring. The soil from both rings was placed in a soil 
+moisture tin that was stored in an insulated container.  
+ 
+ 
+5-10 mm
+ 
+ 
+Figure 3 – Top view of sampling rings relative to sensor. 
+ 
+ 
+21
+ 
+ 
+Figure 4 – Gerard Kluitenberg preparing a level surface prior to taking a soil sample at pit 
+Ash32. Sampling ring can be seen on left side of ledge. 
+ 
+ 
+Soil Moisture Determination 
+Soil moisture tins remained in the insulated container until they could be weighed.  
+Samples were weighed in the field after all the samples were removed from a pit and checks 
+(i.e. some samples were weighed immediately after removal from pit) were performed to 
+ensure that the samples did not lose water before weights were recorded.  A calibration weight 
+was used to confirm that transport of the balance to the ARS did not affect balance calibration.  
+The samples were then transported back to KSU. 
+Samples were weighed in Kluitenberg’s laboratory at KSU (using the same balance) 
+after drying at 105 deg C for 36 hours.  Weight checks were performed to confirm that 
+moisture loss had ceased prior to final weight determinations.  Gravimetric water content was 
+calculated as mass of water per mass of oven-dried soil material.  Mass of oven-dried soil 
+material and total sample volume (combined volume of two rings) was used to calculate bulk 
+density.  Volumetric water content was calculated as the product of the gravimetric water 
+content and the bulk density. 
+ 
+Comparison of Soil Moistures from Sensors and Samples 
+ 
+Table 1 presents the comparison of the soil-moisture readings from the sensors with the 
+values determined in the lab. The reported sensor values are averages obtained over the last 25 
+minutes prior to sensor removal. The temperature and bulk EC values from the sensors are 
+ 
+22
+also reported.  At pit Ash21, five sensors each were placed on three pit faces at six-inch 
+intervals beginning at six inches below land surface. At pit Ash22, five sensors each were 
+placed on three pit faces at three-inch intervals beginning at six inches below land surface. At 
+pit Ash32, seven sensors each were placed on two pit faces at six-inch intervals beginning at 
+six inches below land surface with one additional sensor being placed on the second pit face a 
+foot below land surface. 
+At pit Ash21, five of the 15 sensors performed within specifications. There appeared to 
+be a pattern of poorer agreement as the bulk EC increased. Some of the average soil moisture 
+values from the sensors were also deemed to be outside of the range of physical plausibility for 
+materials at that pit. Bulk density for this pit ranged from 1.42 to 1.63 g/cm3 (mean = 1.57 
+g/cm3).  This corresponds to a range of 0.39 to 0.46 in total porosity, if a particle density of 
+2.65 g/cm3 is assumed.  
+At pit Ash22, only one of the 15 sensors performed within specifications and that was 
+the one in the interval of lowest bulk EC at that pit.  Some of the average soil moistures from 
+the sensors were again deemed to be outside of the range of physical plausibility for materials 
+at that pit. Bulk density for this pit ranged from 1.27 to 1.55 g/cm3 (mean = 1.41 g/cm3), 
+which corresponds to a range of 0.41 to 0.52 in total porosity. As is shown by the sample data 
+in Tables 3 and 4, pit Ash22 had the highest EC and highest percentage of fine textured 
+material of the three pits. 
+ 
+At pit Ash32, 10 of the 15 sensors performed within specifications. The bulk EC values 
+at this pit were relatively low.  The most common characteristic of the sensors functioning 
+outside of specs was the relatively high EC of the material in which they had been placed. 
+Only one of the six intervals with the highest bulk EC values reported at the pit had a sensor 
+that performed within specs. Bulk density for this pit ranged from 1.35 to 1.66 g/cm3 (mean = 
+1.54 g/cm3), which corresponds to a range of 0.37 to 0.49 in total porosity. 
+ 
+ 
+Table 1 – Sensor and Sample Comparison of Volumetric Water Content  
+ 
+Sensor # 
+Depth below  
+Sensor  
+Sensor  
+Sensor   
+Samples 
+Absolute 
+Within  
+  
+ lsf [inches] 
+Average VWC  
+Average Temp  
+Average EC  
+VWC 
+Difference 
+Specs? 
+ 
+  
+[m3/m3] 
+[C] 
+[dS/m] 
+ 
+ 
+ 
+PIT ASH21  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24 
+6 
+0.21 
+25.30 
+0.77 
+0.14 
+0.07 
+N 
+37 
+12 
+0.54 
+23.60 
+3.09 
+0.29 
+0.25 
+N 
+39 
+18 
+0.81 
+21.67 
+4.14 
+0.42 
+0.39 
+N 
+16 
+24 
+0.39 
+21.47 
+1.46 
+0.36 
+0.03 
+N 
+31 
+30 
+0.25 
+21.07 
+0.39 
+0.27 
+0.03 
+Y 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40 
+6 
+0.21 
+21.53 
+0.78 
+0.14 
+0.07 
+N 
+33 
+12 
+0.69 
+20.90 
+3.06 
+0.33 
+0.36 
+N 
+25 
+18 
+0.36 
+20.53 
+0.84 
+0.36 
+0.00 
+Y 
+34 
+24 
+0.13 
+20.52 
+0.08 
+0.17 
+0.04 
+N 
+38 
+30 
+0.26 
+20.65 
+0.65 
+0.28 
+0.03 
+Y 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+45 
+6 
+0.11 
+21.00 
+0.43 
+0.13 
+0.02 
+Y 
+42 
+12 
+0.75 
+20.67 
+3.57 
+0.32 
+0.43 
+N 
+18 
+18 
+0.14 
+20.52 
+0.30 
+0.31 
+0.18 
+N 
+ 
+23
+26 
+24 
+0.22 
+20.35 
+0.29 
+0.23 
+0.00 
+Y 
+41 
+30 
+0.33 
+20.50 
+0.74 
+0.22 
+0.10 
+N 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PIT ASH22 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+9 
+6 
+0.70 
+26.72 
+3.22 
+0.34 
+0.36 
+N 
+30 
+9 
+0.27 
+28.58 
+0.60 
+0.21 
+0.06 
+N 
+22 
+12 
+0.33 
+26.12 
+0.98 
+0.15 
+0.18 
+N 
+23 
+15 
+0.31 
+26.87 
+1.21 
+0.14 
+0.18 
+N 
+21 
+18 
+0.41 
+24.00 
+1.31 
+0.16 
+0.25 
+N 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+35 
+6 
+0.68 
+30.37 
+1.69 
+0.30 
+0.39 
+N 
+15 
+9 
+0.21 
+29.52 
+0.33 
+0.19 
+0.02 
+Y 
+3 
+12 
+0.46 
+28.13 
+2.55 
+0.18 
+0.28 
+N 
+12 
+15 
+0.35 
+26.55 
+1.11 
+0.16 
+0.19 
+N 
+32 
+18 
+0.76 
+25.22 
+5.57 
+0.28 
+0.48 
+N 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28 
+6 
+0.69 
+23.15 
+2.45 
+0.29 
+0.40 
+N 
+8 
+9 
+0.38 
+23.88 
+1.13 
+0.22 
+0.15 
+N 
+11 
+12 
+0.31 
+23.07 
+1.12 
+0.15 
+0.16 
+N 
+6 
+15 
+0.31 
+22.93 
+1.41 
+0.14 
+0.17 
+N 
+10 
+18 
+0.73 
+21.90 
+5.63 
+0.26 
+0.47 
+N 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PIT ASH32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+6 
+0.01 
+33.60 
+0.02 
+0.04 
+0.03 
+Y 
+7 
+12 
+0.03 
+31.13 
+0.01 
+0.03 
+0.00 
+Y 
+2 
+18 
+0.11 
+28.42 
+0.06 
+0.06 
+0.05 
+N 
+44 
+24 
+0.06 
+27.52 
+0.03 
+0.07 
+0.01 
+Y 
+19 
+30 
+0.10 
+25.93 
+0.04 
+0.07 
+0.03 
+Y 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+29 
+36 
+0.08 
+25.32 
+0.04 
+0.07 
+0.01 
+Y 
+20 
+42 
+0.09 
+24.32 
+0.09 
+0.19 
+0.10 
+N 
+1 
+6 
+0.14 
+35.53 
+0.08 
+0.06 
+0.08 
+N 
+17 
+12 
+0.04 
+33.38 
+0.03 
+0.03 
+0.01 
+Y 
+5 
+18 
+0.02 
+31.05 
+0.02 
+0.02 
+0.01 
+Y 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27 
+24 
+0.11 
+28.72 
+0.08 
+0.06 
+0.05 
+N 
+43 
+30 
+0.09 
+25.70 
+0.05 
+0.09 
+0.00 
+Y 
+13 
+36 
+0.09 
+25.53 
+0.04 
+0.06 
+0.03 
+Y 
+36 
+42 
+0.15 
+25.30 
+0.16 
+0.16 
+0.01 
+Y 
+14 
+12 
+0.08 
+33.23 
+0.13 
+0.02 
+0.06 
+N 
+ 
+ 
+Soil Information 
+Soil Type 
+  
+The ARS is located in an area mapped as a Lincoln-Krier complex, which means it 
+contains a mixture of both Lincoln and Krier soils.  A detailed description of these soils can be 
+found in the Clark County soil survey (USDA-SCS, 1982).  Note that the descriptions of the 
+Lincoln and Krier series are for typical pedons.  They capture the distinguishing characteristics 
+of these series, but are not exact descriptions of Lincoln and Krier pedons in the Lincoln-Krier 
+ 
+24
+complex at the ARS.    We did not attempt to identify the soils in each pit as we did not feel 
+qualified to do so. 
+ 
+ 
+ 
+Soil Texture 
+ 
+On September 20-21, 2005, we collected soil samples at each monitoring site. At each 
+site, four sampling locations were identified at a distance of approximately 10 feet from the 
+water-table well.  Sampling locations were distributed as uniformly as possible around each 
+well (ideal arrangement forming a square); however, the spatial arrangement varied from well 
+to well due to the presence of salt cedar plants (live plants as well as crowns of treated plants) 
+and landscape features.  
+Samples were collected (2.75-inch-diameter bucket auger) from all four sampling 
+locations in 6-inch depth intervals from the soil surface to the maximum depth allowable due to 
+the presence of the water table.  The samples obtained from the four sampling locations were 
+combined (composited) by depth interval in plastic buckets.  That is, all four samples from the 
+0- to 6-inch depth interval were combined in a bucket, all four samples from the 6- to 12-inch 
+depth interval were combined in a bucket, and so on.  After samples were obtained from all 
+four locations, all of the soil material in each bucket was transferred to a sample bag, labeled 
+with well number and depth interval.   
+The samples were transported to the laboratory and dried at 50 °C for one week. 
+Samples were crushed and then passed through a 2-mm sieve.  Large root fragments were 
+removed and discarded prior to crushing.  Small root fragments were removed and discarded 
+during the sieving process.  The material that passed through the 2-mm sieve was returned to 
+the original sample bag.    
+A sample splitter was used to obtain a subsample of approximately 16 ounces (liquid 
+volume basis) for particle size analysis and a subsample of approximately 32 ounces (liquid 
+volume basis) for chemical analysis.   
+The subsamples for chemical analysis were submitted to the KSU Soil Testing 
+Laboratory.  Table 2 contains results for the electrical conductivity of the solution extracted 
+from a saturated paste. 
+ 
+Sample number 
+Well number 
+Depth interval 
+Elec. cond. 
+ 
+ 
+inches 
+dS/m 
+12 
+Ash 21 
+0-6 
+3.53 
+13 
+Ash 21 
+6-12 
+6.62 
+14 
+Ash 21 
+12-18 
+11.32 
+15 
+Ash 21 
+18-24 
+6.58 
+16 
+Ash 21 
+24-30 
+5.10 
+17 
+Ash 21 
+30-36 
+4.15 
+18 
+Ash 22 
+0-6 
+11.81 
+19 
+Ash 22 
+6-12 
+14.33 
+20 
+Ash 22 
+12-18 
+11.14 
+21 
+Ash 22 
+18-24 
+12.30 
+ 
+25
+22 
+Ash 22 
+24-30 
+13.96 
+23 
+Ash 22 
+30-36 
+12.25 
+24 
+Ash 22 
+36-42 
+13.00 
+25 
+Ash 22 
+42-48 
+5.01 
+31 
+Ash 32 
+0-6 
+3.55 
+32 
+Ash 32 
+6-12 
+2.96 
+33 
+Ash 32 
+12-18 
+2.59 
+34 
+Ash 32 
+18-24 
+1.45 
+35 
+Ash 32 
+24-30 
+1.60 
+36 
+Ash 32 
+30-36 
+2.20 
+37 
+Ash 32 
+36-42 
+2.52 
+38 
+Ash 32 
+42-48 
+2.37 
+ 
+Table 2 – Electrical conductivity of saturated extract 
+ 
+The subsamples for particle size analysis were analyzed at the KSU Soil 
+Characterization Laboratory.  All samples were subject to a pretreatment step of salt washing 
+(removal of soluble salts).  In addition, several samples were subject to a pretreatment step for 
+removal of organic matter.  Amounts of total sand and the various sand fractions (very fine, 
+fine, medium, coarse, and very coarse sand) were determined by sieving.  Amounts of total 
+clay, fine silt, and medium silt fractions were determined using sedimentation analysis in 
+conjunction with the pipette method.  The amount of coarse silt in each sample was determined 
+by difference.  Particle size analysis results are shown in Table 3. 
+ 
+Sample 
+number 
+Well 
+number 
+Depth 
+interval 
+Total sand 
+(2.00-0.05 mm) 
+Total silt 
+(50.0-2.0 µm) 
+Total clay 
+(< 2.0 µm ) 
+Textural 
+class 
+ 
+ 
+inches 
+-------------------------------- % ------------------------------- 
+ 
+12 
+Ash 21 
+0-6 
+83.8 
+11.1 
+5.1 
+lfs 
+13 
+Ash 21 
+6-12 
+84.1 
+11.3 
+4.6 
+lfs 
+14 
+Ash 21 
+12-18 
+82.0 
+14.0 
+4.0 
+lfs 
+15 
+Ash 21 
+18-24 
+93.2 
+3.8 
+3.0 
+s 
+16 
+Ash 21 
+24-30 
+94.0 
+5.8 
+0.2 
+fs 
+17 
+Ash 21 
+30-36 
+97.0 
+3.0 
+0.0 
+fs 
+18 
+Ash 22 
+0-6 
+16.5 
+52.6 
+30.9 
+sicl 
+19 
+Ash 22 
+6-12 
+53.8 
+39.6 
+6.7 
+vfsl 
+20 
+Ash 22 
+12-18 
+68.8 
+25.5 
+5.7 
+vfsl 
+21 
+Ash 22 
+18-24 
+24.9 
+45.5 
+29.6 
+cl 
+22 
+Ash 22 
+24-30 
+41.0 
+33.2 
+25.8 
+l 
+23 
+Ash 22 
+30-36 
+86.5 
+9.5 
+4.0 
+lfs 
+24 
+Ash 22 
+26-42 
+76.6 
+19.0 
+4.4 
+lfs 
+25 
+Ash 22 
+42-48 
+93.4 
+6.6 
+0.0 
+fs 
+31 
+Ash 32 
+0-6 
+59.7 
+34.0 
+6.3 
+vfsl 
+32 
+Ash 32 
+6-12 
+76.8 
+19.4 
+3.8 
+lvfs 
+ 
+26
+33 
+Ash 32 
+12-18 
+88.6 
+10.5 
+0.9 
+fs 
+34 
+Ash 32 
+18-24 
+95.9 
+3.0 
+1.1 
+s 
+35 
+Ash 32 
+24-30 
+96.8 
+3.2 
+0.0 
+s 
+36 
+Ash 32 
+30-36 
+96.8 
+3.2 
+0.0 
+s 
+37 
+Ash 32 
+26-42 
+96.6 
+3.4 
+0.0 
+s 
+38 
+Ash 32 
+42-48 
+97.6 
+2.4 
+0.0 
+s 
+ 
+Table 3 – Soil textural information from the vicinity of the three pits.    

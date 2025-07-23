@@ -1,0 +1,46 @@
+# Large files (>100MB) - use Git LFS for these
+data/processed/001823_parsed.txt
+data/raw/txt/001823.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+forensiq_env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large model files (use Git LFS)
+*.model
+*.pkl
+*.joblib
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.pb
+
+# Large dataset files (>100MB)
+data/processed/*_large.txt
+data/processed/*_large.csv
+data/raw/**/*.gz

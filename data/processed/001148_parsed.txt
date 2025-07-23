@@ -1,0 +1,454 @@
+UNITED STATES BANKRUPTCY COURT
+FOR THE DISTRICT OF DELAWARE
+In Re:
+)
+Chapter 11
+)
+APF Co., et al.,
+)
+Case No. 98-1596 (PJW)
+)
+Debtors.
+)
+_______________________________
+)
+)
+JOSEPH A. PARDO, Trustee of FPA
+)
+Creditor Trust,
+)
+)
+Plaintiff,
+)
+)
+             vs.
+)
+Adv. Proc. No. 00-00844
+)
+AVANTI CORPORATE HEALTH 
+)
+SYSTEMS, INC., CHARLES E. SMITH
+)
+and WILLIAM MERLIN,
+)
+)
+Defendants.
+)
+MEMORANDUM OPINION
+John D. Demmy
+Neil B. Glassman
+Stevens & Lee, P.C.
+Jeffrey M. Schlerf
+300 Delaware Avenue, Suite 800
+Elio Battista, Jr.
+Wilmington, DE 19801
+The Bayard Firm
+222 Delaware Avenue
+Harold S. Horwich
+Suite 900   
+Bingham Dana LLP
+Wilmington, DE 19801
+One State Street
+Hartford, CT 06103
+Dennis J. O’Grady
+Joseph L. Schwartz
+Attorneys for Avanti Corporate
+Riker, Danzig, Scherer,
+Health Systems, Inc., and 
+Hyland & Perretti LLP
+Charles E. Smith
+Headquarters Plaza
+One Speedwell Avenue
+Morristown, NJ 07962
+Co-Counsel for Plaintiff,
+Joseph A. Pardo, Trustee
+Of the FPA Creditor Trust
+Date: August 27, 2001
+2
+1
+With modifications not relevant here, Fed.R.Bank.P. 7012 and
+7009 make Fed.R.Civ.P. 12 and 9(b) applicable to adversary
+proceedings in bankruptcy.
+WALSH, J. /s/ Peter J. Walsh
+Before the Court is the motion (Doc. # 5) of Avanti
+Corporate Health Systems, Inc. ("Avanti") to dismiss the three
+count complaint of Joseph A. Pardo, Trustee of the FPA Creditor
+Trust ("Trustee") to avoid and recover fraudulent and preferential
+transfers.  This dispute arises from the prepetition sale by Avanti
+to APF Co. f/k/a FPA Medical Management, Inc. ("FPA") of a
+physician practice management company and the medical practices it
+serviced.  The Trustee seeks to avoid and recover, inter alia, the
+$4 million in cash and the 1,402,123 shares of its stock FPA paid
+for the acquisition.  Avanti moves to dismiss under Fed.R.Civ.P. 12
+and 9(b).1  For the reasons discussed below I will deny the motion
+as to count I and grant the motion as to counts II and III of the
+complaint.
+BACKGROUND
+FPA purchased Avanti Health Systems of Texas, Inc.
+("Avanti-Texas") from Avanti.  On November 19, 1997, FPA and Avanti
+executed a Stock Purchase Agreement by which FPA acquired all the
+issued and outstanding capital stock of Avanti-Texas.  In exchange,
+FPA (i) paid Avanti $4 million in cash, (ii) transferred 1,402,123
+shares of its publicly traded stock to Avanti, then valued at
+3
+2
+Unless otherwise indicated, all references to "§___" herein
+are to a section of the Bankruptcy Code, 11 U.S.C. § 101 et
+seq.
+approximately $27 million, (iii) assumed certain liabilities of two
+related entities, Doctors Officenter Medical Group of Houston, PA
+("DOMGH") and Doctors Officenter Medical Group of Dallas, PA
+("DOMGD"), and (iv) made certain additional payments to two
+individual doctors, Charles E. Smith ("Smith") and William Merlin
+("Merlin").  Less than a year later, on July 19, 1998, FPA filed
+for voluntary chapter 11 relief.
+Plaintiff is the Trustee of the FPA Creditor Trust
+established by the confirmed chapter 11 plan in this case.  He is
+seeking recovery of the assets, or their value, which FPA paid for
+the acquisition of Avanti-Texas, DOMGH and DOMGD.  Counts I and II
+seek to avoid and recover the assets as fraudulent transfers under
+§§ 548, 544 and 550.2  Count III seeks to avoid and recover the
+assets as preferences under §§ 547 and 550.
+Avanti moves to dismiss on four grounds.  First, it
+argues dismissal is warranted as a matter of law because there was
+no "transfer of an interest of the debtor in property" as required
+by § 547, § 548 and at relevant state law under § 544 because a
+corporation has no ownership interest in shares of its own stock.
+Second, Avanti argues count II of the complaint fails to plead
+4
+3
+The failure to plead a claim with the particularity required
+by Rule 9(b) is a failure to state a claim upon which relief
+may be granted under Rule 12(b)(6). 
+intentional fraud with particularity as mandated by Rule 9(b).3
+Avanti also moves to dismiss count II under § 544 because it does
+not identify an actual unsecured creditor under whose rights the
+Trustee is claiming nor does it identify the applicable state law
+pursuant to which he is proceeding.  Finally, Avanti moves to
+dismiss count III because it fails to adequately plead a preference
+under § 547.  I will address each argument in turn.
+DISCUSSION
+A motion to dismiss for failure to state a claim upon
+which relief can be granted under Rule 12(b)(6) serves to test the
+sufficiency of the complaint.  Kost v. Kozakiewicz, 1 F.3d 176, 183
+(3d Cir. 1993); Loftus v. Southeastern Pennsylvania Transp. Auth.,
+843 F.Supp. 981, 984 (E.D. Pa. 1994).  When deciding such a motion,
+I accept as true all allegations in the complaint and all
+reasonable inferences drawn from it which I consider in a light
+most favorable to the plaintiffs.  Morse v. Lower Merion School
+Dist., 132 F.3d 902, 906 (3d Cir. 1997); Rocks v. City of
+Philadelphia, 868 F.2d 644, 645 (3d Cir. 1989).  I should not grant
+a Rule 12(b)(6) motion "unless it appears beyond doubt that
+[plaintiff] can prove no set of facts in support of [its] claim
+which would entitle [it] to relief."  Conley v. Gibson, 355 U.S.
+5
+41, 45-46, 78 S.Ct. 99, 102 (1957).
+Avanti moves to dismiss counts I and II as a matter of
+law because they fail to plead "a transfer of an interest of the
+debtor in property" as required by § 548 or at state law under §
+544.  Avanti argues that it is well-settled that a corporation has
+no property interest in shares of its own stock and that
+consequently, a transfer of the debtor's own stock cannot be the
+basis of a fraudulent transfer.  In response, the Trustee argues
+that although a corporation may not have an ownership interest in
+capital stock, it does have an ownership interest in treasury
+stock.  The Trustee also argues that dismissal based on the status
+of the FPA stock alone is inappropriate because the complaint is
+not limited to the FPA stock as the property fraudulently
+transferred.  I agree with the Trustee for two reasons.
+First, without regard to the FPA stock, counts I and II
+state a cause of action for which relief may be granted.   For
+purposes of a Rule 12(b)(6) motion, I take all "well pleaded
+allegations of the complaint as true, construe the complaint in the
+light most favorable to the plaintiff, and determine whether, under
+any circumstances, the plaintiff might be entitled to any relief."
+Helstoski v. Goldstein, 552 F.2d 564, 565 (3d Cir. 1977). 
+The Trustee challenges the entire transaction between FPA
+and Avanti as fraudulent.  Accordingly, the complaint attacks not
+only the transferred stock, but also FPA's assumption of assorted
+6
+liabilities, its transfer of cash and the "additional payments" FPA
+made to Merlin and Smith.  Complaint at ¶¶ 19 - 32.  Thus, even if
+one ignores the value of the FPA stock, and construing the
+allegations in a light most favorable to the Trustee, the complaint
+adequately alleges "a transfer of an interest in property of the
+debtor" for purposes of pleading a fraudulent conveyance.
+Second, whether the FPA stock may be the basis of a
+fraudulent transfer action may turn on whether it is treasury stock
+or authorized and reissued stock.  Avanti cites authority for the
+proposition that a corporate debtor does not have a property
+interest in shares of its capital stock the transfer of which would
+render it subject to a fraudulent conveyance action.  E.g.,Uranga
+v. Geib (In re Paso del Norte Oil Co.), 755 F.2d 421, 424 (5th Cir.
+1985); Hansen v. Finn (In re Curry and Sorensen, Inc.), 57 B.R.
+824, 829 (B.A.P. 9th Cir. 1986).  There is case law, however, that
+suggests a corporation does own treasury stock such that its
+transfer would bring it within the scope of § 548 or relevant state
+law under § 544.  See, e.g., Webster v. Barbara (In re Otis &
+Edwards, 
+P.C.), 
+115 
+B.R. 
+900, 
+909 
+(Bankr. 
+E.D. 
+Mich.
+1990)(principles of corporate finance theory regarding accounting
+of treasury shares as noncorporate assets "are of limited use in
+the fraudulent conveyance context"); Karasik v. Pac. Eastern Corp.,
+180 A. 604, 606 (Del. Ch. 1935)("[S]tock when acquired [by the
+corporation] becomes treasury stock which may be sold by the
+7
+corporation and realized upon as any other asset; or, if it is
+desired not to sell the stock, its retention by the corporation
+increases pro tanto the asset value underneath the stock held by
+the general body of the stockholders who are in a material though
+not technical sense the corporation . . .");  Martin J.
+Bienenstock, Once in Bankruptcy, Whose Company is it Anyway?  573
+PLI/Comm. 667, 675 n.10 (1991) ("[t]reasury stock owned by the
+debtor is property of the estate and may be recovered if
+fraudulently transferred").
+The parties dispute whether FPA gave  treasury or capital
+stock to Avanti.  See Plaintiffs' Memorandum of Law in Opposition
+to . . . Dismiss Complaint (Doc. # 14) at p. 5 n.2 ("On information
+and belief, the stock transferred to Avanti by FPA was treasury
+stock of the Debtors") and p. 12 ("Moreover, it is unclear whether
+the FPA Stock . . . was unissued stock or treasury stock”) and
+Reply Memorandum of . . . Avanti (Doc. # 17) at p. 10 n.2 ("Section
+4.02(a) of the Stock Purchase Agreement provides that with
+reference to the FPA Common Stock, 'no shares were held in the
+treasury of FPA'").  It is not appropriate to adjudicate such a
+dispute of fact in the context of a Rule 12(b)(6) motion.  If
+Avanti is right that the FPA stock is not treasury stock, it may be
+possible to resolve the matter in a subsequent motion for partial
+summary judgment.  At this time, however, the Trustee states at
+least a colorable claim for relief so that dismissal of counts I
+8
+and II on this issue under Rule 12(b)(6) as a matter of law is not
+proper.
+Avanti next moves to dismiss those portions of counts I
+and II which allege intentional fraud because they fail to comply
+with the heightened pleading standard of Rule 9(b).  Avanti argues
+dismissal is warranted because the complaint "omits mention of any
+facts and circumstances constituting or suggesting intentional
+fraud, much less identification of each defendant's contribution to
+the alleged fraud."  Memorandum of Law of . . . Avanti . . . in
+Support of Motion to Dismiss (Doc. # 6) at p. 10 (emphasis in
+original). 
+Rule 9(b) requires that "[i]n all averments of fraud . .
+. the circumstances constituting fraud . . . shall be stated with
+particularity."  Fed.R.Civ.P. 9(b).  The Third Circuit condones a
+lenient approach to application of this standard. Seville Indus.
+Machin. Corp. v. Southmost Machin. Corp., 742 F.2d 786, 791 (3d
+Cir. 1984).  Although a plaintiff must plead with particularity the
+circumstances of the alleged fraud, a plaintiff need not plead the
+"date, place or time" of the fraud so long as they use an
+"alternative means of injecting precision and some measure of
+substantiation into their allegations of fraud."  Id.  Especially
+in bankruptcy cases, where the plaintiff is a trustee acting on
+behalf of the estate or a group of creditors, courts apply Rule
+9(b) with greater flexibility recognizing that trustees often lack
+9
+knowledge or have only secondhand knowledge of prepetition
+fraudulent acts involving the debtor and third parties.  E.g.,
+Flexi-van Leasing, Inc. v. Perez (In re Perez), 155 B.R. 844, 849
+(Bankr. E.D.N.Y. 1993)(when applying Rule 9(b) "bankruptcy courts
+do not necessarily require the rigid standards demanded in a non-
+bankruptcy civil proceeding"); Davidson v. Twin City Bank (In re
+Hollis & Co.), 83 B.R. 588, 590 (Bankr. E.D. Ark. 1988)
+(recognizing more liberal approach to fraud pleading in bankruptcy
+cases where trustee brings suit); Birnberg v. Rancho la Costa, Inc.
+(In re Reach McClinton & Co.), 62 B.R. 978, 981 (Bankr. D.N.J.
+1986)(discussing Rule 9(b) and noting trustees work at a
+disadvantage and under greater disability).
+I find that the Trustee's complaint meets the Rule 9(b)
+pleading requirements.  The complaint alleges the circumstances
+surrounding the alleged fraud as follows: 
+In November 1997, FPA acquired Avanti-Texas and related
+entities from Avanti, Smith and Merlin.  Complaint at ¶
+19.
+FPA executed a Stock Purchase Agreement with Avanti
+pursuant to which FPA acquired all of the issued and
+outstanding capital stock of Avanti-Texas.  Complaint at
+¶ 20.
+As consideration for the acquisition of Avanti-Texas, FPA
+paid Avanti, Smith and Merlin $4 million in cash;
+1,402,123 shares of FPA Stock with an approximate fair
+market value of $27 million; and certain additional
+payments to Smith and Merlin.  FPA also assumed certain
+liabilities. Complaint at ¶¶ 21 -25.
+In connection with the purchase, Smith sold his 100%
+stock interest in DOMGH to Kevin Ellis, an officer of
+10
+FPA, for additional payments from FPA.  Complaint at ¶
+24.
+FPA made the transfers with the actual intent to hinder,
+delay or defraud entities to which FPA became indebted on
+or after the date of the transfers and FPA was insolvent
+or became insolvent as a result of the transfer at the
+time they were made.  Complaint at ¶¶ 27-28.
+This provides sufficient notice to Avanti of who committed the
+alleged fraud and its surrounding circumstances to satisfy Rule
+9(b).
+Avanti also moves to dismiss count II under § 544(b)
+because it fails to identify an unsecured creditor under whose
+rights the Trustee is claiming.  Section 544(b) permits the Trustee
+to exercise whatever rights of avoidance a creditor holding an
+unsecured allowable claim could have exercised on its own behalf
+under applicable state or federal non-bankruptcy law.  11 U.S.C. §
+544(b). Avanti contends the Trustee must specifically plead the
+existence of an identified creditor who held a claim at the time of
+the transfer and the state law pursuant to which he is proceeding.
+I am not persuaded that a trustee must do so, but I agree with
+Avanti that in this case, the Trustee's complaint is deficient.
+When analyzing the sufficiency of a complaint for
+purposes of Rule 12(b)(6), courts do not generally require a
+trustee to plead the existence of an unsecured creditor by name,
+although the trustee must ultimately prove such a creditor exists.
+Fisher v. MRM Group, Inc. (In re Multi-Risk Mgmt., Inc.), 1998 WL
+11
+566044, at *2 (Bankr. N.D. Ill. 1998) (trustee must not plead by
+name existence of creditors under § 544(b)) citing Matter of
+Leonard, 125 F.3d 543, 544 (7th Cir. 1997); Askanase v. Fatjo, 1993
+WL 208682, at * 4 (S.D. Tex. 1993)("Although the trustee at trial
+must establish the existence of an allowed claim that could have
+been avoided, the complaint need not outline all the elements of a
+§ 544(b) claim").  A complaint, however, "must set forth sufficient
+information to outline the elements of [the] claim or to permit
+inferences to be drawn that these elements exist."  Walker v. South
+Cent. Bell Tel. Co., 904 F.2d 275, 277 (5th Cir. 1990).
+Count II does not meet this standard.  Without more, the
+Trustee simply incorporates the previous allegations of the
+complaint (at ¶ 33) and adds the conclusory assertion that "[t]he
+Debtors' transfers of property as a result of the Transaction
+constitute fraudulent transfers under applicable nonbankruptcy law,
+which are avoidable and recoverable by the Trustee pursuant to 11
+U.S.C. § 544 and applicable state law."  Complaint at ¶ 34.  He
+provides no other information.  This portion of the pleading is so
+vague that drawing inferences regarding the elements of § 544(b) is
+difficult.  Although liberal, the pleading requirements of the
+Federal Rules are not intended to reduce a defendant to guesswork
+and conjecture.  Avanti's motion to dismiss count II is therefore
+granted.  I do so without prejudice to the Trustee’s right to amend
+the complaint and I find that relation back under the circumstances
+12
+4
+Fed.R.Civ.P. 15 permits a party to amend his pleading by leave
+of the court, and "leave shall be freely given when justice so
+requires." Fed.R.Civ.P. 15(a).  An amendment “relates back to
+the date of the original pleading when the claim . . .
+asserted in the amended pleading arose out of the conduct,
+transaction or occurrence set forth or attempted to be set
+forth in the original pleading.”   Fed.R.Civ.P. 15(c).  Courts
+"almost always" dismiss complaints under Fed.R.Civ.P. 8, 9(b)
+and 12(b)(6) with leave to amend.  Glinka v. Dartmouth Banking
+Co. (In re Kelton Motors, Inc.), 121 B.R. 166, 189 (Bankr.
+D.Vt. 1990) citing Luce v. Edelstein, 802 F.2d 49, 56 (2d Cir.
+1986).
+would be proper.4
+Finally, Avanti argues that count III for avoidance of a
+preferential transfer under § 547(b) should be dismissed because it
+does not adequately plead the necessary elements, specifically, the
+complaint fails to identify the allegedly preferential transfers.
+I agree.
+Under section § 547, the Trustee must establish that:
+(1)  an interest of the debtor was transferred;
+(2) the transfer was made to or for the benefit of 
+Avanti;
+(3)
+the transfer was because of an antecedent debt;
+(4)
+the debtor was insolvent at the time of the 
+transfer;
+(5)
+the transfer occurred within ninety days before the
+bankruptcy petition was filed; and
+(6) the transfer permitted Avanti to receive more than
+it would have received upon liquidation of the
+debtor under the Code.
+11 U.S.C. § 547(b); Glenshaw Glass Co. v. Ontario Grape
+Growers Mktg. Bd. (In re Keystone Foods, Inc.), 145 B.R.
+502, 508 (Bankr. W.D. Pa. 1992).
+Count III recites the statutory language of § 547(b) and
+then simply concludes that "[d]uring the ninety (90) days preceding
+13
+the Filing Date, the Debtors made a number of payments to
+Defendants, some or all of which were as a result of the
+Transaction (the "Preference Payments")."  Complaint at ¶¶ 36 -37.
+The Trustee fails to provide even rudimentary facts surrounding the
+preferences -- e.g., the date, time and amount of the allegedly
+preferential payments, to whom made, the respective values, etc. --
+a point which the Trustee essentially concedes.
+Although the Federal Rules require only a "short and
+plain statement of the claim showing that the pleader is entitled
+to relief," Fed.R.Civ.P. 8(a), a plaintiff must do more than merely
+recite the statutory language to survive a motion to dismiss.
+Accord e.g., State Farm Fire & Cas. Co. v. Jenkin (In re Jenkin),
+83 B.R. 733, 735 (B.A.P. 9th Cir. 1988)("A complaint that contains
+a mere recitation of the statutory language, does not state a cause
+of action...").  I will therefore grant Avanti's motion to dismiss
+count III and as before, I do so without prejudice to the Trustee
+to file an amended complaint that can relate back under
+Fed.R.Civ.P. 15(c).
+CONCLUSION
+For the reasons set forth above, I will deny in part and
+grant in part Avanti's motion to dismiss the Trustee's complaint.
+I deny the motion to dismiss count I of the complaint.  I find that
+the Trustee pleads a colorable claim for relief to avoid and
+recover the assets FPA transferred to Avanti in consideration for
+14
+FPA's acquisition of Avanti-Texas, DOMGH and DOMGD under § 548 and
+§ 544.  However, I will grant Avanti's motion to dismiss counts II
+and III of the complaint. I do so without prejudice to the
+Trustee's right to file an amended complaint that can relate back
+under Fed.R.Civ.P. 15(c).
+UNITED STATES BANKRUPTCY COURT
+FOR THE DISTRICT OF DELAWARE
+In Re:
+)
+Chapter 11
+)
+APF Co., et al.,
+)
+Case No. 98-1596 (PJW)
+)
+Debtors.
+)
+_______________________________
+)
+)
+JOSEPH A. PARDO, Trustee of FPA
+)
+Creditor Trust,
+)
+)
+Plaintiff,
+)
+)
+             vs.
+)
+Adv. Proc. No. 00-00844
+)
+AVANTI CORPORATE HEALTH 
+)
+SYSTEMS, INC., CHARLES E. SMITH
+)
+and WILLIAM MERLIN,
+)
+)
+Defendants.
+)
+ORDER
+For the reasons set forth in the Court's memorandum
+opinion of this date, it is hereby ordered that the Motion of
+Defendants Avanti Corporate Health Systems, Inc. and Charles E.
+Smith to Dismiss Complaint to Avoid and Recover Fraudulent and/or
+Preferential Transfers (Doc. # 5) is DENIED as to count I of the
+Complaint and GRANTED as to counts II and III, subject to the right
+of Plaintiff to file and serve within 30 days from the date of this
+order an amended complaint.
+/s/ Peter J. Walsh        
+Peter J. Walsh
+United States Bankruptcy Judge
+Date: August 27, 2001

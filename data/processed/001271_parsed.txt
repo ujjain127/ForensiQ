@@ -1,0 +1,397 @@
+USDA/FSIS Microbiology Laboratory Guidebook      3rd Edition/1998
+2-1
+CHAPTER 2. PHYSICAL EXAMINATION OF MEAT AND POULTRY PRODUCTS
+ Charles P. Lattuada and B. P. Dey
+2.1  Introduction
+Microorganisms associated with meat and poultry products can be
+placed in three categories, beneficial, spoilage and pathogenic. 
+Each product has a characteristic microbial profile called its
+"normal flora".  Frequently information on changes in the "normal
+flora" can be obtained rapidly by simple observations.  These
+observations can be grouped into a category called organoleptic
+observations.  The term "organoleptic" refers to the use of the
+senses in determining the acceptability of a product. This would
+also include a direct microscopic examination.
+Organoleptic 
+analyses 
+are 
+of 
+particular 
+importance 
+during
+investigations of certain food production problems such as
+detecting deleterious pre- or post-processing changes of canned
+products.  Changes brought about by abusive handling and storage
+also may be detected by organoleptic observation.
+In order to make a valid judgment, based upon one or more
+organoleptic observations, the analyst must know the physical
+characteristics of a "normal" product.  This knowledge can be
+gained by experience and specialized training.  Each laboratory
+should have Standard Operating Procedures (SOPs) describing the
+organoleptic standards for the acceptance or rejection of samples.
+When judging a product to be abnormal, if possible, the decision
+should be based on a comparison of the suspect product with one
+that is normal, if readily available.  This minimizes the
+subjectivity of the decision that a product has an "off odor", "off
+color", or other sensory abnormality.  Tasting products as part of
+a microbiological examination is a dangerous practice and should be
+avoided.  When the question to be answered is related to spoilage,
+odor is of primary importance; chemical and/or bacteriological
+results are corroborative and substantiating. 
+2.2  Examination
+The following guideline establishes a standardized inter-laboratory
+procedure for characterizing samples.
+a.
+Appearance: Changes in color; degradation of fat;
+presence of foreign materials such as metal, hair,
+feathers, sand, charcoal, etc.
+b.
+Texture: Change in consistency; development of slime;
+breakdown of structure (proteolysis), etc.
+USDA/FSIS Microbiology Laboratory Guidebook      3rd Edition/1998
+2-2
+c.
+Odor: Examples of words used to describe off-odors are:
+sour (acidic), moldy, musty, fishy, rancid, fruity,
+yeasty (beer-like) and putrid.  However, if the analyst
+cannot decide how to classify an odor it is acceptable
+and appropriate to say simply: "off-odor" or "taint". 
+Notations as to whether the off-odor is strong or slight
+are also in order.
+2.21 Odor Examination By a Panel
+In some cases results of odor examinations are equivocal and an
+odor detection panel, consisting of at least three members must be
+formed.  The purpose of this panel is to evaluate aroma only, and
+its judgement must not be swayed by appearances.  Only people with
+a good sense of smell can be assigned to it.  The coordinator, who
+is not a panel member, will prepare the samples and ensure that the
+following procedures are followed:
+a.
+The test must be conducted in a well-ventilated area
+free of strong odors.
+b.
+At least 15 - 20% of the samples in the test group
+should be normal, wholesome, product-counterparts of the
+samples being examined.  The normal controls should be
+as similar to the test product as possible with respect
+to ingredients, processing, packaging, size, age and
+handling procedures.
+c.
+All samples should be presented to the smell panel in
+sequentially coded glass jars or polyethylene bags of
+the same size and shape, similar in weight and at the
+same temperature (usually 35°C).  Both the normal and
+questionable products should be presented in a random
+order with a rest between samples.  Do not decontaminate
+cans by flaming since heating and/or burning the
+contents could alter or mask any other odors that might
+be present.
+d.
+Before beginning the examination, the panel members
+should smell and discuss the characteristic aroma of a
+normal product.  They should be made aware that it is
+for general reference only, since normal products may
+vary slightly in odor and intensity.  They then should
+rest until the samples are presented to allow recovery
+of the sense of smell which tires easily.
+e. 
+During the actual sample analysis, each panel member
+should remove the jar lid or open the bag, sniff the
+contents without glancing at them, replace the lid/close
+the 
+bag 
+and 
+return 
+the 
+container 
+to 
+the 
+panel
+coordinator.  The panelist's sensory perceptions should
+USDA/FSIS Microbiology Laboratory Guidebook      3rd Edition/1998
+2-3
+be entered on a score pad containing a list of
+appropriate terms with notations about whether the odor
+was strong or weak.
+ 
+f.
+During the examination the panel members must not
+comment, exclaim or use body language that conveys their
+impression of the odors to other members of the panel. 
+Caution:  It is not to be assumed that a smell panel composed
+of laboratory personnel will have the degree of skill attained
+by professional odor analysts.  The purpose of a panel of
+laboratory personnel is to detect the odors of decomposition
+or product contamination with an odorous compound.
+2.3  Determination of pH in Meat and Poultry Products
+Potentiometric measurements should be used to determine the pH of a
+food product.  The accuracy of most pH meters is approximately 0.1
+pH units and reproducibility should be approximately ± 0.005 pH
+units.  Both the glass and reference electrode are usually housed
+in a single tube, called the combination electrode.  To obtain
+accurate results the same temperature should be used for
+standardization with the buffers and the sample.  Measurements
+should be taken within the temperature range of 20 to 30°C.
+2.31 Equipment and Reagents
+a.
+Blender
+b.
+Beaker, 100 ml
+c.
+Separatory funnel
+d.
+pH meter, suitable for reading pH from 0 to 14 in 0.1
+unit increments.  A rugged, designated combination
+electrode should be used for pH measurement of meats and
+poultry.  A flat combination electrode works well for
+determining the surface pH of canned foods.
+e.
+Distilled water
+f.
+Certified buffer solutions of pH 7.00, and either pH
+4.00 or 10.00.  The buffers chosen should bracket the
+desired pH.
+2.32 Procedure
+a.
+Calibrate the pH meter, according to manufacturer's
+instructions, using certified buffers pH 7.00 and either
+pH 4.00 or 10.00.
+b. 
+Most products will be solid and require blending.  A 1:5
+or 1:10 dilution should be made with distilled water in
+a clean blender jar.  Blend to a thin uniform
+consistency and perform the pH measurement.  If fat or
+oil causes fouling of the electrode, transfer a portion
+USDA/FSIS Microbiology Laboratory Guidebook      3rd Edition/1998
+2-4
+of the homogenate to a separatory funnel and draw off a
+portion of the aqueous phase.  On certain products
+centrifugation may be required in order to recover a
+measurable aqueous phase.
+c.
+Adjust the temperature control on the pH meter to that
+of the sample (ideally 25°C) and immerse the pH electrode
+into the liquid phase.
+d.
+A surface electrode may be used with certain low fat
+products that present a flat, solid core surface.  If a
+surface measurement is taken, ensure that the electrode
+has good contact with the product surface.
+e.
+Record pH to the nearest 0.1 unit.
+2.4 Determination of Water Activity (Aw) of Meat and Poultry
+Products
+     
+The free moisture level in food is called water activity (aw). This
+is the water available to support microbiological growth in the
+food. It can be lowered by dehydration or by the addition of
+binding agents such as salt or sugar.  The growth of different
+types and genera of microorganisms is controlled by the water
+activity level in a specific product. Much information exists on
+the water activity limits of growth for microorganisms.  For
+example, the limit of growth for Clostridium botulinum occurs
+between an aw of 0.935 and 0.945.  Canned foods with an aw of ≤0.85
+are exempt by the FDA from the canned food regulations and cured
+meats without nitrates must have an aw of ≤0.92.  It is important,
+therefore, that the aw in foods be measured very accurately.  A
+detailed list of growth limiting aw values can be found in Chapter
+8 of the Compendium of Methods for the Microbiological Examination
+of Foods.
+Measurement of the aw in a food sample is affected by both time and
+temperature.  It is dependent upon allowing enough time for the
+water vapor of the sample to reach equilibrium with the air space
+in a closed container, such as a closed jar, at a constant
+temperature.  When incubation is required for equilibration, it is
+absolutely necessary to maintain accurate temperature control of
+the food samples inside the incubator used for aw. It is equally
+important to allow ample time for the humidity of the air space
+above the sample to reach equilibrium with the food sample.
+2.41 Decagon
+USDA/FSIS Microbiology Laboratory Guidebook      3rd Edition/1998
+2-5
+The Decagon CX-2 will measure aw in less than 5 minutes.  The
+instrument has rapid vapor equilibration, does not require
+temperature equilibration and requires only a small sample
+(approximately 5 grams of food).  The instrument does not have to
+be calibrated, but quality control samples, consisting of deionized
+water and various salt slushes, must be included in an analysis. 
+When a very wet sample and a very dry one follow one another, two
+interim readings should be taken of the second sample before
+collecting data with the third reading.  When a reading is
+completed,the instrument will "beep" continuously.  The only
+reported material to interfere with a Decagon reading is propylene
+glycol.  Foods containing propylene glycol should not be analyzed
+by this method.
+2.42 Equipment and Materials
+a.
+Decagon, Model CX-2 manufactured by Decagon Devices,
+Inc., Pullman, WA 99163-0835.
+b.
+Blender and blending jars
+c.
+Transfer pipettes
+2.43  Procedure
+a.
+In 
+order 
+to 
+obtain 
+a 
+representative 
+sample,
+approximately 100-200 grams of food should be blended.
+b.
+Remove at least two samples, approximately 5 grams each,
+for aw determination; the cup should never be filled
+above the fill level line molded into the side of the
+plastic cup.
+c.
+Follow the manufacturer's directions contained in the
+Decagon Manual very carefully when performing this
+analysis.
+d.
+Saturated salt solutions should be used for reference
+controls.  The following saturated salt mixes and their
+expected aw at 25oC normally are used:
+NaCl ---------0.755
+KBr ----------0.811
+KCl ----------0.845
+(NH4)H2PO4-----0.934
+ 
+Note: 
+Never leave a sample in the instrument after a
+reading has been taken.
+2.44 American Instrument Electronic Hydrometer
+USDA/FSIS Microbiology Laboratory Guidebook      3rd Edition/1998
+2-6
+Another method for determining aw is the American Instrument
+Electronic Hydrometer.  Reportedly, it is an accurate instrument
+for measurement of the aw in food products, provided the
+manufacturer's directions are followed carefully.  The instrument
+measures the changes in electrical resistance of specially coated
+lithium chloride sensors.  The electronic part of the instrument is
+very rugged and needs no special care.  The sensors, like pH
+electrodes, are very sensitive and can be affected permanently by
+water condensation, desiccation, corrosive chemicals such as
+mercury vapor, unstable hydrocarbons such as ketones; halogen
+gases; and sulfur compounds such as hydrogen sulfide and sulfur
+dioxide.  Sensors can be affected reversibly by polar vapors such
+as ammonia, amines, alcohols, glycols and glycerols.  The response
+of sensors will return to normal, from slightly higher readings, if
+the polar vapors are removed by aeration.
+2.45 Equipment and Materials
+a.
+American Instrument Electronic Hydrometer (Model No.
+30-87 or equivalent) manufactured by Newport Scientific,
+Inc., 8246E Sandy Court, Jessup, MD 20794.
+b.
+Sensors, Color Code-Gray, (Cat-No. 4822W) for the above
+instrument, available from the same manufacturer.  The
+Company makes different types of sensors for different
+ranges of humidities.  This sensor is the one most
+commonly used in meat and poultry product analyses. They
+have an aw range of about 0.81 to 0.99.  Each sensor is
+unique and comes with its own factory calibration curve.
+ When purchasing gray sensors specify that the aw
+readings between 0.90 - 0.94 be inside the linear
+portion of the calibration curve.  Also request that the
+correction factor of each sensor at 30°C (86°F) be
+incorporated into each calibration curve.
+c.
+Sensor lids and 8-gang switch box.  These socket type
+lids normally fit into the rims of standard pint size
+canning jars.  The 8-gang switch box allows measurement
+of eight samples at a time.  The sensor connectors
+should be labeled 1 to 8 to correspond to the switch
+position.
+d.
+A forced-air incubator should be used to hold the
+samples at 30 ± 0.5°C.  If necessary, cut a 1.5" diameter
+hole in the incubator to introduce the electrical leads
+for the eight sensors into the incubator.  Be sure to
+fill the hole with sealant.
+e.
+Clean and dry standard pint-size glass canning jars,
+without chips or cracks on the rims, for the samples.
+f.
+Pipettes
+g.
+Preparation 
+of 
+a 
+saturated 
+ammonium 
+phosphate,
+monobasic, [(NH4)H2PO4] slush
+USDA/FSIS Microbiology Laboratory Guidebook      3rd Edition/1998
+2-7
+(NH4)H2PO4, reagent grade
+200 g
+Merthiolate
+ 25 mg
+Glass distilled water
+Place the ammonium phosphate and merthiolate in a
+new 
+or 
+clean 
+pint-size 
+jar, 
+slowly 
+add
+glass-distilled water (approximately 2-3 ml at a
+time), and stir vigorously with a spoon until
+approximately 
+one 
+half 
+of 
+the 
+crystals 
+are
+dissolved.  Care must be taken to avoid splashing
+the salts onto the sides and rims of the jar. 
+Incubate the salt slushes at 30°C for 2-3 days to
+establish equilibrium.
+h.
+Preparation of saturated potassium dichromate (K2CrO4)
+slush
+Use the same procedure as above. Omit the merthiolate.
+i. 
+Store the salt slushes indefinitely in a 30°C incubator
+at all times except to install or remove sensors.
+j.
+The aw of the salt slushes should be (measured with a
+calibrated gray sensor):
+(NH4)H2PO4 slush
+0.929 at 30°C 
+K2CrO4 slush
+0.865 at 30°C
+2.46 Procedure
+a.
+Follow the manufacturer's directions very carefully when
+using this method.
+b.
+Test each sensor first in (NH4)H2PO4 and then in K2CrO4
+salt slush and record the results on the analysis sheet.
+ The sample test results will be recorded on the same
+sheet.  Do not use sensors that differ from the expected
+value of the salt slush by more than aw 0.01 unit.
+c.
+If the aw is going to be measured in other than the range
+specified for the grey sensor, be sure to use the
+appropriate sensor and prepare salt slushes appropriate
+for the expected range.  A table of other salt slushes
+can be found in Chapter 8, "Measurement of water
+activity (aw) and acidity", in the Compendium of Methods
+for the Microbiological Examination of Foods.
+2.5  Selected References
+Greenspan, L. 1977.  Humidity fixed points of binary saturated
+aqueous solutions. J. Res. Nat. Bur. Stand. 81A:89-96.
+USDA/FSIS Microbiology Laboratory Guidebook      3rd Edition/1998
+2-8
+Prior, B. A. 1979.  Measurement of water activity in foods: A
+review. J. Food Prot. 42:668-674.
+Troller, J. A., and V. N Scott. 1992.  Measurement of water
+activity (aw) and acidity, p. 135-151.  In C. Vanderzant and
+D. F. Splittstoesser (ed.), Compendium of Methods for the
+Microbiological Examination of Foods. 3rd Edition. Amer. Publ.
+Hlth. Assoc. Washington, D.C.

@@ -1,0 +1,284 @@
+Nicotine in 
+Environmental Tobacco Smoke - II
+Stability, Ratios, and Exposure Levels
+Roger A. Jenkins1 and Michael W. Ogden2
+1Oak Ridge National Laboratory
+2R.J. Reynolds Tobacco Co.
+This research was sponsored by the Center for Indoor Air Research, Linthicum, MD,  
+under contract no. ERD-88-812 with the Oak Ridge National Laboratory, 
+managed by Lockheed Martin Energy Research Corp., Oak Ridge, TN,
+for the U.S. Department of Energy under contract number DE-AC05-84OR9622464.
+NRC Criterion No. 4:
+Fairly Consistent Ratio
+• Ratio relative to what?
+• Many potential “constituents of concern”
+• With exception of a few tobacco specific species, most other 
+“COC” are found in indoor air with or without ETS present.
+• Chemical stability
+• Behavioral stability
+Chemical Stability Issues
+• Degradation at the same rate as the components of 
+interest
+• Nicotine degrades under high intensity UV
+• Seems to be stable at normal lighting levels
+• No chemical changes following collection
+• Stability studies show nicotine stable up to 4 weeks
+“Behavioral Stability” Issues
+• “Nicotine seems to stick to everything”
+• Adsorption and desorption into air
+• Chamber studies have demonstrated adsorption to metal, 
+glass, wood, sheet rock, clothing material, ventilation 
+systems.
+• Numerous examples of airborne nicotine with no obvious 
+ETS present.
+• Analytical methods for nicotine are designed to prevent 
+adsorption on analytical system surfaces.
+Emission Consistency
+• Depends on the other components
+• Tobacco nitrate levels will impact NOx but not nicotine.
+• Solanesol is 4% of Argentinian ETS RSP, and 1.5% of 
+Canadian ETS RSP.
+• Aside from the tobacco specific compounds, other 
+sources in real environments can be substantial, and 
+mandate apportionment studies.
+Ratios Observed in Chamber Studies:
+Other ETS Constituents to Nicotine
+0
+5
+10
+15
+20
+25
+3-EP:Nic x 10
+UVPM:Nic
+FPM:Nic
+SolPM:Nic
+Czech Republic
+France
+Germany
+Hong Kong
+Italy
+M alaysia
+Portugal
+Spain
+Sweden
+Switzerland
+United States I
+Argentina
+Australia
+Brazil
+Canada
+China
+England
+Japan
+Korea
+United States II
+Data from Nelson et al, 1995, 1996
+Major Differences in Ratios
+Determined from Personal Exposure Measurements
+0
+5
+10
+15
+20
+25
+3-EP:Nic x 10
+UVPM:Nic
+FPM:Nic
+SolPM:Nic
+Hong Kong
+ Lisbon 
+ Paris 
+ Turin 
+Prague
+Kuala Lumpur
+US Wrkplc
+Richmond V A Wrkplc
+Data from Phillips et al, 1997, 1998; Jenkins et al, 1996; Sterling et al, 1996
+RSP vs Nicotine in Confirmed Smoking 
+Workplaces by Personal Exposure
+US 16 Cities Study
+1
+10
+100
+1000
+0.01
+0.1
+1
+10
+100
+Nicotine, ug/ m3
+RSP, ug/ m3
+Not much of a proportional relationship between 
+Nicotine and NNK
+0
+2
+4
+6
+8
+10
+12
+14
+16
+0
+20
+40
+60
+80
+100
+120
+140
+Nicotine, ug/m3
+NNK, ng/m3
+Ratio Consistencies
+• Chamber Studies
+• 3-EP = Solanesol = UVPM = FPM = RSP>> Nicotine
+• Real-World Environments
+• 3-EP=Solanesol>FPM>UVPM>Nicotine>>>RSP
+ETS Levels and Exposure
+• Nicotine continues to be employed as a marker 
+because it can provide a semi-quantitative
+estimate of overall ETS level, it is unique to 
+tobacco, and it can be determined by active and 
+passive sampling.
+Examples of Area Sampling
+Examples of Area Sampling
+Larger, more sophisticated sampling equipment
+Can use small equipment in a stationary mode
+Area Monitoring
+Area Monitoring
+Advantages
+Disadvantages
+X Permits more sophisticated 
+sampling and analysis systems to 
+be used.
+X Representative samples can be 
+acquired despite knowledgeable 
+target subjects.
+X Only collects samples at a fixed 
+location.
+X Representative of human 
+exposure only while subjects 
+are in near vicinity of sampler 
+location.
+Example of 
+Personal Exposure 
+System
+Personal Exposure Determinations
+Personal Exposure Determinations
+Advantages
+Disadvantages
+X Measures (through sample 
+collection or real time analysis) the 
+integrated concentration of 
+airborne species actually in the 
+breathing zone of the subject.
+X Directly reflects human activity 
+patterns.
+X Number or size of systems 
+which can be worn by the 
+subject without seriously 
+affecting activity is limited.
+X Knowledgeable subjects may 
+alter their behavior patterns
+Area vs. Personal Sampling
+• Prior to 1991, most major studies employed area 
+monitoring
+• Much less complex and costly
+• Since 1992, large fraction of major studies have 
+employed personal monitoring.
+• Realization that humans move through a variety of 
+micro-environments throughout the day.
+Area vs. Personal Monitoring, cont.
+• Head to head studies demonstrate that 
+comparative statistics (group-wise) appear 
+equivalent.
+• On an individual basis, utility of area samples for 
+prediction of personal exposure is limited.
+Area vs Personal Monitoring:
+ORNL Wait Staff/Bartenders Study
+0.01
+0.1
+1
+10
+100
+0.01
+0.1
+1
+10
+100
+Area Nicotine Concentrations, ug/ m3
+Personal Monitoring Nicotine 
+Concentrations, ug/ m3
+24-hr TWA Nicotine
+Subjects Living and Working in Smoking 
+Environments
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Median or Geo Mean
+90th %ile
+Nicotine, ug/m3
+US 16 Cities
+Prague
+Paris
+Bremen
+Kuala Lumpur
+Lisbon
+Beijing
+Hong Kong
+Basel
+RTP
+Germany
+Columbus OH
+Personal Exposure of More Highly 
+Exposed Occupations
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Waiters
+Bartenders
+Casino Workers
+Nightclub
+Musicians
+Nicotine, ug/m3
+Median
+95th %ile
+N=82
+N=80
+N=15
+N=17
+Larger studies tend to produce greater differences between medians and extremes.
+Summary and Conclusions
+• Fourth NRC Criterion, “consistent ratio” is where 
+nicotine is “challenged.”
+• Relative to which other components?
+• High degree of surface adsorption, and some 
+desorption.
+• Emission consistency data suggests substantial 
+variability.
+• Seems best to use nicotine in conjunction with other 
+markers.
+Summary and Conclusions, continued
+• Nicotine is used in a large number of studies
+• Levels to which subjects are actually exposed (as 
+determined from personal monitoring) tend to be 
+lower than estimates from previous shorter 
+duration studies or those where non-random 
+subject selection is used.
+• Area sampling probably only works for individual 
+microenvironments.

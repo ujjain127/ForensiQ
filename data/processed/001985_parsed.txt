@@ -1,0 +1,1994 @@
+ 
+CUANGO DEVELOPMENT 
+DIAGNOSTIC AND FEASIBILITY 
+ASSESSMENT 
+ 
+ 
+FEBRUARY 26, 2008 
+This publication was produced for review by the United States Agency for International 
+Development. It was prepared by Paul Temple, Management Systems International. 
+ 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC 
+AND FEASIBILITY ASSESSMENT 
+ 
+ 
+ 
+ 
+ 
+Management Systems International 
+Corporate Offices 
+600 Water Street, SW 
+Washington, DC 20024 
+ 
+ 
+ 
+ 
+ 
+ 
+Contracted under GS-23F-8012, Task Order 690-M-00-06-00137-00 
+ 
+Angola Program Support Services 
+ 
+ 
+ 
+DISCLAIMER 
+The author’s views expressed in this publication do not necessarily reflect the views of the United States Agency 
+for International Development or the United States Government. 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+i
+CONTENTS 
+EXECUTIVE SUMMARY .........................................................................................................III 
+INTRODUCTION ......................................................................................................................... 1 
+METHODOLOGY AND CONSTRAINTS................................................................................. 2 
+Conclusion 1: The views of relevant agencies of the GRA are fundamental to 
+the eventual success or failure of any joint SDM – USAID social development 
+activities in Cuango municipality ....................................................................................... 2 
+BACKGROUND ............................................................................................................................ 2 
+Conclusion 2: The Diamond Law is designed to protect the natural resource, 
+but in doing so, large numbers of residents within the Cuango municipality are 
+adversely affected. The restrictions placed on movement, access to land, and 
+trade effectively limits the livelihood options available. .................................................... 5 
+Conclusion 3: Institutional arrangements promote illegal mining and 
+smuggling............................................................................................................................ 5 
+CURRENT SITUATION .............................................................................................................. 5 
+Conclusion 4: The abandonment of industrially non-economic concessions 
+raises the risk of conflict over rights within the former concession areas. ......................... 8 
+Conclusion 5: Good efforts by SDM with regard to HIV/AIDS awareness have 
+not been matched by the municipal health service ........................................................... 14 
+Conclusion 6: Non-mining economic activities in the region exist, but are 
+limited............................................................................................................................... 15 
+Conclusion 7: The recent initiative to decentralize some budget allocation for 
+municipal social development is a useful step but it is doubtful whether the 
+funds earmarked will, by themselves, have a significant impact upon the local 
+community. ....................................................................................................................... 15 
+Conclusion 8: Until other (or additional) sources of security of property and 
+persons are reliably provided, legalized artisanal mining and the enhanced 
+livelihoods that it might provide are unlikely................................................................... 16 
+Conclusion 9: Municipal Development is a partial solution to the social and 
+economic needs of Cuango............................................................................................... 18 
+Conclusion 10: SDM and USAID have somewhat inconsistent views regarding 
+the nature and scope of potential joint activities in Cuango. ............................................ 18 
+RECOMMENDATIONS............................................................................................................. 19 
+The diamond mining background..................................................................................... 19 
+Continuing activities......................................................................................................... 19 
+Future activities................................................................................................................. 19 
+Time Scale ........................................................................................................................ 20 
+Endnotes............................................................................................................................ 20 
+ANNEX 1:  SCOPE OF WORK................................................................................................. 21 
+ANNEX 2:  THE DIAMOND LAW........................................................................................... 22 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+ii
+ANNEX 3:  MEETINGS ............................................................................................................. 38 
+ANNEX 4:  WORLDWIDE ROUGH DIAMOND PRODUCTION – 2006 ........................... 40 
+ANNEX 5:  MAP OF ANGOLA................................................................................................. 41 
+ 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+iii
+EXECUTIVE SUMMARY 
+The Cuango Development Diagnostic and Feasibility Assessment serves as a snapshot of the development 
+of the Cuango municipality, giving an overview of conditions within the region. Diamond mining is the 
+economic driver within the Cuango Valley, yet the resource brings few tangible benefits in terms of 
+services and development to the majority of the residents.  Meanwhile the laws that protect the resource 
+have an enormous bearing on the way of life of the residents, controlling the movement of people and 
+goods and restricting trade and access to land.  
+Constraints both in time and access have limited the depth of this study, which only scratches the surface. 
+It is evident that the Lunda provinces hold a special position in Angola, and it is vital to ensure the 
+inclusion and commitment of the Government of the Republic of Angola (GRA) prior to activity within 
+the region, an issue that directly affected this study. Any future agreement to work within the municipality 
+will take place against a background of illicit mining and its associated problems, as the GRA has yet to 
+find any solution to the dilemma of artisanal miners, or garimpeiros1. While artisanal diamond mining is 
+considered illegal, the government operates a widespread network of buying agents to ‘legalize’ their 
+production.  
+There are three industrial diamond mining concessions within the Cuango municipality, and the economic 
+life of two of the three is considered limited. Given the restricted non-mining economic opportunities, 
+formal and informal diamond mining remains the main livelihood. Yet without any framework 
+established for regulating artisanal miners, the risk of conflict over land rights is real, as concessions 
+become uneconomic for industrial mining and potentially become abandoned. The future security and 
+stability of the municipality could be threatened. 
+Projects embarked on by mining companies have increased the level of local services. Sociedade de 
+Desenvolvimento Mineiro (SDM) S.A.R.L. has undertaken a number of notable projects that do have 
+impact on the community around their operation site, but the potential for mine closures raises issues of 
+the projects’ future sustainability. As part of any action plan, a system of handover to the local authority is 
+recommended as an urgent objective. The current focus on education and income generation activities is a 
+more sustainable model, and it is recommended that any future activities should retain this focus. 
+Meanwhile, social and legal constraints hinder the development of alternative livelihoods, especially in 
+agricultural expansion. Studies into ‘What communities identify as barriers to development’ and 
+‘Agricultural Production Opportunities’ are seen as complementary to any future plans. 
+Strengthening the service delivery and policy development capabilities of Cuango Municipality is 
+desirable. HIV/AIDs awareness has been promoted by SDM and other mining companies, but similar 
+commitment was not evidenced through the municipal health service. A USAID-SDM Municipal 
+Development activity in Cuango Municipality is likely to substantially enhance municipal capacity to 
+decide and address ongoing issues concerning the sustainability of SDM’s social development activities 
+and other important local public services.  
+However, certain aspects of the current situation seem unlikely to be addressed by a typical municipal 
+development activity, including the need for the security of property and persons in the potentially 
+abandoned mining concessions. There is a pressing need to identify alternative livelihood and expanded 
+economic opportunities for the vast majority of municipal residents.  Solutions to these looming, very 
+serious problems will require engagement with and by a wide variety of actors, specifically including 
+those agencies of the GRA responsible for the diamond mining industry.
+                                                     
+1 Local description for an artisanal Alluvial Diamond Miner 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+1
+INTRODUCTION 
+The Lunda provinces of north eastern Angola have been the country’s predominant diamond producing 
+areas, with established alluvial and kimberlite deposits. However, the country’s diamond wealth has not 
+translated into broad-based prosperity for its citizens, and the diamond producing Lundas are home to 
+some of the worst living conditions and highest levels of civil tension in the country. The Government of 
+the Republic of Angola and the diamond parastatal, Empresa Nacional des Diamantes de Angola E.P. 
+(ENDIAMA) have established Fundaçao Brilhante as the social arm of the public sector diamond 
+operations with a mandate to undertake projects aimed at improving the well-being of the people living in 
+the diamond producing areas. Conversely, the Diamond Law of 19942 continues to have a negative 
+impact upon the citizens, especially those of Lunda Norte, with limitations placed on entry into the area, 
+controls on trade and the movement of goods, and restrictions on access to land and its use. 
+The United States Agency for International Development (USAID), in collaboration with the Ministry for 
+Territorial Administration (MAT), has begun a Municipal Development Program operating in various 
+areas of Angola, including the Lunda provinces. Meanwhile, SDM has undertaken a series of social 
+programs around its operational base of Luzamba in Cuango Municipality, Lunda Norte.  
+USAID and SDM signed a Memorandum of Understanding (MOU) on 21 June, 2007 whereby the two 
+parties agreed to undertake various actions intended to build a public-private partnership to implement 
+social development programs in the province of Lunda Norte. The MOU is of limited duration (four 
+months) and is focused on the achievement of the following: 
+(i) 
+Conduct a diagnostic and feasibility assessment for development and governance initiatives in 
+the Lunda Norte3;  
+(ii) 
+Design a workshop which will focus discussion on the results from the assessment and will set 
+forth principles and ideas for future programs in the regions; 
+(iii) Identify individual resources for financing and investment in social development programs; 
+(iv) Provide information on corporate image, social corporate responsibility policy, environment 
+protection, and financial soundness. 
+Although the MOU highlights issues in the province of Lunda Norte, the focus of the assessment has been 
+the Cuango Municipality, with its headquarter town of Cuango Sede, close to the operational headquarters 
+of SDM at Luzamba.  
+The MOU also calls for preparation of a ‘Municipal Profile’. The profile, a detailed description of various 
+social, economic and geographic/physical facts about Cuango Municipality, will be prepared, in a highly 
+participative process, by Development Workshop with staff and citizens of Cuango Municipality. The 
+content of the profile has been agreed with the Ministry of Planning and is aimed to increase the ability of 
+Municipal government to respond to numerous central government inquiries and initiatives.  
+                                                     
+2 National Assembly Law No 16/94 of October 7, 1994 attached Annex 2 
+3 For SOW for the assessment, see Annex 1 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+2
+METHODOLOGY AND CONSTRAINTS 
+A two-person USAID team traveled to Angola Oct 2-20, 2007 to conduct the Cuango Development 
+Assessment through preparatory and follow-up meetings in Luanda and field research in Cuango 
+Municipality.  The field research was conducted by an eight person USAID-SDM team in Cuango 
+Municipality October 9-15.  This report was written by the two-person USAID team in November and 
+December 2007.  The principal methodologies used in the study were data review and individual 
+interviews, which were to be conducted in both Luanda and Cuango Municipality.  
+The team began meetings in Luanda4 during week one (October 2-8) and traveled to the SDM mine site at 
+the beginning of week two (October 9-15). During the final week in Luanda (October 16-20), the team 
+was unable to meet with many of the intended GRA officials. Thus the depth of the findings remains 
+shallow. Notwithstanding, the team gained sufficient insight to produce an overall diagnostic - consisting 
+of a review of available material and our brief field findings - to guide future activities. 
+Conclusion 1: The views of relevant agencies of the GRA are fundamental to the eventual success or failure of any joint SDM – USAID social development activities in 
+Cuango municipality  
+At a minimum, the relevant GRA agencies include the Ministries of Mines and Geology and Territorial 
+Administration, ENDIAMA, Fundaçao Brilhante, and the Interministerial Commission for the Protection 
+of Diamond Resources (CIPRED).  While it may be feasible to undertake joint social development 
+activities without wide consultation with these government agencies, impacts are likely to be narrowly 
+confined to the target municipality, with little potential to transform dominant practices in the wider 
+diamond production areas.  Therefore, we urge SDM and USAID to consult such agencies and 
+incorporate their views (as appropriate) into this report.  
+BACKGROUND 
+In 2006 Angola was the fifth largest exporter of rough diamonds by value (seventh by volume – carats), 
+formally exporting over 9 million carats at a value of over $1.1 billion5 produced from both alluvial and 
+kimberlite deposits. Yet for the Angolan economy, the contribution of the diamond sector is dwarfed by 
+massive oil- and gas-based revenues.  
+Diamonds were first discovered within Lunda province in 1912, following similar finds across the border 
+in the Belgian Congo, and a prospecting company was founded to identify diamondiferous deposits. The 
+Companhia de Diamantes de Angola (DIAMANG) was established by the colonial powers in 1917 to 
+begin commercial extraction. Utilizing forced labor, the company concluded an agreement in 1921 with 
+the colonial administration for 50 year rights to a 395,650 square mile concession and a continuous 
+supply of Angolan labor to manually remove overburden and to crush and wash diamond bearing gravels. 
+Cleveland6 suggests that despite international consternation, such labor practices remained in place until 
+the 1960’s. With a constant supply of cheap labor, the company was slow to invest in heavy equipment. 
+However, cheap labor was no replacement for efficient labor. Unlike other mining operations of the time, 
+DIAMANG did not invest in worker housing, an additional reason for reported high rates of absenteeism 
+and desertion. Controlling a labor force of over 25,000 Angolans created problems for DIAMANG and its 
+                                                     
+4 See Annex 3 – Meetings Timetable 
+5 Figures Kimberley Process web – www.kimberleyprocess.com See Annex 4 
+6 Cleveland T, University of Minnesota - http://www.ces.columbia.edu/pub/papers/Cleveland.pdf 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+3
+2,500 strong Portuguese workforce. The illegal trade in rations combined with the theft of supplies and 
+diamonds by workers drastically impaired the efficiency of operations.  
+Production peaked at 2.4 million carats in 1971 as the original concession agreement was set to expire. 
+With 62 active mines, DIAMANG also had 56 teams exploring its concession area to determine sections 
+of land to maintain as part of the new 19,300 square mile concession DIAMANG would be allowed to 
+maintain. But the 1974 annual report recognized that with Angolan independence expected, the company 
+would be unlikely to maintain its operations under the existing structure. Negotiations began in 1975 with 
+the new MPLA government, but as all 2,500 European technicians left the country, it was estimated that 
+about 50% of DIAMANG production was being siphoned off by the remaining work force7. The company 
+had no choice but to suspend mining activities. 
+While international standards have had a bearing on Angola’s diamond export trade, it was an earlier 
+history of illicit diamond production that brought into force the mining law that is currently in place and 
+that has a direct effect on the lives of the people of Lunda Norte. Prior efforts to control illicit mining in 
+1978 led to the division of Lunda Province into northern and southern sections to restrict free movement, 
+but a short period of ‘peace’ during 1991 and 1992 was marked by renewed large scale illicit artisanal 
+mining activity. New mining legislation in 1991 permitted wider possession and trade in rough diamonds 
+and large numbers of people of various nationalities ‘overran’ the Lunda diamond fields. The 
+establishment of government buying offices in the Lundas created an official channel for illicitly mined 
+diamonds. Dietrich8 states that ‘it was during this period that illicit diamond mining became an 
+established pillar of Angola’s shadow economy’. In response, the GRA enacted the Diamond Law of 
+October 1994, revoking the previous legislation of 1991. The 1994 law remains in force at present.  
+The preface to the 1994 law identifies the existence of increased illegal digging and diamond theft and 
+established that only ENDIAMA or joint ventures with ENDIAMA would hold diamond mining rights. 
+Noting ‘the false impression that circulation of people and goods is totally free throughout the whole 
+Angolan territory,’ the law states that the changes ‘will result in benefits to the Nation in general, and 
+particularly to the population of the Lundas.’ But, with the large quantity of diamond deposits occurring 
+in the Lundas, the government considered the whole territory of Lunda Norte and Lunda Sul as a 
+‘reserved area’, and through the law placed severe controls on the movement of people and goods and on 
+economic activities.  Restrictions put in place for artisanal mining were stringent. According to 
+Partnership Africa Canada (PAC),9 no artisanal areas have been designated and no licenses issued, 
+effectively outlawing all artisanal diamond working. 
+In 1998 rough diamond extraction in Angola became internationally infamous as ‘conflict diamonds’ 
+following a report by Global Witness. The information that UNITA (The National Union for the Total 
+Independence of Angola) were trading diamonds to finance their insurgency brought the concepts of 
+transparency and governance to the center of the diamond industry as a whole. Ensuing United Nations 
+sanctions on the Angolan (and the Sierra Leonean) rough diamond trade brought the establishment of a 
+system of certification of origin at the point of export. The system was later to become the Kimberley 
+Process Certification Scheme that sets the minimum standards in diamond trading and production for 
+member states.  
+                                                     
+7 Bureau of Mines – Mineral Yearbook 1975,  http://digicoll.library.wisc.edu/cgi-bin/EcoNatRes/EcoNatRes- 
+idx?type=turn&entity=EcoNatRes.MinYB1975v3.p0112&isize=text 
+8 Cilliers J, Dietrich C, ‘Angola’s War Economy: The Role of Oil and Diamonds’, Institute for Security Studies, 
+Pretoria, South Africa, 2000 
+9 Diamond Industry Annual Review: Republic of Angola 2007, Partnership Africa Canada, 2007 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+4
+GRAPH 1: ROUGH DIAMOND EXPORT FROM ANGOLA 
+$0
+$200,000,000
+$400,000,000
+$600,000,000
+$800,000,000
+$1,000,000,000
+$1,200,000,000
+2001
+2002
+2003
+2004
+2005
+Angola Rough Diamond Exports
+ - Official/Unofficial ($)
+Total
+Official
+Unofficial
+ 
+Source: ENDIAMA 
+In the past few years, diamond production has dramatically increased due, according to Even-Zohar, to 
+regaining control of the wider diamond-producing areas and the introduction of more efficient diamond 
+marketing system10. Effective control of the illicit miners has been considered by the government to be a 
+priority for the credibility of its compliance to the export-certification scheme. “In this regard, Angola is 
+turning itself into a test-case for bringing illicit mining and buying under control, and if this can be done 
+in Angola, the experience will be repeatable elsewhere in Africa”, noted Dr Mankenda Ambroise in 2002, 
+when he was then National Director of Mines11. However, 5 years later the challenge remains. In his new 
+role as Vice Minister of the Ministry of Geology and Mines, Dr Mankenda Ambroise informed the 
+authors of the establishment of a presidential commission, CIPRED, which will devote considerable time 
+to the issue of garimpeiros and their unofficial production.  
+The 1994 law also closed independent diamond buying posts. Through the years, a number of centralized 
+buying processes have been put in place. Currently, all rough diamond trading is undertaken through the 
+ENDIAMA (Empresa Nacional des Diamantes de Angola E.P.) subsidiary, SODIAM (Diamond 
+Commercialization Society of Angola). Production from ENDIAMA mines and joint ventures is traded 
+directly with SODIAM in Luanda. A series of agreements licenses other foreign rough buyers such as 
+ASCORP (Leviev) and LKI (Lazare Kaplan International) to bring diamonds produced within the 
+informal market (licensed buyers purchasing from unlicensed miners) into the recognized export channel. 
+Graph 1 highlights the rise in total production as noted by Even-Zohar but also illustrates the continued 
+presence of ‘Unofficial’ (unlicensed) diamond production. In 2005 the exports of unofficial production 
+accounted for more than 27% of total exports (over $1 billion). At $296 million, the unofficial trade was 
+more than two thirds the total official rough diamond exports of the Democratic Republic of the Congo. 
+What has made the Lunda regions so attractive is the high prevalence of gem diamonds. Dietrich reports 
+that while diamonds from the Catoca kimberlite pipe are 35% gem, 15% near gem and 50% industrial, 
+                                                     
+10 Even-Zohar C., From Mine to Mistress, Mining Journal Books Ltd, Edenbridge, 2002 
+11 Dr. Mankenda Ambroise, ‘An Overview on Business Opportunities in Investing in Angolan Mineral 
+Development’, a paper presented at Indaba 2002, Cape Town, South Africa, February 14, 2002. 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+5
+returns from the Cuango valley have been analyzed as 90% gem, 7% near gem and 3% industrial. Such 
+returns from Cuango valley may not be accurate today as areas become ‘worked out’. Despite the lower 
+quality of kimberlite diamonds, kimberlite pipes can enable more profitable mining, but require 
+substantial capital inputs for exploitation. 
+Conclusion 2: The Diamond Law is designed to protect the natural resource, but in doing so, large numbers of residents within the Cuango municipality are adversely 
+affected. The restrictions placed on movement, access to land, and trade effectively limits the livelihood options available.  
+The mining companies offer the first livelihood alternative, with numbers employed increasing 
+dramatically since the war. However these opportunities remain limited compared to the population size. 
+With many skilled and security related positions filled by personnel from outside the region, some of the 
+local population are drawn to the larger towns to seek low paid employment. However many seek a 
+livelihood in the artisanal mining of diamonds. Without an effective framework to accommodate such 
+work, individuals are forced to work outside the law. Operating in the ‘shadow economy’ creates 
+problems for miners at the mercy of the security forces as they attempt to trade their unofficial production 
+within a centrally controlled market.  
+Conclusion 3: Institutional arrangements promote illegal mining and smuggling. 
+Despite the government’s continued pronouncements that it is working to bring illicit mining into the 
+official system, little progress is evident. In a recent workshop with government, concessionaires were 
+requested to set aside land for artisanal miners. However the control of production and the security of 
+operations would be the responsibility of the concessionaire. Such a situation burdens the concession with 
+the management of the artisanal sector, hardly a sustainable situation, especially should concessions close. 
+Without an operating legal framework for this part of the diamond sector, the GRA runs the risk of 
+pressure from the Kimberley Process to ‘put its house in order’.  
+SODIAM, as the single channel for the export of Angolan rough diamond production, empowers 
+companies to purchase the production from the ‘unofficial’ sector through a series of license agreements. 
+It remains an enigma that miners can openly sell to registered state buying houses the production that they 
+are not legally entitled to produce.  
+Many of the buying houses established are not the prime agreement holders and are therefore bound to 
+sell on a commission or profit margin to the main agents. Their strategy is to increase the diamond flows 
+through their establishments and protect their margin by buying below market rates. Hence it is likely that 
+sponsorship or vertical integration exists between these offices and the miners to increase leverage and 
+diamond flows.  
+Protection of the buyers’ margins is made easier because artisanal miners are operating outside the law 
+and will have to accept the price offered. Pricing is weaker when sponsorship is offered. Weak pricing in 
+a monopolistic market place creates an incentive for miners to smuggle.  
+CURRENT SITUATION 
+Description of Municipality of Cuango 
+Cuango municipality incorporates a geographic area in excess of 4,000 square kilometers in the province 
+of Lunda Norte.  There are three major towns in the municipality, located along the Cuango River Valley: 
+Cuango Sede, Cafunfo, and Luremo.  The town of Cuango Sede, the seat of the municipal administration, 
+is estimated to have a population of approximately 24,000 persons, with Cafunfo estimated at 100,000 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+6
+and Luremo at 16,800. Neighboring the SDM mining operations, in the vicinity of Cuango Sede, are two 
+settlements of Balabala and Camarianga, with perhaps an additional 20,000 inhabitants.  
+Luremo, the seat of Cuango Municipality’s only Comuna12 government, is located about 30 kilometers 
+north of Cafunfo (80 kilometers north of Cuango Sede). There is little commercial activity in Luremo.  A 
+relatively new alluvial diamond mining operation, Luminas, is located a short distance from Luremo. 
+Cafunfo, a rapidly growing, economically active commercial center, is located about 50 kilometers north 
+of Cuango Sede.  Its population is estimated to be approximately 100,000 persons.  Diamond buying is 
+the major commercial activity of Cafunfo.  The established Bank, Banco BIC, services the diamond 
+sector, providing cash for diamond buying houses and holding mining company workers’ accounts. It also 
+operates a local loan portfolio of approximately US $8 million, predominantly for traders. Recently a 
+second bank has opened. Though the Municipal Administration’s headquarters is in Cuango Sede, the 
+only hospital in the municipality is in Cafunfo.  Cafunfo is served by a two kilometer graveled landing 
+strip, receiving commercial flights from Luanda several times per week.  These flights currently total 
+approximately 70 to 85 per month, carrying approximately 1500 passengers in and out of Cafunfo per 
+month and approximately 125 to 140 tons of freight.  Almost all of the freight comes in to Cafunfo.  Very 
+little freight goes out, yet money does. The Banco BIC repatriates to Luanda the equivalent of US $5 
+million in Angolan kwanzas each month, while Cafunfo houses numerous ‘5%’ shops, the method of 
+transferring money to the DRC. 
+The two concessions of SDM and ITM (located immediately to the north of the SDM concession) occupy 
+the Cuango River Valley between Cuango Sede and Cafunfo. With the third concession of Luminas, these 
+diamond mining concessions dominate economic activities in Cuango Municipality. Their concession 
+areas (3000 km2 each) occupy a vast proportion of the available land within the Cuango Municipality; 
+thus, these are restricted areas, in keeping with the 1994 Act. This places restrictions on the movement of 
+people, goods, and economic activity (see Annex 1 chapter 5), and the team saw checkpoints for 
+restricting access to concession areas. However, public roads exist outside the concession areas and many 
+residents are engaged in subsistence agriculture, with an unknown percentage of males engaged in small 
+scale, illicit diamond mining.  
+Description of Municipal Administration of Cuango 
+The Municipal Administration is headed by an Administrator.  Until recently, the Governor of Lunda 
+Norte province appointed the Administrator, but a decree enacted in early 2007 provides that future 
+Municipal Administrators will be appointed by the Minister of Territorial Administration.  The 
+Administrator of Cuango Municipality, Paolo Passos, is charged with responsibility for a broad range of 
+local public services, including health services, public education, public sanitation, potable water, urban 
+and rural planning, policing, street and road maintenance, and the general regulation of private sector and 
+citizen activities.   
+Despite the diamond wealth of the area, Municipal public services have been very limited due to the 
+absence of discretionary funds and a lack of qualified staff.  Gradual solutions to both of these major 
+constraints are envisioned by the central government.  Cuango is one of the “pilot” municipalities that 
+have been granted budgetary authority and will receive transfers of central government revenues: 
+$300,000 for the last quarter of 2007 and $5,000,000 for all of 2008.  Minimum qualifications for 
+municipal staff have been established in law, and public sector training programs have been expanded to 
+provide the necessary skills.  With most revenues - especially diamond income - collected centrally, the 
+                                                     
+12 Comuna – the administrative tier beneath the Municipal Administration Headquarters 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+7
+current constraints on municipal capabilities will continue, and provincial governments will remain 
+deeply involved in the provision of municipal services.  
+Cuango Municipality’s single Comuna Administration, located in Luremo, is headed by Joao Bernardo.  
+Mr. Bernardo has been Comuna Administrator for only two years.  He previously worked as a mining 
+engineer.  Mr. Bernardo had a copy of law 02/07 in front of him as we spoke and he was obviously 
+familiar with its contents.  He welcomes the changes brought about by the law and projected a sense of 
+competence and confidence in his responses to questions.  He recognizes that the ongoing 
+deconcentration of government in Angola raises new challenges for Comuna and Municipal 
+administrations, but he feels confident he will be supported by training and resources offered by the 
+central government. 
+Approximately 6 Comuna staff members were present at the beginning of the interview with Mr. 
+Bernardo.  His staff consists of an Aide to the Administrator, two office chiefs (Chefes do Gabinete), a 
+police commander, and three heads of “technical sections.”  The three technical sections are Community 
+Services, Inspection and Regulation, and Social Services.  Community Services includes provision of 
+cemeteries and markets.  Inspection and Regulation (Fiscalizacao) includes planning, licensing, and other 
+regulatory services.  Social Services include most of the local public services that one might expect: 
+Education, Health, Women, Youth, Urbanism, Mail, Commerce, and others. 
+Both Municipal and Comuna Administrations give the appearance of being assigned more responsibilities 
+than they can, in fact, implement.  That is, the vehicles, facilities, work forces, and machinery that one 
+would expect to be involved in effective service production were not easily available.  However, there 
+was a sense among the supervisors that they were expected to enhance the provision of services.  These 
+supervisors understood many of the difficulties that they faced and were pursuing solutions to some of the 
+problems encountered.  The team got the impression that there was a disciplined, top-down effort to 
+improve local services.   
+Sociedade de Desenvolvimento Mineiro (SDM) S.A.R.L. 
+Established in 1995, SDM is an equal partnership between ENDIAMA and Odebrecht Mining Services 
+Inc. (OMSI), the mining subsidiary of the Brazilian Construtora Norberto Odebrecht S.A. The company 
+has operated an alluvial diamond mining concession in the Cuango River basin of Lunda Norte province 
+since 1997. SDM and ENDIAMA also currently share board responsibility. While SDM provide the 
+Chairman, also serving as General Manager, and the Operations Director, ENDIAMA fill the roles of 
+Finance and Geology. 
+SDM took over the former Odebrecht operations established in Luzamba that were abandoned in 1992 
+due to increased hostilities. The cost to redevelop the mine was reported at $130 million13. During the 
+initial period of SDM establishment, operations were disturbed by the continuing war, with all supplies 
+being flown in from Luanda. Through a Government of the Republic of Angola decree, the original 
+concession of approximately 80,000 km2 was reduced to the present 3000 km2 in the year 200014.  
+The 2004 company report to shareholders warned that the economically viable mine reserves would be 
+exhausted by 2006. Although the mine continues to operate, the longevity of the mining operation around 
+Luzamba is in question. Production is again increasing, but grade is diminishing, and although costs are 
+being reduced, there will likely come a point of closure prior to any operational readiness in potential 
+additional sites located at Muanga and Cacuilo.  
+                                                     
+13 Diamond Industry Annual Review: Republic of Angola, Partnership Africa Canada, July 2004 
+14 Decree No 7-B/00 of February 11, 2000 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+8
+ 
+The womens cooperative demonstrates their produce.  
+GRAPH 2: 
+SDM GROSS SALES AND NET PROFITABILITY (2000 – 2005) 
+-20
+0
+20
+40
+60
+80
+100
+120
+US $ Millions
+2000
+2001
+2002
+2003
+2004
+2005
+SDM Sales v Profitability 
+Sales
+Profit
+ 
+Source: SDM Annual Reports 
+Conclusion 4: The abandonment of industrially non-economic concessions raises the risk of conflict over rights within the former concession areas.  
+Profound concerns exist over the imminent cessation of industrial mining within the municipality. 
+Potentially two of the three diamond mining companies within the municipality could withdraw from 
+their concessions within a short time frame. Although many skilled staff have been imported into the 
+Cuango Municipality from other areas and will likely return upon the cessation of mining activities, a 
+high proportion of mine workers are locally employed, and would lose their livelihood upon closure.  
+However, with diamonds still remaining on the terraces of the concessions, the potential for conflict 
+would be substantial.  One possible scenario would involve conflict between indigenous persons and 
+Congolese (and other) immigrants for artisanal mining rights, as more people are drawn into the area by 
+mining opportunities. Other conflicts are also likely.  Proactive efforts to anticipate and address potential 
+problems including the establishment of a small scale/artisanal licensing mechanism would be highly 
+beneficial. Although a local view exists that the licensing of artisanal miners will bring chaos, there 
+remains no other system than the current dependency upon concession security to handle this problem. 
+SDM Social Support Activities 
+With a change in personnel and following a profitable year, the company embarked on a series of social 
+activities that began in 2004. The key activities have focused on Education and Health.  Schools were 
+built and supplied with power and materials. Safe water was supplied to schools and nearby communities. 
+Diet was reinforced by the production of soya milk and its daily distribution to local school children. 
+Vaccination of local children and voluntary 
+HIV/AIDS testing are undertaken by the company 
+clinic, while kits including bed nets are distributed 
+to combat malaria.  
+Of late there is a noticeable move toward offering 
+small-scale assistance in skills and income 
+generation. Tools were offered to local farmers, 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+9
+nets to fishermen, and support to a local woman’s cooperative producing and marketing clothing and 
+decorative linens. Education programs include adult literacy classes and information technology (IT) for 
+schools; for example, computers supplied were linked to the company’s IT facilities.  
+In the limited discussions the team had with beneficiaries, all welcomed these initiatives. Although some 
+have been less successful, the major investment in education through the building of schools and the 
+supply of safe water and soya milk has had a measured impact on the percentage of children attending 
+school. Yet many of the projects, especially health and the supply of safe water and soya milk, are solely 
+dependent on the continued presence of the company. 
+SDM Health Centre15 
+At SDM-Luzamba, the health center normally has one medical doctor attending patients. As of October 
+2007 the clinic offered services predominantly to workers and some immediate family. Two doctors could 
+be working at the same time, but this is not the norm.  The center has five nurses of middle level training, 
+two nurses of lower level training, three lab technicians, 1 X-ray technician, and 3 cleaning staffs. The 
+center is equipped with two examining rooms and eight beds.  Up to eight patients can be admitted to the 
+health post for overnight stays.  The health post has one ambulance.   
+The doctor sees patients Monday through Friday from 7:30 am to 12:00 pm.  On Saturday and Sunday, 
+the doctor sees patients on an emergency basis. According to the doctor, pregnant women are encouraged 
+to give birth at the health center.  When a caesarean birth is needed, women are flown to Luanda or 
+transported to Cafunfo by SDM. The laboratory is described as being fully equipped by national standards 
+and better than the provincial lab in Dundo, the provincial capital.  There is never a lack of supplies.  
+HIV/AIDS 
+The SDM-Luzamba HIV/AIDS program has received guidance from the Odebrecht HIV/AIDS program, 
+and the health center X-ray technician is responsible for the program.  A private room has been dedicated 
+to counseling within the health center.  A lab tech and nurse have also been trained and given partial 
+responsibility for counseling and testing.  Pregnant women arriving at the health center and patients who 
+show signs of HIV infection are urged to take an HIV test.  All HIV testing at the facility is free.  In 
+theory even people not associated with SDM can arrive at the Luzamba compound and see the doctor for 
+a free HIV test; however, this rarely or never occurs.  According to the doctor, most people who seek 
+testing on their own are younger employees of SDM.  Few employees living in the local community seek 
+testing.  It appears that the community does not actively seek HIV testing from SDM.  The Odebrecht 
+HIV/AIDS program has trained community HIV/AIDS educators in the Cuango Sede area.  Participants 
+included sobas and youth, all of whom received counseling and testing.  
+Vaccination 
+SDM provides routine vaccination to children according to the recommendations of the Ministry of 
+Health.  The company has provided assistance in the form of personnel, transport, and lunches to the 
+national vaccine program (PAV) during national immunization days.  Personnel have helped with 
+advertising the campaign and vaccine delivery.     
+Hemorrhagic disease 
+                                                     
+15 The authors wish to recognize the contribution of Mr John Janeski in providing valuable background and research 
+into Healthcare issues 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+10
+The doctor reports that the center is equipped and prepared for a highly contagious hemorrhagic disease 
+case.  SDM, local private clinics and the local health authorities have coordinated efforts to prepare for a 
+hemorrhagic case.  Trainings have been given to communities to help identify a potential case and what 
+action to take.  Sobas and youths have been provided with some information, including, for example, how 
+to identify a case of Marburg disease.  According to the doctor, the community has been instructed to 
+notify the municipality (police, administration, etc.).  SDM should then be notified and the SDM doctor 
+will visit the patient taking bio-security measures.  If the case is confirmed as highly contagious, SDM 
+will assist the local health authorities in moving the patient to the Cuango Sede health center.  
+Comparisons in Education 
+Despite the brevity of the survey, some comparative data is available for Luremo and Cuango Sede. With 
+similar school populations, Luremo reported just over 40% attended school (3746 out of 8700), while in 
+Cuango Sede, attendance was over 50% (4864 out of 9055). Reasons given for this difference were 
+increased facilities and the supply of milk to children in Cuango Sede. Meanwhile, comparisons of 
+facilities between Luremo, Cuango Sede, and Cafunfo showed a marked disparity. Schools in Cuango 
+Sede and Luremo were more modern and better maintained than those in Cafunfo. Although limited 
+educational data is available, a large private secondary school has recently been built in Cafunfo, 
+reportedly to fill the gap in the availability of quality education delivery.   
+In Luremo, there is no secondary school. Presently, students completing primary school in Luremo go to 
+the city of Cafunfo or other cities for secondary level studies. The primary school of Luremo is supplied 
+with water by a tanker from local diamond mining company Luminas.  Of the 948 students enrolled in the 
+primary school, 28% (266) are girls.  A total of 3,746 students are enrolled in the district.  Approximately 
+5000 more primary school aged children are not enrolled.  
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+11
+ 
+ 
+Cafunfo Secondary School 
+Luremo classroom 
+ 
+In addition to the primary school in the city, the district has 20 school posts.  Thirteen of these posts are 
+located in church buildings.  The remaining posts are government school buildings. Twenty-two teachers 
+are employed by the central school.  Each of the school posts has 2 teachers, yet only four (8%) of the 50 
+teachers employed by the district are women. There are presently 13.35 teachers per 1000 students in the 
+district.  If all eligible children living in the district (approximately 8,746) were enrolled in school, there 
+would be 5.9 teachers per 1000 students.  
+Especially noticeable in Luremo was the population divide that supports national demographics. An 
+extremely high percentage of the rural population is of school age, and once youths complete local 
+education, they move away either to find employment or to follow further education.  
+Comparisons in Health 
+Government facilities in the municipality of Cuango providing health services as of October 2007 include 
+one health center in the city of Cuango, one health post each in the towns of Luremo (4 beds) and 
+Balabala (one bed), and one hospital in the city of Cafunfo.  
+The Cafunfo hospital has 120 beds and unofficially serves as the municipal hospital and municipal public 
+health department.  The hospital consists of the following: maternity ward, pediatrics, internal medicine, 
+physical therapy, X-ray, laboratory, public health, vaccine program, emergency room, morgue (not 
+functioning), ambulatory care, infectious disease (i.e. TB), human resources, accounting,  laundry, and 
+kitchen (not functioning).   
+Presently, the municipality of Cuango does not have an incumbent Director of Health.  The Director of 
+the Cafunfo Hospital maintains the responsibilities of the Director of Health.  There is one hospital 
+administrator under the director.  Four Vietnamese doctors contracted by the Government of Angola 
+formerly worked in the hospital.  Of these, one gynecologist and one surgeon remain.  One pediatrician 
+and one orthopedist have left the hospital due to a failure to renew contracts by the GRA.  In addition to 
+the physicians, there is one physical therapist with higher level education. The next highest level 
+personnel includes three nurses, one pharmacist, and two lab technicians with middle level training. Fifty-
+four technicians with basic nursing qualifications are distributed amongst the hospital areas. Other 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+12
+hospital personnel include 3 secretaries, 22 cleaning staffs, 3 laundry staffs, 4 cooks, 1 “copera” (cares for 
+the dead, but is not a mortician).  The hospital has one ambulance. 
+Cafunfo has 68 private health posts outside the public system.  Some of the 79 registered private 
+pharmacies pertain within these health posts. Some health posts have laboratories.  Each health post is 
+independent and self contained, according to the hospital administrator.   
+Emergency medical cases that can not be treated by the SDM Clinic, Cuango Sede Health Center, and 
+Luremo Health Post are sent to the Cafunfo Hospital.  The hospital also receives emergency cases from 
+the municipalities of Xanuteba, Capenda-Camulemba, and Caumbula.  For example, patients needing 
+surgery that cannot be performed at other facilities or municipalities seek services at the Cafunfo 
+Hospital. 
+Medicines 
+The government inspects pharmacies regularly to monitor date, origin, and storage of medicine.  
+Pharmacies not registered with the municipality and those with improper storage (poor or no 
+refrigeration) have been closed by authorities.  The origin of medicine is not considered when evaluating 
+quality.  The pharmacy located a few meters from the hospital had one type of malaria medication 
+available for sale the date of which was not expired.  This medicine (Amodiquina) originated from India, 
+as indicated by the package.  Three tablets sufficient for malaria treatment, according to the pharmacy, 
+were 50 kwanza (less than one US dollar). 
+Epidemiologic Surveillance 
+Data is collected from the health posts, Cuango Sede health center, three diamond mining companies, 
+private health centers, and the “caritas” mission health post weekly.  This data is compiled in Cafunfo and 
+sent to Dundo, the provincial headquarters.  Data is compiled by the public health department in Dundo 
+and passed on to Luanda weekly.  
+Priorities 
+According to the administrator, the most pressing needs of the hospital and city include vehicles, doctors 
+and nurses to work outside of the city, and support for the care of patients coming in from other 
+municipalities.   
+The lab manager, João Antonio José, reports that the lab is in constant need of reagents for lab tests.  
+There are some gaps in the ordering mechanism between the hospital, Dundo, and Luanda.  The lab has 
+also received two visits from Luanda by lab technician trainers.  The visits are viewed as worthless as no 
+reagents were available to work with and the trips lasted only one week.  Both the lab manager and the 
+administrator described a disconnect between the reality of the needs of the hospital and the support they 
+are receiving from the national level.  
+Blood transfusions have been suspended for four days as a result of a stock-out of HIV tests.  Patients 
+who need blood transfusions are mostly children with anemia, malaria, and other conditions.  
+NGO Activity 
+Cafunfo experienced an eight month outbreak of cholera in 2006.  Doctors without Borders (Medecins 
+sans Frontiers - MSF) provided aid to the hospital during this period to address the needs of the 
+community associated with increased burden of disease during the outbreak.  The Government of Angola 
+provided some training and support following the departure of MSF.  An NGO is currently supplying 
+Cholera treatment related supplies.  In 2006 UNICEF held two measles campaigns in the municipality.  In 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+13
+addition to the delivery of vaccine, other health products including mosquito nets were distributed to 9000 
+children under five years old.  Five thousand mosquito nets were distributed to pregnant women and 
+children under the age of five in 2007. A new national river blindness program provided treatment and 
+prevention to some communities in the municipality in 2006.  There are no plans to repeat this annual 
+campaign in 2007 in the municipality.  Red Cross is working in the area implementing a land mine 
+program.  No other NGOs have been working in health in coordination with the hospital.   
+Public Health 
+The director of public health of municipal level activities is located in the Cafunfo Hospital.  All vaccine 
+campaigns, malaria initiatives, epidemiologic surveillance, and infectious disease control in the 
+community are run from this office.  Each area has a director.  Five community mobilizers are on hand to 
+carry out any public health activity within the community.  Examples of activities include mobilizing 
+sobas and youth.  The public health department only has one vehicle that is currently not operating.      
+HIV/AIDS 
+Little has been done in the area of HIV/AIDS prevention, counseling, and treatment.  The only HIV 
+testing performed has been for blood transfusions.  Approximately 200-300 tests have been performed 
+since testing commenced two to three years ago.  No HIV/AIDS counseling and testing has been 
+performed ever.  No adequate physical space has been identified for counseling and prevention efforts.  
+The Municipality of Cuango has been included in the strategy of the National HIV/AIDS Institute, and it 
+appears that the Cafunfo Hospital is the focal point for the implementation of the strategy at the municipal 
+level.  Representatives of the hospital have participated in two training meetings in March 2007.  One was 
+held in Luanda, the other in Dundo.  These meetings served as the first exposure of the Cafunfo Hospital 
+to the National Strategy.  Supplies and testing kits have been supplied to the hospital by the Institute.  
+No HIV/AIDS activity (testing, prevention, and treatment) are taking place in the hospital or public health 
+infrastructure in the Municipality of Cuango despite the availability of resources. This is due to the lack of 
+a medical director, and the hospital has been directed to hold off on implementing any activity until one 
+has been installed.  Not only has the HIV/AIDS program implementation been stalled, but the routine 
+practice of HIV testing for blood transfusions (the only current HIV/AIDS related activity) is not 
+available due to a stock-out of HIV tests.  As mentioned above, blood transfusions had been suspended 
+for four days including the day of the interview as a result.  The pharmacy located a few meters from the 
+hospital offered the Population Services International/GoA “Sensual” condom for sale at a cost of 100 
+kwanza (US $1.30) for three condoms.  One may be able to receive an HIV test at a private pharmacy for 
+approximately US $50.      
+Vaccination 
+The national government vaccine program (PAV) provides vaccine and supervision via the provincial 
+capital, Dundo.  The Public Health Department of Cafunfo is serving as the PAV base for the 
+Municipality of Cuango.  According to the administrator, the GRA has been providing vaccine to the 
+region since 1978.  NGOs and UNICEF had provided assistance during times of conflict.       
+Prior to 1992, the GRA provided routine vaccination services in the area, but in 1992 the government 
+vaccination program was disrupted by conflict. The Director of Public Health reports observing a UNITA 
+vaccine campaign in 1992 in Luremo.  The campaign may have included all available childhood vaccines.  
+In 1993 and 1994, there may have been no delivery of vaccine due to conflict.  In 1995 an effort was 
+made by UNICEF and UNAV to provide vaccine in the region.  The government resumed routine 
+vaccination in 1996.  Polio national immunization days are coordinated for the municipality from Cafunfo 
+through the public health department.  It is likely that the population of Cafunfo is only receiving routine 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+14
+immunization against vaccine-preventable diseases at the hospital.  Much of the population is probably 
+not covered by basic vaccines.      
+Hemorrhagic disease 
+At the time of the assessment, an Ebola outbreak had been reported 21 km north of Lunda Norte in the 
+DRC.  The province of Uige, Angola experienced a devastating outbreak of Marburg as a result of little or 
+no preparation for a hemorrhagic disease case.  The hospital administration reports that MSF provided 
+some bio-security training to health staff during the Cholera outbreak.  Documentation of the MSF 
+training is not available, and no specific preparation has been made to protect against a hemorrhagic 
+disease outbreak.       
+In Luremo, the health post employs three full time nurses all trained in Dundo, Lunda Norte.  Two of the 
+nurses are trained in general practice, the third in first aid.  A doctor employed by the local diamond 
+mining company, Luminas, sees patients at the health post every Wednesday from 9-12 pm.   
+In addition to the Luremo health post, the communa has two other health posts located in the villages of 
+Maussuco and Cachinga.  These health posts are not currently operating.  The Luremo health post consists 
+of one building with two examining rooms of one bed each, one observation room with two beds, a 
+storage/cold chain room, and a reception area. Untreated water is supplied to the health post tank by a 
+tanker truck from the company.  The health post has an electricity generator, the fuel of which is also 
+supplied by the company.  
+Essential medicines are supplied only by a Ministry of Health “kit” every two months.  The director 
+reports that the “kit” is not sufficient and often runs out before it is routinely replaced.   
+HIV/AIDS 
+The local mining company Luminas has been providing HIV/AIDS testing to employees for three 
+months, although the number of tests performed was not given. Luminas is part of the ENDIAMA 
+HIV/AIDS committee linked to the National HIV/AIDS Strategy and utilizes material provided by the 
+government HIV/AIDS initiative.  It appears that this program is very new at Luminas, and no HIV/AIDS 
+activity is being implemented at the health post or at the community level.   
+Conclusion 5: Good efforts by SDM with regard to HIV/AIDS awareness have not been matched by the municipal health service 
+As part of the Odebrecht group, SDM has made conscious efforts to promote HIV/AIDS awareness in 
+support of the national program. Odebrecht banners are predominant around the mine office area and in 
+Cuango Sede. A similar situation was found at the Luminas site. Posters from the consortium, including 
+ENDIAMA, were found in most public places visited. However, a similar level of commitment to curb 
+the spread of HIV/AIDS was not evidenced through the municipal health service. Thus while workers and 
+communities around the companies are exposed to considerable HIV/AIDS awareness, it is doubtful if 
+anything near this level exists within the public health sector.   
+Agriculture 
+During the research, limited agricultural development was witnessed. In Luremo a local store owner was 
+engaging a small scale agricultural cooperative producing bananas and pineapples and raising cattle, but 
+in general, most people engaged in the subsistence planting of cassava (manioca). A local milling 
+machine was available to the community for simple processing.  
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+15
+ 
+Milling in Luremo 
+The lack of major agricultural development can be attributed 
+to a number of factors, both products of diamond resource 
+management and current social trends. We were informed 
+that during the colonial era, DIAMANG, the former 
+diamond paratstatal, did not permit agriculture in diamond 
+producing areas. Instead, huge farms were developed in 
+other regions to feed the population within the mining zones 
+and keep their shovels out of the soil. Secondly, current laws 
+would require consent of concession owners to develop land 
+in restricted areas. While concession owners are responsible 
+to compensate farmers for crops destroyed through their 
+operations, evidence suggests that with the lack of 
+agricultural development such compensation is seldom 
+required.  
+Conclusion 6: Non-mining economic activities in the region exist, but are limited.    
+The Diamond law protects large areas of land, thus restricting agricultural development. It also limits 
+freedom of movement of goods and supplies. Large population concentrations such as Cafunfo create a 
+local market for goods and services including food production. The spread of mobile phone coverage to 
+the area has stimulated local economic activity in the provision of phone related materials and also public 
+phone booths. The presence of the mining companies also drives some local agricultural production, but 
+most activity witnessed is at a subsistence level reflecting the limited market opportunities. The lack of 
+livelihood opportunities also fuels the migration of youths from rural areas to urban centers as they seek 
+employment, thus depriving rural areas of the labor needed for agricultural expansion. 
+Fundaçao Brilhante  
+Established in 2004 as the social arm of ENDIAMA, Fundaçao Brilhante is supposed to implement 
+cultural and social community development projects. However while posters present at the mine sites 
+depict the foundation as ‘the social face of ENDIAMA’, an information video attests to the construction 
+of schools, clinics and other social programs, including the supply of milk to schools. It is evident that the 
+programs in and around Cuango Sede are the same programs provided by SDM. As ENDIAMA is a 
+shareholder in the mining concessions, it is not surprising that its social arm will also claim some merit 
+from such programs. 
+What is unclear is the presence of any independent role for the foundation. Concessionaires claim that 
+limited activity has taken place, while the Fundaçao Brilhante Director of Projects admits to limited 
+funds for implementation of projects. Future plans of the foundation include the development of a large 
+rice farm in Lunda Norte where funds generated are expected to be used for the sustainability of the 
+foundation.  
+Conclusion 7: The recent initiative to decentralize some budget allocation for municipal social development is a useful step but it is doubtful whether the funds earmarked 
+will, by themselves, have a significant impact upon the local community. 
+While municipal staff portrayed confidence in their ability to deliver services, significant shortages in 
+resources may undermine such delivery. External technical assistance, in addition to the training and 
+assistance provided by other levels of the Government of Angola, is desirable. 
+Projects undertaken by companies have increased the municipal services capabilities in terms of 
+education and health, but these initiatives will eventually become the responsibility of the local 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+16
+administration - adding an additional financial burden - or they will disappear. Despite the apparent 
+diamond wealth of the region, there is no allocation of funds from the proceeds returned for development 
+purposes, and no intervention from Fundaçao Brilhante was witnessed in the municipality. It is vital that 
+central government becomes involved in maintaining the efforts mining companies have undertaken. 
+Without central support it is unlikely that the Municipal Authority will in future be able to maintain the 
+current level of services, let alone increase their service delivery. 
+The Role of Security 
+The nature of the diamond industry necessitates a strong security element to protect diamonds and 
+property. Within SDM, property can be determined as staff, equipment, and the concession reserves. 
+There are five tiers of security evident at SDM. Within the local municipality, the National Police force is 
+evident, while a barracks for the FAA (Angolan Armed Forces) is located at the main gate to the mine. 
+Within the mine, three further security forces exist. The Corpo Especial de Fiscalizaçao e Segurança de 
+Diamantes (CSD) maintains vigilance over diamond mining and processing operations on behalf of the 
+government. The company then retains the privately owned security company Alpha 5,16 whose role is to 
+maintain the integrity of the concession borders and maintain checkpoints on roads leading into the 
+concession itself. SDM then maintains its own internal security force made up of staff from areas to the 
+south of Angola who are housed within the camp, having no contact with the local community. There are 
+special flights every two weeks that rotate security personnel. This system is contrary to the contractor 
+Alpha 5, whose staff lives within the local community and is seldom rotated. 
+The responsibility for mining property security is, as detailed in the law, placed firmly in the hands of the 
+company. Illicit miners active within company working areas are constantly apprehended by SDM’s own 
+security. Often equipped with modern equipment – pumps, diving gear, boats and dredging materials – 
+apprehended miners have their equipment seized and they are then transported back to the local 
+community. A seven-day sample showed an average of 42 persons arrested daily.  Over 40% were non 
+Angolans, predominantly from DRC. The number of buying offices in Cuango municipality, especially 
+Cafunfo, is testimony that, despite the level of apprehensions, many illegal miners do succeed. National 
+‘unofficial’ production statistics also implies a degree of economic success in illegal mining activities.   
+Conclusion 8: Until other (or additional) sources of security of property and persons are reliably provided, legalized artisanal mining and the enhanced livelihoods that it 
+might provide are unlikely.   
+Consistent, profitable alluvial diamond mining, both industrial and artisanal, requires effective, affordable 
+security of property and persons.  Well-capitalized industrial diamond mining concessionaires are able to 
+produce (or contract) adequate security services.  Under current Angolan law, concessionaires are 
+required to identify areas within their respective concessions that are unsuitable for industrial-scale 
+mining and to open such areas to artisanal mining.  However, concessionaires do not do so, because the 
+law also requires them to be responsible for maintaining order within the areas opened to artisanal 
+production.   
+Experimentation with potential institutional arrangements for secure artisanal mining activities by the 
+relevant agencies of the government (including municipal authorities in alluvial diamond production 
+areas), current concessionaires, and donors is a high priority activity with substantial payoffs.  Such 
+efforts might usefully involve cooperatives of artisanal miners, envisioned in current law. 
+                                                     
+16 Endiama is a 30% shareholder of Alpha 5 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+17
+Human Rights and Civil Society 
+Although the mining law of 1994 entrusted security responsibilities to mining concessionaires, national 
+security operations have attempted to reduce the level of illicit ‘garimpeiro’ operations, especially 
+targeting illegal immigrants. In 2004 ‘Operation Brilhante’ enforced the repatriation of a reported 150,000 
+to 300,00017 illegal immigrants from mining areas, with many incidents of alleged human rights 
+violations. The majority of those repatriated were Congolese; therefore, the border with DRC north of 
+Luremo remains highly secured to prevent their return. Yet considerable numbers of Congolese remain or 
+have returned, attested to by the apprehension figures of SDM and the authors’ interviews with Congolese 
+in Cafunfo. 
+Indeed, controls inside concession areas are sometimes lax. The town of Muxinda18 lies in a southern area 
+of the SDM concession, just outside the boundaries of Cuango Municipality. Officials from SDM 
+informed the authors that in the past five years the town has grown to a population of 100,000 from a 
+small hamlet, driven by alluvial diamond finds. This area is deemed as not economically viable for the 
+company’s highly industrialized mining activities. Thus the presence of a large number of illegal miners 
+within concessions is tolerated.  
+During the team’s initial meetings in Luanda, four organizations highlighted their work or potential work 
+in the field of Human Rights within the Lundas, including training of trainers within the police and the 
+establishment of networks of human rights monitors. Although our assessment of the Cuango 
+Municipality was short, limited evidence of any organized civil society was found, and apart from the rare 
+meeting of an assessment mission by the International Committee of the Red Cross, no evidence of 
+organized NGO activity was found. No incidents of human rights abuses were witnessed, and one 
+interviewee suggested that since the change of the head of the local Police, incidents and tension had 
+decreased.  
+Yet perhaps the key to development within the Cuango municipality lies within public perceptions. 
+Dr. Lillian Wong in her recent address19 described a deep rooted suspicion and even mistrust of motives 
+within Angolan society, stemming from a more austere era, a view shared by the Council on Foreign 
+Relations20. In attempting to understand the level of community participation within the development and 
+implementation of projects, the team asked community members if anyone represented their views to the 
+company. Following negative answers, the team asked how such a body could be established. Concern 
+was expressed as to how anyone representing the community would address the issue of a request that 
+could not be fulfilled. When SDM personnel were asked if some form of representation with the 
+community could be established, the team was given a description of the character the company would 
+select.  
+The above characteristics imply an environment where participation and freedom of expression are not 
+common.  This view was shared by some of the Luanda based NGOs; reasons that they believe have 
+limited the creation of a vibrant civil society and also presenting a major barrier to future development 
+within the region. 
+                                                     
+17 A study of 4 media reports all gave varying figures – no official number was found 
+18 Human rights issues within Cuango municipality and Muxinda are highlighted by Rafael Marques in his account 
+Lundas – The Stones of Death 2005  
+19 Address to the British Angola Forum, London July 9, 2007 
+20 Toward An Angola Strategy: Prioritizing US – Angola Relations: Council on Foreign Relations, 2007   
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+18
+Conclusion 9: Municipal Development is a partial solution to the social and economic needs of Cuango. 
+Strengthening the service delivery and policy development capabilities of Cuango Municipality is 
+desirable because it would increase the likelihood that SDM’s social development activities can be 
+sustained.  The municipal government might elect to take over some of SDM’s current social 
+development activities and it is, given the feeble state of local civil society, the logical forum within 
+which the future of these activities ought to be addressed.  A USAID-SDM Municipal Development 
+activity in Cuango Municipality is likely to substantially enhance municipal capacity to decide and 
+address ongoing issues concerning the sustainability of SDM’s social development activities and to 
+enhance municipal capacity to decide and deliver other important local public services.   
+However, municipal development is a partial solution.  Certain aspects of the current situation seem 
+unlikely to be addressed by a typical municipal development activity.  This includes the need for security 
+of property and persons in the potentially soon to be abandoned mining concessions and the need to 
+identify alternative livelihoods and expand economic opportunities for the vast majority of municipal 
+residents. Solutions to these looming, very serious problems will require engagement with and by a wide 
+variety of actors, including industry participants and those agencies of the Government of Angola 
+responsible for the diamond mining industry. 
+USAID and Global Development Alliances  
+The Global Development Alliance (GDA) represents a commitment by USAID to change how it provides 
+resources to development programs.  In the 1970s, 70 percent of resource flows from the United States to 
+the developing world were from official development assistance and 30 percent were private.  Today, 85 
+percent of resource flows from the United States to the developing world are private and 15 percent are 
+public.  The involvement of foundations, corporations, and individuals has allowed USAID to strengthen 
+the overall effectiveness of programs through the inclusion of new and increasingly important actors.  
+In Angola, a series of partnerships with international corporations have been established that have the 
+potential to multiply the effectiveness and reach of USAID programs.  Such partnerships include the 
+creation of a private sector alliance against HIV/AIDS with Odebrecht and a partnership with Lazare 
+Kaplan International that has extended assistance to the Municipal Development Program in Lunda Norte. 
+Conclusion 10: SDM and USAID have somewhat inconsistent views regarding the nature and scope of potential joint activities in Cuango.  
+The authors of this study have the impression that USAID/Angola and SDM corporate management have 
+not fully explored the range of alternative scopes of activity that a joint project might take.  SDM tends to 
+see joint activities as limited to continuation or expansion of their ongoing social development activities, 
+with explicit focus on ensuring sustainability of these activities as close-out looms. While USAID 
+recognizes SDM’s interest in sustaining current social development activities, it is prepared to consider a 
+much broader project.  In particular, USAID is interested in improvements to governance in Cuango 
+Municipality and, perhaps, throughout the diamond “sector.”  USAID may also be interested in 
+supporting improved livelihood strategies for municipal residents.  If joint activities are eventually 
+agreed, particular attention will be required to a detailed agreement of the scope of activities. 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+19
+RECOMMENDATIONS 
+THE DIAMOND MINING BACKGROUND 
+For any USAID-SDM agreement, the inclusion of the wide discussion on diamond mining in the 
+unofficial sector in the Cuango municipality is necessary.  The overall lack of alternative employment 
+further drives the unofficial diamond sector. Such action is not only in keeping with the Terms of 
+Reference, but also to ensure that both parties to any potential agreement are fully aware of the effect of 
+the industry on the community. It is the key driver of the local economy and of the social makeup of the 
+area.  
+The argument to create some structure to artisanal mining remains, not only from a governance 
+perspective but also to increase benefits to local, currently illegal, miners. As the GRA is a 50% 
+shareholder of SDM, it is recommended that the discussion forum be widened to engage government in 
+the evaluation of what is practical and acceptable within Lunda Norte. Such discussions may also 
+mandate Fundaçao Brilhante to undertake a recognized program in Cuango Municipality. 
+CONTINUING ACTIVITIES 
+SDM has undertaken a number of activities that may be unsustainable at the point of closure of 
+operations. It is recommended that discussions begin with the municipal authorities in Cuango to 
+formulate handover actions. Meanwhile, as an initial activity, the provision of safe water through the 
+provision of bore holes or deep wells in the communities and schools currently being provided water from 
+the company is suggested. Such provision should include community water management systems to 
+ensure supply is sustained.  
+The effectiveness of the USAID/Odebrecht private sector alliance for promoting HIV/AIDS awareness is 
+seen to be far greater than the national campaign within the Cuango Municipality. It is recommended that 
+- with the support of SDM - the focus of this program be widened to include Cafunfo.   
+FUTURE ACTIVITIES  
+Any further programs, either independent or joint, should consider an approach to sustainable 
+development through the inclusion of Government, Business, and Communities. Income generation 
+activities undertaken by the company (although small) are a preferred model for future activities. 
+Meanwhile income generation through improved agriculture or fishing is seen to be dependent upon the 
+availability of and access to local markets. The economy of Cafunfo can be used as a driver for products 
+and services. An early analysis of the economic opportunities present in Cafunfo is recommended. 
+Meanwhile in support of the intended wider Municipal profile of Cuango, the authors believe future plans 
+would be enhanced by further studies into:  
+• 
+Identification of community needs 
+• 
+What communities identify as barriers to development   
+• 
+Agricultural Production Opportunities Study 
+The above could be covered through an in-depth livelihoods analysis of the municipality. 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+20
+The weakness of civil society within the region is a concern, and attempts to engage available local 
+organizations in studies and dialogue should be considered. 
+TIME SCALE 
+Initial water supply and study recommendations will by nature be short term exercises, potentially within 
+a one year time frame. It is envisaged that any future agreement will have Medium and Long Term 
+objectives – objectives that may well exceed the life of SDM’s mining activities in Cuango municipality. 
+SDM is active in the prospecting of other mining areas. It is recommended that the parent company 
+Odebrecht also be engaged as party to any agreement that could continue on a longer-term basis within 
+newly developed mining areas. 
+ENDNOTES 
+The authors wish to acknowledge the support and hospitality of the management and staff of SDM both in 
+Luanda and Luzamba, USAID, and those members of the Government of the Republic of Angola whose 
+comments have helped to shape this report.  
+We are also grateful to the numerous contributors who through formal or informal meetings in Luanda 
+and around the Cuango Municipality gave a greater understanding of the current situation but for various 
+reasons remain anonymous. 
+ 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+21
+ANNEX 1:  SCOPE OF WORK 
+Purpose of Assessment 
+This diagnostic and feasibility assessment forms a foundation for both parties to examine the potential for 
+joint activities toward development within the municipality. It must enable USAID and SDM to 
+realistically assess the prospects for and path to a longer-term partnership capable of contributing to rapid 
+improvement of social development activities in Cuango Municipality.  This assessment should identify 
+specific activities to improve economic development, citizen welfare and subnational governance in 
+Cuango Municipality over medium- (3 years or less) and long-term (greater than 5 years) time frame and 
+suggest terms and mechanisms of partnership in order to increase prospects for success.   
+Scope of Work 
+The Cuango Development Assessment is intended to realize the following:  
+• 
+Gather, synthesize and report information on the legal and institutional frameworks regulating the 
+Angolan diamond industry and related operational practices as they pertain to the citizens and 
+transient workers resident in Cuango municipality.  
+• 
+Collect, analyze and report on information drawn from a wide cross-section of the local 
+community pertaining to the attitudes, feelings, opinions, aspirations, knowledge of rights and 
+responsibilities, and practices associated with the dynamics of mining in Cuango region. 
+• 
+Assess the corporate social responsibility projects undertaken by SDM in Cuango municipality.  
+• 
+The assessment will examine:  
+• 
+How well the legal and institutional arrangements as well as the economic incentives established 
+by the government are serving their intended purposes. These measures would include licensing, 
+revenue collection, and other regulatory systems applicable to miners and dealers operating in the 
+informal sector.   
+• 
+To what degree and the manner in which anti-smuggling and other law enforcement measures 
+with respect to diamonds are working.  
+• 
+Residents’ and public and private authorities’ perceptions of the effectiveness and 
+appropriateness of the law enforcement and security measures in place to combat illegal 
+smuggling. 
+• 
+Land use rights and the potential for agriculture and other non-mining economic endeavours. 
+• 
+What communities identify as major barriers for their community development.    
+• 
+Current local government service delivery capability and the potential for augmenting locally 
+generated revenues for social development purposes. 
+• 
+Effectiveness of community development programs sponsored by the private sector with a special 
+emphasis on SDM’s corporate responsibility efforts.  
+• 
+Existing efforts to curb the spread of HIV/AIDS within the formal and informal sector 
+workforces.     
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+22
+ANNEX 2:  THE DIAMOND LAW 
+NATIONAL ASSEMBLY 
+LAW Nº 16/94 
+OF 7 OCTOBER 1994 
+A diagnosis of the present position of the diamond mining industry in Angola, has implied a detailed 
+analysis of the applicable legislation in force and its influence on the operation of the establishment, on 
+the activities of mining companies and on the social-economic situation of the population of the Lundas 
+and that of the country in general. Such a diagnosis showed the existence of an extremely accelerated 
+process of increase of illegal digging and diamond theft within concession areas, which has resulted in an 
+uncontrolled dilapidation of the richest deposits, the social and economic deterioration of the population, 
+the inevitable leaking of extraordinary foreign currency amounts out of the country, great difficulties for 
+the concession holding companies, all this resulting in the flagrant violation of the Constitutional Law and 
+of the legislation approved by the authorities, with the consequent discredit of the State and breach of 
+authority of the institutions. 
+One of the fundamental reasons for the situation now prevailing in the diamond operation areas results 
+from the application of Law 30/91, which liberalized diamond possession and trading, creating the idea 
+that any citizen may take possession of a resource which, in constitutional terms, belongs to the State and 
+must be exploited in the benefit of the whole Nation. Such liberalization, besides having extremely 
+negative consequences for the Angolan economy, created the false impression that circulation of people 
+and goods is totally free throughout the whole Angolan territory and does not tolerate restrictions and 
+conditionings, which goes against the Constitutional Law, besides having created a situation which, to say 
+the least, is out of control in respect of prevention and repression of illegal diamond traffic, as penal rules 
+regarding this matter are, at present, no longer being applied. 
+Therefore, the need to radically alter the current situation becomes obvious, creating new legal basis 
+which make it possible to protect a national resource which, due to its importance, requires a technically 
+and politically careful treatment, as a State protected and controlled diamond activity, in a sensible 
+manner, will result in benefits to the Nation in general, and particularly to the population of the Lundas.  
+It has, therefore, been decided that, first of all, the State must have at its disposal a body, which must be a 
+company, Empresa Nacional de Diamantes, to carry out its policies of diamond mining and trading, and 
+to which, or to any mixed companies of which it is part, exclusive mining rights in respect of diamonds 
+must be granted. On the other hand, if such an exclusive status is to be granted to ENDIAMA, this 
+company will be reduced to the role of operator in very unfavourable competition with foreign investors. 
+However, such an exclusive regime does not imply that, for each project, ENDIAMA does not have to 
+apply for the concession of the respective mining rights, and these applications will be appreciated by the 
+Government, case by case, taking the State's interests into account. 
+Therefore, and looking forward to Angola becoming once again a major diamond producer, ENDIAMA 
+must be maintained and made stronger, not only to play the role of competing with investing companies, 
+but to represent the minimum necessary but essential Government's intervention and company 
+participation agent, in the complex and delicate technical-commercial diamond activities.  
+Secondly, it has been decided that a rationalization of diamond mining and trading is not compatible with 
+legalizing diamond possession and sale, even when acquired outside the mining concession areas, as Law 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+23
+Nº 30/91 unleashed an opposite operation: that of illegal digging and theft of diamonds within those 
+areas. 
+Thirdly, and with the purpose of avoiding the shock of a radical change in the prevailing situation, this 
+Law introduces the main innovation of admitting artisanal mining of diamond deposits selected according 
+to their special characteristics, following logical rules and in a controlled way. This type of mining will 
+fall upon those deposits which are minable on an industrial scale and will only be allowed within areas 
+surrounding present or future demarcated areas for industrial mining (protection areas). The present Law 
+also created the so-called "reserved areas", which are areas with deposits where future projects will be 
+carried out, and the whole of the territory of the Lunda Norte and Lunda Sul Provinces are henceforward 
+considered as a "reserved area", due to the great number of deposits occurring there. 
+Naturally, this Law deals with the question of investments in diamond operations, in view of their specific 
+nature, and creates new rules regulating the circulation of people and goods in diamond mining areas and 
+in reserved areas, not only in the Lundas but also in any part of the Angolan territory, permitting 
+industrial mining by national or foreign companies, as long as they possess all necessary conditions to do 
+so. 
+Finally, this Law defines the bodies in charge of surveillance, security and control of the above mentioned 
+areas, allowing for the operation of private security companies, as well as re- expressing all matters 
+relating to prevention and repression of illegal traffic of diamonds. In these terms, under paragraph m) of 
+article 89 of the Constitutional Law and using the powers bestowed on me by paragraph s) of article 66 of 
+that same Law, the National Assembly approves and I sign and send for publication the following: 
+ 
+DIAMOND LAW 
+CHAPTER I 
+SCOPE AND CONCESSION OF MINING RIGHTS 
+Article 1 
+(Scope) 
+This law is applicable to operations of prospecting, research, reconnaissance, mining, treatment and 
+trading of rough diamonds within the territory of the Republic of Angola. 
+Article 2 
+(Concession of mining rights) 
+1. The mining rights for prospecting, research, reconnaissance, mining, treatment and trading of rough 
+diamonds within the whole of the Angolan territory, including the continental shelf and the exclusive 
+economic zone, will be exclusively granted to ENDIAMA, UEE or to mixed companies of which it is 
+part, in terms of Law Nº 1/92. 
+2. The above mentioned rights may be pursued directly by ENDIAMA, UEE or by mixed companies of 
+which it is part, in terms of Law Nº1/92, and will be granted, case by case, by means of concession 
+contracts to be approved by the Cabinet Council, in terms of that same law. 
+3. For the case of ENDIAMA, UEE's own projects, the Cabinet Council will approve the respective 
+project and no contract will be entered into. 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+24
+4. For the case of investment projects for the formation of mixed companies with the participation of 
+ENDIAMA, UEE, the contract will be negotiated between ENDIAMA, UEE and the other partners in the 
+company to be formed. 
+5. ENDIAMA may also pursue the rights it is granted through associations in partnership or by means of 
+other contracts to be negotiated with Angolan or foreign companies, which may take any of the patterns 
+internationally used in mining operations. 
+6. The participation of Angolan companies must be encouraged, as long as they possess the required 
+technical and financial conditions. 
+7. The contract granting mining rights must include specific rules for the fiscal, foreign exchange and 
+customs regimes, without prejudice to fiscal and foreign exchange obligations due to legislation in force. 
+8. ENDIAMA's associated or contracted partners may only subcontract other companies in terms of Nº 5 
+of Article 6 and Nº 6 of Article 11 of Law Nº 1/92. 
+9. Rendering of services or supply to diamond projects by ENDIAMA's associated or contracted partners 
+is not allowed, except with the express permission of the Cabinet Council. 
+10. The interdiction mentioned in the previous paragraph does not include companies in which 
+ENDIAMA's associates or partners have shares. 
+11. In order to pursue the mining rights to be granted, ENDIAMA, whenever it finds it convenient to do 
+so, may open a tender for contract or association with other entities. 
+ 
+CHAPTER II 
+FOREIGN INVESTMENTS IN THE DIAMOND AREA 
+Article 3 
+(Legislation on foreign investments) 
+Law Nº 13/88, in its substantive part, is applicable to foreign investments due to this law. 
+Article 4 
+(Investment procedures) 
+The procedure in respect of foreign investment is governed by the following rules: 
+a) As a rule, in contracts concerning diamond operations, a form of contract in two stages must be 
+adopted, when there is room for geological-mining investigation stage. 
+b) For the geological-mining investigation stage, the potential investor must submit to ENDIAMA a 
+statement of intent, defining the area and work schedule, with successive stages referred to in Law Nº 
+1/92. 
+c) For the mining stage, the investor must submit a technical-economic feasibility study which, once 
+approved, will become an integral part of the contract granting the concession of mining rights. 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+25
+d) When the project concerns diamond deposits with calculated reserves and other data allowing the 
+immediate preparation of a technical-economic feasibility study, ENDIAMA will, preferably, organise a 
+public or limited tender. 
+e) ENDIAMA will be sole negotiating speaker, and must always consult the Ministry of Geology and 
+Mines, the Ministry of Finance, the Angolan National Bank and the Government Authority of the 
+Province in which the investment is to be made. 
+f) Once the contract has been negotiated, and if a mixed company is formed, ENDIAMA will send the 
+respective Statutes to the Ministry of Geology and Mines for a written opinion, which must be given 
+within a period of thirty days. 
+g) The Ministry of Geology and Mines, after agreement with ENDIAMA and if the written opinion 
+implies alterations to the project, will send the same to the Cabinet Council. 
+h) After approval of the Cabinet Council regarding the concession of mining rights, they will be sent to 
+the Ministry of Geology and Mines, who will send copies to ENDIAMA, to the Ministry of Finance, to 
+the Angolan National Bank and to the Authority of the Province concerned. 
+CHAPTER III 
+ARTISANAL PRODUCTION 
+Article 5 
+(Artisanal mining) 
+1. ENDIAMA may authorise demarcation of areas for the artisanal mining of diamond occurrences which 
+cannot be economically mined through the normal operations of the concession holder. 
+2. Artisanal mining will be done using exclusively artisanal means and methods, that is, without the 
+intervention of mechanical means and mining technology. 
+Article 6 
+(Areas for artisanal mining) 
+1. Artisanal mining may only be authorised within protection areas, as defined in Article 15 of this Law. 
+2. In case of Article 15, Nº 1, paragraph a), demarcation for the purposes of artisanal mining will be 
+proposed to ENDIAMA by the respective concession holder. 
+3. In case of Article 15, Nº 1, paragraph b), it is ENDIAMA's duty to proceed directly with demarcation 
+on its own initiative, whenever the prospective licence holder will not apply for the mining rights 
+concession title. 
+Article 7 
+(Licensing for artisanal mining) 
+1. Licences for artisanal mining, in previously demarcated areas, may only be granted to Angolan citizens 
+residing for more than five years in the communes around the areas allotted for artisanal mining. 
+2. The above mentioned residence must be certified by the traditional authorities of the respective area. In 
+case of doubt, an appeal will be made to the communal administrator. 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+26
+3. Licences for artisanal mining may only be applied for by citizens over 18 years of age, and for that 
+effect they must submit their Identity Card or other official document proving their identity. 
+4. The application for artisanal mining may be made in writing or verbally to the concession holder or to 
+ENDIAMA, in accordance with paragraphs 2 and 3 of the previous article. 
+5. The licence will be granted by the Ministry of Geology and Mines, on an individual basis, and the 
+formation of companies, associations or cooperatives for the purpose of artisanal mining is not permitted. 
+6. The Ministry of Geology and Mines may delegate to ENDIAMA the power to grant licences for 
+artisanal mining. 
+7. Once the application has been granted and the area for artisanal mining has been demarcated, copy of 
+the file will be sent to the communal and municipal authorities, and to the Provincial Government. 
+ 
+CHAPTER IV 
+DIAMOND TRADING 
+Article 8 
+(Diamond trading) 
+1. Trading of diamonds must take into account their specificity and highly specialised valuation and the 
+particular characteristics of the international market and, as far as possible, get the best value for this 
+national resource. 
+2. Trading of diamonds is exclusively carried out by ENDIAMA or by a company to be formed expressly 
+for the specific object of trading, safeguarding the legitimate interests of producers. 
+3. Without prejudice to anything which may be contractually provided in this respect between the 
+diamond producing companies to which concessions have been granted and the trading company, the 
+latter will be entitled to a commission, to cover operation costs, which may not exceed 2.5% of the value 
+of the exported diamonds. 
+4. ENDIAMA contractors sharing in the results of the diamond production are entitled to negotiate and 
+participate in the preparation of diamond trading contracts or agreements which are made with 
+ENDIAMA. 
+Article 9 
+(Granting of export licences) 
+Exports will be the object of licensing by the relevant authority of the Ministry of Trade, and the Ministry 
+of Geology and Mines will be informed thereof. 
+Article 10 
+(Valuation) 
+1. Before export, ENDIAMA will sort and valuate the diamonds received from producers. 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+27
+2. While ENDIAMA does not have appropriate offices to carry out the final valuation in Angolan 
+territory, a provisional valuation will be carried out, and the final valuation will take place in the 
+purchaser's office, with the intervention of an internationally recognised valuator, who will be engaged 
+both for the provisional valuation, and to participate and certify the final valuation. 
+3. The producer has the right of using a valuator of his own choice at all stages of valuation proceedings. 
+Article 11 
+(Trading of accessory minerals) 
+Trading of accessory minerals occurring in the mining deposits is free, except for gold, where the whole 
+production must be sold in terms of the legislation in force. 
+Article 12 
+(Valuation and trading of artisanal production) 
+1. Diamonds, as well as accessory minerals extracted in artisanal mining areas, must be sold compulsorily 
+to the concession holder in the case referred to in Article 6, Nº 2, and to ENDIAMA or to the mixed 
+company specialized in diamond purchasing of which ENDIAMA is a partner, in the case of Article 6, Nº 
+3. 
+2. Before the diamonds mentioned in the previous paragraph are sold, a local valuation will be carried out, 
+to determine the buying price. 
+3. When this valuation is carried out by the concession holder as mentioned in Article 6, Nº 2, 
+ENDIAMA valuators will always take part in the proceedings. 
+4. The value of each purchased parcel of diamonds will be paid immediately after valuation. 
+ 
+CHAPTER V 
+CONTROL OF PEOPLE AND GOODS WITHIN DIAMOND AREAS 
+Article 13 
+(Limits to circulation of people and goods) 
+1. Access to, circulation of people and goods, residence and exercise of economic activities may be 
+controlled, limited or prohibited within the mining production areas or those reserved, established within 
+areas with diamond occurrences in terms of the provisions of the following articles. 
+2. For the purposes of this Law, production areas are divided into RESTRICTED AREAS and 
+PROTECTION AREAS. 
+3. Areas demarcated for artisanal mining purposes are also protection areas. 
+Article 14 
+(Restricted areas) 
+1. RESTRICTED AREAS are mining areas demarcated under Law 1/92. 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+28
+2. RESTRICTED AREAS must be marked "in loco" by plainly visible and legible landmarks and 
+signboards, facing outwards and located at the vertices of the geometrical shapes which define them, as 
+well as at the crossing points of roads and public paths, containing the words "Restricted area. Access 
+forbidden” and bearing the name of the concession holder. 
+3. It is the duty of the concession holder to build, at its own cost and according to the route proposed by 
+the relevant authorities, thoroughfares alternative to the roads and public paths which pass through a 
+restricted area. 
+4. The concession holder may, in his own interest and without need for permission, build a continuous 
+boundary for the whole or part of restricted areas and the deposits, mines or plants within them. 
+Article 15 
+(Protection areas) 
+1. PROTECTION AREAS are: 
+a) those areas corresponding to strips of land surrounding restricted areas within a distance to be 
+established, up to 5 Km from the external boundaries of the mining demarcation lines; 
+b) those areas corresponding to diamond concessions found under a prospecting licence, adding a 
+surrounding area within a distance to be established, up to 5 Km from the external boundaries of protected 
+deposits or mines, during the period from discovery of the occurrences to the concession of mining rights. 
+2. Protection areas must be marked with plainly visible and legible signboards, placed at the crossing 
+points of roads and public paths, containing the words "Diamond protection area. Loitering forbidden" 
+and bearing the name of the concession holder. 
+3. The protection areas mentioned in Nº 1, paragraph b) must be maintained, with the same or with other 
+boundaries, in cases where protected diamond occurrences are also areas demarcated for artisanal mining. 
+4. Protection areas are established by the Ministry of Geology and Mines, upon request of the concession 
+holder and have the purpose of preventing subtraction, extraction and illegal diamond traffic. 
+Article 16 
+(Reserved areas) 
+1. RESERVED AREAS are parts of the territory which, although they have not yet been the object of any 
+granting of titles for mining rights, are demarcated with a view to future development of diamond 
+operations. 
+2. It is for the Cabinet Council to establish reserved areas at ENDIAMA's request, whenever there is 
+knowledge or well founded foreknowledge of diamond occurrences in any part of the Angolan territory. 
+3. The whole territory of the Provinces of Lunda Norte and Lunda Sul which is not covered by restricted 
+areas, protection areas and artisanal production areas is, as from now, considered to be a RESERVED 
+AREA. 
+4. Reserved areas must be marked "in loco" with plainly visible and legible landmarks and signboards, 
+located at the vertices of the geometrical shapes which define them, as well as at the crossing points of 
+roads and public paths, containing the words "Reserved area. Limited circulation, permanence and 
+economic activity". 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+29
+5. The provisions of the previous paragraph are not applicable to the reserved area defined in number 3 of 
+this article. 
+Article 17 
+(Access to diamond areas) 
+1. Access to restricted areas is forbidden, except for personnel connected with diamond production 
+operations. 
+2. However, such access is allowed for people and entities travelling to restricted areas on official 
+business, for State authorities and for other entities or people invited or specially authorized by the 
+concession holder. 
+Article 18 
+(Circulation of people) 
+1. Circulation of people within restricted areas is regulated by the respective concession holder. 
+2. Circulation within protection areas can only take place using public roads and paths, and people 
+circulating there must carry: 
+a) Identity Card, or another document proving their identity. 
+b) Permit issued by the services to which they belong, by the administration authority of their area of 
+residence or by the concession holder. 
+3. The Provincial Governor, at ENDIAMA's request, may establish other restrictions to the movement of 
+people within protection areas, whenever the need for security of mining operations so demands. 
+Article 19 
+(Circulation of goods) 
+1. No goods may enter or leave a restricted area without permission of the concession holder. 
+2. The circulation of goods through protection areas is allowed, but they must be accompanied by a 
+dispatch bill clearly identifying, discriminating and showing the quantities of such goods, or by a 
+credential issued by the concession holder. 
+Article 20 
+(Economic activities) 
+1. All kinds of economic activities foreign to diamond mining, of whatever nature, be it industrial, 
+commercial, agricultural or others are forbidden in restricted areas and in protection areas. 
+2. It falls to concession holders to indemnify the owners of commercial and industrial institutions and 
+agricultural or animal husbandry farms or of any other installations existing at the time of creation of 
+restricted areas and protection areas, for damages caused to them by the prohibition mentioned in the 
+previous paragraph. 
+3. Expropriation for public utility both in favour of the State or of the concession holder is permitted in 
+restricted areas and in protection areas. 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+30
+Article 21 
+(Residence) 
+1 Residence in restricted areas and in protection areas is forbidden, except for people linked with mining 
+operations. 
+2. The population residing in restricted areas or in protection areas at the time they are established must 
+be regrouped outside such areas, as near to them as possible, and in such cases, the concession holder 
+must guarantee: 
+a) building of suitable accommodation, never inferior to the one the displaced people had before; 
+b) building of social and community infrastructures, namely schools, community centres, churches, water 
+supplies and others, in at least the same conditions as those existing in the displaced settlements. 
+3. The provisions of a) and b) of the previous paragraph are not applicable to buildings located in 
+restricted areas and in protection areas which are expropriated for public utility. 
+4. It falls to the Provincial Governor to approve the regrouping proposed by the concession holder. 
+5. The Provincial Governor may condition the project to the submission of economic assistance and social 
+promotion supported by the concession holder. 
+Article 22 
+(Restrictions in artisanal mining areas) 
+1. Access, circulation and permanence in areas marked for artisanal mining are only permitted to licence 
+holders, and any economic activity not connected with diamond mining is strictly forbidden. 
+Article 23 
+(Restrictions in reserved areas) 
+Restrictions to access, circulation of people and goods, and residence, as well as any economic activities 
+in reserved areas, will be established by special legislation. 
+Article 24 
+(Control of people and goods) 
+1. The vigilance and control of people and goods in restricted areas and in protection areas, as well as the 
+security if its respective deposits and diamond mining operations, fall to concession holders, either by 
+using their own resources and personnel recruited by themselves, through a self-defence system, or by 
+contracting specialized security companies, in the terms permitted by law. 
+2. The vigilance and control of people and goods in areas marked for artisanal production fall to 
+concession holders, or to ENDIAMA or to the mixed company which replace it, in terms of the provisions 
+of article 15. 
+3. The vigilance and control of people and goods in reserved areas fall to the National Police, however the 
+Cabinet Council may authorize, in terms of the law, specialized security companies to support the Police 
+and cooperate in their vigilance and control operations or, in special cases, eventually, substitute them. 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+31
+4. The powers of vigilance and control of people and goods given to the entities mentioned in Nºs 1 and 2 
+of this article do not prejudice the general powers given by law to the National Police. 
+5. The Mining Police and the Industrial Security and Vigilance Force are hereby abolished, and the 
+Ministry of Home Affairs and ENDIAMA must, within a period of 120 days, propose what to do with 
+their respective contingents. 
+CHAPTER VI 
+ILLEGAL DIAMOND TRAFFIC 
+Article 25 
+(Prevention and repression of illegal traffic. Powers) 
+1. The prevention and repression of illegal diamond traffic fall, in the whole of the Angolan territory, to 
+the usual State criminal prevention and repression authorities, in terms of procedural penal legislation. 
+2. The provisions of the previous paragraph do not prejudice the duties which, in matters of vigilance, 
+security and control of people and goods, fall to concession holders, and to private companies specialized 
+in security within restricted areas, protection areas, reserved areas and areas demarcated for artisanal 
+mining, in terms of this law. 
+Article 26 
+(Duties of concessionaires and security companies) 
+1. When performing their duties due to the law concerning vigilance, security and control of people and 
+goods, concession holders and security companies must: 
+a) keep under constant surveillance the areas under their control and check the movement of people and 
+goods; 
+b) prevent the residence, transit, exercising of any economic activities and access of people and goods to 
+the areas forbidden by law; 
+c) prevent all unauthorized prospecting, research, reconnaissance and mining of diamonds; 
+d) guarantee the protection of deposits and occurrences, opposing all unauthorized diamond prospecting 
+and mining operations; 
+e) guarantee the security of plants, goods, services and people engaged in diamond operations. 
+2. When performing their duties, the entities and persons in charge of controlling people and goods may: 
+a) identify and carry out routine searches of its own workers and people in general entering or leaving 
+restricted areas or circulating or finding themselves in any other areas under their control, as well as 
+objects and goods they may be carrying or which are under their responsibility; 
+b) require the showing of access permits and passes, credentials or way-bills for merchandise and goods; 
+c) preventively detain "flagrante delicto" the culprits of the crimes due to this Law; 
+d) confiscate the product or object of violation, the instruments used in such violation and, generally, all 
+material proof susceptible of being lost or destroyed or concealed; 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+32
+e) resort to the use of force when it becomes absolutely necessary to carry out their duties effectively. 
+3. For the purposes of the provisions of paragraph d) above, means of transport, arms and materials or 
+camping gear found in possession of the violators are instruments of crime. 
+4. The goods apprehended and people detained must be handed over to the Public Prosecutor or to the 
+office of the National Police closed to the place of detention or confiscation, in terms of and within the 
+period of time due to article 9 of Law Nº 18-A/92, of 17th July. 
+5. It falls to concession holders to issue internal regulations on the subject of vigilance, security and 
+control in restricted areas applicable to their workers and to people authorized by law or invited to enter 
+such areas. 
+Article 27 
+(Cooperation) 
+The staff of concession holders or specialized security companies in charge of controlling people and 
+goods in diamond areas, when preventing and combating illegal diamond traffic or any other illegal 
+activities due to this Law, must act in close cooperation with the police, criminal instruction and judicial 
+authorities, and in keeping with the most scrupulous respect for legitimate people's rights and the 
+provisions of legislation in force. 
+Article 28 
+(Investigation and instruction) 
+The security agents mentioned in the previous article may not, under any circumstances whatsoever, carry 
+out investigation and criminal instruction activities, except for those established in this Law. 
+Article 29 
+(Unauthorized entry into a restricted area) 
+1. The access to and permanence of people in restricted areas, outside the cases permitted by  law, are 
+punished with prison and fine up to two years. 
+2. In case of negligence, the prison sentence is up to six months and fine up to one year. 
+Article 30 
+(Circulation and permanence in protection areas) 
+1. Circulation and permanence of people in protection areas, except under the conditions provided in 
+Article 18, are punished with prison up to one year and fine up to one year. 
+2. In case of negligence, the prison sentence is up to three months or fine up to six months. 
+Article 31 
+(Circulation of goods) 
+1. Circulation of goods, except under the conditions provided in Article 19, is punished with prison up to 
+one year. 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+33
+2. In case of negligence, the prison sentence is up to three months or fine up to six months. 
+Article 32 
+(Restrictions in reserved areas) 
+1. Anyone who does not respect the rules imposing restrictions to residence, circulation and economic 
+activities in reserved areas is punished with prison up to one year and fine up to one year. 
+2. In case of negligence, the prison sentence is up to three months and fine up to six months. 
+Article 33 
+(Illegal entering into artisanal mining areas) 
+1. Anyone entering an area marked for artisanal diamond mining without permission will be punished 
+with prison up to six months or fine up to one year. 
+2. If the violator is a foreigner, or if, although being an Angolan citizen, he has no permanent residence in 
+that area, the sentence is prison and fine up to two years. 
+3. In case of negligence, the prison sentence is up to three months or fine up to six months. 
+Article 34 
+(Conditions of punishment) 
+Perpetrators of the crimes described in articles 29 to 33 will only be punished if they are caught "flagrant 
+delicto". 
+Article 35 
+(Illegal prospecting) 
+Diamond prospecting, research and reconnaissance without a prospecting licence is punishable with 8 to 
+12 year imprisonment. 
+Article 36 
+(Illegal mining and extraction) 
+Diamond mining, as well as simple extraction without a title granting mining rights, will be punished as a 
+crime of theft and with 8 to 12 years imprisonment except if, in case of extraction, a more severe sentence 
+is not applicable, due to the value of the diamonds extracted. 
+Article 37 
+(Theft of diamonds) 
+Theft of rough diamonds is punishable with 8 to 12 years imprisonment, if a more severe sentence is not 
+applicable due to the value of the stolen diamonds and the circumstances under which the crime was 
+committed. 
+Article 38 
+(Illegal possession of diamonds) 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+34
+Possession or mere keeping of rough diamonds, except in legally authorized circumstances, is punishable 
+with 8 to 12 years imprisonment. 
+Article 39 
+(Illegal diamond traffic) 
+1. Buying and selling, donation in payment or any other form of transmission, as well as withdrawal from 
+Angolan territory of rough diamonds, except in legally authorized circumstances, is considered to be 
+illegal diamond traffic. 
+2. Illegal diamond traffic is punishable with 8 to 12 years imprisonment. 
+Article 40 
+(Illegal introduction of diamonds into Angolan territory) 
+Unauthorized introduction of rough diamonds into Angolan territory is punishable with 2 to 8 years 
+imprisonment. 
+Article 41 
+(Traffic of non-valuable stones) 
+Traffic of non-valuable stones as if they were diamonds is punishable with 2 to 8 years imprisonment. 
+Article 42 
+(Preparatory action, complicity and reception) 
+In the crimes described in Articles 35 to 40: 
+a) Preparatory action is punishable with the corresponding imprisonment and fine; 
+b) Accomplices are punishable with the sentences applicable to the respective perpetrators, with 
+attenuation; 
+c) Concealment is punishable with 2 to 8 years imprisonment. 
+Article 43 
+(Accessory fine) 
+1. In case of condemnation for any of the crimes due to Articles 35, 36, 37 and 39, the sentence may be 
+increased by a fine of not less than NKZ 5,000,000.00 and never higher than one third of the value of the 
+diamonds object of the crime. 
+2. If the crime is perpetrated by representatives, proxies or company employees or other artificial persons 
+on their behalf, they will be solidarily responsible for payment of the fine. 
+Article 44 
+(Security measures) 
+1. In case of condemnation, perpetrators of fraudulent crimes due to this Law who are foreigners may be 
+expelled from Angolan territory after they have served their sentence. 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+35
+2. If the perpetrators of those same crimes practice a profession or economic activity subject to licensing, 
+or are managers or directors of a legally formed company, they may be precluded from 
+practising their profession, activity, management or directorship for a period of one to five years. 
+3. The provisions of paragraph 5 of Article 70 of the Penal Code, with the required adaptations, are 
+applicable to the above mentioned interdiction. 
+Article 45 
+(Goods lost in favour of the State) 
+In fraudulent crimes provided in Articles 17 and 19, both goods circulating in conditions other than those 
+established in Article 19, as well as the vehicles in which such goods and the crime perpetrators are 
+transported, must be declared as lost in favour of the State, except when both of them belong to people 
+who have taken no part in the crime and who acted in good faith. 
+Article 46 
+(Confiscated diamonds) 
+1. Confiscated diamonds must be submitted for examination and valuation by experts duly accredited by 
+the Ministry of Geology and Mines, and then delivered to ENDIAMA UEE, who will act as faithful 
+keeper. 
+2. Confiscated diamonds are finally delivered to: 
+a) The holder of prospecting licences or mining titles, when it has been clearly determined that they were 
+extracted or stolen from areas covered by such licences or titles. 
+b) The State, in the remaining cases. 
+3. People who, through denunciation or in any other form, assist in the confiscation of diamonds, are 
+entitled to a premium equivalent to 25% of their respective value. 
+Article 47 
+(Special attenuating circumstances and exemption from penalty) 
+1. In case of confession useful to the discovery of the crime and its perpetrators, the court may 
+exceptionally substitute any fixed imprisonment penalty by simple imprisonment or fine or exempt the 
+defendant from the penalty. 
+2. The Court may also reduce any imprisonment penalty down to the minimum of one year or substitute it 
+by correctional imprisonment of never less than one year whenever circumstances are proven which 
+justify an extraordinary attenuation of the penalty, and the damage or the danger of damage are of reduced 
+or insignificant value. 
+Article 48 
+(Territorial scope of this Law) 
+This Law is applicable to all the crimes mentioned in it committed in any part of the Angolan territory by 
+either Angolan or foreign citizens. 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+36
+CHAPTER VII 
+FINAL AND TEMPORARY PROVISIONS 
+Article 49 
+(Closing of buying offices) 
+1. Diamond buying offices authorized in terms of Law Nº 30/91, of 27th December and Decree Nº 20/92, 
+of 15th May, will be immediately closed, without prejudice to the rights recognized to the respective 
+companies by Article 5 of the last document mentioned above. 
+2. For the purposes of the previous paragraph, the owners of diamond buying offices must declare to the 
+Ministry of Geology and Mines, within a period of five days, all diamonds purchased up to the date of 
+enforcement of this Law and which are still in their possession. 
+Article 50 
+(Provisional demarcation) 
+For the areas where ENDIAMA has geological-mining operations in course and which have not yet been 
+the object of a mining concession title, ENDIAMA will apply to the Ministry of Geology and Mines for 
+provisional demarcation of restricted areas and respective protection areas. 
+Article 51 
+(Special remuneration regimes) 
+The Cabinet Council may establish special regimes of remuneration for the National Police, the 
+magistrates, justice officials and other workers of the remaining criminal prevention and  repression 
+offices, placed in Lunda Norte and Lunda Sul, and extend them to other areas of the country, whenever 
+the need to prevent and repress illegal diamond traffic so requires. 
+Article 52 
+(Revoking of legislation) 
+Laws Nºs 7/85 of 3rd August, and 30/91 of 27th December, Decrees Nºs 79/71 of 27th December, 1/89 of 
+7th January, 50/89 of 4th September, 20/92 of 15th May, and any other legal provisions which contradict 
+this Law are hereby revoked. 
+Article 53 
+(Effective date) 
+This Law becomes effective ninety days after its publication. 
+Examined and approved by the National Assembly 
+To be published. 
+Luanda ................................. 
+The Chairman of the National Assembly, Fernando José de França Dias Van- Dunem 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+37
+The President of the Republic, José Eduardo dos Santos. 
+ 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+38
+ANNEX 3:  MEETINGS 
+Angola Meetings List 
+Date 
+No 
+Person 
+Role 
+Organisation 
+Oct 3 
+1 
+Susan Brems 
+Mission Director 
+USAID 
+ 
+2 
+Mervyn Farroe 
+Program Officer 
+USAID 
+ 
+3 
+Romulo Peixoto 
+D&G Specialist 
+USAID 
+ 
+4 
+Ranca Tuba 
+Team Leader D&G 
+USAID 
+ 
+5 
+Vic Duarte 
+General Development Officer
+USAID 
+ 
+6 
+Mitchell Ferguson 
+Political Econ Councillor 
+US Embassy 
+ 
+7 
+Mark Schall 
+Economic Secretary 
+US Embassy 
+ 
+8 
+Dr. Mauricio Neves 
+Director General 
+SDM 
+Oct 4 
+9 
+Ingle 
+Human Rights Officer 
+Friedrich Ebert Stiftung  
+ 
+10 
+Dimitry Voegler 
+Political Officer 
+Dutch Embassy 
+ 
+11 
+Vegard Bye 
+Chief of Office 
+UNHRO 
+ 
+12 
+Joao Neves 
+Consultant 
+JMJ 
+ 
+13 
+Fern Teodoro 
+Director 
+World Learning 
+Oct 5 
+14 
+George Sherrell IV 
+Managing Director 
+KWORUM (LKI) 
+ 
+15 
+Elias Isaac 
+Programme Manager 
+Open Society 
+ 
+16 
+Mustaque Ahmed 
+COP MDP 
+CARE 
+ 
+17 
+Robert Jan Bulten  
+Country Director 
+CARE 
+ 
+18 
+Allan Cain 
+Director 
+Development Workshop 
+Oct 9 
+19 
+Teresa Muniz 
+Head Human Resources 
+SDM 
+ 
+20 
+Robert Jones 
+Operations Director 
+SDM 
+ 
+21 
+Leila Salomao 
+Consultant 
+SDM 
+ 
+22 
+John S. Janeski 
+Doctorate/Consultant 
+SDM 
+ 
+23 
+Pedro Luveso 
+Teacher/IT  
+SDM 
+ 
+24 
+Commandant Pei 
+Chief of Police 
+Cuango Municipality 
+ 
+25 
+Paulo Passos 
+Administrator 
+Cuango Municipality 
+ 
+26 
+Joao Katanga 
+Administrative Assistant 
+Cuango Municipality 
+ 
+27 
+Mona Caia 
+Regiedor (Head Soba) 
+Cuango Municipality 
+Oct 10 28 
+Jean Bernardo 
+Administrator 
+Luremo 
+ 
+29 
+Acacio Goncalves 
+Manager LAM 
+Luremo 
+ 
+30 
+Nascimento  
+Community Liaison 
+Luremo 
+ 
+31 
+Laurenso 
+The School Kid 
+Luremo 
+ 
+32 
+Sen Marcos 
+Communa Head of 
+Education 
+Luremo 
+ 
+33 
+Damiao Mucoso 
+Communa Head of 
+Luremo 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+39
+Date 
+No 
+Person 
+Role 
+Organisation 
+Secretariat 
+ 
+34 
+Manual Costa 
+Head Human Resources 
+Luminas Luremo 
+Oct 11 35 
+Sr. Domingos 
+Interin Head of Municipal 
+Hospital 
+Cafunfo 
+ 
+36 
+Jacques  
+ASCORP Rep  
+Cafunfo 
+ 
+37 
+Viriato Melo 
+Airport Manager - ENANA 
+Cafunfo 
+ 
+38 
+Donna Maria 
+Shop Owner 
+ 
+ 
+39 
+Albino Jose Capinagola
+Delegate –Guicango 
+Commercial 
+ 
+ 
+40 
+Manuel Muleno 
+Manager 
+Banco BIC 
+ 
+41 
+Caxita 
+Ass Promocau Deve Social 
+Cafunfo 
+ 
+42 
+Jean Pierre 
+Fisher of Rivers - Congolese 
+Cafunfo 
+Oct 12 43 
+Jim 
+Head of Security  
+SDM 
+ 
+44 
+Robert Jones 
+Operations Director 
+SDM 
+ 
+46 
+Richard Barnes 
+Geologist 
+SDM 
+Oct 17 47 
+Dr Mankenda Ambriose
+Vice Minister 
+Minsitry of Geology and 
+Mines 
+Oct 19 48 
+Francisco Fernandez 
+DCM 
+US Embassy 
+ 
+49 
+J Francisco Ganga 
+Director of Planning 
+Fundaçao Brilhante 
+ 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+40
+ANNEX 4:  WORLDWIDE ROUGH DIAMOND PRODUCTION – 2006 
+ 
+Rough Diamond Production Statistics - 2006 
+ 
+ 
+ 
+ 
+Country 
+Carats 
+Value 
+Average 
+Value 
+ 
+ 
+ 
+per carat 
+Angola 
+9,175,060.73
+$1,132,514,825.77 
+$123.43
+Australia 
+29,940,451.30
+$559,573,074.71 
+$18.69
+Botswana 
+34,293,401.00
+$3,207,570,684.00 
+$93.53
+Brazil 
+94,010.00
+$6,279,020.00 
+$66.79
+Canada 
+13,206,357.00
+$1,397,443,872.32 
+$105.82
+Central African Republic 
+419,528.35
+$59,066,866.49 
+$140.79
+China - People's Republic  
+74,080.20
+$1,240,000.00 
+$16.74
+Congo, Democratic Republic of 
+28,990,241.43
+$431,931,171.00 
+$14.90
+Ghana 
+972,647.88
+$30,910,703.33 
+$31.78
+Guinea 
+473,862.25
+$39,884,880.00 
+$84.17
+Guyana 
+350,518.00
+$44,387,773.00 
+$126.63
+India  
+10,278.95
+$1,763,359.00 
+$171.55
+Indonesia 
+51,603.06
+$10,643,234.50 
+$206.25
+Lesotho 
+112,408.46
+$83,545,876.40 
+$743.23
+Namibia 
+2,402,477.34
+$900,977,934.05 
+$375.02
+Russian Federation 
+38,360,810.00
+$2,574,280,850.00 
+$67.11
+Sierra Leone 
+603,566.07
+$125,304,842.46 
+$207.61
+South Africa 
+14,934,706.23
+$1,361,816,225.26 
+$91.18
+Tanzania 
+272,161.41
+$25,553,133.25 
+$93.89
+Togo 
+28,176.00
+$3,221,570.00 
+$114.34
+Venezuela 
+16,980.73
+$1,181,020.04 
+$69.55
+Zimbabwe 
+1,046,025.45
+$33,853,837.81 
+$32.36
+ 
+ 
+ 
+ 
+TOTAL 
+175,829,351.84
+$12,032,944,753.39 
+$68.44
+ 
+ 
+CUANGO DEVELOPMENT DIAGNOSTIC AND FEASIBILITY ASSESSMENT 
+41
+ANNEX 5:  MAP OF ANGOLA 
+ 

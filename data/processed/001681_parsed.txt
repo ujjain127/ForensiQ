@@ -1,0 +1,475 @@
+Medicare 
+Department of Health &
+Human Services (DHHS)
+Carriers Manual 
+Centers for Medicare & 
+Medicaid Services (CMS) 
+Part 3 - Claims Process 
+ 
+ 
+Transmittal  1800 
+ 
+ 
+ 
+Date:  MAY 30, 2003 
+ 
+CHANGE REQUESTS 2200 & 2311 
+ 
+HEADER SECTION NUMBERS 
+PAGES TO INSERT 
+PAGES TO DELETE  
+2049 – 2049.3 (Cont.) 
+2-18.1 - 2-18.5 (5 pp.) 
+2-18.1 - 2-18.2 (2 pp.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANUALIZATION —EFFECTIVE/IMPLEMENATION DATES:  Not Applicable 
+ 
+ 
+ 
+Section 2049 – Drugs and Biologicals, is being updated to manualize Program Memorandum (PM) 
+AB-02-072, Change Request 2200, dated May 15, 2002, and PM AB-02-139, Change Request 2311, 
+dated October 11, 2002. 
+ 
+Section 2049.1 - Definition of Drug or Biological, is being updated to manualize PM AB-02-072, 
+Change Request 2200, dated May 15, 2002, and PM AB-02-139, Change Request 2311, dated 
+October 11, 2002. 
+ 
+ 
+Section 2049.2 - Determining Self-Administration of Drug or Biological, is being updated to 
+manualizes Change Request 2200, dated May 15, 2002, and PM AB-02-139, Change Request 2311, 
+dated October 11, 2002. 
+ 
+ 
+Section 2049.3 - Incident-to Requirements, is being updated to manualize PM AB-02-072, Change 
+Request 2200, dated May 15, 2002, and PM AB-02-139, Change Request 2311, dated October 11, 
+2002. 
+ 
+ 
+ 
+DISCLAIMER:  The revision date and transmittal number only apply to the redlined 
+material.  All other material was previously published in the manual and is 
+only being reprinted. 
+ 
+ 
+These instructions should be implemented within your current operating budget. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CMS-Pub. 14-3 
+05-03 
+COVERAGE AND LIMITATIONS 
+2049.2
+ 
+2049. 
+DRUGS AND BIOLOGICALS 
+ 
+The Medicare program provides limited benefits for outpatient drugs.  The program covers drugs 
+that are furnished “incident to” a physician's service provided that the drugs are not usually self-
+administered by the patients who take them. 
+ 
+ 
+Generally, drugs and biologicals are covered only if all of the following requirements are met: 
+ 
+o 
+They meet the definition of drugs or biologicals (see §2049.1); 
+ 
+o 
+They are of the type that are not usually self-administered by the patients who take them.  
+(See §2049.2);  
+ 
+o 
+They meet all the general requirements for coverage of items as incident to a physician's 
+services (see §§2050.1 and 2050.3); 
+ 
+o 
+They are reasonable and necessary for the diagnosis or treatment of the illness or injury for 
+which they are administered according to accepted standards of medical practice (see §2049.4);  
+ 
+o 
+They are not excluded as immunizations (see §2049.4.B); and  
+ 
+o 
+They have not been determined by the FDA to be less than effective.  (See §2049.4 D.) 
+ 
+Drugs that are usually self-administered by the patient, such as those in pill form, or are used for 
+self-injection, are generally not covered by Part B.  However, there are a limited number of self-
+administered drugs that are covered because the Medicare statute explicitly provides coverage.  
+Examples of self-administered drugs that are covered include blood clotting factors, drugs used in 
+immunosuppressive therapy, erythropoietin for dialysis patients, osteoporosis drugs for certain 
+homebound patients, and certain oral cancer drugs.  (See §§2100.5 and 2130.D for coverage of drugs 
+which are necessary to the effective use of DME or prosthetic devices.) 
+ 
+2049.1 
+Definition of Drug or Biological.--Drugs and biologicals must be determined to meet the 
+statutory definition.  Section 1861(t)(1) provides that the terms “drugs” and “biologicals” ‘‘include 
+only such drugs (including contrast agents) and biologicals, respectively, as are included (or 
+approved for inclusion) in one of several pharmacopoeias (except for any drugs and biologicals 
+unfavorably evaluated therein), or as are approved by the pharmacy and drug therapeutics committee 
+(or equivalent committee) of the medical staff of the hospital furnishing such drugs and biologicals 
+for use in such hospital.’’  One such pharmacopeia is the United States Pharmacopeia, Drug 
+Indications (USP DI).  The inclusion of an item in the USP DI does not necessarily mean that the 
+item is a drug or biological.  The USP DI is a database of drug information developed by the U.S. 
+Pharmacopeia but maintained by Micromedex, which contains medically accepted uses for generic 
+and brand name drug products.  Inclusion in such reference (or approval by a hospital committee) is 
+a necessary condition for a product to be considered a drug or biological under the Medicare 
+program, however, it is not enough.  Rather, the product must also meet all other program 
+requirements to be determined to be a drug or biological. 
+ 
+2049.2 
+Determining Self-Administration of Drug or Biological.--Whether a drug or biological is 
+of a type which cannot be self-administered is based on the usual method of administration of the 
+form of that drug or biological as furnished by the physician. 
+ 
+Whole blood is a biological which cannot be self-administered and is covered when furnished 
+incident to a physician's services.  Payment may also be made for blood fractions if all coverage 
+requirements are satisfied.  (See §2455 on Part B blood deductible.) 
+ 
+ 
+ 
+ 
+Rev. 1800 
+2-18.1
+2049.2 (Cont.) 
+COVERAGE AND LIMITATIONS 
+05-03
+ 
+Medicare carriers have discretion in applying the criteria in this instruction in determining whether 
+drugs are subject to this exclusion in their local areas.  Carriers are to follow the instructions below 
+when applying the exclusion for drugs that are usually self-administered by the patient.  Each 
+individual contractor must make its own individual determination on each drug.  Contractors must 
+continue to apply the policy that not only the drug is medically reasonable and necessary for any 
+individual claim, but also that the route of administration is medically reasonable and necessary.  
+That is, if a drug is available in both oral and injectable forms, the injectable form of the drug must 
+be medically reasonable and necessary as compared to using the oral form.  (See §2049.4.2) 
+ 
+For certain injectable drugs, it will be apparent due to the nature of the condition(s) for which they 
+are administered or the usual course of treatment for those conditions, they are, or are not, usually 
+self-administered.  For example, an injectable drug used to treat migraine headaches is usually self-
+administered.  On the other hand, an injectable drug, administered at the same time as chemotherapy, 
+used to treat anemia secondary to chemotherapy is not usually self-administered. 
+ 
+Administered --The term "administered" refers only to the physical process by which the drug enters 
+the patient's body.  It does not refer to whether the process is supervised by a medical professional 
+(for example, to observe proper technique or side-effects of the drug).  Only injectable (including 
+intravenous) drugs are eligible for inclusion under the “incident to” benefit.  Other routes of 
+administration including, but not limited to, oral drugs, suppositories, topical medications are all 
+considered to be usually self-administered by the patient. 
+ 
+Usually --In arriving at a single determination as to whether a drug is usually self-administered, 
+contractors should make a separate determination for each indication for a drug as to whether that 
+drug is usually self-administered. 
+ 
+After determining whether a drug is usually self-administered for each indication, contractors should 
+determine the relative contribution of each indication to total use of the drug (i.e., weighted average) 
+in order to make an overall determination as to whether the drug is usually self-administered.  For 
+example, if a drug has three indications, is not self-administered for the first indication, but is self-
+administered for the second and third indications, and the first indication makes up 40% of total 
+usage, the second indication makes up 30% of total usage, and the third indication makes up 30% of 
+total usage, then the drug would be considered usually self-administered. 
+ 
+Reliable statistical information on the extent of self-administration by the patient may not always be 
+available.  Consequently, we offer the following guidance for each contractor’s consideration in 
+making this determination in the absence of such data: 
+ 
+1. Absent evidence to the contrary, drugs delivered intravenously should be presumed to be not 
+usually self-administered by the patient. 
+ 
+2. Absent evidence to the contrary, drugs delivered by intramuscular injection should be 
+presumed to be not usually self-administered by the patient.  (For example, interferon beta-
+1a, tradename Avonex, when delivered by intramuscular injection is not usually self 
+administered by the patient.)  The contractor may consider the depth and nature of the 
+particular intramuscular injection in applying this presumption. 
+ 
+3. Absent evidence to the contrary, drugs delivered by subcutaneous injection should be 
+presumed to be self-administered by the patient. 
+ 
+In applying these presumptions, contractors should examine the use of the particular drug and 
+consider the following factors: 
+ 
+ 
+ 
+ 
+2-18.2 
+Rev. 1800
+05-03 
+COVERAGE AND LIMITATIONS 
+2049.2 (Cont.)
+ 
+ 
+A. Acute condition.--For the purposes of determining whether a drug is usually self-
+administered, an acute condition means a condition that begins over a short time 
+period, is likely to be of short duration and/or the expected course of treatment is for 
+a short, finite interval.  A course of treatment consisting of scheduled injections 
+lasting less than two weeks, regardless of frequency or route of administration, is 
+considered acute.  Evidence to support this may include Food and Drug 
+administration (FDA) approval language, package inserts, drug compendia, and other 
+information. 
+ 
+B. Frequency of administration.--How often is the injection given?  For example, if the 
+drug is administered once per month, it is less likely to be self-administered by the 
+patient.  However, if it is administered once or more per week, it is likely that the 
+drug is self-administered by the patient. 
+ 
+By the patient --The term "by the patient" means Medicare beneficiaries as a collective whole.  
+Include only the patients themselves and not other individuals (that is, do not include spouses, 
+friends, or other care-givers).  Base your determination on whether the drug is self-administered by 
+the patient a majority of the time that the drug is used on an outpatient basis by Medicare 
+beneficiaries for medically necessary indications.  Ignore all instances when the drug is administered 
+on an inpatient basis.  Make this determination on a drug-by-drug basis, not on a beneficiary-by-
+beneficiary basis.  In evaluating whether beneficiaries as a collective whole self-administer, do not 
+consider individual beneficiaries who do not have the capacity to self-administer any drug due to a 
+condition other than the condition for which they are taking the drug in question.  For example, an 
+individual afflicted with paraplegia or advanced dementia would not have the capacity to self-
+administer any injectable drug, so such individuals would not be included in the population upon 
+which the determination for self-administration by the patient was based.  Note that some individuals 
+afflicted with a less severe stage of an otherwise debilitating condition would be included in the 
+population upon which the determination for “self-administered by the patient” was based; for 
+example, an early onset of dementia. 
+ 
+Evidentiary Criteria --In making a self-administration determination, contractors are only required to 
+consider the following types of evidence: peer reviewed medical literature, standards of medical 
+practice, evidence-based practice guidelines, FDA approved label, and package inserts.  Contractors 
+may also consider other evidence submitted by interested individuals or groups subject to their 
+judgment. 
+ 
+Contractors should also use these evidentiary criteria when reviewing requests for making a 
+determination as to whether a drug is usually self-administered, and requests for reconsideration of a 
+pending or published determination. 
+ 
+Please note that prior to August 1, 2002, one of the principal factors used to determine whether a 
+drug was subject to the self-administered exclusion was whether the FDA label contained 
+instructions for self-administration.  However, we note that under the standard in effect after August 
+1, 2002, the fact that the FDA label includes instructions for self-administration is not, by itself, a 
+determining factor that a drug is subject to this exclusion. 
+ 
+Provider Notice of Non-Covered Drugs --Contractors must describe the process they will use to 
+determine whether a drug is usually self-administered and thus does not meet the “incident to” 
+benefit category.  Contractors must place a description of the process on their Web site.  Contractors 
+must publish a list of the injectable drugs that are subject to the self-administered exclusion on their 
+Web site, including the data and rationale that led to the determination.  Contractors will report the 
+workload associated with developing new coverage statements in CAFM 21208. 
+ 
+ 
+ 
+ 
+ 
+Rev. 1800 
+2-18.2a
+2049.2 (Cont.) 
+COVERAGE AND LIMITATIONS 
+05-03
+ 
+Contractors must provide notice 45 days prior to the date that these drugs will not be covered.  
+During the 45-day time period, contractors will maintain existing medical review and payment 
+procedures.  After the 45-day notice, contractors may deny payment for the drugs subject to the 
+notice. 
+ 
+Contractors must not develop local medical review policies (LMRPs) for this purpose because 
+further elaboration to describe drugs that do not meet the ‘incident to’ and the ‘not usually self-
+administered’ provisions of the statute are unnecessary.  Current LMRPs based solely on these 
+provisions must be withdrawn.  LMRPs that address the self-administered exclusion and other 
+information may be reissued absent the self-administered drug exclusion material.  Contractors will 
+report this workload in CAFM 21206.  However, contractors may continue to use and write LMRPs 
+to describe reasonable and necessary uses of drugs that are not usually self-administered. 
+ 
+Conferences Between Contractors --Contractors’ Medical Directors may meet and discuss whether a 
+drug is usually self-administered without reaching a formal consensus.  Each contractor uses its 
+discretion as to whether or not it will participate in such discussions.  Each contractor must make its 
+own individual determinations, except that fiscal intermediaries may, at their discretion, follow the 
+determinations of the local carrier with respect to the self-administered exclusion. 
+ 
+Beneficiary Appeals --If a beneficiary’s claim for a particular drug is denied because the drug is 
+subject to the “self-administered drug” exclusion, the beneficiary may appeal the denial.  Because it 
+is a “benefit category” denial and not a denial based on medical necessity, an Advance Beneficiary 
+Notice (ABN) is not applicable.  A “benefit category” denial (i.e., a denial based on the fact that 
+there is no benefit category under which the drug may be covered) does not trigger the financial 
+liability protection provisions of Limitation On Liability [under §1879 of the Act].  Therefore, 
+physicians or providers may charge the beneficiary for an excluded drug.  See Chapter XV of the 
+Medicare Carrier Manual for more detail on the appeals process. 
+ 
+Provider and Physician Appeals --A physician accepting assignment may appeal a denial under the 
+provisions found in §12000 of the Medicare Carriers Manual.  See Chapter XV of the Medicare 
+Carrier Manual for more detail on the appeals process. 
+ 
+Reporting Requirements --Each carrier must report to CMS, every September 1 and March 1, its 
+complete list of injectable drugs that the contractor has determined are excluded when furnished 
+incident to a physician’s service on the basis that the drug is usually self-administered.  We 
+anticipate that contractors will review injectable drugs on a rolling basis and publish their list of 
+excluded drugs as it is developed.  For example, contractors should not wait to publish this list until 
+every drug has been reviewed.  Contractors must send their exclusion list to the following e-mail 
+address: drugdata@cms.hhs.gov.  Below is an example of the Microsoft Excel template that should 
+be submitted to CMS. 
+ 
+Carrier Name 
+State 
+Carrier 
+ID # 
+HCPCS 
+Descriptor 
+Effective date of 
+exclusion 
+End date of 
+exclusion 
+Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2-18.2b 
+Rev. 1800
+05-03 
+COVERAGE AND LIMITATIONS 
+2049.4
+ 
+2049.3 
+Incident-to Requirements.--In order for Medicare payment to be made for a drug, the 
+“incident to” requirements are met.  “Incident to” a physician's professional service means that the 
+services are furnished as an integral, although incidental, part of the physician's personal 
+professional services in the course of diagnosis or treatment of an illness or injury.  See §2050.1 for 
+more detail on incident-to requirements. 
+ 
+In order to meet all the general requirements for coverage under the incident-to provision, an FDA 
+approved drug or biological must be furnished by a physician and administered by him/her or by 
+auxiliary personnel employed by him/her under his/her personal supervision.  The charge, if any, for 
+the drug or biological must be included in the physician's bill, and the cost of the drug or biological 
+must represent an expense to the physician.  Drugs and biologicals furnished by other health 
+professionals may also meet these requirements.  (See §§2154, 2156, 2158 and 2160 for specific 
+instructions.) 
+ 
+2049.4 
+Reasonableness and Necessity.--Use of the drug or biological must be safe and effective 
+and otherwise reasonable and necessary.  (See §2303.)  Drugs or biologicals approved for marketing 
+by the Food and Drug Administration (FDA) are considered safe and effective for purposes of this 
+requirement when used for indications specified on the labeling.  Therefore, you may pay for the use 
+of an FDA approved drug or biological, if:  
+ 
+o 
+It was injected on or after the date of the FDA's approval; 
+o 
+It is reasonable and necessary for the individual patient; and  
+o 
+All other applicable coverage requirements are met. 
+ 
+Deny coverage for drugs and biologicals which have not received final marketing approval by the 
+FDA unless you receive instructions from CMS to the contrary.  For specific guidelines on coverage 
+of Group C cancer drugs, see the Coverage Issues Manual. 
+ 
+If there is reason to question whether the FDA has approved a drug or biological for marketing, 
+obtain satisfactory evidence of FDA's approval.  Acceptable evidence includes a copy of the FDA's 
+letter to the drug's manufacturer approving the new drug application (NDA); or listing of the drug or 
+biological in the FDA's Approved Drug Products or FDA Drug and Device Product Approvals; or a 
+copy of the manufacturer's package insert, approved by the FDA as part of the labeling of the drug, 
+containing its recommended uses and dosage, as well as possible adverse reactions and 
+recommended precautions in using it.  When necessary, the RO may be able to help in obtaining 
+information. 
+ 
+An unlabeled use of a drug is a use that is not included as an indication on the drug's label as 
+approved by the FDA.  FDA approved drugs used for indications other than what is indicated on the 
+official label may be covered under Medicare if the carrier determines the use to be medically 
+accepted, taking into consideration the major drug compendia, authoritive medical literature and/or 
+accepted standards of medical practice.  In the case of drugs used in an anti-cancer chemotherapeutic 
+regimen, unlabeled uses are covered for a medically accepted indication as defined in §2049.4.C. 
+ 
+Determinations as to whether medication is reasonable and necessary for an individual patient should 
+be made on the same basis as all other such determinations (i.e., with the advice of medical 
+consultants and with reference to accepted standards of medical practice and the medical 
+circumstances of the individual case).  The following guidelines identify three categories with 
+specific examples of situations in which medications would not be reasonable and necessary 
+according to accepted standards of medical practice. 
+ 
+ 
+ 
+The next page is 2-18.3 
+ 
+ 
+ 
+Rev. 1800 
+2-18.2c
+ 

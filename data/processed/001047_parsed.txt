@@ -1,0 +1,395 @@
+BEES 4.0 Products by Category 
+ 
+MAJOR ELEMENT 
+Group Element 
+Individual Element 
+BEES Product 
+ 
+Slab On Grade 
+Generic 100 % Portland Cement  
+Generic 15 % Fly Ash Cement  
+Generic 20 % Fly Ash Cement  
+Generic 20 % Slag Cement  
+Generic 35 % Slag Cement  
+Generic 50 % Slag Cement  
+Generic 5 % Limestone Cement  
+Generic 10 % Limestone Cement  
+Generic 20 % Limestone Cement  
+Lafarge Silica Fume Cement  
+Anonymous IP Cement Product  
+Lafarge NewCem Slag Cement (20 %)  
+Lafarge NewCem Slag Cement (35 %)  
+Lafarge NewCem Slag Cement (50 %)  
+Generic 35 % Fly Ash Cement  
+SUBSTRUCTURE 
+Foundations  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lafarge Portland Type I Cement  
+Basement Walls 
+Generic 100 % Portland Cement  
+Generic 15 % Fly Ash Cement  
+Generic 20 % Fly Ash Cement  
+Generic 20 % Slag Cement  
+Generic 35 % Slag Cement  
+Generic 50 % Slag Cement  
+Generic 5 % Limestone Cement  
+Generic 10 % Limestone Cement  
+Generic 20 % Limestone Cement  
+Lafarge Silica Fume Cement  
+Anonymous IP Cement Product  
+Lafarge NewCem Slag Cement (20 %)  
+Lafarge NewCem Slag Cement (35 %)  
+Lafarge NewCem Slag Cement (50 %)  
+Lafarge BlockSet  
+SUBSTRUCTURE 
+Basement Construction  
+Lafarge Portland Type I Cement  
+Beams 
+Generic 100 % Portland Cement 4KSI  
+Generic 15 % Fly Ash Cement 4KSI  
+Generic 20 % Fly Ash Cement 4KSI  
+Generic 20 % Slag Cement 4KSI  
+Generic 35 % Slag Cement 4KSI  
+Generic 50 % Slag Cement 4KSI  
+Generic 5 % Limestone Cement 4KSI  
+Generic 10 % Limestone Cement 4KSI  
+Generic 20 % Limestone Cement 4KSI  
+Generic 100 % Portland Cement 5KSI  
+Generic 15 % Fly Ash Cement 5KSI  
+Generic 20 % Fly Ash Cement 5KSI  
+Generic 20 % Slag Cement 5KSI  
+Generic 35 % Slag Cement 5KSI  
+SHELL 
+Superstructure  
+Generic 50 % Slag Cement 5KSI  
+ 
+1
+MAJOR ELEMENT 
+Individual Element 
+Group Element 
+BEES Product 
+ 
+Generic 5 % Limestone Cement 5KSI  
+Generic 10 % Limestone Cement 5KSI  
+Generic 20 % Limestone Cement 5KSI  
+Lafarge Silica Fume Cement 4KSI  
+Anonymous 4KSI Product  
+Lafarge NewCem Slag Cement 4KSI (20 %)  
+Lafarge NewCem Slag Cement 4KSI (35 %)  
+Lafarge NewCem Slag Cement 4KSI (50 %)  
+Lafarge Silica Fume Cement 5KSI  
+Anonymous 5KSI Product  
+Lafarge NewCem Slag Cement 5KSI (20 %)  
+Lafarge NewCem Slag Cement 5KSI (35 %)  
+Lafarge NewCem Slag Cement 5KSI (50 %)  
+Lafarge Portland Type I Cement 4KSI  
+Lafarge Portland Type I Cement 5KSI  
+Columns 
+Generic 100 % Portland Cement 4KSI  
+Generic 15 % Fly Ash Cement 4KSI  
+Generic 20 % Fly Ash Cement 4KSI  
+Generic 20 % Slag Cement  
+Generic 35 % Slag Cement 4KSI  
+Generic 50 % Slag Cement 4KSI  
+Generic 5 % Limestone Cement 4KSI  
+Generic 10 % Limestone Cement 4KSI  
+Generic 20 % Limestone Cement 4KSI  
+Generic 100 % Portland Cement 5KSI  
+Generic 15 % Fly Ash Cement  5KSI  
+Generic 20 % Fly Ash Cement  5KSI  
+Generic 20 % Slag Cement 5KSI  
+Generic 35 % Slag Cement 5KSI  
+Generic 50 % Slag Cement 5KSI  
+Generic 5 % Limestone Cement 5KSI  
+Generic 10 % Limestone Cement 5KSI  
+Generic 20 % Limestone Cement 5KSI  
+Lafarge Silica Fume Cement 4KSI  
+Anonymous 4KSI Product  
+Lafarge NewCem Slag Cement 4KSI (20 %)  
+Lafarge NewCem Slag Cement 4KSI (35 %)  
+Lafarge NewCem Slag Cement 4KSI (50 %)  
+Lafarge Silica Fume Cement 5KSI  
+Anonymous 5KSI Product  
+Lafarge NewCem Slag Cement 5KSI (20 %)  
+Lafarge NewCem Slag Cement 5KSI (35 %)  
+Lafarge NewCem Slag Cement 5KSI (50 %)  
+Lafarge Portland Type I Cement 4KSI  
+SHELL 
+Superstructure  
+Lafarge Portland Type I Cement 5KSI  
+Roof Sheathing 
+Generic Oriented Strand Board Sheathing  
+SHELL 
+Superstructure  
+ 
+Generic Plywood Sheathing  
+Exterior Wall Systems 
+SHELL 
+Exterior Enclosure 
+CENTRIA Formawall Insulated Composite Panel  
+SHELL 
+Exterior Wall Finishes 
+ 
+2
+MAJOR ELEMENT 
+Individual Element 
+Group Element 
+BEES Product 
+ 
+Generic Brick & Mortar  
+Generic Stucco  
+Generic Aluminum Siding  
+Generic Cedar Siding  
+Generic Vinyl Siding  
+Trespa Meteon Panels  
+Anonymous Brick & Mortar Product 1  
+Headwaters Scratch & Brown Stucco Type S  
+Headwaters FRS  
+Anonymous Brick & Mortar Product 2  
+Headwaters Masonry Cement Type S  
+Dryvit EIFS Cladding Outsulation  
+Exterior Enclosure 
+Dryvit EIFS Cladding Outsulation Plus  
+Wall Insulation 
+Generic Blown Cellulose R-13  
+Generic Fiberglass Batt R-19  
+Generic Fiberglass Batt R-15  
+Generic Blown Mineral Wool R-13  
+Generic Fiberglass Batt R-13  
+Anonymous R-13 Product  
+Anonymous R-15 Product  
+SHELL 
+Exterior Enclosure 
+Anonymous R-19 Product  
+Framing 
+Generic Steel Framing  
+Generic Wood Framing--Treated  
+SHELL 
+Exterior Enclosure 
+Generic Wood Framing--Untreated  
+Wall Sheathing 
+Generic Oriented Strand Board Sheathing  
+SHELL 
+Exterior Enclosure 
+Generic Plywood Sheathing  
+Exterior Sealers and Coatings 
+BioPreserve SoyGuard Wood Sealer  
+SHELL 
+Exterior Enclosure 
+Anonymous Masonry Waterproofing Product  
+Roof Coverings 
+Generic Asphalt Shingles--Black  
+Generic Asphalt Shingles--Coral  
+Generic Asphalt Shingles--Dk Brown  
+Generic Asphalt Shingles--Dk Gray  
+Generic Asphalt Shingles--Green  
+Generic Asphalt Shingles--Lt Brown  
+Generic Asphalt Shingles--Lt Gray  
+Generic Asphalt Shingles--Tan  
+Generic Asphalt Shingles--White  
+Generic Asphalt Shingles  
+Generic Clay Tile  
+Generic Clay Tile--Red  
+Generic Fiber Cement--Lt Gray/Lt Brown  
+Generic Fiber Cement Shingles  
+Generic Fiber Cement--Dk Color  
+SHELL 
+Roofing 
+Generic Fiber Cement--Med Color  
+Ceiling Insulation 
+Generic Blown Cellulose R-38  
+SHELL 
+Roofing 
+Generic Fiberglass Batt R-38  
+ 
+3
+MAJOR ELEMENT 
+Individual Element 
+Group Element 
+BEES Product 
+ 
+Generic Blown Mineral Wool R-38  
+Generic Blown Fiberglass R-38  
+Anonymous R-38 Product  
+Roof Coatings 
+SHELL 
+Roofing 
+Prime Coatings Utilithane  
+Partitions 
+Generic Gypsum Board  
+Trespa Virtuon Panels  
+Trespa Athlon Panels  
+P&M Plastics Altree Biobased Panels 
+INTERIORS 
+Interior Construction 
+Anonymous Biobased Panel Product 2  
+Lockers 
+Trespa Virtuon Panels  
+INTERIORS 
+Interior Construction 
+Trespa Athlon Panels  
+Fabricated Toilet Partitions 
+Trespa Virtuon Panels  
+INTERIORS 
+Fittings 
+Trespa Athlon Panels  
+Wall Finishes to Interior Walls 
+Generic Virgin Latex Paint  
+Generic Consolidated Latex Paint  
+INTERIORS 
+Interior Finishes 
+Generic Reprocessed Latex Paint  
+Floor Coverings 
+Generic Ceramic Tile w/ Recycled Glass  
+Generic Linoleum Flooring  
+Generic Vinyl Composition Tile  
+Generic Composite Marble Tile  
+Generic Terrazzo  
+Generic Nylon Carpet Tile  
+Generic Wool Carpet Tile  
+Generic Nylon Carpet Tile/Low-VOC Adhesive  
+Generic Wool Carpet Tile/Low-VOC Adhesive  
+Generic Nylon Carpet Broadloom  
+Generic Wool Carpet Broadloom  
+Generic Nylon Carpet Broadloom/Low-VOC  
+Generic Wool Carpet Broadloom/Low-VOC  
+C&A ER3 Modular Tile, Climate Neutral  
+Forbo Linoleum  
+Anonymous Carpet Tile Product  
+C&A ER3 Cushion Roll Goods, Climate Neutral   
+UTT Soy Backed Nylon Broadloom  
+C&A Ethos Modular Tile, Climate Neutral  
+C&A Ethos Cushion Roll Goods,Climate Neutral  
+C&A ER3 Modular Tile  
+C&A ER3 Cushion Roll Goods  
+C&A Ethos Modular Tile  
+C&A Ethos Cushion Roll Goods  
+IFC Transformation Carpet Tile, Climate Neutral  
+J&J Industries Certificate Broadloom Carpet  
+Mohawk Regents Row Broadloom Carpet  
+Mohawk Meritage Broadloom Carpet  
+Natural Cork Parquet Tile  
+INTERIORS 
+Interior Finishes 
+Natural Cork Floating Floor Plank  
+ 
+4
+MAJOR ELEMENT 
+Individual Element 
+Group Element 
+BEES Product 
+ 
+Forbo Linoleum/ No-VOC Adhesive  
+UTT Soy Backed Nylon Broadloom/Low-VOC  
+IFC Sabi Carpet Tile, Climate Neutral  
+BPS Capri Broadloom Carpet  
+BPS Capri Broadloom, Climate Neutral  
+BPS Scan Broadloom Carpet  
+BPS Scan Broadloom Carpet, Climate Neutral  
+BPS UPC Carpet Tile 
+BPS UPC Carpet Tile, Climate Neutral  
+IFC Entropy Carpet Tile, Climate Neutral  
+Ceiling Finishes 
+Trespa Virtuon Panels 
+INTERIORS 
+Interior Finishes 
+Trespa Athlon Panels 
+Fixed Casework 
+Trespa Virtuon Panels 
+EQUIPMENT & 
+FURNISHINGS 
+Furnishings 
+Trespa Athlon Panels 
+Chairs 
+Herman Miller Aeron Office Chair 
+Herman Miller Ambi Office Chair 
+EQUIPMENT & 
+FURNISHINGS 
+Furnishings 
+Generic Office Chair 
+EQUIPMENT & 
+Table Tops, Counter Tops, Shelving 
+FURNISHINGS 
+Trespa Toplab Plus Panels 
+Furnishings 
+Trespa Athlon Panels 
+Roadway Dust Control 
+Anonymous Roadway Dust Control Product  
+BUILDING SITEWORK 
+Site Improvements 
+Environmental Dust Control Dustlock 
+Parking Lot Paving 
+Generic 100 % Portland Cement 
+Generic 15 % Fly Ash Cement 
+Generic 20 % Fly Ash Cement 
+Asphalt with GSB88 Seal-Bind Maintenance 
+Generic Asphalt with Traditional Maintenance 
+Anonymous IP Cement Concrete Product  
+BUILDING SITEWORK 
+Site Improvements 
+Lafarge Alpena Type I Cement 
+Fertilizers 
+Perdue MicroStart 60 Fertilizer 
+BUILDING SITEWORK 
+Site Improvements 
+Four All Seasons Fertilizer 
+Transformer Oil 
+Generic Mineral Transformer Oil 
+Generic Silicone Transformer Oil 
+Cooper Envirotemp FR3 
+ABB BIOTEMP 
+BUILDING SITEWORK 
+Site Electrical Utilities 
+Generic Biobased Transformer Oil 
+Carpet Cleaners 
+Anonymous Carpet Cleaning Product  
+BUILDING MAINTENANCE 
+Cleaning Products 
+Racine HOST Dry Carpet Cleaning System  
+Floor Stripper 
+BUILDING MAINTENANCE 
+Cleaning Products 
+Nano Green Floor Stripper 
+Glass Cleaners 
+Anonymous Glass Cleaning Product  
+BUILDING MAINTENANCE 
+Cleaning Products 
+Spartan Green Solutions Glass Cleaner 
+BUILDING MAINTENANCE Bath and Tile Cleaner 
+ 
+5
+MAJOR ELEMENT 
+Individual Element 
+Group Element 
+BEES Product 
+ 
+Cleaning Products 
+Spartan Green Solutions Restroom Cleaner 
+Grease & Graffiti Remover 
+Anonymous Graffiti Remover Product 1  
+Anonymous Graffiti Remover Product 2  
+BUILDING MAINTENANCE 
+Cleaning Products 
+VertecBio Gold Graffiti Remover 
+Adhesive and Mastic Removers 
+Franmar BEAN-e-doo Mastic Remover 
+BUILDING REPAIR & REMO
+Remodeling Products 
+Nano Green Mastic Remover 
+ 
+ 
+6

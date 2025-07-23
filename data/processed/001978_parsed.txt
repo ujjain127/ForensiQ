@@ -1,0 +1,3484 @@
+JULY 20, 2007
+This Publication was produced for review by the United States Agency for International 
+Development.  It was prepared by AMEX International, Inc.
+  
+USAID/SIERRA LEONE 
+DIAMOND SECTOR PROGRAM 
+EVALUATION
+ 
+USAID/SIERRA LEONE 
+DIAMOND SECTOR 
+PROGRAM EVALUATION 
+ 
+ 
+ 
+1615 L Street, NW 
+Suite 340 
+Washington, DC 20036 
+ 
+Submitted by: 
+Jean Pierre Tutusaus, Ph.D 
+Sue Nelson  
+Arthur Abadje 
+AMEX International, Inc. 
+ 
+ 
+Contract No: DFD-1-00-05-00245-00 
+Task Order No. 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DISCLAIMER 
+The author’s views expressed in this publication do not necessarily reflect the views of 
+the United States Agency for International Development or the United States 
+Government.
+ 
+i 
+CONTENTS 
+ 
+CONTENTS................................................................................................ I 
+ABBREVIATIONS AND ACCRONYMS................................................... III 
+EXECUTIVE SUMMARY..........................................................................IV 
+SECTION 1: INTRODUCTION .................................................................. 1 
+1. Diamond sector in Sierra Leone.................................................. 1 
+2. USAID Assistance....................................................................... 7 
+3. USAID Diamond Program Evaluation ......................................... 8 
+SECTION 2: PROGRAM ACTIVITIES AND RESULTS.......................... 10 
+2.1 Intermediate Result 1: Improved GOSL diamond management 
+systems and incentives to use them effectively ............................ 10 
+2.2 Intermediate Result 2: Active civil society supporting improved 
+public and private diamond management ..................................... 14 
+2.3 Intermediate Result 3: Private sector diamond businesses that 
+are more transparent, competitive and responsive to community 
+interests ........................................................................................ 18 
+2.4  Intermediate Result 4: Improved community diamond 
+management systems and incentives to use them effectively....... 20 
+2.5 Intermediate Result 5: Improved enabling environment for 
+improved diamond management................................................... 23 
+SECTION 3: PROGRAM DESIGN AND IMPLEMENTATION ISSUES .. 25 
+3.1 Program Design ...................................................................... 25 
+3.2 Implementation Issues ............................................................ 27 
+SECTION 4: CONCLUSIONS AND RECOMMENDATIONS .................. 29 
+4.1 Achievement of Strategic Objective: Sierra Leone diamond 
+trade contributes positively to peace and prosperity ..................... 29 
+4.2 Recommendations for future programming............................. 30 
+ANNEX A............................................................................................... A-1 
+Integrated Diamond Management Program Results Framework .B-1 
+ANNEX B............................................................................................... B-1 
+Persons Interviewed.....................................................................B-1 
+ANNEX C............................................................................................... C-1 
+Evaluation Methodology.............................................................. C-1 
+ANNEX D............................................................................................... D-1 
+References.................................................................................. D-1 
+ 
+ii 
+ANNEX E................................................................................................E-1 
+IDMP Management Chart ............................................................E-1 
+ANNEX F................................................................................................F-1 
+DACDF Utilization Profiles ...........................................................F-1 
+ANNEX G .............................................................................................. G-1 
+Scope of Work............................................................................. G-1 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                 iii 
+ 
+ABBREVIATIONS AND ACCRONYMS 
+CRS 
+Catholic Relief Services 
+CSOs 
+Civil Society Organizations 
+DACDF 
+Diamond Area Community Development Fund 
+DEPAC 
+Development Partnership Committee 
+DFID 
+Department for International Development 
+DIPAM 
+Diamond Policy and Management Project 
+EITI 
+Extractive Industry Transparency Initiative 
+GOSL 
+Government of Sierra Leone 
+GW 
+Global Witness 
+HLSC 
+High Level Steering Committee 
+IDMP 
+Integrated Diamond Management Program 
+IR 
+Intermediate Results 
+MMO 
+Mines Monitoring Officer 
+MMR 
+Ministry of Mineral Resources 
+MOCKY 
+Movement of Concerned Kono Youth 
+MSI 
+Management Systems International 
+NACE 
+National Advocacy Coalition on Extractives 
+NCSA 
+National Commission for Social Action 
+NDMC 
+National Diamond Mining Company 
+NRA 
+National Revenue Authority 
+OTI 
+Office of Transition Initiatives 
+PDA 
+Peace Diamond Alliance    
+PDAP 
+Peace Diamond Alliance Program (Cooperative Agreement)  
+PIU 
+Public Information Unit 
+RUF 
+Revolutionary United Front  
+SLST 
+Sierra Leone Selection Trust 
+SST 
+Small Stone Training 
+USG 
+US Government 
+UNDP 
+United Nations Development Programme 
+UNAMSIL United Nations Mission in Sierra Leone 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                 iv 
+ 
+EXECUTIVE SUMMARY 
+ 
+USAID has supported the development of the Sierra Leone diamond sector since 1999. 
+During that time both the diamond sector and Sierra Leone have undergone major 
+transitions - from a time of civil war and conflict diamonds to a time of peaceful 
+democratic governance and the promotion of diamonds for development. The diamond 
+mining sector has also evolved, returning to pre-war patterns of artisanal mining that in 
+itself is being overcome by mechanized mining of worked out alluvial diamond fields.  
+ 
+The USAID program in Sierra Leone made a major contribution to this national process 
+of reintegration and transformation and ending the era of conflict diamonds. With the 
+changing times, it now needs to start thinking strategically about how it can best 
+address the challenges this sector and its communities will face in the coming decades.   
+ 
+BACKGROUND  
+USAID support to the diamond sector has been provided primarily through a series of 
+cooperative agreements with Management Systems International (MSI). Initial efforts 
+organized by the USAID Office of Transition Initiatives (OTI) focused on stemming the 
+flow of conflict diamonds through reform of public policies that addressed its root causes 
+(smuggling, exploitative systems of production and marketing, and underdeveloped 
+financial services).1 The end of the war in 2002 enabled USAID’s assistance to develop 
+into a more integrated diamond management program at both the policy and grassroots 
+artisanal mining level, which is the focus of this evaluation. That program is still on-
+going and is scheduled to end December 2007. 
+ 
+USAID commissioned this evaluation to: (1) determine the effectiveness of its diamond 
+sector interventions, focusing on those undertaken since 2004; (2) determine lessons 
+learned and best practices; and (3) help inform future diamond program design. The 
+evaluation was undertaken in Sierra Leone in May 2007 by an independent team of 
+experts in the mining sector and democracy and governance fields. Its findings and the 
+information in this report are based on extensive discussions in Washington, DC and 
+within the country and with key programmatic actors abroad via telephone and e-mail, 
+visits to the diamondiferous areas and mines, and an extensive review of the existing 
+documentation.  
+ 
+As the main focus of the evaluation are the activities undertaken under the current 
+agreement, entitled the Integrated Diamond Management Program (IDMP), the 
+evaluation focused on IDMP’s achievement of its Strategic Objective - - Sierra Leone 
+diamond trade contributes positively to peace and development and its five intermediate 
+results (IR): 
+IR1: Improved Government of Sierra Leone (GOSL) diamond management 
+systems and incentives to use them effectively; 
+                                                 
+1 USAID, Sierra Leone: “Conflict” Diamonds, Progress Report on Diamond Policy and Development Program, p 
+3. 2001 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                 v 
+ 
+IR2: Active civil society supporting improved public and private diamond 
+management; 
+IR3: Private sector diamond businesses that are more transparent, competitive 
+and responsive to community needs; 
+IR4: Improved community diamond management systems and incentives to use 
+them effectively; and 
+IR5: Improved enabling environment for improved diamond management. 
+At the same time, this program was a continuation of earlier efforts and many of the 
+findings discussed under these IRs are attributable directly to those earlier program 
+agreements. For ease of reference purposes, these pre-IDMP activities are collectively 
+referred to as the “diamond program” in the Executive Summary. 
+ 
+FINDINGS  
+ 
+The evaluation found that USAID and US Government (USG) assistance made a 
+major impact towards the development of a regulated, more transparent and more 
+accountable diamond sector in Sierra Leone. This contributed towards meeting its 
+Strategic Objective: Sierra Leone diamond trade contributes positively to peace and 
+development. The most significant achievements of the diamond program were made 
+early on, while later years were spent on smaller scale activities and experimental pilots 
+which did not yield the same results. The program’s activities, issues and 
+accomplishments also need to be considered within the larger context of international 
+and national activities to improve the management of the diamond sector and the lives 
+of artisanal miners. The results also need to be taken into consideration with the 
+changing face of Sierra Leone in its transition from war to peace and development as 
+well as the changes in the international diamond mining sector.  
+IR1: Improved GOSL diamond management systems and incentives to use them 
+effectively 
+ 
+The evaluation found that USAID contributed directly towards improving diamond 
+management systems. Starting in 1999, it provided technical assistance to the 
+Strategic Mineral Resource Commission and later to the High Level Steering Committee 
+(HLSC) which was established as a donor and GOSL forum for diamond policy 
+discussion. The creation of the HLSC in 2003 was a direct result of USG initiative and 
+some of its major accomplishments included the adoption of the Core Mineral Policy 
+which provided the framework to regularize operations in the diamond sector and the 
+distribution of diamond development funds2 back to the diamondiferous chiefdom 
+communities through the elected district councils rather than directly to the chiefs.   
+ 
+                                                 
+2 This fund entitled the Diamond Area Community Development Fund (DACDF) was created in 2001 as a means to 
+return some of the revenue generated from diamond areas, back to the diamond producing communities. 
+Distributions are based on the number of licenses issued per chiefdom.  
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                 vi 
+ 
+The HLSC proved to be an important mechanism early in the project but differing 
+expectations between government and the donors on the purpose and utility of the 
+meeting led to gradual government disengagement. The HLSC has been dormant since 
+its last meeting in Oct 2006. This forum still appears to be a useful mechanism for donor 
+– government coordination and exchange of information on the diamond sector given 
+the critical issues still facing the sector, such as international smuggling and 
+standardizing sub-regional regulation. The HLSC was a useful mechanism that should 
+be resuscitated, with its objectives updated so that it becomes a pro-active policy and 
+effective monitoring mechanism for both government and donor.   
+ 
+The other major activity undertaken under this IR was the establishment of a Public 
+Information Unit (PIU) in the Ministry of Mineral Resources (MMR) to disseminate 
+factual information on the diamond sector. Work on its establishment stopped in 2006 
+after IDMP- MMR disagreements over the process. The distribution of timely, factual 
+information remains a critical issue for the MMR and the effort to establish this unit 
+should be renewed. 3   
+IR2: Active civil society supporting improved public and private diamond 
+management 
+ 
+The evaluation found an active number of civil society organizations engaged in 
+efforts to improve transparency, efficiency and accountability in the mining 
+sector. USAID’s diamond program made a substantial contribution to this effort early on 
+by acting as a catalyst in bringing together, and initially enabling, a coalition of Civil 
+Society Organizations (CSOs), international Non-Governmental Organizations (NGOs), 
+and the Ministry of Mineral Resources to inform communities on the new Core Mining 
+Policies and the use of the Diamond Area Community Development Fund (DACDF). 
+This coalition, now called the National Advocacy Coalition on Extractives (NACE), made 
+a significant contribution to the improvements in management of the DACDF and 
+diamond sector policy and is still actively advocating and monitoring.  
+   
+However, the diamond program’s subsequent move towards the creation of a new 
+Peace Diamond Alliance (PDA) in 2002 did not yield the same dividends. The concept 
+of a coalition that brought together civil society, government, donors and the industry for 
+improvements to the sector was a viable one, but the strategy of turning the PDA 
+Executive Committee in Kono into an organization to receive and manage donor funding 
+for activities in the sector, with the diamond program serving as its Secretariat, was not.  
+ 
+Although the larger PDA coalition has not met as a group since 2005, a “PDA, Ltd” was 
+registered and received institutional strengthening from IDMP, but never really 
+functioned. At the same time, and until only recently, the IDMP administered many of its 
+programs under the label “PDA” which provided an illusion of an actively functioning 
+indigenous Peace Diamond Alliance.4  
+                                                 
+3 The PIU has a line item in the national budget thanks to HLSC and Technical Committee efforts.  
+4 The program did use some CSOs that were members of the PDA for sensitization activities early on, and later used 
+individual members of these CSOs as trainers for some of its programs and workshops.  
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                 vii 
+ 
+The second PDA coalition established in Tongo Fields never moved beyond the 
+coalition stage because of the issues with PDA Kono, but in fact still exists as a coalition 
+and meets when convened by IDMP to discuss immediate issues and concerns. The 
+PDA in Tongo Fields has made some impact on increasing awareness on 
+environmental issues and reducing illegal and under-age mining in the area. The PDA 
+coalition model used in Tongo Fields is more viable than the idea of creating new 
+institutions which was used in Kono and which should not be replicated.     
+ 
+A continuing part of IDMP was the small stone training (SST) which it started in 2004 
+as a means to empower diggers. This was accompanied by widespread community 
+meetings on the broader issues of the DACDF, illegal mining, and other issues such as 
+child labor in the mines. By 2007 over 600 persons a year received SST, about 10% of 
+those women. The course, given at the community level, is widely popular but the first-
+come, first-serve, literate-only classes are not targeted, which limit its potential impact. 
+Training and capacity building remains a critical need at every level, but with limited 
+resources, future training should be directly targeted strategically on essential needs 
+such as MMR in-service training and should reflect the trend towards mining in the 
+formal sector.      
+IR3: Private sector diamond businesses that are more transparent, competitive, 
+and responsive to community needs 
+ 
+The evaluation found that significant improvements have been made in this 
+sector from the start of the program. Most are directly attributable to the return of 
+state control over the industry and the Kimberley Certificate Process. The diamond 
+program contributed to this process throughout its activities. In addition, the program 
+consistently reported on industry trends, exports and industrial mining operations within 
+Sierra Leone in its quarterly reports and to the HLSC which provided a useful tool for 
+policy makers for both monitoring and making policy adjustments.   
+ 
+The artisanal mining sector is moving towards small scale mechanized mining. Issues 
+such as corporate social responsibility, employment conditions, and environmental 
+impact of mining operations are growing in importance. This is the future of artisanal 
+mining and a transition that future projects should assist. Future programming should 
+follow the evolution of this sector using existing structures and channels of information 
+to improve relations and understanding between the industrial mining companies and 
+communities. 
+IR4: Improved community diamond management systems and incentives to use 
+them effectively 
+ 
+The evaluation found that the intended result of this IR4, which was the creation 
+of sustainable, diamond cooperatives working in partnership with international 
+buyers to sell certificated stones directly from its production site, was not met.  
+ 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                 viii 
+ 
+Using a PDA label, the program successfully attracted two international firms to invest in 
+the process and five local mining cooperatives which agreed to produce diamonds 
+under the scheme, and it hired Global Witness (GW) as a monitor to document the 
+process. It intended to implement an “Earth to Export” certification scheme at the 
+production site to eliminate the problem of smuggling. The program was fraught with 
+problems including late arrival of funding and the alleged allocation of diamond-poor 
+land. It started without geological surveys or feasibility studies. The end result was a 
+return to investors of about $2,000 on their $110,000 investment and cooperative 
+members uninterested in continuing in the cooperative scheme without continued 
+outside capital investments. Future programming to improve community diamond 
+management systems and incentives to use them should instead focus on improving 
+information flows, building capacity and knowledge using existing formal and traditional 
+structures and organizations. The evaluation does not recommend the continuation of 
+further investment in diamond cooperatives by this program.  
+ 
+Piloted in 2005, a “SMARTER mining concept” was developed by IDMP as a training 
+course to improve artisanal mining procedures. It was a pilot scheme to introduce 
+improved mining techniques to limit some of the environmental damage associated with 
+mining and to encourage communities to mine as efficiently as possible. The course 
+could have been a valuable tool if it had been targeted towards the artisanal miners in 
+the sector, but it appears to have been designed mainly for cooperatives. The 
+SMARTER program should be adapted so that it can be used to assist the larger 
+population of artisanal miners to improve their production in well selected areas, reduce 
+illegal mining and encourage better use of human resources as the artisanal mining 
+sector becomes more mechanized. The evaluation agrees with the plan to 
+institutionalize the program in an existing center, such as the Eastern Polytechnic, so 
+that it is available to miners on a sustainable and professional basis.  
+IR5: Improved enabling environment for improved diamond management. 
+ 
+The enabling environment has completely turned around since the start of USAID 
+assistance in 1999. The principal factors for this improvement were the end of the war, 
+the return of GOSL control over its diamond mining sector, the restoration of 
+democratically elected government across Sierra Leone and the Kimberley Process.    
+ 
+The DACDF has served as an incentive for chiefdoms and local governments to 
+become interested in licensed mining as the return of revenues is dependent on the 
+number of licenses issued in their areas. Monitoring through workshops, site visits and 
+community discussions directly resulted in uncovering outstanding allocations of the 
+funds and improving accountability over its end use. The evaluation finds that the 
+DACDF monitoring activities undertaken by the diamond program achieved their 
+purpose and that monitoring and improving accountability over the use of the fund 
+should now be incorporated into existing CSO monitoring mechanisms and donor 
+decentralization, good governance and integrated rural development programs.      
+ 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                 ix 
+ 
+PROGRAM DESIGN AND IMPLEMENTATION ISSUES  
+ 
+The program used an integrated approach of addressing key policy level issues and 
+linking them with grassroots concerns and needs. This proved to be an effective 
+approach when dealing with policy and accountability issues, such as improving the 
+Core Mineral Policies and distribution mechanisms for the DACDF. This approach 
+should be continued in future programming. But the evaluation found that many of the 
+underlying assumptions for the design of a community based mining program in 2002 
+proved to be unfounded as Sierra Leone returned to peace and earlier traditions of 
+mining. Follow on programs continued without rethinking these basic assumptions even 
+though they were not shared by others working in the sector and who had changed 
+directions.  
+ 
+Program implementation was hampered by the short-term nature of some of the 
+agreements which required time/cost extensions or new agreements, sometimes with 
+last minute contractual actions. IDMP also lacked a consistent set of targets and 
+indicators for its IRs which made tracking of its actual performance difficult.  
+ 
+CONCLUSIONS AND RECOMMENDATIONS  
+ 
+The diamond program supported by USAID was an important contributor in the 
+international process to help the GOSL regain control over its diamond mining sector 
+and stem the flow of conflict diamonds. But most of the program’s major 
+accomplishments were made in these early years and before the IDMP program 
+started. Although most of the other partners and donors were going down different 
+tracks by 2004 the program continued unchanged even when it became clear that some 
+of its strategic choices and underlying assumptions were not accurate. Assistance to the 
+sector needs to be rethought and reformulated so it better reflects the needs of Sierra 
+Leone in the management of its diamond sector for the next decade.  
+ 
+In that regard, the evaluation recommends future programming use an integrated 
+approach, done in coordination with the upcoming large-scale programs of other donors 
+in the mining sector, and uses existing institutions to:  
+ 
+ Continue work at the policy level, including regenerating the HLSC as a dynamic 
+tool for policy makers and donors. Among the issues the HLSC should address 
+are strengthening the government’s capacity for negotiation with international 
+mining companies and interests; and developing a strategic vision for the future 
+of the mining sector. 
+ Revisit the original concept of the Peace Diamond Alliance, its legal basis, 
+structures, and objectives under a national umbrella.  
+ Integrate program strategy and activities with other donor programs and existing 
+organizations, such as the World Bank, DFID, NACE and the Union of Mining 
+Workers in Sierra Leone.  
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                 x 
+ 
+ Focus on professionalizing the mining sector rather than production due to the 
+diminishing levels of alluvial diamond resources and the move towards 
+mechanized small scale mining. A concept to explore is establishing a 
+professional resource center for training in the mining sector with the full-time 
+presence of an independent diamond valuator.  
+ Programs should target reducing the informal sector and encourage the excess 
+workforce to move to the formal sector and other income generating activities 
+such as agriculture.  
+ IDMP activities did not include sub-regional coordination or activities.  The 
+current IDMP program should become actively involved in the efforts to 
+harmonize Mano River Union policies and regulations in the diamond sector.  Its 
+position as Technical Secretariat of the HLSC places it in a unique position to 
+assist the GOSL in these endeavors.     
+ 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              1 
+ 
+SECTION 1: INTRODUCTION  
+ 
+1. DIAMOND SECTOR IN SIERRA LEONE 
+History and Context  
+ 
+Sierra Leone is rich in natural resources, including diamonds. Its diamond fields cover 
+almost a forth of the country or an area of about 7,700 sq miles.  Diamonds have been 
+found in the North, but the main diamond producing areas are in the southeast, in the 
+drainage areas of the Sewa, Bafi, Woa, and Mano rivers. 
+ 
+The Geological Survey of Sierra 
+Leone5 first discovered diamonds in 
+the Gbogbora stream, Kono district in 
+1930. Prospecting was then continued 
+by the Consolidated African Selection 
+Trust Ltd., which later formed a 
+subsidiary company, the Sierra Leone 
+Selection Trust Ltd. (SLST). In 1935, 
+the company was granted a monopoly 
+to prospect, produce, and market 
+diamonds. That arrangement was 
+changed in 1955, when the company’s 
+operations were confined to an area of 
+310 sq miles in the Kono and Kenema 
+districts. Also in 1955, the introduction 
+of 
+the 
+“Alluvial 
+Diamond 
+Mining 
+Scheme” led to the proliferation of 
+artisanal mining activities and by 1956 
+there were an estimated 75,000 illicit 
+miners in Kono District.6  
+ 
+The National Diamond Mining Company (NDMC) was formed in 1971 in which the 
+Government acquired 51% of the shares and SLST 49%. They were liquidated in 1993. 
+In 1999 the Koidu Holdings mining company was awarded the old NDMC lease areas in 
+Koidu and subsequently acquired the Tongo lease area, which is now mined for 
+kimberlite7 diamonds 
+ 
+                                                 
+5 Map from PAC, Sierra Leone, Diamonds and Human Security, 2002 p 5 
+6 Ibid.  
+7 Kimberlites are the primary host rocks for diamonds. In Tongo, reserves are estimated at 6.3 million carats to a 
+depth of 600m. 
+ 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              2 
+ 
+By 1998, approximately 55 million carats had been produced (officially) in Sierra Leone8 
+and estimates of (pre-war) artisanal miners at 500,000.9 Diamonds fueled civil war in the 
+region (“conflict diamonds”), including the decade long war in Sierra Leone where the 
+Revolutionary United Front (RUF) took over the diamond fields in 1994. Although a 
+peace accord was signed in 1999, conflict continued and the war did not officially end 
+until 2002. To stem the tide of conflict diamonds and deny RUF a market, the UN 
+Security Council passed Resolution 1306 in 2000 that prohibited the import of diamonds 
+from Sierra Leone until a certification process was established. The biggest 
+preoccupation of donors at the time was peace and security. Government control over 
+all of Sierra Leone was accomplished in 2002 and democratic governance was 
+established down to the local levels in 2004 after local and district elections.    
+The Kimberley Process 
+ 
+The Kimberley Process Certification Scheme was established in January 2003. The 
+scheme requires governments to certify that shipments of rough diamonds had legal 
+origins. Seventy two countries (including those of the EC which count as one) currently 
+participate in the Kimberley Process. It includes all major diamond producing and 
+trading countries. All signatories have passed national laws to establish export/import 
+controls aimed at keeping out conflict diamonds.  
+ 
+Since its introduction in Sierra Leone, the government expanded its control system from 
+the district to the chiefdom level by establishing Mines Monitoring Officers (MMO) at 
+these levels. Miners, dealers, and exporters must provide records and receipts of all 
+transactions to the local mining office for reconciliation. The implementation of the Core 
+Mining Policy and Sierra Leone’s efforts to comply with the Kimberley Process have 
+resulted in a significant increase in legal mining licenses, from 100 in 2002, to 2,500 in 
+2006. 
+ 
+Although the Kimberley Process seems to be a success in its efforts to stop the flow of 
+conflict diamonds, there is still significant smuggling of illicit diamonds, estimated at 
+between 30% and 35%,10 some of it linked to money laundering. Improved government 
+action is needed to reinforce the KPC and address this illicit trade, such as increased 
+MMO coverage and control over artisanal diamond areas and increased verification 
+mechanisms over miners, dealers, and exporters. 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+8 PAC, Sierra Leone, Diamonds and Human Security, 2002.  
+9 PAC, Diamond Industry Review, Sierra Leone 2004 p 3 
+10 Percentage of trade that is illicit varies according to source. Dealers and exporters say 5-10% while other 
+estimates go as high as 90%.  
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              3 
+ 
+DIAMOND EXPORTS 1992 TO 200611 
+ 
+ 
+ 
+ 
+ 
+YEARS 
+CARATAGE 
+VALUE $ 
+P/CT
+CERTIFICATION 
+1992 
+         331,800.11 
+   31,290,012.91 
+94 
+1993 
+         157,996.58 
+   20,167,283.83 
+128 
+1994 
+         255,107.88 
+   30,196,365.42 
+118 
+1995 
+         213,775.91 
+   22,002,272.49 
+103 
+1996 
+         270,452.32 
+   28,307,188.73 
+105 
+1997 
+         114,438.84 
+   11,802,844.78 
+103 
+1998 
+          15,818.04 
+    1,780,337.41 
+113 
+1999 
+           9,320.00 
+    1,244,825.34 
+134 
+NO CERTIFICATION 
+SCHEME 
+2000 
+          77,372.39 
+   10,066,920.81 
+130 
+2001 
+         222,519.83 
+   26,022,492.27 
+117 
+2002 
+         351,859.23 
+   41,732,130.30 
+119 
+CERTIFICATE OF 
+ORIGIN 
+2003 
+         506,723.37 
+   75,969,753.32 
+150 
+2004 
+         691,756.92 
+  126,652,634.26 
+183 
+2005 
+         668,709.15 
+  141,940,243.71 
+212 
+2006 
+         603,558.79 
+  125,304,841.00 
+208 
+KP CERTIFICATION 
+SCHEME 
+ 
+Diamond mining sector 2007 
+ 
+The diamond sector has evolved since the conflict ended and democratic governance 
+was restored. Three main trends are evident:  
+ Increased governmental control over the mining sector through laws, regulations, 
+monitoring, and decentralization;  
+ Formalizing of the alluvial mining sector; including the creation of new mining 
+companies; increased awareness of international standards and regulations; 
+environmental protection; enhanced role for women; increased knowledge levels 
+of miners from training, and strengthened trade unions; and 
+ Decreasing alluvial diamond reserves that will result in the reduction in alluvial 
+miner activities and require increased use of machinery and capital. 
+Organizing workers outside of corporate mining is becoming more common. The United 
+Mines Workers Union, created in 1948 and whose Kono staff were killed by RUF during 
+the war, reconstituted in 2000. Currently it has 3,000 members from large and small 
+scale mines and 6,000 artisanal miners who work for more than 50 license holders in 
+Kono and Tongo Fields. By 2008 it expects to double its number of members from 
+mining companies and add another 2,000 artisanal members.  
+ 
+The diamond mining sector can be divided between primary and secondary mining. 
+Each sector has its own characteristics and operating procedures.  
+ 
+                                                 
+11 IDMP Powerpoint Presentation to USAID, March 2007 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              4 
+ 
+Primary diamond mining is mainly of kimberlite 
+deposits. Production is carried out by major mining 
+companies in large mines after large-scale investments. 
+These companies have in-depth knowledge of the 
+geology of the areas where they are working. National 
+laws and pressure from environmental organizations 
+have resulted in a reasonable level of responsibility on 
+the part of these companies. Depending on the nature 
+of the regulations and agreements, the revenues for the 
+companies and for the state can be significant. The 
+evaluation team visited the Kono mine operated by 
+Koidu Holdings. The mine is totally under the control of 
+the company and no unauthorized persons can enter. 
+The operations comply with environmental regulations 
+and security procedures and the production of 
+diamonds is controlled at every step of the process. 
+Workers are salaried and payments are made directly into their bank accounts which 
+the company helped them to open. This provides workers with access to credit and 
+other banking services.  
+ 
+Secondary diamond mining can be divided into small to medium mining activities and 
+artisanal mining.   
+ 
+ Small to medium mining activities. There are listed exploration companies as 
+well as non-listed companies. Oversight by the mining authorities and regulation 
+by the stock exchange over those which raise funds via the market, mean that 
+there is a modicum of control over these operations. Their obligations of 
+profitability imply a minimum of income (taxes and social contributions) for the 
+government depending on local regulations and conventions. They have relative 
+control over their production processes and they pay their workers on a salary 
+basis transferred directly into their own bank accounts.  These companies have a 
+reasonable knowledge of the geology of the area where they work.  
+ 
+ Artisanal and/or illegal mining activities. There are an estimated 100,000 - 
+200,000 artisanal diamond miners in Sierra Leone12. The activity is generally 
+started by diggers, either as individuals or as organized groups. The miners 
+depend on the owner of the land, and on a sponsor who pays them to dig in a 
+“selected” site. Average daily wage is reported to be 3,000LE and 750LE for 
+food.13 Diamonds are sold to dealers and finally to exporters. The proceeds from 
+the dealer are shared among license holder, supporter and digger after deduction 
+of expenses by the supporter. Much of this digging is done without a license. In 
+general, this sector is characterized by:    
+ 
+                                                 
+12 CEMMATS, The Artisanal Mining Sector in Sierra Leone, 2006 
+13 Union workers reportedly get more- 5,000LE to 7,000LE a day plus 3,000Le for meals. Exchange rate during 
+evaluation was around 3,000LE for 1 US$.   
+Photo: Worker at Koidu Holdings Mine in Koidu 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              5 
+ 
+ Lack of labor and environmental regulation; 
+ Lack of knowledge of the geology and mining deposits; 
+ Poor profitability and low revenues for miners; 
+ Child labor; 
+ Prostitution associated with 
+the mines and sexual abuse 
+of 
+children 
+and 
+women 
+workers; 
+ High potential for violence; 
+ High levels of smuggling and 
+money laundering; 
+ No wealth security; and 
+ Payments are in cash, thus 
+miners and diggers have no 
+access to the formal sector 
+banking services. 
+Successive laws have been passed to address these problems but fall short on 
+implementation. The primary goal of the 2003 Core Mineral Policy is the establishment 
+of an internationally competitive and investor-friendly business environment in the 
+mining sector. The policy emphasizes that the development of the mining sector should 
+be achieved in ways that are environmentally responsible, socially responsible, and 
+economically viable. The Policy states that artisanal mining plots should not exceed 210 
+sq yards. However, since mining is largely unregulated, the mines often comprise 
+several plots covering more than 25 acres.  
+ 
+Environmental Issues: Although an estimated 80,000 to 120,000 hectares of lands are 
+mined out and the land severely disrupted, there are few reclamation initiatives.  
+Mining is ranked as the third most direct causes of land degradation in Sierra Leone 
+(behind logging and firewood collection).14 Alluvial mining directly results in lost top soil 
+and its exposed large pits fill with stagnant water and become vectors for malaria and 
+other diseases. Streams and rivers are muddied and polluted. In one recent case, 
+Sierra Diamonds Ltd, an alluvial diamond license holder, diverted a river to undertake 
+mechanized exploration on the river bed. The $50 required of each mining holder to 
+cover environmental rehabilitation is symbolic and has made no impact although there 
+is some rehabilitation done in Kono primarily for demonstration purposes.15   
+ 
+The USAID-funded Programmatic Environmental Assessment for the diamond program 
+found that “other than the land disruption, the kinds of environmental concerns from 
+artisanal diamond mining do not present substantial risks to human health or the 
+ecosystems beyond that which occurs from the impoverished condition of the country 
+and the poor sanitation and agricultural practices evident even within the mining 
+district… Current mining practices are not environmentally appropriate proportionally, 
+                                                 
+14 Country Environmental Profile Sierra Leone, Parsons Brinckerhoff, 2006 p. 17 
+15 Location of the funds collected and whether they had been used for other purposes was questioned by some during 
+evaluation interviews. 
+Photo: Artisanal Workers in Koidu 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              6 
+ 
+(but) the overall disregard for the protection of the ecosystem, health and community 
+constitute a much larger problem.”16  
+  
+Gender Issues: Although women are involved in gold mining and marketing in Sierra 
+Leone, they are almost completely absent in the diamond mining sector. Artisanal 
+diamond digging is hard labor and most of the diggers are young males17 although the 
+evaluation team spoke to several lifetime diggers now in their 40s and 50s and away 
+from the main towns, saw groups of miners walking to work that included young boys. 
+There are few women diggers although the United Mine Workers reported they have a 
+small percentage of female diggers as members, most of these war-widows. The lure of 
+diamond wealth attracts young girls and women to mining areas who easily fall into 
+prostitution. Some are as young as 10 who either come voluntarily or are sent by their 
+families for income. 18  Early marriages (between 12-15 years of age) are also common. 
+Many of the women associated with the IDMP program (either as a trainer or a CSO 
+partner) were directly involved in mining- either as intermediaries (linking diggers with 
+license holders) or as sponsors.  
+    
+DADCF The DADCF development fund was created in December 2001 as a means to 
+return a portion of the diamond income back to the communities where the stones were 
+mined. It is funded by 0.75% of a 3% royalty from diamond exports and is returned to 
+the chiefdoms based on the number of alluvial licenses issued. Since distributions are 
+based on the number of licenses per chiefdom, it is also seen as an incentive 
+mechanism to reduce illegal mining and smuggling by encouraging the issuing of 
+licenses. Since 2001, the number of 
+licenses 
+have 
+more 
+than 
+doubled 
+nationwide and increased tenfold in 
+Kono (Graph 1 that shows licenses 
+issued from 2001-200419). Diamond 
+exports have also increased and the 
+amount of funds deposited into the 
+DACDF have almost quadrupled (Graph 
+220). Districts also receive a return of 5% 
+of the export value from prospecting, but 
+as these licenses are issued at the 
+national level, those reimbursements are 
+done directly through GOSL financial 
+systems and do not pass through the 
+DACDF fund.  
+                                                 
+16 Programmatic Environmental Assessment for USAID support to small-scale artisanal activities in Sierra Leone, 
+2005 p 2 
+17 Average age for miners reported in interviews varied from 13-15 (according to a Freetown-based youth group) to 
+25-30 (CARE) to 30 (project trainer).  
+18 Interviews with women’s groups in Tongo Fields. Programs by IRC in Tongo Fields have reportedly reduced the 
+levels of child prostitution and child mining in the area. 
+19 DIPAM Project Closeout Report, January 2005, p. 8 
+20 IDMP, Powerpoint Presentation to USAID, March 2007 
+Graph 1: Licenses Issued from 2001-2004
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              7 
+ 
+Concerns on the effective use of the fund led to a program- assisted joint CSO-
+Government monitoring mission in 2003 that resulted in a grading system for chiefdoms 
+on the use of the funds. Funds were also suspended at the end of 2004 due to 
+persistent problems over its use. The enactment of the Local Government Act in 2004 
+enabled the government to administer the funds through the newly elected district 
+councils which now receive 20% of the allocation, with the chiefdom retaining the rest. 
+As can be seen in Graph 2 almost $4 million has been returned to these diamondiferous 
+areas for community development purposes (discussed in more depth in IR2).  
+  
+ 
+ 
+Graph 2: Value of DACDF 2002-2006 
+$0
+$200,000
+$400,000
+$600,000
+$800,000
+$1,000,000
+$1,200,000
+2002
+2003
+2004
+2005
+2006
+Value of DACDF 2002 to 2006
+Total Value over 4 years
+$3,836,997
+ 
+ 
+2. USAID ASSISTANCE  
+ 
+USAID assistance to the diamond sector started in 1999 with the efforts of USAID’s 
+Office of Transition Initiatives (OTI), and is still ongoing today. Initial work focused on 
+stemming the flow of conflict diamonds and regaining Government of Sierra Leone 
+(GOSL) control over the management its diamond resources so that these resources 
+could benefit the people of Sierra Leone. The program expanded as the conflict within 
+Sierra Leone receded with community-based activities added to make it an integrated 
+diamond management program.  
+ 
+These activities were carried out through a series of Cooperative Agreements with 
+Management Systems International (MSI) based on unsolicited proposals. Specifically:  
+ 
+1999-2002: OTI: Diamond Management Program. This $1.2 million program was 
+implemented primarily through a series of technical assistance visits and partnerships 
+with key stakeholders. It focused on: supporting the Kimberly Process and establishing 
+a certified channel for diamonds from Sierra Leone; providing a workshop and 
+radio/motorcycle equipment for the Ministry of Mineral Resources (MMR) mine 
+monitors; monitoring the Diamond Area Community Development Fund (DACDF) fund 
+and sensitizing communities about its existence. The program was evaluated in 2002 
+and was found to have met its objectives as the certification process had raised the 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              8 
+ 
+level of legitimate exports of rough diamonds in Sierra Leone from $1.2 million (1999) to 
+$26 million (2001)21 and because the DACDF had started to return diamond-generated 
+revenue back to the communities.  
+ 
+2002–2004: Diamond Project-$60,000. Diamond Policy and Management (PDAP)22-
+$992,731; Diamond Policy and Management Project (DIPAM)23- $1,273,801. These 
+agreements implemented parts of the same program. The PDA agreement was focused 
+on supporting the establishment of the Kono Peace Diamond Alliance, which was 
+expected to demonstrate that the alluvial diamond industry can maximize benefits to 
+local miners/diggers and their communities, minimize corruption, mobilize local 
+surveillance and mines monitoring, and convert consumer awareness around conflict 
+diamonds into reconstruction of the war-devastated diamond area of Kono.24 DIPAM 
+had a similar purpose and worked at the policy reform level.   
+ 
+2004 – 2007: Integrated Diamond Management Program (IDMP).25 Initially seen as a 
+two-year $2 million pilot project, it has since been extended and is now scheduled to 
+end December 2007 with a total budget of $2.9 million. It is a continuation of the 2002-
+2004 programs. Its purpose is to “develop a pilot alluvial diamond mining tracking 
+system grounded in providing better prices to miners and their laborers.26”  A results 
+framework and the current status of the IDMP is provided in Annex A. 
+ 
+ 
+ 
+ 
+Graph 3: USAID FUNDING for Diamond Programs  
+USAID Funding for Diamond Program ($)
+0
+500,000
+1,000,000
+1,500,000
+2,000,000
+2,500,000
+3,000,000
+OTI 1999-2002
+USAID 2002-2004
+USAID 2004-2006
+ 
+ 
+3. USAID DIAMOND PROGRAM EVALUATION 
+ 
+USAID/Sierra Leone commissioned an evaluation of its Diamond Program in Sierra 
+Leone in order to:  
+                                                 
+21 Final Evaluation of the OTI Program in Sierra Leone, p 19 
+22 Cooperative Agreement No. 636-A-00-03-00003. Effective dates: 10/25/02 – 10/24/04. To avoid confusion with 
+the PDA (Peace Diamond Alliance), the Peace Diamond Alliance Cooperative Agreement program will be referred 
+to as PDAP in this Report. 
+23 Cooperative Agreement No. 636-A-00-03-00038, Effective dates: 2/12/03 - 10/31/04  
+24 Cooperative Agreement No. 636-A-00-03-00038, p 10 
+25 Cooperative Agreement No. 636-A-00-04-00217. Effective date: 10/14/04 
+26 Cooperative Agreement No. 636-A-00-03-000217, p B-3. 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              9 
+ 
+ Ascertain the effectiveness of past and current USAID Diamond Sector 
+Interventions, focusing on those undertaken since 2004; 
+ Draw on lessons learned and best practices to date; and 
+ Reflect on weaknesses and failure to inform a future diamond program design. 
+ 
+The evaluation was undertaken in Sierra Leone in May 2007 by an independent team of 
+experts in the mining sector and democracy and governance fields. The evaluation 
+team conducted extensive interviews both within Freetown and the diamondiferous 
+districts of Kono and Kenema. These included government officials, donors and their 
+implementing partners, private sector actors, traditional leaders, civil society 
+representatives, miners, diggers and community members. Interviews were also 
+conducted in Washington, DC and via telephone or email with programmatic actors 
+abroad. The complete list of persons interviewed is in Annex B.  
+ 
+The team also conducted an extensive review of existing documentation (Annex D) and 
+site visits to artisanal mines, industrial kimberlite mines and small scale mining 
+activities. It observed small stone training being conducted by IDMP as well as the 
+buying and selling of diamonds. Methodology for the evaluation is in Annex C. 
+ 
+As the main focus of the evaluation is the activities undertaken under the current IDMP 
+agreement, the evaluation focused on the achievement of its Strategic Objective: Sierra 
+Leone diamond trade contributes positively to peace and development and this 
+evaluation report is structured according to its intermediate results (IR): 
+ 
+ IR1: Improved GOSL diamond management systems and incentives to use 
+them effectively; 
+ IR2: Active civil society supporting improved public and private diamond 
+management; 
+ IR3: Private sector diamond businesses that are more transparent, 
+competitive and responsive to community needs; 
+ IR4: Improved community diamond management systems and incentives to 
+use them effectively; and 
+ IR5: Improved enabling environment for improved diamond management. 
+ 
+Graph 4: IDMP EXPENDITURE BY Intermediate Results 
+ 
+IR1 $467,637 
+IR2 $659,572 
+IR3 $196,490 
+IR4 $812,404 
+IR5 $686,964 
+Total $2, 823,067 
+ 
+IDMP Expenditures by IR (%)
+IR4
+IR5
+IR1
+IR2
+IR3
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              10 
+ 
+SECTION 2: PROGRAM ACTIVITIES AND 
+RESULTS  
+ 
+The purpose of the IDMP was to develop a pilot integrated finance and alluvial 
+diamond mining tracking system grounded in providing better prices to miners and 
+laborers. According to the IDMP, this approach recognized the multi-faceted nature of 
+the problem; was community based; included a proactive government; and addressed 
+business practices and incentive structures and the entire production and marketing 
+chain. It was a direct continuation of the programs started under earlier Cooperative 
+Agreements with USAID (DIPAM/PDAP) and OTI.   
+ 
+According to the Cooperative Agreement, IDMP intended to increase prices for miners’ 
+production at the first point of sale (90% of price in Antwerp) by establishing an Earth to 
+Export scheme and by introducing a credit scheme financed by reputable diamond firms 
+in cooperative production. This was to be done in conjunction with its continuing work 
+on the Peace Diamond Alliance. In addition, the program was to continue its policy 
+reform work, and monitor use of the DACDF.  
+ 
+2.1 INTERMEDIATE RESULT 1: IMPROVED GOSL DIAMOND 
+MANAGEMENT SYSTEMS AND INCENTIVES TO USE THEM 
+EFFECTIVELY 
+ 
+Activities: Under IR1, the IDMP served as the Technical Secretariat for a High Level 
+Steering Committee (HLSC) on diamond management systems and policy. The HLSC 
+was established in May 2003 as a sub-committee of the Development Partnership 
+Committee (DEPAC)27 in response to concerns raised by the US Ambassador over 
+project reports that cited the levels of illegal diamond exports at $350 million to $400 
+million. The HLSC met bi-monthly for 2004 and 2005, successfully addressing some 
+potentially destabilizing issues such as the adoption of a retroactive tax on exporters by 
+the National Revenue Authority (NRA) and accountability issues such as a cabinet 
+decision to turn the implementation of projects funded by the DACDF to the National 
+Commission for Social Action (NCSA) instead of through the local communities.  
+ 
+The HLSC was provided with solid technical information provided by the Technical 
+Secretariat. In addition, the Technical Secretariat, which included experts from DFID 
+and others, developed a detailed implementation plan for the Core Mineral Policy, which 
+provided the framework to regularize operations in the diamond sector and distribution 
+of the DACDF through elected district councils instead of directly back to the chiefs. The 
+Technical Secretariat last met in February 2007. 
+ 
+ 
+                                                 
+27 The coordination mechanism for all international assistance including DDR during the UNAMSIL peacekeeping 
+operations. 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              11 
+ 
+IDMP Expenditures for IR 1 ($)
+0
+50,000
+100,000
+150,000
+200,000
+2004-2005
+2005-2006
+2006-2007
+Graph 5: IDMP Expenditures for IR1 
+Also undertaken under this IR 
+were efforts to establish a 
+Public Information Unit (PIU) 
+in the MMR to disseminate 
+factual information on the 
+diamond sector. A line item 
+for the PIU was created within 
+the national budget, and the 
+terms of reference for the PIU 
+were developed by the IDMP. 
+But work on its establishment 
+stopped in 2006 after IDMP and the MMR disagreed over the process for its 
+establishment. IDMP intended to hire a consultant to develop the PIU’s terms of 
+references and structures while the MMR wanted to use the Ministry of Information for 
+this purpose and use the consulting fees for other things.   
+ 
+IDMP and DIPAM also collected and provided diamond trade data and analysis. This 
+was provided in its quarterly reporting to USAID and to the HLSC. Among some of the 
+specific studies undertaken by the diamond program was the study of the Anti-Money 
+Laundering Act, Mining the “Chaos” in Sierra Leone’s Diamond Fields (a study on 
+artisanal mining) and a Credit Study. This last study provided the estimates used by the 
+American Ambassador for the HLSC that 90% (or $350-$400 million) of the diamond 
+production was smuggled out of the country every year.  
+ 
+IDMP provides a full time person28 in Freetown for IR1 to serve on the Secretariat and 
+to follow policy developments. He is assisted by the Chief of Party who represents the 
+project for policy discussions and in international forums. 
+  
+Findings: The areas targeted for USAID assistance 
+(policy coordination, provision of technical assistance 
+and increasing the information at 
+the 
+national 
+level) 
+were 
+appropriate 
+and 
+warranted 
+support. The HLSC proved to be 
+an important mechanism early 
+on, but differing expectations 
+between government and the 
+donors on its purpose and utility 
+of the meeting led to gradual 
+GOSL disengagement. Its last meeting was in October 2006. 
+Political will to seriously address corruption and eliminate its 
+links with cross-border smuggling and money laundering 
+remains an issue and reinforces the need to restart these 
+                                                 
+ 
+28 This person was also responsible for aspects within the other IRs as well. 
+Governance depends 
+on how much money 
+you have in your 
+pocket. In Kono, the 
+pocket is diamonds.  
+Government Official 
+ 
+Biggest governance 
+problem is the lack of 
+control over our 
+resources. I fear for 
+Kono.  
+Youth Leader 
+The power of the Paramount 
+Chiefs remains the greatest 
+threat because they continue to 
+have power. Without their 
+consent, the miner cannot get a 
+mining site.  The greatest illicit 
+mining group is the Chiefs.   
+Program Associate 
+ 
+Chiefs are happy to issue 
+licenses in worked out plots. 
+Corporate Miner 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              12 
+ 
+Problem is not information 
+flow, it is greed.  
+MMR Official 
+meetings. The Extractive Industry Transparency Initiative (EITI) project funded by DFID 
+that is in the process of coming on line will have a high level committee but this 
+committee will have a transparency purpose and broader membership, including civil 
+society monitoring organizations and the mining industry, so it will not replace or 
+duplicate the need for the HLSC as a donor and GOSL forum.  
+ 
+The donors found the HLSC meetings extremely useful, but most GOSL participants in 
+the HLSC perceived the meetings as donor driven with a donor agenda focused on 
+obtaining GOSL compliance or action. They felt in return, the donors provided very little 
+in terms of international information (intel) or additional resources to help with the 
+requested action. There were a few, however, including the Minister of Interior, who saw 
+it as a useful venue to exchange information and develop strategies to address 
+problems in the sector.    
+GRAPH 6: Current Mining Licenses 
+0
+200
+400
+600
+800
+1,000
+1,200
+1,400
+Current Mining Licenses 
+December 2006
+Kono
+Kenema
+Bo
+Pujehun
+Bombali
+Kailahun
+Bonthe
+Port Loko
+Tonkolili
+Kambia
+Moyamba
+1,314
+441
+268
+116
+6
+25
+11
+0
+0
+0
+1
+ 
+ 
+Another issue the HLSC could address is the issue of linking the DACDF allocations to 
+the number of licenses issued. This is an incentive to issue more licenses, but it could 
+mean that diamond-poor districts receive a disproportionate share if they issue many 
+licenses but have poor production. A more fair way might be to factor production levels 
+from each chiefdom into the equation, which would also serve as a disincentive to 
+smuggling.    
+ 
+There is still a critical need for a systematic and wider distribution of information on the 
+diamond mining sector and government policies at every level. The IDMP analysis of 
+issues within the diamond sector provided useful background information for policy 
+makers but the evaluation found others working in the field questioning the accuracy of 
+some of their findings (in particular those related to the scope of illegal exports and 
+artisanal workers).  
+ 
+The problems with the PIU also appeared to be related to 
+differing perceptions and expectations between government 
+and donors. MMR officials agreed with the need for the PIU, 
+but they felt isolated from the process by which it was being 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              13 
+ 
+established which they saw as donor-driven and not reflective of their concerns or ideas 
+of how this should be accomplished. On the other hand, the donors (i.e. the diamond 
+program) were focused on getting it established as quickly and efficiently as possible so 
+they could benefit from its end-use (increased information flows). 
+ 
+Recommendations:  
+ 
+• The Technical Secretariat needs to become reactivated and continue to meet 
+regularly on issues of diamond management and policy even in the absence of 
+the HLSC.  It should proactively engage the donors and the GOSL to resuscitate 
+the HLSC and ensure coordination between the large scale assistance programs 
+now coming into the sector (World Bank, DFID EITI). 
+ 
+• The HLSC concept needs to be updated and resuscitated as there is still a 
+pressing need for donor and government collaboration and for the sharing of 
+essential information on national diamond sector management and international 
+issues such money laundering by organized crime through diamond trafficking. 
+To ensure its effectiveness and longevity, GOSL buy-in and ownership of the 
+meeting is essential. The meeting should not be reconstituted until there is a 
+common consensus among donors and the GOSL on the purpose of the meeting 
+and its terms of reference. This process should start with discussions with the 
+more proactive and interested GOSL members of the HLSC on how it can be 
+brought back and made more relevant to the GOSL side, so that the GOSL 
+participants become invested in the process and it becomes a collaborative effort 
+rather than donor-driven.  The Technical Committee should also engage the 
+GOSL members on the Committee on specific issues that require policy-level 
+assistance so that the process to reconstitute the HLSC is grounded in 
+demonstrated need. Ensuring coordination between government agencies on 
+critical issues in the sector as well as with the donors is a good governance 
+imperative, and the process of rejuvenation could be effectively used as a 
+capacity building opportunity for the participants and their institutional systems.   
+ 
+• With the end of conflict and the return of a democratically elected government 
+down to local levels, diamond management policies and systems have improved. 
+But major governance and accountability issues remain that should be directly 
+addressed by any future program. These include the lack of means for the MMR 
+and others to enforce and implement mining regulations, the role and power of 
+chiefs, land ownership and tenure, the lack of transparency throughout the 
+mining sector and the continued imbalance in the incentive systems that make 
+fighting illicit trade and corruption extremely difficult.    
+ 
+• The IDMP and the DFID projects should collectively engage the MMR on the 
+outstanding issues that prevented the establishment of the PIU and find a 
+mutually acceptable way to help the MMR with its creation. The process by which 
+a government unit, such as a PIU, is created should also be approached as an 
+opportunity to improve government systems and administration as well as a 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              14 
+ 
+means to improve governance through the end-use of its output (i.e.: 
+information). MMR ownership of the process to establish the PIU is essential or 
+the unit, if it is established, will not be used to its fullest potential. This process 
+should start with direct discussions with the MMR on why donor-efforts to 
+establish the PIU failed and what they think needs to be done to create such a 
+unit. From there, the program can play a mentoring and facilitating role to help 
+the MMR develop a realistic, and donor-acceptable, strategy for its creation and 
+effective functioning and use. As with the HLSC, this process should be seen as 
+an opportunity for capacity building and developing appropriate systems within 
+public administration.  
+ 
+2.2 INTERMEDIATE RESULT 2: ACTIVE CIVIL SOCIETY SUPPORTING 
+IMPROVED PUBLIC AND PRIVATE DIAMOND MANAGEMENT 
+ 
+Activities: The diamond program under IR2 worked to increase civil society oversight 
+and advocacy for improved diamond management systems. Very early on, the program 
+acted as a catalyst to bring together, and enable a coalition of Civil Society 
+Organizations (CSOs), International Non Governmental Organizations (NGOs) with the 
+MMR to inform communities on the new Core Mining Policies and use of the DACDF. 
+This DACDF Coalition, now named the National Advocacy Coalition on Extractives 
+(NACE), is still active in the sector.   
+  
+In 2002, the DIPAM/PDAP program moved from assisting the DACDF Coalition to the 
+creation of a new movement called the Peace Diamond Alliance (PDA). According to 
+the Cooperative Agreements, the purpose of the PDA was to promote the diamond 
+industry at the same time as helping to empower the communities to play a greater role 
+in managing their diamond resources. It was intended to convert the diamond resources 
+from a “source of war and desperation to the foundation for peace and prosperity.”29    
+ 
+Although there were high hopes for the PDA, which was formally inaugurated in Kono 
+by the President in December 2002, it became untenable once it moved from the 
+concept of a coalition of civil society, government, donors and the industry meeting to 
+coordinate efforts to improve diamond sector management, to one of establishing an 
+institution to receive and manage donor funding (with the USAID program serving as its 
+secretariat).   
+ 
+The PDA Coalition met annually with its last meeting in 2005. At the same time, the 
+project helped establish a “PDA, Ltd.” in Kono. This “PDA, Ltd” received institutional 
+strengthening from IDMP and some funding through the World Bank for projects and 
+trips to Ghana and Sri Lanka for some of its Executive Committee Members. In April 
+2004, the IDMP created a second “PDA” in Tongo Fields along the lines of the initial 
+Kono PDA Coalition.  This “PDA” is still in existence and meets when requested by 
+IDMP.  With IDMP funding, the Tongo Fields PDA was active early on in collective 
+action to increase awareness on environmental issues and working to reduce illegal 
+                                                 
+29 Cooperative Agreement No. 636-A-00-03-00038, Program Description, p. 10. 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              15 
+ 
+buying and under-age mining in their area. It also worked on a related program through 
+the International Rescue Committee funded by the Department of Labor that contributed 
+to the reduction of child diggers and girl prostitutes associated with mining operations.  
+ 
+A continuing part of IR2 is small stone training (SST) which IDMP started in 2004 as a 
+means to empower diggers. Still using the PDA label, this training is accompanied by 
+widespread community meetings on broader issues in the sector, such as use of the 
+DACDF, illegal mining and child labor. By 2007 over 600 persons a year were receiving 
+SST, about 10% of these women.  
+ 
+ 
+ 
+ 
+ 
+ 
+Graph 7: IDMP EXPENDITURE for IR2      
+ 
+The main office of the IDMP 
+project is in Kono and it has a 
+sub-office in Tongo Fields. Until 
+recently, both used the PDA name 
+and logo to identify their offices 
+and work. They now both use 
+IDMP branding.  Each office has a 
+staff with community outreach 
+officers/trainers. 
+The 
+IDMP 
+Deputy COP is located in Kono 
+with the COP dividing his time 
+between the offices in Kono and Freetown. (A Management Chart of IDMP staffing is in 
+Annex E.) 
+ 
+Findings: The program contributed to: 1) informed civil society activism in the mining 
+sector, most notably by assisting the DACDF Coalition early on; 2) increased 
+government and traditional leader receptivity to civil society inputs through sensitizing 
+activities, and 3) improved accountability for and the more appropriate use of DACDF 
+funds. However, the sheer number of donors and programs working in community 
+awareness, empowerment and democracy and governance makes attribution of these 
+results to any one program impossible.  
+ 
+GRAPH 8: DACDF Distribution by District 
+0
+1,000,000,000
+2,000,000,000
+3,000,000,000
+4,000,000,000
+5,000,000,000
+DACDF Distribution by District 
+January 2001- December 2006
+Kono
+Kenema
+Bo
+Pujehun
+Bombali
+Kailahun
+Bonthe
+Port Loko
+Tonkolili
+Kambia
+Moyamba
+LE
+ 
+ 
+IDMP Expenditures for IR2 ($)
+0
+50,000
+100,000
+150,000
+200,000
+250,000
+300,000
+350,000
+400,000
+2004-2005
+2005-2006
+2006-2007
+Chart Source: MMR Statistics. 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              16 
+ 
+CSO monitoring of the DACDF, most notably in the program’s initial years of operation, 
+resulted in direct improvements of its operation. According to DIPAM, 60% of the first 
+tranche of DACDF funds disappeared while 90% of the funds were accounted for by the 
+third tranche (2002).30 The DACDF Coalition also started a grading system for 
+chiefdoms on the use of the funds and their active community sensitization programs 
+encouraged community members, including women, to question traditional leaders 
+about the use of the funds and their prioritization. Annex F provides a list of specific 
+examples of the use of the funds.  
+ 
+The decision to abandon the DACDF Coalition and create a “PDA Ltd” in its stead was 
+questionable as was its implementation. The “PDA Ltd” never really functioned as an 
+institution31 and defined its legal relationship with IDMP on the basis of a workshop 
+report that described a division of responsibilities 
+between the two. The PDA Chairman met with the 
+evaluation team and demanded to know where the 
+funds raised under the PDA name had gone (both 
+from USAID and the World Bank) and complained of 
+having no say in the hiring or operation of the PDA’s 
+“secretariat” (the IDMP program). At the same time, 
+the project’s strategy to “project the Alliance as a 
+winner”32 through use of the PDA label for most of its 
+USAID-funded activities33 and its active marketing in 
+international forums, created and maintained the 
+illusion of an actively functioning indigenous Peace 
+Diamond Alliance which did not exist.    
+ 
+IDMP/DIPAM/PDAP worked with a large number of CSOs 
+but over time tended to favor certain individuals within them, 
+thus the strengthening tended to be individual rather than 
+institutional. The program made a concerted effort to include 
+women’s organizations on the PDA, most notably in Tongo 
+Fields where three were very active. The leaders of these 
+groups were quite impressive and had made notable 
+accomplishments. For example, SINAVA rehabilitated 20 
+acres of worked out mining land where it is growing rice for 
+sale. PDA Executive Committee and IDMP helped its 
+lobbying efforts so SINAVA was able to obtain title to the land. These women were also 
+at the forefront of the PDA’s programs to combat illicit and child mining in Tongo. They, 
+                                                 
+30 Cooperative Agreement No.636-A-00-04-00217-00, p B-7 
+31 PDA Ltd did not appear to get beyond the stage of squabbling individuals and members fighting with IDMP over 
+resources they believed were given in their name.  
+32 DIPAM, Third Semi-Annual Report, p 3  
+33 This included activities for cooperatives, where investors and cooperatives signed contracts with a “Peace 
+Diamond Alliance” (represented by the Executive Director), and where MSI’s contractual role was technical 
+assistance and ensuring accountability over use of the funds by the PDA, but in reality directly administered the 
+program  
+PDA opened our eyes. 
+We didn’t know about 
+diamonds before. They 
+trained us to value 
+diamonds and the 
+international visits were 
+good.  But people are 
+more interested in 
+farming. Diamonds are 
+not forever.   
+Women’s Organization
+Photo- IDMP first quarterly report 2004 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              17 
+ 
+and the rest of the PDA, said sensitizing required funding34 and told the evaluation team 
+they were looking for a new issue that would get funding for their PDA. These women’s 
+organizations also received training on their rights and how to organize through a World 
+Vision program funded by USAID.   
+ 
+The small stones trainings exceeded their targets and are widely popular but did not 
+target “diggers” as described in the project documentation. The primary beneficiaries of 
+the first-come, first-serve, literate-only-classes are potential intermediaries in the 
+diamond chain (buyers/sellers) or MMO hopefuls. Ten percent of the SST students are 
+reported to be women who attend the training to “protect their husband’s interests.”35 
+Half of IDMP’s eight trainers are women. The two women in the class (of 20) visited by 
+the evaluation said they were housewives who wanted to become buyers. Most of the 
+men (14) said they wanted to become MMOs. Training provided a sense of 
+empowerment to its participants but its lack of targeting limited its potential impact and 
+made no difference in the price of diamonds for buyers.  
+ 
+A two-week training held by the diamond program in 2001 for MMOs was found to have 
+made a lasting impact. MMOs still spoke of it having provided them with a sense of 
+purpose and professionalism. This targeted training was followed up by the delivery of 
+motorcycles and radios to help enable them to do their job.36  If the program had 
+followed up with these MMOs (and with training to other MMR officials in the field) this 
+could have made a significant difference in the management of the sector at the local 
+levels.37  
+ 
+Recommendations:  
+ 
+ The concept of the Peace Diamond Alliance needs to be revisited to determine if 
+there is still a purpose for its existence, and if so, its legal basis, structures and 
+objectives. The idea of creating a new institution, rather than strengthening a 
+coalition, should not be pursued.    
+ 
+ Training and capacity building remains a critical need at every level, but with 
+limited resources, future training needs to be targeted directly where it could 
+make the most impact on program results. Among the critical needs are in-
+service training for MMOs and MMR officials, training in modern environmentally 
+friendly small scale mining techniques and corporate responsibilities vis-à-vis the 
+government and surrounding communities. Training needs to be institutionally 
+grounded and the evaluation concurs with the intention of the 2007 IDMP 
+                                                 
+34 According to the Tongo PDA, sensitizing through community meetings requires funding for transport as well as 
+food for attendees as “they come for food and won’t come without it.”  
+35 SST Trainer. 
+36 After 6 years of hard service, most of these motorcycles and radios are now beyond repair. 
+37 For example, several MMOs who had received training, successfully used some of the skills and equipment 
+provided by the program to coordinate the seizure of $550,000 worth of illegally purchased diamonds. They split the 
+reward (40% of the value of the seized stones) with the participating police officers and see the rewards system as a 
+useful incentive for inter-agency cooperation.    
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              18 
+ 
+workplan to institutionalize training in an existing institution. Developing an 
+existing institution to serve as a permanent center for mining policy/research and 
+training should be explored.    
+ 
+ Future support to civil society efforts should be provided through existing 
+mechanisms, such as NACE, that have proven track records and institutional and 
+programmatic sustainability. 
+ 
+2.3 INTERMEDIATE RESULT 3: PRIVATE SECTOR DIAMOND 
+BUSINESSES THAT ARE MORE TRANSPARENT, COMPETITIVE AND 
+RESPONSIVE TO COMMUNITY INTERESTS 
+ 
+Activities: According to the Program Description, the main purpose of IR3 was to 
+attract reputable businesses to participate in the IDMP program and to decrease the 
+amount of illegal mining in the Tongo Fields area. The activities regarding international 
+investment in the cooperative scheme are discussed in IR4. As the cooperative scheme 
+was not pursued after 2005, IR3 activities in subsequent years focused on increasing 
+corporate responsibility, including better environmental practices. 
+ 
+Graph 9: IDMP EXPENDITURE for IR3 
+As discussed in IR2, the program 
+was active in Tongo Fields where 
+the number of illegal buyers was 
+perceived as a security threat in 
+2004. The program spearheaded 
+an awareness program through 
+the use of the Tongo Fields PDA. 
+Chiefs were informed on the 
+incentive value of licensed mining 
+(DACDF) 
+and 
+subsequent 
+awareness 
+programs 
+targeted 
+issues such as child mining and child prostitution. 
+  
+In both Kono and Tongo Fields, the program worked to improve relations between the 
+growing presence of mining companies and communities. Four large companies are 
+currently in the program areas (Koidu Holdings, Target Resources, SLDC and Crown 
+Mining). The situation in Kono is more tense than in Tongo Fields where some 
+community members have had to be relocated because they were in the blasting area 
+of the Koidu mine.    
+ 
+The project implemented IR3 activities through its field offices in Tongo Fields and 
+Kono, and through its US-based Technical Advisor who was responsible for attracting 
+businesses to the cooperative scheme.  
+ 
+Findings: Findings for the cooperative scheme are discussed in IR4. For the other IR3 
+activities, significant improvements have been made in the private sector since the start 
+IDMP Expenditures for IR3 ($)
+0
+20,000
+40,000
+60,000
+80,000
+100,000
+120,000
+2004-2005
+2005-2006
+2006-2007
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              19 
+ 
+of the program in 1999. Most of these are directly attributable to the return of state 
+control over the industry and the Kimberley Process. The diamond program contributed 
+to this process throughout all of its activities. In addition, as discussed in IR1, the 
+program consistently reported on industry trends, exports, and industrial mining 
+operations which provided a useful tool for policy makers for both monitoring the private 
+mining sector and making policy adjustments.  
+  
+The trade in conflict diamonds in Sierra Leone has 
+ended, but much remains to be done in terms of 
+improving 
+corporate 
+responsibility 
+and 
+responsiveness. There is still a lingering attitude 
+among the MMR and GOSL that they need to make 
+concessions to the large international mining firms or 
+they won’t come to Sierra Leone. One contract, 
+currently 
+under 
+review 
+by 
+the 
+Law 
+Reform 
+Commission actually states that in case of a 
+contractual conflict with Sierra Leonean legislation, 
+the 
+national 
+law 
+is 
+invalid.38 
+However, 
+the 
+international market, and Sierra Leone has changed and it is important that the 
+Government of Sierra Leone negotiate from a position of strength.  In fact, there is 
+currently a crisis in the international mining industry caused by three fundamental 
+factors: 
+• Lack of exploration over the last years has 
+involved the scarcity of mining reserves; 
+• Lack of investment in mining technologies and 
+equipment has resulted in the incapacity to 
+open new mines quickly; and 
+• Lack of education and training has resulted in 
+a scarcity of mining engineers and geologists. 
+In addition, international regulations in the mining 
+sector39 help ensure that large international mining companies are more respectful of 
+the interests of the countries in which they work. The artisanal mining sector in Sierra 
+Leone is also changing and moving towards small scale mechanized mining. Thus 
+issues such as corporate social responsibility, decent work standards, and attention to 
+environmental impact of mining operations are growing in importance.  
+ 
+Recommendations: 
+• Empower the MMR and GOSL by improving their basic knowledge and 
+information on world markets, mining trends, leadership and negotiation skills so 
+they can make the best decisions and negotiate effectively with the larger 
+international mining firms. 
+                                                 
+38 Interview with the Chairman of the Law Reform Commission.   
+39 Such as 43-101 Rules, Valmin Code, JORC, PDAC code of conduct, labor and environmental standards and 
+codes. 
+Photo: Diamond Dealers Home, Kono 
+Photo: Remains of Destruction in Kono  
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              20 
+ 
+• Future programs follow the evolution of the mining sector in Sierra Leone which 
+is away from manual artisanal mines to small scale mechanized mining and help 
+smooth the transition for the excess labor force. This should be seen as an 
+opportunity to get more diggers into the formal sector where they can then 
+access the benefits this sector can provide.  
+• Future programs should work with existing organizations in this transition, in 
+particular the Mine Workers Union which is concerned with basic workers rights 
+which is starting to make headway in organizing the artisanal mining sector, as 
+well as with women’s organizations and organizations representing other 
+underrepresented groups.   
+• Environmental protection should be a cross-cutting issue for future programs. 
+Raising awareness of the damage caused by artisanal mining and the need to 
+rehabilitate mining sites should be incorporated throughout all programmatic 
+activities and policy dialogue. 
+ 
+2.4  INTERMEDIATE RESULT 4: IMPROVED COMMUNITY DIAMOND 
+MANAGEMENT SYSTEMS AND INCENTIVES TO USE THEM EFFECTIVELY 
+ 
+Activities: IR4 activities focused on the creation of the Cooperative Scheme for 
+diamond production. This involved establishing an “Earth to Export Tracking System”, 
+developing buying and finance schemes and improving cooperative artisanal mining 
+procedures. The process was monitored through a sub-contract with Global Witness. 
+ 
+The Earth to Expert scheme intended to increase prices for miners’ production at the 
+first point of sale (90% of price in Antwerp) by recruiting reputable buyers, establishing 
+an external verification system through Global Witness, ensuring secure storage for 
+purchases, facilitating GOSL export certification by providing evidence of origin of stone, 
+and facilitating fair trade marketing through rigor in scheme and NGO endorsement. 
+ 
+The Alluvial Mining Financing Scheme was aimed at reducing the indebtedness of 
+miners to their supporters. The original concept was a donor-funded revolving loan fund 
+administered by a commercial bank. USAID required an environmental assessment of 
+the potential impact of the credit scheme before IDMP could loan money. Although 
+almost $600,000 was reserved for that purpose in the IDMP Cooperative Agreement, 
+the scheme was never implemented because the Programmatic Environmental 
+Assessment (2005) concluded that the credit program was not a workable tool as “ the 
+condition for the credit model proposed by PDA is not ripe… and the overall impact of 
+the program will be negligible.”  
+ 
+The program was supposed to have started in December 2003, but delays in the 
+environmental assessment led IDMP to develop a direct financing scheme where 
+reputable diamond firms would provide seed capital and purchase the diamonds 
+produced based on prices “at least as high” as those set by GOSL export valuation.40 
+                                                 
+40 IDMP Cooperative Agreement, p B-13 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              21 
+ 
+This buying scheme was intended to increase prices for miners at the first point of sale 
+by eliminating middlemen. The diamonds were to be sold via transparent open market 
+tenders, with investor profits limited to a fixed commission. Tender sales results were to 
+be reported back to the diggers and excess profits were to be repatriated to the 
+cooperatives. IDMP was to serve as local facilitator with the private sector paying for 
+support services after two years. 
+ 
+Twenty-five cooperatives were registered and direct financing was found for five in 2005 
+(Rapaport Group which invested $55,000 in four cooperatives and Kono’s Hope which 
+also invested $55,000 in one coop and 2 small enterprises).  Cooperatives opened 
+accounts in Rokel Bank and Global Witness monitored the process, although it started 
+late due to contracting issues. Results of production were disappointing. The diamonds 
+found in the four cooperatives financed by Rapaport had an estimated export value of 
+only $2,800.41   
+ 
+Improving artisanal mining techniques and reducing environmental degradation was to 
+be part of the cooperative program and a SMARTER (Sustainable Mining by Artisanal 
+Miners) model was developed through a sub-contract to CEMMATS. SMARTER was to 
+be field tested in the cooperatives, but was developed after their mining activities ended 
+also due to prolonged contracting issues. IDMP did some subsequent training on 
+SMARTER in 2006 and anticipates providing this training to the best graduates of the 
+SST. 
+ 
+Findings: The cooperative scheme was fraught with 
+problems- 
+both 
+in 
+terms 
+of 
+conceptualization 
+and 
+implementation. The concept behind cooperatives was to 
+change the buying scheme to reduce the number of 
+intermediaries, however, in order to convince diggers and 
+miners to buy into the new buying scheme it was necessary to 
+ensure them that the new scheme would be more secure than 
+their former one. Since this was not achieved, the 
+cooperatives treated the funds provided as a gift and did not 
+necessarily use them to improve their production capacity. 
+When the cooperatives did not succeed, and further external 
+financing was not forthcoming, the diggers and miners 
+abandoned them – some returning to agriculture, and artisanal 
+diamond activity reverted to previous practices. 
+ 
+The concept to sell diamonds directly to overseas buyers, through the channel of 
+foreign investors was sound, but since the cooperatives did not produce enough 
+diamonds to recover the investment this component did not succeed. Investors found 
+the amount initially offered by IDMP unrealistically low “even for the most benevolent of 
+investors.”42 In addition, the buying scheme depended on the finance scheme, which 
+also proved not to be viable, since banks do not extend credit to workers in the alluvial 
+                                                 
+41 IDMP, Forth Quarterly Report, October 2005 p 7  
+42 Comment made by investor. Entire quote was “even for the most benevolent of investors which we were.” 
+Cooperatives 
+succeeded...they were 
+organized, mined, 
+produced and sold.  
+IDMP Associate 
+ 
+The ultimate test of the 
+project’s worth is 
+whether artisanal miners 
+were able to find and 
+sell diamonds… the 
+program was not 
+successful in passing 
+that test.   
+ Investor 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              22 
+ 
+diamond sector considering the risks too high. From evaluation interviews with bankers 
+and dealers, it is clear that traditional donor guarantees or insurance coverage 
+mechanisms are not enough to change this perception of risk. Nevertheless, some 
+individuals interviewed during the evaluation believe the failure of the pilot was not the 
+concept of the cooperative scheme itself, but rather the challenges and constraints 
+encountered in the context of Sierra Leone as well as faulty implementation.  
+ 
+Implementation problems were numerous. Land allocated was allegedly diamond poor. 
+Site selection and production was done without geological surveys or feasibility studies. 
+Securing funding from direct investors took more time than anticipated yet the promise 
+of investor funding lured some individuals and cooperatives away from agriculture and 
+into mining. IDMP staff did not oversee field activities and lacked technical expertise in 
+alluvial diamond mining.  
+ 
+The external monitoring conducted by Global Witness fulfilled the program’s 
+requirements for “monitoring of the systems to control production” and provided useful 
+information and insight on the progress of the cooperative scheme. But although these 
+types of periodic assessments are useful from a project management perspective, they 
+are not sufficient to be able to adequately monitor compliance or deter smuggling which 
+requires a more active presence.    
+  
+The program successfully negotiate a special type of exporting regime with the MMR for 
+the cooperative pilot that allowed the cooperatives to function without the $40,000 
+export license fee providing they paid 5% of export value and exported directly. One 
+long term outcome of the program was that the MMR authorized the issuing of mining 
+licenses to registered cooperatives. Previously, only registered companies could hold 
+mining rights. 43 
+ 
+Recommendations: Future programming to improve community diamond management 
+should focus on improving information flows and capacity building using existing formal, 
+informal, and traditional structures and organizations. Future programs should consider 
+the establishment of a “Mining Information and Training Center” in Koidu in an existing 
+institution to ensure sustainability. This Center would have:  
+ 
+• The capacity to train alluvial miners and mining companies’ workers (including 
+the diamond valuation training and SMARTER program); 
+• An information center accessible to miners and workers; and 
+• An independent valuation bureau, using the independent valuator in Koidu, to 
+help miners to evaluate their finds. 
+ 
+The evaluation team does not recommend the continuation of further investment in 
+diamond cooperatives by this program. 
+                                                 
+43 IDMP, Sixth Quarterly Report, March 2006 p 10 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              23 
+ 
+ 
+2.5 INTERMEDIATE RESULT 5: IMPROVED ENABLING ENVIRONMENT 
+FOR IMPROVED DIAMOND MANAGEMENT 
+ 
+Activities: IR5 activities were intended to provide an enabling environment for activities 
+in the first four IRs of the program. A lot of attention was placed on monitoring the 
+disbursements of the DACDF. Initially, the program worked through the DACDF 
+Coalition, giving subgrants to Catholic Relief Services (CRS) and Talking Drum Studios 
+(Search for Common Ground) in 2002-2003 for advocacy and community awareness 
+building. A nine-day monitoring visit was conducted in February 2003 and after the 
+program moved away from the DACDF Coalition, it turned to holding workshops on its 
+use, on a more or less annual basis, followed up by site verification visits.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Graph 10: IDMP EXPENDITURE for IR5 
+The 
+program 
+also 
+used 
+its 
+position as Technical Secretariat 
+to raise issues of DACDF use 
+with 
+the 
+HLSC 
+which 
+also 
+focused much of its attention on 
+the administration of this fund.  
+ 
+Another main activity under IR5 
+was to raise national awareness 
+of 
+diamond 
+policy 
+and 
+management which it did through 
+the grants to CRS/Talking Drums, radio shows, community meetings and other venues. 
+It also raised international awareness of diamond issues in Sierra Leone through its 
+attendance at international meetings and at Kimberley Certification Process meetings. 
+ 
+Findings: The enabling environment improved dramatically since program activities 
+started in 1999. The principal factors for this improvement were the end of the war, the 
+return of GOSL control over its diamond mining sector, the restoration of democratically 
+elected government across Sierra Leone and the Kimberley Process.  The program 
+helped improve these diamond policies through its IR1 activities. Enabling legislation 
+and regulation still remain an issue as does enforcement of the improved diamond 
+policies and regulations. MMR lacks the capacity and means to cover diamond 
+producing areas and the cash and carry nature of unlicensed artisanal mining along with 
+porous borders easily enables illicit dealers to purchase and smuggle diamonds into 
+international money laundering networks.  Outside of the KPC process and attending 
+international conferences and perhaps a few policy discussions, the program did not 
+address issues of regional harmonization of laws and policies within the Mano River 
+Basin or how to collectively address the cross-border trafficking of illicit stones. Efforts in 
+this regard were initiated by UNDP and International Alert in Liberia (“Diamonds for 
+Development”) in a large international conference in 2006 which IDMP attended.  The 
+evaluation agrees with the two sub-regional activities proposed in its last work plan 
+IDMP Expenditures for IR5 ($)
+0
+50,000
+100,000
+150,000
+200,000
+250,000
+300,000
+350,000
+2004-2005
+2005-2006
+2006-2007
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              24 
+ 
+(May 2007) that includes participation in the Diamonds for Development program and 
+linking CSOs within the MRU.    
+ 
+DIPAM/PDAP/IDMP made an effort to increase women’s participation by including a few 
+women’s organizations in some activities, encouraging women to attend its small stones 
+training course and community meetings, and using female trainers. But it did not 
+address the broader issues constraining the participation of women. Some of these 
+barriers are substantial, such as the right to own property. The program also only 
+marginally approached enabling environment issues related to the rights and 
+responsibilities of diggers and miners- such as updating labor laws, worker protection, 
+the prevention of child labor and violence against women and children by miners.     
+ 
+The DACDF was a focus for the USAID diamond 
+program activities. As discussed in IR2, over the 
+years, monitoring of the fund by the program and 
+others directly resulted in the improvement of its 
+administration. The biggest improvement came 
+from the policy decision that their distribution had 
+to go through the elected district councils to 
+ensure better accountability over the receipt 
+and use of the funds. Some district councils are 
+now requiring chiefdoms to submit proposals before they are given funding which forces 
+them, for the first time, to justify use of the funds. The decision to allocate 20% of the 
+funds for district councils also increases formal government control over the use of 
+these government resources. As there were many organizations involved in efforts to 
+improve the DACDF process, the value added by the program (beyond being 
+instrumental in the creation of the DACDF Coalition) was its connection with the HLSC 
+as Technical Secretariat and its ability to raise accountability and management issues 
+with policy makers and donors.  
+ 
+Recommendations:    
+ 
+• The program achieved its objective of ensuring a percentage of the funds 
+generated by the export of diamonds are returned to the diamond producing 
+communities and the DACDF process has become firmly institutionalized. 
+Monitoring and improving the DACDF systems and use of the Fund should now 
+be handled by existing CSOs monitoring mechanisms and by donor programs 
+that focus on improving public administration and accountability (decentralization, 
+good governance) and the effective end use of the fund (integrated rural 
+development).  
+ 
+• Gender be mainstreamed into future program activities. In coordination with the 
+women’s organizations already working with the program, contacts should be 
+made with the Ministry of Women and Gender to identify critical constraints and 
+issues that the program can address in its policy and grass-roots level activities 
+Photo: Lower Bambura Community Center Financed by DACDF 
+Source: MSI Briefing Power Point 2003
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              25 
+ 
+to empower women in areas related to mining. In addition, the program should 
+target wives of diggers as agents of change that can encourage male family 
+members to enter the formal system of income generation rather than continue 
+subsistence artisanal mining with the hope of maybe one day a big win.   
+ 
+• The program should become actively involved in the efforts to harmonize sub-
+regional policies and regulations in the diamond sector. Its position as Technical 
+Secretariat of the HLSC places it in a unique position to assist the GOSL in these 
+endeavors as well as help ensure the application of the new policies and 
+structures in the border districts of Kono and Kenema where it currently 
+implements activities. Some of the issues that need to be addressed include 
+harmonizing policy and legislation/regulations (on issues such as licensing, land 
+use and mining, taxation, labor and environmental protection); and related cross-
+border issues such as smuggling, illegal population movements and 
+environmental damage. In addition, the current IDMP program is well-placed to 
+provide the linkages between CSOs involved in the diamond sector as described 
+in its May 2007 workplan, however the evaluation recommends that the CSOs 
+from Sierra Leone that it links are actively functioning watchdog organizations, 
+such as NACE, and that it also consider exploring linkages with subregional 
+professional organizations such as mining unions and associations. 
+ 
+• The program should assist the EITI initiative. EITI can be expected to make 
+significant improvements in the enabling environment for program activities along 
+with the World Bank program for a comprehensive and integrated program in the 
+mineral sector. EITI criteria include regular publication of all mining payments to 
+government (including state-owned enterprises), audits and reconciliation of 
+revenues and payments, with the active participation and monitoring by civil 
+society. EITI is expected to start with rutile and bauxite mining which are 
+undertaken by large companies and whose license payments are an important 
+source of revenue. Expanding EITI to the small-scale artisanal nature of diamond 
+mining will be challenging and is an area which should be assisted by the IDMP 
+program. The program can also help ensure that transparency measures 
+required under EITI are extended to the DACDF. This should remove a lot of the 
+discretionary power and use over the funds at the chiefdom level.  
+ 
+SECTION 3: PROGRAM DESIGN AND 
+IMPLEMENTATION ISSUES  
+ 
+3.1 PROGRAM DESIGN  
+ 
+The program was initially designed during the peacekeeping operations in Sierra Leone 
+and when the country was in great flux. Immediate concerns of donors were to stem the 
+flow of conflict diamonds, finding employment for the large numbers of ex-combatants 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              26 
+ 
+and the reintegration of returnees back into their communities. This focus on peace and 
+security has only recently been replaced by a focus on development goals.  
+ 
+The approach used consistently throughout the program was to develop an integrated 
+program to work with government and civil society to improve their capacity to manage 
+diamond resources and increase their incentives to do so.44 This started with policy 
+reform to reduce the incentives for smuggling and improve business practices and 
+included grassroots work with artisanal mining once these areas became accessible. 
+The project was to provide the link between the grass roots and key policy makers. 
+When the diamondiferous areas opened after the war, the project design added the 
+concept of the PDA and starting community-based mining in order to increase digger 
+and community income. 
+ 
+Some of the program assumptions included: 90% of the diamond production (2002) was 
+exported illegally (with a value of between $350,000,000 and $400,000,000) and the 
+value of illicit trade would increase significantly in the next few years due to the rapid 
+increase in mining activity; miners were in “debt bondage” and wanted to change from 
+the traditional supporter system to a cooperative approach where their winnings and 
+losses were shared by all; the mining and digging population was 200,000 – 400,000 
+men aged 15-30 which was the group most likely to resort to violence if left unattended; 
+access to credit was a significant problem and the formal banking systems were not 
+used for the vast majority of transactions.45 It also assumed the only way miners could 
+improve their economic welfare was to improve their production, so they focused on 
+access to credit and increasing diamond production.  
+ 
+Findings: The approach of linking the policy levels to community levels through the 
+program’s service as the HLSC Technical Secretariat and through their community 
+outreach was effective and provided tangible results as detailed in the IR discussions. 
+The community-based mining strategy and the PDA institutional focus proved not to be 
+effective and resulted in a narrow focus that isolated the program from other donor/CSO 
+programs in the sector as the project progressed. 
+ 
+The evaluation team found, that as Sierra Leone returned to peace and its pre-war 
+traditions of mining, several of the program’s underlying assumptions proved to be 
+unfounded and that some of its concepts were not grounded in diamond mining 
+expertise. For example, interviews with diggers and others involved in the diamond 
+sector and the comparison between the distribution in kimberlite and alluvial diamonds, 
+indicate that smuggling is not as high as estimated, and as reserves in alluvial 
+diamonds are declining, alluvial mining activity is decreasing.  Many diggers expressed 
+preference for the traditional supporter system rather than entering into a collective 
+system saying it gave them food to eat while allowing them to keep working for a big win 
+that they would not have to share. Others preferred the steady work of corporate mining 
+which paid them daily wages and benefits, while others were ready to return to 
+agriculture.   
+                                                 
+44 Cooperative Agreement No. 636-A-00-03-00003, Program Description, p 10, 2002 
+45 MSI, Integrated Diamond Management in Sierra Leone: A Two-Year Pilot Project, 2004 p 7 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              27 
+ 
+ 
+Diamonds are a nonrenewable resource. The design did not factor in the worked-out 
+nature of the diamondiferous areas and the fact that declining reserves could not 
+support the massive increase in workers who went into artisanal mining in the 
+immediate post-war period. Many of these have already returned to agriculture or other 
+income generating activities and the number of artisanal miners is currently estimated at 
+100,000 to 200,00046.  
+ 
+Follow-on programs continued the same activities even though conditions were 
+changing and some of their approaches were questioned by others. As an example, 
+DIPAM reports in 2003 note “skepticism in USAID/Conakry remains as to the feasibility 
+of the program and its appropriateness to the Missions strategy”47 and DFID’s “failure to 
+fund mutually agreed-upon activities.”48  
+ 
+3.2 IMPLEMENTATION ISSUES 
+ 
+The program worked diligently to implement the activities described in its Program 
+Descriptions and work plans. It produced a wealth of reports and studies which are still 
+used. Implementation of this program in a country with destroyed infrastructure and a 
+dearth of human resources was extremely challenging, but the program benefited from 
+the dedication and resourcefulness of its staff.  
+ 
+Some of the major issues found relating to implementation included: 
+• Increasing isolation of the program and its activities with other donor programs 
+and civil society efforts after 2003.49 Its inward focus on the management of its 
+PDA/cooperative programs served to distance itself from the work of others 
+active in the sector.  
+• Lack of diamond mining expertise. It is unusual to see a program that assists 
+artisanal miners in a venture such as cooperatives that does not have a geologist 
+to valuate the potential and the reserves of the selected sites, and a small scale 
+mining engineer to plan and organize the process of alluvial exploitation. 
+ 
+• The lack of a legal relationship between PDA and MSI. The PDA became a legal 
+entity so that it could receive and manage funds and ensure sustainability for 
+program activities (although it is questionable why it was registered as a for-
+profit). But MSI never formalized its relationship with PDA even though it raised 
+funds and implemented programs in its name. The difference between IDMP’s 
+packaging of the PDA concept and the reality of program implementation led to 
+                                                 
+46 Diamond Industry Annual Review, Sierra Leone 2006, p 4 This figure was also used in the CEMMATS study 
+previous cited. 
+47 DIPAM, First Semi-Annual Report, April 2003 p 5.  
+48 DIPAM, Second Semi-Annual Report, October 2003 p 2. Activities were to be institutional improvements to 
+MOCKY and Alluvial Diamond and gold Miners’ Association of Kono.  
+49 With the exception of its work with the HLSC and other national level policy initiatives. 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              28 
+ 
+bitter feelings and power struggles among some PDA Ltd members as they tried 
+to get what they thought was legally theirs.   
+• Piece-meal implementation of the program through a series of agreements and 
+amendments meant a lot of project energy was expended in developing new 
+proposals and waiting for official confirmation of continued funding. This had a 
+detrimental impact on staff morale and on program implementation and results. 
+For example, the SMARTER mining scheme was to run concurrently with the 
+cooperative process, but authorization to implement the contract was delayed 
+and the process was completed only after mining had ended.   
+• Lack of appropriate delegation of responsibility to in-country staff. The program 
+started during the conflict and was covered out of MSI’s Washington-based 
+headquarters. Although an office was opened in Freetown in late 2002, major 
+decisions and planning continued to be done by a non-resident technical advisor 
+and program manager. Even local finances today are handled off-shore. The 
+project finance officers in country had no idea of the budgets for programs or 
+administration.  
+• The program tracked activities by IR but did not its expenditures which makes a 
+cost-benefit analysis of program components impossible. MSI estimated the 
+amounts spent per IR for the evaluation and these are amounts used in the 
+tables in this report.     
+• Lack of a consistent set of targets and indicators which made tracking of its 
+actual performance difficult. Some of this was due to USAID changes in its 
+reporting requirements, and some of this was due to weaknesses in the 
+program’s monitoring and evaluation design. 
+ 
+Graph 11: IDMP Expenditure by IR by Year 
+IDMP Expenditures by IR by Year ($)
+0
+200,000
+400,000
+600,000
+800,000
+1,000,000
+1,200,000
+IR1
+IR2
+IR3
+IR4
+IR5
+Total
+2004-2005
+2005-2006
+2006-2007
+ 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              29 
+ 
+SECTION 4: CONCLUSIONS AND 
+RECOMMENDATIONS 
+ 
+4.1 ACHIEVEMENT OF STRATEGIC OBJECTIVE: SIERRA LEONE 
+DIAMOND TRADE CONTRIBUTES POSITIVELY TO PEACE AND 
+PROSPERITY 
+ 
+The diamond program supported by USAID was an important contributor in the 
+international process to help the GOSL regain control over its diamond mining sector 
+and stem the flow of conflict diamonds. The Sierra Leone diamond trade contributes 
+positively to peace and prosperity through its subsistence of large numbers of diggers, 
+the return of some of the revenue generated back to the diamondiferous chiefdoms 
+through the DACDF and through the incentive system that rewards the turning in of 
+smugglers.  
+ 
+The USAID diamond sector program was designed during a time of conflict and 
+uncertainty about the future of diamond mining in Sierra Leone. Its initial OTI work even 
+included the RUF as the diamond fields of Kono were still under its control and the 
+major concerns were stopping the tide of conflict diamonds and constructively 
+occupying the large pool of potentially destabilizing ex-combatants. Through the hard 
+work of this program and others, times have changed in Sierra Leone. As the country 
+becomes increasingly stable, the focus is no longer on conflict diamonds but diamonds 
+for development and finding sub-regional solutions for transnational problems such as 
+smuggling.  
+ 
+The evaluation found that most of the diamond program’s major accomplishments were 
+made early on, and before the IDMP program started. These were considerable as 
+noted in the individual IR sections. But by 2004, it was already clear that this program 
+was on a different track than those of the other partners and donors in the sectors and 
+that some of its basic assumptions and strategic choices were questionable. Yet, the 
+program continued down the same track unabated.  
+ 
+Future assistance to the sector needs to be rethought and reformulated to reflect the 
+critical needs of Sierra Leone for the next decade. The final work plan just developed by 
+the project for its remaining eight months is focused on ensuring sustainability for some 
+of the project outputs, such as SMARTER. The evaluation finds the focus of this work 
+plan appropriate and a move back on track for the program. 
+ 
+ 
+ 
+ 
+ 
+AMEX International, Inc. 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report 
+                              30 
+ 
+4.2 RECOMMENDATIONS FOR FUTURE PROGRAMMING 
+ 
+• Continued assistance at the policy level and re-establishment of the HLSC as a 
+dynamic tool for policy makers and donors. Among the issues the HLSC should 
+take up is the need to strengthen the government’s capacity for negotiation with 
+international mining companies and interests, develop a strategic vision for the 
+future of the mining sector, and revise the DACDF allocation formula so that it 
+factors in actual production instead of just the number of licenses. 
+ 
+• Donors focus on professionalizing the mining sector rather than diamond 
+production. A concept worth exploring is the establishment of a professional 
+resource center for training for the mining sector using an existing institution that 
+would include the full-time presence of an independent diamond valuator.  
+ 
+• Programs contribute to reducing the informal sector and moving workers towards 
+the formal system. This is already occurring as a natural outcome of the shift 
+from artisanal mining to small scale mechanized mining. For example, programs 
+should encourage excess workers towards alternative livelihoods and other 
+viable income generating activities such as agriculture.  
+ 
+• Programs mainstream gender and address the barriers to equal participation in 
+the sector- in particular in the policy making arena and decision making on the 
+use of the DACDF funds at the chiefdom levels. Female family members should 
+be included in programs addressed at helping miners make the transition into 
+other areas as they have a vested interest in the outcome and interviews suggest 
+they prefer stability and wealth creation over subsistence mining and moving to 
+follow minerals.   
+ 
+• Program strategies and activities ensure coordination and synergy with other 
+programs and activities in the sector, such as those of the GOSL (and in 
+particular assistance to the MMR), other donors, institutions, and organizations, 
+such as the World Bank, DFID, NACE and the Union of Mining Workers in Sierra 
+Leone. They should also ensure coordination with regional and sub-regional 
+efforts to combat mineral trafficking and money laundering. 
+ 
+ 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                                                         A- 1  
+ANNEX A 
+ 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM RESULTS FRAMEWORK WITH CURRENT 
+STATUS  
+ 
+ 
+Status as of May 2007  
+ 
+ Strategic Objective  
+Sierra Leone diamond trade contributes positively to peace and prosperity  
+ 
+Result:  Yes, but this is the result of the combined efforts of the international community, GOSL, civil society, 
+unions, private sector as well as from the normal return to business following the war.  
+  
+Indicator  
+Current Status 
+Result 
+Pilot integrated finance and alluvial 
+diamond mining tracking system 
+developed that provided better 
+prices to miners and workers.   
+Piloted in 2005 then abandoned. 
+Loss of investment for creditor. Was 
+never used after by participants.  
+ANNEX A 
+ 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                                                         A- 2  
+ 
+  Intermediate Result 1  
+Improved GOSL diamond management systems and incentives to use them effectively  
+ 
+Result: Improved GOSL systems but incentives pre-date IDMP.  
+ 
+Indicator 
+Status  
+Results 
+Provide Technical Assistance and 
+Secretariat Services for High 
+Level Steering Committee  
+Dormant. 
+HLSC met regularly 2004/2005. Last 
+meeting 9/06. Technical Committee 
+met regularly in 2004/2005, 3 times in 
+2006 and once in 2007 (2/07) 
+Technical Committee passive on 
+restarting HLSC.    
+Core Mineral Policy drafted and 
+endorsed. HLSC interaction and 
+influence ensured DACDF funding 
+administration went through proper 
+channels..   
+Diamond industry data analysis 
+available on quarterly basis in IDMP 
+reporting.  
+Strengthen government/public 
+document and information sector 
+(through creation of PIU)  
+ GOSL established budget line item 
+for PIU in 2005 but MMR disagreed 
+with use of an IDMP consultant to do 
+PIU design. No action since.  
+ 
+Lost opportunity to increase flow of 
+information out of MMR to public.  
+Implementation of core mining 
+policies (4 out of 10) 
+Focused on 4 out of 10 policies: 
+environment, strengthening regulatory 
+institutions, community benefits from 
+DACDF and diamond exports.  
+Monitoring provided timely 
+information to HLSC, US Mission 
+and others for action. Increased 
+attention by GOSL on 
+environmental impact of mining and 
+need for land reclamation. Due to 
+number of actors, difficult to 
+attribute results only to IDMP.  
+Reinforced GOSL financial 
+controls  
+Consistently tracked exportation data 
+and DACDF payments at 
+district/chiefdom level.   
+Control of DACDF resources 
+transferred from MMR to NRA  
+ANNEX A 
+ 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                                                         A- 3  
+ 
+ 
+  Intermediate Result 2  
+Active civil society supporting improved public and private diamond management  
+ 
+Result: Project contributed to civil society activity and there is increased receptiveness by government and 
+traditional leaders to hear them.  
+ 
+Indicator 
+Status 
+Results 
+Support to Peace Diamond 
+Alliance 
+PDA Kono: Original concept exists in 
+name only. Last annual meeting was 
+2005. Ltd company created with same 
+name but appears dormant. 
+ 
+PDA Tongo Fields: Executive 
+Committee meets when requested by 
+IDMP.   
+ 
+PDA label marketed extensively in 
+international sector. 
+ 
+IDMP used PDA as label for its 
+activities until recently. 
+ 
+PDA Kono: Initially increased 
+coordination. Later nothing.  
+ 
+PDA Ltd: Hard feelings  
+ 
+PDA Tongo Fields: early collective 
+action helped reduce levels of child 
+labor, unlicensed dealers and 
+raised awareness on need for land 
+reclamation after mining.  
+ 
+Creation and perpetuation of an 
+illusion that did not exist.  
+Support to CBOs (strengthening 
+& activities including small stones 
+training) 
+Small stones training exceeded 
+targets (600 trained/year. 10% of 
+these are women. 2005 target was 
+400). Some CBO members used as 
+trainers. Some sent abroad for 
+conferences/ training.  
+Courses used by those seeking 
+advancement- either as 
+intermediates (buyers/sellers) or 
+MMO hopefuls. Provides a sense of 
+empowerment to graduates. Did not 
+affect price of diamonds for buyers. 
+ANNEX A 
+ 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                                                         A- 4  
+  Intermediate Result 2  
+Active civil society supporting improved public and private diamond management  
+ 
+Result: Project contributed to civil society activity and there is increased receptiveness by government and 
+traditional leaders to hear them.  
+ 
+Indicator 
+Status 
+Results 
+Increased community 
+understanding 
+Community meetings and video 
+shows done through zonal meetings 
+in 7 chiefdoms in Kono and Tongo. 
+Includes issues between communities 
+and mining companies.   
+ 
+Raised level of awareness but 
+extent of reach and attribution to 
+IDMP is impossible to determine 
+given the paucity of quantitative 
+data and the number of actors 
+doing community awareness 
+programs.   
+ 
+ 
+Immediate Result 3  
+Private sector diamond businesses that are more transparent, competitive and responsive to community 
+interests.  
+ 
+Results: As more businesses obtain licenses, the more miners and diggers are brought into the formal system 
+and under the obligations those licenses entail. Companies are more aware of community concerns but due to 
+large numbers of actors working on these issues, attribution to any one group is not possible.  
+ 
+Indicator  
+Status  
+Result 
+Reduction in number of illegal 
+dealers 
+Reportedly reduced in Tongo Fields 
+Contributed to reduction in 
+smuggling and illegal trade in 
+diamonds. 
+Increased corporate 
+responsibilities of new entrants 
+companies 
+2004 and 2005 quarterly 
+community/company meetings, 
+restarted in 2007.  
+Increased corporate awareness of 
+community concerns. 
+ANNEX A 
+ 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                                                         A- 5  
+ 
+Immediate Results 4 
+Improved community diamond management systems and incentives to use them effectively.  
+ 
+Results: None. 
+  
+Indicator  
+Current Status 
+Result 
+Establishment of Earth to 
+Export tracking Scheme 
+(targeting dealers & companies)
+Procedures established and manual 
+produced. Not used since 2005 pilot 
+when cooperatives proved too 
+unprofitable for investors. 
+Familiarity by those in 
+cooperatives on concept of 
+tracking production. 
+Development of Buying 
+Scheme (with Rapaport 
+Group/eliminate middle man)  
+Conference held but scheme did not 
+take off.  
+None 
+Developing of financing scheme 
+(credit/cooperative loan system 
+with capital equipment; direct 
+finance from private sector)  
+Piloted in 2005. Successfully got two 
+firms to provide financing for 5 
+cooperatives.  
+Investors lost interest after return 
+on their $110,000 investment was 
+$2,000.  
+Monitoring of IDMP Earth to 
+Export program (Global 
+Witness) 
+Contract given to Global Witness for 3 
+monitoring trips in 2006. 
+Monitoring provided some good 
+lessons learned for cooperatives 
+and monitoring. 
+Improve artisanal mining 
+procedures (SMARTER) 
+Procedures completed.  
+No long term impact as is as 
+SMARTER was designed for 
+cooperative use. 
+ANNEX A 
+ 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                                                         A- 6  
+ 
+Immediate Result 5 
+Improved enabling environment for improved diamond management  
+ 
+Results: DACDF is an incentive to encourage legal mining (taking out a license) as is the reward system for 
+information on illegal purchases. (All implemented pre-IDMP.) 
+ 
+Indicator  
+Status  
+Result 
+Increase national level 
+awareness of diamond issues 
+(radio, photo exhibition 
+Regular call-in radio show done in 
+Kono with wide reach. 
+Increased awareness 
+Improve effectiveness DACDF 
+(monitoring, visits, seek 
+matching funds for performing 
+chiefdoms, help district councils 
+manage DACDF distributions) 
+ 
+Monitoring undertaken through 
+occasional in-field workshops and on 
+site verification.  
+Found late allocation of funds 
+(30mLE due to Kono) that was 
+then distributed to district. 
+Grading system on use of funds 
+adopted. Improved 
+actor/stakeholder awareness of 
+community-use objectives of fund.
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                              B-1 
+ANNEX B 
+ 
+PERSONS INTERVIEWED   
+ 
+Alluvial Diamond and Gold Miners Association  
+Brima Lebbie, Vice President 
+ 
+Campaign for Good Governance  
+Arnold Kaima, Kenema  
+ 
+CARE  
+Ekramul Kabir, Incoming Chief of Party, LINKS Program  
+John Perry, Outgoing Chief of Party LINKS Program  
+Alpha Nabie, Program Quality and Compliance, LINKS Program 
+George Gray, LINKS Evaluation Team Leader 
+ 
+CEMMATS Group  
+Andrew K. Keeili, Executive Director 
+ 
+Center for Coordination of Youth Activities  
+Abdulai Wai, Board Chairman 
+Edward Massaquoi, Program Officer  
+ 
+Chiefs/Chiefdoms  
+Paramount Chief Levy, Pumpeh Town, N’Jiame Chiefdom, Nimikoro, Kono District  
+Samun G Dugba, Chiefdom Clerk, Lower Bambara Chiefdom, Panguma Town, Kenema 
+District 
+B.M. Darancy, Treasury Clerk, Gbense Chiefdom, Koidu  
+Farma, Chariman, Lower Bambara Chiefdom Mining Committee, Tongo Fields 
+Amidou Jiallo, Assistant Secretary General, Lower Bambara Chiefdom Mining 
+Committee,  
+Tongo Fields 
+Idrissa Amsrasgay, Task Force Commander, Lower Bambara Chiefdom Mining 
+Committee,  
+Tongo Fields  
+ 
+Department for International Development (DFID) 
+Richard Hogg, Head  
+Rebecca Stringer, Programme Manager  
+Samuel B. Koroma, Expert in Diamond Industry, Governance Reform Secretariat 
+Milton Songo, Researcher 
+Komba Sumana, Researcher 
+Alison George, EITI Project  
+ANNEX B 
+ 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                              B-2 
+Diamond Buyers and Dealers 
+Sidi Bay, Koidu, also Financial Secretary of the Diamond Dealers Association, Koidu 
+Medgar Brown, Dealer, Kenema  
+ 
+Diamond Cooperatives  
+B.M. Darancy, Chairman, Komafeneh Mining Cooperative, Koidu Town  
+Shar Stephen Tamba, Secretary, Koakoyma Mining Development Cooperative, 
+Koakoyma  
+ 
+Diamond Diggers  
+Independent diggers, supporters and license holders in Kono and Kenema Districts  
+ 
+Diamond Miners  
+Olufemi Hebron, Kono District  
+ 
+Diamond Exporters 
+Kassim Basman, Exporter, Koidu 
+Andre Hope, Exporter, Freetown 
+ 
+European Commission 
+Jean Pierre Millar, Expert for MMR 
+ 
+Foundation for Environmental Security and Sustainability  
+Daniel Gbondo, Field Representative, Sierra Leone 
+Darci Glass-Royal, Executive Director 
+ 
+Geo Resources  
+Dr. Alieu Mahdi, Consulting Geologist  
+ 
+Koidu Holdings S.A. 
+Jan Ketelaar, Koidu Kimerlite Mine, Mine Manager  
+ 
+Kono District Council  
+Sahr Tongu, Chairman 
+ 
+Law Reform Commission  
+Dr. Peter L. Tucker, Chairman  
+ 
+Management Systems International 
+Carl Harris, Chief of Party, Integrated Diamond Management Program 
+Mary Fitzjohn, Office Manager Freetown 
+Mary Fofanah, IDMP Community Mobilization Officer, Tongo Fields 
+Michael Jallo, IDMP Logistics, Koidu 
+Francis Johnston, Chief of Party, Strengthening Democratic Governance Project  
+John Kanu, Program Officer, IDMP  
+Frank P. Karefa-Smart, IDMP Diamond Business Advisor 
+ANNEX B 
+ 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                              B-3 
+Daniel Sarmu, IDMP Project Coordinator, Tongo Fields 
+Dr. Sahr Tongu, IDMP Deputy Team Leader, IDMP, Koidu 
+Ansumana Barbar Turay, IDMP Project Coordinator, Koidu  
+Mariama Mussa, IDMP, Trainer Tongo Fields,  
+Joge Daly, Technical Director, Washington DC 
+Alisha Eisenstein, Program Manger, Conflict Diamond Program Washington DC 
+Paul Temple, Former Chief of Party, by e-mail 
+Mark Renzi, Former Technical Advisor, by e-mail 
+ 
+Mining Equipment Companies  
+Jakkrit Panthong, Technical Consultant, DOVE (Mining) Equipment and Machinery Co.  
+ 
+Ministry of Internal Affairs 
+Pascal Ebgenda, Minister 
+ 
+Ministry of Local Government and Community Government  
+S. Brima, Minister 
+Sylvester L. Thomas, Local Council Coach for Kenema, Institutional Reform and 
+Capacity Building Project, Decentralization Secretariat,  
+ 
+Ministry of Mines 
+Alimamy Wurie, Director of Mines, Freetown 
+Jonathan Shaka, Government Mining Engineer, Kono District  
+A.M. Turay, Areas Superintendent, Arena No. 3, Kenema District 
+Samuel Vangi, Senior MMO, Kenema District 
+Santos Camara, MMO, Kenema District  
+Adbou Sandy, Assistant Senior Mines Monitoring Officer, Kenema District  
+John Simbo, Senior MMO, Kono District  
+Ettie Cole, Independent Diamond Evaluator, Kono 
+ 
+National Commission on Environment and Forestry 
+Dr. Chris Squire, Chairman  
+ 
+NACE  
+Ceclia Mathia, Director  
+ 
+National Democratic Institute  
+Karen Louise Booth, Long Term (Election) Observer 
+Alex Kirto, Long Term (Election) Observer 
+ 
+Network Movement for Justice and Democracy  
+Abu Brima, Executive Director  
+Patrick Tongu, Mining Section Head, Koidu 
+ 
+Office of the President  
+Yankuba Gbakie, Executive Secretary  
+ANNEX B 
+ 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                              B-4 
+ 
+Peace Diamond Alliance, Kono 
+Dr. T. Alpha-Kpetewama, Chairman, 2004, 2006  
+Mohammed Jabbie, Chairman PDA 2005, also member of MOCKY  
+ 
+Peace Diamond Alliance, Tongo Fields 
+Margaret Momo, Simava Women’s Group  
+Nancy Gando, Muloma 
+Patrick Anohai, Represents business 
+Annie Mohai, Tegloma (Moving Ahead) Women’s Group 
+Sheku Faima, Chairman and SPD Representative in Tongo Fields 
+ 
+Provincial Councils 
+CP Kallou, Deputy Chief Administrator, Kenema 
+Silla Thomas, Local Council Coach, Kenema  
+ 
+Radio Sierra Leone Broadcasting Service 
+Alim D’Yam Sesay, News Editor, Koidu 
+ 
+Rokel Bank 
+Mr. Kamara, Director, Koidu Branch 
+Mr. Abud, Assistant Director, Koidu Branch 
+ 
+Search for Common Ground  
+Frances Fortune, Director Africa 
+ 
+State Department  
+Ambassador  
+Elizabeth Suzie Pratt, Deputy Chief of Mission, American Embassy Sierra Leone 
+Martin Dale, Political/Economics Officer 
+Sue Saarino, Special Advisor for Conflict Diamonds, Washington 
+ 
+Talking Drums Studio 
+Abdul Rashid, Public Information Director  
+ 
+United Nations Development Programme  
+Sam Harbor, Governance Director 
+ 
+UNAMSIL  
+Berhanemeskel Nega, Chief, General Staff 
+ 
+United Mineworkers’ Union 
+Ezekiel Dyke, General Secretary  
+ 
+US Government Accountability Office (Washington, DC) 
+Juan F. Tapia-Videlia, Analyst-In-Charge, International Affairs and Trade 
+ANNEX B 
+ 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                              B-5 
+ 
+USAID/Sierra Leone 
+Christine Scheckler, Country Program Coordinator 
+Abdulai Jalloh, Democracy and Governance 
+Boi Jeneh Jalloh  
+Edward Benya, Agriculture 
+ 
+USAID/Washington 
+Sarah Swift, Desk Officer for Sierra Leone (by phone) 
+Sharon Isralow, Conflict Advisor Africa Bureau 
+Tim Resch, Environmental Advisor 
+Scott Bode 
+Achieng Akumu 
+ANNEX C 
+ 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                             C-1 
+ANNEX C 
+ 
+EVALUATION METHODOLOGY 
+ 
+The evaluation of the USAID Diamond Program took place in April - May 2007. As the 
+requested by the Scope of Work, the evaluation team focused primarily on the 2004- 
+present time period. However as this program was a continuation of the program started 
+in 1999, and as many of the results were made before the current program started, the 
+evaluation team looked at the entire period, but used the Results Framework for the on-
+going program as the means to structure the evaluation and content of the report. 
+ 
+The objectives of the evaluation in the Scope of Work were to:  
+• Ascertain the effectiveness of past and current USAID Diamond Sector 
+Interventions, focusing on those undertaken since 2004; 
+• Draw on lessons learned and best practices to date; and 
+• Reflect on weaknesses and failure to inform a future diamond program design. 
+ 
+The evaluation was primarily undertaken in Sierra Leone with initial work in Washington 
+DC. 
+ 
+In Washington, the team met with relevant USAID/Washington staff, including those in 
+the Africa, DACHA and other bureaus, those responsible for environmental issues and 
+the Special Advisor for the State Department for Conflict Diamonds. It also met with MSI 
+staff responsible for the administration of the diamond program in Washington. The 
+team started its initial review of documentation and prepared a work plan for the field 
+work. 
+ 
+In Sierra Leone, the team undertook an extensive array of meetings with partners, 
+stakeholders and others in Freetown and in the diamond districts of Kono and Kenema.  
+Key actors who were not in –country or in Washington were interviewed either by phone 
+or through the use of an e-mail questionnaire.  The evaluation coincided with an 
+increase in political activity related to the upcoming elections, which meant that a few 
+key GOSL individuals were out “pre-campaigning” and were not available. However, the 
+team was still able to meet with a broad range of governmental, donor, civil society, 
+international NGO, private sector and international mining companies.  
+ 
+In the districts of Kono and Kenema, the team was able to: 
+• Visit both offices of the IDMP program; 
+• Speak to PDA members and its current Executive Directors; 
+• Visit reclamation of sites done by women’s organizations, FESS and the MMR 
+• Attend a small stones training 
+• Visit buildings constructed through use of the DACDF fund and drove on 
+community roads rehabilitated through the use of DACDF funds.  
+• Visit artisanal mines in Koidu, Tongo Fields and surrounding areas 
+ANNEX C 
+ 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                             C-2 
+• Visit the Koidu Holdings kimberlite mine 
+• See Kenema District’s records books on the DACDF fund 
+• Visit the independent diamond valuator in Koidu 
+• Visit Chiefdom Mine Monitors, MMR Mine Monitors and commercial mine 
+monitors 
+• Speak to diggers, miners, buyers, dealers and salesmen in Kono and Kenema 
+• Observe the buying and selling of diamonds  
+• Visit some PDA members in their own settings, such as World Vision in Tongo 
+and the Alluvial Gold and Diamond Miners Association in Koidu 
+• Visited several cooperatives in Kono and Kenema Districts 
+• Visited communities and spoke to community members, traditional leaders and 
+local CSO members 
+ 
+ 
+In Freetown, the team visited the MMR to see its working conditions as well as those of 
+other relevant Ministries and Government offices. This evaluation overlapped with a visit 
+by FESS and we were able to benefit from their expertise on land reclamation.  
+ 
+The evaluation also undertook a review of available documentations, which was 
+extensive. The diamond sector in Sierra Leone has been of great international interest 
+and the USAID funded diamond program has been extremely prolific. 
+ 
+Preliminary findings by the team were discussed in a round table at USAID attended by 
+key stakeholders and partners to validate preliminary findings and refine 
+recommendations. 
+ 
+The team would like to thank all of those who participated in the round table and in 
+evaluation interviews. In particular, the IDMP program staff and USAID-Sierra Leone 
+who were generous with their time, insight and expertise.  
+ 
+ 
+ 
+ 
+ 
+Annex D 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                             D-1 
+ANNEX D 
+ 
+REFERENCES  
+ 
+Author 
+Title 
+Date 
+CARE 
+Final Evaluation of the Office of Transition 
+Initiatives’ Program in Sierra Leone Final Report  
+August 2002 
+CDP 
+Report on Second Phase of Activities 
+December 23, 
+2001 
+CRS 
+Diamonds and Conflict: Policy Proposals and 
+Background 
+January 16, 
+2001 
+DDI 
+Diamond Development Initiative Accra 
+Conference 
+October 27-30, 
+2005  
+DDI 
+La Dynamique de L’établissement des Prixet de 
+la Commercialisation des Ddamants en Sierra 
+Leone  
+August 2006 
+DFID 
+Sierra Leone Diamond Policy Study - Jim 
+Williams Geologist Donald Sutherland Kimberly 
+Cartwright -Martin Byrnes 
+January 2002 
+DHS 
+Diamond Industry Annual Review Annual 
+Review Sierra Leone 2005 
+February 2005 
+DHS 
+The Failure of Good Intentions in the Brazilian 
+Diamond Industry  
+May 2005 
+Diamond Industry 
+Annual Review  
+Diamonds Human Security 
+ 
+DIPAM 
+1st Semi-Annual Report 
+April 30, 2003 
+DIPAM 
+2nd Semi-Annual Report 
+1st May 1--31st 
+October 31, 
+2003 
+DIPAM 
+First Semi-Annual Report (through 30 April 
+2003) 
+April 30, 2003 
+DIPAM 
+Second Semi-Annual Report: 1 May through 31 
+October 2003 
+October 31, 
+2003 
+Annex D 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                             D-2 
+Author 
+Title 
+Date 
+DSH 
+Diamond Industrial  
+June 2006 
+DSH 
+Guerre et Paix en Sierra Leone - Lansana 
+Gberie 
+June 2002 
+GAO 
+Conflict Diamonds Agency Actions Needed to 
+Enhance Implementation of the Clean Diamond 
+Trade Act  
+September 2006 
+GAO 
+International Trade Significant Challenges 
+Remain in Deterring Trade in Conflict Diamonds 
+February 13, 
+2002  
+GAO 
+International Trade Critical Issues Remain in 
+Deterring Conflict Diamond Trade 
+June 2002 
+GDD 
+Sierra Leone Diamond Export Data  
+April 2007 
+George J. Coakley  The Mineral Industry of Sierra Leone 
+October 2004  
+Global Witness  
+An Independent Commissioned Review on 
+Kimberley Process 2006 
+undated 
+Global Witness  
+Global Witness Monitoring Reports Submitted to 
+Management Systems International 
+January 17-25, 
+2005 
+Global Witness  
+Monitoring the Integrated Diamond Management 
+Program’s Diamond tTracking System in Sierra 
+Leone 
+May 2006 
+Global Witness  
+The Kimberley Process at Risk 
+November 2006  
+GRAMA - 
+Université du 
+Québec à 
+Montréal (UQAM)  
+Les Diamants en Sierra Leone De la mine à la 
+mort. - PATRICK ROBITAILLE  
+November 29, 
+2004  
+High Level 
+Diamond Steering 
+Committee  
+Meeting Notes 
+October 24, 
+2006 
+HLSC  
+Term of Reference 
+Hand out 
+HLSC  
+Term of Reference/Background 
+Undated 
+ICG Freetown 
+Sierra Leone: The State of Security and 
+Governance  
+September 2, 
+2003  
+Integrated 
+Year End 2005 Indicators Report 
+December 2005 
+Annex D 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                             D-3 
+Diamond 
+Management 
+Program 
+IRG/ CEMMATS 
+Programmatic Environmental Assessment 
+February 2005 
+Law Reform 
+Commission 
+Annual Report 2005 
+July- 2006 
+Mining Journal 
+Books Ltd  
+From Mine to Mistress Corporate Strategies and 
+Government Policies in the International 
+Diamond Industry - Chaim Even-Zohar  
+Undated 
+Ministry of Mineral 
+Resources  
+CORE MINERAL POLICY  
+November 20-03
+Ministry of Mineral 
+Resources 
+Details of Policy Measures to Small Scale and 
+Artisanal Mining and Marketing of Minerals 
+Hand out 
+MSI 
+(IDMP), WORK PLAN 
+October 2004-
+September 2005 
+MSI 
+1st Quarterly Activity Report, Oct.-Dec. 2004 
+February 2005 
+MSI 
+3rd Semi-Annual Report 
+November 1, 
+2003 -April 30, 
+2004 
+MSI 
+IDMP Strategic Development Planning 
+June 28, 2005  
+MSI 
+Integrated Diamond Management Program 
+(IDMP) 
+March 27, 2007  
+MSI  
+Mines Monitoring Officer Training Project Project 
+Report  
+April 27, 2001 
+MSI 
+Strengthening Democratic Governance Program 
+in SL 
+Hand out 
+MSI 
+Trip Report of MSI Team Visit To Sierra Leone 
+February 4, 2000
+MSI 
+USAID Diamond sector Reform Programs 
+Undated 
+MSI / PDA 
+DIPAM (Diamond Policy and Management) 
+Project Third Semi-Annual Report 
+November 1, 
+2003 to April 30, 
+2004  
+MSI / PDA 
+First Semi-Annual Report for the Peace 
+Diamond Alliance (PDA) Project  
+September 2003 
+Annex D 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                             D-4 
+MSI / PDA 
+Institutional Assessment of Alluvial Diamond and 
+Gold Miners’ Association of Kono District 
+(ADAGMAK) Coordinators of Mminers and 
+Ddealers  
+September 2004 
+MSI / PDA 
+Institutional Assessment of SINAVA Women’s 
+Group, Tongo Fields 
+ October 2004  
+MSI / PDA 
+Institutional Assessment of Kuendondoya 
+Woman’s Association 
+September 2004 
+MSI / PDA 
+Institutional Assessment of Kuendondoya 
+Woman’s Association  
+September 2004 
+MSI / PDA 
+Institutional Assessment of Movement of 
+Concerned Kono Youth (MOCKY)  
+September 2004 
+MSI / PDA 
+Institutional Assessment of Pentagon, Tongo 
+Fields 
+October 2004 
+MSI / PDA 
+Peace Diamond Alliance (PDA) Second Semi-
+Annual Report  
+February 29, 
+2004 
+MSI / PDA 
+Potential Diamond Anti-Smuggling Activities For 
+Consideration in Sierra Leone  
+October 2004 
+MSI / PDA 
+Report of the Second General Meeting of the  
+Peace Diamond Alliance 27-28 August 2003, 
+Koidu Town, Sierra Leone  
+September 2003 
+MSI / PDA 
+Report of the Third General Meeting of the 
+Peace Diamond Alliance 17-18 August 2005 – 
+Koidu, Sierra Leone  
+August 2005 
+MSI / PDA 
+Report on Artisanal Mining Cooperatives 
+Training Program  
+August 2004  
+MSI / PDA 
+Report on Sustainability Workshop with Peace 
+Diamond Alliance Executive Committees of 
+Kono and Tongo Fields  
+March 2004 
+MSI / PDA 
+Sierra Leone Diamond Sector Financial Policy 
+Constraints  
+June 2003 
+MSI / PDA 
+ Summary of Planning Task Force Meeting of 
+the Peace Diamond Alliance  
+March 2003  
+MSI / PDA 
+USAID Diamond Sector Reform Programs 
+Indicator Report  
+2004 
+Annex D 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                             D-5 
+MSI / PDA/  
+Reese Moyers 
+The Feasibility of Establishing a Formal Credit 
+Delivery Mechanism for Small-Scale Diamond 
+Miners in Kono District, Sierra Leone   
+May 2003  
+MSI/ Chaim Even-
+zohar 
+Sierra Leone-Diamond sector Financial Policy 
+Constraints 
+June 2003 
+OECD/DAC 
+Minerals and Conflict 
+Hand out 
+OTI 
+Assessment of Sierra Leone’s New Diamond 
+Policy and Procedures 
+November 23, 
+2000 
+OTI 
+Briefing Notes on OTI’s Role supporting Anti-
+corruption/Community Management of Diamond 
+Resources through its contract with 
+Management Systems International 
+June 24, 2005 
+PDA 
+Assignment for Ad Hoc Committee 
+ 
+PDA 
+Brochure on Mining Co-operatives 
+Hand out 
+PDA 
+Brochure on PDP 
+Hand out 
+PDA 
+DACDF Final Performance Report 
+February 1-
+August 31, 2003 
+PDA 
+PDA Brochure 
+ 
+PDA 
+The Peace Diamond Alliance Code of Conduct 
+September 29, 
+2004 
+Rob Dunn, Chair, 
+Working Group on 
+statistic  
+Report on the Working Group on Statistics 
+November 2006 
+Technical 
+committee meeting  
+Minutes 
+July 19, 2006 
+Technical 
+committee meeting  
+Minutes of the Technical Committee Meeting  
+May 30, 20-06 
+Technical 
+committee meeting  
+Minutes of the Technical Committee Meeting  
+January 17, 
+2006 
+TRC 
+Artisanal Miners, including many 
+Children/chapter one 
+ 
+U.S. Geological 
+Survey- Mineral 
+The Minster Industry of Sierra Leone  
+1996 
+Annex D 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                             D-6 
+Information  
+UNDP 
+Diamonds for Development Sub-Regional 
+Conference 
+June 28-30, 
+2006 
+United States 
+Government 
+Accountability 
+Office 
+Report on Congressional Committees 
+September 2006 
+University of 
+British Columbia/  
+EA Levin 
+From Poverty and War to Prosperity and Peace? February 2005  
+US Embassy, 
+Freetown 
+ 
+Briefing to Ambassador Chaveas on MSI 
+Diamond Activity Planning 
+December 20, 
+2001 
+USAID  
+(IDMP), Work Plan 
+October 31, 
+2005 
+USAID  
+(IDMP), Work Plan April To December 2007 
+May 18, 2007 
+USAID 
+Fragile States Strategy 
+January, 2005 
+USAID  
+IDMP Program 10th quarterly Activity Report  
+April 30, 2007 
+USAID  
+IDMP Program 10th quarterly Activity Report  
+April 30, 2007 
+USAID  
+IDMP Program 2nd quarterly Activity Report  
+April 2005 
+USAID  
+IDMP Program 3rd quarterly Activity Report  
+July 2005 
+USAID  
+IDMP Program 8th quarterly Activity Report  
+October 2006 
+USAID  
+IDMP Program 9th quarterly Activity Report 
+January 30, 
+2007 
+USAID 
+Integrated Diamond Management Program 6th 
+Quarterly Activity Report 
+January 31 -
+March 31, 2006  
+USAID 
+PDA Support Project 
+January 2005 
+USAID 
+ Report on the Kimberly Process Plenary 
+Moscow, Russia  
+November 15-
+17, 2005  
+USAID 
+Review of the Implementation of Anti-Money 
+Laundering Legislation By the Sierra Leone 
+March 2006 
+Annex D 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                             D-7 
+Banking Sector 
+USAID  
+Sierra Leone Integrated Diamond Management 
+Program 
+July 30, 2006 
+USAID  
+Sierra Leone: “Conflict” Diamonds Progress 
+Report on Diamond Policy and Development 
+Program  
+March 30, 2001  
+USAID  
+Strategic Framework for Africa 
+February 24, 
+2006  
+USAID  
+Strategy Statement  
+May 10, 2006  
+USAID  
+The Sierra Leone Diamond Sector 
+2006 
+USAID  
+USAID Sierra Leone Strategy Statement  
+May 10, 2006  
+USAID  
+USAID Sierra Leone Strategy Statement FY 
+2006- FY 2008 
+May 10, 2006 
+USAID  
+USAID/Sierra Leone Annual Report FY 2003  
+March 13, 2003 
+USAID  
+USAID/Sierra Leone Annual Report FY 2004 
+June 14, 2004  
+USAID  
+USAID/Sierra Leone Annual Report FY 2005 
+June 16, 2005 
+USAID  
+USAID/Sierra Leone Annual Report Parts III – 
+VII 
+2002 
+USAID  
+USAID/Sierra Leone Operational Plan FY 2002 
+February 2002 
+USAID  
+USAID/Sierra Leone Operational Plan FY 2006  
+June 2, 2006  
+USAID  
+Women and Conflict 
+December 2006 
+USAID  
+Youth and Conflicts 
+September 2004 
+USAID / EPIQ / 
+IRG 
+Programmatic Environmental Assessment for 
+USAID Support to Small-Scale Artisanal Mining 
+activities in Sierra Leone  
+February 2005 
+USAID / MSI 
+Integrated Diamond Management & Policy 
+(IDMP) Program Third Quarterly Activity Report 
+April 1-June 30, 
+2005  
+USAID / MSI 
+Integrated Diamond Management & Policy 
+(IDMP) Program 2nd Quarterly Activity Report 
+January 1- 
+March 31, 2005  
+USAID / MSI 
+Integrated Diamond Management Program Year December 2005  
+Annex D 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                             D-8 
+End 2005 Indicators Report 
+USAID / MSI 
+Integrated Diamond Management Program 
+(IDMP) Workplan 
+August 15, 2006 
+- March 31, 2007 
+USAID / MSI 
+Integrated Diamond Management Program 
+(IDMP) Workplan 
+October 31, 
+2005 
+USAID / MSI 
+Mining the “Chaos” in Sierra Leone’s Diamond 
+Fields: Policy and Program Implications of the 
+Structure of the Artisanal Mining Sector in Sierra 
+Leone  
+June 2005  
+USAID / MSI 
+PDA (Peace Diamond Alliance) Support Project 
+Project Closeout Report  
+January 2005  
+USAID / MSI 
+Report of the Third General Meeting of the 
+Peace Diamond Alliance Koidu, Sierra Leone  
+August 2005  
+USAID / MSI 
+Sierra Leone Integrated Diamond Management 
+Program 10th Quarter Activity Report 
+January 1 - 
+March 31, 2007  
+USAID / MSI 
+Sierra Leone Integrated Diamond Management 
+Program 7th Quarter Activity Report 
+April 1-June 30, 
+2006  
+USAID/OTI 
+Making Diamonds Work for Sierra Leone 
+Preliminary Sierra Leone OTI Results 
+Framework 
+May 5, 2000 
+USAID/OTI 
+Progress Report on Diamond Policy and 
+development Program 
+March 30, 2001 
+USAID/OTI 
+USAID Assistance for Diamond Policy and 
+Development 
+March 30, 2001 
+USAID/RRB 
+OTI/IPC Assistance to CMRRD: Brainstorming 
+April 28, 2000 
+USAID/SL 
+Annual Report FY 2003 
+March 13, 2003 
+USAID/SL 
+Annual Report FY 2004 
+June 14, 2003 
+USAID/SL 
+Operational Plan FY 2006 
+June 2, 2006 
+USAID/SL 
+Selected Performance Measures-Sierra Leone 
+March 13, 2003 
+USAID/SL 
+Strategy Statement 
+May 10, 2006 
+USAID/SL 
+Transition Strategy Phase2 
+August 8, 2003 
+Annex D 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                             D-9 
+World Bank 
+Transitional Support Strategy for the Republic of 
+Sierra Leone  
+November 17, 
+2000  
+ 
+Report from Scoping trip to Sierra Leone 
+January 17-25, 
+2005 
+ 
+Report on Stakeholders’ Meetings 
+October 7– 17, 
+2001 
+ 
+Community Development Fund Radio 
+Programme 
+ 
+ 
+Memorandum Of Understanding Finance And 
+Operational Agreement Between the Peace 
+Diamond Alliance “X” Cooperative Society and 
+The Rapaport Group 
+ 
+ 
+Annex E 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                              
+ 
+ 
+ 
+ 
+E-1 
+ANNEX E 
+IDMP MANAGEMENT CHART 
+ 
+Annex F 
+ 
+ 
+ 
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                              
+ 
+ 
+ 
+ 
+F-1 
+ANNEX F 
+DACDF UTILIZATION PROFILES 
+ 
+Source: IDMP Year End 2005 Indicators Report, p11 
+ANNEX G
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                                                          
+G-1
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                                                          
+G-2
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                                                          
+G-3
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                                                          
+G-4
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                                                          
+G-5
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                                                          
+G-6
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                                                          
+G-1
+G-7
+USAID/Sierra Leone Diamond Sector Program Evaluation Report                                                          
+G-8

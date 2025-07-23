@@ -1,0 +1,2432 @@
+The new IGAC Science Plan and Implementation Strategy, available on the IGAC web
+page (www.igac.noaa.gov), has been approved by our parent organizations, IGBP and
+CACGP. We would again like to thank all those who have commented so positively and
+provided written material and graphics. The new IGAC Scientific Steering Committee
+(SSC) has also been approved by IGBP.  Tim Bates (USA), Sandro Fuzzi (ITA), and Shaw
+Liu (CHN-Taipei) will be sharing the duties of co-chairs of the SSC. We would like to wel-
+come the other members of the SSC: John Burrows (DEU), Laura Gallardo (CHL), Ilia
+Illyin (RUS), Achuthan Jayaraman (IND), Makoto Koike (JPN), Kathy Law (FRA), Ulrike
+Lohmann (CAN), Dave Lowe (NZL), Martin Manning (USA), David Parrish (USA), Phil
+Rasch (USA), Mary Scholes (ZAF), Eric Wolff (UK), and Yongfu Xu (CHN-Beijing). We
+look forward to working with them as we begin the second phase of IGAC.
+The International Project Office (IPO) responsibilities for the new IGAC will be split
+between three offices: a North American IPO in Seattle USA, an Asian IPO in China –
+Taipei, and a European IPO in Italy.  The North American IPO will be the main point of
+contact for IGAC for the next two years while the Asian and European IPOs are coming
+on line.  With the move of the North American IPO from New Hampshire to Seattle we
+would like to welcome the new North American IGAC Executive Officer, Dr. Sarah
+Masonis.  Sarah will be working for IGAC half time and continuing her research on opti-
+cal properties of atmospheric aerosol particles at the University of Washington half time.
+Sarah can be contacted at igac@noaa.gov; www.igac.noaa.gov.  We would like to thank
+our outgoing Executive Officer, Peter Czepiel, for his many contributions to IGAC over
+the past year and a half.  Peter will be returning to a research position at the University of
+New Hampshire.
+Certainly a highlight of IGAC is the biannual international science symposium. Our last
+symposium, held jointly with the CACGP in September 2002 in Crete, Greece was a
+tremendous success with over 550 participants.  We would like to again extend our sincere
+appreciation to Maria Kanakidou, the local organizing committee, the international scien-
+tific steering committee, and our many sponsors for this outstanding event. The science
+articles in this issue of IGACtivities highlight some of the invited presentations and sci-
+entific discussions We envision that many of these topics (e.g., the oxidizing capacity of
+the atmosphere; intercontinental transport and chemical transformation; developing the
+potential of satellite remote sensing through the integration of in-situ measurements, mod-
+els and satellite observations; processes controlling tropospheric ozone concentrations)
+will become the first “Tasks” of the new IGAC. A guide to submitting proposals for IGAC
+Tasks can be found on the IGAC website at http://www.igac.noaa.gov/proposals.php.
+Issue No. 28
+May 2003
+In this Issue
+A Note from the 
+Co-Chairs
+Science Features
+2 
+IGAC-GHOST
+6 
+Tropical Troposperhic
+Ozone
+12 Composition of Asian
+Deposition
+14 SCIAMACHY on
+ENVISAT
+20 The Regional 
+Integrated Project
+Mediterranean
+24 Comparison of Aerosol
+Chemical and Optical
+Properties
+31 Announcements
+A Note from the IGAC Co-Chairs:
+Tim Bates, Sandro Fuzzi, and Shaw Liu
+of the International Global Atmospheric Chemistry Project
+Newsletter
+tivities
+Investigation of the Global 
+Atmospheric Oxidation
+Efficiency and Its Trends:
+A Proposal to  Initiate
+IGAC-GHOST (Global HO
+Systematic Tests) 
+Contributed 
+by 
+Patrick 
+Jöckel, 
+Carl 
+A. M.
+Brenninkmeijer (joeckel@mpch-mainz.mpg.de) Max-
+Planck-Institute for Chemistry, Air Chemistry, P.O. Box
+3060, 55020 Mainz, Germany, Hanwant B. Singh, NASA
+Ames Research Center, Mail Stop 245-5, Moffett Field, CA
+94035, USA and Paul J. Crutzen, Max-Planck-Institute
+for Chemistry and Scripps Institution of Oceanography,
+University of California, San Diego, USA.
+Introduction
+The main chemical characteristic of the earth’s atmos-
+phere is its self cleansing efficiency, which for instance
+limits the average lifetime of methane molecules to less
+than 10 years. By and large, the input of reduced gases into
+the atmosphere and their rate of removal are in dynamical
+balance. 
+The main tropospheric cleansing agent, the “detergent of
+the atmosphere”, is the OH radical (hydroxyl, sometimes
+designated HO). Its presence is due to the photolysis of
+ozone by which excited oxygen atoms are formed. When
+these react with water molecules before becoming
+quenched through collision with other air molecules lead-
+ing to the re-formation of ozone, two OH radicals are
+formed. Other primary sources of OH may also exist and
+can be important, such as for instance organic molecules
+like acetone in the upper troposphere. 
+Tropospheric ozone, the presence of which is of funda-
+mental importance, has 2 source categories. One is its
+import from the stratosphere, the other is in situ photo-
+chemical formation within the troposphere. The only sig-
+nificant chemical source of tropospheric ozone is the pho-
+tolysis of NO2, followed by direct O + O2 →O3. A lot of
+O3 net production takes place in the upper troposphere. 
+In the background troposphere, hydroxyl radicals react
+mainly with methane (CH4) and carbon monoxide (CO),
+providing the main removal process of these gases from the
+atmosphere. The reactions, however, constitute not neces-
+sarily a sink for OH. In the presence of NO, hydroxyl rad-
+icals can be recycled, for instance via the reaction
+sequences 
+OH + CO(+O2) →CO2 + HO2
+(1)
+HO2 + NO →OH + NO2
+(2)
+NO2 + hν (+O2) →NO + O3
+(3)
+net: CO + 2O2 →CO2 + O3
+(4)
+or via 
+OH + CH4(+O2) →CH3O2 + H2O
+(5)
+CH3O2 + NO →CH3O + NO2
+(6)
+CH3O + O2 →CH2O + HO2
+(7)
+HO2 + NO →OH + NO2
+(8)
+2x  NO2 + hν + O2 →NO + O3
+(9)
+net: CH4 + 4O2 →CH2O + H2O + 2O3,
+(10)
+providing sources for tropospheric ozone. Photolysis of
+CH2O can next lead to the production of HO2 radicals,
+which are converted into OH radicals by reaction with NO. 
+The importance of OH for the chemistry of the troposphere
+is undisputed. Yet, although our knowledge has increased
+considerably since OH was recognized for its importance
+(Levy, 1971), it has remained a rather elusive species. Its
+very high reactivity towards many trace gases makes it
+responsible for ridding the atmosphere of a host of reduced
+gases, but at the same time this extreme reactivity reduces
+its lifetime to less than a second. This leads to a low abun-
+dance and to extreme spatial and temporal variability. But
+also the sources of OH are highly variable. Its primary pro-
+duction depends on UV radiation, that is diurnally variable,
+and particularly the amount of water vapor is very variable.
+All in all we are dealing with a highly variable trace species
+at a concentration of only about 1 million per cm3, corre-
+sponding to about 3 OH radicals per 1014 air molecules. As
+a result, we cannot reconstruct the ever changing global
+tropospheric distribution of OH from direct measurements
+of OH. Also important is the question, how stable the glob-
+al OH abundance is on the time scale of decades (Crutzen
+and Zimmermann, 1991; Prinn et al., 2001; Lelieveld et al.,
+2002). 
+Enormous progress has been made in the detection of
+OH. Several groups worldwide master the techniques for
+reliably detecting OH, even from aircraft (Crosley, 1995;
+Hausmann et al., 1997; Hofzumahaus et al., 1998; Hard et
+al., 1995; Wennberg et al., 1998; Tan et al., 2001; Tanner et
+al., 1997; Crosley, 1997; Brune et al., 1999). This all has
+contributed enormously to our improved understanding of
+the basic chemistry of the atmosphere. 
+Since one cannot reconstruct the global distribution of
+OH, and therefore, the atmosphere’s oxidation efficiency
+from in situ measurements, much of what is known about
+the distribution of OH is derived from modeling (e.g.
+Spivakovsky et al., 2000). However, it is largely unknown
+how closely the global tropospheric OH distributions as
+derived from 3D chemistry-transport models reflect reality.
+There are quite different global OH distributions “in use”,
+all of them showing the characteristic maximum in the
+tropics, but showing differences between the hemispheres
+IGACtivities  2
+SCIENCE FEATURES
+for instance (e.g, Lawrence et al., 2001, and references
+therein).
+Because direct measurements only offer limited help,
+indirect methods are being used. The basic idea is to meas-
+ure the concentration and change in time of a trace gas that
+is predominantly removed from the troposphere through
+reaction by OH, and whose source strength is known
+(Singh, 1977a). In this way the ‘global average’ OH abun-
+dance, and its changes can be derived (Lovelock, 1977;
+Singh, 1977a,b). In the simplest case a box model is used,
+but 2D and 3D models have become more common. At the
+outset, and parts of the following discussion will touch
+upon this, it is clear that this indirect estimation of OH is
+biased by the choice of model, and of the trace gas that is
+scavenged by OH. 
+One could propose to use methane as a tracer for OH, yet,
+the sources of methane are far from being accurately
+defined. In fact, there are basically 2 serious options for
+assessing OH. One is based on industrial tracers, the other
+uses a cosmogenic tracer. 
+For over 20 years the increase and subsequent decline of
+the tropospheric abundance of the industrial tracer
+methylchloroform (MCF) (phased out under the Montreal
+Protocol) has been followed with increasingly more refined
+methods from several measurement sites with the impor-
+tant goal to obtain a measure of the total amount of OH,
+and to obtain information about possible trends. The meas-
+urement of MCF by several researchers forms by far the
+main basis for the independent experimental verification of
+model derived distributions of OH (Spivakovsky et al.,
+1990; Prinn et al., 1995; Krol et al., 1998; Montzka et al.,
+2000; Prinn et al., 2001; Krol et al., 2003). Other studies
+focused on the use of HCFCs (Prather and Spivakovsky,
+1990; Kanakidou et al., 1995; Ehhalt et al., 1998; Miller et
+al., 1998). 
+Besides the use of MCF, some groups have measured the
+abundance of 14CO, the concentration of which is mainly
+determined by its production from cosmogenically gener-
+ated 14C, by the degree of importation from the strato-
+sphere where about 50% is formed, and by its reaction with
+OH. Because 14CO measurements (abundance a mere 5 to
+25 molecules per cm3 STP) are elaborate and expensive,
+the 14CO method has been applied on a small scale only
+(Volz et al., 1981; Brenninkmeijer et al., 1992; Mak and
+Southon, 1998; Tyler et al., 1999; Quay et al., 2000; Jöckel
+and Brenninkmeijer, 2002; Jöckel et al., 2002b).
+Basically what is done in using the indirect methods
+(MCF, or occasionally 14CO, and in the future other indus-
+trial or perhaps ’dedicated’ tracers), is to verify to what
+degree a given model, and its corresponding OH distribu-
+tion correctly simulates the behavior of a tracer. If this sim-
+ulation is excellent, we have successfully tested very
+important aspects of the model, and it is probable that the
+model will do a reasonable job concerning the removal of
+other trace gases, e.g. methane or carbon monoxide. We
+could then also predict future changes of OH by knowing
+the future changes in the input parameters of the model. 
+However, thus far there seems to be considerable uncer-
+tainties about what MCF tells us, as is witnessed by the
+vivid debates in the literature (Butler et al., 1991; Hartley
+and Prinn, 1991; Spivakovsky et al., 1991; Cunnold and
+Prinn, 1991; Spivakovsky, 1991; Prinn and Huang, 2001;
+Krol et al., 2001).
+The idea to assess the local OH concentration by inject-
+ing dedicated OH tracers at least on short time scales (< 1
+day) has been discussed earlier (Davenport and Singh,
+1987 and references therein), but has never been success-
+fully implemented. 
+In a recent paper some issues related to the determination
+of “global average OH” have been explored (Jöckel et al.,
+2002a), and briefly the following issues were raised:
+1. the use of a dedicated tracer on the global scale, 
+so that the quantitative input of tracer is undisputed 
+2. the use of 2 tracers of different lifetimes to
+partially separate the effects of transport from
+those of chemistry 
+3. the optimization of such a tracer (reaction rate 
+constant, temperature dependence) 
+4. the optimization of the observation sites for following
+the decay of the tracer 
+5. the possibility of deriving “global average OH”, 
+independent of a chemistry-transport model 
+At the IGAC/CACGP meeting in Crete, September 2002,
+preliminary discussions were held concerning steps to
+increase our knowledge to derive the global average oxida-
+tion efficiency (“global average OH”) and its potential
+trend. As a result of these discussions it was proposed to
+develop an IGAC activity ‘IGAC-GHOST’ to optimize
+progress. IGAC-GHOST is an integrated initiative that is
+global in scope and cuts across many disciplines such as
+modeling, ultra-sensitive analytical methods, synthesis of
+idealized chemicals, and the necessary kinetic and physical
+property determinations including toxity.
+Proposed Tasks
+The following questions should be addressed: 
+• Which properties of the global OH abundance/
+distribution have to be known and for what reason? 
+(spatio-temporal distribution, total abundance, 
+trends, variability, time scale) 
+• How variable is the global OH distribution? 
+• How and to what degree do natural processes (e.g. El
+Niño) and man made disturbances perturb the global
+OH distribution? Can these perturbations be 
+observed? 
+• What are the benefits and limitations of tracer 
+methods? 
+- What can tracer methods actually tell us about
+the OH distribution? 
+- What is the relationship between the effective
+tracer lifetime and global OH distribution? 
+- How sensitive are tracer methods to the 
+boundary conditions? 
+- Which information is needed for scaling tracer 
+lifetimes of different tracers? 
+IGACtivities  3
+- Which spatio-temporal averaging of the OH
+distribution is implied in tracer methods? 
+- Which additional information can be gained by
+using multiple tracers? 
+- How well can dynamical and chemical effects be
+distinguished from observations of tracer
+abundances? 
+- What are the fundamental limitations resulting
+from the lack of information? (How) can the 
+spatio-temporal OH distribution be 
+re-constructed from a limited number of 
+observations? 
+• What are the benefits and limitations of in-situ 
+methods; how can in-situ measurements be used to
+complement the global tracer methods? 
+• Can a “global atmospheric oxidation efficiency” be 
+defined unambiguously as an intrinsic property of
+the atmosphere, and what is its relation to the OH 
+distribution? 
+In using tracers, two approaches can be distinguished: 
+1. existing natural and industrial tracers (i.e.,“tracers of
+opportunity”) 
+• What are the largest uncertainties which limit the 
+quantification of the global OH abundance? 
+• With what accuracy can emission estimates be 
+established? 
+• Which tracers can be used for probing which
+property of the global OH abundance? 
+• What is the optimal sampling strategy to gain
+maximum information? 
+(Note: Much of this is already ongoing!) 
+2. dedicated tracers (tailor-made) 
+• What property of the OH abundance/distribution
+can be addressed by the use of dedicated tracers 
+(time scale, spatial scale) 
+• Which are the properties of the ’ideal’ tracer(s)
+(pressure-, temperature- dependence of the 
+reaction coefficient, additional sinks (ocean, 
+photolysis, soil, chemistry, ...))? Which of these 
+properties can be designed as ’real’ tracers? 
+• What is the optimal sampling strategy to gain 
+maximum information? 
+We suggest the following questions to be considered: 
+1. Theoretical investigations, e.g., Computer Aided 
+Gedanken Experiments (CAGEs) of dedicated tracers 
+to answer the following questions: 
+• Are tracer method 1 (tracers of opportunity) 
+and/or 2 (dedicated tracers) feasible to measure 
+the required properties of the global OH 
+distribution. 
+• Which tracers are best suited? 
+• What can be gained by using multiple tracers of 
+different lifetimes / properties? 
+• What is the optimal release strategy to gain 
+maximum information? 
+• What is the optimal sampling strategy to gain 
+maximum information? 
+• How can the spatio-temporal OH abundance/
+distribution be reconstructed from tracer 
+observations? 
+• What can we learn from applying statistical
+methods (e.g. lifetime versus variability)? 
+• Advanced inversion techniques: What are the
+limitations? 
+• 3D global atmospheric models: What are the
+largest uncertainties? 
+• The issue of lacking information: How robust 
+are the results of the ‘reconstruction methods’?
+Which additional information can profitably be
+added? How sensitive are the results to 
+uncertainties of this additional information? 
+• Is it possible to trace accurately the uncertainties
+of the various methods? 
+• Can systematic errors be investigated? 
+2. If the outcome of 1. is favorable to perform a real, 
+dedicated tracer experiment: 
+• Which tracer compounds can be used? 
+• What are the necessary detection limits for
+reasonable tracer release rates? 
+• Which measurement techniques are available? 
+• Which observational accuracy/precision is 
+needed? 
+• Cost calculations 
+• Where and how to release the tracers? 
+• Where and how to monitor the tracer decay? 
+• Execution of dedicated tracer experiments 
+We further suggest an approach starting from an ‘ideal’
+world, i.e., addressing the fundamental issues (e.g. lack of
+information, sampling strategy, etc.), passing successively
+over to more and more ‘realistic’ conditions, i.e., address-
+ing at the end also the practical issues (e.g. tracer mass,
+cost, measurement technique, etc.). This allows a complete
+trace of uncertainties and limitations of the method: 
+1. Feasibility of the tracer method: General
+considerations and limitations 
+2. Additional information: How robust are model /
+inversion results; what are the limitations 
+3. Design of an ’optimal experiment’ in an ‘ideal world’
+4. Transition from the ‘ideal world’ to the ‘real world’
+For a start, we suggest the following Computer Aided
+Gedanken Experiment (CAGE): 
+1. A 3D atmospheric model is used to generate 
+‘pseudo-tracer observations’ at a number of sites with 
+perfectly known rate coefficient of OH with the tracer 
+complete knowledge of emitted tracer mass 
+OH as the only sink of the tracer 
+IGACtivities  4
+2. Reconstruction methods’ are applied to the
+’pseudo-observations’ in order to retrieve global 
+average information about the original 3D 
+OH distribution. 
+3. Comparison of the results (retrieved information) with
+the original 3D OH distribution: Differences between
+original and reconstructed OH are due to the lack of 
+information from a limited number of sites and 
+uncertainties of the additional information used for the
+various reconstruction methods.
+4. Model inter-comparison: Repetition of 3., using 
+different chemistry-transport models (CTMs) and 
+general circulation models (GCMs) using the same 3D
+OH distribution. 
+References
+Brenninkmeijer, C. A. M., Manning, M. R., Lowe, D. C., Wallace, G., Sparks, R. J.,
+and Volz-Thomas, A., Interhemispheric asymmetry in OH abundance inferred from
+measurements of atmospheric 14CO, Nature, 356 , 50-52, 1992.
+Brune, W. H., Tan, D., Faloona, I. F., Jaegle, L., Jacob, D. J., Heikes, B. G., Snow,
+J., Kondo, Y., Shetter, R., Sachse, G. W., Anderson, B., Gregory, G. L., Vay, S.,
+Singh, H. B., Davis, D. D., Crawford, J. H., and Blake, D. R., OH and HO2 chem-
+istry in the North Atlantic free troposphere, Geophys. Res. Lett., 26, 3077-3080,
+1999.
+Butler, J. H., Elkins, J. W., Thompson, T. M., Hall, B. D., Swanson, T. H., and
+Koropalov, V., Oceanic consumption of CH3CCl3: Implications for tropospheric
+OH, J. Geophys. Res., 96 , 22347-22355, 1991.
+Crosley, D. R., The measurement of OH and HO2 in the atmosphere, J. Atm. Sci.,
+52 , 3299-3314, 1995.
+Crosley, D. R., 1993 tropospheric OH photochemistry experiment - a summary and
+perspective, J. Geophys. Res., 102 , 6495-6510, 1997.
+Crutzen, P. J. and Zimmermann, P. H., The changing photochemistry of the tropo-
+sphere, Tellus, 43AB, 136-151, 1991.
+Cunnold, D. M. and Prinn, R. G., Comment on “Tropospheric OH in a three dimen-
+sional chemical tracer model: An assessment based on observations of CH3CCl3” by
+C. M. Spivakovsky et al., J. Geophys. Res., 96 , 17391-17393, 1991.
+Davenport, J. and Singh, H. B., Systematic development of reactive tracer technolo-
+gy for the measurement of tropospheric hydroxyl radical, Atmos. Environ., 21 ,
+1969-1981, 1987.
+Ehhalt, D. H., Rohrer, F., Wahner, A., Prather, M. J., and Blake, D. R., On the use of
+hydrocarbons for the determination of tropospheric OH concentrations, J. Geophys.
+Res., 103 , 18981-18997, 1998.
+Hard, T. M., George, L. A., and Obrien, R. J., FAGE determination of tropospheric
+HO and HO2, J. Atm. Sci., 52 , 3354-3372, 1995.
+Hartley, D. and Prinn, R., Comment on “Tropospheric OH in a three dimensional
+chemical tracer model: An assessment based on observations of CH3CCl3” by C. M.
+Spivakovsky et al., J. Geophys. Res., 96 , 17383-17387, 1991.
+Hausmann, M., Brandenburger, U., Brauers, T., and Dorn, H.-P., Detection of tro-
+pospheric OH radicals by long-path-differential-optical-absorption spectroscopy:
+Experimental setup, accuracy, and precision, J. Geophys. Res., 102 , 16011-16022,
+1997.
+Hofzumahaus, A., Aschmutat, U., Brandenburger, U., Brauers, T., Dorn, H. P.,
+Hausmann, M., Hessling, M., Holland, F., Plass-Dulmer, C., and Ehhalt, D. H.,
+Intercomparison of tropospheric OH measurements by different laser techniques
+during the POPCORN campaign 1994, J. Atmos. Chem., 31 , 227-246, 1998.
+Jöckel, P. and Brenninkmeijer, C. A. M., The seasonal cycle of cosmogenic 14CO at
+the surface level: A solar cycle adjusted, zonal average climatology based on obser-
+vations, J. Geophys. Res., in press, 2002.
+Jöckel, P., Brenninkmeijer, C. A. M., and Crutzen, P. J., A discussion on the deter-
+mination of atmospheric OH and its trends?, Atmos. Chem. Phys. Disc., 2 , 1261-
+1286, 2002a.
+Jöckel, P., Brenninkmeijer, C. A. M., Lawrence, M. G., Jeuken, A. B. M., and van
+Velthoven, P. F., Evaluation of stratosphere - troposphere exchange and the hydrox-
+yl radical distribution in 3-dimensional global atmospheric models using observa-
+tions of cosmogenic 14CO, J. Geophys. Res., 107 , 2002b.
+Kanakidou, M., Dentener, F. J., and Crutzen, P. J., A global three dimensional study
+of the fate of HCFCs and HFC-134a in the troposphere, J. Geophys. Res., 100 ,
+18781-18801, 1995.
+Krol, M., van Leeuwen, P. J., and Lelieveld, J., Global OH trend inferred from
+methylchloroform measurements, J. Geophys. Res., 103 , 10697-10711, 1998.
+Krol, M., van Leeuwen, P. J., and Lelieveld, J., Comment on “Global OH trend
+inferred from methylchloroform measurements” by Maarten Krol et al. - Reply, J.
+Geophys. Res., 106 , 23159-23164, 2001.
+Krol, M. C., Lelieveld, J., Oram, D. E., Sturrock, G. A., Penkett, S. A.,
+Brenninkmeijer, C. A. M., Gros, V., Williams, J., and Scheeren, H. A., Continuing
+emissions of methyl chloroform from Europe, Nature, 421 , 131-135, 2003.
+Lawrence, M. G., Jockel, P., and von Kuhlmann, R., What does the global mean OH
+concentration tell us?, Atmos. Chem. Phys. Discuss., 1 , 43-75, 2001.
+Lelieveld, J., Peters, W., Dentener, F. J., and Krol, M. C., Stability of tropospheric
+hydroxyl chemistry, J. Geophys. Res., 107 , 2002.
+Levy, H., Normal atmosphere: Large radical and formaldehyde concentrations pre-
+dicted, Science, 173 , 141-143, 1971.
+Lovelock, J. E., Methyl chloroform in the troposphere as indicator of OH radical
+abundance, Nature, 267 , 32, 1977.
+Mak, J. E. and Southon, J. R., Assessment of tropical OH seasonality using atmos-
+pheric 14CO measurements from Barbados, Geophys. Res. Lett., 25 , 2801-2804,
+1998.
+Miller, B. R., Huang, J., Weiss, R. F., Prinn, R. G., and Fraser, P. J.,
+Atmospheric trend and lifetime of chlorodiuoromethane (HCFC-22) and  the global
+tropospheric OH concentration, J. Geophys. Res., 103, 13237-13248, 1998.
+Montzka, S. A., Spivakovsky, C. M., Butler, J. H., Elkins, J. W., Lock, L. T., and
+Mondeel, D. J., New observational constraints for atmospheric hydroxyl on global
+and hemispheric scales, Science, 288 , 500-503, 2000.
+Prather, M. and Spivakovsky, C. M., Tropospheric OH and the lifetimes of
+hydrochlorouorocarbons, J. Geophys. Res., 95 , 18723-18729, 1990.
+Prinn, R. G. and Huang, J., Comment on “Global OH trend inferred from
+methylchloroform measurements” by Maarten Krol et al., J. Geophys. Res., 106 ,
+23151-23157, 2001.
+Prinn, R. G., Weiss, R. F., Miller, B. R., Huang, J., Alyea, F. N., Cunnold, D. M.,
+Fraser, P. J., Hartley, D. E., and Simmonds, P. G., Atmospheric trends and lifetime
+of CH3CCl3 and global OH concentrations, Science, 269 , 187-192, 1995.
+Prinn, R. G., Huang, J., Weiss, R. F., Cunnold, D. M., Fraser, P. J., Simmonds, P. G.,
+McCulloch, A., Harth, C., Salameh, P., O’Doherty, S.,Wang, R. H. J., Porter, L., and
+Miller, B. R., Evidence for substantial variations of atmospheric hydroxyl radicals in
+the past two decades, Science, 292, 1882-1888, 2001.
+Quay, P., King, S., White, D., Brockington, M., Plotkin, B., Gammon, R., Gerst, S.,
+and Stutsman, J., Atmospheric 14CO: A tracer of OH concentration and mixing rates,
+J. Geophys. Res., 105 , 15147-15166, 2000.
+Singh, H. B., Atmospheric halocarbons: Evidence in favour of reduced average
+hydroxyl radical concentration in the troposphere, Geophys. Res. Lett., 4 , 101-104,
+1977a.
+Singh, H. B., Preliminary estimation of average tropospheric HO concentrations in
+the northern and southern hemispheres, Geophys. Res. Lett., 4, 453-456, 1977b.
+Spivakovsky, C. M., Reply on comment on “Tropospheric OH in a three dimension-
+al chemical tracer model: An assessment based on observations of CH3CCl3” by C.
+M. Spivakovsky et al., J. Geophys. Res., 96 , 17395-17398, 1991.
+Spivakovsky, C. M., Yevich, R., Logan, J. A., Wofsy, S. C., McElroy, M. B., and
+Prather, M. J., Tropospheric OH in a three-dimensional chemical tracer model: An
+assessment based on observations of CH3CCl3, J. Geophys. Res., 95 , 18441-18471,
+1990.
+Spivakovsky, C. M., Yevich, R., Logan, J. A., Wofsy, S. C., McElroy, M. B., and
+Prather, M. J., Reply on comment on “Tropospheric OH in a three dimensional
+chemical tracer model: An assessment based on observations of CH3CCl3” by C. M.
+Spivakovsky et al., J. Geophys. Res., 96 , 17389-17390, 1991.
+Spivakovsky, C. M., Logan, J. A., Montzka, S. A., Balkanski, Y. J., Foreman-Fowler,
+M., Jones, D. B. A., Horowitz, L. W., Fusco, A. C., Brenninkmeijer, C. A. M.,
+Prather, M. J., Wofsy, S. C., and McElroy, M. B., Three dimensional climatological
+distribution of tropospheric OH: Update and evaluation, J. Geophys. Res., 105 ,
+8931-8980, 2000.
+Tan, D., Faloona, I., Simpas, J. B., Brune, W., Olson, J., Crawford, J., Avery, M.,
+Sachse, G., Vay, S., Sandholm, S., Guan, H. W., Vaughn, T., Mastromarino, J.,
+Heikes, B., Snow, J., Podolske, J., and Singh, H., OH and HO2 in the tropical
+Pacific: Results from PEM-Tropics B, J. Geophys. Res., 106 , 32667-32681, 2001.
+Tanner, D. J., Jefferson, A., and Eisele, F. L., Selected ion chemical ionization mass
+spectrometric measurement of OH, J. Geophys. Res., 102 , 6415-6425, 1997.
+Tyler, S. C., Klouda, G. A., Brailsford, G. W., Manning, A. C., Conny, J. M., and Jull,
+A. J. T., Seasonal snapshots of the isotopic (14C, 13C) composition of tropospheric
+carbon monoxide at Niwot Ridge, Colorado, Chemosphere Glob. Change Sci., 1,
+185-203, 1999.
+Volz, A., Ehhalt, D. H., and Derwent, R. G., Seasonal and latitudinal variation of
+14CO and the tropospheric concentration of OH radicals, J. Geophys. Res., 86 ,
+5163-5171, 1981.
+Wennberg, P. O., Hanisco, T. F., Jaegle, L., Jacob, D. J., Hintsa, E. J., Lanzendorf, E.
+J., Anderson, J. G., Gao, R. S., Keim, E. R., Donnelly, S. G., Delnegro, L. A., Fahey,
+D. W., Mckeen, S. A., Salawitch, R. J., Webster, C. R., May, R. D., Herman, R. L.,
+Pro_tt, M. H., Margitan, J. J., Atlas, E. L., Schau_er, S. M., Flocke, F., McElroy, C.
+T., and Bui, T. P., Hydrogen radicals, nitrogen radicals, and the production of O3 in
+the upper troposphere, Science, 279 , 49-53, 1998.
+IGACtivities  5
+Tropical Tropospheric
+Ozone: A Perspective on
+Photochemical and
+Dynamical Interactions
+from Observations in the
+Past Five Years
+Contributed by Anne M. Thompson (anne.m.thomp-
+son@nasa.gov) NASA/Goddard Space Flight Center -
+Laboratory for Atmospheres Greenbelt, Maryland USA
+20771; 
+Background: Chemistry and
+Dynamics in Tropical
+Tropospheric Ozone
+For many years ozone was regarded as a passive tracer in
+the troposphere, in balance between a stratospheric source
+and destruction at the surface. With the realization that
+free-radical chemical reactions among trace gases emitted
+through human activities (“ozone precursors,” NO, CO,
+hydrocarbons) can lead to ozone formation, attention was
+directed at photochemical sources of ozone. To complicate
+matters, note that various natural processes also produce
+ozone precursors, e.g. vegetation releases fast-reacting
+hydrocarbons; soils and lightning release nitric oxide.
+In the tropics, field experiments and satellite data of the
+1980’s [Fishman et al., 1986] emphasized pollution sources
+of ozone. Causes of pollution include urban activities in
+developing countries and biomass fires. The latter are nat-
+ural or related to agriculture, domestic cooking and heat-
+ing, or to deforestation. Lightning production of NO is also
+thought to be a significant ozone source because the trop-
+ics is the region of most concentrated lightning on earth. A
+series of field campaigns in the 1990’s (some under the
+auspices of IGAC BIBEX), confirmed the importance of
+biomass burning sources, lightning and the ubiquity of
+ozone pollution throughout the tropics.
+In 1984 and again a decade later, global plumes of carbon
+monoxide were measured from space on the Shuttle MAPS
+instrument (Reichle et al., 1990; Pougatchev et al., 1999).
+The lifetime of each pollutant is sufficiently long (3-6
+weeks for free tropospheric ozone, several months for CO)
+that long-range transport (thousands of km) can occur
+(Chatfield et al., 1998). The ubiquity of ozone pollution
+layers as surveyed by aircraft over the remote Pacific was
+pointed out by Newell et al. (1999) In general, the thin lay-
+ers of elevated ozone alternated with cleaner background
+amounts of ozone (5-20 ppbv), occasionally < 5 ppbv as
+was discovered in the late 1970’s (Routhier et al., 1980).
+Figure 1 - Time-series of tropospheric ozone column (solid) and absorbing aerosols (dashed, for smoke from biomass fires) as
+measured from Earth-Probe/TOMS over the Indonesian region [Thompson et al., 2001].
+IGACtivities  6
+IGACtivities  7
+Shipboard studies of ozone and ozone precursors in the
+tropical Pacific (Thompson et al., 1993) demonstrated net
+photochemical loss of surface ozone. In convectively
+active regions, low ozone at the surface is transported rap-
+idly upward, leading to low column ozone amounts and the
+pockets of low ozone observed from aircraft and sondes
+(Kley et al., 1996).
+Even as evidence for photochemical control of ozone was
+accumulating in regions affected by human activity, closer
+examination of the data pointed to dynamical impacts. For
+example, in southern Africa, where biomass burning is a
+major contributor to ozone formation, recirculation of
+extremely stable layers (Cosijn and Tyson, 1996) is a deci-
+sive factor in the accumulation of ozone over that continent
+and the adjacent oceans (Thompson et al., 1996). Analysis
+of the satellite tropospheric ozone record since 1980
+(Thompson and Hudson, 1999) shows photochemically-
+induced variations as biomass burning patterns are modi-
+fied by drought associated with El-Niño-Southern
+Oscillation (ENSO) events. El-Niño episodes also alter
+patterns of convection, leading to perturbed tropospheric
+ozone in non-burning regions. The TROPOZ aircraft sam-
+pling in 1991 detected ozone and other trace gases from
+biomass 
+fires 
+crossing 
+the 
+ITCZ 
+(Intertropical
+Convergence Zone; Jonquières and Marenco, 1998).
+Recent Examples of Chemical-
+Dynamical Interactions Affecting
+Ozone
+Satellite View of El-Niño-Southern Oscillation
+Interactions. In Figure 1 a time history of tropospheric
+column ozone, from the Earth-Probe TOMS instrument
+sampling over the Indonesian maritime continent, reveals
+the highest ozone resulting from fires that erupted in the
+wake of the 1997 ENSO (Thompson et al., 2001). The
+TOMS absorbing aerosol time-series (a proxy for smoke
+from biomass fires) is also illustrated. The ozone evolution
+reveals two sharp increases and only the second one is due
+to the fires (increased smoke between August and
+November 1997). The first increase occurred in March
+1997 at the onset of the El Niño when a shift in Indian and
+Pacific Ocean temperature gradients led to intense subsi-
+dence and an increased ozone column. Thus, the earlier
+response to the ENSO was associated with perturbed
+regional dynamics.
+Evidence from Ozone Soundings. The location of the
+enhanced ozone (above 8 km prior to the burning, 3-5 km
+ozone maxima in early September 1997) over Indonesia
+during the ENSO period was detected in sondes launched
+at Java (Fujiwara et al., 1999).  Complexity in chemical
+and dynamical interactions in tropical ozone has been iden-
+tified in other sets of ozone soundings. A phenomenon
+characterized as the “tropical Atlantic ozone paradox”
+(Thompson et al., 2000) was discovered during an oceano-
+Figure 2 -  Mechanisms
+interacting to produce the
+tropical Atlantic ozone
+paradox (Thompson et al.,
+2000).  Pollution ozone
+and ozone precursors from
+north of the ITCZ are
+entrained into convection
+at low levels, transported
+upward and redistributed
+on either side of the ITCZ.
+See also Edwards et al.
+(2003) and Jenkins et al.
+(2003).
+IGACtivities  8
+graphic cruise in early 1999. The paradox refers to the per-
+sistent appearance of more tropospheric ozone south of the
+ITCZ during the time of year (December-January-
+February) when the greatest amount of biomass burning is
+north of the ITCZ. The causes include north-to-south inter-
+hemispheric transport of pollution through interaction with
+convection, subsidence and lightning in the southern hemi-
+sphere, as illustrated in Figure 2. The mechanisms are
+explored in greater detail using satellite data and meteoro-
+logical analyses (Edwards et al., 2003; Jenkins et al.,
+2003).
+Insights into Tropical Ozone from SHADOZ
+Soundings. The above examples show the way in which
+multiple chemical and dynamical factors affect tropical tro-
+pospheric ozone.  Further insights are gained by examining
+profiles from a tropical ozone sounding network, the
+SHADOZ 
+(Southern 
+Hemisphere 
+Additional
+Ozonesondes) project (Thompson et al., 2003a). Through
+comprehensive longitudinal coverage (as shown in Figure
+3) and frequent launches, it is possible to examine season-
+ality, week-to-week variability and differences in ozone
+from station-to-station. Presently nearly 2000 ozone, tem-
+perature and relative humidity profiles from SHADOZ are
+available to the community at < Most of the profiles
+include the stratospheric maximum (~25 km) because the
+balloon-borne sondes normally reach 7 hPa pressure
+(Thompson et al., 2003b)
+1. Zonal Wave-One in Tropospheric
+Ozone
+A feature that can be studied with SHADOZ data is the
+zonal distribution of ozone. As noted by Shiotani (1992), a
+greater thickness of ozone over the Atlantic relative to the
+Pacific leads to a roughly wave-one pattern in the column
+amount of total ozone. This discovery, which was made
+with TOMS satellite data, led to debate over whether the
+“excess” ozone over the Atlantic is concentrated in the
+stratosphere, the troposphere, or both. Satellite data are not
+sufficiently precise to determine whether or not the wave-
+one is the lower stratosphere. SHADOZ sonde data show
+an absence of a wave pattern in that region. However, when
+the ozone profiles are viewed zonally, a statistically signif-
+icant wave-one is observed in total and troposphere ozone
+[Thompson et al., 2003a]. The ozone cross-section (Figure
+4) shows the vertical and longitudinal structure of the tro-
+pospheric wave.  A broader and lower tropopause layer (the
+so-called “tropical tropopause layer” or TTL) is one con-
+tributor to the greater concentration of ozone over the
+Atlantic.  Although the thickness and location of the TTL
+varies over the course of a year, the general appearance of
+the ozone zonal structure is always similar to the March-
+April-May view (Figure 4). The wave-one feature may
+explain the northern hemisphere-southern hemisphere gra-
+dient in tropospheric ozone that gives rise to the “paradox”
+feature. Satellite observations (Thompson and Hudson,
+1999) suggest that at all times of year southern tropical
+Atlantic tropospheric ozone is greater than over the north-
+ern tropical Atlantic.
+Figure 3 -  Location of ozone sounding stations in the SHADOZ network (Thompson et al., 2003a,b)
+IGACtivities  9
+A second contribution to the wave-one ozone is subsi-
+dence over the Atlantic, that causes the ozone column to be
+denser than over the Pacific, where convection leads to a
+thinner ozone column amount. This contrast reflects the
+atmospheric general circulation. Photochemical contribu-
+tions to the wave feature include lightning, biomass burn-
+ing, both of which are more concentrated over South
+America, Africa and the south Atlantic between than they
+are over the Pacific.  
+The sole northern tropical station in the SHADOZ net-
+work is in Surinam (Figure 3). Peters et al. (2003) show
+that ozone seasonality at that location is distinct from the
+closest southern hemisphere stations because transport pat-
+terns and the location of the ITCZ subject Surinam to dif-
+ferent influences.
+2.  Variability - Week-to-week, 
+Seasonal, Interannual
+The wave-one phenomenon illustrates the large scale
+dynamical impact on tropospheric ozone distributions in
+the southern tropics.  When ozone data are examined at
+individual stations, meteorologically related short-term
+variability is the dominant feature. The SHADOZ stations
+are remote from strong sources, so the highest ozone con-
+centrations due to pollution usually occur in the free tropo-
+sphere. Convection tends to bring clean surface air into the
+middle troposphere. In all cases, pollution episodes alter-
+nate with nearly pristine conditions, often on a week-to-
+week basis (Thompson et al, 2003a).  
+A seasonality in tropospheric ozone is normally defined
+Figure 4 - Cross-sectional view of mean ozone mixing ratio in March-April-May taken from sondes at the stations indicat-
+ed along the abscissa.  Tropopause denoted by stars.  The greater concentration of ozone over the Atlantic relative to the
+Pacific is responsible for the wave-one pattern first detected from satellite.
+IGACtivities  10
+in terms of a mean.  Tropospheric ozone is a maximum in
+September-October-November (Figure 5) and a minimum
+in March-April-May. However, when the individual pro-
+files are compared to the seasonal average, the variability
+is so extreme that the mean has little statistical signifi-
+cance. A cluster method of classifying tropical tropospher-
+ic ozone has shown that distinct distributions of profiles are
+associated with different synoptic conditions (Diab et al.,
+2003). Classification may be a better way of developing
+tropospheric ozone climatologies for remote sensing appli-
+cations and determination of tropospheric ozone trends. A
+satellite retrieval of ozone in the lower troposphere may be
+compromised by the discrepancy between the SHADOZ
+observations and the simple climatological profile
+employed in a typical algorithm.
+Summary
+Observations of tropospheric ozone in the tropics in the
+past five years have been greatly enhanced by satellite
+measurements, aircraft and ground measurements and by
+more than 1600 ozone profiles from the SHADOZ net-
+work. We have gained insights into the complexity of
+dynamical and photochemical influences through a view
+from space, from detailed soundings, and from ancillary
+data that give information about mechanisms. The variabil-
+ity of tropospheric ozone at remote stations is surprisingly
+high, reflecting localized short-term meteorological shifts
+within a generally stable environment. The structure of the
+zonal wave-one, the tropical Atlantic ozone “paradox,” and
+El-Niño influences on ozone variability are examples of
+the decisive role meteorological influences play in tropical
+tropospheric ozone. 
+Figure 5 - Seasonal
+mean ozone profile below
+20 km with all individual
+soundings taken in
+September-October-
+November (1998-2001) at
+Fiji.  Note the large 
+variability in the 
+soundings.
+IGACtivities 11
+Further progress in evaluating processes affecting ozone
+and budgets of this and related trace gases will require
+models of various scales. Although the data caution against
+oversimplified approaches to ozone climatologies, today’s
+models are challenged to simulate the variability captured
+by recent tropical observations.
+References
+Chatfield, R. B., J. A. Vastano, L. Li, G. W. Sachse, V. S. Connors, 1998.  The
+Great African plume from biomass burning: A three-dimensional study of
+TRACE A carbon monoxide, J. Geophys. Res., 103, 28059-28077.
+Cosijn, C. and P. D. Tyson, 1996.  Stable discontinuities in the atmosphere
+over South Africa, S. Afr. J. Sci.,  92, 381-386.
+Davis Diab, R. D., A. Raghunandran, A. M. Thompson, V. Thouret, 2003.
+Classification of tropospheric ozone profiles over Johannesburg based on
+MOZAIC aircraft data, Atmos. Chem. Phys., submitted.
+Edwards, D., et al.  2003.  Tropospheric ozone over the tropical Atlantic: A
+satellite perspective, J. Geophys. Res., in press.
+Fishman, J., P. Minnis, H. G. Reichle, 1986.  Use of satellite data to study tro-
+pospheric ozone in the tropics, J. Geophys. Res., 91, 14451-14465.
+Fujiwara, M., K. Kita, S. Kawakami, T. Ogawa, N. Komala, S. Saraspriya, A.
+Suripto, 1999. Tropospheric ozone enhancements during the Indonesian for-
+est fire event in 1994 and 1997 as revealed by ground-based observations,
+Geophys. Res Lett., 26, 2417-2420.
+Jenkins, G. S., J-H. Ryu, A. M. Thompson, J. C. Witte, 2002.  Linking
+Horizontal and vertical transport of biomass fire emissions to the tropical
+Atlantic Ozone Paradox during the Northern hemisphere winter season. II.
+1998-1999, J. Geophys. Res., submitted.
+Jonquières, I. and A. Marenco, 1998. Redistribution by deep convection and
+long-range transport of CO and CH4 emissions from the Amazon basin, as
+observed by the airborne campaign TROPOZ II during the wet season, J.
+Geophys. Res., 103, 19075-19091.
+Kley, D., P. J. Crutzen, H. G. J. Smit, H. Vömel, S. J. Oltmans, H. Grassl, V.
+Ramanathan, Observations of near-zero ozone concentrations over the con-
+vective Pacific: Effects on air chemistry, Science, 274, 230-233, 1996.
+Newell R. E., V. Thouret, J. Y. N. Cho, P. Stoller, A. Marenco, H. G. Smit,
+1999.  Ubiquity of quasi-horizontal layers in the troposphere, Nature, 398,
+316-319.
+Peters, W., M. C. Krol, J. P. F. Fortuin, H. M. Kelder, C. R. Becker, A. M.
+Thompson, J. Lelieveld, P. J. Crutzen, 2003.  Tropospheric ozone over a trop-
+ical Atlantic station in the Northern Hemisphere: Paramaribo, Surinam (6N,
+55W), Tellus B, in press.
+Pougatchev, N., et al., 1999.  Pacific Exploratory Mission-Tropics carbon
+monoxide measurements in historical context, J. Geophys. Res., 104, 26,195-
+26,208.
+Reichle, H., V. S. Connors, J. A. Holland, R. T. Sherrill, H. A. Wallio, J. C.
+Casas, E. P. Condon, B. B. Gormsen, W. Seiler, 1990.  The distribution of
+middle tropospheric carbon monoxide during early October 1984, J. Geophys.
+Res., 95, 9845-9856.
+Routhier F., R. Dennett, R. Dennett, D. D. Davis, A. D. Wartburg, P.
+Haagenson, A. C. Delany, 1980.  Free tropospheric and boundary layer air-
+borne measurements of ozone over the latitude range of 58 degrees S to 70
+degrees N, J. Geophys. Res., 85, 7307-7321.
+Shiotani, M., 1992.  Annual, quasi-biennial and El Nino-Southern Oscillation
+(ENSO) time-scale variations in Equatorial total ozone, J. Geophys. Res., 97,
+7625-7634. 
+Thompson, A. M. and R. D. Hudson, 1999.  Tropical tropospheric ozone
+(TTO) Maps from Nimbus 7 and Earth-Probe TOMS by the modified-resid-
+ual method:  Evaluation with sondes, ENSO signals and trends from Atlantic
+regional time series, J. Geophys. Res., 104, 26961-26975.
+Thompson, A. M., et al., 1993.  SAGA-3 ozone observations and a photo-
+chemical model analysis of the marine boundary layer during SAGA-3, J.
+Geophys. Res., 98, 16955-16968.
+Thompson, A. M., K. E. Pickering, D. P. McNamara, M.R. Schoeberl, R. D.
+Hudson, J. H. Kim, E. V. Browell, V. W. J. H. Kirchhoff, D. Nganga, 1996.
+Where did tropospheric ozone over southern Africa and the tropical Atlantic
+come from in October 1992? Insights from the TOMS GTE/TRACE-A and
+SAFARI-92, J. Geophys. Res., 101, 24251-24278.
+Thompson, A. M., B. G. Doddridge, J. C. Witte, R. D. Hudson, W. T. Luke, J.
+E. Johnson, B. J. Johnson, S. J. Oltmans, R. Weller, 2000.  A tropical Atlantic
+paradox: Shipboard and satellite views of a tropospheric ozone maximum and
+wave-one in January-February 1999, Geophys. Res. Lett., 27, 3317-3320.
+Thompson, A. M., J. C. Witte, R. D. Hudson, H. Guo, J. R. Herman, M.
+Fujiwara, 2001.  Tropical tropospheric ozone and biomass burning, Science,
+291, 2128-2132.
+Thompson, A. M., J. C. Witte, M. T. Freiman, N. A. Phahlane, G. J. R.
+Coetzee, 2002.   Lusaka, Zambia, during SAFARI-2000: Convergence of
+local and imported ozone pollution, Geophys. Res. Lett., 29, 1976, doi:
+10.129/2002GL015399.
+Thompson, A. M., et al., 2003a.  Southern Hemisphere Additional
+Ozonesondes (SHADOZ) 1998-2000 tropical ozone climatology. 2.
+Tropospheric variability and the zonal wave-one, J. Geophys. Res., 108, 8241,
+doi: 10.129/2002JD002241.
+Thompson, A. M., et al., 2003b.  Southern Hemisphere Additional
+Ozonesondes (SHADOZ) 1998-2000 tropical ozone climatology. 1.
+Comparison with TOMS and ground-based measurements, J. Geophys. Res.,
+108, 8238, doi: 10.129/2001JD00967.
+Composition of Asian
+Deposition (CAD): A Task
+Within the IGAC DEBITS
+Activity
+Contributed by
+Henning Rodhe, Department of
+Meteorology, Stockholm University, Sweden Greg Ayers,
+CSIRO Division of Atmospheric Research, Melbourne,
+Australia, Leong Chow Peng, Malaysian Meteorological
+Service, Kuala Lumpur, Malaysia Rajasekhar Bala,
+Department of Chemical and Environmental Engineering,
+The National University of Singapore, Singapore
+One of the original tasks of IGAC (Galbally, 1989) was
+entitled “Composition and Acidity of Asian Precipitation”
+(CAAP), with the objectives:
+1) to quantify the wet deposition of S, N, C, P and sea-salt
+species, and 
+2) to assess the state of rainwater acidity in south and 
+south-east Asia.
+The prime motivation was a concern that rapidly increas-
+ing emissions of S and N compounds in south and south-
+east Asian countries could create acid deposition and other
+regional pollution problems (Rodhe and Herrera, 1988).  At
+that time the number of regionally representative observa-
+tions of the chemical composition of precipitation was very
+limited (to a large degree this is still true).
+Until 2000 the task was coordinated by Greg Ayers and
+Henning Rodhe.  At this time the focus was shifted by de-
+emphasizing the rainwater acidity issue and by expanding
+the goal to include dry deposition.  As a consequence the
+task was given its new name, CAD, (composition of Asian
+Deposition) and the leadership was taken up by Leong
+Chow Peng from Malaysia and Rajasekhar Bala from
+Singapore.
+CAAP/CAD has operated as a rather loosely coordinated
+network, primarily of observational activities, but supple-
+mented more recently by modeling studies.  In parallel with
+well-focused national and bi-national measurement pro-
+grams, mainly in India, Thailand, Malaysia, Singapore and
+Indonesia, a most important component of CAAP/CAD
+has been the convening of workshops, the last one held in
+Kuala Lumpur in November 2002.  At these workshops the
+results of the various measurement programs have been
+presented and issues of common concern discussed.  Great
+efforts have been made to assure the quality of the data and
+their representativeness for regions rather than just for
+urban situations.  An important component of technology
+transfer/capacity building has also prevailed throughout the
+lifetime of the task.
+The backbone of CAAP/CAD has been, and still is, pre-
+cipitation chemistry measurements.  In recent years sever-
+al of the observational stations have included measurement
+of the gases SO2, NO2 and NH3, (using passive samplers,
+c.f. separate article by Ferm and Carmichael) to enable dry
+deposition of these gases to be estimated.  At a few sites
+measurements are also made of aerosol particles, separated
+into sub-micrometer and super-micrometer sizes. 
+A strong commitment to publication has seen most results
+of the CAAP/CAD studies reported in the open literature;
+a selection of these papers is given below. Some of the
+highlights are summarized here.
+• A significant number of papers documenting the
+state of the regional  environment in terms of chem-
+ical gradients of acidity and acidic substances.
+• Identification of areas of very high acidic deposi-
+tion (in Malaysia and in Indonesia) (Ayers et al.,
+2002; Gillett et al., 2000).
+• Assessment of the impact of Indonesian smoke haze
+episodes on regional air quality (Balasubramanian et
+al., 1999).
+• Identification of areas where calcium carbonate and
+ammonia were important sources of alkalinity in
+rainwater (e.g. India: Pillai et al., 2001 and in
+Thailand: Granat et al., 1996).
+• To the extent that ecosytems are nitrogen saturated,
+soils in regions with high ammonia deposition (e.g.
+northern India) may be receiving a  substantial input
+of acidity even though the pH of rainwater exceeds
+5.0  most of the time (Granat et al., 2001).
+• Identification of high levels of organic acidity in
+rainfall throughout tropical regions, and the role
+played by these acids in changing apparent rainfall
+composition 
+after 
+collection 
+(Zhung 
+and
+Balasubramanian, 2001)).
+• Characterisation of the relative roles of S and N in
+various regions, related to regional source balance.
+In addition, CAAP/CAD has provided a legacy that
+includes a modest network of people within S and SE Asia
+who are now knowledgeable about reactive atmospheric
+chemistry and modern measurement techniques as it relates
+to sources and sinks of anthropogenic S and N emissions.
+Several of these people are now providing advice to gov-
+ernments on these matters, and are also now included in
+international networks such that they have access to the
+latest scientific knowledge and are more and more being
+included in regional, international collaborative experi-
+ments and environmental assessments. 
+IGACtivities  12
+References
+Ayers, G.P., Gillett, R.W., Ginting, N., Hooper, M., Selleck, P.W. and Tapper
+N. (1995) Atmospheric sulfur and nitrogen in West Java. Water, Air, and Soil
+Pollution 85, 2083-2088.
+Ayers G.P. (1991).  Atmospheric Acidification in the Asian Region, Env.
+Monitoring Assessment 19, 225-250.
+Ayers G.P. and Yeung K.K. (1996).  Acid deposition in Hong Kong, Atmos.
+Environ. 30, 1581-1587.
+Ayers G.P., Fukuzaki N., Gillett R.W., Selleck P.W., Powell J.C. and Hara H.
+(1998).  Thymol as a biocide in Japanese rainwater, J. Amos. Chem. 30, 301-
+310.
+Ayers, G. P., Leong Chow Peng, Lim Sze Fook, Cheah Wai Kong, R.W.
+Gillett and P.C. Manins (2000), Atmospheric concentrations and deposition of
+oxidised sulfur and nitrogen species at Petaling Jaya, Malaysia, 1993-1998,
+Tellus B 52, 60-73.
+Ayers, G. P., Leong Chow Peng, R.W. Gillett and Lim Sze Fook (2002),
+Rainwater composition and acidity at five sites in Malaysia, in 1996, Water,
+Air and Soil Pollution 133, 15-30.
+Balasubramanian, R., Victor, T. and Begum R. (1999) Impact of biomass
+burning on rainwater acidity and composition in Singapore, J. Geophys.Res.
+104, 26,881-26,890.
+Balasubramanian, R., Victor, T. and Chun, N. (2001) Chemical and Statistical
+Analysis of Precipitation in Singapore, Water, Air, and Soil Pollution 130,
+451-456.
+Engardt, M. and Leong, C. P. (2001) Regional modelling of anthropogenic
+sulphur in Southeast Asia. Atmos. Environ. 35, 5935-5947.
+Ferm, M. and Rodhe, H. (1997). Measurements of air concentrations of SO2,
+NO2 and NH3 at rural and remote sites in Asia. J. Atmos. Chem. 27, 17 – 29.
+Galbally, I. (ed.) (1989) The International Global Atmospheric Chemistry
+(IGAC) Programme, ISBN 0 643 05062 0.
+Gillett R.W., Ayers G.P., Mhwe T., Selleck P.W. and Harjanto H. (2000),
+Concentrations of nitrogen and sulfur species in gas and rainwater from sev-
+eral sites in Indonesia, Water, Air and Soil Pollution 120, 205-215.
+Granat, L., Suksomsankh, K., Simachaya, S., Tabucanon, M., Rodhe, H.
+(1996) Regional background acidity and chemical composition of precipita-
+tion in Thailand. Atmospheri. Environ. 30, Nos 10/11, 1589-1596.
+Granat, L., Das, S.N., Tharkur, R.S. and Rodhe, H. (2001). Atmospheric dep-
+osition in a rural area in India - net and potential acidity. Water, Air, and Soil
+Pollution 130, 469-474
+Norman, M., Das, S.N., Pillai, A.G., Granat, L. and Rodhe, H. (2001)
+Influence of air mass trajectories on the chemical composition of precipitation
+in India. Atmos. Environ. 35, 4223-4235
+Pillai, A.G., Naik, M.S., Momin, G.A., Rao, P.S.P., Safai, P.D., Ali, K., Rodhe,
+H. and Granat, L. (2001). Studies of wet deposition and dustfall at Pune,
+India, Water, Air, and Soil Pollution 130, 475-480
+Rodhe, H. and Herrera, R. (1988) Acidification in tropical countries. SCOPE
+Report No. 36, John Wiley & Sons Ltd., Chichester, 405 pp.
+Zhong, Z., Victor, T. and Balasubramanian, R. (2001) Measurement of Major
+Organic Acids in Rainwater in Southeast Asia During Burning and Non-burn-
+ing Periods, Water, Air, and Soil Pollution 130, 457 - 462.
+Hu, G.-P. and Balasubramanian, R. (2003) Wet Deposition of Trace Metals in
+Singapore. Water, Air, and Soil Pollution, 2003 (January).
+IGACtivities  13
+IGACtivities  14
+SCIAMACHY on ENVISAT:
+Some Highlights from the
+First Year in Orbit
+Contributed by H. Bovensmann, S. Noëel, A. Richter, A.
+Rozanov, M. von König, C. V. Savigny, J. P. Burrows
+Institute of Environmental Physics and Remote Sensing
+University of Bremen FB1, P.O. Box 330 440, D-28334 
+Bremen, Germany e-mail:
+heinrich.bovensmann@iup.physik.uni-bremen.de 
+URL: http://www.iup.physik.uni-bremen.de/sciamachy
+Introduction
+SCIAMACHY is a Greek word, which means chasing or
+hunting shadows, in the sense  of doing an impossible task.
+In spite of this and in addition, SCIAMACHY (SCanning
+Imaging Absorption spectroMeter for Atmospheric
+CHartographY) is also an innovative and novel Earth
+observation experiment successfully making measure-
+ments from the European environmental research satellite
+ENVISAT operated by ESA. SCIAMACHY is a national
+contribution to ENVISAT, being funded by the space agen-
+cies of Germany, The Netherlands and Belgium. The main
+objective of ENVISAT is the investigation and monitoring
+of the Earth’s environment from the surface to the mesos-
+phere. Using a variety of instruments, it will determine the
+state and provide a  health check of the Earth-Atmosphere
+System. ENVISAT was launched successfully by ESA in
+March 2002, comprises ESA and European experiments
+and has an intended minimum operational lifetime of  five
+years. It has ten instruments on board, which make a vari-
+ety of different observations of our environment.
+ENVISAT flies in a sun synchronous polar orbit in 800 km
+height, having an equator crossing time of 10.00 am and an
+equivalent ground speed of ~7 km-1. Within the ENVISAT
+atmospheric chemistry mission (SCIAMACHY, GOMOS,
+MIPAS),  SCIAMACHY aims to deliver important and rel-
+evant data about the changing composition of the atmos-
+phere from the troposphere up to the mesosphere from the
+local to the global scale. Its unique role aboard ENVISAT
+is to provide measurements, which yield unambiguously
+the composition of trace constituents within the tropo-
+sphere down to the boundary layer under cloud free condi-
+tions. In addition, the combination of SCIAMACHY obser-
+vations with those of MERIS, AATSR and MIPAS pro-
+vides some unique synergistic scientific opportunities for
+earth observation.
+SCIAMACHY’s Mission
+SCIAMACHY was conceived end of the 1980’s to
+improve our knowledge and understanding of a variety of
+issues of importance for the chemistry and physics of the
+Earth's atmosphere (troposphere, stratosphere and mesos-
+phere) and potential changes resulting from either increas-
+ing anthropogenic activity or the variability of natural phe-
+nomena (Burrows et al., 1988). Topics of relevance for
+SCIAMACHY are:
+• tropospheric pollution arising from industrial activity
+and biomass burning 
+• troposphere - stratosphere exchange processes
+• stratospheric ozone chemistry focusing on the 
+development of the global ozone layer 
+• mesospheric chemistry and dynamics
+• solar variability and special events such as 
+volcanic eruptions, and related regional and globa
+phenomena.
+The SCIAMACHY instrument is a spectrometer designed
+to measure sunlight transmitted, reflected and scattered by
+the Earth's atmosphere or surface in the ultraviolet, visible
+and near infrared wavelength region (214 nm - 2380 nm) at
+a moderate, channel dependent, spectral resolution (0.2 nm
+- 1.5 nm) (Bovensmann et al., 1999). For the majority of an
+orbit, SCIAMACHY measures alternately the Earthshine
+radiance in limb or nadir viewing geometry. Close to the
+terminator in the northern and southern hemispheres, the
+solar or lunar light transmitted through the atmosphere are
+observed in occultation. In addition to a complete calibra-
+tion procedure, the extra-terrestrial solar irradiance and
+lunar radiance are determined from observations of the sun
+and the moon above the atmosphere. The absorption,
+reflection and scattering behaviour of the atmosphere and
+the Earth's surface is inferred from a comparison of
+Earthshine radiance and solar irradiance. Appropriate
+mathematical inversion of the ratio of Earthshine radiance
+and solar irradiance yields information about the amounts
+and distribution of important atmospheric constituents (see
+Figure 1) and the spectral reflectance (or albedo) of the
+Earth's surface. GOME, a small scale version of SCIA-
+MACHY flying on ERS-2 since 1995, also observes back
+scattered solar radiation but only in nadir mode and
+restricted to the wavelength range of 240 nm to 790 nm
+(Burrows et al., 1999). GOME has made 7 years of suc-
+cessful measurements and has been a proof of concept mis-
+sion for SCIAMACHY. The extended spectral range of
+SCIAMACHY enables many more constituents to be
+measured than with GOME. 
+A special feature of SCIAMACHY is its ability to com-
+bine near simultaneous limb and nadir measurements. The
+inversion of this combination of limb and nadir measure-
+ments yields the tropospheric column amounts of the gases
+O3, CO, SO2, NO2, BrO, CH4, H2O, N2O, H2CO and
+aerosol parameters.
+SCIAMACHY was constructed, tested and delivered to
+ESA in the period from 1994 to 2000. In May of 2001
+ENVISAT was successfully transported to Kourou and
+launched into a polar sun-synchronous orbit in March
+2002. After a few weeks of out-gassing in-orbit, SCIA-
+MACHY was switched on successfully. A complex proce-
+dure to open the different covers protecting the light path,
+to check out the instrument in orbit and to tune it to the
+optimum in-flight performance was initiated. Solar and
+atmospheric spectra were already taken
+from the beginning of April 2002. During
+this so-called commissioning phase the
+instruments functional and optical per-
+formance was verified and instrument cal-
+ibration activities were started, with the
+result that since end of July 2002 SCIA-
+MACHY is fully functional. It achieves
+the performance expected from on-ground
+tests with only one exception, which
+results from ice formation on two of the
+SWIR detectors. This issue required some
+changes in operational planning to min-
+imise its impact. SCIAMACHY has been
+performing its regular measurement pro-
+gram since the beginning of August 2002
+just in time to be ready for validation. Two
+intensive validation campaigns organised
+by ESA and DLR were executed in late
+summer/autumn 2002 and winter/spring 2003. Since
+August 2002 the instrument is continuously and success-
+fully performing its nominal measurement programme
+(limb, nadir, occultation, calibration) and over 99.5 % of all
+scientific measurements are working as expected.
+SCIAMACHY Instrument and 
+Observation Modes
+The SCIAMACHY instrument is a passive remote sens-
+ing moderate resolution imaging spectrometer. It compris-
+es a mirror system, a telescope, a spectrometer, and thermal
+and electronic sub systems. With exception of the scan mir-
+rors and slit mechanism, all spectrometer parts
+within SCIAMACHY are fixed. As a result of the
+instrument design, spectra are recorded simulta-
+neously from 214 nm to 1750 nm, and in two
+smaller windows, 1940 nm - 2040 nm and 2265
+nm – 2380 nm, in the short wave infrared. The
+spectral and radiometric performance of the
+SCIAMACHY spectrometer as well as more
+details about the instrument are described else-
+where (Bovensmann et al., 1999). The incoming
+radiation enters the instrument via one of three
+entrances: 
+(i) the nadir port, which directs the radiation
+from the Earth's scene by the elevation mirror
+into a telescope (off axis parabolic mirror) and
+thereby focuses the beam onto the entrance slit
+of the spectrometer; 
+(ii) the limb port which is used for both atmos-
+pheric limb and solar/lunar occultation measure-
+ments. In this case the radiation is reflected by the
+azimuth mirror to the elevation mirror and then into the
+telescope, 
+(iii) the sub solar port, which directs solar radiation
+via the elevation mirror into the telescope.
+In addition the instrument has on board spectral line and
+broad band light sources for in flight calibration, which are
+observed via the elevation mirror. Two diffuser plates are
+mounted on the back side of the elevation and azimuth mir-
+rors to facilitate the solar observations.
+Measurements of SCIAMACHY are performed in the
+three different viewing geometries: nadir, limb, and
+solar/lunar occultation. A typical orbit starts with a limb
+measurement of the twilit atmosphere, followed by the
+solar occultation measurement during sunrise over the
+north pole and an optimised limb-nadir sequence: lunar
+occultations being made where possible. All these different
+Figure 1 - Altitude ranges of atmospheric constituents targeted by SCIA-
+MACHY. Retrieval from the occultation measurements yield information
+over a wider altitude range than the limb measurements, due to its higher
+S/N.
+Figure 2 - Left: Preliminary upper tropospheric and stratospheric Ozone vertical pro-
+file (top) distribution and stratospheric column amount (bottom) derived from limb
+backscatter measurements in the spectral range of the Chappuis band of ozone and inte-
+grated column amount on April 25, 20032. Right: Preliminary upper stratospheric and
+mesospheric Ozone distribution, on July 3, 2002 (Orbit 1779), derived  from limb
+backscatter measurements in the spectral range of the Hartley band of ozone..
+IGACtivities  15
+IGACtivities  16
+Figure 3 - Left: Preliminary global stratospheric NO2 distribution from limb backscatter measurements (top) on August 8, 2002 (orbit 2302) compared to noontime values of a
+2D climatological-photochemical model (bottom). Right: Preliminary global stratospheric BrO distribution from limb backscatter measurements (top) on August 8, 2002 (orbit
+2302) compared to 2D climatological model (bottom).
+IGACtivities  17
+Figure 4 - Comparison of tropospheric excess column NO2 as seen by GOME-1 on ERS-2 (spatial resolution 40 x 320 km2)
+and SCIAMACHY on ENVISAT (30 x 60 km2).
+GOME NO2 excess: August 2002
+SCIAMCHY NO2 excess: August 2002
+Longitude
+Longitude
+IGACtivities  18
+measurements, with the exception of lunar occultation, are
+made every orbit, i.e. 14 orbits per day.  
+To calibrate the Earthshine spectra, to guarantee the opti-
+cal performance and to detect long term changes in the
+instrument throughput arising from degradation, calibra-
+tion measurements are regularly performed. These include
+solar irradiance measurements, spectral calibration, rela-
+tive radiometric calibration, and dark current measure-
+ments. The degradation of the limb and nadir mirrors is
+monitored by using the on board lamps, the lunar and solar
+observations via the mirrors and the diffuser plates. This
+enables the throughput of the spectrometer optics to be
+monitored throughout the mission lifetime. The data pro-
+cessing is designed to incorporate these calibration meas-
+urements and provide a dynamic update of the spectral and
+radiometric calibration. 
+First Results from Limb
+Measurements
+In April 2002 the limb light path was opened by remov-
+ing the relevant cover and first solar and limb spectra were
+recorded. In limb mode the spectrometer slit is projected
+parallel to the horizon in-flight direction tangentially to the
+Earth's atmosphere. In this measurement mode the limb
+mirror scans the atmosphere in horizontal (azimuth) direc-
+tion whereas a step scan of the nadir mirror results in the
+vertical (elevation) scan direction from the ground to
+approx. 150 km. Each horizontal scan of the atmosphere in
+limb covers 960 km in the horizontal (across track direc-
+tion). The vertical resolution is approximately 3 km. The
+ability of the SCIAMACHY instrument to observe the
+same atmospheric volume first in limb and thereafter in
+nadir viewing geometries within about 7 min is one of the
+novel features. For the dedicated limb-nadir scanning strat-
+egy and a total swath width of 960 km global coverage is
+achieved after 6 days at the equator. Figure 2 (left) shows
+an example of one of the first analysis of global upper tro-
+pospheric and stratospheric Ozone retrieved from the spec-
+tral signature of  O3 in the Chappius band around 600 nm
+[4]. Clearly visible is the tropopause and its typical behav-
+iour as function of latitude.
+The SCIAMACHY limb measurements also enable
+mesospheric ozone to be determined directly.  Figure 2
+shows a preliminary analysis of global upper stratospheric
+to mesospheric O3 derived from the UV absorption of O3
+in the Hartley bands using wavelengths between 240 and
+300 nm. A first comparison with the Canadian Middle
+Atmosphere Model (CMAM) data corresponding to an
+August mean reveals that the overall structure is well rep-
+resented. Further work is required to validate the measure-
+ments.
+In addition to O3, SCIAMACHY measurements yield
+profiles of other important trace gases in the upper tropo-
+sphere and stratosphere such as NO2 (Eichmann et al.,
+2002) and BrO (see Figure 3). Especially the latter will
+allow now a more detailed characterisation of the global
+stratospheric Bromine budget.
+As expected, the stratospheric profile of OClO has
+observed during periods of chlorine activation in the polar
+vortex in late winter and spring. The presence of both noc-
+tilucent clouds in the mesosphere (Von Savigny et al.,
+2002) and  Polar Stratospheric Clouds are readily observed
+to be detectable by  SCIAMACHY. Additional stratospher-
+ic profiles of O3 and NO2 were also derived from the occul-
+tation measurements.
+First Results from Nadir 
+Measurements
+In June 2002 the nadir cover was opened as part of the
+last phase of switch on activity. In nadir mode up welling
+radiation from the atmospheric volume beneath the space-
+craft is observed. The nadir mirror scans across the satellite
+track. Each full scan covers an area on ground of approxi-
+mately 30 km along track by 960 km across track. By read-
+ing the data out at an appropriate rate a typical spatial res-
+olution of 30 km by 60 km for the spectral data is achieved. 
+Figure 4 shows the tropospheric NO2 amounts, derived
+from GOME and SCIAMACHY using the tropospheric
+excess or residual method averaged for August, 2002.
+(Richter and Burrows, 2002) The improvement of the hor-
+izontal resolution from 40 km x 320 km (GOME) to 30 km
+x 60 km (SCIAMACHY) is obvious. This enables unam-
+biguously the accurate detection of the enhanced NO2 val-
+ues originating from industrialised areas (Birmingham,
+Manchester, Po valley etc.) and large cities (Vienna, Roma
+etc.) which are in comparison smoothed out or smeared
+over the larger ground scene in the GOME observations. It
+should also noted that the maximum column amounts in
+the SCIAMACHY measurements are roughly a factor of
+two higher than in the GOME data, which demonstrates the
+large and expected inhomogeneity of the NO2 plumes. The
+good spatial resolution and the high data quality of tropos-
+pheric NO2 measurements will yield a much improved
+quantification of global emissions of NO2.
+In addition to the first results on NO2, it has already been
+demonstrated that the column amounts of O3, SO2, BrO,
+OClO, CH4, CO2 and CO (see  Buchwitz et al., 2002;
+Brastedt et al., 2002) can be retrieved. The retrieval of the
+other trace gases is progressing. Furthermore, first attempts
+to derive cloud information (cloud top height, cloud optical
+thickness, effective droplet radius etc.) and aerosol param-
+eters from nadir backscatter measurements are showing
+promising results
+. Data Products
+Operational data products are defined for SCIAMACHY
+and ENVISAT purposes as being a regularly generated,
+quality controlled and archived data products. For SCIA-
+MACHY it is planned that limb and nadir measurements
+will be processed operationally within the ENVISAT
+IGACtivities  19
+ground segment. SCIAMACHY operational data products
+are divided into two categories: the fast delivery (FD)
+products and the off-line (OL) products. FD products are to
+be generated directly after downlink at the ESA ground sta-
+tions in near-real time, a few hours after the spectrum is
+acquired. OL products comprise a set of consolidated and
+fully calibrated products. The latter are to be processed off-
+line at the German Processing and Archiving Center (D-
+PAC) as part of the ENVISAT ground segment. Scientific
+products for process studies from lunar and solar occulta-
+tion measurements as well as special scientific products
+from limb and nadir measurements are also planned to be
+generated for the atmospheric research and related com-
+munities by specific scientific groups. Currently calibra-
+tion and algorithm improvements coupled with validation
+and an iterative systematic data analysis is in progress.
+Finally, to ensure a high data quality over the mission life-
+time instrument performance is monitored continuously
+and an intensive validation campaign and activity are cur-
+rently on-going. 
+Summary and Outlook
+It has shown in the first year that global data sets of pro-
+files and/or total column measurements of O3, NO2, BrO,
+OClO, SO2, CO, CO2 and CH4 can be derived from SCIA-
+MACHY solar backscatter measurements. On the remain-
+ing gases, aerosol and cloud parameters first progress is
+made. Currently algorithm improvements, validation and
+an iterative systematic data analysis is ongoing. SCIA-
+MACHY has now the potential to be a unique milestone for
+research into the Earth-Atmosphere system. It provides a
+wealth of information both in its own right and in combi-
+nation with the synergistic measurements from other
+instruments aboard ENVISAT about atmospheric composi-
+tion of relevance and significance for many of the IGAC
+research objectives. It is intended to measure for at least
+five years but the mission will hopefully continue its meas-
+urements for a significantly longer period. The fact that
+there is already a 9 month overlap with GOME-1 data pro-
+vides the opportunity to generate a consistent set of data
+products  from GOME and SCIAMACHY nadir measure-
+ments having the potential to be extended over more than a
+decade. Provided SCIAMACHY is successful in meeting
+its objectives there is little doubt that the continuity of
+these measurements, incorporating technical improve-
+ments and developments, are needed. This could be made
+within the follow on to the ESA and EUMETSAT Metop
+series of platforms in the 2015.   
+It is also now well accepted that measurements of tropos-
+pheric constituents with higher spatial and temporal reso-
+lution are and will be needed for atmospheric and climate
+research as well as  for operational meteorological applica-
+tions in both traditional and new (e.g. numerical environ-
+mental prediction) areas (Lelieveld, 2003). A unique
+opportunity to achieve this are synoptic measurements
+from geostationary orbit (Lelieveld, 2003; Bovensmann et
+al., 2002). The Geostationary SCanning Imaging
+Absorption spectrometer (GeoSCIA) (Bovensmann et al,
+2002), an evolutionary version of SCIAMACHY, proposed
+to ESA as a demonstration mission for post-MSG atmos-
+pheric instrumentation, aims to meet the above objective. 
+Acknowledgements
+There are too many scientists and engineers, who have
+contributed to the success of SCIAMACHY, thus far to
+name individually. The industrial development of SCIA-
+MACHY was managed by a joint agency team formed
+between the German Space Agency DLR (then DARA)
+and the Dutch space agency NIVR. The University of
+Bremen team has performed the role of Principal
+Investigator Institution for SCIAMACHY. The mission has
+been scientifically supported by scientists from BIRA-
+IASB, DLR, KNMI, Max Planck Institute for Chemistry
+Mainz, NASA, RAL, SAO, SRON, University of
+Heidelberg, and University of Bremen. The work at the
+University of Bremen was partly funded by the BMBF
+(FKZ 07 UFE 12/8), DLR (FKZ 50 EE 0027) and the Land
+Bremen. 
+References
+Bovensmann, H., J. P. Burrows, M. Buchwitz, J. Frerick, S. Noël, V. V. Rozanov, K.
+V. Chance, A. P. H. Goede, SCIAMACHY- Mission Objectives and Measurement
+Modes, J. Atmos. Sci., 56, 127-149, 1999
+Bovensmann, H., M. Buchwitz, S. Noël, K. U. Eichmann, V. Rozanov, J.P. Burrows,
+J. M. Flaud, G. Bergametti, J. Orphal, P. S. Monks, G. K. Corlett, A.P. Goede, T. von
+Clarmann, F. Friedl-Valon, T. Steck, H. Fischer, Sensing of Air Quality from
+Geostationary Orbit, Proc. of the 2002 EUMETSAT Meteorological Satellite
+Conference, Dublin, 2.-6.9.2002, EUMETSAT, Darmstadt, Germany, ISBN 92-
+9119-049, p. 89 –96, 2002
+Bramstedt, K., M. Buchwitz, U. Blum, T. Blumenstock, C. Frankenberg, P. von der
+Gathen, R. Koelemeijer, M. de Maziere, A. Richter, C. von Savigny, H. Schrijver, A.
+Schulz, W. Steinbrecht, "Comparison of scientific SCIAMACHY products with
+ground-based measurements", ENVISAT Validation Workshop, ESA/ESRIN,
+Frascati, Italy, 9-13 December 2002, to be published by ESA Publications Division
+as Special Publication SP-531 (on CD-ROM), 2002.
+Buchwitz, M., S. Noël, K. Bramstedt, V. V. Rozanov, H. Bovensmann, S. Tsvetkova,
+and J. P. Burrows, Retrieval of trace gas vertical columns from
+SCIAMACHY/ENVISAT near-infrared nadir spectra: First preliminary results, pre-
+sented at COSPAR 2002, submitted to Advances in Space Research, 2002
+Burrows et al., SCIAMACHY - A European proposal for atmospheric remote sens-
+ing from the ESA Polar Platform, published by Max-Planck-Institut für Chemie,
+55122 Mainz, Germany, 1988
+Burrows, J.P., M. Weber, M. Buchwitz, V. V. Rozanov, A. Ladstätter-Weißenmayer,
+A. Richter, R. De Beek, R. Hoogen, K. Bramstedt and K.U. Eichmann, (1999) The
+Global ozone monitoring experiment (GOME): Mission concept and first scientific
+results, J.  Atmos. Sci., 56, 151-175 
+K.-U. Eichmann, J. W. Kaiser, C. von Savigny, A. Rozanov, V. V. Rozanov, H.
+Bovensmann, M. von König, J. P. Burrows, "SCIAMACHY limb measurements in
+the UV/VIS spectral region: First results", submitted to Adv. Space Res., 2002.
+Lelieveld, J., Geostationary Satellite Observations for Monitoring Atmospheric
+Composition and Chemistry Applications, EUMETSAT, http://www.eumetsat.de ,
+January 2003
+Richter, A. and J.P. Burrows, Retrieval of Tropospheric NO2 from GOME
+Measurements, Adv. Space Res., 29(11) ,1673-1683, 2002 
+von Savigny, C., A. A. Kokhanovsky, H. Bovensmann, K.-U. Eichmann, J. Kaiser,
+S. Noel, A. V. Rozanov, V. V. Rozanov, J. Skupin, J. P. Burrows, 2002: NLC detec-
+tion and particle size determination: first results from SCIAMACHY on ENVISAT,
+Adv. Space Res., submitted.
+Links:
+ENVISAT and operational data products:  http://envisat.esa.int
+SCIAMACHY "Link Center":  http://www.sciamachy.de
+IGACtivities  20
+The Regional Integrated
+Project Mediterranean
+Contributed by Jos Lelieveld (lelieveld@mpch-mainz-
+mpg.de), Max Planck Institute for Chemistry, P.O. Box
+3060, D-55020 Mainz, Germany, and Nikos Mihalopoulos
+(mihalo@chemistry.uoc.gr), Environmental Chemical
+Processes Laboratory, University of Crete, P.O. Box 1470,
+71409 Heraklion, Greece.
+Introduction
+In the Mediterranean Intensive Oxidant Study (MINOS)
+an international team of scientists from eight countries has
+investigated the Mediterranean atmosphere during six
+weeks in July-August 2001. Measurements of the chemical
+composition and the radiation budget of the Mediterranean
+troposphere were performed both from a ground-station
+and with the use of aircraft. The objective was to study
+long-distance transport of natural and anthropogenic trace
+gases and aerosols and their effects on air quality and cli-
+mate. The results indicate that anthropogenic emissions
+cause a large-scale air quality decrease and may contribute
+to a reduction of precipitation. 
+The operational base of MINOS was Crete, where a mon-
+itoring station was equipped to measure a large number of
+gaseous and particulate air constituents as well as solar
+radiation scattering and absorption. Measurement details
+are provided through the following website, which
+includes a link to the MINOS special issue of the online
+journal 
+Atmospheric 
+Chemistry 
+and 
+Physics:
+http://www.mpch-mainz.mpg.de/~reus/minos/. The meas-
+urement campaign was hosted by the University of Crete in
+Heraklion. Two aircraft, a twinjet Falcon and a King Air,
+performed more than 20 research flights to sample the air
+over the Mediterranean Sea. 
+Air pollution “crossroads”
+The measurements give evidence of a remarkably high
+level of air pollution from the surface to the top of the tro-
+posphere up to15 km altitude. The strongest anthropogenic
+influence was observed in the lower 4 km, originating from
+both West and East Europe transported by the northerly
+flow (Lelieveld et al., 2002; Traub et al., 2003). The
+sources are industrial activity, traffic, forest fires, agricul-
+tural and domestic burning (Gros et al., 2003; Salisbury et
+al., 2003; Xu et al., 2003). Especially over the eastern
+Mediterranean Sea biomass burning effluents from the
+region north of the Black Sea were abundant during the
+campaign 
+(Holzinger
+et 
+al., 
+2003). 
+Since 
+the
+Mediterranean region has only few clouds in summer, the
+solar radiation levels are high so that noxious reaction
+Figure 1- Direct
+radiative forcing by
+greenhouse gases
+(GHG) and aerosols
+over the summertime
+Mediterranean Sea,
+both for the top of the
+atmosphere (TOA) and
+at the surface. The
+GHG effects are based
+on model results, that
+of the aerosols on
+measurements during
+MINOS.
+IGACtivities  21
+products such as ozone and peroxyacetyl nitrate (PAN) are
+formed in photochemical smog. The oxidation efficiency
+of these air masses is high, with diurnal average hydroxyl
+concentrations of about 4.5x106 radicals/cm3 and daytime
+maximum levels of about 1.5-2x107
+radicals/cm3
+(Berresheim et al., 2003).
+At higher altitudes, above 4 km, strong contributions
+from long-distance pollution transport from North America
+and Asia were found, for example, for carbon monoxide
+(CO) (Lawrence et al., 2002). It is quite remarkable that
+about half of the mid-tropospheric CO over the
+Mediterranean originates from Asia and 25-30% from
+North America. These transports fol-
+low the prevailing westerly winds that
+are typical for the extra-tropics. These
+layers are moreover substantially
+affected by ozone that is mixed down
+from the stratosphere (Roelofs et al.,
+2003). It appears that especially the
+middle troposphere in summer is
+influenced by stratosphere-tropo-
+sphere exchange, leading to a stratos-
+pheric contribution to column O3 in
+the troposphere up to 25-30%. In addi-
+tion, transport of anthropogenic O3
+and its precursor gases from the USA
+exerts a significant influence in the
+free troposphere (Heland et al., 2003).
+In the upper troposphere, above 8 km
+altitude, another distinct layer can be
+distinguished, especially over the east-
+ern Mediterranean, associated with
+high levels of reactive species such as
+formaldehyde (Kormann et al., 2003).
+This is caused by anthropogenic emis-
+sions transported from South Asia,
+following convective lifting into the
+upper troposphere by thunderstorms in
+the Indian monsoon (Traub et al.,
+2003). Subsequently these air parcels
+follow the easterly tropical jet and turn
+north over the eastern Mediterranean
+in a large upper level anticyclone. The
+chemical “fingerprint” of biomass
+burning (e.g. enhanced CH3CN,
+CH3Cl, C2H2), in particular by biofu-
+el use in India as also observed during
+the Indian Ocean Experiment, is evi-
+dent (Scheeren et al., 2003). From the
+upper troposphere over the eastern
+Mediterranean these species can even
+penetrate the lowermost stratosphere.
+It appears that the Mediterranean
+region is a preferred location for
+cross-tropopause exchanges, partly
+related to direct convective penetration
+of the lower stratosphere over southern Europe (Fischer et
+al., 2002; Traub et al., 2003).
+Air quality and climate
+Near the surface the air pollution has several undesirable
+consequences. First, the European Union eight-hourly air
+quality standard for ozone (53 nmol/mol) is exceeded
+throughout the summer in the entire Mediterranean region.
+High ozone concentrations are harmful for human health
+and ecosystems, and they also cause agricultural crop loss.
+Typical ozone mixing ratios in summer are 55-70
+nmol/mol, and the diurnal variability is small (~10%)
+Figure 2- Schematic representation of the system forcings and responses, and how
+they are investigated in the 5 thematic components of ProMed. The dashed lines imply
+mitigation-adaptation responses by society.
+IGACtivities  22
+(Kouvarakis et al., 2002; Nolle et al., 2002). Because the
+Mediterranean background O3 levels are so high, it is dif-
+ficult to control ozone in urban and industrial areas.
+Second, the concentrations of aerosols are high as well,
+affecting human health. The fine aerosol fraction (<1µm) is
+mainly composed of sulfate (35-40%), organics (30-35%),
+ammonium (10-15%) and black carbon (5-10%), mostly
+from fossil fuel and biomass combustion (Lelieveld et al.,
+2002; Sciare et al., 2003). The persistent northerly winds in
+summer carry large pollution loads from Europe that can
+deposit onto the Mediterranean Sea, which affects the
+water 
+quality 
+and 
+contributes 
+to 
+eutrophication
+(Kouvarakis et al., 2001).The aerosols furthermore influ-
+ence the Mediterranean atmospheric energy budget by
+scattering and absorbing solar radiation (Figure 1). They
+reduce solar radiation absorption by the sea by about 10%
+and they alter the heating profile of the lower troposphere
+(Markowicz et al., 2002). As a consequence, evaporation
+and moisture transport, in particular to North Africa and the
+Middle East, are suppressed. Furthermore, Rosenfeld
+(2000; and by personal communication) studied satellite
+observations, indicating important perturbations of the
+cloud microstructure and convection by aerosols, probably
+decreasing precipitation. These effects by aerosols are sub-
+stantial today, even though sulfate from Europe has actual-
+ly decreased in the past two decades through the abatement
+of acidification. Therefore, it is likely that the climate
+effects of the aerosols have been much larger in the past.
+The radiative forcing by aerosols also influences the ener-
+gy budget of the Mediterranean Sea, of which the conse-
+quences are yet poorly understood. The Mediterranean Sea
+is a small-scale ocean, which has the same phenomenology
+of large oceans, including a thermohaline circulation,
+showing signs of large perturbations in the 1990s
+(Lascaratos et al., 1999). It is quite conceivable that the
+changing energy budget and anomalous winds have influ-
+enced the ocean circulation (Tragou and Lascaratos, 2003).
+It is conceivable that changes in evaporation, for example,
+owing to changes in surface heating resulting from aerosol
+radiative forcing, substantially influence
+the Mediterranean overturning (Myers and
+Haines, 2002). The aerosols may thus
+affect several components of the regional
+atmosphere-ocean system and the water
+cycle. 
+Project Mediterranean:
+ProMed
+The atmospheric forcings to the ocean,
+climate and water cycle do not act in iso-
+lation. Firstly, the regional effects are
+linked to large-scale phenomena through
+teleconnections, for example, with the
+Indian monsoon and the North Atlantic
+Oscillation. It is not known, however, how
+these system components are linked and
+interact under global change. Climate change scenarios
+nevertheless 
+consistently 
+predict 
+drying 
+of 
+the
+Mediterranean region, already being under water stress.
+Secondly, water availability is also determined by many
+other factors, in particular agriculture. Even if the total
+amount of precipitation would remain constant, soil crust
+formation in dry years and heavy short-duration rainfall in
+other years can have dramatic effects, as indicated by
+anomalous weather events in the past decade (Bolle, 2003). 
+Thus a wide range of environmental processes and socie-
+tal conditions are in many ways linked. The goal of
+ProMed is to obtain a better understanding of these link-
+ages, and to improve the skill to predict how the system
+may be affected under climate change and human activi-
+ties. The project builds upon previous projects that have
+focused on system components. ProMed must bring
+together the necessary information to help mitigate prob-
+lems, or to adapt to them. Already today several
+Mediterranean countries need to make difficult choices
+how to use the limited water resources. Others have prob-
+lems with the compliance to air pollution and climate
+change policies, which sometimes include conflicting
+directives. 
+Table 1 summarizes several of the main arguments why
+an integrated project is needed with a focus on the
+Mediterranean region. The project, which is presently
+being established, has four thematic components that pri-
+marily address biogeophysical and -chemical processes
+and feedback mechanisms:
+1. Land surface processes;
+2. Atmospheric processes and air quality;
+3. Ocean-atmosphere interactions;
+4. Climate and water cycle;
+An additional component aims at:
+5. Integration, mitigation and adaptation.
+Table 1 - Why an integrated project for the Mediterranean region?
+• Small-scale coupled ocean-atmosphere system
+• Water resources are vulnerable and under stress
+• Climate change scenarios indicate further drying
+• Strong influences by long-range air pollution transport
+• Large perturbations of the atmospheric energy budget
+• Recent changes in weather and ocean circulation
+• Environmental changes have large-scale effects
+• Collaborations with North-Africa and Middle-East needed
+IGACtivities  23
+The latter must support the development of societal
+strategies and policies. Figure 2 indicates how these five
+thematic components are linked to investigate the relation-
+ships between human activities, system forcings and
+responses. The project furthermore includes “integrating”
+experiments to bring together data from anchor stations,
+satellites, field measurement campaigns and modeling.
+In addition to the environmental and societal arguments,
+an important scientific merit of ProMed is that the
+Mediterranean Basin is an excellent “natural laboratory” to
+investigate feedback mechanisms between the atmosphere
+and ocean that control the hydrological cycle and climate,
+in particular because the Mediterranean Sea is an “integra-
+tor” of natural and anthropogenic changes over long time
+periods. The Mediterranean coupled ocean-atmosphere
+system moreover responds relatively rapidly to atmospher-
+ic forcings, so that research in this area provides clues on
+how the global climate system may respond to a changing
+environment.
+Considering the different levels of knowledge and skills
+in the region, capacity building will be prerequisite, to train
+young scientists, develop a quality assurance and control
+program associated with the regional network of anchor
+stations, and to help answer questions of decision makers
+and stakeholders. The project must moreover organize net-
+works that further the communication between the disci-
+plines and activities, and provide links with (inter)national
+meteorological and hydrological services and international
+programs. Although it is a major challenge to establish
+integrated projects such as ProMed, it is an inevitable next
+step in environmental science to expand multi-disciplinary
+collaborations, and bring the results of atmospheric and cli-
+mate change research to the regional level at which the
+questions are asked by science and society. 
+References
+Berresheim, H, C. Plass-Dülmer, T. Elste, N. Mihalopoulos, and F. Rohrer, OH in
+the coastal boundary layer of Crete during MINOS: Measurements and relation-
+ship with ozone photolysis, Atmos. Chem. Phys. Discuss., 3, 1183-1212, 2003.
+Bolle, H.-J. (Ed.), Mediterranean climate: variability and trends, Springer-Verlag,
+Berlin, 2003.
+Fischer, H., M. de Reus, M. Traub, J. Williams, J. Lelieveld, J. de Gouw, C.
+Warneke, H. Schlager, A. Minikin, R. Scheele, and P. Siegmund, Deep convective
+injection of boundary layer air into the lowermost stratosphere at midlatitudes,
+Atmos. Chem. Phys. Discuss., 2, 2003-2019, 2002.
+Gros, V., J. Williams, J.A. van Aardenne, G. Salisbury, R. Hofmann, M. Lawrence,
+R. Von Kuhlmann, J. Lelieveld, M. Krol, H. Berresheim, J.M. Lobert and E. Atlas,
+Origin of anthropogenic hydrocarbons and halocarbons measured in the summer-
+time European outflow (on Crete in 2001), Atmos. Chem. Phys. (submitted), 2003.
+Heland, J., H. Ziereis, H. Schlager, M. de Reus, M. Traub, J. Lelieveld, G.-J.
+Roelofs, P. Stock and A. Roiger, Aircraft measurements of nitrogen oxides, ozone
+and carbon monoxide during MINOS 2001: distributions and correlation analyses,
+Atmos. Chem. Phys. (submitted), 2003.
+Holzinger, R., T. Klüpfel, G. Salisbury, J. Williams, M. De Reus, M. Traub, P.J.
+Crutzen and J. Lelieveld, Acetonitrile over the eastern Mediterranean and its use
+for assessing biomass burning contribution to the tropospheric burdens of CO,
+acetone, methanol and PAN, Atmos. Chem. Phys. (submitted), 2003.
+Kormann, R., H. Fischer, M. de Reus, M. Lawrence, Ch. Brühl, R. von Kuhlmann,
+R. Holzinger, J. Williams, J. Lelieveld, C. Warneke, J. de Gouw, J. Heland, H.
+Ziereis, and H. Schlager, Formaldehyde over the eastern Mediterranean during
+MINOS: Comparison of airborne in-situ measurements with 3D-model results,
+Atmos. Chem. Phys. Discuss., 3, 1303-1331, 2003.
+Kouvarakis, G., N. Mihalopoulos, T. Tselepides, S. Stavrakakis, On the impor-
+tance of atmospheric nitrogen inputs on the productivity of Eastern
+Mediterranean, Glob.l Biogeochem. Cycles, 15, 805-818, 2001.
+Kouvarakis, G., M. Vrekoussis, N. Mihalopoulos, K. Kourtidis, B. Rappenglueck,
+E. Gerasopoulos, and C. Zerefos, Spatial and temporal variability of tropospheric
+ozone (O3) in the boundary layer above the Aegean Sea (eastern Mediterranean),
+J. Geophys. Res., 107, doi: 10.1029/2000JD000081, 2002.
+Lascaratos, A., W. Roether, K. Nittis, and B. Klein, Recent changes in deep water
+formation and spreading in the eastern Mediterranean Sea, Prog. Oceanogr., 44,
+5-36, 1999.
+Lawrence, M.G., P. J. Rasch, R. von Kuhlmann, J. Williams, H. Fischer, M. de
+Reus, J. Lelieveld, P. J. Crutzen, M. Schultz, P. Stier, H. Huntrieser, J. Heland, A.
+Stohl, C. Forster, H. Elbern, H. Jakobs, and R. R. Dickerson, Global chemical
+weather forecasts for field campaign planning: predictions and observations of
+large-scale features during MINOS, CONTRACE, and INDOEX, Atmos. Chem.
+Phys., 3, 267–289, 2003.
+Lelieveld, J. H. Berresheim, S. Borrmann, P.J. Crutzen, F.J. Dentener, H. Fischer,
+J. Feichter, P.J. Flatau, J. Heland, R. Holzinger, R. Korrmann, M.G. Lawrence, Z.
+Levin, K.M. Markowicz, N. Mihalopoulos, A. Minikin, V. Ramanathan, M. de
+Reus, G.J. Roelofs, H.A. Scheeren, J. Sciare, H. Schlager, M. Schultz, P.
+Siegmund, B. Steil, E.G. Stephanou, P. Stier, M. Traub, C. Warneke, J. Williams,
+H. Ziereis, Global air pollution crossroads over the Mediterranean, Science, 298,
+794-799, 2002.
+Markowicz, K.M., P.J. Flatau, M.V. Ramana, P.J. Crutzen, and V. Ramanathan,
+Absorbing Mediterranean aerosols lead to a large reduction in the solar radiation
+at the surface, Geophys. Res. Lett., 29, doi:10.1029/2002GL015767, 2002.
+Myers, P.G., and K. Haines, Stability of the Mediterranean’s thermohaline circu-
+lation under modified surface evaporative fluxes, J. Geophys. Res., 107, doi:
+10.1029/2000JC000550, 2002.
+Nolle, M., R. Ellul, G. Heinrich, and H. Güsten, A long-term study of background
+ozone concentrations in the central Mediterranean – diurnal and seasonal varia-
+tions on the island of Gozo, Atmos. Environ., 36, 1391-1402, 2002.
+Roelofs, G.-J., B. Scheeren, J. Heland, H. Ziereis, and J. Lelieveld, Distribution
+and origin of ozone in the eastern Mediterranean free troposphere during MINOS
+(August 2001), Atmos. Chem. Phys. Discuss., 3, 1247-1272, 2003.
+Rosenfeld, D., Suppression of rain and snow by urban and industrial pollution,
+Science, 287, 1793-1796, 2000.
+Salisbury, G., J. Williams, R. Holzinger, V. Gros, N. Mihalopoulos, M. Vrekoussis,
+R. Sarda-Estève, H. Berresheim, R. von Kuhlmann, M. Lawrence, and J.
+Lelieveld, Ground-based PTR-MS measurements of reactive organic compounds
+during the MINOS campaign in Crete, July-August 2001, Atmos. Chem. Phys.
+Discuss., 3, 911-948, 2003.
+Scheeren, H.A., J. Lelieveld, G.J. Roelofs, J. Williams, H. Fischer, M. de Reus,
+J.A. de Gouw, C. Warneke, R. Holzinger, H. Schlager, T. Klüpfel, M. Bolder, C.
+van der Veen, and M. Lawrence, The impact of monsoon outflow from India and
+Southeast Asia in the upper troposphere over the eastern Mediterranean, Atmos.
+Chem. Phys. Discuss., submitted , 2003.
+Sciare, J., H. Bardouki, C. Moulin, and N. Mihalopoulos, Aerosol sources and
+their contribution to the chemical composition of aerosols in the Eastern
+Mediterranean Sea during summertime, Atmos. Chem. Phys., 3, 291–302, 2003.
+Tragou, E., and A. Lascaratos, Role of aerosols on the Mediterranean solar radia-
+tion, J. Geophys. Res., 108, doi:10.1029/2001JC001258, 2003.
+Traub, M., H. Fischer, M. de Reus, R. Kormann, J. Heland, H. Ziereis, H.
+Schlager, R. Holzinger, J. Williams, C. Warneke, J. de Gouw, and J. Lelieveld,
+Chemical characteristics assigned to trajectory clusters during the MINOS cam-
+paign, Atmos. Chem. Phys. Discuss., 3, 107-134, 2003.
+Xu, X., J. Williams, C. Plass-Dülmer, H. Berresheim, G. Salisbury, L. Lange and
+J. Lelieveld, GC¥GC measurements of C7-C11 aromatic and n-alkane hydrocar-
+bons on Crete, in air from eastern Europe during the MINOS campaign, Atmos.
+Chem. Phys. (submitted), 2003.
+IGACtivities  24
+Comparison of Regional
+Aerosol Chemical and
+Optical Properties from the
+European, Asian, and
+North American Plumes
+Contributed by Patricia Quinn (Patricia.K.Quinn@noaa.gov)
+and Tim Bates (Tim.Bates@noaa.gov)  NOAA PMEL, 7600
+Sand Point Way NE, Seattle, WA 98115 USA
+Introduction
+Global distributions of aerosol optical depth (AOD)
+derived from satellite observations of backscattered radia-
+tion indicate persistent seasonal aerosol plumes downwind
+of many continental regions (Husar et al., 1997). In March
+through May a plume extends from Asia eastward across
+the North Pacific Ocean. During the winter monsoon peri-
+od (December through April), a plume is located off the
+southwest coast of India over the Indian Ocean. In the sum-
+mer months of June through August an aerosol plume orig-
+inates from the mid-Atlantic states of the United States and
+extends across the North Atlantic Ocean. Likewise, in the
+spring and summer months a plume is transported from
+Europe to the North Atlantic Ocean. Satellite observations
+reveal the seasonal regularity and relative magnitude of
+regional plumes in terms of backscattered radiation but are
+not able to provide information about aerosol chemical
+composition, size distributions, optical properties, or mass
+loading in the boundary layer. Such information can be
+obtained from in situ measurements and is required to fully
+understand the regional climate and health effects of the
+haze. Recent field campaigns have characterized aerosol
+properties in these plumes to better understand their
+impacts on regional atmospheric chemistry and climate.
+The first Aerosol Characterization Experiment (ACE 1)
+purposefully steered clear of any continental plumes in
+order to characterize the “background” aerosol upon which
+anthropogenic perturbations could be imposed. Following
+ACE 1, ACE 2 focused on the European plume, INDOEX
+(Indian Ocean Experiment) on the plume emanating from
+the Indian subcontinent, ACE Asia on the Asian plume, and
+TARFOX (Tropospheric Aerosol Radiative Forcing
+Observational Experiment) and NEAQS (New England Air
+Quality Study) on the eastern U.S. plume. Table 1 lists the
+details of these experiments.     
+Results from these experiments have been reported or
+soon will be reported in a variety of peer-reviewed jour-
+nals. We will not summarize already-reported results here
+but rather will use (almost exclusively) the data set collect-
+ed by NOAA PMEL to compare regional aerosol chemical
+and optical properties. Our approach in these experiments
+has been twofold. First, sampling has been done with stan-
+dardized protocols so that sampling biases are minimized
+and data from the different regions are directly comparable.
+Second, we have collected over-determined data sets so
+that a measured property such as aerosol mass or light
+extinction can be compared to mass or extinction calculat-
+ed from an independent set of measurements. Hence, we
+can test for internal consistency in our data sets, determine
+and quantify sources of uncertainty in the measurement
+and model methods, and objectively assess how well we
+understand the regional aerosol. Our goal in this short arti-
+cle is to point out a few of the intriguing findings from
+these regional experiments; and, based on closure studies
+using the over-determined data sets, some of the successes
+and some of the areas where improvements are needed in
+measurement and modeling capabilities.
+Methodology
+The regional comparisons shown in Figures 1 and 2 and
+discussed throughout the text are based on data collected
+during ACE 1, ACE 2, INDOEX, ACE Asia, and NEAQS
+onboard a variety of ships using identical inlets, sampling
+humidities, aerosol samplers, and analysis methods (Quinn
+et al., 2002; Quinn and Bates, 2003). Even though different
+sampling protocols were used in TARFOX (Hegg et al.,
+1997; Novakov et al., 1997), we include it in these com-
+parisons since it took place in the vicinity of NEAQS and
+contributes to the eastern U.S. plume data set. Since TAR-
+FOX was an aircraft study we include only data collected
+at altitudes less than or equal to 300 m.  
+The samples collected during each of these experiments
+were categorized according to air mass back trajectories
+(Draxler, 1992). “Marine” refers to sampled air masses that
+had not been in contact with land for 5 or more days prior
+to reaching the ship. “Continental”, “Polluted”, and
+“Polluted with Dust” refer to sampled air masses that had
+recent (< 3 days) contact with continental regions with
+known sources of pollution and/or dust aerosol.
+The degree of variability presented here reflects only that
+which was measured during these short-lived campaigns.
+However, results from the 1999 INDOEX field campaign
+are expected to be representative of other years based on
+satellite data for 1996 to 2000 (Ramanathan et al., 2001a).
+Seasonally (January to March) and spatially (0∞to 30∞N)
+averaged AOD for these 5 years varied by less than 10% of
+the 1999 values. Similarly, the summer mean values of
+AOD measured at Greenbelt, MD varied by less than 15%
+between 1993 and 1996 indicating that the 1996 TARFOX
+values were representative of other years (Remer et al.,
+1999). In addition, the regional mean AOD measured dur-
+ing NEAQS was within 18% of regional mean summer val-
+ues derived from 5 Aeronet sites along the mid-Atlantic
+coast in 1993 and 1996 (Remer et al., 1999). Dust storms
+from northern China and Mongolia have increased notice-
+IGACtivities  25
+Figure 1 - Left panel:  Absolute submicron concentrations of aerosol mass, non-sea salt (nss) SO4= + NH4+, elemental carbon (EC),
+and organic carbon (OC) for the different regions.  All are in mg m-3 except OC which is mg C m-3.  Horizontal lines denote the 25th,
+50th, and 75th percentiles.  The solid square in the box denotes the mean. Right panel:  Average mass fractions of sub- and supermicron
+dominant chemical components for the different regions.  Mass fractions are based on the gravimetrically-determined aerosol mass and
+concentrations of the chemical species.  The mass fraction of H2O is that calculated to be associated with the ionic chemical species at
+55% RH.  POM is estimated by multiplying the measured concentration of OC by a factor of 1.6 to 2.1 to account for associated H and O
+[Turpin and Lim, 2001].
+IGACtivities  26
+ably in frequency and intensity during the past three years.
+The dust storm sampled during ACE Asia was a major
+event that extended across the Pacific, North America, and
+the Atlantic (Huebert et al., 2003). Hence, the ACE Asia
+time period may represent an upper bound in dust emis-
+sions.
+The distance of the measurements from the haze source
+may also lead to variability in the compared data sets.
+During NEAQS, measurements were made 20 to 100 km
+downwind of the eastern shore of the U.S. During ACE
+Asia measurements were made 100 to 400 km from the
+upwind shore, during INDOEX 900 to 1400 km, and dur-
+ing ACE 2 20 to 900 km. During NEAQS, ACE Asia, and
+INDOEX, back trajectories indicated that the travel time
+from the upwind shore to the measurement platform was
+less than 2 days. During ACE 2 the travel time was less
+than 3 days. The global estimate of the average lifetime of
+sulfate aerosol is about 5 days (Langer and Rodhe, 1991).
+During INDOEX, the aerosol lifetime was estimated to be
+7 to 8 days due to a lack of wet deposition (Rasch et al.,
+2001). Similarly dry conditions during NEAQS and ACE
+Asia are expected to have led to equivalent lifetimes. Given
+short transport times relative to the aerosol lifetime and
+assuming minimal dilution of the air from mixing across
+the marine boundary layer inversion, the concentration of
+particulates in the plume should remain fairly constant 100
+to 1400 km from shore. The uniformity of the aerosol con-
+centration downwind of India is confirmed by satellite-
+derived average AOD for a two week period during
+INDOEX (Collins et al., 2001). Values ranged from 0.35 to
+0.4 for the region extending westward from the coast of
+India to 68˚E longitude. This region encompassed the area
+of the ship measurements.
+The height of the marine boundary layer was highly vari-
+able within and between regions ranging from 0.25 to 3.5
+km. Elevated particulate concentrations occurred irrespec-
+tive of boundary layer height.
+Intriguing Results
+1.  Sea salt dominates sub- and supermicron aerosol
+mass and light extinction in the remote marine atmos-
+phere. Prior to a series of Pacific and Southern Ocean
+cruises, including ACE 1, it was commonly believed that
+sea salt was a supermicron or coarse mode aerosol chemi-
+cal component. As a coarse mode component, it was
+thought to persist in a particle size range that is not very
+efficient in terms of light scattering and to have a relative-
+ly short atmospheric lifetime. Shipboard measurements
+during ACE 1 revealed that ~ 70% and 100% of the sub-
+and supermicron aerosol mass, respectively, was sea salt
+with associated water at 55% RH  (Figure 1) (Murphy et
+al., 1998; Quinn et al., 1998).  As a result, sea salt con-
+trolled aerosol extinction in the ACE Asia region. This
+Southern Ocean result corroborated earlier findings for a
+wide latitude range of the Pacific Ocean where sea salt was
+found to dominate aerosol mass and light extinction in the
+sub- and supermicron size ranges (Quinn and Coffman,
+1999). In addition, in all marine air masses shown in Figure
+1, sea salt makes a significant contribution to the submi-
+cron aerosol mass and dominates the supermicron mass.
+These results showed the necessity of including submicron
+sea salt in coupled chemical transport/radiative transfer
+models to provide an accurate estimate of the radiative
+properties of the background marine aerosol.
+An extension of the sea salt finding from ACE 1 was that
+non-sea salt (nss) SO4= derived from oceanic dimethylsul-
+fide (DMS) did not make a significant contribution to
+aerosol mass or light extinction nor did it play a role in new
+particle production in the marine boundary layer. DMS-
+derived sulfur did, however, appear to contribute to the
+growth of existing particles in the marine boundary layer
+(Bates et al., 1998) and the nucleation of new particles in
+the free troposphere in the outflow regions of clouds
+(Clarke et al., 1998).  
+2.  A large fraction of submicron aerosol mass is not
+sulfate. Until the late 1990s, most model estimates as well
+as the 1996 IPCC summary of direct aerosol radiative forc-
+ing focused on a highly simplified sulfate-only aerosol. A
+major advance derived from the aerosol experiments dis-
+cussed here, was the identification and quantification of the
+chemical components and their relative importance in the
+different study regions. Figure 1 shows a regional compar-
+ison of the absolute submicron concentrations of a few of
+the chemical components and the sub- and supermicron
+mass fractions of all dominant chemical components. At
+the sampling RH of 55 ± 5%, average submicron mass
+fractions of nss SO4+ plus associated NH4+ ranged from
+16 to 54% over all study regions. Hence, a large and vari-
+able fraction of the submicron aerosol was not sulfate.
+This same result has been reported for the Pacific Ocean
+and aerosol monitoring stations located across North
+America (Quinn et al., 2000). Since aerosol optical and
+cloud-nucleating properties are composition dependent, a
+complete chemical characterization of aerosol mass is
+required for estimating aerosol direct and indirect radiative
+effects.
+3. Absorbing aerosols have a complex impact on
+radiative forcing at the surface. The largest submicron
+concentrations and mass fractions of EC were observed in
+air masses from the Indian subcontinent (Figure 1)
+(Ramanathan et al., 2001a and b; Quinn et al., 2002). As a
+result, the lowest SSA were observed in these same air
+masses.  Solar radiation flux measurements from space and
+the surface during INDOEX revealed that the haze-induced
+reduction in surface solar radiation was three times larger
+than the reflected solar radiation at the top of the atmos-
+phere for clear skies (Satheesh and Ramanathan, 2000).
+The large negative surface forcing resulted from the
+absorption by EC in the Indian haze. The hydrological
+IGACtivities  27
+Figure 2  - Aerosol optical properties including light scattering coefficient, light absorption coefficient, aerosol optical depth, and
+single scattering albedo for the different regions.  Percentile information is the same as in Figure 1. 
+IGACtivities  28
+impacts of this reduction in solar radiation to the surface
+may be significant but currently are not well understood.
+Conversely, solar heating of the boundary layer by EC can
+lead to the evaporation of some clouds which may result in
+more solar radiation reaching the surface and a subsequent
+warming of the surface (Ackerman et al., 2000).  All
+aspects of EC in the atmosphere including (but not limited
+to) emission rate, size distribution, mixing state, cloud pro-
+cessing, radiative effects, lifetime, and deposition rate need
+more study to understand its complex impact on climate.
+4.  The NE U.S. plume is comparable to the Indian and
+Asian plumes in terms of aerosol mass, surface extinc-
+tion, and aerosol optical depth. The Indian and Asian
+plumes have been well documented by field campaigns and
+satellite observations and the environmental implications
+of the “Asian Brown Cloud” have been widely publicized
+in a recently released UNEP report. A comparison of sev-
+eral aerosol extensive properties from the regional experi-
+ments listed in Table 1 shows that the eastern U.S. plume
+can be as intense as those downwind of India and Asia
+(Hegg et al., 1997; Quinn and Bates, 2003).  
+Figure 1 shows that submicron aerosol mass and nss
+SO4= aerosol concentrations observed in the eastern U.S.
+plume during TARFOX and NEAQS were comparable to
+or greater than those observed in the Indian and Asian
+plumes during INDOEX and ACE Asia. The organic car-
+bon (OC) concentrations observed during both TARFOX
+and NEAQS were higher than those of INDOEX and ACE
+Asia. In addition, for both surface-measured extinction and
+aerosol optical depth, the eastern U.S. haze can be as
+intense as the haze downwind of Asia and the Indian sub-
+continent (Figure 2).  All of these factors, plus the likeli-
+hood of intercontinental transport of the U.S. plume, indi-
+cate the importance of determining its climate and health
+impacts. 
+5.  Asian dust is relatively non-absorbing. Prior to ACE
+Asia, Asian dust was expected to be relatively absorbing
+due to its mixing with soot aerosol during transport over
+downwind industrial and urban regions (Huebert et al.,
+2003). Figure 2 shows regional single scattering albedos
+(SSA) based on absorption measurements from a particle
+soot absorption photometer and an integrating nephelome-
+ter. All values have been adjusted to ambient RH using
+appropriate f(RH) values (e.g., Carrico et al., 2003). The
+mean SSA observed during the ACE Asia Polluted with
+Dust air masses was 0.94 ± 0.03. A similar mean value of
+0.95 ± 0.02 was observed in relatively unpolluted dust lay-
+ers in the free troposphere (Anderson et al., 2003). Based
+on these data, soot associated with the dust does not appear
+to have had a large effect on the SSA of the dust – pollu-
+tion mixture.  
+Successes and Areas That Need Improvement
+For all of the intensive field experiments discussed here,
+an over-riding goal has been the collection of data sets
+needed for reducing uncertainties in estimates of aerosol
+radiative forcing. Measured aerosol chemical, microphysi-
+cal, and optical properties are like pieces of a puzzle that
+must fit together to form an accurate picture of the radia-
+tive forcing by the aerosol for a particular region. The col-
+lection of an over-determined data set where important
+aerosol parameters are measured and modeled by multiple
+independent methods allows for a check on the internal
+consistency of the data, the identification and quantifica-
+tion of sources of uncertainty, and an assessment of how
+well the puzzle pieces fit together. Without this approach
+and the constraints that it offers, it is difficult to determine
+how well the regional aerosol systems are understood.
+As expected, the success of such closure experiments
+depends on the complexity of the aerosol being considered.
+Successful closure, defined as agreement within experi-
+mental uncertainties, was reported for mass, extinction,
+Table 1 - Recent field experiments focused on determining the impact of aerosol plumes on regional atmospheric chemistry and
+climate.
+Experiment 
+Region 
+Dates 
+Reference
+ACE 1 
+Southern Ocean south of Australia 
+Nov. – Dec. 1995 
+Bates et al., 1998
+TARFOX
+U.S. eastern seaboard (37˚ to 39˚N)
+July 1996
+Russell et al., 1999
+ACE 2
+Sub-tropical northeast Atlantic
+June – July 1997
+Raes et al., 2000
+INDOEX
+Indian Ocean
+Jan. – Mar. 1999
+Ramanathan et al., 2001a
+ACE Asia
+Western Pacific Ocean 
+Spring 2001
+Huebert et al., 2003
+NEAQS
+U.S. eastern seaboard (33˚ to 45˚N)
+July – Aug. 2002
+Quinn and Bates, 2003
+IGACtivities  29
+and cloud condensation nuclei (CCN) concentration for
+ACE 1 (Quinn and Coffman, 1998; Covert et al., 1998).
+These successes lend confidence in our ability to measure
+and model the relatively simple marine aerosol of ACE 1.
+Successful mass and extinction closure also was reported
+for ACE 2 (Putaud et al., 2000; Neusüb et al., 2000; Collins
+et al., 2000; Schmid et al., 2000) although the increased
+complexity of this aerosol relative to that measured in ACE
+1 brought several measurement and sampling issues to
+light. For example, the particle shapes and complex refrac-
+tive index of Saharan dust were not well- accounted for by
+satellite retrieval algorithms. Also, changes in particle size
+and scattering due to changes in RH were not consistently
+characterized by measurements and models (Russell and
+Heintzenberg, 2000).  
+Local (within one platform) mass and extinction closure
+was achieved for INDOEX in both marine and polluted air
+masses (Quinn et al., 2002). CCN closure was not
+achieved, however, as modeled concentrations systemati-
+cally overpredicted measured values (Cantrell et al. 2001)
+presumably due to a poor parameterization of the uptake of
+water by some or all of the organic material. The INDOEX
+multi-platform Harmony exercise concluded that closure
+between in situ measurements of chemical, microphysical,
+and optical properties across platforms to better than about
+20% will acquire significant improvements in techniques,
+calibration procedures, and comparison efforts (Clarke et
+al., 2002).
+Perhaps the most difficult aerosol encountered to date in
+terms of achieving mass and extinction closure is the
+marine - pollution – dust aerosol mixture measured during
+ACE Asia. A recently held ACE Asia Harmony workshop
+as well as papers in press and published have pointed out
+several aspects of this aerosol system that challenge the
+capabilities of our state-of-the-art measurement and mod-
+eling techniques (e.g., Wang et al., 2002). Difficulties
+include fundamental measurement questions such as 1)
+how do particle sizing instruments respond to non-spheri-
+cal dust particles and 2) can our particle absorption pho-
+tometers accurately measure absorption in the presence of
+a large amount of scattering aerosol? Modeling questions
+include 1) how do we parameterize the many observed
+forms of soot and soot-dust aggregates and what is their
+effect on aerosol optics, 2) how can we best estimate the
+dust density and complex refractive index from the meas-
+urements we have, 3) how do we most accurately parame-
+terize the non-sphericity of the dust and dust-pollution par-
+ticles in order to calculate their extinction, and 4) how well
+can we estimate the hygroscopic growth and related scat-
+tering response of this complex aerosol mixture? To para-
+phrase Huebert et al. (2003), ACE Asia’s success may be
+judged by the Pandora’s Box of measurement and model-
+ing questions that it opened. It most certainly points to the
+need for instrument development, characterization, and
+comparisons as well as model development prior to the
+next field experiment that looks at such complex aerosol.
+Summary
+In situ measurements are critical for providing informa-
+tion required about aerosol properties for accurate esti-
+mates of aerosol radiative forcing. Our understanding of
+regional aerosols, ranging from remote marine to complex
+pollution-dust mixtures, and the in situ measurement tech-
+niques we have for characterizing them have improved
+tremendously over the past decade. Along with these
+advances in understanding and technology has come an
+appreciation for the complexity of that questions that need
+to be answered to reduce uncertainties in estimates of
+aerosol radiative forcing. Re-visiting these regions, contin-
+uing the approach of collecting over-determined data sets,
+and emphasizing instrument and model comparisons in the
+lab and in the field will get us closer to answering these
+questions over the course of the next decade.
+References
+Ackerman, A.S., O.B. Toon, D.E. Stevens, A.J. Heymsfield, V. Ramanathan,
+and E.J. Welton, Reduction of tropical cloudiness by soot, Science, 288, 1042
+– 1047, 2000.
+Anderson, T.L., S.J. Masonis, D.S. Covert, N.C. Ahlquist, S.G. Howell, A.D.
+Clarke, and C.S. McNaughton, Variability of aerosol optical properties
+derived from in situ aircraft measurements during ACE Asia, J. Geophys.
+Res., submitted, 2003.
+Bates, T.S., B.J. Huebert, J.L. Gras, F.B. Griffiths, and P.A. Durkee,
+International Global Atmospheric Chemistry (IGAC) Project’s first aerosol
+characterization experiment (ACE 1): Overview, J. Geophys. Res., 103,
+16,297 – 16,318, 1998.
+Bates, T.S., V.N. Kapustin, P.K. Quinn, D.S. Covert, D.J. Coffman, C.Mari,
+P.A. Durkee, W. DeBruyn, and E. Saltzman, Processes controlling the distri-
+bution of aerosol particles in the marine boundary layer during ACE-1, J.
+Geophys. Res., 103, 16,369 - 16,383, 1998.
+Cantrell, W. et al., Closure between aerosol particles and cloud condensation
+nuclei at Kaashidhoo Climate Observatory, J. Geophys. Res., 106, 28,711 –
+28,718, 2001.
+Carrico, C.M., P. Kus, M. Rood, P. K. Quinn, and T. S. Bates., Mixtures of
+pollution, dust, seasalt and volcanic aerosol during ACE-Asia: Aerosol radia-
+tive properties as a function of relative humidity, J. Geophys. Res., Submitted,
+2003.
+Clarke, A.D., J.L. Varner, F. Eisele, R.L. Mauldin, D. Tanner, and M. Litchy,
+Particle production in the remote marine atmosphere: Cloud outflow and sub-
+sidence during ACE 1, J. Geophys. Res., 103, 16,397 – 16,409, 1998.
+Clarke, A.D. et al., INDOEX aerosol:  A comparison and summary of chemi-
+cal, microphysical, and optical properties observed from land, ship, and air-
+craft, J. Geophys. Res., 107, No. D19, 8033, doi: 10.1029/2001JD000572,
+2002.
+Collins, D.R., H.H. Jonsson, J.H. Seinfeld, R.C. Flagan, S. Gasso, D.A. Hegg,
+P.B. Russell, B. Schmid, J.M. Livingston, E. Ostrom, K.J. Noone, L.M.
+Russell, and J.P. Putuad, In situ aerosol-size distributions and clear column
+radiative closure during ACE-2, Tellus, 52B, 498 - 525, 2000.
+Collins, W. D. et al., Simulating aerosols using a chemical transport model
+with assimilation of satellite aerosol retrievals: Methodology for INDOEX, J.
+Geophys. Res., 106, 7313-7336, 2001.
+Covert, D.S., J.L. Gras, A. Wiedensohler, and F. Stratmann, Comparison of
+directly measured CCN with CCN modeled from the number-size distribution
+in the marine boundary layer during ACE 1 at Cape Grim, Tasmania, J.
+Geophys. Res., 103, 16,597 – 16,608, 1998.
+Draxler, R.R., Hybrid Single-Particle Lagrangian Integrated Trajectories (HY-
+SPLIT):  Version 3.0.  User’s Guide and Model Description, Tech. Rep. ERL
+ARL-195, NOAA, Silver Springs, Md., 1992.
+Please return by mail to:
+Sarah Masonis/IGAC  NOAA/PMEL
+7600 Sand Point Way NE
+Seattle, WA 98115 
+e-mail: igac@noaa.gov
+Please help us keep our mailing list up to date:
+_______  Please note my new address
+_______  Please also send IGACtivities to my colleague
+Name: _________________________________    Organization_________________________________
+Street address:  ________________________________________________________________________
+City:  ___________________  State:  _______________  Zip:  _____________  Country:  ___________
+Telephone:  _________________________________  Fax:  _________________  E-Mail: ___________
+IGACtivities  30
+Hegg, D.A., J. Livingston, P.V. Hobbs, T. Novakov, and P. Russell, Chemical
+apportionment of aerosol column optical depth off the mid-Atlantic coast of
+the United States., J. Geophys. Res., 102, 25,293-25,303, 1997.
+Huebert, B.J., T. Bates, P.B. Russell, G. Shi, Y.J. Kim, K. Kawamura, G.
+Carmichael, and T. Nakajima, An overview of ACE-Asai: Strategies for
+quantifying the relationships between Asian aerosols and their climatic
+impacts, J. Geophys. Res., submitted, 2003.
+Husar, R. B.,  J. M. Prospero, and L. L.  Stowe, Characterization of tropos-
+pheric aerosols over the oceans with the NOAA advanced very high resolu-
+tion radiometer optical thickness operational product, J. Geophys. Res., 102,
+16,889-16,909, 1997.
+Langner, J. and H. Rodhe, A global three-dimensional model of the tropos-
+pheric sulphur cycle, J. Atmos. Chem., 13, 255-263, 1991.
+Murphy, D.M., J.R. Anderson, P.K. Quinn, L.M. McInnes, F.J. Brechtel,
+S.M. Kreidenweis, A.M. Middlebrook, M. Posfai, D.S. Thomson, and P.R.
+Buseck, Sea salt particles and aerosol radiative properties in the Southern
+Ocean marine boundary layer, Nature, 392, 62 - 65, 1998.
+Neusüb, C., D. Weise, W. Birmili, H. Wex, A. Wiedensohler, and D.S.
+Covert, Size-segregated chemical, gravimetric, and number distribution-
+derived mass closure of the aerosol in Sagres, Portugal during ACE-2,
+Tellus, 52B, 169 - 184, 2000.
+Novakov, T., D. A. Hegg, and P. V. Hobbs, Airborne measurements of car-
+bonaceous aerosols on the east coast of the United States, J. Geophys. Res.,
+102, 30,023-30,030, 1997.
+Putaud, J.P, R. van Dingenen, M. Mangoni, A Virkkula, F. Raes, H. Maring,
+J.M. Prospero, E. Swietlicki, O.H. Berg, R. Hillamo, and T. Makela,
+Chemical mass closure and assessment of the origin of the submicron
+aerosol in the marine boundary layer and the free troposphere at Tenerife
+during ACE-2, Tellus, 52B, 141 – 168, 2000.
+Quinn, P.K. and T.S. Bates, North American, Asian, and Indian haze: Similar
+regional impacts on climate?, Geophys. Res. Lett., in press, 2003.
+Quinn, P.K. and D.J. Coffman, Local closure during ACE 1:  Aerosol mass
+concentration and scattering and backscattering coefficients, J. Geophys.
+Res., 103, 16,575 - 16,596, 1998.
+Quinn, P.K. and D.J. Coffman, Comment on “Contribution of different
+aerosol species to the global aerosol extinction optical thickness:  Estimates
+from model results” by Tegen et al. [1997], J. Geophys. Res., 104, 4241 –
+4248, 1999.
+Quinn, P.K., D.J. Coffman, V.N. Kapustin, T.S. Bates and D.S. Covert,
+Aerosol optical properties in the marine boundary layer during ACE 1 and
+the underlying chemical and physical aerosol properties, J. Geophys. Res.,
+103, 16,547 - 16,563, 1998.
+Quinn, P.K.,  T.S. Bates, T.L. Miller, D.J. Coffman, J.E. Johnson, J.  M. Harris,
+J.A. Ogren, G. Forbes, T.L. Anderson, D.S. Covert, and M.J. Rood, Surface
+Submicron Aerosol Chemical Composition:  What Fraction is Not Sulfate? J.
+Geophys. Res., 105, 6785 – 6806, 2000. 
+Quinn, P. K., D.J. Coffman, T.S. Bates, T.L. Miller, J.E. Johnson, E.J. Welton,
+C. Neusüb, M. Miller, and P.J. Sheridan, Aerosol optical properties during
+INDOEX 1999:  Means, variabilities, and controlling factors, J. Geophys.
+Res., 107(D18), 10.1029/2000JD000037, 2002.
+Raes, F., T. Bates, F. McGovern, and M. van Liedekerke: The 2nd aerosol
+characterization experiment (ACE 2): general overview and main results,
+Tellus 52B, 111 – 125, 2000.
+Ramanathan et al., Indian Ocean Experiment:  An integrated analysis of the
+climate forcing and effects of the great Indo-Asian haze, J. Geophys. Res.,
+106, 28,371 – 28,398, 2001a.
+Ramanathan, V., P. J. Crutzen, J. T.  Kiehl, and D. Rosenfeld, Aerosols, cli-
+mate, and the hydrological cycle,  Science,  294, 2119-2124, 2001b.
+Rasch, P. J., W. D. Collins, and B. E. Eaton., Understanding the Indian Ocean
+Experiment (INDOEX) aerosol distributions with an aerosol assimilation, J.
+Geophys. Res.,  106, 7337-7355, 2001.
+Remer, L. A., Y. J. Kaufman,  and B. N. Holben, Interannual variation of
+ambient aerosol characteristics on the east coast of the United States,  J.
+Geophys. Res., 104, 2223-2231, 1999.
+Russell, P.B., P.V. Hobbs, and L. L. Stowe, Aerosol properties and radiative
+effects in the United States east coast haze plume: An overview of the
+Tropospheric Aerosol Radiative Forcing Observational Experiment (TAR-
+FOX), J. Geophys. Res., 104, 2213 – 3333, 1999.
+Russell, P.B. and J. Heintzenberg, An overview of the ACE-2 clear sky col-
+umn closure experiment (CLEARCOLUMN), Tellus, 52B, 463 - 483, 2000.
+Satheesh, S.K. and V. Ramanathan, Large differences in the tropical aerosol
+forcing at the top of the atmosphere and Earth’s surface, Nature, 405, 60 – 63,
+2000.
+Schmid, B. et al., Clear-sky closure studies of lower tropospheric aerosol and
+water vapor during ACE-2 using airborne sunphotometer, airborne in situ,
+space-borne, and ground-based measurements, Tellus, 52B, 568 - 593, 2000.
+Turpin, B.J. and H. Lim, Species contributions to PM2.5 mass concentrations:
+Revisiting common assumptions for estimating organic mass, Aerosol Sci.
+Technol.,  35, 602-610, 2001.
+Wang, J. et al., Clear-column radiative closure during ACE-Asia: Comparison
+of multiwavelength extinction derived from particle size and composition
+with results from sun photometer, J. Geophys. Res., 107, No. D23, 4688,
+doi:10.1029/2002JD002465, 2002.
+IGACtivities  31
+The 8th Scientific Conference of the International 
+Global Atmospheric Chemistry Project (IGAC) 
+To be held in September 4-9 2004 in Christchurch, New Zealand
+Check the IGAC web site for details.
+2nd International Workshop on Mineral Dust 
+The Workshop will be held 10-12 September 2003 in Paris, France. Four
+years after the first meeting in Boulder, the goal of the Workshop is to
+evaluate the progress in our knowledge on dust processes and effects,
+determine the remaining knowledge gaps, and make recommendations for
+future work. The Workshop will include invited presentations, posters
+and open discussion.
+Deadline for abstract submission for posters is June 20. Further
+information on abstract submission and registration is available at
+http://www.lisa.univ-paris12.fr/DUST2003
+Announcements
+t ivitiesNewsletter
+Editor: Peter Czepiel
+Layout and Proofreading: Virginia Moore
+IGAC logo: Linda Kubrick
+Published by The IGAC Core Project Office
+NOAA/PMEL7600 Sand Point Way NE
+Seattle, WA 98115  USA
+Tel: (+1-206) 543-6674, Fax: (+1-206) 543-0308
+E-mail: igac@noaa.gov, web: www.igac.noaa.gov
+IGAC was initiated by the Commission on Atmospheric Chemistry and Global Pollution (CACGP) and is a
+Core Project of the International Geosphere-Biosphere Programme (IGBP). The IGAC Core Project Office is
+currently supported by the National Science Foundation (NSF), National Aeronautics and Space
+Administration, and National Oceanic and Atmospheric Administration of the United States of America
+through NSF Grant No. ATM 99-08980. Any opinions, findings and conclusions, or recommendations
+expressed in this newsletter are those of the individual author(s) and do not necessarily reflect the views of
+the NSF or other agencies.
+Printed on Recycled Paper
+Please Recycle after Use!
+NON-PROFIT ORG:
+U.S. POSTAGE
+PAID
+Durham, NH 03824
+Permit No. 2
+Newsletter
+Morse Hall
+University of New Hampshire
+39 College Road, Durham, NH
+03824-3575  USA
+tivities

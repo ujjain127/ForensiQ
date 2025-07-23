@@ -1,0 +1,4296 @@
+ 
+ 
+Department of Veterans Affairs 
+Decentralized Hospital Computer Program 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GENERIC CODE SHEET 
+ 
+USER'S GUIDE 
+ 
+ 
+ 
+ 
+ 
+ 
+Version 2.0 
+ 
+August 1992 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Information Systems Center 
+Washington, DC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+iii 
+PREFACE 
+The Generic Code Sheet Menu is a set of Decentralized Hospital Computer Program 
+options that help users create code sheets, group them into batches for transmitting to a 
+central computer, and transmit the batches.  The package also helps users, organize, copy, 
+and delete code sheets. 
+This user's guide uses a simple, procedural format to explain how to perform the above 
+tasks.  The chapters and sections in this guide reflect the structure of the submenus and 
+options, which will help users learn the structure of the Generic Code Sheet Menu as they 
+follow the instructions in the guide. 
+ 
+Preface 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+iv 
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+v 
+GENERIC CODE SHEET USER'S GUIDE 
+TABLE OF CONTENTS 
+CHAPTER 1  INTRODUCTION.....................................................................................1 
+1.1  The Generic Code Sheet Package.............................................................................1 
+1.2  How to Use This Manual..........................................................................................1 
+1.3  Reference Numbering System ..................................................................................1 
+1.4  Package Management, Legal Requirements and Security Measures .......................1 
+1.5  Package Operation....................................................................................................2 
+CHAPTER 2  CREATE A CODE SHEET......................................................................3 
+2.1  Introduction...............................................................................................................3 
+2.2  Menu Path.................................................................................................................3 
+2.3  Four Code Sheet Examples:  Nursing Social Work, Consulting/Attending, and Financial 
+Management.....................................................................................................................4 
+2.3.1  Nursing Code Sheet Prompts.........................................................................4 
+2.3.1.1  Select Batch Type and Segment Name...........................................4 
+2.3.1.2  AMIS, Suffix, and Segment Modifier.............................................4 
+2.3.1.3  Psychiatric Section Data .................................................................5 
+2.3.1.4  Alcohol and Drug Treatment Section Data.....................................5 
+2.3.1.5  Surgical Section Data......................................................................5 
+2.3.1.6  Medical Section Data......................................................................6 
+2.3.1.7  Spinal Cord Injury Section Data.....................................................6 
+2.3.1.7  Nursing Home Care Section Data...................................................6 
+2.3.1.8  Hemodialysis Data..........................................................................7 
+2.3.1.9  Intermediate Care Data ...................................................................7 
+2.3.1.10  Domiciliary Care Data..................................................................7 
+2.3.1.11  Operating Room Data ...................................................................7 
+2.3.1.12  Recovery Room Data....................................................................8 
+2.3.1.13  Ambulatory Care Data..................................................................8 
+2.3.1.14  Ambulatory Surgery Data.............................................................8 
+2.3.1.15  Ambulatory Surgery Recovery Data.............................................9 
+2.3.1.16  Batch/Edit/Delete/Retain/Print Code Sheet..................................9 
+ 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+ 
+vi 
+2.3.2  Social Work Code Sheet Prompts................................................................10 
+2.3.2 1  Segments 255 and 256 ..................................................................11 
+2.3.2 2  Segment 257..................................................................................12 
+2.3.2.2.1  Medical/Surgical Placement Data........................................12 
+2.3.2.2.2  Psychosis/Neurosis Placement Data ....................................13 
+2.3.2.2.3  Organic and Senile Brain Disease Placement Data .............13 
+2.3.2.2.4  Substance Abuse Placement Data........................................14 
+2.3.2.2.5  All Other Placement Data....................................................14 
+2.3.2.2.6  Location of Veteran Prior to Placement ..............................15 
+2.3.2.2.7  Code Sheet Data...................................................................15 
+2.3.2 3  Segment 258..................................................................................16 
+2.3.2.3.4  Code Sheet Data...................................................................17 
+2.3.2.4  Segment 361..................................................................................18 
+2.3.2.4.1  Visitations ............................................................................18 
+2.3.2.4.2  Code Sheet Data...................................................................19 
+2.3.3  Consulting/Attending Code Sheets..............................................................20 
+2.3.3.1  Segment 2418A, "C & A Time Card"...........................................20 
+2.3.3.1.1  Step 1 ...................................................................................20 
+2.3.3.1.2  Step 2 ...................................................................................20 
+2.3.3.1.3  Step 3 ...................................................................................21 
+2.3.3.2  Segment 2418C, "C&A Renewal"................................................22 
+2.3.3.2.1  Step 1 ...................................................................................22 
+2.3.3.2.2  Step 2 ...................................................................................22 
+2.3.3.2.3  Step 3 ...................................................................................23 
+2.3.3.3  Segment 2418D1, "C&A D1 Transactions" .................................23 
+2.3.3.3.1  Step 1 ...................................................................................23 
+2.3.3.3.2  Step 2 ...................................................................................24 
+2.3.3.3.3  Step 3 ...................................................................................24 
+2.3.3.4  Segment 2418D2, "C&A D2 Transactions" .................................25 
+2.3.3.4.1  Step 1 ...................................................................................25 
+2.3.3.4.2  Step 2 ...................................................................................26 
+2.3.3.4.3  Step 3 ...................................................................................26 
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+vii 
+2.3.3.5  Segment 2418D3, "C&A D3 Transactions" .................................27 
+2.3.3.5.1  Step 1 ...................................................................................27 
+2.3.3.5.2  Step 2 ...................................................................................27 
+2.3.3.5.3  Step 3 ...................................................................................27 
+2.3.3.5.4  Step 4 ...................................................................................28 
+2.3.3.6  Segment 2418T, "Terminate C&A"..............................................29 
+2.3.3.6.1  Step 1 ...................................................................................29 
+2.3.3.6.2  Step 2 ...................................................................................29 
+2.3.3.7  Segment C&AHDR, "10-2418 Consulting and Attending Header"30 
+2.3.3.7.1  Date and Transmission Number Information ......................30 
+2.3.3.7.2  Code Sheet Data...................................................................30 
+2.3.4  Financial Management Code Sheets............................................................31 
+2.3.4.1  Step 1 ............................................................................................31 
+2.3.4.2  Step 2 ............................................................................................32 
+2.3.4.3  Step 3 ............................................................................................33 
+2.3.4.4  Step 4 ............................................................................................33 
+2.3.4.5  Step 5 ............................................................................................34 
+2.3.4.6  Step 6 ............................................................................................34 
+2.3.4.7  Step 7 ............................................................................................34 
+2.3.4.8  Step 8 ............................................................................................35 
+CHAPTER 3  KEYPUNCH A CODE SHEET .............................................................37 
+3.1  Introduction.............................................................................................................37 
+3.2  Step 1 ......................................................................................................................37 
+3.3  Step 2 ......................................................................................................................37 
+3.4  Step 3 ......................................................................................................................38 
+3.5  Step 4 ......................................................................................................................38 
+CHAPTER 4  BATCH CODE SHEETS........................................................................41 
+4.1  Introduction.............................................................................................................41 
+4.2  Step 1 (Menu Path) .................................................................................................41 
+4.3  Step 2 ......................................................................................................................41 
+CHAPTER 5  MAINTENANCE MENU .......................................................................43 
+ 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+ 
+viii 
+5.1  Introduction.............................................................................................................43 
+5.2  Batch Edit ...............................................................................................................43 
+5.2.1  Introduction..................................................................................................43 
+5.2.2  Step 1 ...........................................................................................................43 
+5.2.3  Step 2 ...........................................................................................................43 
+5.2.4  Step 3 ...........................................................................................................44 
+5.3  Code Sheet Edit ......................................................................................................44 
+5.3.1  Introduction..................................................................................................44 
+5.3.2  Step 1 ...........................................................................................................45 
+5.3.3  Step 2 ...........................................................................................................45 
+5.3.4  Step 3 ...........................................................................................................46 
+5.4  Delete Code Sheet...................................................................................................46 
+5.4.1  Introduction..................................................................................................46 
+5.4.2  Step 1 ...........................................................................................................46 
+5.4.3  Step 2 ...........................................................................................................47 
+5.4.4  Step 3 ...........................................................................................................47 
+5.5  Mark Batch for Retransmission..............................................................................48 
+5.5.1  Introduction..................................................................................................48 
+5.5.2  Step 1 ...........................................................................................................48 
+5.5.3  Step 2 ...........................................................................................................48 
+5.5.4  Step 3 ...........................................................................................................49 
+5.6  Mark Code Sheet for Rebatching............................................................................49 
+5.6.1  Introduction..................................................................................................49 
+5.6.2  Step 1 ...........................................................................................................49 
+5.6.3  Step 2 ...........................................................................................................49 
+5.6.4  Step 3 ...........................................................................................................50 
+5.7  Review Code Sheet.................................................................................................50 
+5.7.1  Introduction..................................................................................................50 
+5.7.2  Step 1 ...........................................................................................................51 
+5.7.3  Step 2 ...........................................................................................................51 
+5.7.4  Step 3 ...........................................................................................................51 
+CHAPTER 6  REPORTS MENU...................................................................................53 
+6.1  Introduction.............................................................................................................53 
+6.2  Batches Waiting to be Transmitted.........................................................................53 
+6.2.1  Introduction..................................................................................................53 
+6.2.2  Step 1 ...........................................................................................................53 
+6.2.3  Step 2 ...........................................................................................................54 
+6.3  Code Sheets Ready for Batching ............................................................................54 
+6.3.1  Introduction..................................................................................................54 
+6.3.2  Step 1 ...........................................................................................................54 
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ix 
+6.3.3  Step 2 ...........................................................................................................54 
+6.4  Status of all Batches................................................................................................55 
+6.4.1  Introduction..................................................................................................55 
+6.4.2  Step 1 ...........................................................................................................55 
+6.4.3  Step 2 ...........................................................................................................56 
+6.4.4  Step 3 ...........................................................................................................56 
+CHAPTER 7  STACK MENU........................................................................................57 
+7.1  Introduction.............................................................................................................57 
+7.2  Retransmit Stack File Document............................................................................57 
+7.2.1  Introduction..................................................................................................57 
+7.2.2  Step 1 ...........................................................................................................57 
+7.2.3  Step 2 ...........................................................................................................57 
+7.2.4  Step 3 ...........................................................................................................58 
+7.3  Stack Status Report.................................................................................................58 
+7.3.1  Introduction..................................................................................................58 
+7.3.2  Step 1 ...........................................................................................................58 
+7.3.3  Step 2 ...........................................................................................................59 
+7.3.4  Step 3 ...........................................................................................................59 
+CHAPTER 8  TRANSMIT CODE SHEETS ................................................................63 
+8.1  Introduction.............................................................................................................63 
+8.2  Step 1 ......................................................................................................................63 
+8.3  Step 2 ......................................................................................................................63 
+8.4  Step 3 ......................................................................................................................64 
+CHAPTER 9  ARCHIVING/PURGING DATA...........................................................65 
+9.1  Introduction.............................................................................................................65 
+9.2  Step 1 ......................................................................................................................65 
+9.3  Step 2 ......................................................................................................................65 
+9.4  Step 3 ......................................................................................................................66 
+9.5  Step 4 ......................................................................................................................66 
+CHAPTER 10  MENU LISTING ...................................................................................69 
+10.1  Introduction...........................................................................................................69 
+10.2  Menu Outline........................................................................................................69 
+CHAPTER 11  TECHNICAL OVERVIEW .................................................................71 
+11.1  Introduction...........................................................................................................71 
+11.2  Data Components..................................................................................................71 
+ 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+ 
+x 
+11.2.1  The Code Sheet File...................................................................................71 
+11.2.2  The Batching Routine ................................................................................71 
+11.2.3  The Batch Transmitting Routine................................................................71 
+11.2.4  The Code Sheet Management Subsystem..................................................71 
+11.3  Related Documentation.........................................................................................71 
+11.4  Functional Description..........................................................................................72 
+11.5  Namespace Conventions.......................................................................................72 
+11.6  Key Variables .......................................................................................................73 
+11.7  Security Keys........................................................................................................73 
+11.8  Globals..................................................................................................................73 
+11.9  Routines ................................................................................................................73 
+11.10  Resource Requirements ......................................................................................74 
+11.11  Internal/External Relations .................................................................................74 
+11.11.1  Internal Relations.....................................................................................74 
+11.11.2  External Relations....................................................................................74 
+CHAPTER 12  DEVELOPMENT ISSUES...................................................................75 
+12.1  Introduction...........................................................................................................75 
+12.2  Step 1 ....................................................................................................................75 
+12.3  Step 2 - Create The Input Template......................................................................76 
+12.4  Step 3 - Add Options to the Options File .............................................................77 
+CHAPTER 13  ROUTINE FLOW DIAGRAM ............................................................81 
+CHAPTER 14  LEGAL REQUIREMENTS .................................................................79 
+GLOSSARY......................................................................................................................83 
+INDEX...............................................................................................................................87 
+ 
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+xi 
+Revision History 
+ 
+ 
+Initiated on 12/22/04 
+ 
+Date 
+Description (Patch # if applic.) 
+Project Manager 
+Technical Writer 
+12/22/04 
+Updated to comply with SOP 192-
+352 Displaying Sensitive Data. 
+ 
+Mary Ellen Gray 
+12/22/04 
+Pdf file checked for accessibility to 
+readers with disabilities. 
+ 
+Mary Ellen Gray 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+xii 
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+1 
+1 chapter Introduction 
+1.1 The Generic Code Sheet Package 
+The Generic Code Sheet Package is a set of menus and options in the Decentralized 
+Hospital Computer Program (DHCP).  The Generic Code Sheet Package allows users to 
+create, edit, and transmit code sheets from DHCP to a central computer system.  Users 
+can use the Generic Code Sheet Package to help them create a code sheet, or users can 
+create code sheets manually. 
+1.2 How to Use This Manual 
+This manual explains how to use the Generic Code Sheet Package by explaining how to 
+use the system to perform simple, manageable tasks.  The authors of this manual have 
+listed these tasks in successive order so that each instruction builds on the functionality 
+and information from the previous instructions.  This will allow new users to use this 
+manual as a tutorial by following the instructions from beginning to end.  Experienced 
+users can use this manual as a reference tool by using the index and table of contents. 
+1.3 Reference Numbering System 
+This manual uses a special paragraph numbering system to allow users to understand 
+how the sections of the manual relate to each other.  For example, this paragraph is 
+section 1.3.  This means that this paragraph is the main paragraph for the third section of 
+Chapter 1.  If there were two subsections to this section, they would be numbered 
+sections 1.3.1 and 1.3.2.  A paragraph numbered 1.3.5.4.7 would be the seventh 
+subsection of the fourth subsection of the fifth subsection of the third subsection of 
+Chapter 1.  All clear?  Actually, all this means is that users that want to divide their 
+reading into manageable lessons can concentrate on one section and all of its 
+subsections, e.g., section 1.3.5.4 and all of its subsections would make a coherent lesson. 
+1.4 Package Management, Legal Requirements and Security 
+Measures 
+In order to use the Generic Code Sheet Package, users are given access to the Generic 
+Code Sheet Package options.  Some of these menu options may be additionally controlled 
+by the use of access “keys”.  These access keys are administered to individual users by 
+the Information Resources Management Service at their facility. 
+Introduction 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+2 
+1.5 Package Operation 
+This document explains how to use the Generic Code Sheet Package to create and amend 
+code sheets.  Novice users will be unfamiliar with the information that some of the 
+Generic Code Sheet Package prompts require.  The Generic Code Sheet Package 
+provides three levels of explanations for the prompts.  Enter a question mark at the 
+prompt to read a description of the prompt, two question marks to read a more complex 
+explanation of the prompt, and three question marks to read a complete description of the 
+prompt and read a list of acceptable responses to the prompt. 
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+3 
+2 chapter Create a code sheet 
+2.1 Introduction 
+The principal use of the Generic Code Sheet Menu is to create code sheets.  Code sheets 
+are used to create data in a format that other computer systems can use.  Prior to DHCP, 
+users completed paper forms, which were transcribed onto punch cards.  The punch cards 
+would be mailed to a central computer for processing.  Today, users create code sheets 
+and transmit the data electronically to the central computer.  This makes data entry faster, 
+cheaper, and more accurate. 
+2.2 Menu Path 
+Select Create a Code Sheet from the Generic Code Sheet Menu.  Enter a Station Number.  
+Enter the batch type at the Select Generic Code Sheet Batch Type Name: prompt for the 
+type of code sheet you want to create.  If you do not know the batch type, enter three 
+question marks at the prompt and the system will list the available batch types. 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: Create a Code Sheet 
+ 
+Select STATION NUMBER (^ TO EXIT): WASHINGTON,DC//       DISTRICT OF COLUMBIA    688   
+Station: WASHINGTON,DC  (#688) 
+ 
+Select GENERIC CODE SHEET BATCH TYPE NAME: ??? 
+  
+CHOOSE FROM: 
+   ACCOUNTS RECEIVABLE 
+   BUILDING MANAGEMENT 
+   CONSULTING/ATTENDING 
+   DENTAL 
+   FEE BASIS 
+   FEE BASIS - IFCAP 
+   HOSPITAL BASED HOME CARE- GECO 
+   LAB 
+   MEDICINE 
+   NURSING 
+   PHARMACY      
+   RADIOLOGY 
+   SURGERY 
+   VOLUNTARY 
+   WAGE SURVEY - GECO 
+     
+Select GENERIC CODE SHEET BATCH TYPE NAME: 
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+4 
+2.3 Four Code Sheet Examples:  Nursing Social Work, 
+Consulting/Attending, and Financial Management 
+ 
+Each code sheet has different questions for you to answer as you create the code sheet.  
+Due to the long list of code sheets, only four types are explained here.  For detailed 
+explanations of the prompts for a code sheet not listed here, contact your local IRM 
+service. 
+ 
+2.3.1 Nursing Code Sheet Prompts 
+2.3.1.1 Select Batch Type and Segment Name 
+Enter Nursing at the Select Generic Code Sheet Batch Type Name: prompt.  Choose a 
+segment name at the Select Generic Code Sheet Transaction Type/Segment Name: 
+prompt.  A segment is a group of code sheet types that make up a batch type.  For 
+example, 'Nursing' is a group of segments or code sheet types.  The batch type describes 
+the destination computer system for transmissions.  The segment name determines the 
+type of code sheet. 
+The system will assign an identification number to the code sheet.  WRITE THIS 
+NUMBER DOWN!  You will need it to edit the code sheet or assign it to a batch. 
+ 
+Select GENERIC CODE SHEET BATCH TYPE NAME: NURSING   
+Batch Type: NURSING 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME: ??? 
+  
+CHOOSE FROM: 
+   200      Nursing Manpower Utilization 
+   201      Nursing Manhours Worked 
+   202      FTEE Ceilings and Positions Filled 
+     
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME: 200          Nursing Manpower 
+Utilization 
+ 
+This code sheet has been assigned IDENTIFICATION NUMBER: 134-94 
+2.3.1.2 AMIS, Suffix, and Segment Modifier 
+Enter the AMIS (Automated Management Information System (AMIS) month and year.  
+Enter the station suffix, or press the Enter key at the Suffix: prompt if there is no station 
+suffix.  Enter the segment modifier, or press the Enter key at the Segment Modifier: 
+prompt if there is no segment modifier. 
+AMIS MONTH/YEAR: T  (SEP 02, 1994) 
+ 
+SUFFIX: ??/?? 
+     ANSWER MUST BE 1-2 CHARACTERS IN LENGTH 
+SUFFIX:    
+SEGMENT MODIFIER: ??? 
+SEGMENT MODIFIER:  
+Create a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 5
+2.3.1.3 Psychiatric Section Data 
+At the Psychiatric I: prompt. enter the number of Intensive Care patients in the 
+psychiatric bed section.  At the Psychiatric II: prompt. enter the number of Acute I Care 
+patients in the psychiatric bed section.  At the Psychiatric III: prompt. enter the number 
+of Acute II Care patients in the psychiatric bed section.  At the Psychiatric IV: prompt. 
+enter the number of Extended Hospice Care patients in the psychiatric bed section.  Enter 
+the number of wards in the psychiatric bed section. 
+ 
+PSYCHIATRIC I: 4 
+PSYCHIATRIC II: 3 
+PSYCHIATRIC III: 5 
+PSYCHIATRIC IV: 9 
+NO. OF PSYCHIATRIC WARDS: 2 
+ 
+2.3.1.4 Alcohol and Drug Treatment Section Data 
+At the Alcohol & Drug Dep Trmt I: prompt. enter the number of Intensive Care patients 
+in the alcohol and drug dependence treatment bed section.  At the Alcohol & Drug Dep 
+Trmt II: prompt. enter the number of Acute I Care patients in the alcohol and drug 
+dependence treatment bed section.  At the Alcohol & Drug Dep Trmt III: prompt. enter 
+the number of Acute II Care patients in the alcohol and drug dependence treatment bed 
+section.  At the Alcohol & Drug Dep Trmt IV: prompt. enter the number of Extended 
+Hospice Care patients in the alcohol and drug dependence treatment bed section.  Enter 
+the number of wards in the alcohol and drug dependence treatment bed section. 
+ 
+ALCOHOL & DRUG DEP TRMT I: 3 
+ALCOHOL & DRUG DEP TRMT II: 2 
+ALCOHOL & DRUG DEP TRMT III: 4 
+ALCOHOL & DRUG DEP TRMT IV: 1 
+NO. OF ALCOHOL/DRUG TRMT WARDS: 1 
+ 
+2.3.1.5 Surgical Section Data 
+At the Surgical I: prompt. enter the number of Intensive Care patients in the surgical bed 
+section.  At the Surgical II: prompt. enter the number of Acute I Care patients in the 
+surgical bed section.  At the Surgical III: prompt. enter the number of Acute II Care 
+patients in the surgical bed section.  At the Surgical IV: prompt. enter the number of 
+Extended Hospice Care patients in the surgical bed section.  Enter the number of wards in 
+the surgical bed section. 
+ 
+SURGICAL I: 3 
+SURGICAL II: 2 
+SURGICAL III: 4 
+SURGICAL IV: 1 
+NO. OF SURGICAL WARDS: 1 
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+6 
+2.3.1.6 Medical Section Data 
+At the Medical I: prompt. enter the number of Intensive Care patients in the medical bed 
+section.  At the Medical II: prompt. enter the number of Acute I Care patients in the 
+medical bed section.  At the Medical III: prompt. enter the number of Acute II Care 
+patients in the medical bed section.  At the Medical IV: prompt. enter the number of 
+Extended Hospice Care patients in the medical bed section.  Enter the number of wards in 
+the medical bed section. 
+ 
+MEDICAL I: 3 
+MEDICAL II: 2 
+MEDICAL III: 4 
+MEDICAL IV: 1 
+NO. OF MEDICAL WARDS: 1 
+ 
+2.3.1.7 Spinal Cord Injury Section Data 
+At the Spinal Cord Injury I: prompt. enter the number of Intensive Care patients in the 
+spinal cord injury bed section.  At the Spinal Cord Injury II: prompt. enter the number of 
+Acute I Care patients in the spinal cord injury bed section.  At the Spinal Cord Injury III: 
+prompt. enter the number of Acute II Care patients in the spinal cord injury bed section.  
+At the Spinal Cord Injury IV: prompt. enter the number of Extended Hospice Care 
+patients in the spinal cord injury bed section.  At the Spinal Cord Injury V: prompt. enter 
+the number of Minimal Care patients in the spinal cord injury bed section.  Enter the 
+number of wards in the spinal cord injury bed section. 
+ 
+SPINAL CORD INJURY I: 3 
+SPINAL CORD INJURY II: 2 
+SPINAL CORD INJURY III: 4 
+SPINAL CORD INJURY IV: 1 
+NO. OF SPINAL CORD INJ WARDS: 1 
+ 
+2.3.1.8 Nursing Home Care Section Data 
+At the Nursing Home Care I: prompt. enter the number of Intensive Care patients in VA 
+Nursing Home Care Units only.  At the Nursing Home Care II: prompt. enter the number 
+of Acute I Care patients in VA Nursing Home Care Units only.  At the Nursing Home 
+Care III: prompt. enter the number of Acute II Care patients in VA Nursing Home Care 
+Units only.  Enter the number of nursing home care wards. 
+ 
+NURSING HOME CARE I: 3 
+NURSING HOME CARE II: 2 
+NURSING HOME CARE III: 4 
+NURSING HOME CARE IV: 1 
+NO. OF NURSING HOME CARE WARDS: 2 
+Create a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 7
+2.3.1.9 Hemodialysis Data 
+At the No. Of Hemodialysis Treatments: prompt, enter the cumulative number of 
+hemodialysis treatments during the quarter.  At the No. Of Hemodialysis Units: prompt, 
+enter the average number of hemodialysis units per treatment.  To obtain this number, 
+divide the number of hemodialysis units used in the quarter for treatments divided by the 
+number of treatments.  At the Hemodialysis Days Of Operation: prompt, enter the total 
+number of days that hemodialysis units were in operation during the quarter. 
+ 
+NO. OF HEMODIALYSIS TREATMENTS: 16 
+NO. OF HEMODIALYSIS UNITS: 1.6 
+HEMODIALYSIS DAYS OF OPERATION: 62 
+ 
+2.3.1.10 Intermediate Care Data 
+At the Intermediate Care I: section, enter the number of Intensive Care patients who are 
+in a bed section officially designated as an intermediate bed section.  At the Intermediate 
+Care II: prompt, enter the number of Acute I Care patients who are in a bed section 
+officially designated as an intermediate bed section.  At the Intermediate Care III: 
+prompt, enter the number of Acute II Care patients who are in a bed section officially 
+designated as an intermediate bed section.  Enter the number of Intermediate wards. 
+ 
+INTERMEDIATE CARE I: 4 
+INTERMEDIATE CARE II: 2 
+INTERMEDIATE CARE III: 5 
+NO. OF INTERMEDIATE WARDS: 1 
+ 
+2.3.1.11 Domiciliary Care Data 
+At the Domiciliary (Members): prompt, enter the number of members who are in a 
+domiciliary care unit.  At the Domiciliary (Units): prompt, enter the average number of 
+domiciliary units.  At the Critical Care I: prompt, enter the number of Intensive Care 
+patients in the critical care section.  At the Critical Care II: prompt, enter the number of 
+Acute I Care patients in the critical care section.  At the Critical Care III: prompt, enter 
+the number of Acute II Care patients in the critical care section.  Enter the number of 
+critical care units. 
+ 
+DOMICILIARY (MEMBERS): 20 
+DOMICILIARY (UNITS): 10 
+CRITICAL CARE I: 5 
+CRITICAL CARE II: 2 
+CRITICAL CARE III: 2 
+NO. OF CRITICAL CARE UNITS: 2 
+ 
+2.3.1.12 Operating Room Data 
+At the Operating Room I: prompt, enter the number of Intensive Care patients in the 
+operating room section.  At the Operating Room II: prompt, 
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+8 
+enter the number of Acute I Care patients in the operating room section.  At the 
+Operating Room III: prompt, enter the number of Acute II Care patients in the operating 
+room section.  At the Operating Room IV: prompt, enter the number of Extended Hospice 
+Care patients in the operating room section.  Enter the number of operating rooms. 
+ 
+OPERATING ROOM I: 2 
+OPERATING ROOM II: 4 
+OPERATING ROOM III: 2 
+OPERATING ROOM IV: 5 
+NO. OF OPERATING ROOMS: 4 
+ 
+2.3.1.13 Recovery Room Data 
+At the Recovery Room I: prompt, enter the number of Intensive Care patients in the 
+recovery room section.  At the Recovery Room II: prompt, enter the number of Acute I 
+Care patients in the recovery room section.  At the Recovery Room III: prompt, enter the 
+number of Acute II Care patients in the recovery room section.  Enter the number of 
+recovery room beds. 
+ 
+RECOVERY ROOM I: 2 
+RECOVERY ROOM II: 4 
+RECOVERY ROOM III: 2 
+NO. OF RECOVERY ROOM BEDS: 48 
+ 
+2.3.1.14 Ambulatory Care Data 
+At the Ambulatory Care I: prompt, enter the number of Intensive Care patients in the 
+ambulatory care section.  At the Ambulatory Care II: prompt, enter the number of Acute I 
+Care patients in the ambulatory care section.  At the Ambulatory Care III: prompt, enter 
+the number of Acute II Care patients in the ambulatory care section.  At the Ambulatory 
+Care IV: prompt, enter the number of Extended Hospice Care patients in the ambulatory 
+care section.  At the Ambulatory Care V: prompt, enter the number of Minimal Care 
+patients in the ambulatory care section. 
+ 
+AMBULATORY CARE I: 3 
+AMBULATORY CARE II: 1 
+AMBULATORY CARE III: 3 
+AMBULATORY CARE IV: 4 
+AMBULATORY CARE V: 1 
+ 
+2.3.1.15 Ambulatory Surgery Data 
+At the Ambulatory Surgery I: prompt, enter the number of Intensive Care patients in the 
+ambulatory surgery section.  At the Ambulatory Surgery II: prompt, enter the number of 
+Acute I Care patients in the ambulatory surgery section.  At the Ambulatory Surgery III: 
+prompt, enter the number of Acute II Care patients in the ambulatory surgery section.  At 
+the Ambulatory Surgery IV: prompt, enter the number of Extended Hospice Care patients 
+in the ambulatory surgery section. 
+Create a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 9
+AMBULATORY SURGERY I: ??? 
+     The number of Intensive Care patients in the ambulatory surgery section. 
+AMBULATORY SURGERY I: 5 
+AMBULATORY SURGERY II: ??? 
+     The number of Acute I Care patients in the ambulatory surgery section. 
+AMBULATORY SURGERY II: 2 
+AMBULATORY SURGERY III: ??? 
+     The number of Acute II Care patients in the ambulatory surgery section. 
+AMBULATORY SURGERY III: 4 
+AMBULATORY SURGERY IV: ??? 
+     The number of Extended Hospice Care patients in the ambulatory surgery 
+     section. 
+AMBULATORY SURGERY IV: 4 
+ 
+2.3.1.16 Ambulatory Surgery Recovery Data 
+At the Ambulatory Surgery I: prompt, enter the number of Intensive Care patients in the 
+ambulatory surgery recovery section.  At the Ambulatory Surgery II: prompt, enter the 
+number of Acute I Care patients in the ambulatory surgery recovery section.  At the 
+Ambulatory Surgery III: prompt, enter the number of Acute II Care patients in the 
+ambulatory surgery recovery section. 
+ 
+AMBULATORY SURGERY I: ??? 
+     The number of Intensive Care patients in the ambulatory surgery recovery section. 
+AMBULATORY SURGERY I: 5 
+AMBULATORY SURGERY II: ??? 
+     The number of Acute I Care patients in the ambulatory surgery recovery section. 
+AMBULATORY SURGERY II: 2 
+AMBULATORY SURGERY III: ??? 
+     The number of Acute II Care patients in the ambulatory surgery recovery section. 
+AMBULATORY SURGERY III: 4 
+ 
+2.3.1.17 Batch/Edit/Delete/Retain/Print Code Sheet 
+The system will display the code sheet identification number and code sheet data.  If you 
+haven't recorded the identification number, DO SO NOW!  You will need this number to 
+retrieve the code sheet in future sessions.  You may assign the code sheet to a batch, edit 
+the code sheet, delete the code sheet, retain the code sheet in the file for editing later, or 
+print the code sheet.  If you assign the code sheet to a batch, the system will ask you to 
+enter a scheduled transmission date for the batch (enter T for today), and a transmission 
+priority for the batch (2 is high priority, 6 is low priority).  Enter Nursing at the Select 
+Generic Code Sheet Transaction Type/Segment Name: prompt to create another nursing 
+code sheet, or press the Enter key to return to the Generic Code Sheet Menu. 
+ 
+TRANSMITTED CODE SHEET FOR ID# 134-94 WILL BE AS FOLLOWS: 
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+.... 
+AMS((28688  200 -0000400003-0000500009-0200000300-0020000400-0010100000-40000500 
+00-3000050400-0001000030-0005000020-2000004000-0000002000-0400005010-0000300001- 
+0000502000-0160160062-0000400002-0000501000-0201000005-0000200002-0200000200-004 
+0000200-0050400002-0000400004-4800003000-0100003000-0400001000-0500002000-040000 
+4000-0500002000-04$ 
+ 
+     Select one of the following: 
+ 
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+10 
+          1         Mark the Code Sheet For Batching 
+          2         Edit the Code Sheet 
+          3         Delete the Code Sheet 
+          4         Retain the Code Sheet in the File for Editing Later 
+          5         Print the Code Sheet 
+ 
+CODE SHEET ACTION: 4// 1  Mark the Code Sheet For Batching 
+ 
+     ** CODE SHEET NUMBER: 134-94 ** 
+ 
+SCHEDULED TRANSMISSION DATE: TODAY//   (SEP 02, 1994) 
+BATCH PRIORITY: 3//  
+     Status: << READY FOR BATCHING [Priority: 3, Trans Date: 09-02-94] >> 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME:  
+ 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option:  
+ 
+2.3.2 Social Work Code Sheet Prompts 
+Enter Social Work at the Select Generic Code Sheet Batch Type Name: prompt.  Choose 
+a segment name at the Select Generic Code Sheet Transaction Type/Segment Name: 
+prompt.  If you do not know the segment name or number, enter three question marks and 
+the system will list the available segment names and numbers.  A segment is a group of 
+code sheet types that make up a batch type.  For example, 'Nursing' is a group of 
+segments or code sheet types.  The batch type describes the destination computer system 
+for transmissions.  The segment name determines the type of code sheet. 
+ 
+Select STATION NUMBER (^ TO EXIT): WASHINGTON,DC//       DISTRICT OF COLUMBIA    
+ 688   
+Station: WASHINGTON,DC  (#688) 
+ 
+Select GENERIC CODE SHEET BATCH TYPE NAME: SociAL WORK   
+Batch Type: SOCIAL WORK 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME: ?? 
+  
+CHOOSE FROM: 
+   255      Social Work Cases Treated and Manhours 
+   256      Social Work Patient Status 
+   257      AMIS 257 SOCIAL WORK 
+   258      AMIS 258 SOCIAL WORK 
+   361      AMIS 361 SOCIAL WORK 
+     
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME:  
+Create a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+11
+2.3.2.1 Segments 255 and 256 
+The system will assign an identification number to the code sheet.  WRITE THIS 
+NUMBER DOWN!  You will need it to edit the code sheet or assign it to a batch.  Enter 
+the AMIS (Automated Management Information System) month and year. 
+ 
+This code sheet has been assigned IDENTIFICATION NUMBER: 154-94 
+AMIS MONTH/YEAR: t  (SEP 02, 1994) 
+ 
+Segments 255 and 256 are keypunch segments, meaning that you have to enter the code 
+sheet data as a single string of numbers.  Here is an example: 
+ 
+    ....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+ 
+KEYPUNCH CODE SHEET: 
+  1>1234-123-41-234-1234-123-412-341-234-1234  
+ 
+You may mark the code sheet for batching, edit or delete the code sheet, retain it in the 
+file for editing later, or print the code sheet.  To transmit the code sheet, select "Mark the 
+Code Sheet for Batching".  The system will display the code sheet identification number 
+and prompt you for a transmission date.  Assign a transmission priority to the batch (2 is 
+high priority, 6 is low priority).  Enter another batch type at the Select Generic Code 
+Sheet Transaction Type/Segment Name: prompt, or press the Enter key to return to the 
+Generic Code Sheet Menu. 
+ 
+TRANSMITTED CODE SHEET FOR ID# 154-94 WILL BE AS FOLLOWS: 
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+.... 
+1234-123-41-234-1234-123-412-341-234-1234 
+ 
+ 
+     Select one of the following: 
+ 
+          1         Mark the Code Sheet For Batching 
+          2         Edit the Code Sheet 
+          3         Delete the Code Sheet 
+          4         Retain the Code Sheet in the File for Editing Later 
+          5         Print the Code Sheet 
+ 
+CODE SHEET ACTION: 4// 1  Mark the Code Sheet For Batching 
+ 
+     ** CODE SHEET NUMBER: 154-94 ** 
+ 
+SCHEDULED TRANSMISSION DATE: TODAY//   (SEP 02, 1994) 
+BATCH PRIORITY: 3//  
+     Status: << READY FOR BATCHING [Priority: 3, Trans Date: 09-02-94] >> 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME:  
+ 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option:  
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+12 
+2.3.2.2 Segment 257 
+The system will assign an identification number to the code sheet.  WRITE THIS 
+NUMBER DOWN!  You will need it to edit the code sheet or assign it to a batch.  Enter 
+the AMIS (Automated Management Information System) month and year of the code 
+sheet, or just enter T for today's month and year.  Enter a suffix if there is one, or press 
+the Enter key if there is no suffix.  Enter a segment modifier if there is one, or press the 
+Enter key if there is no segment modifier. 
+ 
+Select GENERIC CODE SHEET BATCH TYPE NAME: SOCIAL WORK   
+Batch Type: SOCIAL WORK 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME: 257          AMIS 257 SOCIAL WORK 
+ 
+This code sheet has been assigned IDENTIFICATION NUMBER: 173-94 
+AMIS MONTH/YEAR: T  (SEP 06, 1999) 
+ 
+SUFFIX:  
+SEG. MODIFIER:  
+ 
+2.3.2.2.1 Medical/Surgical Placement Data 
+This segment of the routine will ask you to enter how many veterans were placed in the 
+medical/surgical ward by age group, how many veterans were lost by the 
+medical/surgical ward to individual living, to the hospital, to other, non-VA institutional 
+care, or to death.  The system will also prompt you to enter the duration that the patients 
+have been in the medical/surgical ward. 
+ 
+                         MEDICAL/SURGICAL 
+                    PLACEMENT BY QUARTER (By age group) 
+ 
+LESS THAN 25 (001): 0 
+25-34 (002): 12 
+35-44 (003): 61 
+45-55 (004): 48 
+56-64 (005): 36 
+65-74 (006): 45 
+75-84 (007): 42 
+85 & UP (008): 26 
+ 
+                    LOSSES DURING QUARTER 
+ 
+ 
+TO INDIVIDUAL LIVING (009): 0 
+TO HOSPITAL (010): 4 
+OTHER INSTITUTION CARE (011): 9 
+DEATH (012): 3 
+ 
+                    VETERANS REMAINING END OF QUARTER 
+ 
+ 
+LESS THAN 1 YR. (013): 93 
+1-2 (014): 4 
+3-5 YRS (015): 2 
+OVER 5 YRS. (016): 21 
+Create a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+13
+2.3.2.2.2 Psychosis/Neurosis Placement Data 
+This segment of the routine will ask you to enter how many veterans were placed in the 
+Psychosis/Neurosis ward by age group, how many veterans were lost by the 
+Psychosis/Neurosis ward to individual living, to the hospital, to other, non-VA 
+institutional care, or to death.  The system will also prompt you to enter the duration that 
+the patients have been in the Psychosis/Neurosis ward. 
+ 
+                    PSYCHOSIS/NEUROSIS 
+                    PLACEMENT BY QUARTER (By age group) 
+ 
+LESS THAN 25 (017): 3 
+25-34 (018): 4 
+35-44 (019): 12 
+45-54 (020): 7 
+55-64 (021): 2 
+65-74 (022): 0 
+75-84 (023): 0 
+85 & UP (024): 0 
+ 
+                    LOSSES DURING QUARTER 
+ 
+ 
+TO INDIVIDUAL LIVING (025): 2 
+TO HOSPITAL (026): 1 
+OTHER INSTITUTION CARE (027): 4 
+DEATH (028): 4 
+ 
+                    VETERANS REMAINING END OF QUARTER 
+ 
+ 
+LESS THAN 1 YR. (029): 31  
+1-2 YRS. (030): 3 
+3-5 YRS. (031): 2 
+OVER 5 YRS. (032): 15 
+ 
+2.3.2.2.3 Organic and Senile Brain Disease Placement Data 
+This segment of the routine will ask you to enter how many veterans were placed in the 
+Organic and Senile Brain Disease ward by age group, how many veterans were lost by 
+the Organic and Senile Brain Disease ward to individual living, to the hospital, to other, 
+non-VA institutional care, or to death.  The system will also prompt you to enter the 
+duration that the patients have been in the Organic and Senile Brain Disease ward. 
+ 
+                    ORGANIC & SENILE BRAIN DISEASE 
+                    PLACEMENT BY QUARTER (By age group) 
+ 
+LESS THAN 25 (033): 0 
+25-34 (034): 0 
+35-44 (035): 1 
+45-54 (036): 0 
+55-64 (037): 2 
+65-74 (038): 9 
+75-84 (039): 13 
+85 & OVER (040): 6 
+ 
+                    LOSSES DURING QUARTER 
+ 
+ 
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+14 
+TO INDIVIDUAL LIVING (041): 3 
+TO HOSPITAL (042): 1 
+OTHER INSTITUTION CARE (043): 4 
+DEATH (044): 5 
+ 
+                    VETERANS REMAINING END OF QUARTER 
+ 
+ 
+LESS THAN 1 YR. (045): 33 
+1-2 YRS. (046): 1 
+3-5 YRS. (047): 1 
+OVER 5 YRS. (048): 13 
+ 
+2.3.2.2.4 Substance Abuse Placement Data 
+This segment of the routine will ask you to enter how many veterans were placed in the 
+Substance Abuse ward by age group, how many veterans were lost by the Substance 
+Abuse ward to individual living, to the hospital, to other, non-VA institutional care, or to 
+death.  The system will also prompt you to enter the duration that the patients have been 
+in the Substance Abuse ward. 
+ 
+                    SUBSTANCE ABUSE 
+                    PLACEMENT BY QUARTER (By age group) 
+ 
+LESS THAN 25 (049): 6 
+25-34 (050): 3 
+35-44 (051): 9 
+45-54 (052): 2 
+55-64 (053): 6 
+65-74 (054): 2 
+75-84 (055): 0 
+85 & UP (056): 0 
+ 
+                    LOSSES BY QUARTER 
+ 
+ 
+TO INDIVIDUAL LIVING (057): 1 
+TO HOSPITAL (058): 0 
+OTHER INSTITUTION CARE (059): 4 
+DEATH (060): 1 
+ 
+                    VETERANS REMAINING END OF QUARTER 
+ 
+ 
+LESS THAN 1 YR. (061): 33 
+1-2 YRS (062): 2 
+3-5 YRS (063): 1 
+OVER 5 YRS. (064): 17 
+ 
+2.3.2.2.5 All Other Placement Data 
+This segment of the routine will ask you to enter how many veterans were placed in the 
+All Other category by age group, how many veterans were lost by the All Other category 
+to individual living, to the hospital, to other, non-VA institutional care, or to death.  The 
+system will also prompt you to enter the duration that the patients have been in the All 
+Other category. 
+ 
+                    ALL OTHER 
+Create a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+15
+                    PLACEMENT BY QUARTER (By age group) 
+ 
+LESS THAN 25 (065): 6 
+25-34 (066): 2 
+35-44 (067): 4 
+45-54 (068): 1 
+55-64 (069): 5 
+65-74 (070): 5 
+75-84 (071): 2 
+85 & UP (072): 1 
+ 
+                    LOSSES DURING QUARTER 
+ 
+ 
+TO INDIVIDUAL LIVING (073): 4 
+TO HOSPITAL (074): 5 
+OTHER INSTITUTION CARE (075): 3 
+DEATH (076): 3 
+ 
+                    VETERANS REMAINING END OF QUARTER 
+ 
+ 
+LESS THAN 1 YR. (077): 22 
+1-2 YRS. (078): 1 
+3-5 YRS (079): 1 
+OVER 5 YRS. (080): 15 
+ 
+2.3.2.2.6 Location of Veteran Prior to Placement 
+In this segment of the routine, enter how many veterans came from the hospital, the 
+NHCU, the CNH, the VA Domiciliary, the Comm., or from another location. 
+ 
+                    LOCATION OF VETERAN PRIOR TO PLACEMENT 
+ 
+ 
+HOSPITAL (081): 16 
+NHCU (082): 4 
+CNH (083): 2 
+VA DOM (084): 0 
+COMM. (085): 6 
+OTHER (086): 3 
+ 
+2.3.2.2.7 Code Sheet Data 
+The system will display the code sheet you just created.  You may mark the code sheet 
+for batching, edit or delete the code sheet, retain it in the file for editing later, or print the 
+code sheet.  To transmit the code sheet, select "Mark the Code Sheet for Batching".  The 
+system will display the code sheet identification number and prompt you for a 
+transmission date.  Assign a transmission priority to the batch (2 is high priority, 6 is low 
+priority).  Enter another batch type at the Select Generic Code Sheet Transaction 
+Type/Segment Name: prompt, or press the Enter key to return to the Generic Code Sheet 
+Menu. 
+ 
+TRANSMITTED CODE SHEET FOR ID# 173-94 WILL BE AS FOLLOWS: 
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+.... 
+AMS((M8688  257 -0012614836-4542260004-0903009300-0400020021-0304120702-00000002 
+01-0404003100-0300020015-0000010002-0913060301-0405003300-0100010013-0603090206- 
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+16 
+0200000100-0401003300-0200010017-0602040105-0502010405-0303002200-0100010015-001 
+6000400-0200000006-0003$ 
+ 
+ 
+     Select one of the following: 
+ 
+          1         Mark the Code Sheet For Batching 
+          2         Edit the Code Sheet 
+          3         Delete the Code Sheet 
+          4         Retain the Code Sheet in the File for Editing Later 
+          5         Print the Code Sheet 
+ 
+CODE SHEET ACTION: 4// 1  Mark the Code Sheet For Batching 
+ 
+     ** CODE SHEET NUMBER: 173-94 ** 
+ 
+SCHEDULED TRANSMISSION DATE: TODAY//   (SEP 06, 1994) 
+BATCH PRIORITY: 3//  
+     Status: << READY FOR BATCHING [Priority: 3, Trans Date: 09-06-94] >> 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME:  
+ 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option:  
+ 
+2.3.2.3 Segment 258 
+The system will assign an identification number to the code sheet.  WRITE THIS 
+NUMBER DOWN!  You will need it to edit the code sheet or assign it to a batch.  Enter 
+the AMIS (Automated Management Information System) month and year of the code 
+sheet, or just enter T for today's month and year.  Enter a suffix if there is one, or press 
+the Enter key if there is no suffix.  Enter a segment modifier if there is one, or press the 
+Enter key if there is no segment modifier.  Enter the number of veterans by bed capacity.  
+Enter the number of veterans supervised by medical/psychosocial problem.  Enter the 
+number of veterans remaining at the end of the quarter by status. 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME: 258          AMIS 258 SOCIAL WORK 
+ 
+This code sheet has been assigned IDENTIFICATION NUMBER: 183-94 
+AMIS MONTH/YEAR: T  (SEP 06, 1994) 
+ 
+SUFFIX:  
+SEG. MODIFIER:  
+                         NUMBER OF VETERANS BY BED CAPACITY 
+ 
+ 
+1-3 BEDS (001): 5 
+4-6 BEDS (002):  
+7-15 (003): 3 
+16-25 (004): 1 
+OVER 25 BEDS (005): 2 
+               NUMBER OF VETERANS SUPERVISED BY MEDICAL/PSYCHOSOCIAL PROBLEM 
+Create a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+17
+ 
+ 
+MEDICAL/SURGICAL (006): 2 
+PSYCHOSIS/NEUROSIS (007): 13  
+ORGANIC & SENILE DISEASE (008): 2 
+SUBSTANCE ABUSE (009): 1 
+ALL OTHER (010): 4 
+                         VETERANS REMAINING END OF QUARTER BY STATUS 
+ 
+                    SERVICE CONNECTED STATUS 
+ 
+ 
+NSC (011): 1 
+LESS THAN 50% (012): 3 
+50% OR MORE SC (013): 2 
+ 
+                         COMPETENCY STATUS 
+ 
+ 
+VETERANS INCOMP. (014): 51 
+VETERANS COMPETENT (015): 2 
+ 
+2.3.2.3.1 Code Sheet Data 
+The system will display the code sheet you just created.  You may mark the code sheet 
+for batching, edit or delete the code sheet, retain it in the file for editing later, or print the 
+code sheet.  To transmit the code sheet, select "Mark the Code Sheet for Batching".  The 
+system will display the code sheet identification number and prompt you for a 
+transmission date.  Assign a transmission priority to the batch (2 is high priority, 6 is low 
+priority).  Enter another batch type at the Select Generic Code Sheet Transaction 
+Type/Segment Name: prompt, or press the Enter key to return to the Generic Code Sheet 
+Menu. 
+ 
+TRANSMITTED CODE SHEET FOR ID# 183-94 WILL BE AS FOLLOWS: 
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+.... 
+AMS((M8688  258 -0005000000-0300010002-0002001300-0200010004-0001000300-02005100 
+02-$ 
+ 
+ 
+     Select one of the following: 
+ 
+          1         Mark the Code Sheet For Batching 
+          2         Edit the Code Sheet 
+          3         Delete the Code Sheet 
+          4         Retain the Code Sheet in the File for Editing Later 
+          5         Print the Code Sheet 
+ 
+CODE SHEET ACTION: 4// 1  Mark the Code Sheet For Batching 
+ 
+     ** CODE SHEET NUMBER: 183-94 ** 
+ 
+SCHEDULED TRANSMISSION DATE: TODAY//   (SEP 06, 1994) 
+BATCH PRIORITY: 3//  
+     Status: << READY FOR BATCHING [Priority: 3, Trans Date: 09-06-94] >> 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME:  
+ 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+18 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option:  
+ 
+2.3.2.4 Segment 361 
+The system will assign an identification number to the code sheet.  WRITE THIS 
+NUMBER DOWN!  You will need it to edit the code sheet or assign it to a batch.  Enter 
+the AMIS (Automated Management Information System) month and year of the code 
+sheet, or just enter T for today's month and year.  Enter a suffix if there is one, or press 
+the Enter key if there is no suffix.  Enter a segment modifier if there is one, or press the 
+Enter key if there is no segment modifier.  Enter the gains and losses for the ward.  Enter 
+the eligibility status for the ward.  Enter the home modifications for the ward. 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME: 361          AMIS 361 SOCIAL WORK 
+ 
+This code sheet has been assigned IDENTIFICATION NUMBER: 207-94 
+AMIS MONTH/YEAR: T  (SEP 06, 1994) 
+ 
+SUFFIX:  
+SEG. MODIFIER:  
+GAINS (001): 9 
+ 
+                    LOSSES 
+ 
+ 
+TREATMENT GOAL ACHIEVED (002):  
+REHOSPITALIZATION (003):  
+DEATHS IN HOME (004):  
+OTHER LOSSES (005):  
+ 
+REMAINING HBHC PATIENTS (006):  
+PATIENT DAYS OF CARE (007):  
+                    ELIGIBILITY STATUS 
+ 
+ 
+S.C. (008):  
+N.S.C. (009):  
+ 
+# REC. OF A&A BENEFITS (010):  
+                    HOME MODIFICATIONS 
+ 
+ 
+S.C. (011):  
+N.S.C. (012):  
+ 
+2.3.2.4.1 Visitations 
+Enter the number of home visits.  Enter the number of ward visits. 
+ 
+                    HOME VISITS BY 
+ 
+ 
+PHYSICIAN (013):  
+RN (014):  
+LPN (015):  
+Create a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+19
+DIETITIAN (016):  
+SOCIAL WORKER (017):  
+RMS (018):  
+HOME HEALTH AIDE (019):  
+STUDENTS (020):  
+OTHERS (021):  
+                    WARD VISITS BY 
+ 
+ 
+PHYSICIAN (022):  
+RN (023):  
+LPN (024):  
+DIETITIAN (025):  
+SOCIAL WORKER (026):  
+RMS (027):  
+HOME HEALTH AIDE (028):  
+STUDENTS (029):  
+OTHER (030):  
+ 
+2.3.2.4.2 Code Sheet Data 
+The system will display the code sheet you just created.  You may mark the code sheet 
+for batching, edit or delete the code sheet, retain it in the file for editing later, or print the 
+code sheet.  To transmit the code sheet, select "Mark the Code Sheet for Batching".  The 
+system will display the code sheet identification number and prompt you for a 
+transmission date.  Assign a transmission priority to the batch (2 is high priority, 6 is low 
+priority).  Enter another batch type at the Select Generic Code Sheet Transaction 
+Type/Segment Name: prompt, or press the Enter key to return to the Generic Code Sheet 
+Menu. 
+ 
+TRANSMITTED CODE SHEET FOR ID# 207-94 WILL BE AS FOLLOWS: 
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+.... 
+AMS((38688  361 -0009000000------------$ 
+ 
+ 
+     Select one of the following: 
+ 
+          1         Mark the Code Sheet For Batching 
+          2         Edit the Code Sheet 
+          3         Delete the Code Sheet 
+          4         Retain the Code Sheet in the File for Editing Later 
+          5         Print the Code Sheet 
+ 
+CODE SHEET ACTION: 4// 1  Mark the Code Sheet For Batching 
+ 
+     ** CODE SHEET NUMBER: 207-94 ** 
+ 
+SCHEDULED TRANSMISSION DATE: TODAY//   (SEP 06, 1994) 
+BATCH PRIORITY: 3//  
+     Status: << READY FOR BATCHING [Priority: 3, Trans Date: 09-06-94] >> 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME:  
+ 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+20 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option:  
+ 
+ 
+2.3.3 Consulting/Attending Code Sheets 
+2.3.3.1 Segment 2418A, "C & A Time Card" 
+2.3.3.1.1 Step 1 
+Enter 2418A at the Select Generic Code Sheet Transaction Type/Segment Name: prompt.  
+The system will assign an identification number to the code sheet.  Enter a station 
+number.  Enter the Social Security Number or Employee Identification number without 
+hyphens at the Identification Number: prompt.  Enter the name code of the participant.  
+The name code is the first initial of the first name, a space, and the first initial of the 
+middle name.  For example, if the participant was Firstname Middlename Lastname, the 
+name code would be F M.  Enter the three-digit julian day number at the Day Number: 
+prompt.  For example, since February 11 is the 42nd day of the year, enter 042 for 
+February 11.  Enter the transaction type.  Transaction types are defined in MP-4 Part V, 
+Section 12-D.  At the Decimal Suffix: prompt, enter the 3-digit suffix assigned by the 
+Austin Data Processing Center to the transaction. 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME: 2418A          C & A TIME CARD 
+ 
+This code sheet has been assigned IDENTIFICATION NUMBER: 1-95 
+ 
+STATION NUMBER: 688 
+IDENTIFICATION NUMBER: 000000001 
+NAME CODE: F M 
+DAY NUMBER: 213   
+TRANS TYPE: D1 
+DECIMAL SUFFIX: 141 
+ 
+2.3.3.1.2 Step 2 
+At the Day 1: prompt, enter X if the visit was a paid visit or W if the visit was without 
+pay.  Continue entering Xs and Ws through Day 31.  Enter the number of paid visits for 
+the reporting period at the Pay Visits: prompt.  Enter the number of no pay visits for the 
+reporting period at the No Pay Visits: prompt. 
+Create a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+21
+DAY 1: W  WITHOUT PAY 
+DAY 2: W  WITHOUT PAY 
+DAY 3: X  PAID 
+ . . .  
+DAY 31:  
+PAY VISITS: 3// 1 
+NO PAY VISITS: 2 
+ 
+2.3.3.1.3 Step 3 
+The system will display the code sheet you just created.  You may mark the code sheet 
+for batching, edit or delete the code sheet, retain it in the file for editing later, or print the 
+code sheet.  To transmit the code sheet, select "Mark the Code Sheet for Batching".  The 
+system will display the code sheet identification number and prompt you for a 
+transmission date.  Assign a transmission priority to the batch (2 is high priority, 6 is low 
+priority).  Enter another batch type at the Select Generic Code Sheet Transaction 
+Type/Segment Name: prompt, or press the Enter key to return to the Generic Code Sheet 
+Menu. 
+ 
+TRANSMITTED CODE SHEET FOR ID# 1-95 WILL BE AS FOLLOWS: 
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+.... 
+ 688000000001B J213D1141WWX                            0102$ 
+ 
+ 
+     Select one of the following: 
+ 
+          1         Mark the Code Sheet For Batching 
+          2         Edit the Code Sheet 
+          3         Delete the Code Sheet 
+          4         Retain the Code Sheet in the File for Editing Later 
+          5         Print the Code Sheet 
+ 
+CODE SHEET ACTION: 4// 1  Mark the Code Sheet For Batching 
+ 
+     ** CODE SHEET NUMBER: 1-95 ** 
+ 
+SCHEDULED TRANSMISSION DATE: TODAY//   (DEC 13, 1994) 
+BATCH PRIORITY: 3//  
+     Status: << READY FOR BATCHING [Priority: 3, Trans Date: 12-13-94] >> 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME:  
+ 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option:  
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+22 
+2.3.3.2 Segment 2418C, "C&A Renewal" 
+2.3.3.2.1 Step 1 
+Enter 2418C at the Select Generic Code Sheet Transaction Type/Segment Name: prompt.  
+The system will assign an identification number to the code sheet.  Enter a station 
+number.  Enter the Social Security Number or Employee Identification number without 
+hyphens at the Identification Number: prompt.  Enter the name code of the participant.  
+The name code is the first initial of the first name, a space, and the first initial of the 
+middle name.  For example, if the participant was Firstname Middlename Lastname, the 
+name code would be F M.  Enter the three-digit julian day number at the Day Number: 
+prompt.  For example, since February 11 is the 42nd day of the year, enter 042 for 
+February 11.  Enter the action code for the code sheet at the Action: prompt.  Enter a 
+question mark at the prompt to see the available action codes.  At the Decimal Suffix: 
+prompt, enter the 3-digit suffix assigned by the Austin Data Processing Center to the 
+transaction.  Enter the cost center at the Cost Center: prompt if this purchase is assigned 
+to a section or service that has a cost center defined for their expenses.  Cost centers 
+allow Fiscal staff to create total expense records for a section or service. 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME: 2418C          C&A RENEWAL 
+ 
+This code sheet has been assigned IDENTIFICATION NUMBER: 167-94 
+ 
+STATION NUMBER: 688 
+IDENTIFICATION NUMBER: 000000001  
+NAME CODE: F M 
+DAY NUMBER: 113 
+ACTION: T 
+DECIMAL SUFFIX: 404 
+COST CENTER: 400100 
+ 
+2.3.3.2.2 Step 2 
+Enter the number of visits for the participant at the Number of Visits: prompt.  Enter the 
+dollar amount without a dollar sign or decimal at the Amount-Dollars/Cents: prompt.  For 
+example, enter 4520 for $45.20.  Enter the per diem dollar amount without a dollar sign 
+or decimal at the Per Diem-Dollars/Cents: prompt.  At the ID Number Identifier: prompt, 
+enter 1 if the identification number you entered for the participant is the participant's 
+Social Security number.  Enter 2 if the number is an employee identification number.  
+You may enter a new identification number for the participant at the ID Number Change: 
+prompt.  At the No Pay: prompt, enter 0 (zero) if you want to prohibit the participant 
+from making no pay visits.  Enter Y if you want to authorize no pay visits.  Otherwise, 
+press the Enter key. 
+ 
+NUMBER OF VISITS: 5 
+AMOUNT-DOLLARS/CENTS: 92020 
+PER DIEM-DOLLARS/CENTS: 12000 
+ID NUMBER IDENTIFIER: 1  SOCIAL SECURITY NUMBER 
+Create a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+23
+ID NUMBER CHANGE:  
+NO PAY: Y  NO PAY VISITS AUTHORIZED 
+ 
+2.3.3.2.3 Step 3 
+The system will display the code sheet you just created.  You may mark the code sheet 
+for batching, edit or delete the code sheet, retain it in the file for editing later, or print the 
+code sheet.  To transmit the code sheet, select "Mark the Code Sheet for Batching".  The 
+system will display the code sheet identification number and prompt you for a 
+transmission date.  Assign a transmission priority to the batch (2 is high priority, 6 is low 
+priority).  Enter another batch type at the Select Generic Code Sheet Transaction 
+Type/Segment Name: prompt, or press the Enter key to return to the Generic Code Sheet 
+Menu. 
+ 
+TRANSMITTED CODE SHEET FOR ID# 3-95 WILL BE AS FOLLOWS: 
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+.... 
+ 688000000001B J113D3T4044001002576      00592020120001         Y$ 
+ 
+ 
+     Select one of the following: 
+ 
+          1         Mark the Code Sheet For Batching 
+          2         Edit the Code Sheet 
+          3         Delete the Code Sheet 
+          4         Retain the Code Sheet in the File for Editing Later 
+          5         Print the Code Sheet 
+ 
+CODE SHEET ACTION: 4// 1  Mark the Code Sheet For Batching 
+ 
+     ** CODE SHEET NUMBER: 3-95 ** 
+ 
+SCHEDULED TRANSMISSION DATE: TODAY//   (DEC 13, 1994) 
+BATCH PRIORITY: 3//  
+     Status: << READY FOR BATCHING [Priority: 3, Trans Date: 12-13-94] >> 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME:  
+ 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option:  
+ 
+2.3.3.3 Segment 2418D1, "C&A D1 Transactions" 
+2.3.3.3.1 Step 1 
+Enter 2418D1 at the Select Generic Code Sheet Transaction Type/Segment Name: 
+prompt.  The system will assign an identification number to the code sheet.  Enter a 
+station number.  Enter the Social Security Number or Employee Identification number 
+without hyphens at the Identification  
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+24 
+Number: prompt.  Enter the name code of the participant.  The name code is the first 
+initial of the first name, a space, and the first initial of the middle name.  For example, if 
+the participant was Firstname Middlename Lastname, the name code would be F M.  
+Enter the three-digit julian day number at the Day Number: prompt.  For example, since 
+February 11 is the 42nd day of the year, enter 042 for February 11. 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME: 2418D1          C&A D1  
+TRANSACTIONS 
+ 
+This code sheet has been assigned IDENTIFICATION NUMBER: 4-95 
+ 
+STATION NUMBER: 688 
+IDENTIFICATION NUMBER: 000000001 
+NAME CODE: F M 
+DAY NUMBER: 190 
+ 
+2.3.3.3.2 Step 2 
+Enter the action code for the code sheet at the Action:prompt.  Enter a question mark at 
+the prompt to see the available action codes.  At the Decimal Suffix: prompt, enter the 3-
+digit suffix assigned by the Austin Data Processing Center to the transaction.  Enter the 
+participant's name.  Enter their professional title (e.g., MD, Ph.D.)  At the Type: prompt, 
+enter C for consultant or A for attending.  At the Date of Appointment: prompt, enter the 
+date the participant starts work. 
+ 
+At the Occupation Series: prompt, enter the number assigned to the occupation category.  
+These numbers are listed in MP-6 Part V, Table 3, Occupation Series and Title Codes.  
+At the Address Line 1: prompt, enter the address where the participant wants their check 
+to be mailed. 
+ 
+ACTION: C 
+DECIMAL SUFFIX: 441 
+PARTICIPANT'S NAME: Watson 
+TITLE: RN 
+TYPE: C  CONSULTANT 
+DATE OF APPOINTMENT: 21294 
+OCCUPATION SERIES: 85859321 
+ADDRESS LINE 1: VAMC-Consulting 
+ 
+2.3.3.3.3 Step 3 
+The system will display the code sheet you just created.  You may mark the code sheet 
+for batching, edit or delete the code sheet, retain it in the file for editing later, or print the 
+code sheet.  To transmit the code sheet, select "Mark the Code Sheet for Batching".  The 
+system will display the code sheet identification number and prompt you for a 
+transmission date.  Assign a transmission priority to the batch (2 is high priority, 6 is low 
+priority).  Enter another batch type at the Select Generic Code Sheet Transaction 
+Type/Segment Name: prompt, or press the Enter key to return to the Generic Code Sheet 
+Menu. 
+Create a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+25
+TRANSMITTED CODE SHEET FOR ID# 4-95 WILL BE AS FOLLOWS: 
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+.... 
+ 688000000001B J190D1C441Basil            7C2129485859321VAMC-Consulting         
+$ 
+ 
+ 
+     Select one of the following: 
+ 
+          1         Mark the Code Sheet For Batching 
+          2         Edit the Code Sheet 
+          3         Delete the Code Sheet 
+          4         Retain the Code Sheet in the File for Editing Later 
+          5         Print the Code Sheet 
+ 
+CODE SHEET ACTION: 4// 1  Mark the Code Sheet For Batching 
+ 
+     ** CODE SHEET NUMBER: 4-95 ** 
+ 
+SCHEDULED TRANSMISSION DATE: TODAY//   (DEC 14, 1994) 
+BATCH PRIORITY: 3//  
+     Status: << READY FOR BATCHING [Priority: 3, Trans Date: 12-14-94] >> 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME:  
+ 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option:  
+ 
+2.3.3.4 Segment 2418D2, "C&A D2 Transactions" 
+2.3.3.4.1 Step 1 
+Enter 2418D2 at the Select Generic Code Sheet Transaction Type/Segment Name: 
+prompt.  The system will assign an identification number to the code sheet.  Enter a 
+station number.  Enter the Social Security Number or Employee Identification number 
+without hyphens at the Identification Number: prompt.  Enter the name code of the 
+participant.  The name code is the first initial of the first name, a space, and the first 
+initial of the middle name.  For example, if the participant was Firstname Middlename 
+Lastname, the name code would be F M. 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME: 2418D2          C&A D2  
+TRANSACTIONS 
+ 
+This code sheet has been assigned IDENTIFICATION NUMBER: 6-95 
+ 
+STATION NUMBER: 688 
+IDENTIFICATION NUMBER: 000000001 
+NAME CODE: F M 
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+26 
+2.3.3.4.2 Step 2 
+Enter the three-digit julian day number at the Day Number: prompt.  For example, since 
+February 11 is the 42nd day of the year, enter 042 for February 11.  Enter the action code 
+for the code sheet at the Action:prompt.  Enter a question mark at the prompt to see the 
+available action codes.  At the Decimal Suffix: prompt, enter the 3-digit suffix assigned 
+by the Austin Data Processing Center to the transaction.  At the Address Line 2, enter any 
+additional address information that did not fit on address line 1.  Enter the city, state, and 
+ZIP Code of the recipient. 
+ 
+DAY NUMBER: 109 
+ACTION: C 
+DECIMAL SUFFIX: 225 
+ADDRESS LINE 2: Psychiatric Service 
+CITY: Washington 
+STATE: DC 
+ZIP: 20290 
+ 
+2.3.3.4.3 Step 3 
+The system will display the code sheet you just created.  You may mark the code sheet 
+for batching, edit or delete the code sheet, retain it in the file for editing later, or print the 
+code sheet.  To transmit the code sheet, select "Mark the Code Sheet for Batching".  The 
+system will display the code sheet identification number and prompt you for a 
+transmission date.  Assign a transmission priority to the batch (2 is high priority, 6 is low 
+priority).  Enter another batch type at the Select Generic Code Sheet Transaction 
+Type/Segment Name: prompt, or press the Enter key to return to the Generic Code Sheet 
+Menu. 
+ 
+TRANSMITTED CODE SHEET FOR ID# 7-95 WILL BE AS FOLLOWS: 
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+.... 
+ 688000000001B J109D2C225Psychiatric Service    Washington   DC20290$ 
+ 
+ 
+     Select one of the following: 
+ 
+          1         Mark the Code Sheet For Batching 
+          2         Edit the Code Sheet 
+          3         Delete the Code Sheet 
+          4         Retain the Code Sheet in the File for Editing Later 
+          5         Print the Code Sheet 
+ 
+CODE SHEET ACTION: 4// 1  Mark the Code Sheet For Batching 
+ 
+     ** CODE SHEET NUMBER: 7-95 ** 
+ 
+SCHEDULED TRANSMISSION DATE: TODAY//   (DEC 14, 1994) 
+BATCH PRIORITY: 3//  
+     Status: << READY FOR BATCHING [Priority: 3, Trans Date: 12-14-94] >> 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME:  
+ 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+Create a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+27
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option:  
+ 
+2.3.3.5 Segment 2418D3, "C&A D3 Transactions" 
+2.3.3.5.1 Step 1 
+Enter 2418D2 at the Select Generic Code Sheet Transaction Type/Segment Name: 
+prompt.  The system will assign an identification number to the code sheet.  Enter a 
+station number.  Enter the Social Security Number or Employee Identification number 
+without hyphens at the Identification Number: prompt.  Enter the name code of the 
+participant.  The name code is the first initial of the first name, a space, and the first 
+initial of the middle name.  For example, if the participant was Firstname Middlename 
+Lastname, the name code would be F M. 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME: 2418D3          C&A D3  
+TRANSACTIONS 
+ 
+This code sheet has been assigned IDENTIFICATION NUMBER: 8-95 
+ 
+STATION NUMBER: 688 
+IDENTIFICATION NUMBER: 000000001 
+NAME CODE: F M 
+ 
+2.3.3.5.2 Step 2 
+Enter the three-digit julian day number at the Day Number: prompt.  For example, since 
+February 11 is the 42nd day of the year, enter 042 for February 11.  Enter the action code 
+for the code sheet at the Action:prompt.  Enter a question mark at the prompt to see the 
+available action codes.  At the Decimal Suffix: prompt, enter the 3-digit suffix assigned 
+by the Austin Data Processing Center to the transaction.  Enter the cost center at the Cost 
+Center: prompt if this purchase is assigned to a section or service that has a cost center 
+defined for their expenses.  Cost centers allow Fiscal staff to create total expense records 
+for a section or service. 
+ 
+DAY NUMBER: 140 
+ACTION: C 
+DECIMAL SUFFIX: 101 
+COST CENTER: 400100 
+ 
+2.3.3.5.3 Step 3 
+Enter the number of visits for the participant at the Number of Visits: prompt.  Enter the 
+dollar amount without a dollar sign or decimal at the Amount-Dollars/Cents: prompt.  For 
+example, enter 4520 for $45.20.  Enter the per diem dollar amount without a dollar sign 
+or decimal at the Per Diem- 
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+28 
+Dollars/Cents: prompt.  At the ID Number Identifier: prompt, enter 1 if the identification 
+number you entered for the participant is the participant's Social Security number.  Enter 
+2 if the number is an employee identification number.  You may enter a new 
+identification number for the participant at the ID Number Change: prompt.  At the No 
+Pay: prompt, enter 0 (zero) if you want to prohibit the participant from making no pay 
+visits.  Enter Y if you want to authorize no pay visits.  Otherwise, press the Enter key. 
+ 
+NUMBER OF VISITS: 5 
+AMOUNT-DOLLARS/CENTS: 94000 
+PER DIEM-DOLLARS/CENTS: 18600 
+ID NUMBER IDENTIFIER: 1  SOCIAL SECURITY NUMBER 
+ID NUMBER CHANGE:  
+NO PAY: Y  NO PAY VISITS AUTHORIZED 
+ 
+2.3.3.5.4 Step 4 
+The system will display the code sheet you just created.  You may mark the code sheet 
+for batching, edit or delete the code sheet, retain it in the file for editing later, or print the 
+code sheet.  To transmit the code sheet, select "Mark the Code Sheet for Batching".  The 
+system will display the code sheet identification number and prompt you for a 
+transmission date.  Assign a transmission priority to the batch (2 is high priority, 6 is low 
+priority).  Enter another batch type at the Select Generic Code Sheet Transaction 
+Type/Segment Name: prompt, or press the Enter key to return to the Generic Code Sheet 
+Menu. 
+ 
+TRANSMITTED CODE SHEET FOR ID# 8-95 WILL BE AS FOLLOWS: 
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+.... 
+ 688000000001B J140D3C1014001002576      00594000186001         Y$ 
+ 
+ 
+     Select one of the following: 
+ 
+          1         Mark the Code Sheet For Batching 
+          2         Edit the Code Sheet 
+          3         Delete the Code Sheet 
+          4         Retain the Code Sheet in the File for Editing Later 
+          5         Print the Code Sheet 
+ 
+CODE SHEET ACTION: 4// 1  Mark the Code Sheet For Batching 
+ 
+     ** CODE SHEET NUMBER: 8-95 ** 
+ 
+SCHEDULED TRANSMISSION DATE: TODAY//   (DEC 14, 1994) 
+BATCH PRIORITY: 3//  
+     Status: << READY FOR BATCHING [Priority: 3, Trans Date: 12-14-94] >> 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME:  
+ 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+Create a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+29
+ 
+Select Generic Code Sheet Menu Option:  
+ 
+2.3.3.6 Segment 2418T, "Terminate C&A" 
+2.3.3.6.1 Step 1 
+Enter 2418D2 at the Select Generic Code Sheet Transaction Type/Segment Name: 
+prompt.  The system will assign an identification number to the code sheet.  Enter a 
+station number.  Enter the Social Security Number or Employee Identification number 
+without hyphens at the Identification Number: prompt.  Enter the name code of the 
+participant.  The name code is the first initial of the first name, a space, and the first 
+initial of the middle name.  For example, if the participant was Firstname Middlename 
+Lastname, the name code would be F M.  Enter the three-digit julian day number at the 
+Day Number: prompt.  For example, since February 11 is the 42nd day of the year, enter 
+042 for February 11.  At the Decimal Suffix: prompt, enter the 3-digit suffix assigned by 
+the Austin Data Processing Center to the transaction. 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME:    2418T        TERMINA 
+TE C&A 
+ 
+This code sheet has been assigned IDENTIFICATION NUMBER: 13-95 
+ 
+STATION NUMBER: 688 
+IDENTIFICATION NUMBER: 000000001 
+NAME CODE: F M 
+DAY NUMBER: 101 
+DECIMAL SUFFIX: 550 
+ 
+2.3.3.6.2 Step 2 
+The system will display the code sheet you just created.  You may mark the code sheet 
+for batching, edit or delete the code sheet, retain it in the file for editing later, or print the 
+code sheet.  To transmit the code sheet, select "Mark the Code Sheet for Batching".  The 
+system will display the code sheet identification number and prompt you for a 
+transmission date.  Assign a transmission priority to the batch (2 is high priority, 6 is low 
+priority).  Enter another batch type at the Select Generic Code Sheet Transaction 
+Type/Segment Name: prompt, or press the Enter key to return to the Generic Code Sheet 
+Menu. 
+ 
+TRANSMITTED CODE SHEET FOR ID# 13-95 WILL BE AS FOLLOWS: 
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+.... 
+ 688000000001B J101D3T550$ 
+ 
+ 
+     Select one of the following: 
+ 
+          1         Mark the Code Sheet For Batching 
+          2         Edit the Code Sheet 
+          3         Delete the Code Sheet 
+          4         Retain the Code Sheet in the File for Editing Later 
+          5         Print the Code Sheet 
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+30 
+ 
+CODE SHEET ACTION: 4// 1  Mark the Code Sheet For Batching 
+ 
+     ** CODE SHEET NUMBER: 13-95 ** 
+ 
+SCHEDULED TRANSMISSION DATE: TODAY//   (DEC 14, 1994) 
+BATCH PRIORITY: 3//  
+     Status: << READY FOR BATCHING [Priority: 3, Trans Date: 12-14-94] >> 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME:  
+ 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option:  
+ 
+2.3.3.7 Segment C&AHDR, "10-2418 Consulting and Attending Header" 
+The system will assign an identification number to the code sheet.  WRITE THIS 
+NUMBER DOWN!  You will need it to edit the code sheet or assign it to a batch.  Enter 
+the PAID (Paid Accounting Integrated Data) transmission number. 
+ 
+2.3.3.7.1 Date and Transmission Number Information 
+Enter the day number, e.g., 12 for the 12th.  Enter the number of the month, e.g., 4 for 
+April.  Enter the day and year.  Enter the number of transmitted 10-2418A forms.  Enter 
+the total amount of pay and non-pay visits. 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME: C&AHDR          10-2418 
+ Consulting and Attending Header 
+ 
+This code sheet has been assigned IDENTIFICATION NUMBER: 220-94 
+ 
+STATION NUMBER: 688 
+PAID TRANSMISSION NUMBER: 121 
+DAY NUMBER: 122 
+MONTH: 4 
+DAY: 27 
+YEAR: 94 
+NO. OF 10-2418A TRANSMITTED: 1 
+TOTAL PAY AND NON PAY VISITS: 4 
+ 
+2.3.3.7.2 Code Sheet Data 
+The system will display the code sheet you just created.  You may mark the code sheet 
+for batching, edit or delete the code sheet, retain it in the file for editing later, or print the 
+code sheet.  To transmit the code sheet, select "Mark the Code Sheet for Batching".  The 
+system will display the code sheet identification number and prompt you for a 
+transmission date.  Assign a  
+Create a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+31
+transmission priority to the batch (2 is high priority, 6 is low priority).  Enter another 
+batch type at the Select Generic Code Sheet Transaction Type/Segment Name: prompt, or 
+press the Enter key to return to the Generic Code Sheet Menu. 
+ 
+TRANSMITTED CODE SHEET FOR ID# 220-94 WILL BE AS FOLLOWS: 
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+.... 
+ 688      121   122DA042794000100004$ 
+ 
+ 
+     Select one of the following: 
+ 
+          1         Mark the Code Sheet For Batching 
+          2         Edit the Code Sheet 
+          3         Delete the Code Sheet 
+          4         Retain the Code Sheet in the File for Editing Later 
+          5         Print the Code Sheet 
+ 
+CODE SHEET ACTION: 4// 1  Mark the Code Sheet For Batching 
+ 
+     ** CODE SHEET NUMBER: 220-94 ** 
+ 
+SCHEDULED TRANSMISSION DATE: TODAY//   (SEP 06, 1994) 
+BATCH PRIORITY: 3//  
+     Status: << READY FOR BATCHING [Priority: 3, Trans Date: 09-06-94] >> 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME:  
+ 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option:  
+ 
+2.3.4 Financial Management Code Sheets 
+2.3.4.1 Step 1 
+Enter Financial Management at the Select Generic Code Sheet Batch Type Name: 
+prompt.  Select a segment name.  For purposes of illustration, this section will explain 
+how to complete a code sheet for the IV (Issue Voucher) segment.  The system will 
+assign an identification number to the code sheet.  WRITE THIS NUMBER DOWN!  
+You will need it to edit the code sheet or assign it to a batch.  Enter a transaction number 
+using the following format.  Enter the first 3 digits of the station number, 6 characters for 
+the document number (from the common number series), optional 2 characters for the 
+partial number.  No punctuation characters allowed. 
+ 
+Select GENERIC CODE SHEET BATCH TYPE NAME: FinanciAL MANAGEMENT 
+Batch Type: FINANCIAL MANAGEMENT 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME: IV:FMS          FMS Issue Voucher 
+ 
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+32 
+This code sheet has been assigned IDENTIFICATION NUMBER: 483-94 
+ 
+ 
+     -- FMS Control Segment Data -- 
+TRANSACTION NUMBER: ? 
+     Enter the first 3 digits of the station number, 6 characters for the 
+     document number (from the common number series), optional 2 characters for 
+     the partial number.  No punctuation characters allowed. 
+TRANSACTION NUMBER: 688I42112 
+ 
+2.3.4.2 Step 2 
+Enter Y at the Modification Document: prompt if the common number series entered 
+above has already been sent to FMS.  Otherwise, enter N.  Enter a station number.  Enter 
+the number of the Control Point that is "Selling," or transferring funds.  Enter the number 
+of the Control Point that is "Buying," or receiving funds. 
+ 
+MODIFICATION DOCUMENT:  
+ 
+     -- FMS Document Data -- 
+STATION: 688 
+ 
+Select SELLING CONTROL POINT: ??? 
+  
+CHOOSE FROM: 
+   1               001 SUPPLY 
+   91              091 SUPPLY FUND 
+   1001            1001 SUPPLY FUND 
+   7001            7001 SUPPLY FUND 
+   7002            7002 STA. TRANSFERS 
+   9988            9988 LAB TESTING 988 SUPP FUND 
+     
+Select SELLING CONTROL POINT: 1001 SUPPLY FUND   
+ 
+Select BUYING CONTROL POINT: ??? 
+  
+CHOOSE FROM: 
+   7               007 TEST 
+   11              011 CONSULTANT & ATTENDING 
+   12              012 ALL OTHER SALARY 
+   13              013 MCCR SALARIES 
+   19              019 SPD 
+   22              022 MISC OFFICE SUPPLIES 
+   25              025 ADP (ALL OTHER) 
+   33              033 337 Basil Pharmacy Test 
+   40              040 BUILDING MANAGEMENT 
+   44              044 FEE BASIS 
+   61              061 TEST 061 
+   62              062 TEST 062 
+   63              063 TEST 063 
+   66              066 NEW FCP TEST 
+   68              068 REC M&R 
+   69              069 TEST 069 
+   71              071 TEST 071 
+   73              073 ENGINEERING 
+   81              081 TEST 081 
+   82              082 TEST 082 
+   88              088 TEST 088 
+                 
+Select BUYING CONTROL POINT: 019 SPD   
+Create a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+33
+2.3.4.3 Step 3 
+Enter the fiscal year, and the first year of the multi-year appropriation.  Enter the 
+transaction date, or just enter T for today.  You can also enter the accounting period 
+month and year.  At the Document Action: prompt, enter E if the document is a new 
+entry.  Enter 'M' if the document is modifying a previous document. This allows you to 
+add lines to a previous document, change the amounts of existing lines and certain codes, 
+or cancel a line (decrease a line amount to zero.)  Enter 'X' if the document is to cancel a 
+previous document. The document to be canceled may not have been closed by any 
+disbursements processing. 
+ 
+zero).Select FISCAL YEAR: 94//  
+Enter a year in the following sequence of years. 
+...1991    1992    1993    1994    1995    1996    1997    ... 
+First Year of the Multi-Appropriation (36_/_0161.001): 1994//  
+TRANSACTION DATE: T  (AUG 30, 1994) 
+ACCOUNTING PERIOD MONTH (optional):  
+ACCOUNTING PERIOD YEAR (optional):  
+DOCUMENT ACTION: E// ??? 
+     This field is optional. If blank, defaults to 'E'. 
+       
+     Enter 'E' if the document is new entry. 
+       
+     Enter 'M' if the document is modifying a previous document. This allows 
+     you to add lines to a previous document, change the amounts of existing 
+     lines and certain codes, or cancel a line (decrease a line amount to 
+     zero). 
+       
+     Enter 'X' if the document is to cancel a previous document. The document 
+     to be canceled may not have been closed by any disbursements processing. 
+     CHOOSE FROM:  
+       E        NEW ENTRY 
+       M        MODIFY 
+       X        CANCEL 
+DOCUMENT ACTION: E//   NEW ENTRY 
+ 
+2.3.4.4 Step 4 
+Enter a document description if you like.  Enter the total dollar amount of the transactions 
+on the document.  Remember, all of the transactions must equal this amount.  Enter 1 at 
+the Select Line: prompt to add the first transaction to the document.  Press the Enter key 
+at the Line: 1//: prompt to confirm the line number or the @ symbol to delete it.  Enter 
+the dollar amount of the first transaction.  Enter I at the Increase or Decrease Indicator: 
+prompt.  Enter the quantity. 
+ 
+DOCUMENT DESCRIPTION (optional):  
+DOCUMENT TOTAL DOLLARS: 100 
+ 
+-- Enter ACCOUNTING LINE information -- 
+Select LINE: 1 
+  ARE YOU ADDING '1' AS A NEW LINE (THE 1ST FOR THIS GENERIC CODE SHEET)? y 
+  (YES) 
+  LINE: 1// 
+  LINE DOLLAR AMOUNT: 35 
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+34 
+  INCREASE OR DECREASE INDICATOR: I  INCREASE 
+  QUANTITY: 35 
+ 
+2.3.4.5 Step 5 
+Enter the source of revenue for the "seller", the source of funds that are providing the 
+funds for this transaction.  Enter the transaction type for the transaction.  Refer to the 
+FMS procedures manual for a list of transaction types.  Enter a description of the seller if 
+you like. 
+ 
+-- Enter SELLER information -- 
+  SELLER REVENUE SOURCE: ??? 
+     Required for governmental refund documents. Blank otherwise. 
+  SELLER REVENUE SOURCE: SF03 
+  SELLER ACCOUNTING TRANSACTION TYPE: ??? 
+     Required on original entry if Transaction Type on header is blank. Enter 
+     the transaction type that is appropriate for the dollar amount being 
+     entered for the ticket payment. 
+  SELLER ACCOUNTING TRANSACTION TYPE: 03 
+  SELLER DESCRIPTION:  
+ 
+-- Enter BUYER information -- 
+ 
+2.3.4.6 Step 6 
+Enter the cost center and sub-cost center for the "buyer," the receiver of the funds, at the 
+Buyer Cost Center: prompt.  Cost centers allow Fiscal staff to create total expense 
+records for a section or service.  Enter the budget object code classification for the buyer 
+at the Buyer Budget Object Code (BOC): prompt.  Enter the accounting transaction type.  
+Add a description for the buyer if you like.  Budget Object Codes and Transaction Types 
+are listed in the FMS procedure manual. 
+ 
+  BUYER COST CENTER: ??? 
+     System-maintained. Derived from CAN code. 
+  BUYER COST CENTER: 806100 
+  BUYER SUB COST CENTER:  
+  BUYER BUDGET OBJECT CODE (BOC): 2660  
+  BUYER ACCOUNTING TRANSACTION TYPE: ??? 
+     Required on original entry if not entered in the header portion of the 
+     document. Enter the transaction type appropriate for the accounting model 
+     desired for this line. 
+  BUYER ACCOUNTING TRANSACTION TYPE: 03 
+  BUYER DESCRIPTION:  
+ 
+2.3.4.7 Step 7 
+Add another transaction line if you like.  Confirm the line number, and enter the dollar 
+amount of the transaction.  Remember, the total of all transactions must equal the amount 
+you entered at the Document Total Dollars: prompt.  Enter the seller and buyer 
+information.  Press the Enter key at the Select Line: prompt when you have finished 
+entering transactions for the code sheet. 
+ 
+Select LINE: 2 
+  ARE YOU ADDING '2' AS A NEW LINE (THE 2ND FOR THIS GENERIC CODE SHEET)? y 
+Create a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+35
+  (YES) 
+  LINE: 2//  
+  LINE DOLLAR AMOUNT: 65 
+  INCREASE OR DECREASE INDICATOR: I  INCREASE 
+  QUANTITY: ??? 
+     Optional, for reporting purposes only. If entered, must be numeric. This 
+     field may be changed by a MODIFY document. 
+  QUANTITY:  
+ 
+-- Enter SELLER information -- 
+  SELLER REVENUE SOURCE: SF03 
+  SELLER ACCOUNTING TRANSACTION TYPE: 03 
+  SELLER DESCRIPTION:  
+ 
+-- Enter BUYER information -- 
+  BUYER COST CENTER: 806100 
+  BUYER SUB COST CENTER:  
+  BUYER BUDGET OBJECT CODE (BOC): 2660 
+  BUYER ACCOUNTING TRANSACTION TYPE: 03 
+  BUYER DESCRIPTION:  
+Select LINE:  
+ 
+2.3.4.8 Step 8 
+The system will display the code sheet data.  You can transmit the code sheet (FMS 
+document) you just created, edit the code sheet, delete it, retain it in the records for 
+editing later, or print it.  Enter 1 to transmit the code sheet.  Enter another FMS segment 
+name at the Select Generic Code Sheet Transaction Type/Segment Name: prompt to enter 
+another FMS code sheet, or press the Enter key to return to the Generic Code Sheet 
+Menu. 
+ 
+TRANSMITTED CODE SHEET FOR ID# 483-94 WILL BE AS FOLLOWS: 
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+.... 
+IV2^94^08^30^^^^^E^^^^^^^^^^^^^100.00^~ 
+LIN^~IVA^001^35.00^I^35^94^^4537B^688^^^^^^^^SF03^^^03^^^^^^688^^806100^^^2660^~ 
+IVB^03^^~ 
+LIN^~IVA^002^65.00^I^^94^^4537B^688^^^^^^^^SF03^^^03^^^^^^688^^806100^^^2660^~ 
+IVB^03^^~ 
+ 
+ 
+     Select one of the following: 
+ 
+          1         Transmit FMS Document 
+          2         Edit the Code Sheet 
+          3         Delete the Code Sheet 
+          4         Retain the Code Sheet in the File for Editing Later 
+          5         Print the Code Sheet 
+ 
+CODE SHEET ACTION: 4// 1  Transmit FMS Document 
+ 
+STACK FILE ENTRY: IV-688I42112                       QUEUED FOR TRANSMISSION 
+     document header automatically created: 
+CTL^CFD^FMS^688^DOC^IV^10  ^      ^688I42112  ^19940830^154345^001^001^001^~ 
+DOC^~IV1^IV^688I42112  ^10  ^N^~ 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME:  
+ 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+Create a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+36 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option:  
+ 
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+37 
+3 chapter keypunch a code sheet 
+3.1 Introduction 
+ 
+This option allows the user to enter a code sheet manually. 
+3.2 Step 1 
+ 
+Select Keypunch a Code Sheet from the Generic Code Sheet Menu.  Enter a Station 
+Number.  Enter the batch type at the Select Generic Code Sheet Batch Type Name: 
+prompt for the type of code sheet you want to create.  If you do not know the batch type, 
+enter three question marks at the prompt and the system will list the available batch 
+types. 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: Keypunch a Code Sheet 
+ 
+Select STATION NUMBER (^ TO EXIT): WASHINGTON,DC//       DISTRICT OF COLUMBIA    688   
+Station: WASHINGTON,DC  (#688) 
+ 
+Select GENERIC CODE SHEET BATCH TYPE NAME: ??? 
+  
+CHOOSE FROM: 
+   ACCOUNTS RECEIVABLE 
+   BUILDING MANAGEMENT 
+   CONSULTING/ATTENDING 
+   DENTAL 
+   FEE BASIS 
+   FEE BASIS - IFCAP 
+   HOSPITAL BASED HOME CARE- GECO 
+   LAB 
+   MEDICINE 
+   NURSING 
+   PHARMACY      
+   RADIOLOGY 
+   SURGERY 
+   VOLUNTARY 
+   WAGE SURVEY - GECO 
+     
+     
+Select GENERIC CODE SHEET BATCH TYPE NAME: Fee Basis - IfCAP   
+Batch Type: FEE BASIS - IFCAP 
+3.3 Step 2 
+ 
+Enter the transaction type at the Select Generic Code Sheet Transaction Type/Segment 
+Name: prompt.  A segment is a group of code sheet types that make up a batch type.  For 
+example, 'Nursing' is a group of segments or code sheet types.  The batch type describes 
+the destination computer system for transmissions.  The segment name determines the 
+type of code sheet. 
+Keypunch a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+38 
+If you do not know which transaction type you want, enter three question marks at the 
+prompt and the system will list the available transactions.  The system will assign an 
+identification number to the code sheet.  Write this number down.  You will need this 
+number to retrieve, modify and print this code sheet. 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME: ??? 
+  
+CHOOSE FROM: 
+   994.01      Fee Basis Linkage Input Control 
+   994.02      Fee Basis Linkage Input Control 
+   994.00      Fee Basis Linkage Input Control 
+   994.10      Fee Basis Linkage Input Control 
+   994.90      Fee Basis Linkage Input Control 
+     
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME: 994.01          Fee Bas 
+is Linkage Input Control 
+ 
+This code sheet has been assigned IDENTIFICATION NUMBER: 94-94 
+3.4 Step 3 
+The system will list the column numbers across the screen.  Enter the code sheet data in 
+the format used in the example below.  Press the Enter key at a blank line when you have 
+finished keypunching code sheets.  Enter E at the Edit Option: prompt to edit the code 
+sheet data. 
+ 
+    ....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+ 
+KEYPUNCH CODE SHEET: 
+  1>FEN.688.994.01.082494.R2-549..$ 
+  2> 
+EDIT Option:  
+ 
+TRANSMITTED CODE SHEET FOR ID# 94-94 WILL BE AS FOLLOWS: 
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+.... 
+FEN.688.994.01.082494.R2-549..$ 
+3.5 Step 4 
+Enter whether you want to add the code sheet to a batch of code sheets that the system 
+will transmit automatically, edit, delete, or print the code sheet, or retain the code sheet in 
+the system as incomplete and edit it later.  Press the Enter key at the Select Generic Code 
+Sheet Transaction Type/Segment Name: prompt to return to the Select Generic Code 
+Sheet Menu. 
+ 
+     Select one of the following: 
+ 
+          1         Mark the Code Sheet For Batching 
+          2         Edit the Code Sheet 
+          3         Delete the Code Sheet 
+          4         Retain the Code Sheet in the File for Editing Later 
+          5         Print the Code Sheet 
+ 
+CODE SHEET ACTION: 4// 4  Retain the Code Sheet in the File for Editing Later 
+CODE SHEET HAS BEEN RETAINED IN THE FILE FOR EDITING LATER! 
+ 
+Select GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT NAME:  
+ 
+ 
+Keypunch a Code Sheet 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+39
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option:  
+ 
+Keypunch a Code Sheet 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+40 
+ 
+ 
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+41 
+4 Chapter Batch Code Sheets 
+4.1 Introduction 
+Batching code sheets allows users to group code sheets together, allowing the user to 
+transmit several code sheets at once.   
+4.2 Step 1 (Menu Path) 
+Select Batch Code Sheets from the Generic Code Sheet Menu.  Enter a Station Number.  
+If you do not know the batch type, enter three question marks at the prompt and the 
+system will list the available batch types. 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: Batch Code Sheets 
+ 
+Select STATION NUMBER (^ TO EXIT): WASHINGTON,DC//       DISTRICT OF COLUMBIA    
+ 688   
+Station: WASHINGTON,DC  (#688) 
+ 
+Select GENERIC CODE SHEET BATCH TYPE NAME: ??? 
+  
+CHOOSE FROM: 
+   ACCOUNTS RECEIVABLE 
+   BUILDING MANAGEMENT 
+   CONSULTING/ATTENDING 
+   DENTAL 
+   FEE BASIS 
+   FEE BASIS - IFCAP 
+   HOSPITAL BASED HOME CARE- GECO 
+   LAB 
+   MEDICINE 
+   NURSING 
+   PHARMACY 
+   RADIOLOGY 
+   SURGERY 
+   VOLUNTARY 
+   WAGE SURVEY - GECO 
+     
+Select GENERIC CODE SHEET BATCH TYPE NAME:   FEE BASIS - IFCAP 
+4.3 Step 2 
+Answer Y at the Ready to Batch Fee Basis?: prompt.  The system will assign a number to 
+the batch, list the number of code sheets in the batch, and return to the Generic Code 
+Sheet Menu. 
+ 
+READY TO BATCH FEE BASIS - IFCAP CODE SHEETS? NO// Y  (YES) 
+    100-94 
+ 
+Creating BATCH NUMBER: 688-FEN-94-105 
+Batch Code Sheets 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+42 
+TOTAL code sheets batched: 1 
+ 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option:  
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+43 
+5 chapter Maintenance Menu 
+5.1 Introduction 
+The Maintenance Menu allows users to edit or delete previously entered code sheets. 
+5.2 Batch Edit 
+5.2.1 Introduction 
+This option allows users to delete a specific code sheet or assign a specific code sheet to 
+a batch. 
+5.2.2 Step 1 
+Select Maintenance Menu from the Generic Code Sheet Menu. 
+Select Batch Edit from the Maintenance Menu. 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: Maintenance Menu 
+ 
+          Batch Edit 
+          Code Sheet Edit 
+          Delete Code Sheet 
+          Mark Batch for Retransmission 
+          Mark Code Sheet for Rebatching 
+          Review Code Sheet 
+ 
+Select Maintenance Menu Option: Batch Edit 
+ 
+5.2.3 Step 2 
+Enter a Station Number.  Enter the batch type at the Select Generic Code Sheet Batch 
+Type Name: prompt for the type of code sheet you want to create.  If you do not know 
+the batch type, enter three question marks at the prompt and the system will list the 
+available batch types.  At the Select Code Sheet ID Number: prompt, enter the 
+identification number that the system assigned to the code sheet when you created it.  If 
+you do not remember the identification number, enter three question marks at the prompt 
+and the system will list the available code sheets. 
+ 
+Select STATION NUMBER (^ TO EXIT): WASHINGTON,DC//       DISTRICT OF COLUMBIA    688   
+Station: WASHINGTON,DC  (#688) 
+ 
+Maintenance Menu 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+44 
+Select GENERIC CODE SHEET BATCH TYPE NAME: Fee Basis - IFCAP   
+Batch Type: Fee Basis - IFCAP 
+ 
+-- You may only select code sheets which you have created -- 
+Select CODE SHEET ID Number: ??? 
+  
+CHOOSE FROM: 
+   89-94     AMS     J19                Created: 08/24/94   Amis MO/YR: 08/1994 
+     
+Select CODE SHEET ID Number: 89-94         AMS     J19  Created: 08/24/94  Amis MO/YR: 
+08/1994 
+ 
+5.2.4 Step 3 
+The system will list the status of the batch and ask you if you want to delete the batch.  
+Enter the batch number.  If you do not know the batch number, enter three question 
+marks and the system will list the available batch numbers.  Enter Y at the Ready to 
+Change the Batch Number?: prompt to verify that you want to assign the code sheet to 
+the batch.  You may change the batch priority if you like.  Enter another code sheet 
+identification number at the Select Code Sheet ID Number: prompt, or press the Enter 
+key to return to the Maintenance Menu. 
+ 
+     Status: << READY FOR TRANSMISSION IN BATCH 688-AMS-94-90 [Date:08-24-94] >> 
+ 
+Do you want to DELETE this batch number? NO//   (NO) 
+ 
+Select BATCH NUMBER: ??? 
+  
+CHOOSE FROM: 
+   688-AMS-94-90 
+     
+Select BATCH NUMBER: 688-AMS-94-90   
+READY TO CHANGE THE BATCH NUMBER? YES//   (YES) 
+BATCH PRIORITY: 2// 3 
+CODE SHEET READY FOR TRANSMISSION IN BATCH 688-AMS-94-90 
+ 
+-- You may only select code sheets which you have created -- 
+Select CODE SHEET ID Number:  
+ 
+ 
+          Batch Edit 
+          Code Sheet Edit 
+          Delete Code Sheet 
+          Mark Batch for Retransmission 
+          Mark Code Sheet for Rebatching 
+          Review Code Sheet 
+ 
+Select Maintenance Menu Option:  
+5.3 Code Sheet Edit 
+5.3.1 Introduction 
+This option allows users to edit a code sheet. 
+Maintenance Menu 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+45
+5.3.2 Step 1 
+Select Maintenance Menu from the Generic Code Sheet Menu. 
+Select Code Sheet Edit from the Maintenance Menu. 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: Maintenance Menu 
+ 
+          Batch Edit 
+          Code Sheet Edit 
+          Delete Code Sheet 
+          Mark Batch for Retransmission 
+          Mark Code Sheet for Rebatching 
+          Review Code Sheet 
+ 
+Select Maintenance Menu Option: Code Sheet Edit 
+ 
+-- You may only select code sheets which you have created -- 
+ 
+5.3.3 Step 2 
+At the Select Code Sheet ID Number: prompt, enter the identification number that the 
+system assigned to the code sheet when you created it.  If you do not remember the 
+identification number, enter three question marks at the prompt and the system will list 
+the available code sheets.  The system will list the status of the code sheet you selected.  
+Enter the fee transaction date.  Assign a reference number to the code sheet.  You can use 
+this reference number to select the code sheet in the future.  Enter a line number at the 
+Select Line: prompt.  Enter the identification numbers at the Interface Record Ident: 
+prompts. 
+ 
+Select CODE SHEET ID Number: ??? 
+  
+CHOOSE FROM: 
+   273-94               
+   89-94     AMS     J19                Created: 08/24/94   Amis MO/YR: 07/1994 
+   90-94     FEN     994.01             Created: 08/24/94   
+   94-94     FEN     994.01             Created: 08/24/94   
+     
+Select CODE SHEET ID Number: 90-94         FEN     994.01  Created: 08/24/94   
+ 
+     Status: << RETAINED IN FILE >> 
+ 
+ 
+FEE TRANSACTION DATE: 082494// T  (AUG 24, 1994) 
+FEE REFERENCE NUMBER: BR-549//  
+Select LINE: 1//  
+  INTERFACE RECORD IDENT  #1:  
+  INTERFACE RECORD IDENT  #2:  
+Select LINE:  
+Maintenance Menu 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+46 
+5.3.4 Step 3 
+The system will list the data for the formatted code sheet.  You may assign the code sheet 
+to a batch, edit, delete, or print the code sheet, or retain the code sheet for editing later.  
+Enter another code sheet at the Select Code Sheet ID Number: prompt, or press the Enter 
+key to return to the Maintenance Menu. 
+ 
+TRANSMITTED CODE SHEET FOR ID# 90-94 WILL BE AS FOLLOWS: 
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+.... 
+FEN.688.994.01.082494.BR-549..$ 
+ 
+ 
+     Select one of the following: 
+ 
+          1         Mark the Code Sheet For Batching 
+          2         Edit the Code Sheet 
+          3         Delete the Code Sheet 
+          4         Retain the Code Sheet in the File for Editing Later 
+          5         Print the Code Sheet 
+ 
+CODE SHEET ACTION: 4// 4  Retain the Code Sheet in the File for Editing Later 
+CODE SHEET HAS BEEN RETAINED IN THE FILE FOR EDITING LATER! 
+ 
+-- You may only select code sheets which you have created -- 
+Select CODE SHEET ID Number:  
+ 
+ 
+          Batch Edit 
+          Code Sheet Edit 
+          Delete Code Sheet 
+          Mark Batch for Retransmission 
+          Mark Code Sheet for Rebatching 
+          Review Code Sheet 
+ 
+Select Maintenance Menu Option:  
+5.4 Delete Code Sheet 
+5.4.1 Introduction 
+Use this option to delete a code sheet. 
+5.4.2 Step 1 
+Select Maintenance Menu from the Generic Code Sheet Menu. 
+Select Delete Code Sheet from the Maintenance Menu. 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: Maintenance Menu 
+ 
+Maintenance Menu 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+47
+          Batch Edit 
+          Code Sheet Edit 
+          Delete Code Sheet 
+          Mark Batch for Retransmission 
+          Mark Code Sheet for Rebatching 
+          Review Code Sheet 
+ 
+Select Maintenance Menu Option: Delete Code Sheet 
+ 
+5.4.3 Step 2 
+At the Select Code Sheet ID Number: prompt, enter the identification number that the 
+system assigned to the code sheet when you created it.  If you do not remember the 
+identification number, enter three question marks at the prompt and the system will list 
+the available code sheets.   
+ 
+-- You may only select code sheets which you have created -- 
+Select CODE SHEET ID Number: ??? 
+  
+CHOOSE FROM: 
+   273-94               
+   89-94     AMS     J19                Created: 08/24/94   Amis MO/YR: 07/1994 
+   90-94     FEN     994.01             Created: 08/24/94   
+   94-94     FEN     994.01             Created: 08/24/94   
+     
+Select CODE SHEET ID Number: 89-94         AMS     J19  Created: 08/24/94  Amis  
+MO/YR: 07/1994 
+ 
+     Status: << READY FOR TRANSMISSION IN BATCH 688-AMS-94-90 [Date:08-24-94] >> 
+ 
+5.4.4 Step 3 
+The system will ask you to confirm that you want to delete the code sheet.  If you 
+confirm the deletion, the system will delete the code sheet.  If the code sheet you deleted 
+is the only code sheet in a batch, the system will also delete the empty batch.  Enter 
+another code sheet identification number at the Select Code Sheet ID Number: prompt or 
+press the Enter key to return to the Maintenance Menu. 
+ 
+ARE YOU SURE YOU WANT TO DELETE THE CODE SHEET? NO// Y  (YES)  << CODE SHEET DELETED >> 
+ 
+NO CODE SHEETS INCLUDED IN BATCH 688-AMS-94-90. 
+DELETING BATCH 688-AMS-94-90 
+ 
+-- You may only select code sheets which you have created -- 
+Select CODE SHEET ID Number:  
+ 
+ 
+          Batch Edit 
+          Code Sheet Edit 
+          Delete Code Sheet 
+          Mark Batch for Retransmission 
+          Mark Code Sheet for Rebatching 
+          Review Code Sheet 
+ 
+Select Maintenance Menu Option:  
+Maintenance Menu 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+48 
+5.5 Mark Batch for Retransmission 
+5.5.1 Introduction 
+This option allows users to mark a batch of previously transmitted code sheets for 
+retransmission. 
+5.5.2 Step 1 
+Select Maintenance Menu from the Generic Code Sheet Menu. 
+Select Mark Batch for Retransmission from the Maintenance Menu. 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: Maintenance Menu 
+ 
+          Batch Edit 
+          Code Sheet Edit 
+          Delete Code Sheet 
+          Mark Batch for Retransmission 
+          Mark Code Sheet for Rebatching 
+          Review Code Sheet 
+ 
+Select Maintenance Menu Option: Mark Batch for Retransmission 
+ 
+5.5.3 Step 2 
+Enter a station number.  Enter the batch type at the Select Generic Code Sheet Batch 
+Type Name: prompt for the type of code sheet you want to create.  If you do not know 
+the batch type, enter three question marks at the prompt and the system will list the 
+available batch types.  At the Select Batch Number: prompt, enter the identification 
+number that the system assigned to the batch when you created it.  If you do not 
+remember the batch number, enter three question marks at the prompt and the system will 
+list the available batch numbers. 
+ 
+Select STATION NUMBER (^ TO EXIT): WASHINGTON,DC//       DISTRICT OF COLUMBIA    688   
+Station: WASHINGTON,DC  (#688) 
+ 
+Select GENERIC CODE SHEET BATCH TYPE NAME: FEE BASIS - IFCAP   
+Batch Type: FEE BASIS - IFCAP 
+ 
+ 
+Select BATCH NUMBER: ??? 
+  
+CHOOSE FROM: 
+   688-FEN-94-10 
+   688-FEN-94-3 
+   688-FEN-94-8 
+     
+Select BATCH NUMBER: 688-FEN-94-3   
+Maintenance Menu 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+49
+5.5.4 Step 3 
+The system will ask you to confirm that you want to retransmit the batch.  Enter another 
+batch number at the Select Batch Number: prompt, or press the Enter key to return to the 
+Maintenance Menu. 
+ 
+READY TO MARK BATCH FOR RETRANSMISSION? NO// Y  (YES) 
+ 
+Batch Number FEE BASIS - IFCAP ready for transmission. 
+ 
+ 
+Select BATCH NUMBER:  
+ 
+ 
+          Batch Edit 
+          Code Sheet Edit 
+          Delete Code Sheet 
+          Mark Batch for Retransmission 
+          Mark Code Sheet for Rebatching 
+          Review Code Sheet 
+ 
+Select Maintenance Menu Option:  
+5.6 Mark Code Sheet for Rebatching 
+5.6.1 Introduction 
+This option allows users to remove a code sheet from a batch and mark it for rebatching. 
+5.6.2 Step 1 
+Select Maintenance Menu from the Generic Code Sheet Menu. 
+Select Mark Code Sheet for Rebatching from the Maintenance Menu. 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: Maintenance Menu 
+ 
+          Batch Edit 
+          Code Sheet Edit 
+          Delete Code Sheet 
+          Mark Batch for Retransmission 
+          Mark Code Sheet for Rebatching 
+          Review Code Sheet 
+ 
+Select Maintenance Menu Option: Mark Code Sheet for Rebatching 
+ 
+5.6.3 Step 2 
+At the Select Code Sheet ID Number: prompt, enter the identification number that the 
+system assigned to the code sheet when you created it.  If  
+Maintenance Menu 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+50 
+you do not remember the identification number, enter three question marks at the prompt 
+and the system will list the available code sheets.   
+ 
+-- You may only select code sheets which you have created -- 
+Select CODE SHEET ID Number: ??? 
+  
+CHOOSE FROM: 
+   273-94               
+   90-94     FEN     994.01             Created: 08/24/94   
+   94-94     FEN     994.01             Created: 08/24/94   
+   96-94     FEN     994.01             Created: 08/24/94   
+     
+Select CODE SHEET ID Number: 96-94         FEN     994.01  Created: 08/24/94   
+ 
+     Status: << READY FOR TRANSMISSION IN BATCH 688-FEN-94-97 [Date:08-24-94] >> 
+ 
+5.6.4 Step 3 
+Answer Yes at the Do You Want To Mark For Rebatching?: prompt.  Enter the date that 
+you want the system to transmit the batch, e.g., T stands for today, T+1 stands for 
+tomorrow, etc.  Assign a priority to the batch.  The priority is the order the code sheet 
+will be transmitted with in the batch.  2=high priority, and 6=low priority.  The system 
+will assign a "Ready for Batching" status to the batch and delete any empty batches it 
+detects in the system.  Enter another code sheet number at the Select Code Sheet ID 
+Number: prompt, or press the Enter key to return to the Maintenance Menu. 
+ 
+DO YOU WANT TO MARK FOR REBATCHING? NO// Y  (YES) 
+ 
+     ** CODE SHEET NUMBER: 96-94 ** 
+ 
+SCHEDULED TRANSMISSION DATE: AUG 24,1994// T  (AUG 24, 1994) 
+BATCH PRIORITY: 2//  
+     Status: << READY FOR BATCHING [Priority: 2, Trans Date: 08-24-94] >> 
+ 
+NO CODE SHEETS INCLUDED IN BATCH 688-FEN-94-97. 
+DELETING BATCH 688-FEN-94-97 
+-- You may only select code sheets which you have created -- 
+Select CODE SHEET ID Number:  
+ 
+ 
+          Batch Edit 
+          Code Sheet Edit 
+          Delete Code Sheet 
+          Mark Batch for Retransmission 
+          Mark Code Sheet for Rebatching 
+          Review Code Sheet 
+ 
+Select Maintenance Menu Option:  
+5.7 Review Code Sheet 
+5.7.1 Introduction 
+This option allows users to see the data in code sheets marked for batching. 
+Maintenance Menu 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+51
+5.7.2 Step 1 
+Select Maintenance Menu from the Generic Code Sheet Menu. 
+Select Review Code Sheet from the Maintenance Menu. 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: Maintenance Menu 
+ 
+          Batch Edit 
+          Code Sheet Edit 
+          Delete Code Sheet 
+          Mark Batch for Retransmission 
+          Mark Code Sheet for Rebatching 
+          Review Code Sheet 
+ 
+Select Maintenance Menu Option: Review Code Sheet 
+ 
+5.7.3 Step 2 
+At the Select Code Sheet ID Number: prompt, enter the identification number that the 
+system assigned to the code sheet when you created it.  If you do not remember the 
+identification number, enter three question marks at the prompt and the system will list 
+the available code sheets.   
+ 
+-- You may only select code sheets which you have created -- 
+Select CODE SHEET ID Number: ??? 
+  
+CHOOSE FROM: 
+   90-94     FEN     994.01             Created: 08/24/94   
+   94-94     FEN     994.01             Created: 08/24/94   
+   96-94     FEN     994.01             Created: 08/24/94   
+     
+Select CODE SHEET ID Number: 96-94         FEN     994.01  Created: 08/24/94   
+ 
+5.7.4 Step 3 
+The system will display the status of the code sheet and the codes that the code sheet will 
+transmit.  You can mark the code sheet for batching, edit the code sheet, delete the code 
+sheet, retain the code sheet in the file for editing later, or print the code sheet.  Enter 
+another code sheet number at the Select Code Sheet ID Number: prompt, or press the 
+Enter key to return to the Maintenance Menu. 
+ 
+     Status: << READY FOR BATCHING [Priority: 3, Trans Date: 09-02-94] >> 
+ 
+ 
+TRANSMITTED CODE SHEET FOR ID# 134-94 WILL BE AS FOLLOWS: 
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+.... 
+AMS((28688  200 -0000400003-0000500009-0200000300-0020000400-0010100000-40000500 
+00-3000050400-0001000030-0005000020-2000004000-0000002000-0400005010-0000300001- 
+0000502000-0160160062-0000400002-0000501000-0201000005-0000200002-0200000200-004 
+Maintenance Menu 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+52 
+0000200-0050400002-0000400004-4800003000-0100003000-0400001000-0500002000-040000 
+4000-0500002000-04$ 
+ 
+ 
+     Select one of the following: 
+ 
+          1         Mark the Code Sheet For Batching 
+          2         Edit the Code Sheet 
+          3         Delete the Code Sheet 
+          4         Retain the Code Sheet in the File for Editing Later 
+          5         Print the Code Sheet 
+ 
+CODE SHEET ACTION: 4//   Retain the Code Sheet in the File for Editing Later 
+CODE SHEET HAS BEEN RETAINED IN THE FILE FOR EDITING LATER!  <NOTHING DELETED> 
+ 
+-- You may only select code sheets which you have created -- 
+Select CODE SHEET ID Number:  
+ 
+ 
+          Batch Edit 
+          Code Sheet Edit 
+          Delete Code Sheet 
+          Mark Batch for Retransmission 
+          Mark Code Sheet for Rebatching 
+          Review Code Sheet 
+ 
+Select Maintenance Menu Option:  
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+53 
+6 Chapter reports menu 
+6.1 Introduction 
+ 
+The Reports Menu allows users to create reports of code sheets and the status of code 
+sheets and batches. 
+6.2 Batches Waiting to be Transmitted 
+6.2.1 Introduction 
+This option creates a report of the batches and code sheets that are ready for transmission.  
+The user can also print the data in these code sheets. 
+6.2.2 Step 1 
+Select Reports Menu from the Generic Code Sheet Menu. 
+Select Batches Waiting to be Transmitted from the Reports Menu. 
+Enter a Station Number.  Enter the batch type at the Select Generic Code Sheet Batch 
+Type Name: prompt for the type of code sheet you want to create.  If you do not know 
+the batch type, enter three question marks at the prompt and the system will list the 
+available batch types.  You may see a detailed listing of all of the code sheets in the 
+batch, or just a listing of the code sheet identification numbers.  You may also print the 
+code sheet.   
+ 
+ Select Generic Code Sheet Menu Option: REPorts Menu 
+  
+  
+           Batches Waiting to be Transmitted 
+           Code Sheets Ready for Batching 
+           Status of all Batches 
+  
+ Select Reports Menu Option:  Batches Waiting to be Transmitted 
+  
+ Select STATION NUMBER (^ TO EXIT): WASHINGTON,DC//       DISTRICT OF COLUMBIA  
+  
+   
+  688   
+ Station: WASHINGTON,DC  (#688) 
+  
+ Select GENERIC CODE SHEET BATCH TYPE NAME:    FEE BASIS - IFCAP 
+ Batch Type: FEE BASIS - IFCAP 
+  
+ Do you want a detailed listing? NO// Y  (YES) 
+  
+ Do you want to print the code sheet? NO// Y  (YES) 
+  
+ DEVICE:   LAT    RIGHT MARGIN: 80//  
+Reports Menu 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+54 
+6.2.3 Step 2 
+The system will generate the 'Generic Code Sheet List,' which will list the batch number 
+and the code sheets in the batch.  Enter another batch type at the Select Generic Code 
+Sheet Batch Type Name: prompt, or press the Enter key to return to the Reports Menu. 
+ 
+ GENERIC CODE SHEET LIST                        SEP  9,1994  15:25    PAGE 1 
+ 
+ CODE 
+ - 
+ - 
+  
+            BATCH NUMBER: 688-FEN-94-3 
+ FEN.688.994.01.061394.123456.DDDD111111..$ 
+ FEN.688.994.10.061394.123456.AAAA111111.AAAA222222.BBBB111111.$ 
+ 
+Select GENERIC CODE SHEET BATCH TYPE NAME: 
+ 
+          Batches Waiting to be Transmitted 
+          Code Sheets Ready for Batching 
+          Status of all Batches 
+ 
+Select Reports Menu Option:  
+6.3 Code Sheets Ready for Batching 
+6.3.1 Introduction 
+This option displays the code sheets ready to be batched. 
+6.3.2 Step 1 
+Select Reports Menu from the Generic Code Sheet Menu. 
+Select Code Sheets Ready for Batching from the Reports Menu. 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: Reports Menu 
+ 
+          Batches Waiting to be Transmitted 
+          Code Sheets Ready for Batching 
+          Status of all Batches 
+ 
+Select Reports Menu Option: Code Sheets Ready for Batching 
+ 
+6.3.3 Step 2 
+Enter a station number.  Enter the batch type at the Select Generic Code Sheet Batch 
+Type Name: prompt for the type of code sheet you want to create.  If you do not know 
+the batch type, enter three question marks at the  
+Reports Menu 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+55
+prompt and the system will list the available batch types.  The system will create a 
+"Generic Code Sheet Statistics" report, listing each code sheet in the batch, its scheduled 
+transmission date, station number, batch type, and transaction type.  After printing or 
+displaying the report, the system will return to the Reports Menu. 
+ 
+Select STATION NUMBER (^ TO EXIT): WASHINGTON,DC//       DISTRICT OF COLUMBIA    
+ 688   
+Station: WASHINGTON,DC  (#688) 
+ 
+Select GENERIC CODE SHEET BATCH TYPE NAME: Fee Basis - IFCAP   
+Batch Type: FEE BASIS - IFCAP 
+ 
+DEVICE:   LAT    RIGHT MARGIN: 80//  
+ 
+GENERIC CODE SHEET STATISTICS                  AUG 24,1994  13:05    PAGE 1 
+            SCHEDULED 
+            TRANSMISSION  STATION 
+ID          DATE          NUMBER   SUFFIX  BATCH TYPE 
+                                                                  TRANSACTION 
+                                                                  TYPE/SEGMENT 
+-------------------------------------------------------------------------------- 
+ 
+102-94      AUG 24,1994   688              FEE BASIS - IFCAP      994.01 
+100-94      AUG 25,1994   688              FEE BASIS - IFCAP      994.01 
+---------- 
+COUNT 2 
+ 
+<Press RETURN to continue> 
+ 
+ 
+          Batches Waiting to be Transmitted 
+          Code Sheets Ready for Batching 
+          Status of all Batches 
+ 
+Select Reports Menu Option:  
+6.4 Status of all Batches 
+6.4.1 Introduction 
+Batches have one of two status- transmitted or not transmitted.  The following routine 
+lists the status of all batches. 
+6.4.2 Step 1 
+Select Reports Menu from the Generic Code Sheet Menu. 
+Select Status of all Batches from the Reports Menu. 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: Reports Menu 
+ 
+Reports Menu 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+56 
+ 
+          Batches Waiting to be Transmitted 
+          Code Sheets Ready for Batching 
+          Status of all Batches 
+ 
+Select Reports Menu Option: Status of all Batches 
+ 
+6.4.3 Step 2 
+Enter a station number.  Enter the batch type at the Select Generic Code Sheet Batch 
+Type Name: prompt for the type of code sheet you want to create.  If you do not know 
+the batch type, enter three question marks at the prompt and the system will list the 
+available batch types. 
+ 
+Select STATION NUMBER (^ TO EXIT): WASHINGTON,DC//       DISTRICT OF COLUMBIA    688   
+Station: WASHINGTON,DC  (#688) 
+ 
+Select GENERIC CODE SHEET BATCH TYPE NAME: Fee Basis - IFCAP   
+Batch Type: FEE BASIS - IFCAP 
+ 
+DEVICE:   LAT    RIGHT MARGIN: 80//  
+ 
+6.4.4 Step 3 
+The system will create a "Generic Code Sheet Transmission Record List", listing the 
+system identifier of each batch, the batch number, the date of transmission, and the 
+MailMan message number of the message that reported the transmission of the batch.  
+The system identifier is a three-character code assigned to each batch type.  The Generic 
+Code Sheet package uses the system identifier to maintain batch records.  Batches with a 
+date in the Date Given to Mailman column and a message number have been transmitted.  
+If the information in the Date Given To MailMan column and the Message Number 
+column is missing from a code sheet, that code sheet has not been transmitted.  After 
+printing or displaying the report, the system will return to the Reports Menu. 
+ 
+GENERIC CODE SHEET TRANSMISSION RECORD LIST    AUG 24,1994  13:09    PAGE 1 
+SYSTEM                                      DATE GIVEN TO 
+IDENTIFIER  BATCH NUMBER                    MAILMAN             MESSAGE NUMBER 
+-------------------------------------------------------------------------------- 
+ 
+FEN         688-FEN-94-3                     
+FEN         688-FEN-94-8                    JUN 13,1994                  55317 
+FEN         688-FEN-94-10                   JUN 13,1994                  55318 
+ 
+<Press RETURN to continue> 
+ 
+ 
+          Batches Waiting to be Transmitted 
+          Code Sheets Ready for Batching 
+          Status of all Batches 
+ 
+Select Reports Menu Option:  
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+57 
+7 Chapter Stack Menu 
+7.1 Introduction 
+ 
+The Stack Menu is a new menu of options that manage stacks of Financial Management 
+System (FMS) code sheets.  The Generic Code Sheet system does not assign FMS code 
+sheets to batches; instead, the system adds these code sheets to a special file called a 
+stack file, which allows the system to transmit the code sheets as a single file in a form 
+that FMS can interpret. 
+7.2 Retransmit Stack File Document 
+7.2.1 Introduction 
+This option allows users to retransmit FMS code sheets.  Users will use this option if 
+FMS rejects the stack entry for a code sheet or an entire stack. 
+7.2.2 Step 1 
+Select Stack Menu from the Generic Code Sheet Menu.   
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: Stack Menu 
+ 
+ 
+          Retransmit Stack File Document 
+          Stack Status Report 
+ 
+Select Stack Menu Option: Retransmit Stack File Document 
+ 
+7.2.3 Step 2 
+Enter the number of the stack you want to retransmit at the Select Stack Document for 
+Retransmission: prompt.  If you do not know the stack number, enter three question 
+marks at the prompt and the system will list the available stack numbers. 
+ 
+Select Stack Document for Retransmission: ??? 
+  
+CHOOSE FROM: 
+   AO-688AO0430   
+   AO-688AO58     
+   AO-688AO77     
+   AT-6880123456  
+   AT-6881233214  
+   AT-6889090123  
+Stack Menu 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+58 
+   AT-688FC0085   
+   AT-688FC0090   
+   AT-688FC0093   
+   AT-688FC0102   
+   AT-688FC0125   
+   AT-688FC0130   
+   AT-688FC0149   
+   AT-688FC0152   
+   AT-688FC0156   
+   AV-688AV63     
+   AV-688AV94     
+   CO-688CO0429   
+   CO-688CO60     
+   CO-688CO78     
+   CR-688000001   
+                 
+Select Stack Document for Retransmission: AO-688AO0430     
+ 
+7.2.4 Step 3 
+The system will display the current status of the stack you selected and ask if you want to 
+retransmit the stack if it has already been transmitted.  If you transmit the stack, the 
+system will change the status of the stack to "Transmitted."  Enter another stack number 
+at the Select Stack Document for Retransmission: prompt or press the Enter key to return 
+to the Stack Menu. 
+ 
+     Current Status: TRANSMITTED 
+ 
+ 
+Do you want to retransmit this document now? NO// Y  (YES)...... 
+     NEW Status: TRANSMITTED 
+ 
+Select Stack Document for Retransmission:  
+ 
+ 
+          Retransmit Stack File Document 
+          Stack Status Report 
+ 
+Select Stack Menu Option:  
+7.3 Stack Status Report 
+7.3.1 Introduction 
+This option will allow you to create a report of all FMS code sheets for a transmission 
+status that you define, e.g., all transmitted code sheets, all code sheets rejected by FMS, 
+etc. 
+7.3.2 Step 1 
+Select Stack Menu from the Generic Code Sheet Menu. 
+Select Stack Status Report from the Stack Menu. 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+Stack Menu 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+59
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: Stack Menu 
+ 
+ 
+          Retransmit Stack File Document 
+          Stack Status Report 
+ 
+Select Stack Menu Option: Stack Status Report 
+ 
+7.3.3 Step 2 
+Enter the first and last transaction code you want the system to list on the report.  Enter 
+the date of the oldest document you want the system to list on the report.  The system will 
+list several stack features you can choose to list on the report.  You may choose as many 
+as you like.  For example, enter "A" at the Select Status(s) to display: prompt to create a 
+report that lists all stacks accepted by FMS on or after the date you specified. 
+ 
+START with TRANSACTION CODE: FIRST//  
+  END with TRANSACTION CODE: LAST//  
+ 
+Print documents created after DATE: JAN 1,1993//T-2  (AUG 22, 1994) 
+ 
+ 
+     Select one of the following: 
+ 
+          Q         QUEUED FOR TRANSMISSION 
+          M         MARKED FOR IMMEDIATE TRANSMISSION BY EVENT 
+          T         TRANSMITTED 
+          E         ERROR DURING TRANSMISSION 
+          A         ACCEPTED BY FMS 
+          R         REJECTED BY FMS 
+          N         TRANSMITTED WITH NO CONFIRMATION MESSAGE RETURNED 
+ 
+Select STATUS(s) to display: TRANSMITTED 
+ 
+     Select one of the following: 
+ 
+          Q         QUEUED FOR TRANSMISSION 
+          M         MARKED FOR IMMEDIATE TRANSMISSION BY EVENT 
+          T         TRANSMITTED 
+          E         ERROR DURING TRANSMISSION 
+          A         ACCEPTED BY FMS 
+          R         REJECTED BY FMS 
+          N         TRANSMITTED WITH NO CONFIRMATION MESSAGE RETURNED 
+ 
+Select STATUS(s) to display:  
+ 
+SELECTED STATUS(s) to display: 
+          ERROR DURING TRANSMISSION 
+ 
+7.3.4 Step 3 
+Answer Y at the Print Description of Event?: prompt to print a description of the process 
+that generated each code sheet.  Answer Y at the Print Document Code Sheets?: prompt 
+to print the actual code for each code sheet.   
+Stack Menu 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+60 
+The system will create a "GCS Stack File Status Report," listing each code sheet of the 
+type and time range that you specified.  After listing all of the code sheets, the system 
+will list the number of code sheets in the report and return to the Stack Menu. 
+ 
+Print DESCRIPTION of event? NO// Y  (YES) 
+Print DOCUMENT code sheets? NO// Y  (YES) 
+ 
+DEVICE: HOME//   LAT 
+ 
+ 
+<*> please wait <*> 
+ 
+GCS STACK FILE STATUS REPORT               AUG 24, 1994@13:27:13  PAGE 1 
+TC-TRAN CODE  -BATNUM   DATE@TIME CREATED     STATUS 
+-------------------------------------------------------------------------------- 
+VR-68894080035          AUG 22, 1994@11:09:53 TRANSMITTED 
+   DESCR: Vendor Request 
+   MAIL MSGS: 58545     CONFIRMATION:  
+*** ACTUAL CODE SHEET: 
+CTL^IFC^FMS^688^VRQ^  ^    ^      ^68894080035^19940822^110953^001^001^001^~ 
+VRQ^940822^110951^688^10^342905756^^BILLY BOB'S HARDWARE^2323 BOONIE DRIVE^SUITE 
+ .05^BOONIEVILLE^AR^49499^^N^C^N^A^~ 
+*** END OF CODE SHEET *** 
+VR-68894080036          AUG 22, 1994@14:06:07 TRANSMITTED 
+   DESCR: Vendor Request 
+   MAIL MSGS: 58557     CONFIRMATION:  
+*** ACTUAL CODE SHEET: 
+CTL^IFC^FMS^688^VRQ^  ^    ^      ^68894080036^19940822^140607^001^001^001^~ 
+VRQ^940822^140607^688^4^0909^^GENERAL SERVICES ADMINISTRATIO^ACCOUNTS RECEIVABLE 
+ DEP^12345 HERE STREET^WASHINGTON^DC^20045^^N^F^N^A^~ 
+*** END OF CODE SHEET *** 
+MO-688A41002  -688613   AUG 23, 1994@09:13:38 TRANSMITTED 
+   DESCR: Purchase Order Amendment Obligation 
+   MAIL MSGS: 58619     CONFIRMATION:  
+*** ACTUAL CODE SHEET: 
+Press RETURN to continue, '^' to exit: 
+ 
+GCS STACK FILE STATUS REPORT               AUG 24, 1994@13:27:13  PAGE 2 
+TC-TRAN CODE  -BATNUM   DATE@TIME CREATED     STATUS 
+-------------------------------------------------------------------------------- 
+CTL^IFC^FMS^688^DOC^MO^10  ^688613^688A41002  ^19940823^091338^001^001^001^~ 
+BAT^~MO0^688613^~ 
+DOC^~MO1^MO^688A41002  ^10  ^Y^~ 
+MO2^94^08^23^^^^^^M^~ 
+MO3^^^^^^^01^^^^^^^^^^^^^^^^^^^81.12^~ 
+LIN^~MOA^001^^^^94^^0160A1^688^^800100^00^AA3018^2650^^^^81.12^I^~ 
+*** END OF CODE SHEET *** 
+MO-688A40111            AUG 23, 1994@10:06:02 TRANSMITTED 
+   DESCR: Purchase Order Obligation 
+   MAIL MSGS: 58627     CONFIRMATION:  
+*** ACTUAL CODE SHEET: 
+CTL^IFC^FMS^688^DOC^MO^10  ^      ^688A40111  ^19940823^100602^001^001^001^~ 
+DOC^~MO1^MO^688A40111  ^10  ^Y^~ 
+MO2^94^01^06^^^^^^E^^^^123456789^^^^^^^^^^D^~ 
+MO3^^^^^^^01^94^01^07^^^^^^^^^^^^^^^^25.08^~ 
+LIN^~MOA^00^^^^^^^^^^^AA3018^2610^^^^25.08^I^~ 
+LIN^~MOA^00^^^^^^^^^^^AA3018^0^^^^0.00^I^~ 
+*** END OF CODE SHEET *** 
+Press RETURN to continue, '^' to exit: 
+ 
+GCS STACK FILE STATUS REPORT               AUG 24, 1994@13:27:13  PAGE 3 
+TC-TRAN CODE  -BATNUM   DATE@TIME CREATED     STATUS 
+-------------------------------------------------------------------------------- 
+Stack Menu 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+61
+VR-68894080037          AUG 23, 1994@11:16:39 TRANSMITTED 
+   DESCR: Vendor Request 
+   MAIL MSGS: 58631     CONFIRMATION:  
+*** ACTUAL CODE SHEET: 
+CTL^IFC^FMS^688^VRQ^  ^    ^      ^68894080037^19940823^111639^001^001^001^~ 
+VRQ^940823^111638^688^3^415685124^^JOHNSON^9820 MAIN STREET^SUITE 600^FAIRFAX^VA 
+^22032^S^Y^E^N^A^~ 
+*** END OF CODE SHEET *** 
+MO-688A40035            AUG 23, 1994@12:16:54 TRANSMITTED 
+   DESCR: Purchase Order Obligation 
+   MAIL MSGS: 58633     CONFIRMATION:  
+*** ACTUAL CODE SHEET: 
+CTL^IFC^FMS^688^DOC^MO^10  ^      ^688A40035  ^19940823^121654^001^001^001^~ 
+DOC^~MO1^MO^688A40035  ^10  ^Y^~ 
+MO2^93^12^13^^^^^^E^^^^123456789^^^^^^^^^^D^~ 
+MO3^^^^^^^01^94^01^23^^^^^^^^^^^^^^^^480.00^~ 
+LIN^~MOA^001^^^^^^^^^^^AA3018^2510^^^^480.00^I^~ 
+*** END OF CODE SHEET *** 
+Press RETURN to continue, '^' to exit: 
+ 
+GCS STACK FILE STATUS REPORT               AUG 24, 1994@13:27:13  PAGE 4 
+TC-TRAN CODE  -BATNUM   DATE@TIME CREATED     STATUS 
+-------------------------------------------------------------------------------- 
+VR-68894080038          AUG 23, 1994@15:15:06 TRANSMITTED 
+   DESCR: Vendor Request 
+   MAIL MSGS: 58647     CONFIRMATION:  
+*** ACTUAL CODE SHEET: 
+CTL^IFC^FMS^688^VRQ^  ^    ^      ^68894080038^19940823^151506^001^001^001^~ 
+VRQ^940823^151506^688^45^778342221^^SAM'S SUPPLY STORE^8668 FOGGY LANE^^RAINY^LA 
+^87777^T^Y^C^N^A^~ 
+*** END OF CODE SHEET *** 
+VR-68894080039          AUG 24, 1994@09:23:35 TRANSMITTED 
+   DESCR: Vendor Request 
+   MAIL MSGS: 58715     CONFIRMATION:  
+*** ACTUAL CODE SHEET: 
+CTL^IFC^FMS^688^VRQ^  ^    ^      ^68894080039^19940824^092335^001^001^001^~ 
+VRQ^940824^092335^688^2549^234837878^^GENERAL SERVICES ADMINISTRATIO^999 ADD1^^W 
+ASHINGTON^DC^20045^^N^C^N^A^~ 
+*** END OF CODE SHEET *** 
+ 
+          TOTAL CODE SHEETS: 8 
+ 
+ 
+          Retransmit Stack File Document 
+          Stack Status Report 
+ 
+Select Stack Menu Option:  
+ 
+Stack Menu 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+62 
+ 
+ 
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+63 
+8 chapter 8  Transmit Code Sheets 
+8.1 Introduction 
+ 
+The 'Transmit Code Sheets' option transmits a batch (group) of code sheets to a central 
+computer for processing. 
+ 
+Note: Do not attempt to use this option to transmit FMS code sheets.  FMS code 
+sheets are transmitted from a special file called a stack file as they are 
+created.  If you want to retransmit an FMS code sheet or determine the 
+status of a code sheet, use the options in the Stack Menu. 
+8.2 Step 1 
+Select Transmit Code Sheets from the Generic Code Sheet Menu.  Enter a station 
+number. 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: Transmit Code Sheets 
+ 
+Select STATION NUMBER (^ TO EXIT): WASHINGTON,DC//       DISTRICT OF COLUMBIA    688   
+Station: WASHINGTON,DC  (#688) 
+8.3 Step 2 
+Enter the batch type at the Select Generic Code Sheet Batch Type Name: prompt for the 
+type of code sheet you want to create.  If you do not know the batch type, enter three 
+question marks at the prompt and the system will list the available batch types.  The 
+system will display the Internet address that will receive the batch transmission and the 
+Mailman message number, and will return to the Generic Code Sheet Menu. 
+ 
+Select GENERIC CODE SHEET BATCH TYPE NAME: Fee Basis - IFCAP   
+Batch Type: FEE BASIS - IFCAP 
+ 
+Select BATCH NUMBER: ??? 
+  
+CHOOSE FROM: 
+   688-FEN-96-104 
+   688-FEN-101-104 
+   688-FEN-92-103 
+   688-FEN-92-99 
+   688-FEN-94-104 
+     
+Select BATCH NUMBER: 688-FEN-94-104   
+ 
+Transmit Code Sheets 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+64 
+Transmission will be to the following: 
+     XXX@Q-FEE.VA.GOV 
+ 
+ARE YOU READY TO TRANSMIT THE CODE SHEETS?: NO//   Y  (YES) 
+ 
+MESSAGE NUMBER: ..58736 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: 
+8.4 Step 3 
+The system will now transmit the batch.  To see the batch transmission message, go to 
+the Mailman Menu.  Select Read a Message at the Mailman Menu prompt.  Read your IN 
+mail basket.  Enter the message number that the system assigned to the batch 
+transmission at the IN Basket Message: prompt. 
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: ^Mailman Menu 
+ 
+VA MailMan 7.1 service for WHITE.BASIL@IFA.FORUM.VA.GOV 
+You last used MailMan: 24 Aug 94 13:43 
+You have 24 new messages. 
+ 
+   AIS    Assume the Identity of SHARED,MAIL 
+   AML    Assume another identity as a surrogate 
+   HML    MailMan Help ... 
+   NML    New messages and responses 
+   OML    Other MailMan Functions ... 
+   RML    Read a message 
+   SML    Send a Message 
+ 
+Select MailMan Menu Option: R  Read a message 
+Read MAIL BASKET: IN//  
+LAST Message Number: 27   Messages in BASKET: 26 (24 NEW) 
+ 
+IN Basket Message: 2// 58736 
+ 
+Subj: GECS FEE BASIS - IFCAP # 688-FEN-94-104 (MSG 1 OF 1)  [#58736]  
+24 Aug 94 13:42  3 Lines 
+From: WHITE,BASIL  in 'IN' basket.   Page 1 
+------------------------------------------------------------------------------ 
+FEN.688.999.01.082494.060104.$ 
+FEN.688.994.01.082494.ER1341..$ 
+FEN.688.994.01.082494.T43433..$ 
+ 
+ 
+Select MESSAGE Action: DELETE (from IN basket)//  
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+65 
+9 chapter archiving/purging data 
+9.1 Introduction 
+This chapter explains how to use the Purge Transmission Records/Code Sheets option 
+under the Maintenance Menu to purge old code sheets and transmitted code sheets. 
+9.2 Step 1 
+Select  from the . 
+Select  from the . 
+Enter a station number.   
+ 
+          Batch Code Sheets 
+          Create a Code Sheet 
+          Keypunch a Code Sheet 
+          Maintenance Menu ... 
+          Reports Menu ... 
+          Stack Menu ... 
+          Transmit Code Sheets 
+ 
+Select Generic Code Sheet Menu Option: Maintenance Menu 
+ 
+ 
+          Batch Edit 
+          Code Sheet Edit 
+          Delete Code Sheet 
+          Initialize a Code Sheet Type 
+          Mark Batch for Retransmission 
+          Mark Code Sheet for Rebatching 
+          Purge Transmission Records/Code Sheets 
+          Review Code Sheet 
+ 
+Select Maintenance Menu Option: Purge Transmission Records/Code Sheets 
+Select STATION NUMBER (^ TO EXIT): WASHINGTON,DC//       DISTRICT OF COLUMBIA  
+ 688   
+Station: WASHINGTON,DC  (#688) 
+9.3 Step 2 
+The system will ask you if you want to delete all code sheets in the system, or just the 
+code sheets of a particular type.  If you answer N at the prompt, enter the code sheet type 
+that you want to delete at the Select Generic Code Sheet Batch Type Name: prompt, or 
+enter three question marks to see a list of available code sheet types. 
+ 
+DO YOU WANT TO DELETE ALL TYPES OF CODE SHEETS? NO//   (NO) 
+ 
+Select GENERIC CODE SHEET BATCH TYPE NAME: ??? 
+  
+CHOOSE FROM: 
+   ACCOUNTS RECEIVABLE 
+   CONSULTING/ATTENDING 
+   DIETETICS 
+Archiving/Purging Data 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+66 
+   FEE BASIS - IFCAP 
+   HOSPITAL BASED HOME CARE- GECO 
+   MAS 
+   MEDICAL MEDIA 
+   NURSING 
+   PHARMACY      
+   RADIOLOGY 
+   SOCIAL WORK 
+   SWS (FOR VAF10-7946) - GECO 
+   WAGE SURVEY - GECO 
+Select GENERIC CODE SHEET BATCH TYPE NAME: MAS   
+Batch Type: MAS 
+9.4 Step 3 
+Enter the number of days previous to todays date that you want to retain code sheets.  For 
+example, if you enter 30 at this prompt, the system will delete all code sheets older than 
+30 days.  Enter an output device. 
+ 
+Enter the number of days you wish to retain code sheets:  (0-999999): 365//  
+ 
+I will now delete all code sheets and associated records which were 
+created before DEC 12, 1993 for station 688. 
+OK to continue? YES//   (YES) 
+ 
+DEVICE: HOME// ;;9999  LAT 
+ 
+ 
+>> please wait << 
+9.5 Step 4 
+The system will print or display the "Code Sheet/Transmission Record Deletion 
+Transcript."  This transcript will list the station, the batch types being deleted, and the 
+user name.  The system will list the identification numbers of the batches it deletes, 
+followed by the code sheets that it deletes.  After rebuilding the stack file, the system will 
+return to the Maintenance Menu. 
+ 
+CODE SHEET/TRANSMISSION RECORD DELETION TRANSCRIPT DEC 12, 1994@14:33:19  PAGE 1 
+-------------------------------------------------------------------------------- 
+   STATION: 688 
+BATCH TYPE: MAS 
+      USER: WHITE,BASIL 
+ 
+Deleting all code sheets created or transmitted before: DEC 11, 1994 
+ 
+deleting batches and code sheets contained in batches: 
+     688-FEN-94-3  --deleted, cleaning up associated code sheets: 
+                    2-94      7-94      9-94 
+     688-FEN-94-8  --deleted, cleaning up associated code sheets: 
+                    6-94 
+Cleaning up code sheets: 
+                  183-94    207-94    220-94    505-94    506-94      2-95 
+                   13-95     15-95     16-95     18-95     20-95     21-95 
+                   22-95     23-95     24-95     26-95     27-95     28-95 
+ 
+Finished - deleted 438 code sheets. 
+cleaning up stack file: 
+               
+ 
+Archiving/Purging Data 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+67
+          Batch Edit 
+          Code Sheet Edit 
+          Delete Code Sheet 
+          Initialize a Code Sheet Type 
+          Mark Batch for Retransmission 
+          Mark Code Sheet for Rebatching 
+          Purge Transmission Records/Code Sheets 
+          Review Code Sheet 
+ 
+Select Maintenance Menu Option:  
+ 
+Archiving/Purging Data 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+68 
+ 
+ 
+ 
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+69 
+10 chapter menu listing 
+10.1  Introduction 
+This chapter lists each menu option assigned the standard menu configuration for the 
+Generic Code Sheet Menu.  Main menu options are flush left.  Subordinate options are 
+spaced to the right.  For example, if you wanted to use the “Code Sheet Edit” option, you 
+would select “Maintenance Menu”, then “Code Sheet Edit”. 
+10.2  Menu Outline 
+ 
+    Generic Code Sheet Menu 
+        Batch Code Sheets 
+        Create a Code Sheet 
+        Keypunch a Code Sheet 
+        Maintenance Menu 
+            Batch Edit 
+            Code Sheet Edit 
+            Delete Code Sheet 
+            Initialize a Code Sheet Type 
+            Mark Batch for Retransmission 
+            Mark Code Sheet for Rebatching 
+            Purge Transmission Records/Code Sheets 
+            Review Code Sheet 
+        Reports Menu 
+            Batches Waiting to be Transmitted 
+            Code Sheets Ready for Batching 
+            Status of all Batches 
+        Stack Menu 
+            Retransmit Stack File Document 
+            Stack Status Report 
+            User Comments 
+        Transmit Code Sheets 
+ 
+ 
+Menu Listing 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+70 
+ 
+ 
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+71 
+11 chapter 11  technical overview 
+11.1  Introduction 
+This chapter explains how the Generic Code Sheet system performs its functions.  The 
+section below lists the major data components of the Generic Code Sheet System and 
+how they interact. 
+11.2  Data Components 
+11.2.1 The Code Sheet File 
+The Generic Code Sheet system uses a code sheet file, 2100 GENERIC CODE SHEET, 
+to define the data fields for applications that use the Generic Code Sheet system.  The 
+Generic Code Sheet system uses VA FileMan to manage data entry and code sheet file 
+retrieval.  
+11.2.2 The Batching Routine 
+The Generic Code Sheet system uses a routine to assign code sheets to a batch and 
+prepare batches for transmission by extracting the data elements from the physical fields 
+within the code sheet.  This routine records and reformats the data elements into the 
+format required by the receiving system. 
+11.2.3 The Batch Transmitting Routine 
+The Generic Code Sheet system uses a routine to transmit batches of code sheets.  This 
+routine copies the code sheet data into a VA Mailman message addressed to the network 
+queue.  
+11.2.4 The Code Sheet Management Subsystem 
+The Generic Code Sheet system uses a subsystem to record the generation, batch 
+assignment, and transmission history of all code sheets.  
+11.3  Related Documentation 
+This document is one of a suite of documents that refer to the Generic Code Sheet system 
+and its superordinate systems.  To understand the structure and function of the Generic 
+Code Sheet system, read the Generic Code Sheet User Manual, the Generic Code Sheet 
+Technical Manual, the VA MailMan Technical Manual, and the VA FileMan Manual. 
+Technical Overview 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+72 
+11.4   Functional Description 
+ 
+The Generic Code Sheet System uses file 2100 GENERIC CODE SHEET to store the 
+fields and the actual code sheets.  Fields ranging from .001 to 51 are reserved for system 
+use.  Fields numbered from 52 to 99 are reserved fields used for multiple types of code 
+sheets (generic fields, i.e., STATION NUMBER, etc.).  A request should be made to the 
+GECS REQUEST mail group on FORUM for approval to create fields in this range.  
+Fields for specific packages (i.e., Dental Service, etc.) should use fields in  the number 
+range dependent on the responsible ISC.  For example, the global node used to store 
+Dental Code Sheets for the Washington ISC would be DENTDAS2, where DENT is the 
+namespace, DAS is the system identifier, and the Washington ISC code is 2.  The entire 
+global node would be '^GECS(2100,DA,"DENTDAS2",'.  If all the fields cannot be 
+placed on this node, use the same node name concatenated with a character of the 
+alphabet starting with the letter 'A'.  For example: DENTDAS2A, DENTDAS2B, 
+DENTDAS2C, etc.  The following table indicates the available field number for each 
+ISC: 
+ 
+Albany ISC       
+fields 100 to 199   and   fields 1000 to 1999 
+Washington ISC 
+fields 200 to 299   and   fields 2000 to 2999 
+Birmingham ISC 
+fields 300 to 399   and   fields 3000 to 3999 
+Chicago ISC     
+fields 400 to 499   and   fields 4000 to 4999 
+Salt Lake City ISC 
+fields 500 to 599   and   fields 5000 to 5999 
+San Francisco ISC 
+fields 600 to 699   and   fields 6000 to 6999 
+Dallas ISC 
+ 
+fields 700 to 799   and   fields 7000 to 7999 
+ 
+Specific input templates pertaining to a package should be set up in the following format: 
+package namespace, SPACE, batch type followed by the ISC code number, SPACE, a 
+description.  For example, the Dental Service Code sheets input template would be 
+defined by 'DENT DAS2 01 TRANSACTION TYPE CODE SHEETS' where DENT is 
+the namespace for the Dental Package, DAS is the system identifier, 2 is the Washington 
+ISC code, and 01 TRANSACTION TYPE CODE SHEETS is the description. 
+11.5   Namespace Conventions 
+The namespace used for all routines is 'GECS', with file numbers ranging from 2100 to 
+2101.7. 
+Technical Overview 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+ 
+73
+11.6  Key Variables 
+Key variables for the package are as follows: 
+ 
+ 
+GECS(, GECSA(, GECSC(, GECSSYS 
+ 
+11.7   Security Keys 
+This version of the Generic Code Sheet Package uses the security key GECS SETUP to 
+determine if a user is allowed to access the 'Initialize a Code Sheet Type' option. 
+11.8   Globals 
+All data is stored in the GECS global.  Files are extracted from this global as follows: 
+ 
+2100 Generic Code Sheet 
+2101.1 Generic Code Sheet Batch Type 
+2101.2 Generic Code Sheet Transaction Type/Segment 
+2101.3 Generic Code Sheet Transmission Record 
+2101.4 Generic Code Sheet Template Maps 
+2101.5 Generic Code Sheet Counter 
+2101.6 Generic Code Sheet Lock 
+2101.7 Generic Code Sheet Site 
+ 
+It is recommended that you maintain a journal of the ^GECS global. 
+11.9   Routines 
+Virtually all the routines in the Generic Code Sheet Package are designed to be called by 
+other packages.  Specific entry points are described in the User Manual.  Routines that 
+make calls to other packages are as follows: 
+ 
+GECSA, GECSBATC GECSE, GECSE1, GECSETUP, GECSPURG, GECSSITE, 
+GECST, GECSTRAN, GECSU, GECSX1, GECSX5 
+ 
+Technical Overview 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+74 
+11.10  Resource Requirements 
+There are nineteen routines in the system, occupying 40899 bytes (40.90 DSM blocks).  
+Space required for data will vary with the size and number of code sheets created by a 
+specific package.  No special equipment is required to run the Generic Code Sheet 
+Package. 
+11.11  Internal/External Relations 
+ 
+11.11.1 
+Internal Relations 
+All options are independent of one another and can stand alone. 
+11.11.2 
+External Relations 
+The Generic Code Sheet Package requires the following versions (or later versions) of 
+the listed DHCP packages: 
+ 
+ 
+A.  Kernel Version 5.01 
+ 
+B.  VA FileMan Version 17.32 
+ 
+C.  MailMan Version 3.2 
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+75 
+12 chapter   development issues 
+12.1   Introduction 
+This chapter explains how to define a code sheet.  It is intended for developers. 
+12.2   Step 1 
+Prepare the fields for the code sheet by using the 'Modify File Attributes' option of 
+FileMan.  The fields will go into File 2100, Generic Code Sheet.  Each field will 
+correspond to a data block on the actual code sheet.  Use filed numbers and global nodes 
+assigned to the application and ISC.  Also, use any necessary output transforms for 
+massaging the data to fit the data block of the actual code sheet. All output transforms 
+MUST contain a check for data in the variable GECSOT in order for the input template 
+maps to build correctly. For example: I $D(GECSOT) S Y=+Y.  Here is an example of 
+setting up the fields associated with the following dental code sheet: 
+ 
+                   1         2         3 
+column #  123456789012345678901234567890 
+data      DENT460061594JONES,RICHARD 
+ 
+where columns 1-4 always is the type DENT  
+columns 5-7 is the station number  
+columns 8-13 is the date in the form MMDDYY  
+columns 14-26 is the patient name (last, first) 
+ 
+Enter the following information at the prompts: 
+ 
+Select OPTION: 4 MODIFY FILE ATTRIBUTES 
+MODIFY WHAT FILE: GENERIC CODE SHEET// 2100 GENERIC CODE SHEET 
+ 
+Select FIELD: 2000 TYPE 
+ARE YOU ADDING A NEW FIELD (THE 191ST)? Y (YES) 
+LABEL: TYPE 
+FIELD NUMBER: 2000// 
+ 
+DATA TYPE OF TYPE: FREE TEXT 
+MINIMUM LENGTH: 4 
+MAXIMUM LENGTH: 4 
+(OPTIONAL) PATTERN MATCH (IN ('X'): 
+WILL TYPE FIELD BE MULTIPLE? NO// (NO) 
+ 
+SUBSCRIPT: 0// DENTDSA2 
+^-PIECE POSITION: 1// 
+IS TYPE ENTRY MANDATORY (Y/N): NO// 
+. . . . 
+'HELP'-PROMPT: ANSWER MUST BE 4 CHARACTERS IN LENGTH  
+Replace 
+XECUTABLE 'HELP: 
+Select FIELD: 2001 DATE 
+ARE YOU ADDING A NEW FIELD (THE 192ND)? Y (YES) 
+Development Issues 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+76 
+LABEL: DATE 
+FIELD NUMBER: 2001// 
+ 
+DATA TYPE OF DATE: FREE TEXT 
+MINIMUM LENGTH: 6 
+MAXIMUM LENGTH: 6 
+(OPTIONAL) PATTERN MATCH (IN 'X'): 
+WILL DATE FIELD BE MULTIPLE? NO// (NO) 
+ 
+SUBSCRIPT: 0// DENTDSA2 
+^-PIECE POSITION: 2// 
+IS DATE ENTRY MANDATORY (Y/N): NO// 
+ 
+. . . . 
+'HELP'-PROMPT: ANSWER MUST BE 6 CHARACTERS IN LENGTH  
+Replace  
+XECUTABLE 'HELP': 
+ 
+Select FIELD: 2002 PATIENT NAME 
+ARE YOU ADDING A NEW FIELD (THE 193RD)? Y (YES) 
+LABEL: PATIENT NAME 
+FIELD NUMBER: 2002// 
+ 
+DATA TYPE OF PATIENT NAME: FREE TEXT 
+MINIMUM LENGTH: 1 
+MAXIMUM LENGTH: 13 
+(OPTIONAL) PATTERN MATCH (IN 'X'): 
+WILL PATIENT NAME FIELD BE MULTIPLE? NO// (NO) 
+ 
+SUBSCRIPI: 0// DENTDSA2 
+^-PIECE PosmoN: 311 
+IS PATIENT NAME ENTRY MANDATORY (Y/N): NO// ....  
+'HELP'-PROMPT: ANSWER MUST BE 1-13 CHARACTERS IN LENGTH  
+Replace  
+XECUTABLE 'HELP': 
+ 
+Next, create an output transform on the PATIENT NAME field: 
+ 
+Select OPTION: 6 UTILITY FUNCTIONS 
+ 
+MODIFY WHAT FILE: GENERIC CODE SHEET// 2100 GENERIC CODE SHEET 
+ 
+Select UTILITY OPTION: OUTPUT TRANSFORM 
+Select FIELD: 2003 PATIENT NAME 
+PATIENT NAME OUTPUT TRANSFORM: I $D(GECSOT) S Y=Y_$E("[13 SPACES HERE]",$L(Y)+1,13) 
+ 
+12.3   Step 2 - Create The Input Template 
+Create an input template for the code sheet using the 'Enter or Edit File Entries' option. 
+The fields in the input template correspond to the fields set up in step 1 above and must 
+conform to the naming convention described in the Technical Overview Section of the 
+Technical Manual. They should appear in the order in which they appear in the actual 
+code sheet. If the input template is modified after the template map is built. the template 
+map should be rebuilt (use the option 'Build Template Maps' in the Generic Code Sheet 
+System). 
+ 
+Development Issues 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+77
+Select OPTION: 1 ENTER OR EDIT FILE ENTRIES 
+ 
+INPUT TO WHAT FILE: GENERIC CODE SHEET// 2100 GENERIC CODE SHEET  
+EDIT WHICH FIELD: ALL// 2000///^S X="DENT"  
+THEN EDIT FIELD: 5///^S X=GECS("SITE")  
+THEN EDIT FIELD: 2001///^S X=DT 
+THEN EDIT FIELD: 2002 PATIENT NAME  
+STORE THESE FIELDS IN TEMPLATE: DENT DSA2 EXAMPLE 
+ARE YOU ADDING 'DENT DSA2 EXAMPLE' AS A NEW INPUT TEMPLATE? Y (YES) 
+12.4   Step 3 - Add Options to the Options File 
+Add the options for your package to the OPTION File (19) that will be used for the 
+generation and transmission of code sheets for your package.  Use VA FileMan and enter 
+the options in your assigned package namespace.  Make the option type either MENU or 
+ACTION.  For action options, you MUST set the variable GECSSYS to the selectable 
+batch type.  Make a call for the option to the appropriate label in the GECSCALL 
+routine. 
+ 
+Development Issues 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+78 
+ 
+ 
+ 
+September 2005 
+Generic Code Sheet 2.0 User's Guide 
+79 
+13 chapter  routine flow diagram 
+GECSTRANS
+GECSLIST
+GECSX5
+GECSYN
+GECSOPT
+GECSOPT1
+GECSU
+GECSBATC
+GECSTATS
+GECSE
+GECST
+GECSX1
+GECSSE|1
+GECSSITE
+GECSPURG
+GECSA
+GECSETUP
+GECSENTR
+GECSX
+GECSCALL INVOKES: GECSA, GECSBATC, GECSE, GECSE1, 
+                     GECSLIST, GECSPURG, GECSTRANS 
+Development Issues 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+80 
+ 
+ 
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+81 
+14 chapter legal requirements 
+At present, there are no specific legal requirements pertaining to the Generic Code Sheet 
+Package. 
+ 
+ 
+Legal Requirements 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+82 
+ 
+ 
+ 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+83 
+15 GLOSSARY 
+Batch Priority 
+The batch priority indicates the priority of transmission 
+of the code sheet within the patch.  A code sheet with a 
+batch priority of 3 will be transmitted (in the same batch) 
+before a code sheet with a batch priority of 4. 
+Batch Type 
+The batch type is set in which the code sheet definitions 
+are grouped.  For example, the code sheets for Medicine 
+are all grouped under the batch type ‘MEDICINE’.  
+Security prevents unauthorized users from accessing 
+code sheets outside of their selectable batch type. 
+Batching 
+Batching is the method for grouping a set of code sheets 
+into a set.  The group of code sheets can then be 
+transmitted within the same message.  Batching is 
+usually done by ‘batch type’ (service) or by ‘system 
+identifier’ (AMIS). 
+Configuration 
+A particular selection of hardware and software 
+resources that are tailored to provide optimum usage of 
+ADP systems.  This includes the type of CPU, type and 
+number of Disk Drives, type and number of terminals, 
+amount of main storage and so on. 
+Control Characters 
+The result of pressing the CTRL key and a letter key 
+simultaneously. 
+Data 
+The information (facts, numbers, and symbols) entered 
+into the system for processing and/or storage.   
+Device 
+Any part of the computer system other than the central 
+processing unit, memory, or their associated structures.  
+A device can be a physical piece of equipment, such as a 
+terminal or a line printer, or a logical piece of equipment. 
+DHCP 
+The Decentralized Hospital Computer Program.   
+FileManager 
+Also known as FileMan.  A set of MUMPS routines used 
+to enter, maintain, access and manipulate related data in 
+a file.  It is the basic system used by all VA applications 
+in creating all the files. 
+Glossary 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+84 
+ 
+Global 
+Either a simple global variable or global array stored on a 
+disk. See Global Variable. 
+Global Variable 
+A variable which is stored on disk, usually as part of a 
+global array.   
+MailMan 
+An electronic mail, teleconferencing, and networking 
+system which is an integral part of the Kernel. 
+MUMPS 
+Massachusetts General Hospital Utility 
+Multiprogramming System.  Also known as M.  This is 
+the computer language used by all VA DHCP 
+applications. 
+Namespace 
+A naming convention followed in the VA to identify 
+various applications and to avoid duplication.  The 
+namespace is used as the prefix for all routines and 
+globals used by the application. 
+Package 
+A set of MUMPS routines, files, documentation and 
+installation procedures that support a specific function 
+within DHCP.   
+Purging 
+Purging is the process of removing old code sheets and 
+batches from the system.  This only removes the data 
+associated with a code sheet or batch number and NOT 
+the actual definition of the code sheets or batches. 
+Routine 
+A collection of lines, saved, loaded, called, or overlaid as 
+a single unit.  A set of computer instructions or symbolic 
+statements combined to perform a task. 
+Security Key 
+Functions very much like your house or office key.  
+Certain options may be locked with a key and that key 
+assigned only to authorized users.   
+Site Configurable 
+A term used to refer to features in the system that can be 
+tailored according to the needs of particular sites.  
+System Identifier 
+The system identifier is a three character code that 
+identifies the code sheet type.  For example, AMS 
+represents Amis code sheets, NSY represents staffing 
+management code sheets, WGE represents wage survey 
+code sheets, etc. 
+Glossary 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+85
+ 
+Transaction Type/Segment The transaction type/segment is the name of the actual 
+code sheet.  For example, 223 would be the MAS AMIS 
+223 code sheet, etc. 
+Transmission 
+Transmission is the process of electronically sending a 
+batch of code sheets to a specified location through the 
+VA network mail system. 
+ 
+ 
+Glossary 
+ 
+Generic Code Sheet 2.0 User's Guide 
+March 1995 
+86 
+ 
+ 
+16 index 
+AMIS, 4, 12, 13, 17, 19 
+Batch Code Sheets, 43 
+Batch Edit, 45 
+Batches Waiting to be Transmitted, 55 
+Budget Object Code, 35 
+Budget Object Code (BOC), 35 
+Code Sheet Edit, 47, 71 
+Code Sheets Ready for Batching, 56 
+Control Point, 33 
+Cost Center, 23, 28, 35 
+Create a Code Sheet, 3 
+FMS, 33, 35, 36, 59, 60, 61, 65 
+Keypunch a Code Sheet, 39 
+Mark Batch for Retransmission, 50 
+Numbering system, 1 
+PAID, 31 
+Paragraph numbering, 1 
+Purge Transmission Records/Code 
+Sheets, 67 
+Retransmit Stack File Document, 59 
+Segment Modifier, 4 
+Stack Status Report, 60 
+Status of all Batches, 57 
+Transmit Code Sheets, 65 
+Glossary 
+March 1995 
+Generic Code Sheet 2.0 User's Guide 
+87
+ 
+ 
+ 

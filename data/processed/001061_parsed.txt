@@ -1,0 +1,655 @@
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model For Proxy-Protected
+Anonymous Proxy Cryptography
+Guoyan Zhang
+Key Lab of Cryptographic Technology and Information Security
+Ministry of Education, School of Mathematics, Shandong University, P.R.China
+2008.05.14
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+1
+Introduction
+2
+A General Model for Proxy Cryptography and Attack Model
+A Generic Model
+Attack Model
+3
+Two Concrete Examples
+New Proxy-Protected Anonymous Proxy Decryption
+Scheme
+New Proxy-Protected Anonymous Proxy Signature
+Scheme
+4
+Acknowledgement
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+Proxy Signature
+In 1996, Mambo et al. ﬁrst invented the notion of proxy
+signature [1], in which the original signer can delegate his
+signature power to any reliable person called proxy signer
+when he is on vacation.
+Lee et al. [2] drew a conclusion in their paper that a secure
+proxy signature scheme must satisfy the following
+properties:Strong Unforgeability, Veriﬁability, Strong
+Identiﬁability, Strong Undeniability, Prevention of Misuse.
+Boldyreva, A. Palacio and B. Warinschi gave the formal
+notion and security model of proxy signature in [4], and the
+proxy signature schemes have provable-security
+guarantees;
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+Proxy Cryptographsystem
+In 1997 Mambo et al. introduced the proxy cryptosystem (proxy
+decryption). In proxy cryptography, the original
+signer(decryptor) can delegate his cryptographic operation
+power to any reliable person called proxy signer(decryptor)
+when he is on vacation.
+Proxy cryptosystem with transformation;
+In 1998, Blaze, Beamer, and Strauss [3] proposed the
+notion of atomic proxy cryptography;
+Transformation-free proxy cryptosystems;
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+A Generic Model
+Deﬁnition 1. A proxy-protected anonymous proxy decryption
+(PPAPD) scheme includes the following ﬁve algorithms:
+-Setup: Given the security parameter 1k, the delegatee runs
+the probability generation algorithm IBEGen to get the master
+secret key SKO as his secret key and the master public
+parameter PKO as his public key.
+-Delegation Algorithm: The delegation algorithm includes two
+phases: user secret key generation and the partial proxy
+private key derivation.
+Secret Key Generation: Taken the public parameter PKO
+as input, the delegater randomly picks a secret key SKP
+and computes the corresponding public key PKP.
+Following, he chooses an existential unforgeable signature
+scheme S = (Gensign, Sign, Verify),
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+and computes the signature δ for the public key PKP. Finally, he
+sends (δ, PKP) with the verifying public key to the delegatee.
+Partial Proxy Private Key Derivation: Assuming the
+proxy time is t. Given the tuple (δ, PKP), the public key
+PKO, the secret key SKO and the proxy time t, the
+delegatee ﬁrst checks the validity of the public key PKP and
+of the signature δ, if either invalid, he aborts, otherwise, he
+runs the private key extraction algorithm IBEExtract of IBE,
+and gets the partial proxy private key SKpp. Then he sends
+SKpp to the delegater.
+-Encrypt: Taken the public keys PKO and PKP, the proxy time t
+and the message M, the probabilistic encryption algorithm Enc
+returns a ciphertext C on message M.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+-Decrypt: On receiving the ciphertext C, the delegater gets the
+plaintext m using the secret key SKP and the partial proxy
+private key SKpp, or outputs the special symbol ⊥indicating
+invalid.
+Deﬁnition 2. A proxy-protected anonymous proxy signature
+(PPAPS) scheme also includes ﬁve algorithms: The ﬁrst three
+algorithms are same to the ones of the above proxy decryption
+scheme, and the last two algorithms are as follows:
+-Sign: Taken the public key PKO and PKP, the proxy time t, the
+secret key SKP, the partial proxy private key SKpp and the
+message M, the delegater runs the probabilistic scheme to
+return the signature C on message M.
+-Verify: Receiving the signature C, the veriﬁer can verify the
+validity of the signature C. If verify(C, PKO, PKP, M, t) = 1, he
+outputs 1, otherwise outputs invalid.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+Remark 1. From the above two models, we can see the
+delegatee cannot run the cryptographic operations imitating the
+delegater, because he doesn’t know the secret key
+corresponding to the public key of the delegater. Of course, the
+delegatee can choose different public key whose corresponding
+secret key is knew to him instead of the delegater, but the
+delegater can publish his partial proxy private key to delate him.
+Remark 2. In our model, any third party can not identify the
+identity of the delegater only from the public information, but the
+delegater can not deny he has run the cryptographic operation,
+because the signature for the public key is sent to the
+delegatee, and if the signature scheme used is existential
+unforgeable, the delegatee can revoke the identity of the
+delegater in dispute.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+Remark 3. In fact, the public key is not combined with the
+identity and any third party cannot identify the accurate identity
+of the delegater. In other words, the model ensures the
+anonymity of the delegation. Furthermore, if the delegatee
+chooses a key pair (PKP, SKP), then he can run any
+cryptographic operations using the public key which also
+protects the privacy of the delegatee.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+Attack Model
+In our notion, we consider all potential actions of the adversary.
+There are two types of adversaries: the outside adversaries
+who aren’t delegated or the malicious delegaters who want to
+imitate other delegaters, the malicious delegatee.
+Deﬁnition 3. A proxy-protected anonymous proxy decryption
+(PPAPD) scheme is secure against adaptive chosen ciphertext
+attack (IND-CCA) if no probabilistic polynomial time bound
+adversary has non-negligible advantage in either Game 1 or
+Game 2.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+Game 1.
+This game for the outside adversary. Taken a security
+parameter 1k, the challenger runs the Setup algorithm to get
+the delegatee’s secret key SKO and the delegatee’s public key
+PKO, and he gives PKO to the adversary, keeping SKO secret.
+Phase 1. The adversary can request two oracles:
+Partial-Proxy-Private-Key-Oracle and Decryption Oracle.
+-Partial-Proxy-Private-Key-Oracle: On receiving the
+oracle< PKP, SKP, ti, δ = Sign(PKP) >:
+The challenge checks the validity of the public key and the
+signature δ, if either invalid, he aborts. Otherwise, he
+searches the PartialProxyPrivateKeyList for a tuple
+< PKP, SKPP, ti >, if exists, he sends SKPP to the adversary.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+Otherwise, the challenge runs the
+Partial-Proxy-Private-Key-Derivation algorithm to get SKPP,
+and adds the tuple < PKP, SKPP, ti > to the
+PartialProxyPrivateKeyList. He sends SKPP to the
+adversary.
+-Decryption-Oracles: On receiving the oracle
+< PKP, SKP, Ci, ti >:
+The challenge checks the validity of the public key, if
+invalid, he aborts. Otherwise, he searches the
+PartialProxyPrivateKeyList for a tuple < PKP, SKPP, ti >, if
+exists, he decrypts the ciphertext Ci using SKPP and SKP.
+And he sends the plaintext M to the adversary.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+Otherwise, the challenge runs the
+Partial-Proxy-Private-Key-Derivation algorithm to get SKPP,
+and adds the tuple < PKP, SKPP, ti > to the
+PartialProxyPrivateKeyList. He decrypts the ciphertext Ci
+using SKPP and SKP to get M and sends the plaintext M to
+the adversary.
+Challenge: The adversary generates a request challenge
+< PKP∗, SKP∗, t∗
+i , M0, M1 >, t∗
+i is the proxy time, and M0, M1 are
+equal length plaintext. If the public key PKP∗is valid, the
+challenger picks a random bit b ∈{0, 1}, sets
+C∗= Enc(Mb, t∗
+i , PKP∗, PKO). It sends C∗to the adversary.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+Phase 2. The adversary can make polynomial queries, and the
+challenge responds as Phase 1.
+At the end of the game, the adversary outputs b′ ∈{0, 1} and
+wins the game if b = b′, furthermore, there are also two
+restrictions that the adversary has never request the partial
+proxy private key oracle on a tuple < PKP∗, SKP∗, t∗
+i > and the
+decryption oracle on a tuple < C∗, t∗
+i , PKP∗, SKp∗>.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+Game 2.
+This game for the malicious delegatee adversary. Taken a
+security parameter 1k, the challenger runs the Setup algorithm
+to get the delegatee’s secret key SKO and the delegatee’s public
+key PKO, and he gives (PKO, SKO) to the adversary.
+Phase 1.The adversary can request one oracle: decryption
+oracle.
+-Decryption-Oracles: On receiving the oracle
+< PKP, SKP, Ci, ti >:
+The challenge checks the validity of the public key, if
+invalid, he aborts. Otherwise, he searches the
+PartialProxyPrivateKeyList for a tuple < PKP, SKPP, ti >, if
+exists, he decrypts the ciphertext Ci using SKPP and SKP.
+And he sends the plaintext M to the adversary.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+Otherwise, the challenge runs the
+Partial-Proxy-Private-Key-Derivation algorithm to get SKPP,
+and adds the tuple < PKP, SKPP, ti > to the
+PartialProxyPrivateKeyList. He decrypts the ciphertext Ci
+using SKPP and SKP to get M and sends the plaintext M to
+the adversary.
+Challenge: The adversary generates a request challenge
+< PKP∗, SKP∗, t∗
+i , M0, M1 >, t∗
+i is the proxy time, and M0, M1 are
+equal length plaintext. If the public key PKP∗is valid, the
+challenger picks a random bit b ∈{0, 1}, sets
+C∗= Enc(Mb, t∗
+i , PKP∗, PKO). It sends C∗to the adversary.
+Phase 2.The adversary can make polynomial queries, and the
+challenge responds as Phase 1.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+At the end of the game, the adversary outputs b′ ∈{0, 1} and
+wins the game if b = b′, furthermore, there are also one
+restriction that the adversary has never queried the decryption
+oracle on a tuple < C∗, t∗
+i , PKP∗>.
+Deﬁnition 4. A proxy-protected anonymous proxy
+signature(PPAPS) scheme is existential unforgeable against
+adaptive chosen message attack if no probabilistic polynomial
+time bound adversary has non-negligible advantage in either
+Game 1 or Game 2.
+Game 1.
+This game for the outside adversary. Taken a security
+parameter 1k, the challenger runs the Setup algorithm to get
+the delegatee’s secret key SKO and the delegatee’s public key
+PKO, and he gives PKO to the adversary, keeping SKO secret.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+The adversary can request two oracles:
+Partial-Proxy-Private-Key-Oracle and Signature-Oracle.
+-Partial-Proxy-Private-Key-Oracle: On receiving the
+oracle< PKP, SKP, ti, δ = Sign(PKP) >:
+The challenge checks the validity of the public key and the
+signature δ, if either invalid, he aborts. Otherwise, he
+searches the PartialProxyPrivateKeyList for a tuple
+< PKP, SKPP, ti >, if exists, he sends SKPP to the adversary.
+Otherwise, the challenge runs the
+Partial-Proxy-Private-Key-Derivation algorithm to get SKPP,
+and adds the tuple < PKP, SKPP, ti > to the
+PartialProxyPrivateKeyList. He sends SKPP to the
+adversary.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+-Signature-Oracle: On receiving the oracle
+< PKP, SKP, mi, ti >:
+The challenge checks the validity of the public key, if
+invalid, he aborts. Otherwise, he searches the
+PartialProxyPrivateKeyList for a tuple < PKP, SKPP, ti >, if
+exists, he signs mi using SKPP and SKP in the normal way.
+And he sends the signature σi to the adversary.
+Otherwise, the challenge runs the
+Partial-Proxy-Private-Key-Derivation algorithm to get SKPP,
+and adds the tuple < PKP, SKPP, ti > to the
+PartialProxyPrivateKeyList. He signs mi using SKPP and
+SKP as the above step. And he sends the signature σi to
+the adversary.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+At the end of the game, the adversary outputs
+< PKp∗, C∗, m∗, t∗>, where PKp∗is the challenge public key, C∗
+is the signature on message m∗, t∗is proxy time.
+The adversary wins the game if he has never request the
+partial proxy private key oracle on a tuple < PKP∗, SKP∗, t∗
+i >
+and the signature oracle < PK∗
+p, SK∗
+p, m∗, t∗>.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+Game 2.
+This game for the malicious delegatee. Taken a security
+parameter 1k, the challenger runs the Setup algorithm to get
+the delegatee’s secret key SKO and the delegatee’s public key
+PKO, and he gives < PKO, SKO > to the adversary.
+Phase 2.The adversary can request one oracle: signature
+oracle.
+-Signature-Oracle: On receiving the oracle
+< PKP, SKP, mi, ti >:
+The challenge checks the validity of the public key, if
+invalid, he aborts. Otherwise, he searches the
+PartialProxyPrivateKeyList for a tuple < PKP, SKPP, ti >, if
+exists, he signs the message mi using SKPP and SKP. And
+he sends the signature σi to the adversary.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+A Generic Model
+Attack Model
+Otherwise, the challenge runs the
+Partial-Proxy-Private-Key-Derivation algorithm to get SKPP,
+and adds the tuple < PKP, SKPP, ti > to the
+PartialProxyPrivateKeyList. He signs the message mi using
+SKPP and SKP. And he sends the signature σi to the
+adversary.
+At the end of the game, the adversary outputs (PKp∗, C∗, m∗, t∗),
+where PKp∗is the challenge public key, C∗is the signature on
+message m∗, t∗is proxy time. The adversary wins the game if
+he has never asked the signature oracle on
+< PKp∗, SKp∗, m∗, t∗>.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+New Proxy-Protected Anonymous Proxy Decryption Scheme
+New Proxy-Protected Anonymous Proxy Signature Scheme
+New Proxy-Protected Anonymous Proxy Decryption
+Scheme
+Let (G, GT) be bilinear map groups of order p > 2k and let
+e : G × G →GT denote a bilinear map. H1 : {0, 1}∗→{0, 1}n
+and H2 : {0, 1}∗→{0, 1}n are two collision-resistant hash
+functions.
+Setup(1k, n): The original decryptor chooses g as a generator
+for G. Set g1 = gα for random α ∈Z∗
+p, and pick a group element
+g2 ∈G and vectors (u′, u1, . . . , un), (v′, v1, . . . , vn) ∈Gn+1. These
+vectors deﬁne the following hash functions:
+Fu(W1) = u′
+n
+Y
+i=1
+(uij
+j ), Fv(W2) = v′
+n
+Y
+i=1
+(vwj
+j ).
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+New Proxy-Protected Anonymous Proxy Decryption Scheme
+New Proxy-Protected Anonymous Proxy Signature Scheme
+where W1 = i1i2 . . . in and W2 = w1w2 . . . wn. The original
+decryptor’s public key is
+PKO = (G, GT, e, g, g1, g2, u′, u1, u2, . . . , un, v′, v1, v2, . . . , vn),
+and the original decryptor’s secret key is
+SKO = α.
+Delegation algorithm:
+Secret key generation: The proxy decryptor P randomly
+picks x ∈Z∗
+p, and computes the public key
+PKP = (X, Y) = (gx
+1, gx
+2). He runs Gensign of a secure
+signature scheme S = (Gensign, Sign, Verify) to get the
+signature key pair (sk, vk), and he runs Sign to get the
+signature δ on (X, Y). Finally he sends ((X, Y), δ, vk) to the
+original decryptor O.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+New Proxy-Protected Anonymous Proxy Decryption Scheme
+New Proxy-Protected Anonymous Proxy Signature Scheme
+Partial proxy private key derivation: Given ((X, Y), δ, vk),
+the original decryptor O veriﬁes:
+e(X, g2) = e(Y, g1), Very(δ, X, Y, vk) = 1. If either fails, O
+outputs invalid. Otherwise, assuming the proxy time is t, he
+chooses random number r ∈Z∗
+p and computes
+W1 = H1(X, Y, t),
+SKPP = (d1, d2) = (gα
+2 · Fu(W1)r, gr).
+O sends SKPP = (d1, d2) to proxy decryptor P.
+Encrypt: Assuming the proxy time is t. In order to encrypt
+message m ∈GT, parse PKP = (X, Y), and check the validity of
+the public key by the equation e(X, g2) = e(Y, g1). If so, choose
+s ∈Z∗
+p and compute the ciphertext as follows:
+C = (C0, C1, C2, C3) = (m · e(X, Y)−s, gs, Fu(W1)s, Fv(W2)s),
+where W2 = H2(C0, C1, C2, PKP).
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+New Proxy-Protected Anonymous Proxy Decryption Scheme
+New Proxy-Protected Anonymous Proxy Signature Scheme
+Decrypt: The proxy decryptor P ﬁrst computes
+W2 = H2(C0, C1, C2, PKP) and checks the validity of the
+ciphertext by the following equation:
+e(C1, Fu(W1)Fv(W2)) = e(g, C2C3).
+If the equation doesn’t hold, he outputs invalid. Otherwise, he
+decrypts the ciphertext:
+m = C0(e(d1, C1)/e(C2, d2))x2.
+Correctness:
+C0(e(d1, C1)/e(d2, C2))x2 = C0(e(gα
+2 Fu(W1)r, gs)/e(gr, Fu(W1)s))
+= C0(e(g2, g1)se(Fu(W1)r, gs)/e(gr, Fu(W1)s))x2
+= me(X, Y)−se(g1, g2)x2s = m.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+New Proxy-Protected Anonymous Proxy Decryption Scheme
+New Proxy-Protected Anonymous Proxy Signature Scheme
+Theorem 1. The proxy-protected anonymous proxy decryption
+scheme is IND-CCA secure against the outside adversary
+assuming the Decision Bilinear Difﬁ-Hellman problem is hard.
+Theorem 2. The proxy-protected anonymous proxy decryption
+scheme is IND-CCA secure against the malicious deletee
+assuming the Decision Bilinear Difﬁ-Hellman problem is hard.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+New Proxy-Protected Anonymous Proxy Decryption Scheme
+New Proxy-Protected Anonymous Proxy Signature Scheme
+New Proxy-Protected Anonymous Proxy Signature
+Scheme
+Setup: The original signer O chooses groups G, GT of prime
+order q and a generator P ∈G. There is also a bilinear map
+e : G × G →GT. He chooses H1 : {0, 1}∗→GT and
+H2 : {0, 1}∗→Z∗
+q. He randomly picks s ∈Z∗
+q as his secret key,
+and computes Q = sP as his public key. Then the public
+parameter and secret key are respectively :
+PKO = (G, GT, q, P, H1, H2, e, Q), SKO = s.
+Delegation Algorithm:
+Secret Key Generation: The proxy signer picks x ∈Z∗
+q
+and computes PKP = (X, Y) = (xP, xQ) as his public key.
+He runs Gensign of a secure signature scheme
+S = (Gensign, Sign, Very) to get the signature key pair (sk, vk),
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+New Proxy-Protected Anonymous Proxy Decryption Scheme
+New Proxy-Protected Anonymous Proxy Signature Scheme
+and he runs Sign to get the signature δ on (X, Y). Finally he
+sends ((X, Y), δ, vk) to the original signer O.
+Partial Proxy Private Key Derivation: On receiving
+(PKP, δ, vk), the original signer veriﬁes the validity of the
+public key and the signature for the public key by the two
+equations: e(X, Q) = e(Y, P), Very(δ, PKP, vk) = 1. If either
+equation doesn’t hold, he outputs invalid; Otherwise, if the
+proxy time is t, he computes
+W = H1(X, Y, t), SKPP = sW,
+and sends them to the proxy signer P.
+Proxy Signature: The proxy signer P picks k ∈Z∗
+q and
+computes
+r = e(P, P)k, c = H2(m∥r), U = cxSKPP + kP.
+The proxy signature is (c, U, m).
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+New Proxy-Protected Anonymous Proxy Decryption Scheme
+New Proxy-Protected Anonymous Proxy Signature Scheme
+Veriﬁcation: Anyone can verify the validity of the proxy
+signature. The veriﬁer computes
+W = H1(X, Y, t), r′ = e(cW, Y)−1e(U, P).
+He checks whether c = H2(m∥r′). If the condition holds, the
+signature is valid.
+Security Analysis
+Theorem 3. The proxy-protected anonymous proxy signature
+scheme is existential unforgeable against the outside adversary
+assuming the computational Difﬁ-Hellman(CDH) problem is
+hard in Gap Difﬁ-Hellman group.
+Theorem 4. The proxy-protected anonymous proxy signature
+scheme is existential unforgeable against the malicious
+delegatee assuming the computational Difﬁ-Hellman(CDH)
+problem is hard in Gap Difﬁ-Hellman group.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+Acknowledgement
+The work is supported by 973 Project( No.2007CB807902) and
+the National Natural Science Foundation of China(NSFC Grant
+No.60525201)
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+M Mambo, K Usuda and E Okamoto. Proxy Signature:
+Delegation of the Power to Sign Messages. IEICE
+Trans.Fundations. 1996, E79-A(9):1338-1353.
+B Lee, H Kim, and K Kim. Strong proxy signgture and its
+applications. In Proceedings of SCIS, 2001. pp. 603-608.
+M Blaze, G Bleumer, M Strauss. Divertible protocol and
+atomic proxy cryptography. in: Advances in Cryptology
+-Eurocrypt ’98, LNCS, vol. 1403, 1998. pp. 127-144.
+A Boldyreva, A Palacio, B Warinschi. Secure Proxy
+Signature Schemes for Delegation of Signing Rights. At
+:http://eprint.iacr.org/2003/096.
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr
+Introduction
+A General Model for Proxy Cryptography and Attack Model
+Two Concrete Examples
+Acknowledgement
+Thank you!
+ZHANG Guo-yan
+A Generic Model For Proxy-Protected Anonymous Proxy Cryptogr

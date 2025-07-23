@@ -1,0 +1,2708 @@
+No. 2007-05-A 
+ 
+ 
+OFFICE OF ECONOMICS WORKING PAPER 
+U.S. INTERNATIONAL TRADE COMMISSION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+William Greene 
+U.S. International Trade Commission 
+ 
+ 
+ 
+ 
+May 2007 
+ 
+ 
+The author is with the Office of Economics of the U.S. International Trade 
+Commission.  Office of Economics working papers are the result of the ongoing 
+professional research of USITC Staff and are solely meant to represent the 
+opinions and professional research of individual authors.  These papers are not 
+meant to represent in any way the views of the U.S. International Trade 
+Commission or any of its individual Commissioners.  Working papers are 
+circulated to promote the active exchange of ideas between USITC Staff and 
+recognized experts outside the USITC, and to promote professional 
+development of Office staff by encouraging outside professional critique of 
+staff research.  
+ 
+ 
+Address correspondence to: 
+Office of Economics 
+U.S. International Trade Commission 
+Washington, DC  20436  USA 
+The Emergence of India’s Pharmaceutical Industry 
+and Implications for the U.S. Generic Drug Market 
+i
+The Emergence of India’s Pharmaceutical Industry and 
+Implications for the U.S. Generic Drug Market
+William Greene
+U.S. International Trade Commission
+ABSTRACT: This paper presents an overview of India’s pharmaceutical industry and its
+evolution from almost non-existent to one of the world’s leading suppliers of generic drugs. The Indian
+pharmaceutical industry was allowed to take off when India met its WTO TRIPs obligations and
+amended its patent laws with the passage and implementation of the Patents (Amendments) Act 2005.
+When India re-instituted “product” patents, it effectively ended 36 years of protection for Indian
+companies and terminated legal reverse engineering or copying of patented foreign pharmaceuticals
+drugs. To meet the short fall in revenues, many of India’s leading pharmaceutical companies turned to
+foreign acquisitions and exports, especially to the United States. Indian companies benefit from a
+greater acceptance of generic drugs among the U.S. public, tremendous pressure on healthcare
+providers to reduce costs, and impending expiration of patents on drugs with annual sales of $50
+billion. India’s major pharmaceutical companies are positioning themselves to offer generic versions of
+these drugs and some have predicted that they will capture at least 30 percent of the U.S. generic
+replacement market. However, Indian companies face severe price compression in the U.S. for their
+generic drug market and stiff competition from domestic U.S. generic manufactures and suppliers from
+other low-cost countries.   
+ Sources: Department of Chemicals & Petrochemicals, Government of India, MedicineNet.com, U.S. Food and Drug
+1
+Administration, KPMG, Pharmabiz.com.
+ii
+Abbreviations 
+AIDs
+Acquired Immune Deficiency Syndrome
+API
+Active pharmaceutical ingredient
+ANDA
+Abbreviated New Drug Application
+Assocham
+Associated Chambers of Commerce and Industry of India
+CAGR
+Compound annual growth rate
+CII
+Confederation of Indian Industry
+CIS
+Commonwealth of Independent States
+CNS
+Central nervous system
+CRAMS
+Contract manufacturing and research services
+DMFs
+Drug Master Files
+DPCO
+Drug Price Control Order
+FDI
+Foreign direct investment
+GSK
+GlaxoSmithKlein 
+HIV
+Human immunodeficiency virus
+HTS
+Harmonized Tariff Schedule
+IPR
+Intellectual property rights
+M&A
+Mergers and acquisitions
+MNC
+Multinational corporation
+NCE
+New chemical entities (new patented drug)
+NDA
+New drug applications
+OTC
+Over-the-counter drugs (dispensed without prescription)
+R&D
+Research and development
+TB
+Tuberculosis
+TRIPs
+Trade-Related Aspects of Intellectual Property Rights
+US FDA
+United States Food and Drug Administration (FDA)
+UNICEF
+United Nations Children’s Fund
+WTO
+World Trade Organization
+Definitions  
+1
+Abbreviated New Drug Applications (ANDAs): an application submitted to the U.S. Food & Drug Administration
+by a generic drug manufacturer challenging a patent held by an innovator company. Once approved, an applicant
+may manufacture and market the generic drug product of an existing formulation to the American public.
+Active pharmaceutical ingredient (APIs): the primary, active ingredient(s) of a final pharmaceutical product,
+produced in the first stage of pharmaceutical production and usually in bulk quantities.
+Biologicals: medical preparation made from living organisms and their products, such as insulin, erythropoietin, and
+vaccines.
+Blockbusters: industry term referring to drugs with very large sales, generally in excess of $1 billion.
+Branded generics: generic drugs for which a drug manufacturing company has attached its brand name and may
+have invested in its marketing to differentiate it from other generic brands.
+iii
+Brand name drugs: innovator drugs patented by MNC pharmaceutical companies to prevent them from being
+copied or reverse engineered by other companies. 
+Bulk drugs: the active chemical substances in powder form, the main ingredient in pharmaceuticals - chemicals
+having therapeutic value, used for the production of pharmaceutical formulations. Major bulk drugs include
+antibiotics, sulpha drugs, vitamins, steroids, and analgesics.
+Drugs: there are two types of drugs: bulk drugs (intermediates) and formulations.
+Drug intermediates: these drugs are used as raw materials for the production of bulk drugs, which are either sold
+directly or retained by companies for the production of formulations.
+Drug Master files (DMFs): generic registration applications filed with the U.S. FDA in order to allow the active
+pharmaceutical ingredients (APIs) to appear in marketed drugs.
+Essential drugs: Drugs classified as essential by the Indian government consist of antibiotics, antibacterials, anti-
+TB, penicillin and its salts, anti-parasitic, cardiovascular drugs, erythromycin and its preparations, vitamins and pro-
+vitamins, vaccines (polio, human and veterinary), preparations containing insulin, caustic and other hormones, and
+tetracycline and its preparations. Indian companies dominate this class of drugs with a domestic Indian market share
+of 71 percent. These drugs are subject to government price controls.
+Formulations: drugs ready for consumption by patients (generic drugs) sold as a brand or generic product as tablets,
+capsules, injectables, or syrups. Formulations can be subdivided into two categories: generic drugs and branded
+drugs.
+Generic drugs: copies of off-patent brand-name drugs that come in the same dosage, safety, strength, and quality
+and for the same intended use. These drugs are then sold under their chemical names as both over the counter and
+prescription forms. Also, referred to as unbranded formulations.
+Hatch-Waxman Act (Drug Price Competition and Patent Restoration Act): passed in 1984, it established the
+ANDA process that permits the U.S. FDA to approve generic versions of approved innovator drugs without
+supplying clinical trials or New Drug Application (NDA) performed by the innovator company. 
+Innovator drugs: are drugs with patents on their chemical formulation or on their production process. They have
+been tested and approved by the U.S. FDA after extensive clinical trials.
+New Drug Applications (NDAs): the vehicle through which drug innovators formally propose that the U.S. FDA
+approve a new drug for sale and marketing in the United States.
+Pharmaceuticals: are used to prevent, diagnose, treat, or cure diseases in humans and animals. 
+Plain vanilla generics: commodity generics that are “off-patent” in the regulated markets. They offer little or no
+innovative value over the innovator’s product. 
+Prescription drugs: medicines that encompass two classes, innovator drugs and generic drugs. 
+Proprietary drugs: drugs that have a trade or brand name and are protected by a patent.
+West/ Western: the United States, Canada, and Western Europe.
+iv
+Table of contents
+Abstract . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . i
+Abbreviations and definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ii
+Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+India’s pharmaceutical industry: independence to mid-1980s . . . . . . . . . . . . . . . . . . . . . . . . 2
+Regulatory Environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+The Patent Act, 1970 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Drug Price Control Order, 1970 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Patent (Amendment) Act, 2005 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Industry production . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Leading Indian pharmaceutical manufacturers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Industry structure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Mergers, acquisitions, and other alliances . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Contract research and manufacturing, outsourcing, and other services . . . . . . . . . . . . .   11
+Research and development (R&D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Strengths and weaknesses India’s pharmaceutical industry . . . . . . . . . . . . . . . . . . . . . . . 15
+Indian market . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Imports . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Exports . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+The role of Indian generic drugs in the U.S. market . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Role of imports in the U.S. market . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Impact of Indian generic drugs on the U.S. market . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Appendix A: Selected company profiles
+Ranbaxy Laboratories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Dr. Reddy’s Laboratories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Cipla . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Nicholas Piramal India . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+ National Pharmaceutical Policy, 2006, Department of Chemicals and Petrochemicals, Government of India, Dec. 28,
+2
+2005.
+ “India gears up for unprecedented manufacturing growth,” in-Pharma Technologist.com, Aug. 8, 2006.
+3
+ “Cuts Drug Prices, Else Face Action, Paswan Tells Industry,” The Associated Chambers of Commerce and Industry
+4
+of Industry, Nov. 29, 2006. 
+1
+Overview  
+The Indian pharmaceutical industry is
+one of the developing world’s largest and most
+developed, ranking 4  in the world in terms of
+th
+production volume and 13  in domestic
+th
+consumption value.  India’s industry, valued at
+2
+$5.3 billion in 2005, represents less than one
+percent of the global pharmaceutical industry
+($550 billion).  
+3
+Over the last 30 years, India’s
+pharmaceutical industry has evolved from
+almost nonexistent to a world leader in the
+production of high quality generic drugs. India
+has garnered a worldwide reputation for
+producing high quality, low cost generic drugs.
+The industry currently meets India’s demand for bulk drugs and nearly all its demand for formulations,
+with the remainder supplied by foreign multinational corporations (MNCs).
+India’s pharmaceutical industry is one of the fastest growing segments of the Indian economy
+with an average annual growth rate of 14 percent during 2002-2005. Overall, the Indian market for
+pharmaceuticals is projected to grow at an average annual rate of between 15 and 20 percent during 2005
+- 2010. The surge in production has been driven by legislative reforms, the growth in contract
+manufacturing and outsourcing, value added foreign acquisitions and joint ventures, India’s mastery of
+reverse engineering of patented drug molecules, and India’s efforts to comply with its World Trade
+Organization (WTO) Trade Related Intellectual Property Agreement (TRIPs) obligations.
+When India joined the WTO in 1995, its pharmaceutical exports were valued at less than $600
+million. By 2005, its exports had grown to $3.7 billion and accounted for more than 61 percent of
+industry turnover. Currently, Indian pharmaceutical companies produce between 20 and 22 percent of the
+world’s generic drugs (in value terms) and offer 60,000 finished medicines and nearly 400 bulk drugs
+used in formulations.4
+With changes in India’s patent laws in the early 1970s, Indian drug producers became experts in
+‘reverse engineering’ and increased its supply of less expensive copies of the world’s best-selling patent-
+protected drugs. India’s pharmaceutical industry grew and prospered in a highly regulated environment
+with government price controls on a significant number of formulations and bulk drugs. In January 2005,
+India amended its patent laws governing pharmaceuticals, bringing them into conformance with the WTO
+TRIPs agreement. Under the new patent law, Indian drug markers can no longer manufacture and market
+reverse-engineered versions of drugs patented by foreign drug producers. To replace sales lost to TRIPs
+compliance, many of India’s leading pharmaceutical producers have increased their exports of generic
+drugs to the United States and Western Europe and entered into research and development agreements,
+mergers and acquisitions, and other alliances with foreign pharmaceutical firms.  
+India’s Pharmaceutical industry in 2005                            
+Share of global sales:
+Value 1%, Volume 8%
+Global ranking:
+4  in volume, 13  in value
+th
+th
+Domestic market:
+$5.3 billion
+Exports:
+$3.7 billion
+Imports:
+$985 million
+Bulk drug production:
+$2.1 billion
+Employment:
+5 million direct, 24 million       
+   indirect.
+Capital investment:
+$1.2 billion
+Production costs: 
+Among the lowest in the
+                                                   world, estimated to be 70%
+    less than the West. 
+Source: OPPI.
+ Devinder Sharma, “When death becomes cheap,” Deccan Herald, Apr. 16, 2005.
+5
+ The Bengal Chemical and Pharmaceutical Works (1930) as India’s first public sector drug manufacturer; The
+6
+Hindustan Antibiotic Ltd. (1954) with the assistance of the United Nations and UNICEF; Indian Drugs and Pharmaceutical Ltd.
+(1961) with assistance from the former Soviet Union; Bengal Immunity Ltd; Smith Stanistreet Pharmaceutical; and the Indian
+Drugs and Pharmaceutical Corporation.
+ The Patent Act, 1970, Office of the Controller General of Patents, Designs, and Trademarks, Government of India.
+7
+2
+India’s Pharmaceutical industry: independence to 2005
+At the time of independence in 1947, India’s pharmaceutical market was dominated by Western
+MNCs that controlled between 80 and 90 percent of the market primarily through importation.
+Approximately 99 percent of all pharmaceutical products under patent in India at the time were held by
+foreign companies and domestic Indian drug prices were among the highest in the world. The Indian
+pharmaceutical market remained import-dependent through the 1960s until the government initiated
+policies stressing self-reliance through local production.  At that time, 8 of India’s top 10 pharmaceutical
+5
+firms, based on sales, were subsidiaries of MNCs. To facilitate an independent supply of pharmaceutical
+products in the domestic market, the government of India founded 5 state-owned pharmaceutical
+companies.  Today, India is the world’s fifth largest producer of bulk drugs.  
+6
+Government policy culminated in various actions including: the abolition of product patents on
+food, chemicals, and drugs; the institution of process patents; the limitation of multinational equity share
+in India pharmaceutical companies, and the imposition of price controls on certain formulations and bulk
+drugs. Subsequently, most foreign pharmaceutical manufacturers abandoned the Indian market due to the
+absence of legal mechanisms to protect their patented products. Accordingly, the share of the domestic
+Indian market held by foreign drug manufacturers declined to less than 20 percent in 2005. As the MNCs
+abandoned the Indian market, local firms rushed in to fill the void, and by 1990, India was self-sufficient
+in the production of formulations and nearly self-sufficient in the production of bulk drugs. 
+Regulatory environment 
+ 
+To end the dominance of foreign drug companies, the Indian government enacted a series of
+policies designed to foster self-sufficiency in the production of basic drugs. Because these measures
+lowered barriers to entry, thousands of medium and small Indian pharmaceutical companies entered the
+market challenging the MNCs for control. These actions laid the foundation for today’s highly
+competitive domestic industry that is capable of offering some of the lowest drug prices in the world.
+These policies ended India’s dependence on expensive foreign drugs, fostered the development of a
+competitive pharmaceutical industry, and guaranteed the Indian public access to inexpensive drugs.
+Nonetheless, the Indian pharmaceutical industry also became one of the country’s most heavily regulated.
+The industry currently faces restrictions on imports, high tariff rates, ration requirements, and equity
+ceilings for foreign participation.
+The Patent Act, 1970: The Act’s stated objective was to foster the development of an
+indigenous Indian pharmaceutical industry and to guarantee that the Indian public had access to low-cost
+drugs.  The Act replaced intellectual property rights laws left over from the British colonial era and
+7
+ended India’s recognition of Western-style “product” patent protection for pharmaceuticals, agricultural
+products, and atomic energy. Product-specific patents were disregarded in favor of manufacturing
+“process” patents that allowed Indian companies’ to reverse engineer or copy foreign patented drugs
+without paying a licensing fee. This allowed the domestic industry build up considerable competencies
+and offer a large number of cheaper “copycat” generic versions legally in India at a fraction of the cost of
+ “India’s new product patent law: challenges and opportunities for local drugmakers,” Pharma Market Letter, Dec. 6,
+8
+2004. The Indian Pharmaceutical Industry: Collaboration for Growth, KPMG, 2006.
+ Sanjay Kumar, “India to extend price controls on drugs,” BMJ Journal, Aug. 14, 2004. “The Cloning of Viagra,”
+9
+Asia Week.
+ “New policy adds 354 to the list of controlled drugs,” domain-b.com, July 1, 2006.
+10
+  “Government to enforce 5-per cent cut in prices of 75 drugs,” domain-b.com. March 27, 2007. 
+11
+ Novartis (Switzerland) recently challenged India’s patent laws before the Chennai High Court alleging that India’s
+12
+refusal to grant a patent on its leukemia anti-cancer drug, Gleevec, violated the WTO’s TRIPs agreement. In Jan. 2006, India’s
+patent office rejected the patent application insisting that Gleevec was only a new form of an existing drug and was therefore not
+patentable in India. Amy Yee, “Novartis in Indian patent dispute,” Financial Times, Dec. 22, 2006. “Novartis contests India’s
+patent law,” Chemistry World, Feb. 15, 2007.
+ The Indian Patent Act, 1970 was amended by the Patents Amendment Ordinance, 2004 (the thirds  amendment),
+13
+which was amended by the Patents Act, 2005.  Important Changes Incorporated in the Patent (Amendment) Bill, 2005 As
+Compared to the Patents (Amendment) Bill, 2003, Press Information Bureau, Government of India, March 23, 2005.
+3
+the drug in the West, as long as they employed a production process that differed from that used by the
+patent owner. The Act protected process patents for 7 years instead of the usual 15 years needed to
+develop and test new drugs.
+Drug Price Control Order, 1970 (DPCO): The order was introduced when most of India’s
+drugs were under strict price controls. Since its introduction, the number of bulk drugs under price
+controls gradually declined from 347 in 1987 to 163 in 1994 to 74 in 1995.  In 2005, the government 
+8
+capped prices on 74 bulk drugs and 260 formulations that account for approximately 25 percent of
+India’s retail pharmaceutical market (attachment).  Trade margins for these drugs were capped at 8
+9
+percent for retailers and 16 percent for wholesalers. The National Pharmaceutical Pricing Authority,
+founded in 1997, is responsible for monitoring prices using the DPCO to fix ceiling prices on drugs and
+ensure that no Indian company in a monopoly position takes advantages of its monopolistic position by
+profiteering. In June 2006, the National Pharmaceutical Policy 2006 (Part A) proposed to add price
+controls on 354 specific drugs listed as essential medicines.  The new policy will cap margins on generic
+10
+drugs at 15 percent for wholesalers and 35 percent for retailers. It will also enforce a 5 percent price cut
+on more than 75 commonly-used medicines resulting from import duty reductions of 5 to 7.5 percent on
+certain active pharmaceutical ingredients (APIs).  The NPPA controls ceiling prices for controlled bulk
+11
+drugs in all intra-industry transactions as well as the retail ceiling prices for controlled formulations. 
+Patents (Amendment) Act 2005:  To meet its TRIPs obligations, India amended its patent
+12
+law on March 22, 2005, abolishing its “process” patents law and reintroduced Western style “product”
+patents for pharmaceuticals, food, and chemicals.  This action effectively ended 36 years of protection
+13
+for Indian pharmaceutical companies and stipulated that Indian companies selling copycat drugs must
+pay foreign patent holders a “reasonable” royalty for copies sold in the Indian market. The amendment
+made reverse engineering or copying of patented drugs illegal after January 1, 1995. The Act allowed for
+only two types of generic drugs in the Indian market: off-patent generic drugs and generic versions of
+drugs patented before 1995. At present, nearly 97 percent of all drugs manufactured in India are off
+patent and therefore will not be affected by this Act. It also introduced a provision establishing
+compulsory licenses for exports to least developed countries with insufficient pharmaceutical
+manufacturing capacities. 
+The Amendment grants new patent holders a 20-year monopoly starting on the date the patent
+was filed and, without a compulsory license, no generic copies can be sold during the duration of the
+patent. The WTO also required India to establish a “mailbox” where patent applications could be filed
+between January 1, 1995 and 2005. The Act encouraged significant numbers of foreign pharmaceutical
+ KG Narendranath, Patent mailbox opens, Pfizer is top applicant,” The Financial Express, March 20, 200__. 
+14
+  D.K. Nauriyal, TRIPS-Compliant New Patents Act and Indian Pharmaceutical Sector: Directions in Strategy and
+15
+R&D, Indian Institute of Technology, Roorkee. “Pharmaceuticals: Getting the Dose Right,” Pharmacy Choice, Nov. 2, 2006.
+ All drug production requires a government license. Staff interview with FICCI officials, Apr. 23, 2007. 
+16
+4
+companies to participate in the Indian market and, in 2005, foreign drug producers filed approximately
+8,926 patent applications to cover their patented drugs sold as generics in the Indian market. Roche
+(Switzerland) became the first foreign company to win a patent under India’s new product patent regime
+and that patent, granted in March 2006 for a drug to treatment of hepatitis C (Pegasys), will be valid for
+20 years from May 15, 1997. Pfizer (US) has submitted the largest number of patent applications (373)
+followed by Johnson & Johnson (262) and Procter & Gamble (187). 14
+Industry production
+Thirty-five years of protection has enabled the Indian pharmaceutical industry to perfect its
+scientific and manufacturing capabilities, allowing many of its leading companies to move up the value-
+added chain. India’s pharmaceutical industry consists of large, medium, and small companies and is one
+of the world’s most price competitive. It is also highly fragmented with more than 20,000 domestic
+production units. Because of low barriers to entry and low capital requirements, the number of domestic
+pharmaceutical firms engaged in the formal and informal sectors expanded dramatically from 2,257 in
+1970 to more than 20,000 in 2005 (table 1).  Because many of these companies focus of producing
+15
+similar generic drugs, with possibly hundreds of companies producing the same drug, the industry is
+characterized by fierce competition and high volumes, razor-thin profit margins, overcapacity, and
+declining prices. According to FICCI, there are only 6,000 firms participating in the formal sector that 
+have received drug manufacturing licenses from the Indian government.  India’s pharmaceutical firms
+16
+can be differentiated by size, annual sales, function, export markets, and R&D capabilities (table 1).
+Table 1: India’s pharmaceutical firms, by size, sales, function, exports, and R&D capabilities
+Grouping
+Number of firms
+Description
+Group 1
+100
+Largest firms, includes both wholly-owned Indian firms and subsidiaries of MNCs; have
+annual revenues of at least $650,00; have brand recognition and are engaged in
+developing R&D capabilities; responsible for recent wave of cross-border acquisitions
+and alliances; export to regulated, semi-regulated, and unregulated markets. 
+Group 2
+200
+Mid-size firms with annual revenues between $210,410 and $650,000; they have limited
+investment capabilities and primarily serve the domestic Indian market. They are generic
+drug producers that subsist mainly on reverse engineering of patented and off-patent
+drugs (primarily bulk drugs and APIs); also includes niche players specializing in
+contract research (CRAMS) and contract clinical trials in segments of the market where
+they have a competitive advantage; export to semi-regulated and unregulated markets. 
+Group 3
+5,700
+Smallest firms with annual revenues of less than $210,410;.primarily perform contract
+manufacturing services for MNCs or domestic firms. Many have been adversely affected
+and have been forced to close their doors due to revised Good Manufacturing Practices 
+set by Schedule M of India’s Drug and Cosmetic Act, 1940 that came into effect from
+July 1, 2005. Those affected cannot meet production standards of regulated market
+regulators and their production will be limited to the domestic, semi-regulated, and
+unregulated markets.  
+Source: Padmashree Gehl Sampath, Indian Pharma Within Global Reach?, United Nations University, 2006-031.
+ Sasikant Misra, CRAMS (Contract Research and Manufacturing services), Confederation of Indian Industry (CII).
+17
+ “Indian Healthcare: A growing market,” Economist Intelligence Unit, June 22, 2005. 
+18
+ “Pharma Cos must be globally competitive,” The Financial Express, May 28, 200x...
+19
+ Generic APIs are expected grow by nearly 20 percent to $1.6 billion in 2010 and branded APIs are expected reach
+20
+$285 million while growing at an annual rate of approximately 25 percent. Patrician Van Arnum, “The Changing Fortunes for
+APIs,” Pharmaceutical Technology, Jan. 2, 2007.
+5
+The vast majority of India’s pharmaceutical firms are small by global standards with annual
+revenues of less than $5 million. The Confederation of India Industries (CII) estimates that approximately
+80 percent of them are engaging in some type of contract manufacturing or outsourcing.  The largest 250
+17
+companies control nearly 70 percent of the domestic market with the top 10 controlling approximately 40
+percent. The domestic Indian pharmaceutical industry consists of both domestic companies and
+subsidiaries of MNCs. In the 1970s, the vast majority of foreign pharmaceutical companies abandoned
+the Indian market during the “process” patent era due to inadequate product protection, government price
+controls, growing domestic competition, and declining prices and profitability. Consequently, the share
+of India’s market controlled by multinationals dropped to less than 20 percent by 2005.
+In the absence
+18
+of government protection, India’s leading drug producers are moving toward new drug discovery rather
+continuing to rely solely on copying patented foreign drugs. Industry experts project that by 2010, Indian
+firms will produce 6 of the top 10 drugs scheduled to lose their patent protection in developing
+countries.19
+Indian pharmaceutical companies now supply nearly all the country’s demand for formulations 
+and nearly 70 percent of its demand for bulk drugs. Indian firms produce nearly 60,000 generic brands in
+60 therapeutic categories and between 350 and 400 bulk drugs. Approximately 80 percent of domestic
+production consists of formulations, and more than 85 percent of those formulations are sold in the
+domestic market, whereas at least 60 percent of bulk drug production is exported. Nearly 97 percent of
+India’s drug market consists of second-and-third generation drugs no longer subject to patent protection
+in the developed world. Some under-patent, lifesaving drugs continue to be imported, primarily from
+developed countries, especially the United States, Germany, the United Kingdom, and France.
+India has the world’s third-largest API manufacturing industry valued at nearly $2 billion in
+2005. Currently, India’s drug industry produces more than 400 different APIs and is among the world’s
+top 5 API producers accounting for approximately 6.5 percent of the world’s API production. Italy’s
+Chemical Pharmaceutical Generic Association (CPA) projects that India’s share of the world API market
+will grow to 10.5 percent by 2010 as patented blockbuster drugs lose their patent protection. The CPA
+also expects that the domestic Indian market for APIs, both generic and branded, will rise from $755
+million in 2005 to $1.9 billion in 2010.  According to the Assocham, the leading APIs were anti-
+20
+infectives, and gastrointestinal, cardiovascular, and respiratory drugs (table 2). In terms of volume of
+sales, the gastrointestinal and cardiac segments saw the highest rates of growth and accounted for the
+largest number of new drug launches.
+ Economic Times, Stock Market Quotes and Company Research. 
+21
+ For more detail see Appendix A.
+22
+6
+Table 2: Major therapeutic segments (2004)
+Category
+Market share (percent)
+Anti-infectives
+Gastrointestinal
+Cardiac
+Respiratory
+Vitamins-minerals-nutrients
+Pain-analgesics
+Dermatological
+Gynecology
+Anti diabetics
+Others 
+                                   14.7
+                                   10.7
+                                   11.1
+                                   10.5
+                                     9.2
+                                     9.6
+                                     5.4
+                                     5.0
+                                     4.6
+                                   13.8
+Source: Assocham.
+Leading Indian pharmaceutical manufacturers: India’s leading pharmaceutical
+companies are striving to compete not only in the domestic Indian market, but also in the global market
+for both generic drugs and original products. Sales for India’s largest 200 pharmaceutical companies
+grew from $7.9 billion in 2004 to $8.6 billion in 2005, or by 9 percent.  By 2005, 9 of the top 10 Indian
+21
+drug makers were Indian-owned firms accounting for more than 44 percent of total industry sales. India’s
+top five pharmaceutical companies, in terms of sales, are Ranbaxy Laboratories, Dr. Reddy’s
+Laboratories, Aurobindo Pharmaceutical, GSK-India, and Cipla (table 3). These companies manufacture
+a wide range of generic drugs (branded and non-branded), intermediates, and active pharmaceutical
+ingredients (APIs) (table 4).22
+Table 3: India’s top 10 pharmaceutical company sales ($million)
+Company
+Sales turnover
+Share of market
+Ranbaxy Laboratories . . . . . . . . . . . . . . . . . . . .
+Dr. Reddy’s Laboratories . . . . . . . . . . . . . . . . .
+Cipla Ltd . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nicholas Piramal India . . . . . . . . . . . . . . . . . . .
+Aurobindo Pharmaceuticals . . . . . . . . . . . . . . .
+GlaxoSmithKline . . . . . . . . . . . . . . . . . . . . . . .
+Lupin Laboratories . . . . . . . . . . . . . . . . . . . . . .
+Sun Pharmaceuticals . . . . . . . . . . . . . . . . . . . .
+Cadila Healthcare . . . . . . . . . . . . . . . . . . . . . . .
+Wockhardt . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      Sub-total . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2004-05
+           776.8
+           387.3
+           534.3
+           323.7
+           258.0
+           202.1
+           329.3
+           159.3
+           248.4
+           188.5
+        3,407.7
+       4,662.0
+2005-06
+                   
+      1,176.0
+         534.5
+         719.0
+         344.7
+        380.3
+         342.9
+         395.5
+         375.2
+         254.2
+         217.5
+      4,739.8
+    6,205.0
+2004-05
+                23
+                11
+                16
+                  9
+                  8
+                  6
+                10
+                  5
+                  7
+                  6
+                73
+2005-06
+                        19
+                          9
+                        12 
+                          6
+                          6 
+                          6
+                          6
+                          6
+                          4
+                          4
+                        76
+Because of rounding figures may not total 100 percent. FY2005-06: $1=Rs 44.2735; FY2004-05: $1=Rs 44.9315. 
+Source: Economic Times, Orbis, Stock Market Quotes, and Company Research. 
+In terms of total sales, Ranbaxy Laboratories is India’s largest pharmaceutical company and one
+of the world’s top ten generic drug makers. In 2005, exports accounted for nearly 80 percent of
+Ranbaxy’s sales and the United States is Ranbaxy’s largest market. Ranbaxy accounts for 23 percent of
+ Amanda Chater, “Indian companies gain traction in U.S. generics market,” Drugstore News, Sept. 25, 2006, pp. 34-
+23
+35. 
+7
+India’s pharmaceutical industry revenues.  Ranbaxy is a vertically integrated company with a presence
+23
+across the pharmaceutical value chain, offering a range of  unbranded and branded generics, active
+pharmaceutical ingredients, and biotechnology products. Ranbaxy markets its products in more than 100
+countries, a sales presence in 23 of the world’s top 25 pharmaceutical markets, and has manufacturing
+facilities in 8 countries. Cipla, India’s second-largest pharmaceutical company, is best know for its anti-
+AIDs drugs, and Dr. Reddy’s Laboratories, India’s third-largest pharmaceutical company, also rely
+heavily on exports as its revenues.
+Table 4: Principal products of India’s leading drug manufacturers
+Company
+Principal products: bulk and generic drugs
+Percent of sales
+Ranbaxy Labs
+Anti-infectives, cardiovascular, gastrointestinal, central nervous
+(diazepam, midazolan), ophthalmic & ointments, urologicals, nutritionals, 
+sex hormones, analgesics, anti-asthma, cough & cold, vaccines.
+Bulk: 22%,
+Generic: 78%
+Dr. Reddy’s
+Cardiovascular, gastrointestinal, anti-infectives, pain management
+Bulk: 40%
+Generic: 60%
+Cipla
+Antibiotics, anti-asthmatics, anti-AIDs and TB drugs, anabolic steroids,
+analgesics-antipyretics, antacids, anti-arthritis, anti-inflammatory, anti-
+cancer, antidepressant agents, anti-diabetic, anit-epileptic, anti-fungal,
+anti-malarial.
+Bulk 7%, 
+Generic: 93%
+Wockhardt
+Anti-infectives, pain management, nutraceuticals
+Bulk drugs: 19%,
+Generic: 81%
+Pfizer India
+Nutritionals, cough syrup, anti-arthritis, anti-infectives, cardiovascular
+Generic: 100%
+Sun Pharma
+Neuro-psychiatry, cardiovascular, gastrointestinal, diabetic, gynecological,
+anti-allergic, antidepressants, cholesterol reducers, anti-asthma, Parkinson,
+ADD, pain.
+Bulk: 18%
+Generic: 82%
+GSK
+Anti-infective, anti-inflammatory, analgesic, gastro-enterological, anti-
+allergic, dermatological.
+Generic: 100%
+Lupin
+Tuberculosis medication, antibiotics, cardiovascular.
+Generic: 100%
+Cadila
+Cardiovascular, gastrointestinal, anti-inflammatory/analgesic,
+antibiotics/anti-infectives, vaccines/immunomodulators, anti-diabetics;
+vitamins.
+Generic: 100%
+Nicholas Piramal
+Analgesics-anti-inflammatory, antibiotics, antifungal, antihistamines,
+antiseptics, cardiovascular, central nervous system, diabetic, dermatologic,
+endocrinologic, gastro-enterological, vitamins, pulmonary-respiratory,
+trauma-emergency, gastrointestinal, NSAIDs.
+Generic: 100%
+Aurobindo
+Pharmaceuticals
+Antibiotics, anti-retrovirals, cardiovascular, central nervous system, gastro-
+enterological, anti-allergy.  
+Generic: 100%
+Sources: Union Budget 2006-07.
+MNC presence in India: Many of the world’s leading pharmaceutical companies have
+subsidiaries or other operations in India. Multinational companies like GlaxoSmithKline (GSK) Baxter,
+Aventis, Pfizer, Novartis, Wyeth, and Merck have been active in India’s pharmaceutical market mainly
+ “GSK Pharma Net Up 16.3% yoy,” India Infoline, Feb. 19, 2007.
+24
+ Staff interview with FICCI officials, Apr. 24, 2007.
+25
+ “Indian pharma mkt to grow at 13.6% from 2006-10: Assocham,” India Infoline.cim, Nov. 13, 2006.
+26
+ “India’s drug sector tackles new patent regime,” in-Pharma Technologist.com, Feb. 14, 2005.
+27
+ Gauri Kamath, “Is the pharma dream run over?” Business Week, June 16, 2004.
+28
+8
+through subsidiaries. The re-introduction of product patents precipitated the return of a large number of
+other MNCs, some of whom left during the process patent era. MNC pharmaceutical companies have
+also been attracted by tax holidays, the deduction of capital R&D expenditures, and other financial
+incentives offered by the Indian government. Industry sources indicate that the most significant
+challenges facing MNCs are the uncertainly over pharmaceutical price controls and data exclusivity.  
+24
+There are approximately 34 foreign drug companies engaged in the Indian pharmaceutical market
+and among them are 15 of the world’s 20 largest pharmaceutical companies. According to FICCI,
+although MNCs have not launched new products they have invested in new production facilities and
+R&D centers and many are engaged in contract manufacturing, clinical trials, and other forms of
+outsourcing.  In 2005-06, MNCs invested more than $172 million in India’s pharmaceutical industry and
+25
+FDI has grown by a compound annual growth rate (CAGR ) of 62 percent during 2002-06.  However,
+26
+many industry experts believe that the return of the world’s leading pharmaceutical companies will
+gradually erode India’s cost advantages. According to the Organization of Pharmaceutical Producers of
+India, multinational drug companies currently command 24 percent of the domestic Indian market,
+through their share could rise to 40 percent by 2010.27
+GSK-India, a 51 percent subsidiary of GSK Plc (UK), is the largest foreign company in India’s
+pharmaceutical market, its fourth largest pharmaceutical company, and leading prescription drug
+supplier. GSK-India operates two Indian manufacturing plants and controls approximately 5.9 percent of
+the domestic Indian market. GSK-India is among India’s leading suppliers of anti-infective, anti-
+inflammatory, analgesic, gastro-enterological, anti-allergic, and dermatological drugs. GSK-India
+announced plans to extend its product line by launching several antibiotic, cancer, and cardiovascular
+products in India in the near term. Likewise, MNCs dominate India’s OTC (over the counter) drug
+market, with Pfizer accounting for 5.1 percent of the market, Sanofi-Aventis for 5.0 percent, and Johnson
+& Johnson for 4.8 percent. These companies offer analgesics, cough and cold preparations, indigestion
+medicines, skin care products, and vitamins and minerals. Other foreign multinationals active in India’s
+pharmaceutical market include: Bristol-Myers Squibb, Eli Lilly, Boehringer, Bayer, Chiton Corp, Abbott,
+AstraZeneca, Janssen, and Roche. 
+Recently, Teva Pharma (Israel), the world’s leading generic drug manufacturing company,
+acquired a bulk drug manufacturing and intermediate facility in the State of Uttar Pradesh, announced
+plans to add two more units, and more than triple the value of its exports from India by the end of 2007.
+Teva also opened an R&D facility in India and announced plans to register between 10 and 15 bulk drugs
+per year in the United States from its Indian facilities.28
+Industry structure
+Mergers, acquisitions, and other alliances: The last 3 years have seen a significant rise in
+the number of consolidations, mergers & acquisitions, and other types of alliances and tie-ins in the
+Indian pharmaceutical industry. Most of the acquisitions involve Indian companies searching for ways to
+penetrate overseas markets and widen their global footprint, diversify and enhance their product
+portfolios, offer their customers a ‘nearshore-offshore’ option, improve their custom manufacturing,
+packing, and R&D capabilities, acquire existing brands, and gain access to the highly regulated markets
+ Ravi Krishnan, “It’s Europe for Ranbaxy,” The Financial Express, Apr. 1, 2006.
+29
+ “Indian pharma firms expand global footprint in 2006,” The Economic Times, Dec. 25, 2006.
+30
+ “India Pharma Inc - Competing Globally,” Pharma Summit 2006, Sept 14, 2006, KPMG. 
+31
+ Europe’s three major generics markets are Germany, France, and the United Kingdom.
+32
+9
+of Western Europe and the United States. Indian companies without significant R&D capabilities for
+drug discovery are also purchasing Western drug discovery companies.
+In 2005-06, 18 Indian companies spent approximately $1.6 billion to acquire generic drug
+manufacturing firms in Europe, North America, and Mexico.  These companies included Ranbaxy, Dr.
+29
+Reddy’s Labs, Nicholas Piramal, Sun Pharmaceutical, and Jubilant Organosys (table 5).  Although
+30
+eleven of these transactions were for medium-and-small sized companies valued between $5 million and
+$30 million, several have been significant acquisitions valued in excess of $500 million. To date, Dr.
+Reddy’s purchase of Betapharm Arzneimittel of Germany for $572 million is the industry’s largest
+overseas acquisition. Other significant deals include Ranbaxy’s purchase of Terapia (Romania) and RPG
+Aventis (France) and Matrix’s acquisition of API of Belgium. With these acquisition; Dr. Reddy’s
+became Germany’s fourth largest generic drug company and Ranbaxy became Romania’s third largest
+generic drug company and one of Belgium’s top 10 generic providers.  India’s pharmaceutical industry
+31
+should witness a significant decline in the number of smaller companies that either leave the market or
+are acquired by larger Indian or foreign companies. Since 2000, a number of smaller Indian
+pharmaceutical companies have been acquired by larger companies including Wockhardt’s acquisition of 
+Merind and Tata Pharma; Ranbaxy’s purchase of Crosland; Nicholas Piramal’s acquisition of Roche,
+Boehringer, and Sumitra Pharma, and Glaxo-Wellcome’s merger with Ciba-Sandoz. Matrix, one of
+India’s and the world’s leading producers of APIs, was acquired by Mylan (US) in January 2007 for $546
+million. Mylan, one of the largest generic drug producers in the United States, acquired Matrix to expand
+its manufacturing capabilities, gain a foothold in key markets, and gain access to Matrix’s  technical and
+scientific expertise.
+Since 2005, Europe has become a counterweight to the U.S. market and its growing pricing
+pressures. In exploring Western Europe for acquisitions, Indian pharmaceutical companies found a wider
+range of companies available at more reasonable valuations.  The new patent regime is also forcing the
+32
+Indian pharmaceutical market to consolidate, and only firms with a global presence and significant R&D
+capabilities for drug discovery, drug delivery systems, and technology licensing will prosper into the
+future.
+10
+Table 5: Selected international acquisitions and foreign tie-ins by the Indian pharmaceutical industry
+Company
+International acquisition (s) 
+Foreign alliances, JVS, and  other tie-ins
+Nicholas
+Piramal
+Pfizer-Morpeth (UK), Avecia Pharma (UK), Dobutrex
+brand acquisition (US), Rhodia’s inhalation business
+(UK) , Biosyntech (NPIL Pharma) (Canada), Torcan
+Chemical (Canada), 51% of Boots ( S. Afruica), Bio
+Syntech  
+Ethypharm (France), Genzyme (US), Eli Lilly
+(US), Biogen Idec (US), Chiese Farmaceutici
+(Italy), Minrad (US), Pierre Fabre (France).
+Gilead Sciences (US), Allergan (US),
+Hoffmann-La Roche (Switzerland)
+Ranbaxy 
+Terapia (Romania), Allen -GSK (Spain & Italy),
+Ethimed (Belgium), Betapharm (Germany), RPG
+Aventis (France), 40% stake in Nihom Pharmaceuticals
+(Japan), Brand-Veratide (Germany), Efarmes (Spain),
+Be-Tabs (S. Africa), Akrikhin (Russia), Basic
+(Germany), Ohm Labs (US)
+GlaxoSmithKline (UK), Janssen-Ortho
+(Canada), IPCA Labs (US), Zenotech (India),
+Sonkel (S. Africa), Cephalon (US), Gilead
+Sciences (US), Schwarz (Germany)
+Dr.
+Reddy’s
+Betapharm Group (Germany), Trigenesis (US), BMS
+Laboratories and Meridian Healthcare (UK), Roche’s
+active ingredients business (Mexico), BMS Labs (UK)
+Novo Nordisk, Bayer AG (Germany), Par (US),
+Novartis (Switzerland), Merck (Germany), Clin
+Tech, Pharmascience (Canada), ICICI (India),
+Merck (Germany ), Schwartz ( )
+Marksans 
+Nova Pharmaceuticals (Australia)
+NA
+Aurobindo
+Milpharm (UK), Pharmacin (Netherlands) 
+Gilead Science (US), Citadel (India)
+Sun
+Pharma
+Able Lab (US), Caraco (US), Valeant Pharmaceuticals
+(US & Hungary), ICN (Hungary), Caraco (US), MJ
+Pharma 
+Dyax
+Dishman 
+I03S Ltd (Switzerland), Synprotec (UK), Carbogen
+Amcis (Switzerland), Solutia’s Pharma  (Switzerland)
+Azzurro (Japan) 
+Orchid
+Bexel Pharma (US)
+Stada, Alpharma, Par, Apotex
+Biocon
+Nobex (US)
+Centre of Molecular Immunology (Cuba)
+Wockhardt 
+Wallis Labs (UK), CP Pharma (UK), Esparma
+(Germany), Pinewood Laboratories (Ireland), Dumex
+(India)
+Pharma Dynamics (S. Africa)
+Cadila
+Alpharma (France-formulations), Dabur Pharma
+Redrock (UK)
+Schering (Germany), Boehringer Ingelheim
+(Germany), Viatris (Germany), Novopharm
+(Canada), MCPC (Saudi Arabia), Cipharm
+(Ivory Coast), Geneva (US), GSK (UK),
+Ranbaxy (India), Mallinckrodt (US), Mayne
+(Australia), Shinjuki (Japan), Zydus Atlanta
+Jubilant
+Organosys
+Target Research Associates (US), PSI (Belgium),
+Trinity Laboratories (US)
+NA
+Matrix
+Labs
+22% controlling stake in Docpharma (Belgium),
+Explora Lab (Switerland), MCHEM (China), Fine
+Chemicals (S. Africa), API (Beligum)
+Aspen, Emchem, Doc Pharma, Explora Labs
+Glenmark 
+Kinger Lab (Brazil), Uno-Ciclo (Brazil), Srvycal
+(Argentina), Medicamenta (Czech), Bouwer Bartlett
+Forest Labs (US), Lehigh Valley Technologies
+(US), Shasun (India), KV, Apotex (US)
+Source: IBEF, Ernst & Young, The Economic Times, individual company web pages. 
+ FICCI.com.
+33
+ “Domestic pharma to grow 13.6% in 2006-10: Assocham,” Pharmabiz.com, Nov. 31, 2006.
+34
+ CRAMS: The Gateway to Indian Success, Focus Reports.net, Sept. 2006.
+35
+11
+Contract research and manufacturing, outsourcing, and other services: The passage of
+the Patents (Amendment) Act 2005 has significant implications for both Indian and multinational
+companies competing in the Indian market. Leading Indian companies are moving away from a reliance
+on the domestic market to the development new drugs, exports to regulated markets, and cooperative
+agreements with MNCs. Facing lagging sales of patented drugs by MNCs in their home markets,
+declining R&D revenues, and rising costs, many MNCs have turned to contract manufacturing and
+research services (CRAMS), co-marketing alliances, outsourcing of research and clinical trials to reduce
+costs, increase development capacity, and trim the ‘time to market’ for new drugs. These strategies
+permit MNCs to focus on their core profit making activities (competencies), such as drug discoveries and
+marketing, rather than on manufacturing. India has emerged as the principal destination for global
+pharmaceutical companies across the pharmaceutical value chain. 
+Indian pharmaceutical companies have two basic options: compete with MNCs for vanilla
+generics and new chemical entities (new drugs) or co-operate (table 6). Subcontracting in India has
+gradually moved up the value-added chain from intermediates and APIs to new drug discovery, clinical
+trials, marketing, and sales. According to India’s Federation of Indian Chambers of Commerce and
+Industry (FICCI), many Indian companies, especially those without the resources for R&D, are
+embracing custom manufacturing, contract research, and marketing alliances to remain profitable.33
+Others are planning to manufacture and export vanilla generics to regulated markets before eventually
+producing either more difficult to manufacture generics or new chemical entities (proprietary drugs).
+Table 6: Strategic options for Indian companies
+Option to compete
+Option to cooperate
+* Market and sell plain vanilla and speciality generics.
+* Develop low risk NDAs
+* Develop follow-on biologics
+* Challenge IPRs on regulated markets
+* Invest in R&D for proprietary NCEs.
+* Provide contract manufacturing for MNCs
+* Supply APIs to MNCs
+* Partner with MNCs for their sales channels
+* Provide clinical outsourcing for MNCs
+* R&D collaboration
+Source: The Effect of Changing Intellectual Property on Pharmaceutical Industry Prospects in India China, DFID Health
+Systems Resource Centre 2004.
+Contract research and (custom) manufacturing services (CRAMS): CRAMS can be
+divided into 3 basic segments: the production of intermediates, active pharmaceutical ingredients for new
+chemical entities, and the manufacture of generic drugs. India has emerged as one of the world’s leading
+CRAMS providers for MNC innovator companies and now accounts for between 6 and 7 percent of the
+global market and many expect India will command at least 15 percent of the market by 2009-10.
+Although CRAMS is still in its nascent stages in India, it represents a significant opportunity for
+medium-sized Indian pharmaceutical companies. 
+In 2005, the Indian CRAMS market was estimated at $532 million with contract manufacturing
+accounting for nearly 84 percent of the total.  The remainder consisted mainly of contract research (not
+34
+including clinical trails). Both contract research and contract manufacturing grew by more than 40
+percent in 2005 compared with 2004 and industry experts maintain that Indian companies have the
+capacity to gain between 35 percent and 40 percent of the global CRAMS market.  The Associated
+35
+Chambers of Commerce and Industry of India (Assocham) projects that the domestic Indian CRAMS
+ Sanjiv Kumar, “Drug cos on a high!,” Mumbai Mirror, Nov. 12, 2006.
+36
+ Mithun Chandra G, “Sector Momentum Update - Pharma,” Birla Sun Life, June 16, 2005.
+37
+ The Confederation of Indian Industry (CII) estimates that it costs between $100 million and $200 million to develop
+38
+a new drug in India as compared to $500 million to $900 million in the United States. Sasikant Misra, 
+CRAMS (Contract Research and Manufacturing services), Confederation of Indian Industry.
+ Nicholas Piramal.com
+39
+ Jeetha D’Silva, “Drug cos bet on contract manufacturing,” The Economic Times, July 25, 2006.
+40
+ MG Arun, “Druggists swallow phoren pills to open new vistas,” The Financial Express, June 28, 2006.
+41
+ Jeetha D’Silva, “Drug cos bet on contract manufacturing,” The Economic Times, July 25, 2006.
+42
+ Pharmaceuticals, IBEF.
+43
+12
+market will reach $900 million by 2010 and the demand for contract clinical trials will grow from $100
+million in 2005 to $200 million in 2007 and to $1 billion by 2010.  
+36
+India’s competitive advantage lies in its lower production and research costs, its large pool of
+low cost technical and scientifically trained personnel, and the large number of U.S. FDA certified
+plants.  Other important factors include the popularity of outsourcing non-critical business functions to
+37
+India by MNCs, the reintroduction of product patents for pharmaceuticals, the growing importance of
+R&D related to drug discovery by Indian drug companies, and the growing demand for generic drugs in
+developed markets. It is estimated that manufacturing costs in India are between 30 and 40 percent lower
+than those in the United States and Western Europe and labor costs are one-seventh of that in the United
+States.   
+38
+Nicholas Pirmal India Ltd. is India’s leading contract manufacturer with CRAMS contracts
+valued at $250 million (table 7).  At present CRAMS accounts for approximately 30 percent of Nicholas 
+39
+Piramal’s total revenues in 2005 and plans to increase it to 50 percent by 2010.  In 2006, Nicholas
+40
+Piramal signed a 5-year, $350 million agreement with Pfizer for 12 products. The agreement made
+Nicholas Piramal Pfizer’s largest custom manufacturing partner.  To augment its global contract
+41
+manufacturing capabilities, Nicholas Piramal purchased Pfizer’s contract manufacturing facility in the
+United Kingdom (Morpeth) and Avecia Pharmaceutical. Its deal with Pfizer could potentially produce
+much as $350 million for Nicholas Piramal by 2010. Likewise Jubilant Organosys booked contracts
+worth $65 million for 2006 and 2007, and Shasun Chemicals and Drugs, India’s leading producer of
+ibuprofen, bought the CRAMS business of Rhodia Pharma Solutions (France).  Dishman Pharma and
+42
+Divi specialize in contract manufacturing of patented drugs and custom synthesis; Shasun and Matrix
+specialize in generics; and Shasun, Jubilant Organosys, Torrent, and Morepen specialize in old generics.
+MNCs like Aventis, Bayer, and Roche have announced plans to make India their regional hub for APIs,
+bulk drugs, and clinical research.43
+13
+Table 7: Selected CRAMS, contract research, and outsourcing deals in India
+Indian company
+CRAMS partner
+CRAMS product(s)
+Lupin Labs
+DMS (US) . . . . . . . . . . . . . . . .
+Fujisawa (Japan) . . . . . . . . . . . .
+Apotex (Canada) . . . . . . . . . . .
+API for cephalosporins
+Cefixime
+Cefuroxime, Axetil, Lisinopril
+Nicholas Piramal
+AMO (US) . . . . . . . . . . . . . . . .
+Allegran (US) . . . . . . . . . . . . . .
+AstraZeneca (Sweden) . . . . . . .
+Advanced Medical Optics (US)
+Pfizer (US) . . . . . . . . . . . . . . . .
+APIs and formulations
+Bulk drugs and formulations
+Intermediates and APIs
+Eye products
+API’s-formulations for veterinary products
+Wockhardt
+Ivax (US) . . . . . . . . . . . . . . . . .
+Anti-ulcer
+Dishman Pharma
+Solvay Pharma (Belgium) . . . .
+GSK (UK) . . . . . . . . . . . . . . . .
+AstraZeneca (Sweden ) . . . . . . .
+Merck (Germany) . . . . . . . . . . .
+APIs and formulations
+Intermediates and API
+Nexium
+Losartan
+IPCA Labs
+Merck (Germany) . . . . . . . . . . .
+Tillomed (UK) . . . . . . . . . . . . .
+Bulk drugs
+Atenelol
+Orchid Chemicals
+Apotex (Canada) . . . . . . . . . . .
+Bexel (US) . . . . . . . . . . . . . . . .
+Cephalosporin and other injectables
+Drug discovery research in metabolic diseases
+Sun Pharma
+Eli Lilly (US) . . . . . . . . . . . . .  
+Cardiovascular products, anti-infective drugs and insulin
+Kopran
+Synpac Pharma (US) . . . . . . . .
+Penicillin
+Cadila Healthcare
+Altana Pharma (Germany) . . . .
+Boehringer Ingelheim
+(Germany) . . . . . . . . . . . . . . . .
+Mayne (Australia) . . . . . . . . . .
+Intermediates and APIs
+Gastrointestinal and cardiovascular products
+JV for producing patent drugs
+Intermediates for oncology products
+Biocon
+Bristol Myers Squibb . . . . . . .
+Pfizer (US) . . . . . . . . . . . . . . . .
+AstraZeneca (Sweden) . . . . . . .
+Contract research for bulk drugs
+Contract research for bulk drugs
+Contract research for bulk drugs
+Bharat Biotech
+Wyeth (US) . . . . . . . . . . . . . . .
+Vaccine and bio-therapeutics
+Shasun Chemicals
+Eli Lilly (US) . . . . . . . . . . . . . .
+GlaxoSmithKline (UK) . . . . . .
+Reliant Pharma (US) . . . . . . . .
+Alpharma (US) . . . . . . . . . . . . .
+GSK (UK) . . . . . . . . . . . . . . . .
+Boots (S Africa) . . . . . . . . . . . .
+APIs
+APIs
+APIs
+Generics & APIs
+API’s for Ranitidine, nizatidine and cyclosorine
+API for Ibuprofen
+Jubilant Organosys
+Eli Lilly (US) . . . . . . . . . . . . . .
+Novartis (US) . . . . . . . . . . . . . .
+New chemical entities: CVS, CNS, diabetes, oncology.
+Intermediate and API
+Matrix
+GSK (UK) . . . . . . . . . . . . . . . .
+APIs
+Divi
+Merck, Abbot, GSK . . . . . . . . .
+Custom chemical synthesis
+Sources: Assocham, rediff, Economic Times, Business Standard, Financial Express, IBEF.
+ “Domestic pharma to grow 13.6% in 2006-10: Assocham,” Pharmabiz.com, Nov. 31, 2006.
+44
+ Clinical trials represent between 50 to 60 percent of a new drug’s development costs. By using India and other low-
+45
+cost countries, Western drug innovators can potentially reduce their costs per patient by 40 percent to 60 percent. Michael Block,
+Ajay Dhonkhar, Shanker Narayanan, “Pharma leaps offshore,” McKinsey Quarterly, July 2006.
+ “From Copycats to Innovators,” India Report, Focus Reports, Sept. 2006.
+46
+ Ranbaxy Laboratories. 
+47
+14
+Contract outsourcing: Western pharmaceutical companies are now outsourcing a wide range of
+activities including: the manufacture of APIs, chemical intermediates, and formulations; clinical research
+and clinical testing; and packaging and labeling. The Indian market for contract outsourcing has been
+driven by the need of leading MNC pharmaceutical companies to reduce production costs and increase
+revenues. These companies have shifted portions of the production, research & development, clinical
+trials, packaging and labeling, stability testing, and other types of drug development and discovery
+activities to India. In 2004, India’s drug outsourcing sector was valued at $470 million and was expected
+to grow by 30 percent per year to $800 million in 2005. Leading drug firms like Pfizer, AstraZeneca,
+Novartis, and Eli Lilly have already begun shifting a portion of these activities to India.
+According to India’s Chemical Pharmaceutical Generic Association, the domestic contract
+research market is growing between 20 percent and 25 percent per year and was valued at $120 million in
+2005 and is projected to grow to $200 million by the end of 2007. The Chemical Pharmaceutical Generic
+Associations also predicted that this segment will reach $1 billion by 2010.  The Association indicated
+44
+that India dwarfs its nearest rivals, Italy ($60-$70 million) and Spain ($25 million to $33 million), and
+projected that contract research in India will grow at an annual rate of between 20 percent to 25 percent.
+Clinical trials represent 65 percent of this market and new drug discovery makes up the remaining 35
+percent.  Companies active in India’s contract research market include: a limited number of
+45
+multinational corporations, subsidiaries of large international contract research firms (Quintiles,
+Covance), joint ventures and tie-ins between Indian and foreign companies, and stand-alone and
+offshoots of Indian companies. Several multinationals active in the Indian market have designated India
+as a hub for their production of active pharmaceutical ingredients and finished formulations. Divi Labs,
+Shasun Chemicals & Drugs, and Dishman Pharmaceuticals are among India’s leading contract research
+firms.
+Research and development (R&D): With the reintroduction of product patents, leading
+Indian pharmaceutical majors are altering their business strategies by placing greater focus on R&D and
+the discovery of new chemical entities. Traditionally, the vast majority of India’s pharmaceutical R&D
+spending was concentrated on reverse engineering and the adaptation of patented foreign drugs to the
+Indian market. Most of the industry’s funding went to research rather than to new drug discovery and
+development. Low levels of industry productivity and the relatively small size of India’s pharmaceutical
+companies limited funding for R&D as they dedicated only less than 2 percent of their annual turnover to
+R&D compared with between 15 percent and 20 percent allocated by Western innovator companies. 
+After 2005, India’s leading drug companies recognized that they could not survive as global
+players without significant R&D capabilities. Since 1995, total industry R&D spending has grown from
+nearly $30 million to more than $495.3 million in 2005-06 (table 8).  The vast majority of the industry’s
+46
+R&D spending is conducted by 15 companies whose R&D spending rose to $192.3 million in 2005 from
+$131 million in FY2004, representing an increase of 47 percent. R&D expenditures are expected to
+gradually rise to between 9 percent and 10 percent of total industry spending by the end of 2007.  
+47
+Likewise, the vast majority of the industry’s R&D expenditures on new drug discovery and
+development is conducted by a limited number of companies, with Dr. Reddy’s and Ranbaxy at the
+forefront. In 2005, Dr. Reddy’s committed 14 percent of its annual sales to R&D, whereas, Ranbaxy
+ Drugs & Pharmaceuticals, CII.
+48
+ Ibid.
+49
+ Ashok Ram Kumar, “Impact of TRIPs on Indian Pharma,” Pharmabiz, Dec. 2, 2004.
+50
+15
+allocated approximately 7 percent. Ranbaxy announced that it will gradually increase its R&D spending
+to between 9 and 10 percent of sales by the end of 2007. Others with significant R&D expenditures
+include Nicholas Piramal, Aurobindo Pharma, and Glenmark Pharma. 
+Table 8: India’s pharmaceutical R&D expenditures ($million)
+FYear
+Value 
+Percent change
+2000-01
+2001-02
+2002-03
+2003-04
+2004-05
+2005-06
+   97.8
+ 130.5
+ 175.3
+ 280.0
+ 392.4
+ 495.2
+                                                     33
+                                                     34
+                                                     60
+                                                     40
+                                                     26
+Source: Assocham.
+Driven by the dynamics of the market, leading foreign pharmaceutical companies have entered
+into R&D agreements with India’s leading drug companies. Facing spiraling costs and patent expiries for
+blockbuster drugs at home, many are looking to India as a low-cost alternative, especially due to the large
+number of U.S. FDA-approved plants located in India. MNCs have been attracted by India’s low costs
+for new drug discovery and many of these firms have founded state-of-the-art research facilities in India.
+Whereas new drug discovery costs between $100 million and $200 million in the West, the same process
+in India only costs approximately $10 million.  Likewise, clinical trials in India cost approximately $20
+48
+million while the cost abroad would ranges between $300 million and $350 million.49
+Strengths and weaknesses of India’s pharmaceutical industry: India’s comparative
+advantages lie in its cost competitiveness, its reverse engineering experience, its large pool of less
+expensive English-speaking scientific and engineering workers, and its well-developed chemical industry
+infrastructure (table 9). India’s pharmaceutical companies can also operate at much lower profit margins
+that their Western counterparts. Today, India produces some of the cheapest drugs in the world,
+especially because labor costs are 50 to 55 percent cheaper than in the West.  Industry experts indicate
+50
+that infrastructure costs are 40 percent lower and fixed cost are estimated to be 12 percent to 20 percent
+less that in the United States and Western Europe. Consequently, India can produce bulk drugs that cost
+60 percent less that in the West and can open a production plant in India 40 percent cheaper than in
+developed countries. Because of this, India has become a hub for pharmaceutical research and
+development and clinical trials for many leading foreign pharmaceutical companies.
+ “Domestic pharma to grow 13.6% in 2006-10 ‘Assocham’,” Pharmabiz.com, Nov. 30, 2006.
+51
+ “Indian pharma mkt to grow at 13.6% from 2006-10: Assocham,” India Infoline, com, Nov. 13, 2006.
+52
+16
+Table 9: Strengths and weaknesses of India’s pharmaceutical industry
+Strengths
+Weaknesses
+* Cost advantages (development, manufacturing, R&D,
+       clinical trials, and labor).
+* Large pool of highly trained manpower.
+* 2  largest number of U.S. FDA approved facilities (61).
+nd
+* TRIPS compliance.
+* Lower operating margins. 
+* Drug cost a fraction of the cost in the West.
+* Growing biotechnology industry.
+* Reverse engineering skills.
+* Largest number of DMFs.
+* Bio-diversity.
+* FDI up to 100 percent.
+* Strong IT skills for research data management.
+* Political stability.
+* Strong marketing and distribution network.
+* Well established network of laboratories.
+* Low level of investment in R&D.
+* Highly fragmented industry.
+* Government price controls.
+* Low margins.
+* High tariffs and taxes.
+* Substandard drugs and counterfeiting.
+* Most Indian companies are small by world standards.
+* High logistics costs.
+* Lack of experience in drug discovery.
+* Industry concentrated at lower end of value chain.
+* Corruption.
+* Weak domestic market.
+* Low levels of per capita medical expenditure.
+* High logistics costs.
+* Lack of experience in drug discovery.
+Source: CII, Intec.net, Financial Express, Bain & Company.
+Indian Market
+The Indian pharmaceutical market is small, both by Western standards and in terms of per capita
+consumption. Although India is the world’s leading producer of generic drugs, its annual per capita
+consumption of pharmaceuticals is among the lowest in the world at approximately $4.50 per person, as
+compared with $820 in the United States and $13 in China in 2006. The value of India’s pharmaceutical
+industry nearly doubled from $3.2 billion in 2000 to more than $6.2 billion in 2005, or by an average of
+12 percent annually (table 10). According to the Associated Chambers of Commerce and Industry of
+India (Assocham), the Indian pharmaceutical market is expected to grow at an average annual rate of 13.6
+percent during 2006-2010 to reach $9.5 billion in sales by 2010.  This
+51
+growth is expected to be driven by: access to low cost, high volume generic drugs; mergers and
+acquisitions: industry consolidation; and India’s growing importance as a pharmaceutical contract
+manufacturing and services location.  Approximately 80 percent of domestic industry production
+52
+consists of formulations, with the remainder consisting of bulk drugs.
+Table 10: Indian pharmaceutical market ($million)
+Year
+Total 
+Percent change
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+3,244
+3,260
+3,735
+4,088
+4,662
+5,344
+6,205
+                                                                        0.5 
+                                                                         15
+                                                                         10
+                                                                         14
+                                                                         15
+                                                                         16
+Sources: U.S. Census Bureau; Economist Intelligence Unit; and World Trade Atlas.
+ Estimates range between 80 million and 100 million potential consumers that can afford expensive ‘lifestyle’
+53
+medicines. 
+ Khomba Singh, “Pharma cos see future in chronic medicines,” The Economic Times, Apr. 9, 2007.
+54
+ Ames Gross and Sunil Patel, Indian Pharmaceutical Industry: Market, Regulatory, Import and Investment Regime,
+55
+Pacific Bridge Medical, Inc., May 2002. 
+17
+In the post-product patents era, India’s domestic market is changing, reflecting rising disposable
+incomes in urban areas and changes in India’s demographic profile. Leading drug companies are putting 
+more emphasis on meeting a growing demand for high value low volume, Western-style “lifestyle”drugs
+for wealthy urban customers who make up approximately 12 percent of the market.  This highly
+53
+lucrative market segment includes drugs for “chronic” or “lifestyle” diseases have grown from 10 percent
+to 20 percent of the market in the mid-1990s to between 25 and 35 percent of the market today.   The
+54
+demand for these drugs is growing at a faster rate, at 18 percent, than domestic demand for the acute drug
+segment (12 percent). India has often been called the world’s diabetes capital and the rates of aliments
+like hypertension and high cholesterol are increasing annually. According to Sanjay Kaul, General
+Manager of Mankind Pharma’s Product Division, the lifestyle drug segment will fuel the growth of
+India’s pharmaceutical industry and includes anti-diabetes, anti-ulcer, anti-depressants, cardiovascular,
+hypertension drugs, Alzheimers disease, osteoarthritis, and cancer.
+Intense domestic competition, a growing reliance on exports by the largest producers, and India
+as a growing market for contract manufacturing, contract research and development, and clinical trials,
+were among the forces behind the industry’s growth. Prescription drugs dominate the Indian market,
+accounting for 85 percent of India’s pharmaceutical production in 2005. The Indian pharmaceutical
+industry accounts for the second largest number of Abbreviated New Drug Applications (ANDAs), is the
+world’s leader in Drug Master Files (DMFs) applications with the U.S. Food and Drug Administration,
+and has the largest number of FDA-approved manufacturing plants (75) outside of the United States.
+Many of India’s leading Indian pharmaceutical companies have also been certified by regulatory
+authorities in Australia, South Africa, and the EU. 
+Imports: India’s consumption of imported pharmaceuticals accounts for only a tiny portion of
+the world’s production. Its imports consist almost entirely of life-saving drugs and new generations of
+formulations that are under patent by innovator companies. These include anti-cancer, cardiovascular,
+and anti-hypertension drugs imported primarily by major global pharmaceutical companies for sale in the
+Indian market. Within these categories, leading imports consisted of penicillin (13 percent), antibiotics
+for combating stomach infections (9 percent), and other medicines for retail sales in dosage form (19
+percent). Life saving drugs can be imported into India duty free, whereas all other pharmaceutical
+imports faced a base duty rate of 30 percent and an effective duty rate of 56.8 percent in 2002, compared
+with “zero” duty in the United States.  India’s imports of finished pharmaceutical drugs, intermediates,
+55
+and APIs nearly tripled in value from $516.1 million in 1999 to more than $1.3 billion in 2005 (tables 11
+& 12).
+18
+Table 11: India’s pharmaceutical imports, 2005 ($million)
+Year
+Value
+Percent change
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+     516.1
+     547.1
+     593.5
+     847.1
+     954.3
+  1,050.2
+  1,346.3
+                                                             6
+                                                             8
+                                                           43
+                                                           13
+                                                           10
+                                                           28
+   
+Source: World Trade Atlas.
+Table 12: India’s pharmaceutical imports by product group (2005)
+Year
+HTS No.
+Imports by product group
+Value 
+Percent of total
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+      2941
+      2942
+      3004
+      2937
+      3002
+      2936
+      3003
+Antibiotics
+Antibiotics for stomach
+Other medicines
+Hormones
+Blood, vaccines
+Vitamins
+Mixtures, not in dosage form
+      421
+      384
+      249
+        89
+        71
+        35
+        27
+                      31
+                      29
+                      18
+                        7
+                        5
+                        3
+                        2
+Source: World Trade Atlas.
+India’s top 7 import source countries accounted for approximately 32 percent of the total during
+2005, down from 37 percent in 2004 (table 13). India’s leading import suppliers included Switzerland (8
+percent), Germany (6 percent), the United States (7 percent), and France (3 percent). Although India’s
+pharmaceutical market is relatively small, at least 45 MNC pharmaceutical companies are serving the
+market through subsidiaries, other tie-ins, and imports. India’s imports from Switzerland, the United
+States, and Germany consisted primarily of other medicaments in dosage form for retail sales (HTS.
+Subheading 3004).  
+Table 13: India’s pharmaceutical imports from top 7 countries, by value ($ million)
+Country
+2002
+2003
+2004
+2005
+Jan - June 2005
+Jan - June 2006
+Switzerland
+Germany
+United States
+France
+Denmark
+Belgium
+United Kingdom
+    Total
+  92.6
+  57.6
+  62.6
+  33.6
+  31.4
+    9.6
+  24.9
+312.3
+  95.7
+  52.6
+  76.0
+  30.2
+  33.3
+  15.7
+  25.6
+329.1
+  82.8
+  61.9
+  77.2
+  23.1
+  24.3
+  10.0
+  40.6
+319.9
+109.2
+  85.3
+  97.2
+  36.8
+  42.7
+  21.9
+  34.9
+428.0
+  63.3
+  58.1
+  48.3
+  22.5
+  17.7
+  13.6
+  22.9
+246.4
+115
+51.3
+53.5
+25.5
+13.9
+22.0
+24.5
+305.2
+Source: World Trade Atlas. 
+ “India Healthcare: Ranbaxy ready to take on the world,” Financial Times, Oct. 11, 2006.
+56
+19
+Exports: After nearly 30 years of focusing inward, India’s pharmaceutical industry has emerged
+as a global player satisfying a significant portion of the world’s generic drug needs. Attracted by high
+drug prices in the West, India’s pharmaceutical exports grew from $1.9 million in 1999 to $5.2 billion in
+2005 (table 14). In the last 5 years, India’s exports more than doubled and account for approximately 40
+percent of total industry production and nearly 30 percent of its revenues. India also enjoyed a trade
+surplus that increased from $3.1 billion in 2004 to $3.8 billion in 2005, or by 23 percent. India’s exports
+should continue to show strong growth through 2010 as $60 billion worth of patented drugs lose their
+patent protection in the United States and Western Europe.  Assocham predicts that Indian companies
+56
+will capture at least 30 percent of the replacement market of generic drugs.
+Table 14: India’s pharmaceutical exports ($million)
+Year
+Value
+Percent change
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+Jan.-June 2005
+Jan.-June 2006
+  1,913.0
+  2,053.2
+  2,311.2
+  2,860.9
+  3,514.8
+  4,188.7
+  5,150.1
+  3,349.1
+  4,074.1
+                        7
+                      13
+                      28
+                      23
+                      19
+                      23
+                      22
+Source: World Trade Atlas.
+According to Assocham, the importance of exports has grown dramatically over the last 5 years
+due to declining profit margins and the extremely price-competitive nature of the domestic Indian
+pharmaceutical market. Exports have grown to constitute a major revenue source for India’s major
+pharmaceutical companies including Ranbaxy, Cipla, and Dr. Reddy’s. Collectively, regulated markets
+accounted for more than 50 percent of their total annual revenues. In 2005-06, Ranbaxy derived nearly 80
+percent of its sales revenues from exports, while exports and international acquisitions accounted for 66
+percent of Dr. Reddy’sales and 50 percent of Cipla’s. The successful penetration of the U.S. and EU
+markets has encouraged a growing number of Indian “copycat” companies to enter these markets.
+India’s exports to the regulated Western markets are expected to remain strong in the mid-term,
+event though Indian companies will be challenged by declining prices in the U.S. market, declining profit
+margins, growing competition from other low-cost countries, parallel launches of authorized generics by
+Western innovator companies, and the increasing power of large distributors in the U.S. and European
+markets. About $60 billion in blockbuster drugs will open to generic competition between 2002 and 2010
+and Indian companies are expected to vie for a significant percentage of that business.
+India exports pharmaceuticals to more than 200 countries and on a country-wise basis, India’s
+five largest export markets are the United States (28 percent), Russia (11 percent), Germany (10 percent),
+the United Kingdom (8 percent), and China (7 percent) (table 15). All of India’s major pharmaceutical
+companies are looking at the global market to accelerate their growth. They are looking at all markets
+with potential including the regulated markets of the United States, Japan, and Europe; the semi-
+regulated markets of BRIC countries; and less regulated markets of Africa, Middle East, and Southeast
+Asia. India has also become a very important source of generic drugs for the developing world and is the
+leading supplier of AIDs drugs to the world. Indian companies like Cipla and Ranbaxy have driven the
+ Donald G. McNeil, “India Alters Law on Drug Patents,” The New York Times, March 24, 2005.
+57
+ Gregory Roumeliotis, “India geared up for unprecedented manufacturing growth,” in-Pharma Technologist.com,
+58
+Aug. 15, 2006.
+20
+down the annual cost of anti-retroviral treatment from $15,000 per patient in 1995 to $200 in 2005.57
+Other leading exporters include Dr. Reddy’s, Wockhardt, Sun Pharma, and Lupin Labs.
+The vast majority of India’s exports, by value, are destined for the developed economies of the
+West, particularly the United States, Germany, the United Kingdom, and France. Exports to these
+countries consist primarily of bulk drugs that account for nearly 60 percent of India’s pharmaceutical
+exports. The remainder, mostly formulations, are exported to the countries of the former Soviet Union
+(CIS) and developing countries (Southeast Asia, Africa, and Latin America). India continues to be a
+leading supplier of less expensive antibiotics, cancer therapy, and AIDs drugs to the developing world. In
+2005, more than 90 percent of India’s exports are of drugs that are no longer protected by patents. 
+India’s largest single export market continues to be the United States, which is the world’s
+largest generic drug market. Exports to the United States grew from $429 million in 2003 to $589 million
+in 2005, or by 37 percent. The percentage of total exports represented by the United States declined
+slightly from 12 percent in 2003 to 11 percent in 2005. This decline can be attributed to the introduction
+of authorized generic drugs by domestic U.S. pharmaceutical giants, lagging profits and declining generic
+drug prices, and growing competition from other low-cost countries, particularly Israel, China, Korea,
+and those from East Europe.  To offset revenue losses from total sales in the United States during 2005-
+58
+06, India’s leading exporters have been aggressively shifting their attention to Europe and Africa.
+Europe, the world’s third largest pharmaceutical market, behind the United States and Japan, had generic
+sales of approximately $100 billion primarily in the UK, Germany, and France. As previously stated,
+Indian pharmaceutical companies have made a number of acquisitions in Europe to gain a foothold in its
+markets. European generics markets considered to be under served include Spain, Italy, and France, and
+are expected to be important and growing markets for Indian exporters in the next 5 years.
+Table 15: India’s pharmaceutical exports to top 15 countries, by value ($million)
+Country
+2003
+2004
+2005
+United States
+Russia
+Germany
+United Kingdom
+China
+Brazil
+Nigeria 
+Canada
+Italy
+South Africa
+Netherlands
+UAE
+Turkey
+Ireland
+     Total
+                    421
+                    129
+                    165
+                      81
+                      73
+                      70
+                      71
+                      60
+                      45
+                      26
+                      52
+                      43
+                      28
+                      12
+                 1,276
+                        497
+                        157
+                        172
+                        104
+                          80
+                        173
+                          94
+                          84
+                          54
+                          41
+                          55
+                          52
+                          40
+                          52
+                     1,655
+                    575
+                    219
+                    211
+                    165
+                    139
+                    121
+                    110
+                    100
+                      81
+                      80
+                      80
+                      68
+                      67
+                      57
+                 2,073
+Source: World Trade Atlas. 
+One of the preferred methods of penetrating the U.S. market has been by aggressively
+challenging the patents on blockbuster drugs. If successful, the challenger can obtain 180-day Exclusive
+Marketing Rights (EMR) to sell its generic version before other competitors are allowed into the market.
+ “Ranbaxy says it will keep attacking patents,” New York Times, Dec. 21, 2005.
+59
+ ANDAs were introduced in the Hatch-Waxman Act and are used by foreign generic drug makers to challenge a U.S.
+60
+patent before its expiry. If successful, the applicant gets a 6-month (180 day) exclusive right to sell its generic version. At the end
+that period, other generic drug companies can enter other versions of the molecule and generally the price of the generic version
+falls sharply.
+ Statistics, Generic Pharmaceutical Association.
+61
+21
+For example, Ranbaxy won an EMR against Merck for the production of a generic version of Prozac and
+the U.S. FDA permitted Ranbaxy to offer an 80mg generic version of Prozac for 180 days before others
+could offer competing generic products. Ranbaxy is also challenging patents on 6 other drugs in the
+United States like Valtrex (GSK’s herpes drug), Nexium (AstraZeneca’s anti-ulcer drug), and Actos
+(Tekeda’s insulin sensitizer).  Another popular tactic is to file Abbreviated New Drug Applications
+59
+(ANDAs) with the U.S. FDA.60
+On an individual product level, India’ leading exports include other medicaments packaged for
+retail sales (HTS subheading 3004), antibiotics, penicillin, and vitamins (table 16). Other medicaments
+exports more than tripled during 1999-2005, growing by $614 million to $2.2 billion in 2005. These
+products have traditionally dominated India’s exports and their dominance has grown over the years,
+from 74 percent of the total in 2003 to approximately 90 percent in 2005. Exports of other medicaments
+were dominated by other generic and over-the-counter drugs (HTS 3004.90) that grew from $281 million
+in 2002 to $1.4 billion in 2005 representing 62 percent of India’s exports during 2005. This Subheading
+includes generic and over the counter drugs such as anti-ulcer and anti-fungal medication, analgesics,
+drugs to treat irregular heartbeat (arrhythmia) and high blood pressure, anti-infectives, anti-seizure
+medication, and antacids and other gastrointestinal drugs.  
+Table 16: Indian pharmaceutical exports, by commodity  ($million)
+HTS 
+Subheading
+Commodity description
+2002
+2003
+2004
+2005
+Jan-June
+2005
+Jan-June 
+2006
+3004.90
+3004.20
+3004.10
+3004.50
+3003.90
+3002.20
+3003.20
+3003.39
+3004.39
+3004.31
+3004.40
+3005.90
+3001.10
+3003.10
+    Total
+Other medicaments of HTS 3004
+Antibiotics
+Penicillin and streptomycin
+Vitamins
+Other medicaments of HTS 3003
+Vaccines for human medicine
+Antibiotics
+Hormones, no antibiotics
+Other hormones, no antibiotics
+Insulin
+Alkaloids, no hormones or antibiotics
+Other wadding, gauze, bandages
+Dried glands and organs
+Penicillin
+  281
+    55
+    38
+    31
+    71
+    36
+    13
+      1
+    10
+      4
+      6
+      3
+      4
+      4
+  557
+    827
+    165
+      79
+      62
+      66
+      66
+      42
+      50
+      14
+        3
+      11
+      10
+        7
+      11
+ 1,413
+ 1,011
+    193
+    104
+     96
+    152
+      68
+      89
+      58
+      16
+      25
+      14
+      10
+        8
+      16
+ 1,860
+ 1,391
+    271 
+    152
+    128
+    109
+      65
+      52
+      34
+      26
+      22
+      20
+      16
+      13
+      12
+ 2,311
+          673
+          139
+            73
+            50
+            50
+            61
+            44
+            16
+            12 
+            10
+            10
+              8
+            11
+              9
+       1,166
+            757
+            179
+              96
+              69
+              69
+              69
+              61
+              25
+              12
+                9
+              11
+              10
+                1
+                8
+         1,376
+Source: World Trade Atlas. 
+The role of Indian generic drugs in the U.S. market
+Overview: The United States is the world’s largest single market for pharmaceutical products
+accounting for nearly 50 percent of the value of the total world market. According to the Generic
+Pharmaceutical Association, U.S. retail drug sales for 2006 totaled $221 billion and generic
+pharmaceutical sales totaled $54.1 billion.  U.S. pharmaceutical sales grew by 73 percent from $128.1
+61
+ France is next spending $457 per capita followed by Japan at $339. Economist Intelligence Unit.
+62
+ “Express Scripts Study Shows Substantial Savings Opportunity for Consumers, states, Health Care Purchasers with
+63
+Generics, says GPhA,” Generic Pharmaceutical Association, Press release, Aug. 16, 2005. 
+ 2006 Chain Pharmacy Industry Profile, The National Association of Chain Drug Stores.
+64
+ Pharmaceuticals in the United States, Industry Profile, Datamonitor, Dec. 2005.
+65
+ Bernard Rhee and M. June Casalmir, “Pfizer/Pharmacia Merger – The Biggest Just Got Bigger, FindLaw, May 28,
+66
+2003. 
+22
+billion in 2000 (table 17). Together, the United States and Canada account for more than 50 percent of
+global sales and U.S. and Canadian generic commodity-type drug sales was estimated at $65 billion in
+2005.   
+62
+In 2005, generic drugs accounted for approximately 63 percent of total U.S.-dispensed
+prescriptions and, on average, generic drugs cost between 30 percent and 80 percent less than their
+branded counterparts.  On average, the price of a generic commodity type prescriptions was $29.82
+63
+compared with the average price of brand-name prescription drug at $101.71.  According to the Generic
+64
+Pharmaceutical Association, the U.S. market for generics grew by 23 percent in 2006 due to a greater
+acceptance of generics, changes in U.S. FDA’s generic drug approval process, Medicare Part D, and
+declining prices driven by fierce price competition. Generic drug sales are projected to grow by 10 to 12
+percent over the next 5 years as more blockbuster drugs lose their patent protection. 
+Table 17: Retail drug sales in the United States, ($million)
+Year
+Value ($million)
+Percent change
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+             128,074
+             148,565
+             163,039
+             182,979
+             194,480
+             207,303
+             221,059
+                                            16
+                                            10
+                                            12
+                                              6
+                                              7
+                                              9
+Source: Economist Intelligence Unit.
+U.S. pharmaceutical companies dominate the world’s drug markets. Of the world’s 10 leading
+drug companies, five are based in the United States. The top nine U.S. drug manufacturers account for
+nearly 70 percent of U.S. drug sales. The leading revenue earners were drugs for the central nervous
+system, which generated $53.9 billion, or 21 percent of the total U.S. drug market in 2005.  The second
+65
+leading category was drugs for the cardiovascular system, which accounted for 19 percent of total U.S.
+drug sales, or $496 billion. Pfizer, the U.S. and world’s leading research-based pharmaceutical company,
+controlled approximately 11 percent of the world market and 13 percent of the U.S. market in 2005.66
+Pfizer’s most important products include Lipitor (the world’s best selling drug) and Norvasc (the world’s
+most prescribed anti-hypertension drug). Other leading pharmaceutical companies in the U.S. market are
+GSK (UK), Johnson & Johnson, and Merck (table 18). 
+ Statistics, Generic Pharmaceutical Association.
+67
+ Amanda Chater, “Generic sales soar as patents expire,” Drugstorenews, Aug. 28, 2006.
+68
+ Aaron Smith, “Generic drugs concoct their next move,” CNN Money, Feb. 9, 2007.
+69
+ Ravikrishnan, “It’s Europe for Ranbaxy,” The Financial Express, Apr. 1, 2006.
+70
+23
+Table 18:   Global sales by leading pharmaceutical companies in the U.S. market ($billion)
+Company (country)
+2003   
+2004
+2005
+Pfizer (US)
+Johnson & Johnson (US)
+GSK (UK)
+Merck (US)
+Abbott Labs (US)
+Bristol-Myers Squibb (US)
+AstraZeneca (UK)*
+               44.7 
+               41.9 
+                NA
+               22.5 
+               17.3 
+               18.7 
+                8.9
+                 52.5 
+                 47.3 
+                  NA
+                 22.9 
+                 19.7 
+                 19.4 
+                 10.1
+                     51.3 
+                     50.5 
+                     15.4 
+                     22.0 
+                     22.3 
+                     19.2 
+ 
+     11.2
+* Estimated
+Source: 2005 and 2006 Annual Reports.
+The U.S. industry producing unbranded commodity-type generic drugs includes 9 of the world’s
+10 biggest generic drug companies. Generic drugs cost, on average, between 30 percent and 80 percent of
+their brand-name counterparts and account for approximately 56 percent of all prescriptions written in
+the United States, yet only 13.6 percent of every dollar spent of pharmaceuticals.  Sales of generic drugs
+67
+grew by nearly 21 percent in 2005 compared with 2004, as generic versions of innovator blockbuster
+drugs lost their patent protection.  The initial six months following the expiry of a patent is the most
+68
+profitable period for generic drug manufacturers. During that period, the price of the drug only drops, on
+average, by 40 percent since only one generic company has been granted exclusive manufacturing rights
+under an ANDA by the U.S. FDA.  With the loss of exclusivity after six months, the price drops, on
+69
+average, an additional 40 percent as more companies enter the market and begin manufacturing the drug.
+Nearly $16 billion in patented drugs are scheduled to lose patent protection by the end of 2007.
+Leading generic manufacturers in the United States, based on total sales in 2005, included Teva
+Pharma-USA, Novartis (Sandoz), Mylan, and Watson (table 19). Leading generic suppliers, based on the
+number of prescriptions dispensed, included Teva Pharma-USA, Mylan Labs, Novartis (Sandoz), Watson
+Pharma, and Ivax (table 19). Collectively, these companies accounted for more than 62 percent to total
+U.S. generic sales and more than 70 percent of all U.S. prescriptions dispensed in 2005. Other leading
+generic drug suppliers include Barr Pharma, Perrigo, Fougera, Taro, and Ranbaxy. Ranbaxy reported that
+its share of the U.S. generics market increased from 2 percent in 2004 to 2.3 percent in 2005 and that the
+in markets where it competes, it increased its share of the U.S. market from 12.2 percent in 2004 to 13.9
+percent in 2005. In the dermatology segment, Ranbaxy’s share of the market grew from 15.9 percent in
+2004 to 21.7 percent in 2005.
+Although U.S. generic sales increased in 2005, most of these companies experienced a drop in
+revenues resulting from price erosion, the introduction of authorized generics by innovator companies,
+and the entry of additional suppliers from low-cost countries into the market. Pricing pressures combined
+with mergers & acquisitions and consolidations, have reduced the number of companies manufacturing
+generic drugs in the United States over the last 5 years. For example, Teva Pharma-USA, a subsidiary of
+Teva Pharmaceuticals (Israel) the world’s largest generic drug producer, became a major player in the
+U.S. market with the acquisition of Ivax in 2006 for $7.4 million.  Teva derives over 80 percent of its
+70
+sales from the United States and Western Europe. Likewise, Actavis Group (Iceland) became a
+significant supplier of generic drugs in the U.S. market with the acquisition of Alpharma in 2006. As
+companies leave the industry there will be fewer firms producing older generic drugs. 
+ Noemie Bisserbe, “Windfall for cos eyeing US oncology market,” The Financial Times, April 11, 2007.
+71
+ Dabur offered a generic version of Bristol Myers Squibb’s Paraplatin that went off patent in October 2004.
+72
+24
+Table 19: U.S. Generic drug sales, 2005
+Companies
+Sales ($million)
+Percent share 
+Teva Pharma-USA
+Novartis (Sandoz)
+Mylan
+Watson
+Ivax
+Par
+Pfizer (Greenstone)
+Actavis
+Boehringer Ingelheim
+Baxter Healthcare
+    Top 10 producers
+    Total
+                 2,992
+                 2,643
+                 2,003
+                 1,425
+                 1,186
+                    932
+                    722
+                    677
+                    674
+                    639
+               13,894
+               22,317
+                                           13.4
+                                           11.8
+                                             9.0
+                                             6.4
+                                             5.3
+                                             4.2
+                                             3.2
+                                             3.0
+                                             3.0
+                                             2.9
+                                           62.3
+Source: IMS Health, Feb. 2006.
+Table 20: Number of U.S. generic prescriptions issued (2005) (million)
+Company
+ Number of prescriptions     
+Percent share
+Teva Pharma-USA
+Mylan
+Sandoz (Novartis)
+Watson
+Ivax
+Mallinckrodt
+Qualitest
+Actavis
+Par 
+Barr Labs
+Top 10 producers
+    Total
+                                        234
+                                        213
+                                        191
+                                        158
+                                        103
+                                          84
+                                          74
+                                          73
+                                          70
+                                          54
+                                     1,254
+                                     1,781
+                           13.1
+                           12.0
+                           10.7
+                             8.9
+                             5.8
+                             4.7
+                             4.1
+                             4.1
+                             3.9
+                             3.0
+                           70.3
+Source: IMS Health, Feb. 2006.
+Generic companies are preparing to compete for a share of the more than $60 billion worth of 
+anti-cancer drugs set to go off-patent in the United States by 2011. Unlike other markets segments, the
+anti-cancer segment has not experienced significant price erosion and companies like Novartis (Sandoz),
+Teva Pharma-USA , Pliva, and Mayne Pharma are already offering anti-cancer drugs in the U.S. market.
+According to an industry source, while generic versions of most drugs are offered at prices 5 percent to
+15 percent of the innovator’s price, anti-cancer drugs will be offered at 40 to 50 percent of the
+innovator’s price because only selected companies have the technical and dedicated facilities needed to
+produce these drugs.  In September 2006, Dabur Pharma was the first to gain approval from the FDA to
+71
+offer a generic anti-cancer drug in the U.S. market.  Among the anti-cancer drugs scheduled to lose their
+72
+patent protection are: 
+25
+Drug
+Innovator company
+Therapeutic area 
+Year off-patent
+Zofan
+Gemcitabine
+Xeloda
+Arimidex
+Casodex
+GSK
+Eli Lilly
+Roche
+AstraZeneca
+AstraZeneca
+Nausea & vomiting due to chemo
+Chemotherapy drug
+Colon and breast cancer drug
+Breast cancer drug
+Prostate treatment drug
+2007
+2009
+2010
+2008
+2008
+Role of imports in the U.S. market: The United States is the largest single pharmaceutical
+market in the world and the prime focus for most exporters. U.S. imports rose 61.5 percent during the
+2002-2006 period, from $38.2 billion to $61.7 billion (table 21). In 2005, U.S. pharmaceutical imports
+consisted primarily of generic formulations in dosage form, aromatic drugs, antibiotics, vitamins, and
+hormones (table 22). Imports of generic drugs have increased in the last 5 years due to cost containment
+efforts by healthcare providers, greater acceptance of generic drugs, streamlining of the U.S. FDA’s drug
+approval process, the passage of the Hatch-Waxman Amendments to the Federal Food, Drug and
+Cosmetic Act, and the implementation of Part D of the Medicare Prescription Drug Act. Generic drugs
+also play an important role in holding down prescription drugs prices by offering the consumer an
+identical therapeutic alternative at a significantly lower price. The leading sources for U.S. imports
+include Ireland, the UK, France, Japan, and Canada, which collectively account for 51 percent of total
+U.S. imports generic drugs in 2006 (table 23). Although India’s exports to the United States have more
+than doubled, they accounted for only 1 percent of total U.S. imports in 2006. Imports of other
+medicaments in dosage forms and aromatic heterocyclic compounds used as drugs dominated U.S.
+exports in 2006 accounting for 78 percent of total imports. 
+Table 21: U.S. imports from the world ($million)
+Year
+Value of U.S. imports 
+Percent change
+2002
+2003
+2004
+2005
+2006
+                          38,187.5
+                          46,814.6
+                          48,966.2
+                          52,570.4
+                          61,660.8
+                        18
+                          4
+                          7
+                        17
+Source: World Trade Atlas.
+ Aaron Smith, “Generic drugs concoct their next move,” CNN Money, Feb. 9, 2007.
+73
+ “In fiscal year 2006, OGD approved a record 510 ANDAs,” Pharmaceutical Technology, Dec. 2006.
+74
+26
+Table 22: U.S. imports of pharmaceutical products from the world ($million)
+HTS No.
+Description
+2002
+2003
+2004
+2005
+2006
+3004.00.00
+2934.99.30
+3002.00.00
+2937.00.00
+3006.00.00
+2941.00.00
+3003.00.00
+2936.00.00
+2935.00.00
+3005.00.00
+Medicaments in dosage form
+Aromatic heterocyclic compounds used as drugs
+Human & animal blood, antisera, vaccines
+Hormones
+Sterile surgical catgut, suture materials, tissue   
+   adhesives, Laminaria, hemostatics, contraceptives,
+   blood grouping agents
+Antibiotics
+Medicaments of mixtures, not in dosage form
+Vitamins
+Sulfonamide
+Bandages
+    Total
+    Percent of total imports
+17,808
+  5,666
+  2,024
+  1,404
+     478
+  1,080
+     685
+     496
+     849
+     186
+30,676
+       80
+ 23,080
+   6,489
+   2,736
+   1,789
+      830
+   1,471
+      765
+      550
+      665
+      249
+ 38,624
+        83
+25,947
+  5,917
+  3,190
+  1,723
+     982
+  1,200
+     685
+     640
+     488
+     325
+41,097
+       84
+28,689
+  5,403
+  3,761
+  1,695
+  1,176
+  1,378
+  1,215
+     619
+     658
+     418
+45,012
+       86
+34,721
+  6,499
+  4,677
+  1,754
+  1,341
+  1,110
+     939
+     620
+     505
+     468
+52,634
+       85
+Source: World Trade Atlas.
+Table 23: U.S. pharmaceutical imports, by value ($million)
+Country
+2002
+2003
+2004
+2005
+2006
+Ireland
+United Kingdom
+France
+Japan
+Canada
+Switzerland
+Singapore
+Italy
+Israel
+Sweden
+Mexico
+Netherlands
+Spain
+Austria
+India
+Other
+Total
+         12,681
+           4,170
+           2,266
+           2,370
+           1,259
+           1,618
+           1,036
+              905
+              640
+           1,281
+              274
+              576
+              290
+              145
+              289
+           8,388
+         38,188
+         14,750
+           4,537
+           3,080
+           2,805
+           1,888
+           1,880
+           1,505
+           1,037
+              825
+           1,165
+              313
+              696
+              495
+              167
+              465
+         11,207
+         46,815
+           14,368
+             5,518
+             3,766
+             2,707
+             2,150
+             1,911
+                972
+             1,263
+                974
+             1,725
+                533
+                569
+                630
+                212
+                415
+           11,253
+           48,966
+               14,768
+                 5,960
+                 4,385
+                 2,465
+                 2,420
+                 2,272
+                 1,232
+                 1,795
+                 1,590
+                 1,288
+                    413
+                    499
+                 1,122
+                    244
+                    480
+               11,637
+               52,570
+                   14,729
+                     7,010
+                     4,382
+                     1,952
+                     3,514
+                     2,789
+                     2,742
+                     1,699
+                     2,602
+                     2,313
+                        434
+                        612
+                        834
+                        304
+                        712
+                     15,33
+                   61,661
+Source: World Trade Atlas.
+Role of Indian generic drugs on the U.S. market: Indian pharmaceutical companies have
+made tremendous strides in the U.S. market. Indian companies are exploiting their cost advantages, their
+strength in reverse engineering, and the largest number of U.S. FDA approved plants outside the United
+States. Indian companies can manufacture pharmaceuticals for less than half what it costs to manufacture
+them in the United States, conduct clinical trials for approximately one-tenth the U.S. cost, and conduct
+R&D for less than one-eighth the U.S. cost.  India has more than 75 pharmaceutical plants approved by
+73
+the U.S. FDA and in 2006, and was very aggressive in filing ANDAs in 2004-06 to challenge patents on
+innovator drugs.  Among the drugs that lost U.S. patent protection during 2006 were Pravachol, Zoloft,
+74
+ This includes most commonly prescribed drugs for some of the most common illnesses including cardiac disease,
+75
+asthma, diabetes, glaucoma, Parkinson’s and thyroid conditions. “Wal-Mart test-markets cheap drugs,” MSNBC, Sept. 22, 2006.
+ DP Dubey, Globalization and its impact on the Indian Pharmaceutical Industry.
+76
+27
+Zocor, Plavix,and Flonase. 
+As 30 of the best selling U.S. patent-protected drugs go off patent by 2010, Indian companies are
+positioning themselves to offer generic versions of these drugs. Also, nearly $40 billion worth of patent-
+protected drugs will become off patent by 2010. Assocham believes that Indian companies will capture at
+least 30 percent of the replacement generic equivalents. In 2006, the U.S. FDA approved a Ranbaxy
+ANDA application to offer generic versions of 12 formerly patent-protected drugs with annual U.S. sales
+of $5.6 billion in 2006. Among these were generic versions of popular drug Zoloft, Valtrex, Zocor,
+Cefzil, Ambien, Imodium, and Lasix. Likewise, Dr. Reddy’s received ANDA approval to offer generic
+versions of other popular drugs like Zofran, Proscar, and Allegra that have sales of several billion dollars
+during 2006-07. 
+Competition from Indian and other low-cost countries in the U.S. market will mean cheaper
+prices for generic drugs and greater choice for U.S. consumers. Price competition continued to intensify
+in the U.S. market thorough 2006 affecting both U.S. and Indian generics manufacturers. Indian
+companies compete directly with Teva, Myland, and at least 13 other generic manufacturers in the U.S.
+market. Prices and profits were also squeezed by Wal Mart’s announcement that it would offer nearly
+300 generic prescription drugs at “sharply-reduced prices,” or at $4 for a month supply, approximately 70
+percent savings for consumers.  
+75
+India comparative advantages have also enabled its API manufacturers to challenge U.S. API
+manufacturers for market share and helped Indian companies move up the value-added chain.
+Competition between Indian and U.S. manufacturers will also grow as Indian companies acquire U.S.
+manufacturing units. Ranbaxy, for example, operates 4 dosage form plants and one subsidiary (OHM
+Labs) in the United States with revenues of $426 million, or 36 percent of its total global sales, in 2005.
+Others acquiring U.S. facilities include: Zydus Cadila (R&D facility in Atlanta); Dr. Reddy’s
+(Trigenesis); Sun Pharma (Able Labs, Caraco, Valeant Pharma); and Jubilant Organosys (Trinity Labs,
+Target Research Associates). Indian companies have also entered into a variety of partnerships such as
+joint ventures, tie-ins, and alliances with U.S. drug companies. 
+Conclusion
+India’s pharmaceutical industry has evolved from almost non-existent to a world’s leader in the
+production of high-quality, low-cost non-branded or generic drugs, accounting for nearly 20 percent of
+the world’s production. India currently produces almost all its own drug needs and domestic companies
+control over 80 percent of the Indian market.  It has made tremendous strides over the last two decades as
+the Indian domestic market almost doubled in value during 2000 - 2006. Because of low barriers to entry
+and low capital requirements, there are tens of thousands of companies producing pharmaceuticals in
+India. The vast majority of them are small by Western standards with revenues of less than $5 million. 
+With the re-introduction of product patents in 2005 and the fiercely price competitive nature of
+the Indian pharmaceutical industry, many smaller, less competitive producers were forced to abandon the
+industry as it begins slowly shifting away from vanilla generic drugs to becoming a regional hub for
+R&D, drug discovery, contract manufacturing, and technology licensing. In this transition, many mid-
+level Indian producers will turn to contract manufacturing, outsourcing, contract research, contract
+clinical trials, or other tie-ins with MNCs. Some Indian sources predict that MNCs will make up 60
+percent of the Indian market by 2015.76
+Since 2005, many MNCs began re-entering the Indian pharmaceutical market by setting up their
+28
+own manufacturing and R&D facilities. This will gradually neutralize the cost advantages enjoyed by
+Indian pharmaceutical majors. These alliances and millions of dollars spent on establishing domestic and
+foreign-based manufacturing facilities, acquiring foreign drug manufacturing firms, as well as marketing
+and sales networks, will enable India’s leading pharmaceutical producers to re-direct large sums of their
+cash flow to R&D and move up the value-added chain. These foreign acquisitions will enable Indian
+companies to gain a foothold in Western regulated markets, diversify their portfolios, acquire recognized
+brands, and gain R&D capabilities.  
+The United States has some of the highest drug prices in the world and has attracted imports of
+generic drugs from India and a number of low-cost countries. However, severe price compression and
+growing competition from other low-cost countries is forcing Indian majors to offset their losses by
+shifting their attention to Western Europe. Nonetheless, Indian companies have made tremendous strides
+in the U.S. market and companies like Ranbaxy are major sources of generic drugs. Indian companies
+also enjoy comparative advantages in cost, strength in reverse engineering skills, and number of U.S.
+FDA approved plants located in India. Indian companies have spent millions of dollars filing ANDAs
+with the U.S. FDA to gain exclusive production rights for many drugs losing their patent protection in the
+United States. Continued price competition in the U.S. market will mean cheaper prices for generic drugs
+and greater choice for U.S. consumers.
+29
+APPENDIX A
+Selected company profiles
+ Amanda Chater, “Indian companies gain traction in U.S. generics market,” Drugstore News, Sept. 25,
+77
+2006, pp. 34-35. 
+ Ranbaxy Laboratories, Annual Report 2005. 
+78
+ “India healthcare: Ranbaxy ready to take on the world,” Pharmacy Choice, Oct. 11, 2006.
+79
+30
+Ranbaxy Laboratories 
+Ranbaxy Laboratories is India’s largest
+pharmaceutical company and one of the world’s
+top ten generic drug makers. In 2004 and 2005,
+Ranbaxy accounteding for 23 percent of India’s
+pharmaceutical industry revenues.  Ranbaxy is a
+77
+vertically integrated company with a presence in
+across the pharmaceutical value chain offering a
+range of  unbranded generic and branded
+generics, active pharmaceutical ingredients, and
+biotechnology products. Ranbaxy markets its
+products in more than 100 countries and has
+manufacturing facilities in 8 countries and a sales
+presence in 23 of the world’s top 25
+pharmaceutical markets. 
+Most of Ranbaxy’s sales consist of off patent generic drugs and drugs manufactured under
+licence from foreign pharmaceutical companies. In 2005, exports accounted for more than 80 percent of
+Ranbaxy’s sales and the United States was its largest export market accounting for $328 million, or 28
+percent of the total.  Sales in Western Europe amounted to $204 million and BRICS (Brazil, Russia,
+78
+India, China, South Africa) amounted to $364 million and accounted for 17 percent and 31 percent,
+respectively, of the company’s total sales. Many of Ranbaxy’s crucial markets including China, the CIS,
+Germany, and South Africa. India registered respectable growth during 2005, whereas the sales in the
+United States declined by 25 percent. Ranbaxy reported that its U.S. sales declined because of a steep
+erosion in generic drug prices due principally to increased competitive pressures from other Indian
+companies and companies from other low-cost countries. Declining U.S. sales combined with increasing
+R&D expenditures and litigation related expenses had a significant negative impact on the company’s
+profitability in 2005
+Ranbaxy entered the U.S. market in 1994 and now ranks among the top 10 suppliers of generic
+drugs in the United States. It offers more than 96 different generic products and has increased its share of
+the total U.S. generics market from 2.0 percent in 2004 to 2.3 percent in 2005. In those segments where
+Ranbaxy competes, it increased its share from 12.2 percent in 2004 to 13.9 percent in 2005. In the
+branded dermatology segment, Ranbaxy’s share of the market grew from 15.9 percent to 21.7 percent
+during 2004-05. Ranbaxy supplements its exports with production from its facilities in Princeton, NJ
+(Ranbaxy Laboratories Limited) and North Brunswick, NJ (Ohm Labs) and through a partnership with
+Invagen Pharmaceuticals (Hauppauge, NY). 
+The company is the second largest filer of AND (110 with 59 pending), second only to Teva of
+Israel. It is also challenging patents on 7 patented blockbuster drugs whose patents will expire within the
+next several years.  In 2006, Ranbaxy won approval from the U.S. FDA to market a number of new
+79
+products including schizophrenia medication Risperiodone Cetirizine Hydrochloride syrup for seasonal
+Ranbaxy: key indicators
+• Founded in 1961 in Gurgaon.
+• Total sales : $ 1.03 billion (2004), $ 1.2 billion (2005).
+• Exports account for 58 percent of sales. Largest markets
+      include: U.S., Brazil, Russia, China.
+• 28% of sales are in the U.S. market.
+• Sales generic drugs in over 100 foreign countries,
+      manufacturing operations in 7 countries, and offices in
+      44.
+• R&D budget: $75 million (2004).
+• Employment: 1,700
+• Merger and acquisition activities valued at $X million.
+ The U.S. FDA permitted Ranbaxy to introduced the bioequivalents of heart medications Tambocor (3M Pharma),
+80
+Lasix (Aventis Pharma) and Zocor (Merk); anti-infectives Cefzil (Bristol Myers Squibb) and Cefzil (Briston Myers Squibb); and 
+anti-diarrheal infective Imodium (McNeil PPC).  Ranbaxy Laboratories, Ltd.
+31
+allergic rhinitis and the generic bioequivalents of a number of brand named drugs.80
+To expand its global footprint and diversify its product portfolio, Ranbaxy raised $440 million in
+March 2006 to finance acquisitions and other capital expenditure requirements. During 2005, it entered
+into a number of alliances and other agreements with foreign innovator companies (table 5) and acquired 
+11 foreign generic drug manufacturing companies (table A-1). These acquisitions also enabled the
+Ranbaxy buy recognized brand names, obtain revenues to fund for its R&D and expansion plans, and to
+move up the value-added chain. 
+Table A-1: Ranbaxy’s foreign acquisitions
+Company
+Country 
+Distinction
+Value ($million)
+Terapia
+Ethimed
+Mundogen (GSK) 
+Allen SpA (GSK)
+Eframes 
+RPG Aventis
+Basics
+Senetch PLC
+Akrikhin
+Nihon Pharma (40% share)
+Be Tabs
+Romania
+Belgium
+Spain
+Italy
+Spain
+France
+Germany
+US
+Russia
+Japan
+S. Africa
+Romania’s 5  largest generics producer
+th
+Belgium’s 10  largest generics producer
+th
+Unbranded generics of GSK
+NA
+NA
+France’s 5  largest generics supplier
+th
+Formerly owned by Bayer
+Auto injector device
+NA
+NA
+S. Africa’s 5  largest generic maker.
+th
+$324 million
+NA
+NA
+NA
+NA
+$80 million
+NA
+NA
+$110 million
+NA
+$70 million
+Sources: Rainbows Annual Report, 2005. 
+Rawness drug discovery program centers around infectious diseases (anti-bacterial & antifungal),
+urology (benign prostatic hyperplasia & urinary incontinence), metabolic diseases (Type 2 diabetes,
+hyperlipidemia), and inflammatory-respiratory therapeutic areas (asthma, chronic obstructive pulmonary
+disease and Rheumatoid Arthritis). In 2005, the company allocated $75 million, or 7 percent of its
+turnover.
+ “Dr. Reddy’s profit triples, good growth seen,” Reuters, Jan. 22, 2007.
+81
+32
+Dr. Reddy’s Laboratories
+Dr. Reddy’s is India’s third largest
+pharmaceutical company. It is a vertically
+integrated company offering a range of generic
+and branded drugs and active pharmaceutical
+ingredients. Most of Dr. Reddy’s sales are of
+branded drugs reversed engineered versions of
+drugs patented in the West. In 2005, branded
+drugs accounted for 41 percent of total revenues
+and APIs accounted for 34 percent. 
+Dr. Reddy’s derives most of its revenues from exports and its international acquisitions that
+account for approximately 66 percent of total revenues in 2005-06 and is expected to reach 80 percent by
+the end of 2006-07. The company sells and markets its products in more than 100 countries with the
+United States accounting for 60 percent of the total.  In 2005-06, the North American market (United
+81
+States and Canada) accounted for 16 percent of Dr. Reddy’s revenues, Russia and CIS accounted for 15
+percent, Europe accounted for 18 percent, and India accounted for 24 percent 
+Dr Reddy’s experienced a 3 percent decline in total revenues and a decline in after tax profits of
+91 percent in 2004-05 due to declining sales caused by severe pricing pressures on generic drugs in the
+United States. Dr. Reddy’s sales in North America declined by 8 percent during this period. During 2005-
+06, the company rebounded reporting that revenues increased by 24 percent to $502 million and after-tax
+profits grew five fold. The turn around was attributed to stained growth of revenues from APIs,
+formulations, generics sales in Europe as well as contributions from Dr. Reddy’s acquisitions in Mexico
+and Germany. Dr. Reddy’s is increasingly viewing Western Europe, Japan, Russia and the CIS as a
+viable counterbalance to the volatile U.S. market, especially since its in Europe increased by 51 percent
+during 2005-06.
+ At the product level during 2005-06, formulations accounted for 68 percent of the company’s
+revenues during 2004-05 and 69 percent in 2005-06 (table A-2). Dr. Reddy’s reported that sales of APIs
+and formulations grew by 19 percent, revenues from branded formulations grew by 27 percent, revenues
+from generics grew by 13 percent, revenues from custom pharmaceutical services grew by four fold. In
+the medium term, Dr. Reddy’s predicts that its growth will to be driven by the sale of generic drugs in
+Western Europe and other more profitable markets. 
+Table A-2: Dr. Reddy’s revenue by product, 2005
+Product
+Value ($million)
+Percent of total
+Formulations
+APIs
+Generics
+CPS
+Others
+                      227
+                      188
+                        94
+                        29
+                        20
+                          41
+                          34
+                          17
+                            5
+                            4
+$1 = Rs 43.5. Source: Annual Report 2005-06.
+Dr. Reddy’s expanded its presence in Europe and the United States with the acquisition of 6
+foreign companies during 2005-06 (table A-3). The acquisition of Betapharm is the most significant
+international acquisition by an Indian company to date. Betapharm has a portfolio of 145 marketed
+Dr. Reddy’s Labs: Key indicators
+• India’s 3  largest drug producer. 
+rd
+• Revenues: $502 million (July 2006). 
+• 66% of revenues earned in foreign markets.
+• 41% of earning derived from formulations.
+• Investing 6.5% of sales in R&D.
+• Employees: 7,525.
+ Noemie Bisserbe, “India drug cos reel under US pricing pressure,” The Economic Times, June 17, 2006.
+82
+ “Merck allows Dr Reddy’s to sell authorised generics of blockbuster drugs,” domain-b.com, Feb. 2,
+83
+2006.
+33
+products and its acquisition is expected to add nearly $200 million to the company’s bottom line.  
+82
+Table A-3: Dr. Reddy’s foreign acquisitions
+Company
+Country 
+Distinction
+Value
+BMS Laboratories
+Betapharm Group
+Arzeniemittel 
+Trigenesis
+Roche API business
+Litaphar
+UK
+Germany
+Germany
+US
+Mexico
+Spain
+Generics maker
+Germany’s 4  largest
+th
+generic maker
+NA
+Ingredients business
+NA
+$14 million
+$584 million
+NA
+NA
+$61.5 million
+NA
+Source: Dr. Reddy’s Annual Report 2005-06.
+Dr. Reddy allocated approximately $50.4 million to R&D in 2005-06, representing a reduction of 
+24 percent compared to 2004-05. Its R&D efforts are concentrated in the therapeutic areas of metabolic
+disorders, cancer, inflammation, and bacterial infections, cardiovascular. To eliminate some of the risk
+associated with new drug discovery, Dr. Reddy’s formed a $52.5 million integrated drug development
+company called Perlecan Pharma with Citigroup Venture and ICICI Venture. 
+In 2005-06, it filed 12 ANDAs with 49 pending with the U.S. FDA. The company also filed 30
+DMFs for APIs, of which 17 were U.S. DMFs, 8 were Canadian, and 5 were European. Dr. Reddy’s also
+entered into an agreement with Merck to sell two of its blockbusters (Zocor and Proscar) in the U.S.
+market as authorized that will soon go off-patent.  In 2006, Dr. Reddy’s launched 6 new products in the
+83
+U.S. market and is waiting on the approval 64 new drug applications from the U.S. FDA.
+ Cipla, Sixty-Ninth Annual Report 2004-2005.  
+84
+ “Banking on new products,” The Financial Express.
+85
+ Corporate Profile, Cipla. Com
+86
+34
+Cipla  
+Cipla is currently India’s second largest pharmaceutical company in terms of sales and it
+produces a range of low-cost pharmaceutical ingredients (APIs), prescription drugs, OTC products, and
+formulations. Cipla’s domestic formulations cover antibiotics and anti-bacterials, anti-asthmatics,
+alimentary-metabolism, cancer, pain management, central nervous systems, and cardiovascular
+therapeutic segments. It offers 18 brands and 1,500 formulations and its total sales increased from $534.3
+million in 2004 to $703.4 million in 2005, or by 32 percent. 
+Exports constitute approximately 50 percent of its sales and it markets it products in more than
+170 countries. The United States is Cipla’s largest single export market and accounted for 33 percent of
+the company’s sales in 2005, followed by Africa (26 percent), Europe (20 percent), the Middle East (11
+percent), and Australasia (10 percent).  Cipla supplies bulk drugs for a number of generic manufacturers
+84
+including Watson (U.S.), IVAX (UK), Eon, and Morton Grove.  It also supplies budesonide inhalers to
+85
+companies located in Germany.
+During the July-December period of 2006, Cipla reported that its domestic sales increased by
+17.3 percent and its exports grew by 26.2 percent.  Formulations accounted for 73 percent of Cipla’s
+86
+exports in 2006 and APIs accounted for the remaining 27 percent. Cipla is best know for its anti-AIDs
+medication that consists of a “all-in-one” pill (Triomune) that effectively cut the cost of annual AIDs
+treatment from $12,000 to $300, or to less than $1 per day. The company has also a  major suppliers of
+anti-malarial drugs. Cipla allocates approximately 4 percent of its turnover to R&D activities. It filed
+more than 50 DMFs and 55 ANDAs during 2004-05 and received approval for 11 products from U.S.
+FDA.
+ Company Profiles, Nicholas Piramal
+87
+35
+Nicholas Piramal 
+Nicholas Piramal (NP) is India’s 4th
+largest pharmaceutical company. NP’s offers a
+diverse product line covering antibiotics, neuro-
+psychiatry, cardiovascular, diabetes,
+gastrointestinal, vitamins, neurology, inhalation
+anaesthesia, respiratory pain management, and
+dermatology. NP reported revenues of $344.5
+million during 2005-06.
+The domestic Indian market accounts for approximately 87 percent of the company’s annual
+sales with brands like Phensedyl, Ismo, Supradyn, Gardenal, Stemetil, Haemaccel and Rejoint that
+account for 67 per cent of total revenues, while secondary brands including Paraxin, Flagyl and Omnatax
+accounting for the remainder.  Nicholas Piramal operates 7 API and finished dosage production facilities
+87
+in India and state-of-the art R&D facilities in Mumbai and Chennai. In 2005-06, exports, primarily APIs,
+accounted for 12 percent of NP’s turnover in 2004-05 consisted primarily anesthesia and parenateral
+products used in operating rooms and critical care units. NP exports for 2005-06 grew by more than 74
+per cent to $34 million (Rs 220 crore) from $17 million (Rs 126 crore).
+To expand its global footprint and diversify and enhance its product portfolio, Nicholas Piramal
+has acquired a number of foreign and domestic companies (table A-4). In 2003, it merged with Global
+Bulk Drugs and Fine Chemicals (India) to obtain access to the regulated markets of the United States,
+Europe, and Japan. Nicholas Piramal acquired Pfizer’s custom manufacturing plant located in Morpeth
+(UK) to supply more than 300 finished dosage forms to more than 100 markets, including the United
+States, Western Europe, and Japan. In January 2007, Nicholas Piramal entered into a development
+agreement with Eli Lilly (US) to conduct non-clinical studies and human clinical trials and gained
+strategic entry into Pfizer’s global sourcing network to become Pfizer’s largest global contract
+manufacturing partner.  
+Nicholas Pirmmal acquired 51 percent equity stake held by Boots Company in the joint venture
+Boots Piramal Healthcare. It also acquired the Indian subsidiaries of F. Hoffman-La Roche (Roche),
+Boehringer-Mannheim, Rhone Poulenc, Hoechst Marrion Roussel research center, ICI India’s pharma
+division, and Aventis’ research facilities. It also entered into joint ventures or  marketing relationships
+with Boots Healthcare, F. Hoffmann-La Roche (Switzerland), Gilead Sciences (U.S.), Cheissi (Italy)
+Stryker Corporation, Allergan (U.S.), and IVAX (UK) for a wide range of products. 
+Table A-4: Nicholas Piramal’s domestic and foreign acquisitions
+Company
+Country 
+Distinction
+Value
+Pfizer Morpeth
+Avecia Pharma  
+Dobutrex
+Rhondia   
+Global Bulk Drugs & Fine Chemicals
+UK
+UK
+US
+UK
+India
+Custom drug manufacturing 
+Custom drug manufacturing
+Brand acquisition
+Inhalation anesthetics
+U.S. FDA approved production plant
+NA
+$16.7 million
+NA
+NA
+NA
+Nicholas Pirmal India Ltd. is one of the world’s top 10 pharmaceutical outsourcing firms and
+India’s leading contract manufacturer with CRAMS manufacturing revenues of $250 million in 2005,
+including $100 million for formulations. At present CRAMS accounts for approximately 30 percent of
+Nicholas Piramal
+• India’s 4  largest drug producer.
+th
+• Revenues: $344.5 million (2006).
+• 13% of revenues from foreign markets.
+• Investing 9% of sales in R&D.
+• Employees: 2,000
+ Jeetha D’Silva, “Drug cos bet on contract manufacturing,” The Economic Times, July 25, 2006.
+88
+ MG Arun, “Druggists swallow phoren pills to open new vistas,” The Financial Express, June 28, 2006.
+89
+36
+Nicholas  Piramal’s total revenues in 2005 and plans to increase it to 50 percent by 2010.  In 2006,
+88
+Nicholas Piramal signed a 5-year, $350 million agreement with Pfizer for 12 products. The agreement
+made Nicholas Piramal Pfizer’s largest custom manufacturing partner.  To augment its global contract
+89
+manufacturing capabilities, Nicholas Piramal purchased Pfizer’s contract manufacturing facility in the
+United Kingdom (Morpeth) and Avecia Pharmaceutical. Its deal with Pfizer could potentially produce
+much as $350 million for Nicholas Piramal by 2010. 

@@ -1,0 +1,4212 @@
+A-1 
+Appendix A:  Content Framework Summary Documents 
+ 
+This appendix presents information about the NAEP 2003 and TIMSS 2003 
+mathematics content frameworks used for item classifications at the expert panel meeting.   
+ 
+Exhibit A-1 is the summary document that was used by the expert panel for the 
+classification of items to the content strands, topics, and subtopics in the NAEP 2003 
+mathematics framework. 
+ 
+Exhibit A-2 is the summary document that was used by the expert panel for the 
+classification of items to the content domains, topic areas, and objectives in the TIMSS 2003 
+mathematics framework. 
+ 
+These summary documents are based on the NAEP 2003 and TIMSS 2003 framework 
+and assessment specifications documents, but have been reformatted and adapted slightly to 
+facilitate the classification process.   
+ 
+Framework summary documents were not prepared for PISA; expert panel content 
+classifications based on the PISA framework were made only at the overarching idea level, and 
+there are no topics or subtopics specified in the PISA framework.  For more information about 
+the PISA framework, see OECD (2003). 
+A-2 
+Exhibit A-1.  NAEP mathematics framework and specifications summary: 2003 
+ 
+A 
+NUMBER SENSE, PROPERTIES AND OPERATIONS 
+Grade(s) 
+A1 
+Relate counting, grouping and place value 
+1a: 
+Use place value to model and describe whole numbers and decimals 
+4 
+8 
+12 
+1b: 
+Use scientific notation in meaningful contexts 
+• 
+8 
+12 
+A2 
+Represent numbers and operations in a variety of equivalent forms using models, diagrams and symbols 
+2a: 
+Model numbers using set models such as counters 
+4 
+• 
+• 
+2b: 
+Model numbers using number lines 
+4 
+8 
+• 
+2c: 
+Use two- and three-dimensional region models to describe numbers 
+4 
+8 
+12 
+2d: 
+Use other models appropriate to a given situation  
+(e.g., draw diagrams to represent a number or an operation; write a number sentence to fit a 
+situation or describe a situation to fit a number sentence; interpret calculator or computer 
+displays) 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+8 
+ 
+ 
+ 
+12 
+2e: 
+Read, write, rename, order, and compare numbers 
+4 
+8 
+12 
+A3 
+Compute with numbers (i.e., add, subtract, multiply, divide) 
+3a: 
+Apply basic properties of operations 
+4 
+8 
+12 
+3b: 
+Describe effect of operations on size and order of numbers 
+4 
+8 
+12 
+3c: 
+Describe features of algorithms (e.g., regrouping with or without manipulative, partial 
+products) 
+ 
+4 
+ 
+8 
+ 
+12 
+3d: 
+Select appropriate computation method (e.g., pencil and paper, calculator, mental arithmetic) 
+4 
+8 
+12 
+A4 
+Use computations and estimation in applications 
+4a: 
+Round whole numbers, decimals, and fractions in meaningful contexts 
+4 
+8 
+12 
+4b: 
+Make estimates appropriate to a given situation         
+ 
+ 
+ 
+  
+        i. Know when to estimate 
+4 
+8 
+12 
+  
+        ii. Select appropriate type of estimate (overestimate, underestimate,  
+             range of estimate) 
+ 
+4 
+ 
+8 
+ 
+12 
+  
+        iii. Describe order of magnitude (estimation related to place value;  
+             scientific notation) 
+ 
+4 
+ 
+8 
+ 
+12 
+4c: 
+Select appropriate method of estimation (e.g., front-end, rounding) 
+4 
+8 
+12 
+4d: 
+Solve application problems involving numbers and operations, using exact answers or 
+estimates, as appropriate 
+ 
+4 
+ 
+8 
+ 
+12 
+4e: 
+Interpret round-off errors using calculators/computers (i.e., truncation) 
+• 
+(8) 
+12 
+4f:   Verify solutions and determine the reasonableness of results 
+ 
+ 
+ 
+  
+        i. In real-world settings 
+4 
+8 
+12 
+  
+        ii. In abstract settings 
+• 
+• 
+12 
+See notes at end of exhibit. 
+A-3 
+Exhibit A-1.  NAEP mathematics framework and specifications summary: 2003—Continued  
+ 
+A 
+NUMBER SENSE, PROPERTIES AND OPERATIONS                                                                  Grade(s) 
+A5 
+Apply ratios and proportional thinking in a variety of situations 
+5a: 
+Use ratios to describe situations 
+(4) 
+8 
+12 
+5b: 
+Use proportions to model problems 
+• 
+8 
+12 
+5c: 
+Use proportional thinking to solve problems (including rates, scaling, and similarity) 
+• 
+8 
+12 
+5d: 
+Understand the meaning of percent (including percents greater than 100 and less than 1) 
+(4) 
+8 
+12 
+5e: 
+Solve problems involving percentages 
+• 
+8 
+12 
+A6 
+Use elementary number theory 
+6a: 
+Describe odd and even numbers and their characteristics 
+4 
+8 
+12 
+6b: 
+Describe number patterns 
+(4) 
+8 
+12 
+6c: 
+Use factors and multiples to model and solve problems 
+• 
+8 
+12 
+6d: 
+Describe prime numbers 
+• 
+8 
+12 
+6e: 
+Use divisibility and remainders in problem settings (including simple modular arithmetic) 
+• 
+(8) 
+12 
+See notes at end of exhibit. 
+A-4 
+        Exhibit A-1.  NAEP mathematics framework and specifications summary: 2003—Continued  
+ 
+B 
+MEASUREMENT 
+Grade(s) 
+B1 
+Estimate the size of an object or compare objects with respect to a given attribute (e.g., length, area, 
+capacity, volume, weight/mass) 
+  
+  
+4 
+8 
+12 
+B2 
+Select and use appropriate measurement instruments (e.g., manipulatives such as a ruler, meter stick, 
+protractor, thermometer, scales for weight or mass, and gauges) 
+  
+  
+4 
+8 
+12 
+B3 
+Select and use appropriate units of measurement, according to 
+3a: 
+Type of unit 
+4 
+8 
+12 
+3b: 
+Size of unit 
+4 
+8 
+12 
+B4 
+Estimate, calculate (using basic principles or formulas), or compare perimeter, area, volume, and 
+surface area in meaningful contexts to solve mathematical and real-world problems. 
+4a: 
+Solve problems involving perimeter and area (e.g., triangles, quadrilaterals, other polygons, 
+circles, and combined forms) 
+ 
+(4) 
+ 
+8 
+ 
+12 
+4b: 
+Solve problems involving volume and surface area (e.g., rectangular solids, cylinders, cones, 
+pyramids, prisms, and combined forms) 
+ 
+(4) 
+ 
+(8) 
+ 
+12 
+B5 
+Apply given measurement formulas for perimeter, area, volume, and surface area in problem settings 
+  
+ 
+• 
+8 
+12 
+B6 
+Convert from one measurement to another within the same system (customary or metric) 
+  
+ 
+• 
+8 
+12 
+B7  
+Determine precision, accuracy, and error 
+7a: 
+Apply significant digits in meaningful contexts 
+• 
+8 
+12 
+7b: 
+Determine appropriate size of unit of measurement in problem situations 
+• 
+8 
+12 
+7c: 
+Apply concepts of accuracy of measurement in problem situations 
+• 
+8 
+12 
+7d: 
+Apply absolute and relative error in problem situations 
+• 
+• 
+12 
+B8 
+Make and read scale drawings 
+  
+ 
+• 
+8 
+12 
+B9 
+Select appropriate methods of measurement (e.g., direct or indirect) 
+  
+  
+4 
+8 
+12 
+B10 
+Apply the concept of rate to measurement situations 
+  
+  
+• 
+8 
+12 
+See notes at end of exhibit. 
+A-5 
+ Exhibit A-1.  NAEP mathematics framework and specifications summary: 2003—Continued  
+ 
+See notes at end of exhibit. 
+ 
+C 
+GEOMETRY AND SPATIAL SENSE 
+Grade(s) 
+C1 
+Describe, visualize, draw and construct geometric figures 
+1a: 
+Draw or sketch a figure given a verbal description  
+4 
+8 
+12 
+1b: 
+Given a figure, write a verbal description of its geometric qualities 
+• 
+8 
+12 
+C2 
+Investigate and predict results of combining, subdividing, and changing shapes (e.g., paper folding, 
+dissecting, tiling, and rearranging pieces of solids) 
+  
+  
+4 
+8 
+12 
+C3 
+Identify the relationship (congruence, similarity) between a figure and its image under a transformation 
+3a: 
+Use motion geometry (informal: lines of symmetry, flips, turns, and slides) 
+4 
+8 
+12 
+3b: 
+Use transformations (translations, rotations, reflections, dilations, symmetry) 
+ 
+ 
+ 
+  
+     i. synthetic 
+• 
+(8) 
+12 
+  
+     ii. algebraic 
+• 
+• 
+12 
+C4 
+Describe the intersection of two or more geometric figures 
+4a: 
+Two-dimensional 
+• 
+8 
+12 
+4b: 
+Planar cross-section of a solid 
+• 
+8 
+12 
+C5 
+Classify figures in terms of congruence and similarity, and informally apply these relationships using 
+proportional reasoning where appropriate 
+  
+ 
+• 
+8 
+12 
+C6 
+Apply geometric properties and relationships in solving problems 
+6a: 
+Use concepts of  'between',  'inside', 'on' and 'outside' 
+4 
+8 
+• 
+6b: 
+Use the Pythagorean relationship to solve problems 
+• 
+8 
+12 
+6c: 
+Apply properties of ratio and proportion with respect to similarity 
+• 
+(8) 
+12 
+6d: 
+Solve problems involving right triangle trigonometric applications 
+• 
+• 
+12 
+C7 
+Establish and explain relationships involving geometric concepts 
+7a: 
+Make conjectures 
+4 
+8 
+12 
+7b: 
+Validate and justify conclusions and generalizations 
+4 
+8 
+12 
+7c: 
+Use informal induction and deduction 
+(4) 
+8 
+12 
+C8 
+Represent problem situations with geometric models and apply properties of figures in meaningful contexts 
+to solve mathematical and real-world problems 
+  
+  
+4 
+8 
+12 
+C9 
+Represent geometric figures and properties algebraically using coordinates and vectors 
+9a: 
+Use properties of lines (including distance, midpoint, slope, parallelism, and perpendicularity) 
+to describe figures algebraically 
+ 
+• 
+ 
+(8) 
+ 
+12 
+9b: 
+Algebraically describe conic sections and their properties 
+• 
+• 
+12 
+9c: 
+Use vectors in problem situations (addition, subtraction, scalar multiplication, dot product) 
+• 
+• 
+12 
+A-6 
+Exhibit A-1.  NAEP mathematics framework and specifications summary: 2003—Continued 
+ 
+See notes at end of exhibit. 
+D 
+DATA ANALYSIS, STATISTICS AND PROBABILITY 
+Grade(s) 
+D1 
+Read, interpret, and make predictions using tables and graphs 
+1a: 
+Read and interpret data 
+4 
+8 
+12 
+1b: 
+Solve problems by estimating and computing with data 
+4 
+8 
+12 
+1c: 
+Interpolate and extrapolate from data 
+• 
+8 
+12 
+D2 
+Organize and display data and make inferences 
+2a: 
+Use tables, histograms (bar graphs), pictograms, and line graphs 
+4 
+8 
+12 
+2b: 
+Use circle graphs and scattergrams 
+• 
+8 
+12 
+2c: 
+Use stem-and-leaf plots and box-and-whisker plots 
+• 
+8 
+12 
+2d: 
+Make decisions about outliers 
+• 
+8 
+12 
+D3  
+Understand and apply sampling, randomness, and bias in data collection 
+3a: 
+Given a situation, identify sources of sampling error 
+• 
+8 
+12 
+3b: 
+Describe a procedure for selecting an unbiased sample 
+• 
+8 
+12 
+3c: 
+Make generalizations based on sample results 
+• 
+8 
+12 
+D4 
+Describe measures of central tendency and dispersion in real-world situations 
+  
+ 
+(4) 
+8 
+12 
+D5 
+Use measures of central tendency, correlation, dispersion, and shapes of distributions to describe 
+statistical relationships 
+5a: 
+Use standard deviation and variance 
+• 
+• 
+12 
+5b: 
+Use the standard normal distribution 
+• 
+• 
+12 
+5c: 
+Make predictions and decisions involving correlation 
+• 
+• 
+12 
+D6 
+Understand and reason about the use and misuse of statistics in our society 
+6a: 
+Given certain situations and reported results, identify faulty arguments or misleading 
+presentations of the data 
+ 
+(4) 
+ 
+8 
+ 
+12 
+6b: 
+Appropriately apply statistics to real-world situations 
+(4) 
+8 
+12 
+D7 
+Fit a line or curve to a set of data and use this line or curve to make predictions about the data, using 
+frequency distributions where appropriate 
+  
+ 
+• 
+• 
+12 
+D8 
+Design a statistical experiment to study a problem and communicate the outcomes 
+  
+ 
+• 
+8 
+12 
+D9 
+Use basic concepts, trees, and formulas for combinations, permutations, and other counting techniques to 
+determine the number of ways an event can occur 
+  
+ 
+• 
+8 
+12 
+A-7 
+Exhibit A-1.  NAEP mathematics framework and specifications summary: 2003—Continued 
+ 
+D      DATA ANALYSIS, STATISTICS AND PROBABILITY                                                                        Grade(s) 
+D10 
+Determine the probability of a simple event 
+10a: 
+Estimate probabilities by use of simulation 
+• 
+8 
+12 
+10b: 
+Use sample spaces and the definition of probability to describe events 
+4 
+8 
+12 
+10c: 
+Describe and make predictions about expected outcomes 
+• 
+8 
+12 
+D11 
+Apply the basic concept of probability to real-world situations 
+11a: 
+Informal use of probabilistic thinking 
+4 
+8 
+12 
+11b: 
+Use probability related to independent and dependent events 
+• 
+8 
+12 
+11c: 
+Use probability related to simple and compound events 
+• 
+• 
+12 
+11d: 
+Use conditional probability 
+• 
+• 
+12 
+See notes at end of exhibit. 
+A-8 
+        Exhibit A-1.  NAEP mathematics framework and specifications summary: 2003—Continued 
+ 
+E 
+ALGEBRA AND FUNCTIONS 
+Grade(s) 
+E1 
+Describe, extend, interpolate, transform and create a wide variety of patterns and functional relationships 
+1a: 
+Recognize patterns and sequences 
+4 
+8 
+12 
+1b: 
+Extend a pattern or functional relationship 
+4 
+8 
+12 
+1c: 
+Given a verbal description, extend or interpolate with a pattern (complete a missing term) 
+• 
+8 
+12 
+1d: 
+Translate patterns from one context to another 
+(4) 
+8 
+12 
+1e: 
+Create an example of a pattern or functional relationship 
+4 
+8 
+12 
+1f: 
+Understand and apply the concept of a variable 
+(4) 
+8 
+12 
+E2 
+Use multiple representations for situations to translate among diagrams, models, and symbolic 
+expressions 
+  
+  
+4 
+8 
+12 
+E3 
+Use number lines and rectangular coordinate systems as representational tools 
+3a: 
+Identify or graph sets of points on a number line or in a rectangular coordinate system 
+4 
+8 
+12 
+3b: 
+Identify or graph sets of points in a polar coordinate system 
+• 
+8 
+12 
+3c: 
+Work with applications using coordinates 
+• 
+8 
+12 
+3d: 
+Transform the graph of a function 
+• 
+(8) 
+12 
+E4 
+Represent and describe solutions to linear equations and inequalities to solve mathematical and real-
+world problems 
+4a: 
+Solution sets of whole numbers 
+4 
+8 
+12 
+4b: 
+Solution sets of real numbers 
+(4) 
+8 
+12 
+E5 
+Interpret contextual situations and perform algebraic operations on real numbers and algebraic 
+expressions to solve mathematical and real-world problems 
+5a: 
+Perform basic operations, using appropriate tools, on real numbers in meaningful contexts 
+(including grouping and order of multiple operations involving basic operations, exponents and 
+roots) 
+ 
+ 
+• 
+ 
+ 
+8 
+ 
+ 
+12 
+5b: 
+Solve problems involving substitution in expressions and formulas 
+• 
+8 
+12 
+5c: 
+Solve meaningful problems involving a formula with one variable 
+• 
+8 
+12 
+5d: 
+Use equivalent forms to solve problems 
+• 
+8 
+12 
+E6 
+Solve systems of equations and inequalities using appropriate methods 
+6a: 
+Solve systems graphically 
+• 
+8 
+12 
+6b: 
+Solve systems algebraically 
+• 
+• 
+12 
+6c: 
+Solve systems using matrices 
+• 
+• 
+12 
+See notes at end of exhibit. 
+A-9 
+Exhibit A-1.  NAEP mathematics framework and specifications summary: 2003—Continued 
+ 
+E          ALGEBRA AND FUNCTIONS                                                                                                         Grade(s) 
+E7 
+Use mathematical reasoning 
+7a: 
+Make conjectures 
+4 
+8 
+12 
+7b: 
+Validate and justify conclusions and generalizations 
+4 
+8 
+12 
+7c: 
+Use informal induction and deduction 
+(4) 
+8 
+12 
+E8 
+Represent problem situations with discrete structures 
+8a: 
+Use finite graphs and matrices 
+• 
+(8) 
+12 
+8b: 
+Use sequences and series 
+• 
+• 
+12 
+8c: 
+Use recursive relations (including numerical and graphical iteration and finite differences) 
+• 
+• 
+12 
+E9 
+Solve polynomial equations with real and complex roots using a variety of algebraic and graphical 
+methods and using appropriate tools 
+  
+  
+• 
+• 
+12 
+E10 
+Approximate solutions of equations (bisection, sign changes, successive approximations) 
+  
+  
+• 
+(8) 
+12 
+E11 
+Use appropriate notation and terminology to describe functions and their properties (includes domain, 
+range, function composition, inverses) 
+  
+ 
+• 
+• 
+12 
+E12 
+Compare and apply the numerical, symbolic, and graphical properties of a variety of functions and 
+families of functions, examining general parameters and their effect on curve shape 
+  
+  
+• 
+(8) 
+12 
+E13 
+Apply function concepts to model and deal with real-world situations 
+  
+  
+• 
+(8) 
+12 
+E14 
+Use trigonometry  
+14a: 
+Use triangle trigonometry to model problem situations 
+• 
+• 
+12 
+14b: 
+Use trigonometric and circular functions to model real-world phenomena 
+• 
+• 
+12 
+14c: 
+Apply concepts of trigonometry to model solve real-world problems 
+• 
+• 
+12 
+NOTE: Content strands are identified by capital letters (A, B, C,…), topics are identified by numbers (1, 2, 3,…), and subtopics are 
+identified by lowercase letters (a, b, c, …).  Topics and subtopics can be assessed at those grade levels indicated by 4, 8, and 12 on the right 
+side of the exhibit.  Parentheses around a grade level indicate that a topic may be introduced at a simple level at that grade. If a topic or 
+subtopic should not be addressed at a specific grade level, it is indicated by a dot (•).   
+SOURCE: U.S. Department of Education, National Assessment Governing Board, Mathematics Framework for the 2003 National 
+Assessment of Educational Progress, 2002. 
+A-10 
+Exhibit A-2.  TIMSS mathematics framework and specifications summary: 2003  
+ 
+A  Number 
+  
+Grade(s)
+A1 
+Whole Numbers 
+4 
+8 
+  
+ 
+ 
+ 
+  
+A2 
+Fractions and Decimals 
+4 
+8 
+  
+ 
+ 
+ 
+  
+A3 
+Integers 
+• 
+8 
+  
+ 
+ 
+ 
+  
+A4 
+Ratio, Proportion, and Percent 
+4 
+8 
+See notes at end of exhibit. 
+A-11 
+ Exhibit A-2.  TIMSS mathematics framework and specifications summary: 2003—Continued  
+ 
+A  NUMBER 
+A1  Whole Numbers 
+Grade 4 
+Grade 8 
+1a: Represent whole numbers using words, diagrams, 
+or symbols, including recognizing and writing 
+numbers in expanded form. 
+ 
+1b: Demonstrate knowledge of place value. 
+ 
+1c: Compare and order whole numbers. 
+ 
+1d: Identify sets of numbers according to common 
+properties such as odd and even, multiples, or 
+factors. 
+ 
+1e: Compute with whole numbers. 
+ 
+1f: Estimate computations by approximating the 
+numbers involved. 
+ 
+1g: Solve routine and non-routine problems, including 
+real-life problems. 
+ 
+1a: Demonstrate knowledge of place value and of 
+the four operations. 
+ 
+1b: Find and use factors or multiples of numbers, 
+and identify prime numbers. 
+ 
+1c: Express in general terms and use the principles 
+of commutativity, associativity, and 
+distributivity. 
+ 
+1d: Evaluate powers of numbers, and square roots 
+of perfect squares to 144. 
+ 
+1e: Solve problems by computing, estimating, or 
+approximating. 
+ 
+ 
+A2  Fractions and Decimals 
+Grade 4 
+Grade 8 
+2a: Recognize fractions as parts of unit wholes, parts of 
+a collection, locations on number lines, divisions of 
+whole numbers. 
+ 
+2b: Identify equivalent fractions. 
+ 
+2c: Compare and order fractions. 
+ 
+2d: Show understanding of decimals. 
+ 
+2e: Represent fractions or decimals using words, 
+numbers, or models. 
+ 
+2f: Add and subtract fractions with the same 
+denominator. 
+ 
+2g: Add and subtract with decimals. 
+ 
+Notes: Grade 4 fractions items will involve 
+denominators of 2, 3, 4, 5, 6, 8, 10, or 12.  
+Grade 4 decimals items will involve  
+decimals to tenths and/or hundredths. 
+ 
+ 
+ 
+2a: Compare and order fractions. 
+ 
+2b: Compare and order decimals. 
+ 
+2c: Demonstrate knowledge of place value for 
+decimals. 
+ 
+2d: Represent decimals and fractions using words, 
+numbers, or models (including number lines). 
+ 
+2e: Recognize and write equivalent fractions. 
+ 
+2f: Convert fractions to decimals and vice versa. 
+ 
+2g: Relate operations with fractions or decimals to 
+situations and models. 
+ 
+2h: Compute with fractions and decimals, including 
+use of commutativity, associativity, and 
+distributivity. 
+ 
+2i: Approximate decimals to estimate computations. 
+ 
+2j: Solve problems involving fractions. 
+ 
+2k: Solve problems involving decimals. 
+ 
+See notes at end of exhibit. 
+A-12 
+Exhibit A-2.  TIMSS mathematics framework and specifications summary: 2003—Continued  
+ 
+A   NUMBER 
+A3  Integers 
+Grade 4 
+Grade 8 
+Not assessed at this level. 
+3a: Represent integers using words, numbers, or 
+models (including number lines). 
+ 
+3b: Compare and order integers. 
+ 
+3c: Show an understanding of addition, subtraction, 
+multiplication, and division with integers. 
+ 
+3d: Compute with integers. 
+ 
+3e: Solve problems using integers. 
+ 
+A4  Ratio, Proportion, and Percent 
+Grade 4 
+Grade 8 
+4a: Solve problems involving simple proportional 
+reasoning. 
+ 
+4a: Identify and find equivalent ratios. 
+ 
+4b: Divide a quantity in a given ratio. 
+ 
+4c: Convert percents to fractions or decimals, and 
+vice versa. 
+ 
+4d: Solve problems involving percents. 
+ 
+4e: Solve problems involving proportions. 
+ 
+See notes at end of exhibit. 
+A-13 
+           Exhibit A-2.  TIMSS mathematics framework and specifications summary: 2003—Continued 
+ 
+B  Measurement 
+  
+Grade(s)
+B1 
+Attributes and Units 
+4 
+8 
+  
+ 
+ 
+ 
+  
+B2 
+Tools, Techniques and Formulas 
+4 
+8 
+See notes at end of exhibit. 
+A-14 
+Exhibit A-2.  TIMSS mathematics framework and specifications summary: 2003—Continued 
+ 
+B  MEASUREMENT 
+B1  Attributes and Units 
+Grade 4 
+Grade 8 
+1a: Use given non-standard units to measure length, 
+area, volume, and time (e.g., paper clips for 
+length, tiles for area, sugar cubes for volume). 
+ 
+ 
+1b: Select appropriate standard units to measure 
+length, area, mass/weight,* angle, and time (e.g., 
+kilometers for car trips, centimeters for human 
+height). 
+ 
+1c: Use conversion factors between standard units 
+(e.g., hours to minutes, grams to kilograms). 
+ 
+1d: Recognize that total measures of length, area, 
+volume, angle, and time do not change with 
+position, decomposition into parts, or division. 
+  
+*More properly mass, but weight expressed in grams 
+or kilograms is the common usage at these levels. 
+Countries in which mass is the common usage for 
+grades 4 and/or 8 will frame items accordingly. 
+1a: Select and use appropriate standard units to find 
+measures of length, area, volume, perimeter, 
+circumference, time, speed, density, angle, 
+mass/weight.* 
+ 
+1b: Use relationships among units for conversions 
+within systems of units, and for rates. 
+ 
+* More properly mass, but weight expressed in 
+grams or kilograms is the common usage at these 
+levels. Countries in which mass is the common 
+usage for grades 4 and/or 8 will frame items 
+accordingly. 
+See notes at end of exhibit. 
+A-15 
+Exhibit A-2.  TIMSS mathematics framework and specifications summary: 2003—Continued 
+ 
+B  MEASUREMENT 
+B2  Tools, Techniques, and Formulas 
+Grade 4 
+Grade 8 
+2a: Use instruments with linear or circular scales to 
+measure length, weight, time, and temperature in 
+problem situations (e.g., dimensions of a window, 
+weight of a parcel).  
+ 
+2b: Estimate length, area, volume, weight, and time 
+in problem situations (e.g., height of a building, 
+volume of a block of material). 
+ 
+2c: Calculate areas and perimeters of squares and 
+rectangles of given dimensions. 
+ 
+2d: Compute measurements in simple problem 
+situations (e.g., elapsed time, change in 
+temperature, difference in height or weight). 
+ 
+2a: Use standard tools to measure length, weight, 
+time, speed, angle, and temperature in problem 
+situations and to draw line segments, angles, and 
+circles of a given size. 
+ 
+2b: Estimate length, circumference, area, volume, 
+weight, time, angle, and speed in problem 
+situations (e.g., circumference of a wheel, speed 
+of a runner). 
+ 
+2c: Compute with measurements in problem 
+situations (e.g., add measures, find average speed 
+on a trip, find population density). 
+ 
+2d: Select and use appropriate measurement 
+formulas for perimeter of a rectangle, 
+circumference of a circle, areas of plane figures 
+(including circles), surface area and volume of 
+rectangular solids, and rates. 
+ 
+2e: Find measures of irregular or compound areas by 
+covering with grids or dissecting and rearranging 
+pieces. 
+ 
+2f: Give and interpret information about the 
+precision of measurements (e.g., upper and lower 
+bounds of a length reported as 8 centimeters to 
+the nearest centimeter). 
+ 
+See notes at end of exhibit. 
+ 
+A-16 
+ 
+Exhibit A-2.  TIMSS mathematics framework and specifications summary: 2003—Continued  
+ 
+C  Geometry 
+  
+Grade(s)
+C1 
+Lines and Angles 
+4 
+8 
+  
+ 
+ 
+ 
+  
+C2 
+Two- and Three-Dimensional Shapes 
+4 
+8 
+  
+ 
+ 
+ 
+  
+C3 
+Congruence and Similarity 
+4 
+8 
+  
+ 
+ 
+ 
+  
+C4 
+Locations and Spatial Relationships 
+4 
+8 
+ 
+ 
+ 
+ 
+C5 
+Symmetry and Transformations 
+4 
+8 
+See notes at end of exhibit. 
+A-17 
+Exhibit A-2.  TIMSS mathematics framework and specifications summary: 2003—Continued 
+ 
+C   GEOMETRY 
+C1  Lines and Angles 
+Grade 4 
+Grade 8 
+1a: Classify angles as greater than, equal to, or less 
+than a right angle (or 90°). 
+ 
+1b: Identify and describe parallel and perpendicular 
+lines. 
+ 
+1c: Compare given angles and place them in order of 
+size. 
+ 
+1a: Classify angles as acute, right, straight, obtuse, 
+reflex, complementary, and supplementary. 
+ 
+1b: Recall the relationships for angles at a point, 
+angles on a line, vertically opposite angles, 
+angles associated with a transversal cutting 
+parallel lines, and perpendicularity. 
+ 
+1c: Know and use the properties of angle bisectors 
+and perpendicular bisectors of lines. 
+ 
+C2  Two- and Three-Dimensional Shapes 
+Grade 4 
+Grade 8 
+2a: Know and use vocabulary associated with 
+familiar two- and three-dimensional shapes. 
+ 
+2b: Identify common geometric shapes in the 
+environment. 
+ 
+2c: Classify two- and three-dimensional shapes 
+according to their properties. 
+ 
+2d: Know properties of geometric figures and use 
+them to solve routine problems. 
+ 
+2e: Decompose shapes and rearrange the parts to 
+form simpler shapes. 
+ 
+2a: Recall properties of geometric shapes: triangles 
+(scalene, isosceles, equilateral, right) and 
+quadrilaterals (scalene, trapezoid, parallelogram 
+rectangle, rhombus, square). 
+ 
+2b: Use properties of familiar geometric shapes in a 
+compound figure to make conjectures about 
+properties of the compound figure. 
+ 
+2c: Recall properties of other polygons (regular 
+pentagon, hexagon, octagon, decagon). 
+ 
+2d: Construct or draw triangles and rectangles of 
+given dimensions. 
+ 
+2e: Apply geometric properties to solve routine and 
+non-routine problems 
+ 
+2f: Use Pythagorean theorem (not proof) to solve 
+problems (e.g., find the length of a side of a 
+right-angled triangle given the lengths of the 
+other two sides; or, given the lengths of three 
+sides of a triangle, determine whether the triangle 
+is right-angled). 
+ 
+See notes at end of exhibit. 
+A-18 
+Exhibit A-2.  TIMSS mathematics framework and specifications summary: 2003—Continued 
+ 
+C   GEOMETRY 
+C3  Congruence and Similarity 
+Grade 4 
+Grade 8 
+3a: Identify triangles that have the same size and 
+shape (congruent). 
+ 
+3b: Identify triangles that have the same shape but 
+different sizes (similar). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3a: Identify congruent triangles and their 
+corresponding measures. 
+ 
+3b: Identify congruent quadrilaterals and their             
+corresponding measures. 
+ 
+3c: Consider the conditions of congruence to 
+determine whether triangles with given 
+corresponding measures (at least three) are 
+congruent. 
+ 
+3d: Identify similar triangles and recall their 
+properties. 
+ 
+3e: Use properties of congruence in mathematical 
+and practical problem situations. 
+ 
+3f: Use properties of similarity in mathematical and 
+practical problem situations. 
+ 
+C4  Locations and Spatial Relationships 
+Grade 4 
+Grade 8 
+4a: Use informal coordinate systems to locate 
+points in a plane. 
+ 
+4b: Relate a net to the shape it will make. 
+ 
+4c: Recognize relationships between two-
+dimensional and three-dimensional shapes 
+when shown nets and different two-dimensional 
+views of three-dimensional objects. 
+1a: Locate points using number lines, coordinate 
+grids, and maps. 
+ 
+1b: Use ordered pairs, equations, intercepts, 
+intersections, and gradients to locate points and 
+lines in the Cartesian plane.  
+ 
+1c: Recognize relationships between two-
+dimensional and three-dimensional shapes when 
+shown nets and different two-dimensional views 
+of three-dimensional objects. 
+  
+C5  Symmetry and Transformations 
+Grade 4 
+Grade 8 
+5a: Recognize line symmetry. 
+ 
+5b: Draw two-dimensional symmetrical figures. 
+ 
+5c: Recognize translation, reflection, and rotation. 
+5a: Recognize line and rotational symmetry for two-
+dimensional shapes. 
+ 
+5b: Draw two-dimensional symmetrical figures. 
+ 
+5c: Recognize, or demonstrate by sketching, 
+translation, reflection, rotation, and enlargement. 
+ 
+5d: Use transformations to explain or establish 
+geometric properties. 
+ 
+See notes at end of exhibit. 
+A-19 
+Exhibit A-2.  TIMSS mathematics framework and specifications summary: 2003—Continued 
+ 
+D  Data 
+  
+Grade(s)
+D1 
+Data Collection and Organization 
+4 
+8 
+  
+ 
+ 
+ 
+  
+D2 
+Data Representation 
+4 
+8 
+  
+ 
+ 
+ 
+  
+D3 
+Data Interpretation 
+ 4 
+8 
+  
+ 
+ 
+ 
+  
+D4 
+Uncertainty and Probability 
+• 
+8 
+See notes at end of exhibit. 
+A-20 
+Exhibit A-2.  TIMSS mathematics framework and specifications summary: 2003—Continued 
+ 
+D   DATA 
+D1  Data Collection and Organization 
+Grade 4 
+Grade 8 
+1a: Match a set of data with appropriate 
+characteristics of situations or contexts (e.g., 
+outcomes from rolling a die). 
+ 
+1b: Organize a set of data by one characteristic (e.g., 
+height, color, age, shape). 
+ 
+ 
+1a: Match a set of data, or a data display, with 
+appropriate characteristics of situations or 
+contexts (e.g., monthly sales of a product for a 
+year). 
+ 
+1b: Organize a set of data by one or more 
+characteristics using a tally chart, table, or graph. 
+ 
+1c: Recognize and describe possible sources of error 
+in collecting and organizing data (e.g., bias, 
+inappropriate grouping). 
+ 
+1d: Select the most appropriate data collection 
+method (e.g., survey, experiment, questionnaire) 
+to answer a given question, and justify the 
+choice. 
+ 
+D2  Data Representation 
+Grade 4 
+Grade 8 
+2a: Read data directly from tables, pictographs, bar 
+graphs, and pie charts. 
+ 
+2b: Display data using tables, pictographs, and bar 
+graphs. 
+ 
+2c: Compare and match different representations of 
+the same data. 
+2a: Read data from charts, tables, pictographs, bar 
+graphs, pie charts, and line graphs. 
+ 
+2b: Display data using charts, tables, pictographs, bar 
+graphs, pie charts, and line graphs. 
+ 
+2c: Compare and match different representations of 
+the same data. 
+See notes at end of exhibit. 
+A-21 
+Exhibit A-2.  TIMSS mathematics framework and specifications summary: 2003—Continued 
+ 
+D   DATA 
+D3  Data Interpretation 
+Grade 4 
+Grade 8 
+3a: Compare characteristics of related data sets 
+(e.g., given data or representations of data on 
+student heights in two classes, identify the 
+class with the shortest/tallest person). 
+ 
+3b: Draw conclusions from data displays. 
+ 
+3a: Compare characteristics of data sets, using mean, 
+median, range, and shape of distribution (in 
+general terms). 
+ 
+3b: Interpret data sets (e.g., draw conclusions, make 
+predictions, and estimate values between and 
+beyond given data points). 
+ 
+3c: Evaluate interpretations of data with respect to 
+correctness and completeness of interpretation. 
+ 
+3d: Use and interpret data sets to answer questions. 
+ 
+D4  Uncertainty and Probability 
+Grade 4 
+Grade 8 
+Not assessed at this grade. 
+4a: Judge the likelihood of an event as certain, more 
+likely, equally likely, less likely, or impossible. 
+ 
+4b: Use data from experiments to estimate 
+probabilities for favorable outcomes. 
+ 
+4c: Use problem conditions to calculate theoretical 
+probabilities for possible outcomes. 
+ 
+See notes at end of exhibit. 
+A-22 
+Exhibit A-2.  TIMSS mathematics framework and specifications summary: 2003—Continued 
+ 
+E  Algebra 
+  
+Grade(s)
+E1 
+Patterns 
+4 
+8 
+  
+ 
+ 
+ 
+ 
+E2 
+Algebraic Expressions 
+• 
+8 
+  
+ 
+ 
+ 
+ 
+E3 
+Equations and Formulas 
+4 
+8 
+  
+ 
+ 
+ 
+ 
+E4 
+Relationships 
+4 
+8 
+See notes at end of exhibit. 
+A-23 
+Exhibit A-2.  TIMSS mathematics framework and specifications summary: 2003—Continued 
+ 
+E ALGEBRA 
+E1  Patterns 
+Grade 4 
+Grade 8 
+1a: Extend and find missing terms of numeric and 
+geometric patterns. 
+ 
+1b: Match numeric and geometric patterns with 
+descriptions. 
+ 
+1c: Describe relationships between adjacent terms in 
+a sequence or between the number of the term 
+and the term. 
+ 
+1a: Extend numeric, algebraic, and geometric 
+patterns or sequences using words, symbols, or 
+diagrams; find missing terms. 
+ 
+1b: Generalize pattern relationships in a sequence, or 
+between adjacent terms, or between the number 
+of the term and the term, using words or symbols. 
+E2  Algebraic Expressions 
+Grade 4 
+Grade 8 
+Not assessed at this grade. 
+2a: Find sums, products, and powers of expressions 
+containing variables. 
+ 
+2b: Evaluate expressions for given numeric values of 
+the variable(s). 
+ 
+2c: Simplify or compare algebraic expressions to 
+determine equivalence. 
+ 
+2d: Model situations using expressions. 
+ 
+E3  Equations and Formulas 
+Grade 4 
+Grade 8 
+3a: Show understanding of equality using equations, 
+areas, volumes, masses/weights. 
+ 
+3b: Find the missing number in an equation (e.g., if 
+17 + __ = 29, what number would go in the blank 
+to make the equation true?). 
+ 
+3c: Model simple situations involving unknowns 
+with an equation. 
+ 
+3d: Solve problems involving unknowns. 
+ 
+ 3a: Evaluate formulas given the values of the 
+variables. 
+ 
+3b: Use formulas to answer questions about given 
+situations. 
+ 
+3c: Indicate whether a value (or values) satisfies a 
+given equation. 
+ 
+3d: Solve simple linear equations and inequalities, 
+and simultaneous (two variables) equations. 
+ 
+3e: Write linear equations, inequalities, or 
+simultaneous equations that model given 
+situations. 
+ 
+3f: Solve problems using equations or formulas. 
+See notes at end of exhibit. 
+A-24 
+ 
+Exhibit A-2.  TIMSS mathematics framework and specifications summary: 2003—Continued 
+ 
+E   ALGEBRA 
+E4  Relationships 
+Grade 4 
+Grade 8 
+4a: Generate pairs of numbers following a given 
+rule (e.g., multiply the first number by 3 and 
+add 2 to get the second number). 
+ 
+4b: Write, or select, a rule for a relationship given 
+some pairs of numbers satisfying the 
+relationship. 
+ 
+4c: Graph pairs of numbers following a given rule. 
+ 
+4d: Show why a pair of numbers follows a given 
+rule. (E.g., a rule for a relation between two 
+numbers is “multiply the first number by 5 and 
+subtract 4 to get the second number.” Show 
+that when the first number is 2 and the second 
+number is 6 the rule is followed.) 
+4a: Recognize equivalent representations of functions 
+as ordered pairs, tables, graphs, words, or 
+equations. 
+ 
+4b: Given a function in one representation, generate a 
+different but equivalent representation. 
+ 
+4c: Recognize and interpret proportional, linear, and 
+nonlinear relationships (travel graphs and simple 
+piecewise functions included). 
+ 
+4d: Write or select a function to model a given 
+situation. 
+ 
+4e: Given a graph of a function, identify attributes 
+such as intercepts on axes and intervals where the 
+function increases, decreases, or is constant. 
+ 
+NOTE: Content domains are identified by capital letters (A, B, C,…), topic areas are identified by numbers (1, 2, 3,…), and objectives 
+are identified by lowercase letters (a, b, c, …).  Topic areas can be assessed at those grade levels indicated by 4 and 8 on the right side of 
+the table.  If a topic area should not be addressed at a specific grade level, it is indicated by a dot (•). 
+SOURCE: International Study Center, Lynch School of Education, Boston College, TIMSS Assessment Frameworks and Specifications 
+2003, 2nd ed., 2003. 
+B-1 
+Appendix B:  Levels of Mathematical Complexity 
+ 
+Exhibit B-1 is the document that was used by the expert panel for the mathematical complexity 
+classifications.  The summary document is based on the prepublication version of the NAEP 2005 
+framework that was available at the time of the expert panel meeting but has been reformatted and 
+adapted slightly to facilitate the classification process. 
+ 
+Exhibit B-1. Levels of mathematical complexity adapted from the NAEP 2005 mathematics 
+framework 
+ 
+Low Complexity 
+Moderate Complexity 
+High Complexity 
+This category relies heavily on the 
+recall and recognition of previously 
+learned concepts and principles.  
+Items typically specify what the 
+student is to do, which is often to 
+carry out some procedure that can be 
+performed mechanically.  It is not 
+left to the student to come up with an 
+original method or solution.   
+ 
+Items in the moderate-complexity 
+category involve more flexibility of 
+thinking and choice among 
+alternatives than do those in the low-
+complexity category.  They require a 
+response that goes beyond the 
+habitual, is not specified, and 
+ordinarily has more than a single 
+step.  The student is expected to 
+decide what to do, using informal 
+methods of reasoning and problem-
+solving strategies, and to bring 
+together skill and knowledge from 
+various domains.   
+High-complexity items make heavy 
+demands on students, who must 
+engage in more abstract reasoning, 
+planning, analysis, judgment, and 
+creative thought.  A satisfactory 
+response to the item requires that the 
+student think in an abstract and 
+sophisticated way.   
+ 
+The following are some, but not all, 
+of the demands that items in the low-
+complexity category might make: 
+• 
+Recall or recognize a fact, term, 
+or property; 
+• 
+Recognize and example of a 
+concept; 
+• 
+Compute a sum, difference, 
+product, or quotient; 
+• 
+Recognize an equivalent 
+representation; 
+• 
+Perform a specified procedure; 
+• 
+Evaluate an expression in an 
+equation or formula for a given 
+variable; 
+• 
+Solve a one-step word problem; 
+• 
+Draw or measure simple 
+geometric figures; or 
+• 
+Retrieve information from a 
+graph, table, or figure. 
+ 
+The following illustrate some of the 
+demands that items of moderate 
+complexity might make: 
+• Represent a situation 
+mathematically in more than one 
+way; 
+• Select and use different 
+representations, depending on 
+situation and purpose; 
+• Solve a word problem requiring 
+multiple steps; 
+• Compare figures or statements; 
+• Provide a justification for steps in 
+a solution process; 
+• Interpret a visual representation; 
+• Extend a pattern; 
+• Retrieve information from a 
+graph, table, or figure and use it 
+to solve a problem requiring 
+multiple steps; 
+• Formulate a routine problem, 
+given data and conditions; or 
+• Interpret a simple argument. 
+ 
+Items at the level of high complexity 
+may ask the student to do any of the 
+following: 
+• Describe how different 
+representations can be used for 
+different purposes; 
+• Perform a procedure having 
+multiple steps and multiple 
+decision points; 
+• Analyze similarities and 
+differences between procedures 
+and concepts; 
+• Generalize a pattern; 
+• Formulate an original problem, 
+given a situation; 
+• Solve a novel problem; 
+• Solve a problem in more than one 
+way; 
+• Explain and justify a solution to a 
+problem; 
+• Describe, compare, and contrast 
+solution methods; 
+• Formulate a mathematical model 
+for a complex situation; 
+• Analyze the assumptions made in 
+a mathematical model; 
+• Analyze or produce a deductive 
+argument; or 
+• Provide a mathematical 
+justification. 
+SOURCE: U.S. Department of Education, National Assessment Governing Board, Mathematics Framework for the 2005 National Assessment of 
+Educational Progress, 2004. 
+ 
+ 
+ 
+ 
+C-1 
+Appendix C:  Expert Panel  
+ 
+Members and Staff 
+ 
+Expert Panel Members 
+ 
+ 
+ 
+ 
+ 
+Jim Braswell 
+Educational Testing Service 
+ 
+Mary Anne Dorofee 
+Educational Testing Service 
+ 
+Canda Mueller Engheta 
+Kansas State Department of Education 
+ 
+Ramesh Gangolli 
+University of Washington 
+ 
+Jeane Joyner 
+Meredith College 
+ 
+Jeremy Kilpatrick 
+University of Georgia 
+ 
+Patricia Klag 
+Educational Testing Service 
+ 
+Mary Lindquist 
+Columbus State University 
+ 
+Marge Petit 
+National Center for the Improvement of 
+Educational Assessment 
+ 
+Norman Webb 
+Wisconsin Center for Education Research 
+ 
+Linda Wilson 
+Consultant 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Staff 
+ 
+ 
+National Center for Education Statistics 
+ 
+Marilyn Binkley 
+ 
+Patrick Gonzales 
+ 
+Andrew Malizio 
+ 
+Eugene Owen 
+ 
+Elois Scott 
+ 
+ 
+Education Statistics Services Institute 
+ 
+Kristy David 
+ 
+Janine Emerson 
+ 
+Kim Gattis 
+ 
+Dana Kelly 
+ 
+Teresa Smith Neidorf 
+ 
+Margaret Woodworth 
+ 
+ 
+David Nohara 
+Independent Project Consultant 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+D-1 
+Appendix D:  Methodological Notes and Supplementary Data 
+ 
+Considerations in Selecting Classification Methods 
+ 
+The cross-classification approach (classification of items in one assessment to the other 
+assessment framework) was selected for the examination of content and grade match so that there 
+would be multiple content profiles for each assessment.  This method also prevents each assessment 
+from being evaluated through only one perspective, which may or may not be reflective of its 
+purposes.  This approach takes advantage of the multiple ways of describing content found in the 
+frameworks and enables direct comparisons across the assessments.   
+ 
+For the classifications based on cognitive processes and skills, a common classification 
+system was chosen—levels of mathematical complexity from the NAEP 2005 framework.  There 
+were several reasons for deciding, first, to use only a single classification system and, second, for 
+selecting this NAEP 2005 dimension for the common system.  With regard to the first decision, the 
+study organizers recognized that classifications in these dimensions likely would require more 
+discretionary judgment than those in content areas, and thought a single rubric would be the most 
+realistic to implement under the time constraints.  With regard to the second decision, although all 
+three 2003 mathematics assessment frameworks compared in this study include a dimension related 
+to cognitive skills and processes, the classification system from the NAEP 2005 framework focuses 
+on the characteristics of items rather than on inferred cognitive abilities of students, which may vary 
+widely from student to student.  Furthermore, it is expected to be in use in NAEP for several years to 
+come, making it a potentially valuable link to similar comparison studies in the future. 
+ 
+Reliability Analyses 
+ 
+ 
+For the classification of items, the expert panel was divided into three groups to review items 
+by content area (as described in section 3).  To measure the extent to which the different content area 
+groups were interpreting the common rubric in similar ways, a common set of items was classified by 
+all three groups with respect to mathematical complexity level.  The degree to which the three groups 
+classified these items in the same categories on this dimension serves as a measure of the reliability 
+of these classifications.  The set of 60 items (30 from NAEP and 30 from TIMSS), which reflects 
+approximately 9 percent of the total item classifications across both assessments, was taken from 
+across the mathematics content areas and grade levels.  This was not a random sample, but a 
+representative set chosen to cover the main categories addressed in the study (content area and grade 
+level).  Some effort was also made to ensure that there were at least some items from each of the 
+cognitive categories based on the original assessment developers’ classifications (cognitive domains 
+in TIMSS and mathematical abilities in NAEP).  Reliability items were classified at regular intervals 
+throughout the classification process.  Given the limited time available for the expert panel meeting, 
+the 30 items from each assessment was the maximum number of items that could be included in the 
+reliability set. 
+ 
+The reliability set of 30 items from each assessment (NAEP and TIMSS) was composed of 
+10 items from the number category and 5 items from each of measurement, geometry, data, and 
+algebra.  This reflects 10 items from each of the three primary content groups into which the expert 
+panel was divided (number, measurement/geometry, and data/algebra).  For the reliability results, 
+each group contributed 10 classifications from their primary content areas and another 20 secondary 
+classifications for reliability items from the other content areas.  Due to time constraints, one of the 
+D-2 
+three groups only provided secondary classifications for 5 of the 20 items outside their primary 
+content area.  This group contributed primary classifications for items in data and algebra, and 5 
+secondary classifications from the number category.  Therefore, the set of 15 items that have 
+classifications from all three groups do not reflect any items from measurement and geometry; for 
+those items, reliability data are based on only two classifications.  With respect to other item 
+characteristics (e.g., grade level, item format, and NAEP mathematical ability category), the set is 
+still balanced and representative of the full reliability set. 
+ 
+The multiple classification data for the reliability set were analyzed based on the percentage 
+of classifications where there was agreement.  Classification reliability statistics were computed in 
+two ways, as follows: 
+ 
+• 
+The percentage of total comparisons: based on the number of comparisons where there was 
+agreement between any two groups (i.e., groups 1 and 2, groups 2 and 3 and groups 1 and 3) 
+across ALL items; and 
+ 
+• 
+The percentage of items: based on the number of items where there was agreement across 
+ALL three groups. 
+ 
+The results from these two types of analyses are shown in tables D-1 and D-2. 
+ 
+The results of the reliability analyses shown in table D-1 (based on number of comparisons 
+across any two groups) were checked to evaluate any impact of removing the 5 number and 10 
+measurement/geometry NAEP items with data from only two groups.  The results showed no change 
+in the reported percentage agreement (78 percent).  Thus, the full set of reliability data were used for 
+the analyses shown. 
+ 
+There was reasonably high agreement across groups on classification to the three levels of 
+mathematical complexity (low, moderate, and high).  The results indicate 79 percent agreement for 
+all comparisons between any two groups across all items (table D-1).  These results reflect agreement 
+across all groups for 69 percent of all items (table D-2).  When broken down into the NAEP and 
+TIMSS items, the results are similar.  For items where there was not total agreement across groups, 
+disagreement was always to “adjacent” categories (i.e., low/moderate and moderate/high).  There 
+were no instances of disagreement between low and high complexity.   
+ 
+D-3 
+Table D-1.  Reliability of mathematical complexity level classifications for mathematics items in 
+NAEP 2003 and TIMSS 2003, by number of comparisons and percentage agreement 
+Number of comparisons and percentage agreement 
+NAEP 2003 
+TIMSS 2003 
+Overall 
+Total number of comparisons across items 
+60 
+90 
+150 
+Number of comparisons with agreement between groups 
+47 
+72 
+119 
+Percentage agreement 
+78 
+80 
+79 
+NOTE: Data are based on 30 NAEP items and 30 TIMSS items that were classified by three expert panel groups and reflect all comparisons 
+between any two groups (i.e., groups 1 and 2; groups 2 and 3; and groups 1 and 3).  One group classified only 15 of 30 NAEP items in the 
+reliability set, meaning that agreement on the classification for 15 NAEP items was based on the classifications of two groups instead of three.  
+This results in a total number of comparisons of 60 for NAEP items (instead of 90) and 150 overall. 
+SOURCE: Expert panel classifications of selected fourth- and eighth-grade mathematics items from the National Assessment of Educational 
+Progress (NAEP) 2003 Mathematics Assessment and the Trends in International Mathematics and Science Study (TIMSS) 2003 Assessment. 
+  
+Table D-2.  Reliability of mathematical complexity level classifications for mathematics items in 
+NAEP 2003 and TIMSS 2003, by number of items and percentage agreement 
+Number of items and percentage agreement 
+NAEP 2003 
+TIMSS 2003 
+Overall 
+Total number of items 
+15 
+30 
+45 
+Number of items with agreement across all groups 
+10 
+21 
+31 
+Percentage agreement 
+67 
+70 
+69 
+NOTE: Data are based on 30 NAEP items and 30 TIMSS items that were classified by three expert panel groups and reflect comparisons across 
+all three groups for each item.  One group classified only 15 of 30 NAEP items in the reliability set; the percentage agreement for NAEP items 
+includes only the items that were classified by all three groups. 
+SOURCE: Expert panel classifications of selected fourth- and eighth-grade mathematics items from the National Assessment of Educational 
+Progress (NAEP) 2003 Mathematics Assessment and the Trends in International Mathematics and Science Study (TIMSS) 2003 Assessment. 
+ 
+In sum, the main focus of the present study is a content comparison—classification of items 
+to the content framework of the other assessment—which was done by the separate content-area 
+subpanels.  The reliability tables are included only to provide some indication of the extent to which 
+the expert panelists agreed on the other metric that used a common rubric (mathematical complexity 
+level).  Expert panelists typically spent less time reviewing and classifying the items in the reliability 
+set that were outside of their primary content areas, and the results from these secondary 
+classifications should not be viewed as a complete replication of the process used by the primary 
+group which was most familiar with the items in the respective content areas.  Therefore, only the 
+primary group classifications were used in the reporting of results for mathematical complexity level. 
+ 
+Data Processing 
+ 
+After the expert panel meeting, the facilitators of each group met to review the methods used 
+and the data collected to ensure consistency.  In some cases, methods or reporting conventions were 
+slightly different between groups.  For these cases, the facilitators reviewed their notes and the notes 
+of individual panel members to standardize the data.  Datasets were produced that included the 
+standardized expert panel classifications for all items from each assessment (including multiple 
+classifications on the reliability set) as well as original classification information for each item 
+provided by the assessment developers.  The raw data containing all original panelist classifications 
+and comments from each subgroup were also available for analysts and were consulted in the writing 
+of this report. 
+ 
+D-4 
+Supplementary Data on NAEP/PISA Comparisons 
+ 
+Some supplementary data to inform the discussion of the NAEP/PISA content comparisons 
+in Section 6.1 are shown in Table D-3.  This table shows the distribution of PISA items classified 
+across topics in the NAEP content strands, indicating the degree of overlap between PISA items 
+from each overarching idea and NAEP topics. 
+D-5 
+Table D-3. Distribution of PISA 2003 mathematics items across topics within the NAEP 2003 
+mathematics framework content strands, by PISA overarching idea category  
+PISA overarching idea 
+NAEP content strand and topic 
+Change and 
+Relationships 
+Quantity 
+Space and 
+shape 
+Uncertainty 
+Number sense, properties, and operations 
+     Represent numbers and operations using models,          
+          diagrams, and symbols 
+0 
+2 
+0 
+0 
+     Compute with numbers 
+1 
+0 
+1 
+0 
+     Use computations and estimation in applications 
+1 
+9 
+1 
+0 
+     Apply ratios and proportional thinking 
+1 
+0 
+0 
+1 
+     Use elementary number theory 
+0 
+2 
+0 
+0 
+Measurement 
+     Estimate the size of an object or compare objects with       
+          respect to a given attribute 
+0 
+0 
+1 
+0 
+     Estimate, calculate or compare perimeter, area, volume,     
+          and surface area 
+0 
+0 
+7 
+0 
+     Convert from one measurement to another within the  
+          same system 
+0 
+2 
+0 
+0 
+     Make and read scale drawings 
+0 
+0 
+1 
+0 
+     Apply the concept of rate to measurement situations 
+1 
+1 
+0 
+0 
+Geometry and spatial sense 
+     Describe, visualize, draw and construct geometric figures 
+0 
+0 
+1 
+0 
+     Investigate and predict results of combining, subdividing, 
+          and changing shapes  
+0 
+0 
+2 
+0 
+     Identify the relationship (congruence, similarity) between  
+          a figure and its image under a transformation 
+0 
+0 
+1 
+0 
+     Apply geometric properties and relationships in solving  
+          problems 
+0 
+0 
+1 
+0 
+     Represent situations with geometric models and apply  
+          properties of figures 
+0 
+0 
+3 
+0 
+Data analysis, statistics, and probability 
+     Read, interpret, and make predictions using tables and     
+          graphs 
+9 
+3 
+0 
+4 
+     Organize and display data and make inferences 
+1 
+0 
+0 
+0 
+     Understand and apply sampling, randomness, and bias in  
+          data collection 
+0 
+0 
+0 
+1 
+     Describe measures of central tendency and dispersion 
+0 
+0 
+0 
+5 
+     Understand and reason about the use and misuse of  
+          statistics in our society 
+0 
+0 
+0 
+4 
+     Use basic concepts, trees, and formulas for combinations, 
+          permutations, and other counting techniques 
+0 
+2 
+0 
+0 
+     Determine the probability of a simple event 
+0 
+0 
+0 
+2 
+     Apply the basic concept of probability 
+0 
+0 
+0 
+3 
+Algebra and functions 
+     Describe, extend, interpolate, transform and create       
+          patterns and functional relationships 
+0 
+2 
+0 
+0 
+     Use multiple representations to translate among  
+          diagrams, models, and symbolic expressions 
+1 
+0 
+0 
+0 
+     Interpret situations and perform algebraic operations  
+3 
+0 
+0 
+0 
+     Compare and apply the numerical, symbolic, and  
+          graphical properties of a variety of functions 
+1 
+0 
+0 
+0 
+     Apply function concepts to model real-world situations  
+1 
+0 
+0 
+0 
+NOTE: Data reflect the number of PISA items classified by the panel to a topic or subtopic at any grade level in the NAEP 2003 framework.  Items 
+classified to multiple topics were counted in all relevant topics.  Four PISA items that were classified to a NAEP strand but not to a topic are not 
+reflected in this table: three items from change and relationships classified as measurement, algebra or geometry and one item from space and shape 
+classified as geometry. 
+SOURCE: Organization for Economic Cooperation and Development, Program for International Student Assessment (PISA) 2003 Mathematical 
+Literacy Assessment; Organization for Economic Cooperation and Development (OECD), Program for International Student Assessment (PISA), The 
+PISA 2003 Assessment Framework: Mathematics, Reading, Science and Problem Solving Knowledge and Skills, 2003; and U.S. Department of 
+Education, National Assessment Governing Board, Mathematics Framework for the 2003 National Assessment of Educational Progress, 2002. 
+ 
+ 
+ 
+ 
+E-1 
+Appendix E:  Example Items 
+ 
+Exhibit E-1.  Index of example items from NAEP 2003, TIMSS 2003, and PISA 2003 
+ 
+Example 
+Number 
+Description of characteristics illustrated in text 
+1 
+NAEP conceptual understanding item (low mathematical complexity) 
+2 
+NAEP problem solving item (low mathematical complexity) 
+3 
+TIMSS reasoning item (low mathematical complexity) 
+4 
+PISA reproduction item (moderate mathematical complexity) 
+5 
+NAEP short constructed-response item (high mathematical complexity) 
+6 
+NAEP extended constructed-response item (high mathematical complexity) 
+7 
+TIMSS extended constructed-response item (moderate mathematical complexity) 
+8 
+PISA complex multiple-choice item (moderate mathematical complexity) 
+9 
+PISA open constructed-response item (low mathematical complexity) 
+10 
+TIMSS item described as “basic computation” by the expert panel (low mathematical 
+complexity) 
+11 
+TIMSS item described as “select an operation or procedure to solve a problem” by the 
+expert panel (low mathematical complexity) 
+12 
+NAEP item described as “basic computation” by the expert panel (low mathematical 
+complexity) 
+13 
+NAEP fourth-grade number item classified at eighth-grade level on TIMSS mathematics 
+framework (moderate mathematical complexity) 
+14 
+TIMSS eighth-grade measurement item classified at fourth-grade level on NAEP 
+mathematics framework (moderate mathematical complexity) 
+15 
+TIMSS fourth-grade geometry item not classified at the topic level on the NAEP 
+mathematics framework (low mathematical complexity) 
+16 
+NAEP fourth-grade geometry item with a general match to the TIMSS mathematics 
+framework—classified at the topic level but not to a specific subtopic (moderate 
+mathematical complexity) 
+17 
+NAEP cross-grade geometry item (grades 4, 8, and 12) classified at the fourth-grade level 
+on TIMSS mathematics framework (low mathematical complexity) 
+18 
+TIMSS eighth-grade geometry item classified at the twelfth-grade level on the NAEP 
+mathematics framework (low mathematical complexity) 
+19 
+TIMSS eighth-grade geometry item classified to NAEP topic of apply geometric 
+properties and relationships in solving problems (low mathematical complexity) 
+20 
+TIMSS fourth-grade data item classified to NAEP topic of read, interpret, and make 
+predictions using tables and graphs (low mathematical complexity) 
+21 
+NAEP eighth-grade algebra item classified to TIMSS number content domain (low 
+mathematical complexity) 
+22 
+NAEP problem solving item classified to PISA reproduction competency cluster (moderate 
+mathematical complexity) 
+23 
+NAEP problem solving item classified to PISA connections competency cluster and judged 
+as appropriate for PISA (moderate mathematical complexity) 
+24 
+NAEP problem solving item judged as not likely to appear on the PISA mathematics 
+assessment (moderate mathematical complexity) 
+25 
+NAEP problem solving item judged as requiring revision to appear on the PISA 
+mathematics assessment (moderate mathematical complexity) 
+26 
+PISA task requiring graphical interpretation (low-moderate mathematical complexity) 
+E-2 
+EXAMPLE 1 
+ 
+NAEP multiple-choice item – grade 4 
+ 
+Which of the following has only 3 angles? 
+ 
+A) A triangle 
+B) A square 
+C) A rectangle 
+D) A cube 
+ 
+ 
+SOURCE: U.S. Department of Education, National Center for Education Statistics, National Assessment of Educational Progress (NAEP) 
+2003 Mathematics Assessment.   
+ 
+ 
+Answer Key: A 
+ 
+Framework classifications 
+NAEP 2003 framework1 
+TIMSS 2003 framework2 
+Geometry and spatial sense 
+ 
+Describe, visualize, draw, and construct geometric 
+figures 
+ 
+Grade 4 
+ 
+Conceptual understanding 
+Geometry 
+ 
+Two- and three-dimensional shapes 
+ 
+ 
+Grade 4 
+Mathematical complexity level:3 low 
+1 Classified by NAEP assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+E-3 
+ 
+EXAMPLE 2 
+ 
+NAEP multiple-choice item – grades 4, 8, and 12 
+ 
+ 
+The perimeter of a square is 36 inches.  What is the length of one side of the square? 
+ 
+A) 4 inches 
+B) 6 inches 
+C) 9 inches 
+D) 18 inches 
+ 
+ 
+SOURCE: U.S. Department of Education, National Center for Education Statistics, National Assessment of Educational Progress (NAEP) 
+2003 Mathematics Assessment.   
+ 
+ 
+Answer Key: C 
+ 
+Framework classifications 
+NAEP 2003 framework1 
+TIMSS 2003 framework2 
+Measurement 
+ 
+Estimate, calculate (using basic principles or formulas), 
+or compare perimeter, area, volume, and surface area in 
+meaningful contexts to solve mathematical and real-
+world problems 
+ 
+Grade 4 
+ 
+Problem solving 
+Measurement 
+ 
+Tools, techniques, and formulas 
+ 
+ 
+ 
+ 
+Grade 4 
+Mathematical complexity level:3 low 
+1 Classified by NAEP assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+E-4 
+ 
+EXAMPLE 3 
+ 
+TIMSS multiple-choice item – grade 8 
+ 
+ 
+(3, 6), (6, 15), (8, 21) 
+ 
+Which of these describes how to get the second number from the first number in every ordered pair 
+above? 
+ 
+A) Add 3 
+B) Subtract 3 
+C) Multiply by 2 
+D) Multiply by 2 and then add 3 
+E) Multiply by 3 and then subtract 3 
+ 
+ 
+SOURCE: International Association for the Evaluation of Educational Achievement, Trends in International Mathematics and Science Study 
+(TIMSS) 2003 Assessment. 
+ 
+ 
+Answer Key: E 
+ 
+Framework classifications 
+TIMSS 2003 framework1 
+NAEP 2003 framework2 
+Algebra 
+ 
+Relationships 
+ 
+ 
+Grade 8 
+ 
+Reasoning 
+Algebra and functions 
+ 
+Describe, extend, interpolate, transform, and create a 
+wide variety of patterns and functional relationships 
+ 
+Grade 8 
+Mathematical complexity level:3 low 
+1 Classified by TIMSS assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+E-5 
+ 
+EXAMPLE 4 
+ 
+PISA multiple-choice item 
+ 
+Colored Candies 
+ 
+Robert’s mother lets him pick one candy from a bag.  He can’t see the candies. The number of 
+candies of each color in the bag is shown in the following graph. 
+ 
+ 
+ 
+ 
+ 
+ 
+What is the probability that Robert will pick a red candy? 
+A) 10% 
+B) 20% 
+C) 25% 
+D) 50% 
+ 
+ 
+SOURCE: Organization for Economic Cooperation and Development, Program for International Student Assessment (PISA) 2003 
+Mathematical Literacy Assessment. 
+ 
+ 
+Answer Key: B 
+ 
+Framework classifications 
+PISA 2003 framework1 
+NAEP 2003 framework2 
+Overarching idea 
+ 
+Competency cluster 
+ 
+Situation or context 
+Uncertainty 
+ 
+Reproduction 
+ 
+Personal 
+Content strand 
+ 
+ 
+Topic 
+ 
+ 
+Grade level 
+Data analysis, statistics, 
+and probability 
+ 
+Determine the probability 
+of a simple event 
+ 
+8 
+Mathematical complexity level:3 moderate 
+1 Classified by PISA assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+0 
+2 
+4 
+6 
+8 
+Red 
+Orange 
+Yellow 
+Green 
+Blue 
+Pink 
+Purple 
+Brown 
+E-6 
+ 
+EXAMPLE 5 
+ 
+NAEP short constructed-response item – grade 4 
+ 
+ 
+ 
+ 
+Together, Sara and Brendan have 20 pencils. Sara says 1/4 of the pencils are hers. Brendan 
+says 15 of the pencils belong to him. Explain how they both could be right. Use words or 
+drawings. 
+ 
+ 
+ 
+ 
+ 
+ 
+SOURCE: U.S. Department of Education, National Center for Education Statistics, National Assessment of Educational Progress (NAEP) 
+2003 Mathematics Assessment.   
+ 
+ 
+ 
+Scoring guide 
+In this question the student was given information in two different ways—a fractional part and a number of items—
+and the student needed to justify that these two interpretations of the same situation were consistent.  To answer the 
+question, the student needed to observe that the fractional part has meaning in terms of the number of items, or that 
+the number of items can be represented as a fractional part of the whole amount.  Students were permitted to use a 
+calculator. 
+Correct 
+They can both be right because ¼ of 20 = 5 and 20 – 5 = 15 
+OR 
+¼ is 5 and ¾ is 15 
+OR 
+ 
+Sara ¼ or 5 
+Brendan ¾ or 15 
+| | | | | 
+| | | | |   | | | | |   | | | | | 
+ 
+Partial 
+¼ is 5 
+OR  
+¾ is 15 
+OR 
+“Sara has 5” (5 must be connected to Sara; if states Sara has 5 because 20 – 15 = 5, item is scored as incorrect). 
+Incorrect 
+Incorrect response (includes 20 – 15 = 5,  5 + 15 = 20, and switching names) 
+ 
+E-7 
+EXAMPLE 5—continued 
+ 
+Framework classifications 
+NAEP 2003 framework1 
+TIMSS 2003 framework2 
+Number sense, properties, and operations 
+ 
+Apply ratios and proportional thinking in a variety of 
+situations 
+ 
+Grade 4 
+ 
+Conceptual understanding 
+Number 
+ 
+Fractions and decimals 
+ 
+ 
+Grade 4 
+Mathematical complexity level:3 high 
+1 Classified by NAEP assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+E-8 
+ 
+EXAMPLE 6 
+ 
+NAEP extended constructed-response item – grade 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ted wants to purchase floor covering for the hallway shown above. He knows there are many ways 
+to find the area of the hallway. One way is to divide the hallway into the sections shown below and 
+then add together the area of each section. 
+ 
+ 
+ 
+ 
+ 
+ 
+Area of Hallway = Area of Region I + Area of Region II 
+Area = (5 x 10) + (7 x 5) 
+Use the figures below to show 3 other ways that Ted can divide the hallway to find its area. 
+Below each figure explain what numbers and operations Ted could use to calculate the area.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOURCE: U.S. Department of Education, National Center for Education Statistics, National Assessment of Educational Progress (NAEP) 
+2003 Mathematics Assessment.   
+E-9 
+ 
+EXAMPLE 6—continued 
+ 
+Solution: 
+ 
+Possible answers include:          
+ 
+ 
+ 
+ 
+Area = (5 × 5) + (5 × 12)             
+ 
+Area = (5 × 5) + (5 × 5) + (7 × 5) 
+ 
+   
+ 
+ 
+         
+ 
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
++
++
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
++
+2
+10
+5
+5
+2
+12
+7
+5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Area = 
+Area = (10 × 12) + (7 × 5)  
+For this method the missing  
+piece must be indicated 
+E-10 
+EXAMPLE 6—continued  
+ 
+Scoring guide 
+In this question the student was asked to draw and explain three different ways to divide an L-shaped region to 
+determine the area.  The student was also required to give an expression representing the area for each of the 
+different divisions of the region (however, the student was not asked to calculate the area of the region).  There 
+are many possible ways to do this but to earn full credit the student needed to show three different divisions of the 
+region, label the lengths in each figure correctly, and write an expression for the area consistent with each figure.  
+This question requires visualization and knowledge of one or more formulas for finding area. 
+Any division of the figures into rectangles, triangles, trapezoids, or parallelograms is acceptable.  Student either 
+needs to show (5 x 5) + (5 x 12), for example OR label all appropriate dimensions in the figure to give credit for 
+25 + 60.  However, “25 + 60” is not acceptable if dimensions are not labeled. 
+Extended 
+Three figures divided correctly with no incorrect labels and three correct expressions for area. 
+Satisfactory 
+Three figures divided correctly with no incorrect labels and two correct expressions for area. 
+Partial 
+Two figures divided correctly with no incorrect labels and one or two correct expressions for area of those 
+figures. 
+OR 
+Three figures divided correctly with no incorrect labels and one correct expression for area. 
+Minimal 
+One figure divided correctly with no incorrect labels and correct expression for area of that figure. 
+OR 
+Two or three figures divided correctly with no incorrect labels and no correct (or missing) expressions for area of 
+figures. 
+Incorrect 
+Incorrect response. 
+ 
+Framework classifications 
+NAEP 2003  framework1 
+TIMSS 2003 framework2 
+Measurement 
+ 
+Estimate, calculate (using basic principles or formulas), 
+or compare perimeter, area, volume, and surface area in 
+meaningful contexts or solve mathematical and real-
+world problems 
+ 
+Grade 8  
+ 
+Problem solving 
+Measurement 
+ 
+Tools, techniques, and formulas 
+ 
+ 
+ 
+ 
+Grade 8 
+PISA 2003 framework2 
+Overarching idea 
+ 
+Competency cluster  
+ 
+Situation or context  
+Space and shape 
+ 
+Reproduction 
+ 
+Educational/occupational 
+Mathematical complexity level:3 high 
+1 Classified by NAEP assessment developers 
+2 Classified by expert panel. NAEP grade 8 problem solving items were classified to both the TIMSS and PISA frameworks. 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+E-11 
+ 
+EXAMPLE 7 
+ 
+TIMSS extended constructed-response item – grade 8 
+ 
+Betty, Frank, and Darlene have just moved to Zedland. They each need to get phone service. They 
+received the following information from the telephone company about the two different phone 
+plans it offers.  
+ 
+They must pay a set fee each month and there are different rates for each minute they talk. These 
+rates depend on the time of the day or night they use the phone, and on which payment plan they 
+choose. Both plans include time for which phone calls are free. Details of the two plans are shown 
+in the table below. 
+ 
+Betty talks for less than 2 hours per month. Which plan would be less expensive for her? 
+ 
+Less expensive plan ___________ 
+ 
+Explain your answer in terms of both the monthly fee and free minutes. 
+ 
+SOURCE: International Association for the Evaluation of Educational Achievement, Trends in International Mathematics and Science Study 
+(TIMSS) 2003 Assessment. 
+ 
+ 
+Scoring guide 
+Correct response 
+Plan B with explanation that includes free minutes and explicit reference to lower monthly fee for Plan B. 
+Partial response 
+Plan B with explicit reference to lower monthly fee and no reference to free minutes. 
+Incorrect response 
+Plan B with inadequate (only free minutes) or no explanation. 
+OR 
+Plan A with or without explanation. 
+ 
+E-12 
+EXAMPLE 7—continued 
+ 
+Framework classifications 
+TIMSS 2003 framework1 
+NAEP 2003 framework2 
+Data 
+ 
+Data interpretation 
+ 
+ 
+Grade 8 
+ 
+Reasoning 
+Data analysis, statistics, and probability 
+ 
+Read, interpret, and make predictions using tables and 
+graphs 
+ 
+Grade 8 
+Mathematical complexity level:3 moderate 
+1 Classified by TIMSS assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+E-13 
+ 
+EXAMPLE 8 
+ 
+PISA complex multiple-choice item 
+ 
+Carpenter 
+ 
+A carpenter has 32 meters of timber and wants to make a border around a garden bed.  He is 
+considering the following designs for the garden bed. 
+Circle either “Yes” or “No” for each design to indicate whether the garden bed can be made with 
+32 meters of timber. 
+Garden bed design 
+Using this design, can the garden bed be made with 32 meters of timber? 
+Design A 
+Yes  /  No 
+Design B 
+Yes  /  No 
+Design C 
+Yes  /  No 
+Design D 
+Yes  /  No 
+ 
+SOURCE: Organization for Economic Cooperation and Development, Program for International Student Assessment (PISA) 2003 
+Mathematical Literacy Assessment. 
+ 
+10 m 
+6 m 
+10 m
+10 m 
+10 m
+6 m
+6 m 
+6 m
+A 
+B
+D
+C 
+E-14 
+EXAMPLE 8—continued 
+ 
+Scoring guide 
+Full credit 
+Exactly four correct. 
+ 
+Design A Yes 
+ 
+Design B No 
+ 
+Design C Yes 
+ 
+Design D Yes 
+Partial credit 
+Exactly three correct. 
+No credit 
+Two or fewer correct. 
+ 
+Framework classifications 
+PISA 2003 framework1 
+NAEP 2003 framework2 
+Overarching idea 
+ 
+Competency cluster  
+ 
+Situation or context 
+Space and shape 
+ 
+Connections  
+ 
+Educational/occupational 
+Content strand 
+ 
+Topic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grade level 
+Measurement 
+ 
+Estimate, calculate (using 
+basic principles or 
+formulas), or compare 
+perimeter, area, volume, 
+and surface area in 
+meaningful contexts to 
+solve mathematical and 
+real-world problems. 
+ 
+8 
+Mathematical complexity level:3 moderate 
+1 Classified by PISA assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+ 
+E-15 
+ 
+EXAMPLE 9 
+ 
+PISA open constructed-response item 
+ 
+Walking 
+The picture shows the footprints of a man walking. The pacelength P is the distance between the 
+rear of two consecutive footprints. 
+For men, the formula,
+140
+=
+P
+n
+, gives an approximate relationship between n and P where, 
+n = number of steps per minute, and  
+P = pacelength in meters. 
+Question 1: WALKING 
+ 
+ 
+If the formula applies to Heiko’s walking and Heiko takes 70 steps per minute, what is Heiko’s 
+pacelength?  Show your work. 
+ 
+SOURCE: Organization for Economic Cooperation and Development, Program for International Student Assessment (PISA) 2003 
+Mathematical Literacy Assessment. 
+ 
+E-16 
+EXAMPLE 9—continued 
+ 
+Scoring guide 
+Full credit 
+0.5 m  
+OR 
+50 cm 
+OR 
+½ (unit not required) 
+• 
+70/ P = 140 [substitute numbers in the formula only]. 
+        70 = 140 P 
+        P = 0.5 
+• 
+70/140 
+Partial credit 
+Correct substitution of numbers in the formula, but incorrect answer, or no answer. 
+• 
+70/ P = 140 [substitute numbers in formula only]. 
+• 
+70/ P = 140 
+       70 = 140 P 
+       P = 2 [correct substitution, but working out is incorrect]. 
+OR 
+Correctly manipulated the formula into P = n/140, but no further correct working. 
+No credit 
+Other responses 
+ 
+Framework classifications 
+PISA 2003 framework1 
+NAEP 2003 framework2 
+Overarching idea 
+ 
+Competency cluster 
+ 
+Situation or context 
+Change and relationships 
+ 
+Reproduction 
+ 
+Personal 
+Content strand 
+ 
+Topic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grade level 
+Algebra and functions 
+ 
+Interpret contextual 
+situations and perform 
+algebraic operations on 
+real numbers and 
+algebraic expressions to 
+solve mathematical and 
+real-world problems 
+ 
+8 
+Mathematical complexity level:3 low 
+1 Classified by PISA assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+ 
+E-17 
+ 
+EXAMPLE 10 
+ 
+TIMSS short constructed-response item – grade 4 
+ 
+204 ÷ 4 = 
+ 
+Answer: _____________ 
+ 
+ 
+SOURCE: International Association for the Evaluation of Educational Achievement, Trends in International Mathematics and Science Study 
+(TIMSS) 2003 Assessment. 
+ 
+ 
+Scoring guide 
+Correct response 
+51 
+Incorrect response 
+Incorrect 
+ 
+Framework classifications 
+TIMSS 2003 framework1 
+NAEP 2003 framework2 
+Number 
+ 
+Whole numbers 
+ 
+ 
+Grade 4 
+ 
+Knowing facts and procedures 
+Number sense, properties, and operations 
+ 
+Compute with numbers (i.e., add, subtract, multiply, 
+divide) 
+ 
+Grade 4 
+Mathematical complexity level:3 low 
+1 Classified by TIMSS assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+ 
+ 
+E-18 
+EXAMPLE 11 
+ 
+TIMSS multiple choice item – grade 4 
+ 
+Answer Key: A 
+ 
+Framework classifications 
+TIMSS 2003 framework1 
+NAEP 2003 framework2 
+Number 
+ 
+Whole numbers 
+ 
+ 
+Grade 4 
+ 
+Solving routine problems 
+Number sense, properties, and operations 
+ 
+Compute with numbers (i.e., add, subtract, multiply, 
+divide) 
+ 
+Grade 4 
+Mathematical complexity level:3 low 
+1 Classified by TIMSS assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+It takes Chris 4 minutes to wash a window. He wants to know how many minutes it will take him 
+to wash 8 windows at this rate. He should 
+ 
+A) multiply 4 x 8 
+B) divide 8 by 4 
+C) subtract 4 from 8 
+D) add 8 and 4 
+ 
+SOURCE: International Association for the Evaluation of Educational Achievement, Trends in International Mathematics and Science Study 
+(TIMSS) 2003 Assessment. 
+E-19 
+ 
+EXAMPLE 12 
+ 
+NAEP multiple-choice item – grades 4, 8, and 12 
+ 
+Add: 
+ 
+ 
+238 
++ 462 
+ 
+A) 600 
+B) 690 
+C) 700 
+D) 790 
+ 
+ 
+SOURCE: U.S. Department of Education, National Center for Education Statistics, National Assessment of Educational Progress (NAEP) 
+2003 Mathematics Assessment.   
+ 
+ 
+Key: C 
+ 
+Framework classifications 
+NAEP 2003 framework1 
+TIMSS 2003 framework2 
+Number sense, properties, and operations 
+ 
+Compute with numbers (i.e., add, subtract, multiply, 
+divide) 
+ 
+Grade 4 
+ 
+Procedural knowledge 
+Number 
+ 
+Whole numbers 
+ 
+ 
+Grade 4 
+Mathematical complexity level:3 low 
+1 Classified by NAEP assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+E-20 
+EXAMPLE 13 
+ 
+NAEP multiple-choice item – grade 4 
+ 
+Answer Key: D 
+ 
+Framework classifications 
+NAEP 2003 framework1 
+TIMSS 2003 framework2 
+Number sense, properties, and operations 
+ 
+Use computations and estimation in applications 
+ 
+Grade 4 
+ 
+Problem solving 
+Number 
+ 
+Fractions and decimals 
+ 
+Grade 8 
+Mathematical complexity level:3 moderate 
+1 Classified by NAEP assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+Estela wants to buy 2 notebooks that cost $2.79 each, including tax.  If she has one-dollar bills 
+and no coins, how many one-dollar bills does she need? 
+ 
+A) 3 
+B) 4 
+C) 5 
+D) 6 
+ 
+ 
+SOURCE: U.S. Department of Education, National Center for Education Statistics, National Assessment of Educational Progress (NAEP) 
+2003 Mathematics Assessment.   
+E-21 
+EXAMPLE 14 
+ 
+TIMSS multiple-choice item – grade 8 
+ 
+ 
+Answer Key: A 
+ 
+Framework classifications 
+TIMSS 2003 framework1 
+NAEP 2003 framework2 
+Measurement 
+ 
+Tools, techniques, and formulas 
+ 
+ 
+ 
+ 
+Grade 8 
+ 
+Using concepts 
+Measurement 
+ 
+Estimate, calculate (using basic principles or formulas), 
+or compare perimeter, area, volume, and surface area in 
+meaningful contexts to solve mathematical and real-
+world problems. 
+ 
+Grade 4 
+Mathematical complexity level:3 moderate 
+1 Classified by TIMSS assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+All the small blocks are the same size. Which stack of blocks has a different volume from the 
+others? 
+ 
+ 
+ 
+SOURCE: International Association for the Evaluation of Educational Achievement, Trends in International Mathematics and Science Study 
+(TIMSS) 2003 Assessment. 
+E-22 
+All of the pupils in a class cut out paper shapes. The teacher picked one out and said, “This shape 
+is a triangle.” Which of these statements MUST be correct? 
+ 
+A) The shape has three sides. 
+B) The shape has a right angle. 
+C) The shape has equal sides. 
+D) The shape has equal angles. 
+ 
+ 
+SOURCE: International Association for the Evaluation of Educational Achievement, Trends in International Mathematics and Science Study 
+(TIMSS) 2003 Assessment. 
+EXAMPLE 15 
+ 
+TIMSS multiple-choice item – grade 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer Key: A 
+ 
+Framework classifications 
+TIMSS 2003 framework1 
+NAEP 2003 framework2 
+Geometry 
+ 
+Two- and three-dimensional shapes 
+ 
+Grade 4 
+ 
+Knowing facts and procedures 
+Geometry and spatial sense 
+ 
+No match to topic 
+ 
+Grade 4 
+Mathematical complexity level:3 low 
+1 Classified by TIMSS assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+E-23 
+In the space below, draw a closed figure with 5 sides.  Make 2 of the angles right angles. 
+ 
+ 
+ 
+ 
+ 
+ 
+SOURCE: U.S. Department of Education, National Center for Education Statistics, National Assessment of Educational Progress (NAEP) 
+2003 Mathematics Assessment.   
+  
+EXAMPLE 16 
+ 
+NAEP short constructed-response item – grade 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scoring guide 
+ 
+Solution: 
+Figure must be closed and have 5 sides and 2 or more right angles. 
+ 
+Right angles do not have to be marked, but should appear to be right angles.  Two right angles must be on the 
+inside of the figure.      
+             
+ 
+ 
+In this question the student needed to show geometric understanding by drawing a closed figure with 5 sides and 
+at least 2 right angles. Students did not have a ruler or protractor. 
+Correct 
+Correct response. 
+Incorrect 
+Figure drawn is a five-pointed star with a pentagon shown in the interior.  The pentagon may or may not have 
+right angles. 
+OR 
+Figure has 5 sides and only 1 right angle. 
+OR  
+No right angles in the figure drawn. 
+OR 
+Figure is not 5-sided or is not closed. 
+ 
+Framework classifications 
+NAEP 2003 framework1 
+TIMSS 2003 framework2 
+Geometry and spatial sense 
+ 
+Describe, visualize, draw, and construct geometric 
+figures 
+ 
+Grade 4 
+ 
+Conceptual understanding 
+Geometry 
+ 
+Two- and three-dimensional shapes 
+ 
+ 
+Grade 4 
+Mathematical complexity level:3 moderate 
+1 Classified by NAEP assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+E-24 
+ 
+ 
+ 
+The figure above is shaded on the top side and white on the under side.  If the figure were 
+flipped over, its white side could look like which of the following figures? 
+ 
+A) 
+ 
+B) 
+ 
+C) 
+ 
+D) 
+ 
+ 
+ 
+SOURCE: U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, National Assessment 
+of Educational Progress (NAEP) 2003 Mathematics Assessment.   
+EXAMPLE 17 
+ 
+NAEP multiple-choice item – grades 4, 8, and 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer Key: D 
+ 
+Framework classifications 
+NAEP 2003 framework1 
+TIMSS 2003 framework2 
+Geometry and spatial sense 
+ 
+Identify the relationship (congruence, similarity) 
+between a figure and its image under a transformation 
+ 
+Grade 4 
+ 
+Conceptual understanding 
+Geometry 
+ 
+Symmetry and transformations 
+ 
+ 
+Grade 4 
+Mathematical complexity level:3 low 
+1 Classified by NAEP assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+E-25 
+Rectangle PQRS can be rotated (turned) onto rectangle UVST. 
+ 
+What point is the center of rotation? 
+A) P 
+B) R 
+C) S 
+D) T 
+E) V 
+ 
+ 
+SOURCE: International Association for the Evaluation of Educational Achievement, Trends in International Mathematics and Science Study 
+(TIMSS) 2003 Assessment. 
+EXAMPLE 18 
+ 
+TIMSS multiple-choice item – grade 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer Key: C 
+ 
+Framework classifications 
+TIMSS 2003 framework1 
+NAEP 2003 framework2 
+Geometry 
+ 
+Symmetry and transformations 
+ 
+ 
+Grade 8 
+ 
+Reasoning 
+Geometry and spatial sense 
+ 
+Identify the relationship (congruence, similarity) 
+between a figure and its image under a transformation 
+ 
+Grade 12 
+Mathematical complexity level:3 low 
+1 Classified by TIMSS assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+E-26 
+ 
+ 
+The figure above is a regular hexagon. What is the value of x? 
+ 
+Answer: ___________ 
+ 
+SOURCE: International Association for the Evaluation of Educational Achievement, Trends in International Mathematics and Science Study 
+(TIMSS) 2003 Assessment. 
+EXAMPLE 19 
+ 
+TIMSS short constructed-response item – grade 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scoring guide 
+Correct response 
+60 degrees 
+Incorrect response 
+120 degrees 
+OR 
+Other incorrect 
+ 
+Framework classifications 
+TIMSS 2003 framework1 
+NAEP 2003 framework2 
+Geometry 
+ 
+Two- and three-dimensional shapes 
+ 
+ 
+Grade 8 
+ 
+Solving routine problems 
+Geometry and spatial sense 
+ 
+Apply geometric properties and relationships in solving 
+problems 
+ 
+Grade 8 
+Mathematical complexity level:3 low 
+1 Classified by TIMSS assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+E-27 
+EXAMPLE 20 
+ 
+TIMSS multiple-choice item – grade 4 
+ 
+ 
+Key: A 
+ 
+Framework classifications 
+TIMSS 2003 framework1 
+NAEP 2003 framework2 
+Data 
+ 
+Data representation 
+ 
+ 
+Grade 4 
+ 
+Solving routine problems 
+Data analysis, statistics, and probability 
+ 
+Read, interpret, and make predictions using tables and 
+graphs 
+ 
+Grade 4 
+Mathematical complexity level:3 low 
+1 Classified by TIMSS assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+Central School had a bottle collection. Children in each class brought empty bottles to school. The 
+principal made a bar graph of the number of bottles from five classes. 
+ 
+Which two classes collected exactly 80 bottles? 
+A) Miss Barber’s and Mrs. Friedman’s classes 
+B) Miss Barber’s and Mr. Mack’s classes 
+C) Mrs. Friedman’s and Miss Gonzalez’s classes 
+D) Miss Gonzalez’s and Mr. Mack’s classes 
+ 
+SOURCE: International Association for the Evaluation of Educational Achievement, Trends in International Mathematics and Science Study 
+(TIMSS) 2003 Assessment. 
+E-28 
+EXAMPLE 21 
+ 
+NAEP multiple-choice item – grade 8 
+ 
+ 
+Key: C 
+ 
+Framework classifications 
+NAEP 2003 framework1 
+TIMSS 2003 framework2 
+Algebra and functions 
+ 
+Interpret contextual situations and perform algebraic 
+operations on real numbers and algebraic expressions 
+to solve mathematical and real-world problems 
+ 
+Grade 8 
+ 
+Procedural knowledge 
+Number 
+ 
+Whole numbers 
+ 
+ 
+ 
+Grade 8 
+Mathematical complexity level:3 low 
+1 Classified by NAEP assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+3 + 15 ÷ 3 - 4 × 2 = 
+ 
+A) -9 
+B) -2 
+C) 0 
+D) 4 
+E) 5 
+ 
+SOURCE: U.S. Department of Education, National Center for Education Statistics, National Assessment of Educational Progress (NAEP) 
+2003 Mathematics Assessment.   
+E-29 
+ 
+EXAMPLE 22 
+ 
+NAEP multiple choice item – grades 8 and 12 
+ 
+Fifteen boxes each containing 8 radios can be repacked in 10 larger boxes each containing how 
+many radios? 
+ 
+A) 8 
+B) 10 
+C) 12 
+D) 80 
+E) 120 
+ 
+ 
+ 
+SOURCE: U.S. Department of Education, National Center for Education Statistics, National Assessment of Educational Progress (NAEP) 
+2003 Mathematics Assessment.   
+ 
+ 
+Answer key: C 
+ 
+Framework classifications 
+NAEP 2003 framework1 
+TIMSS 2003 framework2 
+Number sense, properties, and operations 
+ 
+Use computations and estimation in applications 
+ 
+Grade 8 
+ 
+Problem solving 
+Number 
+ 
+Whole numbers 
+ 
+Grade 8 
+PISA 2003 framework2 
+Overarching idea 
+ 
+Competency cluster  
+ 
+Situation or context  
+Quantity 
+ 
+Reproduction 
+ 
+Not classified 
+Mathematical complexity level:3 moderate 
+1 Classified by NAEP assessment developers 
+2 Classified by expert panel. NAEP grade 8 problem solving items were classified to both the TIMSS and PISA frameworks. 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+E-30 
+EXAMPLE 23 
+ 
+NAEP short constructed-response item – grades 8 and 12 
+ 
+ 
+Scoring guide 
+In this question the student was asked to compare the sale price of a stereo, after 3 weeks, based on two different 
+ways for reducing the price.  In one store, the price was reduced each week by a fixed amount (10% of $100, or 
+$10).  In the other store the price was reduced each week by a varying amount (10% of the current price, which is 
+less each week). To earn full credit, the student needed to indicate that the price would be less at the first store 
+after 3 weeks and explain how the solution was obtained.  Students were permitted to use a calculator. 
+Solution: 
+A. Cheaper at Price Pleasers 
+ 
+At Price Pleasers the stereo would be $80 after 2 weeks. 
+At Bargain Plus, it would cost $81. 
+OR 
+Successive 10% reductions of the original price will yield greater savings than successive reductions of 10% of 
+the reduced price. 
+Correct 
+Correct response—cheaper at Price Pleasers with an explanation that compares price at each store after 2 weeks 
+($80 vs. $81). 
+OR 
+Cheaper at Price Pleasers with an explanation that generalizes as described in solution above. 
+NOTE: Score CORRECT if incorrect answer is B or C with a clear statement that Price Pleasers is cheaper and 
+explanation is correct and complete. 
+Partial 
+Cheaper at Price Pleasers with anything less than a complete explanation. 
+OR 
+Computes the correct amount for at least 2 weeks for either Price Pleasers or Bargain Plus, but conclusion is 
+missing, incomplete, or incorrect (if the store is not identified the score is still a 2) 
+Incorrect 
+Incorrect response. 
+ 
+ 
+One store, Price Pleasers, reduces the price each week of a $100 stereo by 10 percent of the 
+original price.  
+ 
+Another store, Bargains Plus, reduces the price each week of the same $100 stereo by 10 percent 
+of the previous week's price.  
+ 
+After 2 weeks, how will the prices at the two stores compare? 
+ 
+(A) The price will be cheaper at Price Pleasers. 
+(B) The price will be the same at both stores. 
+(C) The price will be cheaper at Bargain Plus. 
+ 
+Explain your reasoning. 
+ 
+ 
+ 
+SOURCE: U.S. Department of Education, National Center for Education Statistics, National Assessment of Educational Progress (NAEP) 
+2003 Mathematics Assessment.   
+E-31 
+EXAMPLE 23—continued 
+ 
+Framework classifications 
+NAEP 2003 framework1 
+TIMSS 2003 framework2 
+Number sense, properties, and operations 
+ 
+Apply ratios and proportional thinking in a variety of 
+situations 
+ 
+Grade 8 
+ 
+Problem solving 
+Number 
+ 
+Ratio, proportion, and percent 
+ 
+ 
+Grade 8 
+PISA 2003 framework2 
+Overarching idea 
+ 
+Competency cluster  
+ 
+Situation or context  
+Change and relationships 
+ 
+Connections 
+ 
+Public/personal 
+Mathematical complexity level:3 moderate 
+1 Classified by NAEP assessment developers 
+2 Classified by expert panel. NAEP grade 8 problem solving items were classified to both the TIMSS and PISA frameworks. 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+E-32 
+EXAMPLE 24 
+ 
+NAEP extended constructed-response item – grade 8 
+ 
+ 
+ 
+Scoring guide 
+This question was a word problem that asked students to consider two values—the number of letters and the 
+number of postcards—even though the student was only asked for the number of letters.  This question could be 
+solved in several ways.  A student could reason numerically to find the number of letters and the number of 
+postcards, possible by using a guess-and-check strategy or by creating a table.  Another possibility was to set up 
+and solve a system of two linear equations in two unknowns.  To earn full credit, students needed to show how 
+they obtained the answer.  Students were permitted to use a calculator. 
+Solution: 
+8 letters 
+.20 (6) + .33(8) = $3.84 
+Students may use a variety of strategies to solve this, including guess and check, formal algebra, or others.  For 
+example, 
+# postcards 
+# letters 
+Total cost 
+1 
+13 
+4.49 
+2 
+12 
+4.36 
+3 
+11 
+4.23 
+4 
+10 
+4.10 
+5 
+9 
+3.97 
+6 
+8 
+3.84 
+7 
+7 
+3.71 
+8 
+6 
+3.58 
+OR 
+x + y = 14 
+.20x + .33y = 3.84 
+Therefore .20x + .33(14-x) = 3.84 
+So x = 6 and y = 8 
+Extended 
+Correct response. 
+Satisfactory 
+Correct, complete process is indicated, but answer is not 8 and has a minor computational error. 
+OR 
+Shows correct, complete process but does not indicate answer. 
+Partial 
+Correct, complete process in indicated, but answer is not 8 and there are several computational errors. (Process 
+must clearly illustrate a correct strategy, such as a table or equations.) 
+OR 
+Correct response of 8 but shows no work or incomplete work. 
+Minimal 
+Process is incorrect because it ignores one or more pieces of given information. 
+OR 
+Process is correct but incomplete (process may be guess and check or another process which may lead to the 
+correct answer, i.e., a chart but no equation, but goal is not clearly defined) and answer is not 8 
+Incorrect 
+Incorrect response. 
+While she was on vacation, Tara sent 14 friends either a letter or a postcard. She spent $3.84 on 
+postage. If it costs $0.20 to mail a postcard and $0.33 to mail a letter, how many letters did Tara 
+send?  
+Show what you did to get your answer. 
+ 
+ 
+SOURCE: U.S. Department of Education, National Center for Education Statistics, National Assessment of Educational Progress (NAEP) 
+2003 Mathematics Assessment.   
+E-33 
+EXAMPLE 24—continued 
+ 
+Framework classifications 
+NAEP 2003 framework1 
+TIMSS 2003 framework2 
+Algebra and functions 
+ 
+Solve systems of equations and inequalities using 
+appropriate methods 
+ 
+Grade 8  
+ 
+Problem solving 
+Algebra 
+ 
+Equations and formulas 
+ 
+ 
+Grade 8 
+PISA 2003 framework2 
+Overarching idea  
+ 
+Competency cluster  
+ 
+Situation or context  
+Change and relationships 
+ 
+Connections 
+ 
+Public/personal 
+Mathematical complexity level:3 moderate 
+1 Classified by NAEP assessment developers 
+2 Classified by expert panel. NAEP grade 8 problem solving items were classified to both the TIMSS and PISA frameworks. 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+E-34 
+EXAMPLE 25 
+ 
+NAEP extended constructed-response item – grade 8 
+ 
+ 
+ 
+ 
+ 
+The graph above represents Marisa's riding speed throughout her 80-minute bicycle trip. Use the 
+information in the graph to describe what could have happened on the trip, including her speed 
+throughout the trip. 
+ 
+During the first 20 minutes, Marisa  
+From 20 minutes to 60 minutes, she  
+From 60 minutes to 80 minutes, she  
+ 
+SOURCE: U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, National Assessment of 
+Educational Progress (NAEP) 2003 Mathematics Assessment.   
+E-35 
+EXAMPLE 25—continued 
+ 
+Scoring guide 
+In this question the student was asked to translate across representations by interpreting information presented 
+graphically and giving a verbal description (story) of Marisa’s bicycle trip.  The given graph presented Marisa’s 
+speed on the trip as a function of time.  To earn full credit, the student needed to give both quantitative and 
+qualitative information about the situation, including the observation that Marisa was at a stop during the last time 
+interval. 
+Solution: 
+During the first 20 minutes, Marisa increased her speed from 0 to 6 mph. 
+ 
+From 20 to 60 minutes, she remained at 6 mph. 
+ 
+From 60 to 80 minutes, she decreased her speed from 6 mph to 0 mph and stopped.  (Must have both decrease and 
+stop from this interval). 
+ 
+Responses may be presented in the following ways. 
+ 
+ 
+Category A 
+Category B 
+Category C 
+Speed from 0 to 6 
+Increase 
+Downhill 
+Speed at 6 
+Remained the same 
+Float road (level) 
+Speed from 6 to 0; stop 
+Decrease 
+Uphill 
+ 
+ 
+ 
+• 
+Responses may mix parts of more than one category 
+• 
+Speed from 0 to 6 may be expressed as 0-6 (likewise for speed from 6 to 0 as 6-0) 
+• 
+Responses may include extraneous correct information. 
+• 
+“Stop” after 70 minutes may be expressed as “had no speed” or “maintained speed of 0,” “stayed at that 
+speed” having stated 0 mph. 
+Extended 
+All of Category A and all of Category B or Category C. 
+Satisfactory 
+All of Category A and incomplete Category B or Category C. 
+OR  
+Category A without stop and all of Category B or Category C. 
+Partial 
+All of Category A and no Category B or Category C. 
+OR  
+All of Category B and Category C, with stop. 
+Minimal 
+Category A without stop. 
+OR  
+Category B only. 
+OR 
+Category C only. 
+OR 
+Response that accounts for each of three parts of trip. 
+Incorrect 
+Incorrect response. 
+ 
+E-36 
+EXAMPLE 25—continued 
+ 
+Framework classifications 
+NAEP 2003 framework1 
+TIMSS 2003 framework2 
+Data analysis, statistics, and probability 
+ 
+Read, interpret, and make predictions using tables and 
+graphs 
+ 
+Grade 8 
+ 
+Problem solving 
+Data 
+ 
+Data interpretation 
+ 
+ 
+Grade 8 
+PISA framework2 
+Overarching idea  
+ 
+Competency cluster  
+ 
+Situation or context  
+Change and relationships 
+ 
+Connections 
+ 
+Educational/occupational 
+Mathematical complexity level:3 moderate 
+1 Classified by NAEP assessment developers 
+2 Classified by expert panel. NAEP grade 8 problem solving items were classified to both the TIMSS and PISA frameworks. 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 
+E-37 
+EXAMPLE 26 
+ 
+PISA task 
+Question 1: closed constructed-response item 
+Question 2: closed constructed-response item 
+Question 3: open constructed-response item 
+ 
+Growing Up 
+ 
+YOUTH GROWS TALLER 
+ 
+In 1998 the average height of both young males and young females in the Netherlands is represented 
+in this graph. 
+ 
+ 
+10 
+11 
+12 13 
+14 15 
+16 
+17 
+18 
+19 20 
+190 
+180 
+170 
+160 
+150 
+130 
+140 
+Height 
+(cm) 
+Average height of young males 1998 
+Average height of young females 1998 
+Age 
+(Years) 
+E-38 
+EXAMPLE 26—continued 
+ 
+Question 1 
+ 
+Since 1980 the average height of 20-year-old females has increased by 2.3 cm, to 170.6 cm.  What 
+was the average height of a 20-year-old female in 1980? 
+ 
+Answer: _______________________cm 
+ 
+Question 2 
+ 
+According to this graph, on average, during which period in their life are females taller than males of 
+the same age? 
+ 
+______________________________________________________________________ 
+ 
+______________________________________________________________________ 
+ 
+Question 3 
+ 
+Explain how the graph shows that on average the growth rate for girls slows down after 12 years of 
+age. 
+ 
+______________________________________________________________________ 
+ 
+______________________________________________________________________ 
+ 
+______________________________________________________________________ 
+ 
+SOURCE: Organization for Economic Cooperation and Development, Program for International Student Assessment (PISA), 2003 Mathematical 
+Literacy Assessment. 
+ 
+ 
+ 
+E-39 
+EXAMPLE 26—continued 
+ 
+Scoring guide 
+ 
+Question 1 
+Full credit 
+168.3 cm (unit already given). 
+No credit 
+Other responses. 
+ 
+Question 2 
+Full credit 
+Gives the correct interval, from 11-13 years. 
+OR 
+States that girls are taller than boys when they are 11 and 12 years old.  (This answer is correct in daily-life 
+language because it means the interval from 11-13). 
+Partial credit 
+Other subsets of (11, 12, 13), not included in the full credit section. 
+No credit 
+Other responses. 
+ 
+Question 3 
+Full credit 
+The key here is that the response should refer to the “change” of the gradient of the graph for female.  This can be 
+done explicitly or implicitly. Full credit is for explicitly mentioning about the steepness of the curve of the graph 
+or for implicit comparison using the actual amount of growth before 12 years and after 12 years of age. 
+Refers to the reduced steepness of the curve from 12 years onwards, using daily-life language, not mathematical 
+language. 
+OR 
+Refers to the reduced steepness of the curve from 12 years onwards, using mathematical language. 
+OR 
+Comparing actual growth (comparison can be implicit). 
+No credit 
+Student indicates that female height drops below male height, but does NOT mention the steepness of the female 
+graph or a comparison of the female growth rate before and after 12 years. 
+OR 
+Other incorrect responses.  For example, the response does not refer to the characteristics of the graph, as the 
+question clearly asks about how the graph shows the answer. 
+ 
+E-40 
+EXAMPLE 26—continued 
+ 
+Framework classifications 
+ 
+Question 1 
+PISA 2003 framework1 
+NAEP 2003 framework2 
+Overarching idea 
+ 
+Competency cluster 
+ 
+Situation or context 
+Change and relationships 
+ 
+Reproduction 
+ 
+Scientific 
+Content strand 
+ 
+ 
+Topic 
+ 
+ 
+Grade level 
+Number sense, properties, 
+and operations 
+ 
+Use computations and 
+estimation in applications 
+ 
+8 
+Mathematical complexity level:3 low 
+ 
+Question 2 
+PISA 2003 framework1 
+NAEP 2003 framework2 
+Overarching idea 
+ 
+Competency cluster 
+ 
+Situation or context 
+Change and relationships 
+ 
+Reproduction 
+ 
+Scientific 
+Content strand 
+ 
+ 
+Topic 
+ 
+ 
+ 
+Grade level 
+Data analysis, statistics, 
+and probability 
+ 
+Read, interpret, and make 
+predictions using tables 
+and graphs 
+ 
+8 
+Mathematical complexity level:3 moderate 
+ 
+Question 3 
+PISA 2003 framework1 
+NAEP 2003 framework2 
+Overarching idea 
+ 
+Competency cluster 
+ 
+Situation or context 
+Change and relationships 
+ 
+Connections 
+ 
+Scientific 
+Content strand 
+ 
+ 
+Topic 
+ 
+ 
+ 
+Grade level 
+Data analysis, statistics, 
+and probability 
+ 
+Read, interpret, and make 
+predictions using tables 
+and graphs 
+ 
+8 
+Mathematical complexity level:3 low 
+1 Classified by PISA assessment developers 
+2 Classified by expert panel 
+3 Mathematical complexity level classifications were made by the expert panel based on the definitions in the NAEP 2005 framework. 

@@ -1,0 +1,365 @@
+DIAMOND AS A MICROELECTRONICS MATERIAL WITH POTENTIAL FOR SPACE
+APPLICATIONS
+Jeannette Plante, Swales Aerospace
+Henning Leidecker, Goddard Space Flight Center
+Norman Helmold, Swales Aerospace
+Nearly ten years ago the National Security Agency's Laboratory for Physical Sciences (LPS) in College
+Park, Maryland, began investigating the use of industrial diamond for thermal management of electronic
+assemblies. To achieve ultra-high computing speeds through the reduction of signal path lengths, they
+would have had to condense a 20 kW computer into a 15 cm/side cube, creating a 6 W/cm3 thermal density.
+The excellent electrical, mechanical, and thermal properties of diamond made it an obvious choice for
+conducting the large amount of heat out of this cube, so the LPS incubated the growth of the chemical vapor
+deposited (CVD) diamond industry in this country. The LPS subsequently published several papers on the
+performance of CVD diamond as a component of electronic packaging. What they have not studied is the
+use of CVD diamond in space applications, where charged particles are in abundance. This report is
+intended to provide insight into the electrical, mechanical, and thermal properties of CVD diamond which
+make it so attractive for use in electronic packaging and into the questions which remain about its suitability
+for space flight applications.
+Diamond is mechanically one of the strongest materials known and has very high dielectric strength. Its
+coefficient of thermal expansion (CTE) is on the order of silicon's, and its thermal conductivity is
+unmatched. These properties are all related to the strength of the carbon bonds in the crystal and its
+structure. For illustrative purposes, Table 1 shows room temperature values for the properties of materials
+often used in electronic packaging
+Table 1. Properties of Electronic Device & Packaging Materials*
+Material
+Young's Modulus
+(1012dynes/cm2)
+Electrical
+Resistivity
+(Ω-cm)
+CTE (10-6/°C)
+Thermal
+Conductivity
+(W/cm-°C)
+Single Crystal Diamond
+10.5
+1016
+1.2
+22
+CVD Diamond
+8.40
+1014
+2.0
+21
+Beryllium Oxide
+1.01
+1014
+7.4
+2.4
+Aluminum Nitride
+1.81
+1014
+3.2
+2.2
+Silicon
+1.13
+103
+3.0
+1.5
+Copper
+1.10
+1.7 x 10-6
+16.8
+3.8
+Gold
+0.79
+2.4 x 10-6
+14.3
+3.1
+Kovar
+1.33
+3.6 x 10-6
+5.3
+0.39
+Diamond in Microelectronic Packaging
+http://misspiggy.gsfc.nasa.gov/tva/diamond/diampaper1/index.htm (1 of 12) [10/23/2001 3:10:01 PM]
+*These values have a strong dependence on temperature and where those dependencies affect
+CVD diamond's performance in electronic packaging applications, it is noted in this paper.
+The reader should refer to the published literature on materials and diamond (natural and
+CVD) for more in-depth discussions on material properties and techniques for measuring
+them.
+Twenty years ago, industrial diamond was manufactured using high pressure, high temperature methods
+which were expensive and produced only a few individual grains of diamond. A low-pressure method that
+allowed the fabrication of diamond films and wafers through chemical vapor deposition was developed in
+the early 1980's. This new method reduced the cost dramatically by significantly increasing the growth rate.
+The cost is still falling.
+CVD diamond can be processed using several methods (see Table 2). A substrate such as silicon or ceramic
+is exposed to a plasma of hydrogen (or oxygen) and a carbon-containing reagent such as methane (CH4).
+The ionized hydrogen first attaches to the substrate then combines with CH4 radicals leaving diamond,
+diamond-like-carbon (DLC), and graphite crystals behind**.
+Table 2. Established Methods for Producing CVD Diamond Films**
+Method
+Gas
+Pressure
+Substrate
+Temperature
+(°C)
+Filament
+Temperature
+(°C)
+Power
+Deposition
+Rate
+(µm/h)
+Hot Filament
+10 - 100 torr
+700 - 1000
+2000 - 2400
+-
+0.3 - 40
+Plasma
+Assisted:
+Microwave
+10 - 100 torr
+800 - 1100
+-
+600 - 1500
+W
+0.1 - 30
+Plasma
+Assisted: DC
+Plasma Jet
+60 - 760 torr
+800 - 1100
+-
+1 - 50 kW
+10 - 930
+Flame
+~ 1 atm
+800 - 1100
+-
+-
+30 - 200
+** See Diamond Chemical Vapor Deposition Nucleation and Early Growth Stages, by H. Liu and D.S. Dandy 3 for a good
+explanation of processes that are used to manufacture CVD diamond films.
+Depending on the temperature and pressure used in the CVD process, either a highly ordered or a columnar structure can
+occur. The columnar structure is easier to manufacture, but it allows more sites for non-diamond carbon and non-carbon
+defects to occur. The elements in the gasses used to create the diamond, and in the materials that make up the chamber
+assembly, also affect the way the crystal grows and the type and the amount of defect sites that are present in the resulting
+material. The reduction in electrical, mechanical, and thermal performance of CVD diamond films is directly related to the
+number and types of defect sites contained in the material.
+When the epitaxial growth is columnar, the electrical, mechanical, and thermal properties will differ between those in the
+direction of growth versus those in the direction across the plane of deposition. The thermal conductivity in the plane of the
+substrate can be 50% to 11% of its value perpendicular to the growth plane 4,5. At 50%, thermal conductivity is still several
+times larger than that of competing substrate materials (see Table 1). In addition, the morphology at the substrate/diamond
+boundary where growth begins (the nucleation surface) will cause some differences in properties there versus those on the
+growth surface.
+Diamond in Microelectronic Packaging
+http://misspiggy.gsfc.nasa.gov/tva/diamond/diampaper1/index.htm (2 of 12) [10/23/2001 3:10:01 PM]
+Crystal growth at the nucleation surface occurs first by accumulation of DLC crystals, then by diamond growth in the planar
+direction, and finally by epitaxial growth of diamond normal to the substrate plane. This results in much smaller grain sizes
+and smaller spaces between the grains on the nucleation side of the diamond film and larger grains and fewer, yet larger,
+spaces between the crystals on the growth side. Figures 1 and 2 illustrate the film growth pattern and the columnar
+morphology.
+Figure 1. Growth of diamond film: from crystallites on the nucleation surface
+to the beginning of the growth of the ordered structure 3.
+  
+Figure 2. Photograph and drawing of the columnar structure 3.
+Yield losses are dominated by cracking in the diamond film due to several design and process factors such as the choice of
+substrate material, the diameter to thickness aspect ratio, and thermal gradients between the front and back faces of the
+substrate and across the surface of the substrate. Although a substrate/CVD diamond wafer can exhibit a high degree of
+flatness, that flatness can be lost when the substrate is removed (by grinding or etching). Grinding or polishing the diamond
+can be used to restore the flatness. Table 3 shows specifications for commercially available (from Diamonex) substrates.
+Table 3. CVD Diamond Substrate Specifications
+Diameter
+0.5 mm-15 cm
+Thickness
+1-1000 µm
+(300 µm typical)
+Tolerance
+±0.001 cm
+Surface Flatness
+<5 µm/cm
+Diamond in Microelectronic Packaging
+http://misspiggy.gsfc.nasa.gov/tva/diamond/diampaper1/index.htm (3 of 12) [10/23/2001 3:10:01 PM]
+The extraordinary properties of this material have driven industry to improve the CVD process. Ten-inch diameter wafers are
+now grown in days, with yields greater than 95%, and at a very affordable price. 12" and 15" wafers will soon be available.
+Diamond is a crystalline material with no dangling bonds within the bulk material. There are, however, dangling bonds when
+the crystal pattern is terminated at a surface. These bonds cause the surface to rapidly accrete non-diamond substances
+(primarily hydrogen) from the environment. The bonds are covalent; therefore, large energies are required to break them,
+making adhesion of circuit traces and element problematical.
+The first attempts made to metallize diamond films used traditional thin and thick film processes. The lack of dangling bonds
+on the diamond surface caused the metal to peel off. A process was developed by the LPS which, by high temperature baking,
+provides a surface on the diamond which is able to both chemically and mechanically bond to both metal and dielectric films.
+The reliability of the metal attachment to the diamond film is higher for the growth side of the diamond film, because the very
+small grains on the nucleation surface more easily brake away from the bulk material than the large grains on the growth
+surface 9. The diamond surface suffers no damage from multiple exposures to etchants used to remove the gold and dielectric
+deposits, showing that diamond substrates can be reliably stripped and re-metallized.
+Although through-holes can be drilled in CVD diamond using a laser (see below), the industry has not yet been able to
+metallize them, nor have they been able to manufacture multilayered (diamond and metal) printed circuit structures.
+Micro-machined structures have been fabricated using diamond, but the process is not yet competitive with those used to
+make silicon MEMS devices 11.
+Crystalline Materials Corporation, Norton, and Diamonex are now supplying metallized diamond substrates for electronic
+applications. Samples were purchased from Diamonex for evaluation by NASA's Advanced Interconnect Program. Table 4
+shows the specifications used to purchase the substrates. Figure 3 shows the dimensions of the metallization on these samples.
+Figure 4 is a photograph of the resulting product. Testing is planned in fiscal year 1999 with the intention of determining the
+discriminators, both through process inspection and product screening, that can be used to identify reliable metallization on
+CVD diamond.
+Table 4. Specifications Used to Purchase Thin Film Diamond Substrates
+Edge Dimensions
+25 mm x 25 mm x 300 µ m
+(± 25 µ m)
+Surface Polish
+< 0.03 µ m on top (mirror)
+<0.10 µ m on bottom (matte)
+Metallization
+Top with pattern, bottom fully
+covered with metallization.
+Diamond in Microelectronic Packaging
+http://misspiggy.gsfc.nasa.gov/tva/diamond/diampaper1/index.htm (4 of 12) [10/23/2001 3:10:01 PM]
+Diamond in Microelectronic Packaging
+http://misspiggy.gsfc.nasa.gov/tva/diamond/diampaper1/index.htm (5 of 12) [10/23/2001 3:10:01 PM]
+Diamond in Microelectronic Packaging
+http://misspiggy.gsfc.nasa.gov/tva/diamond/diampaper1/index.htm (6 of 12) [10/23/2001 3:10:01 PM]
+Figure 3. Dimensions of the Metallization on Diamond Samples
+Diamond in Microelectronic Packaging
+http://misspiggy.gsfc.nasa.gov/tva/diamond/diampaper1/index.htm (7 of 12) [10/23/2001 3:10:01 PM]
+Figure 4. Metallized Diamond Sample to be Evaluated
+The LPS investigated laser drilling of holes in CVD diamond then measured the fracture strength of the drilled material. The
+results showed that, for films with a highly ordered crystal structure, holes drilled had the same diameter from start to finish,
+but, for films with a columnar morphology, the hole was larger on the nucleation side regardless of the drilling direction 10.
+The nucleation side was found to be twice as strong as the growth side in point bending tests. The presence of drilled holes
+reduced that strength. The polishing or the beveling of edges had no effect on the strength. Columnar structures exhibited
+higher fracture strength than highly ordered structures. The LPS suggests that this may be evidence that the columnar material
+is experiencing plastic deformation before fracture 10.
+The LPS discovered that resistive elements or paths can be "burned" into the diamond film. These paths behave as thermistors
+over a 0K to 450K temperature range 1,9. At room temperature, the change of resistance with temperature was -15 mOhms/K,
+and the change in temperature with power was 1.1 K/W 9. Experiments by the LPS showed that the highest quality graphite
+was that which was formed deepest in the film 9. Table 5 shows the conditions required for laser cutting diamond films and
+for forming thermistors.
+Table 5. Parameters for Laser Processing Diamond Film 9
+Parameter
+For Cutting
+For Making
+Thermistors
+Diamond in Microelectronic Packaging
+http://misspiggy.gsfc.nasa.gov/tva/diamond/diampaper1/index.htm (8 of 12) [10/23/2001 3:10:01 PM]
+Laser Power
+(avg.)
+1.6 W
+1.0 W
+Pulse Frequency
+1 kHz
+5 kHz
+Feed Rate
+0.2 mm/s
+1 mm/sec
+The LPS performed evaluations on flat-pack and pin grid array packages using CVD diamond as both a heat spreader within
+the package and a heat sink on the top of the package. In both cases, the thermal gradient between the device junction and
+ambient and between the substrate and ambient decreased by 50% 1. This work supports the use of diamond inserts in
+traditional packaging configurations and for thermal management in vertically stacked assemblies.
+Diamond is wide band gap material (see Table 6) 2. Energies of 13 eV to 16 eV are required to create electron-hole pairs in it.
+The band-to-defect recombination mechanism dominates, and a carrier lifetime of a few hundred picoseconds makes the
+diffusion length less than a micron. Natural diamond and CVD diamond have been used in radiation detector applications.
+Their high carrier mobilities and carrier velocities provide quick response times, and, for a given radiation energy, the current
+resulting in diamond will be smaller than that resulting in a detector made with silicon or germanium allowing it to withstand
+higher energy radiation without permanent damage. Diamond's dielectric strength, depending on the quality of the material, is
+in the MV/cm range 11. Table 6 compares the electronic properties of diamond and silicon.
+Table 6. Electronic Properties of Silicon and Diamond at Room Temperature 11
+Property
+Silicon
+Diamond
+Bandgap (eV)
+1.12
+5.47
+Intrinsic Resistivity (Ω -cm)
+105
+>1015
+Breakdown Strength (V/cm)
+3 x 105
+1 - 20 x 106
+Electron Mobility (cm2/V-s)
+1420
+2000
+Hole Mobility (cm2/V-s)
+470
+1800
+Electron Saturation Velocity (cm/s)
+1 x 107
+1.5 - 2 x 107
+Hole Saturation Velocity (cm/s)
+9 x 106
+1.05 x 107
+Neutron Transmutation cross section (mb)
+80
+3.2
+Energy to Create electron-hole pair (eV)
+3.6
+13-16
+Trace materials can be added to dope diamond so that it performs as a semiconductor. This option has long been used in the
+electronics industry in microwave applications 3.
+Diamond's highly ordered, highly stable structure is at the root of its usefulness in terrestrial electronics. Some of the resulting
+properties, however, may restrict its use in space applications. NASA GSFC's Advanced Interconnect (AI) program is
+considering the advantages and limitations of using CVD diamond films and plates in electronic packaging applications that
+Diamond in Microelectronic Packaging
+http://misspiggy.gsfc.nasa.gov/tva/diamond/diampaper1/index.htm (9 of 12) [10/23/2001 3:10:01 PM]
+will fly in space.
+Thermal conductivity in diamond is by phonon transmission, as opposed to electron transmission as in metals. At ordinary
+terrestrial temperatures, phonon movement through diamond is rapid due to the lack of scattering centers. At cryogenic
+temperatures, however, phonon scattering increases, drastically reducing thermal conductivity 4.
+Diamond's electrical, thermal, and optical performance stability in radiation environments is also better at higher
+temperatures. Diamond and graphite behave similarly in radiation, with diamond showing degradation to a greater extent than
+graphite. The changes in the performance of the material are mainly due to shifts in the lattice spacing, which causes the
+material to have lower density. This lower density has negative effects on the hardness and has been found to cause a rise in
+the internal energy 13. Annealing has been observed at temperatures above 400°C (14).
+There is a potential problem at high temperatures also. CVD diamond film can withstand very high temperatures (<800°C)
+without damage; however, in the presence of atomic oxygen, it can transform to graphite at 625°C (4).
+Diamond's high electrical resistivity creates a potential problem in high radiation environments. It will not be usable in space
+if deeply penetrating charged particles cannot be properly drained, as low drainage could result in a destructive electrostatic
+discharge. Testing is being planned to measure the net amount of charge accumulated, the conditions for discharging, and the
+results of discharging in CVD diamond when it is exposed to a source of charged particles. Figure 5 is a drawing of the
+proposed test set-up.
+Figure 5. Deep Dielectric Charging Test Set-Up
+The AI program will also investigate the cost for small (< 100) quantities of metallized diamond substrates, metallized
+ceramic substrates with diamond film on one side, and diamond plates with laser cut features. This will help to define the
+types of NASA programs and electronic packaging designs that can take advantage of this material.
+Diamond in Microelectronic Packaging
+http://misspiggy.gsfc.nasa.gov/tva/diamond/diampaper1/index.htm (10 of 12) [10/23/2001 3:10:01 PM]
+REFERENCES:
+1P.J. Boudreaux; "Thermal Aspects of High Performance Packaging with Synthetic Diamond", Applications of Diamond
+Films and Related Materials: Third International Conference, 1995
+2I. Lazanu, S. Lazanu, E. Borchi, M. Bruzzi, "Theoretical Calculation of Diamond Damage by À+/À- Mesons in the ”33
+Resonance Energy Range", Nuclear Instruments and Methods in Physics Research A, 1998
+3H. Liu, D.S. Dandy, Diamond Chemical Vapor Deposition Nucleation and Early Growth Stages, Noyes Publications, 1995
+4R.F. Davis, Diamond Films and Coatings Development, Properties and Applications, Noyes Publications, 1993
+5A. Feldman and N.M. Balzaretii, "Conference Report, Workshop on Thin Film Thermal Conductivity Measurement at the
+Thirteenth Symposium on Thermophysical Properties", Journal of Research of the National Institute of Standards and
+Technology, 1998
+6A. J. Leyendecker, Thermal Effects in Diamond Substrates, TR-R54-001-91, Department of Defense, 1991
+7H. Windischmann, "CVD Diamond Wafers for Thermal Management Application in Electronic Packaging", International
+Conference on Multichip Modules and High Density Packaging, 1998
+8P.J. Boudreaux, Z. Conner, A. Culhane, and A.J. Leyendecker, "Thermal Benefits of Diamond Inserts and Diamond-Coated
+Substrates to IC Packages", Government Microcircuits Application Conference, 1991
+9J. Wwidner, P. Boudreaux, J. Fitz, G. De La Grange, "Laser Induced Graphite Resistors in Synthetic Diamond', International
+Journal of Microcircuits and Electronic Packaging, 1996
+10K.L. Jackson, D.L. Thurston, P.J. Boudreaux, R.W. Armstrong, C. CM. Wu, "Fracturing of Industrial Diamond Plates",
+Journal of Materials Science, 1997
+11L.R. Pan, D. R. Kania, Diamond: Electronic Properties and Applications, Kluwer Academic Publishers, 1995
+12J. D. Venables, Chairman, "Status and Applications of Diamond and Diamond-Like Materials: an Emerging Technolgy",
+National Materials Advisory Board Commission on Engineering and Technical Systems, National Research Council, Report
+No. NMAB-445, 1990
+13J.F. Kircher, R.E. Bowman, Effects of Radiation on Materials and Components, Reinhold Publishing Co., 1964
+ 
+BIBLIOGRAPHY:
+W. S. Rees, CVD of Nonmetals, Weinheim, 1996
+H. O. Pierson, Handbook of Chemical Vapor Deposition (CVD): Principles, Technology and Applications, Noyes
+Publications, 1992
+K. E. Spear, J. P. Dismukes, Synthetic Diamond: Emerging CVD Science and Technology, Wiley & Sons, 1994
+D. L. Dreifus, "Diamond for Electronic Applications": Materials Research Society Symposium, Nov 27 - Dec 1, 1995, Boston,
+MA,
+J.I.B. Wilson, W. Kulisch, "Diamond Thin Films", Reprinted from a special issue of the journal Physica status solidi (a)
+--applied research, Ed 154, no. 1, 1996
+P. Ball, Made to Measure: New Materials for the 21st Century, Princeton University Press, 1997
+Mechanical Behavior of Diamond and Other Forms of Carbon: Symposium held Apr 17-21, 1995, San Francisco, CA,
+Materials Research Society
+Diamond in Microelectronic Packaging
+http://misspiggy.gsfc.nasa.gov/tva/diamond/diampaper1/index.htm (11 of 12) [10/23/2001 3:10:01 PM]
+J. Wilks, E. Wilks, Properties and Applications of Diamond, Butterworth-Heinemann, 1994
+A. Lettington, J.W. Steeds, Thin Film Diamond, Chapman and Hall, 1994
+M. A. Prelas, Wide Band Gap Electronic Materials, Kluwer Academic Publishers, 1995
+E. I. Parkhomenko, Electrical Properties of Rocks, Plenum Press, 1967
+Y. L Orlov, The Mineralogy of the Diamond, Wiley & Sons, 1973
+Back to the Library
+Back to the Deliverables List
+Diamond in Microelectronic Packaging
+http://misspiggy.gsfc.nasa.gov/tva/diamond/diampaper1/index.htm (12 of 12) [10/23/2001 3:10:01 PM]

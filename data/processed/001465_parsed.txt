@@ -1,0 +1,1068 @@
+Before the 
+FEDERAL COMMUNICATIONS COMMISSION 
+Washington, D.C. 20554 
+and the 
+NATIONAL TELECOMMUNICATIONS AND INFORMATION 
+ADMINISTRATION 
+Washington, D.C. 20230 
+ 
+In the Matter of 
+ 
+Creation of a Spectrum Sharing Innovation 
+Test-Bed  
+ 
+and  
+ 
+The President’s Spectrum Policy 
+Initiative Spectrum Sharing Innovation 
+Test-Bed 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+ 
+ 
+ET Docket No. 06-89 
+ 
+ 
+ 
+Docket No. 060602142-6142-01 
+ 
+ 
+Comments of Shared Spectrum Company 
+I. Introduction 
+Shared Spectrum Company (SSC) submits these comments in strong support of the 
+Spectrum Sharing Innovative Test-Bed described in the two Notices issued on June 8, 2006 by 
+the Federal Communications Commission (FCC) and by the National Telecommunications and 
+Information Administration (NTIA).1    SSC congratulates both agencies for taking the lead and 
+cooperating in advancing the frontier of innovative spectrum sharing technologies through a test-
+bed, which will demonstrate the benefits to all users of the spectrum by greatly increasing 
+effective communications capacity.    
+In establishing and implementing the test-bed, SSC recommends that the Commission 
+and NTIA focus their joint and respective efforts on facilitating technological advances in 
+                                                 
+1 Public Notice, Federal Communications Commission Seeks Public Comment on Creation of a Spectrum Sharing 
+Innovation Test-Bed, ET Docket No. 06-89, FCC 06-77 (June 8, 2006); Notice of Inquiry, The President’s Spectrum 
+Policy Initiative Spectrum Sharing Innovation Test-Bed, Docket No. 060602142-6142-01, 71 Fed. Reg. 33282 (June 
+8, 2006).  These comments jointly address key questions raised in both Notices. 
+spectrum sharing that will have the broadest applicability across the electromagnetic spectrum 
+for the benefit of a wide variety of Federal and non-Federal users.  In so doing, FCC and NTIA 
+should ensure that bona fide, adequately funded entities are afforded easy access to adequate 
+spectrum resources in government and non-government bands below 1 GHz through streamlined 
+experimental licensing procedures and operational requirements that are flexible yet ensure 
+against harmful interference to incumbent users. 
+SSC is a small business that is developing dynamic spectrum management applications 
+and high performance, low-cost transceivers that operate from 30 MHz to 3 GHz.2  In 2005, 
+under Phase 3 of the Defense Advanced Research Project Agency’s (DARPA) Next Generation 
+(XG) Communications program,3 Shared Spectrum was awarded a 26-month research and 
+development contract to develop prototypes and demonstrate the ability to implement networks 
+of spectrum-agile radios in military and urban environments with the objective of accessing 10 
+times more spectrum without causing harmful interference to other users.4  These advanced, 
+proven spectrum sharing technologies will enable military, public safety, critical infrastructure, 
+industrial and commercial radio networks to dynamically adapt to changing spectrum needs and 
+environments under the control of software-based usage policies.  SSC intends to take full 
+advantage of this test-bed opportunity to further demonstrate the advantages of dynamic 
+spectrum sharing. 
+                                                 
+2 For more information about Shared Spectrum Company, see http://www.sharedspectrum.com/?section=about. 
+ 
+3 See http://www.darpa.mil/ato/programs/XG/index.htm. 
+ 
+4 See News Release, Air Force Research Laboratory (AFRL) Awards Contract for Research to Dramatically Increase 
+Radio Frequency Spectrum Access, http://www.rl.af.mil/div/IFO/IFOI/IFOIPA/press_history/pr-05/pr-05-86.html. 
+ 
+ 
+ 
+- 2 - 
+II. Substantive Elements of the Test-Bed 
+A. Technology Selection Must Focus on Dynamic Spectrum Sharing and Cognitive 
+Radio Technology 
+ 
+Both Notices provide several examples of technologies that could be considered for the 
+Spectrum Sharing Innovation Test-Bed including adaptive technologies (geo-location, frequency 
+avoidance, waveform detection), dynamic spectrum access techniques, cognitive radios, high-
+powered broadband, new interoperable public safety technologies, smart antennas, mesh 
+networking, multiple-input/multiple-output (MIMO) systems and Federal/non-Federal sharing 
+techniques.  SSC suggests that the primary focus of the test-bed be on innovative, dynamic 
+spectrum sharing technologies such as those currently being developed by DARPA and SSC as 
+well as other cognitive radio technologies.  Promoting such innovations will not only serve the 
+primary objectives of the test-bed, as articulated in the reports on the President’s Spectrum 
+Policy Initiative,5 but will foster development of a wide range of broadband, military/homeland 
+security and public safety applications.  Other technology advancements such as MIMO, 
+advanced modulation techniques, mesh networking and adaptive antennas could also be tested 
+and implemented as important ancillary components of these core dynamic sharing systems. 
+The Commission and NTIA have recognized the value and promise of dynamic spectrum 
+sharing and cognitive radio (CR) technologies and have taken significant steps to facilitate their 
+                                                 
+5 See Spectrum Policy for the 21st Century – The President’s Spectrum Policy Initiative: Report 1 Recommendations 
+of the Federal Government Spectrum Task Force at 22-26 (June 2004) (“Given the increase in new and innovative 
+radio communication systems seeking access to the spectrum, the most challenging issue is interference problems 
+inherent in using the latest technologies.”); Spectrum Policy for the 21st Century – The President’s Spectrum Policy 
+Initiative: Report 2 Recommendations From State and Local Governments and Private Sector Responders at 23 
+(June 2004) (“Spectrum policymakers must not only anticipate, but must also help create an environment for 
+important new technology developments.  . . . Coordinating information developed in private and federal 
+laboratories would provide the technical information necessary to allow standards committees, regulators, and 
+policymakers to make meaningful decisions regarding the interference and sharing potential of new technologies.”) 
+ 
+ 
+ 
+- 3 - 
+development and deployment.6  As the Commission stated, “[t]he advent of cognitive radios and 
+associated technologies has the potential to initiate a new era in radio frequency spectrum 
+utilization.  With radios that are able to recognize spectrum availability and able to negotiate 
+protocols for rapid reconfiguration, these radios will employ software defined radio [SDR] 
+technologies to change their operational characteristics and open new opportunities for spectrum 
+use. . . .  [A]pplications such as dynamic spectrum sharing, interruptible spectrum sharing, and 
+rapidly reconfigurable secondary markets in spectrum use will be attainable with cognitive 
+radios.”7  NTIA clearly understands the problems confronting both government and non-
+government wireless users that cognitive radios will address – “scarcity of spectrum, deployment 
+difficulties, and transitioning to different technologies” – and is well aware of how “federal 
+government agencies are placing an increasing emphasis on SDR and using SDR as the basic 
+platform on which to build CR technology to resolve these problems. For example, through 
+research projects such as the Defense Advanced Research Projects Agency (DARPA) neXt 
+Generation (XG) program, the Department of Defense (DOD) is investigating how advanced 
+sensing, modulation, and multiple access technologies can be used with a machine-intelligible 
+spectrum policy framework to enable cognitive spectrum sharing that could improve spectrum 
+usage efficiency by a factor of ten or more.”8
+                                                 
+6 Report and Order, Facilitating Opportunities for Flexible, Efficient and Reliable Spectrum Use Employing 
+Cognitive Radio Technologies, ET Docket No. 03-108, FCC 05-57 at ¶¶ 18, 35 (2005), 
+http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-05-57A1.pdf (Cognitive Radio R&O); NTIA Comments in 
+ET Docket No. 03-108 at 3-5, http://www.ntia.doc.gov/ntiahome/fccfilings/2005/cogradio/ETDocket03-
+108_02152005.pdf (NTIA Cognitive Radio Comments). 
+ 
+7  Cognitive Radio R&O at ¶ 36.  See also, id. at ¶ 35 (“The development of fully cognitive radio technologies is 
+being actively pursued now through programs such as the US Department of Defense Advanced Research Projects 
+Agency (DARPA) Next Generation (XG) Radio Program.  . . . We believe that the XG Program will be a catalyst for 
+many further developments in cognitive radio technology.”) (footnotes omitted). 
+ 
+8 NTIA Cognitive Radio Comments at 3-4. (“SDRs are likely to be the best platforms for implementing CR, and the 
+tactical military SDRs being developed under the Joint Tactical Radio System (JTRS) may well be the beneficiaries 
+of the XG technology. The application of XG technology to JTRS has the potential to address the spectrum scarcity 
+ 
+- 4 - 
+As the current prime contractor on the DARPA XG project, SSC is already substantially 
+contributing to the development of these technologies through ongoing field tests of its prototype 
+wideband XG radios, but to gain adequate regulatory and market acceptance it will be necessary 
+to demonstrate and evaluate various hardware and network configurations, adaptive software 
+algorithms and enhanced measurement techniques in real-world situations in a variety of urban, 
+suburban and rural environments.  If adequate and appropriate spectrum is expeditiously made 
+available, the NTIA/FCC test-bed will allow SSC and others to immediately and significantly 
+expand the development and accelerate the deployment of innovative spectrum sharing systems 
+for both government and non-government users.  Accordingly, SSC proposes that the test-bed 
+program focus on facilitating the further development of dynamic sharing and CR technologies.   
+The NTIA Notice of Inquiry proposed eight “Selection Criteria” to evaluate and select the 
+proposed technology or service to be implemented in the Test-Bed.  SSC supports this approach 
+and the proposed criteria, but SSC also recommends that the following additional criteria be 
+considered:  
+• Whether the proposed technology is extensible to a substantial portion of the spectrum, 
+not just the bands identified for the test-bed, and frequency agile over a significant 
+number of potential test-bed bands; 
+• Whether the proposed technology promotes flexible and symmetric use of both Federal 
+and Non-Federal bands by both Federal and Non-Federal users; 
+• Whether programmable radios (i.e., software defined and cognitive radios) are to be 
+tested and deployed in a variety of experimental and market environments; 
+• Whether the proposed technology is remotely controllable and configurable; 
+• How well the proposed technology can be adapted for a variety of services and 
+applications, including broadband, military/homeland security, and public safety; 
+• Whether the proposed technology is able to provide meaningful innovative services; and 
+• Whether the proposed technology is capable of transmissions of adequate link distances 
+(e.g., up to 20 km). 
+ 
+                                                                                                                                                             
+and deployment issues that could limit the military’s broadband wireless end-to-end connectivity. Like DARPA’s 
+early work on the Internet, XG-based technology will become applicable to both military and civilian applications.”) 
+(footnotes omitted). 
+ 
+ 
+- 5 - 
+As discussed next, the candidate frequency bands for the test-bed must have propagation and 
+other characteristics that will allow for varied and robust testing for broadband applications.  
+Moreover, the technology and bands chosen must not create a greater risk of causing harmful 
+interference to incumbent users. 
+B. Candidate Frequency Bands Must be Below 1 GHz with at Least 2.5 MHz of 
+Contiguous Bandwidth 
+ 
+The FCC and NTIA Notices seek comment on the criteria that should be used in 
+identifying and selecting candidate frequency band(s) for the test-bed and ask several important 
+questions about which bands should be chosen.   Although the test-bed recommendations 
+contained in the reports on the President’s Spectrum Policy Initiative called for approximately 20 
+MHz  to be dedicated to the test-bed, with 10 MHz coming from NTIA and 10 MHz coming 
+from the FCC pursuant to their respective jurisdictions, SSC believes that each agency should 
+consider their respective government/non-government spectrum “contribution” as a minimum 
+objective without feeling constrained to provide access to additional spectral resources under the 
+test-bed program .  Therefore, at least 20 MHz should be identified for the test-bed and the bands 
+chosen should be based on criteria that facilitate further development of dynamic sharing and CR 
+technologies for broadband, military/homeland security and public safety applications.  
+Experimenters seeking to demonstrate these technologies and applications in other bands should 
+not be precluded from doing so just because such bands are not initially identified.  Thus, the 
+primary purpose of the FCC and NTIA designating certain frequencies for the test-bed should be 
+to facilitate more expeditious, or streamlined, processing and coordination as discussed below.9
+                                                 
+9 See Section III.A., infra. 
+ 
+ 
+- 6 - 
+In order to achieve the principal spectrum sharing objectives of the test-bed program, any 
+criteria considered in pre-designating particular bands must be flexible to promote development 
+of frequency agile equipment, yet it must also be targeted toward meeting other policy objectives 
+and avoiding harmful interference.  Such bands need not necessarily be contiguous, but must 
+have sufficient bandwidth (i.e., 2.5 MHz) to support broadband applications such as video.  
+Eligible test-bed frequencies should be located in bands with good propagation characteristics 
+(i.e., below 1 GHz), wide geographic coverage and low or iterant occupancy.  As to this last 
+factor, SSC has collected a vast amount of spectrum occupancy data that shows which bands 
+below 1 GHz are the least utilized.10  Appendix A, Table 1 provides an aggregate listing of 
+spectrum occupancy measurements that SSC has made at several locations. 
+C. Significant Steps Must be Taken to Avoiding Harmful Interference to Incumbent 
+Users 
+  
+An obvious and legitimate substantive concern of NTIA and FCC (as well as incumbents 
+operating in potential test-bed frequencies) is the methods by which users of the test-bed will 
+avoid causing harmful interference to other authorized operations.  For example, the NTIA 
+Notice of Inquiry asks whether an initial electromagnetic compatibility analysis (e.g., computer 
+simulations) should be performed to develop the operating conditions for the test-bed (e.g., limits 
+on radiated power levels, restrictions on antenna, geographic limitations).  The FCC Public 
+Notice suggests that experiments could be limited to rural areas or areas where there are 
+relatively few incumbent users to reduce the risk of causing harmful interference to an incumbent 
+user.  In response to these concerns and suggestions, SSC proposes that clear and detailed 
+                                                 
+10 See http://www.sharedspectrum.com/?section=measurements; see also Mark McHenry and E. Daniel McCloskey, 
+Multi-Band, Multi-Location Spectrum Occupancy Measurements in Proceedings of the NTIA International 
+Symposium on Advanced Radio Technologies at 167 (March 2006). 
+ 
+- 7 - 
+requirements be established to ensure that proposed spectrum sharing technologies can protect 
+incumbents from harmful interference. 
+In Appendix B, SSC lists numerous system design guidelines that should be employed by 
+the test-bed system to reduce interference.  Some of these are conservative initial restrictions that 
+can be lifted once successful interference-free operational experience is obtained.  SSC also 
+provides a list of field test procedures that should be employed by test-bed participants.  While 
+SSC agrees that incumbent operations should be completely protected, they should not be 
+avoided with overly conservative geographic separations or restrictions.  Therefore, SSC also 
+believes that it is important for this spectrum sharing test-bed program to produce useful and 
+timely information for regulators (and incumbents) that shows, in the test-bed bands with co-
+channel incumbent users, how: 
+• 
+Dynamic spectrum access techniques can be investigated and proven; 
+• 
+Remote modifications of the spectrum access algorithms and parameters can be made to 
+adjust in-field, real-time operations in the presence of incumbent users; 
+• 
+Secondary, spectrum pooling schemes can be implemented in a real-world setting; and  
+• 
+Automated interference resolution capabilities work. 
+    
+Based on SSC’s experience in developing and conducting tests of spectrum sharing radios, to 
+operate in bands with incumbent users a critical requirement is to use a variety of mechanisms to 
+avoid harmful interference to these incumbent users.   Some of these mechanisms are described 
+below and in Appendix C. 
+A key test-bed requirement should be the ability to remotely reconfigure spectrum access 
+algorithms of radios operating in these bands.  This is the only practical way to both avoid 
+interference to incumbent users and to ultimately obtain regulatory approval of spectrum sharing 
+technologies in a reasonable time and with the ability to operate at power levels for useful 
+applications.  As evidenced by the prolonged, multi-year long DFS (Dynamic Frequency 
+ 
+- 8 - 
+Selection) rulemaking and testing procedure, it is very difficult to develop static spectrum access 
+and sharing rules because of the complex nature of interference problems.  During the DFS 
+process, a wide range of spectrum access measurement rates, threshold values, measurement 
+frequencies (co-channel, adjacent channel, backup channel, etc.), mathematical operations on the 
+data, time periods, and others were seriously considered.  Many involved more than parameters 
+changes. 
+In order to develop alternatives to this type of approach, NTIA and FCC should require 
+that the test-bed spectrum access algorithms be remotely reconfigurable in both algorithm design 
+and algorithm parameters.  This will allow the exploration of many spectrum access methods and 
+improved performance because the “worse case” methods and parameters do not have to be 
+established and fixed into regulations.  It will also provide network operators the ability to tailor 
+the algorithms and parameters to the actual situation in the field and will give regulators the 
+ability to adjust any feature without recalling equipment or imposing redeployment costs.  For an 
+appropriately large-scale spectrum sharing test-bed, it will be simply impractical to use 
+traditional fixed spectrum access methods where there is only the ability to change algorithm 
+parameters because of the complexity of the interference problem and the wide range of 
+incumbent conditions and test-bed user configurations that will be encountered.  Using remotely 
+configurable spectrum access algorithms and parameters, test-bed radios can be iteratively 
+adjusted in the field to arrive at both practical and “interference free” operating modes.  
+Deploying the test-bed with fixed or only parameter adjustable spectrum access will cause 
+endless delay with negotiations on the specific spectrum sharing algorithms to be employed or 
+extreme operational limitations.  
+ 
+- 9 - 
+III. Procedural Elements of the Test-Bed Program 
+A. The Test-Bed Should Rely on FCC’s Experimental Licensing System with 
+Streamlined Processing and Coordination 
+ 
+In response to the questions in the Notices regarding the use of the Commission’s 
+experimental licensing program, SSC fully supports the general use of the existing experimental 
+licensing rules in Part 5 of the Commission’s Rules, 47 CFR Part 5, as well as NTIA’s 
+experimental authority under sections 7.11 and 8.2.27 of the NTIA Manual of Regulations and 
+Procedures for Federal Radio Frequency Management.  The FCC’s flexible rules permit 
+experimental operations on a non-interference basis in any government or non-government 
+frequency designated in the Table of Frequency Allocations, “provided that the need for the 
+frequency requested is fully justified by the applicant.” 47 CFR § 5.85(a), (c).  Although a 
+rulemaking is not necessary to implement the test-bed program, application and coordination 
+procedures should be streamlined to encourage participation and facilitate rapid access to 
+designated test-bed frequencies. 
+In 2002, the Commission’s Spectrum Policy Task Force addressed the Commission’s 
+experimental licensing process and made a few modest recommendations regarding NTIA 
+coordination, information sharing and expedited processing.11   To facilitate experimentation, the 
+Task Force recommended that the Commission and NTIA work together to “identify – or pre-
+clear – some location, frequency, and time combinations [in certain Federal government bands] 
+where non-federal government spectrum users would be permitted to conduct experiments.”12  
+                                                 
+11 Report, FCC Spectrum Policy Task Force, ET Docket No. 02-135 at 60-61 (2002) (SPTF Report), available at 
+http://hraunfoss.fcc.gov/edocs_public/attachmatch/DOC-228542A1.pdf; see also Report, Unlicensed Devices and 
+Experimental Licenses Working Group, FCC Spectrum Policy Task Force, ET Docket No. 02-135 at 20-23 (2002) 
+(E&UWG Report), available at http://www.fcc.gov/sptf/files/E&UWGFinalReport.pdf.  
+  
+12 SPTF Report at 61.  The Task Force also suggested that more direct communications between parties who have 
+applied for experimental licenses and the federal government entities concerned about their pending experimental 
+applications be permitted on a more regular basis.  It also recommended that the FCC and NTIA consider 
+ 
+- 10 - 
+SSC agrees with the Task Force that, in the context of the spectrum sharing test-bed, pre-
+coordination of frequency and location pairs would reduce the risk and delays associated with 
+applying for an experimental license and will stimulate radio technology experimentation in 
+entrepreneurial firms.13  
+To further encourage participation in the test-bed, the experimental licensing and 
+coordination process for access to pre-cleared test-bed frequencies/areas should be streamlined 
+through a two-phase electronic filing improvement program.   In the first phase immediately 
+following the designation of available test-bed bands, areas and eligibility criteria, the 
+Commission should immediately implement an auto-grant procedure for applications meeting 
+basic technical and eligibility requirements for test-bed experimental licenses.  During this phase, 
+applications would be deemed granted within 15 days of filing unless the Commission issues an 
+affirmative “stop order” indicating why the test-bed application requires further review or 
+coordination or does not otherwise meet the test-bed criteria.  The Commission would thus retain 
+its control and the typical NTIA coordination timeframe would be preserved, but the party 
+making the investment in the technology would be relieved of the inhibition that results from 
+fears of delay in the event of non-action and lack of information.   This will also permit 
+experimenting parties to prepare for tests and demonstrations in an efficient and cost-effective 
+way by assuring prompt authorizations. 
+In the second phase of the proposed streamlining approach, the Commission and NTIA 
+could incorporate recently implemented automation technologies to provide even quicker 
+                                                                                                                                                             
+implementing a new interface for non-federal government spectrum users with IRAC members to help search for 
+workable compromises for experimental license applications.  Another possible approach mentioned by the Task 
+Force would be to consider appointing an advocate or ombudsman for the private sector.  Id.   
+ 
+13 See E&UWG Report at 23. 
+ 
+ 
+- 11 - 
+processing and coordination.  For example, the agencies could implement an experimental 
+licensing system that resembles the approach used for the Millimeter Wave 70-80-90 GHz Radio 
+Service, which consists of a non-exclusive nationwide license, combined with a site-based 
+registration process.14  Eligibility for a test-bed experimental license would first be established 
+and then individual experiments in designated bands and areas could be registered without any 
+delay (assuming all appropriate information and certifications are entered by the licensee). 
+B. The Commission Should Provide Incentives Through Forbearing From Imposing 
+Limits on Market Studies and the Opportunity for Long-Term Access 
+ 
+ 
+To promote active participation, innovation and success by parties in the test-bed 
+program, NTIA and the Commission should consider establishing limited incentives for bona 
+fide entrepreneurs – and removing one potential disincentive.  Parties need adequate incentives to 
+undertake costly large-scale field testing of new wireless technologies.  This is particularly true 
+when the focus is on sophisticated interference avoidance techniques applicable to a wide 
+assortment of spectral environments.  The use of marketplace incentives to encourage parties to 
+undertake the investments and risks can be quite effective and is a preferable alternative to total 
+governmental funding of the tests.  In other contexts there have been legitimate concerns that 
+allowing experimental field testing to progress to full-scale commercial deployment might 
+inhibit other future uses of the band.  Such concerns should not be a deterrent with respect to the 
+frequency-agile, cognitive radio technology that is the focus of the test-bed since such equipment 
+is easily reconfigurable and operable on a large number of available bands and is remotely 
+controllable.   Nevertheless, the thoughts raised in the Notices concerning the possibility that a 
+                                                 
+14 See Wireless Telecommunications Bureau Announces Permanent Process for Registering Links in the 71-76 GHz, 
+81-86 GHz, and 92–95 GHz Bands, DA 05-311 (Feb. 3, 2005); NTIA New Release, NTIA and FCC Launch On-Line 
+Registration For High-Speed Wireless Links Sharing Spectrum in the 70-80-90 GHz Bands (Feb. 8, 2005). 
+ 
+ 
+- 12 - 
+successful experiment would translate into permanent usage or a rulemaking proceeding to 
+explore rule changes consistent with the experiment results could also provide a compelling 
+incentive if such expectations were made clear at the outset.  While the key benefit of frequency-
+agile cognitive radio technology is the absence of the need for a permanently fixed, primary 
+allocation, allowing long-term secondary access to certain bands beyond the two-year 
+experimental license period would lower expected transaction costs associated with gaining 
+access to other encumbered bands. 
+Whether or not there are any expectations of permanent or long-term access to the test-
+bed or other frequency bands, it is important that the Commission remove the disincentive 
+created by the prospect of FCC-imposed limitations on “market studies” utilizing experimental 
+licenses.  Under section 5.3 of the Commission’s Rules, the Commission staff has the discretion 
+to define the permissible scope of such market studies on a case-by-case basis.15  SSC proposes 
+that the Commission affirmatively dispense with the three limitations potentially applicable to 
+market tests in Part 5 authorizations.  Specifically, to facilitate early deployment of cognitive 
+radio technology in the test-bed bands, as well as in other bands, and for purposes of real-world 
+experimentation, it should state as a general policy for such authorizations that the restrictions in 
+section 5.3 will not be imposed unless and until the Commissions affirmatively directs the 
+experimenter to cease using a specific experimental frequency or the authorization otherwise 
+expires. 
+Since the test-bed technology proposed herein will be capable of remotely instituted 
+software changes in the frequencies actually used without hardware changes and by central 
+direction of the Part 5 licensee, there is no need to worry about possible future claims of 
+                                                 
+15 Report and Order, Amendment of Part 5 of the Commission’s Rules to Revise the Experimental Radio Service 
+Regulation, FCC 98-283 (released Oct. 27, 1998). 
+ 
+- 13 - 
+“squatter’s rights” by experimenters.  Moreover, strict application of limits on market tests will 
+harm the ability to market cognitive radios that will also likely use non-test-bed bands.  Since 
+such devices are frequency agile and are likely to be mobile, they will potentially be hopping in 
+and out of several bands even during a single transmission; some of the bands may be test-bed 
+bands, while others may be unlicensed bands or bands to which access was obtained through 
+secondary market negotiations with primary licensees.   
+Finally, imposing such limits will hinder the ability to rapidly deploy dynamic spectrum 
+sharing devices and systems in times of emergency.  For example, if an unmanned aerial vehicle 
+(UAV) equipped with an XG transceiver (which was sold and marketed by a test-bed licensee to 
+a government agency) needs to be quickly deployed to assist in disaster assessment and relief 
+efforts using non-government test-bed frequencies, the mere fact that the equipment is not 
+“owned by” the test-bed licensee should not require additional licensing procedures (e.g., special 
+temporary authority) or, in the absurd case, result in the inability to access test-bed spectrum on 
+an non-interference basis.  
+C. NTIA Should Utilize and Streamline Cooperative Research and Development 
+Agreements and Promote Other Funding Programs 
+ 
+In addition to, or as an alternative to, an experimental licensing approach, NTIA and 
+other governmental agencies could enter into Cooperative Research and Development 
+Agreements (CRADAs) that include the same terms outlined above and in the appendices for 
+experimental licenses to ensure against harmful interference to incumbent users.  This way, 
+government spectrum users can take advantage of new and novel spectrum sharing technologies 
+as they are being developed.  Most importantly, since engaging in useful broad-scale test-bed 
+experiments is likely to be a costly endeavor, government funding will be essential, especially 
+ 
+- 14 - 
+for small businesses like SSC.  Accordingly, SSC strongly advises the NTIA and FCC to 
+establish or encourage the establishment of additional funding sources for spectrum sharing 
+innovation test-bed research and development through new and existing programs including: 
+• 
+XG and other DARPA programs;16 
+• 
+Small Business Innovation Research (SBIR) and Small Business Technology Transfer 
+Research (STTR) programs;17 and 
+• 
+National Science Foundation (NSF) programs, including the Networking Technology 
+Systems (NeTS), Programmable Wireless Networks (ProWiN) and Global Environment for 
+Networking Innovations (GENI) programs.18 
+ 
+For purposes of funding test-bed activities, SSC would be pleased to enter into a CRADA with 
+NTIA’s Institute for Telecommunications Sciences (ITS) or other Federal Laboratories. 
+ 
+IV. Conclusion 
+ 
+As the leading developer of dynamic spectrum sharing technologies for cognitive radios, 
+Shared Spectrum Company encourages the rapid implementation of the Spectrum Sharing 
+Innovative Test-Bed.  SSC is currently finding solutions to difficult problems so that previously 
+untapped spectrum capacity can be used more efficiently and effectively for a multitude of 
+applications and platforms.  However, efficient access to adequate spectrum resources without 
+substantial transaction costs will be the key to the early successful development of advanced 
+spectrum sharing technologies.  This test-bed presents a unique opportunity for the Commission 
+and NTIA to truly facilitate innovation and spectrum sharing. 
+                                                 
+16 See http://www.darpa.mil/ato/. 
+  
+17 See http://www.sbaonline.sba.gov/SBIR/indexsbir-sttr.html. 
+ 
+18 See http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=12765 and  http://www.nsf.gov/cise/geni/.  The GENI 
+initiative is tentatively planning to have a component focusing on cognitive radio technology. See GENI: Conceptual 
+Design, Project Execution Plan at 48, GENI Planning Group (January 2006), available at 
+http://www.geni.net/GDD/GDD-06-07.pdf.  
+ 
+ 
+- 15 - 
+ 
+- 16 - 
+Thus, rather than squandering this opportunity for major progress on small niche services 
+dependent on the quirks of a single band, the goal of the overall test-bed program should be to 
+develop broadly applicable technology that can be rolled out in numerous bands to meet the 
+growing and shifting needs that are likely to characterize the future of telecommunications.  SSC 
+looks forward to working with both agencies to demonstrate the benefits to all users of the 
+spectrum by greatly increasing effective communications capacity. 
+ 
+Respectfully submitted, 
+ 
+/S/ Mark A. McHenry      
+Mark A. McHenry 
+President 
+ 
+/S/ Peter A. Tenhula 
+Peter A. Tenhula 
+Vice President, Regulatory Affairs & Business 
+Development 
+ 
+/S/ William J. Byrnes 
+William J. Byrnes 
+Regulatory Counsel 
+ 
+ 
+SHARED SPECTRUM COMPANY 
+1595 Spring Hill Road, Suite 110 
+Vienna, VA 22182 
+703-761-2818 
+DATED: July 10, 2006 
+ 
+Appendix A 
+ 
+ 
+ 
+Table 1: SSC Spectrum Occupancy Measurements (30 MHz to 1240 MHz) in Various Locations 
+Start Freq 
+(MHz)
+Stop Fr
+(MHz
+eq 
+)
+Bandwidth 
+(MHz)
+Spectrum Band Allocation
+Riverbend 
+Spectrum 
+Fraction Used
+Riverbend 
+Occupied 
+Spectrum (MHz)
+Tysons 
+Spectrum 
+Fraction 
+Used
+Tysons 
+Occupied 
+Spectrum 
+(MHz)
+NSF Roof 
+Spectrum 
+Fraction 
+Used
+NSF Roof 
+Occupied 
+Spectrum 
+(MHz)
+NYC Avg 
+Spectrum 
+Fraction Used
+NYC 
+Occupied 
+Spectrum 
+(MHz)
+NRAO Spectrum 
+Fraction Used
+NRAO 
+Occupied 
+Spectrum 
+(MHz)
+SSC Roof 
+Spectrum 
+Fraction 
+Used
+SSC Roof 
+Occupied 
+Spectrum 
+(MHz)
+Chicago Avg 
+Spectrum 
+Fraction Used
+Chicago 
+Occupied 
+Spectrum 
+(MHz)
+Average Occupied 
+Spectrum (MHz)
+24
+PLM, Amateur, others
+0.03895
+0.93
+0.00763
+0.18
+0.00217
+0.05
+0.05275
+1.27
+0.00045
+0.01
+0.00400
+0.10
+0.21221
+5.09
+0.92
+34
+TV 2 -6, RC
+0.10593
+3.60
+0.11799
+4.01
+0.36654
+12.46
+0.52455
+17.83
+0.11056
+3.76
+0.10900
+3.71
+0.70902
+24.11
+6.93
+30
+Average 
+Percent 
+Occupied
+30
+54
+3.8%
+54
+88
+20.4%
+108
+138
+Air traffic Control, Aero Nav 
+0.00744
+0.22
+0.02768
+0.83
+0.04066
+1.22
+0.04650
+1.40
+0.15485
+4.65
+0.10000
+3.00
+0.02628
+0.79
+0.89
+36
+Fixed Mobile, amateur, others
+0.03372
+1.21
+0.07692
+2.77
+0.16865
+6.07
+0.17030
+6.13
+0.02745
+0.99
+0.07300
+2.63
+0.35175
+12.66
+3.65
+42
+TV 7-13
+0.10339
+4.34
+0.11652
+4.89
+0.18890
+7.93
+0.77840
+32.69
+0.00220
+0.09
+0.18100
+7.60
+0.44762
+18.80
+6.34
+9
+Maritime Mobile, Amateur, 
+others
+0.00486
+0.04
+0.00842
+0.08
+0.01129
+0.10
+0.05905
+0.53
+0.00556
+0.05
+0.02300
+0.21
+0.04392
+0.40
+0.13
+181
+Fixed Mobile, Aero, others
+0.00002
+0.00
+0.00371
+0.67
+0.00576
+1.04
+0.00450
+0.81
+0.01842
+3.33
+0.01300
+2.35
+0.02728
+4.94
+1.29
+64
+Amat, RadioLoc, Fixed, Mobile
+0.02745
+1.76
+0.07243
+4.64
+0.10469
+6.70
+0.15680
+10.04
+0.00379
+0.24
+0.08100
+5.18
+0.17158
+10.98
+4.20
+42
+TV 14-20
+0.13313
+5.59
+0.12160
+5.11
+0.29794
+12.51
+0.21070
+8.85
+0.00379
+0.16
+0.15700
+6.59
+0.55847
+23.46
+7.64
+96
+TV 21-36
+0.26616
+25.55
+0.32736
+31.43
+0.49667
+47.68
+0.34895
+33.50
+0.04283
+4.11
+0.36400
+34.94
+0.55726
+53.50
+27.64
+90
+TV 37-51
+0.23484
+21.14
+0.39980
+35.98
+0.47044
+42.34
+0.46125
+41.51
+0.00156
+0.14
+0.51300
+46.17
+0.55477
+49.93
+28.00
+108
+TV 52-69
+0.07627
+8.24
+0.17337
+18.72
+0.20048
+21.65
+0.30185
+32.60
+0.00113
+0.12
+0.31300
+33.80
+0.42691
+46.11
+18.40
+96
+Cell phone and SMR 
+0.14260
+13.69
+0.41188
+39.54
+0.46398
+44.54
+0.46320
+44.47
+0.00017
+0.02
+0.40000
+38.40
+0.54841
+52.65
+27.04
+26
+Unlicensed
+0.00000
+0.00
+0.03915
+1.02
+0.08687
+2.26
+0.22865
+5.94
+0.00004
+0.00
+0.01100
+0.29
+0.09333
+2.43
+0.89
+32
+Paging, SMS, Fixed, BX Aux, 
+and FMS 
+0.03460
+1.11
+0.06708
+2.15
+0.10438
+3.34
+0.24005
+7.68
+0.02459
+0.79
+0.10000
+3.20
+0.29634
+9.48
+2.79
+40
+280
+IFF, TACAN, GPS, others
+0.03820
+10.70
+0.00
+0.00000
+0.00
+0.03602
+10.09
+1.45
+1190
+87.43
+152.02
+209.91
+255.95
+18.46
+188.17
+325.39
+138.20
+910
+910
+910
+1190
+910
+1190
+1190
+1190
+9.6%
+16.7%
+23.1%
+21.5%
+2.0%
+15.8%
+27.3%
+11.6%
+rum
+se (%)
+3.0%
+138
+174
+10.1%
+174
+216
+15.1%
+216
+225
+1.4%
+225
+406
+0.7%
+406
+470
+6.6%
+470
+512
+18.2%
+512
+608
+28.8%
+608
+698
+31.1%
+698
+806
+17.0%
+806
+902
+28.2%
+902
+928
+3.4%
+928
+960
+8.7%
+960
+12
+0.5%
+Total
+Total Available Spect
+Average Spectrum U
+ 
+ 
+ 
+Appendix B – Test-Bed System Design Features Used to Minimize Interference 
+The Test-Bed should use the following system design features. 
+Omni-Directional Antennas 
+In the initial demonstrations, the Test-Bed nodes will use donut shaped gain, “omni-directional” 
+discone type antennas.  The transmitted effective radiated power is low. 
+ 
+As experience is gained and no interference reports received, the test-bed will be allowed to use 
+directional antennas. 
+Low Antenna Heights 
+In the initial demonstrations, the Test-Bed will use an antenna height of two-meters or less and 
+fixed antennas. 
+ 
+As experience is gained and no interference reports received, the Test-Bed will be allowed to use 
+up to 30 meter antennas in fixed applications and 2 meter high mobile antennas. 
+Low Power Density Waveform 
+The Test-Bed signal instantaneous bandwidth should be at least 1.5 MHz.  This will provide an 
+18 dB reduction in spectral density compared to the popular 25 kHz bandwidth signals.   
+ 
+In the initial demonstrations, the maximum Test-Bed signal transmit power should be 1 Watt 
+average power.  This limits the potential interference distance in non-line of sight conditions to a 
+few km. 
+ 
+As experience is gained and no interference reports received, the Test-Bed will be allowed to use 
+up to 10 W of average power. 
+Spurious Signals 
+The Test-Bed equipment should be tested for spurious signal output due to switch noise, switch 
+control signal bleed through, harmonics, and other RF impairments.  The Spectrum mask should 
+meet the IEEE-802.16 or similar specification.  An example would be to require that the power 
+spectral density in a 100 kHz bandwidth to be down 25 dB when 4.75 MHz from the center 
+frequency and 50 dB when 14.75 MHz.  This assumes a 10 MHz wide Test-Bed signal.  These 
+frequency offset values would scale linearly for smaller bandwidth Test-Bed signals.   
+ 
+The spurious signal testing should be performed by the Test-Bed group and submitted to the 
+FCC and NTIA as part of the application. 
+Frequency Lockout 
+Initially, only the frequencies authorized in the Test-Bed experimental license will be used by the 
+Test-Bed system.  A list of blocked out channels will be checked by the Test-Bed software in 
+each node continually.   If the Test-Bed software attempts to transmit on a blocked channel, the 
+action will be blocked and the event recorded. 
+ 
+As experience is gained and no significant  interference reports received, the Test-Bed will be 
+allowed to gain access to other government and non-government bands pursuant to additional 
+ 
+experimental licenses, other assignments, through secondary market transactions or other 
+authorized means. 
+ 
+Inherent Test-Bed Interference Avoidance Functionality 
+The Test-Bed system will use dynamic spectrum sharing technology to detect non-cooperative 
+“victim” transceivers within the Test-Bed radio’s interference distance.  When this condition 
+occurs, the Test-Bed transceiver selects another channel.  Information about observed frequency 
+use will be stored for a time period to be determined and considered with respect to subsequent 
+possible use of the channel.  Thus, recurring non-cooperative channel use will be a factor to 
+considering the channel for use – not just whether use is detected at present.  In particular, for 
+both simplex and duplex frequencies the equipment will estimate the usage of transmitters that 
+can not be directly observed based on the frequency observations that are detectable. 
+ 
+For example, the Test-Bed system may use channel detectors that are much more sensitive than 
+normal receivers in making observations about whether a channel is in use.  This is possible due 
+to knowledge of the modulation which is being looked for and the fact that the detector does not 
+need to have an adequate signal-to-noise ratio to demodulate the signal with usable fidelity, 
+rather it only needs enough signal-to-noise ratio to detect the present of the assumed modulation.  
+The detection versus reception advantage depends on the non-cooperative signal emission type 
+and varies from 5 dB for FM modulation to 20 dB for BPSK. 
+ 
+ 
+Appendix C -- Precautions to be Used to Minimize Interference During the Field 
+Demonstrations 
+ 
+During the initial Test-Bed field demonstrations, the following procedures will be used to 
+minimize interference to other spectrum users.  Each of these precautions greatly reduces the 
+probability of interference to non-cooperative “victim” receivers.  All of the precautions together 
+make the probability of interference very low. 
+ 
+As experience is gained and no significant interference reports received, the Test-Bed will be 
+afforded more flexibility. 
+ 
+Continuous Spectrum Monitoring and Logging 
+Before each demonstration, the spectrum authorized by the FCC will be monitored at a 
+“command and control center” using a spectrum analyzer, a pre-amplifier and an elevated, 
+dedicated antenna.  The monitoring will be done for a 30 minute period before the 
+demonstrations and during the operation.   
+ 
+An initial check of incumbent spectrum occupancy should be made.  All channels with received 
+signal levels above –154 dBm/Hz (-174 dBm/Hz + 20 dB NF + 25 kHz BW) will be excluded 
+from use by the Test-Bed equipment.   Both co-channel and adjacent channel signals will be 
+monitored. 
+ 
+During each demonstration, the spectrum will be monitored to check from proper Test-Bed 
+operation.  If a Test-Bed node has a fault and transmits on a non-approved frequency, the 
+operator at the command and control center will stop the demonstration.  
+ 
+Command and Control 
+Centralized Control of All Test-Bed Transmitters.   
+All Test-Bed transceivers will be networked to a command and control system via a back-haul 
+system consisting of fixed or mobile data links, commercial satellite internet stations or some 
+other backhaul method.  The command and control system can stop all transmissions by of any 
+Test-Bed node within 10 seconds.  If the Test-Bed node to command and control center 
+connection is lost for more that 5 minutes, the Test-Bed node will limit transmissions to a 
+reduced list of frequencies that are “assigned” as emergency backup with temporary primary 
+status.   
+ 
+The Test-Bed group shall provide points of contact that are available to immediately cease 
+transmission if interference occurs. 
+Continuous Connection to the Outside World via the Internet and/or Other Means 
+The command and control station should have continuous connection to the outside world (i.e., 
+to the local spectrum manager) via the Internet and/or telephone.  If an interference complaint is 
+received from the outside world, the Test-Bed system will be immediately turned off to minimize 
+any problems and to diagnose if the Test-Bed system is the cause.   
+ 
+ 
+Test-Bed group should maintain a secure web site with both up to date test schedule information 
+and contact information and will provide access information to FCC and other entities designated 
+by FCC.   
+ 
+The Test-Bed group should agree to work with NTIA and FCC once a location is decided to 
+determine what a reasonable notification of “neighbors” is. 
+Accountability 
+The Test-Bed nodes should log the time, location, frequency and transmit power levels 
+continuously.  These logs should be used for analysis of the Test-Bed algorithms and to analyze 
+any interference events that might occur. 
+Brief Transmission Periods 
+The initial Test-Bed demonstrations will involve short transmission periods (several minutes or 
+less).  All of the equipment (Test-Bed nodes, non-cooperative “victim” receivers and test 
+transmitters) are centrally controlled via computer.  They will be switched off between 
+experiments. 
+ 
+As experience is gained and no interference reports received, the Test-Bed will be allowed to use 
+continuous transmissions. 
+Demonstration Location 
+The demonstration areas should be selected to be at least 1 km away from other co-channel non-
+cooperative transmitters without prior coordination with the potentially affected party.  The 
+transmitter locations of all known incumbent users should be made available to the Test-Bed user 
+by the FCC/NTIA.  
+Personnel Experience 
+All field testing should be overseen by an experienced engineer with significant RF expertise.  
+This person should be qualified to operate spectrum analyzers and other test equipment to be 
+able to determine if incumbent signals are present, and to determine the actual Test-Bed 
+frequency, bandwidth and power levels.     
+  
+ 
+ 
+ 

@@ -1,0 +1,662 @@
+JOURNAL OF AIRCRAFT
+Vol. 38, No. 6, November–December 2001
+Bene ts of Swept-and-Leaned Stators for Fan Noise Reduction
+Richard P. Woodward,¤ David M. Elliott,¤ Christopher E. Hughes,† and Jeffrey J. Berton‡
+NASA John H. Glenn Research Center at Lewis Field, Cleveland, Ohio 44135
+An advanced high bypass ratio fan model was tested in the NASA John H. Glenn Research Center 9 £
+15 Foot
+Low-Speed Wind Tunnel. The primary focus of this test was to quantify the acoustic bene ts and aerodynamic
+performance of sweep and lean in stator vane design. Three stator sets were used for this test series. A conventional
+radial stator set was tested at two rotor–stator axial spacings. Additional stator sets incorporating sweep only and
+sweep and lean were also tested. The hub axial location for the swept-and-leaned and swept-only stators was at the
+sameaxiallocationasthe radialstatorat the smallerrotor–statorspacing(upstream statorlocation), whilethe tip of
+these modi ed stators was at the sameaxiallocation as the radialstator set at the downstream rotor–stator spacing.
+The acoustic data show that swept and leaned stators give signi cant reductions in both rotor–stator interaction
+noise and broadband noise beyond what could be achieved through increased axial spacing of the conventional,
+radial stator. Application of these test results to a representative two-engine aircraft and  ight path suggest that
+about a 3 effective perceived noise (EPN) dB fan noise reduction could be achieved through incorporation of these
+modi ed stators. This reduction would represent a signi cant portion of the 6-EPNdB aircraft noise reduction goal
+relative to that of 1992 technology levels of the current NASA Advanced Subsonic Technology initiative.
+Introduction
+A
+MAJOR source of aircraft engine noise comes from the inter-
+action of the rotor viscous wakes with the fan exit guide vanes
+or stators.The most prominentcomponentsof this interactionnoise
+are tones at multiples of the rotor blade passage frequency (BPF),
+although there also exists a broadband component of this rotor–
+stator noise. Traditional methods of reducing this interaction noise
+have been to select blade/vane ratios to satisfy the cutoff criterion
+for propagation of the fundamental rotor tone1 and increased axial
+spacing between the rotor and stator.2 Increased rotor–stator axial
+spacingmay degradethe fan aerodynamicperformanceand increase
+the overall engine weight.
+Stator vane lean and/or sweep have been suggested as a mech-
+anism to reduce the severity of the rotor wake interaction with the
+stator vane. Vane sweep is the axial displacement of the vane with
+radius such that the tip region is farther downstream than the hub.
+Correspondingly,lean is a circumferentialdisplacementof the vane
+stacking line relative to the radial direction. Both of these stator
+modi cations have been proposed as a means to reduce the stator
+response to the rotor  ow by reducing the rotor–stator acoustic re-
+sponse. Rotor–stator tone generation is thought to be a function of
+the numberof rotorwakeintersectionson the statorvanes.The num-
+berofwake intersectionsis increasedwith statorleaninthe direction
+of fan rotation. Aft-swept stators achieve a similar effect through
+increasedrotor–stator separationtoward the tip regionand,thus, de-
+layed rotor wake intersection toward the stator tip. Kazen3 demon-
+stratedrotor/stator interactiontone reductionsassociatedwith a sta-
+tor leaned 30 deg in the direction of fan rotation. Noise reductions
+Presented as Paper 99-0479 at the 37th Aerospace Sciences Meeting and
+Exhibit (Oct), Reno, NV, 11–14 January 1999; received 20 July 1999; revi-
+sion received 12 April 2001; accepted for publication 13 April 2001. Copy-
+right c° 2001 by the American Institute of Aeronautics and Astronautics,
+Inc. No copyright is asserted in the United States under Title 17, U.S. Code.
+The U.S. Government has a royalty-free license to exercise all rights under
+the copyright claimed herein for Governmental purposes. All other rights
+are reserved by the copyright owner. Copies of this paper may be made for
+personal or internal use, on conditionthat the copier pay the $10.00per-copy
+fee to the Copyright Clearance Center, Inc., 222 Rosewood Drive, Danvers,
+MA 01923; include the code 0021-8669/01 $10.00 in correspondence with
+the CCC.
+¤Aerospace Engineer, Acoustics, MS 54-3. Member AIAA.
+†Aerospace Engineer, Acoustics, MS 54-3.
+‡Aerospace Engineer, Propulsion Systems Analysis Of ce. Member
+AIAA.
+in the two BPF tone from 1.5 to 3.5 dB with the leaned stator were
+observed in this study.
+Analytical studies4 have suggested that both stator lean and
+sweep, if properly applied, may signi cantly reduce rotor–stator
+interactiontone noise.Optimal statorlean and sweep offers the pos-
+sibility of reducing the overall engine weight through decreased
+axial rotor–stator spacing or achieving additional tone noise reduc-
+tion for a particular rotor–stator spacing.
+An advanced high bypass subsonic fan model incorporatingsta-
+tor sweep and lean was designed and built by the Allison Engine
+Company (Ref. 5) under contractto NASA John H. Glenn Research
+Center. This fan was tested in the NASA John H. Glenn Research
+Center 9 by 15-Foot Low-Speed Wind Tunnel6¡8 (9 £ 15 LSWT).
+These fan tests were conducted at a freestream Mach number of
+0.10. The test section walls are acousticallytreated to provide ane-
+choic conditions down to a frequency of 250 Hz, which is lower
+than the range of test fan acoustic tones.
+The emphasis of this fan test was to evaluate the aeroacoustic
+performanceof the swept-and-leanedstator and the swept-onlysta-
+tor relative to that of a baseline radial stator. All stators had the
+same vane number and were designed for equivalent aerodynamic
+performance.Acousticdata are presentedin terms of sidelinedirec-
+tivitiesandspectra.Thesedatawerealsousedtogenerate yoverand
+sideline fan effective perceived noise level (EPNL) estimates for a
+representativetwo-engineaircraftand  ightpathto give an estimate
+of the fan EPNL benet associated with these stator modi cations.
+Description of Fan Test
+Research Fan
+Figure1 showstheresearchfaninstalledin the 9 £ 15 LSWT. The
+ultrahigh bypass (UHB) drive rig was used to drive the Allison fan.
+The UHB drive rig was powered by a high-pressureair turbinedrive
+with the drive air and instrumentationsupplied through the support
+strut. The drive turbine exhaustair was ducteddownstreamthrough
+an acoustically treated diffuser and exited the end of the treated
+test section. There was little indication of acoustic contamination
+of the aft fan data from the turbine exhaust. The fan was tested
+at a freestream Mach number of 0.10 in the test section, which is
+suf cienttoachieveacoustic ighteffect9 and providesacousticdata
+representativeof takeoff/approachoperation.All data were taken at
+0-deg fan axis angle of attack.
+Table 1 shows design characteristicsof the Allison fan. The 18-
+bladerotor had a diameterof 55.9cm (22 in.). Three stator sets were
+fabricated,a conventionalradialstatorand two modi ed statorswith
+both sweep and lean and with sweep only. A leaned-onlystator set
+1130
+WOODWARD ET AL.
+1131
+Table 1
+Allison fan design characteristics
+Parameter
+Value
+Rotor diameter
+55.9 cm (22 in.)
+Rotor blade number
+18
+Rotor hub/tip ratio
+0.30
+Rotor aspect ratio
+1.754
+Stator vane number (all modes)
+42
+Stator aspect ratio
+3.073
+Radial stator spacing,
+mean axial rotor chords
+Upstream (close spacing)
+1.2
+Downstream (maximum) spacing
+2.2
+Swept-and-leaned stator
+30± sweep, 30± lean
+Swept-only stator
+30± sweep
+Design stage pressure ratio
+1.378 (1.45 tip – 1.20 hub)
+Design speci c weight  ow
+210.4 kg/s/m2 (43.1 lbm/s/ft2)
+Design corrected tangential tip speed
+305 m/s (1000 ft./s)
+Design tip relative Mach number
+1.080
+Fig. 1
+Allison fan installed in the NASA John H. Glenn Research Cen-
+ter 9 £
+15 LSWT.
+would have been desirable, but was dropped from the program due
+to budget considerations. All stator sets had 42 vanes and were
+designed for equivalent fan stage aerodynamic performance. The
+fan stage did not have a core  ow simulation. The baseline stator
+con guration was the radial stator at the closer, upstream rotor–
+stator axial spacing, (Fig. 2). The fan was also tested at a larger
+rotor–stator axial spacing (downstream) position. The swept-and-
+leaned and the swept only-stators were designed such that the hub
+was locatedat the same axial location as the baselinestator location
+for the smaller rotor–stator spacing, and the tip was located at the
+axial location correspondingto the radial stator at the higher rotor–
+stator spacing (Fig. 3). These stators were designed with 30 deg of
+sweepand 30 deg of lean.The swept-and-leanedstatorswere leaned
+in the direction of rotor rotation.
+Figures 4–6 are photographsof the partially assembledfan stage.
+Figure 4 is a photograph of the stage showing the rotor and the
+swept-and-leaned stator. Figure 5 shows the rotor and the swept-
+only stator. Figure 6 is a downstream view of the swept-and-leaned
+stator seen through the rotor.
+Anechoic Wind Tunnel and Acoustic Instrumentation
+The tunneltest section walls,  oor and ceilinghad acoustic treat-
+ment to produce an anechoic test environment. Figure 7 shows
+the test fan installed in the 9 £ 15 LSWT. Sideline acoustic data
+were acquired with a computer-controlledtranslating microphone
+probe (also seen in the photograph of Fig. 1) and with three aft
+microphone assemblies mounted to the tunnel  oor. The translat-
+ing microphoneprobe acquired data at 48 sidelinegeometricangles
+from 27.2 to 134.6 deg relative to the fan inlet axis. The translating
+microphone probe traversed near the tunnel wall at 227 cm (89 in.)
+from the fan rotational axis (four fan diameters). A wall reference
+Upstream spacing, 1.2 mean axial rotor chords
+Downstream spacing, 2.2 mean axial rotor chords
+Fig. 2
+Allison fan with the baseline radial stator in the upstream and
+downstream positions.
+Swept-only stator
+Swept-and-leaned stator
+Fig. 3
+Allison fan with the swept-only and swept-and-leaned stators.
+microphone assembly was placed adjacent to the translating probe
+home position (134.6 deg, maximum aft travel). Three  xed micro-
+phoneassemblieswere mountedto the tunnel oor at thissame axial
+positionto acquireaft acousticdata at geometricanglesof 140,150,
+and 160 deg. All microphoneswere located at fan centerlineheight.
+The acoustic data were acquired through a digital computer system
+and stored for postrun analysis.
+Results and Discussion
+Aerodynamic Performance
+Aerodynamic performance for the fan and the four stator vane
+con gurations(radialupstream,radialdownstream,swept-only,and
+swept-and-leaned) on the fan acoustic operating line are presented
+in Figs. 8–10. The hardware design intent was that the fan perfor-
+mance would not be affected by the stator vane con guration and
+that the three different stator vane sets operate to the same level
+of performance. The fan and stator vane performance was deter-
+mined from fan weight  ow and force balance measurements. Fan
+performance for each of the stator vane con gurations is shown in
+Figs. 8 and 9 as corrected fan weight  ow and corrected fan torque
+as a function of corrected fan speed, respectively.Corrected in this
+1132
+WOODWARD ET AL.
+Fig. 4
+Partially assembled fan stage showing the swept-and-leaned
+stator.
+Fig. 5
+Partially assembled fan stage showing the swept-only stator.
+case means the data are normalizedto standard day conditions.The
+results indicate that the fan was operating very nearly the same for
+each stator vane con guration.
+In Fig. 8, differences in corrected fan weight  ow are on the or-
+der of §0:5–0.75%, with the radial stator vane in the downstream
+position showing the highest weight  ow and the swept-and-leaned
+con guration showing the lowest. Accuracy of the fan weight  ow
+measurements is §0:5%. In Fig. 9, differences in corrected fan
+torque, which is a measure of the work produced, between stator
+Fig. 6
+Downstream view of the swept-and-leaned stator viewed
+through the rotor; fan direction of rotation is counterclockwise.
+vane con gurations are negligible. Force balance torque measure-
+ments are accurate to §0:35% of full scale, or §5 ft.lb. No force
+balance data were available for the aft baseline stator vane con-
+ guration. Figure 10 shows the corrected stator vane thrust from
+force balancedata as a functionof correctedfan speed.Again, force
+balance data were available for the radial stator in the downstream
+position,but it is assumed that because the same stator vane geom-
+etry was used that the forces produced by the radial stator in the
+downstream position are nearly the same. The results show that the
+radial stator vanes produced a larger amount of thrust than either
+the swept-only or swept-and-leaned stator vanes across the entire
+operatingline. At lower speeds, the swept-only and the swept-and-
+leaned stator vanes performance is nearly the same, but lower than
+the radialstatorvaneperformance.As the fan speedincreased,larger
+differences between stator vanes can be seen, with the swept-and-
+leaned stator vanes producingthe lowest thrust and the radial stator
+vanes the highest thrust. At 100% corrected fan speed (full power),
+the swept-only stator vanes produced about 4.5% less thrust and
+the swept-and-leanedstator vanes produced about 7.5% less thrust
+compared with the radial stator vanes. The accuracy of the force
+balance data is §0:4% of full scale, or §8 lb.
+The results demonstrate a higher loss associated with the swept-
+only and the swept-and-leanedstator vanes,typicallyviscouslosses
+in the hub and tip regionsassociatedwith the corner ows at the sta-
+tor vane/ ow surface interface. These  ows are increasingly com-
+plex for the swept-and-leaned stator vane case, with tight corner
+areas as a result of the stator vane lean, which cause a local increase
+in blockageand increase in losses. The fan weight  ow results sup-
+port this result, especially for the swept-and-leaned stator vanes.
+The larger corner losses produce higher duct losses, reducing the
+nozzle exit area and, hence, reducing the fan weight  ow at a given
+fan speed compared with the radial stator vanes.
+Acoustic Performance
+All of the fan acoustic data were acquired at a tunnel test section
+Mach number M0 of 0.10. Sideline data are presented in terms of
+emission angles. The emission angles are related to the geometric,
+or observed angles by the relationship
+2em D 2geom ¡ sin¡1.M0 sin 2geom/
+where 2em and 2geom are, respectively,the emission and geometric
+sidelineangles.2 D 0degisde nedasthe in ow axis.The emission
+WOODWARD ET AL.
+1133
+Fig. 7
+Allison fan installed in the 9 £
+15 LSWT [dimensions are in centimeters (inches)].
+Fig. 8
+Comparison of fan weight  ow as a function of corrected fan
+speed for four stator vane con gurations.
+Fig. 9
+Comparison of corrected fan torque as a function of corrected
+fan speed for three stator con gurations.
+Fig. 10
+Comparison of corrected stator vane thrust as a function of
+corrected fan speed for three stator vane con gurations.
+angles for the sideline translating microphone probe covered the
+range25–130deg,and the three xed microphoneswere at emission
+angles of 136, 147, and 158 deg. This angular range was suf cient
+to de ne the sideline noise directivity patterns for subsequent fan
+EPNL calculations.
+Digital acousticdata were processedas constantbandwidthspec-
+tra. Spectra were acquired and averaged at each translating mi-
+crophone probe or  xed microphone position with 6- and 59-Hz
+bandwidths. These constant bandwidth spectra were electronically
+merged and used to generate one-third octave spectra.
+Swept-and-leaned and swept-only stators were expected to re-
+duce rotor–stator interaction tones by relieving the severity of the
+rotor wake interactionwith the stator vanes.An additionalobserved
+benet was a reduction in fan broadband noise.
+EPNL
+The EPNL was the noise metric used to rank the relative noise
+levels produced by the three stator sets. EPNLs were analytically
+derivedfromthe measuredfan rig one-thirdoctavebandsoundpres-
+sure level data, and they are a function of frequency, duration,tone
+content,andsource–observergeometry.A 3.5 linearscalefactorwas
+applied to all sound pressurelevel test data. EPNLs were calculated
+for each stator set using two methods: The  rst method used the
+measured noise spectra with no modi cations, whereas the second
+1134
+WOODWARD ET AL.
+method used the noise spectra with the tones at the BPF and its
+harmonics electronicallyremoved. The former method was used to
+estimate fan EPNLs with both broadbandand tonecontent,whereas
+the latter method was used to estimate fan EPNLs with broadband
+noise components only. No other noise sources were considered in
+these calculations.
+A notionaltwinjetaircraftwas used as the basis for the fan EPNL
+calculations. This aircraft was assumed to have a  eld length of
+2740 m (9000 ft), a climbout angle of 9 deg and n altitude over the
+communityobserverof 550m (1800 ft). The aircraftclimboutspeed
+was assumed to be 311 m/s (160 kn). No correctionwas made to the
+source noise levels due to the differencein convectiveampli cation
+between the tunnel conditions and the assumed  ight speed of the
+notional aircraft.
+Propagation effects considered included spherical spreading, at-
+mospheric attenuation, ground re ections, and extra ground atten-
+uation. Sideline and community EPNL calculationswere made us-
+ing procedures commensurate with the requirements described in
+Ref. 10. EPNL calculationswere made every 30.5 m (100 ft) along
+the 450-m (1476-ft) sideline to ensure that the sideline EPNL re-
+ported captured the maximum level. Community EPNLs were car-
+ried out for an observer 6500 m (21,325 ft) from brake release on
+the runway centerline. The computer code documented in Ref. 11
+was used to help model the aircraft trajectory, propagation effects,
+and noise metric calculations.
+Figure 11 shows the aircraft EPNL on the 450-m (1476-ft) side-
+line. Althoughthe throttlesettingusedat takeoffwouldbe at or near
+the fan design speed, the sideline noise is evaluated for the range
+of speeds investigated for illustrative purposes. There is about a
+1.5-EPNdB decrease associated with moving the radial stator from
+the upstream position to the downstream position at all fan speeds
+except 110% of design, where the change in noise level is negligi-
+ble. However, the addition of sweep and lean or sweep only results
+in about a 3-EPNdB reduction from noise levels relative to that for
+the upstream radial stator at fan speeds up to about 75% of design.
+The sweep-only stator maintains this 3-EPNdb reduction relative
+to baseline in the midspeed range of 75–95% design speed. The
+swept-and-leanedstator showed the most noise reduction at design
+and above fan speeds. Similar results are seen for  yover EPNL
+calculations. The use of a range of fan speeds is more applicable
+for  yover EPNL because a throttle cutback is often used in that
+segment. The analytical EPNL predictions for sideline and  yover
+Fig. 11
+Sideline EPNL for representative two-engine aircraft and
+ ight path; maximum noise level for an observer on a 450-m (1476-ft)
+sideline.
+observers differ due to geometric inputs to the extra ground attenu-
+ation and ground re ection models. These differences,however, do
+not signi cantly affect the trends with respect to fan speed. Thus,
+although the magnitudes of the sideline and  yover EPNLs are, of
+course, different, the trends are nearly identical.
+The relativelypoorperformanceof the swept-and-leanedstatorat
+fan speeds near 90% design may be explainedby the lower aerody-
+namic performanceofthatstator.Pressurelossesassociatedwith the
+swept-and-leanedstator are thought to arise from less than optimal
+ ow nearthe huband tip regions.It is quitepossiblethatre nements
+in the aerodynamicdesign of the swept-and-leanedstator would re-
+sult in improved performance for this concept throughout the fan
+speed range.
+The theoretical study of Ref. 4 was a tone-based comparison,
+which did not include broadband effects. In Ref. 4, it is concluded
+that sweep should be most bene cial at takeoff conditions,whereas
+lean should be most bene cial at approach conditions. The data
+results of Fig. 11, which of course include broadband noise, are
+only marginally supportive of this prediction. In Ref. 12, which
+reconciles the present test results with the theory of Ref. 4, there
+is recognition that the predicted tone bene ts are only valid when
+the tone levels are above broadband. It would appear from the data
+that sweep alone, rather than sweep and lean, achieved essentially
+all of the noise reduction at the lower fan speeds. At the higher
+fan speeds,additionalnoise reductionwas achievedwith sweep and
+lean beyond what was observed by sweep only. However, it is clear
+from Fig. 11, that incorporation of stator sweep and lean results
+in signi cant noise reductions throughout the fan operating range
+relative to what could be achieved through simply increasing the
+axial spacing of the radial stator.
+Sound Pressure Level Directivities
+Sideline sound pressure level (SPL) directivitiesprovidea useful
+tool for evaluating acoustic differences associated with changes in
+the stator con guration. These directivitieswere achieved by com-
+bining results from the traverse microphone and the three aft  xed
+microphones, resulting in 227-cm (89-in.) sideline directivities for
+25–158 deg emission angles relative to the fan upstream axis and
+centered on the fan rotor plane.
+Figure 12 shows representativeSPL directivitiesfor the four test
+con gurations.These resultsare for the fan operatingat 50% speed.
+These data are for the two BPF tone,which falls within the 3150-Hz
+one-thirdoctaveband.Advancedhigh bypassratiofans,such as that
+reportedherein,tend to haveaft-dominateddirectivities.The results
+of Fig. 12 clearly show that there is a signi cant noise reduction
+associated with increased radial stator spacing and additional noise
+benets due to the swept-and-leanedand swept-only stator.
+The noise reduction trends shown in Fig. 12 are more easily
+understood in terms of changes in noise level relative to that ob-
+served for the baseline radial stator in the upstream position. The
+Fig. 12
+One-third octave directivities along a 227-cm (89-in.) sideline
+(50% fan design speed, two BPF tone).
+WOODWARD ET AL.
+1135
+Table 2
+Test conditions
+% Corrected
+Corrected rotor tangential
+Tip relative
+fan speed
+tip speed, m/s(ft/s)
+Mach number
+50 (Approach)
+152 (500)
+0.507
+84 (Takeoff)
+256 (840)
+0.900
+100 (Sideline)
+305 (1000)
+1.080
+110
+335 (1100)
+1.187
+Fig. 13
+Constantbandwidth(59-Hz) spectra on a 227-cm (89-in.) side-
+line at 126-deg emission angle from fan inlet axis; fan operating at 50%
+design speed.
+SPL directivitiesfor the fourstatorcon gurationswere examinedin
+this manner at four representativefan speeds. Constant bandwidth
+(59-Hz) spectra were used for this analysis to facilitate separation
+of the rotor-stator interaction tone from adjacent broadband noise.
+Table 2 lists the test conditions examined.
+Results for each test speed are presented in terms of representa-
+tive spectra at a 126-deg emission angle, followed by directivities
+showing the tone and broadband reductions relative to noise levels
+observed for the baseline radial stator in the upstream axial posi-
+tion. The broadband levels at rotor–stator interaction frequencies
+were determined by interpolating spectral levels in the region of
+the interaction tone. That is, the broadband levels at the interaction
+tones were inferred from typical broadband levels on either side of
+the tone frequencies. Broadband levels determined by this manual
+procedure should be accurate within 0.5 dB.
+Figure 13 compares spectra acquired at 126-deg emission angle
+along the 227-cm (89-in.) sideline for the fan operating at 50%
+design speed. The fundamental rotor–stator interaction tone (BPF)
+is cut off and essentially not present in the spectra. Strong two BPF
+and three BPF tones are evidentfor the radial stator in the upstream
+position.These harmonicsare attenuatedeitherby movingtheradial
+stator to the aft position or employing sweep and/or lean. However,
+there is clear indication of broadband noise reduction, on the order
+of 4 dB, by the modi ed stator sets.
+Figure 14 shows the directivity effects on the two BPF fan tone
+band. SPL reductions in the tone and broadband levels are plotted
+againstthe directivityangle. Negative valuesrepresentnoise reduc-
+tions relative to what was observed for the baseline con guration
+with the radial stator in the upstream position. Tone reductions are
+greatestat aft angles,showingup to 12-dBreductionassociatedwith
+moving the radial stator to the downstream location. Noise reduc-
+tions of up to 15 and 19 dB were associated, respectively,with the
+swept-only and the swept-and-leanedstator.
+Moving the radial stator to the downstream location produced
+little to no reduction in broadband noise. This result is consistent
+with that reportedin the stator spacingstudy of Ref. 2, where it was
+also noted that there was little change in broadbandnoise level with
+(radial) stator spacing. The swept-and-leaned and the swept-only
+stators showed up to 4-dB broadband noise reduction.
+Fig. 14
+Sideline constant bandwidth (59-Hz) directivities at two BPF
+showing noise reduction relative to the baseline (radial, upstream) con-
+ guration (50% fan design speed).
+Fig. 15
+Constantbandwidth(59-Hz) spectra on a 227-cm (89-in.) side-
+line at 126-deg emission angle from fan inlet axis; fan is operating at
+84% of design speed.
+There has been some concernregardingthe periodicnatureof the
+tonal directivity data taken in the 9 £ 15 LSWT. Although it is pos-
+sible that this behaviorarises from tunnelwall re ections,it is much
+more likely that the data accuratelyshow a real interferencepattern
+between aft- and forward-radiated noise at a particular frequency.
+There are several observationsto support the second interpretation.
+The fan is aft dominated; therefore, one would expect the inter-
+ference pattern to be more pronounced toward the forward angles
+where the relative noise levels are more nearly equal in level. This
+is, in fact, what is observedin the sideline data. An analyticalstudy
+of predicted sideline noise levels was performed that considered a
+case for inlet and exhaustradiationfor an aft-dominatedfan. Again,
+a similar noise interference pattern was observed for these analyt-
+ical results. Finally, unpublished results for another advanced fan
+model, which was tested in a large anechoicfreejetfacility,showed
+similar interferencein the sideline results; in this case there was no
+nearby tunnel wall to provide possible re ections.
+Figures 15 and 16 present correspondingacoustic results for the
+fan operating at 84% design speed. The spectral overlay of Fig. 15
+is similar to the 50% speed resultsof Fig. 10 in that the fundamental
+1136
+WOODWARD ET AL.
+Fig. 16
+Sideline constant bandwidth (59-Hz) directivities at two BPF
+showing noise reduction relative to the baseline (radial, upstream) con-
+ guration (84% fan design speed).
+Fig. 17
+Constantbandwidth(59-Hz) spectra on a 227-cm (89-in.) side-
+line at 126-deg emission anglefrom fan inlet axis; fan operating at 100%
+of design speed.
+tone is essentially cut off, and most overtone energy is associated
+with the radial stator in the upstream position. The haystacking
+nature of the swept-and-leanedspectra near three BPF may be as-
+sociated with  ow disturbancescaused by the poorer aerodynamic
+performance of that stator.
+Figure 16 shows sideline noise reductions for the two BPF tone
+and broadband. The swept-and-leaned and the swept-only stators
+were essentially equivalent in terms of tonal noise reduction. Tone
+reductions associated with the radial stator in the downstream po-
+sition were almost as good as those for the modi ed stators except
+for downstream sideline angles beyond 100 deg. Broadband noise
+reductions for the modi ed stators were about 2 dB at upstream
+angles, increasing to 4–5 dB at farther aft angles.
+The fundamentalrotor–stator interactiontone remained cut off at
+100% design speed (Fig. 17). However, higher-ordertones are now
+Fig. 18
+Sideline constant bandwidth (59-Hz) directivities at two BPF
+showing noise reduction relative to the baseline (radial, upstream) con-
+ guration (100% fan design speed).
+Fig. 19
+Constantbandwidth(59-Hz) spectra on a 227-cm (89-in.) side-
+line at 126-deg emission anglefrom fan inlet axis; fan operating at 110%
+of design speed.
+presentin the spectrafor the radialstator in the downstreamposition
+and fortheswept-and-leanedstator.Datawere nottakenatthisspeed
+for the swept-onlystatordue to aeromechanicalavoidancezones for
+this stator and fan speed.There is essentiallyno interactiontone for
+the swept-and-leanedstator until four BPF (and higher) harmonics.
+The swept-and-leanedstator had much more effectthan the radial
+stator in the downstream position for reducing two BPF tone noise
+at 100% fan speed (Fig. 18). However, there was essentially no
+associated broadband reduction at two BPF.
+All stator con gurations produced signicant tone noise at the
+110% overspeed condition. The fundamental rotor–stator interac-
+tion tone is now weakly cut on and is evident for the radial stator
+at the two axial locations and for the swept-only stator. However,
+this tone is not evident for the swept-and-leaned stator (Fig. 19).
+The swept-and-leaned stator essentially eliminated the two BPF
+and three BPF tones from the spectra. The swept-only stator was
+marginallyeffectiveinreducingacousticenergyatthesetoneorders.
+WOODWARD ET AL.
+1137
+Fig. 20
+Sideline constant bandwidth (59-Hz) directivities at two BPF
+showing noise reduction relative to the baseline (radial, upstream) con-
+ guration (110% fan design speed).
+The two BPF tone directivity results of Fig. 20 likewise show
+signi cant noise reductions associated with the swept-and-leaned
+stator, with somewhat less attenuation (relative to the radial stator
+in the forward position) seen for the swept-only stator and radial
+stator in the downstreamposition.The broadbandlevels at two BPF
+were slightly lower for the swept-and-leanedstator at upstream di-
+rectivity angles. Reductions in broadband level were typically seen
+for all stator sets relative to the baseline stator con guration at aft
+directivity angles, especially in the 115–130 deg range.
+These results for the constant bandwidth tone and broadband di-
+rectivities are consistent with those presented earlier for the repre-
+sentative aircraft effective perceived noise levels (Fig. 11). Stators
+incorporating sweep and lean, or possibly sweep only, have been
+shown to reduce signi cantly both rotor–stator interactiontone and
+broadband noise levels. However, the acoustic results are not con-
+sistent as to whether sweep and lean or sweep only is the preferred
+design. Sweep-and-lean and sweep-only stators provide additional
+noise reduction relative to the radial stator in the downstream po-
+sition; however, sweep only is more effective at lower fan speeds
+whereas sweep and lean provides somewhat more noise attenua-
+tion at higher fan speeds at and above design. This conclusion is
+further complicated by the observation that the swept-and-leaned
+stator showed greateraerodynamiclosses than did the other stators,
+suggesting that its acoustic performance, likewise, was compro-
+mised.On the other hand, one could infer that the expectedacoustic
+bene ts of a better designed swept-and-leaned stator would be at
+least as good as that shown herein and perhaps better.
+Data Repeatability
+The modi ed stator sets showed signi cant reductionsin fan tone
+levels;therefore,there is a need to validatethe repeatabilityof these
+results. Repeat data runs for the swept-and-leaned stator and the
+radial stator in the downstream position were made to quantify re-
+peatability of the acoustic data. In each instance, the second set of
+data represent a fan rebuild and was acquired at a totally differ-
+ent test time. Thus, these comparisons were rather rigorous toward
+validating the acoustic data.
+Sidelineone-thirdoctavedirectivitiescomparingtheserepeatdata
+sets are shown in Fig. 21 for the 5000-Hz (two BPF) and 20,000-Hz
+Fig. 21
+Data repeatability comparison for two builds of the fan (one-
+third octave directivities, 84% of design fan speed).
+(broadband) one-thirdoctavefrequencybands.In each instance,the
+data repeatabilityis excellent.
+Conclusions
+The results clearlyshowed that incorporationof stator sweep and
+lean or sweep only can signi cantly reduce rotor–stator tone levels.
+Tone levels for the modi ed stators were signicantly reduced be-
+yondwhatwasachievedby simplyrelocatingtheconventionalradial
+stator to the downstream location, with maximum noise reduction
+benets typically observed at downstream directivity angles. It is
+not clear if stator sweep alone is adequate to achieve substantial
+reductions in rotor–stator interaction noise, or if there are signi -
+cant additionalbene ts to be realized through incorporationof both
+sweep and lean. In particular, the aerodynamic performance of the
+swept-and-leaned stator showed somewhat higher losses than that
+of the other stators,suggestingthat noise reductionsassociatedwith
+this stator may be furtherimproved through enhancedaerodynamic
+design of a swept-and-leanedstator.
+Increased axial spacing of a conventional radial stator has lit-
+tle impact on the fan broadband noise level, except, perhaps, to
+increase the potential for broadband noise generation through in-
+creased scrubbing surface, etc. However, the results for the swept-
+and-leaned and the swept-only stators reported herein did show a
+signi cant reduction (often on the order of 4 dB) of the broadband
+noise relative to that generated with the radial stator.
+Acoustic results scaled to a representative two-engine aircraft
+and  ight path suggested that about 3-EPNdB fan noise reduction
+could be realized through incorporationof these modi ed stators, a
+result which could representa signi cant part of the current NASA
+Advanced Subsonic Technology initiative goal of a 6-EPNdB fan
+noise reduction relative to 1992 technology levels.
+These results suggest that incorporation of some combination
+of stator sweep and lean may signi cantly reduce both tone and
+broadband noise levels for future advanced turbofans. Additional
+research in this area is needed to quantify the aerodynamic and
+aeroacousticperformanceof these stator designfeaturesand to gain
+insights into methodology for additionalengine noise reduction.
+References
+1Tyler, J. M., and Sofrin, T. G., “Axial Flow Compressor Noise Studies,”
+Society of Automotive Engineers Transactions, Vol. 70, 1962, pp. 309–332.
+2Woodward, R. P., and Glaser, F. W., “Wind Tunnel Measurements of
+Blade/Vane Ratio and Spacing Effects on Fan Noise,” Journal of Aircraft,
+Vol. 20, No. 1, 1983, pp. 58–65.
+3Kazin, S. B., “Radially Leaned Outlet Guide Vanes for Fan Source Noise
+Reduction,” NASA CR-134486, Nov. 1973.
+1138
+WOODWARD ET AL.
+4Envia, E., Huff, D. L., and Morrison, C. R., “Analytical Assessment of
+Stator Sweep and Lean in Reducing Rotor-Stator Tone Noise,” AIAA Paper
+96-1791, May 1996.
+5Dalton, W. N., Elliott,D. B., and Nickols, K. L., “Design of a Low Speed
+Fan Stage,” NASA CR-1999-208682,1999.
+6Dahl, M. D., and Woodward, R. P., “Comparison Between Design and
+Installed Acoustic Characteristics of the NASA Lewis 9- by 15-Foot Low
+Speed Wind Tunnel Acoustic Treatment,” NASA TP-2996, April 1990.
+7Dahl, M. D., and Woodward, R. P., “Acoustical Evaluation of the NASA
+Lewis 9- by 15-FootLow Speed Wind Tunnel,” NASA TP-3274,Nov. 1992.
+8Woodward, R. P., and Dittmar, J. H., “Background Noise Levels Mea-
+sured in the NASA Lewis 9- by 15-Foot Low-Speed Wind Tunnel,” NASA
+TM-106817,Jan. 1995; also AIAA Paper 95-0720, Jan. 1995.
+9Chestnutt, D., “Flight Effects of Fan Noise,” NASA CP-2242,Jan. 1982.
+10“Noise Standards: Aircraft Type and Airworthiness Certi cation,” Fed-
+eral Air Regulation, Pt. 36, Federal Aviation Administration, 1974 (consol-
+idated reprint Aug. 12, 1985).
+11Clark, B., “Computer Programto Predict Aircraft Noise Levels,” NASA
+TP 1913, 1981.
+12Envia, E., and Nallasamy, M., “Design Selection and Analysis of a
+SweptandLeanedStatorConcept,”JournalofSoundandVibration,Vol.228,
+No. 4, 1999, pp. 793–836.

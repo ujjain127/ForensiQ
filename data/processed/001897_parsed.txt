@@ -1,0 +1,630 @@
+45158 
+Federal Register / Vol. 73, No. 150 / Monday, August 4, 2008 / Rules and Regulations 
+1 Transient airflow conditions may cause air 
+pressure differences between compartments, before 
+the ventilation and pressurization system is 
+reconfigured. Additional transients occur during 
+changes to system configurations such as pack shut- 
+down, fan shut-down, or changes in cabin altitude; 
+transition in bleed source change, such as from 
+intermediate stage to high stage bleed air; and cabin 
+pressurization ‘‘fly-through’’ during descent may 
+reduce air conditioning inflow. Similarly, in the 
+event of a fire, a small quantity of smoke that 
+penetrates into an occupied area before the 
+ventilation system is reconfigured would be 
+acceptable under certain conditions described 
+within this special condition. 
+electronic equipment bay from which 
+the smoke is coming. 
+These special conditions, therefore, 
+require that there be a smoke or fire 
+detection system in each electrical/ 
+electronic equipment bay. They also 
+include requirements to prevent 
+propagation of hazardous quantities of 
+smoke or fire extinguishing agent 
+between or throughout the passenger 
+cabins on the main deck and the upper 
+deck. 
+Discussion of Comments 
+Notice of proposed special conditions 
+No. 25–08–04–SC for the Embraer S.A., 
+Model ERJ 190–100 ECJ airplanes was 
+published in the Federal Register on 
+April 21, 2008 (73 FR 21288). A 
+comment was received was in favor of 
+the proposed special conditions and 
+these special conditions were adopted 
+as proposed with one correction as 
+defined below. 
+During a review of the Notice of 
+proposed special conditions No. 25–08– 
+04–SC for the Embraer S.A., Model ERJ 
+190–100 ECJ airplanes, the FAA noted 
+that the proposed flight test special 
+condition demonstrating that only a 
+‘‘small quantity’’ of smoke may enter an 
+occupied area from an electrical/ 
+electronic equipment bay is not 
+consistent with the ‘‘Discussion’’ 
+section of the document. The 
+‘‘Discussion’’ section clearly states that 
+electrical/electronic equipment bays 
+located below, on, and above the main 
+deck of an airplane present a greater risk 
+of smoke penetration than older designs. 
+The proposed flight test special 
+condition was inadvertently limited to 
+smoke penetration flight tests for 
+electrical/electronic equipment bays 
+located on the main deck of the 
+airplane. The final special condition has 
+been corrected to reflect the FAA’s 
+original intent to require smoke 
+penetration flight tests from all 
+electrical/electronic equipment bay 
+locations. 
+Applicability 
+As discussed above, these special 
+conditions are applicable to the Embraer 
+S.A., Model ERJ 190–100 ECJ airplanes. 
+Should Embraer S.A., apply at a later 
+date for a change to the type certificate 
+to include another model on the same 
+type certificate incorporating the same 
+novel or unusual design feature, the 
+special conditions would apply to that 
+model as well. 
+Conclusion 
+This action affects only certain novel 
+or unusual design features on Model ERJ 
+190–100 ECJ airplanes. It is not a rule 
+of general applicability. 
+List of Subjects in 14 CFR Part 25 
+Aircraft, Aviation safety, Reporting 
+and recordkeeping requirements. 
+The authority citation for these 
+special conditions is as follows: 
+Authority: 49 U.S.C. 106(g), 40113, 44701, 
+44702, 44704. 
+The Special Conditions 
+I Accordingly, pursuant to the authority 
+delegated to me by the Administrator, 
+the following special conditions are 
+issued as part of the type certification 
+basis for Embraer S.A., Model ERJ 190– 
+100 ECJ airplanes. 
+1. Requirements to prevent 
+propagation of smoke or extinguishing 
+agents from entering the flight deck and 
+passenger cabin: 
+(a) To prevent such propagation the 
+following must be demonstrated: A 
+means to prevent hazardous quantities 
+of smoke or extinguishing agent 
+originating from the electrical 
+equipment bays from incapacitating 
+passengers and crew. 
+(b) A ‘‘small quantity’’ of smoke may 
+enter an occupied area only under the 
+following conditions: 
+(1) The smoke enters occupied areas 
+during system transients 1 from a source 
+located below the flight deck and 
+passenger cabin or on the same level as 
+the flight deck and passenger cabin. No 
+sustained smoke penetration beyond 
+that from environmental control system 
+transients is permitted. 
+(2) Penetration of the small quantity 
+of smoke is a dynamic event, involving 
+either dissipation or mobility. 
+Dissipation is rapid dilution of the 
+smoke by ventilation air, and mobility is 
+rapid movement of the smoke into and 
+out of the occupied area. In no case 
+should there be formation of a light haze 
+indicative of stagnant airflow, as this 
+would indicate that the ventilation 
+system is failing to meet the 
+requirements of § 25.831(b). 
+(3) The smoke from a smoke source 
+below the flight deck and passenger 
+cabin must not rise above armrest 
+height. 
+(4) The smoke from a source in an 
+electrical/electronic equipment bay 
+must dissipate rapidly via dilution with 
+fresh air and be evacuated from the 
+airplane. A procedure must be included 
+in the Airplane Flight Manual to 
+evacuate smoke from the occupied areas 
+of the airplane. In order to demonstrate 
+that the quantity of smoke is small, a 
+flight test must be conducted which 
+simulates the emergency procedures 
+used in the event of a fire during flight, 
+including the use of Vmo/Mmo descent 
+profiles and a simulated landing, if such 
+conditions are specified in the 
+emergency procedure. 
+2. Requirement for fire detection in 
+electrical/electronic equipment bays: 
+(a) A smoke or fire detection system 
+compliant with §§ 25.858 and 25.855 
+must be provided that will detect fire/ 
+smoke within each electrical/electronic 
+equipment bay. 
+(b) Each system must provide a visual 
+indication to the flight deck within one 
+minute after the start of a fire in an 
+electrical/electronic equipment bay. 
+(c) Airplane flight tests must be 
+conducted to show compliance with 
+these requirements, and the 
+performance of the smoke or fire 
+detectors must be shown in accordance 
+with guidance provided in the latest 
+version of Advisory Circular 25–9, or 
+other means acceptable to the FAA. 
+(d) A procedure to shut down all non- 
+essential systems in the electrical/ 
+electronic equipment bays following a 
+smoke detection in any electrical/ 
+electronic equipment bay must be 
+included in the Airplane Flight Manual. 
+Issued in Renton, Washington, on July 22, 
+2008. 
+Michael J. Kaszycki, 
+Acting Manager, Transport Airplane 
+Directorate, Aircraft Certification Service. 
+[FR Doc. E8–17756 Filed 8–1–08; 8:45 am] 
+BILLING CODE 4910–13–P 
+ENVIRONMENTAL PROTECTION 
+AGENCY 
+40 CFR Part 52 
+[EPA–R05–OAR–2006–0003; FRL–8696–3] 
+Approval and Promulgation of Air 
+Quality Implementation Plans; Illinois 
+AGENCY: Environmental Protection 
+Agency (EPA). 
+ACTION: Direct final rule. 
+SUMMARY: EPA is approving a revision to 
+the Illinois State Implementation Plan 
+(SIP) for ozone. The state is 
+incorporating revisions EPA made to its 
+definition of volatile organic compound 
+(VOC). This SIP revision adds one 
+compound to the list of compounds that 
+VerDate Aug<31>2005 
+15:19 Aug 01, 2008
+Jkt 214001
+PO 00000
+Frm 00006
+Fmt 4700
+Sfmt 4700
+E:\FR\FM\04AUR1.SGM
+04AUR1
+ebenthall on PRODPC60 with RULES
+45159 
+Federal Register / Vol. 73, No. 150 / Monday, August 4, 2008 / Rules and Regulations 
+are exempt from being considered a 
+VOC. This is because it was determined 
+that the listed compound does not 
+significantly contribute to ozone 
+formation. 
+DATES: This direct final rule will be 
+effective October 3, 2008, unless EPA 
+receives adverse comments by 
+September 3, 2008. If adverse comments 
+are received, EPA will publish a timely 
+withdrawal of the direct final rule in the 
+Federal Register informing the public 
+that the rule will not take effect. 
+ADDRESSES: Submit your comments, 
+identified by Docket ID No. EPA–R05– 
+OAR–2006–0003, by one of the 
+following methods: 
+1. www.regulations.gov: Follow the 
+on-line instructions for submitting 
+comments. 
+2. E-mail: mooney.john@epa.gov. 
+3. Fax: (312) 886–5824. 
+4. Mail: John M. Mooney, Chief, 
+Criteria Pollutant Section, Air Programs 
+Branch (AR–18J), U.S. Environmental 
+Protection Agency, 77 West Jackson 
+Boulevard, Chicago, Illinois 60604. 
+5. Hand Delivery: John M. Mooney, 
+Chief, Criteria Pollutant Section, Air 
+Programs Branch (AR–18J), U.S. 
+Environmental Protection Agency, 77 
+West Jackson Boulevard, Chicago, 
+Illinois 60604. Such deliveries are only 
+accepted during the Regional Office 
+normal hours of operation, and special 
+arrangements should be made for 
+deliveries of boxed information. The 
+Regional Office official hours of 
+business are Monday through Friday, 
+8:30 am to 4:30 pm excluding Federal 
+holidays. 
+Instructions: Direct your comments to 
+Docket ID No. EPA–R05–OAR–2006– 
+0003. EPA’s policy is that all comments 
+received will be included in the public 
+docket without change and may be 
+made available online at 
+www.regulations.gov, including any 
+personal information provided, unless 
+the comment includes information 
+claimed to be Confidential Business 
+Information (CBI) or other information 
+whose disclosure is restricted by statute. 
+Do not submit information that you 
+consider to be CBI or otherwise 
+protected through www.regulations.gov 
+or e-mail. The www.regulations.gov Web 
+site is an ‘‘anonymous access’’ system, 
+which means EPA will not know your 
+identity or contact information unless 
+you provide it in the body of your 
+comment. If you send an e-mail 
+comment directly to EPA without going 
+through www.regulations.gov your 
+e-mail address will be automatically 
+captured and included as part of the 
+comment that is placed in the public 
+docket and made available on the 
+Internet. If you submit an electronic 
+comment, EPA recommends that you 
+include your name and other contact 
+information in the body of your 
+comment and with any disk or CD–ROM 
+you submit. If EPA cannot read your 
+comment due to technical difficulties 
+and cannot contact you for clarification, 
+EPA may not be able to consider your 
+comment. Electronic files should avoid 
+the use of special characters, any form 
+of encryption, and be free of any defects 
+or viruses. 
+Docket: All documents in the docket 
+are listed in the www.regulations.gov 
+index. Although listed in the index, 
+some information is not publicly 
+available, e.g., CBI or other information 
+whose disclosure is restricted by statute. 
+Certain other material, such as 
+copyrighted material, will be publicly 
+available only in hard copy. Publicly 
+available docket materials are available 
+either electronically in 
+www.regulations.gov or in hard copy at 
+the Environmental Protection Agency, 
+Region 5, Air and Radiation Division, 77 
+West Jackson Boulevard, Chicago, 
+Illinois 60604. This Facility is open 
+from 8:30 a.m. to 4:30 p.m., Monday 
+through Friday, excluding legal 
+holidays. We recommend that you 
+telephone Matt Rau, Environmental 
+Engineer, at (312) 886–6524 before 
+visiting the Region 5 office. 
+FOR FURTHER INFORMATION CONTACT: Matt 
+Rau, Environmental Engineer, Criteria 
+Pollutant Section, Air Programs Branch 
+(AR–18J), Environmental Protection 
+Agency, Region 5, 77 West Jackson 
+Boulevard, Chicago, Illinois 60604, 
+(312) 886–6524, rau.matthew@epa.gov. 
+SUPPLEMENTARY INFORMATION: 
+Throughout this document whenever 
+‘‘we,’’ ‘‘us,’’ or ‘‘our’’ is used, we mean 
+EPA. This supplementary information 
+section is arranged as follows: 
+I. What is EPA approving? 
+II. What is EPA’s analysis of the revisions? 
+III. What are the environmental effects of this 
+action? 
+IV. What action is EPA taking? 
+V. Statutory and Executive Order Reviews 
+I. What is EPA approving? 
+EPA is approving an Illinois SIP 
+revision that adds to the list of 
+compounds that are exempt from being 
+considered a VOC. On January 29, 2008, 
+Illinois submitted its revised 35 Illinois 
+Administrative Code (IAC) 211.7150(a), 
+the state’s VOC exemption list, with the 
+addition of 1,1,1,2,2,3,4,5,5,5- 
+decafluoro-3-methoxy-4- 
+trifluoromethyl-pentane (HFE–7300), 
+C2F5CF(OCH3)CF(CH3)2, requesting that 
+this revised rule be incorporated into 
+the Illinois SIP in place of the current 
+35 IAC 211.7150(a). Compounds listed 
+under 35 IAC 211.7150(a) are 
+considered to be excluded from the 
+definition of a VOC. These compounds 
+were determined to have negligible 
+photochemical reactivity. Users of the 
+listed compounds are not required to 
+follow VOC limits or content 
+requirements. 
+II. What is EPA’s analysis of the 
+revisions? 
+EPA evaluated the petition to list 
+HFE–7300 as a negligibly reactive 
+compound submitted by its 
+manufacturer. On January 18, 2007, 
+EPA’s approval (72 FR 2193) of adding 
+HFE–7300 to its list of compounds that 
+are not considered VOCs was effective. 
+The reactivity of this compound with 
+the hydroxyl radical (OH), the primary 
+way by which most organic compounds 
+initially participate in atmospheric 
+reactions that lead to ozone formation, 
+was compared to the reactivity of 
+ethane. The reactivity of ethane is the 
+benchmark EPA considers in 
+determining if an organic compound is 
+negligibly reactive. For HFE–7300, the 
+reactivity (kOH) was determined to be 
+1.5 × 10¥14 cm3/molecule/sec. This is 
+lower than ethane’s kOH of 2.4 × 10¥13 
+cm3/molecule/sec. Thus, EPA considers 
+HFE–7300 to be a negligibly reactive 
+compound. EPA made this 
+determination only for the compound in 
+its pure form, meaning at least 99.96 
+percent by weight. Any azeotrope 
+mixtures or organic blends of HFE–7300 
+are not exempt and thus are considered 
+VOCs. 
+III. What are the environmental effects 
+of this action? 
+Volatile organic compounds are 
+precursors to ozone formation. Complex 
+photochemical reactions involving 
+VOCs form tropospheric ozone. 
+Ozone decreases lung function, 
+causing chest pain and coughing. It can 
+aggravate asthma, reduce lung capacity, 
+and increase risk of respiratory diseases 
+like pneumonia and bronchitis. 
+Children playing outside and healthy 
+adults who work or exercise outside 
+may also be harmed by elevated ozone 
+levels. Ozone also reduces vegetation 
+growth in economically important 
+agricultural crops and wild plants. 
+EPA has determined that HFE–7300 
+makes a negligible contribution to ozone 
+formation. Thus, the compound is no 
+longer considered to be a VOC for 
+emission control purposes, and the 
+exemptions will not harm air quality. In 
+fact, if sources switch from the use of a 
+VOC compound to one of the 
+compounds that are no longer 
+considered VOC, ozone formation may 
+be reduced. 
+VerDate Aug<31>2005 
+15:19 Aug 01, 2008
+Jkt 214001
+PO 00000
+Frm 00007
+Fmt 4700
+Sfmt 4700
+E:\FR\FM\04AUR1.SGM
+04AUR1
+ebenthall on PRODPC60 with RULES
+45160 
+Federal Register / Vol. 73, No. 150 / Monday, August 4, 2008 / Rules and Regulations 
+IV. What action is EPA taking? 
+EPA is approving revisions to the 
+Illinois SIP for ozone. This revision 
+adds one compound to the list of 
+compounds considered exempt from 
+being a VOC compound. The compound 
+HFE–7300 is added to the exempt 
+compounds list. Illinois sources are not 
+required to follow VOC limits or content 
+requirements when using HFE–7300. 
+We are publishing this action without 
+prior proposal because we view this as 
+a noncontroversial amendment and 
+anticipate no adverse comments. 
+However, in the proposed rules section 
+of this Federal Register publication, we 
+are publishing a separate document that 
+will serve as the proposal to approve the 
+state plan if relevant adverse written 
+comments are filed. This rule will be 
+effective October 3, 2008 without 
+further notice unless we receive relevant 
+adverse written comments by September 
+3, 2008. If we receive such comments, 
+we will withdraw this action before the 
+effective date by publishing a 
+subsequent document that will 
+withdraw the final action. All public 
+comments received will then be 
+addressed in a subsequent final rule 
+based on the proposed action. The EPA 
+will not institute a second comment 
+period. Any parties interested in 
+commenting on this action should do so 
+at this time. If we do not receive any 
+comments, this action will be effective 
+October 3, 2008. 
+V. Statutory and Executive Order 
+Reviews 
+Under the Clean Air Act, the 
+Administrator is required to approve a 
+SIP submission that complies with the 
+provisions of the Act and applicable 
+Federal regulations. 42 U.S.C. 7410(k); 
+40 CFR 52.02(a). Thus, in reviewing SIP 
+submissions, EPA’s role is to approve 
+state choices, provided that they meet 
+the criteria of the Clean Air Act. 
+Accordingly, this action merely 
+approves state law as meeting Federal 
+requirements and does not impose 
+additional requirements beyond those 
+imposed by state law. For that reason, 
+this action: 
+• Is not a ‘‘significant regulatory 
+action’’ subject to review by the Office 
+of Management and Budget under 
+Executive Order 12866 (58 FR 51735, 
+October 4, 1993); 
+• Does not impose an information 
+collection burden under the provisions 
+of the Paperwork Reduction Act (44 
+U.S.C. 3501 et seq.); 
+• Is certified as not having a 
+significant economic impact on a 
+substantial number of small entities 
+under the Regulatory Flexibility Act (5 
+U.S.C. 601 et seq.); 
+• Does not contain any unfunded 
+mandate or significantly or uniquely 
+affect small governments, as described 
+in the Unfunded Mandates Reform Act 
+of 1995 (Pub. L. 104–4); 
+• Does not have Federalism 
+implications as specified in Executive 
+Order 13132 (64 FR 43255, August 10, 
+1999); 
+• Is not an economically significant 
+regulatory action based on health or 
+safety risks subject to Executive Order 
+13045 (62 FR 19885, April 23, 1997); 
+• Is not a significant regulatory action 
+subject to Executive Order 13211 (66 FR 
+28355, May 22, 2001); 
+• Is not subject to requirements of 
+Section 12(d) of the National 
+Technology Transfer and Advancement 
+Act of 1995 (15 U.S.C. 272 note) because 
+application of those requirements would 
+be inconsistent with the Clean Air Act; 
+and 
+• Does not provide EPA with the 
+discretionary authority to address, as 
+appropriate, disproportionate human 
+health or environmental effects, using 
+practicable and legally permissible 
+methods, under Executive Order 12898 
+(59 FR 7629, February 16, 1994). 
+In addition, this rule does not have 
+tribal implications as specified by 
+Executive Order 13175 (65 FR 67249, 
+November 9, 2000), because the SIP is 
+not approved to apply in Indian country 
+located in the state, and EPA notes that 
+it will not impose substantial direct 
+costs on tribal governments or preempt 
+tribal law. 
+The Congressional Review Act, 5 
+U.S.C. 801 et seq., as added by the Small 
+Business Regulatory Enforcement 
+Fairness Act of 1996, generally provides 
+that before a rule may take effect, the 
+agency promulgating the rule must 
+submit a rule report, which includes a 
+copy of the rule, to each House of the 
+Congress and to the Comptroller General 
+of the United States. EPA will submit a 
+report containing this action and other 
+required information to the U.S. Senate, 
+the U.S. House of Representatives, and 
+the Comptroller General of the United 
+States prior to publication of the rule in 
+the Federal Register. A major rule 
+cannot take effect until 60 days after it 
+is published in the Federal Register. 
+This action is not a ‘‘major rule’’ as 
+defined by 5 U.S.C. 804(2). 
+Under section 307(b)(1) of the Clean 
+Air Act, petitions for judicial review of 
+this action must be filed in the United 
+States Court of Appeals for the 
+appropriate circuit by October 3, 2008. 
+Filing a petition for reconsideration by 
+the Administrator of this final rule does 
+not affect the finality of this action for 
+the purposes of judicial review nor does 
+it extend the time within which a 
+petition for judicial review may be filed, 
+and shall not postpone the effectiveness 
+of such rule or action. This action may 
+not be challenged later in proceedings to 
+enforce its requirements. (See section 
+307(b)(2).) 
+List of Subjects in 40 CFR Part 52 
+Environmental protection, Air 
+pollution control, Incorporation by 
+reference, Intergovernmental relations, 
+Ozone, Reporting and recordkeeping 
+requirements, Volatile organic 
+compounds. 
+Dated: July 14, 2008. 
+Walter W. Kovalick Jr., 
+Acting Regional Administrator, Region 5. 
+I For the reasons stated in the preamble, 
+part 52, chapter I, of title 40 of the Code 
+of Federal Regulations is amended as 
+follows: 
+PART 52—[AMENDED] 
+I 1. The authority citation for part 52 
+continues to read as follows: 
+Authority: 42 U.S.C. 7401 et seq. 
+Subpart O—Illinois 
+I 2. Section 52.720 is amended by 
+adding paragraph (c)(182) to read as 
+follows: 
+§ 52.720
+Identification of plan. 
+* 
+* 
+* 
+* 
+* 
+(c) * * * 
+(182) On January 29, 2008, Illinois 
+submitted revised regulations that are 
+consistent with 40 CFR 51.100(s)(1), as 
+amended by 72 FR 2193. The compound 
+1,1,1,2,2,3,4,5,5,5-decafluoro-3- 
+methoxy-4-trifluoromethyl-pentane 
+(HFE–7300) was added to the list of 
+negligibly reactive compounds excluded 
+from the definition of VOM in 35 IAC 
+211.7150(a). 
+(i) Incorporation by reference. 
+(A) Illinois Administrative Code Title 
+35: Environmental Protection, Part 211: 
+Definitions and General Provisions, 
+Subpart B: Definitions, Section 
+211.7150: Volatile Organic Matter 
+(VOM) or Volatile Organic Compound 
+(VOC), Subsection 211.7150(a). Effective 
+January 16, 2008. 
+[FR Doc. E8–17699 Filed 8–1–08; 8:45 am] 
+BILLING CODE 6560–50–P 
+VerDate Aug<31>2005 
+15:19 Aug 01, 2008
+Jkt 214001
+PO 00000
+Frm 00008
+Fmt 4700
+Sfmt 4700
+E:\FR\FM\04AUR1.SGM
+04AUR1
+ebenthall on PRODPC60 with RULES

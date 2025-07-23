@@ -1,0 +1,347 @@
+<!-- Title: Day shift. Mon Jul  5, 2004 -->
+<!-- SciCo: Sunil Somalwar -->
+<!-- DAQAce: Regis Lefevre -->
+<!-- MonAce: Else Lytken -->
+<!-- CO: Giorgio Bellettini -->
+<!-- OpManager: Masa Tanaka -->
+<!-- Notes: -->
+<pre>Awaiting the stack (and not of pancakes).  No outstanding major problems.</pre>
+
+
+<!-- Date: Mon Jul 5 08:52:46.124 2004 -->
+<table><tr><td><a href=/cgi/elog/elog.pl?nb=2004&action=view&page=-9961&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/elog.pl?nb=2004&action=view&page=-9961  width='300' align='top'></a></td><td><p>Room temperatures over the last week.  3rd floor  
+computer room spikes every day, but at different times. 
+Yesterday was latest at about 4:00 PM.</p></td></tr></table>
+<!-- Author: Steve Hahn -->
+
+
+<!-- Date: Mon Jul 5 08:53:25.712 2004 -->
+About BigBrother: b0dap72 cpu warning since 2days 13h37 (due to xemacs with USER ID marjamaa, vrusu and reisert); b0dap10 cpu, disk, msgs and procs unavailable since 13days 15h54; b0dap86 usr unavailable since 11days 15h45; b0dap85a conn unavailable since 8h15; b0dap85a cpu, disk, memory, msgs, procs and usr unavailable since 62days 15h53
+<!-- Author: Regis -->
+<!-- Comment: Mon Jul  5 08;54;12 comment by...Regis -->
+e-mail sent to bourov@fnal.gov and jschmidt@fnal.gov
+
+
+<!-- Comment: Mon Jul  5 09;13;13 comment by...Charles Plager -->
+XEmacs (but not Emacs) has this nice feature that if you have a session of XEmacs running and you break the X connection (e.g. your x server goes down), XEmacs immediately starts taking all the CPU available.<p>
+Here's a list of suggestions:
+<ol>
+<li> Have people switch to Emacs instead of XEmacs (same functionality; doesn't have ****** bar of icons).  This would mean that they would need to install emacs on all the b0 machines (its installed on at least dap30, dap61, and dap72)
+<li> Make sure users know to check that XEmacs has really exited when they've stopped (with either 'ps' or 'top').
+<li> We can write a perl script that looks for runaway emacs jobs and take appropriate action (i.e. send email to the user, renice the job, and eventually kill the job).  The problem of course is telling the difference between legit emacs sessions that happen to be temporarily using all available CPU (e.g. reformatting a large file) and a run away job.
+</ol>
+
+I've ordered the suggestions in the order I'd use them, but I realize that not every body going to agree with me on this one :-)
+<!-- Comment: Mon Jul  5 10;30;33 comment by...Regis -->
+Mail sent to Burkard Reisert <reisert@fnal.gov>, Vadim Rusu <vrusu@fnal.gov>, and Frans Marjamaa <marjamaa@fnal.gov> asking them to check each of their xemacs and kill it if it's useless
+
+<!-- Comment: Mon Jul  5 11;31;20 comment by...Frank Chlebana -->
+<pre>dap72 is one of the general purpose machines used as a gateway
+and for user code development. It is not essential for datataking.
+
+We will add a watchdog that will sent mail to the user when a
+runaway process is identified.
+
+dap85 has been replaced by dap86
+
+Will look into the other monitoring problems... they do
+not appear critical.</pre>
+<!-- Comment: Mon Jul  5 19;46;55 comment by...Sergei -->
+--- b0dap72 is general use computer. User Marjamaa should be asked to stop runaway emacs
+--- b0dap10 is behind a router firewall, BB checks only connection
+(it's up or down).
+-- b0dap85 is unused right now (Acnet was moved to b0dap86), there is a plan to re-installed b0dap85.
+
+<!-- Comment: Mon Jul  5 20;04;42 comment by...Sergei -->
+The current Xemacs problem is/was on b0dap72 . Emacs is installed on b0dap72, But the users (marjamaa, vrusu and reisert) still prefer to use Xemacs. Maybe Xemacs should be removed from the important Online computers and replaced by Emacs?
+<!-- Date: Mon Jul 5 08:56:03.832 2004 -->
+<p>While setting (3) channels on PISABOX back to nominal (worst was off 2 V), found that Global Alarm display showed PSM as red. 
+On further investigation, found that PISABOX did not see VOLTMAN 
+in Network Status display.  Usually, it showed error "Not found 
+in HOSTS file", but momentarily would show "Dynamic iFIX  
+connection" only to fail again.  Will look at this with Mark 
+tomorrow.</p>
+<!-- Author: Steve Hahn -->
+<!-- Comment: Mon Jul  5 09;24;55 comment by...Irina -->
+<pre>As I remember, we've had this problem with PSM since we moved to current version of iFix (same thing with my office desktop). 
+</pre>
+<!-- Date: Mon Jul 5 09:00:29.820 2004 -->
+<p>Response on VNODE2 was VERY slow.  Killed running Internet 
+Explorer, only to find two more rogue IE processes (IEXPLORE.EXE) 
+in the Task Manager.  Killed first, and all icons and taskbar  
+disappeared.  Killed second, and only Intellution Workspace still 
+responded, and top screen went blank.  Tried to log in to iFIX 
+with my account, so I could kill iFIX, but could not.  Had to 
+reboot with power button on computer.</p> 
+ 
+<p>Took a long time to come back, but now seems to be running 
+much faster.  I would recommend NEVER killing Internet Explorer 
+so as to avoid these rogue processes.</p>
+<!-- Author: Steve Hahn -->
+
+
+<!-- Date: Mon Jul 5 09:03:13.469 2004 -->
+<pre>Brief warning state for L00 in global alarms - cleared up before I had a chance to see what caused it.</pre>
+<!-- Author: Else -->
+<!-- Comment: Mon Jul  5 09;06;44 comment by...Else -->
+Happened again twice - the warning concerns PT-COTL00E (east pressure at COT face).
+
+
+
+<!-- Comment: Mon Jul  5 09;42;00 comment by...Else -->
+Again.
+
+<!-- Comment: Mon Jul  5 10;00;11 comment by...Else -->
+Again. Silicon ooling pager carrier (Mircea) is looking at it. This time the pressure was 13.2, nominal is 13.0.
+
+<!-- Comment: Mon Jul  5 10;13;07 comment by...Sunil Somalwar -->
+Mircea coming in to look at the history and decide if there is a problem or it is just a fluke.
+
+<!-- Comment: Mon Jul  5 10;29;22 comment by...Else -->
+I have stopped reporting the warning incidents as it comes back on a regular basis. (probably a lot more than I notice).
+<!-- Date: Mon Jul 5 10:26:13.672 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184822">184822</a>
+ Terminated at 2004.07.05 10:26:01
+<!-- Author: RunControl -->
+
+
+<!-- Date: Mon Jul 5 10:27:43.494 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184822">184822</a>
+TERMINATE: End for silicon quiet time study
+<!-- Author: Regis (x2080) -->
+
+
+
+
+<!-- Date: Mon Jul 5 10:30:07.962 2004 -->
+Plan to do Silicon quiet time study for 1.5 hours.
+<!-- Author: Rong-Shyang -->
+<!-- Comment: Mon Jul  5 12;42;29 comment by...Rong-Shyang -->
+Detail can be seen at <a href=
+'http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=203&frame=2&anchor=12:13:28'>
+silicon elog</a>
+<!-- Date: Mon Jul 5 10:35:36.400 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184823">184823</a>
+ACTIVATE: RunSet: ACE_COSMIC_NOTRACKS  Trigger: COSMICS_NOTRACKS [9,467,441] 
+<!-- Author: Regis (x2080) -->
+
+
+
+<!-- Date: Mon Jul 5 11:03:11.455 2004 -->
+Here is some info on the power strip that failed in L3 rack.<br> 
+<ul> 
+<li>Power strips are APC model number AP9221 units 
+<li>Main controller is APC Master Switch VM Controller 
+<li>Each power strip has a LED with status: 
+ <ul> 
+ <li>OFF: no power 
+ <li>GREEN: strip operating at acceptable load 
+ <li>FLASHING GREEN: strip operating close to load limit 
+ <li>RED: strip operating at overload 
+ </ul> 
+</ul> 
+We have 16 of these power strips and most are in "flashing 
+green" mode. One has a RED led and one has failed. Clearly 
+this system needs some attention.
+<!-- Author: jj -->
+
+
+
+<!-- Date: Mon Jul 5 12:16:23.630 2004 -->
+<center><a href='/cgi/elog/elog.pl?nb=2004&action=view&page=-9964&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/elog.pl?nb=2004&action=view&page=-9964' width='300'></a><a href='/cgi/elog/elog.pl?nb=2004&action=view&page=-9965&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/elog.pl?nb=2004&action=view&page=-9965' width='300'></a></center>
+<!-- Author: Mircea Coca -->
+<!-- Comment: Mon Jul  5 12;30;24 comment by...Mircea Coca -->
+Following the PT-COTL00E (east pressure at COT face) warnings:
+I discovered that this warnings were around from May 21, 2004, but they are too quick to react. The problem seems to point to some change in the running conditions after the "lost cooling water" <a href="http://www-cdfonline.fnal.gov/cgi/elog/elog.pl?nb=2004&action=copyentry&page=348&time=15:41:44.828"> see entry </a>. The SVX supply temperature on East side went up by about 4 degrees, and triggered an increase in pressure at the face of the COT(PT_COTBHE1 and PT_COTL00E), as can be seen in the plots above.
+To cope with this new conditions I lowered the flow a bit on the L00E line (45% -> 40%). 
+<br>
+Dear Aces, if there is any warning, please, page me!
+  
+
+
+<!-- Date: Mon Jul 5 12:47:51.637 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184823">184823</a>
+TERMINATE: End to re-include Silicon
+<!-- Author: Regis (x2080) -->
+
+
+<!-- Date: Mon Jul 5 12:53:24.997 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184824">184824</a>
+ Activated at 2004.07.05 12:52:19
+<!-- Author: RunControl -->
+
+
+<!-- Date: Mon Jul 5 12:55:31.179 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184824">184824</a>
+ACTIVATE: RunSet: COSMICS_SILICON_TAPE  Trigger: COSMICS [14,503,441]. Silicon ON, COT and TOF OFF. Option: No files to tape.
+<!-- Author: Regis (x2080) -->
+
+
+
+<!-- Date: Mon Jul 5 13:32:33.407 2004 -->
+According to the MCR logbook, the RF station should be up around 2pm (with shot setup to follow). 
+<!-- Author: Sunil Somalwar -->
+
+
+<!-- Date: Mon Jul 5 14:01:35.886 2004 -->
+Shot setup planned for 230pm
+<!-- Author: Sunil Somalwar -->
+<!-- Comment: Mon Jul  5 14;12;40 comment by...Sunil Somalwar -->
+MCR called to say 230 for sure, so we begin shot setup countdown.
+<!-- Comment: Mon Jul  5 14;25;44 comment by...Sunil Somalwar -->
+Stack is 113E10
+<!-- Date: Mon Jul 5 14:11:57.326 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184824">184824</a>
+ Terminated at 2004.07.05 14:11:49
+<!-- Author: RunControl -->
+
+
+<!-- Date: Mon Jul 5 14:12:40.199 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184824">184824</a>
+TERMINATE: End because shot-setup soon: turn off silicon
+<!-- Author: Regis (x2080) -->
+<!-- Comment: Mon Jul  5 14;15;18 comment by...Regis -->
+Silicon is is fact turn to standby (end of store HV configuration)
+
+<!-- Date: Mon Jul 5 14:21:26.488 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184825">184825</a>
+ Activated at 2004.07.05 14:20:47
+<!-- Author: RunControl -->
+
+
+<!-- Date: Mon Jul 5 14:21:27.823 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184825">184825</a>
+ACTIVATE: RunSet: ACE_COSMICS_ALL  Trigger: COSMICS [14,503,441] 
+<!-- Author: Regis (x2080) -->
+
+
+
+<!-- Date: Mon Jul 5 14:42:24.773 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184825">184825</a>
+ Terminated at 2004.07.05 14:42:09
+<!-- Author: RunControl -->
+
+
+<!-- Date: Mon Jul 5 14:45:15.729 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184825">184825</a>
+TERMINATE: End to do a "no beam" trigger table test
+<!-- Author: Regis (x2080) -->
+
+
+
+<!-- Date: Mon Jul 5 14:46:58.728 2004 -->
+Per JJ's instructions, doing a no-beam test for trigger table PHYSICS_2_05[11,508,473]
+<!-- Author: Sunil Somalwar -->
+
+
+<!-- Date: Mon Jul 5 14:48:40.491 2004 -->
+<table border=0><td><tr><td bgcolor=#e0e030><pre>Shot setup: robot lady starts squawking</pre></td></tr></td></table>
+<!-- Author: Sunil Somalwar -->
+<!-- Comment: Mon Jul  5 14;51;03 comment by...Sunil Somalwar -->
+MCR called. Gave them clearance to inject beam
+
+<!-- Date: Mon Jul 5 14:53:38.263 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184826">184826</a>
+ACTIVATE: RunSet: AAA_SHOTSETUP  Trigger: PHYSICS_2_05 [11,508,473] 
+<!-- Author: Regis (x2080) -->
+
+
+<!-- Date: Mon Jul 5 14:56:26.277 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184826">184826</a>
+TERMINATE: L3 was red in the "replies and acknowledgements" GUI after the config transition
+<!-- Author: Regis (x2080) -->
+
+
+<!-- Date: Mon Jul 5 15:06:44.905 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184827">184827</a>
+ACTIVATE: RunSet: AAA_SHOTSETUP  Trigger: PHYSICS_2_05 [11,508,473] 
+<!-- Author: Regis (x2080) -->
+
+
+<!-- Date: Mon Jul 5 15:17:02.007 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184827">184827</a>
+TERMINATE: No problem. Average L2 accept rate = 6.1 Hz
+<!-- Author: Regis (x2080) -->
+
+
+<!-- Date: Mon Jul 5 15:23:53.521 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184828">184828</a>
+ Activated at 2004.07.05 15:23:30
+<!-- Author: RunControl -->
+
+
+<!-- Date: Mon Jul 5 15:24:05.211 2004 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=184828">184828</a>
+ACTIVATE: RunSet: ACE_COSMICS_ALL  Trigger: COSMICS [14,503,441] 
+<!-- Author: Regis (x2080) -->
+
+
+
+<!-- Date: Mon Jul 5 15:42:14.923 2004 -->
+Injecting final protons
+<!-- Author: Sunil Somalwar -->
+
+
+<!-- Date: Mon Jul 5 15:47:03.332 2004 -->
+<TABLE bgcolor=#cdc9a5> 
+<TR><TH>Date</th><th>Time</th><th>BLM</th><th colspan=2>Dose</th></tr> 
+<tr><td>2004.07.05</td><td>15:45:18</td><td>W Inner BLM</td><td>0.02</td><td>RADS</td></tr> 
+<tr><td>2004.07.05</td><td>15:45:18</td><td>W Outer BLM</td><td>0.00</td><td>RADS</td></tr> 
+<tr><td>2004.07.05</td><td>15:45:18</td><td>E Inner BLM</td><td>0.04</td><td>RADS</td></tr> 
+<tr><td>2004.07.05</td><td>15:45:18</td><td>E Outer BLM</td><td>0.23</td><td>RADS</td></tr> 
+</table> 
+<strong>Integrated dosage</strong>
+<!-- Author: Else -->
+
+<!-- Date: Mon Jul 5 15:55:36.742 2004 -->
+<TABLE BORDER=2 CELLSPACING=1 CELLPADDING=1 BGCOLOR=WHITE>
+<TR BGCOLOR=YELLOW><TH>Run Number</th>
+<TH>Data Type</th>
+<TH>Physics Table</th>
+<TH>Begin Time</th>
+<TH>End Time</th>
+<TH>Live Time</th>
+<TH>L1 Accepts</th>
+<TH>L2 Accepts</th>
+<TH>L3 Accepts</th>
+<TH>Live Lumi, nb-1</th>
+<TH>GR</th>
+<TH>SC</th>
+<TH>RC</th></tr>
+
+<TR><TD>Totals</td>                                                     
+<TD> </td>                                                              
+<TD> </td>                                                              
+<TD> </td>                                                              
+<TD>15:55:05</td>                                                       
+<TD ALIGN=CENTER>::</td>                                                
+<TD ALIGN=RIGHT></td>                                                   
+<TD ALIGN=RIGHT></td>                                                   
+<TD ALIGN=RIGHT></td>                                                   
+<TD ALIGN=RIGHT></td>                                                   
+<TD> </td>                                                              
+<TD> </td>                                                              
+<TD> </td></tr>                                                         
+                                                                        
+</table>
+<!-- Author: End of Shift Report -->
+
+
+
+<!-- Date: Mon Jul 5 15:57:37.052 2004 -->
+<font color=red>Shift Summary: </font><pre>No beam: quench last night and Linac RF problems. In shot setup now; final protons being loaded. Outstanding issues: none 
+ 
+</pre> 
+<br><b>End of Shift Numbers</b>
+<table><tr><td width=60% align=left>
+<b>CDF Run II <p></b>                       
+<pre>
+Runs                   only studies
+Delivered Luminosity   0  
+Acquired Luminosity    0  
+Efficiency             100%
+   
+</td></tr></table></pre>
+<!-- Author: Sunil Somalwar -->
+
+

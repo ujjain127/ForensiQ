@@ -1,0 +1,514 @@
+PHARMACODYNAMICS OF AGING:  
+NARROWING OF THE THERAPEUTIC 
+INDEX IN THE FACE OF 
+THERAPEUTIC OPPORTUNITY
+Darrell R. Abernethy, M.D., Ph.D.
+Chief Science Officer
+U.S. Pharmacopeia
+February 28, 2008
+Pharmacodynamics of Aging
+•
+ 
+Systemic Cardiovascular
+•
+ 
+Local Cardiovascular
+•
+ 
+Other Effector Systems
+0
+10
+20
+30
+40
+50
+≤5
+6-10
+11-15
+16-20
+≥21
+Number of Drugs
+Incidence (%)
+(Adapted from Cluff LE et al: JAMA 188:976, 1964)
+ 
+Table 1. Types of the 189 Side-Effects of Drug-Drug Interactions
+ 
+ 
+Type of Effect                                                  
+%
+ 
+Neuropsychological disorder and/or cognitive impairment
+ 
+44.1
+Global or orthostatic arterial hypotension
+ 
+21.8
+Acute renal failure secondary to dehydration
+ 
+15.7
+Hypo/hyperkalemia
+ 
+5.6
+Impairment of heart automatism, conduction, or rhythm
+ 
+4.5
+Increased anticholinergic effects                    
+3.3
+Other side effects
+ 
+5.0
+ 
+T
+Distribution of Office Visits by Number of Drugs 
+Administered or Prescribed for Patients ≥85  Years of Age
+Office Visits
+ 
+Number of Drugs                                        Number*
+ 
+Per Cent 
+ 
+0
+ 
+2,168,000
+ 
+32.1
+1
+ 
+1,431,000
+ 
+21.2
+2
+ 
+797,000
+ 
+11.8
+3
+ 
+1,084,000
+ 
+16.0
+4
+ 
+530, 000
+ 
+7.8
+5
+ 
+363,000
+ 
+5.4
+6
+ 
+160,000
+ 
+2.4
+7
+ 
+117,000
+ 
+1.7
+8
+ 
+14,000
+ 
+0.2
+9
+ 
+73,000
+ 
+1.1
+≥10
+ 
+27,000
+ 
+0.4
+ 
+* Total number of visits = 6, 763, 000, within rounding error.
+Knapp, et al, J Amer Ger
+Soc. 1984:32:138-143.
+Figure 1. Medication prescriptions per  resident in the 12 nursing homes. 15 October 1992 · Annals of Internal Medicine · Volume 117 ·
+Number 8  685
+OVERALL PRESCRIBING
+0
+2
+4
+6
+8
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 ALL
+NURSING HOME
+Mean # Drugs/Resident
+Table 1. Age-related chronic medical conditions*
+MEDICAL CONDITION
+FREQUENCY PER 1000 PERSONS IN  USA
+Age <45 y          Age 46 -
+ 
+64 y            Age > 65 y
+Arthritis
+30
+241
+481
+Hypertension
+129
+244
+372
+Hearing impairment
+37
+141
+321
+Heart disease
+31
+134
+295
+Diabetes
+9
+57
+99
+Visual impairment
+19
+48
+79
+Cerebrovascular disease
+1
+16
+63
+Constipation
+11
+19
+60
+* From Zisook S, Downs NS. J Clin Psych 1998, 59 (suppl 4):80-91, data from     
+Dorgan CA, editor.  Statistical record of health and medicine.
+ 
+New York:International
+Thompson Publishing Co. 1995.
+*Cognitive Impairment Defined by 6 or more Errors in the Mini-Mental Status Exam
+Data from:  Robins LN, Regier
+ 
+DA, eds.:  Psychiatric Disorders in America: The Epidemiologic
+Catchment Area Study.  New York, NY: The Free Press, 1991 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+35-54
+55-64
+65-74
+75-84
+>85
+Age (years)
+Percent Affected
+Alterations in the Cardiovascular System of the Elderly
+ 
+Cardiovasular hemodynamics
+•
+ 
+Tendency to contracted intravascular volume
+•
+ 
+Increased peripheral vascular resistance
+•
+ 
+Tendency to lowered cardiac output
+•
+ 
+Decreased baroreceptor sensitivity
+•
+ 
+Increased blood pressure variability
+•
+ 
+Suppressed plasma renin activity
+•
+ 
+Decreased vascular endothelium production of nitric    
+oxide
+Figure 2. Changes in FBF (A) and deep 
+venous norepinephrine concentrations 
+(B) to local tyramine administration. 
+*P<0.001 vs young men.
+Dinenno et al., Circulation. 2002;106:1349-54
+Figure 4. Forearm vasoconstrictor 
+responses to phenylephrine are blunted in 
+older men (A), whereas responses to 
+clonidine are not significantly different (B).
+Dinenno et al., Circulation. 2002;106:1349-54
+Figure 5. Forearm hemodynamics at 
+rest and after local α-adrenergic 
+blockade with phentolamine. *P<0.001 
+vs young men.
+Dinenno et al., Circulation. 2002;106:1349-54
+Arterial Changes Related to Aging
+Increased Calcium and Collagen
+Reduces Elasticity and Compliance
+Increased Pulse Pressure
+Decreased Baroreceptor Sensitivity
+Hyaline Thickening in Arterioles, Small Arteries
+Increased Peripheral Resistance
+HEART RATE RESPONSES
+•
+ 
+DECREASED RATE RESPONSES
+Parasympathetic
+Sympathetic
+•
+ 
+DIFFERING SENSITITVITY TO CALCIUM
+CHANNEL BLOCKADE OF THE SINUS
+NODE
+Schmidt et al., Circulation. 2002; 101:790-6
+Figure 3. ATPase activity measured at 10 μmol/L Ca2+
+ 
+in membrane preparations from 
+adult uninfected rat hearts (n=4), preparations from senescent uninfected rat hearts 
+(n=4), preparations of senescent hearts infected with Ad.β-Gal at day 2 (n=4), and 
+preparations of senescent hearts infected with Ad.SERCA2a at day
+ 
+2 (n=4). *P<0.05 
+compared with adult. ‡P<0.05 compared with senescent group plus Ad.β-Gal.
+0
+50
+100
+150
+200
+250
+Adult
+Senescent
+Senescent +
+Ad.βgal
+Senescent +
+Ad. SERCA2a
+Ca2+ ATPase (nmol/mg/min)
+*
+*
+‡
+Schmidt et al., Circulation. 2002; 101:790-6
+Figure 5. Measurements of systolic parameters +dP/dt (B) in
+ 
+adult uninfected rat hearts 
+(n=6), senescent uninfected rat hearts (n=8), senescent hearts infected with Ad.β-Gal at 
+day 2 (n=6), and senescent hearts infected with Ad.SERCA2a at day 2 (n=6). *P<0.05 
+compared with adult. ‡P<0.05 compared with senescent group plus Ad.β-Gal.
+0
+2000
+4000
+6000
+8000
+Adult
+Senescent
+Senescent +
+Ad.βgal
+Senescent +
+Ad. SERCA2a
++dP/dt (mmHg/sec)
+B
+*‡
+PARENT DRUG
+LIVER
+RENAL CLEARANCE
+HEPATIC CLEARANCE
+METABOLITES
+KIDNEY
+Drug
+Phase I
+enzymes
+Oxidation
+Reduction
+Hydrolysis 
+Metabolites
+Phase II
+enzymes
+Conjugated
+metabolites
+DRUGS METABOLIZED BY KNOWN P450s
+ 
+•
+ 
+3A (4)
+ Loratadine (in part)             
+ Diazepam
+ Terfenadine
+ 
+ Midazolam
+ Astemizole
+ 
+ Triazolam
+ Verapamil
+ 
+--
+ 
+Cyclosporine
+ Nifedipine
+ 
+ Tacrolimus
+ Diltiazem
+ 
+ Lovastatin
+ Felodipine
+ 
+ Progesterone
+ Nimodipine
+ 
+ Testosterone
+ Cisapride
+ Lansoprazole
+Modified from Flockart. J Psychopharm.
+PARTIAL LIST OF DRUGS THAT UNDERGO 
+SIGNIFICANT RENAL EXCRETION IN 
+HUMANS
+Amantadine
+Aminoglycoside antibiotics
+Cimetidine
+Digoxin
+Furosemide
+Lithium
+Nitrofurantoin
+Ouabain
+Penicillin antibiotics
+Phenobarbital
+Quinidine
+Sulfonamides
+Tetracycline
+COCKCROFT & GAULT EQUATION
+Terms in red estimate creatinine synthesis  rate.
+(140 -
+ 
+age) (weight in kg)
+CLCr
+ 
+=
+ 
+ 
+72
+ 
+(serum Cr in mg/dL)
+[reduce estimate by 15% for women]
+P
+I
+CL Cr =
+Table 2. Some drugs with decreased clearance in the elderly
+ROUTE OF CLEARANCE
+REPRESENTATIVE DRUGS
+Renal
+All aminoglycosides                   Sotalol     
+Vancomycin                      Atenolol
+Digoxin                        Dofetilide
+Procainamide                  Cimetidme
+Lithium  
+Single Phase I metabolic pathway
+CYP3A
+CYP2C
+CYP1A2
+Alprazolam
+Midazolam
+Triazolam
+Diltiazem
+Dihydropyridine calcium channel blockers
+Lidocaine
+Diazepam 
+Phenytoin
+Celecoxib
+Theophylline
+Table 2. Some drugs with decreased clearance in the elderly 
+cont.
+ROUTE OF CLEARANCE
+REPRESENTATIVE DRUGS
+Multiple Phase I metabolic 
+pathways
+Imipramine
+Desipramine
+Trazodone
+Hexobarbital
+Flurazepam
+PHARMACOKINETIC CHANGES IN THE ELDERLY
+PROCESS
+ 
+CHANGE WITH AGE
+Gastrointestinal Absorption
+ 
+none
+Drug Distribution
+Central Compartment Volume
+ 
+none or ▼
+Peripheral Compartment Volume
+Lipophilic Drugs
+ 
+▲▲
+Hydrophilic Drugs
+ 
+▼▼
+Plasma Protein Binding
+Binding to Albumin
+ 
+▼
+Binding to α1
+ 
+-acid Glycoprotein
+ 
+none or ▲
+PHARMACOKINETIC CHANGES IN THE ELDERLY
+ 
+Process
+ 
+Change with Age 
+Drug Elimination                                                
+Renal Elimination 
+▼▼
+ 
+Hepatic Elimination
+ 
+Phase I Reactions
+ 
+CYP3A
+ 
+▼
+ 
+CYP1A2,2D6,2C9,2C19,2E1
+ 
+↔or  ▼
+ 
+Phase II Reactions
+ 
+Glucuronidation  
+↔
+ 
+Sulfation
+ 
+↔
+ 
+Acetylation
+ 
+↔
+The Goals of Treating The 
+Elderly Hypertensive
+ ↓Morbidity & Mortality
+ Avoid or Minimize Drug-
+Related Problems
+ Improve the Quality of Life
+By the time a man gets well into the seventies, 
+his continued existence is a mere miracle
+R.L. Stevenson:AES Triplex
+“Come grow old along with me,
+the best of things are yet to be.”
+“Rabbi Ben Ezra,”
+Robert Browning (1812 –
+ 
+1889)

@@ -1,0 +1,1896 @@
+Ecological Applications, 16(3), 2006, pp. 1164–1182
+ 2006 by the Ecological Society of America
+HOMEOSTATIC MAINTENANCE OF PONDEROSA PINE GAS EXCHANGE
+IN RESPONSE TO STAND DENSITY CHANGES
+NATE G. MCDOWELL,1,3 HENRY D. ADAMS,2 JOHN D. BAILEY,2,4 MARCEY HESS,1 AND THOMAS E. KOLB2
+1Los Alamos National Laboratory, Earth and Environmental Sciences Division, MS J495, Los Alamos, New Mexico 87545 USA
+2Northern Arizona University, School of Forestry, Box 15018, Flagstaff, Arizona 86011 USA
+Abstract.
+Homeostatic maintenance of gas exchange optimizes carbon gain per water
+loss. Homeostasis is regulated by short-term physiological and long-term structural
+mechanisms, both of which may respond to changes in resource availability associated with
+competition. Therefore, stand density regulation via silvicultural manipulations may facilitate
+growth and survival through mechanisms operating at both short and long timescales. We
+investigated the responses of ponderosa pine (Pinus ponderosa) to stand basal area
+manipulations in Arizona, USA. Stand basal area was manipulated to seven replicated levels
+in 1962 and was maintained for four decades by decadal thinning. We measured basal area
+increment (BAI) to assess the response and sustainability of wood growth, carbon isotope
+discrimination (D) inferred from annual rings to assess the response of crown gas exchange,
+and ratios of leaf area to sapwood area (Al:As) to assess longer term structural acclimation.
+Basal area treatments increased soil water potential (r2 ¼ 0.99) but did not affect
+photosynthetic capacity. BAI increased within two years of thinning, and the 40-year mean
+BAI was negatively correlated with stand basal area (r2 ¼ 0.98). D was negatively correlated
+with stand basal area for years 5 through 12 after thinning (r2 ¼ 0.90). However, D was
+relatively invariant with basal area for the period 13–40 years after initial thinning despite
+maintenance of treatment basal areas via repeated decadal thinnings. Independent gas
+exchange measurements veriﬁed that the ratio of photosynthesis to stomatal conductance was
+invariant with basal area, but absolute values of both were elevated at lower basal areas. Al:As
+was negatively correlated with basal area (r2 ¼ 0.93). We hypothesize that increased Al:As is a
+homeostatic response to increased water availability that maximizes water-use efﬁciency and
+whole-tree carbon uptake. Elevated Al:As of trees at low basal areas was associated with
+greater resilience to climate, i.e., greater absolute BAI during drought; however, trees with
+high Al:As in low basal area stands also exhibited the greatest sensitivity to drought, i.e.,
+greater relative decline in BAI.
+Key words:
+Arizona; carbon isotope discrimination; ecological restoration; leaf area : sapwood area
+ratio; photosynthesis; Pinus ponderosa; productivity; stomatal conductance.
+INTRODUCTION
+Ponderosa pine (Pinus ponderosa) is a widespread
+conifer in North America, with a range extending from
+southern Canada to central Mexico (Waring and Law
+2001). This economically and ecologically valuable
+species is experiencing drastic constraints on survival
+and productivity in recent decades due largely to the
+policy of ﬁre exclusion practiced since the late 1800s.
+Prior to this period, ponderosa pine forests typically were
+exposed to frequent surface ﬁres that removed competing
+vegetation and maintained open, low-density stands
+(Cooper 1960, Covington and Moore 1994a, Moore et
+al. 1999, Swetnam et al. 1999). Fire exclusion has allowed
+heavy seedling regeneration within pine forests, which
+has increased density and competition among trees (Agee
+1993). These changes increase the risk of wildﬁres (Fule´
+et al. 2001, Allen et al. 2002, Pierce et al. 2004), bark
+beetle attacks (Waring and Pitman 1985, Kolb et al.
+1998) and decrease individual tree productivity (Parsons
+and De Benedetti 1979, Biondi 1996). Scientists, land
+managers, and the public are concerned that unless
+intervention occurs, we may lose a large portion of North
+America’s ponderosa pine forests.
+Reducing stand density is an approach to restoring
+ecosystem resilience and reducing wildﬁre risk (Coving-
+ton et al. 1997, Allen et al. 2002), and may be applicable
+as ecological restoration treatments to old-growth
+forests (Covington and Moore 1994b, Mast et al. 1999)
+or proactive application to younger forests (Skov et al.
+2004). Although the ideal silvicultural prescriptions may
+vary between regions and even sites (Morgan et al. 1994,
+Fule´ et al. 1997, Landres et al. 1999, Moore et al. 2003,
+Brown et al. 2004, Schoennagel et al. 2004), stand
+density reductions are likely to reduce forest suscepti-
+bility to disturbance and increase productivity of
+Manuscript received 11 April 2005; revised 21 September
+2005; accepted 26 September 2005. Corresponding Editor: B. A.
+Hungate.
+3 E-mail: mcdowell@lanl.gov
+4 Present address: Oregon State University, College of
+Forestry, 280 Peavy Hall, Corvallis, Oregon 97331 USA.
+1164
+remaining trees (Fiddler et al. 1989, Feeney et al. 1998,
+Latham and Tappeiner 2002). Unfortunately, under-
+standing of the physiological mechanisms underpinning
+the long-term relationship between the reduction in
+competition and the magnitude and sustainability of
+productivity response is lacking. Over the short term, it
+appears that increases in water availability are at least
+partly responsible for increased growth after thinning in
+semiarid forests where leaf area index (LAI) is low and
+light is not a strongly limiting factor (Sucoff and Hong
+1974, Donner and Running 1986, Warren et al. 2001,
+McDowell et al. 2003). In such systems, increased water
+availability may increase photosynthesis (Pn) via in-
+creased stomatal conductance (g; Feeney et al. 1998,
+Kolb et al. 1998, McDowell et al. 2003, Skov et al. 2004).
+The duration of this physiological response over decadal
+timescales may be inﬂuenced by the response of LAI to
+reduced stand density via increased leaf area of the
+understory vegetation (Oren et al. 1987) or of the
+remaining trees; however, no longer-term investigation
+has been conducted to test the latter explanation.
+A theoretical basis for the long-term regulation of
+productivity in response to stand basal area reductions
+can be derived from an individual tree-based application
+of the stand-level hydraulic model proposed by Jarvis
+(1975) and reﬁned by Whitehead et al. (1984). This
+theory is based on Darcy’s law and proposes that crown
+exchange of CO2 and H2O is regulated by a set of
+homeostatic relationships between structural and phys-
+iological parameters including the ratio of transpiring
+leaf area to sapwood area (Al:As) and the soil-to-leaf
+water potential gradient (Ws–Wl):
+g ’ AsðWs  WlÞ
+Al
+:
+ð1Þ
+This version of the original equation grossly over-
+simplifies the hydraulic and metabolic system of trees;
+however, it is appropriate for a stand of trees of uniform
+age, in which we can expect that other factors such as
+water viscosity and density (Matzner and Comstock
+2001), tree height (Scha¨ fer et al. 2000), and xylem
+specific conductivity (Pothier et al. 1989) are relatively
+invariant. For more detailed versions of the model see
+Whitehead (1998), Scha¨ fer et al. (2000), McDowell et al.
+(2002a), Phillips et al. (2002), and others. Importantly,
+Eq. 1 captures three critical parameters that may
+respond to stand basal area reductions: (1) a driving
+resource expected to change due to reduced stand-level
+transpiration, Ws, (2) a structural response parameter,
+Al:As, and (3) a physiological response parameter, g. As
+can be seen in Eq. 1, increases in soil moisture content
+(Ws) allow an increase in Al:As, g, or both.
+Increasing Al:As is an expected result of increasing soil
+moisture content because there is more water available
+to support transpiring surface area (Al), and likewise the
+importance of large As for water supply and capacitance
+is reduced (Waring et al. 1979, Mencuccini and Grace
+1995, Maherali and DeLucia 2001). One beneﬁt of
+increasing Al:As is the increased leaf area that can
+intercept light and conduct photosynthesis. Thus, even if
+the absolute rates of photosynthesis per unit leaf area
+remain unchanged after reductions in stand basal area,
+increased Al:As should allow greater crown-scale Pn.
+However, shifts in aboveground architecture presum-
+ably take many years, even decades, to occur (Ishii and
+McDowell 2002). Therefore, understanding mechanisms
+regarding the long-term growth response of trees to
+reductions in stand-level competition requires assess-
+ment of Al:As from long-term studies.
+Increased g results from increased soil moisture
+because the greater supply of water enables increased
+transpiration at reduced risk of xylem cavitation (Tyree
+and Sperry 1988, Sperry et al. 1998). Increased g allows
+increased Pn due to increased CO2 diffusion to the
+mesophyll cells where photosynthesis occurs:
+P ’ g 3ðca  ciÞ:
+ð2Þ
+In this representation of Fick’s law, ca and ci are
+atmospheric and internal CO2 concentrations. Thus,
+thinning may result in increased Pn per unit leaf area
+(Kolb et al. 1998, McDowell et al. 2003).
+We can retrospectively examine annual variation in
+crown-scale gas exchange metabolism using the carbon
+isotope ratio (d13C) of tree rings (Francey and Farquhar
+1982, Walcroft et al. 1997). Photosynthesis by ponder-
+osa pines discriminates against 13CO2 relative to 12CO2
+because
+13CO2 has a lower diffusivity through the
+stomatal pore and lower reactivity with the photo-
+synthetic enzyme ribulose-1,5-bisphosphate carboxy-
+lase-oxygenase (Rubisco). This discrimination (D)
+results in d13C of the carbon within ponderosa pine tree
+rings to be ;15–25ø below that of atmospheric CO2.
+Discrimination can be expressed relative to ci/ca via the
+following simpliﬁed expression (Farquhar et al. 1989):
+D ’ a þ ðb  aÞ 3 ci
+ca
+ð3Þ
+where a is the fractionation associated with diffusion in
+air (4.4ø), b is the net fractionation associated with
+carboxylation by Rubisco (27–29ø). See Eq. 4 later in
+this paper for details on how D is calculated from d13C.
+As can be seen from Eqs. 2 and 3, gas exchange
+parameters can be assessed using tree ring estimates of
+D. The relative immobility of carbon within the tree
+rings allows us to examine the long-term, interannual D
+patterns in response to stand basal area manipulations.
+In the three previous studies on Pinus tree ring d13C or D
+response to thinning, no response has been observed
+(Leavitt and Long 1986), increased discrimination has
+been observed and attributed to greater water avail-
+ability (McDowell et al. 2003), and decreased discrimi-
+nation has been observed and attributed to greater light
+and nutrient availability (Warren et al. 2001).
+Tree ring estimates of D can also allow us to determine
+if gas exchange is maintained at a homeostatic set point
+(Ehleringer 1993) after manipulation of stand basal area.
+The ci value in Eqs. 2 and 3 is a result of the balance of
+June 2006
+1165
+HOMEOSTATIC MAINTENANCE OF GAS EXCHANGE
+CO2 supply and demand (g and Pn), such that shifts in
+the ratio of Pn/g cause direct changes in ci. The ratio
+Pn/g, also known as intrinsic water-use efﬁciency
+(Ehleringer 1993), is optimized to maximize Pn. In
+semiarid conditions where g is low, this optimization
+results in relatively high values of Pn/g (Ehleringer
+1993). However, plants with abundant moisture supply
+often have lower Pn/g but higher absolute rates of gas
+exchange. The decrease in Pn/g with increasing rates of
+gas exchange results because g increases more than Pn
+due to enzymatic and diffusional limitations on Pn
+(Cowan 1985, Meinzer et al. 1993, Buckley et al. 1999,
+McDowell et al. 2003). Despite interannual ﬂuctuations
+in water availability, long-term studies often ﬁnd that
+gas exchange maintains ci/ca at a homeostatic set point
+(Ehleringer 1993, but see Marshall and Monserud 1996).
+It remains to be seen how changes in stand basal area
+will affect gas exchange metabolism over the long term.
+In a 15-year retrospective study on the response to
+thinning in an Oregon ponderosa pine forest, McDowell
+et al. (2003) observed that reduced stand basal area
+resulted in higher absolute rates of Pn and g and a
+decline in the ratio Pn/g. However, shifts in Pn/g may
+not be maintained over decades if Al:As changes or if
+competing vegetation becomes reestablished (Oren et al.
+1987, McDowell et al. 2003). Therefore, the inﬂuence of
+stand basal area on homeostatic maintenance of gas
+exchange remains unclear.
+The long-term homeostasis between crown-scale
+physiological and whole-tree structural behavior is
+critical to understanding the sustainability of tree
+productivity in response to ecological restoration treat-
+ments. The goal of our study was to examine the
+interaction between physiological and structural mech-
+anisms of response to competition using a long-term,
+replicated study of ponderosa pine response to thinning
+in which basal area was manipulated to seven different
+levels. In particular, we sought to determine the long-
+term pattern of growth, crown-scale gas exchange
+metabolism, and Al:As of ponderosa pine trees in
+response to changes in competition. Using Eqs. 1 and 2
+and previous observations from a similar study (Mc-
+Dowell et al. 2003) as our basis for hypotheses, we
+predicted that: (1) during the ﬁrst decade after stand
+basal area reductions, D would increase in response to
+stand basal area reduction, (2) over the long term, Al:As
+would increase in response to stand basal area reduc-
+tions, and (3) long-term homeostatic adjustments would
+hold D constant across all stand densities after the ﬁrst
+decade.
+METHODS
+Study site
+The experimental site is the Taylor Woods portion of
+the Fort Valley Experimental Station (3581601100 N,
+11184403000 W) located within the Coconino National
+Forest ;15 km northwest of Flagstaff, Arizona, USA.
+The stand is ;35.6 ha in area (Ronco et al. 1985), and is
+dominated by ponderosa pine (Pinus ponderosa var.
+scopulorum) that regenerated naturally ca. 1919 (Ronco
+et al. 1985, Savage et al. 1996). The trees were ;84 years
+old during the time of our ﬁeld experiment (summer
+2003). Overstory and total (overstory and understory)
+leaf area index for the stands is not correlated with stand
+density, and averages 1.52 and 1.62 m2/m2 ground area,
+respectively (N. G. McDowell, H. D. Adams, J. D.
+Bailey, and T. E. Kolb, unpublished manuscript; Table 1).
+The leaf area of understory grasses and forbs increased
+exponentially with declining stand density, to a max-
+imum leaf area index of 0.25 m2/m2 ground area (N. G.
+McDowell, H. D. Adams, J. D. Bailey, and T. E. Kolb,
+unpublished manuscript). The stand has ﬂat topography
+and is located at 2266 m elevation. The soils are classiﬁed
+as a montmorillontic complex of frigid Typic Argiborolls
+and Argiboralfs (Wollum and Schubert 1975, Ronco et
+al. 1985). Mean annual temperature from 1909 to 1990
+near the study site was 6.08C and mean annual
+precipitation was 56.4 cm, with approximately half of
+this amount falling as snow (Schubert 1974, NOAA
+1990). This region experiences a monsoonal climate
+typical of the southwest United States, with precipitation
+distributed in a bimodal pattern that peaks in the winter
+(November–March) and late summer (July–August), and
+a pronounced drought during May and June.
+Experimental design
+We utilized a replicated set of stand basal area
+treatments to test our hypotheses regarding physiolog-
+ical and structural responses to changes in stand basal
+area. The initial experiment was designed by the USDA
+Forest Service to determine the effects of stand basal
+area on ponderosa pine growth (Myers 1967, Ronco et
+al. 1985). The forest was thinned originally in October
+1962 to generate three replicated plots of each treatment
+basal area, where the residual basal areas of the seven
+treatment densities were 45 m2/ha (the uncut control),
+34, 28, 23, 18, 14, and 7 m2/ha. It is worth noting that
+basal area of southwestern ponderosa pine forests in the
+TABLE 1.
+Ponderosa pine stand treatment characteristics
+(standard errors in parentheses).
+Treatment
+(m2/ha)
+Mean stem
+density
+(no./ha)
+Mean
+dbh
+(cm)
+Mean
+height
+(m)
+Leaf area
+index
+(m2/m2)
+7
+70 (3.8)
+47
+(0.99)
+19.5
+1.32
+14
+145 (3.3)
+40
+(0.43)
+18.6
+1.72
+18
+245 (11.6)
+34.8 (0.87)
+18.9
+2.02
+23
+366 (18.0)
+31.7 (0.76)
+18.9
+1.59
+28
+471 (39.3)
+30.4 (1.24)
+16.9
+1.92
+35
+789 (1.6)
+25.5 (0.03)
+15.9
+1.50
+45§
+3160
+13.4
+11.1
+1.26
+ Treatments are presented as stand basal area (m2/ha)
+remaining after thinning.
+ Leaf area index includes overstory and understory
+vegetation (N. G. McDowell, H. D. Adams, J. D. Bailey, and
+T. E. Kolb, unpublished manuscript).
+§ The unthinned, 45 m2/ha treatment had only one plot;
+therefore no standard error values are provided.
+NATE G. MCDOWELL ET AL.
+1166
+Ecological Applications
+Vol. 16, No. 3
+early 1900s (8 m2/ha; Moore et al. 2003) was similar to
+our lowest density treatment. The residual basal area
+was maintained by rethinning each plot once per decade,
+resulting in removal of trees in 1972, 1982, 1992, and
+during the last half of our two-week experimental phase
+in June 2003. The plots are about 0.4 ha in size, and have
+0–10 m buffers. Data for tree density, diameter, height,
+and leaf area index for each basal area level are shown in
+Table 1. Although the unthinned plots have experienced
+some mortality resulting from self-thinning, no recent
+mortality has occurred in any of the plots as a result of
+bark beetle infestation.
+Basal area increment (BAI, in square centimeters per
+year) was measured on three interior trees per plot, three
+plots per treatment. For D and Al:As we measured ﬁve
+interior trees per plot in one plot for each treatment.
+This was done to minimize the workload and costs to
+achievable levels for the Al:As and isotopic measure-
+ments. Basal area increment was statistically indistin-
+guishable between the intensive plots and the replicated
+plots (ANOVA P ¼ 0.71); therefore the D and Al:As
+values from these plots should be representative of each
+treatment. The plots are referred to as intensive and
+replicated plots throughout the remainder of the paper,
+where intensive indicates that a large assortment of
+measurements were made on one plot per treatment, and
+replicated indicates that BAI was measured. Thus, BAI
+was the only measurement that was truly replicated over
+three plots per treatment. Five trees were harvested from
+each of the intensive plots between 9 and 13 June 2003,
+as part of the decadal thinnings to maintain treatment
+basal area. Additionally, three or more trees were
+harvested and sampled for growth from all remaining
+plots in November 2003. We attempted to utilize trees
+that were of average size (height and diameter) for each
+treatment. Stem diameter at breast height (1.3 m, dbh)
+of the harvested trees tended to be slightly less (8%) than
+the plot average as measured by the regression slope of
+stand mean diameter at breast height (dbh) vs. harvested
+trees dbh (slope ¼ 0.92, r2 ¼ 0.98, P , 0.01). Both the
+intensive and replicated plots were used for measure-
+ments of soil water availability and photosynthesis in an
+earlier study in 1994 (Kolb et al. 1998). Leaf gas
+exchange and water potential data were measured
+biweekly on eight dates between May and September
+1994, on 3–5 trees per plot in two plots per treatment
+(Kolb et al. 1998). Also, we measured photosynthetic
+capacity in 2003 (see Photosynthetic capacity). As in any
+retrospective study that mixes data sets collected during
+disparate times, it is essential to remember that
+measurements from recent years may not be indicative
+of behavior during earlier years. Therefore, we consider
+measurements of water potential, gas exchange, and tree
+structure that were conducted in the 1990s and 2000s as
+representative of those times, and urge caution when
+extending these results to interpret isotope and growth
+data from the 1960s, 1970s, and 1980s.
+Productivity
+We assessed aboveground productivity from tree ring
+analysis of BAI. After trees were felled we removed
+stemwood cross sections from a height of ;1.3 m from
+each stump with chainsaws. Cross sections were sub-
+sequently air dried for three months prior to further
+analysis. We sanded the cross sections using successively
+ﬁner sandpaper of FEPA (Federation of European
+Producers of Abrasives, Paris, France) 100, 220, and
+320 grit (162, 68, and 44.7–47.7 lm, respectively; Orvis
+and Grissino-Mayer 2002) using a belt sander (Makita
+USA, La Mirada, California, USA). When necessary we
+also used FEPA 400 grit sandpaper (33.5–36.5 lm, Orvis
+and Grissino-Mayer 2002). We measured ring widths
+using a Microcode II banister measuring system (Boeck-
+ler Instruments, Tucson, Arizona) attached to a PC
+running the Measure J2X software (available online).5
+Cores were cross-dated visually using narrow marker
+years from tree ring chronologies collected at local sites
+for ponderosa pine (Adams and Kolb 2004). We checked
+measurements for accuracy using skeleton plots (Stokes
+and Smiley 1968) and the COFECHA software program
+(Holmes et al. 1986, Grissino-Mayer 2001, International
+Tree Ring Data Bank program library). Ring widths
+were converted to BAI from 1950 to 2001 using tree-
+speciﬁc cross-sectional radii (inside bark) and assuming
+concentric circularity. Missing rings were rare except for
+1999 through 2002 in trees from the unthinned treatment.
+We stopped measurement at 2001 because 2002 was a
+year of severe drought and most trees did not form rings
+that year except for trees in the lowest density treatment
+(7 m2/ha). BAI results are presented at the individual plot
+level and entire treatment (basal area) level.
+Carbon isotope discrimination
+We measured d13C of tree rings and related this to D
+(Farquhar et al. 1982):
+D ’ d13C  d13Ca
+1 þ d13C=1000 :
+ð4Þ
+We obtained annual atmospheric stable carbon
+isotope ratios (d13Ca) from the Institute for Arctic and
+Alpine Research (INSTAAR) at the University of
+Colorado and the National Oceanic and Atmospheric
+Administration (NOAA), Climate Monitoring and
+Diagnostics Laboratory (CMDL). Eq. 4 corrects for
+annual depletion of d13Ca associated with fossil fuel
+emissions of CO2 depleted in d13C (Leavitt and Long
+1988a, Keeling et al. 1989). This correction is necessary
+because a change in the d13C of CO2 used as the
+substrate for photosynthesis causes a physiologically
+independent change in the d13C of plant material.
+The stable isotope composition of tree rings was
+assessed in two data sets: (1) a short-term assessment of
+the response of D to the 1962 thinning for each
+5 hwww.voortech.com/projectj2x/tringMainV2.htmli
+June 2006
+1167
+HOMEOSTATIC MAINTENANCE OF GAS EXCHANGE
+treatment, and (2) a long-term assessment of the D
+pattern in relation to thinning over four decades. For the
+short-term assessment we determined D for ﬁve trees
+from each of the intensive plots for the 15 years
+bracketing the 1962 thinning (1958–1972). For the
+long-term assessment we determined D for the years
+1952–2001 (49 years) for the 45, 28, 14, and 7 m2/ha
+intensive plots. The long-term assessment used a single
+pooled sample of ﬁve trees (i.e., rings) per plot and per
+year. The short-term assessment provides the estimate of
+within-plot D variance, and the long-term assessment is
+used to determine the long-term D response to thinning.
+To allow a statistical test of the long-term patterns, we
+also ran samples from a nondrought year (1992) and a
+drought year (2000) for the 45 and 7 m2/ha plots using
+ﬁve trees per plot.
+After the stemwood cross sections of the ﬁve trees
+from each of the intensive plots had been cross-dated
+and measured we removed ﬁne-grain particles of wood
+from all rings using a Dremel tool (Robert Bosch Tool
+Corporation, Mount Prospect, Illinois, USA) with a
+2.38 mm (3/32 inch) diameter diamond bit. We removed
+wood from a 3–10 cm circumferential path along the
+ring, starting at a location where the ring was
+sufﬁciently wide to ensure no cross-year contamination.
+The path along the ring should have reduced d13C
+variability due to circumferential variation (Leavitt and
+Long 1984, 1988b). We did not attempt to separate early
+from late wood (Livingston and Spittlehouse 1996,
+Leavitt and Wright 2002) because our objective was to
+examine the response of D to stand basal area at the
+annual timestep. We were able to remove wood
+successfully from individual rings without contamina-
+tion from neighboring rings except in the case of some
+rings from the uncut control plot (45 m2/ha) where the
+rings were often smaller than the ﬁnest point of the
+diamond bit. We estimate that the annual estimates of D
+for the control plot may be up to 5% contaminated by
+neighboring rings; thus the control plot time series of D
+may appear smoother than reality. We did not extract
+cellulose prior to measurement of d13C because: (1)
+numerous studies have reported constant relationships
+between cellulose and whole-wood d13C for sapwood
+(Livingston and Spittlehouse 1996, Marshall and
+Monserud 1996, Macfarlane et al. 1999, Loader et al.
+2003), (2) most cross-ring contamination is associated
+with carbon movement from the sapwood into the
+heartwood (S. Leavitt, personal communication) and all
+of our sample rings were located within the sapwood,
+and (3) Eqs. 2–4 were designed for foliar gas exchange,
+and whole wood has undergone less metabolic process-
+ing postassimilation than cellulose per se (Hill et al.
+1995). The ﬁne dust collected from each ring was
+analyzed on a Eurovector Elemental Analyzer (Euro-
+vector S.P.A., Milan, Italy) coupled to a Micromass
+Isoprime isotope ratio mass spectrometer (GV Instru-
+ments, Manchester, UK) operated in continuous ﬂow
+mode at Los Alamos National Laboratory’s Stable
+Isotope Laboratory in Los Alamos, New Mexico, USA.
+Nitrous oxide was removed by gas chromatography and
+corrections for 17O (Craig 1957) were done for all runs.
+A total of 297 tree ring samples were run and overall
+precision for d13C was 0.05ø (n ¼ 103).
+Leaf area : sapwood area ratio
+We capitalized on the thinning in June 2003 to collect
+samples for calculating whole-tree leaf area : sapwood
+area ratio (Al:As, m2/cm2). Whole-tree leaf area was
+estimated by scaling branch estimates of leaf area to the
+canopy (Maguire and Batista 1996, Monserud and
+Marshall 1999, McDowell et al. 2002b). Branch-scale
+allometric equations were developed through branch
+harvest and analysis for ﬁve trees from each of the
+intensive plots. We harvested branches immediately
+after each tree was felled to prevent any needle loss
+due to desiccation. Nine branches were harvested from
+throughout the height continuum of the crown for each
+of ﬁve trees per plot. Branches were harvested from all
+aspects, although previous research found no effect of
+aspect (McDowell et al. 2002b). The entire foliage mass
+for each branch (Mb) was collected in industrial-size
+paper bags and transported back to the laboratory. In
+the laboratory, foliage from each branch was randomly
+subsampled to determine speciﬁc leaf area (S, cm2/g).
+Projected leaf area was determined using a video image
+recorder and AgVision software (Decagon Devices,
+Pullman, Washington, USA). The remaining foliage
+was dried at 658C until the mass had stabilized and then
+weighed. Because of the small stature of the trees in the
+uncut control plot, we measured whole-tree leaf area for
+four of the ﬁve sampled trees, and used the branch
+regression approach for the ﬁfth, largest, tree. Foliage
+was processed identically to the methods described
+earlier.
+Based on previous results (Hubbard et al. 1999,
+Fischer et al. 2002, McDowell et al. 2002b), we used
+branch diameter (d) to estimate Mb. Scatterplots of Mb
+vs. d revealed that variance in Mb did not consistently
+increase with larger values of d and the relationships
+were linear; therefore we used standard linear regression
+rather than weighted regression (Monserud and Mar-
+shall 1999, McDowell et al. 2002b). The d vs. Mb
+regressions had a mean r2 of 0.56, P , 0.01, when
+averaged across all sample trees (n ¼ 31). Mean slopes
+and intercepts for the regressions from each treatment
+are presented in Table 2. We used tree-speciﬁc d vs. Mb
+regressions to scale Mb up to the entire crown for each
+of the sample trees. This scaling was done using
+measurements of d collected on every live branch for
+every tree immediately after the tree was felled. Branch
+diameter d was measured with calipers 20 mm proximal
+to the main stem in two perpendicular directions for all
+branches.
+Speciﬁc leaf area (S) exhibited a weak but consistent
+increase with increasing distance from the tree tops for
+all plots (r2 ranged from 0.19 to 0.42). Because of this
+NATE G. MCDOWELL ET AL.
+1168
+Ecological Applications
+Vol. 16, No. 3
+consistent trend of increasing S with increasing distance
+from the tree top (or increasing proximity to the
+ground), we applied plot-speciﬁc S – branch height
+corrections prior to multiplying S to Mb for estimating
+whole-branch leaf area. The treatment-speciﬁc slopes
+and intercepts for S  branch height regressions are
+presented in Table 2. Occasionally the predictions of
+branch leaf area were negative when branches had
+extremely small diameters. Negative leaf areas for these
+branches were set to zero.
+Sapwood area was estimated from the stemwood
+cross sections for each tree. The sapwood–heartwood
+boundary was usually clear; however, we applied
+bromocresol green stain (Kutscha and Sachs 1962) to
+verify all visual estimates. On each cross section,
+sapwood depth was measured for four cambium-to-
+heartwood transects located at right angles to each
+other, with a random start location for the ﬁrst transect.
+Sapwood depths were averaged and sapwood area was
+estimated assuming concentric circularity.
+Photosynthetic capacity
+Photosynthetic capacity can inﬂuence D by increasing
+or decreasing Pn and subsequently causing an inverse
+change in ci/ca (Eq. 3). We examined photosynthetic
+capacity using response curves of photosynthetic
+assimilation to internal [CO2] (A vs. Ci curves). The A
+vs. Ci curves were measured on four trees in the 7 m2/ha
+intensive plot, ﬁve trees in the 23 m2/ha intensive plot,
+and eight trees in the 45 m2/ha intensive plot. The
+sample sizes varied because it became apparent during
+our ﬁeld measurements that the 45 m2/ha plot had
+greater intertree variability than the other two plots. We
+made the measurements from 0700 to 1200 in the
+morning on two consecutive sunny, cloudless days (4
+and 5 June 2003). Foliage from the upper 10% of the
+canopy was measured in situ using a moveable 20-m
+boom lift (Sunstate Rentals, Flagstaff, Arizona, USA).
+The A vs. Ci curves were measured with a LI-COR 6400
+portable photosynthesis system (LI-COR, Lincoln,
+Nebraska, USA). The cuvette irradiance was main-
+tained at 1400 lmol of photonsm2s1 using a blue-red
+light source, well above photosynthetic light saturation
+for ponderosa pine (800 lmol of photonsm2s1,
+Hadley 1969, Kolb and Roberrecht 1996). A vs. Ci
+curves were generated by changing the cuvette CO2 in
+the following order: 400, 300, 200, 100, 400, 600, 800,
+and 1200 lmol/mol. We did not expose the foliage to
+higher CO2 partial pressures because our goal was only
+to ascertain the maximum catalytic activity of Rubisco
+(Vcmax). After each exposure to a new CO2 level, net
+photosynthesis was allowed to reach steady state
+(cuvette CO2 coefﬁcient of variation ,2%) prior to
+measurement. Three measurements were made per
+sample per CO2 level over a 60-second period after
+steady state had been reached. Vcmax was calculated
+from the A vs. Ci curves using nonlinear, least squares
+regression to ﬁt the values of these parameters to the
+equations of the Farquhar et al. (1980) photosynthesis
+model (Harley et al. 1992). Parameters were temper-
+ature corrected to 258C using the equations of Leuning
+(1997), and the activation energies from Harley et al.
+(1992). Calculation of Vcmax was typically done using Ci
+values ,300 lmol/mol when the slope was quasilinear
+(Wullschleger 1993).
+Water potential
+Predawn foliage water potential from overstory trees
+provides an index of soil water potential (Ws) within the
+rooting zone if nocturnal transpiration is consistent
+between treatments or is negligible (Donovan et al. 2001,
+Bucci et al. 2004). The parameter Ws was measured twice
+a month from May to September 1994 from the 45, 28,
+18, and 7 m2/ha treatments (Kolb et al. 1998). Kolb et al.
+measured predawn foliage water potential from 5 to 10
+trees per treatment and from the lower and upper
+portions of the canopy, but did not correct these values
+for the hydrostatic gradient (0.01 MPa/m). We corrected
+their values for the hydrostatic gradient based on branch
+height above the ground. The corrected values were then
+averaged and used to assess the response of Ws to stand
+basal area. Midday leaf water potential (Wl) was also
+TABLE 2.
+Stand and individual tree structural regressions were used to predict branch leaf mass (Mb) from branch diameter (d ),
+and speciﬁc leaf area (S) from the distance to the top of the tree.
+Treatment
+(m2/ha)
+Mb vs. d regressions
+S regressions
+Slope
+Intercept
+r2
+P
+Slope
+Intercept
+r2
+P
+7
+666
+543
+0.73
+,0.01
+0.61
+26.7
+0.24
+,0.01
+14
+447
+241
+0.60
+,0.01
+1.14
+28.3
+0.39
+,0.01
+18
+197
+0
+0.42
+,0.01
+0.80
+28.8
+0.27
+,0.01
+23
+322
+79
+0.43
+,0.01
+0.60
+24.8
+0.20
+0.03
+28
+480
+260
+0.70
+,0.01
+1.2
+27.8
+0.42
+,0.01
+35
+384
+171
+0.48
+,0.01
+1.56
+24.6
+0.34
+,0.01
+45
+358
+31.86
+Notes: The original units for branch diameter (d ) are centimeters, those for branch leaf mass (Mb) are grams, and those for
+speciﬁc leaf area (S) are square centimeters.
+ The 18 m2/ha treatment regression had a slightly negative but still unrealistic intercept, so we ﬁt the line through a zero
+intercept. There was no detectable change in the ﬁt statistics.
+ Four of the ﬁve sample trees in the 45 m2/ha treatment were entirely harvested and measured, so only the plot mean leaf mass
+and S are presented.
+June 2006
+1169
+HOMEOSTATIC MAINTENANCE OF GAS EXCHANGE
+measured in 1994 on the same trees as the Ws measure-
+ments. We have summarized these for the entire
+summer, averaged by treatment; in addition we calcu-
+lated treatment mean Ws – Wl (Eq. 1). Other details on
+sampling procedure are given in Kolb et al. (1998).
+Ancillary gas exchange data
+In conjunction with the 1994 Ws measurements, Kolb
+et al. (1998) also measured leaf-level gas exchange twice
+a month from May to September 1994 from the 45, 28,
+18, and 7 m2/ha treatments. The Kolb et al. measure-
+ments were conducted between 1000 and 1300 each day.
+They measured Pn and g from three to seven trees per
+treatment from the lower and upper crowns under
+ambient humidity and temperature and with light
+incident on the foliage . 1000 lmol photonsm2s1.
+They did not ﬁnd a signiﬁcant difference in gas exchange
+with crown position, so we have averaged the values to
+provide crown mean rates of gas exchange. In the
+current study we used the gas exchange data to: (1)
+investigate the absolute rates of Pn and g and their ratio
+(Eq. 3) for a single summer within our inference period,
+and (2) examine the relationship between gas exchange,
+Ws, and BAI.
+Climatic response
+We were curious if stand basal area treatments would
+cause differential dependency of growth on drought. To
+assess this question, we examined relationships between
+BAI and Palmer Drought Severity Index (PDSI) for
+each treatment in the 40 years following the initial stand
+basal area manipulations. PDSI is a measure of
+meteorological drought calculated from precipitation,
+temperature, and potential evapotranspiration (Palmer
+1965, Alley 1984). We used annually averaged instru-
+mental PDSI data for Region 2 of Arizona, available
+from the National Climatic Data Center (available
+online).6 PDSI was used as the independent variable in
+regression analysis with BAI and with basal area
+normalized BAI (BAI/BA). Normalization was done to
+account for the inherent differences in tree size that
+occurred in the decades following the stand basal area
+treatments, allowing us to examine the relative responses
+of trees to drought.
+Statistics
+We tested the hypotheses that BAI and D varied
+among stand basal area levels using regression analysis
+of values averaged from 1962 to 2001 to account for
+interannual variability due to climate or decadal
+harvests. We did a similar regression analysis with Al:As
+measured in 2003 as the dependent factor. To assess the
+time period of signiﬁcant responses we used blocked
+repeated measures analysis of variance for BAI and D in
+which the blocks represent different basal area treat-
+ments. Differences in Vcmax, Ws, and leaf-level Pn and g
+among stand basal area treatments were tested using
+analysis of variance. Unless otherwise speciﬁed, the
+regression results presented are the best statistical ﬁt of a
+variety of regression forms tested. We conducted all tests
+with SYSTAT 11.0 (SYSTAT 2004).
+RESULTS
+Overall response to stand basal area reductions
+Average tree BAI increased in response to stand basal
+area reductions (Fig. 1). Pre-thinning BAI did not differ
+between any of the plots except the 45 m2/ha treatment,
+which had lower BAI (P , 0.01). This difference is
+probably due to our sample selection criteria, which was
+to harvest the ‘‘average’’ tree based on height and
+diameter. The average tree in the 45 m2/ha plot in 2003
+was small; however, similar small trees in the other
+treatments were probably removed by the 1962 thinning.
+Post-thinning BAI differed among plots (P , 0.01). The
+magnitude of BAI response to thinning was a negative
+function of residual stand basal area (Fig. 2). When
+calculated as a percentage of BAI of the 45 m2/ha
+treatment, the mean growth increase for the 7, 14, 18, 23,
+28, and 34 m2/ha treatments over 40 years was 1770,
+947, 808, 597, 570, and 371%, respectively.
+Carbon isotope discrimination also responded to
+stand basal area reductions (Fig. 3). Prior to thinning
+(1958–1961), D was not statistically different among
+plots (P¼0.11, Fig. 3A); however, there was a difference
+of almost 1.0ø across treatments. In order to equitably
+compare responses without the interference of pretreat-
+ment variation, we calculated normalized D that
+accounts for within-plot, pretreatment differences using
+the equation: Y ¼ D(year X)  mean D(1958–1961) (see
+Carpenter et al. 1989 and Fig. 3B). Again there was no
+difference in normalized D prior to thinning (P ¼ 0.16,
+Fig. 3B). This normalization does not account for
+climatic variation from year to year. Therefore, to
+clearly test for the effects of stand basal area without
+interference of climate, we standardized the pre-thinning
+normalized data for each year (Fig. 3B) based on the
+normalized data from the control, unthinned stand (45
+m2/ha). Using Y from the equation presented above for
+pre-thin normalization, the equation for normalization
+by the control stand is: Ytrt X  Yctl. In this normal-
+ization, control plot mean D is used as an index of
+climatic variation that is free of thinning effects. Using
+this ﬁnal normalized D, we again observed no pre-thin
+differences (P ¼ 0.61). Normalized D (Fig. 3C) was
+similar among basal area levels for four years following
+treatment (P ¼ 0.45), but signiﬁcant differences occurred
+for years 5–12 after the initial thinning in 1962 (P ,
+0.01). Normalized D, 5–12 years after the initial
+thinning, was negatively related to stand basal area
+(Fig. 4). In other words, D declined with increasing stand
+basal area during the period 5–12 years after thinning.
+The long-term trend in D from the 45, 28, 14, and 7
+m2/ha intensive plots shown in Fig. 5 exhibits some
+6 hwww.cdc.noaa.gov/Timeseries/i
+NATE G. MCDOWELL ET AL.
+1170
+Ecological Applications
+Vol. 16, No. 3
+interesting patterns. Fig. 5 (B,C) was calculated using
+the same normalization schemes as in Fig. 3 (B,C).
+Similar to Fig. 3A, the 45 m2/ha treatment had a slightly
+above-average D prior to thinning and below-average D
+for years 5–12 after the initial thinning in 1962 (Fig. 5A).
+After correction for pre-thinning differences (Fig. 5B),
+the 45 m2/ha treatment had the lowest D for years 5–12
+after the initial thinning; however, this difference
+disappeared in subsequent years with the exception of
+1983–1985. After standardizing D from the three thinned
+plots by the unthinned 45 m2/ha plot to account for
+year-to-year climatic variation, it appears that D was not
+different from the control plot for the ﬁrst four years
+after the initial thinning, and then was substantially
+different for approximately years 5–12 after thinning.
+This result is similar to the pattern observed using the
+replicated data set (Fig. 3C). Notably, there was no
+apparent variation in normalized D with stand basal
+area during the remaining decades except during an
+unusually wet period in the mid 1980s, when D was
+lowest for the control plot, and an unusually dry period
+in the 1990s, when D was highest for the control plot.
+Statistical comparisons between the intensive plots
+were not conducted because only one single, pooled
+sample was analyzed per treatment per year. However,
+the patterns that emerged from the long-term data set
+FIG. 1.
+(A) BAI (basal area increments) vs. stand basal area remaining after thinning for seven basal area (BA) treatments (7–
+45 m2/ha). Data are averaged for three plots per treatment with the exception of the 45 m2/ha control treatment (no thinning),
+which had a single plot. Bars represent 6SE. The initial thinning treatment (1962) and subsequent thinning treatments (1972, 1982,
+1992) are indicated by the vertical dashed lines. (B) Annual PDSI for Region 2 of Arizona (NCDC–NOAA). Negative PDSI values
+represent drought, and positive PDSI values represent wet periods.
+June 2006
+1171
+HOMEOSTATIC MAINTENANCE OF GAS EXCHANGE
+were conﬁrmed with larger samples sizes for two years
+(1992 and 2000) for the 7 and 45 m2/ha treatments. The
+values for ﬁve trees per plot in the 7 and 45 m2/ha
+treatments (mean and standard error) were 17.80 6
+0.04ø and 17.79 6 0.06ø during the nondrought year
+of 1992 (t test, P ¼ 0.83), and 16.1 6 0.08ø and 17.6 6
+0.07ø during the drought year of 2000 (t test, P ,
+0.001). These values are within 0.05ø of the pooled
+sample values from those same years and treatments.
+The relationship between long-term BAI from Fig. 1
+and pre-thin normalized D from Fig. 5B differed among
+basal area treatments (Fig. 6). Although the regressions
+are weak (r2 ¼ 0.16–0.31), the slopes are signiﬁcantly
+different among treatments (P , 0.001). The slope of
+BAI vs. normalized D was negatively related to stand
+basal area; as stand basal area declined, BAI was more
+strongly related to incremental changes in normalized D.
+Leaf area : sapwood area
+Whole-tree leaf area and sapwood area both declined
+with stand basal area. The regression equation describ-
+ing the decline for leaf area is: Al ¼ 82.55 3 ln(basal
+area) þ 308.6 (r2 ¼ 0.99, P , 0.01). The regression
+equation describing the decline for sapwood area is: As¼
+519.2 3 ln(basal area) þ 2086 (r2 ¼ 0.97, P , 0 .01).
+Leaf area and sapwood area exhibited different
+responses to stand basal area, however, resulting in a
+strong negative correlation between Al:As and stand
+basal area (r2 ¼ 0.93, P , 0.01; Fig. 7). Mean Al:As
+ranged from a minimum of 0.04 m2/cm2 in the 45 m2/ha
+stand to a maximum of 0.14 m2/cm2 in the 7 m2/ha
+stand.
+Photosynthetic capacity, water potential,
+and in situ gas exchange
+Photosynthetic capacity assessed using Vcmax calcu-
+lated from A vs. Ci curves did not vary with stand basal
+area (P¼0.61, data not shown). The values for the 7, 28,
+and 45 m2/ha intensive plots (mean and standard error)
+were 59.7 6 9.0, 49.6 6 2.3, and 62.1 6 11.1
+lmolm2s1, respectively.
+Net photosynthetic rate and Ws during the summer of
+1994 clearly varied with stand basal area. Both Pn and
+Ws were greatest in the 7 m2/ha intensive plot and
+declined signiﬁcantly as basal area increased (r2¼0.99, P
+¼ 0.01 for both, Fig. 8A, B). We also plotted BAI from
+1994 for comparison (Fig. 8C), which showed a decline
+consistent with the overall trend shown in Fig. 2.
+Stomatal conductance showed a similar, but weaker
+pattern with stand basal area as Pn (r2 ¼ 0.80, P ¼ 0.09,
+data not shown). There was a positive, nonlinear
+relationship between BAI and Ws (Fig. 9A), and a
+positive linear relationship between BAI and Pn (Fig.
+9B). Despite large differences in the absolute rates of gas
+exchange among treatments, intrinsic water use efﬁ-
+ciency (Pn/g) exhibited no trend with stand basal area (P
+¼ 0.17, data not shown).
+Midday W averaged over the entire summer of 1994
+for the 45, 28, 18, and 7 m2/ha intensive plots was (mean
+6 SE) 1.68 6 0.06, 1.62 6 0.07, 1.65 6 0.09, and
+1.51 6 0.09 MPa, respectively. For the 7 m2/ha
+treatment, Wl was signiﬁcantly less negative than the
+other treatments (P , 0.01). For the 45, 28, 18, and 7
+m2/ha intensive plots, Ws – Wl averaged 0.79 6 0.09, 0.95
+6 0.08, 1.02 6 0.13, and 1.01 6 0.11 MPa, respectively.
+For the 45 m2/ha treatment, Ws – Wl was signiﬁcantly
+smaller than for the other treatments (P ¼ 0.015).
+Climatic response
+PDSI varied from 3.34 to 5.26 over the 40-year
+period from 1962 to 2001. Negative PDSI values
+represent drought and positive PDSI values represent
+wet periods. There was no relationship between PDSI
+and BAI for positive PDSI years, and when all years
+were combined the relationships were weak (data not
+shown). However, for negative PDSI years, BAI was
+positively correlated with PDSI for all treatments (Table
+3). The slopes of BAI vs. PDSI (using the negative PDSI
+years only) were negatively correlated with stand basal
+area (Fig. 10A). This pattern remained after normalizing
+BAI by tree basal area (BAI/BA, Table 3 and Fig. 10B).
+Regressions of long-term D data from Fig. 5B vs. PDSI
+consistently showed weak, positive relationships. The
+slopes and correlation coefﬁcients (r2) for the 45, 28, 14,
+and 7 m2/ha intensive plots were: 0.9 (0.26), 0.12 (0.17),
+0.17 (0.45), and 0.08 (0.11), respectively. There was no
+relationship between the slope of D/PDSI and basal area
+(P ¼ 0.71).
+DISCUSSION
+Our results demonstrate that variation in stand basal
+area has long-term effects on the growth (Figs. 1, 2, and
+6), physiology (Figs. 3–5, 8, and 9), and structure (Fig.
+7) of ponderosa pine. The results are consistent with the
+hypothesis that gas exchange homeostasis is achieved
+through a balance of leaf- and whole-crown adjustments
+to changes in Ws (Eq. 1). Crown-scale D inferred from
+FIG. 2.
+Forty-year mean BAI (1963–2002) vs. stand basal
+area. Bars represent 6SE. The regression equation is: 40-year
+mean BAI ¼13.64 ln(basal area) þ 53.3, r2 ¼ 0.97, P , 0.01.
+NATE G. MCDOWELL ET AL.
+1172
+Ecological Applications
+Vol. 16, No. 3
+FIG. 3.
+(A) Carbon isotope discrimination (D; ø) vs. year for seven BA treatments (7–45 m2/ha). Data are plot means for one
+plot per treatment, three trees per plot. Bars represent 6SE. The year of initial thinning (1962) is indicated by a solid vertical line.
+(B) Data from panel A normalized by the plot-speciﬁc, pre-thinning mean D:Y ¼ D(year X)  mean D(1958–1961). This normalizes
+for plot-speciﬁc differences (e.g., pre-thin density or microsite differences). Error bars are omitted from panels B and C for clarity.
+(C) Data from panel B normalized by D of the control plot. The normalization equation is Ytrt X  Yctl, where ‘‘trt X’’ in the
+subscript represents treatment X and ‘‘ctl’’ represents control. This calculation provides a D response relative to the controls and
+therefore accounts for interannual climate variability.
+June 2006
+1173
+HOMEOSTATIC MAINTENANCE OF GAS EXCHANGE
+tree rings increased during the ﬁrst decade after
+reductions in stand basal area, indicating reduced water
+use efﬁciency (Figs. 3 and 4), but after 12 years D
+returned to values similar to the trees in the unthinned
+treatment, suggesting that D was maintained near a ‘‘set
+point’’ (Fig. 5; Ehleringer 1993, Ehleringer and Cerling
+1995). Al:As, in contrast, showed a signiﬁcant long-term
+response to reduced stand basal area (Fig. 7). This shift
+in Al:As is consistent with maintenance of D near the
+observed set point. We presume that other physiological
+and architectural shifts may also have occurred (e.g.,
+belowground); however, the observed shifts are consis-
+tent with homeostatic theory at the whole-tree (White-
+head and Jarvis 1981) and leaf level (Ehleringer 1993).
+Further, the results observed here have implications for
+future research and application of thinning and eco-
+logical restoration treatments.
+Growth response
+Changes in both leaf-level Pn and Al likely contributed
+to the large and sustained response of BAI to stand
+basal area reductions. Regarding leaf-level Pn, the
+increased D during years 5–12 after the initial thinning
+(Figs. 3 and 4) indicates a substantial increase in ci/ca,
+which probably resulted from increased g. Given the
+increased CO2 diffusion to the outer walls of the
+mesophyll cells facilitated by elevated g, it is almost
+certain that Pn increased during this period as well
+(Cowan 1985, Meinzer et al. 1993, Buckley et al. 1999,
+McDowell et al. 2003). It is possible that photosynthetic
+capacity also increased in the ﬁrst few years after the
+thinning due to elevated soil nitrogen availability
+(Feeney et al. 1998, Kaye and Hart 1998), which would
+act to enhance Pn above and beyond the increase due to
+elevated g. Although the D response largely diminished
+12 years after the initial thinning, the absolute rates of Pn
+and g continued to be elevated in low basal area
+treatments 32 years later (Figs. 8 and 9). Therefore, at
+least a portion of the sustained BAI increase after
+thinning resulted from elevated Pn per unit leaf area.
+The sustained BAI response to stand basal area
+reductions was also a response to increased Al:As (Fig.
+7). Density dependence of Al:As has been observed
+previously (Keane and Weetman 1987, Long and Smith
+1988). Increased Al:As allows greater light interception
+per unit respiratory carbon loss from sapwood respira-
+tion (Ryan et al. 1995, Magnani et al. 2000). The
+advantage of greater light interception per tree offered
+by elevated Al:As is probably particularly manifest
+during wetter years when g is less of a constraint on A
+and hence the role of light interception in whole-tree
+carbon gain is greater. This is consistent with the higher
+slope of BAI vs. D in low basal area treatments (Fig. 6),
+i.e., individual crown light interception could become a
+large driver of productivity during nondrought years so
+that larger crowns facilitate greater carbon gain per unit
+shift in D.
+We cannot partition the importance of increased Pn
+per unit leaf area vs. increased total leaf area per tree on
+total carbon gain in this study. Additionally, carbon
+allocation may have changed in response to thinning
+that resulted in enhanced BAI, such as reduced below-
+ground carbon allocation (Haynes and Gower 1995,
+McDowell et al. 2001, Ryan et al. 2004) or increased
+carbon allocation to defenses (Kolb et al. 1998, Wallin et
+al. 2004). Nonetheless, we suspect that greater rates of
+Pn per unit leaf area and the greater leaf area per tree
+and per sapwood area all facilitated greater whole-
+crown Pn and BAI in the low-density treatments.
+Homeostatic theory
+Homeostatic maintenance of whole-tree gas exchange
+results from a balance between biochemical capacity of
+foliage to conduct photosynthesis and hydraulic con-
+straints imposed by soil water availability and the
+conducting properties of tree vascular systems (White-
+head and Jarvis 1981, Sperry et al. 1998, Whitehead
+1998, Brodribb and Holbrook 2003, Katul et al. 2003).
+Little variation in photosynthetic capacity occurred
+among basal area treatments in our study, which is
+consistent with other long-term studies on ponderosa
+pine response to thinning (McDowell et al. 2003, Sala et
+al. 2005). However, the variation observed in Al:As and
+Ws  Wl across the continuum of stand densities is
+consistent with the concept of maximizing transpiration
+per unit leaf area while minimizing the safety margin for
+xylem cavitation (Tyree and Sperry 1988, Sperry et al.
+1998). Hydraulic theory suggests that trees balance
+factors in Eq. 1 along with properties such as root
+development and sapwood porosity to maximize Ws Wl
+such that maximum water uptake from the soil is
+achieved while minimizing the risk of catastrophic xylem
+embolism were Wl to become too negative (Sperry et al.
+1998, Ewers et al. 1999, 2000). Data from the summer of
+1994 showed that trees in the thinned treatments had
+FIG. 4.
+Mean normalized carbon isotope discrimination (D)
+from 1967 to 1972 (period of signiﬁcant response) from Fig. 3C
+vs. stand basal area. Bars represent 6SE. The regression is:
+normalized D ¼0.019(basal area) þ 1.01, r2 ¼ 0.90, P , 0.01.
+Regressions of different forms were not as strong or signiﬁcant
+as linear regression.
+NATE G. MCDOWELL ET AL.
+1174
+Ecological Applications
+Vol. 16, No. 3
+FIG. 5.
+(A) Carbon isotope discrimination (D), (B) pre-1962 normalized D, and (C) control normalized D from the 45, 28, 14,
+and 7 m2/ha intensive plots for the period 1952–2001. Panels A–C are calculated identically to Fig. 3 A–C. Each point represents a
+plot mean value obtained by pooling ﬁve trees per plot into a single sample. Hence there are no estimates of variance within each
+plot. The reader is referred to Fig. 3A and Fig. 4 for graphical representation of variance. The initial thinning treatment (1962) and
+subsequent thinning treatments (1972, 1982, 1992) are indicated by the vertical dashed lines.
+June 2006
+1175
+HOMEOSTATIC MAINTENANCE OF GAS EXCHANGE
+signiﬁcantly greater Ws  Wl than trees within the
+unthinned, 45 m2/ha treatment (1.01 vs. 0.79 MPa, P ,
+0.01). Greater Ws  Wl facilitates water extraction from
+the soil, thereby maintaining g for greater cumulative
+amounts of transpiration. Trees within the 45 m2/ha
+treatment, in contrast, probably initiated stomatal
+closure to prevent cavitation at lower transpiration
+rates, thereby limiting Pn. Therefore, it appears that as
+stand density decreased, less total soil water was used
+and, as a consequence, Ws became less negative, allowing
+trees to experience increased Ws  Wl and presumably g
+and Pn. Furthermore, as stand density decreased,
+individual tree leaf area increased, and this, with
+increased g, increased total individual tree water use.
+Notably, the more positive midday Wl in the 7 m2/ha
+treatment suggests that trees in the low basal area
+treatments have a greater safety margin from cavitation
+(Tyree and Sperry 1988), which may explain why these
+trees were the only ones that grew rings in 2002 (a year
+of particularly severe drought). This increased margin of
+safety may confer an advantage to trees at this low basal
+area during drought years. Similar increases in Ws and
+Wl after thinning have been observed (Sucoff and Hong
+1974, Donner and Running 1986, Skov et al. 2004,
+Wallin et al. 2004, Simonin et al. 2006), but not in all
+studies (Cregg et al. 1990, Schmid et al. 1991).
+The results of our study also support the concept that
+the homeostatic gas exchange set point, or the parameter
+that is regulated to stay constant regardless of changes in
+resource availability, is ci/ca (Ehleringer 1993, Ehleringer
+and Cerling 1995). We calculated ci/ca, ci, and ca  ci
+from our 40-year d13C data set and Eqs. 3–4 (data not
+shown). Treatment differences were the same as those
+shown in Figs. 3 and 5, including a decrease in ca  ci
+and an increase in ci and ci/ca for only the period 5–12
+years after the initial thinning. Over the 40-year period,
+ci for all treatments rose from a minimum of ;170 to
+;200 lmol/mol, and ca  ci rose from a minimum of
+;130 to ;170 lmol/mol. In contrast, ci/ca oscillated
+between 0.50 and 0.60 over the same period, but
+exhibited no trend with time. Similar results have been
+reported using foliage d13C in ponderosa pine thinning
+studies in Northern Arizona (Skov et al. 2004, Wallin et
+al. 2004). The exact reason for maintaining ci /ca
+constant is not clear. However, it can be seen from Eq.
+4 that ca  ci ¼ Pn/g, which at constant vapor pressure
+deﬁcit equals Pn/E, where E is transpiration. Therefore,
+Pn/g increased over the four decades for all stand
+densities. It may be more appropriate to consider that
+plants in water-limited environments operate to max-
+imize Pn/E (Cowan 1982, Ehleringer et al. 1992) rather
+than hold ci/ca constant per se. The rise in Pn/g over time
+in our study may be driven by reduced hydraulic
+conductance associated with increasing tree size, which
+forces a reduction in g (Yoder et al. 1994, Hubbard et al.
+1999, Kolb and Stone 2000, Monserud and Marshall
+2001, McDowell et al. 2002a). When tree size is held
+constant over time by sampling the young, inner rings of
+variously aged trees, no increase in Pn/g occurs over time
+(Marshall and Monserud 1996).
+Climatic sensitivity and forest sustainability
+The impacts of drought on forest growth and survival
+are a signiﬁcant international concern, particularly in
+the southwestern United States where drought has
+initiated widespread limitations to photosynthetic gas
+FIG. 6.
+BAI vs. the pre-thin normalized D (from Fig. 5B) from the 45, 28, 14, and 7 m2/ha intensive plots for the period 1952–
+2001. Plots using data from Fig. 5A and 5C were similar to those shown here. The regression equations are of the form, treatment
+BAI¼m(normalized D)þb, where m¼BAI/D and b¼BAI. Regression values for m, b, and r2¼are: for 45 m2/ha, m¼0.39, b¼1.2,
+r2 ¼ 0.16; for 28 m2/ha, m ¼ 1.9, b ¼ 6.7, r2 ¼ 0.29; for 14 m2/ha, m ¼ 6.1, b ¼ 10.5, r2 ¼ 0.31; and for 7 m2/ha, m ¼ 9.0, b ¼ 17.7, r2 ¼
+0.16. The vertical dashed line represents the zero value of pre-thin normalized D.
+NATE G. MCDOWELL ET AL.
+1176
+Ecological Applications
+Vol. 16, No. 3
+exchange of ponderosa pine (Feeney et al. 1998, Leavitt
+and Wright 2002, Skov et al. 2004), and has severely
+impacted growth and survival of ponderosa and pin˜ on
+pine (Pinus edulis) (Allen and Breashers 1998, Ogle et al.
+2000, Adams and Kolb 2004). High stand densities in
+contemporary forests may be exacerbating the effects of
+drought on these forests (Skov et al. 2004; N. G.
+McDowell and D. A. Falk, unpublished data; but see
+Zausen et al. 2005) because of the particularly extreme
+competition for water in high basal area stands (Fig. 8).
+We speculated that one beneﬁt of thinning would be to
+reduce the negative effect of drought on growth. If this
+hypothesis were true, then reductions in stand density
+may be a proactive method to alleviate the negative
+impacts of climate change on tree growth.
+The results of this study show that tree growth in low
+basal area treatments is more resilient to drought than
+growth in high basal area treatments, e.g., 1989, 1996,
+and 2000 (Fig. 1). This higher minimum BAI is
+presumably a result of the numerous advantages that
+the larger trees in the low basal area treatments have,
+such as larger root systems (Dawson 1996), a greater
+margin of safety from cavitation because of less xylem
+tension (i.e., higher Wl), and greater Ws  Wl. Therefore,
+it is reasonable to predict that as periodic droughts
+continue into the future, ponderosa pine trees will have
+greater growth and potentially greater survival in forests
+where stand basal area has been reduced toward
+presettlement levels.
+Although BAI of low basal area treatments is more
+resilient to drought than BAI of high basal area
+treatments, the low basal area treatments were also
+more sensitive to drought (Figs. 5, 6, and 10, Table 2).
+Fig. 10A and Table 2 clearly show that the response of
+BAI to incremental changes in PDSI increased with
+decreasing stand basal area. Even after normalizing the
+BAI data for the inherent growth differences associated
+with tree size (e.g., relative growth rate), growth of trees
+from low basal area treatments remained more sensitive
+to PDSI than growth of trees from high basal area
+treatments (Fig. 10B, Table 2). While trees in stands
+with low basal area have numerous hydraulic advan-
+tages mentioned previously, they may also be predis-
+posed to greater variation in gas exchange associated
+with variation in water availability. There are numerous
+lines of evidence in support of this idea. First, D of the
+thinned treatments was elevated above D of the
+unthinned treatment during the particularly wet years
+of 1983–1988 (average PDSI 3.2), and was lower during
+FIG. 8.
+(A) Leaf-level photosynthesis Pn based on all-sided
+leaf area averaged from May to September 1994 vs. stand basal
+area. (B) Soil water potential Ws averaged from May to
+September 1994 vs. stand basal area. (C) 1994 BAI averaged for
+three plots per treatment vs. stand basal area. Pn and Ws are
+recalculated from the raw data ﬁles used in Kolb et al. (1998),
+and are the averages of 3–7 trees per treatment. Bars represent
+6SE. Regression lines are provided for reference: (A) Pn ¼ 4.28
+3 (basal area0.24), r2 ¼ 0.99, P ¼ 0.02; (B) Ws ¼0.009 3 (basal
+area)  0.44, r2 ¼ 0.99, P ¼ 0.02; and (C) BAI ¼ 74.08 3
+exp[0.086(basal area)], r2 ¼ 0.99, P ¼ 0.01.
+FIG. 7.
+Whole-tree leaf area : sapwood area ratio (Al:As) vs.
+residual stand basal area. Data were collected in 2003. Bars
+represent 6SE. The regression equation is: Al:As ¼ 0.0029 3
+basal area þ 0.165, r2 ¼ 0.93, P , 0.01.
+June 2006
+1177
+HOMEOSTATIC MAINTENANCE OF GAS EXCHANGE
+the particularly dry years of 1996 and 2000 (PDSI¼2.4
+and 3.3, respectively, Figs. 1B and 5B, C). This ﬁnding
+suggests that gas exchange is more variable for thinned
+than nonthinned treatments in response to drought.
+Second, the range of D values is larger for thinned than
+unthinned treatments (see X axis, Fig. 6). Third, the
+response of growth to changes in gas exchange (BAI/D)
+was steeper for lower basal area treatments, indicating
+that incremental changes in gas exchange result in
+increasingly larger changes in BAI with decreasing stand
+basal area (Fig. 6). The reason for this greater gas
+exchange and growth sensitivity to drought in the low
+basal area treatments may be associated with the larger
+leaf area per tree. During wet years, the positive gas
+exchange response was distributed over a large leaf area,
+allowing greater whole-tree photosynthesis and hence
+greater BAI than trees with low leaf area. However,
+during dry years, these large leaf areas may have
+burdened the trees with a large transpirational demand.
+In accordance with Eq. 1, large leaf area can cause
+reduced g if soil water availability is limited. This
+balance between transpiring leaf area and g has been
+demonstrated over short times scales (Whitehead et al.
+1996). In other words, trees in the high basal area
+treatments were relatively unable to take advantage of
+climatically wet years due to structural limitations (e.g.,
+small root systems, low sapwood permeability), and
+likewise, they were already so severely water stressed due
+to competition that drought had little further effect on
+gas exchange.
+CONCLUSIONS
+Reductions in stand basal area in semiarid forests are
+likely to facilitate greater photosynthesis and growth of
+trees above those of trees growing at high basal areas. A
+primary driver of this response is the increased avail-
+ability of soil water; however, the proximate cause is at
+least partially a result of a homeostatic balance of gas
+exchange at the leaf- and whole-crown levels. Short-term
+shifts in the ratio of photosynthesis to stomatal
+conductance (D) were balanced via changes in above-
+ground architecture (Al:As) that resulted over the long
+term in greater leaf- and crown-scale photosynthesis.
+These results are consistent with established theory
+regarding the homeostatic maintenance of gas exchange
+at the leaf and whole-plant levels. Notably, both the
+FIG. 9.
+(A) Average BAI vs. Ws averaged over eight measurement dates (May–September) in 1994. (B) Average BAI vs. Pn
+based on all-sided leaf area from 1994. Data for both panels A and B are from the 1994 values presented in Fig. 8. Bars represent
+6SE. The regression equations are: (A) BAI ¼ 4409.7 exp(9.31 3 basal area), r2 ¼ 0.99, P ¼ 0.01; and (B) BAI ¼ 37.6 3 basal area 
+64.41, r2 ¼ 0.97, P ¼ 0.03.
+TABLE 3.
+Regressions of basal area increments (BAI) and BAI/BA (basal area) vs. Palmer drought severity index (PDSI) using
+data from all plots for the negative PDSI years between 1962 and 2001.
+Treatment
+(m2/ha)
+BAI
+BAI/BA
+Slope
+Intercept
+r2
+P
+Slope
+Intercept
+r2
+P
+7
+2.26
+27.14
+0.06
+0.29
+0.0117
+0.078
+0.17
+0.07
+14
+2.13
+15.54
+0.22
+0.04
+0.0111
+0.063
+0.22
+0.04
+18
+1.45
+12.79
+0.17
+0.07
+0.0071
+0.046
+0.22
+0.04
+23
+1.28
+10.34
+0.21
+0.05
+0.0078
+0.049
+0.19
+0.06
+28
+1.38
+10.29
+0.31
+0.01
+0.0064
+0.042
+0.19
+0.06
+35
+0.97
+6.70
+0.34
+,0.01
+0.0061
+0.0061
+0.18
+0.07
+45
+0.29
+1.57
+0.48
+,0.01
+0.0048
+0.0245
+0.54
+,0.01
+ BAI has original units of square centimeters.
+NATE G. MCDOWELL ET AL.
+1178
+Ecological Applications
+Vol. 16, No. 3
+resiliency and the sensitivity of growth to climate was
+greater in the lower basal area treatments, so ecological
+restoration treatments are likely to cause higher growth
+rates (on an individual tree basis) but also greater
+growth variability.
+ACKNOWLEDGMENTS
+We appreciate the ﬁeld and laboratory assistance of Chris
+Bickford, Lisa Dunlop, Marc Trenam, Bryan Zebrowski,
+Jeremy Derickson, Shawn Faiella, and Justin Waskiewicz. We
+are grateful for the laboratory guidance provided by Jeff
+Heikoop. We appreciate the foresight of USDA and leadership
+of Carl Edminster on the Taylor Woods project. Steve Leavitt
+provided valuable advice and Mike Ryan provided laboratory
+space for some of our tree ring analyses. Two anonymous
+reviewers provided helpful comments. This research was funded
+through LANL’s Laboratory-Directed Research and Develop-
+ment program.
+LITERATURE CITED
+Adams, H. D., and T. K. Kolb. 2004. Drought responses of
+conifers in ecotone forests of northern Arizona: tree ring
+growth and leaf d13C. Oecologia 140:217–225.
+Agee, J. K. 1993. Fire ecology of Paciﬁc Northwest forests.
+Island Press, Washington, D.C., USA.
+Allen, C. D., and D. D. Breshears. 1998. Drought-induced shift
+of a forest-woodland ecotone: rapid landscape response to
+climate variation. Proceedings of the National Academy of
+Sciences (USA) 95:14839–14842.
+Allen, C. D., M. Savage, D. A. Falk, K. F. Suckling, T. W.
+Swetnam, T. Schulke, P. B. Stacey, P. Morgan, M. Hoffman,
+and J. T. Klingel. 2002. Ecological restoration of southwest-
+ern ponderosa pine ecosystems: a broad perspective. Eco-
+logical Applications 12:1418–1433.
+Alley, W. M. 1984. The Palmer drought severity index:
+limitations and assumptions. Journal of Climatology and
+Applied Meteorology 23:1100–1109.
+Biondi, F. 1996. Decadal-scale dynamics at the Gus Pearson
+Natural Area: evidence for inverse asymmetric competition?
+Canadian Journal of Forest Research 26:1397–1406.
+Brodribb, T. J., and N. M. Holbrook. 2003. Stomatal closure
+during leaf dehydration, correlation with other leaf physio-
+logical traits. Plant Physiology 132:2166–2173.
+Brown, R. T., J. K. Agee, and J. F. Franklin. 2004. Forest
+restoration and ﬁre: principles in the context of place.
+Conservation Biology 18:903–912.
+Bucci, S. J., F. G. Scholz, G. Goldstein, F. C. Meinzer, J. A.
+Hinojosa, W. A. Hoffman, and A. C. Franco. 2004. Processes
+preventing nocturnal equilibration between leaf and soil
+water potential in tropical savanna woody species. Tree
+Physiology 24:1119–1127.
+Buckley, T. N., G. D. Farquhar, and K. A. Mott. 1999.
+Carbon–water balance and patchy stomatal conductance.
+Oecologia 118:132–143.
+Carpenter, S. R., T. M. Frost, D. Heisey, and T. K. Kratz.
+1989. Randomized intervention analysis and the interpreta-
+tion of whole-ecosystem experiments. Ecology 70:1142–1152.
+Cooper, C. F. 1960. Changes in vegetation, structure, and
+growth of southwestern pine forests since white settlement.
+Ecology 42:493–499.
+Covington, W. W., P. Z. Fule´ , M. M. Moore, S. C. Hart, T. E.
+Kolb, J. N. Mast, S. S. Sackett, and M. R. Wagner. 1997.
+Restoring ecosystem health in ponderosa pine forests of the
+southwest. Journal of Forestry 95:23–29.
+Covington, W. W., and M. M. Moore. 1994a. Southwestern
+ponderosa forest structure and resource conditions: changes
+since Euro-American settlement. Journal of Forestry 92:39–47.
+Covington, W. W., and M. M. Moore. 1994b. Postsettlement
+changes in natural ﬁres regimes and forest structure:
+ecological restoration of old-growth ponderosa pine forests.
+Journal of Sustainable Forestry 2:153–181.
+Cowan, I. R. 1982. Regulation of water use in relation to
+carbon gain in higher plants. Pages 589–613 in O. Lange, P.
+S. Nobel, B. Osmond, and H. Ziegler, editors. Water
+relations and carbon assimilation. Volume 12B. Encyclope-
+dia of plant physiology, new series. Springer-Verlag, New
+York, New York, USA.
+Cowan, I. R. 1985. Economics of carbon ﬁxation in higher
+plants. Pages 133–170 in T. J. Givnish, editor. On the
+economy of plant form and function. Cambridge University
+Press, Cambridge, UK.
+Craig, H. 1957. Isotopic standards for carbon and oxygen and
+correction factors for mass-spectrometric analysis of carbon
+dioxide. Geochimica et Cosmochimica Acta 12:133–149.
+Cregg, B. M., T. C. Hennessey, and P. M. Dougherty. 1990.
+Water relations of loblolly pine trees in southwestern
+Oklahoma following precommercial thinning. Canadian
+Journal of Forest Research 20:1508–1513.
+Dawson, T. E. 1996. Determining water use by trees and forests
+from isotopic, energy balance and transpiration analyses: the
+roles of tree size and hydraulic lift. Tree Physiology16:263–272.
+Donner, B. L., and S. W. Running. 1986. Water stress response
+after thinning Pinus contorta stands in Montana. Forest
+Science 32:614–625.
+Donovan, L. A., M. J. Linton, and J. H. Richards. 2001.
+Predawn plant water potential does not necessarily equili-
+brate with soil water potential under well-watered conditions.
+Oecologia 129:328–335.
+FIG. 10.
+(A) Treatment-speciﬁc slopes of BAI vs. PDSI
+using all plots per treatment, negative PDSI years from 1962 to
+2001. (B) Treatment-speciﬁc slopes of basal-area-normalized
+BAI (BAI/BA) vs. PDSI for all plots per treatment, negative
+PDSI years from 1962 to 2001. Normalizing BAI by basal area
+accounts for variation in growth due inherently to tree size.
+The regression equations are: (A) BAI:PDSI ¼0.051 3 basal
+area þ 2.62, r2 ¼ 0.93, P , 0.01; (B) (BAI/BA):PDSI ¼0.0002
+3 basal area þ 0.012, r2 ¼ 0.81, P , 0.01.
+June 2006
+1179
+HOMEOSTATIC MAINTENANCE OF GAS EXCHANGE
+Ehleringer, J. R. 1993. Carbon and water relations in desert
+plants: an isotopic perspective. Pages 155–172 in J. R.
+Ehleringer, A. E. Hall, and G. D. Farquhar, editors. Stable
+isotopes and plant carbon–water relations. Academic Press,
+San Diego, California, USA.
+Ehleringer, J. R., and T. E. Cerling. 1995. Atmospheric CO2
+and the ratio of intercellular to ambient CO2 concentrations
+in plants. Tree Physiology 15:105–111.
+Ehleringer, J. R., S. L. Phillips, and J. P. Comstock. 1992.
+Seasonal variation in the carbon isotopic composition of
+desert plants. Functional Ecology 6:396–404.
+Ewers, B. E., R. Oren, T. J. Albaugh, and P. M. Dougherty.
+1999. Carry-over effects of water and nutrient supply on
+water use of Pinus taeda. Ecological Applications 9:513–525.
+Ewers, B. E., R. Oren, and J. S. Sperry. 2000. Inﬂuence of
+nutrient versus water supply on hydraulic architecture and
+water balance in Pinus taeda. Plant, Cell and Environment
+23:1055–1066.
+Farquhar, G. D., J. R. Ehleringer, and K. T. Hubick. 1989.
+Carbon isotope discrimination and photosynthesis. Annual
+Review of Plant Physiology and Molecular Biology 40:503–
+537.
+Farquhar, G. D., M. H. O’Leary, and J. A. Berry. 1982. On the
+relationship between carbon isotope discrimination and
+intercellular carbon dioxide concentration in leaves. Austral-
+ian Journal of Plant Physiology 9:121–137.
+Farquhar, G. D., S. von Caemmerer, and J. A. Berry. 1980. A
+biochemical model of photosynthetic CO2 assimilation in
+leaves of C3 species. Planta 149:78–90.
+Feeney, S. R., T. E. Kolb, M. R. Wagner, and W. W.
+Covington. 1998. Inﬂuence of thinning and burning restora-
+tion treatments on presettlement ponderosa pines at the Gus
+Pearson Natural Area. Canadian Journal of Forest Research
+28:1295–1306.
+Fiddler, G. O., D. R. Hart, T. A. Fiddler, and P. M.
+McDonald. 1989. Thinning decreases mortality and increases
+growth of ponderosa pine in northeastern California. USDA
+Forest Service Research Paper PSW-194, Paciﬁc Southwest
+Research Station, Berkeley, California, USA.
+Fischer, D. G., T. E. Kolb, and L. E. DeWald. 2002. Changes
+in whole-tree water relations during ontogeny of Pinus ﬂexilis
+and Pinus ponderosa in a high-elevation meadow. Tree
+Physiology 22:675–685.
+Francey, R. J., and G. D. Farquhar. 1982. An explanation of
+13C/12C variations in tree rings. Nature 297:28–31.
+Fule´ , P. Z., W. W. Covington, and M. M. Moore. 1997.
+Determining reference conditions for ecosystem management
+in southwestern ponderosa pine forests. Ecological Applica-
+tions 7:895–908.
+Fule´ , P. Z., A. E. M. Waltz, W. W. Covington, and T. A.
+Heinlein. 2001. Measuring forest restoration effectiveness in
+reducing hazardous fuels. Journal of Forestry 99:24–29.
+Grissino-Mayer, H. D. 2001. Evaluating crossdating accuracy:
+a manual and tutorial for the computer program COFE-
+CHA. Tree Ring Research 57:205–221.
+Hadley, E. B. 1969. Physiological ecology of Pinus ponderosa in
+southwestern North Dakota. American Midland Naturalist
+81:289–314.
+Harley, P. C., R. B. Thomas, J. F. Reynolds, and B. R. Strain.
+1992. Modelling photosynthesis of cotton grown in elevated
+CO2. Plant, Cell and Environment 15:271–282.
+Haynes, B. E., and S. T. Gower. 1995. Belowground carbon
+allocation in unfertilized and fertilized red pine plantations in
+northern Wisconsin. Tree Physiology 15:317–325.
+Hill, S. A., J. S. Waterhouse, E. M. Field, V. R. Switsur, and T.
+Aprees. 1995. Rapid recycling of triose-phosphates in oak
+stem tissue. Plant, Cell and Environment 18:931–936.
+Holmes, R., R. Adams, and H. Fritts. 1986. Quality control of
+crossdating and measuring: a users manual for program
+COFECHA. Pages 41–49 in R. Holmes, R. Adams, and H.
+Fritts, editors. Tree-ring chronologies of western North
+America: California, eastern Oregon and northern Great
+Basin. Laboratory of Tree-Ring Research, University of
+Arizona, Tucson, Arizona, USA.
+Hubbard, R. M., B. J. Bond, and M. G. Ryan. 1999. Evidence
+that hydraulic conductance limits photosynthesis in old Pinus
+ponderosa trees. Tree Physiology 19:165–172.
+Ishii, H., and N. G. McDowell. 2002. The role of epicormic
+branches in crown development of old Douglas-ﬁr trees.
+Forest Ecology and Management 169:257–270.
+Jarvis, P. G. 1975. Water transfer in plants. Pages 369–394 in
+D. A. de Vries and N. G. Afgan, editors. Heat and mass
+transfer in the plant environment. Volume 1. Scripta,
+Washington, D.C., USA.
+Katul, G., R. Leuning, and R. Oren. 2003. Relationship
+between plant hydraulic and biochemical properties derived
+from a steady-state coupled water and carbon transport
+model. Plant, Cell and Environment 26:339–350.
+Kaye, J. P., and S. C. Hart. 1998. Ecological restoration alters
+nitrogen transformations in a ponderosa pine–bunchgrass
+ecosystem. Ecological Applications 8:1052–1060.
+Keane, M. G., and G. F. Weetman. 1987. Leaf area–sapwood
+cross-sectional area relationships in repressed stands of
+lodgepole pine. Canadian Journal of Forest Research 17:
+205–209.
+Keeling, C. D., R. B. Bacastow, A. F. Carter, S. C. Piper, T. P.
+Whorf, M. Heimann, W. G. Mook, and H. Roeloffzen. 1989.
+A three-dimensional model of atmospheric CO2 transport
+based on observed winds. 1. Analysis of observational data.
+Pages 165–236 in D. H. Peterson, editor. Geophysical
+Monographs. Volume 55. American Geophysical Union,
+Washington, D.C., USA.
+Kolb, T. E., K. M. Holmberg, M. R. Wagner, and J. E. Stone.
+1998. Regulation of ponderosa pine foliar physiology and
+insect resistance mechanisms by basal area treatments. Tree
+Physiology 18:375–381.
+Kolb, T. E., and R. Robberecht. 1996. Pinus ponderosa seedling
+establishment and the inﬂuence of competition with the
+bunchgrass Agropyron spicatum. International Journal of
+Plant Science 157:509–515.
+Kolb, T. E., and J. E. Stone. 2000. Differences in leaf gas
+exchange and water relations among species and tree sizes in
+an Arizona pine-oak forest. Tree Physiology 20:1–12.
+Kutscha, N. P., and I. B. Sachs. 1962. Color tests for
+differentiating heartwood and sapwood in certain softwood
+tree species. USDA Forest Service,
+Forest Products
+Laboratory Report 2246, Madison, Wisconsin, USA.
+Landres, P. B., P. Morgan, and F. J. Swanson. 1999 Overview
+of the use of natural variability concepts in managing
+ecological systems. Ecological Applications 9:1179–1188.
+Latham, P., and J. Tappeiner. 2002. Response of old-growth
+conifers to reduction in stand density in western Oregon
+forests. Tree Physiology 22:137–146.
+Leavitt, S. W., and A. Long. 1984. Sampling strategy for stable
+carbon isotope analysis of tree rings in pine. Nature 301:145–
+147.
+Leavitt, S. W., and A. Long. 1986. Inﬂuence of site disturbance
+on d13C isotopic time series from tree rings. Pages 119–129 in
+Proceedings of the International Symposium of Ecological
+Aspects of Tree-Ring Analysis, 17–21 August 1986, Tarry-
+town, New York. U.S. Department of Energy/U.S. Environ-
+mental Protection Agency/U.S. Department of Agriculture
+Publication CONF-8608144, Washington, D.C., USA.
+Leavitt, S. W., and A. Long. 1988a. Stable carbon isotope
+chronologies from trees in the southwestern United States.
+Global Biogeochemical Cycles 2:189–198.
+Leavitt, S. W., and A. Long. 1988b. Intertree variability of d13C
+in tree rings. Chapter 7 in P. W. Rundel, J. R. Ehleringer, and
+K. A. Nagy, editors. Stable isotopes in ecological research.
+Springer-Verlag, New York, New York, USA.
+Leavitt, S. W., and W. E. Wright. 2002. Spatial expression of
+ENSO, drought, and summer monsoon in seasonal d13C of
+NATE G. MCDOWELL ET AL.
+1180
+Ecological Applications
+Vol. 16, No. 3
+ponderosa pine tree rings in southern Arizona and New
+Mexico. Journal of Geophysical Research 107:1–10.
+Leuning, R. 1997. Scaling to a common temperature improves
+the correlation between the photosynthesis parameters Jmax
+and Vcmax. Journal of Experimental Botany 48:345–347.
+Livingston, N. J., and D. L. Spittlehouse. 1996. Carbon isotope
+fractionation in tree ring early and late wood in relation to
+intra-growing season water balance. Plant, Cell and Environ-
+ment 19:768–774.
+Loader, N. J., I. Robertson, and D. McCarroll. 2003.
+Comparisons of stable carbon isotope ratios in the whole-
+wood, cellulose and lignin of oak tree-rings. Paleogeography,
+Paleoclimatology, Paleoecology 196:394–407.
+Long, J. N., and F. W. Smith. 1988. Leaf area-sapwood area
+relations of lodgepole pine as inﬂuenced by stand density and
+site index. Canadian Journal of Forest Research 18:247–250.
+Macfarlane, C., C. R. Warren, D. A. White, and M. A. Adams.
+1999. A rapid and simple method for processing wood to
+crude cellulose for analysis of stable carbon isotopes in tree
+rings. Tree Physiology 19:831–835.
+Magnani, F., M. Mencuccini, and J. Grace. 2000. Age-related
+decline in stand productivity: the role of structural acclima-
+tion under hydraulic constraints. Plant, Cell and Environ-
+ment 23:251–264.
+Maguire, D. A., and J. L. F. Batista. 1996. Sapwood taper
+models and implied sapwood volume and foliage proﬁles for
+coastal Douglas-ﬁr. Canadian Journal of Forest Research 26:
+849–863.
+Maherali, H., and E. H. DeLucia. 2001. Inﬂuence of climate-
+driven shifts in biomass allocation on water transport and
+storage in ponderosa pine. Oecologia 129:481–491.
+Marshall, J. D., and R. A. Monserud. 1996. Homeostatic gas-
+exchange parameters inferred from 13C/12C in tree rings of
+conifers. Oecologia 105:13–21.
+Mast, J. N., P. Z. Fule´ , M. M. Moore, W. W. Covington, and
+A. E. M. Waltz. 1999. Restoration of presettlement age
+structure of an Arizona ponderosa pine forest. Ecological
+Applications 9:228–239.
+Matzner, S., and J. Comstock. 2001. The temperature depend-
+ence of shoot hydraulic resistance: implications for stomatal
+behaviour and hydraulic limitation. Plant, Cell and Environ-
+ment 24:1299–1307.
+McDowell, N. G., N. Balster, and J. D. Marshall. 2001.
+Belowground carbon allocation of Rocky Mountain Doug-
+las-ﬁr. Canadian Journal of Forest Research 31:1425–1436.
+McDowell, N. G., H. Barnard, B. J. Bond, T. Hinckley, R.
+Hubbard, H. Ishii, B. Ko¨ stner, F. C. Meinzer, J. D. Marshall,
+F. Magnani, N. Phillips, M. G. Ryan, and D. Whitehead.
+2002b. The relationship between tree height and leaf area :
+sapwood area ratio. Oecologia 132:12–20.
+McDowell, N. G., J. R. Brooks, S. Fitzgerald, and B. J. Bond.
+2003. Carbon isotope discrimination and growth response of
+old ponderosa pine trees to stand density reductions. Plant,
+Cell and Environment. 26:631–644.
+McDowell, N. G., N. Phillips, C. K. Lunch, B. J. Bond, and M.
+G. Ryan. 2002a. Hydraulic limitation and compensation in
+large, old Douglas-ﬁr trees. Tree Physiology 22:763–774.
+Meinzer, F. C., G. Goldstein, and D. A. Grantz. 1993. Carbon
+isotope discrimination and gas exchange in coffee during
+adjustment to different soil moisture regimes. Pages 327–348
+in J. R. Ehleringer, A. E. Hall, and G. D. Farquhar, editors.
+Stable isotopes and plant carbon-water relations. Academic
+Press, San Diego, California, USA.
+Mencuccini, M., and J. Grace. 1995. Climate inﬂuences the leaf
+area/sapwood area ratio in Scots pine. Tree Physiology 15:1–10.
+Monserud, R. A., and J. D. Marshall. 1999. Allometric crown
+relations in three northern Idaho conifer species. Canadian
+Journal of Forest Research 29:521–535.
+Monserud, R. A., and J. D. Marshall. 2001. Time-series
+analysis of d13C from tree rings. I. Time trends and
+autocorrelation. Tree Physiology 21:1087–1102.
+Moore, M. M., W. W. Covington, and P. Z. Fule´ . 1999.
+Reference conditions and ecological restoration: a south-
+western ponderosa pine perspective. Ecological Applications
+9:1266–1277.
+Moore, M. M., D. W. Huffman, P. Z. Fule´ , W. W. Covington,
+and J. E. Crouse. 2003. Comparison of historical and
+contemporary forest structure and composition on perma-
+nent plots in southwestern ponderosa pine forests. Forest
+Science 50:162–176.
+Morgan, P., G. H. Aplet, J. B. Hauﬂer, H. C. Humphries, M.
+M. Moore, and W. D. Wilson. 1994. Historical range of
+variability: a useful tool for evaluation of ecosystem change.
+Journal of Sustainable Forestry 2:87–111.
+Myers, C. A. 1967. Growing stock levels in even-aged ponder-
+osa pine. USDA Forest Service Research Paper RM-33,
+Rocky Mountain Research Station, Fort Collins, Colorado,
+USA.
+NOAA. 1990. Climatological data—Arizona. United States
+National Climatic Data Center, Asheville, North Carolina,
+USA.
+Ogle, K., T. G. Whitham, and N. S. Cobb. 2000. Tree-ring
+variation in pinyon predicts likelihood of death following
+severe drought. Ecology 81:3237–3243.
+Oren, R., R. H. Waring, S. G. Stafford, and J. W. Barrett. 1987.
+Twenty-four years of ponderosa pine growth in relation to
+canopy leaf area and understory competition. Forest Science
+33:538–547.
+Orvis, K. H., and H. D. Grissino-Mayer. 2002. Standardizing
+the reporting of abrasive papers used to surface tree-ring
+samples. Tree-Ring Research 58:47–50.
+Palmer, W. C. 1965. Meteorological drought. Research Paper
+No. 45, U.S. Weather Bureau, Washington, D.C., USA.
+Parsons, D. J., and S. H. DeBenedetti. 1979. Impact of ﬁre
+suppression on a mixed-conifer forest. Forest Ecology and
+Management 2:21–33.
+Phillips, N. P., B. J. Bond, N. G. McDowell, and M. G. Ryan.
+2002. Canopy and hydraulic conductance in young, mature,
+and old Douglas-ﬁr trees. Tree Physiology 22:205–212.
+Pierce, J. L., G. A. Meyer, and A. J. T. Jull. 2004. Fire-induced
+erosion and millenial scale climate change in northern
+ponderosa pine forests. Nature 432:87–90.
+Pothier, D., H. A. Margolis, and R. H. Waring. 1989. Patterns
+of change of saturated sapwood permeability and sapwood
+conductance with stand development. Canadian Journal of
+Forest Research 19:432–439.
+Ronco, F. J., C. B. Edminster, and D. P. Trujillo. 1985. Growth
+of ponderosa pine thinned to different stocking levels in
+northern Arizona. USDA Forest Service Research Paper
+RM-262, Rocky Mountain Research Station, Fort Collins,
+Colorado, USA.
+Ryan, M. G., D. Binkley, J. H. Fownes, C. P. Giardina, and R.
+S. Senock. 2004. An experimental test of the causes of forest
+growth decline with stand age. Ecological Monographs 74:
+393–414.
+Ryan, M. G., S. T. Gower, R. M. Hubbard, R. H. Waring, H.
+L. Gholz, W. P. Cropper, and S. W. Running. 1995. Woody
+tissue maintenance respiration of four conifers in contrasting
+climates. Oecologia 101:133–140.
+Sala, A., G. D. Peters, L. R. McInture, and M. G. Harrington.
+2005. Physiological responses of ponderosa pine in western
+Montana to thinning, prescribed ﬁre, and burning season.
+Tree Physiology 25:339–348.
+Savage, M., P. M. Brown, and J. Feddema. 1996. The role of
+climate in a pine forest regeneration pulse in the southwestern
+United States. Ecoscience 3:310–318.
+Scha¨ fer, K. V. R., R. Oren, and J. D. Tenhunen. 2000. The
+effect of tree height on crown level stomatal conductance.
+Plant, Cell and Environment 23:365–375.
+Schmid, J. M., S. A. Mata, R. K. Watkins, and M. R.
+Kaufmann. 1991. Water potential in ponderosa pine stands
+June 2006
+1181
+HOMEOSTATIC MAINTENANCE OF GAS EXCHANGE
+of different growing-stock levels. Canadian Journal of Forest
+Research 21:750–755.
+Schoennagel, T., T. T. Veblen, and W. H. Romme. 2004. The
+interaction of ﬁre, fuels, and climate across Rocky Mountain
+forests. BioScience 54:661–676.
+Schubert, G. H. 1974. Silviculture of the southwest ponderosa
+pine: the status of our knowledge. USDA Forest Service
+Research Paper RM-123, Rocky Mountain Research Station,
+Fort Collins, Colorado, USA.
+Simonin, K., T. E. Kolb, M. Montes-Helu, and G. W. Koch.
+2006. Restoration thinning and the inﬂuence of tree size and
+leaf area to sapwood area ratio on water relations of Pinus
+ponderosa. Tree Physiology 26:493–503.
+Skov, K. R., T. E. Kolb, and K. F. Wallin. 2004. Tree size and
+drought affect ponderosa pine physiological response to
+thinning and burning treatments. Forest Science 50:81–91.
+Sperry, J. S., F. R. Adler, G. S. Campbell, and J. P. Comstock.
+1998. Limitation of plant water use by rhizosphere and xylem
+conductance: results from a model. Plant, Cell and Environ-
+ment 21:347–359.
+Stokes, M. A., and T. L. Smiley. 1968. An introduction to tree-
+ring dating. University of Chicago Press, Chicago, Illinois,
+USA.
+Sucoff, E., and S. G. Hong. 1974. Effects of thinning on needle
+water potential in red pine. Forest Science 20:25–29.
+Swetnam, T. W., C. D. Allen, and J. L. Betancourt. 1999.
+Applied historical ecology: using the past to manage for the
+future. Ecological Applications 9:1189–1206.
+SYSTAT. 2004. SYSTAT Version 11. SYSTAT Software,
+Richmond, California, USA.
+Tyree, M. T., and J. S. Sperry. 1988. Do woody plants operate
+near the point of catastrophic xylem dysfunction caused by
+dynamic water stress? Plant Physiology 88:574–580.
+Walcroft, A. S., W. B. Silvester, D. Whitehead, and F. M.
+Kelliher. 1997. Seasonal changes in stable carbon isotope
+ratios within annual rings of Pinus radiata reﬂect environ-
+mental regulation of growth processes. Australian Journal of
+Plant Physiology 24:57–68.
+Wallin, K. F., T. E. Kolb, K. R. Skov, and M. R. Wagner.
+2004. Seven-year results of thinning and burning restoration
+treatments on old ponderosa pines at the Gus Pearson
+Natural Area. Restoration Ecology 12:239–247.
+Waring, R. H., and B. E. Law. 2001. The ponderosa pine
+ecosystem and environmental stress: past, present and future.
+Tree Physiology 21:273–274.
+Waring, R. H., and G. B. Pitman. 1985. Modifying lodgepole
+pine stands to change susceptibility to mountain pine beetle
+attack. Ecology 66:889–897.
+Waring, R. H., D. Whitehead, and P. G. Jarvis. 1979. The
+contribution of stored water to transpiration in Scots pine.
+Plant, Cell and Environment 2:309–317.
+Warren, C. R., J. F. McGrath, and M. A. Adams. 2001. Water
+availability and carbon isotope discrimination in conifers.
+Oecologia 127:476–486.
+Whitehead, D. 1998. Regulation of stomatal conductance and
+transpiration in forest canopies. Tree Physiology 18:633–644.
+Whitehead, D., and P. G. Jarvis. 1981. Coniferous forest and
+plantations. Pages 49–152 in T. T. Kozlowski, editor. Water
+deﬁcits and growth. Volume 6. Academic Press, New York,
+New York, USA.
+Whitehead, D., P. G. Jarvis, and R. H. Waring. 1984. Stomatal
+conductance, transpiration, and resistance to water uptake in
+a Pinus sylvestris spacing experiment. Canadian Journal of
+Forest Reseach 14:692–700.
+Whitehead, D., N. J. Livingston, F. M. Kelliher, K. P. Hogan,
+S. Pepin, T. M. McSeveny, and J. N. Byers. 1996. Response
+of transpiration and photosynthesis to a transient change in
+illuminated foliage area for a Pinus radiata D. Don tree.
+Plant, Cell and Environment 19:949–957.
+Wollum, A. G., and G. H. Schubert. 1975. Effect of thinning on
+the foliage and forest ﬂoor properties of ponderosa pine
+stands. Soil Science Society of America Proceedings 39:968–
+972.
+Wullschleger, S. T. 1993. Biochemical limitations to carbon
+assimilation in C3 plants—a retrospective analysis of the A/
+Ci curves from 109 species. Journal of Experimental Botany
+44:907–920.
+Yoder, B. J., M. G. Ryan, R. H. Waring, A. W. Schoettle, and
+M. R. Kaufmann. 1994. Evidence of reduced photosynthetic
+rates in old trees. Forest Science 40(3):513–527.
+Zausen, G. L., T. E. Kolb, J. D. Bailey, and M. R. Wagner.
+2005. Long-term impacts of stand management on ponderosa
+pine physiology and bark beetle abundance in northern
+Arizona: a replicated landscape study. Forest Ecology and
+Management 218:291–305.
+NATE G. MCDOWELL ET AL.
+1182
+Ecological Applications
+Vol. 16, No. 3

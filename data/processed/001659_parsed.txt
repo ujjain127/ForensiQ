@@ -1,0 +1,730 @@
+Exploring Collaboration between USP DQI and the ACTWatch Study in Cambodia: 
+Sentinel Site Visit to Oddar Meanchey and Meetings with Key Partners 
+ 
+Phnom Penh, Cambodia, September 15, 18 – 20, 2008 
+Oddar Meanchey Province, Cambodia September 16 – 18, 2008 
+ 
+Trip Report 
+ 
+ 
+Ms. Laura Krech, Program Manager, Southeast Asia  
+Mr. Christopher Raymond, Project Coordinator, Southeast Asia  
+ 
+ 
+ 
+ 
+ 
+U.S. Pharmacopeia Drug Quality 
+and Information Program 
+12601 Twinbrook Parkway 
+Rockville, MD  20852 USA 
+Tel: (+1) 301-816-8160 
+Fax: (+1) 301-816-8374 
+Email: uspdqi@usp.org 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cooperative Agreement # HRN-A-00-00-00017-00 
+Sponsoring USAID Missions: USAID/Cambodia 
+Grantee: United States Pharmacopeia Drug Quality and Information (USP DQI) Program 
+Author(s) Name: Krech, L.  
+Language: English  
+Date of Publication: November 10, 2008 
+This report is made possible by the generous support of the American people 
+through the United States Agency for International Development (USAID), under 
+Cooperative Agreement number HRN-A-00-00-00017-00. The contents are the 
+responsibility of the U. S. Pharmacopeia Drug Quality and Information Program 
+and do not necessarily reflect the views of the United States Government. 
+ 
+About USP DQI 
+The United States Pharmacopeia Drug Quality and Information (USP DQI) Program, funded by 
+the U.S. Agency for International Development (cooperative agreement HRN-A-00-00-00017-
+00), provides technical leadership to more than 30 developing countries to strengthen their drug 
+quality assurance programs, ensure the quality of medicines and promote public health. 
+USP DQI helps build local, national and regional capacity to improve the standards of drug 
+manufacturing and distribution, reduce the impact of infectious diseases, mitigate the effects of 
+the HIV/AIDS epidemic, and advance the appropriate use of medicines. This document does not 
+necessarily represent the views or opinions of the U.S. Agency for International Development 
+(USAID). It may be reproduced if credit is given to USP DQI. 
+ 
+Abstract 
+Ms. Krech (USP DQI), Mr. Raymond (USP DQI) and Dr. Lawrence Evans (USP International 
+Technical Alliances Program (ITAP)) traveled to Cambodia to meet with key partners and 
+determine how the ACTWatch Drug Quality Study can be carried out in conjunction with 
+ongoing USP DQI medicine quality monitoring activities without creating overlap or duplication.  
+USP staff conducted a supervisory visit to the remote sentinel site of Samrong in the province of 
+Oddar Meanchey, which is part of the Thai-Cambodia cross border study on antimalarial 
+medicine quality. The team also traveled to the nearby border town of O’smach to collect 
+antimalarial samples from formal and informal outlets.  
+ 
+USP staff met with key partners from the Department of Drugs and Food (DDF), National 
+Laboratory for Drug Quality Control (NLDQC), Population Services International (PSI), the 
+World Health Organization (WHO), Global Fund (GF), National Malaria Center (CNM) and 
+USAID to discuss all ongoing medicine sampling and testing activities in Cambodia. The goal of 
+these meetings was to discuss how the partners can best work together to report and share results 
+as well as take action when poor quality and counterfeit medicines are found.    
+ 
+Recommended Citation 
+Krech, L. 2008. Exploring Collaboration between USP DQI and the ACTWatch Study in 
+Cambodia: Sentinel Site Visit to Oddar Meanchey and Meetings with Key Partners. Phnom Penh 
+and Oddar Meanchey Province, Cambodia: Sept 14-21, 2008. Submitted to the U.S. Agency for 
+International Development by the United States Pharmacopeia Drug Quality and Information 
+Program. Rockville, Maryland: United States Pharmacopeia. 
+ 
+Key Words 
+Cambodia, Oddar Meanchey, O’smach, antimalarials, ACTs, PSI, Thai-Cambodia Cross Border 
+Study, medicine quality monitoring, Department of Drugs and Food, pharmacovigilance, ISO 
+17025, ACTWatch, Global Fund Round 6, National Laboratory for Drug Quality Control.  
+ 
+ 
+ 
+USP DQI Trip Report – Cambodia, September 2008 
+2
+Table of Contents 
+ 
+ 
+ 
+Acknowledgements...................................................................................................... 4 
+Acronyms...................................................................................................................... 5 
+Background .................................................................................................................. 6 
+Purpose of Trip............................................................................................................. 6 
+Source of Funding........................................................................................................ 6 
+Overview of Activities.................................................................................................. 7 
+Next Steps .................................................................................................................. 12 
+Annex 1: Sentinel Sites in Cambodia ....................................................................... 13 
+Annex 2: Sentinel Sites in Cambodia and Thailand participating in the Cross- 
+Border study .............................................................................................................. 14 
+Annex 3: PSI Map of Malaria Containment Zones in Cambodia............................. 15  
+Annex 4: Photographs of Oddar Meanchey site visit.............................................. 16 
+ 
+USP DQI Trip Report – Cambodia, September 2008 
+3
+ACKNOWLEDGEMENTS 
+ 
+The author would like to express sincere appreciation to the staff at the Cambodian Department 
+of Drugs and Food (DDF) and the National Laboratory for Drug Quality Control (NLDQC). In 
+particular we wish to recognize Ms. Mam Boravann, Mr. Oeurn Samuth, and Vice-Director Dr. 
+Chroeng Sokhan from the DDF who helped arrange all logistics related to our sentinel site visit 
+to O’smach in the Oddar Meanchey province and all meetings with key partners. A special thank 
+you also goes out to Dr. Nam Nivanna and Mr. Tey Sovannarith from the NLDQC for their time 
+and efforts in discussing our three-year work plan proposal and presenting all NLDQC activities 
+related to sampling and testing medicines.   
+ 
+Dr. Lawrence Evans from USP ITAP should also be thanked for his dedication to explore how 
+USP DQI and PSI can collaborate on specific activities in Cambodia. Through the PSI grant to 
+ITAP, Dr. Evans provided funding for two USP DQI staff and Ms. Boravann to visit O’smach as 
+well as providing for USP DQI staff expenses while in Phnom Penh.  
+   
+The author would also like to acknowledge the support and guidance from Dr. William Mfuko of 
+the WHO Cambodia office, H.E. Yim Yann, and Dr. Sokhan on how USP DQI and Global Fund 
+activities and funding can be coordinated and optimized.  
+ 
+The author would also like to thank the USAID Mission in Cambodia, in particular Mr. Jonathan 
+Ross, for his participation in the partners’ meeting on September 19, 2008 and for his feedback 
+regarding USP DQI’s current and future activities.  
+ 
+It is important to express sincere appreciation to all administrative staff and editors of the USP 
+DQI Program for assistance in logistical arrangements and editing of this trip report. 
+ 
+Lastly, thank you to Mr. Anthony Boni, USAID CTO based in Washington, D.C. and Ms. Veerle 
+Coignez for their support and advice.  
+USP DQI Trip Report – Cambodia, September 2008 
+4
+ACRONYMS  
+ 
+ 
+ 
+ACT 
+Artemisinin-based Combination Therapy 
+CNM 
+National Malaria Center 
+DDF 
+Department of Drugs and Food 
+GF or Global Fund 
+Global Fund to Fight AIDS, Tuberculosis, and Malaria  
+HPLC 
+High Performance Liquid Chromatography 
+ITAP 
+International Technical Alliances Program 
+JPMA 
+Japanese Pharmaceutical Manufacturers Association 
+LSHTM 
+London School of Hygiene and Tropical Medicine 
+MOH  
+Ministry of Health 
+NLDQC 
+National Laboratory for Drug Quality Control 
+PAC 
+Pharmacists Association of Cambodia  
+PSI 
+Population Services International 
+PV 
+Pharmacovigilance 
+QA 
+Quality Assurance 
+QC 
+Quality Control 
+TLC 
+Thin Layer Chromatography 
+USAID 
+United States Agency for International Development 
+USP 
+United States Pharmacopeia 
+USP DQI 
+United States Pharmacopeia Drug Quality and Information 
+WHO 
+World Health Organization 
+USAID 
+United States Agency for International Development 
+USP DQI 
+United States Pharmacopeia Drug Quality and Information 
+WHO 
+World Health Organization 
+WPRO  
+WHO Western Pacific Regional Office  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+USP DQI Trip Report – Cambodia, September 2008 
+5
+Background 
+USP, PSI, London School of Hygiene and Tropical Medicine (LSHTM), and AC Nielson – 
+through a grant from the Bill and Melinda Gates Foundation – are partners in a study called 
+ACTwatch. The goal of ACTwatch is to increase effective treatment rates of malaria by 
+generating and disseminating evidence and recommendations to policymakers on methods to 
+increase availability and decrease the consumer price of quality assured Artemisinin-based 
+combination therapy (ACT). This study is a five-year project across eight countries: Benin, 
+Nigeria, Uganda, The Democratic Republic of the Congo, Zambia, Madagascar, Cambodia and 
+tentatively, Myanmar. USP is leading the antimalarial drug quality study in each country.  
+ 
+The objectives of ACTWatch are to provide policy makers with evidence and actionable 
+recommendations in the following areas: 
+• levels and trends in the availability, price, quality, volume, retailer perceptions, and 
+knowledge information about antimalarial medicines at different points of sale; 
+• wholesaler and retailer volumes and the components of the consumer price of 
+antimalarials, as well as current policy influences on the market, and specifically, on 
+mark-ups from import to outlet; and 
+• consumer treatment-seeking behavior and volumes of specific antimalarials consumed, to 
+support the development and monitoring of policies and other interventions to increase 
+rates of effective malaria treatment. 
+• country-specific advocacy plans and international dissemination activities to ensure that 
+evidence is effectively translated into policy.  
+ 
+The studies through which these objectives will be met include the: 
+• Outlet Survey: will evaluate availability, price, and affordability of antimalarials in the 
+public and private sectors. 
+• Supply Chain Research: will determine price and availability of antimalarials.  
+• Antimalarial Drug Quality Assurance and Control: will measure quality and purity of 
+antimalarials in the market. 
+• Household Survey: will measure levels and trends in the use of effective and ineffective 
+antimalarials and determinants of use. 
+ 
+Purpose of Trip 
+• Determine how the ACTWatch Drug Quality Study can be carried out in conjunction 
+with ongoing USP DQI activities without creating overlap or duplication.  
+• Visit O’smach sentinel site and evaluate staff performance on basic testing and TLC  
+• Meet with the USAID Mission and WHO to discuss Cambodian activities. 
+• Meet with key partners from the DDF, NLDQC, and USAID to discuss USP DQI’s three-
+year work plan proposal.  
+• Visit the NLDQC to determine what next steps the lab should take in terms of WHO 
+prequalification to ultimately attain ISO 17025 accreditation.   
+ 
+Source of Funding 
+This trip was supported with funds from PSI, as well as by USAID/Cambodia. 
+  
+USP DQI Trip Report – Cambodia, September 2008 
+6
+Overview of Activities 
+September 15, 2008 - morning 
+Meeting with the Department of Drugs and Food  
+Participants: Dr. Chroeng Sokhan, Vice-Director DDF 
+Ms. Mam Boravann, Deputy-Chief of the Essential Drugs Bureau 
+Ms. Sar Kuy Heang, Chief of Registration 
+Dr. William Mfuko, WHO DDF Advisor 
+USP Staff (Mr. Christopher Raymond, Ms. Laura Krech, and Dr. Lawrence Evans) 
+ 
+Dr. Chroeng Sokhan welcomed the USP ITAP team. Dr. Evans gave a brief overview of the 
+ACTWatch Drug Quality Study and summarized the study design provided earlier via email. The 
+DDF indicated that they currently have a post-marketing surveillance system in place that is 
+collecting data on antimalarials as well as other medicine products, and the Cross-Border study 
+will provide data specifically on antimalarials. Dr. Evans was asked to revise the proposed work 
+plan to: 1) focus on Cambodia; 2) add a summary section of current and recent drug quality 
+studies in the country; and 3) indicate how an unmet need is being addressed. Dr. Sokhan 
+requested that USP provide a 1-2 page summary letter of the study so the DDF can obtain the 
+waiver for any type of ethical clearance. This is consistent with how USP and DDF have handled 
+this issue in the past.  
+ 
+The point was made that the ACTWatch study addresses geographical areas covered by the 
+Cross-Border study and the current medicine post-marketing surveillance program; however, in 
+the latter, sampling is done only at the outlet level. Data sharing was recommended because of 
+overlap and to reduce the burden on local staff. Mam Boravann, USP’s focal point in the DDF. 
+  
+NOTE: Cambodia is divided into 20 provinces and 4 urban municipalities. The post-marketing 
+surveillance program collects data on anti-infective medicines – antibiotics, antimalarials, anti-
+tuberculosis agents (ATBs), antiretrovirals (ARVs), and oseltamivir – in 11 provinces. The 
+Cross-Border Study focuses on antimalarials in 6 provinces, 5 of which are part of the post-
+marketing surveillance program (the exception is Oddar Meanchey, only participating in the 
+Cross-Border Study). There are no sentinel sites in some central Cambodian provinces but these 
+are areas where malaria exists but Artesunate-tolerant parasites are not suspected (see Annexes 1 
+and 2). 
+ 
+September 15, 2008 afternoon  
+Meeting with the Department of Drugs and Food and WHO 
+Participants: Dr. Chroeng Sokhan, Vice-Director DDF 
+Ms. Mam Boravann, Deputy-Chief of the Essential Drugs Bureau 
+Ms. Sar Kuy Heang, Chief of Registration 
+Dr. William Mfuko, WHO DDF Advisor 
+Dr. Mam Dathara, Cambodian Pharmacovigilance Center 
+Mr. Bunso Sok, Cambodian Pharmacovigilance Center 
+USP Staff: Mr. Christopher Raymond and Ms. Laura Krech 
+                 
+Ms. Mam Boravann and Ms. Krech presented an overview of the 9-day training course they 
+attended in Manila, Philippines, in September, entitled “Introductory Training Course in 
+Pharmacovigilance”. The course was sponsored by WHO HQ and WPRO, and 14 countries were 
+USP DQI Trip Report – Cambodia, September 2008 
+7
+represented. The attending countries either a) had no pharmacovigilance (PV) infrastructure or 
+activities ongoing; b) had only recently commenced PV activities; or c) have a PV center, 
+activities, and a reporting system but face many challenges, and therefore the program is not 
+fully functioning.  
+ 
+Two DDF staff (Ms. Boravann and Mr. Huot Sengthong) were selected by the Cambodian 
+Ministry of Health (MOH) to represent the country. Efforts were made to include the two PV 
+staff (Dr. Dathara and Mr. Sok) already working at the Cambodian Pharmacovigilance Center, 
+but unfortunately it was not possible. In order to share the knowledge of the training, DDF staff 
+will spend on average one hour each day going over the different training topics from the course 
+with the PV staff. 
+ 
+Ms. Krech and Ms. Boravann also presented and discussed the Cambodian PV action plan which 
+was formulated at the training in Manila (see Annex 4). The plan lists five activities to be 
+accomplished in FY 09.  
+ 
+September 15, 2008  
+Meeting with Population Services International (PSI)  
+Participants: Dr. Lawrence Evans, USP  
+Ms. Diane Freeman, International Fellow, Malaria Advisor, PSI 
+ 
+Dr. Evans met with Diane Freeman, Country Program Coordinator for ACTWatch in Cambodia. 
+Dr. Kate O’Conell was scheduled to be included in the meeting via teleconference but was 
+unavailable. In the proposed study design, during phase 2, a single product would be targeted. 
+Ms. Freeman indicated that neither Malarine nor A+M, need to be tested in this phase because 
+both undergo testing by the NLDQC. The PSI developed zones/stratum for Cambodia were 
+compared with the sentinel sites for the Cross-Border study and were found to overlap, thus 
+suggesting that the sentinel sites are optimal locations for sample collection. (See annex 3)  
+ 
+Site Visit to Oddar Meanchey Province, September 16-17, 2008  
+September 16, 2008 arrival in Samrong 
+Meeting with the Vice Provincial Health Director of Oddar Meanchey (OMC)  
+Participants:  Dr. Ploug Thom, Vice Provincial Health Director and Hospital Chief 
+Mr. Hien Kimseat, Pharmacist, OMC Operational District 
+Mr. Bun Channa, Pharmacist, OMC Operational District 
+Ms. Mam Boravann, DDF and USP focal Point 
+USP Staff: Dr. Lawrence Evans, Ms. Laura Krech, and Mr. Christopher Raymond 
+ 
+The Deputy Director of Oddar Meanchey, Dr. Ploug Thom, welcomed the USP team. He was 
+pleased to have had two pharmacists from his operational district recently complete sample 
+collection and Minilab® training. He has been active in removing medicine from private outlets 
+that are banned by the MOH or not registered. However, he pointed out that in some cases, 
+medicines that do not have a registration sticker are of good quality and that the registration 
+sticker is easily counterfeited.  
+ 
+USP DQI Trip Report – Cambodia, September 2008 
+8
+He indicated that with Minilab® results and coordinating with the NLDQC, he will now have the 
+drug quality data needed for enforcement, including the removal of poor quality drugs from the 
+market. He was interested in testing medicines besides antimalarials in the future, especially 
+when he and his staff find suspicious products. In addition, he requested the testing results be 
+made available to the MOH to assist in forming policy.  
+ 
+September 16, 2008  
+Visit to the OMC Operational District Warehouse 
+Participants: Mr. Hien Kimseat, Pharmacist, OMC Operational District 
+Mr. Bun Channa, Pharmacist, OMC Operational District 
+Ms. Mam Boravann, DDF and USP focal Point 
+USP Staff: Dr. Lawrence Evans, Ms. Laura Krech, and Mr. Christopher Raymond 
+ 
+Oddar Meanchey Province has only one operational district compared and is part of the USP 
+Cross-Border Study. Mr. Kimseat and Mr. Channa are pharmacists at the Operational District 
+Warehouse. Both are responsible for sample collection, performing Minilab® testing, and 
+distributing medicines to provincial facilities. The facility houses public sector drugs including 
+antimalarials that are distributed to hospitals, health centers, and other health posts. Both 
+pharmacists recently completed the USP DQI training (July 2008) on the use of the Minilab®, 
+thus this visit was used to evaluate and reinforce skills obtained during the training. The 
+individuals were evaluated for their basic testing and TLC skills for two chloroquine samples. 
+Their technique was good, and no issues were observed. USP DQI should budget for a larger 
+table and sufficient quantities of water for testing.  
+ 
+September 17, 2008  
+Visit to the O’smach Health Center and O’smach Market (on the Thai-Cambodia border) 
+Participants: Mr. Hien Kimseat, Pharmacist, OMC Operational District 
+Mr. Bun Channa, Pharmacist, OMC Operational District 
+Ms. Mam Boravann, DDF and USP focal Point 
+USP Staff: Dr. Lawrence Evans, Ms. Laura Krech, and Mr. Christopher Raymond 
+ 
+USP staff shadowed Mr. Kimseat and Mr. Channa to observe their sample collection technique. 
+The group visited one public facility, the O’smach Health Center, and seven private outlets. Four 
+of the private outlets were located in a market; two of the outlets were legal, and two were 
+illegal.  
+ 
+Sample availability was an issue. An adequate number of units to comprise a sample were 
+available at only a few locations. This raised the issue of whether a sample should be collected 
+for testing or left for potential treatment against malaria. The “mystery shopper” approach was 
+not used because the town is small and all the pharmacy staff know Mr. Kimseat and Mr. Channa 
+personally.  
+ 
+September 18, 2008 
+Meeting with the PSI, DDF, CNM, NLDQC, and WHO 
+Participants: Dr. Chroeng Sokhan, Vice Director, DDF 
+Ms. Mam Boravann, Deputy Chief of the Essential Drugs Bureau, DDF 
+Mr. Samuth Oeurn, TLC and Cross Border Study supervisor, DDF 
+USP DQI Trip Report – Cambodia, September 2008 
+9
+Dr. William Mfuko, Technical Officer – Essential Medicines, WHO 
+Mr. Ouk Rada, Senior Officer, CNM 
+Prof. Nam Nivanna, Director, NLDQC 
+H.E. Yim Yann, Global Fund-DDF Medicine Quality Project Coordinator 
+Mr. Long Sameth, Global Fund-DDF Medicine Quality Project Asssistant 
+Mr. Tey Sovannarith, Deputy Chief of Technical Laboratory, NLDQC 
+Ms. Diane Freeman, International Fellow, Malaria Advisor, PSI 
+USP Staff: Dr. Lawrence Evans, Ms. Laura Krech, and Mr. Christopher Raymond 
+ 
+The USP team met with the DDF, CNM, and the NLDQC. The objective of the meeting was to 
+present the ACTWatch drug quality study to the key stakeholders as a group. Ms. Krech and Mr. 
+Raymond gave brief overviews of their USP sponsored activities. Dr. Evans gave an overview of 
+the ACTWatch Drug Quality Study, which included the objectives, methodology, and timeline 
+and names of USP’s partners in the study. Dr. Evans also updated the stakeholders of the low 
+availability of antimalarials in the province visited earlier in the week. Therefore, where the 
+study designs allow, data sharing will be required to not cause stock outs. Data on samples 
+collected per province will be requested from the DDF to establish whether this is common to 
+only this province. Dr. Evans indicated that in addition to testing antimalarials, the study also 
+includes a survey of the Medicine Regulatory Authority in each country.  
+  
+Dr. William Mfuko, the WHO DDF Advisor, indicated that a document is available that 
+describes the functions of the Medicine Regulatory Authority in Cambodia and provided Dr. 
+Evans with this information. Ms. Freeman of PSI spoke about the other components of 
+ACTWatch, the Supply Chain study, and Household and Outlet Surveys.  
+ 
+Mr. Sovannarith of the NLDQC mentioned that antimalarials not specified in the study design 
+are also found in the market. He also indicated that he needed access to methods in the Chinese 
+Pharmacopeia to perform some of the confirmatory testing. Dr. Evans asked the NLDQC for a 
+schedule of testing for the upcoming year to identify high volume testing periods. A schedule is 
+not available, but the NLDQC indicated that the projected period when confirmatory testing is to 
+be performed for ACTWatch is a low volume period. The presentation was well received by all 
+stakeholders and no implementation issues were indicated.  
+ 
+Dr. Evans requested the following lists from Ms. Borvann: 
+• registered antimalarial drug manufacturers, importers, and wholesalers  
+• registered antimalarials  
+• antimalarials collected per province from the most recent round of USP activities 
+ 
+NOTE:   
+The antimalarial drugs in the ACTWatch study design and the Cross Border study were selected 
+because of available methodology for Minilab® and confirmatory testing.  
+ 
+Artekin is an ACT containing dihydroartemisinin and piperaquine phosphate and is commonly 
+found in the Cambodian market. A method for the Minilab® does not exist, and there are no 
+pharmacopeial methods available for the FDC. 
+ 
+ 
+USP DQI Trip Report – Cambodia, September 2008 
+10
+September 19, 2008 
+Meeting with the NLDQC to discuss 3-year work plan proposal submitted to USP DQI 
+Participants: Prof. Nam Nivanna, Director, NLDQC 
+Mr. Tey Sovannarith, Deputy Chief of Technical Laboratory, NLDQC 
+USP Staff: Dr. Lawrence Evans, Ms. Laura Krech, and Mr. Christopher Raymond 
+ 
+Dr. Evans, Ms. Krech, and Mr. Raymond met with the NLDQC to review the capacity of the 
+national lab, discuss supply requests to USP DQI, and determine what impact the ACTWatch 
+study could have on the lab’s output. 
+• The NLDQC is equipped with several HPLC instruments (7) that are up and running  
+• The NLDQC had recently received 2 additional HPLC instruments from the Japanese 
+Pharmaceutical Manufacturers Association (JPMA) which are waiting to be installed.  
+• Plans are underway for the lab to move to a new building in 3 years. Construction will begin 
+in 2009-2010. USP DQI can help NLDQC find an expert in lab design, which is very 
+important if the NLDQC wants to attain ISO 17025 accreditation in the future. The World 
+Bank is funding construction of the new lab, and the NLDQC will budget for a design expert.  
+• NLDQC and USP DQI staff agreed that a technical assessment visit from the Centers of 
+Excellence QA/QC experts (Chulalongkorn University) is not necessary at the present time. 
+Ms. Krech and Dr. Evans will meet with the QA department at USP to organize a packet of 
+information about how the lab can start preparing for ISO 17025 accreditation. Once these 
+steps have been put in place a technical assessment visit will be scheduled.   
+• The lab needs a new dissolution machine. USP DQI will see if a used dissolution machine –
+in good condition – with an autosampler can be donated to the NLDQC. 
+• NLDQC requested training on the potentiometry titration method. USP will see if the 
+Pharmacopeial Education department has plans to offer their titration course in Asia.  
+September 19, 2008 
+Meeting with USAID, PSI, DDF, CNM, NLDQC, and WHO 
+Participants: Dr. Chroeng Sokhan, Vice Director, DDF 
+Ms. Mam Boravann, Deputy Chief of the Essential Drugs Bureau, DDF 
+Mr. Samuth Oeurn, TLC and Cross Border Study supervisor, DDF 
+Dr. William Mfuko, Technical Officer – Essential Medicines, WHO 
+Mr. Ouk Rada, Senior Officer, CNM 
+Prof. Nam Nivanna, Director, NLDQC 
+H.E. Yim Yann, Global Fund-DDF Medicine Quality Project Coordinator 
+Mr. Long Sameth, Global Fund-DDF Medicine Quality Project Asssistant 
+Mr. Tey Sovannarith, Deputy Chief of Technical Laboratory, NLDQC 
+Ms. Diane Freeman, International Fellow, Malaria Advisor, PSI 
+Mr. Jonathan Ross, Deputy Director, Office of Public Health, USAID 
+USP Staff: Dr. Lawrence Evans, Ms. Laura Krech, and Mr. Christopher Raymond 
+ 
+The primary objective of the meeting was to have stakeholders describe their current drug quality 
+monitoring programs and activities in the country. After the meeting, Mr. Ross spoke with Ms. 
+Krech and Mr. Raymond regarding feedback from USP DQI’s 3-year work plan proposal and 
+offered advice regarding the annual portfolio review in October. Mr. Raymond provided Mr. 
+USP DQI Trip Report – Cambodia, September 2008 
+11
+Ross with a DVD of the Public Service Announcements on the dangers of counterfeit medicines 
+that USP DQI has been working on for the past 8 months with Cambodia Mission funding. There 
+are versions of the PSA with Khmer subtitles and voiceovers.  
+ 
+September 20, 2008 
+Meeting with DDF and WHO 
+Participants: Dr. Chroeng Sokhan, Vice Director, DDF 
+Ms. Mam Boravann, Deputy Chief of the Essential Drugs Bureau, DDF 
+Dr. William Mfuko, Technical Officer – Essential Medicines, WHO 
+H.E. Yim Yann, Global Fund-DDF Medicine Quality Project Coordinator 
+USP Staff: Dr. Lawrence Evans and Ms. Laura Krech 
+     
+Ms. Krech and Dr. Evans met with the DDF and WHO to discuss budget issues for upcoming 
+USP projects and the initiation of Global Fund Round 6. Ms. Krech went over the Round 6 
+budget line-by-line with the DDF and WHO staff members to determine which agency will cover 
+which activities. The goal is to eliminate overlaps in funding.   
+ 
+For the ACTWatch study, the DDF suggested that the ACTwatch budget supplement were 
+needed to cover per diem for sampling and Minilab® testing as well as the cost for samples. 
+Confirmatory testing costs will be obtained from Mr. Sovannarith of the NLDQC. It was 
+indicated that the current rate the NLDQC charges for confirmatory testing may be adjusted. Dr. 
+Evans will request the current rate for confirmatory testing from the NLDQC. 
+ 
+Next Steps 
+• Communicate regularly with Dr. Evans and PSI to determine how and when the 
+ACTWatch study will begin in Cambodia  
+• Dr. Evans will add a section to the ACTWatch proposal/workplan summarizing current 
+and recent drug quality studies in Cambodia and will also indicate how an unmet need is 
+being addressed through this study. 
+• Ms. Krech and Dr. Evans will meet with Dr. Keith Conerly of QA at USP to organize a 
+packet of information about how the NLDQC can start preparing to obtain ISO 17025 
+accreditation. 
+• Order and send all supplies, reagents, and reference standards requested by NLDQC for 
+the sentinel sites, and the National Lab to continue sampling and testing activities for the 
+Cross Border Study and the regular medicine quality monitoring project without delays. 
+• Send the two PV staff (Dr. Dathara and Mr. Sok) to a fully-functioning PV center for 
+hands-on training.  
+• Follow up with Dr. Sokhan from the DDF to write a letter to WHO HQ so Cambodia can 
+become an official member of the WHO Programme for International Drug Monitoring 
+• Ms. Boravann (DDF) and Dr. Mfuko (WHO) will teach the Cambodian PV staff the 
+training materials from the WPRO “Introductory Course in Pharmacovigilance.”  
+ 
+USP DQI Trip Report – Cambodia, September 2008 
+12
+ 
+ 
+ANNEX 1 
+ 
+SENTINEL SITES IN CAMBODIA1
+ 
+Cambodia has 10 sentinel sites, each equipped with a Minilab®
+1.  Battambang (borders Thailand) 
+2.  Bantheay Meanchey (borders Thailand) 
+3.  Koh Kong (borders the ocean) 
+4.  Pailin (borders Thailand) 
+5.  Preah Vihear (borders Thailand and Lao PDR) 
+6.  Pursat (borders Thailand) 
+7.  Svay Rieng (borders Vietnam) 
+8.  Stung Treng (borders Lao PDR) 
+9.  Ratanakiri (borders Vietnam and Lao PDR) 
+10. Kampong Cham (borders Vietnam) 
+ 
+                                                 
+1 Spelling of the provinces in English is phonetic; therefore some of the spelling of the sentinel sites differs from 
+what is found in the map.  USP uses the spelling of our partners from the Cambodian Department of Food and 
+Drugs.  
+USP DQI Trip Report – Cambodia, September 2008 
+13
+ANNEX 2 
+ 
+Sentinel sites in Thailand and Cambodia participating in the cross-border (X-
+border) study 
+ 
+Thailand  
+Cambodia 
+   Buri Ram (only X border study)  
+   Banteay Meanchey (only X border study) 
+   Chanthaburi (X border and MQM) 
+   Battambang (X border and MQM*) 
+   Sa Kaeo (only X border study) 
+   Oddar Meanchey (only X border study) 
+   Si Sa Ket (only X border study)  
+   Pailin (X border and MQM) 
+   Surin (only X border study)  
+   Preah Vihear (only X border study)  
+   Trat (X border and MQM) 
+   Pursat (X border and MQM)  
+ 
+*Medicine quality monitoring activities 
+ 
+ 
+ 
+ 
+ 
+ 
+Surin 
+Si Sa 
+Ket 
+Buri 
+Ram 
+Chanthaburi 
+Sa Kaeo 
+Trat 
+USP DQI Trip Report – Cambodia, September 2008 
+14
+ANNEX 3 
+ 
+ 
+ 
+ 
+ 
+Zone 1 red 
+Zone 2 orange 
+Zone 3 green 
+Zone 4 white 
+ 
+Map diagram prepared and provided by PSI. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PSI Map of Malaria Containment 
+Zones in Cambodia 
+Chum Ki
+Kampot
+Koh Kong 
+Kampong S
+Veal Veng 
+Samlout 
+Battambang 
+Ka
+ng 
+ Krao 
+lin 
+Pursat 
+Banteay  
+Meanchey 
+Preah Vihear
+THAILAND 
+LAOS
+VIET NAM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kampong 
+Chhnan  
+Sampov Lun 
+Phnom Proek 
+Mondulkiri 
+Takeo
+Kampong 
+Chhnang 
+Kampong 
+Thom 
+Siem Reap
+Sihanoukville 
+Kep
+Oddar Meanchey
+Prey 
+Veng Svay 
+Rien
+g
+Kandal
+Kampong Cham
+Kratie
+Ratanakiri 
+Phnom Penh
+Stung Treng
+Pailin 
+USP DQI Trip Report – Cambodia, September 2008 
+15
+ANNEX 4 
+ 
+Photographs of Oddar Meanchey site visit 
+ 
+Dr. Lawrence Evans (USP ITAP) presenting the ACTWatch study to partners from the DDF, CNM, WHO, 
+PAC and NLDQC.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+USP, DDF and Oddar Meanchey colleagues wait to see if the road will re-open – heavy rains washed 
+away a large part of the road leaving a gaping hole, and the only way to pass through was with the help 
+of 20 people pushing the vehicle. Here, Mr. Chris Raymond and Dr. Lawrence Evans wonder if the team 
+will make it through.  
+ 
+ 
+ 
+ 
+USP DQI Trip Report – Cambodia, September 2008 
+16
+Still waiting to see if the road is passable, Ms. Krech stands in front of the car to show that the bumper 
+fell off during the trip due to the rough road conditions.  
+ 
+ 
+ 
+ 
+ 
+Mr. Raymond and Ms. Krech show DDF Vice-Director Dr. Chroeng Sokhan and His Excellency Yim Yann, 
+President of the Pharmacists Association of Cambodia, the Public Service Announcements USP DQI 
+created about the dangers of counterfeit medicines. An interview that USP DQI filmed with H.E. Yim Yann 
+was also shown.   
+ 
+ 
+USP DQI Trip Report – Cambodia, September 2008 
+17

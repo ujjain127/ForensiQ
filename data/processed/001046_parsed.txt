@@ -1,0 +1,1102 @@
+APPENDIX A
+Generic SSLs
+APPENDIX A
+Generic SSLs
+Table A-1 provides generic SSLs for 110 chemicals. Generic SSLs are derived using default values in the
+standardized equations presented in Part 2 of this document. The default values (listed in Table A-2)
+are conservative and are likely to be protective for the majority of site conditions across the nation. 
+However, the generic SSLs are not necessarily protective of all known human exposure pathways,
+reasonable land uses, or ecological threats. Thus, before applying generic SSLs at a site, it is extremely
+important to compare the conceptual site model (see the User’s Guide) with the assumptions behind
+the SSLs to ensure that the site conditions and exposure pathways match those used to develop generic
+SSLs (see Parts 1 and 2 and Table A-2). If this comparison indicates that the site is more complex
+than the SSL scenario, or that there are significant exposure pathways not accounted for by the SSLs,
+then generic SSLs are not sufficient for a full evaluation of the site. A more detailed site-specific
+approach will be necessary to evaluate the additional pathways or site conditions.   
+Generic SSLs are presented separately for major pathways of concern in both surface and subsurface
+soils.  The first column to the right of the chemical name presents levels based on direct ingestion of
+soil and the second column presents levels based on inhalation. As discussed in the User’s Guide, the
+fugitive dust pathway may be of concern for certain metals but does not appear to be of concern for
+organic compounds. Therefore, SSLs for the fugitive dust pathway are only presented for inorganic
+compounds. Except for mercury, no SSLs for the inhalation of volatiles pathway are provided for
+inorganic compounds because these chemicals are not volatile.  
+The user should note that several of the generic SSLs for the inhalation of volatiles pathway are
+determined by the soil saturation concentration (Csat), which is used to address and screen the potential
+presence of nonaqueous phase liquids (NAPLs).  As explained in Section 2.4.4, for compounds that are
+liquid at ambient soil temperature, concentrations above Csat indicate a potential for free-phase liquid
+contamination to be present and the need for additional investigation.
+The third column presents generic SSL values for the migration to ground water pathway developed
+using a default DAF (dilution-attenuation factor) of 20 to account for natural processes that reduce
+contaminant concentrations in the subsurface (see Section 2.5.6). SSLs in Table A-1 are rounded to
+two significant figures except for values less than 10, which are rounded to one significant figure. Note
+that the 20 DAF values in Table A-1 are not exactly 20 times the 1 DAF values because each SSL is
+calculated independently in both the 20 DAF and 1 DAF columns, with the final value presented
+according to the aforementioned rounding conventions. 
+The fourth column contains the generic SSLs for the migration to ground water pathway developed
+assuming no dilution or attenuation between the source and the receptor well (i.e., a DAF of 1). These
+values can be used at sites where little or no dilution or attenuation of soil leachate concentrations is
+expected at a site (e.g., sites with shallow water tables, fractured media, karst topography, or source
+size greater than 30 acres).  
+Generally, if an SSL is not exceeded for a pathway of concern, the user may eliminate the pathway or
+areas of the site from further investigation. If more than one exposure pathway is of concern, the
+lowest SSL should be used. 
+A-1
+Table A-1.  Generic SSLs a
+Organics
+Migration to ground water
+CAS No.
+Compound
+Ingestion
+(mg/kg)
+Inhalation
+volatiles
+(mg/kg)
+20 DAF
+(mg/kg)
+1 DAF
+(mg/kg)
+83-32-9
+Acenaphthene
+4,700 b
+--- c
+570 b
+29 b
+67-64-1
+Acetone
+7,800 b
+1.0E+05 d
+16 b
+0.8 b
+309-00-2
+Aldrin
+0.04 e
+3 e
+0.5 e
+0.02 e
+120-12-7
+Anthracene
+23,000 b
+--- c
+12,000 b
+590 b
+56-55-3
+Benz(a)anthracene
+0.9 e
+--- c
+2 e
+0.08 e,f
+71-43-2
+Benzene
+22 e
+0.8 e
+0.03
+0.002 f
+205-99-2
+Benzo(b)fluoranthene
+0.9 e
+--- c
+5 e
+0.2 e,f
+207-08-9
+Benzo(k)fluoranthene
+9 e
+--- c
+49 e
+2 e
+65-85-0
+Benzoic acid
+3.1E+05 b
+--- c
+400 b,i
+20 b,i
+50-32-8
+Benzo(a)pyrene
+0.09 e,f
+--- c
+8
+0.4
+111-44-4
+Bis(2-chloroethyl)ether
+0.6 e
+0.2 e,f
+0.0004 e,f
+2E-05 e,f
+117-81-7
+Bis(2-ethylhexyl)phthalate
+46 e
+31,000 d
+3,600
+180
+75-27-4
+Bromodichloromethane
+10 e
+3,000 d
+0.6
+0.03
+75-25-2
+Bromoform
+81 e
+53 e
+0.8
+0.04
+71-36-3
+Butanol
+7,800 b
+10,000 d
+17 b
+0.9 b
+85-68-7
+Butyl benzyl phthalate
+16,000 b
+930 d
+930 d
+810 b
+86-74-8
+Carbazole
+32 e
+--- c
+0.6 e
+0.03 e,f
+75-15-0
+Carbon disulfide
+7,800 b
+720 d
+32 b
+2 b
+56-23-5
+Carbon tetrachloride
+5 e
+0.3 e
+0.07
+0.003 f
+57-74-9
+Chlordane
+0.5 e
+20 e
+10
+0.5
+106-47-8
+p-Chloroaniline
+310 b
+--- c
+0.7 b
+0.03 b,f
+108-90-7
+Chlorobenzene
+1,600 b
+130 b
+1
+0.07
+124-48-1
+Chlorodibromomethane
+8 e
+1,300 d
+0.4
+0.02
+67-66-3
+Chloroform
+100 e
+0.3 e
+0.6
+0.03
+95-57-8
+2-Chlorophenol
+390 b
+53,000 d
+4 b,i
+0.2 b,f,i
+218-01-9
+Chrysene
+88 e
+--- c
+160 e
+8 e
+72-54-8
+DDD
+3 e
+--- c
+16 e
+0.8 e
+72-55-9
+DDE
+2 e
+--- c
+54 e
+3 e
+50-29-3
+DDT
+2 e
+--- g
+32 e
+2 e
+53-70-3
+Dibenz(a,h)anthracene
+0.09 e,f
+--- c
+2 e
+0.08 e,f
+84-74-2
+Di-n-butyl phthalate
+7,800 b
+2,300 d
+2,300 d
+270 b
+95-50-1
+1,2-Dichlorobenzene
+7,000 b
+560 d
+17
+0.9
+106-46-7
+1,4-Dichlorobenzene
+27 e
+--- g
+2
+0.1 f
+91-94-1
+3,3-Dichlorobenzidine
+1 e
+--- c
+0.007 e,f
+0.0003 e,f
+75-34-3
+1,1-Dichloroethane
+7,800 b
+1,300 b
+23 b
+1 b
+107-06-2
+1,2-Dichloroethane
+7 e
+0.4 e
+0.02
+0.001 f
+75-35-4
+1,1-Dichloroethylene
+1 e
+0.07 e
+0.06
+0.003 f
+156-59-2
+cis-1,2-Dichloroethylene
+780 b
+1,200 d
+0.4
+0.02
+156-60-5
+trans-1,2-Dichloroethylene
+1,600 b
+3,100 d
+0.7
+0.03
+120-83-2
+2,4-Dichlorophenol
+230 b
+--- c
+1 b,i
+0.05 b,f,i
+A-2
+Table A-1 (continued)
+Organics
+Migration to ground water
+CAS No.
+Compound
+Ingestion
+(mg/kg)
+Inhalation
+volatiles
+(mg/kg)
+20 DAF
+(mg/kg)
+1 DAF
+(mg/kg)
+78-87-5 
+1,2-Dichloropropane 
+9 e
+15 b
+0.03 
+0.001 f
+542-75-6 
+1,3-Dichloropropene 
+4 e
+0.1 e
+0.004 e
+0.0002 e
+60-57-1 
+Dieldrin 
+0.04 e
+1 e
+0.004 e
+0.0002 e,f
+84-66-2 
+Diethylphthalate 
+63,000 b
+2,000 d
+470 b
+23 b
+105-67-9 
+2,4-Dimethylphenol 
+1,600 b
+--- c
+9 b
+0.4 b
+51-28-5 
+2,4-Dinitrophenol 
+160 b
+--- c
+0.3 b,f,i
+0.01 b,f,i
+121-14-2 
+2,4-Dinitrotoluene 
+0.9 e
+--- c
+0.0008 e,f
+4E-05 e,f
+606-20-2 
+2,6-Dinitrotoluene 
+0.9 e
+--- c
+0.0007 e,f
+3E-05 e,f
+117-84-0 
+Di-n-octyl phthalate 
+1,600 b
+10,000 d
+10,000 d
+10,000 d
+115-29-7 
+Endosulfan 
+470 b
+--- c
+18 b
+0.9 b
+72-20-8 
+Endrin 
+23 b
+--- c
+1 
+0.05
+100-41-4 
+Ethylbenzene 
+7,800 b
+400 d
+13 
+0.7
+206-44-0 
+Fluoranthene 
+3,100 b
+--- c
+4,300 b
+210 b
+86-73-7 
+Fluorene 
+3,100 b
+--- c
+560 b
+28 b
+76-44-8 
+Heptachlor 
+0.1 e
+   4 e
+23 
+1
+1024-57-3 
+Heptachlor epoxide 
+0.07 e
+5 e
+0.7 
+0.03
+118-74-1 
+Hexachlorobenzene 
+0.4 e
+1 e
+2 
+0.1 f
+87-68-3 
+Hexachloro-1,3-butadiene 
+8 e
+8 e
+2 
+0.1 f
+319-84-6 
+α-HCH (α-BHC) 
+0.1 e
+0.8 e
+0.0005 e,f
+3E-05 e,f
+319-85-7 
+β-HCH (β-BHC) 
+0.4 e
+--- g
+0.003 e
+0.0001 e,f
+58-89-9 
+γ -HCH (Lindane) 
+0.5 e
+--- c
+0.009 
+0.0005 f
+77-47-4 
+Hexachlorocyclopentadiene 
+550 b
+10 b
+400 
+20
+67-72-1 
+Hexachloroethane 
+46 e
+55 e
+0.5 e
+0.02 e,f
+193-39-5 
+Indeno(1,2,3-cd)pyrene 
+0.9 e
+--- c
+14 e
+0.7 e
+78-59-1 
+Isophorone 
+670 e
+4,600 d
+0.5 e
+0.03 e,f
+7439-97-6 
+Mercury 
+23 b,l
+10 b,i
+2 i
+0.1 i
+72-43-5 
+Methoxychlor 
+390 b
+--- c
+160 
+8
+74-83-9 
+Methyl bromide 
+110 b
+10 b
+0.2 b
+0.01 b,f
+75-09-2 
+Methylene chloride 
+85 e
+13 e
+0.02 e
+0.001 e,f
+95-48-7 
+2-Methylphenol 
+3,900 b
+--- c
+15 b
+0.8 b
+91-20-3 
+Naphthalene 
+3,100 b
+--- c
+84 b
+4 b
+98-95-3 
+Nitrobenzene 
+39 b
+92 b
+0.1 b,f
+0.007 b,f
+86-30-6 
+N-Nitrosodiphenylamine 
+130 e
+--- c
+1 e
+0.06 e,f
+621-64-7 
+N-Nitrosodi-n-propylamine 
+0.09 e,f
+--- c
+5E-05 e,f
+2E-06 e,f
+1336-36-3 
+PCBs 
+1 h
+--- h
+--- h
+--- h
+87-86-5 
+Pentachlorophenol 
+3 e,j
+--- c
+0.03 f,i
+0.001 f,i
+108-95-2 
+Phenol 
+47,000 b
+--- c
+100 b
+5 b
+129-00-0 
+Pyrene 
+2,300 b
+--- c
+4,200 b
+210 b
+100-42-5 
+Styrene 
+16,000 b
+1,500 d
+4 
+0.2
+79-34-5
+1,1,2,2-Tetrachloroethane
+3 e
+0.6 e
+0.003 e,f
+0.0002 e,f
+A-3
+Table A-1 (continued)
+Organics
+Migration to ground water
+CAS No.
+Compound
+Ingestion
+(mg/kg)
+Inhalation
+volatiles
+(mg/kg)
+20 DAF
+(mg/kg)
+1 DAF
+(mg/kg)
+127-18-4
+Tetrachloroethylene
+12 e
+11 e
+0.06
+0.003 f
+108-88-3
+Toluene
+16,000 b
+650 d
+12
+0.6
+8001-35-2
+Toxaphene
+0.6 e
+89 e
+31
+2
+120-82-1
+1,2,4-Trichlorobenzene
+780 b
+3,200 d
+5
+0.3 f
+71-55-6
+1,1,1-Trichloroethane
+--- c
+1,200 d
+2
+0.1
+79-00-5
+1,1,2-Trichloroethane
+11 e
+1 e
+0.02
+0.0009 f
+79-01-6
+Trichloroethylene
+58 e
+5 e
+0.06
+0.003 f
+95-95-4
+2,4,5-Trichlorophenol
+7,800 b
+--- c
+270 b,i
+14 b,i
+88-06-2
+2,4,6-Trichlorophenol
+58 e
+200 e
+0.2 e.f.i
+0.008 e,f,i
+108-05-4
+Vinyl acetate
+78,000 b
+1,000 b
+170 b
+8 b
+75-01-4
+Vinyl chloride
+0.3 e
+0.03 e
+0.01 f
+0.0007 f
+108-38-3
+m-Xylene
+1.6E+05 b
+420 d
+210
+10
+95-47-6
+o-Xylene
+1.6E+05 b
+410 d
+190
+9
+106-42-3
+p-Xylene
+1.6E+05 b
+460 d
+200
+10
+A-4
+Table A-1 (continued)
+Inorganics
+Migration to ground water
+CAS No.
+Compound
+Ingestion
+(mg/kg)
+Inhalation
+fugitive
+particulate
+(mg/kg)
+20 DAF
+(mg/kg)
+1 DAF
+(mg/kg)
+7440-36-0
+Antimony
+31 b
+--- c
+5
+0.3
+7440-38-2
+Arsenic
+0.4 e
+750 e
+29 i
+1 i
+7440-39-3
+Barium
+5,500 b
+6.9E+05 b
+1,600 i
+82 i
+7440-41-7
+Beryllium
+0.1 e
+1,300 e
+63 i
+3 i
+7440-43-9
+Cadmium
+78 b,m
+1,800 e
+8 i
+0.4 i
+7440-47-3
+Chromium (total)
+390 b
+270 e
+38 i
+2 i
+16065-83-1
+Chromium (III)
+78,000 b
+--- c
+--- g
+--- g
+18540-29-9
+Chromium (VI)
+390 b
+270 e
+38 i
+2 i
+57-12-5
+Cyanide (amenable)
+1,600 b
+--- c
+40
+2
+7439-92-1
+Lead
+400 k
+--- k
+--- k
+--- k
+7440-02-0
+Nickel
+1,600 b
+13,000 e
+130 i
+7 i
+7782-49-2
+Selenium
+390 b
+--- c
+5 i
+0.3 i
+7440-22-4
+Silver
+390 b
+--- c
+34 b,i
+2 b,i
+7440-28-0
+Thallium
+--- c
+--- c
+0.7 i
+0.04 i
+7440-62-2
+Vanadium
+550 b
+--- c
+6,000 b
+300 b
+7440-66-6
+Zinc
+23,000 b
+--- c
+12,000 b,i
+620 b,i
+DAF = Dilution and attenuation factor.
+a
+Screening levels based on human health criteria only.
+b
+Calculated values correspond to a noncancer hazard quotient of 1.
+c
+No toxicity criteria available for that route of exposure.
+d
+Soil saturation concentration (Csat).
+e
+Calculated values correspond to a cancer risk level of 1 in 1,000,000.
+f
+Level is at or below Contract Laboratory Program required quantitation limit for Regular Analytical Services (RAS).
+g
+Chemical-specific properties are such that this pathway is not of concern at any soil contaminant concentration.
+h
+A preliminary remediation goal of 1 mg/kg has been set for PCBs based on Guidance on Remedial Actions for Superfund Sites
+with PCB Contamination (U.S. EPA, 1990) and on EPA efforts to manage PCB contamination.
+i
+SSL for pH of 6.8.
+j
+Ingestion SSL adjusted by a factor of 0.5 to account for dermal exposure.
+k
+A screening level of 400 mg/kg has been set for lead based on Revised Interim Soil Lead Guidance for CERCLA Sites and
+RCRA Corrective Action Facilities (U.S. EPA, 1994).
+l
+SSL is based on RfD for mercuric chloride (CAS No. 007487-94-7).
+m SSL is based on dietary RfD.
+A-5
+Table A-2.  Generic SSLs:  Default Parameters and Assumptions
+Parameter
+SSL pathway
+Default
+Inhalation
+Migration to
+ground water
+Source Characteristics
+Continuous vegetative cover
+l
+50 percent
+Roughness height
+m
+0.5 cm for open terrain; used to derive Ut,7
+Source area (A)
+l
+m
+0.5 acres (2,024 m2); used to derive L for
+MTG
+Source length (L)
+l
+45 m (assumes square source)
+Source depth
+m
+Extends to water table (i.e., no attenuation
+in unsaturated zone) 
+Soil Characteristics
+Soil texture 
+m
+m
+Loam; defines soil characteristics/
+parameters
+Dry soil bulk density (ρb)
+l
+l
+1.5 kg/L
+Soil porosity (n)
+l
+m
+0.43 
+Vol. soil water content (θw)
+l
+l
+0.15 (INH); 0.30 (MTG)
+Vol. soil air content (θa)
+l
+l
+0.28 (INH); 0.13 (MTG)
+Soil organic carbon (foc)
+l
+l
+0.006 (0.6%, INH); 0.002 (0.2 %, MTG)
+Soil pH
+m
+m
+6.8; used to determine pH-specific Kd
+(metals) and Koc (ionizable organics) 
+Mode soil aggregate size
+m
+0.5 mm; used to derive Ut,7 
+Threshold windspeed @ 7 m (Ut,7)
+l
+11.32 m/s
+Meteorological Data
+Mean annual windspeed (Um)
+l
+4.69 m/s (Minneapolis, MN)
+Air dispersion factor (Q/C)
+l
+90th percentile conterminous U.S.
+Volatilization Q/C
+l
+68.81; Los Angeles, CA; 0.5-acre source
+Fugitive particulate Q/C
+l
+90.80; Minneapolis, MN; 0.5-acre source
+Hydrogeologic Characteristics
+Hydrogeologic setting
+m
+Generic (national); surficial aquifer
+Dilution/attenuation factor (DAF)
+l
+20
+l Indicates input parameters directly used in SSL equations.
+m Indicates parameters/assumptions used to develop SSL input parameters.
+INH = Inhalation pathway.
+MTG = Migration to ground water pathway.
+A-6
+Analysis of Effects of Source Size on Generic SSLs
+A large number of commenters on the December 1994 Soil Screening Guidance suggested that most
+contaminated soil sources were 0.5 acre or less. Before changing this default assumption from 30 acres
+to 0.5 acre, the Office of Emergency and Remedial Response (OERR) conducted an analysis of the
+effects of changing the area of a contaminated soil source on generic SSLs calculated for the inhalation
+and migration to ground water exposure pathways. This analysis includes:
+•
+An analysis of the sensitivity of SSLs to a change in source area from 30 acres to 0.5
+acre
+•
+Mass-limit modeling results showing the depth of contamination for a 30-acre source
+that corresponds to a 0.5-acre SSL.
+All equations, assumptions, and model input parameters used in this analysis are consistent with those
+described in Part 2 of this document unless otherwise indicated. Chemical properties used in the
+analysis are described in Part 5 of this document.
+In summary, the results of this analysis indicate that:
+•
+The SSLs are not particularly sensitive to varying the source area from 30 acres to 0.5
+acre. This reduction in source area lowers SSLs for the inhalation pathway by about a
+factor of 2 and lowers SSLs for the migration to ground water pathway by a factor of
+2.9 under typical hydrogeologic conditions.
+•
+Half-acre SSLs calculated for 43 volatile and semivolatile contaminants using the
+infinite source models correspond to mass-limit SSLs for a 30-acre source uniformly
+contaminated to a depth of about 1 to 21 meters (depending on contaminant and
+pathway); the average depth is 8 meters for the inhalation pathway (21 contaminants)
+and 11 meters for the migration to ground water pathway (43 contaminants).
+Sensitivity 
+Analysis. For the inhalation pathway, source area affects the Q/C value (a measure
+of dispersion), which directly affects the final SSL and is not chemical-specific. Higher Q/C values
+result in higher SSLs. As shown in Table 3 (Section 2.4.3), the effect of area on the Q/C value is not
+sensitive to meteorological conditions, with the ratio of a 0.5-acre Q/C to a 30-acre Q/C ranging from
+1.93 to 1.96 over the 29 conditions analyzed. Decreasing the source area from 30 acres to 0.5 acre
+will therefore increase inhalation SSLs by about a factor of 2.
+For the migration to ground water pathway, source area affects the DAF, which also directly affects
+the final SSLs and is not chemical-specific. The sensitivity analysis for the dilution factor is more
+complicated than for Q/C because increasing source area (expressed as the length of source parallel to
+ground water flow) not only increases infiltration to the aquifer, which decreases the dilution factor,
+but also increases the mixing zone depth, which tends to increase the dilution factor. The first effect
+generally overrides the second (i.e., longer sources have lower dilution factors) except for very thick
+aquifers (see Section 2.5.7). 
+The sensitivity analysis described in Section 2.5.7 shows that the dilution model is most sensitive to
+the aquifer's Darcy velocity (i.e., hydraulic conductivity H hydraulic gradient). For a less conservative
+Darcy velocity (90th percentile), decreasing the source area from 30 acres to 0.5 acre increased the
+dilution factor by a factor of 3.1 (see Table 9, Section 2.5.7). For the conditions analyzed, decreasing
+the source area from 30 acres to 0.5 acre affected dilution factor from no increase to a factor of 4.3
+increase. No increase in dilution factor for a 0.5-acre source was observed for the less conservative
+A-7
+(higher) aquifer thickness (46 m). In this case the decrease in mixing zone depth balances the decrease
+in infiltration rate for the smaller source. 
+Mass-Limit 
+Analysis. The infinite source assumption is one of the more conservative
+assumptions inherent in the SSL models, especially for small sources. This assumption should provide
+adequate protection for sources with larger areas than those used to calculate SSLs. To test this
+hypothesis the SSL mass-limit models (Section 2.6) were used to calculate, for 43 volatile and
+semivolatile chemicals, the depth at which a mass-limit SSL for a 30-acre source is equal to a 0.5-acre
+infinite-source SSL. 
+The mass-limit models are simple mass-balance models that calculate SSLs based on the conservative
+assumption that the entire mass of contamination in a source either volatilizes (inhalation model) or
+leaches (migration to ground water model) over the exposure period of interest. These models were
+developed to correct the mass-balance violation in the infinite source models for highly volatile or
+soluble contaminants.
+Table A-3 presents the results of this analysis. These results demonstrate that 0.5-acre infinite source
+SSLs are protective of uniformly contaminated 30-acre source areas of significant depth. For the 21
+chemicals analyzed for the inhalation pathway, these source depths range up to 21 meters, with an
+average depth of 8 meters and a standard deviation of 5.7. For the migration to ground water pathway,
+source depths for 43 contaminants range to 21 meters, with an average of 11 meters and a standard
+deviation of 5.4.
+References 
+U.S. EPA (Environmental Protection Agency). 1990. Guidance on Remedial Actions for Superfund
+Sites with PCB Contamination. Office of Solid Waste and Emergency Response, Washington,
+DC. NTIS PB91-921206CDH.
+U.S. EPA (Environmental Protection Agency). 1994. Revised Interim Soil Lead Guidance for
+CERCLA Sites and RCRA Corrective Action Facilities. Office of Solid Waste and Emergency
+Response, Washington, DC. Directive 9355.4-12.
+A-8
+Table A-3.Source Depth where 30-acrea Mass-Limit SSLs = 0.5-acreb
+Infinite-Source SSLsc 
+Source depth (m)
+Chemical
+Inhalation
+Migration to ground waterc
+Acetone
+NA 
+21 
+Benzene
+8.1 
+12 
+Benzoic acid
+NA 
+21 
+Bis(2-chloroethyl)ether
+0.7 
+18 
+Bromodichloromethane
+NA 
+13 
+Bromoform
+0.9
+11
+Butanol
+NA 
+20 
+Carbon disulfide
+19 
+11 
+Carbon tetrachloride
+11 
+6 
+Chlorobenzene
+3.5 
+6 
+Chlorodibromomethane
+NA 
+13 
+Chloroform
+8.3 
+14 
+2-Chlorophenol
+NA 
+4 
+1,2-Dichlorobenzene
+NA 
+3 
+1,4-Dichlorobenzene
+NA 
+3 
+1,1-Dichloroethane
+9.1 
+15 
+1,2-Dichloroethane
+5.6 
+18 
+1,1-Dichloroethylene
+15 
+10 
+cis-1,2-Dichloroethylene
+NA 
+15 
+trans-1,2-Dichloroethylene
+NA 
+12 
+2,4-Dichlorophenol
+NA 
+8 
+1,2-Dichloropropane
+6.2 
+14 
+1,3-Dichloropropene
+12 
+12 
+2,4-Dimethylphenol
+NA 
+7 
+2,4-Dinitrophenol
+NA 
+21 
+2,4-Dinitrotoluene
+NA 
+11 
+2,6-Dinitrotoluene
+NA 
+12 
+Ethylbenzene
+NA 
+4 
+Methyl bromide
+12 
+17 
+Methylene chloride
+8.9 
+18 
+2-Methylphenol
+NA 
+11 
+Nitrobenzene
+0.5 
+13 
+1,1,2,2-Tetrachloroethane
+1.6 
+11 
+Tetrachloroethylene
+8.7 
+7 
+Toluene
+NA 
+7 
+1,1,1-Trichloroethane
+NA 
+9 
+1,1,2-Trichloroethane
+3.4 
+14 
+Trichloroethylene
+6.8 
+7 
+Vinyl acetate
+4.6 
+20 
+A-9
+Table A-3.  (continued)
+Source depth (m)
+Chemical
+Inhalation
+Migration to ground waterc
+Vinyl chloride
+21 
+13 
+m-Xylene
+NA 
+4 
+o-Xylene
+NA 
+4 
+p-Xylene
+NA 
+4 
+NA = Risk-based SSL not available.
+a Q/C = 35.15; DAF = 10.
+b Q/C = 68.81; DAF = 20.
+c Migration to ground water mass-limit analysis based on 70-yr exposure duration and 0.18 m/yr infiltration rate.
+A-10

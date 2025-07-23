@@ -1,0 +1,1859 @@
+R E L E A S E  V E R S I O N  
+Risk Prioritization Tool for Dams 
+ 
+Users Manual  
+ 
+ 
+ 
+ 
+ 
+Prepared for 
+ 
+Federal Emergency Management Agency 
+Mitigation Division 
+500 C Street SW 
+Washington, DC 20472 
+ 
+March 3, 2008 
+ 
+URS Group, Inc. 
+200 Orchard Ridge Drive, Suite 101 
+Gaithersburg, MD 20878 
+15702278 
+ 
+TABLE OF CONTENTS
+TABLE OF CONTENTS
+TABLE OF CONTENTS
+TABLE OF CONTENTS 
+ 
+i 
+Section 1 ONE 
+Introduction.....................................................................................................................1-1 
+1.1. 
+Background.............................................................................................. 1-1 
+1.1.1. Regulations and Dam Hazard Classification ............................... 1-2 
+1.2. 
+Overview of New Process........................................................................ 1-2 
+1.2.1. Goals and Objectives ................................................................... 1-2 
+1.2.2. Dam Safety Risk Prioritization Tool Development Process........ 1-3 
+1.2.3. Process Outline ............................................................................ 1-4 
+1.3. 
+Definitions................................................................................................ 1-5 
+1.4. 
+Limitations ............................................................................................... 1-6 
+Section 2 TWO 
+Hardware, Software and System Requirements..........................................................2-1 
+2.1. 
+Hardware and System Requirements ....................................................... 2-1 
+2.2. 
+Software Installation and Setup ............................................................... 2-1 
+2.2.1. Installation of the Risk Portfolio Application.............................. 2-1 
+2.2.2. Directory Structure of the Application......................................... 2-2 
+2.2.3. The Riskportfolio.Xls Workbook ................................................ 2-3 
+2.3. 
+Transferring and Moving Data................................................................. 2-7 
+2.4. 
+Printing Output......................................................................................... 2-7 
+Section 3 THREE 
+Comprehensive User......................................................................................................3-1 
+3.1. 
+Start-Up.................................................................................................... 3-1 
+3.1.1. Document Review........................................................................ 3-1 
+3.1.2. Initial Data Input .......................................................................... 3-1 
+3.2. 
+Building a Dam through Dam Elements.................................................. 3-2 
+3.3. 
+Failure Mode Evaluation.......................................................................... 3-3 
+3.3.1. Piping........................................................................................... 3-4 
+3.3.2. Flood ............................................................................................ 3-5 
+3.3.3. Earthquake ................................................................................... 3-5 
+3.3.4. Stability........................................................................................ 3-6 
+3.3.5. General Considerations................................................................ 3-6 
+3.4. 
+Consequence Assessment ........................................................................ 3-6 
+3.4.1. Estimating the Peak Dam Breach Discharge ............................... 3-9 
+3.4.2. Estimating the 10-Year Frequency Peak Discharge..................... 3-9 
+3.4.3. Estimating the Population at Risk (PAR) .................................. 3-10 
+3.4.4. Estimate of the Fatality Rate...................................................... 3-11 
+3.5. 
+Risk Categorization................................................................................ 3-12 
+3.6. 
+Risk Prioritization.................................................................................. 3-15 
+Section 4 FOUR 
+Beta Testing and Trials..................................................................................................4-1 
+4.1. 
+General..................................................................................................... 4-1 
+4.2. 
+Trials Performed ...................................................................................... 4-1 
+TABLE OF CONTENTS
+TABLE OF CONTENTS
+TABLE OF CONTENTS
+TABLE OF CONTENTS 
+ 
+ii 
+Appendices 
+Appendix A 
+“Risk Assessment – Estimating the Probability of Failure of Embankment Dams 
+by Piping” 
+ 
+Appendix B 
+“Risk-Based Dam Safety Prioritization – A Method for Easily Estimating the Loss 
+of Life from Dam Failure - Draft” 
+ 
+ 
+SECTION
+SECTION
+SECTION
+SECTIONONE 
+Introduction 
+ 
+1-1 
+1. 
+Section 1 ONE 
+Introduction 
+1.1. 
+BACKGROUND 
+Non-federal dams in the United States are regulated by Dam Safety Offices in forty nine of the 
+fifty states. These state government agencies generally fall within departments tasked with broad 
+responsibilities such as environmental protection, natural resources or public safety, and as such 
+usually do not enjoy abundant resources of funding or personnel. 
+For a time, Texas had a relatively inactive dam safety program once the senior engineer retired, 
+even though they had over 7,500 dams under their jurisdiction. Since then their program has been 
+re-invigorated with new staff and funding. Other states like New Jersey have maintained a strong 
+team of over 10 engineers working on dam safety, while states like Wisconsin have a single dam 
+safety engineer. 
+The State Dam Safety offices are also limited in their effectiveness by the strength of legislation 
+and political mandate. Regulators do have review authority for new dams and major upgrades, 
+but what about those thousands of dams whose ownership is uncertain, that may not have been 
+inspected in decades, and may now have a higher downstream hazard than when they were 
+designed and built? 
+An uncomfortable status quo is maintained until an unexpected dam failure disaster strikes, and 
+the State Regulator must answer hard questions from the same politicians who cut their funding 
+just a few months before. Why did you let this happen? Weren’t you doing your job? Didn’t you 
+know this dam would fail in the next flood? 
+If lucky, the besieged State Regulator can produce a paper trail of letters sent every year pointing 
+out the deficiencies, requesting action from the owner, which is typically met with silence or the 
+challenge of: “who’s going to pay for this?” Some states have developed innovative funding 
+programs including loans and outright grants, but the money is never enough for the problem 
+dams they know about.  
+Various states have approached this problem in different ways. States like Washington with a 
+mature dam safety program, reliable funding and capable engineering staff have established 
+semi-quantitative scoring systems to rank their dam safety risks. Doug Johnson of Washington 
+Department of Ecology, Dam Safety Office, maintains an evolving “top ten” list where the 
+highest scoring dams are tackled first, removed from the list when upgrades have been 
+completed, and then others take their place.  
+The Washington system and similar tools used by the Natural Resource and Conservation 
+Service (NRCS) and Colorado are patterned after the United States Bureau of Reclamation 
+(2001) Dam Safety Risk Based Profile System1. These systems follow prescriptive scoring sheets 
+that provide a helpful, but not overly illuminating indication of potential dam safety deficiencies. 
+These profiling tools are consistent and rapidly implemented but may rank a dam with two minor 
+deficiencies the same as a dam with one major deficiency. 
+Unfortunately, most states have no dam safety profiling system at all. Regulators are aware of the 
+major dams and their problems, but what about the problems they don’t know about?   
+                                                 
+1 US Bureau of Reclamation (2001) Dam Safety Risk Based Profile System 
+SECTION
+SECTION
+SECTION
+SECTIONONE 
+Introduction 
+ 
+1-2 
+The States need a simple tool that allows them to identify and prioritize their dam safety risks so 
+that the limited resources available to them can be used most diligently and effectively.   
+1.1.1. Regulations and Dam Hazard Classification 
+Dam safety regulations vary dramatically from state to state. Some states have the authority to 
+restrict operation of any dam or reservoir if they have dam safety concerns. However, most states 
+do not have true enforcement power. They can write letters but without the ability to fund and 
+with the ever changing political priorities, there is only so much they can do to influence the 
+majority of unsophisticated dam owners to take action.  
+Dam safety regulations are grounded in state law and are fully deterministic and prescriptive. 
+Risk-based thinking is a new concept to most state regulators2. Dam safety requirements are tied 
+to dam hazard classifications. 
+Dam hazard classifications vary between states but generally include three classes based on 
+estimated loss of life and downstream damage from a dam failure: 
+• 
+High Hazard – Probable loss of life; 
+• 
+Significant Hazard – Possible loss of life, major damage; and 
+• 
+Low Hazard – No loss of life, minor damage. 
+High hazard dams attract the most stringent design requirements such as being able to safely pass 
+the probable maximum flood (PMF), must meet modern stability and filter requirements, have 
+limitations on conduit design, and must be able to sustain maximum credible earthquake (MCE) 
+loading, among other requirements. Significant hazard dams have less specific and less difficult 
+requirements such as the typical requirements to safely pass 50% of the PMF, and lesser 
+requirements on zoning and stability. Low hazard dams may only be required to safely pass the 
+100 year storm and may not require specific geotechnical investigations and analysis, so long as 
+designs with precedent are cited. 
+ 
+So this deterministic regulatory environment has produced a huge inventory of dams, which do 
+not satisfy design criteria for their hazard class. What is the regulator to do? 
+1.2. 
+OVERVIEW OF NEW PROCESS 
+1.2.1. Goals and Objectives 
+URS Group was under contract with the Federal Emergency Management Agency (FEMA) to 
+develop a new tool for Risk-Based Dam Safety Prioritization to be used by State Dam Safety 
+Regulators. 
+The objectives for development of a “Risk Tool” are outlined below: 
+                                                 
+2 The NSW Dam Safety Committee in Australia (State Regulator) recently enacted risk-based dam safety legislation 
+and procedures.  The FEMA Risk Tool process is fully consistent with these regulations.   
+SECTION
+SECTION
+SECTION
+SECTIONONE 
+Introduction 
+ 
+1-3 
+• Essentially a decision-making tool to identify those dams within a large inventory that most 
+urgently need attention and then allocate resources accordingly 
+• Provide enhanced understanding of key contributors to risk at each dam 
+• Systematic and reasoned framework for prioritizing and committing resources among many 
+dam safety issues 
+• Provide a quantifiable measure of risk from which the urgency of actions can be judged 
+• Means to effectively communicate dam safety risk situation to decision makers and 
+politicians to impact funding priorities 
+• Provide a consistent methodology throughout the country for regulators to evaluate dam 
+safety.   
+• Consistent with standards-based regulatory programs in each state. 
+To achieve these objectives, consideration must be given to the variety of State agencies, 
+policies, regulations and available resources. The dam risk categorization process and Risk Tool 
+must: 
+• Be simple, quick and easy to implement 
+• Be applicable to any type or number of dams 
+• Acknowledge the limited resources available 
+• Be flexible to accommodate the broad differences between owners and information known 
+about each dam 
+• Avoid subjectivity and unnecessary bias 
+• Be transparent, defensible and reproducible 
+What the dam risk prioritization tool is not is a means to judge dam safety tolerability. Once 
+priorities are judged, then risk acceptance or tolerability is a matter of policy that will vary from 
+state to state. As a minimum, each dam would need to be evaluated individually using 
+compliance with deterministic standards or a detailed risk assessment. 
+1.2.2. Dam Safety Risk Prioritization Tool Development Process 
+The work described in this report is part of a four year development and implementation process 
+comprised of the following: 
+• FY 2004 - 2005 – Development of tool; 
+• FY 2005 - 2006 – State trials and guidance manual preparation; and 
+• FY 2007 – Roll out to ASDSO member states.  
+The guidelines and procedures for the Risk Categorization System were developed utilizing the 
+NDSRB Steering Committee for direction, oversight, and review. 
+SECTION
+SECTION
+SECTION
+SECTIONONE 
+Introduction 
+ 
+1-4 
+The first step was to review a previous ASDSO Committee report and then develop ideas with 
+the new Steering Committee through meetings held in Washington DC, Las Vegas and 
+Annapolis. The original Steering Committee struggled to reach consensus on any issue, but 
+produced a useful framework for the following work. 
+A Consequence Categorization System was established for partitioning an inventory of dams into 
+groupings with similar consequences resulting from dam failure. Dam failure consequence was 
+tied to state dam hazard classification and then expanded to recognize society’s aversion to 
+incidents that cause large loss of life. To aid in the prioritization process, Wayne Graham of the 
+United States Bureau of Reclamation (USBR) was commissioned to develop a new simplified 
+loss of life consequence assessment methodology based on the more limited dam failure 
+hydrologic information typically available to state regulators. This process was found to be easy 
+to use and was verified against a number of case histories with dam break / inundation modeling. 
+Instead of using a generalized, qualitative Risk Matrix of “High, Medium and Low” in the Risk 
+Categorization System, an entirely different system was developed. The revised process builds on 
+the successful elements of various ranking systems currently in use, simplifies potential failure 
+modes analysis and dam risk assessment processes, is based on international guidelines from 
+ANCOLD, International Committee on Large Dams (ICOLD) and others, and is more flexible, 
+quantitative and generally further advanced than the system envisioned in the 2003 ASDSO 
+report. The team relied heavily on the positive experience from Australia and the USBR. 
+1.2.3. Process Outline 
+The new process covers the most important failure modes for a wide variety of dam types and 
+dam features, and it explicitly quantifies risks posed by different failure modes.  This allows each 
+failure mode likelihood and its consequences to be computed and graphed, and then the failure 
+mode risk and overall dam risk is quantified and compared against risk tolerability criteria. 
+The Risk Categorization of each dam is then established by the quantitative risk level and its 
+position relative to risk criteria.  Each dam can be ranked by total risk and by failure mode risk. 
+Risk Categories parallel those used by the USBR, and reflect different levels of urgency and 
+priority. 
+ 
+SECTION
+SECTION
+SECTION
+SECTIONONE 
+Introduction 
+ 
+1-5 
+ 
+The above figure summarizes the three step dam safety risk categorization process. Consequence 
+categorization starts with the existing hazard classification and the National Inventory of Dams 
+(NID) database information. The Failure Mode Evaluation is greatly simplified using a bin 
+process in the worksheet for each type of dam and failure mode to guide the evaluator to failure 
+probabilities based on whatever information is available. The lives consequences are computed 
+in a separate Life Loss Potential (LLP) worksheet. Risk is then quantified by multiplying failure 
+probability by LLP. Risk can then be prioritized based on total dam risk or by failure mode risk. 
+1.3. 
+DEFINITIONS 
+Abutment Outflanking – During a flood, flows pass over the reservoir perimeter beyond the limits 
+of the dam structure, probably over the abutments. 
+As Low As Reasonably Practical (ALARP) –The risk has been reduced as low as reasonably 
+practicable. This reasonableness test reflects society’s aversion to incidents that can potentially 
+cause large loss of life but recognizes that there is a point of diminished returns. ALARP is 
+defined as the point where additional risk reduction is not possible without a disproportionate 
+investment for the benefit gained. 
+Concrete Core Wall – Early 20th century dam building design when a concrete wall serves as the 
+core with surrounding shells of embankment soils.   
+Dam Element – a feature of the subject dam which could potentially fail for one of the reasons 
+indicated by the element’s failure modes (i.e. earth dam, unlined spillway, outlet works, etc). 
+SECTION
+SECTION
+SECTION
+SECTIONONE 
+Introduction 
+ 
+1-6 
+Dam Risk Profile – an individual dam’s collection of Elements and LLP worksheets. The Dam 
+Risk Profile is an Excel workbook. 
+Failure Mode – a method (i.e. piping for an earth dam, earthquake for a concrete dam, etc.) by 
+which a Dam Element could fail resulting in an uncontrolled release of the reservoir. 
+Failure Probability (F) – a User judged value representing the probability that a particular failure 
+mode will cause failure of the Dam Element. The F value is illustrated as 1 in 100, 1 x 10-2 or 
+0.01, for example. 
+Life Loss Potential (LLP) – the number of lives potentially lost given failure of a Dam Element. 
+The LLP value is equal to the estimated population at risk multiplied by a depending upon 
+distance from the dam.  Sometimes referred to as “Loss of Life Potential.” 
+Maximum Design Earthquake (MDE) – An extreme design earthquake for which the dam could 
+sustain damage but not catastrophic release of the reservoir.  The return period may range from 1 
+in 5,000 to 1 in 100,000, or may be taken as the deterministic maximum credible earthquake 
+(MCE).   
+Operating Basis Earthquake (OBE) – An unusual design earthquake expected during the life of 
+the structure with a return period of about 1 in 500 years that does not disrupt the operation of the 
+reservoir.   
+Population at Risk (PAR) – the estimated number of people within the inundation zone from a 
+dam failure. The value is based on assumed people within dwellings, cars, factories, camping 
+areas, etc that are inside the inundation zone that will get their feet wet. 
+Risk Portfolio – a collection of User created Dam Risk Profiles. The Risk Portfolio is a Microsoft 
+Excel Workbook which manages the Dam Risk Profile workbooks. 
+Risk Tool – The combination of Excel spreadsheets (riskportfolio.xls and template.xls) that 
+together comprise the dam risk prioritization program. 
+Threshold Failure Flood (TFF) – The flood where there is just enough overtopping of the dam to 
+cause breach failure by erosion overturning, sliding, or collapse. 
+Workbook – A workbook is an excel file that contains one or more worksheets, user forms and 
+macro code. The Risk Portfolio application is an Excel workbook as is each Dam Risk Profile. 
+Worksheet – A worksheet is a single page within a workbook that contains data arranged in rows 
+and columns.  
+1.4. 
+LIMITATIONS 
+The work on this project has been carried out in accordance with reasonable and accepted 
+engineering practices. No warranty or guarantee, either written or implied, is applicable to this 
+work.  Additional failure modes and dam elements will likely be added to the tool in future 
+revisions, such as fuse plug spillways, penstocks and slab and buttress concrete dams.   
+ 
+SECTION
+SECTION
+SECTION
+SECTIONTWO 
+Hardware, Software and System Requirements 
+ 
+2-1 
+2. 
+Section 2 TW O 
+Hardware, Software and System Requirements 
+2.1. 
+HARDWARE AND SYSTEM REQUIREMENTS 
+This application has been developed with Microsoft Excel and will run on any computer that is 
+currently running Microsoft Excel 2002 or newer. Some features of the application will not work 
+with Excel 2000. Screen resolution should be 1024 x 768 or higher. The application requires very 
+little disk space – less than 3 Mb for the application plus 1 Mb for each Dam Profile.  
+2.2. 
+SOFTWARE INSTALLATION AND SETUP 
+2.2.1. Installation of the Risk Portfolio Application 
+The Risk Portfolio application consists of two Microsoft Excel workbooks which must be placed 
+within the same directory on the user’s computer. 
+Copy the two files, RiskPortfolio.xls and Template.xls to the same directory. These file names 
+CAN NOT be changed by the User.  To create a shortcut to the Risk Tool application on your 
+desktop right-click on the RiskProfile.xls workbook and select the menu item for “Send To”, 
+then select “Desktop (Create Shortcut)”. It is not necessary to create a shortcut to the 
+Template.xls file as this is a library file only used by the program. 
+Prior to starting the Risk Tool, the User is required to make modifications to the basic setup of 
+Excel. First, macros must be enabled from the security menu. Furthermore it is necessary to trust 
+the Visual Basic Project. Set these options from the Security dialog box which is available when 
+you click the Tools menu, then select Macros, then Security. On the Security Level tab set the 
+macro level to Medium (or Low). On the Trusted Publishers tab select the checkbox to Trust 
+Access to Visual Basic Project. 
+ 
+Security Dialog Box Showing Security Level 
+SECTION
+SECTION
+SECTION
+SECTIONTWO 
+Hardware, Software and System Requirements 
+ 
+2-2 
+ 
+ 
+Security Dialog Box Showing Trusted Publishers Tab 
+2.2.2. Directory Structure of the Application 
+In the screenshot below, note that the RiskPortfolio.xls and Template.xls workbooks are in the 
+same directory. As individual dam risk profiles are created they are placed in the data folder by 
+State and Region. It is not necessary to access the workbooks from the directories because the 
+Risk Portfolio workbook contains a list of all the dam profiles on the Risk Portfolio Main Page 
+(shown below). Please DO NOT move the workbooks to different directories or the charts that 
+track the risk will not be able to include them in the totals. 
+ 
+Directory Showing Data Directory 
+SECTION
+SECTION
+SECTION
+SECTIONTWO 
+Hardware, Software and System Requirements 
+ 
+2-3 
+2.2.3. The RiskPortfolio.xls Workbook 
+From this workbook you can create Dam Risk Profiles, view a listing of the profiles organized by 
+state and region, or view a chart of existing Dam Risk Profiles.  
+ 
+ 
+RiskPortfolio.xls Main Page 
+How to Create a Dam Risk Profile 
+From the RiskPortfolio.xls workbook, click on the link called “Create New Profile” (shown in 
+the above screenshot). This will bring up a window (shown below) into which you must enter the 
+Dam Name, State, and Region. Once you click the Create Profile button the new Dam Risk 
+Profile is created, then opened and the total risk is added to the main page of the 
+RiskPortfolio.xls workbook. 
+ 
+Create New Profile Window 
+SECTION
+SECTION
+SECTION
+SECTIONTWO 
+Hardware, Software and System Requirements 
+ 
+2-4 
+How to view or edit a Dam Risk Profile 
+Click on the link for the Dam Risk Profile’s name from the RiskPortfolio.xls main page (shown 
+above). This will open the respective dam’s risk profile and from there you can fill in data about 
+the dam and add or remove dam elements. You can browse the dam elements by clicking on their 
+worksheet tabs. 
+ 
+ 
+Worksheet Tabs Showing Dam Elements 
+How to Delete a Dam Risk Profile 
+Simply remove the Dam Risk Profile from the data directory. You can do this by clicking on the 
+link called “Browse Data Directory”. This will open the windows file Explorer from which you 
+can select and delete the appropriate workbooks and directories. Changes made to the directory 
+will be reflected when you click the “Refresh Dam List” link or reopen the Risk Portfolio 
+application. 
+ 
+ 
+Links for Managing Dam Risk Profiles 
+ 
+How to add or remove Dam Elements from a Dam Risk Profile 
+While in the Dam Risk Profile you can click the button to Add or Remove Elements. This will 
+open a form listing all possible elements. Existing elements will be checked. You can check or 
+uncheck the elements as required for the particular dam. 
+ 
+ 
+ 
+SECTION
+SECTION
+SECTION
+SECTIONTWO 
+Hardware, Software and System Requirements 
+ 
+2-5 
+ 
+Form Used to Include or Exclude Dam Elements 
+Editing Failure Probabilities (F) for Dam Elements 
+Each Dam Element contains three or four failure modes that are tailored to the Dam Element. In 
+the screenshot below the failure modes are Earthquake, Flood and Normal Stability. The values 
+for these failure modes should be entered in the blue boxes in rows 11 and 12. Selection of the 
+appropriate F values depends upon review of available design and construction data as well as 
+visual observations. Guidance is provided in Section 3.3. 
+ 
+SECTION
+SECTION
+SECTION
+SECTIONTWO 
+Hardware, Software and System Requirements 
+ 
+2-6 
+ 
+Failure Modes Exist For Each Element 
+As you enter the data for the failure modes, Excel will try to create the appropriate points on the 
+chart. Until all the data is entered you will see a warning from Excel indicating that the chart data 
+is not completely valid. This does not indicate that there is an error with your data, it occurs 
+because Excel is trying to calculate points with incomplete data. You may safely ignore this 
+message. 
+ 
+SECTION
+SECTION
+SECTION
+SECTIONTWO 
+Hardware, Software and System Requirements 
+ 
+2-7 
+ 
+Excel Warning That Data Is Not Yet Complete  
+**YOU MAY SAFELY IGNORE THIS MESSAGE** 
+Charts  
+The RiskPortfolio.xls workbook’s Entire Dam Portfolio tab displays a chart of the total risk for 
+each dam in the portfolio. You can access this 
+tab by clicking on it or selecting the “View 
+Dam Portfolio Risk Profile” link on the Main 
+page of the Risk Portfolio. 
+Each Dam Risk Profile contains a tab which 
+displays a chart of the risk of each failure mode 
+of each element. 
+ 
+2.3. 
+TRANSFERRING AND MOVING DATA 
+Each Dam Risk Profile is contained within an individual Microsoft Excel workbook. You can 
+move these workbooks to another computer provided you also move the State and Region 
+directories and store them in the directory called Data. The Data directory is automatically 
+created the first time you open the RiskPortfolio.xls application. This directory structure, 
+illustrated in Section 2.2.2, is used by the RiskPortfolio.xls application to create the list of Dams 
+on the Main page and to calculate the risk of the Entire Dam Portfolio. If the Dam Profiles are 
+moved outside this directory structure then they will not be included in the application. Use the 
+Windows Explorer to copy and move Dam Profiles between computers. 
+2.4. 
+PRINTING OUTPUT 
+You may wish to print the Dam Elements to take on site with you. As the application has been 
+developed within Microsoft Excel, printing can be done through Excel as well. Each Dam 
+Element is one worksheet. To activate the worksheet click its tab. 
+To print one copy of the active worksheet to the default printer, click the Printer icon found on 
+the Standard toolbar. To print multiple copies or select a different printer, click on the File menu 
+and select Print to open the print dialog box from which you can change the number of copies or 
+set other printer options. 
+SECTION
+SECTION
+SECTION
+SECTIONTWO 
+Hardware, Software and System Requirements 
+ 
+2-8 
+ 
+Click the printer icon to print a single copy of the active worksheet. 
+ 
+ 
+The print dialog box allows you to select multiple copies or change printers. 
+SECTION
+SECTION
+SECTION
+SECTIONTHREE 
+Comprehensive User 
+ 
+3-1 
+3. 
+Section 3 THREE 
+Comprehensive User 
+3.1. 
+START-UP 
+3.1.1. Document Review 
+After installation, you are ready to proceed building a dam inventory. The engineering 
+assessment of each dam is conducted by first collecting whatever information was available in 
+the files. In some cases this includes periodic inspection reports, design and construction 
+documentation, U.S. Corps of Engineers Phase I dam safety reports completed in the late 1970’s 
+and early 1980’s, and perhaps instrumentation data. For other dams, there may be no information 
+except a site inspection report 20 years ago. Fortunately, in most states the dams included in the 
+NID have a Phase I report which includes dam section details, flood hydrology, geology and 
+perhaps a geotechnical study.  The Risk Tool is designed for use given any amount of available 
+information. In general, with less information comes a more conservative risk profile.  
+Referenced documents should be identified and noted within the risk profile file. These notations 
+can be included at the user’s discretion in the comment block provided as shown below. 
+Dam Element illustrating Comments Section of Worksheet 
+3.1.2. Initial Data Input 
+The initial data input screen prompts the user for basic information regarding the dam and the 
+evaluator. The dam information consists mostly of data available from the NID as shown below.  
+SECTION
+SECTION
+SECTION
+SECTIONTHREE 
+Comprehensive User 
+ 
+3-2 
+ 
+This table also prompts the user to establish the 
+probability of the dam impounding water in any 
+one year. For most dams, the probability is 
+100%. This field is intended to accommodate 
+flood control facilities that are usually dry or 
+normally impound a small percentage of the 
+total flood capacity. Without a storage pool, the 
+probability of these flood control dams failing 
+through piping or stability is reduced, although 
+the risk of desiccation cracking maybe higher 
+leading to increased piping risk once the 
+reservoir fills.  Therefore, if a significant 
+storage pool is likely once every 10 years, then 
+the probability of the dam impounding water in 
+any one year is 10%. The reduced probability is 
+then factored into the failure modes requiring a 
+storage pool.  
+Use of this factor can be subjective for dams 
+with small normal storage capacities but very 
+large flood capacities. Therefore, unless the impoundment is dry, the User should input a value of 
+100%. 
+3.2. 
+BUILDING A DAM THROUGH DAM ELEMENTS 
+The front end visual basic routine has been developed to allow the user to select a suite of 
+worksheets (dam elements) which best describe the primary features of the dam being evaluated. 
+For example, a dam may include an earthfill section, concrete ungated spillway and outlet tower, 
+so those three features are selected. Similarly, a dam may be best characterized by an earthfill 
+section and two ungated spillways.  
+Selection of the most appropriate dam elements is based on review of the available information. 
+If too few or too many dam elements were initially selected, the Risk Tool allows the user to add 
+or delete dam elements at any time.  
+Dam elements were prepared for the following 
+types of dam features 
+• Concrete Gravity Dam 
+• Concrete Arch Dam 
+• Masonry Dam (being updated) 
+• Earthfill Dam 
+• Earth – Rockfill Dam 
+• Concrete Face Rockfill Dam 
+• Timber Crib Dam 
+SECTION
+SECTION
+SECTION
+SECTIONTHREE 
+Comprehensive User 
+ 
+3-3 
+• Tailings Dam 
+• Lined Impoundment 
+• Outlet Tower and Conduit 
+• Concrete Gated Spillway (being updated) 
+• Ungated Spillway (multiple selections permitted) 
+Additional dam elements (e.g. fuse plug spillways, slab and buttress concrete dam, penstock) are 
+planned for future development for inclusion in later versions of the Risk Tool.  
+3.3. 
+FAILURE MODE EVALUATION 
+Each dam element contains a series of three or four likely failure modes. These failure modes 
+represent physical mechanisms that could result in failure of the dam and an uncontrolled release 
+of the impounded reservoir. The Failure Modes Table is typically comprised of four vertical 
+columns of failure mode bins such as Earthquake, Flood, Piping and Normal Stability. In each 
+column are bins of descriptors which aid in selecting the order of magnitude of failure probability 
+F ranging from 1 to 1 x 10-6. In addition there is a column of specific observations which provide 
+clues about which bin might be appropriate. General descriptions in making subjective 
+judgements of failure probability are provided below. 
+ 
+Guidelines to Evaluate the Reasonableness of Subjective Probabilities, Barneich et Al. (1996)3 
+Description of Condition or Event 
+Order of Magnitude of 
+Probability Assigned 
+Occurrences of the condition or event are observed in the 
+available database.   
+10-1 
+The occurrence of the condition or event is not observed, or is 
+observed in one isolated instance, in the available database; 
+however, several potential failure scenarios can be identified.   
+10-2 
+The occurrence of the condition or event is not observed in the 
+available database.  It is difficult to think about any plausible failure 
+scenario; however, a single scenario could be identified after 
+considerable effort.   
+10-3 
+The condition or event has not been observed, and no plausible 
+scenario could be identified, even after considerable effort.   
+10-4 
+ 
+Probability estimates should be input in scientific notation such as “1 E –3” for 1 in 1,000 years.  
+Other notations such as 5% in 100 years should be converted to “2 E-3.” 
+                                                 
+3 Barneich et Al. (1996) “The Reliability Analysis of a Major Dam Project” Uncertainty in Geologic Environment 
+From Theory to Practice, Geotechnical Special Publication No. 58., Volume 2. 
+SECTION
+SECTION
+SECTION
+SECTIONTHREE 
+Comprehensive User 
+ 
+3-4 
+Failure Mode Descriptors and Guidance 
+The following failure modes were included in the dam element worksheets where appropriate for 
+each dam type: Normal Stability, Piping, Normal Flood, Extreme Flood, Earthquake, Gates, 
+Valves, and Outlet Tower Stability. 
+Each failure mode is characterized by a column of physical observations, geometric details, 
+analysis results and other pertinent information. The columns are made up of bins with ranges of 
+failure probability corresponding to the noted information about the dam in each bin. If possible, 
+average dam conditions and failure probabilities are described to provide a means to benchmark 
+the user’s frame of reference. This allows the evaluation to judge whether this dam is better or 
+worse than the defined average. Since each bin covers 1 to 2 orders of magnitude, estimation 
+precision is not critical. More important is relative consistency between dams and failure modes. 
+3.3.1. Piping 
+Piping is perhaps the most difficult failure mode, so the Historical Performance Method 
+developed by Dr. Mark Foster while he was at the University of New South Wales (UNSW) has 
+Design, construction or 
+maintenance information 
+Failure modes 
+Visual observations 
+SECTION
+SECTION
+SECTION
+SECTIONTHREE 
+Comprehensive User 
+ 
+3-5 
+been used to guide the binning process. The Foster et al (1998)4 paper has been appended to 
+assist the User in selecting the appropriate order of magnitude. The UNSW method provides 
+guidance on the adjustments to the failure probabilities based on whether various conditions are 
+better or worse then the average. A new piping toolbox is currently being developed for the 
+Corps of Engineers and Bureau of Reclamation that will update these guidelines. 
+The column bins provide descriptors which are based on the average historical precedent for each 
+set of conditions. The first bin covers the range of annual failure probability of 1x10-2 to 1. 
+Obviously, if there is active piping going on with turbid seepage, no filter, erodible soils and an 
+unprotected seepage exit, this represents the most dangerous situation for an earthfill dam to 
+experience piping failure. The probability of failure may be as high 0.5, or 1 if failure is 
+imminent.  
+According to Foster et al (1998)4, an average homogeneous earthfill dam with no filters has an 
+annualized probability of piping failure of 2 x 10-4. However, if there are known defects, the 
+presence of dispersive clay, observed piping, etc. then the risk levels should be higher. On the 
+other hand with well compacted clay and a filter toe drain, then the risk would be lower. 
+Suggested adjustment factors are provided in the paper. Piping through the embankment, 
+foundation and from the embankment into the foundation should also be considered. 
+3.3.2. Flood 
+It would seem that the flood probabilities would be the easiest to estimate.  However, flood 
+estimation in the United States is still rooted in deterministic hydrology, and estimation of flood 
+recurrence interval is not straightforward when all that is available is the percentage of the PMF 
+passed through the spillway. Perhaps one day a more progressive probabilistic approach to flood 
+hydrology, similar to that used in Australia, will address this problem as more states view dam 
+safety from a risk perspective. The flood recurrence probability for extreme events is always a 
+matter of some debate and should be handled consistently for each climatological area of the 
+State.  For example, in arid areas where the probable maximum precipitation (PMP) is controlled 
+by freak storms, the PMF may be projected to occur only once in a million years (1 x 10-6). 
+Whereas in more temperate climates subject to frequent tropical storms, the PMF might have a 
+return period of 1 in 10,000 or 1 x 10-4. Each State should provide guidelines for PMF 
+estimation. 
+3.3.3. Earthquake 
+For Earthquake, some judgment of whether liquefaction might be a problem and the recurrence 
+interval of the threshold earthquake for liquefaction and flow failure is required. So clues such as 
+loose sands in the foundation, or hydraulic fill construction would be important to identify. 
+However, if the region is quiet seismically, this failure mode can be skipped. Critical information 
+or assumptions should be noted directly in the yellow Comments column so there is no doubt 
+about what was assumed by the Evaluator. 
+                                                 
+4 Foster, M, R Fell, M Spannagle (1998) “Risk Assessment – Estimating the Probability of Failure of Embankment 
+Dams By Piping,” ANCOLD Annual Conference, Sydney, November 
+ 
+SECTION
+SECTION
+SECTION
+SECTIONTHREE 
+Comprehensive User 
+ 
+3-6 
+3.3.4. Stability 
+With stability, slope angles, or telltale signs of cracking, slumps or deformation may be helpful 
+indicators if stability analyses are not available. However, if factors of safety have been 
+computed in design or dam safety reports, than these figures should be used to select the 
+appropriate order of magnitude of failure probability.  
+3.3.5. General considerations 
+The age of the dam has an important impact in its historic performance. Dams can have a one to 
+two order of magnitude higher probability of failure during initial filling and their first five years 
+of operation then after five years. Dams with design flaws that have performed well for fifty 
+years may also provide an indication of lower risk, although after this period like humans they 
+start to show their age and should have a thorough checkup. Several dams in Australia started to 
+show interesting problems with deformation and cracking at 45-60 years of age, whereas some 
+century old puddle clay core dams have never shown any indications of problems. Furthermore, 
+there were major changes in dam design technology after some significant failures such as the St 
+Francis concrete gravity dam in California (post 1930) and the Teton zoned earthfill dam in 
+Idaho (post 1975). Each state may have similar eras of dam building where technological changes 
+were introduced to advance the state of practice. An example is the shift away from seepage 
+collars in 1990’s after several failures of NRCS dams with these details. 
+Without proper documentation of design and construction, the User should consider a 
+conservative approach to selecting failure probabilities. In essence, the User is identifying a lack 
+of supporting data for a given failure mode.  If there is a lack of a recent inspection, the tables 
+suggest that the probabilities of failure should be increased by 10. 
+3.4. 
+CONSEQUENCE ASSESSMENT 
+The main focus of state dam safety regulators is protecting public safety. Therefore, the type of 
+consequence of primary interest in the prioritization tool is human lives. However, the method 
+typically used for life loss estimation from dam failure (Graham, 1999)5 requires extensive dam 
+break modeling, which is typically not available to the regulator.  
+To overcome this limitation, Wayne Graham developed a simplified procedure dated June 18, 
+2004 entitled “A Method for Easily Estimating the Loss of Life from Dam Failures”, appended 
+to this report. A spreadsheet was developed to assist in determining the potential for loss of life 
+based on the methodology outlined by Graham using primarily information from the NID 
+database.  
+The simplified approach requires several estimates of hydrologic and geographic parameters: 
+• Estimation of the peak dam breach discharge; 
+• Estimation of the peak 10-year frequency discharge; 
+• Estimation of the Population at Risk (PAR) in a given reach; and 
+                                                 
+5 Graham, Wayne J., 1999. A Procedure for Estimating Loss of Life Caused by Dam Failure. September; and USBR, 
+1999. Policy and Procedures for Dam Safety Modification Decision Making. April 
+SECTION
+SECTION
+SECTION
+SECTIONTHREE 
+Comprehensive User 
+ 
+3-7 
+• Estimation of the fatality rate in a given reach. 
+An illustration of the worksheet used to estimate the life loss potential is provided below. The 
+practical application of assessing the major inputs to the worksheet is discussed below. 
+Life Loss Potential Worksheet 
+ 
+The resulting LLP values for the Flood and Sunny Day conditions are then applied to each failure 
+mode for every Dam Element. The User must manually input the values into each failure mode at 
+the locations shown below.  
+ 
+ 
+ 
+ 
+ 
+Entering LLP Estimate 
+NID data from 
+Main worksheet 
+Peak discharge for flood and sunny day 
+conditions and 10-yr discharge data 
+Estimate for 
+population at risk 
+LLP values for Flood (top) and 
+Sunny Day (bottom) 
+SECTION
+SECTION
+SECTION
+SECTIONTHREE 
+Comprehensive User 
+ 
+3-8 
+ 
+Selection of the appropriate LLP for each failure mode should thoughtfully consider the 
+operation of the particular dam and spillway. For instance, it is possible that failure of a valve on 
+an outlet works facility would not result in an uncontrolled release of the reservoir. However, the 
+resulting discharge may or may not be a hazard. Guidance for application of the LLP value is 
+provided in the following table. 
+Failure Mode 
+LLP Consideration 
+Earthquake 
+Sunny Day 
+Flood 
+Flood 
+Normal Stability 
+Sunny Day 
+Piping 
+Sunny Day 
+Seepage 
+Sunny Day 
+Training Walls 
+Flood – can failure of training walls lead to 
+catastrophic breach and release of reservoir? 
+Abutment Outflanking 
+Flood 
+Lined Chute and Dissipator Flood – can spillway channel erosion lead to 
+catastrophic breach and release of the reservoir? 
+Unlined Channel 
+Flood – can spillway channel erosion lead to 
+catastrophic breach and release of the reservoir? 
+Conduits 
+Sunny Day 
+Gates  
+Flood – can gate failure lead to catastrophic breach 
+and release of the reservoir? 
+Valves 
+Sunny Day – can valve failure lead to catastrophic 
+breach and release of the reservoir? 
+If failure of a gate, valve or spillway chute does not cause a catastrophic breach of the dam, then 
+a much smaller PAR and LLP should be utilized for these failure modes.   
+SECTION
+SECTION
+SECTION
+SECTIONTHREE 
+Comprehensive User 
+ 
+3-9 
+ 
+3.4.1. Estimating the Peak Dam Breach Discharge  
+Key to the practical application of the methodology is in the estimate of the peak dam breach 
+discharge. Ideally, the user will have access to dam break analyses that include discharge values 
+for a sunny day failure as well as failure during the inflow design flood. If no detailed dam 
+breach analyses are available, the most simplistic approach to estimating the peak dam breach 
+discharge is to utilize the Froelich equation. 
+Qp = 40.1V.295H1.24 
+where:  
+Qp = the peak outflow in cubic feet per second from the breached 
+embankment dam 
+V = the reservoir storage volume in acre-feet at the time of failure 
+H = the height of the embankment in feet from the bottom of the final 
+breach to the top of embankment 
+The parameters utilized in this equation are readily ascertained from the NID database.  With the 
+information provided in the Main worksheet (shown below), the Risk Tool automatically 
+computes peak discharge using the Froelich equation. The calculated value can easily be 
+overwritten by the user if alternate data is available, such as computed breach flows from 
+dambreak analyses.   
+ 
+NID Data Input to Risk Tool 
+3.4.2. Estimating the 10-year Frequency Peak Discharge  
+The 10-year flood flow or flood with an annual exceedance probability of 1 x 10-1 represents in 
+simplistic terms the bank full condition where no loss of life would be expected. Estimates for 
+the 10-year frequency flood event may or may not be available and could be difficult to 
+simplistically estimate.  There are several methods for estimating the 10-year frequency peak 
+discharge and these include: 
+• Statistical analysis of stream gauge data 
+• Regional regression equations 
+SECTION
+SECTION
+SECTION
+SECTIONTHREE 
+Comprehensive User 
+ 
+3-10 
+• Rainfall-runoff modeling 
+Of the methods outlined above and assuming no detailed estimates of the 10-year discharge are 
+readily available, the regional regression equations offer the most simplistic method for 
+estimating the 10-year discharge.  The USGS has published nationwide summaries for estimating 
+flood discharges for ungaged sites in the publication entitled Nationwide Summary of U.S. 
+Geological Survey Regional Regression Equations for Estimating Magnitude and Frequency of 
+Floods for Ungaged Sites, 1993, Water-Resources Investigations report 94-4002.  The USGS 
+link:  http://onlinepubs.er.usgs.gov/djvu/WRI/wrir_94_4002.djvu 
+Regression equations have been developed for all 50 states based on properties of the watersheds 
+within specific definable regions.  These parameters (among others) typically include: 
+• Drainage area, 
+• Basin or stream slope, 
+• Basin mean elevation, and 
+• Mean annual precipitation. 
+The drainage area is typically published in the NID database and the other parameters can 
+generally be obtained from available USGS or other available topographic mapping. 
+It is important to note that the USGS regional regression equations are based on data from 
+gauged sites in the region, and as more data becomes available, these equations are continually 
+being adjusted and updated. 
+In addition, the USGS has also developed a software package for estimating floods at ungauged 
+sites.  The program is termed The National Flood Frequency (NFF) program and offers a 
+simplistic tool for determining the 10-year frequency discharge lacking any detailed or other 
+estimates.  
+3.4.3. Estimating the Population at Risk (PAR)  
+Ideally, flood and sunny day dam break inundation maps are available from dam safety reports or 
+the Emergency Action Plan (EAP), from which the count of dwellings, roads, bridges, schools, 
+parks and industrial facilities can be made. However, if this information is unavailable, then the 
+flood rise could be assumed at say 20% of the dam height in the first 3 mile reach, 10% of the 
+dam height from 3 to 7 miles downstream, and 5 % of the dam height from 7 to 15 miles 
+downstream. Typically, the potential for loss of life diminishes significantly beyond a distance of 
+15 miles due to increased warning time for these areas. However, the ultimate decision to include 
+potential loss of life beyond 15 miles is the User’s. If desired, in order to work within the context 
+of the Risk Tool, the user should include potential loss of life beyond 15 miles in the 7 to 15 
+miles category on the LLP worksheet.  
+Three people are assumed as PAR for each dwelling within the inundation footprint. Cars on 
+bridges and roads are assumed to have 2 occupants, and trailer parks, schools, recreation facilities 
+including fishing areas, and commercial properties are characterized based on their size and 
+temporal (seasonal) use.  If the User has specific information then other occupancy rates can be 
+used.   
+SECTION
+SECTION
+SECTION
+SECTIONTHREE 
+Comprehensive User 
+ 
+3-11 
+Lacking any other data, the approach offers a sound basis for approximating the dam inundation 
+extents. Unsteady flow dam breach models are the best way to estimate the inundation extents 
+and the PAR.  However, these models are very time consuming and require detailed data.  New 
+GIS tools are available that can greatly assist with the plotting of dam breach inundation extents 
+and estimation of the PAR.  The simplistic methods of estimating the peak breach discharges and 
+ratios of peak dam breach discharge to 10-year discharge (and hence the potential hazard) do not 
+account for any attenuation of the dam breach flood wave or the effect of large contributing 
+drainage areas below the dam. 
+3.4.4. Estimate of the Fatality Rate  
+The simplistic approach presented in Graham (2004) and provided in the table below does not 
+account for attenuation of the dam breach flood wave or the effect of large contributing drainage 
+areas below the dam.  As such, the estimates of the fatality rates that are based on distance 
+downstream from the dam and the ratio of the peak dam breach discharge to the 10-year peak 
+discharge could be skewed. At any rate, lacking any detailed dam breach and inundation analysis, 
+the approach and fatality rate estimates are reasonable and based on data from real dam breach 
+events. 
+ 
+Fatality Rates in Dam Failures, Graham (2004)6 
+Fatality Rate based on distance from dam
+Qb/Q10
+0 to 3 miles
+3 to 7 miles
+7 to 15 miles
+> 100
+0.75
+0.5
+0.37
+50 to 100
+0.5
+0.33
+0.25
+30 to 50
+0.25
+0.2
+0.13
+20 to 30
+0.2
+0.15
+0.1
+10 to 20
+0.1
+0.08
+0.05
+5 to 10
+0.02
+0.015
+0.01
+3 to 5
+0.01
+0.007
+0.005
+1 to 3
+0.005
+0.003
+0.002
+< 1
+0.001
+0.0001
+0
+ 
+In the LLP worksheet, “Flood” numbers are appropriate for the full or percentages of the 
+Probable Maximum Flood (PMF) and Threshold Failure Flood (TFF) scenarios where some 
+warning of the impending flood is likely. The Threshold Failure Flood is defined as the flood 
+where there is just enough overtopping of the dam to cause failure by erosion or collapse. This 
+may range from 6 inches to 3 feet above the dam crest flood depending on the crest details and 
+downstream slope conditions. “Sunny Day” conditions refer to a piping or earthquake failure 
+where there is no warning. The inundation footprint may be larger for the flood case because the 
+flood is being passed as well, but the warning time may significantly reduce the population at 
+risk. Recent work by Wayne Graham reveals that even with warning, some portion of the PAR 
+does not evacuate. 
+                                                 
+6 Graham, Wayne (2004) “Risk-Base Dam Safety Prioritization” Draft. 
+SECTION
+SECTION
+SECTION
+SECTIONTHREE 
+Comprehensive User 
+ 
+3-12 
+The simplified method was checked for several dams with detailed dam breach modeling results. 
+Both Graham (1999, 2004) methods provided consistent results within 10 % which is quite good 
+for such a simplified process.  
+If the estimated LLP for either the “Flood” or “Sunny Day” condition is greater than 1,000, the 
+User must override the estimate to 1,000. Currently, the workbook only supports an LLP of up to 
+1,000. 
+3.5. 
+RISK CATEGORIZATION 
+Once each failure mode probability F has been entered, then the appropriate LLP should be 
+transferred from the LLP worksheet. With these two values, the loss of life risk is computed by 
+multiplying the failure probability by the consequences. In many of the arid western states, dams 
+may fill only rarely. This factor is multiplied times the non-flood failure probability, based on the 
+probability of filling in any year (see Section 3.1.2). 
+The computed failure probability F – LLP pairs are plotted automatically on the Risk Plot (shown 
+below). 
+SECTION
+SECTION
+SECTION
+SECTIONTHREE 
+Comprehensive User 
+ 
+3-13 
+ 
+Risk Plot from any Dam Element worksheet 
+The diagonal lines on this plot are lines of equal risk. Guidance on risk priority is provided from 
+the Bureau of Reclamation7 and ANCOLD8 which have led to three regions of risk priority and 
+urgency: 
+Priority A – Urgent Action Recommended 
+                                                 
+7 US Bureau of Reclamation (2003) “Guidelines For Achieving Public Protection in Dam Safety Decisionmaking,” 
+June 15  
+8 Australian National Committee on Large Dams (2003) “Guidelines in Risk Assessment,” ISBN 0 731 027 620 
+SECTION
+SECTION
+SECTION
+SECTIONTHREE 
+Comprehensive User 
+ 
+3-14 
+Priority B – Risk Should be Reduced in Accordance with Priorities 
+Priority C – Diminished Need to Reduce Risk Subject to ALARP Principle.  
+Urgent Action means that the dam safety risk as it is currently understood by the State Engineer 
+is very high and that urgent action is required by the dam owner. These actions might range from 
+contacting the owner expressing concern to requesting additional investigations of the failure 
+mode in question to requiring reservoir restriction in extreme cases. Further investigations may 
+be all that are necessary to clarify the situation and reveal that the assumptions made in this first 
+assessment are excessively conservative. The lower limit of risk urgency corresponds to an 
+annualized lives risk of 1 in 100 or 1 x 10-2. 
+Risk Should be Reduced in Accordance with Priorities indicates that risk level still falls 
+above the level of  1 in 1000 or 1 x 10-3, but that the risk can be addressed in an appropriate and 
+deliberate sequence of dams or failure modes based on their relative risk. This category 
+recognizes that funds and resources available to address these dam risk issues are finite and that 
+it takes time to resolve these issues. Other factors such as social and political issues may also be 
+considered. However, the risk is still considered by international guidelines to require some 
+action to lower risk. 
+Diminished Need to Reduce Risk Subject to the ALARP Principle covers the region where 
+the dam safety risk falls below the 1 x 10-3 limit. Satisfying the ALARP test means that the risk 
+has been reduced as low as reasonably practicable. This reasonableness test reflects society’s 
+aversion to incidents that can potentially cause large loss of life but recognizes that there is a 
+point of diminished returns. ALARP is defined as the point where additional risk reduction is not 
+possible without a disproportionate investment for the benefit gained. 
+Each State may wish to adjust these dam safety risk thresholds and definitions to best suit their 
+specific circumstances. These are suggested limits based on established Bureau of Reclamation 
+and international practice. The results from this risk tool should not be used to judge risk 
+tolerability since these imprecise quantities are meant only to establish priorities. 
+ 
+ 
+ 
+SECTION
+SECTION
+SECTION
+SECTIONTHREE 
+Comprehensive User 
+ 
+3-15 
+Oglala Dam
+Risk Profile
+1E-05
+1E-04
+1E-03
+1E-02
+1E-01
+1E+00
+Concrete Ungated
+Spillway - Extreme
+Loading Instability
+Concrete Ungated
+Spillway - Failure
+Flood2
+Concrete Ungated
+Spillway - Operating
+Flood
+Earthfill Dam -
+Earthquake
+Earthfill Dam -
+Flood1
+Earthfill Dam -
+Piping
+Earthfill Dam -
+Normal Stability
+Outlet Works -
+Tower Stability (EQ)
+Outlet Works -
+Conduit 
+Outlet Works -
+Gates
+Outlet Works -
+Valves
+Total Risk
+Risk Value
+Risk Value
+Priority A
+Priority B
+Priority C
+3.6. 
+RISK PRIORITIZATION 
+The final step in the 
+process is the 
+ranking of the 
+failure modes and 
+dams in each 
+grouping by dam 
+safety risk. Each 
+failure mode is 
+ranked by risk in the 
+bar chart histogram 
+navigated to by 
+clicking the Risk 
+Profile tab at the 
+base of the 
+worksheet. This 
+illustrates the relative 
+risk level for each 
+failure mode for each 
+dam separately. If the User then wants to see what failure mode is predominating the risk for a 
+particular dam, then they can look back at the Risk Profile. If this does not seem right, then the 
+specific failure mode worksheet selections can be reviewed for reasonableness and adjustment.  
+To view other dams in the portfolio, click on the RiskProfile.xls tab, which will bring up the 
+state dam profiles by region or other preset grouping. To view the entire dam portfolio risk 
+profile by total risk, then click on the View Dam Portfolio Risk Profile box. This provides a 
+clear graphical presentation of the relative dam safety risk of each dam in the grouping. 
+Risk Ranking By Failure Modes for a Given Dam (within each Dam 
+Element) 
+SECTION
+SECTION
+SECTION
+SECTIONTHREE 
+Comprehensive User 
+ 
+3-16 
+Dam Portfolio Risk
+1.00E-05
+1.00E-04
+1.00E-03
+1.00E-02
+1.00E-01
+1.00E+00
+Oglala
+Prarie No.1
+Tohajiilee
+FEMA
+Coolidge
+Dam
+Risk_Rev2
+San
+Francisco
+Dam
+Charlie Day
+Agency
+FEMA Dam
+Risk_Rev2
+Dam
+Total R isk
+Loss of Life Potential
+Priority A
+Priority B
+Priority C
+ 
+Risk Portfolio 
+ 
+SECTION
+SECTION
+SECTION
+SECTIONFOUR 
+Beta Testing and Trials 
+ 
+4-1 
+4. 
+Section 4 FOUR 
+Beta Testing and Trials 
+4.1. 
+GENERAL 
+Because risk methods are relatively new to state regulators, two mini-trials were conducted to 
+confirm the viability and acceptability of the process. The trials were implemented in August and 
+September 2004 with a three day session with the New Jersey DEP and a one day workshop with 
+ten Bureau of Reclamation risk specialists examining Bureau of Indian Affairs dams. These 
+sessions were immensely valuable in demonstrating that the process provided a quick, efficient 
+and reasonable quantification of risk for a wide variety of dams, some with almost no 
+information. Based on these trials a number of enhancements were implemented to improve the 
+process. 
+The next step was an extended beta trial with the State of Texas. This process included training 
+of new dam safety staff and several multi-day workshops. This trial demonstrated the need for a 
+more user-friendly front end setup routine, as well as guidelines for selecting average dam 
+benchmark failure probabilities. These enhancements were developed and trialed. Texas’ unique 
+situation with over 7,500 dams also stimulated the need for a more rapid consequence analysis 
+process to identify which groups of dams should be tackled in what priority. 
+The second beta trial was conducted in the State of Washington which has implemented one of 
+the most advanced risk-based dam safety priority systems. This short trial confirmed the direction 
+being followed in development and that the process was equally viable for more advanced states 
+as for states with less developed dam safety programs 
+4.2. 
+TRIALS PERFORMED 
+Each of the trials provided the development team valuable guidance and insight about how the 
+prioritization tools would be utilized. 
+New Jersey DEP, August 2004. The first trial was conducted with the New Jersey DEP. The 
+three person DEP team included a mid and two junior level staff. The team collected files for 7 
+dams and after a half day training exercise were able to complete 7 dams in 1.5 days. The team 
+struggled with flood recurrence and preferred their normal percentage of PMF. However, the 
+LLP calculation was completed easily with a useful CD-based state topographic map. The Corps 
+Phase I inspection reports were very useful. However, we found that some of the risks were 
+probably over-predicted. The team was able to calibrate ourselves on a series of cascade flood 
+failures that had occurred several weeks before, so there was a timely impetus for the risk 
+prioritization work. 
+SECTION
+SECTION
+SECTION
+SECTIONFOUR 
+Beta Testing and Trials 
+ 
+4-2 
+ 
+Failure of Upper Aetna Dam in NJ 
+Bureau of Indian Affairs Dam Trial, September 2004. A Workshop was conducted at the 
+Bureau of Reclamation with ten experienced dam safety specialists. After working the first dam 
+together soliciting feedback on the process, the group split up into two-person teams, completing 
+six more dams in less then 2 hours. The dams had a wide range of information including one case 
+not in the NID database. The group suggested revised failure mode definitions to match 
+experience. Much discussion ensued about the addition of warning time to LLP computation. We 
+found that it was important to use a facilitator in each state.  
+Texas Beta Trial, 2005 – 2006. The first beta trial of the full development package was 
+conducted with Texas Commission on Environmental Quality (TCEQ) dam safety team. The first 
+step was a three day training exercise at the TCEQ office in Austin in October 2005. The team 
+worked through a number of dams and recognized some unique situations in Texas: 
+• Since the dam safety program had been inactive there was a huge effort required to bring 
+the team up to speed with the 7,500 dam inventory. In fact a prescreening tool was 
+needed;. 
+ Training of new staff with limited dam safety experience; 
+ Useful calibration of Livingston Dam near failure; 
+ Focus on flood control dams; and 
+• Focus on dams with little or no information. 
+SECTION
+SECTION
+SECTION
+SECTIONFOUR 
+Beta Testing and Trials 
+ 
+4-3 
+ 
+Livingston Dam during Hurricane Rita 
+TCEQ was then provided with a trial period between October 2005 – March 2006. In the midst 
+of this a Flood Estimation Training was provided in December 2005. Furthermore, TCEQ 
+developed new Draft Statewide Flood Guidelines in March 2006. There was a follow-up 
+workshop in April 2006 in which a new Visual Basic front end routine was introduced to 
+simplify assembly of dam features. To address the problem of subjectivity in some assessments, 
+the tool provides guidance on “average dam” conditions from the UNSW dam failure database. 
+The team focused on aging NRCS dams, many with corrugated metal pipe (CMP) outlets. The 
+trial revealed that many of the NID hazard classifications were inaccurate because of the 
+significant development in the last 20 years. Another issue was infrequent inspections, so the 
+team increased the risk by a factor of 10. 
+Washington Beta Trial, April 2006. Washington State was selected as the second beta test site 
+because of their advanced dam safety prioritization program in place for five years. The 
+Washington team was cautious at first, but after working several dams realized that the process 
+helps to correct hazard classifications and checks a broader range of failure modes. They became 
+very supportive and liked “average dam” risk guidelines. Washington plans to use the tool as part 
+of the yearly cycle of dam inspections. 
+Other mini-trials have been conducted with US Fish and Wildlife Service, US Park Service, and 
+other state regulators who have shown interest. This has demonstrated time and again the value 
+of providing a tool that is transparent and easily adaptable to the unique situations in any state. A 
+prescriptive “black box” would just not work with such a diverse and independent group of state 
+regulators. Hence the prioritization process is truly still evolving. 
+ 
+ 
+Appendix A 
+ 
+ 
+Appendix B
+ 
+ 
+Risk-Based Dam Safety Prioritization 
+A Project Sponsored by ASDSO and FEMA 
+A Method for Easily Estimating the Loss of Life from Dam Failure 
+Draft, by Wayne Graham, June 18, 2004 
+ 
+Introduction 
+ 
+There is a hazard potential classification system used in the United States to describe the adverse 
+consequences that would result from dam failure.  There are a variety of hazard classification 
+systems in use, and most assign a dam either a low, significant or high hazard classification.   
+ 
+The Federal Guidelines for Dam Safety: Hazard Potential Classification Systems for Dams, 
+FEMA 333, was issued in 1998 in an attempt to provide hazard classification definitions that 
+could be used uniformly by all federal and state dam safety agencies.  FEMA 333 defines the 
+three hazard potential classifications as follows: 
+ 
+Low Hazard Potential – Dam failure results in no probable life loss and low economic and/or 
+environmental losses. 
+ 
+Significant Hazard Potential – Dam failure results in no probable life loss but can cause 
+economic loss, environmental damage, disruption of lifeline facilities, or can impact other 
+concerns. 
+ 
+High Hazard Potential – Dam failure results in probable life loss. 
+ 
+Purpose and Need 
+ 
+Most dam safety management organizations apply more stringent inspection, design and 
+maintenance criteria to high hazard dams than to significant, and especially, low hazard dams.  
+There is a need to develop a procedure for further dividing high hazard dams into categories 
+based on the adverse consequences that would result from dam failure.  The failure of some high 
+hazard dams might cause loss of life whereas the failure of other high hazard would likely cause 
+the death of perhaps hundreds of people.  The failure of some high hazard dams can easily cause 
+much more destruction and damage than a high hazard dam that just marginally fit into that 
+category.  A simple to use loss of life estimating procedure is needed for dam safety risk based 
+prioritization to help assure that the limited time and financial resources allocated to dam safety 
+are wisely invested. 
+ 
+ 
+ 
+Historical Dam Failure Data 
+ 
+Many dam failures do not cause any loss of life.  During the 9-year period from late 1985 to late 
+1994, there were more than 400 dam failures in the United States.  In more than 98 percent of 
+these dam failures, there were no fatalities.  Many of these dams were small and/or were located 
+in sparsely populated areas. 
+ 
+While many dams have failed with no resultant life loss, some of the worst U.S. floods 
+(measured in terms of life loss) have resulted from dam failure.  Dam failure can be sudden, 
+causing rapid onset of flooding followed by rapidly rising flood levels.  During the last 25 years 
+(1979 to 2003), there have been no U.S. dam failures that have caused more than about 4 
+fatalities.  Prior to this period, however, the U.S. has had the South Fork (Johnstown) Dam 
+failure in 1889 which resulted in 2,209 deaths, and the St. Francis Dam failure in 1928 which 
+resulted in about 420 deaths (the exact number of deaths is subject to some uncertainty). 
+ 
+One of the defining characteristics of dam failures, is that the highest fatality rates and most of 
+the loss of life occur in close proximity to the dam.  Data from several dam failures will be 
+presented to demonstrate this characteristic.   
+ 
+There have been 6 or 7 U.S. dam failures that have caused more than 50 fatalities.  Table 1 
+summarizes data from these failures.  Note that in several of these cases most of the fatalities 
+occurred in the first few miles downstream from the dam.  
+ 
+ 
+ 
+Table 1 
+Dam Failure Data 
+U.S. Dams that Caused More Than 50 Fatalities 
+Percentage of Total Loss of Life in Listed 
+Distance Downstream from Dam 
+Dam, State and Date 
+of Failure 
+Height 
+(ft) 
+Volume 
+Released 
+(acre-feet) 
+Total Loss 
+of Life 
+First 3 miles 
+First 7 miles 
+First 15 miles 
+Williamsburg Dam,  
+(Mill River Dam) MA 
+May 16, 1874 
+43 
+307 
+138 
+41 
+100 
+100 
+South Fork Dam 
+(Johnstown Dam) PA 
+May 31, 1889 
+72 
+11,500 
+2,209 
+Unknown 
+Unknown 
+About 100 
+Walnut Grove Dam 
+AZ 
+February 22, 1890 
+110 
+60,000 
+70 to 100 
+Precise location of people is not available.  
+Many of those that died were at a 
+construction camp, 15 miles from the dam. 
+Austin Dam PA 
+September 30, 1911 
+43 to 
+50 
+550 to 850 
+78 
+100 (all in 
+first 2 miles) 
+100 
+100 
+St. Francis Dam CA 
+March 12-13, 1928 
+188 
+38,000 
+420 
+Fatalities occurred throughout the 54 mile 
+reach from the dam to the Pacific Ocean 
+Buffalo Creek Coal 
+Waste Dam WV  
+February 26, 1972 
+46 
+404 
+125 
+28 
+85 
+100 
+Canyon Lake Dam SD 
+June 9, 1972 
+37 
+700 
+(10,100 from 
+entire flood) 
+33 from dam 
+failure (165 
+total) 
+Unknown 
+Unknown 
+100 
+ 
+More accurate data is available for the failure of dams that have occurred in recent years.  Table 2 
+summarizes information for U.S. dam failures that occurred from 1960 to 1998 and released up 
+to 2,000 acre-feet during their failure. 
+ 
+ 
+ 
+ 
+Table 2 
+Dam Failure Data 
+Dams that released up to 2,000 acre-feet of water during their failure 
+U.S. data for failures that caused fatalities 
+Arranged in ascending order of volume released from reservoir, excluding flood inflow 
+1960 to 1998 
+ 
+Dam 
+Height (ft) 
+Volume 
+Released 
+ (acre-ft) 
+Loss of Life 
+Percentage 
+of total LOL  
+in first 3 mi. 
+Percentage 
+of total LOL  
+in first 7 mi. 
+Percentage 
+of total LOL 
+in first 15 mi 
+Bear Wallow 
+36 
+40 
+4 
+100 
+100 
+100 
+Lake “O” 
+Hills 
+15 
+48 
+1 
+Unknown 
+Unknown 
+ 
+Unknown 
+Evans, then 
+Lockwood 
+18 and 14 
+72 and 32 
+2 
+100 
+100 
+100 
+Mohegan 
+Park 
+20 
+138 
+6 
+100 
+100 
+100 
+Bergeron 
+Pond 
+36 
+193 
+1 
+100 
+100 
+100 
+Lee Lake 
+25 
+300 
+2 
+0 
+100 
+100 
+Buffalo 
+Creek Coal 
+Waste 
+46 
+404 
+125 
+28 
+85 
+100 
+Laurel Run 
+42 
+450 
+40 
+100 
+100 
+100 
+Kelly Barnes 
+40 
+630 
+39 
+100 
+100 
+100 
+Kendall Lake 
+18 
+690 
+4 
+100 
+100 
+100 
+Lawn Lake, 
+then Cascade 
+Lake 
+26 and 17 
+674 and 25 
+3 
+0 
+100 
+100 
+Baldwin Hills 
+66 
+700 
+5 
+100 
+100 
+100 
+Canyon Lake 
+37 
+700 
+(10,100 from 
+entire flood) 
+33 from dam 
+failure 
+(165 total)  
+Unknown 
+Unknown 
+100 
+Nix Lake 
+23 
+837 
+1 
+100 
+100 
+100 
+Little Deer 
+Creek 
+86 
+1150 
+1 
+0 
+100 
+100 
+Timber Lake 
+33 
+1449 
+2 
+100 
+100 
+100 
+ 
+ 
+ 
+ Procedure for Estimating Losses 
+ 
+From the information provided above, it is clear that study efforts should focus on evaluating the 
+flooding that would occur in the first 5 to 15 miles downstream from a dam.  It is in these areas 
+where the warning may be deficient, the flooding most severe. 
+ 
+The steps involved in estimating consequences are as follows: 
+ 
+Step 1: Determine dam failure scenario to evaluate 
+ 
+Assume that the dam fails with the reservoir water surface at the crest of the dam.  While dams 
+may fail from piping or other causes with the water below the dam crest, this simplifying 
+assumption is reasonable to use for nearly all dams. 
+ 
+Step 2: Determine area flooded from dam failure 
+ 
+In cases where dam failure inundation maps are not available, it will be necessary to develop 
+some approximation of the flooding that would result from dam failure.  This necessitates 
+estimating the peak dam failure outflow at the dam and in downstream areas and then 
+determining the extent of flooding that would result from these discharges.  Dam failure 
+modeling can be used for this or some simplified procedures, described below, can be used.   
+ 
+The peak dam failure discharge for embankment dams can be estimated using an equation 
+contained in the paper, “Peak Outflow from Breached Embankment Dam,” by David C. Froelich.  
+The equation, in English units, is Qp = 40.1V.295H1.24, where Qp is the peak outflow in cubic feet 
+per second from the breached embankment dam, V is the reservoir storage volume in acre-feet at 
+the time of failure, and H is the height of the embankment in feet from the bottom of the final 
+breach to the top of embankment. 
+ 
+The peak discharge from a dam failure decreases, sometimes rapidly, as the flood travels 
+downstream from the dam.  Plots of peak discharge (as a percentage of the discharge 
+immediately downstream from the dam) versus distance downstream from the dam are available 
+for estimating flows in downstream areas.  One such plot appears in “Dam Safety Guidelines, 
+Technical Note 1: Dam Break Inundation Analysis and Downstream Hazard Classification,” 
+issued by the State of Washington in July 1992.  Flood depths at various locations along the river 
+can then be determined using Manning’s equation using cross section geometry obtained from 
+the best available topographic maps.  Flood boundaries can then be approximated on available 
+mapping.  The maps should not extend more than 15 miles downstream from the dam because 
+ 
+ 
+historical dam failure data indicates that people in these areas have not been seriously threatened 
+by dam failure (in most cases). 
+ 
+Step 3 – Estimate the number of people at risk from dam failure 
+ 
+Using the results from step 2, the number of people at risk can be estimated for various locations 
+downstream from the dam.  It is suggested that the number of people at risk be estimated for 
+three different reaches: the dam to mile 3, mile 3 to mile 7, and mile 7 to mile 15.  The number of 
+people at risk can be estimated using the population of communities and the percentage of the 
+community that is flooded or by obtaining the number of houses off of maps or a site visit and 
+multiplying the number of houses or residences by 3.  Seasonally occupied locations or sites that 
+have significant differences in population between weekday and weekend, such as campgrounds, 
+may need special consideration. 
+Step 4 – Determine the Loss of Life From Dam Failure 
+ 
+People have located residences and other facilities on the floodplain for hundreds or thousands of 
+years.  Many years ago, people had little knowledge of the flooding that could occur from natural 
+(as opposed to dam failure) flooding and would sometimes locate in areas that could be flooded 
+every few years.  With the implementation of  flood plain zoning regulations as part of the 
+National Flood Insurance Program, there is less new development in the most frequently flooded 
+portions of the floodplain although the existing developments remain and new developments do 
+occur in areas that would be impacted by dam failure.  A dam failure can potentially cause large 
+loss of life when the discharge from dam failure is much greater than typical and usual flows on 
+the river that the flood wave passes through.  Comparing the discharge from dam failure to 
+commonly occurring flows can provide some measure of the potential danger caused by the dam 
+failure flood.  The 10-year flood, i.e., the flood that has a 10% chance of occurring in any given 
+year can be used as a base to compare dam failure discharges to.  The 10-year flood is used 
+because it can generally be accurately estimated for a site.  Three dam failures from the 1970’s 
+show how a comparison of the dam failure discharge to the 10-year flood can help explain why 
+some dam failures are extremely lethal. 
+ 
+Buffalo Creek Coal Waste Dam failed on February 26, 1972.  There were 125 fatalities with 
+about 82% of these occurring in the first 6 miles downstream from the dam.  The drainage area at 
+the dam was only 1.1 square miles.  The peak discharge resulting from dam failure is available 
+for three locations.  Less than 1 mile downstream from the dam, at Buffalo Creek below 
+Saunders, the peak discharge resulting from dam failure was 50,000 ft3/s and the 10-year flood at 
+this site is 805 ft3/s resulting in a ratio of dam failure discharge to 10-year discharge of about 62.  
+About 7 miles downstream from the dam, at Buffalo Creek below Stowe, the peak discharge 
+from dam failure was 13,000 ft3/s and the 10-year flood at this site is 2,100 ft3/s resulting in a 
+ratio of dam failure discharge to 10-year discharge of about 6.  About 12 miles downstream from 
+the dam, at Buffalo Creek above Accoville, the peak discharge from dam failure was 8,800 ft3/s 
+ 
+ 
+and the 10-year flood at this site is 2,820 ft3/s resulting in a ration of dam failure discharge to 10-
+year discharge of about 3.  
+ 
+Laurel Run Dam failed on July 20, 1977.  There were 40 fatalities, with all of these occurring in 
+the first 2.5 miles downstream from the dam.  The drainage area at the dam was 7.9 square miles.  
+The peak dam failure discharge was 37,000 ft3/s.  The 10-year flood at this location is 920 ft3/s.  
+The ratio of the dam failure peak discharge to the 10-year flood peak discharge is about 40.   
+ 
+Kelly Barnes Dam failed on November 6, 1977.  There were 39 fatalities, with all of these 
+occurring in the first 1.5 miles downstream from the dam.  The drainage area at Toccoa Falls 
+College, 0.8 miles downstream from the dam is 6.2 square miles.  The peak discharge at this 
+location resulting from dam failure was 24,000 ft3/s.  The 10-year flood at this location is 1,260 
+ft3/s.  The ratio of the dam failure peak to the 10-year flood peak discharge is about 19.  At a 
+location 4.5 miles downstream from the dam, the drainage area is 12.8 square miles.  The peak 
+discharge resulting from dam failure was 6,380 ft3/s at this location and the 10-year flood is 
+1,960 ft3/s, resulting in a ratio of dam failure discharge to 10-year flood peak discharge of about 
+3.3   
+ 
+The loss of life from dam failure can be estimated using a fatality rate that is appropriate for each 
+area impacted by dam failure.  Table 3 supplies fatality rates that can be used to estimate the loss 
+of life caused by dam failure.  The table separates the area downstream from a dam into three 
+reaches (measured by distance from the dam) and provides fatality rates based on the ratio of the 
+peak dam failure discharge divided by the 10-year flood for each of the three reaches.  Except for 
+very unusual cases (such as very high dams), the contribution of loss of life from areas more than 
+15 miles downstream from a dam should be minimal and generally would be much less than the 
+losses estimated for the first 15 miles downstream from the dam. 
+ 
+Table 3 
+Fatality Rates for Estimating Life Loss from Dam Failure 
+Derived from an Analysis of U.S. Dam Failures 
+(June 18, 2004 Note: This is draft information, subject to considerable revision.  Do not use or quote) 
+Fatality Rate (Percentage of people [prior to any evacuation] within the 
+dam failure floodplain who would likely die as a result of dam failure) 
+The ratio of the peak 
+discharge resulting from dam 
+failure divided by the 10-year 
+flood discharge  (measured at 
+upstream end of reach) 
+From the dam (mile 
+0.0) to mile 3.0 
+From mile 3.0 to mile 
+7.0 
+From mile 7.0 to 
+mile 15.0 
+More than 100 
+0.75 
+0.50 
+0.37 
+50 to 100 
+0.50 
+0.33 
+0.25 
+30 to 50 
+0.25 
+0.20 
+0.13 
+20 to 30 
+0.20 
+0.15 
+0.10 
+ 
+ 
+10 to 20 
+0.10 
+0.08 
+0.05 
+5 to 10 
+0.02 
+0.015 
+0.01 
+3 to 5 
+0.01 
+0.007 
+0.005 
+1 to 3 
+0.005 
+0.003 
+0.002 
+Less than 1 
+0.001 
+0.0001 
+0.0000 
+ 
+Table 4 is an example showing how this data would be used for a hypothetical dam. 
+ 
+Table 4 
+Example Dam 
+Loss of Life Resulting from Dam Failure 
+Reach (Distance 
+from Example 
+Dam) in miles 
+Number of people 
+located within the 
+dam failure flood 
+boundary 
+Ratio of Peak 
+Discharge from 
+Dam Failure to 10-
+Year Flood Peak 
+Discharge 
+ 
+Fatality Rate 
+ 
+Loss of Life 
+0.0 to 3.0 
+60 
+35 
+0.250 
+15 
+3.0 to 7.0 
+400 
+6 
+0.015 
+6 
+7.0 to 15.0 
+500 
+2 
+0.002 
+1 
+Total (mile 0.0 to 
+15.0) 
+960 
+Not applicable 
+Not applicable 
+22 
+ 
+ 
+ 
+ 
+ 
+References (in addition to those listed in the text) 
+ 
+Graham, Wayne J., “A Procedure for Estimating Loss of Life Caused by Dam Failure,” DSO-99-
+06, Bureau of Reclamation, Denver, Colorado, September 1999. 
+ 
+Jonkman, S.N., van Gelder and Vrijling, “Loss of life models for sea and river floods,” Flood 
+Defence ’2002, Wu et al. (eds) Science Presss, New York Ltd., ISBN 1-880132-54-0. 
+ 
+Ramsbottom, David, et. al, “Flood Risks to People,” Phase 1, R&D Technical Report FD2317, 
+Defra/Environment Agency, Wallingford, Oxon, United Kingdom, July 2003. 
+ 
+Sources for Buffalo Creek Coal Waste Dam: USGS Hydrologic Atlas HA-547, “Flood on 
+Buffalo Creek from Saunders to Man, West Virginia,” and USGS Water-Resources 
+Investigations Report 94-4002, “Nationwide Summary of U.S. Geological Survey Regional 
+Regression Equations for Estimating Magnitude and Frequency of Floods for Ungaged Sites, 
+1993.” 
+ 
+Sources for Laurel Run Dam: USGS Open File Report 78-963, “Floods of July 19-20, 1977 in 
+the Johnstown Area, Western Pennsylvania and USGS Water-Resources Investigations Report 
+94-4002, “Nationwide Summary of U.S. Geological Survey Regional Regression Equations for 
+Estimating Magnitude and Frequency of Floods for Ungaged Sites, 1993.” 
+ 
+Sources for Kelly Barnes Dam: USGS Hydrologic Atlas HA-613, “Kelly Barnes Dam Flood of 
+November 6, 1977, near Toccoa, Georgia,” and The USGS National Flood Frequency Program, 
+http://water.usgs.gov/osw/programs/nffp.html).   
+ 
+ 

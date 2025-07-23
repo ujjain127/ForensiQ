@@ -1,0 +1,1108 @@
+ 
+Department of Veterans Affairs 
+Office of Inspector General 
+ 
+ 
+Combined Assessment Program  
+Review of the VA Medical Center 
+Chillicothe, Ohio 
+ 
+ 
+ 
+ 
+Report No.  04-00928-164                                                                                July 15, 2004 
+VA Office of Inspector General 
+Washington, DC  20420 
+ 
+ 
+Office of Inspector General 
+Combined Assessment Program Reviews 
+Combined Assessment Program (CAP) reviews are part of the Office of Inspector 
+General's (OIG's) efforts to ensure that high quality health care and benefits services are 
+provided to our Nation's veterans.  CAP reviews combine the knowledge and skills of the 
+OIG's Offices of Healthcare Inspections, Audit, and Investigations to provide 
+collaborative assessments of VA medical facilities and regional offices on a cyclical 
+basis.  The purposes of CAP reviews are to: 
+• 
+Evaluate how well VA facilities are accomplishing their missions of providing 
+veterans convenient access to high quality medical and benefits services. 
+• 
+Determine if management controls ensure compliance with regulations and VA 
+policies, assist management in achieving program goals, and minimize vulnerability 
+to fraud, waste, and abuse. 
+• 
+Conduct fraud and integrity awareness training for facility staff. 
+In addition to this typical coverage, CAP reviews may examine issues or allegations 
+referred by VA employees, patients, Members of Congress, or others. 
+ 
+To Report Suspected Wrongdoing in VA Programs and Operations 
+Call the OIG Hotline – (800) 488-8244 
+ 
+ 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+Contents 
+ 
+Page 
+Executive Summary ....................................................................................................... i 
+Introduction ................................................................................................................... 1 
+Facility Profile .............................................................................................................................1 
+Objectives and Scope of the CAP Review...................................................................................1 
+Results of Review.......................................................................................................... 3 
+Organizational Strength...............................................................................................................3 
+Opportunities for Improvement ...................................................................................................3 
+Environment of Care................................................................................................................3 
+Information Technology Security............................................................................................4 
+Medical Care Collections Fund ...............................................................................................6 
+Supply Inventory Management................................................................................................8 
+Controlled Substances Accountability.....................................................................................9 
+Moderate Sedation .................................................................................................................10 
+Contracts ................................................................................................................................11 
+Computer Equipment Accountability ....................................................................................12 
+Appendices 
+A.  VISN 10 Director Comments...............................................................................................14 
+B.  VA Medical Center Director Comments..............................................................................15 
+C.  Monetary Benefits in Accordance with IG Act Amendments .............................................23 
+D.  OIG Contact and Staff Acknowledgments ..........................................................................24 
+E.  Report Distribution...............................................................................................................25 
+ 
+ 
+VA Office of Inspector General 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+Executive Summary 
+Introduction 
+During the week of February 23-27, 2004, the Office of Inspector General (OIG) conducted a 
+Combined Assessment Program (CAP) review of VA Medical Center Chillicothe, Ohio (the 
+medical center) which is part of Veterans Integrated Service Network (VISN) 10.  The purpose 
+of the review was to evaluate selected operations, focusing on patient care administration, quality 
+management (QM), and financial and administrative controls.  During the review, we also 
+provided fraud and integrity awareness training to 137 employees. 
+Results of Review 
+This CAP review focused on 12 areas.  As indicated below, there were no concerns identified in 
+four of the areas.  The medical center complied with selected standards in the following areas: 
+• 
+Government Purchase Card Program 
+• 
+Means Tests 
+• 
+Pharmacy Security 
+• 
+Quality Management 
+Based on our review of these four areas, the following organizational strength was identified: 
+• 
+Means tests procedures were effective. 
+We identified eight areas which needed additional management attention.  To improve 
+operations, the following recommendations were made: 
+• 
+Correct environment of care deficiencies. 
+• 
+Improve information technology (IT) security. 
+• 
+Enhance billing procedures and improve physician documentation of care provided. 
+• 
+Reduce excess supply inventories and strengthen inventory management controls. 
+• 
+Strengthen monthly controlled substances inspections. 
+• 
+Aggregate and analyze moderate sedation outcome data. 
+Suggestions for improvement were made in the following areas: 
+• 
+Fully document price reasonableness determinations and ensure services are validated in 
+accordance with contract terms prior to payment. 
+• 
+Ensure computer equipment inventories are completed timely, inventory lists are updated 
+when needed, and the local policy on loaning laptop computers is revised. 
+VA Office of Inspector General 
+ 
+i 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+This report was prepared under the direction of Mr. William H. Withrow, Director, Kansas City 
+Audit Operations Division, and Mr. Joseph T. Janasz, Jr., CAP Review Coordinator, Kansas City 
+Audit Operations Division. 
+VISN 10 and Medical Center Directors’ Comments 
+The VISN 10 Director and Medical Center Director agreed with the CAP review findings, 
+recommendations, and suggestions, and provided acceptable improvement plans.  (See 
+Appendices A and B, pages 14-22 for the full text of the Directors’ comments.)  We will follow 
+up on the implementation of recommended improvement actions until they are completed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      (original signed by:) 
+RICHARD J. GRIFFIN 
+Inspector General 
+ 
+VA Office of Inspector General 
+ 
+ii 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+Introduction 
+Facility Profile 
+Organization.  Located in Chillicothe, Ohio, the medical center provides acute and chronic 
+mental health services, primary and secondary medical services, and a wide range of nursing 
+home care services.  Outpatient care is also provided at four community-based outpatient clinics 
+(CBOCs) located in Athens, Lancaster, Marietta, and Portsmouth, Ohio.  The medical center is 
+part of VISN 10 and serves a veteran population of about 71,000 in a primary service area that 
+includes 15 counties in southeastern and south central Ohio. 
+Programs.  The medical center provides medical, surgical, and mental health services and 
+maintains 35 acute medical care; 25 acute psychiatric; 25 psychosocial residential rehabilitation 
+treatment; 50 domiciliary; and 162 nursing home beds.  The medical center also has 17 sharing 
+agreements with 12 provider organizations to provide various services such as ophthalmology, 
+diagnostic radiology, and mammography. 
+Affiliations and Research.  The medical center has affiliation agreements with Ohio State 
+University, the University of Cincinnati, and the University College of Osteopathic Medicine in 
+Athens for the purposes of education, training, and research with major emphasis on psychiatric 
+services.  There are 38 other program affiliations with 19 institutions, representing various health 
+care programs. 
+Resources.  The medical center’s Fiscal Year (FY) 2003 medical care budget was $94.1 million, 
+a .3 percent increase over the FY 2002 budget of $93.8 million.  FY 2003 staffing was 1076.2 
+full-time equivalent employees (FTEE), including 41.5 physician and 332.7 nursing FTEE.  FY 
+2002 staffing was 1090.9 FTEE, including 40.2 physician and 351.9 nursing FTEE. 
+Workload.  In FY 2003, the medical center treated 17,392 unique patients, a 5.5 percent increase 
+over FY 2002.  The patient care workload for FY 2003 totaled 4,335 inpatients treated and 
+199,378 outpatient visits, which represented a 8.1 percent decrease and a 4.5 percent increase, 
+respectively, from FY 2002 workload. 
+Objectives and Scope of the CAP Review 
+Objectives.  CAP reviews are one element of the OIG’s efforts to ensure that our Nation’s 
+veterans receive high-quality VA health care services.  The objectives of the CAP review 
+program are to:  
+VA Office of Inspector General 
+ 
+1 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+• 
+Conduct recurring evaluations of selected health care facility operations, focusing on patient 
+care, QM, and financial and administrative controls. 
+• 
+Provide fraud and integrity awareness training to increase employee understanding of the 
+potential for program fraud and the requirement to refer suspected criminal activity to the 
+OIG. 
+Scope.  We reviewed selected clinical, financial, and administrative activities to evaluate the 
+effectiveness of patient care administration, QM, and general management controls.  Patient care 
+administration is the process of planning and delivering patient care.  QM is the process of 
+monitoring the quality of patient care to identify and correct harmful or potentially harmful 
+practices or conditions.  Management controls are the policies, procedures, and information 
+systems used to safeguard assets, prevent errors and fraud, and ensure that organizational goals 
+are met.  The review covered medical center operations for FYs 2003 and 2004 through January 
+2004, and was conducted in accordance with OIG standard operating procedures for CAP 
+reviews. 
+In performing the review, we inspected work areas; interviewed managers, employees, and 
+patients; and reviewed clinical, financial, and administrative records.  The review covered the 
+following activities: 
+Contract Award and Administration 
+Controlled Substances Accountability 
+Environment of Care  
+Equipment Accountability  
+Government Purchase Card Program 
+Information Technology Security 
+Means Tests 
+Medical Care Collections Fund 
+Moderate Sedation Practices 
+Pharmacy Security  
+Quality Management 
+Supply Inventory Management 
+As part of the review, we used questionnaires and interviews to survey patient satisfaction with 
+the timeliness of service and the quality of care.  We also interviewed 15 inpatients and 15 
+outpatients during the review.  The full survey results were provided to medical center 
+management. 
+During the review, we presented three fraud and integrity awareness briefings for medical center 
+employees.  These briefings, attended by 137 employees, covered procedures for reporting 
+suspected criminal activity to the OIG and included case-specific examples illustrating 
+procurement fraud, false claims, conflict of interest, and bribery. 
+An activity that was particularly effective or otherwise noteworthy is recognized in the 
+Organizational Strength section of the report (page 3).  Activities needing improvement are 
+discussed in the Opportunities for Improvement section (pages 3-13).  For these activities, we 
+make recommendations or suggestions.  Recommendations pertain to issues that are significant 
+enough to be monitored by the OIG until corrective actions are implemented.  Suggestions 
+pertain to issues that should be monitored by VISN and medical center management until 
+corrective actions are completed.  For the activities not discussed in the Organizational Strength 
+or Opportunities for Improvement sections, there were no reportable deficiencies. 
+VA Office of Inspector General 
+ 
+2 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+Results of Review 
+Organizational Strength 
+Means Tests Procedures Were Effective.  Means tests are administered to obtain income 
+information from certain veterans in order to determine whether they are subject to medical co-
+payments.  Veterans Health Administration (VHA) facilities are required to retain signed means 
+test forms in patients’ administrative records.  We reviewed means test forms for 30 veterans and 
+found that all were completed and signed appropriately. 
+Opportunities for Improvement 
+Environment of Care – Areas Needed Management Attention 
+Condition Needing Improvement. We inspected inpatient units, outpatient primary care and 
+specialty clinic areas, dining areas, and the gymnasium of the medical center and found the 
+environment of care to be generally acceptable.  However, we identified several areas requiring 
+corrective action.  VHA regulations require that the hospital environment present minimal risk to 
+patients, employees, and visitors.  The following areas required management attention.   
+Housekeeping and Maintenance. We found unlocked dirty utility rooms, dirty employee 
+refrigerators and microwave ovens, food in a procedure room in the Surgery/Urology Clinic, 
+Asian beetles throughout the medical center, hallways damaged by motorized carts used to 
+transport items, areas in need of painting and ceiling tile replacement, and an unsafe loading 
+zone near the Building 24 smoking hut.  
+Outdated Supplies.  Supply Processing and Distribution (SPD) staff cleans, processes, stores, and 
+distributes sterile and non-sterile supplies, instruments, and medical equipment for clinical use.  
+SPD staff are responsible for ensuring that all necessary supplies and equipment are sterilized 
+and readily available for operative procedures.  We inspected seven sterile supply items and 
+found that all items were outdated.  VHA policy requires outdated sterile supply items be 
+reprocessed to ensure sterility and reduce the risk of hospital acquired infection. 
+Patient Confidentiality.  Federal law requires the safeguarding of confidential patient 
+information.  Confidential patient information was found in a hallway adjacent to a Specialty 
+Care Unit and in a clinic hallway in Building 210.  
+VA Office of Inspector General 
+ 
+3 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+Handicap Access.  Federal law prohibits discrimination against individuals with disabilities in 
+such areas as public accommodations, recreation, health services, and access to public services.  
+Based on a patient interview and an inspection of the gymnasium in Building 247, we found that 
+the female locker room and showers were inaccessible to wheelchair-dependent female veterans.  
+While we were onsite, managers took immediate steps to correct deficiencies and the Medical 
+Center Associate Director submitted a plan of action to address the unresolved issues. 
+Recommended Improvement Action(s) 1.  We recommended that the VISN Director ensure 
+that the Medical Center Director requires that:  a) the Medical Center Associate Director’s action 
+plan for housekeeping and maintenance issues is implemented, b) SPD supplies are reprocessed 
+when outdated, c) confidential patient information is secured, and d) access to the female locker 
+room and showers in the gymnasium in Building 247 is provided for wheelchair-dependent 
+female veterans. 
+The VISN and Medical Center Directors agreed with the findings and recommendations and 
+reported that corrective actions are being taken for housekeeping and maintenance issues, SPD 
+instituted an Outdate Checklist for daily checks of sterile supplies, patient information was 
+secured and discussed with staff while we were onsite, and the barrier identified by the review 
+team has been removed and a project to make the entire building handicap accessible has been 
+submitted for FY 2005.  The improvement plan is acceptable, and we will follow up on the 
+planned actions until they are completed. 
+Information Technology Security – Improvements Needed To Comply 
+With VA and Local Policies 
+Condition Needing Improvement. Medical center managers needed to strengthen IT security.  
+We evaluated IT security to determine if controls adequately protected information system 
+resources from unauthorized access, disclosure, modification, destruction, and misuse.  We 
+found that annual security awareness training was provided, password controls were adequate, 
+and critical data were backed up on a regular basis.  However, we identified three areas that 
+required management attention. 
+Security Plans.  The Veterans Health Integrated Systems and Technology Architecture (Vista) 
+and telecommunications security plans were adequate.  However, the Local Area Network 
+(LAN) Security Plan needed improvement.  This plan discussed certain potential physical 
+security risks associated with the computer room, which are normally found in risk assessments.  
+It did not follow Government standards for a security plan.  For example, the plan did not 
+include items such as system identification, rules of behavior, assignment of security 
+responsibility, system environment, sensitivity of information handled, or management controls. 
+Contingency Plans.  The medical center’s contingency plans for Vista, LAN, and 
+telecommunications needed improvement.  These plans did not properly address the annual 
+VA Office of Inspector General 
+ 
+4 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+testing requirements, contact information for key personnel, or storage of backup tapes.  
+Government IT standards require contingency plans to be tested at least annually.  The annual 
+test requirement was included in the VISTA and telecommunications contingency plans, but was 
+omitted from the LAN Contingency Plan.   
+Contact information for key personnel in the case of an emergency was incomplete.  Personnel 
+were listed without phone numbers or with only their extension numbers.  In some cases, 
+alternate contact numbers were not provided.  Also, the “Notification Cascade,” which listed 
+contact information for key personnel and identified staff responsible for notifying personnel, 
+had not been updated since August 2001. 
+The Vista Contingency Plan required that the backup tapes be stored in the basement of the same 
+building where the computer room is located.  VHA policy requires that data be backed up and 
+stored in a location physically separate from the computer room so as to not be affected by the 
+same contingency or threat.  While the VHA policy does not provide a specific distance 
+requirement for the backup storage location, the medical center Information Security Officer 
+(ISO) agreed that storage in the basement of the computer room building did not satisfy VHA 
+policy.  After our review, managers in the Chief Information Officer (CIO) Office updated the 
+contingency plans to require annual testing of the plans and to include full contact information 
+for key personnel.  Also, they initiated plans to move the backup tapes to a location away from 
+the computer room building. 
+Physical Security.  Physical security and access controls needed improvements in the following 
+areas.   
+• 
+VHA policy states that there will be no signs informing the public that an information system 
+is located in a particular building or area.  We found that communication closets and 
+computer storage rooms had signage identifying their contents. 
+• 
+During our tour of the outpatient clinics with the medical center ISO, we found five 
+unattended computers that were on and not locked.  On one computer, patient information 
+was on the screen.  The ISO immediately locked the computers and left notifications of the 
+security violations. 
+• 
+The computer room did not have smoke detectors as recommended by VA policy.  Smoke 
+detectors can serve as an early warning detection prior to activation of the sprinkler system, 
+which could cause water damage to the equipment.  Medical center management had smoke 
+detectors installed while we were onsite. 
+• 
+New computers were initially stored in Building 35 until they were configured and deployed 
+to a using service.  The room in which the computers were stored was kept locked.  However, 
+the building was located on one end of campus and the storage room was on the ground level 
+with windows that had no protective barriers.  Also, the room did not have an alarm system.  
+On a regular basis, new computers valued from $100,000 to $200,000 were stored in this 
+room. 
+VA Office of Inspector General 
+ 
+5 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+• 
+CIO Office management identified potential physical security risks in the computer room.  In 
+the LAN Security Plan, CIO Office management noted that the air conditioning unit was 
+leaking and did not work properly causing the computer room to be shut down four times in 
+2003 due to the excessive temperatures.  Also, the uninterruptible power supply (UPS) 
+system is easily overloaded.  Medical center management stated that these deficiencies will 
+be remedied as part of a project to relocate the computer room from the second floor to the 
+first floor of Building 18.  The expected completion date for this project is June 2005.  In the 
+interim, Engineering Service staff has installed new compressors to the air conditioning unit 
+and is currently reviewing options to repair the UPS system. 
+Recommended Improvement Action(s) 2. We recommended that the VISN Director ensure 
+that the Medical Center Director takes the following actions to improve IT security:  a) revise the 
+LAN Security Plan and medical center contingency plans in accordance with Government IT 
+standards, b) store backup tapes in a location away from the computer room building, c) remove 
+signage identifying the locations of sensitive information and automated systems, d) remind 
+employees of the need to secure patient information by ensuring computers are properly locked 
+or logged off when left unattended, e) upgrade the physical security of the new computer storage 
+room, and f) ensure plans to remedy potential risks associated with the air conditioning unit and 
+the UPS system for the computer room are carried out timely. 
+The VISN and Medical Center Directors agreed with the findings and recommendations and 
+reported that the LAN Security Plan has been revised.  Backup tapes have been moved to a 
+separate building, signs identifying the location of sensitive information and automated systems 
+have been removed.  Further, instructions were sent to all employees for securing computers 
+when left unattended.  Interim measures are being taken to upgrade the physical security of the 
+existing new computer storage room and the medical center Space Committee is developing 
+plans for a new location for new computer storage.  The new location will include all required 
+security features and a construction project has been submitted to address concerns with the air 
+conditioning and the UPS system.  The improvement plan is acceptable, and we will follow up 
+on the planned actions until they are completed. 
+Medical Care Collections Fund – Third Party Billings Needed 
+Improvement 
+Condition Needing Improvement. The medical center increased Medical Care Collections 
+Fund (MCCF) collections from $4.5 million in FY 2002 to $5.3 million in FY 2003 and met its 
+MCCF collection goal both years.  Our review of a judgment sample of outpatient visits and 
+inpatient discharges for November 2003 found that MCCF staff issued bills appropriately.  
+However, medical center management could further improve MCCF program results by 
+strengthening billing procedures for fee-basis care, establishing procedures to ensure bills for 
+outpatient and inpatient care provided prior to July 2003 are processed before insurance filing 
+deadlines expire, billing for optometry services, and ensuring physicians adequately document 
+care provided in the medical records.  We found additional billing opportunities totaling at least 
+$27,000 with estimated collections of $13,095 ($27,000 x 48.5 percent medical center historical 
+collection rate). 
+VA Office of Inspector General 
+ 
+6 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+Fee-Basis Care.  From October 1, 2003, to December 31, 2003, the medical center paid 84 fee-
+basis claims totaling $76,363 to non-VA providers who provided medical care to veterans who 
+had health insurance.  Payments included claims for outpatient care, inpatient care, and ancillary 
+services related to inpatient care.  To determine whether the fee-basis medical care was billed to 
+patients’ insurance carriers, we reviewed a judgment sample of 32 claims totaling $57,295.  Of 
+these 32 claims, 23 were not billable to the insurance carriers either because the fee-basis care 
+was for service-connected conditions or the care was not billable under the terms of the 
+insurance plans.  The remaining nine fee-basis claims were for care that was billable to the 
+insurance carriers.  MCCF staff had appropriately issued bills totaling $5,246 for five claims.  
+However, we found additional billing opportunities totaling $13,297 for the other four claims.  
+MCCF staff took immediate action as a result of our review and issued bills for these four 
+claims.   
+Unbilled Care Report.  The Unbilled Care Report dated February 18, 2004, covering the time 
+period of October 1, 2002, through December 31, 2003, listed 242 outpatient visits prior to     
+July 1, 2003, with potential billable care totaling $42,214 that had not been billed.  We reviewed 
+10 of these visits and found that 7 involved medical care totaling $2,876 that should have been 
+billed.  The medical care for six of these visits was still billable; however, medical care totaling 
+$328 for the other visit was no longer billable because the deadline to file a claim with the 
+insurance carrier had expired. 
+MCCF managers explained that these bills had not been issued when the care was provided 
+because, at that time, the billing software had not identified these cases as billable.  For example, 
+in some cases the veterans’ insurance status may not have been determined until after the care 
+was provided.  In other cases, updates to the reasonable charges in the billing software package 
+can create new billing opportunities for care previously provided.   MCCF staff prints the 
+Unbilled Care Report each month to identify potential bills for care previously provided.  
+However, current care was their first priority and in most months the older care cases listed on 
+the Unbilled Care Report were not reviewed.  With the filing deadlines imposed by insurance 
+carriers, the older bills needed to be processed before deadlines expire. 
+Reasons Not Billable Report.  The Reasons Not Billable Report dated February 2, 2004, covering 
+the time period of July 1, 2003, through December 31, 2003, listed 166 potential billable cases 
+totaling $35,904 that were unbilled for 1 of 3 reasons – insufficient documentation, no 
+documentation, or non-billable provider (resident).  We reviewed 24 potential billable cases 
+totaling $18,222 and found that 12 were not billable because the care was for service-connected 
+conditions or was not billable under the terms of the insurance plans.  However, the other 12 
+potential billable cases were billable as discussed below. 
+In nine cases totaling $7,870, billings for optometry services were missed.   MCCF staff had not 
+issued bills for these cases because they considered care provided by optometry residents as non-
+billable.  However, VHA’s Revenue Office provided guidance stating that optometry residents 
+are considered to be licensed practitioners.  As long as they are licensed in the State in which the 
+services are performed and they are authorized to perform such services in that State, their 
+services are billable as physician services.  MCCF staff agreed and began issuing bills for these 
+VA Office of Inspector General 
+ 
+7 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+services.  MCCF staff is also reviewing all cases identified as non-billable provider (resident) to 
+identify any other bills that needed to be issued. 
+In three cases, MCCF staff could have billed $2,957 for the care provided but medical care 
+providers did not provide adequate documentation in the medical records.  This occurred because 
+providers did not complete progress notes in two cases or sign a cardiology report in the other 
+case.  
+Recommended Improvement Action(s) 3. We recommended that the VISN Director ensure 
+that the Medical Center Director requires that MCCF staff: a) strengthen the billing process to 
+ensure all billable fee-basis claims are identified, b) establish procedures to ensure bills are 
+processed before insurance carrier filing deadlines expire, c) bill for optometry services provided 
+by licensed optometry residents, d) ensure physicians adequately document care provided in the 
+medical records, and e) prepare bills for the cases identified in our review. 
+The VISN and Medical Center Directors agreed with the findings and recommendations and 
+reported that processes are now in place to ensure appropriate billing of all fee-basis claims, 
+claims listed on the Unbilled Care Report, and claims for optometry services.  An employee has 
+been designated as a liaison with clinic staff to address documentation issues that impact the 
+coding and billing of care provided.  Also, all cases identified in our review have been billed.  
+The improvement plan is acceptable, and we will follow up on the planned actions until they are 
+completed. 
+Supply Inventory Management – Excess Inventory Needed To Be 
+Reduced and Controls Strengthened 
+Condition Needing Improvement. The medical center needed to reduce excess inventories and 
+make better use of automated controls to more effectively manage supply inventory.  VHA 
+established a 30-day supply goal and requires that medical facilities use VA’s Generic Inventory 
+Package (GIP) to manage inventories of most types of supplies.  Inventory managers can use GIP 
+reports to establish normal stock levels, analyze usage patterns to determine optimum order 
+quantities, and conduct periodic physical inventories. 
+Inventory managers used GIP to manage and control supply inventory, but did not use GIP 
+features to meet the 30-day supply goal.  As of December 31, 2003, the 6 primary inventory 
+control points included 4,321 line items with a reported value of $256,617. 
+To test the accuracy of the value of stock on hand and reasonableness of inventory levels, we 
+reviewed 30 items (15 items in the Warehouse/Engineering, 10 items in the SPD, and 5 items in 
+the Laboratory Service) and found 2 deficiencies.  First, the GIP value of stock was overstated.  
+We conducted a physical inventory of the 30 items and found that for 5 items (2 items in the 
+Warehouse/Engineering and 3 items in the SPD inventories) the counts did not agree with the 
+balances shown in GIP.  For the 30 items reviewed, the GIP reported value was $51,938.  
+VA Office of Inspector General 
+ 
+8 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+However, the actual value of this stock was $35,780, which was only 69 percent of the GIP 
+reported value.  Applying the 69 percent figure to the $256,617 value for the entire supply stock 
+shown in GIP would yield an estimated value of $177,066.   
+Additionally, for 15 of the 30 items reviewed, stock on hand exceeded a 30-day supply or was no 
+longer needed.  For 13 items, the estimated value of stock exceeding 30 days was $16,578.  For 
+two items totaling $1,643, medical center staff determined that the items were no longer needed.  
+The estimated value of stock exceeding 30 days or no longer needed was $18,221 ($16,578 + 
+$1,643), or 51 percent of the total value of the 30 items reviewed ($35,780).   
+The inaccuracies in GIP and excess stock on hand occurred because medical center staff did not 
+always record usage and in some instances recorded receipts incorrectly.  Also, the Chief, 
+Materiel Management Section and the SPD Item Manager stated that the required annual wall-to-
+wall physical inventory of SPD had not been performed in 3 years.  Because GIP data was 
+inaccurate, we could not determine the value of stock on hand or the value of excess stock for the 
+entire inventory.  However, by applying the 51 percent of excess stock for the 30 items reviewed 
+to the entire stock, we estimated that the value of excess stock was $90,304 (51 percent x 
+$177,066 estimated value of stock).  
+Recommended Improvement Action(s) 4. We recommended that the VISN Director ensure 
+that the Medical Center Director requires: a) inventory managers to reduce supply inventory to 
+the 30-day supply goal and improve the accuracy of GIP, and b) SPD to conduct and document 
+annual wall-to-wall physical inventories. 
+The VISN and Medical Center Directors agreed with the findings and recommendations and 
+reported that supply inventory levels will be reduced to a 30-day supply by March 2005, actions 
+are being taken to resolve inventory discrepancies, and a wall-to-wall inventory has been 
+conducted and others are planned.  The improvement plan is acceptable, and we will follow up 
+on the planned actions until they are completed. 
+Controlled Substances Accountability – Required Aspects Should Be 
+Addressed in the Monthly Inspection Report 
+Condition Needing Improvement. Controlled substances inspectors reviewed all areas 
+containing controlled substances each month and inspectors were properly rotated.  However, the 
+Controlled Substances Coordinator needed to strengthen the monthly inspections to fully comply 
+with VHA policy and help ensure accountability of controlled substances.  We reviewed the 
+monthly controlled substance inspection reports for the 13-month period ending January 2004 
+and found two controls that needed improvement. 
+First, as part of the monthly inspections, VA policy requires the inspectors to certify the accuracy 
+of pharmacy records for all controlled substances held for destruction, verify that controlled 
+substances destructions are completed at least quarterly, and document this verification in the 
+VA Office of Inspector General 
+ 
+9 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+monthly inspection reports.  According to the Controlled Substances Coordinator, prior to June 
+2003, the inspectors did not certify the amount of controlled substances awaiting destruction or 
+verify that controlled substances destructions occurred in the prior quarter as required.  The 
+Controlled Substances Coordinator said that since June 2003, these controlled substances were 
+counted and controlled substances destructions were verified.  However, these reviews were not 
+documented in the monthly inspection reports for 4 of 7 months from July 2003 to January 2004. 
+Second, dispensing activities were not properly verified to medical records.  VHA policy 
+requires inspectors to verify a sample of dispensing activities to physicians’ orders in the medical 
+records.  This policy did not address the size of the sample.  VHA revised this policy on    
+August 29, 2003, requiring inspectors to verify five randomly selected dispensing activities on 
+each unit (inpatient ward or outpatient clinic). 
+We reviewed the inspections for the 13-month period ending January 2004 and found that 
+inspectors did not consistently follow VHA policy.  During the 8-month period ending August 
+2003, the inspectors did not verify any dispensing activities in 4 months and verified only one 
+dispensing activity on each unit in the other 4 months.  During the 5-month period after VHA 
+revised it’s policy in August 2003, the inspectors did not verify any dispensing activities in 2 
+months and verified only one dispensing activity on each unit in the other 3 months.  
+Recommended Improvement Action(s) 5. We recommended that the VISN Director ensure 
+that the Medical Center Director provides training to controlled substances inspectors to: a) 
+certify the accuracy of pharmacy records of controlled substances awaiting destruction, b) 
+document in the monthly controlled substances inspection reports whether controlled substances 
+awaiting destruction were destroyed in the prior quarter, and c) verify five randomly selected 
+dispensing activities on each unit to the medical records during each monthly controlled 
+substances inspection. 
+The VISN and Medical Center Directors agreed with the findings and recommendations and 
+reported that medical center policy has been revised and procedures are in place to comply with 
+VHA policy for the monthly controlled substances inspections.  The improvement plan is 
+acceptable, and we will follow up on the planned actions until they are completed. 
+Moderate Sedation – Outcome Data Needed Local Reporting and 
+Analysis 
+Condition Needing Improvement. Outcome data collected by clinicians on moderate sedation 
+needed to be reported to a medical center committee designated by medical center management 
+to be responsible for analyzing the information. 
+The Joint Commission on Accreditation of Healthcare Organizations requires systematic 
+aggregation and analysis of moderate sedation outcome data.  While the Tissue and Transfusion 
+Committee reviewed the appropriateness of procedures performed under moderate sedation and 
+VA Office of Inspector General 
+ 
+10 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+outcome data from moderate sedation were collected and reported to VISN 10, medical center 
+management had not designated a committee to aggregate and analyze the data.  This prevented 
+medical center management from identifying patterns or trends, and recognizing areas needing 
+improvement. 
+Recommended Improvement Action(s) 6. We recommended that the VISN Director ensure 
+that the Medical Center Director designates a committee to aggregate and analyze moderate 
+sedation outcome data and requires clinicians to report outcome data to this committee. 
+The VISN and Medical Center Directors agreed with the findings and recommendations and 
+reported that outcome data is now reported to the Medical Executive Committee, with abnormal 
+outcomes reported to and reviewed by the Peer Review Committee.  The improvement plan is 
+acceptable, and we will follow up on the planned actions until they are completed. 
+Contracts – Price Reasonableness Determinations and Contract 
+Administration Controls Need Improvement 
+Condition Needing Improvement. To determine if contracts were properly awarded and 
+administered, we reviewed 13 contracts valued at $3 million.  Overall contracting activities were 
+adequate; however, we identified two areas that needed improvement. 
+Price Reasonableness Determinations.  The Federal Acquisition Regulation requires the 
+contracting officer to determine that a contract price is fair and reasonable prior to awarding a 
+contract and to document this determination in the Price Negotiation Memorandums (PNM) the 
+contract file.  We found two contracts for physician services valued at $546,308 in which the 
+basis for the award amounts were not adequately documented in PNMs.  Both contracts were 
+awarded at higher rates than the established Federal Supply Schedule (FSS) rates.  In the first 
+contract, the FSS rate for a part-time physician was $87 per hour, but the contract rate was 
+$103.50 per hour.  In the second contract, the FSS rate for two full-time and one part-time 
+physicians was $79.37 per hour, but the contract rate was $87.50 per hour.  The contracting 
+officer stated that the price differences were due to relocation costs, housing, malpractice 
+insurance, travel to CBOCs, and the qualifications and experience of the physicians and that she 
+had determined that the contract prices were fair and reasonable.  However, there were no 
+estimates for these additional costs or any documentation in the contract files showing the 
+contracting officer’s fair and reasonableness determinations.  As a result of our review, the 
+contracting officer prepared a PNM for each of these contracts. 
+Contract Administration.  Contracting Officer’s Technical Representatives (COTRs) are required 
+to review the contractor’s invoices to ensure that they accurately reflect the work completed in 
+accordance with the requirements of the contract before certifying acceptance.  For three 
+contracts valued at $571,710, the COTRs did not properly certify acceptance.  One contract was 
+for a temporary warehouse employee at a cost of $25,402 and the other two were for physician 
+services valued at $546,308.  All three contracts stipulated that the medical center would 
+VA Office of Inspector General 
+ 
+11 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+maintain logs for the contract employees to sign-in and sign-out.  Further, the logs were to be 
+used to certify invoices.  However, we found that these logs were not maintained and the COTRs 
+certified payments by only using time cards submitted by the contractors.  This occurred because 
+staff performing the COTR duties were not aware of the contracts’ provisions.  We also found 
+that for two of these contracts, required letters designating a COTR and describing their 
+responsibilities and duties had not been prepared. 
+Suggested Improvement Action(s) 1. We suggested that the VISN Director ensure that the 
+Medical Center Director requires: a) contracting officers to document their determinations of fair 
+and reasonable prices in PNMs, b) that sign-in and sign-out logs are maintained and used to 
+certify invoices as required by the contracts, and c) that COTRs be designated in writing. 
+The VISN and Medical Center Directors agreed with the findings and suggestions and reported 
+that PNMs have been completed for the contracts identified in the review and PNMs will be 
+prepared for all future contract negotiations.  Staff have been reminded of the requirement to 
+maintain sign-in and sign-out logs for contract employees and to use these logs to certify 
+invoices, and COTR designation letters have been prepared for the contracts identified in the 
+review.  The improvement plan is acceptable, and we consider the issues resolved. 
+Computer Equipment Accountability – Inventory Controls and 
+Procedures For Loaning Laptop Computers to Staff Should Be 
+Improved 
+Condition Needing Improvement. Medical center management needed to improve procedures 
+for performing physical inventories and updating equipment inventory lists (EILs) of 
+nonexpendable computer equipment.  Also, procedures for loaning laptop computers to staff 
+needed to be improved to ensure laptops were loaned only for official purposes.  VA policy 
+requires that EIL inventories be performed at least every 2 years.  Acquisition and Materiel 
+Management Service (A&MMS) and using services with nonexpendable equipment are 
+responsible for ensuring EIL inventories are completed and EIL records are accurate.  As of 
+February 25, 2004, Information Resource Management’s (IRM’s) EIL contained 3,323 line items 
+valued at $6 million.  EIL inventories were performed by IRM in FYs 2001 and 2003.  As a 
+result of these inventories, computer equipment totaling $235,000 was written off because it 
+could not be located.  We identified four deficiencies with equipment accountability procedures. 
+Timeliness of IRM EIL Inventories.  EIL inventories of IRM equipment were not performed 
+timely.  VA policy establishes timeliness standards for completing EIL inventories based on the 
+number of items on the EILs.  When an inventory is due, A&MMS staff notifies the responsible 
+official.  Based on the size of IRM’s EIL, the responsible official should conduct a physical 
+count of all nonexpendable computer equipment within 20 days after receipt of the notice that an 
+inventory is due.  We found that the last inventory took 6 months, from January to July 2003, to 
+complete.  Also, another inventory was initiated January 12, 2004, with the hiring of a new CIO.  
+However, as of February 27, 2004, this inventory had not been completed. 
+VA Office of Inspector General 
+ 
+12 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+Quarterly Spot Checks.  A&MMS staff had not performed VA-required quarterly spot checks of 
+the completed IRM EIL inventories to ensure the accuracy of reported information. 
+Accuracy of EILs.  To verify the accuracy of information on the IRM EIL, we reviewed a 
+judgment sample of 14 items with a total value of $16,199.  We found that seven were not in the 
+locations indicated on the EIL.  Four items were found in other rooms; however, a search of 
+nearby rooms did not locate the other three items.  This problem occurred because the EIL was 
+not updated when equipment was moved or excessed. 
+Loaning Laptop Computers to Staff.  Controls over loaning laptop computers to staff to perform 
+official duties away from the medical center needed improvement.  Prior to February 2004, the 
+medical center had no written policy or procedures for loaning laptop computers to staff.  Local 
+policy issued on February 23, 2004, provided procedures for requesting and borrowing laptop 
+computers.  However, it did not require supervisory approvals or explanations as to why the 
+laptop computers were needed or how long they would be needed. 
+As of February 26, 2004, IRM maintained a pool of 68 laptops of which 34 were on loan to staff.  
+Although IRM maintained a log showing to whom these laptops were loaned, there was no 
+record of supervisors authorizing the need for the loans, nor any explanations as to why the 
+laptops were needed.  IRM staff stated that generally laptops were loaned to staff that travel to 
+CBOCs or make home visits.  Our review of the log of loaned laptop computers disclosed two 
+laptop computers loaned to physicians who live and work at the medical center.  Also, one social 
+worker had two laptop computers signed out in his name. 
+Suggested Improvement Action(s) 2. We suggested that the VISN Director ensure that the 
+Medical Center Director requires: a) IRM to complete EIL inventories timely, b) A&MMS staff 
+to perform quarterly EIL inventory spot checks, c) A&MMS and IRM staff to update EIL 
+records when equipment is moved or excessed, and d) IRM to revise local policy on loaning 
+laptop computers to staff to ensure loans are only made for official purposes. 
+The VISN and Medical Center Directors agreed with the findings and suggestions and reported 
+that an inventory management position has been created to assist in inventories, quarterly EIL 
+inventories were initiated in May 2004, a more efficient process was developed by IRM to better 
+track IT equipment, and new processes are in place for loaning laptop computers and medical 
+center policy is being updated to include these changes.  The improvement plan is acceptable, 
+and we consider the issues resolved. 
+ 
+VA Office of Inspector General 
+ 
+13 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+Appendix A 
+  
+VISN 10 Director Comments 
+Department of  
+Veterans Affairs 
+Memorandum 
+Date: 
+May 24, 2004 
+From: 
+Network Director, VA Healthcare System of Ohio, VISN 10 (10N10) 
+Subject: Combined Assessment Program (CAP) Review of the VA Medical Center 
+Chillicothe, Ohio 
+To: 
+Assistanct Inspector General for Auditing (52) 
+ 
+1.  I concur with the comments and action plans submitted by the Medical 
+Center Director at Chillicothe, Ohio, in response to the OIG CAP Review 
+conducted in February 2004.  The staff found the review educational and 
+appreciated the professionalism of the OIG Team. 
+ 
+ 
+2.  If you have questions regarding the response, please contact Douglas A. 
+Moorman, Medical Center Director, at (740)773-1141, extension 7002. 
+ 
+ 
+ 
+                  (original signed by:)
+ 
+CLYDE PARKIS 
+Director, Veterans Integrated Service Network 
+VA Office of Inspector General 
+ 
+14 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+Appendix B 
+ 
+VA Medical Center Director Comments 
+Department of  
+Veterans Affairs 
+Memorandum 
+Date: 
+May 24, 2004      
+From: 
+Director, VA Medical Center Chillicothe, Ohio (538/00) 
+Subject: Combined Assessment Program (CAP) Review of the VA Medical Center 
+Chillicothe, Ohio 
+To: 
+Director, Veterans Integrated Service Network 10 (10N10) 
+1. Attached is the response from the VA Medical Center, Chillicothe, Ohio, in 
+regard to the OIG CAP Review in February 2004.  I concur with the findings 
+and recommendations/suggestions made by the review team.  We found the 
+review educational and helpful in preparation for our upcoming JCAHO Survey 
+in August.  We also appreciated the professionalism of the review team. 
+2. If you have any questions about the attached response, please feel free to 
+contact me. 
+(original signed by:) 
+DOUGLAS A. MOORMAN 
+Medical Center Director 
+ 
+VA Office of Inspector General 
+ 
+15 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+ 
+ 
+ 
+Director’s Comments 
+to Office of Inspector General’s Report  
+ 
+The following Director’s comments are submitted in response to the 
+recommendation and suggestions in the Office of Inspector General Report: 
+OIG Recommendation(s) 
+1. Correct environment of care deficiencies 
+a) The Medical Center Associate Director’s action plan for housekeeping and 
+maintenance issues is implemented. 
+Work orders have been submitted for button (keyless) entry for soiled utility 
+rooms.  Until new locks are installed, staff have been reminded that these doors 
+must remain locked at all times.  Staff break rooms and associated equipment 
+(refrigerators, microwave ovens, etc.) are now included routinely in 
+environmental and infection control rounds.  Improvements have already been 
+noted.  The noted food in the procedure room was an anomaly and the incident 
+is not standard practice.  The Asian Multi-Colored Lady Beetle was introduced 
+into the United States from Asia to control aphids, scale and other crop pests 
+from 1978 to 1981.  They are now widely distributed east of the Mississippi and 
+have been documented in areas of the Midwest, Southwest and Pacific 
+Northwest.  Asian Lady Beetles enter homes and buildings in large numbers and 
+although they are harmless to humans, they have become persistent over-
+wintering pests in buildings in some parts of the United States. They are usually 
+recognized as typical ladybugs, but they are slightly larger than the native 
+species.  This beetle (6 to 10 mm) is also a little larger than the two-spotted lady 
+beetle (4 to 5 mm).  This species is a voracious predator of crop pests and 
+produces several generations per year.  Their tendency to aggregate and ability 
+to enter structures may cause this insect to become a significant structural pest.  
+They may be found in attics, wall voids, on siding and other such places and 
+may be attracted to light.  The Chillicothe VA Medical Center is a campus style 
+facility with multiple buildings and is approximately 80 years of age.  We are 
+located in a rural setting with woods, farms and crops surrounding the facility. 
+As stated above, there are multiple entry points in structures for this aggressive 
+pest to enter.  Their nature is to seek shelter throughout the winter months when 
+weather transitions from warm to cold i.e., they literally swarm to buildings 
+when this transition occurs.  Our pest controllers continue to seal off entry points 
+when observed i.e., cracks in windows, screens, doors, around ceilings, etc.  
+Works orders are generated to replace screens on an as-needed basis and are 
+ongoing.  Employees are requested to keep windows and doors closed at all 
+times.  It should be noted that there is little, if any, food source available to 
+Asian Beetles once they are in the medical center and they die off relatively 
+quickly, i.e., within a few days.  However, they do swarm for days at a time and 
+require the repeated cleaning of most light diffusers throughout the facility by 
+housekeeping personnel.  In terms of the scope of the problem, please note that 
+VA Office of Inspector General 
+ 
+16 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+ 
+ 
+you can clean a particular light diffuser and find them there again within 
+minutes.  They mostly congregate in light fixtures and around windows where 
+warmth can be obtained.  Fumigation or chemical treatments to eradicate this 
+pest are not an option.  Their continued removal requires a great deal of man-
+hours by housekeeping staff as the weather changes as previously noted.  Staff 
+monitor daily when weather patterns dictate, and they are targeted for immediate 
+removal when conducting building inspections by EMS personnel.  We will 
+continue to aggressively remove this target pest when necessary.  Regarding 
+hallway damage from motorized carts, operator training is conducted by the 
+safety manager and a card is issued to each employee who completes training.  
+Reporting of damage is encouraged and factors leading up to the incidents are 
+discussed for improvement of processes.  Ceiling tiles have been replaced (this 
+is a continual process) and painting is being accomplished as manpower permits 
+(this is also a continual process).  Safety procedures have been implemented in 
+the loading area near Building 24.  The lift gate has been modified to reduce the 
+risk of carts rolling off the platform, the most level area is used for unloading, 
+the area is closed to other traffic during loading, and employees are not 
+permitted to ride the lift when there is a load on it. 
+b) SPD supplies are reprocessed when outdated 
+SPD routinely reprocesses outdated supplies.  As a QA measure (implemented 
+in March), SPD instituted an Outdate Checklist for daily checks of sterile 
+supplies.  This is also spot checked by the Chief, SPD and the Associate Central 
+Hub A&MMS Manager. 
+c) Confidential patient information is secured 
+The medical center continually monitors computer terminals that are “walked 
+away from” without being locked or logged off.  Messages are left on these 
+machines to remind the user to lock or log off the terminal before leaving.  
+Repeat offenders are referred to the service chief/care line manager, or higher if 
+necessary.  Information was sent to all employees with complete instructions for 
+logging off, locking workstations, shutting down, changing passwords and using 
+the task manager. 
+d) Access to the female locker room and showers in the gymnasium in Building 
+247 is provided for wheelchair-dependent female veterans 
+The threshold (lip at shower entry) constituting the identified barrier has already 
+been removed and the area tiled.  A project to make the entire building ADA 
+compliant has been submitted for FY05. 
+2. Improve information technology security 
+a) Revise the LAN Security Plan and medical center contingency plans in 
+accordance with Government IT guidelines 
+ 
+VA Office of Inspector General 
+ 
+17 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+ 
+ 
+Completed May 10, 2004. 
+b) Store backup tapes in a location away from the computer room building 
+A new room has been located in Building 1 (Room BA101A) and backup tapes 
+are being moved on May 21, 2004. 
+c) Remove signage identifying the locations of sensitive information and 
+automated systems 
+Signs have been removed. 
+d) Remind employees of the need to secure patient information by ensuring 
+computers are properly locked or logged off when left unattended 
+See 1.c. above. 
+e) Upgrade the physical security of the new computer storage room 
+Smoke detectors were installed before the OIG team left the medical center.  An 
+appropriate location (out of Building 35) to store new computers is being 
+developed by the medical center Space Committee and will include all required 
+security features.  An action plan is expected to be completed by June 2004.  In 
+the interim, a temporary motion detection system is being installed in the 
+existing rooms. 
+f) Ensure plans to remedy potential risks associated with the air conditioning and 
+UPS system for the computer room are carried out timely. 
+There is an NRM project approved to construct a new computer room on the 
+first floor of Building 18.  This will include new air conditioning systems and a 
+new UPS.  Award of the project is anticipated in September 2004.  In the 
+interim, compressors in the existing air conditioning units have been replaced 
+for improved reliability and capacity.  The existing UPS has been put under a 
+service contract for improved response to any future repair needs.  The vendor 
+replaced the battery charging board, which has restored battery charge level to 
+full capacity. 
+3. Enhance billing procedures and improve physician documentation of care 
+provided. 
+a) Strengthen the billing process to ensure all billable fee-basis claims are 
+identified 
+ 
+VA Office of Inspector General 
+ 
+18 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+ 
+ 
+The four claims identified in the audit have been billed.  Two claims were for a 
+CNHC veteran treated at a private emergency room for G tube placement and 
+swallowing evaluation and two claims were for services provided for labor and 
+delivery.  These were different than bills normally seen and the Lead Biller 
+assisted in processing the claims.  Processes are now in place for timely 
+processing of all fee-basis claims. 
+b) Establish procedures to ensure bills are processed before insurance carrier 
+filing deadlines expire. 
+Unbilled Reports are run monthly back two years to ensure that all billable 
+episodes are reviewed for possible billing.  Contracted Billers (Preferred 
+Medical Billing and Consulting) follow up on current year cases and our billing 
+staff review prior year cases. 
+c) Bill for optometry services provided by licensed optometry residents. 
+Are now billing and have back-billed appropriate cases. 
+d) Ensure physicians adequately document care provided in the medical records. 
+We continue to run the Reasons not Billable Report monthly to identify cases 
+canceled because of inadequate documentation.  Coding refers cases to Care 
+Line Managers and supervisors for necessary corrective action.  An employee 
+has been detailed as a training instructor and liaison with clinic staff to address 
+documentation issues that directly impact on our ability to code accurately and 
+bill correctly and timely. 
+e) Prepare bills for the cases identified in the OIG review. 
+All cases identified have been billed. 
+4. Reduce excess supply inventories and strengthen inventory management 
+controls. 
+a) Inventory managers to reduce supply inventory to the 30-day supply goal and 
+improve the accuracy of GIP. 
+Each Item Manager assigned the function of managing a GIP for an area is 
+currently working with the end user to reduce inventory to the 30 day on hand 
+mandate.  They are reviewing the past history usage, the current level, and 
+determining where adjustments are necessary.  In addition, there is a Goal 
+Sharing team working with SPD to identify long/inactive items and make 
+recommendations to reduce or excess items. There is also a group of 
+Engineering staff identified to work together with A&MMS reviewing items in 
+the Tool Room to determine if there are items being stocked which should be 
+excessed or the level reduced.  
+VA Office of Inspector General 
+ 
+19 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+ 
+ 
+ 
+At this time it is estimated GIP will be at a 30 day level as follows: 
+Environmental Management  August 30, 2004 
+Dental   September 30, 2004 
+Laboratory  September 30, 2004 
+Radiology  September 30, 2004 
+SPD September 30, 2004 
+Warehouse  March 2005 
+An inventory management tool (the monthly GIP Inventory Report) was 
+developed, which lists the various GIP inventory accounts, the inventory due 
+dates, the date the inventory was completed, discrepancies found, and summary 
+of actions to be taken.  The report is completed by the Chief, Materiel 
+Management, reviewed by the Associate Central Hub A&MMS Manager, and 
+provided to the Associate Medical Center Director.  Adequate number of staff 
+are available to complete inventories in a timely fashion. 
+b) SPD to conduct and document annual wall-to-wall physical inventories. 
+An inventory was completed on March 18, with a 68 percent accuracy rate.  
+Procedures were reviewed and adjustments made.  Another inventory was 
+conducted on April 15, 2004, with an accuracy rate of 84 percent.  A third 
+inventory was completed on May 13, 2004, with an accuracy rate of 88 percent.  
+Another inventory is being scheduled and they will continue until an accuracy 
+rate of at least 95 percent is achieved. 
+5. Strengthen monthly controlled substances inspections. 
+a) Certify the accuracy of pharmacy records of controlled substances awaiting 
+destruction. 
+Completed.  New policy was published February 23, 2004 and procedures are in 
+place and being used. 
+b) Document in the monthly controlled substances inspection reports whether 
+excess and outdated controlled substances were destroyed in the prior quarter. 
+Completed.  New policy was published February 23, 2004 and procedures are in 
+place and being used. 
+c) Verify five randomly selected dispensing activities on each unit to the 
+medical records during each monthly controlled substances inspection. 
+Completed.  New policy was published February 23, 2004 and procedures are in 
+place and being used. 
+6. Aggregate and analyze moderate sedation outcome data. 
+VA Office of Inspector General 
+ 
+20 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+ 
+ 
+a) Designate a committee to aggregate and analyze moderate sedation outcome 
+data 
+Data go to the Medical Staff Executive Committee and any outliers are 
+forwarded to the Peer Review Committee.  
+OIG Suggestion(s) 
+1. Fully document price reasonableness determinations and ensure services are 
+validated in accordance with contract terms prior to payment. 
+a) Contracting officers to document their determinations of fair and reasonable 
+prices in PNMs 
+The contracting Officer completed the Price Negotiation Memoranda (PNMs) 
+on both contracts in question on February 27, 2004.  Appropriate PNMs will be 
+prepared on all future contract negotiations and negotiations will be documented 
+in the contract files. 
+b) That sign-in and sign-out logs are maintained and used to certify invoices as 
+required by the contracts. 
+All service chiefs/care line managers using contract employees have been 
+reminded in writing of the requirement to maintain a sign-in and sign-out log at 
+each facility where contract employees are providing services.  A sheet for this 
+purpose was developed and implemented on May 1, 2004.  These sheets will be 
+maintained and will be the only documents used to verify services performed 
+and to certify invoices. 
+c) That COTRs be designated in writing. 
+Appropriate COTR designations were prepared on February 27, 2004 for the 
+two contracts in question.  As appropriate and as provided for under applicable 
+FAR and VA regulations, COTR designations will be properly prepared for all 
+future contracts. 
+2. Ensure computer equipment inventories are completed timely, inventory 
+lists are updated when needed, and the local policy on loaning laptop computers 
+is revised. 
+a) IRM to complete EIL inventories timely. 
+A&MMS has created a dedicated inventory management position to assist in 
+IRM EIL inventories.  IRM has developed a more efficient process to be used 
+not only during the annual inventory, but daily in an effort to better track IT 
+equipment. 
+b) A&MMS staff to perform quarterly EIL inventory spot checks. 
+VA Office of Inspector General 
+ 
+21 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+ 
+ 
+This process began in May 2004.  The EIL spot checks are reported through the 
+Associate Central Hub A&MMS Manager to the Associate Medical Center 
+Director. 
+c) A&MMS and IRM staff to update EIL records when equipment is moved or 
+excessed. 
+A&MMS updates the EIL records after the Warehouse picks up equipment that 
+has been turned in as excess.  As mentioned above, IRM has developed a new 
+process for tracking IT equipment when it is moved and A&MMS and IRM are 
+meeting on May 21, 2004 to review the new process. 
+d) IRM to revise local policy on loaning laptop computers to staff to ensure 
+loans are only made for official purposes. 
+New processes are in place for laptop loan requests to include reason for request 
+an supervisory approval.  The policy (PM 19-02, Use of Computer 
+Laptops/Notebooks and Projectors) is in process of being updated to include 
+these changes. 
+VA Office of Inspector General 
+ 
+22 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+Appendix C 
+  
+Monetary Benefits in Accordance with 
+IG Act Amendments 
+Recommendation 
+Explanation of Benefit(s) 
+Better Use of Funds 
+3 
+Better use of funds by ensuring all billing 
+opportunities are realized. 
+$13,095 
+4 
+Better use of funds by reducing supply 
+inventories to 30-day supply levels. 
+90,304 
+ 
+ 
+Total 
+$103,399 
+ 
+VA Office of Inspector General 
+ 
+23 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+Appendix D 
+  
+OIG Contact and Staff Acknowledgments 
+ 
+OIG Contact 
+William H. Withrow, Director, Kansas City Audit Operations 
+Division (816) 426-7100 
+Acknowledgments 
+Nelson Miranda, Director, Washington Office of Healthcare 
+Inspections 
+Joseph T. Janasz, Jr., CAP Review Coordinator 
+Randall Snow, Healthcare Inspections Team Leader 
+Richard Horanski, Investigations Team Leader 
+Jim L. Garrison 
+C. Russell Lewis 
+Gavin McClaren 
+Henry Mendala 
+Rayda Nadal 
+Michelle Porter 
+Carla S. Reid 
+Oscar L. Williams 
+ 
+ 
+VA Office of Inspector General 
+ 
+24 
+Combined Assessment Program Review of the VA Medical Center Chillicothe, Ohio 
+Appendix E 
+  
+Report Distribution 
+VA Distribution 
+ 
+Office of the Secretary 
+Veterans Health Administration 
+Assistant Secretaries 
+General Counsel 
+ 
+Non-VA Distribution 
+ 
+House Committee on Veterans’ Affairs 
+House Appropriations Subcommittee on VA, HUD, and Independent Agencies 
+House Committee on Government Reform 
+Senate Committee on Veterans’ Affairs 
+Senate Appropriations Subcommittee on VA, HUD, and Independent Agencies 
+Senate Committee on Government Affairs 
+National Veterans Service Organizations 
+General Accounting Office 
+Office of Management and Budget 
+The Honorable Mike Dewine, U.S. Senate 
+The Honorable George Voinovich, U.S. Senate 
+The Honorable Dave Hobson, U.S. House of Representatives 
+The Honorable Bob Ney, U.S. House of Representatives 
+The Honorable Rob Portman, U.S. House of Representatives 
+The Honorable Ted Strickland, U.S. House of Representatives 
+The Honorable Michael Turner, U.S. House of Representatives 
+ 
+ 
+This report will be available in the near future on the OIG’s Web site at 
+http://www.va.gov/oig/52/reports/mainlist.htm.  This report will remain on the OIG Web site for 
+at least 2 fiscal years after it is issued.   
+VA Office of Inspector General 
+ 
+25 

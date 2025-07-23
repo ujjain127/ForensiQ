@@ -1,0 +1,884 @@
+ 
+Marine Sanctuaries Conservation Series  MSD-05-3 
+ 
+U.S. Department of Commerce 
+  
+                      February 2005 
+National Oceanic and Atmospheric Administration 
+National Ocean Service 
+Office of Ocean and Coastal Resource Management 
+Marine Sanctuaries Division 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Impacts of Coastal Protection Structures 
+in California’s 
+Monterey Bay National Marine Sanctuary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About the Marine Sanctuaries Conservation Series 
+ 
+The National Oceanic and Atmospheric Administration’s Marine Sanctuary Division (MSD) 
+administers the National Marine Sanctuary Program.  Its mission is to identify, designate, 
+protect and manage the ecological, recreational, research, educational, historical, and aesthetic 
+resources and qualities of nationally significant coastal and marine areas.  The existing marine 
+sanctuaries differ widely in their natural and historical resources and include nearshore and 
+open ocean areas ranging in size from less than one to over 5,000 square miles.  Protected 
+habitats include rocky coasts, kelp forests, coral reefs, sea grass beds, estuarine habitats, hard 
+and soft bottom habitats, segments of whale migration routes, and shipwrecks. 
+ 
+Because of considerable differences in settings, resources, and threats, each marine sanctuary 
+has a tailored management plan.  Conservation, education, research, monitoring and 
+enforcement programs vary accordingly.  The integration of these programs is fundamental to 
+marine protected area management.  The Marine Sanctuaries Conservation Series reflects and 
+supports this integration by providing a forum for publication and discussion of the complex 
+issues currently facing the National Marine Sanctuary Program.  Topics of published reports 
+vary substantially and may include descriptions of educational programs, discussions on 
+resource management issues, and results of scientific research and monitoring projects.  The 
+series facilitates integration of natural sciences, socioeconomic and cultural sciences, 
+education, and policy development to accomplish the diverse needs of NOAA’s resource 
+protection mandate. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Impacts of Coastal Protection Structures in California’s 
+Monterey Bay National Marine Sanctuary 
+ 
+ 
+Rebecca Stamski 
+ 
+Monterey Bay National Marine Sanctuary 
+Monterey, CA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+ 
+ 
+ 
+Silver Spring, Maryland 
+February 2005 
+U.S. Department of Commerce 
+Carlos M. Gutierrez, Secretary 
+ 
+National Oceanic and Atmospheric Administration 
+VADM Conrad C. Lautenbacher, Jr. (USN-ret.) 
+Under Secretary of Commerce for Oceans and Atmosphere 
+ 
+National Ocean Service 
+Richard W. Spinrad, Ph.D., Assistant Administrator 
+ 
+Marine Sanctuaries Division 
+Daniel J. Basta, Director 
+ 
+ 
+DISCLAIMER 
+ 
+Report content does not necessarily reflect the views and policies of the National Marine 
+Sanctuary Program or the National Oceanic and Atmospheric Administration, nor does the 
+mention of trade names or commercial products constitute endorsement or recommendation for 
+use. 
+ 
+REPORT AVAILABILITY 
+ 
+Electronic copies of this report may be downloaded from the National Marine Sanctuaries 
+Program web site at www.sanctuaries.nos.noaa.gov.  Hard copies may be available from the 
+following address: 
+ 
+ 
+ 
+National Oceanic and Atmospheric Administration 
+ 
+ 
+Marine Sanctuaries Division 
+ 
+ 
+SSMC4, N/ORM62 
+ 
+ 
+1305 East-West Highway 
+ 
+ 
+Silver Spring, MD 20910 
+ 
+COVER  
+ 
+Upper Left: 
+Coastal armoring in Capitola, CA.  MBNMS 
+Center Left: 
+Erosion warning sign, Santa Cruz, CA.  MBNMS 
+Lower Left: 
+Riprap along Westcliff Drive, Santa Cruz, CA.  MBNMS 
+Upper Right: Riprap along Westcliff Drive, Santa Cruz, CA.  MBNMS 
+Center Right: Seawall in Capitola, CA.  MBNMS 
+Lower Right: Seawall in Santa Cruz, CA.  MBNMS 
+ 
+SUGGESTED CITATION 
+ 
+Stamski, Rebecca.  2005. The impacts of coastal protection structures in California’s Monterey 
+Bay National Marine Sanctuary.  Marine Sanctuaries Conservation Series MSD-05-3.  U.S. 
+Department of Commerce, National Oceanic and Atmospheric Administration, Marine 
+Sanctuaries Division, Silver Spring, MD. 18 pp.   
+ 
+CONTACT 
+ 
+Rebecca Stamski 
+California Sea Grant Fellow 
+Monterey Bay National Marine Sanctuary 
+299 Foam Street 
+Monterey, CA  93940 
+(831) 647-4228 
+Becky.Stamski@noaa.gov
+ 
+ i
+ 
+ 
+ABSTRACT 
+ 
+ 
+     This report outlines the potential impacts of coastal protection structures on the resources of 
+the Monterey Bay National Marine Sanctuary.  At least 15 miles of the Sanctuary’s 300-mile 
+shoreline are currently armored with seawalls and riprap revetments.  Most of these coastal 
+protection structures are placed above the mean high tide line, the official boundary of the 
+Sanctuary, yet some influences of armoring impinge on the marine realm and on recreational use.  
+In addition, continued sea level rise and accompanying coastal retreat will force many of these 
+structures below the high tide line over time.  The Monterey Bay National Marine Sanctuary 
+staff has recognized the significance of coastal armoring, identifying it as a critical issue in the 
+Coastal Armoring Action Plan of the draft Joint Management Plan. 
+     This summary is intended to provide general background information for Sanctuary policies 
+on coastal armoring.  The impacts discussed include: aesthetic depreciation, beach loss due to 
+placement, access restriction, loss of sand supply from eroding cliffs, passive erosion, and active 
+erosion.  In addition, the potential biological impacts are explored.  Finally, an appraisal of how 
+differing armor types compare in relation to impacts, expense and engineering is presented.  
+While the literature cited in this report focus predominantly on the California coast, the 
+framework for this discussion could have implications for other actively eroding coastlines.   
+ 
+ 
+ 
+KEY WORDS 
+ 
+ 
+Coastal erosion, armoring, coastal protection structures, seawall, riprap revetment, geology, 
+sanctuary, California, Monterey Bay 
+ 
+ ii
+ 
+TABLE OF CONTENTS 
+ 
+ 
+Topic 
+Page 
+ 
+Abstract...................................................................................................................  
+i 
+ 
+Table of Contents....................................................................................................  
+ii 
+ 
+List of Figures.........................................................................................................  iii 
+ 
+Introduction.............................................................................................................  
+1 
+ 
+Impacts of Coastal Armoring Structures.................................................................  
+4 
+ 
+     Visual Impacts ...................................................................................................  
+4 
+ 
+     Placement Loss ..................................................................................................  
+6 
+ 
+     Access Issues .....................................................................................................  
+7 
+ 
+     Reduction of Sand Supply from Armoring of Cliffs .........................................  
+8 
+ 
+     Passive Erosion..................................................................................................  
+9 
+ 
+     Active Erosion ...................................................................................................  10 
+ 
+     Biological Impacts .............................................................................................  11 
+ 
+Engineering of Coastal Armoring Structures..........................................................  13 
+ 
+     Riprap.................................................................................................................  13 
+ 
+     Seawalls .............................................................................................................  14 
+ 
+Conclusions.............................................................................................................  15 
+ 
+Literature Cited.......................................................................................................  16 
+ 
+Acknowledgements.................................................................................................  18 
+ 
+ iii
+LIST OF FIGURES 
+ 
+ 
+Figure Number and Title 
+Page 
+ 
+Figure 1a: Oblique aerial photographs of Stillwell Hall in 2002............................  
+1 
+ 
+Figure 1b: Oblique aerial photographs of former Stillwell Hall site in 2004.........  
+2 
+ 
+Figure 2: Concrete blocks used as riprap................................................................  
+4 
+ 
+Figure 3: An unplanned assemblage of coastal armoring.......................................  
+5 
+ 
+Figure 4: Cliff stabilization built to fill a seacave...................................................  
+6 
+ 
+Figure 5: Riprap covering up significant amount of beach area.............................  
+7 
+ 
+Figure 6: Recent bluff stabilization project ............................................................  
+8 
+ 
+Figure 7: Aerial-perspective, schematic diagram depicting beach loss over time 
+               due to fixing the coastline with armor .....................................................  
+9 
+ 
+Figure 8: Algae growing on riprap..........................................................................  12 
+ 
+Figure 9: Riprap boulders settled into sand ............................................................  14
+ 
+ i
+ 
+ 
+ 
+ 
+ 1
+INTRODUCTION 
+ 
+      Eighty-six percent of California’s 1,100 miles of coastline is eroding (Griggs 1999), yet now 
+more than ever, people want to live at that retreating boundary between land and sea.  Erosion of 
+the coast has been occurring for the past 18,000 years, when the last glacial period ended and sea 
+level began to rise. Coastal cliffs are retreating at an average rate of 10 to 30 centimeters per year 
+across the state (Griggs and Patsch 2004a), although erosion rates can be as high as 4.5 meters 
+per year (Griggs and Patsch 2004b).  Extreme variability in the rates and severity of coastal 
+erosion, particularly in relation to El Niño storm patterns and local geomorphic conditions, 
+complicates property protection decisions.  In addition, the politics of public and private land 
+ownership in the coastal zone make coastal armoring a contentious issue for Californians.   
+  
+    Several alternatives have been recognized to deal with the confluence of coastal development 
+and eroding shorelines, none of which are a panacea.  In the extreme case, property owners can 
+demolish the building or relocate it landward, either on the same parcel or on an entirely 
+different inland location.  Neither of these choices is ideal for property owners, though they 
+should be considered as serious, long-term solutions to this inevitable dilemma, given the rising 
+costs of other alternatives (Griggs 1986).  For example, Stillwell Hall, built in the 1940’s as the 
+Fort Ord soldier’s club in Seaside, California, was torn down in March 2004 because the cost of 
+both coastal armoring and relocating were too high (Figures 1a and b). 
+ 
+ 
+ 
+Figure 1a:  Oblique aerial photograph of Stillwell Hall in 2002 in Marina, CA.  Coastal protection structures placed 
+at the base of the aged building were neither effective nor efficient enough keep up with intense coastal erosion of 
+adjacent bluffs. Photograph copyright © 2002 Kenneth & Gabrielle Adelman (http://www.californiacoastline.org/).   
+ 
+ 2
+ 
+ 
+Figure 1b: Oblique aerial photograph of the former Stillwell Hall location after the building and associated coastal 
+protection structures were removed in March 2004.  Photograph copyright © 2002 Kenneth & Gabrielle Adelman 
+(http://www.californiacoastline.org/). 
+ 
+     Beach nourishment has been highlighted recently as a solution to coastal erosion; proponents 
+of this alternative maintain that increasing beach width by physically adding sand to a beach 
+buffers wave energy and slows retreat rates.  Federal, state and local government agencies are 
+pursuing this method as a way to protect property from erosion damage, but the costs are 
+generally very high and the net, long-term benefits of beach nourishment will vary greatly 
+depending on local conditions (Leonard et al. 1990).   
+ 
+     A survey of west coast beach nourishment projects determined that only 27% survived more 
+than 5 years and 18% lasted less than 1 year (Leonard et al. 1990).   In some cases, sand that was 
+placed on a beach during summer was completely washed away the following winter.  This is not 
+unexpected given the high littoral drift rates that characterize most of the coast of California.  A 
+cost-benefit analysis of proposed nourishment projects should include site-specific evaluations of 
+littoral budgets.  In addition, the availability of an appropriate, cost-effective sand source and 
+potential interference between beach users and sand transportation equipment should be 
+addressed.  As an alternative, beach width might be increased by removing dams that impound 
+significant amounts of sand in coastal streams (Willis and Griggs 2003). 
+ 
+     By far the most popular option to manage shoreline retreat in California has been the 
+construction of coastal protection structures (also referred to as coastal armoring).  
+Approximately 10% of California’s coastline is currently armored (Griggs in press-a).  The 
+complexity and significance of coastal armoring in California are evidenced by numerous 
+scientific studies, involvement of non-profit organizations, such as the Sierra Club and the 
+Surfrider Foundation, and media coverage of the issue, such as KQED’s Coastal Clash 
+documentary (http://www.kqed.org/w/coastalclash/home.html).  The costs of armoring can be 
+significant; millions of federal, state and private dollars have been expended annually on shore 
+ 
+ 3
+protection, which can cost anywhere from $1800 to $7600 per linear foot of coast (Griggs in 
+press-a).   
+ 
+     Armoring varies widely in type of material, degree of engineering, and relative success in 
+preventing coastal erosion and providing property protection (Griggs and Fulton-Bennett 1988).  
+Riprap and seawalls are the most common armoring structures used in central California.  Riprap 
+can be defined as any large (1 to 6 ton) rocks used for coastal protection, with varying degrees of 
+engineering; seawalls are continuous, rigid structures with vertical or concave faces.  To clarify a 
+common misconception, it is important to note that armoring is emplaced to protect buildings 
+and infrastructure, not beaches (Kraus and McDougal 1996).  Groin fields and beach 
+nourishment are the common methods by which beaches are expanded, both of which are 
+fundamentally different than armoring, which is constructed to halt erosion of cliffs, bluffs or 
+dunes that have buildings behind or on top of them, or to protect a building built on the 
+backshore (above the high tide line).     
+ 
+     Public concern over use and regulation of the California coastline was aired in the early 
+1970s, the result of which was the establishment of the California Coastal Act in 1976.  This act 
+created the California Coastal Commission (Commission), which is tasked with regulating 
+development in the coastal zone.  Under the Coastal Act, new armor is only allowed to protect 
+existing structures and new buildings must be setback enough to ensure that erosion will not 
+threaten the house within its projected lifespan.  The Commission, in coordination with local 
+coastal planning agencies, provides permits for the emplacement and maintenance of coastal 
+protection structures.  Unfortunately, ambiguous language within the Coastal Act has been 
+exploited and there is a need to design more specific long-range plans to limit the extent of 
+coastal armoring (Griggs et al. 1992).  
+ 
+     The Monterey Bay National Marine Sanctuary (Sanctuary), which encompasses 276 miles 
+(444.2 km) of coastline from Marin to Cambria, was designated in 1992 to protect the resources 
+of this unique marine environment.  As of 1998, 15.1 miles (24.3 km) of the Sanctuary’s 
+coastline have been armored (Griggs et al. in press-b).  Various physical and biological impacts 
+of coastal armoring may affect the resources of the Sanctuary both directly and indirectly.  Most 
+coastal protection structures are placed above the high tide line, the official boundary of the 
+Sanctuary; yet some influences of armoring may impinge on the marine realm, and continued sea 
+level rise and the accompanying coastal retreat will force many of these structures below the 
+high tide line over time.  The Sanctuary recognized the significance of protection structures on 
+the shoreline and has identified it as a critical issue in the Coastal Armoring Action Plan of the 
+Joint Management Plan. 
+ 
+     The impacts of coastal protection structures are of great concern to local governments, private 
+property owners, and the public.  The most commonly recognized impacts (as outlined in Griggs 
+(in press-a)) are:  visual effects, placement loss, access issues, loss of sand supply from eroding 
+cliffs, passive erosion, and active erosion.  In addition, there are potential impacts to the 
+biological communities that utilize the coastal zone.  The following is a discussion of these 
+impacts, including an appraisal of how differing armor types compare in relation to impacts, 
+expense and engineering.  This report is intended to provide general background information for 
+regional coastal armoring plans for the Sanctuary. 
+ 
+ 4
+ 
+ 
+IMPACTS OF COASTAL ARMORING STRUCTURES 
+ 
+Visual Impacts 
+ 
+      Public outcry over armoring is largely the result of visual impacts, because coastal protection 
+structures often look unnatural or unsightly and can negatively affect recreational beach 
+experiences.  In the past, emergency armor has been emplaced with no regard to aesthetics or 
+long-term engineering standards.  Slabs of concrete have been dumped at the bases of cliffs, as is 
+the case near Lighthouse Point in Santa Cruz (Figure 2), and several different kinds of structures 
+have been haphazardly used on the same stretch of coast, such as is the case at Opal Cliffs in 
+Capitola (Figure 3).   
+ 
+ 
+ 
+Figure 2: Concrete blocks used as riprap near Lighthouse Point in Santa Cruz, California.   
+ 
+ 5
+ 
+ 
+Figure 3:  An unplanned assemblage of coastal armoring at Opal Cliffs in Capitola, California can have a visual 
+impact on the beach user. 
+      
+     There are ways to mitigate visual impacts.  New seawall engineering, with faces crafted of 
+gunite or shotcrete, can be sculpted and colored to resemble the surrounding cliff or bluff face.  
+Such walls are already used extensively in cliff stabilization on roadways and are gaining further 
+use in the coastal zone, including a new, natural-looking wall protecting the cliff behind 
+Cowell’s Beach in Santa Cruz (Figure 4).   
+ 
+ 6
+ 
+ 
+Figure 4: Photograph of cliff stabilization built to fill a seacave at Cowell’s Beach in Santa Cruz.  The 2004 gunite 
+wall, outlined by the black dashed line, mimics the shape and color of the natural cliff. 
+ 
+ 
+     The Commission, in compliance with section 30253 of the Coastal Act (2005), requires that a 
+licensed civil engineer, who has experience in coastal processes, design new armoring structures.  
+This has helped to reduce the number of shoddy, unregulated structures.  One solution to the 
+problem of unattractive, incongruent armoring being considered by the Commission is to plan a 
+continuous, uniform coastal protection structure that spans across several parcels to ameliorate a 
+regional erosion problem (Griggs and Fulton-Bennett 1988). 
+ 
+Placement Loss 
+ 
+     Coastal armoring structures will inevitably cover up some portion of the beach in front of the 
+structure they are built to protect; this impact is referred to as impoundment or placement loss.  
+As with visual impacts, this is a tenuous issue with the public who lose beach area in order to 
+benefit private property owners.  The amount of beach that will be lost from construction of new 
+armor can be easily calculated for inclusion in engineering plans and environmental impact 
+statements. 
+ 
+     In terms of impoundment, seawalls are almost always more favorable than riprap structures.  
+Most seawalls are only a few feet (~6’) thick and are built flush with the cliff or bluff, 
+impounding a minimal amount of backshore area.  Engineered riprap, on the other hand, should 
+have a width (cross-beach) to height ratio of at least 1.5:1 or 2:1 to maintain structural integrity 
+during strong storms (Griggs and Fulton-Bennett 1988).  Thus, riprap that is designed to be 20 
+feet high could cover up to 40 feet of beach (in the shore-perpendicular direction); multiplying 
+ 
+ 7
+by the shore-parallel length of the riprap yields the square feet of beach lost by impoundment.  In 
+this case, if a 20-foot stretch of coast needed to be armored, an average seawall would impound 
+120 ft2 of beach (6 ft wide x 20 ft long), while riprap would cover 800 ft2 of beach (40 ft wide x 
+20 ft long).  Westcliff Drive in Santa Cruz, for example, has had extensive beach loss because of 
+riprap emplacement (Figure 5). 
+ 
+ 
+ 
+Figure 5: Riprap covering up significant amount of beach area in Santa Cruz, California, near the intersection of 
+Westcliff Drive and San Jose Avenue. 
+ 
+Access Issues 
+ 
+     In conjunction with impoundment, access to beaches can be lost when armor is installed.  
+Lateral access is restricted when armoring bisects the shore-parallel continuity of a beach; the 
+time frame of access-loss will depend on tidal and seasonal changes in beach width.  As with the 
+issue of impoundment, riprap tends to cover up a wider section of beach than a seawall, and 
+would therefore be more likely to cut off lateral access.  Yet in instances when the beach is 
+narrow, especially during high tides and/or winter months, seawalls can also impair lateral 
+access.    
+ 
+     Vertical access, the ability to get to a beach from behind or above, can also be affected when 
+armoring is placed on the coast.  Riprap and seawalls can cover up paths or trails that lead to the 
+beach.  However, in most cases, a protection structure is placed against a near-vertical cliff or 
+bluff face where vertical access was most likely difficult prior to armoring.  As a mitigation 
+measure, stairs or paths can be integrated within coastal protection structures to facilitate vertical 
+ 
+ 8
+access to the beach, though maintenance of these paths can become a safety issue over time if the 
+armoring is structurally compromised (Figure 6).   
+ 
+ 
+ 
+Figure 6: In this bluff stabilization project at Pleasure Point in Santa Cruz, the protective gunite (outlined with dotted 
+line) was colored and textured to match the existing bluff materials, and access steps were built into the structure 
+(Photograph by Gary Griggs).   
+ 
+Reduction of Sand Supply from Armoring of Cliffs 
+ 
+     Comprehensive approaches to understanding coastal erosion include an assessment of 
+anthropogenic reductions in sand supply.  The breakdown of rocks and sediment in cliffs, bluffs 
+and dunes creates sand that constitutes some fraction of the littoral budget.  Armoring coastal 
+landforms covers up those erosion-prone surfaces and may therefore reduce sand supply.  These 
+reductions can make downcoast beaches narrower, allowing more wave energy to erode cliffs, 
+bluffs and dunes downcoast of the armored area.   
+ 
+     The relative contribution of cliff erosion to sediment budgets will vary based on local geology 
+and erosion rates.  Thus, understanding the effects of coastal armoring on sand supply needs to 
+be addressed on a littoral cell by littoral cell basis.  For example, a recent study found that less 
+than 1% of sand supply was contributed from seacliff erosion in the Santa Barbara littoral cell, 
+while 12% of the sand in the Oceanside littoral cell originated from eroding cliffs (Runyan and 
+Griggs 2003). 
+ 
+     Mitigation measures for sand supply reduction from armoring include the replacement of 
+sand, via beach nourishment, in equal volume to that which is lost by the emplacement of 
+ 
+ 9
+armoring structures.  Yet, as noted above, the success and longevity of beach nourishment 
+projects is debatable. 
+ 
+Passive Erosion 
+ 
+     Passive erosion is perhaps the most significant and the most misunderstood impact of coastal 
+armoring.  Eighty-six percent of California’s coastline is eroding, the result of which is a 
+landward retreat of beaches, cliffs and other coastal landforms.  Yet when a structure, such as 
+riprap or a seawall, is constructed in front of a building to halt erosion, the shoreline is 
+essentially fixed at that location.  Adjacent landforms (beaches, cliffs, etc.) will continue to 
+retreat landward, creating an artificial headland out of the armored segment of coast.  If armor is 
+placed at the base of a cliff that has a beach in front of it, the beach will continue to migrate 
+landward on either side of the armored area, but there will be no beach in front of the armor, as 
+depicted in Figure 7.   
+ 
+ 
+ 
+Figure 7: Aerial-perspective, schematic diagram depicting beach loss over time due to fixing the coastline with 
+armor when coastal erosion rates are 20 cm/year, a realistic rate for California.  Prior to its removal, Stillwell Hall in 
+Marina, California, was a classic example of passive erosion (see Figure 1). 
+ 
+     Passive erosion occurs regardless of the type of structure used; riprap and seawalls both fix 
+the coastline and prevent the landward migration of beaches, cliffs, bluffs and dunes.  One way 
+to mitigate passive erosion is to nourish beaches with sand from other locations, though this is 
+ 
+ 10
+only a temporary solution to an incessant problem.  As an alternative, removing dams from rivers 
+will increase the sediment supply to beaches along much of the California coast (Farnsworth and 
+Milliman 2003; Willis and Griggs 2003). 
+ 
+Active Erosion 
+ 
+     Localized, accelerated erosion that might occur because of interactions between armoring 
+structures and waves is referred to as active erosion.  This type of erosion includes scour at the 
+base of a protection structure or on adjacent segments of shoreline, and changes in overall beach 
+morphology.  Many people feel that seawalls initiate active erosion and are therefore detrimental 
+to coastal environments, yet recent investigations may suggest otherwise.   
+ 
+     A summary of over 40 scientific studies on the interactions between beaches and coastal 
+armoring structures (including seawalls and riprap) found that active erosion may not be as 
+prolific a problem as was once thought (Kraus and McDougal 1996).  The review determined 
+that reflection of wave energy off of coastal armor (waves bouncing off perpendicular to a 
+structure) generally does not cause changes in beach profiles or scour in front of the armor.  In 
+addition, they ascertained that beach profiles in front of armoring retained the same amount of 
+sand as non-armored beaches during storm events.     
+ 
+     In an eight-year study by Griggs et al. (1994; 1997), over 2000 beach profiles were collected 
+and analyzed across armored and non-armored beaches around northern Monterey Bay.  In this 
+exhaustive investigation, scour was documented in front of an armoring structure only during 
+extreme storm events and the imprint of that scour was ephemeral. The study did find that, as 
+winter approached, the summertime beach berm migrated landward slightly faster in front of 
+coastal protection structures when compared to beaches without armoring.  However, once 
+typical, narrow winter beaches were established, there was no significant alongshore difference 
+in the shape of armored and non-armored beaches.  In winter months, Griggs et al. (1994) did 
+document some scour on the downcoast end of the structure, extending in an arc-shaped zone for 
+as much as 50 to 150 m.  Yet, as summer advanced, the beach width widened and there was no 
+trace of scour or berm erosion caused by the armor.   
+ 
+     This study served to dispel, or at least bring into question, many common assumptions 
+concerning interactions between armoring and beaches.  First, seawalls are often perceived to 
+cause more active erosion than other structures, such as riprap, because the former is less 
+permeable than the latter.  However, the 8-year study by Griggs et al. showed that there were no 
+significant differences in beach profiles in front of a seawall versus riprap.  Second, in contrast to 
+the general sentiment that coastal armoring causes excessive erosion, there was no appreciable, 
+long-term active erosion caused by seawalls or riprap on the Monterey beaches highlighted in the 
+Griggs et al. study (1994; 1997).  The real problem is passive erosion, which is an inevitable part 
+of California coastal dynamics; beaches are eroding in front of armoring structures because the 
+coastline is fixed at that spot, while the adjacent beaches are migrating landward.       
+ 
+ 11
+Biological Impacts 
+ 
+     While a significant amount of attention has been given to the physical effects of placing hard 
+armoring structures on the coast, relatively little consideration has been focused on potential 
+biological impacts.  Armoring can be emplaced both above and below the high tide line.  It is 
+important to recognize that this is an extremely dynamic environment; passive erosion, for 
+example, ensures that much of the armor placed above the high tide line will end up below that 
+line as the coast retreats.  The habitats most impacted by armoring are the beach, above the 
+highest high tide line, and the intertidal zone, between the highest high tide and lowest low tide 
+lines.   
+ 
+     Riprap placed against a cliff to slow erosion can cover up extensive portions of the beach, 
+which serves as habitat for many species of invertebrates and birds.  The endangered Snowy 
+Plover (Charadrius alexandrinus), for example, nests and feeds on beaches in the Sanctuary 
+(USFWS 2005).  Armoring in the intertidal zone can also cover up vital, natural habitats for fish, 
+algae and invertebrates (MBNMS 2004).  Organisms can also be directly smothered or killed 
+during the construction phase of these coastal protection devices.   
+ 
+     In addition to physically removing or disturbing habitats, armoring also adds hard substrate 
+that can have implications for populations in the area (McGuinness 1989; Osborn 2002).  If 
+riprap is placed on top of a beach, the new substrate may attract different algae species that 
+would otherwise not have had an appropriate attachment medium at that location (Figure 8).  
+Different species, which can capitalize on armoring surfaces, may compete with species that had 
+previously occupied those regions. 
+ 
+     A recent study in northern Monterey Bay found that rock type can have an impact on 
+colonization and subsequent recruitment of other organisms (Osborn 2002). The rocks used for 
+riprap revetments are usually foreign to the area in which they are emplaced; therefore physical 
+properties of the riprap will vary from local conditions.  In this study, community structure was 
+documented on basaltic riprap and on sandstone, the natural cliff material.  Significant 
+differences in intertidal communities were found living on the two rock types.  Rock properties, 
+such as porosity and color, affect the dampness and heat of the substrate upon which intertidal 
+organisms settle and may impact population dynamics.  
+ 
+ 
+ 12
+ 
+ 
+Figure 8:  Algae growing on basaltic riprap in Santa Cruz, California.  This riprap has covered up a beach, creating 
+an artificial substrate for species recruitment.   
+ 
+     In Sydney, Australia, a comparison between organisms living on rocky shores versus seawalls 
+found that seawalls supported only half the diversity of mobile organisms when compared to 
+nearby natural rocky substrates (Chapman 2003).  The study found that the types of algae and 
+sessile organisms were similar on both substrates, but that rocky shores were home to more rare 
+species than seawalls.  The paucity of mobile and rare organisms may have been due to the steep 
+slopes and lack of rugosity, or microhabitats, used for conventional seawalls.  Sculpting coastal 
+armoring structures so that they mimic surrounding landforms may help avoid loss of community 
+diversity.   
+ 
+     Armoring may also have influences on large-scale biogeography.  A review of intertidal 
+systems in the northeast Pacific suggested that there is a substantial biogeographic break at 
+Monterey Bay (Foster et al. 1991).  This discontinuity in populations to the north and south of 
+the Bay may be due to the extensive sandy shoreline that stretches from Aptos to Monterey.  This 
+area lacks hard substrate, upon which many intertidal organisms rely.  If and when armoring is 
+added to this area, it may provide settlement sites for species that otherwise could not live in the 
+Monterey Bay intertidal zone.  In this manner, the biogeographic break may be crossed and 
+species from the north may be able to migrate south and vise versa.  Similarly, armoring 
+structures may provide habitat for species that are brought into harbors by boats, facilitating the 
+spread of invasive species. 
+ 
+ 
+ 
+ 13
+ENGINEERING OF COASTAL ARMORING STRUCTURES 
+ 
+     With the exception of passive erosion, all of the impacts described above can be influenced 
+by the design and type of armoring used.  Methods for constructing and repairing coastal 
+protection structures are not standardized and poor engineering can lead to failure and additional 
+costs (USACE 1981; Griggs and Fulton-Bennett 1988; Chenault 2000).  To be sustainable and 
+effective, armoring must survive the following forces: overtopping by large storm waves, 
+undermining by scour at the base, outflanking by erosion on either side, and battering by waves, 
+sediment and debris.  The following is a brief description of some of the engineering 
+considerations in building riprap and seawalls.   
+ 
+Riprap 
+ 
+     Engineered riprap must have several elements to efficiently protect the coast, as outlined in a 
+study of the effectiveness of riprap in central California (Griggs and Fulton-Bennett 1988): 
+ 
+• Excavation of sand, if built on the beach 
+• Filter cloth at base 
+• A trench at the seaward edge of structure (referred to as a “toe trench”) below 
+maximum scour depth, with large stone (4-6 tons) in toe trench 
+• Stable slope angles of at least 1.5:1 (width across the beach: height), 2:1 is more 
+successful 
+• Small core stones placed down first on top of filter cloth 
+• Large cap stone (3-5 tons) on top, positioned in an interlocking pattern 
+• Height great enough to prevent overtopping 
+ 
+     In addition to these engineering specifications, riprap generally requires regular maintenance 
+by adding rocks every 5 to 10 years.  These structures can cost over $1500 per linear foot (in 
+2003 dollars), with annual maintenance costs of 2-15% of the initial cost.  Riprap that is built on 
+top of bedrock platforms generally lasts longer than those placed on beaches, because a 
+significant amount of settling and burial can occur in active beach environments (Figure 9). 
+ 
+ 
+ 14
+ 
+ 
+Figure 9:  Riprap boulders commonly settle into deep sandy beaches or get buried, as seen here near the intersection 
+of Westcliff Drive and David Street in Santa Cruz, California.             
+ 
+Seawalls 
+ 
+     Seawalls have different engineering criteria.  In general, due to their durability, concrete or 
+gunite walls outlive timber seawalls and fare better than riprap, in terms of costs and benefits 
+(Griggs and Fulton-Bennett 1988).  Some recommended elements for seawall longevity include: 
+ 
+• Concrete mix with a low water to cement ratio 
+• Epoxy coated rebar with at least 3 inches of concrete between steel and seawater 
+to prevent rusting of steel 
+• Deep (8-15 ft below MLLW) interlocking sheet piles in sandy areas 
+• At least 12” of thickness for the wall 
+• Wide, seaward sloping apron shoreward of the wall to prevent overtopping, when 
+appropriate 
+• Holes drilled through entire width of the seawall (referred to as “weep holes”) to 
+provide drainage and to prevent ponding behind the wall 
+• Maintenance of weep holes to prevent loss of fill from behind, around or 
+underneath the wall 
+• Filter blanket (filter cloth and gravel) positioned behind seawall to reduce loss of 
+fill 
+ 
+     Seawalls, if constructed and maintained properly, can endure for decades.  The 
+O’Shaughnessy Seawall on San Francisco’s Ocean Beach, for example, has survived over 75 
+ 
+ 15
+years without major repair.  Despite their durability, seawalls are often not used because they can 
+be expensive.  Recent extensions of the massive O’Shaughnessy structure have cost over $7,000 
+per linear foot, while smaller-scale seawalls can cost upwards of $3,000 per linear foot, 
+depending on their design and size (Griggs 1999).  However, seawalls can fail, even with good 
+engineering, because of severe, unpredicted storms, such as those that occurred during the 1982-
+83 El Niño events.  Thus, no seawall should ever be considered to provide permanent protection.        
+ 
+ 
+CONCLUSIONS 
+ 
+     Over 900 miles of actively eroding coastline, encroaching coastal development and crumbling 
+bluffs pose an immense challenge to resource management agencies in California.  The 
+construction of coastal protection structures, such as riprap and seawalls, has been the most 
+widespread solution to prevent loss of property, yet armoring has many impacts that reach far 
+beyond the individual parcels they are designed to protect.  Because armoring is built to save 
+buildings, not to protect beaches, the public can be negatively affected by these coastal 
+protection structures in terms of visual impacts, lateral and vertical access, and beach loss due to 
+passive erosion.    
+ 
+     Beach nourishment has been promoted as a solution to ameliorate the impacts of coastal 
+armoring, yet the sustainability and cost-effectiveness of these projects has yet to be proven and 
+is highly site-specific.  Adding sand to beaches in an area with high littoral drift rates, as is true 
+along most of the California coast, may be imprudent.  Compensating for sand supply losses, by 
+removing coastal dams, for example, may be a more logical, and more sustainable, solution for 
+increasing beach widths.  The State of California has recognized the need for a more holistic 
+approach to sediment issues and is working to restore balance to littoral cells through the 
+California Coastal Sediment Management Master Plan (CCSMW 2004).     
+ 
+     There are alternatives that allow property owners to protect their assets, while mitigating 
+some of the negative impacts.  Regional-scale protection, for example, utilizes continuous, 
+uniform armor to protect a stretch of coast that spans many parcels with similar erosion 
+problems.  These structures, such as gunite bluff stabilization, can mimic the natural cliff face 
+and replace a mismatched array of protection devices.  This type of large-scale structure may 
+also improve structural integrity because weak points can be created at the junction between two 
+different types of armoring.  In addition, comprehensive armoring can include sufficient vertical 
+public access and can ensure that the least amount of beach is covered up to improve coastal 
+access.   
+ 
+     A long-term, regional-scale erosion response and armoring plan could be evaluated for 
+alternatives that may save costs over time.  Under such a plan, prediction of erosion hotspots 
+could alleviate many of the problems that occur from the construction of emergency structures, 
+which are often less thorough in their impact analysis and mitigation.  In addition, relocation of 
+threatened structures could be considered a realistic and economically-viable option.  Through 
+the Coastal Armoring Action Plan, the Sanctuary is initiating a regional plan of this nature to 
+protect the resources of the Monterey Bay and to help California’s coastal development be 
+flexible and progressive in the face of an incessantly eroding shoreline. 
+ 
+ 16
+LITERATURE CITED 
+ 
+California Coastal Act (2005). Public Resources Code, Division 20. Section: 30253. 
+ 
+CCSMW (2004). "California Coastal Sediment Management Workgroup: Sediment Master 
+Plan." State of CA. http://dbw.ca.gov/csmw/sedimentmasterplan.htm. 
+ 
+Chapman, M. G. (2003). "Paucity of mobile species on constructed seawalls: effects of 
+urbanization on biodiversity." Marine Ecology Progress Series 264: 21-29. 
+ 
+Chenault, C. D. (2000). Shore protections structures in Oregon: An analysis of demand and the 
+implementation of engineering recommendations. Masters Thesis in Marine Resource 
+Management, Oregon State University: 74. 
+ 
+Farnsworth, K. L. and J. D. Milliman (2003). "Effects of climatic and anthropogenic change on 
+small mountainous rivers: the Salinas River example." Global and Planetary Change 39: 
+53-64. 
+ 
+Foster, M. S., A. P. De Vogelaere, J. S. Oliver, J. S. Pearse and C. Harrold (1991). Open coast 
+intertidal and shallow subtidal ecosystems of the northeast Pacific. Ecosystems of the 
+World 24: Intertidal and Littoral Systems. Ed. A. C. Mathieson and P. H. Nienhuis. New 
+York, Elsevier: 235-272. 
+ 
+Griggs, G. B. (1986). "Relocation or reconstruction: Viable approaches for structures in areas of 
+high coastal erosion." Shore and Beach 54(1): 8-16. 
+ 
+Griggs, G. B. (1999). "The Protection of California's Coast: Past, Present and Future." Shore and 
+Beach 67(1): 18-28. 
+ 
+Griggs, G. B. (in press-a). "Impacts of Coastal Armoring." Shore and Beach. 
+ 
+Griggs, G.B., K.B. Patsch, and L. Savoy, Eds. (in press-b). Living with the Changing California 
+Coast.  Berkeley, CA, University of California Press. 
+ 
+Griggs, G. B. and K. W. Fulton-Bennett (1988). "Rip rap revetments and seawalls and their 
+effectiveness along the central California coast." Shore and Beach 56: 3-11. 
+ 
+Griggs, G. B. and K. Patsch (2004a). "Cliff erosion and bluff retreat along the California coast." 
+Sea Technology September: 36-40. 
+ 
+Griggs, G. B. and K. B. Patsch (2004b). "California's Coastal Cliffs and Bluffs." Formation, 
+Evolution, and Stability of Coastal Cliffs-Status and Trends USGS Professional Paper 
+1693: 53-64. 
+ 
+ 
+ 17
+Griggs, G. B., J. E. Pepper and M. E. Jordan (1992). "California's Coastal Hazards: A Critical 
+Assessment of Existing Land-Use Policies and Practices." Special Publication of 
+California Policy Seminar Program: 224. 
+ 
+Griggs, G. B., J. F. Tait and W. Corona (1994). "The Interaction of Seawalls and Beaches: Seven 
+years of monitoring, Monterey Bay, California." Shore and Beach 62: 21-28. 
+ 
+Griggs, G. B., J. F. Tait, L. J. Moore, K. Scott, W. Corona and D. Pembrook (1997). "The 
+Interaction of Seawalls and Beaches: Eight years of field monitoring, Monterey Bay, 
+California." U.S. Army Corps of Engineers, Waterways Experiment Station Contract 
+Report CHL-97-1: 34. 
+ 
+Kraus, N. C. and W. G. McDougal (1996). "The effects of seawalls on the beach: Part I, an 
+updated literature review." Journal of Coastal Research 12(3): 691-701. 
+ 
+Leonard, L., K. Dixon and O. Pilkey (1990). "A comparison of beach replenishment on the U.S. 
+Atlantic, Pacific and Gulf coasts." Journal of Coastal Research Special Issue(6): 127-140. 
+ 
+MBNMS (2004). "Monterey Bay National Marine Sanctuary Site Characterization." MBNMS. 
+http://www.mbnms.nos.noaa.gov/sitechar/welcome.html. 
+ 
+McGuinness, K. A. (1989). "Effects of some natural and artificial substrata on sessile marine 
+organisms at Galeta Reef, Panama." Marine Ecology Progress Series 52(2): 201-208. 
+ 
+Osborn, D. A. (2002). "The effects of geology on intertidal community ecology." Conference 
+Proceedings: California and the World Ocean '02, Santa Barbara. American Society of 
+Civil Engineers. 
+ 
+Runyan, K. and G. B. Griggs (2003). "The effects of armoring seacliffs on the natural sand 
+supply to beaches in California." Journal of Coastal Research 19(2): 336-347. 
+ 
+USACE (1981). Seawalls - Their Applications and Limitations, CENT-III-8. Coastal 
+Engineering Research Center, Fort Belvoir, VA. 7 p. 
+ 
+USFWS (2005). "Snowy Plover Critical Habitat." Sacramento Fish and Wildlife Office. 
+http://sacramento.fws.gov/ecosystems/coast/wsp_crit_hab_units.htm. 
+ 
+Willis, C. M. and G. B. Griggs (2003). "Reductions in fluvial sediment discharge by coastal 
+dams in California and implications for beach sustainability." Journal of Geology 111: 
+167-182. 
+ 
+ 
+ 18
+ 
+ACKNOWLEDGEMENTS 
+ 
+     I would like to thank Dr. Gary Griggs, Professor of Earth Sciences and Director of the 
+Institute of Marine Sciences at the University of California Santa Cruz, for providing his 
+expertise and review of this report.  Dr. Andrew DeVogelaere and Brad Damitz of the Monterey 
+Bay National Marine Sanctuary also provided thoughtful evaluation and advice.  In addition, I 
+would like to thank Dr. Steve Gittings and Kathy Dalton, of the National Marine Sanctuaries 
+Program, for assistance with review and publication.  
+ 

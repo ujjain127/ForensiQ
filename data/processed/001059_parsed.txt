@@ -1,0 +1,2018 @@
+ 
+OFFICE OF  
+THE INSPECTOR GENERAL 
+U.S. NUCLEAR  
+REGULATORY COMMISSION 
+ 
+ 
+ 
+Audit of NRC’s Generic Communications 
+Program 
+ 
+OIG-05-A-19      September 30, 2005 
+ 
+ 
+ 
+ 
+ 
+AUDIT REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All publicly available OIG reports (including this report) are accessible through 
+NRC’s Web site at:  
+http:/www.nrc.gov/reading-rm/doc-collections/insp-gen/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 30, 2005 
+ 
+ 
+ 
+ 
+ 
+MEMORANDUM TO: 
+Luis A. Reyes 
+ 
+ 
+Executive Director for Operations 
+ 
+ 
+ 
+FROM: 
+ 
+Stephen D. Dingbaum/RA/ 
+ 
+ 
+Assistant Inspector General for Audits 
+ 
+ 
+SUBJECT: 
+ 
+AUDIT OF NRC’S GENERIC COMMUNICATIONS 
+PROGRAM (OIG-05-A-19) 
+ 
+Attached is the Office of the Inspector General’s (OIG) audit report, Audit of 
+NRC’s Generic Communications Program.  
+ 
+The audit identified generic communications, specifically, safeguards advisories, 
+that are issued outside of NRC's existing regulatory framework.  As a result, the 
+agency (1) may be unable to pursue actions requested or required of licensees in 
+its generic communications, and (2) compromises its openness policy, thereby 
+affecting the public's confidence in NRC's regulatory processes and decision-
+making.   
+ 
+Additionally, controls for oversight of licensee actions on generic communications 
+are inadequate and NRC did not employ a sound methodology when conducting 
+its effectiveness assessment of the Generic Communications Program.  As a 
+result, the agency risks the potential loss of safety/regulatory data and lacks 
+assurance that its generic communications are effective.   
+ 
+Comments from the September 6, 2005, exit conference and your September 27, 
+2005, written comments have been incorporated, as appropriate, in our final 
+report.  Appendix B contains the agency’s formal written response in its entirety.  
+Appendix C presents OIG’s detailed analysis of the formal comments. 
+ 
+If you have any questions or wish to discuss other issues, please call  
+Anthony Lipuma at 415-5910 or me at 415-5915. 
+ 
+Attachment: As stated 
+ 
+ 
+ 
+ 
+Distribution 
+ 
+John T. Larkins, Executive Director, Advisory Committee on Reactor 
+ 
+  Safeguards/Advisory Committee on Nuclear Waste 
+ 
+G. Paul Bollwerk, III, Chief Administrative Judge, Atomic Safety andT 
+  Licensing Board Panel 
+Karen D. Cyr, General Counsel 
+ 
+John F. Cordes, Jr., Director, Office of Commission Appellate Adjudication   
+Jesse L. Funches, Chief Financial Officer 
+ 
+Janice Dunn Lee, Director, Office of International Programs  
+ 
+William N. Outlaw, Director of Communications 
+ 
+William N. Outlaw, Acting Director, Office of Congressional Affairs 
+ 
+Eliot B. Brenner, Director, Office of Public Affairs 
+ 
+Annette Vietti-Cook, Secretary of the Commission 
+ 
+William F. Kane, Deputy Executive Director for Reactor  
+   and Preparedness Programs, OEDO 
+ 
+Martin J. Virgilio, Deputy Executive Director for Materials, Research,  
+   State and Compliance Programs, OEDO 
+ 
+Jacqueline E. Silber, Deputy Executive Director for Information Services  
+    and Administration, and Chief Information Officer, OEDO  
+ 
+William M. Dean, Assistant for Operations, OEDO 
+ 
+Timothy F. Hagan, Director, Office of Administration 
+ 
+Michael R. Johnson, Director, Office of Enforcement 
+ 
+Guy P. Caputo, Director, Office of Investigations  
+ 
+Edward T. Baker, Director, Office of Information Services 
+ 
+James F. McDermott, Director, Office of Human Resources 
+ 
+Corenthis B. Kelley, Director, Office of Small Business and Civil Rights  
+ 
+Jack R. Strosnider, Director, Office of Nuclear Material Safety and Safeguards   
+ 
+James E. Dyer, Director, Office of Nuclear Reactor Regulation  
+ 
+Carl J. Paperiello, Director, Office of Nuclear Regulatory Research 
+ 
+Paul H. Lohaus, Director, Office of State and Tribal Programs 
+ 
+Roy P. Zimmerman, Director, Office of Nuclear Security and Incident Response  
+ 
+Samuel J. Collins, Regional Administrator, Region I 
+ 
+William D. Travers, Regional Administrator, Region II 
+ 
+James L. Caldwell, Regional Administrator, Region III 
+ 
+Bruce S. Mallett, Regional Administrator, Region IV 
+ 
+ 
+ 
+ 
+ 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+i
+EXECUTIVE SUMMARY 
+ 
+ 
+ 
+BACKGROUND 
+ 
+The Nuclear Regulatory Commission’s (NRC) primary method of 
+communicating concerns or issues to licensees is through generic 
+communications, i.e., transmittals to one or more classes of licensees.  
+NRC issues several types of generic documents to its licensees and 
+stakeholders in order to communicate significant industry operating 
+experience, request action or information on safety concerns, or 
+provide guidance on issues of regulatory interest.  NRC encourages 
+voluntary industry cooperation and participation in the agency’s 
+Generic Communications Program.   
+ 
+ 
+ 
+NRC’s Generic Communications Program identifies four 
+communication products - bulletins, generic letters, regulatory issue 
+summaries, and information notices.  The first three of the four 
+communiqués can request actions or require responses from 
+licensees; information notices are to simply provide information.  
+However, Generic Communications Program products cannot be used 
+to impose new requirements or mandatory actions.  The 
+communication tool used for imposing mandatory regulatory 
+requirements is an NRC Order.    
+ 
+The Office of Nuclear Reactor Regulation (NRR) has primary 
+responsibility for implementing the agency’s Generic Communications 
+Program.  In addition to NRR, the Office of Nuclear Material Safety and 
+Safeguards issues generic communications to its materials licensees 
+and the Office of Nuclear Security and Incident Response issues 
+security-related generic communications to all classes of NRC 
+licensees.  After issuance of a generic communication, the applicable 
+NRC program office conducts follow-up activities, including monitoring 
+and assessing licensees’ performance related to generic 
+communications.   
+ 
+ 
+Prior Agency Assessments 
+ 
+Over the past 10 years, a number of agency self-assessments have 
+identified weaknesses in the Generic Communications Program.  In 
+response, the agency implemented a number of corrective actions, 
+including revisions to internal policies and procedures.   
+ 
+ 
+ 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+ii
+PURPOSE 
+ 
+The purpose of this audit was to assess the effectiveness of the 
+Generic Communications Program, specifically:  
+ 
+¾ whether NRC generic communications are issued in accordance 
+with the Generic Communications Program and other regulatory 
+requirements, and 
+ 
+¾ how NRC tracks licensee actions on generic communications.  
+ 
+RESULTS IN BRIEF 
+ 
+Through its Generic Communications Program, NRC has an 
+established framework for developing and issuing certain generic 
+communications.  However, OIG identified weaknesses with the 
+agency’s internal controls over generic communications.  Specifically,  
+ 
+A. 
+safeguards advisories (i.e., a security-related generic 
+communication) are issued outside of NRC’s existing 
+regulatory framework, 
+ 
+B. 
+controls for oversight of licensee actions on generic 
+communications are inadequate, and 
+ 
+C. 
+NRC’s self-assessment’s conclusion of Generic 
+Communications Program effectiveness is not supported. 
+ 
+These issues exist primarily because NRC management has not 
+followed existing policies and procedures by developing and issuing 
+generic communications outside of the agency’s regulatory framework.  
+Without application of adequate internal controls to ensure that agency 
+communications are promulgated in accordance with applicable 
+regulatory requirements, the agency may be unable to pursue actions 
+requested or required of licensees in its generic communications, and 
+may compromise its openness policy, thereby affecting the public’s 
+confidence in NRC’s regulatory processes and decision-making.   
+ 
+Furthermore, NRC’s controls for oversight of licensee actions on 
+generic communications are inadequate and the agency did not 
+employ a sound methodology when conducting its effectiveness 
+assessment of the Generic Communications Program.  As a result, 
+NRC risks the potential loss of safety/regulatory data and lacks 
+assurance that its generic communications are effective.  
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+iii
+RECOMMENDATIONS 
+ 
+This report makes four recommendations to the Executive Director for 
+Operations to strengthen the agency’s oversight and controls of its 
+generic communications. 
+ 
+ 
+OIG ANALYSIS OF AGENCY COMMENTS 
+ 
+At an exit conference with agency senior executives held on 
+September 6, 2005, NRC officials generally agreed with most of the 
+report’s findings and recommendations.  Subsequent to that meeting, 
+NRC provided informal comments on the draft report and OIG met with 
+NRR management to address specific issues and concerns needing 
+further clarification and/or explanation.  On September 27, 2005, the 
+Deputy Executive Director for Reactor and Preparedness Programs, 
+Office of the Executive Director for Operations, provided a formal 
+response to this report in which the staff generally concurs with the 
+report’s findings and recommendations.  The Deputy Executive 
+Director’s transmittal letter and specific comments on this report are 
+included as Appendix B. 
+ 
+This final report incorporates revisions made, where appropriate, as a 
+result of the subsequent meeting and the agency’s informal and formal 
+written comments.  Appendix C contains OIG’s specific responses to 
+the agency’s comments. 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+iv
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Page intentionally left blank.] 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+v
+ABBREVIATIONS AND ACRONYMS 
+ 
+ 
+ 
+ACRS  
+ 
+Advisory Committee on Reactor Safeguards 
+CFR  
+ 
+Code of Federal Regulations 
+CRGR 
+ 
+Committee to Review Generic Requirements 
+FTE 
+ 
+ 
+full-time equivalent 
+MD 
+ 
+ 
+Management Directive 
+NMSS  
+ 
+Office of Nuclear Material Safety and Safeguards 
+NRC  
+ 
+Nuclear Regulatory Commission 
+NRR  
+ 
+Office of Nuclear Reactor Regulation 
+NSIR  
+ 
+Office of Nuclear Security and Incident Response 
+OGC  
+ 
+Office of the General Counsel 
+OIG 
+ 
+ 
+Office of the Inspector General 
+OMB  
+ 
+Office of Management and Budget 
+Task Force  
+Davis-Besse Lessons Learned Task Force 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+vi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Page intentionally left blank.] 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+vii
+TABLE OF CONTENTS 
+ 
+EXECUTIVE SUMMARY.................................................................................. i 
+ 
+ABBREVIATIONS AND ACRONYMS ...............................................................v 
+ 
+I. 
+BACKGROUND ....................................................................................... 1 
+ 
+II. 
+PURPOSE................................................................................................ 4 
+ 
+III. 
+FINDINGS................................................................................................ 5 
+ 
+A. 
+SAFEGUARDS ADVISORIES ARE ISSUED OUTSIDE OF NRC’S  
+ 
+EXISTING REGULATORY FRAMEWORK................................................ 5 
+ 
+B. 
+CONTROLS FOR OVERSIGHT OF LICENSEE ACTIONS ON GENERIC 
+COMMUNICATIONS ARE INADEQUATE............................................... 17 
+ 
+C. 
+NRC’S SELF-ASSESSMENT’S CONCLUSION OF GENERIC 
+COMMUNICATIONS PROGRAM EFFECTIVENESS IS NOT  
+ 
+SUPPORTED .................................................................................. 20 
+ 
+IV. CONSOLIDATED LIST OF RECOMMENDATIONS .............................. 23 
+ 
+V. 
+AGENCY COMMENTS .......................................................................... 24 
+ 
+ 
+APPENDICES 
+ 
+ 
+A. 
+SCOPE AND METHODOLOGY.................................................. 25 
+ 
+B. 
+FORMAL AGENCY COMMENTS ............................................... 27 
+ 
+C. 
+DETAILED OIG ANALYSIS OF AGENCY COMMENTS............. 33 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+viii
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Page intentionally left blank.] 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+1
+I. 
+BACKGROUND 
+ 
+The Nuclear Regulatory Commission’s (NRC) primary method of 
+communicating concerns or issues to licensees is through generic 
+communications.  The agency defines generic communications as 
+“transmittals to one or more classes of licensees.”  NRC issues several 
+types of generic documents to its licensees and stakeholders in order 
+to communicate significant industry operating experience, request 
+action or information on safety concerns, or provide guidance on 
+issues of regulatory interest.  NRC encourages voluntary industry 
+cooperation and participation in the agency’s Generic Communications 
+Program.   
+ 
+ 
+ 
+ 
+NRC’s Generic Communications Program 
+ 
+The Generic Communications Program identifies four communication 
+products - bulletins, generic letters, regulatory issue summaries, and 
+information notices.  The first three of the four communiqués can 
+request actions or require responses from licensees; information 
+notices are to simply provide information.  However, Generic 
+Communications Program products cannot be used to impose new 
+requirements or mandatory actions.  The communication tool used for 
+imposing mandatory regulatory requirements is an NRC Order.1    
+ 
+Table 1 summarizes the intended purpose of each of the four Generic 
+Communications Program products.   
+                                                
+1NRC Orders are regulatory requirements that may modify, suspend, or revoke a license; instruct a licensee to 
+cease and desist from a given practice or activity, or to take such other action as may be proper. 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+2
+ 
+Table 1 
+ 
+NRC Generic Communications Program’s 
+Officially Recognized Products and Uses 
+ 
+ 
+Type 
+ 
+Issuance Purpose 
+Can Require 
+Response or 
+Request 
+Action 
+ 
+ 
+Bulletins 
+• 
+share urgent risk-significant issues 
+  
+• 
+can be issued on an expedited basis without extensive formal interaction with 
+industry 
+ 
+ 
+Yes 
+ 
+ 
+ 
+ 
+Generic 
+Letters  
+• 
+have licensees perform analyses or submit descriptions of proposed 
+corrective actions on matters of safety, safeguards, or the environment and 
+may request written submittals that they have completed the requests with or 
+without prior NRC approval of the action 
+ 
+• 
+request technical information that NRC needs to perform its functions 
+ 
+• 
+submit proposed changes to technical specifications 
+ 
+Yes 
+ 
+ 
+ 
+ 
+Regulatory 
+Issue 
+Summaries  
+ 
+• 
+document NRC endorsement of the resolution of issues addressed by 
+industry-sponsored initiatives  
+ 
+• 
+solicit voluntary licensee participation in pilot programs 
+ 
+• 
+inform licensee of opportunities for regulatory relief 
+ 
+• 
+announce staff technical or policy positions not previously communicated to 
+industry or not broadly understood 
+ 
+• 
+address matters previously reserved for administrative letters 
+ 
+ 
+Yes 
+(but response is 
+strictly voluntary) 
+ 
+ 
+ 
+ 
+Information 
+Notices  
+ 
+• 
+bring significant, recently identified operating experience about safety, 
+safeguards, or environmental issues to the attention of the nuclear industry. 
+[Addressees are expected to review the information for applicability to their 
+facilities and consider actions, as appropriate, to avoid similar problems.] 
+• 
+do not convey or imply new requirements or interpretations 
+ 
+No 
+ 
+ 
+ 
+Generic Communications Program Responsibilities  
+ 
+The Office of Nuclear Reactor Regulation (NRR) has primary 
+responsibility for implementing the agency’s Generic Communications 
+Program, including providing guidance regarding the development, 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+3
+processing, closeout, and follow-up activities.  NRR staff work with 
+NRC’s four regions and other program offices to ensure public health 
+and safety by systematically monitoring reactor-related events, reports, 
+and data to determine the need for a generic communication.    
+In addition to NRR, the Office of Nuclear Material Safety and 
+Safeguards (NMSS) issues generic communications to its materials 
+licensees and the Office of Nuclear Security and Incident Response 
+(NSIR) issues security-related generic communications to all classes of 
+NRC licensees.  
+After issuance, the applicable NRC program office conducts follow-up 
+activities, including monitoring and assessing licensees’ performance 
+related to generic communications.   
+ 
+Generic Communications Program Budget and Resources 
+ 
+Although NMSS and NSIR each expend resources in the development 
+of generic communications, only NRR identifies the budget and 
+resources for Generic Communications Program activities.  For  
+FY 2005, the agency budgeted $72,000 (including $12,000 of 
+carryover funds from FY 2004) for estimated activity within NRR’s 
+Generic Communications Program and 8.7 full-time equivalents (FTE) 
+for generic communications and compliance activities.  Actual 
+expenditures for FY 2004 were $43,000 and 6.06 FTE.   
+ 
+NRR does not budget resources for generic communications 
+completed by NMSS or NSIR.  Because these two program offices do 
+not specifically identify resources attributed to generic communications 
+activities as separate budget line items, the Office of the Inspector 
+General (OIG) could not determine the level of actual resources (FTE 
+and dollars) expended.   
+ 
+ 
+Prior Agency Assessments 
+ 
+Over the past 10 years, a number of agency self-assessments2 have 
+identified weaknesses in the Generic Communications Program.  In 
+response, the agency implemented a number of corrective actions, 
+including revisions to internal policies and procedures.   
+                                                
+2 1995 SECY-95-063, Final Report on NRC Analysis and Response to the Towers Perrin Nuclear Regulatory 
+Review Study, dated March 15, 1995; Davis-Besse Reactor Vessel Head Degradation Lessons-Learned Task 
+Force Report, dated September 30, 2002; and Effectiveness Review of Lessons Learned Task Force Reports, 
+dated August 2, 2004.   
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+4
+II. 
+PURPOSE 
+ 
+The purpose of this audit was to assess the effectiveness of the 
+Generic Communications Program, specifically:  
+ 
+¾ whether NRC generic communications are issued in accordance 
+with the Generic Communications Program and other regulatory 
+requirements, and 
+ 
+¾ how NRC tracks licensee actions on generic communications.  
+ 
+Appendix A provides a detailed description of the audit’s scope and 
+methodology. 
+ 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+5
+III. 
+FINDINGS 
+ 
+Through its Generic Communications Program, NRC has an 
+established framework for developing and issuing certain generic 
+communications.  However, OIG identified weaknesses with the 
+agency’s internal controls over generic communications.  Specifically,  
+ 
+A. 
+safeguards advisories (i.e., a security-related generic 
+communication) are issued outside of NRC’s existing regulatory 
+framework, 
+ 
+B. 
+controls for oversight of licensee actions on generic 
+communications are inadequate, and 
+ 
+C. 
+NRC’s self-assessment’s conclusion of Generic 
+Communications Program effectiveness is not supported. 
+ 
+Without adequate internal controls, NRC cannot ensure the proper use 
+of, or response to, generic communications.  As a result, the agency 
+may not be able to pursue actions requested or required of licensees in 
+its generic communications, which could compromise the public’s 
+confidence in NRC’s regulatory program.  
+ 
+ 
+A. Safeguards Advisories are Issued Outside of NRC’s Existing Regulatory 
+Framework 
+ 
+NSIR issues security advisories3 that are developed and distributed 
+outside of NRC’s Generic Communications Program because NSIR 
+managers believe the formal process takes too long.  As a result, the 
+advisories, particularly safeguards advisories, are not developed in 
+accordance with the agency’s structured review and approval 
+practices.  Consequently, safeguards advisories could be issued that 
+do not meet regulatory requirements.  The lack of a formal process 
+could lead to an absence of necessary reviews and thereby 
+compromise NRC’s regulatory process.  Furthermore, the lack of a 
+clear, publicly documented process for requesting and disseminating 
+information through safeguards advisories compromises NRC's 
+openness principle for transparent regulation. 
+                                                
+3 The generic term “security advisories” denotes threat and safeguards advisories, as well as security letters sent 
+to classes of licensees. 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+6
+ 
+Generic Communications Program Process Reviews   
+ 
+All Generic Communications Program products (initiated by NRR, 
+NMSS, or NSIR) go through the Program’s disciplined process that 
+includes the following controls associated with technical and regulatory 
+reviews: 
+ 
+¾ Committee to Review Generic Requirements Review 
+ 
+The Committee to Review Generic Requirements (CRGR) is an 
+advisory committee to NRC's Executive Director for Operations and is 
+responsible for:  
+ 
+o helping NRC program offices to implement the Commission's 
+backfit policy, and  
+o ensuring that proposed generic backfits imposed on NRC-
+licensed power reactor and selected nuclear materials 
+licensees are appropriately justified per NRC regulations.   
+ 
+ Backfit Review  
+ 
+Backfitting is defined as the modification of systems, 
+structures, components, or design of a plant or a facility; 
+or the design approval or manufacturing license for a 
+facility; or the procedures or organization required to 
+design, construct, or operate a plant or a facility; any of 
+which may result from a new or amended provision in the 
+Commission rules or the imposition of a regulatory staff 
+position.  
+ 
+NRC’s backfit rules for reactors and materials4 require a 
+systematic analysis be satisfied for all backfits the 
+agency seeks to impose,5 unless a documented 
+evaluation determines that the backfit is necessary for 
+either “compliance” or “adequate protection” purposes.  
+                                                
+4 “Backfitting.” per 10 CFR sections 50.109, 70.76, and 76.76. 
+5 Backfits may be imposed if the Commission’s analysis determines that there is a substantial increase in the 
+overall protection of the public health and safety or the common defense and security, and that the direct and 
+indirect costs of implementation are justified in view of this increased protection [10 CFR 50.109 (a)(3)-(a)(4), 10 
+CFR 70.76(a)(2)-(a)(4), and 10 CFR 76.76(a)(2)-(a)(4)]. 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+7
+Nonetheless, the regulation requires some form of 
+documentation when imposing a backfit under either of 
+these standards.6  There are no regulatory exceptions to 
+the backfit rule for security issues.   
+ 
+¾ Advisory Committee on Reactor Safeguards Review 
+The Advisory Committee on Reactor Safeguards (ACRS) is statutorily 
+mandated and has three primary purposes: 
+o review and report on safety studies and reactor facility 
+license and license renewal applications;  
+o advise the Commission on the hazards of proposed and 
+existing reactor facilities and the adequacy of proposed 
+reactor safety standards; and 
+o initiate reviews of specific generic matters or nuclear facility 
+safety-related items.  
+ACRS reviews generic communications, when applicable, before the 
+generic communication is issued for public comment.  The Committee 
+can defer its response until after public comments are received and 
+reviewed.  Additionally, ACRS should receive copies of all generic 
+letters and bulletins and selected regulatory issue summaries 
+forwarded for CRGR review. 
+ 
+¾ Paperwork Reduction Act Compliance Review 
+ 
+The Paperwork Reduction Act of 1980 (Act), as revised in 1995, 
+governs Federal requests for information collections and stipulates that 
+independent regulatory agencies (such as NRC) must justify to the 
+Office of Management and Budget (OMB) their information collection 
+requests.   
+ 
+The Paperwork Reduction Act is intended to: 
+ 
+o minimize the burden for respondents,  
+o minimize information collection-related costs to the Federal 
+government, and  
+                                                
+6 If immediately effective regulatory action is required, a provision at 10 CFR 50.109(a)(6), 10 CFR 70.76(a)(6), 
+and 10 CFR 76.76(a)(6), allows for the documented evaluation to follow, rather than precede, the regulatory 
+action. 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+8
+o improve the responsibility and accountability of Federal 
+agencies to Congress and to the public for implementing the 
+information collection review process and information 
+management.  
+ 
+ 
+Corporations and businesses (such as NRC licensees) are covered by 
+the Act’s definition of persons or public entities that may be affected by 
+an agency’s “collection of information” activities.   
+ 
+The Act also requires that Federal agencies obtain and display a valid 
+OMB clearance (control) number for all information requests submitted 
+to 10 or more non-Federal entities or individuals.7  Each part of the 
+Code of Federal Regulations applicable to NRC contains an OMB 
+clearance number for NRC generic communication use.   
+ 
+Evolution of Security Advisories in View of September 11, 2001 
+ 
+Prior to the terrorist attacks of September 11, 2001, the agency 
+dispatched only threat advisories.  NRC threat advisories were issued 
+infrequently and were informational only in nature, primarily 
+communicating threat environment information to licensees.  
+Immediately following the terrorist attacks of September 11, 2001, the 
+agency quickly issued threat advisories to its licensee community.  
+This was an effective and efficient use of agency resources and 
+allowed the licensee community to be quickly apprised of changing 
+threat information.   
+ 
+In the weeks that followed, NRC continued to use threat advisories to 
+communicate information to licensees.  In October 2001, the agency 
+issued a threat advisory which stated that additional details would be 
+provided in an upcoming “safeguards” advisory.  From that time 
+forward, threat advisories continued to primarily fulfill their original 
+function of communicating information regarding changing threat 
+environments while the agency’s uses of the newly-created safeguards 
+advisories evolved over time.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                
+7 Information collection requests addressed to all or a substantial majority of an industry is presumed to involve 
+10 or more persons. 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+9
+Change in Uses of Safeguards Advisories 
+ 
+According to NSIR documents, safeguards advisories are defined as a 
+communication of information from the NRC to licensees, where the 
+nature of the information provided involves:   
+ 
+¾ an identified vulnerability or potential vulnerability;  
+¾ protection of the national infrastructure;  
+¾ or any other information that requires immediate or prompt attention 
+that would not be timely if other generic communication procedures 
+were utilized. 
+ 
+In the months following September 11, 2001, the pattern of use of 
+threat advisories continued as described above, while the issuance 
+rate was understandably less than that in the immediate aftermath of 
+the attacks.  Similarly, safeguards advisories were also seen as a 
+quick method to work in cooperation with the licensee community in 
+response to the terrorist attacks of September 11, 2001.  However, in 
+contrast to threat advisories, safeguards advisories began to be used 
+more frequently to achieve a number of purposes other than sharing 
+information.  For example, some safeguards advisories communicated 
+information, requested information, requested action, and provided 
+regulatory interpretations.   
+ 
+NSIR’s Organizational Development 
+In April 2002, NRC consolidated staff members experienced in 
+safeguards, security, and incident response functions into the new 
+NSIR office, in order to improve timeliness and consistency of 
+communications among NRC’s employees and external stakeholders.  
+To meet the urgent security needs of the agency after the terrorist 
+events of September 11, 2001, this newly formed program office 
+became operationally functional in advance of developing its 
+organizational framework, policies, and procedures.  Consequently, 
+NSIR-issued safeguards advisories were developed and distributed 
+outside of the agency’s established regulatory framework.   
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+10
+NSIR managers acknowledge that safeguards advisories are a form of 
+generic communication being developed and issued beyond the 
+established regulatory framework.  To date, NSIR has not finalized any 
+internal office policies or procedures to address the selection, 
+development, or issuance of safeguards advisories.8  Furthermore, the 
+agency provides guidance and procedures intended to ensure that 
+generic communications are justified and comply with regulatory 
+requirements.  However, safeguards advisories are not discussed in 
+any of the agency’s existing procedures or directives.   
+¾ NSIR Perceives the Generic Communications Program as 
+Untimely 
+ 
+NSIR justifies issuing safeguards advisories outside of any established 
+processes on two grounds:  first, that security issues require quick 
+notification to the licensee community; and second, the perception that 
+the agency’s Generic Communications Program is not efficient enough 
+to meet the timeliness needs of safeguards advisories. 
+ 
+o Examples of Generic Communications Processing Times  
+ 
+Shortly after September 11, 2001, agency managers from offices 
+responsible for safeguards and security issues created the new 
+security-related generic communications vehicle called “safeguards 
+advisory” because they felt the bureaucratic nature of the Generic 
+Communications Program would impede the timeliness of issuing 
+important security communications.  In fact, the agency defines 
+safeguards advisories as a type of communication to use for 
+information that “[r]equires immediate or prompt attention that 
+would not be timely if other generic communication procedures 
+were utilized.”  Specifically, NRC managers understood that it 
+generally takes at least several months to issue a generic 
+communication through the Generic Communications Program.  
+Although not typical, Table 2 shows that generic communications 
+can be issued in as little as one day, when in response to a 
+significant event.  
+ 
+ 
+                                                
+8 During this audit, NSIR began drafting procedures to address safeguards advisories. However, NSIR said due 
+to other priorities and the additional consideration of whether advisories should be recognized and incorporated 
+in NRC’s formal Generic Communications Program, the formal procedures have not been finalized.  NSIR stated 
+that it has an informal process for management review and approval of safeguards advisories. 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+11
+Table 2 
+ 
+ 
+Issue Times for Sample of Generic Communications Program Products 
+ 
+Example 
+No. 
+Description 
+Date 
+Elapsed Time from 
+Discovery9 
+Discovery of cavity in 
+Davis-Besse Vessel Head 
+March 7, 2002 
+-- 
+Information Notice 02-11  
+March 12, 2002 
+5 days 
+ 
+1 
+Bulletin 2002-01  
+March 18, 2002 
+11 days 
+ 
+ 
+ 
+ 
+Death of oncology patient 
+attributed at least in part to 
+radiation overdose 
+November 21, 1992 
+-- 
+Second source separation 
+reported to the NRC 
+December 7, 1992 
+-- 
+ 
+ 
+2 
+Bulletin 92-03 Issued 
+December 8, 1992 
+1 day/17 days 
+ 
+ 
+ 
+ 
+Discovery of inadequate 
+fire barrier in seismic gaps 
+January 27, 2005 
+-- 
+ 
+3 
+Information Notice 05-04 
+February 14, 2005 
+18 days 
+  
+ 
+The above examples show that generic communications dealing with 
+significant issues, such as the Davis-Besse vessel head problems, can 
+be issued in a timely manner.  In fact, as reflected in bold in Table 2, 
+the agency developed and issued two bulletins (i.e., the Generic 
+Communications Program product designed to share urgent risk-
+significant issues) in about two weeks ⎯ a time frame considered by 
+an NSIR senior executive as a “reasonable way to proceed.”   
+ 
+In addition, NSIR at times chose the Generic Communications 
+Program (see Table 3) to convey security matters of similar substance 
+to those found in safeguards advisories.  Specifically, NSIR issued 18 
+regulatory issue summaries (a recognized Generic Communications 
+Program product), during the same time frame where NSIR issued 6510 
+threat and safeguards advisories (unrecognized generic  
+                                                
+9The time used is very conservative because it is based on discovery or notification of the issue until issuance 
+date of the generic communication.  This includes preparation time, review time, process reviews and 
+concurrence. 
+ 
+10 NSIR provided information regarding the issuance of 65 security advisories during the reference period.  
+However, this number may be conservative because NSIR had not maintained a comprehensive log of the 
+issued advisories. 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+12
+communications products).  Yet, in these cases, NSIR has no 
+documented rationale for selecting a recognized generic 
+communications product versus using security advisories. 
+ 
+ 
+Table 3 
+ 
+NRC/NSIR Security-Related Generic Communications Issued 
+September 11, 2001 through January 26, 2005 
+ 
+Type 
+Number 
+Security Advisories*  
+65 
+Regulatory Issue Summaries** 
+18 
+Orders*** 
+10 
+Total 
+93 
+ 
+   
+   *Threat and safeguards advisories - not recognized by the Generic Communications Program 
+ 
+  **Official Generic Communications Program product 
+***Orders meet the generic communication definition when issued to one or more classes of licensees 
+ 
+¾ Lack of Technical and Regulatory Reviews Compromises 
+NRC’s Regulatory Processes 
+ 
+The agency’s use of advisories significantly increased after September 
+11, 2001.  Agency managers and staff, as well as industry 
+representatives have more and more often questioned the regulatory 
+authority for issuing advisories.  Of particular concern are the 
+safeguards advisories primarily because, as stated by a senior Nuclear 
+Energy Institute representative, NRC is using many safeguards 
+advisories “to establish new requirements without going through the 
+required agency review process.”  
+ 
+By developing and issuing generic communications outside of the 
+established Generic Communications Program, NRC compromises its 
+regulatory processes.  For example, OIG determined that safeguards 
+advisories have no documented regulatory foundation for 
+communicating to licensees anything other than information.  However, 
+as shown in Figure 1 below, the majority of advisories served purposes 
+beyond simply conveying information.   
+ 
+ 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+13
+ 
+  
+Figure 1* 
+ 
+Purposes Served by Advisories Issued from  
+September 11, 2001 through January 26, 2005 
+ 
+ 
+ 
+*OIG notes that the percentages in the above chart exceed 100% because several 
+advisories served multiple purposes other than providing information only. 
+ 
+ 
+OIG’s Technical Review of NRC/NSIR-Issued Generic 
+Communications 
+ 
+As discussed in Table 3, NRC/NSIR issued 93 security-related generic 
+communications from September 11, 2001 to January 26, 2005.  OIG 
+determined that 65 of the communiqués were security-related 
+advisories, of which 38 percent (or 25 advisories) provided information 
+only.  However, the remaining 62 percent (or 40 advisories) were used 
+for other purposes, such as requesting or requiring information or 
+licensee action, containing regulatory guidance, and conveying 
+apparent requirements.  Figure 1 represents the purposes served by 
+the 65 security-related advisories.   
+ 
+Request Action, 
+40%
+Contains Reg. 
+Guidance, 12%
+Request 
+Information, 25%
+    Apparent 
+Requirements,
+14%
+Provide Info Only, 
+42%
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+14
+The agency is obligated to follow appropriate regulatory requirements 
+for its generic communications.  However, because advisories are 
+issued outside of the Generic Communications Program, the required 
+regulatory reviews were not performed.  As a result, though 
+appropriate in some cases, safeguards advisories did not receive: 
+ 
+¾ CRGR backfit review although this committee has a defined role 
+in reviewing generic communications to make sure NRC stays 
+within its backfit authorities.  Without CRGR review, NRC could 
+impose an improper backfit on its licensees. 
+ 
+¾ ACRS technical review although this committee has a defined 
+role in reviewing any generic communication that conveys 
+requirements on licensees.  Without ACRS review, NRC could 
+impose unjustified requirements on its licensees. 
+ 
+¾ Paperwork Reduction Act review to ensure proper citing of 
+either the applicable OMB control (clearance) number for 
+information requests, or an exemption clause, where 
+appropriate.   
+ 
+o The Act states that the NRC “may not conduct or 
+sponsor, and a person is not required to respond to, a 
+request for information or an information collection unless 
+the requesting document displays a currently valid OMB 
+control number.”   
+ 
+None of the safeguards advisories issued from September 11, 
+2001 until mid-May 2005 displayed an OMB control number nor 
+contained a statement that the provisions of the Paperwork 
+Reduction Act do not apply (i.e., NRC review determined that 
+OMB clearance was not required). 
+ 
+Because NRC did not satisfy Paperwork Reduction Act 
+requirements regarding control numbers, licensees have a basis 
+to ignore requests or suggestions contained in NRC safeguards 
+advisories.  This brings into question the agency’s ability to 
+pursue actions requested or required of licensees as contained 
+in any of these advisories.  
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+15
+ 
+¾ NRC’s Openness Principle Is Compromised 
+ 
+According to NRC’s Strategic Plan, the agency has a goal to 
+“ensure openness in our regulatory process.”  
+ 
+o The Openness goal further states that the NRC “views 
+nuclear regulation as the public’s business and, as such, 
+it should be transacted openly and candidly in order to 
+maintain the public’s confidence.  The goal to ensure 
+openness explicitly recognizes that the public must be 
+informed about, and have a reasonable opportunity to 
+participate meaningfully in, the NRC’s regulatory 
+process.”  
+ 
+o The Strategic Outcome that supports the goal of 
+openness is, “Stakeholders are informed and involved in 
+NRC processes as appropriate.”   
+ 
+However, there is no clear, publicly documented process for 
+disseminating and requesting information through safeguards 
+advisories.  In addition, safeguards advisories do not have a 
+consistent, formally-defined concurrence process.  This lack of an 
+identified, transparent agency process compromises NRC's principle of 
+open regulation.   
+ 
+While NSIR senior managers acknowledge that there should be a 
+clear, formal process for the development and issuance of safeguards 
+advisories, they expressed a need for balance between protecting 
+public openness (an agency goal) and common defense and security 
+(the agency’s mission).  Currently there are differing opinions among 
+NRC senior managers regarding the public’s right to know about the 
+information contained in the advisories.  As of the date of this report, 
+the public may still not know of the existence of specific safeguards 
+advisories because they are not made publicly available even though 
+many do not contain information actually designated by the agency as 
+“Safeguards Information.”11  
+ 
+                                                
+11 The title “safeguards advisories” is misleading in that many do not contain Safeguards-classified information.   
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+16
+Summary 
+ 
+Through its Generic Communications Program, NRC has an 
+established framework for developing and issuing certain generic 
+communications.  However, NRC management has not followed 
+existing policies and procedures by developing and issuing safeguards 
+advisories outside of the agency’s regulatory framework.  Without 
+application of adequate controls to ensure that agency 
+communications are promulgated in accordance with applicable 
+regulatory requirements, the agency may -- 
+ 
+¾ 
+Be unable to pursue actions requested or required of licensees 
+in its generic communications, 
+ 
+¾ 
+Compromise its openness policy, thereby affecting the public’s 
+confidence in NRC’s regulatory processes and decision-making, 
+and  
+ 
+¾ 
+Lack assurance that its generic communications are effective.  
+ 
+To date, NSIR has not finalized any policies or procedures for 
+developing and issuing safeguards advisories. 
+ 
+RECOMMENDATIONS 
+ 
+OIG recommends that the Executive Director for Operations: 
+ 
+1. Include safeguards advisories, as well as any other agency 
+communication tool that meets the definition of a generic 
+communication, in the formal Generic Communications Program to 
+ensure compliance with regulatory requirements. 
+ 
+2. Pursue immediately the applicability of including appropriate Office 
+of Management and Budget control numbers in safeguards 
+advisories. 
+ 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+17
+B. Controls for Oversight of Licensee Actions on Generic Communications 
+are Inadequate 
+ 
+NRC’s oversight of licensee actions on generic communications is 
+inadequate because the program lacks the controls for an agency-wide 
+systematic follow-up methodology.  Instead, the follow-up process is 
+left to the discretion of the project managers responsible for each site.  
+Without a systematic process to ensure that a generic communication 
+is consistently monitored through its lifecycle (from initiation to 
+closure), the agency could lose track of requests to licensees, 
+responses from licensees, and important operating experience data 
+that might identify potential safety and regulatory issues.  
+ 
+Internal Controls for Generic Communications are 
+Lacking  
+ 
+The Generic Communications Program lacks standards for following 
+the full lifecycle of an agency generic communication because the 
+Program’s responsibilities end at issuance.   
+ 
+OMB Circular A-123, Management Accountability and Control, dictates 
+that agency internal controls include “the plan of organization, methods 
+and procedures adopted by management to ensure its goals are met.”  
+In addition, other Federal internal control standards reference a need 
+for agencies to maintain clearly documented, readily available 
+information on the full lifecycle of all agency communications.  
+Therefore, NRC should have procedures in place to facilitate 
+systematic tracking of generic communications from initiation to 
+closure. 
+ 
+Generic Communications Program Tracking Ends at Issuance 
+ 
+The Generic Communications Program’s controls are not adequate 
+because the Program only tracks part of the lifecycle of a generic 
+communication.  Specifically, the Program’s procedures address 
+following a generic communication from the proposal stage, through 
+development of the chosen product, but ends at document issuance. 
+As a result, the Program does not track NRC or licensee actions 
+related to the matter once the document is issued.  Such subsequent 
+actions include coordinating licensee responses, agency review of 
+those responses, and any resulting inspections.   
+ 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+18
+Upon issuance of a generic communication, individual NRC project 
+managers or organizational groups assume tracking responsibilities.  
+At this point, the process relies on the diligence of individuals rather 
+than a consistent, systematic tracking process.  If agency management 
+desires the status of licensees’ actions on a particular generic 
+communication, the data is not available through the Generic 
+Communications Program.  Instead, the data must be compiled from a 
+variety of sources, such as the project managers responsible for each 
+site.   
+ 
+The inherent risk in relying on individuals to track NRC or licensees 
+actions subsequent to issuance is that individuals may choose differing 
+tracking strategies (which may or may not be effective) or may fail to 
+track at all.  NRC project managers have several information systems 
+at their disposal for tracking data on generic communications.  
+According to NRR staff, these systems include the Operating 
+Experience Section Task Tracking Database; the Multi-Plant Actions 
+system; the Time, Resource, Information, and Management system; 
+and the Reactor Program System.  Each of these identified systems is 
+a standalone system and contains different, as well as duplicative, 
+generic communications information.  
+ 
+ 
+Internal Guidance on Processing Generic Communications 
+ 
+NRR Office Instruction LIC-503, Generic Communications Affecting 
+Nuclear Reactor Licensees, and NRC Inspection Manual Chapter 
+0730, Generic Communications Regarding Materials and Fuel Cycle 
+Issues, both provide guidance and procedures for the preparation, 
+distribution, follow-up, and closeout of generic communications.   
+ 
+However, the internal guidance provides no agency-wide policies or 
+procedures regarding the systematic tracking of generic 
+communication follow-on activities performed by NRC or its licensees.  
+In other words, the guidance discusses ‘what’ needs to occur for 
+closing out a generic communication, but not ‘how’ or ‘where’ to record 
+the information.  For example, the guidance discusses how to evaluate 
+responses, but does not address how to track responses. 
+ 
+Potential Loss of Safety/Regulatory Data  
+ 
+NRC issues generic communications to provide guidance, common 
+approaches to resolve issues, and to share industry’s operating 
+experiences.  Therefore, it is vital that agency management has  
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+19
+assurance that licensees take actions as expected.  As previously 
+stated, basic tenets of management controls include methods and 
+procedures adopted by management to ensure its goals are met. 
+ 
+When the agency must rely on the diligence of individuals to track 
+actions related to generic communications, it cannot have the 
+programmatic assurance that its goals are met and risks the loss of 
+significant operational data needed for regulatory and/or reactor safety 
+decisions. 
+ 
+RECOMMENDATION 
+ 
+OIG recommends that the Executive Director for Operations: 
+ 
+3. Implement controls to ensure a systematic, consistent tracking 
+methodology from initiation to closure for each agency-issued 
+generic communication. 
+ 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+20
+C. NRC’s Self-Assessment’s Conclusion of Generic Communications 
+Program Effectiveness is Not Supported 
+ 
+Based on NRC’s Commission direction, NRR conducted an 
+effectiveness study of Generic Communications Program products.  
+Although that study concluded that generic communications were 
+effective, the review lacked an adequate sample or scientific basis for 
+the conclusion.  The limited sample chosen by NRR resulted from an 
+inability to reach consensus on a sample selection and because of a 
+preconception that the Generic Communications Program was 
+effective.  As a result of such a limited review, the conclusion that the 
+Generic Communications Program products are effective is not 
+supported. 
+ 
+Background 
+ 
+In March 2004, based on findings by the Davis-Besse Lessons 
+Learned Task Force (Task Force),12 the Commission directed staff to 
+evaluate whether generic communications accomplish their intent to 
+inform licensees and collect information on licensee actions in 
+response to serious incidents.  The Task Force recommended that 
+staff assess the effectiveness of clear communication to licensees and 
+licensee follow-up activities.  The agency’s definition of “Effectiveness” 
+was defined as the achievement of a desired outcome from a program, 
+process, or activity in an efficient, realistic, and timely manner.  
+ 
+Prior to the Task Force report, NRR conducted an effort to identify the 
+five highest priority NRC-issued generic communications by requesting 
+technical assistance from staff members in NRR, the Office of Nuclear 
+Regulatory Research, and NRC’s four regions.  The highest priority 
+generic communications would then be reviewed for verification of 
+continued licensee support and commitment.  Agency staff was asked 
+to use their expertise to prioritize from a list of 104 pre-screened 
+Generic Communications Program products, consisting of 36 bulletins 
+and 68 generic letters.   
+ 
+ 
+                                                
+12 Davis-Besse Reactor Vessel Head Degradation Lessons-Learned Task Force Report, dated September 30, 
+2002. 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+21
+Agency’s Self-Assessment Methodology Was Not Statistically Sound 
+ 
+An NRC statistician advised OIG that the agency could not adequately 
+assess the effectiveness of Generic Communications Program 
+products based on a review of the small, biased sample size proposed 
+by NRR (i.e., 6-10 bulletins/generic letters) or from the actual sample 
+(i.e., two generic communications).  Nonetheless, NRR’s self-
+assessment concluded that licensees had adequately responded to 
+generic letters and bulletins.  The results communicated to the 
+Commission further stated that generic communications accomplish 
+their intent to inform licensees and collect information on licensee 
+actions in response to significant issues.  The self-assessment staff 
+reported that the Generic Communications Program products are 
+effective.  
+ 
+¾ NRR's proposed methodology for the effectiveness self-
+assessment was to sample 6-10 bulletins and generic letters from 
+the aforementioned prioritized list.  The review would include 
+inspecting for follow-up activities at 8-10 reactor sites.  Although the 
+initial methodology was not sound, NRR management and the 
+Commission approved this proposal.  
+ 
+According to the NRC statistician, in order to effectively assess the 
+Generic Communications Program, a significantly larger sampling of 
+products would have been needed than that proposed by the staff.  
+The statistician did not provide a specific sample size because such a 
+decision requires greater insights into how statistical parameters affect 
+the program (e.g., classifying results by bulletin or generic letter).    
+ 
+Moreover, NRR did not conduct the proposed review previously 
+described.  In actuality, the review consisted of only two generic 
+communications; one generic letter and one regulatory issue summary 
+– a category not even identified in the initial screening.  Staff reported 
+that verification of the two generic communications was conducted at 
+12 plants; three in each of the four regions which OIG notes exceeds 
+the number originally proposed.  However, this review approach, like 
+the proposed one, was not based on a sound methodology. 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+22
+ 
+¾ 
+Preconceptions Influenced the Prioritization Exercise 
+The agency did not conduct or provide a documented, scientific 
+basis for either the proposed or completed sample because staff 
+could not reach consensus on the priority of the “most 
+significant” generic communications.  As a result, the staff 
+decided to reduce the sample for review from the proposed 6-10 
+high-level generic communications, to just two, including one 
+lower-level priority communiqué.  
+ 
+According to those directly involved in sample selection, staff biases 
+clouded the sample prioritization decisions.  In addition, the majority of 
+those interviewed for this audit, including those directly involved in the 
+sample selection, are generally satisfied that the agency’s Generic 
+Communications Program is effective.  One senior agency executive 
+stated that his confidence in the effectiveness of the Generic 
+Communications Program stems from many years of experience using 
+NRC’s generic communications process.  Such a preconception 
+contributed to the agency’s acceptance of the projection of program 
+effectiveness, regardless of sample size.   
+ 
+In discussions on this finding, NRC staff said this effort was never 
+intended to be a statistical evaluation of the effectiveness of the 
+Generic Communications Program but rather to be a case study 
+involving selected communications.  Though not intended, the 
+agency’s reported results implied that the whole Generic 
+Communications Program, and not just the selected communiqués, is 
+effective.  However, as a result of the inadequate sample size and 
+selection process, there is no scientific/statistical basis to conclude, or 
+imply, that the program and its associated products are effective.    
+ 
+RECOMMENDATION 
+ 
+OIG recommends that the Executive Director for Operations: 
+ 
+4. Direct the development of a methodology that will allow the staff to 
+gauge the effectiveness of agency-issued generic communications. 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+23
+IV. 
+CONSOLIDATED LIST OF RECOMMENDATIONS 
+ 
+OIG recommends that the Executive Director for Operations: 
+ 
+1. Include safeguards advisories, as well as any other agency 
+communication tool that meets the definition of a generic 
+communication, in the formal Generic Communications Program to 
+ensure compliance with regulatory requirements. 
+ 
+2. Pursue immediately the applicability of including appropriate Office 
+of Management and Budget control numbers in safeguards 
+advisories. 
+ 
+3. Implement controls to ensure a systematic, consistent tracking 
+methodology from initiation to closure for each agency-issued 
+generic communication. 
+ 
+4. Direct the development of a methodology that will allow the staff to 
+gauge the effectiveness of agency-issued generic communications. 
+ 
+ 
+ 
+ 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+24
+V. 
+AGENCY COMMENTS 
+ 
+On September 6, 2005, OIG discussed its draft report with agency 
+senior executives.  Subsequent to that meeting, NRC provided informal 
+comments on the draft report and OIG met with NRR management to 
+address specific issues and concerns needing further clarification 
+and/or explanation.  On September 27, 2005, the Deputy Executive 
+Director for Reactor and Preparedness Programs, Office of the 
+Executive Director for Operations, provided a formal response to this 
+report in which the staff generally concurs with the report’s findings and 
+recommendations.  The agency’s transmittal letter and specific 
+comments on this report are included as Appendix B. 
+ 
+This final report incorporates revisions made, where appropriate, as a 
+result of the subsequent meeting and the agency’s informal and formal 
+written comments.  Appendix C contains OIG’s specific responses to 
+the agency’s comments. 
+ 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+25
+Appendix A  
+SCOPE AND METHODOLOGY 
+ 
+NRC’s Generic Communications Program products are the primary 
+means for communicating with agency licensees.  Therefore, all 
+elements of the Program must be effective and efficient in order for 
+generic communications to accomplish their intent.    
+ 
+The purpose of this audit was to assess the effectiveness of the 
+Generic Communications Program, specifically:   
+ 
+¾ whether NRC generic communications are issued in accordance 
+with the Generic Communications Program and other regulatory 
+requirements, and 
+ 
+¾ how NRC tracks licensee actions on generic communications.  
+ 
+To address the audit objectives, OIG reviewed relevant management 
+controls, related documentation, and Federal statutes, including 
+reviews of: 
+ 
+¾ Management Directives 3.54, 3.57, and 3.53 
+¾ NRC Inspection Manual Chapter 0730 
+¾ NRR Office Instructions LIC-503 and LIC-401 
+¾ NSIR’s Office Instruction COM-201, Security Advisories, and 
+Emergent Work Process 
+¾ NRC’s Backfit Rule 
+¾ OMB’s Paperwork Reduction Act 
+¾ GAO’s Internal Control Standards 
+¾ CRGR’s Charter 
+¾ NRC’s Davis-Besse Lessons Learned Task Force Report 
+¾ NRC’s Effectiveness Review of Lessons Learned Task Forces 
+¾ Code of Federal Regulations, Title 10, Parts 50.54(f), 50.71, 
+50.109, 70.76, and 76.76 
+¾ NRR, NMSS, and NSIR Operating Plans and Budget Documents 
+ 
+Auditors conducted interviews and discussions with agency and 
+industry individuals, including: 
+ 
+¾ Headquarters’ senior managers from the Offices of: 
+¾  
+o the Executive Director for Operations, the General Counsel, 
+NRR, NMSS, NSIR, Information Services, and Nuclear 
+Regulatory Research 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+26
+ 
+¾ Representatives from CRGR  
+¾ Representatives from ACRS 
+¾ Representatives from the Nuclear Energy Institute 
+¾ NRC’s statistician 
+ 
+OIG conducted this audit between September 2004 and June 2005 in 
+accordance with generally accepted Government auditing standards 
+and included a review of management controls related to the 
+objectives of this audit.  The major contributors to this report were 
+Anthony Lipuma, Team Leader; Catherine Colleli, Audit Manager; 
+Yvette Russell, Senior Auditor; and Michael Cash, Technical Advisor. 
+ 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+27
+Appendix B 
+FORMAL AGENCY COMMENTS 
+ 
+ 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+28
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+29
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+30
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+31
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+32
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Page intentionally left blank.] 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+33
+Appendix C 
+ 
+DETAILED OIG ANALYSIS OF AGENCY COMMENTS 
+ 
+On September 6, 2005, OIG discussed its draft report with agency 
+senior executives.  Subsequent to that meeting, NRC provided informal 
+comments on the draft report and OIG met with NRR management to 
+address specific issues and concerns needing further clarification 
+and/or explanation.  On September 27, 2005, the Deputy Executive 
+Director for Reactor and Preparedness Programs, Office of the 
+Executive Director for Operations, transmitted a memorandum with 
+formal comments on this report (see Appendix B). 
+ 
+Below is OIG’s analysis of the agency’s formal comments. 
+ 
+NRC Comment 1  
+ 
+1. 
+At the end of the "Findings" section starting on the bottom of 
+page 6, and also text on page 25, the draft report states that as 
+a result of failure to apply internal control mechanisms, "the 
+agency may not be able to enforce actions requested or 
+required of licensees."  The staff believes that the report 
+continues with an erroneous premise in its findings that a 
+generic communication can "require" actions that may be 
+enforced.  Generic communications do not impose enforceable 
+requirements to perform actions. 
+ 
+OIG Response 
+OIG recognizes that generic communications (other than NRC Orders) are not a 
+recognized vehicle for communicating regulatory requirements.  However, some 
+safeguards advisories contain ambiguous language that could reasonably be 
+interpreted as a mandate for licensee action or providing information.  As such, 
+the point remains that the failure to follow appropriate regulatory processes 
+brings into question the agency’s ability to pursue any actions based on these 
+advisories.  Nonetheless, OIG recognizes that use of the word “enforce” in close 
+conjunction with “require actions” may be misperceived and warrants a change.   
+ 
+The word “enforce” has been changed in the report to “pursue.” 
+ 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+34
+ 
+NRC Comment 2 
+2. On page 7 of the draft report, the following changes should be 
+considered: 
+ 
+"A. Safeguards Advisories Are Issued Outside of NRC’s Existing 
+Regulatory Framework 
+ 
+NSIR issues security advisories that are developed and distributed 
+outside of NRC’s Generic Communications Program because NSIR 
+managers believe the formal process takes too long.  As a result, 
+the advisories, particularly safeguards advisories, are not 
+developed in accordance with the agency’s structured review and 
+approval practices. Consequently, safeguards advisories could be 
+issued that do not meet regulatory requirements.  The lack of a 
+formal process could lead to an absence of necessary reviews and 
+thereby compromises NRC’s regulatory process.  Furthermore, the 
+lack of a clear, publicly documented process for requesting and 
+disseminating information through safeguards advisories 
+compromises NRC's openness principle for transparent regulation." 
+ 
+ 
+OIG Response 
+The subtle word change does not alter the sentence’s main point that the 
+agency’s regulatory process is comprised when appropriate reviews are omitted. 
+ 
+OIG revised the report to reflect the requested change in language. 
+ 
+NRC Comment 3 
+ 
+3. 
+On page 16 of the draft report, the following changes should be 
+ 
+considered: 
+ 
+"Although not typical, Table 2 shows that generic communications 
+can be issued in as little as one day,  when necessary. ,when in 
+response to a significant event." 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+35
+ 
+OIG Response 
+The requested word change is subtle and does not alter the sentence’s main 
+point. 
+ 
+OIG revised the report to reflect the requested change in language. 
+ 
+NRC Comment 4 
+ 
+4. 
+ On page 17 of the draft report, the following changes should b 
+ 
+ considered: 
+ 
+"In addition, contrary to perceived inefficiencies with the 
+process, NSIR at times chose the Generic Communications 
+Program (see Table 3) to convey security matters of similar 
+substance to those found in safeguards advisories. Specifically, 
+NSIR issued 18 regulatory issue summaries (a recognized 
+Generic Communications Program product), during the same 
+period when NSIR issued 65 threat and safeguards advisories 
+(unrecognized generic communications products).  Yet, in these 
+cases, NSIR has no documented rationale for selecting a 
+recognized generic communications product versus using 
+security advisories." 
+ 
+Additionally, the staff believes that improvements have been 
+realized since the "ad hoc days" just after 9/11.  Recent SAs 
+have been focused on the following criteria, which is being 
+formalized in an NSIR procedure.  The following are considered 
+to be appropriate content of security advisories: 
+ 
+• Notification that the Homeland Security Threat 
+Advisory System threat level has been elevated 
+• Notification of National Special Security Events 
+• Recommended compensatory measures and 
+suggested actions for rapidly emerging safeguard 
+and security-related issues 
+• Requests for security or safeguards information 
+from licensees related to an imminent vulnerability 
+or condition 
+• Guidance on implementing existing security and/or 
+safeguards regulatory requirements related to an 
+imminent vulnerability or condition 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+36
+OIG Response 
+OIG recognizes that NSIR has been working towards formalizing the use of 
+safeguards advisories, such as employing specific criteria to remove the ad hoc 
+nature.  Deletion of the identified phrase does not change the point of this 
+paragraph which says that NSIR, at times, used recognized generic 
+communications products to transmit similar type information as found in the 
+unrecognized safeguards advisories.     
+ 
+OIG deleted the phrase as requested. 
+ 
+NRC Comment 5 
+ 
+ 
+ 
+5. 
+On page 19, the draft report states: 
+ 
+"Lack of Technical and Regulatory Reviews Compromises 
+NRC’s Regulatory Processes 
+ 
+The agency’s use of advisories significantly increased after 
+September 11, 2001.  Agency managers and staff, as well as 
+industry representatives have more and more often questioned 
+the regulatory authority for issuing advisories.  Of particular 
+concern are the safeguards advisories primarily because, as 
+stated by a senior Nuclear Energy Institute representative, NRC 
+is using many safeguards advisories ‘to establish new 
+requirements without going through the required agency review 
+process.’" 
+ 
+Although not formalized, Safeguards Advisories (at least since 
+2003) have been reviewed by the Office of General Counsel to 
+ensure that new requirements are not set and NSIR is unaware 
+of "new requirements" having been issued, via SAs. 
+ 
+ 
+ 
+OIG Response 
+The agency states that safeguards advisories have been reviewed by the Office 
+of the General Counsel (OGC), at least since 2003, to ensure new requirements 
+are not set.  However, as stated in the report, OIG conducted a technical review 
+of the 65 security advisories identified by NSIR and found that 14% were used for 
+communicating apparent requirements, including a safeguards advisory dated 
+June 2004.   
+ 
+Throughout this audit, NSIR could not identify a comprehensive list of safeguards 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+37
+advisories issued for the period under consideration nor could NSIR staff provide 
+assurance that all safeguards advisories received an OGC review.  In fact, 
+according to NSIR and OGC staff, because the agency was usually anxious to 
+issue the safeguards advisories, they did not always receive an OGC review.    
+ 
+No change made to the report. 
+ 
+NRC Comment 6 
+6.  On page 20 of the draft report, Figure 1 groups all advisories 
+(Safeguards and Threat Advisories) issued since 9/11 together.  
+This grouping should be reconsidered and the report should focus 
+on more recently developed SAs.  This would focus the information 
+on current practices and would aid the staff’s understanding of 
+current program needs. 
+ 
+   
+OIG Response 
+OIG acknowledges that the agency has shown increased interest in the 
+development and issuance of safeguards advisories since the start of this audit.  
+However, as stated in the response to agency comment 5, NSIR was not able to 
+provide OIG with a complete listing or copies of all issued safeguards advisories 
+because of a lack of a standard process, including the absence of a numbering 
+system.  While OIG acknowledges that threat advisories have a different use and 
+follow a different internal process, neither of the advisories receives a formal 
+regulatory review to ensure proper use.  Therefore, information provided in 
+Figure 1 regarding multiple uses of advisories appropriately applies to both types. 
+ 
+No change made to the report. 
+ 
+NRC Comment 7 
+ 
+7. 
+Page 21 of the draft report states: 
+ 
+"As a result, safeguards advisories did not receive . . . ACRS 
+technical review although this committee has a defined role in 
+reviewing any generic communication that conveys 
+requirements on licensees.  Without ACRS review, NRC could 
+impose unjustified requirements on its licensees." 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+38
+Please note that SAs do not impose requirements, and based 
+on the above statement, an ACRS review is not required. 
+ 
+OIG Response 
+OIG acknowledges the possibility that not all of the safeguards advisories issued 
+during the period reviewed would have required an ACRS review.  However, 
+because OIG’s technical review identified a number of advisories which 
+conveyed apparent requirements, the likelihood exists that in some instances an 
+ACRS review would have been appropriate.  Without the benefit of formal 
+processing, the agency has no assurance that safeguards advisories would 
+receive an ACRS review where necessary.  
+ 
+No change made to the report. 
+ 
+NRC Comment 8 
+ 
+8. 
+On page 24 of the draft report, the following changes should be 
+ 
+considered: 
+ 
+"While NSIR senior managers acknowledge that there should be 
+a clear, formal process for the development and issuance of 
+safeguards advisories, they expressed a need for balance 
+between protecting public openness (an agency goal) and 
+common defense and security (the agency’s mission).  Currently 
+there are differing opinions among NRC senior managers 
+regarding the public’s right to know about the information 
+contained in the advisories.  As of the date of this report, the 
+public may still not know of the specific existence of specific 
+safeguards advisories because they are not made publicly 
+available even though many do not contain information actually 
+designated classified by the agency as "Safeguards 
+Information." 
+ 
+The content of SAs can be classified as:  National Security 
+Information (i.e., Top Secret, Secret, Confidential); Safeguards 
+Information; Exempt from Public Disclosure in Accordance with 
+10 CFR 2.390; or a variety of federal agency sensitive 
+unclassified information processes (see SECY-04-0191, dated 
+October 19, 2004).  These processes are defined and 
+implemented.  The above statement (without suggested 
+changes) is somewhat misleading in that the information in the 
+SAs is classified and protected in accordance with defined and 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+39
+formal NRC and federal government processes, and therefore 
+"... differing opinions among NRC senior managers regarding 
+the public’s right to know about the information contained in the 
+advisories" is irrelevant.  Additionally, the idea that the public 
+may, or may not, be aware of safeguard advisories is valid.  
+However, the concept that ".... they are not made publicly 
+available even though many do not contain information actually 
+classified by the agency as "Safeguards Information" does not 
+follow because containing "Safeguards Information" is only one 
+of many very valid reasons the content of an SA is not released 
+to the public. 
+ 
+OIG Response 
+(Agency comment, paragraph 1)  
+The requested rewording does not alter the intent of the paragraph. 
+ 
+(Agency comment, paragraph 2)  
+OIG recognizes that there are many bases for withholding safeguards advisories 
+from public disclosure.  However, to date, all safeguards advisories have been 
+withheld from public disclosure, including some that do not have a clear basis for 
+withholding.   
+ 
+OIG made the requested revisions. 
+ 
+NRC Comment 9 
+9. On page 24, the statement about the Paperwork Reduction Act 
+incorrectly implies that an exemption clause is required if a 
+document is not an information request.  An exemption clause is 
+required only if the document is an information request, but is 
+exempt from the requirement for an OMB control number. 
+ 
+ 
+OIG Response 
+OIG concurs with the nuance of this comment.   
+ 
+The statement was revised to accurately reflect the Paperwork Reduction Act 
+requirements. 
+ 
+Audit of NRC’s Generic Communications Program 
+ 
+ 
+40
+ 
+NRC Comment 10 
+10. 
+On page 29, in the first paragraph under "Internal Guidance on 
+Processing Generic Communications," the first sentence 
+through "For example" should be deleted and the paragraph 
+should be started from "NRR Office . . ." 
+ 
+OIG Response 
+The requested deletion does not impact the point of the paragraph. 
+ 
+OIG deleted the language as requested. 
+ 

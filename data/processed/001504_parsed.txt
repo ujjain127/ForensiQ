@@ -1,0 +1,707 @@
+ 
+ELECTRONICS/COMPUTER HARDWARE/COMMUNICATIONS 
+ 
+Kopin Corporation 
+Miniature LCDs Enhance High-Definition Displays 
+In 1994, the computer industry was developing high-speed, advanced processors and high-
+capacity data storage. Display technology lagged behind; consumers wanted larger, faster, 
+flicker-free video images and complex graphics (e.g., computer-aided design applications) on 
+lighter weight, lower cost, energy-efficient displays. Kopin and Philips formed a joint venture 
+and requested cost-shared funding from the Advanced Technology Program (ATP) to achieve 
+numerous pre-commercial technical advances in liquid crystal display (LCD) color high-
+definition televisions (HDTVs). This project would have required additional years to accomplish 
+without this joint venture collaboration and external funding. High-definition display technology 
+was changing rapidly, and, at the time, the market was dominated 100 percent by foreign 
+manufacturers.  
+ATP awarded funding from 1995 through 1998 to Kopin and Philips, who together with their 
+subcontractor, Massachusetts Institute of Technology, planned to develop and integrate the 
+optical and color system (e.g., lenses, mirrors, or light guides), digital signals, and LCDs into a 
+single, integrated package. By 2003, Philips had successfully commercialized high-resolution 
+projection HDTVs that used the ATP-funded technology.  
+Kopin applied the ATP-funded enabling technology in numerous applications to include 
+miniaturized display applications for use in viewfinders for camcorders and digital cameras, 
+wearable computers, virtual reality games, and military applications. LCD projection display 
+technology is a key product differentiator in U.S. electronics manufacturing.  
+ 
+COMPOSITE PERFORMANCE SCORE 
+               (based on a four star rating) 
+                 * * * *  
+ 
+Research and data for Status Report 94-01-0304 were collected during June - September 2003. 
+ 
+Early Tests of Facilitated Transport Identify 
+Problems  
+In 1994, the technology used to generate images for 
+computer monitors, TVs, and projection televisions was 
+the cathode-ray tube (CRT), a sophisticated glass 
+vacuum tube with one to three tubes and 
+accompanying lenses and/or a built-in filter wheel. CRT 
+screens produce crisp, vibrant images, but they have 
+serious drawbacks: they are heavy, bulky, and 
+inherently analog rather than digital (consider the 
+quality of a phonograph player, which is analog, 
+compared to a compact disc player, which is digital). In 
+order to increase the screen width and height, 
+manufacturers had to increase the length of the tube (to 
+give the scanning electron gun room to reach all parts 
+of the screen). Scaling up this tube to create larger  
+ 
+ 
+displays revealed its weaknesses: it loses high 
+definition over large areas, becomes curved (which 
+distorts the image), requires a glass plate up to an inch 
+thick, and can produce distracting line and speckle 
+patterns. 
+The basic process for a CRT television or computer 
+monitor to display images involves lighting up 
+thousands of tiny pixels with a high-energy beam of 
+electrons based on the information in a video signal. In 
+most systems, three pixel colors (red, green, and blue) 
+are evenly distributed on the screen. By combining 
+these colors in different proportions, the screen can 
+produce millions of colors. 
+Kopin Corporation and Philips Electronics North 
+America believed they could produce large, quality  
+ 
+ 
+color images by projecting miniature high-definition 
+liquid crystal displays (LCDs) onto a large screen (as in 
+a slide projector). Small, direct-view monochrome LCDs 
+were already being used in watches, calculators, and 
+laptop computers, providing the lightweight and 
+compact size (especially depth) that enabled these 
+items to be portable. Liquid crystals are able to maintain 
+their orientation, like a solid, yet they can move in 
+response to heat and electric current, like a liquid. 
+Predictable responses to electric current control light 
+and create images. Existing LCDs were still slow, with a 
+limited ability to present shades of gray. They were 
+limited in size as well. Moreover, manufacturing the 
+LCDs required a large up-front capital investment, 
+because it is difficult to produce large flawless LCD 
+panels. Producing large LCD direct-view displays was 
+considered unsuitable for monitors or high-definition 
+televisions (HDTVs) due to a high defect rate in 
+manufacturing. 
+CRT screens have serious drawbacks:  
+they are heavy, bulky, and inherently analog 
+rather than digital. 
+At the time, all LCDs for laptop displays were 
+manufactured outside the United States. If Kopin and 
+Philips’ proposed project could make the necessary 
+advances in speed, grayscale resolution, and 
+optics/color, LCD projection technology could provide 
+an entrée for U.S. manufacturers to compete in the 
+global high-definition market.  
+Kopin and Philips Propose to Collaborate 
+Kopin Corporation is a small, innovative U.S. company 
+of scientists and engineers that focuses on developing 
+personal, portable communication products. Philips 
+Electronics North America is part of a leading global 
+electronics firm that focuses on consumer electronics, 
+with a strong research and development program in 
+New York. The subcontractor, Massachusetts Institute 
+of Technology (MIT), was brought into the project 
+because they specialize in designing digital signal-
+processing methods (translating electronic signals into 
+images). However, after the first year of the project, MIT 
+dropped out and Philips took over MIT’s task.  
+The joint venture applied and was awarded ATP 
+funding support in 1994 in order to pursue an  
+ 
+aggressive technology development path. ATP 
+awarded three years of funding to advance LCD 
+projection display technology and to build a U.S. 
+infrastructure to manufacture the technology. This 
+infrastructure would support high-definition projection 
+displays for future HDTV and computer applications. 
+The technology required integrating the optical and 
+color system (such as lenses, mirrors, and light guides), 
+digital signals, and LCDs. The team needed the ATP 
+award in order to support collaboration between Philips 
+and Kopin; to speed up the development; and to break 
+into a newly expanding global market.  
+To accomplish the joint venture’s goals, fundamental 
+advances were needed in high-resolution LCD 
+grayscale images, speed, optical/color filter systems, 
+light manipulation, screens, electronics, and digital 
+signal processing. The team needed to produce shades 
+of gray first, in order to display image detail and 
+richness. Kopin was producing Smart Slide, an LCD 
+technology for small projection systems that projected 
+like a photographic slide (at 640 x 480 pixels). Philips 
+had developed color high-definition display systems 
+with three panels, one for each color. Philips hoped to 
+integrate systems and produce color projection HDTVs 
+and computer monitors at a lower cost. The joint 
+venture’s goal was to combine Kopin’s image quality 
+with Philips’ optics and color technologies. 
+Joint Venture Defines Specific Tasks to Meet 
+Challenging Objectives 
+If Kopin and Philips’ technologies could be combined 
+successfully, the proposed projection displays would 
+save production expenses: 
+• 
+HDTV components could be manufactured on 
+existing production lines. 
+• 
+Reducing pixel size would reduce cost. If the size of 
+each pixel could be reduced, the manufacturer 
+could either provide more pixels in a given space, 
+providing more detail, or else reduce the size of the 
+image with the same image quality and lower cost. 
+• 
+Production of small components would cost less 
+than large, direct-view LCDs, which could not be 
+produced in large sizes at the time, due to a high 
+defect rate. 
+ 
+ 
+The team set challenging system requirements: over a 
+million pixels (high resolution); full color; bright, sharp, 
+and pleasing images; and a fast display that was 
+capable of video speeds. The team’s five specific tasks 
+were the following: 
+1. Kopin would improve LCD speed (from 30 
+milliseconds (ms) to 2 ms). The basis of the 
+technology was a cost-effective glass panel on 
+which an overlying layer of liquid crystal is rapidly 
+controlled with an underlying thin film of silicon-
+based circuitry. 
+2. Philips would integrate electronics into the display 
+(projecting images using standard digital video 
+formats). 
+3. Philips would design and develop the optical and 
+color system, minimize light loss, and generate full 
+color by filtering three colors on a single panel. 
+4. Philips would design external electronics for a test 
+bed monitor and HDTV. 
+5. Philips would construct a prototype system and 
+would evaluate image quality. 
+The entire system needed to be designed so that 
+manufacturing costs would be low enough to open the 
+technology to the large consumer markets expected in 
+projection display for monitors, multimedia applications, 
+and HDTV. The team anticipated that Philips or a third-
+party label would produce the displays that could 
+interface with computer software, HDTV signals, or 
+other image sources. Anticipated spillover products 
+included home entertainment systems, business 
+presentation graphics, printing, and graphic arts. 
+Projection Technology Makes Great Strides 
+By the end of the ATP-funded project in 1998, the joint 
+venture had successfully developed and demonstrated 
+the key components to support high-definition color 
+projection display products. Kopin and Philips 
+accomplished 95 percent of their five technical goals: 
+1. Kopin reached target LCD image refresh speeds of 
+2 ms (improved by a factor of 15). The company 
+developed an active matrix liquid crystal display 
+(AMLCD) and some electronics with a resolution of 
+1280 x 1024 pixels. Kopin developed proprietary  
+ 
+ 
+methods to redesign circuits so that the foundry 
+could manufacture AMLCD displays with fewer 
+defects, thus increasing the yield and lowering 
+production costs.  
+2. Philips integrated electronics into the display and 
+achieved high-speed image transfer (1.8 gigabits 
+per second). They developed and demonstrated 
+high-speed image microprocessors using TM-1000 
+chips. Faster TM-2 chips were being developed, 
+but were not expected to be available until 1999, 
+after project conclusion. These new chips would 
+accommodate parallel operation of all image 
+enhancement and correction programs 
+simultaneously. Philips intended to perform 
+additional research using the faster TM-2 chips 
+after the completion of the ATP-funded project. 
+3. Philips designed and developed the optical and 
+color system (see illustration, below). Steps 
+included controlling and processing light passing 
+through the liquid crystal; developing the lenses; 
+and demonstrating real-time correction of color, 
+contrast, and resolution. The system scans 
+sequential stripes of red, green, and blue light down 
+the display panel. Simultaneous color data loading 
+into the pixel array run ahead of the respective 
+scanning color stripes. These parallel operations 
+maximize the time that each color is displayed and 
+increase brightness. 
+ 
+Magnified view of Philips’ color optics. Mirrors separate and recombine 
+the red, green, and blue colors. 
+4. Philips designed the display drive electronics to 
+take television-format video signals and display a 
+picture, while controlling the picture’s brightness 
+and color saturation. The electronics module 
+receives digital video signals and scales the image 
+to match the display resolution (size). 
+ 
+ 
+ 
+5. The final color display demonstration was not 
+performed at project conclusion, because the LCD 
+technology was still too slow for commercial use. 
+Philips demonstrated a prototype system to 
+evaluate image quality. The company completed an 
+operational TM-1000-based system in a personal 
+computer (PC). Philips constructed 12 screen 
+samples, which compared well with the design 
+goals. The proof-of-concept implementation verified 
+the algorithms and evaluated image quality 
+(formatting, brightness, color, and contrast were 
+demonstrated individually). While the 
+demonstration system approached, but did not 
+achieve, the resolution and speckle goals, the 
+system did validate the viability of the technology. 
+Philips and Kopin’s key accomplishments during the 
+ATP-funded project included the following: achieving a 
+1280 x 1024 pixel display operating at 180 Hertz frame 
+rate; correcting color in real-time; and demonstrating 
+high color brightness. Philips received two patents for 
+this technology. Philips and Kopin shared their 
+advances with industry through publications and 
+presentations. While these accomplishments 
+encouraged the two companies to continue with 
+additional investment and research into the technology, 
+later changes in the industry led the companies to 
+redirect their efforts. The computer monitor market 
+changed as direct-view LCD manufacturing yield 
+improved, as flat panels were being produced with 
+fewer defects. This eliminated the need for projection 
+technology in high-definition computer monitors. 
+Therefore, Philips focused on HDTV only; Kopin applied 
+its technology to other miniature near-to-eye displays 
+(e.g., cell phones, viewfinders for camcorders, and 
+eyewear viewers that allow wearers to view the display 
+screen with one eye). Thus, the ATP-funded technology 
+was successfully applied to other markets. 
+Kopin Moves toward Miniature Display 
+Development 
+Kopin moved away from projection HDTV development, 
+because the company could not reduce the 
+manufacturing cost of LCD screens for large 
+projections. Instead, it focused on miniature displays 
+and commercialized its first CyberDisplay product in 
+1997 (see illustration below). This product includes a 
+color sequential display, based on the technology 
+developed during this ATP-funded project, that uses a  
+ 
+ 
+0.25-inch diagonal AMLCD. At the conclusion of the 
+internally funded research, Philips developed its own  
+project in October 1998, Kopin was marketing 10,000 
+AMLCD displays per month to U.S. original equipment 
+manufacturers (OEMs) for miniature near-to-eye 
+viewing (e.g., eyeglass attachments for medical and 
+research applications) and military applications (e.g., 
+helmet-mounted displays for pilots). 
+ 
+  
+Example of a Kopin CyberDisplay LCD, with 0.25-inch diameter, used for 
+a microdisplay. 
+Philips Continues HDTV Display Development after 
+Project Concludes 
+After the conclusion of the ATP-funded project, Philips 
+realized that Kopin’s LCD technology was still too slow 
+to meet commercial needs for HDTV. Continuing with 
+faster miniature internal reflective display system (less 
+than 0.2 ms image refresh speed) that relied on liquid 
+crystal on silicon (LCoS), which would replace LCD for 
+this product by 2000. LCoS devices have the crystals 
+coated over the surface of a silicon chip. Electronic 
+circuits are etched into the chip, which is coated with a 
+reflective surface. LCoS devices are even smaller than 
+LCDs, are easier to manufacture, and have a higher 
+resolution (see illustration below). Philips had 
+completed a full high-definition demonstration of the 
+front-end electronics using the TM-2 chip by the end of 
+1999. Using the faster TM-2 chip showed full high-
+definition processing functionality in real time. Philips 
+published several articles about its research and 
+continued to pursue projection displays for HDTV. 
+ 
+Example of a Philips LCoS device used for a microdisplay. 
+High-Definition Technology Booms 
+Both Philips and Kopin were successful in marketing 
+technology developed during this ATP-funded project.  
+ 
+ 
+ 
+In 1996, projection display was one of the fastest 
+growing areas of the display industry, with sales 
+increasing at 25 percent per year. Sales were driven by 
+home-theater applications, which also included CRT 
+projectors, light-amplifier systems for large audiences 
+and theaters, electronic overhead projectors, and 
+helmet-mounted systems for personal viewing. Demand 
+for institutional applications for presentations and data 
+projectors was growing by 15 percent per year.  
+The joint venture had successfully developed and 
+demonstrated the key components to support 
+high-definition color projection display products.
+After conducting a business analysis in 2000, Philips 
+decided to commercialize its projection HDTV, which it 
+had initiated during this ATP project. Philips 
+demonstrated its first commercial prototypes in January 
+2003 and began to market them in August 2003. 
+Illustrated below, this 44-inch LCoS-based projection 
+HDTV system later won the Consumer Electronics 
+Show’s “Best Innovation” award. 
+ 
+Philips’ prototype 44-inch LCoS-based projection HDTV system, 
+demonstrated in January 2003, won Consumer Electronics Show’s “Best 
+Innovation” award. 
+Philips’ model has a short depth and a low weight, 
+when compared with CRT technology. Because of its 
+small components, Philips’ projection HDTVs can be 
+manufactured at 50 to 70 percent lower cost than direct-
+view displays (plasma and LCD), with higher quality 
+images than CRTs. For example, in 2003, Philips’ 
+projection HDTVs ranged in price from $1,700 for a 43-
+inch screen to $2,700 for a top-end 60-inch screen. In 
+comparison, a CRT analog TV up to 36 inches, with 
+1024 x 768 resolution, sold for $2,100, and super-thin 
+42-inch plasma HDTVs cost from $3,000 to $11,500. 
+ 
+Philips plans to offer more models of LCoS-based 
+projection short-depth, low-weight HDTVs. The 
+company believes it will continue to gain a price 
+advantage over time, as sales grow and LCoS 
+manufacturing costs drop. 
+Kopin also achieved success with the project-related 
+technology. By September 2003, Kopin was selling 
+more than 400,000 AMLCD units per month, up from 
+10,000 per month in 1998. Company employment had 
+increased from 80 employees at the beginning of the 
+project to 379 in 2003. 
+Kopin currently markets several near-eye display 
+products, called CyberDisplay (see illustration below). 
+Products include monochrome and color options with 
+varying resolutions. The CyberDisplay is 1,000 times 
+smaller and consumes 100 times less power than a 
+conventional PC monitor. Kopin sells these displays to 
+a variety of OEMs for applications including viewfinders 
+for digital cameras and camcorders, miniaturized view 
+screens for cellular telephones, personal digital 
+assistants, computerized writing instruments, virtual 
+reality games, belt-wearable computers, and eyewear 
+viewers (the viewer is attached to eyeglasses or a 
+helmet and allows wearers to view the CyberDisplay 
+screen with one eye), as well as low-volume, specialty 
+military products. Demand for these products is driven 
+by consumers’ desire for smaller, less expensive, more 
+compact electronic devices, which display ever-
+increasing amounts of data and visual information. 
+ 
+ 
+Examples of OEM products that use the Kopin CyberDisplay. From left: 
+IBM BodyWorn ThinkPad, JVC Camcorder, Oriscape Personal DVD 
+Viewer, and Navitrak Hand-Held GPS. 
+Also in 2003, Kopin was developing a rear-screen 
+dashboard projector for automobiles, which builds on 
+the ATP-funded technology. This dashboard will include 
+instruments and programmable formats and colors. 
+Prototypes of the dashboard have been used since 
+2002 in Formula 1 race cars. However, because the 
+dashboard is subjected to engine heat and high 
+environmental temperatures, Kopin must develop 
+methods to permit higher temperature tolerances for the 
+display.  
+ 
+ 
+Regulations Stimulate Demand for HDTV 
+The Federal Communications Commission (FCC) is 
+responsible for regulating and enforcing 
+communications standards; therefore, they are 
+interested in standardizing HDTV broadcasting. In April 
+1997, the FCC adopted rules for digital television 
+broadcasting. The agency has been trying to accelerate 
+the slow rollout to HDTV. In 2002, Congress set a target 
+date for completing the transition to HDTV signals by 
+December 31, 2006. These requirements encourage 
+more broadcasters to offer HDTV, which stimulates 
+consumer demand. As of May 2003, more than 1,000 
+U.S. stations were on the air with HDTV signals, 
+including at least one in every major market. (Analog 
+TVs will still receive a signal; however, they will not be 
+able to pick up the HDTV signal.) Philips expects to 
+increase sales of its ATP-funded projection HDTVs as a 
+result of increased consumer demand. 
+U.S. Manufacturing Gains Entry into Display Market
+Philips provided an entry for U.S. manufacturing into a 
+market that was previously dominated 100 percent by 
+foreign manufacturers. Philips manufactures key 
+components and assembles the HDTV units in the 
+United States. Kopin designs and manufactures its 
+miniature displays in the United States and is the 
+largest exporter of displays to Japan. 
+The ATP-funded technology was successfully 
+applied to other markets. 
+By early 2003, more than 5 million U.S. consumers 
+owned HDTV sets (less than 5 percent of U.S. homes). 
+It is estimated that the market for projection HDTV will 
+reach $6 to $10 billion by 2005. Worldwide shipments of 
+electronic display materials were estimated at $8.5 
+billion in 2000 and $66 billion in 2002, with sales 
+projected to continue to grow by 12 percent per year 
+and to reach $115 billion by 2007. In addition to HDTVs, 
+LCD projection technology advances from this ATP-
+funded project have contributed to improved resolution, 
+speed, and color, as well as reduced prices in cellular 
+phones, camcorders, and digital cameras. 
+ 
+ 
+Conclusion 
+This pioneering technology facilitated a paradigm shift 
+in high-definition display technology. From 1995 to 
+1998, Kopin and Philips combined existing 
+monochrome liquid crystal displays (LCDs), which were 
+used in watches and radios, with color, signal 
+processing, and high-definition technology. During the 
+project, the team accomplished 95 percent of its 
+technical goals, received two patents, and shared 
+knowledge with the industry through presentations and 
+publications. The team members independently 
+continued their development efforts after the conclusion 
+of the project and achieved all of the project goals. 
+Philips successfully developed and commercialized a 
+liquid-crystal-on-silicon-based high-definition projection 
+technology for high-definition televisions (HDTVs), 
+providing prototypes by January 2003 and retail 
+products by August 2003. Screens are now lighter, with 
+improved color and speed, and consume less power. 
+Projection HDTVs have lowered the entry price for 
+consumers into the HDTV market. They are priced 50 
+to 70 percent less than comparable-sized plasma 
+HDTVs, which is stimulating sales. The market for 
+projection HDTVs is anticipated to expand to $6 to $10 
+billion by 2005, growing at approximately 11 percent 
+per year. Philips expects to benefit from this sales 
+increase. 
+After the conclusion of the ATP-funded project, Kopin 
+further developed LCD technology and provided the 
+foundation for enhanced miniature color screens for 
+multiple uses. Original equipment manufacturers use 
+the screens in cellular phones, personal digital 
+assistants, camcorder and still digital camera 
+viewfinders, virtual reality games, wearable computers, 
+and military applications. Kopin’s monthly sales 
+increased from 10,000 active matrix liquid crystal 
+displays in October 1998 to more than 400,000 units in 
+September 2003. The outlook for additional new 
+applications as well as growth in sales is excellent. 
+ 
+ 
+ 
+PROJECT HIGHLIGHTS 
+Kopin Corporation 
+Project Title: Miniature LCDs Enhance High-
+Definition Displays (High-Information Content Display 
+Technology) 
+Project: To develop next-generation liquid-crystal 
+projection display technology capable of producing the 
+high-quality, high-resolution images needed for monitors, 
+multimedia applications, and high-definition TV. 
+ 
+Duration: 4/15/1995–6/14/1998 
+ATP Number: 94-01-0304 
+ 
+Funding (in thousands): 
+  
+ATP Final Cost              $6,097     49% 
+Participant Final Cost      6,407     51% 
+Total                            $12,504 
+ 
+Accomplishments: Kopin and Philips 
+accomplished 95 percent of their technical goals:  
+• 
+Developed and demonstrated high-speed image 
+microprocessors using TM-1000 chips 
+• 
+Designed and developed the optical and color system 
+• 
+Designed the display drive electronics to take 
+television-format video signals and display a picture 
+• 
+Demonstrated a prototype system to evaluate 
+image quality 
+Philips continued research and ultimately developed and 
+successfully commercialized high-definition projection 
+televisions (HDTVs) in 2003, which relied on liquid-
+crystal-on-silicon (LCoS) displays. Philips manufactures 
+components and assembles the HDTV units in the 
+United States. 
+ATP support allowed Kopin to develop a knowledge base 
+that later made its CyberDisplay product series possible; 
+CyberDisplay’s color sequential display is based on this 
+technology. Kopin produces U.S.-made liquid crystal 
+displays (LCDs) for miniaturized color screens used in 
+cellular phones, personal digital assistants, camcorder 
+and still digital camera viewfinders, virtual reality games, 
+wearable computers, and military applications. Kopin 
+was selling more than 400,000 units per month by 
+September 2003 and was the largest exporter of displays 
+to Japan. 
+In addition, Philips and Kopin received patents and 
+awards, and they disseminated knowledge through 
+presentations and publications. 
+ 
+Philips filed and was awarded the following two patents 
+resulting from this project: 
+• 
+“Rear projection screen with reduced speckle” 
+(No. 6,147,801: filed August 18, 1997, granted 
+November 14, 2000) 
+• 
+“Dichroic filters with low nm per degree sensitivity”  
+(No. 5,999,321: filed June 19, 1998, granted 
+December 7, 1999) 
+The Philips projection HDTV won an award for 
+innovation: 
+• 
+“Best Innovation for Consumer Electronics Show 
+2003” for the 44-inch LCoS HDTV 
+The ATP-funded project contributed to the knowledge 
+base that made development of Kopin’s CyberDisplay 
+product series possible in an accelerated timeframe. 
+Kopin’s CyberDisplay won the following awards for 
+innovation: 
+• 
+“Product of the Year,” for expanding functionality of 
+portable devices including PDAs, cell phones, and 
+pagers, 1998, Electronic Products magazine 
+• 
+“25 Technologies of the Year,” 1998, IndustryWeek 
+magazine 
+• 
+“25 Most Technically Innovative Products,” 1999, 
+for the CyberDisplay 320C, Photonics Spectra 
+magazine 
+Commercialization Status: Philips 
+successfully brought the short-depth, low-weight 
+projection HDTVs to market in August 2003. The award-
+winning LCoS picture provides “the next level…[of] 
+unsurpassed natural colors and picture sharpness,” 
+according to the Consumer Electronics Show 2003. 
+Philips was able to price the models 50 to 70 percent 
+lower than comparable-sized plasma HDTVs and 
+anticipates that production costs will become even more 
+cost competitive as LCoS production increases. Sales 
+are expected to be brisk. 
+Kopin’s projection display products are being marketed 
+for many applications. Kopin products include the 
+CyberDisplay 320 Monochrome, CyberDisplay 320 
+Color, CyberDisplay 640 Color, CyberDisplay 1280 
+Monochrome, and custom displays. These are used by 
+original equipment manufacturers for many applications, 
+including camcorder viewfinders, digital still camera 
+viewfinders, hand-held global positioning system 
+devices, wireless cellular telephones, personal digital 
+assistants and pagers, personal computers, wearable  
+ 
+ 
+ 
+PROJECT HIGHLIGHTS 
+Kopin Corporation 
+computers, and military applications. Near-to-eye head-
+mounted displays (attached to eye glasses or a helmet) 
+connect with any device that provides video output (e.g., 
+digital camera, camcorder, portable TV, or laptop).  
+ 
+Outlook: The outlook for this technology is excellent. 
+Worldwide sales of electronic display products were 
+estimated at $66 billion in 2002. Shipments were 
+projected to continue to grow by 12 percent per year to 
+reach $115 billion by 2007. The market for projection 
+HDTVs is anticipated to reach $6 to $10 billion in 2005. 
+In addition, sales of miniature near-to-eye applications 
+(e.g., viewfinders for camcorders and digital cameras, 
+wearable computers, and military applications) are 
+growing.  
+ 
+Composite Performance Score: * * * *    
+Number of Employees: 80 at project start, 379 
+as of September 2003 
+Company: 
+Kopin Corporation 
+695 Myles Standish Boulevard 
+Taunton, MA 02780 
+ 
+Contact: Ollie Woodard 
+Phone: (508) 824-6696 
+ 
+Company: 
+Philips Consumer Electronics North America  
+345 Scarborough Road 
+Briarcliff Manor, NY 10510 
+Contact: Betsy McIlvaine 
+Phone: (914) 945-6195 
+Subcontractor: 
+Massachusetts Institute of Technology 
+Cambridge, MA 
+Publications and Presentations: 
+Philips and Kopin’s presentations and publications 
+include the following: 
+• 
+Stanton, D. A., J. A. Shimizu, and J. E. Dean. 
+“Three-Lamp Single-Device Projector.” 
+Proceedings of SID 1996, San Diego, CA, pp. 839-
+42, May 12-17, 1996. 
+• 
+Goldenberg, J. F., H. Qiang, and J. A. Shimizu. 
+“Rear Projection Screens for Light Valve Projection 
+Systems.” Projection Displays III, San Jose, CA, 
+Sponsors: SPIE and IS&T, Proceedings of the 
+International Society for Optical Engineering 
+(SPIE), vol. 3013, pp. 49-59, Feb. 10-12, 1997. 
+• 
+Woodard, O., F. P. Herrmann, H. E. Kim, and F. P. 
+Cuomo. “Development of a 2560 x 2048 AMLCD 
+Display for HMD Applications.” Helmet- and Head-
+Mounted Displays III, Proceedings of the SPIE, vol. 
+3362, pp. 311-321, August 1998. 
+• 
+Shimizu, J. A. “Single Panel Reflective LCD 
+Projector.” Projection Displays V, San Jose, CA, 
+Sponsors: SPIE and the Society for Imaging 
+Science & Technology, Proceedings of the SPIE, 
+vol. 3634, pp. 197-206, Jan. 26-28, 1999. 
+• 
+Gale, R. P., F. Herrmann, J. Lo, M. Metras, B-Y. 
+Tsaur, A. Richard, D. Ellertson, et al. “Miniature 
+1280 by 1024 Active Matrix Liquid Crystal 
+Displays.” Helmet- and Head-Mounted Displays IV, 
+Proceedings of the SPIE, vol. 3689, pp. 231-237, 
+July 1999. 
+• 
+Woodard, O., R. P. Gale, H. L. Ong, and M. J. 
+Presz. “Developing the 1280 by 1024 AMLCD for 
+the RAH-66 Comanche.” Helmet- and Head-
+Mounted Displays V, Proceedings of the SPIE, vol. 
+4021, pp. 203-213, June 2000. 
+• 
+Shimizu, J. A. “Philips’ Scrolling-Color LCoS Engine 
+for HDTV Rear Projection.” Information-Display, 
+vol. 17, no. 11, pp.14-19, Nov. 2001, published by 
+Palisades Inst. Res. Services. 
+• 
+Janssen, P., J. A. Shimizu, J. Dean, and R. Albu. 
+“Design Aspects of a Scrolling Color LCoS 
+Display.” Displays (UK), vol. 23, no. 3, pp. 99-108, 
+June 2002, published by Elsevier. 
+• 
+Woodard, O. C., R. P. Gale, and C. E. Reese. 
+“Colorization of Solid State AMLCDs for Military 
+Head-Mounted Displays and Other Viewer 
+Applications.” Helmet- and Head-Mounted Displays 
+VIII: Technologies and Applications, Proceedings of 
+the SPIE, vol. 5079, pp. 19-30, September 2003. 
+ 
+ 
+ 
+ 
+Research and data for Status Report 94-01-0304 were collected during June - September 2003. 
+ 

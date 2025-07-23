@@ -1,0 +1,557 @@
+USP DQI Training on Basic Tests and Sampling Procedures for Establishing 
+Antimalarial Drug Quality Monitoring in Uganda 
+ 
+ 
+Kampala, Uganda 
+May 16-27, 2008 
+ 
+Trip Report 
+ 
+Dr. Natalia Davydova, Program Manager 
+ 
+Mr. Sanford Bradby III, Chemist III 
+ 
+ 
+ 
+ 
+ 
+U.S. Pharmacopeia Drug Quality 
+and Information Program 
+12601 Twinbrook Parkway 
+Rockville, MD  20852 USA 
+Tel: (+1) 301-816-8160 
+Fax: (+1) 301-816-8374 
+Email: uspdqi@usp.org 
+ 
+ 
+ 
+ 
+ 
+ 
+Cooperative Agreement # HRN-A-00-00-00017-00 
+Sponsoring USAID Missions: USAID/Uganda  
+Health Program Element: States P.E. 1.3 Malaria  
+Grantee: United States Pharmacopeia Drug Quality and Information (USP DQI) Program 
+Author(s) Name: USP DQI Staff 
+Language: English 
+Date of Publication: October 6, 2008 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This report is made possible by the generous support of the American people 
+through the United States Agency for International Development (USAID), under 
+Cooperative Agreement number HRN-A-00-00-00017-00. The contents are the 
+responsibility of the U. S. Pharmacopeia Drug Quality and Information Program 
+and do not necessarily reflect the views of the United States Government. 
+ 
+ 
+USP DQI Training on Basic Tests and Sampling Procedures for Establishing Antimalarial Drug Quality Monitoring in Uganda 
+ 
+ 
+About USP DQI 
+The United States Pharmacopeia Drug Quality and Information (USP DQI) Program, funded by 
+the U.S. Agency for International Development (cooperative agreement HRN-A-00-00-00017-
+00), provides technical leadership to more than 30 developing countries to strengthen their drug 
+quality assurance programs, ensure the quality of medicines and promote public health. 
+USP DQI helps build local, national and regional capacity to improve the standards of drug 
+manufacturing and distribution, reduce the impact of infectious diseases, mitigate the effects of 
+the HIV/AIDS epidemic, and advance the appropriate use of medicines. This document does not 
+necessarily represent the views or opinions of USAID. It may be reproduced if credit is given to 
+USP DQI. 
+ 
+Abstract 
+USP DQI and the National Drug Quality Control Laboratory (NDQCL) of Uganda conducted a 
+training workshop on basic drug analysis tests using GPHF Minilab® kits in Kampala, Uganda 
+May 16-27, 2008. This training course was designed to prepare the participants to carry out post-
+marketing surveillance study of antimalarial medicines in Uganda. 
+ 
+Recommended Citation 
+Davydova, N., and Bradby, S. USP DQI Training on Basic Tests and Sampling Procedures for 
+Establishing Antimalarial Drug Quality Monitoring in Uganda. 2008. Submitted to the U.S. 
+Agency for International Development by the United States Pharmacopeia Drug Quality and 
+Information Program. Rockville, Maryland: United States Pharmacopeia. 
+ 
+Key Words 
+Drug quality, medicine, Minilab®, pharmacovigilance, malaria, Uganda, PMI, USP DQI, USAID 
+ 
+ 
+ 
+ 
+USP DQI trip report – Uganda, May 2008 
+2
+USP DQI Training on Basic Tests and Sampling Procedures for Establishing Antimalarial Drug Quality Monitoring in Uganda 
+ 
+ 
+Table of Contents 
+ 
+ 
+Acknowledgements...................................................................................................... 4 
+Acronyms...................................................................................................................... 5 
+Background .................................................................................................................. 6 
+Purpose of Trip............................................................................................................. 6 
+Source of Funding........................................................................................................ 7 
+Overview of Activities.................................................................................................. 7 
+Meetings........................................................................................................................ 8 
+Next Steps .................................................................................................................... 9 
+Annex 1: Newspaper article on Drug Quality in Uganda, May 17, 2008................. 10 
+Annex 2: Workshop participants .............................................................................. 12 
+Annex 3: NDA Staff working at National Pharmacovigilance Center..................... 13 
+ 
+ 
+ 
+USP DQI trip report – Uganda, May 2008 
+3
+USP DQI Training on Basic Tests and Sampling Procedures for Establishing Antimalarial Drug Quality Monitoring in Uganda 
+ 
+ 
+ACKNOWLEDGEMENTS 
+ 
+USP DQI would like to thank USAID-Uganda; the Executive Secretary of the NDA of Uganda, 
+Mr. Apollo Muhairwe; the Head of the NDQCL, Dr. Anthonia Nakamya; and her staff for their 
+assistance in providing this training. 
+ 
+USP DQI would also like to thank Mr. Anthony Boni, USP DQI’s Cognizant Technical Officer, 
+and his team in Washington, D.C. for their support and advice. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+USP DQI trip report – Uganda, May 2008 
+4
+USP DQI Training on Basic Tests and Sampling Procedures for Establishing Antimalarial Drug Quality Monitoring in Uganda 
+ 
+ 
+ACRONYMS  
+ 
+ACT 
+Artemisinin-based Combination Therapy 
+FDC 
+Fixed Dose Combinations 
+GC 
+Gas Chromatography 
+GPHF 
+Global Pharma Health Fund (Minilab® kit provider) 
+HPLC 
+High Performance Liquid Chromatography 
+MOP 
+Malarial Operational Plan 
+NDA 
+National Drug Authority 
+NDQCL 
+National Drug Quality Control Laboratory 
+PMI 
+President’s Malaria Initiative 
+QAMSA 
+Quality of Antimalarials in Sub-Saharan Africa 
+QA 
+Quality Assurance 
+QC 
+Quality Control 
+SP 
+Sulfadoxine-pyrimethamine 
+TLC 
+Thin Layer Chromatography 
+USAID 
+United States Agency for International Development 
+USP DQI 
+United States Pharmacopeia Drug Quality and Information program 
+USP-NF 
+United States Pharmacopeia National Formulary 
+UV 
+Ultra-Violet Spectroscopy 
+WHO 
+World Health Organization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+USP DQI trip report – Uganda, May 2008 
+5
+USP DQI Training on Basic Tests and Sampling Procedures for Establishing Antimalarial Drug Quality Monitoring in Uganda 
+ 
+ 
+Background 
+In late June 2005, the United States Government announced a five-year, $1.2 billion initiative – 
+the President’s Malaria Initiative (PMI) – to rapidly scale up malaria prevention and treatment 
+interventions in high-burden countries in sub-Saharan Africa. PMI began in 2006 in three 
+countries – Uganda, Tanzania, and Angola – and will expand to 15 countries by 2010. 
+ 
+Within PMI, USAID requested USP DQI to support Uganda in their efforts to assure the quality 
+of antimalarial drugs. The National Drug Authority (NDA) of Uganda assumes the functions of 
+quality control, pharmacovigilance, post-marketing surveillance, and drug information, but has a 
+limited capacity to perform these functions. PMI provided financial support to NDA to increase 
+its ability to ensure the quality and efficacy of malaria-related commodities. 
+ 
+Under first-year PMI funding from USAID/Uganda, USP DQI assessed the drug quality control 
+system in the country and identified weaknesses and areas where USP DQI could assist the NDA 
+and the National Drug Quality Control Laboratory (NDQCL). In collaboration with the NDQCL, 
+USP DQI selected, purchased, delivered, and installed the laboratory equipment the NDA needed 
+for testing antimalarial medicines and insecticides. To strengthen Uganda’s drug quality control 
+capability, USP DQI trained NDQCL staff on Good Laboratory Practices and major testing 
+methods, such as HPLC, Dissolution, UV, and GC, according to international pharmacopeias and 
+other official methods of analysis.   
+ 
+In June 2006, PMI and USAID/Uganda-funded partners met to discuss work plans, review 
+milestones, and identify priorities for the program’s second year. USP DQI planned to establish 
+or improve existing pre-marketing authorization and post-marketing surveillance activities, 
+which can reduce the prevalence of poor quality antimalarial medicines and insecticides 
+circulating in the country market. 
+ 
+In July 2007, the Uganda Ministry of Health, in partnership with USAID/Uganda, invited PMI 
+and USAID/Uganda-funded partners to the PMI Stakeholders Meeting for an update on the 
+progress of PMI activities and to discuss the proposed plan for the program’s third year. All 
+implementing partners were also invited to attend the concurrent PMI partners progress review 
+meeting. 
+ 
+Purpose of Trip 
+Dr. Davydova and Mr. Sanford Bradby traveled to Uganda to: 
+• Provide a training workshop for 25 attendees on the use of basic tests to conduct field 
+studies to detect counterfeit and substandard antimalarials. 
+• Demonstrate the appropriate sampling and documentation procedures to report quality 
+control issues for antimalarials. 
+• Provide technical assistance to NDA and NDQCL staff to identify quality control 
+problems regarding antimalarials.   
+• Provide technical assistance for the production and distribution of basic test reports on a 
+regular basis to the antimalarial quality control program and the national quality control 
+laboratory. 
+• Provide technical assistance to NDA and NDQCL staff in identifying sentinel sites in 
+four provinces where the Minilab® systems will be located.  
+USP DQI trip report – Uganda, May 2008 
+6
+USP DQI Training on Basic Tests and Sampling Procedures for Establishing Antimalarial Drug Quality Monitoring in Uganda 
+ 
+ 
+• Provide technical assistance to NDA and NDQCL staff in developing plans for two 
+rounds of antimalarial drug testing and for analyzing and reporting findings from using 
+the Minilab® systems. 
+• Meet with NDA and USAID to discuss the current USP DQI work plan and the 
+upcoming work plan for fiscal year 2009. 
+ 
+Source of Funding 
+This trip was supported with funds from the USAID Mission in Uganda. 
+ 
+Overview of Activities 
+Friday, May 16, 2008 
+USP DQI staff arrived in-country and met with the NDQCL Lab Director, Dr. Anthonia 
+Nakamya, to discuss and finalize plans regarding the upcoming training workshop. Later, the 
+USP DQI staff met with the Executive Secretary of the NDA, Mr. Apollo Muhairwe, to discuss 
+the workshop and current issues regarding drug quality in Uganda.  
+ 
+Sunday, May 18, 2008 
+USP DQI staff researched a controversial local news article (Annex 1) regarding drug quality in 
+Uganda, which was released Saturday, May 17. Weaknesses were noted in the article, such as a 
+small sample size (for example, only three samples of one particular antimalarial drug found in 
+Uganda were tested) and a non-representative sample area (the samples for Uganda were 
+collected from Kampala, not nation-wide). The weaknesses were later discussed with workshop 
+trainees to help them better plan their nation-wide pharmacovigilance study. 
+ 
+Monday, May 19, 2008 
+An opening ceremony was held to welcome the workshop trainees (Annex 2) and to present the 
+goals and expected outcomes of the workshop. Afterwards, the workshop trainees were taken to 
+the lab, given a safety tour, and introduced to the Minilab® system. Each trainee was given a 
+training manual that included the methods and forms to be used in the workshop as well as 
+contact information, additional background materials, and the workshop evaluation form.  
+ 
+Tuesday, May 20, 2008 
+The USP DQI team commenced the hands-on portion of the workshop by dividing the trainees 
+into five groups, with analysts of different experience levels in each group. This was done to 
+assure the less-experienced trainees gained knowledge from the experienced trainees.  
+ 
+For the first sample tested – amodiaquine hydrochloride tablets – emphasis was placed on 
+complete documentation, proper solution labeling, good laboratory testing procedure, 
+calculations, and reporting. Each trainee individually performed the visual inspection and the 
+TLC procedures. Documentation was checked for completeness and hands-on instruction in 
+laboratory techniques, such as pipetting, was given. Different strengths tablets of amodiaquine 
+hydrochloride were tested and the calculations related to the procedure were done in a group 
+manner on a flip chart; then the simple disintegration procedure was demonstrated and 
+performed by each group.  
+ 
+ 
+USP DQI trip report – Uganda, May 2008 
+7
+USP DQI Training on Basic Tests and Sampling Procedures for Establishing Antimalarial Drug Quality Monitoring in Uganda 
+ 
+ 
+Wednesday, May 21, 2008 
+Each trainee individually tested artesunate tablet samples in the morning. In the afternoon, each 
+group tested artemether samples and began using teamwork to share the preparation of solutions.  
+However, trainees individually prepared and tested their own TLC plates to strengthen their 
+technical ability. 
+ 
+Thursday, May 22, 2008 
+Each group was asked to divide the solution preparation tasks. This was done to simulate 
+working together in the field and reinforce consistent results as each trainee prepared and tested 
+their own TLC plate using the shared solutions. The dividing of tasks gave an exercise in 
+communication, proper labeling, and sharing of resources. The trainees performed the five 
+different procedures needed to screen these artemisinin-based combination therapies (ACTs) and 
+fixed dose combination (FDC) antimalarials:  
+• Sulfadoxine/Pyrimethamine tablets 
+• Mefloquine tablets 
+• Quinine sulfate tablets 
+• Coartem tablets (artemether and lumefantrine) 
+ 
+After the testing was completed, Dr. Davydova had a summary meeting and asked each group to 
+discuss their findings. One group found a substandard (less than 80%) lumefantrine sample.   
+ 
+Friday, May 23, 2008 
+The Minilab® systems were inventoried for completeness and repacked for shipment to the 
+sentinel sites. These presentations were made to the trainees:  
+• David Ekau gave a “Presentation on Sampling,” a discussion of the observations and real-
+world issues encountered on a recent sample collection trip. Mr. Ekau contracted malaria 
+while on this collection trip. 
+• Dr. Davydova gave a presentation on “Good Sampling Planning” in which she discussed 
+the sampling protocol in detail. 
+ 
+Dr. Davydova reviewed the workshop goals to ensure the outcomes were met. During the closing 
+ceremony, Certificates of Accomplishment were handed out to all the participants who 
+completed the workshop. Representatives from the NDA, USAID, and the press attended. 
+ 
+Meetings 
+Tuesday, May 20, 2008 
+Dr. Davydova met with the lab director, Dr. Antonia Nakamya, to discuss the budget for the next 
+three months of the program. Dr. Davydova then met with David Ecru and Dr. Nakamya to 
+update the sampling strategy and the location of the Minilab® sentinel sites. The attendee from 
+one of the sites was unable to make the training, so that site location was changed.  
+ 
+Wednesday, May 21, 2008 
+Dr. Davydova and Dr. Nakamya traveled to the NDA to meet with the information department 
+and to discuss pharmacovigilance activities. They met with Moses Ogaa, Drug Assessment and 
+Registration Officer, and discussed: 
+• Future post-marketing surveillance activities 
+USP DQI trip report – Uganda, May 2008 
+8
+USP DQI Training on Basic Tests and Sampling Procedures for Establishing Antimalarial Drug Quality Monitoring in Uganda 
+ 
+ 
+• Newly developed software 
+• Upcoming training of inspectors by a consultant 
+ 
+Dr. Davydova and Dr. Nakamya traveled to USAID/Uganda to meet with the PMI staff. The 
+regular contact, Betty Nakamiya, was on a trip, so they met with Rachael Cintron, Population, 
+Health & Nutrition Officer, Health HIV/AIDS & Education Officer, Health Team Leader; and 
+Dr. Patrick Okello, Program Management Specialist, and discussed: 
+• An update on USP DQI activities in Uganda 
+• Future pharmacovigilance activities 
+ 
+The USAID staff requested the work plan for the following year to be sent to them at a later time 
+for planning purposes. 
+ 
+Monday, May 26, 2008 
+Dr. Davydova attended meetings at NDQCL to plan testing of samples collected for the quality 
+of Antimalarials in Sub-Saharan Africa (QAMSA) study with the Minilab®. 
+ 
+Tuesday, May 27, 2008 
+Dr. Davydova met with NDQCL staff to continue planning for the QAMSA study and post- 
+marketing surveillance study. Dr. Davydova also met with NDA staff (Annex 3) working at the 
+National Pharmacovigilance Center (NPC) to discuss progress, gaps, and proposed activities. 
+The Center was established at the NDA in the Department of Drug Information in 2005. 
+ 
+Next Steps 
+ The monitoring of the quality of antimalarial drugs at the central and the periphery areas 
+(Hoima/Lira, Jinja, Mbarara, and Tororo) will begin. One round of collecting and testing 
+will be completed before the end of the fiscal year. USP DQI will collaborate with 
+NDQCL on the testing of drugs collected, the data will be reviewed, and a report will be 
+shared with the partners. 
+ In collaboration with the NDA, the FY09 work plan will be finalized in accordance with 
+the Malaria Operational Plan (MOP). 
+USP DQI trip report – Uganda, May 2008 
+9
+USP DQI Training on Basic Tests and Sampling Procedures for Establishing Antimalarial Drug Quality Monitoring in Uganda 
+ 
+ 
+Annex 1 
+News Article on Drug Quality in Uganda released May 17, 2008 
+ 
+USP DQI trip report – Uganda, May 2008 
+10
+USP DQI Training on Basic Tests and Sampling Procedures for Establishing Antimalarial Drug Quality Monitoring in Uganda 
+ 
+ 
+ 
+ 
+Annex 1, continued 
+ 
+USP DQI trip report – Uganda, May 2008 
+11
+USP DQI Training on Basic Tests and Sampling Procedures for Establishing Antimalarial Drug Quality Monitoring in Uganda 
+ 
+ 
+Annex 2 
+Workshop Participants 
+ 
+ 
+Name 
+Email or phone 
+1 
+Dr. Anthonia Nakamya 
+anakamya@hotmail.com
+2 
+Mr. Peter Ssali 
+Biplex2002@yahoo.com
+3 
+Ms. Glorious Turyasingura 
+edloriaug@yahoo.com
+4 
+Mr. Francis Bahurire 
+bnfdux@yahoo.com 
+5 
+Mr. Andrew Hasakya 
+hasakya@yahoo.co.uk 
+6 
+Mr. Henry Nsereko 
+hknsereko@yahoo.com 
+7 
+Mr. William Bogere 
+boogerewilliam@yahoo.co.uk 
+8 
+Mr. Wilber Kwiringira 
+liberty_kw@yahoo.co.uk 
+9 
+Mr. Chris Ntege 
+ntegechris@yahoo.com 
+10 
+Ms. Kamiat Lutaaya 
+0772615995 
+11 
+Mr. Tarsis Byamugisha 
+B_tarsis2002@yahoo.co.uk 
+12 
+Mr. Okurut Juventine 
+okurutjuventine@yahoo.com 
+13 
+Ms. Hellen Labol 
+labolhellen@yahoo.com 
+14 
+Mr. Zaidi Mwondha 
+zaidmwondha@hotmail.com 
+15 
+Mr. David Nahamya 
+0774112791 
+16 
+Mr. David Ekau 
+ekaudavid@yahoo.co.uk 
+17 
+Mr. Nasser Mbaziira 
+mbnatser@yahoo.co.uk 
+18 
+Mr. Kenneth Kiiza 
+0772384159 
+19 
+Mr. Robert Waiswa 
+0782558543 
+20 
+Mr. Jesse Rugasira 
+jesserugasira@yahoo.com 
+21 
+Mrs. Florence Kakaire 
+0772588729 
+22 
+Mr. Peter Emalu 
+0772196720 
+23 
+Ms. Namuganga Dorothy 
+nvrothy@yahoo.com 
+24 
+Ms. Rukia Nsubuga 
+n/a 
+25 
+Ms. Marion Nyiransaba 
+n/a 
+26 
+Ms. Kevin Acayo 
+n/a 
+27 
+Mr. Moses Rombe 
+n/a 
+28 
+Ms. Patricia Nakimera 
+n/a 
+29 
+Ms. Patricia Arinaitwe 
+n/a 
+30 
+Ms. Sarah Kainza 
+n/a 
+31 
+Ms. Judith Nyanzi 
+n/a 
+32 
+Ms. Stella Nansubuga 
+n/a 
+33 
+Ms. Lynn Ninsiima 
+n/a 
+34 
+Mr. Frank Nyakahuma 
+n/a 
+35 
+Mr. Tonny Nsamba 
+n/a 
+ 
+USP DQI trip report – Uganda, May 2008 
+12
+USP DQI Training on Basic Tests and Sampling Procedures for Establishing Antimalarial Drug Quality Monitoring in Uganda 
+ 
+ 
+Annex 3 
+ 
+ 
+NDA Staff working at the National Pharmacovigilance Center  
+ 
+Name 
+Designation 
+Telephone / email 
+Mrs. Helen Byomire Ndagije 
+Head, Drug Information 
+Department 
+0772-469064 
+helenbyomire@yahoo.com
+Ms. Huldah Nassali 
+Drug Information Officer 
+0712-533381 
+mtph2000@yahoo.com
+Dr. Evans Tusbira 
+Drug Information Officer 
+0772-454716 
+evanstusubira@yahoo.com 
+Ms. Angela Bonabana 
+Drug Information Officer 
+0772-595934 
+angelabonobana@yahoo.com
+Mr. Julius Babiiha 
+Drug Information Technician 
+0772-46561 
+juliusbabiiha@yahoo.com 
+ 
+ 
+USP DQI trip report – Uganda, May 2008 
+13

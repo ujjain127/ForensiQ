@@ -1,0 +1,1269 @@
+ROMANIZATION POLICIES FOR CATALOGING CHINESE MATERIAL 
+Revised February 23, 2004 
+ 
+Separation of Syllables 
+ 
+Separate the romanization of each Chinese character with a space, except as directed below.  
+This includes corporate names, terms of address and titles of royalty. Do not join syllables of 
+general, non-specific geographic terms. 
+ 
+1. Terms of address.  A term of address may follow a surname, a courtesy name, or another 
+appellation.  Separate syllables in the term of address.  If a term appearing as an integral part 
+of a name is not a title or term of address, romanize the name in running form, as a forename 
+(see below). 
+ 
+Certain terms, such as  先生 (xian sheng) are sometimes used as terms of address, and 
+sometimes as forenames (i.e., pseudonyms or pen names).   When they are used as 
+terms of address, separate syllables; however, when they are used as forenames, 
+romanize the name in running form (see Connection of syllables, section 1A).   
+ 
+When establishing a forename followed by a term of address, a title of position or 
+office, enter under the forename.  Refer from the name in direct order. 
+ 
+ 
+白沙先生 
+ 
+ 
+ 
+ 
+Romanize name as:  
+ 
+Baisha xian sheng 
+ 
+Heading established as:  
+Chen, Xianzhang, $d 1428-1500 
+ 
+Give reference as: 
+ 
+Baisha xian sheng, $d 1428-1500 
+ 
+Also give reference as:   
+Baisha, $c xian sheng, $d 1428-1500 
+ 
+When establishing names that consist of a surname followed by a term of address, 
+follow AACR2 rule 22.15A by adding the word or phrase to the surname.  Separate the 
+term of address from the surname with a comma in the heading.  Refer from the name 
+in direct order. 
+ 
+ 
+林老师  
+ 
+ 
+Romanize name as:  
+ 
+Lin lao shi 
+ 
+Heading established as:   
+Lin, $c lao shi 
+ 
+Give reference as:  
+ 
+Lin lao shi 
+ 
+ 
+韋大夫  
+ 
+ 
+Romanize name as:  
+ 
+Wei dai fu 
+ 
+Heading established as:   
+Wei, $c dai fu 
+ 
+Give reference as:  
+ 
+Wei dai fu 
+ 
+2. Titles, and titles of royalty.  Syllables in a title should be separated and written in lower-
+case.  If a term appearing as an integral part of a name is not a title or term of address, 
+romanize the name in running form, as a forename.  An epithet is separated from the name 
+of a person, using lower case letters and separated syllables. 
+ 
+Follow AACR2 rule 22.12 when establishing names that include titles of nobility and 
+terms of honor.  Note that this rule applies to names that consist of a surname and a 
+title, or a forename and a title.  Names with titles will be established as: Name, $c title.  
+Examples of Chinese titles include: fei and gui fei. 
+ 
+ 
+董鄂妃 
+ 
+ 
+Romanize name as:  
+ 
+Donge fei 
+ 
+Heading established as:  
+Donge, $c fei, $d 1638-1660 
+ 
+Give reference as:  
+ 
+Donge fei, $d 1638-1660 
+ 
+ 
+楊貴妃 
+ 
+Romanize name as: 
+ 
+Yang gui fei 
+ 
+Heading established as:  
+Yang, $c gui fei, $d 719-756 
+ 
+Give reference as: 
+ 
+Yang gui fei, $d 719-756 
+ 
+Headings for persons with the highest royal status are established according to AACR2 
+rule 22.16A1.  Enter the name in direct order. 
+ 
+ 
+慈禧皇太后 
+ 
+ 
+ 
+Romanize name as:  
+ 
+Cixi huang tai hou 
+ 
+Heading established as:   
+Cixi, $c Empress dowager of China, $d 1835-1908 
+ 
+Give references as:  
+ 
+Cixi, $c huang tai hou, $d 1835-1908 
+ 
+ 
+ 
+ 
+Cixi huang tai hou, $d 1835-1908 
+ 
+ 
+秦始皇帝 
+ 
+ 
+ 
+Romanize name as:  
+ 
+Qin shi huang di 
+ 
+Heading established as:   
+Qin shi huang, $c Emperor of China, $d 259-210 B.C. 
+  
+Give reference as:  
+ 
+Qin shi huang di, $c Emperor of China, $d 259-210 
+B.C. 
+ 
+ 
+楊太后  
+ 
+ 
+Romanize name as:  
+ 
+Yang tai hou 
+ Heading established as:   
+Yang, $c Empress, consort of Song Ningzong, Emperor 
+of China, $d 1162-1233 
+Give references as:  
+ 
+Yang, $c tai hou, $d 1162-1233 
+ 
+ 
+ 
+Yang tai hou, $d 1162-1233 
+ 
+3. General, non-specific geographic terms.  Some terms have both general and specific usage, 
+depending upon context.  For example, when the term 东北  refers to the direction northeast, 
+or, in a general way, to the Northeast, separate syllables; when it is used to refer specifically 
+to Manchuria, capitalize and join syllables. 
+ 
+ 
+华东  
+ 
+Hua dong 
+ 
+西北  
+ 
+xi bei 
+ 
+东北  
+ 
+dong bei 
+ 
+陕北  
+ 
+Shan bei 
+ 
+ 
+ 
+ 
+But: 
+ 
+东北林学院 
+ 
+Dongbei lin xue yuan 
+ 
+Connection of syllables. 
+ 
+1. Join together (without spaces or hyphens) the syllables associated with multi-character 
+surnames and given names.  Also join together given names, Buddhist names, courtesy 
+names, etc., in more than one syllable.  For example: 
+ 
+            孫中山 
+Sun Zhongshan 
+            歐陽修 
+Ouyang Xiu 
+ 
+司馬相如 
+ 
+Sima Xiangru 
+ 
+尼克森 
+Nikesen 
+ 
+康有為 
+Kang Youwei 
+ 
+1A. Forenames, given names, courtesy names. A forename does not include a person's surname. 
+Only capitalize the first letter of a forename. If a term appearing as an integral part of a 
+name is not a title or term of address, romanize the name in running form. 
+ 
+Certain terms, such as  先生 (xian sheng) are sometimes used as terms of address, and 
+sometimes as forenames (i.e., pseudonyms or pen names).   When they are used as 
+forenames, romanize the name in running form (see Connection of syllables, section 
+1A); however, when they are used as terms of address, separate syllables (see 
+Separation of syllables, section 1A).   
+ 
+There are many sorts of Chinese forenames.  It is frequently difficult to clearly divide 
+syllables because the structure or origin of terms, or the meanings of the characters 
+themselves, are obscure.  Therefore, to promote consistent application and to save time, 
+all forenames will be romanized with connected syllables, leaving no space between 
+them.  Alternative forms of access may be given for the form which a cataloger feels 
+that a user might employ to find a name (for example, romanized form, 
+Wugangzhuren; possible reference, Wugang zhuren) 
+ 
+ 
+無 名氏 
+ 
+ 
+Romanize name as:  
+ 
+Wumingshi 
+ 
+Heading established as:   
+Wumingshi, $c pseud. (AACR2 compatible heading) 
+ 
+ 
+梧岗主人 
+ 
+ 
+ 
+Romanize name as:  
+ 
+Wugangzhuren 
+ 
+Heading established as:   
+Wugangzhuren 
+ 
+ 
+雲谷老人 
+ 
+ 
+ 
+Romanize name as:  
+ 
+Yungulaoren 
+ 
+Heading established as:  
+Zhu, Xi, $d 1130-1200 
+ 
+Give reference as:  
+ 
+Yungulaoren, $d 1130-1200 
+ 
+ 
+孔子  
+ 
+ 
+ 
+Romanize name as:  
+ 
+Kongzi 
+ 
+Heading established as:  
+Confucius 
+ 
+Give reference as:  
+ 
+Kongzi 
+ 
+ 
+老子  
+ 
+ 
+ 
+Romanize name as:  
+ 
+Laozi 
+ 
+Heading established as:   
+Laozi 
+ 
+ 
+浩然  
+ 
+  
+ 
+Romanize name as:  
+ 
+Haoran 
+ 
+Heading established as:   
+Haoran, $d 1932- 
+ 
+1B. Married women.  Separate and capitalize family names.  Connect the syllables of the 
+forename, and capitalize only the first letter. 
+ 
+ 
+蔣宋美齡 
+ 
+ 
+ 
+Romanize name as:  
+ 
+Jiang Song Meiling 
+ 
+Heading established as:   
+Jiang Song, Meiling, $d 1897- 
+ 
+ 
+陳趙月英 
+ 
+ 
+ 
+Romanize name as:  
+ 
+Chen Zhao Yueying 
+ 
+Heading established as:   
+Chen Zhao, Yueying, $d 1914- 
+ 
+1C. Fictional characters.  The names of fictional characters are romanized in the same manner as 
+those of real people. 
+ 
+ 
+骆驼祥子 
+ 
+Luotuo Xiangzi 
+ 
+秦可卿  
+Qin Keqing 
+ 
+1D. Names of persons of religious vocation.  Separate a term of address from a family name or 
+forename.  Syllables of a term of address should be written separately and in lower case. 
+ In a heading or reference, the term of address should appear in the $c subfield, 
+following the surname or forename.  See AACR2 rule 22.16D for instructions on 
+headings for persons of religious vocation. 
+ 
+ 
+惠能  
+ 
+ 
+ 
+Romanize name as:  
+ 
+Huineng 
+ 
+Heading established as:   
+Huineng, $d 638-713 
+ 
+ 
+釋吉藏  
+ 
+ 
+Romanize name as:  
+ 
+shi Jizang 
+ 
+Heading established as:   
+Jizang, $d 549-623 
+ 
+Give references as:  
+ 
+Jizang, $c shi, $d 549-623 
+ 
+ 
+ 
+ 
+Jizang shi, $d 549-623 
+ 
+ 
+ 
+ 
+Shi Jizang, $d 549-623 
+ 
+ 
+智顗大師 
+ 
+ 
+ 
+Romanize name as:  
+ 
+Zhiyi da shi 
+ 
+Heading established as:   
+Zhiyi, $d 538-597 
+ 
+Give references as:  
+ 
+Zhiyi, $c da shi, $d 538-597 
+ 
+ 
+ 
+ 
+Zhiyi da shi, $d 538-597 
+ 
+ 
+沙門元賢 
+ 
+ 
+ 
+Romanize name as:  
+ 
+sha men Yuanxian  
+ 
+Heading established as:   
+Yuanxian, $c shi 
+ 
+Give reference as: 
+ 
+Yuanxian, $c sha men 
+ 
+ 
+ 
+Sha men Yuanxian 
+ 
+ 
+ 
+Shi Yuanxian 
+ 
+1E. 
+Personal names appearing as part of the names of corporate bodies and meetings are 
+romanized in the same manner as all other personal names.  (See also Section 2J) 
+ 
+ 
+中山大學 
+ 
+Zhongshan da xue 
+ 
+《刘少奇研究论文集》编辑组 “Liu Shaoqi yan jiu lun wen ji” bian ji zu 
+ 
+周恩来研究学术讨论会 
+Zhou Enlai yan jiu xue shu tao lun hui 
+ 
+2. Join together (without spaces or hyphens) the syllables associated with multi-character 
+geographic names.  Do not join the names of jurisdictions and topographical features to 
+geographic names, but separate them from the proper name by a space. 
+ 
+ 
+中华人民共和国史稿  
+Zhonghua Renmin Gongheguo shi gao 
+ 
+臺灣省立博物館 
+ 
+Taiwan sheng li bo wu guan 
+ 
+西藏自治区文物管理委员会  
+Xizang Zizhiqu wen wu guan li wei yuan  
+ 
+ 
+ 
+ 
+ 
+hui 
+ 
+东北林学院 
+ 
+Dongbei lin xue yuan 
+ 
+扬子江  
+Yangzi Jiang 
+            广州市 
+Guangzhou Shi 
+            安徽省 
+Anhui Sheng 
+ 
+商丘地区 
+ 
+Shangqiu Diqu 
+ 
+鹿港镇  
+Lugang Zhen 
+            纽约市 
+Niuyue Shi 
+            甘南藏族自治州 
+ 
+Gannan Zangzu Zizhizhou 
+ 
+翠亨村  
+Cuiheng Cun 
+ 
+浦棠乡 
+Putang Xiang 
+ 
+海南岛  
+Hainan Dao 
+ 
+2A. Names of countries.  Connect syllables according to the practice followed by the U.S. Board 
+on Geographic Names on GEOnet (GNS). 
+ 
+ 
+中华人民共和国  
+ 
+Zhonghua Renmin Gongheguo 
+ 
+朝鲜民主主义人民共和国 
+Chaoxian Minzhu Zhuyi Renmin Gongheguo 
+ 
+中華民國  
+ 
+Zhonghua Minguo 
+ 
+民国档案与民国史学术讨论会论文集 
+ 
+Minguo dang an yu Minguo shi xue shu tao lun hui lun 
+wen ji 
+ 
+ 
+俄国戏剧史概要 
+ 
+Eguo xi ju shi gai yao 
+ 
+ 
+美国 
+ 
+Meiguo 
+ 
+ 
+日本国 
+ 
+Ribenguo 
+ 
+ 
+朝鲜国 
+ 
+Chaoxianguo 
+ 
+2B. Generic terms for geographical features are capitalized and separated from the names of the 
+features. 
+ 
+ 
+NOTE: PROPOSED CHANGE: add three sentences; the highlighted examples have been 
+changed to conform: 
+ 
+ 
+The syllables of the name of a jurisdiction or geographic feature that are included within 
+another place name are connected together.  These practices are also followed when 
+geographic names appear within corporate names.  In case of doubt, separate. 
+ 
+   
+Because the conversion programs connected hyphenated Wade-Giles syllables together 
+when converting them to pinyin, the romanized forms of many geographical features 
+were converted into forms that to not follow the new pinyin romanization guidelines.  
+For example, Huang-ho (Yellow River in Wade-Giles) was converted by the program 
+to Huanghe.  This romanized form must now be manually changed to the correct 
+pinyin form, Huang He.  Locating romanized strings for geographical features that 
+now need to be corrected may be time-consuming and difficult.*   Refer to GEOnet 
+(GNS) to identify generic terms for place names, or do so using one’s knowledge of the 
+Chinese language.  Place names should be systematically romanized in descriptive 
+strings.  Please note:  place names that are included within other place names may be 
+romanized differently than when they stand alone.   For example, the name of the river
+长江is romanized Chang Jiang, but the name of the Mouth of the river 长江口is 
+romanized Changjiang Kou.   Also, please note that the form of name found in 
+headings may vary from the systematically romanized form. 
+ 
+ 
+海南岛 
+Hainan Dao (Hainan Island) 
+ 
+太平洋 
+Taiping Yang (Pacific Ocean) 
+ 
+渤海   
+ 
+Bo Hai (not Bohai) (Bo Sea) 
+ 
+ 
+ 
+ 
+BGN: Bo Hai; established as: Bo Hai (China) 
+ 
+ 
+But 
+ 
+渤海湾 
+Bohai Wan (Bohai Bay) 
+ 
+ 
+ 
+ 
+ 
+BGN: Bohai Wan 
+ 
+ 
+洞庭湖  
+ 
+Dongting Hu (Dongting Lake) 
+ 
+西湖   
+ 
+Xi Hu (West Lake) 
+ 
+天池  
+ 
+Tian Chi (Tian Lake) 
+ 
+滇池  
+ 
+Dian Chi (Dian Lake) 
+ 
+ 
+长江  
+ 
+Chang Jiang (Yangtze River) 
+ 
+长江口 
+Changjiang Kou (Mouth of the Yangtze) 
+ 
+长江三角洲  
+ 
+Changjiang Sanjiaozhou 
+ BGN: Changjiang Sanjiaozhou; established 
+as: Yangtze River Delta (China) 
+ 
+长江大饭店 
+ 
+Chang Jiang da fan dian (Yangtze Restaurant) 
+ 
+长江三峡 
+ 
+Chang Jiang San Xia (Three Gorges of the Yangtze 
+River) 
+ 
+珠江  
+ 
+Zhu Jiang (Pearl River) 
+ 
+珠江口 
+Zhujiang Kou 
+ BGN: Zhujiang Kou; established as: Pearl 
+River Estuary (China) 
+ 
+珠江口盆地 
+ 
+Zhujiangkou Pendi (Pearl River Estuary Plain) 
+ 
+珠江三角洲  
+ 
+Zhujiang Sanjioazhou (Pearl River Delta) 
+ 
+汾河  
+ 
+Fen He (Fen River) 
+ 
+黄河三角洲自然保护区  
+Huanghe Sanjiaozhou Ziran Baohuqu (Yellow River 
+Delta Natural Preserve) 
+ 
+ 
+大运河 
+Da Yunhe (Grand Canal) 
+ 
+苏伊士运河 
+ 
+Suyishi Yunhe (Suez Canal) 
+ 
+京杭运河 
+ 
+Jing Hang Yunhe (Peking-Hangzhou Canal) 
+ 
+ 
+莫力庙水库 
+ 
+Molimiao Shuiku (Molimiao Reservoir) 
+ 
+翡翠水库 
+ 
+Feicui Shuiku (Feicui Reservoir) 
+ 
+汾河水库 
+ 
+Fenhe Shuiku (Fen River Canal) 
+ 
+ 
+ 
+ 
+BGN: Fenhe Shuiku; established as: Fen River 
+Reservoir (China) 
+ 
+ 
+But: 
+ 
+黄河小浪底水库  
+ 
+Huang He Xiaolangdi Shuiku (literally, Xiaolangdi 
+Reservoir of the Yellow River; but Huang He is not part 
+of the name of the reservoir; BGN: Xiaolangdi Shuiku; 
+subject heading established as: Xiaolangdi Reservir 
+(China), see sh99014157) 
+ 
+ 
+梵净山 
+Fanjing Shan (Fanjing Mountain) 
+ 
+ 
+梵净山自然保护区 
+ 
+Fanjingshan Ziran Baohuqu (Fanjing Mountain 
+Natural Preserve) 
+ 
+金山  
+ 
+Jin Shan (Jiangsu) (Jin Mountain) * 
+ 
+恒山  
+ 
+Heng Shan (Shanxi) (Heng Mountain) 
+ 
+黄山  
+ 
+Huang Shan (Huang Mountain)* 
+ 
+ 
+But 
+ 
+黄山市 
+Huangshan Shi (Huangshan City) 
+ 
+ 
+黄土高原 
+ 
+Huangtu Gaoyuan 
+ BGN: Huangtu Gaoyuan; established as: Loess 
+Plateau (China) 
+ 
+青藏高原 
+ 
+Qing Zang Gaoyuan (not Qingzang Gaoyuan) (literally, 
+the Qinghai-Tibet Plateau) 
+ 
+ 
+ 
+ 
+BGN: Qing Zang Gaoyuan; established as: 
+Tibet, Plateau of (China) 
+ 
+藏北高原 
+ 
+Zangbei Gaoyuan (North Tibet Plain) 
+ 
+ 
+松辽 盆地 
+ 
+Song Liao Pendi (not Songliao Pendi) (Song-Liao 
+Basin) 
+ 
+辽河 盆地 
+ 
+Liaohe Pendi (not Liao He Pendi) (Liao River Basin) 
+ 
+鄂尔多斯盆地 
+ 
+E’erdousi Pendi  
+ BGN: Ordos Desert; established as: Ordos 
+Desert (China) 
+ 
+柴达木盆地 
+ 
+Chaidamu Pendi (Chaidamu Basin) 
+ 
+塔里木盆地 
+ 
+Talimu Pendi  
+ BGN: Tarim Pendi; established as: Tarim 
+Basin (China) 
+ 
+金衢盆地  
+ 
+Jin Qu Pendi (not Jinqu Pendi) (Jin-Qu Basin) 
+ 
+东濮凹陷 
+ 
+Dongpu Aoxian (Dongpu Basin) 
+ 
+ 
+But  
+ 
+冀中坳陷 
+ 
+Ji zhong ao xian (the basin in Central Ji) 
+ 
+西部坳陷 
+ 
+xi bu ao xian (the basin in the west) 
+ 
+ 
+科尔沁沙地 
+ 
+Keerqin Shadi 
+ BGN: Horqin Shadi; established as: Horqin 
+Desert (China) 
+ 
+腾格里沙漠 
+ 
+Tenggeli Shamo 
+ BGN: Tengger Shamo; established as: Tengger 
+Desert (China) 
+ 
+塔克拉玛干沙漠 
+ 
+Takelamagan Shamo 
+ BGN: Taklimakan Shamo; established as: 
+Takla Makan Desert (China) 
+ 
+黄淮平原  
+ 
+Huanghuai Pingyuan (not Huang Huai Pingyuan) 
+ 
+ 
+ 
+ 
+BGN: Huanghuai Pingyuan; established as: 
+North China Plain (China) 
+ 
+黄淮海平原 
+ 
+Huang Huai Hai Pingyuan (not Huanghuaihai Pingyuan) 
+(North China Plain) 
+ 
+华北平原 
+ 
+Huabei Pingyuan (North China Plain) 
+ 
+ 
+辽河油田  
+ 
+Liaohe Youtian (Liao River Oil Field) 
+ 
+华北油田  
+ 
+Huabei Youtian (North China Oil Field) 
+ 
+ 
+印度半島 
+ 
+Yindu Bandao (Indian Subcontinent) 
+ 
+* Decisions about romanization should not be made without first determining, insofar as 
+possible, the meaning of a romanized string.  To do this for a roman-only record, one must try to 
+figure out what characters a romanized string represents, and then what those characters mean.  
+The presence of corresponding characters in 880 fields usually helps one determine meaning.  
+However, the same character or characters may have different meanings on different records.    
+For example, 
+ 
+Characters in title / romanization  
+refers to 
+ 
+1. 金山民间传说 
+ 
+ 
+Mountain – see 500: Cover title also in 
+English: The folklores of Mount Jinshan. 
+Jin Shan min jian chuan shuo 
+ 
+2. 前进啊，金山工程 ！ 
+ 
+ 
+County near Shanghai – see 650: Engineering 
+$z China $z Shanghai. 
+Qian jin a, Jinshan gong cheng! 
+ 
+3. 金山县志 
+ 
+ 
+ 
+County 
+Jinshan Xian zhi 
+ 
+4. 上海市金山县志  
+ 
+ 
+County 
+Shanghai Shi Jinshan Xian zhi 
+ 
+5. 從金山看世界 
+ 
+ 
+San Francisco – see 650: Television 
+broadcasting of news $z California $z San 
+Francisco. 
+ 
+Cong Jinshan kan shi jie 
+ 
+6. 张闻天晋陕调查文集   
+ 
+ 
+Shanxi and Shaanxi 
+ 
+Zhang Wentian Jin Shan diao cha wen ji 
+ 
+7. 金山农民画歌谣集 
+ 
+ 
+County – see 650: Drawing, Chinese $z China 
+$z Jinshan Xian. 
+Jinshan nong min hua, ge yao ji 
+ 
+8. 金山掌故 
+ 
+ 
+ 
+San Francisco – see 651: San Francisco (Calif.) 
+$x History $v Anecdotes. 
+Jinshan zhang gu 
+ 
+9. 金山志 
+ 
+ 
+ 
+Mountain – see 651: Jin Mountain (Jiangsu 
+Sheng, China) $v Literary collections. 
+Jin Shan zhi 
+ 
+10. 百战将星王近山 
+ 
+ 
+Personal name  
+ 
+Bai zhan jiang xing Wang Jinshan 
+ 
+11. (no characters on LC record)  
+ 
+prefer San Francisco – see 650: Chinese Poetry 
+$z California $z San Francisco – rather than 
+245: Gold Mountain. 
+ 
+ 
+Jinshan ge ji 
+ 
+12. (no characters on LC record)  
+ 
+Mountain – see 651: Jin Mountain (Jiangsu 
+Sheng, China) 
+Jin Shan zhi 
+ 
+ 
+In some instances, however, the information on the bibliographic record does not provide us 
+with enough information to decide.  One must refer to the item itself to determine what the 
+characters mean, and then romanize accordingly.  For example, 
+ 
+Characters in title / romanization  
+refers to 
+ 
+13. 金山龍逰禪寺志略 
+ 
+ 
+Mountain (referred to the book)  
+ 
+Jin Shan Long you chan si zhi lüe 
+ 
+14. 金山得寶集 
+ 
+ 
+San Francisco (referred to the book, which is a  
+ 
+ 
+ 
+ 
+ 
+memoir about growing up in the Bay Area) 
+Jinshan de bao ji 
+ 
+15. (no characters) 
+ 
+ 
+Refer to a record with non-roman script in a 
+utility’s shared database: 千军万马战金山; 
+because the 610 is: Shanghai Shi you hua gong 
+zong chang, it probably refers to the county 
+Qian jun wan ma zhan Jinshan 
+ 
+16. 金山錢氏家刊書目  
+ 
+ 
+Most likely San Francisco; one should refer to 
+the book 
+Jinshan Qian shi jia kan shu mu 
+ 
+17. 金山电脑公司传 
+ 
+ 
+Part of the name of a firm; does it name Jin 
+Mountain, or Jin County, or the name of a 
+person? One can’t be sure, and must refer to the 
+book 
+ 
+ 
+*** *** 
+*** 
+*** 
+*** *** 
+*** 
+*** 
+*** 
+*** 
+ 
+2C. Two-syllable place names, in which the second syllable is a generic term.  Separate and 
+capitalize the generic term for the jurisdiction. Refer to GEOnet (GNS) to identify generic 
+terms for place names, or do so using one’s knowledge of the Chinese language. 
+ 
+ 
+吳縣  
+ 
+Wu Xian 
+ 
+祁縣  
+ 
+Qi Xian 
+ 
+2D. Place names consisting of more than two syllables.  Separate and capitalize a generic term 
+for the jurisdiction. Refer to GEOnet (GNS) to identify generic terms for place names, 
+or do so using one’s knowledge of the Chinese language. 
+ 
+ 
+安徽省  
+Anhui Sheng 
+ 
+广州市 
+Guangzhou Shi 
+ 
+高雄市 
+Gaoxiong Shi 
+ 
+宝山区 
+Baoshan Qu 
+ 
+鹿港镇 
+Lugang Zhen 
+ 
+翠亨村 
+Cuiheng Cun 
+ 
+商丘地区 
+ 
+Shangqiu Diqu 
+ 
+甘南藏族自治州 
+ 
+Gannan Zangzu Zizhizhou 
+ 
+2E. Obsolete terms for administrative units are romanized in the same manner as the names of 
+contemporary places. 
+ 
+ 
+福寧州 
+Funing Zhou 
+ 
+昌平州 
+Changping Zhou 
+ 
+ 
+錦州府 
+Jinzhou Fu 
+ 
+安順府  
+Anshun Fu 
+ 
+2F. Names of non-Chinese jurisdictions are romanized in the same manner as the names of 
+Chinese jurisdictions. 
+ 
+ 
+加州  
+ 
+Jia Zhou 
+ 
+紐約市 
+Niuyue Shi 
+ 
+亞洲   
+ 
+Ya Zhou 
+ 
+東南亞 
+Dong nan Ya  
+ 
+2G. Terms for archaeological sites, bridges, and other constructions of geographic extent extent 
+are capitalized and separated from the names themselves.  Individual syllables of multi-
+syllable generic terms are connected together.   
+ 
+ 
+NOTE: PROPOSED CHANGE:  change the second sentence; the highlighted examples 
+have been changed to conform. 
+ 
+ 
+Individual syllables of multi-syllable generic terms are connected together, as are the 
+syllables of the names of a jurisdiction or geographic feature that are included within the 
+term. 
+ 
+ 
+Refer to GEOnet (GNS) to identify generic terms for place names, or do so using one’s 
+knowledge of the Chinese language.  Place names should be systematically romanized 
+in descriptive strings.  Please note that the romanization in headings may vary from 
+systematic form.  For example, 黄壁庄水库is systematically romanized as Huangbi 
+Zhuang Shuiku, but the subject heading has been established as Huangbizhuang Dam 
+(China), based on the form Huangbizhuang Shuiku, which is recommended by 
+GEOnet. 
+ 
+ 
+泸州长江大桥 
+ 
+Luzhou Changjiang Daqiao 
+ 
+黄壁庄水库 
+ 
+Huangbizhuang Shuiku 
+ 
+京杭运河 
+ 
+Jing Hang Yunhe 
+ 
+2H. Names of buildings and other constructions of less than geographic extent.  Syllables are 
+separated and not capitalized, except for proper nouns. 
+ 
+ 
+黄鶴楼 
+Huang he lou 
+ 
+聖果寺  
+Sheng guo si 
+ 
+2I. Names of continents and regions. Generic terms are separated and capitalized in the names 
+of continents and regions.  Distinguish when a term refers to a region, and when it refers to 
+direction or position. 
+ 
+ 
+亞洲  
+ 
+Ya Zhou 
+ 
+東南亞 
+Dong nan Ya 
+ 
+北美洲 
+Bei Mei Zhou 
+ 
+東北  
+ 
+dong bei (when referring to direction or position) 
+ 
+ 
+ 
+But: 
+  
+東北  
+ 
+Dongbei (when referring to the particular area formerly 
+known as Manchuria) 
+ 
+2J. Personal names appearing as part of geographic names are romanized in the same manner as 
+all other personal names. 
+ 
+NOTE: PROPOSED CHANGE:  change Section 2J to read as follows; change the 
+example, and add two others: 
+ 
+The syllables of personal names that appear within geographic names are connected 
+together.  The generic term for the jurisdiction or geographic feature is separated.  
+This rule is an exception to Section 1E. 
+ 
+ 
+ 
+张自忠路 
+ 
+Zhangzizhong Lu 
+ 
+左权县 
+ 
+Zuoquan Xian 
+ 
+鲁迅公园 
+ 
+Luxun Gongyuan 
+ 
+3. Join together transliterations of two or more characters comprising the names of racial, 
+linguistic, or tribal groupings of mankind.  Join the term zu (for tribe or people) to a name 
+only in proper names of places. 
+ 
+            基督徒 
+Jidu tu 
+            桐城派 
+Tongcheng pai 
+            毛南族 
+Maonan zu 
+            美国人 
+Meiguo ren 
+            客家话 
+Kejia hua 
+ 
+苗族风情录 
+ 
+Miao zu feng qing lu 
+ 
+ 
+ 
+But: 
+ 
+德宏傣族景颇族自治州 
+Dehong Daizu Jingpozu Zizhizhou 
+ 
+4. Add an apostrophe before joined syllables that begin with a vowel in cases of ambiguity.  
+For example: 
+ 
+      
+長安市 
+Chang’an Shi to distinguish it from Changan Shi 
+ 
+延安市 
+Yan’an Shi to distinguish it from Yanan Shi 
+       
+      
+张章昂 
+Zhang Zhang’ang to distinguish it from   
+ 
+张占钢 
+Zhang Zhangang 
+ 
+ 
+劉正安 
+Liu Zheng’an to distinguish it from 
+ 
+刘镇干 
+Liu Zhengan 
+ 
+ 
+王健安 
+Wang Jian’an to distinguish it from 
+ 
+王佳南 
+Wang Jianan 
+ 
+ 
+ 
+But: 
+ 
+雲谷老人 
+ 
+Yungulaoren (not Yun’gulaoren) 
+ 
+ 
+ 

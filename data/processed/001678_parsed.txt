@@ -1,0 +1,296 @@
+ 
+DEPARTMENT OF VETERANS AFFAIRS 
+Veterans Health Administration 
+Washington DC  20420 
+ 
+ 
+ 
+IL 10-2006-008 
+ 
+In Reply Refer To:  10NB 
+June 29, 2006 
+ 
+ 
+UNDER SECRETARY FOR HEALTH’S INFORMATION LETTER 
+ 
+MICROBIOLOGICAL ASSESSMENT OF PHARMACEUTICAL CLEANROOMS 
+ 
+1.   This VHA Information Letter provides recommendations for microbiological assessment of 
+pharmacy cleanrooms and the testing of biocabinet or isolator interiors.   
+ 
+ 
+a.  United States Pharmacopeia (USP), Chapter 797, “Pharmaceutical Compounding, Sterile 
+Preparations,” specifies the monitoring of microbiological concentrations on surfaces and air for 
+sterile pharmaceutical compounding.   
+ 
+ 
+b.  USP, Chapter 1116, “Microbiological Evaluation of Cleanrooms and Other Controlled 
+Environments,” provides additional guidance.   
+ 
+ 
+c.  The Food and Drug Administration (FDA) provides regulatory requirements and 
+recommendations for the drug manufacturing industry.   
+ 
+ 
+d.  The American Conference of Governmental Industrial Hygienists (ACGIH) specifies 
+practices for accurate monitoring of indoor airborne microbial concentrations.   
+ 
+ 
+e.  The International Organization for Standardization (ISO) 14644 requires acceptable 
+airborne particulate concentrations and assessment for pharmaceutical cleanrooms. 
+ 
+2.  USP 797 specifies a written plan and schedule for microbiological monitoring procedures in 
+pharmaceutical cleanrooms.  Monitoring locations are selected to test the areas most prone to 
+contamination during compounding.  Typically, this would include area sampling in the 
+proximity of Class II biocabinets or barrier isolators (ISO Class 5 containment).  The plan needs 
+to specify sampling for the controlled environments of the pharmacy, including the interior of 
+biocabinets and barrier isolators, compounding rooms (ISO Class 7 buffer areas), and anterooms 
+(ISO Class 8 support areas) located outside the buffer area.  Each sampling site (air, swab, or 
+contact) needs to have predetermined alert and action levels as part of the written plan.  Any 
+sample result exceeding the action level requires immediate corrective action which may include 
+full-scale cleaning, ventilation, or High Efficiency Particulate Air (HEPA) filter assessment and 
+suspension of drug compounding until retesting verifies compliance.     
+IL 10-2006-008 
+June 29, 2006 
+ 
+ 
+2 
+ 
+3.  GUIDANCE 
+ 
+ 
+a.  Collection of Microbiological Samples in Cleanrooms.  Microbiological sampling 
+should be incorporated into the cleanroom commissioning process to verify engineering controls 
+and provide baseline data prior to compounding  activities.  Air sampling should be conducted 
+monthly for low-medium risk compounding and weekly for high-risk compounding.  Cleanroom 
+microflora will originate from staff, supplies and product contamination, air backwash through 
+entrances and room filter leakage.  Air samples should be collected following any required 
+cleanroom air purge time that has been established by the pharmacy unit.  The air purge time 
+ensures the necessary number of air changes have been completed to reduce airborne 
+contaminants prior to starting compounding activities.  Electric pump air sampling (active air 
+sampling) may be conducted using slit, sieve or centrifugal impact samplers.  Samples are 
+collected on nutrient media and incubated to promote microbial growth.  The plate colonies are 
+counted and reported as the number of colony forming units per cubic meter of air (cfu/M3).  The 
+use of settling plates (open plates exposed for >1 hour) is suggested by USP 797.  Settling plates 
+have a higher error rate due to the uncontrolled sampling method and susceptibility to indoor air 
+currents.  USP recommends that settling plates only be used during sampling with electric pump 
+samplers to allow for the comparison of data.  The ACGIH documents high variability in 
+airborne microbiological assessment data.  Data variability is affected by media selection and 
+storage, plate handling (temperature extremes during shipping to culture labs), incubation 
+temperature and species viability.  Species competition on the plate also affects total plate count.   
+ 
+ 
+b.  Culture Plate Media and Incubation.  USP recommends plate media and incubations 
+times for general culture.  Sampling should be conducted using non-selective malt extract agar or 
+trypticase soy agar (TSA).  Malt extract can be used for fungi culture with incubation at 20-25°C 
+for up to 7 days.  USP 797 recommends TSA media incubated at 30-35 °C for 48 hours (bacteria, 
+yeast and mold).  USP 1116 recommends incubation temperatures of 22.5°C (± 2.5°C) or 32.5°C 
+(±2.5 °C) for  48-72 hours.  More importantly, the plate media, incubation temperature and 
+sample time should be consistent to ensure appropriate comparison of data.  The decision to 
+change culture media should be phased-in gradually and include side-by-side plate sampling for 
+data comparison.  Media may also be selected to assess specific microbiological species (i.e., 
+gram-negative or positive bacteria).    
+ 
+ 
+c.  Airborne Microbiological Concentrations.  Current USP 797 does not recommend 
+specific airborne microbiological concentration limits for cleanrooms.   
+ 
+ 
+(1)  The standard specifies the collection of microbial data and recommends corrective action 
+when colony counts exceed the baseline by 50 percent (medium to high-risk compounding) and 
+100 percent (low-risk compounding).  
+ 
+ 
+(2)  Alternatively, Hussong and Madsen provide an analysis of baseline deviation specific to 
+cleanroom operations.  The data trend is used to establish upper and lower confidence limits for 
+cleanroom colony counts (see subpar. 4c).  The FDA provides comparison between ISO class 7 
+and 8 environments and microbiological action levels using active air sampling and settling 
+plates (see Table 1 and subpar. 4d).  
+IL 10-2006-008 
+June 29, 2006 
+ 
+ 
+3 
+ 
+ 
+(3)   Kastango recommends less than (<) 2.5 colony forming units (cfu) per cubic foot (ft3) 
+airborne bioburden for cleanrooms and anterooms and <0.1 cfu/ft3  for ISO Class 5 biocabinets 
+and isolators (see subpar. 4f).   
+ 
+Table 1 – FDA Recommended Action Levels 
+ 
+ISO   
+Class 
+Particles per 
+cubic meter 
+(M3)(more 
+than (>) 0.5 
+micron (µm)) 
+Air Sampling Action Level: 
+cfu/M3 (cfu/ft3 ) 
+Settling Plate Action Level: 
+cfu at 4 hours 
+    5 
+       3,520 
+            1    (0.028) 
+                1 
+    6 
+      35,200 
+            7    (0.2) 
+                3 
+    7 
+      352,000 
+           10   (0.28) 
+                5   
+    8 
+    3,520,000 
+          100  (2.83) 
+               50  
+ 
+ 
+d.  Sampling Strategy for Cleanrooms.  Sampling sites need to be selected in high-traffic 
+areas where the potential exists for product contamination and to verify levels at compounding 
+work areas.   
+ 
+ 
+(1)  Air samples need to be collected within 12 inches of all Class 5 containment work zones 
+(12 inches outside the cabinet face), all cleanroom entrances, and the anteroom.  NOTE:  
+Specific guidance on sampling locations is provided in Chapter 18, ASHP, Compounding Sterile 
+Preparations (see subpar. 4f).  A minimum of one media plate or 20 percent of the total plates 
+needs to be incubated as a control (non-exposed blank) for each assessment to check media 
+contamination.   
+ 
+ 
+(2)  Table 2 provides the recommended air sample volumes for estimated airborne 
+microbiological concentrations.  An air sample volume of 990 liters of air would meet the 
+ACGIH recommended lower detection level(LDL=10 cfu/plate) and upper detection limits 
+(UDL=1 cfu/ square centimeter (cm2) of plate) for a ISO Class 7 room with 1-10 cfu/M3.   
+ 
+Table 2  Air Sample Volumes to meet ACGIH Recommended Detection Limits 
+NOTE:  Based on 28 liters per minute air sampling rate; 78 cm2 culture plate. 
+ 
+Sample 
+Time 
+(minutes) 
+Sample 
+Volume 
+(liters) 
+LDL = 10 cfu/plate 
+UDL = 1 cfu/cm2 of plate 
+        15 
+      420 
+           15 cfu/M3
+               130 cfu/M3
+        20 
+      560 
+            8 cfu/M3
+                65 cfu/M3
+        25 
+      700 
+            4 cfu/M3
+                33 cfu/M3
+        30 
+      840 
+            2 cfu/M3
+                17 cfu/M3
+        35 
+      990 
+            1 cfu/M3  
+                  9 cfu/M3  
+IL 10-2006-008 
+June 29, 2006 
+ 
+ 
+4 
+        40 
+     1130 
+          <1 cfu/M3  
+                  5 cfu/M3  
+ 
+ 
+e.  Identification of Microbiological Species.  Most laboratory services will provide Genus 
+identification with total plate colony count.  In certain applications it may be beneficial to 
+determine whether the bacteria is gram positive or negative, or a full identification to species 
+level of the organism may be required.  Species identification may be appropriate during 
+cleanroom commissioning for comparison to an action level event.  Identification to species can 
+assist in determining the source of contamination and corrective actions.  Additionally, air 
+sampling can be conducted in adjacent hallways or outdoor air to assess anterooms, or HEPA 
+filter bypass.   
+ 
+ 
+f.  ISO Class 5 Microbiological Containment Testing.  The interior of ISO Class 5 
+(biocabinets and isolators) need to be monitored for microbiological air quality at a minimum of 
+once a month, or weekly for high-risk compounding.  Sampling may be conducted using media 
+filled plates or commercial media fills.  At least two plate samples need to be collected at 
+opposite ends of the cabinet, 6 inches from the interior wall.  Settling plates or active air 
+sampling can be used for the assessment.  Settling plates should be exposed for the entire 
+compounding procedure (1-3 hours) and are an acceptable alternative due to the laminar 
+downflow within the cabinet.   
+ 
+ 
+(1)  It is also recommended that finger touch plates be conducted monthly.  This procedure 
+requires the technician to contact a media plate during compounding with the gloved fingertips.   
+ 
+ 
+(2)  Swabbing of interior cabinet surfaces also need to be conducted using pre-filled media 
+tubes with a swab insert or a commercial media fill (Rodac plates).   
+ 
+ 
+(3)  Media fills need to contain a neutralizing agent (i.e., polysorbate 80) to inactivate 
+residual cleaning and disinfection solutions.   
+ 
+ 
+(4)  Following incubation, colonies need to be counted and reported as cfus.  Samples from 
+ISO Class 5 environments normally yield no microbiological colonies.   
+ 
+4.  REFERENCES 
+ 
+ 
+a.  United States Pharmacopeia, USP29-NF24, Chapter 797, Pharmaceutical Compounding-
+Sterile Preparations.  http://www.usp797.org/index.html
+ 
+ 
+b.  United States Pharmacopeia, USP29-NF24, Chapter 1116, Microbiological Evaluation of 
+Cleanrooms and Other Controlled Environments.  
+ 
+ 
+c.  Hussong and Madsen, Analysis of Environmental Microbiological Data from Cleanroom 
+Samples, Pharmaceutical Technology, Aseptic Processing 2004.  
+http://vaww.ceosh.med.va.gov/PharmacySafety/Final%20-%20Env%20Monitoring.pdf
+ 
+ 
+d.  FDA, Sterile Drug Products Produced by Aseptic Processing – Current Good 
+Manufacturing Practices.   http://www.fda.gov/cder/guidance/5882fnl.pdf
+IL 10-2006-008 
+June 29, 2006 
+ 
+ 
+5 
+ 
+ 
+e.  American Conference of Governmental Industrial Hygienists, Guidelines for the 
+Assessment of Bioaerosols in the Indoor Environment, 1989.
+ 
+ 
+f.  American Society of Health-System Pharmacists, Compounding Sterile Preparations(2nd 
+edition), Chapter 18: Environmental Monitoring, 2005.    
+ 
+5.  Inquiries.  Questions regarding this information letter may be addressed to Network Program 
+Support (10NB) at (202) 273-5870. 
+ 
+ 
+ 
+ 
+ 
+ 
+Jonathan B. Perlin, MD, PhD, MSHA, FACP 
+ 
+Under Secretary for Health 
+ 
+DISTRIBUTION: CO: 
+E-mailed 6/30/06 
+ 
+FLD: 
+VISN, MA, DO, OC, OCRO, and 200 – E-mailed 6/30/06 
+ 
+ 

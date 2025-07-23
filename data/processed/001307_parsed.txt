@@ -1,0 +1,699 @@
+ARM TR-048 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Carbon Dioxide Flux Measurement Systems 
+(CO2FLX) Handbook 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 2004 
+ 
+ 
+ 
+ 
+ 
+ 
+M.L. Fischer 
+ 
+ 
+ 
+ 
+ 
+Work supported by the U.S. Department of Energy, 
+Office of Science, Office of Biological and Environmental Research 
+ 
+January 2005, ARM TR-048 
+Contents 
+ 
+1. 
+General Overview ...............................................................................................................................1 
+2. 
+Contacts...............................................................................................................................................1 
+3. 
+Deployment Locations and History.....................................................................................................2 
+4. 
+Near-Real-Time Data Plots.................................................................................................................2 
+5. 
+Data Description and Examples..........................................................................................................2 
+6. 
+Data Quality ........................................................................................................................................6 
+7. 
+Instrument Details ...............................................................................................................................8 
+ 
+ 
+Tables 
+ 
+Table 1. .........................................................................................................................................................5 
+Table 2. .........................................................................................................................................................9 
+ 
+ 
+ 
+ 
+iii 
+January 2005, ARM TR-048 
+1. General Overview 
+ 
+The Southern Great Plains (SGP) carbon dioxide flux (CO2 flux) measurement systems provide half-hour 
+average fluxes of CO2, H2O (latent heat), and sensible heat.  The fluxes are obtained by the eddy 
+covariance technique, which computes the flux as the mean product of the vertical wind component with 
+CO2 and H2O densities, or estimated virtual temperature.  A three-dimensional sonic anemometer is used 
+to obtain the orthogonal wind components and the virtual (sonic) temperature.  An infrared gas analyzer is 
+used to obtain the CO2 and H2O densities.  A separate sub-system also collects half-hour average measures  
+of meteorological and soil variables from separate 4-m towers. 
+ 
+2. Contacts 
+ 
+2.1 Mentor 
+ 
+Marc L. Fischer, Staff Scientist 
+Atmospheric Sciences Department 
+Environmental Energy Technologies Division 
+Mail Stop 51-208  
+E.O. Lawrence Berkeley National Laboratory 
+1 Cyclotron Rd.  
+Berkeley, CA 94720 
+Phone:  (510) 486-5539 
+Fax:  (510) 486-5298 
+email:  mlfischer@lbl.gov 
+web page:  http://eetd.lbl.gov/env/mlf/
+ 
+2.2 Instrument Developer 
+ 
+David P. Billesbach, Research Professor 
+206 L.W. Chase Hall 
+University of Nebraska 
+Lincoln, NE 68583 
+Phone:  (402) 472-7961  
+email:  dbillesbach1@unl.edu
+ 
+For instrument repair and maintenance:  
+ 
+Gill Solent, UK 
+US Dist. Texas Electronics 
+Phone:  (800) 424-5651 
+Website:  http://www.gill.co.uk/
+ 
+Licor Environmental 
+Lincoln, Nebraska 
+Phone:  (800) 447-3576 
+Website:  http://env.licor.com/
+ 
+1 
+January 2005, ARM TR-048 
+Campbell Scientific 
+Logan, Utah 
+Phone:  (435) 753-2342 
+Website:  http://www.campbellsci.com/
+ 
+3. Deployment Locations and History  
+ 
+The number and location of the sensors on the SGP 60-m tower has changed over time; the following 
+changes have been made: 
+ 
+September 2000.  Initial installation of one system on the southeast boom at 60 m on the Central Facility 
+(CF) tower. 
+ 
+December 2002.  First system removed from southeast boom.  Systems installed on the 25- and 60-m 
+west booms on the CF tower.  Combined eddy covariance system at 4.5-m and supporting 4-m 
+meteorological measurement tower installed near base of 60-m tower. 
+ 
+4. Near-Real-Time Data Plots 
+ 
+See data quicklooks from yesterday at: 
+ 
+ 
+yest60m 
+ 
+yest25m 
+ 
+yest4m 
+ 
+5. Data Description and Examples 
+ 
+5.1 Data File Contents 
+ 
+The data are presented in three levels of processing:  a1, b1, and b1met.  Each level of processing has an 
+accordingly named directory.  For more detailed information on processing, please see Data Processing 
+Algorithms section.  In summary: 
+ 
+Directory ‘a1’:  sgp30p1flxT1.a1.YYYYMMDD.000000.cdf  
+    First level of processing where raw data are converted to physical units, despiked, lag is corrected, 
+statistics are calculated, etc. “YYYYMMDD” denotes year, month, day of the file.  All data are in cdf 
+format. 
+ 
+Directory ‘b1’:  sgp30p1flxT1.b1.YYYYMMDD.000000.cdf 
+    Second level of processing where data are quality checked and corrections applied properly rotated. 
+ 
+Directory ‘b1met’:  sgp30p1flxmetT1.b1.YYYYMMDD.000000.cdf 
+    Third level of processing where other meteorological data are added to the b1 level of processing 
+ 
+ 
+2 
+January 2005, ARM TR-048 
+5.1.1 
+Primary Variables and Expected Uncertainty 
+ 
+The CO2 flux systems measurement systems provide from ½- to 4-hour mean estimates of the fluxes of 
+CO2, H2O (latent heat), and sensible heat from a variable area (footprint) of the land surface upwind of the 
+instrument.  In rough terms, the extent of the footprint, which depends on the mean wind speed and the 
+degree of turbulent mixing in the atmosphere, varies from 5-100 times the height of the sensors above the 
+land surface.  For example, the instrument located at 60 m on the CF tower detect land surface fluxes at 
+distances between approximately 0.3-6 km from the tower depending on meteorological conditions. 
+ 
+The fluxes are computed from the following directly measured data.  The sonic anemometer at 10 Hz CO2 
+meausres orthogonal components of the wind velocity, u, v, and w (m s-1), and sonic temperature (K), 
+which is approximately equal to virtual temperature.  An infrared gas analyzer (IRGA) measures H2O 
+densities (mmol m-3). 
+ 
+5.1.1.1 
+Definition of Uncertainty 
+ 
+Uncertainties in the measurements obtained under well-mixed conditions are typically dominated by 
+random noise from atmospheric turbulence and the instrument.  The most common source of uncertainy at 
+night is caused by imperfect mixing under low turbulence conditions.  A third source of uncertainty is 
+noise caused by airborne material (e.g., rain) that briefly obscures the sound or light path of the sensors. 
+The data processing software is designed to provide diagnostic variables to identify the sources of 
+uncertainty that affect the measurements.  See the description of processing algorithms given below. 
+ 
+Under normal operation, the instrument noise limits to flux measurements are as follows: 
+CO2 flux:  detection limit ~ 0.1 umol/m^2/s, gain uncertainty 1-3% 
+H2O flux:  detection limit ~ 10 W/m^2/s, gain uncertainty 1-3% 
+Sensible heat:  detection limit ~ 10 W/m^2/s, gain uncertainty 1-3% 
+ 
+5.1.2 
+Secondary/Underlying Variables 
+ 
+Secondary variables are provided for assessing the state of the atmosphere including:  friction velocity 
+and Monin-Obukhov scale length; radiatiative balance and surface reflectivity variables including upward 
+and downward shortwave, longwave, and photosynthetically active radiation; and soil variables including 
+soil temperature and moisture.  
+ 
+5.1.3 
+Diagnostic Variables 
+ 
+Additional diagnostic variables include the first four statistical moments and spike counts (see below) of 
+wind velocity, CO2 and H2O vapor densities, and virtual temperature. 
+ 
+ 
+3 
+January 2005, ARM TR-048 
+5.1.4 
+Data Quality Flags 
+ 
+Output files include QC flags as described below: 
+ 
+Raw data Quality Assurance (QA)/QC 
+ 
+Spike count for u,v,w,T, q, c  
+ 
+This is a summary of the QC flags in a1 and b1 files. 
+ 
+******Flags present in _a1_ files: 
+ 
+ 
+ 
+nspk_unrot_u number of samples out of range u 
+ 
+ 
+ 
+ 
+speed > 40m/s 
+ 
+ 
+ 
+deviation from mean > 6*(std dev) 
+ 
+ 
+ 
+nspk_unrot_v number of samples out of range v 
+ 
+ 
+ 
+ 
+speed > 40m/s 
+ 
+ 
+ 
+deviation from mean > 6*(std dev) 
+ 
+ 
+ 
+nspk_unrot_w number of samples out of range w 
+ 
+speed > 40m/s 
+deviation from mean > 6*(std dev) 
+ 
+ 
+ 
+nspk_t number of samples out of range t 
+ 
+ 
+ 
+ 
+deviation from mean > 5*(std dev) 
+ 
+ 
+ 
+nspk_q number of samples out of range q 
+ 
+value > 2000 mmol/m-3 
+value < 0 mmol/m-3 
+deviation from mean > 6*(std dev) 
+ 
+ 
+ 
+nspk_c number of samples out of range c 
+ 
+value > 30 mmol/m-3 
+value < 10 mmol/m-3 
+deviation from mean > 6*(std dev) 
+ 
+Processed Data Checks
+******Flag Scheme in b1 level files: 
+ 
+4 
+January 2005, ARM TR-048 
+ 
+Almost every variable 'x' has a quality control flag named 'qc_x'.  In general, the values of QC flags are as 
+follows: 
+ 
+Table 1. 
+ 
+qc value
+relevant condition
+0 
+value not suspect 
+1 
+value missing 
+2 
+value below minimun or above maximum or 
+value is +-infinity 
+4 
+one or more dependencies failed; see the 
+“dependency” attribute of variable; if a 
+dependency is a spike count, it fails if it is >100, 
+if a dependency is a variable, it fails when the 
+variable’s qc flag is not equal to 0. 
+8 
+value has large variance; see “large variance 
+condition” attribute of variable 
+16 
+value suspect because variable has more than 
+100 spikes; these spikes are counted in a1 level 
+data; see “dependencies” attribute of variable; 
+currently this flag applies to t, q, c. 
+32 
+value suspect because of another condition, see 
+“special condition” attribute of variable. 
+Currently only applies to fc_corr, wc_2d, ustar. 
+ 
+For more specific minimum, maximum, and other values, please see the Data Description File.  
+ 
+5.1.5 
+Dimension Variables 
+ 
+Each variable has dimensions included in the data files. 
+ 
+5.2 Annotated Examples 
+ 
+The variable for CO2 flux is fc_corr (µmol CO2 m-2 s-1).  Typical daytime values are –30 < fc_corr < 10 
+(µmol CO2 m-2 s-1).  The corresponding quality control variable is qc_fc_corr (dimensionless) which 
+normall has a value of zero.  Low turbulence at night is identified as occurring when the mean wind speed 
+is less than 2 m s-1.   
+ 
+5.3 User Notes and Known Problems 
+ 
+The instruments have provided high quality data for a large fraction (>80%) of their operating lifetime.  
+Occassional loss of data has occurred due to loss of power communications or instrument malfunction.  
+Also, the operation of some of the auxiallary sensors (particularly the soil measurement instruments) has 
+been optimized over time.  All data users are strongly urged to review the quality reports describing 
+ 
+5 
+January 2005, ARM TR-048 
+intermittent problems and changes to sensors and the data processing, then refer further questions to the 
+instrument mentor. 
+ 
+5.4 Frequently Asked Questions 
+ 
+Where do I get more information?
+Contact the instrument mentor at mlfischer@lbl.gov. 
+ 
+6. Data Quality 
+ 
+6.1 Data Quality Health and Status 
+ 
+Data quality is evaluated by inspecting Quality Control (QC) flags and variables in processed data. 
+ 
+Data Processing Algorithms
+ 
+The first program processes the raw (a0) data to produce intermediate (a1) data files.  The averaging time 
+for calculations can be varied to produce equipment center (EC) average values for each ½ hour (other 
+averaging times can be requested of 1, 2, and 4 hr).  The calculation is performed as follows: 
+ 
+From a0 to a1: 
+ 
+1. Read in raw data and convert to physical units (u,v,w [m/s], T sonic [C], CO2 and H20 
+[mmol/m-3]). 
+ 
+2. Shift the CO2 and H20 signals back by (2 - 3 samples) to correct for a fixed time lag in the 
+LI-7500 analyzer. 
+ 
+Identify and remove spikes from data using 100-second running mean filter.  Spikes are identified as data 
+points with values more than a set number of standard deviations away from running mean.  Spike data 
+are given value of running mean and are not used to update mean.  Spikes are counted and the mean value 
+of the spikes is calculated.  
+ 
+3. Calculate statistics (mean, variance, skewness, and kurtosis) of each variable and covariances 
+between all signal pairs. 
+ 
+4. Calculate 2-D coordinate rotation to zero mean w and v and apply to vector and covariance 
+quantities. 
+ 
+5. Write out results. 
+ 
+From a1 to b1:  processes intermediate (a1) files to produce estimates of turbulent fluxes with initial QC 
+flags as follows: 
+ 
+1. Compute turbulent fluxes of CO2 and H2O including appropriate Webb-Pearmann-Leuning 
+corrections (Webb et al, 1980) for sensible and latent heat (Webb et al, 1980).   
+ 
+6 
+January 2005, ARM TR-048 
+ 
+2. Inspect and flag data falling outside of acceptable limits based on variance, spike counts, and 
+turbulence conditions u*. 
+ 
+3. Write out results. 
+ 
+From b1 to metb1: 
+ 
+1. For the 4-m systems, merge meteorological data with b1 data file. 
+ 
+Eddy Covariance Calculations 
+ 
+The algorithm that computes the turbulent fluxes (a1tob1) for the data collected at 4 m uses the air 
+temperature, pressure, and relative humidity from meteorological sensors to calculate the density and 
+specific heat.  However, at present, the 25 and 60 m systems use the virtual temperature measured by the 
+anemometer and the H2O density measured by the IRGA to estimate air density and specific heat, 
+assuming a constant pressure of 98 kPa.  This will cause a small errors in cases where pressure or 
+temperature are slightly different from the measured values. 
+ 
+No corrections are made for loss of spectral energy due to sensor separation.  Using the work of 
+Moore (1986), we have estimated these corrections to be in the range of 3-7% for most conditions at 4 m 
+above the crops, but it is unlikely to be significant for the measurements at 25 and 60 m.   
+ 
+The fluxes only reflect turbulent fluxes and do not include corrections for storage of CO2, H2O, or heat in 
+the air between the sensor and the land surface.  Although this is unlikely to be an important correction 
+for the 4-m system, this correction is often significant for the 60-m system.  We are working to 
+incorporate data from a precision gas system to include a storage correction for the 25- and 60-m heights. 
+ 
+Soil Temperature and Moisture 
+ 
+Soil temperature sensors were installed at the following depths:  
+ 
+T1, T4 = 25 cm; T2, T5= 15 cm; T3, T6 = 5 cm 
+ 
+Soil moisture sensors were installed at the following times:  
+ 
+July 2001:  M1, M3, M5, M7 = 15 cm; M2, M4, M6, M8 = 5 cm 
+ 
+December 2002- present:  M1, M3, M5, M7 = 25 cm; M2, M4, M6, M8 = 5 cm 
+ 
+A large temperature sensitivity was observed in the soil moisture sensors exhibit.  This is evident in 
+sensors located in shallow soil with large temperature variations.  This has not been corrected by 
+processing algorithm to date.  This correction will be included in future files.  People interested in 
+performing their own corrections may want to consider using the diurnal soil temperature variations to 
+diurnal variations in moisture signals. 
+ 
+ 
+7 
+January 2005, ARM TR-048 
+6.2 Data Reviews by Instrument Mentor 
+ 
+Visual QC frequency:  daily to weekly  
+ 
+QC delay:  typically 1-2 days 
+ 
+QC type:  -   
+ 
+Instrument mentor Marc Fischer and data processing assistant Igor Pesenson routinely view graphical 
+displays produced at Lawrence Berkeley National Laboratory (LBNL).  The displays include graphs of 
+CO2, H2O, sensible fluxes, mean and variance of CO2 concentration (not corrected for barometric 
+pressure) and wind speed. 
+ 
+6.3 Data Assessments by Site Scientist/Data Quality (DQ) Office 
+ 
+All DQ Office and most Site Scientist techniques for checking have been incorporated within DQ HandS 
+and can be viewed there. 
+ 
+6.4 Value-Added Procedures and Quality Measurement Experiments 
+ 
+None at present.  A gap-filled data file is being developed. 
+ 
+7. Instrument Details 
+ 
+7.1 Detailed Description 
+ 
+7.1.1 
+List of Components 
+ 
+Components for Eddy Covariance Calculations: 
+ 
+• 
+3-D Sonic Anemometer, Gill Solent Windmaster Pro 
+Orthogonal wind velocities u, v, and w 
+Range:  ± 20 m/s 
+Accuracy:  u,v =1.5% root mean square (RMS) error, w =3% RMS error 
+Resolution:  0.01 m/s  
+• 
+Sonic temperature (from speed of sound (SOS)) 
+Range:  -40 to +60 deg C (307-367 m s-1) 
+Accuracy:  3% RMS error in SOS 
+Resolution:  0.02 deg C  
+ 
+Infrared Gas Analyzer, Licor Inc. LI-7500 (see http://env.licor.com/) 
+ 
+• 
+CO2 density 
+Range:  0 to 110 mmol/m3; 
+Accuracy:  ~ 1% (limited by calibration procedure) 
+Precision:  ~ 4 umol/m3 (typical RMS instrument noise)  
+ 
+8 
+January 2005, ARM TR-048 
+• 
+H20 density 
+Range:  0 to 2000 mmol m-3 
+Accuracy:  ~ 1% (limited by calibration) 
+Precision:  0.14 mmol/m3 (typical RMS instrument noise)  
+ 
+Data collection system 
+ 
+• 
+266 - 600 MHz PC clone  
+• 
+Data collection software:  
+~ 9/11/2000 - 12/19/2001.  Data collection performed with gillsonic.c running under MS 
+Windows NT (written in C Programming language for MS-DOS at NOAA-ATDD by Tilden 
+Meyers and modified for use at ARM).  
+ 
+ 
+ 
+12/20/2001 - 12/19/2002.  Data collection performed with WinfluxWMP.cpp software running 
+under MS Windows NT (written in C++ by Joe Verfaillie at CSU San Diego).  
+ 
+ 
+12/19/2002 - present.  Data collection performed with sonic-irga.c software running under Redhat 
+7.3 (written in C by Ed Dumas at NOAA-ATDD).  Note that the data collection system also 
+collects and stores digital serial data from the IRGA. 
+ 
+Table 2. 
+ 
+Components for Meteorological and Soil Measurements Included in 4-m Data Sets: 
+ 
+Variable measured 
+Instrument 
+Mean horizontal wind speed and direction 
+Climatronics CS800-12 wind set
+Temperature and relative humidity profiles 
+Vaisala Humiter 50Y  (2, 3 m)
+Mean atmospheric pressure 
+Vaisala PTB101B barometer
+Soil heat flux 
+REBS HFT3 soil heat flux plates  (4)
+Soil temperature profiles 
+Type E thermocouples  (6) 
+Soil moisture profiles 
+Decagon ECHO soil moisture sensors (8)
+Photosynthetically Active Radiation 
+LiCor LI-190SA quantum sensor
+Downwelling Short Wave Radiation (0.4-11 
+microns) 
+LiCor LI-200SA pyranometer
+Upwelling and downwelling radiation (0.3 mm – 
+2.8 mm and 5 mm – 50 mm) 
+Kipp & Zonen CNR-1 radiometer
+Net radiation 
+Kipp & Zonen NR-lite net radiometer
+Summed precipitation 
+Texas Instruments TE525 tipping bucket rain gage
+Data Logger 
+Campbell CR23x (some systems have CR10x)
+ 
+ 
+9 
+January 2005, ARM TR-048 
+7.1.2 
+System Configuration and Measurement Methods 
+ 
+Pairs of anemometers and IRGAs are located on and near the CF 60-m tower.  Data from the anemometer 
+are transmitted to a personal computer (PC) in an instrument shed at the base of the tower.  The PC 
+collects and stores the serial binary data stream from the sonic anemometer and IRGA (for more details, 
+see data collection system notes below).  The raw data are transferred to LBNL, processed into the ARM 
+Archive format, and inspected for problems on a daily basis.  Processed files are sent to the ARM Archive 
+using the Site Transfer Suite on a weekly basis. 
+ 
+7.1.3 
+Specifications 
+ 
+This section is not applicable to this instrument. 
+ 
+7.2 Theory of Operation 
+ 
+Turbulent fluxes are calculated using standard methods in biometeorology.  See Section 7.7, Citable 
+References for discussions. 
+ 
+The 3-D sonic anemometer uses three pairs of orthogonal ultrasonic transmit/receive transducers to 
+measure the transit time of sound signals traveling between the transducer pairs.  The wind speed along 
+each transducer axis is determined from the difference in transit times.  The sonic temperature is 
+computed from the speed of sound, which is determined from the average transit time along the vertical 
+axis.  A pair of measurements are made along each axis 100 times per second.  Ten measurements are 
+averaged to produce 10 wind measurements along each axis and 10 temperatures each second.  
+ 
+The IRGA measures CO2 and H2O densities by detecting the absorption of infrared radiation by water 
+vapor in the light path.  Details of the IRGA operation and performance can be obtained from Licor Env. 
+Inc. (http://env.licor.com/PDF_Files/LI7500.pdf).  
+ 
+Data are collected on a standard personal computer.  Data are collected in ½-hour intervals, using the 
+computer clock start as a time reference.  Each ½-hour data file has a timestamp reflecting the start time 
+of the file.  The computer clock is updated on a regular basis using time server software.  The daily 
+collection of 48 raw data files are downloaded from the data collection computer to a processing 
+computer at the LBNL on a daily basis and reduced to produce eddy covariance estimates of turbulent 
+fluxes.  A set of data processing algorithms are used to create files suitable for inspection and ingest into 
+the ARM data archive. 
+ 
+7.3 Calibration 
+ 
+This section is not applicable to this instrument. 
+ 
+7.3.1 
+Theory 
+ 
+The sonic anemometer does not require maintenance or calibration.  The IRGA offset and gain need to be 
+calibrated on a periodic basis.  The IRGA is calibrated by introducing gas of know concentration into a 
+calibration hood that surrounds the light path over which infrared absorption is measured.  The offset is 
+ 
+10 
+January 2005, ARM TR-048 
+typically calibrated using dry N2 from a gas bottle.  The gain of the CO2 and H2O channels are calibrated 
+using a bottle with a known concentration of CO2 and flow from a H2O vapor generator (e.g. Licor Inc. 
+LI-610 Dew Point Generator). 
+ 
+7.3.2 
+Procedures 
+ 
+This section is not applicable to this instrument. 
+ 
+7.3.3 
+History 
+ 
+The system in longest continuous operation is the system at 60 m on the 60-m tower.  The calibration 
+interval for that system is: 
+ 
+October, 18, 2000 
+July, 13, 2001 
+December, 18, 2001 
+December, 20, 2002; replaced. 
+ 
+The portable flux systems are calibrated before each portable deployment period. 
+ 
+7.4 Operation and Maintenance 
+ 
+The sonic anemometer does not require maintenance or calibration.  The IRGA offset and gain are 
+calibrated on a periodic basis following the manufacturers recommended procedure.  
+ 
+7.4.1 
+User Manual 
+ 
+This section is not applicable to this instrument. 
+ 
+7.4.2 
+Routine and Corrective Maintenance Documentation 
+ 
+This section is not applicable to this instrument. 
+ 
+7.4.3 
+Software Documentation 
+ 
+General description of the data product formats can be found in the Data Description File.  
+ 
+7.4.4 
+Additional Documentation 
+ 
+This section is not applicable to this instrument. 
+ 
+7.5 Glossary 
+ 
+Also see the ARM Glossary. 
+ 
+ 
+11 
+January 2005, ARM TR-048 
+7.6 Acronyms 
+ 
+CF:  Central Facility 
+DQ:  Data Quality 
+EC:  equipment center 
+IRGA:  infrared gas analizer 
+LBNL:  Lawrence Berkeley National Laboratory 
+PC:  personal computer 
+RMS:  root mean square 
+SGP:  Southern Great Plains 
+SOS:  sound of speed 
+QA:  Quality Assurance 
+QC:  Quality Control 
+ 
+Also see the ARM Acronyms and Abbreviations. 
+ 
+7.7 Citable References 
+ 
+Kaimal, J.C., Finnigan, J.J., 1994.  Atmospheric Boundary Layer Flows:  Their Structure and 
+Measurement. Oxford University Press, New York  
+ 
+Moore, C.J., 1986.  Frequency Response Corrections for Eddy Correlation Systems.  Boundary-Layer 
+Meteorol. 37, 17-35  
+ 
+Paw U, K.T., Baldocchi, D.D., Meyers, T.P., Wilson, K.B., Correction of Eddy-Covariance 
+Measurements Incorporating Both Advective Effects and Density Fluxes.  Boundary-Layer Meteorol. 
+97,487-511  
+ 
+Webb, E.K., Pearman, G.I., and Leuning, R., 1980.  Correction of Flux Measurements for Density Effects 
+due to Heat and Water Vapour Transfer. Quart. J. Roy. Meteorol. Soc. 106, 85-100  
+ 
+ 
+12 

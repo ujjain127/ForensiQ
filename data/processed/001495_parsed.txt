@@ -1,0 +1,823 @@
+2000 SAFENET REVIEW 
+ 
+ 
+This season was the inaugural year for SAFENET.  The goal of the program is to 
+function as a collector of raw data to be used in monitoring fire safety trends.  At the 
+same time, SAFENET provides a means of sharing safety information throughout the 
+fire community and, hopefully, helps facilitate corrective actions. 
+ 
+Between the beginning of the year and the first of October, 68 SAFENETS were filed.  
+Although this is a relatively low number for a fire season of this magnitude, we are still 
+encouraged by this first year result.  Because of the geographical and agency diversity 
+of the filings, this can be considered a representative sample of the wildfire community. 
+This report summarizes the SAFENETS by reporting agency, contributing factors, 
+jurisdiction, incident type, incident activity, stage of incident, and management level of 
+the fire. 
+ 
+Reporting Agency 
+ 
+ 
+ 
+ 
+0
+10
+20
+30
+BIA
+BLM
+FWS
+NPS USFS Other
+Reports by Agency
+ 
+ 
+ 
+Of the reports filed, seven of them were BIA, twenty-three by the BLM, seven by the 
+NPS, twenty-four by the USFS, and eight by other agencies, predominantly state. 
+ 
+ 
+ 
+Contributing Factors 
+ 
+SAFENET categorizes each response into 
+one of nine contributing factors; 
+communication, human factors, performance, 
+fatigue, equipment, fire behavior, 
+environmental, situational awareness, or 
+other.  The results are as follows.   
+ 
+ 
+0
+10
+20
+30
+40
+1
+Communication
+Human Factors
+Performance
+Fatigue
+Equipment
+Other
+Communication 
+ 
+Clearly the greatest concern in this group of reports is communication.  Of the 68 
+SAFENETS reviewed, 32 report "problems with communication" as being the major 
+factor in terms of a health and safety concern.  Of these, 21 identify a breakdown in the 
+transfer of information.  The majority of the respondents cited "no briefing" as the 
+biggest communication problem. 
+ 
+ 
+The following summations are taken 
+from the SAFENETS, and describe the 
+relevant issue: 
+• no field briefing prior to firing 
+operation 
+• no briefing - frequency changes 
+not communicated 
+• lack of briefing 
+• briefing not given 
+• no overhead communication w/IC 
+• poor communication w/IC 
+• crews not receiving information 
+• about fire status 
+• lack of info, no knowledge of   nearby burn-out operation 
+• no briefing, no frequency assignments 
+• no overhead communication 
+ 
+• no briefing on arrival  
+• lack of fire info being communicated 
+• briefing with old, outdate information, no fire weather  
+• briefing not given, organization not identified 
+• crews not notified of aerial seeding operation during rehab 
+• need better communication between ground crews and air ops 
+• good air to ground comm between pilot and ground person on site required 
+• different agencies working in USA should be briefed on procedures for heli ops 
+• no briefing until told to receive one, no manifest 
+• burning out under module w/out any warning/communication  
+• no lookouts, lack of communication, overhead fatigued, upslope wind, slop-over 
+ 
+9 reports identify a problem with communication as it relates to frequency and use.  The 
+majority of these are specific to aviation operations and of the aviation problems, 4 of 
+them were specific to flight-following interferences. 
+• helicopter drops without crew notification - crew nearly hit with snag 
+• flight-following frequency being used by many other operations 
+• paging and flight-following activities on same frequency 
+• flight-following interfered with by paging on same frequency 
+• flight following and dispatch of resources on same frequency 
+Communication
+No/Poor 
+Briefing
+33%
+Flight 
+Following
+10%
+Other
+20%
+Radio 
+Problems
+15%
+Overhead 
+Commo
+10%
+Poor Air to 
+Ground 
+Com
+12%
+• no comm between ground crews & helicopters doing bucket work. 
+• helicopter drops without ground contact 
+• additional radios with approved incident frequencies would aid 
+communication 
+• frequency coordination 
+ 
+ 
+9 reports identify communication problems of other varieties. 
+• a need for temporary repeaters 
+• 3&4 relays 
+• fire operations using same channel as LE, SAR, Medivac etc... 
+• not enough repeaters 
+• no personnel in dispatch during fire operations 
+• crew boss unable to make radio contact during dangerous situation 
+• bad communication - crew boss unable to make contact 
+• delayed medical attention 
+• sent drivers out w/out radios (gsul) didn't have enough on incident 
+ 
+ 
+HUMAN FACTORS - 23 
+ 
+ 
+! 
+coordination difficulties 
+ 
+ 
+! 
+breakdown in command and 
+control. 
+! 
+unified command conflicts 
+! 
+under staffed with resources for 
+operation 
+! 
+no command structure 
+! 
+ IC left before crews were 
+demobed, no logistical support 
+(food & medical) 
+! 
+commander gave improper, unsafe direction... 
+! 
+chain of command, span of control 
+! 
+crew members w/limited or no wildland experience 
+! 
+crew forced to run - wrong decision for accessing fire 
+! 
+of 10 orders, 7 violated.  Of 18 situations, 10 violated. 
+! 
+no MEDL on IMT 
+! 
+crew advised to break speeding laws, unsafe driving 
+! 
+ground support didn't know they had 2x4 vehicles 
+! 
+basic needs of crew not being met 
+! 
+lack of hand-washing facilities, porta-potties not maintained 
+! 
+lack of experience in fire behavior & sound line construction methods 
+! 
+lack of training and/or experience 
+! 
+Need fulltime FMO - unqualified FF was IA alone & operating chainsaw. 
+HUMAN FACTORS
+36%
+24%
+20%
+4%
+4%
+12%
+Command/IMT
+Decision Making
+Quals, Trng
+Discipline
+LCES, 10 & 18
+Health Concerns
+! 
+DIVS(t) conducting burnout below IHC without notification, after told not to. 
+! 
+DIVS with no PPE - no shelter, no nomex, no hard hat, no gloves 
+! 
+bucket drops from sewage pond - dipping ordered by LEO not assigned to fire 
+! 
+red card currency issues 
+! 
+food service not using gloves 
+! 
+alcohol use, lack of discipline, assault 
+ 
+ 
+ 
+ 
+PERFORMANCE - 14 
+• 
+lack of command structure 
+• 
+no PPE DIVS 
+• 
+lack of experience 
+• 
+chain of command 
+• 
+no command structure 
+• 
+IC sleeping - no backup 
+• 
+IC operating bulldozer 
+• 
+2 reporting 10, 18 and 
+LCES violated 
+• 
+FF stay clear of load during 
+long line ops until pilot 
+releases 
+• 
+IMT disregard for well-being of crew, unable to obtain dry clothing 
+• 
+shifting people while helicopters loading, poor helispot management 
+• 
+DIVS(t) should not have been involved in burnout decision & failed to notify 
+• 
+Lack of discipline, lack of screening, failure to deal with a situation  
+ 
+ 
+SITUATIONAL AWARENESS - 31 
+All but 1 have been identified in other contributing factors.  Having no briefing, 
+and the lack of command structure were the majority.  The only report that identifying 
+situational awareness as the primary issue, was the grizzly bear near spike camp. 
+ 
+ 
+ 
+FIRE BEHAVIOR - 18 
+Only 2 SAFENETS identify a situation where the safety and health issue was 
+directly related to fire behavior.  Both were fire behavior problems caused with wind 
+changes.  Several report fire behavior not being communicated to crews, and those are 
+identified in the communications section. 
+ 
+ENVIRONMENTAL- 13 
+There were no specific environmental causes outside the human factors realm.  
+ 
+ 
+PERFORMANCE
+65%
+7%
+7%
+14%
+7%
+Command/IMT
+No PPE
+Lack of
+Experience
+LCES, 10&18
+other
+FATIGUE - 11 
+• 
+4 cite failure to follow work rest guidelines.   
+• 
+1 reports single resources driving alone. 
+• 
+1 reports an IC sleeping while crews are working and leaving no-one in 
+charge. 
+• 
+2 report overhead team too fatigued. 
+• 
+3 checked the fatigue box but did not address it specifically in narrative.  
+• 
+ 
+ 
+ 
+ 
+EQUIPMENT - 12 
+• 4 communications 
+equipment 
+ 
+• 1 contract engines not safe 
+• 1 dozer nearly ran over 
+sleeping FF 
+• 1 engine electrical failure 
+• 2 dozer boss got 2x4 vehicle 
+from ground support  
+needed 4x4 
+• 1 no PPE due to no knowledge 
+• 1 lack of hand-washing facilities, porta-potties not maintained 
+• 1 not enough radios on incident to give them to drivers 
+ 
+ 
+ 
+OTHER - 12 
+• 2 pack test concerns 
+• 1 lack of burnout on dozer line 
+• 1 contaminated water given to crews 
+• 1 resources without quals 
+• 1 small arms ordnance explosion during FF 
+• 1 crew without crew rep for 4 shifts 
+• 1 hiring of unqualified crewmen on type 2 crew 
+• 1 no medl on fire 
+• 1 rx fire crew w/no ppe or knowledge of such 
+• 1 helispot disorganized 
+• 1 alcohol abuse by crew, disorderly conduct, assault 
+ 
+ 
+INCIDENT NAME  
+ 
+ 
+ABC MISC. 
+  
+ALTONA FIRE  
+ 
+BASIN FIRE 
+ 
+BOSQUE 
+1
+0
+2
+4
+6
+EQUIPMENT
+Communications
+Engines
+Dozer near miss
+Vehicle
+PPE
+Sanitation
+BUCK SPRINGS 
+CERRO GRANDE 
+ 
+CLEAR CREEK  
+CLOVER 
+DEAD HORSE     
+DIVIDEND FIRE ICP 
+ 
+EMERGENCY   
+CLEAR CREEK 
+ENCAMPMENT   
+FALSE ALARM #3 
+ 
+FIRE RECON 
+FIRST BOX FIRE 
+FLAT CREEK  
+ 
+GRANDDADDY  
+HANFORD 
+HAPPY  
+  
+HI MEADOW 
+ 
+ 
+HI MEADOW-IA 
+ 
+IRON MINE 
+IRON MINE LAKE 
+JENNY LAKE   
+ 
+LOWER BELMONT 
+MANTER 
+MILE MARKER 185 
+MUDDY CREEK  
+ 
+NEW SUB 2     
+OLD 80 FIRE 
+24 COMMAND     
+N/A 
+ 
+ 
+ 
+OLD 80 FIRE 
+ 
+PACK TEST 
+POT MOUNTAIN 
+PRESCRIBED BURN 
+ 
+RANGE FIRE      
+RESPONDINGTO  
+RIVER RESCUE 
+SHAGGY FIRE  
+ 
+SOUTH CRICKET 
+SWEETWATER  
+UPPER SLIDE     
+YANCE CANYON 
+ 
+YANCE FIRE 
+ 
+GLADE/TETON COMP 
+BRANTLEY    
+ 
+EASTSIDE COMP 
+ 
+YANCE  
+ 
+MIDDLE FORK COMP 
+MONTANA FIRE 
+BURGDORF JUNCTION 
+TROY SO/FREZKAT 
+MONTURE/SPREAD 
+PLASKET 2 
+ 
+N/A 
+ 
+ 
+ 
+MIDDLE FORK  
+BEAVER CREEK 
+SULA COMP 
+ 
+PECHANGA 
+ 
+ 
+MAUDLOW/TOSTIN 
+OUTLET FIRE 
+PAULINA DUMP 
+CLAY CREEK II & OLD GROWTH 
+ 
+ 
+CLEAR CREEK 
+ 
+ 
+ 
+ 
+ 
+ 
+INCIDENT JURISDICTION 
+ 
+BIA 
+ = 5 
+BLM  = 12 
+ 
+ 
+NPS  = 5 
+State  = 9 
+USFS  = 33 
+Other   = 3  
+ 
+ 
+ 
+ 
+ 
+ 
+INCIDENT TYPE 
+ 
+Wildland  
+= 64 
+For Resource Benefit = 2  
+Prescribed 
+= 4 
+Training  
+= 3 
+All Risk  
+= 3 
+ 
+ 
+ 
+ 
+INCIDENT ACTIVITY 
+ 
+Of the SAFENETS filed, 45 occurred 
+0
+20
+40
+1
+JURISDICTION
+BIA
+BLM
+NPS
+STATE
+USFS
+OTHER
+INCIDENT TYPE
+Wildland
+Prescribed
+Wildland 
+for 
+Resource
+Training
+All Risk
+0
+10
+20
+30
+40
+50
+1
+INCIDENT ACTIVITY
+Fireline
+Support
+Transport
+No Category
+on the fireline, 12 in support, 11 in transportation, and 5 in no particular category. 
+ 
+Fireline-45 
+• 21 communications issues. 
+• 14 command and organizational structure issues. 
+• 4 lack of experience  
+• 3 fatigue and violation of work rest ratios 
+• 3 violating LCES 
+ 
+Support = 12 
+ 
+Transport = 11 
+ 
+No Category = 5 
+• 2 pack test 
+• 1 aerial seeding 
+• 1 flight following 
+• 1 Rx burn - shells exploding 
+ 
+ 
+ 
+STAGE OF INCIDENT 
+ 
+Initial Attack = 29  
+Extended Attack = 33 
+Mop-up = 9 
+Transition/Transfer of command 
+= 8 
+Not Categorized = 5 
+Demob = 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POSITION TITLE 
+ 
+The SAFENET respondents are listed by the positions they held on the fire. 
+ 
+Acting FMO (1) 
+ 
+ 
+ 
+None Given (1) 
+0
+10
+20
+30
+40
+1
+STAGE OF INCIDENT
+Initial Attack
+Extended Attack
+Mop-up
+Team Transition
+Demob
+Not Categorized
+Center Manager (1)  
+ 
+ 
+Crew Boss (5) 
+Crew Rep (1) 
+ 
+ 
+ 
+Crew Supervisor (1) 
+Cwn Hemg (1) 
+ 
+ 
+ 
+Deputy FMO (1) 
+District Fire Mgmt Officer (1) 
+ 
+District Fire Warden (1) 
+Edsp/ladp (t) (1) 
+ 
+ 
+ 
+Engine Boss (4) 
+Engine Module (1)  
+ 
+ 
+Engine Supervisor (1) 
+Engine with Crew (1) 
+ 
+ 
+Fire Center Manager (1) 
+Fire Staff (1)  
+ 
+ 
+ 
+Firefighter (5) 
+Firefighter Engine Crew Member (2) 
+Firefighter Type II (1) 
+Firefighter Engine Operator (1) 
+ 
+Ft. Apache 61 Crep (1) 
+Hart=s IMT (1) 
+ 
+ 
+ 
+Hotshot Crew Member (1) 
+Hotshot Superintendent (2) 
+ 
+I C (1) 
+I C Type 4/Engine Boss (1) 
+ 
+IC t3 (1) 
+Incm (1) 
+ 
+ 
+ 
+ 
+Jumper in Charge (1) 
+Observes Rx Fire Operations (1)  
+Safety Officer (2) 
+Sof1 (1) 
+ 
+ 
+ 
+ 
+Strike Team Leader (1) 
+Suppression Manager (1)  
+ 
+T1 IMT SOFR (2) 
+Training Specialist (1) 
+ 
+ 
+Type 2 Crew (1) 
+No Category (2) 
+ 
+ 
+ 
+EMT(1) 
+Helicopter crewperson(2)  
+ 
+ATGS 
+Home Unit (2) 
+ 
+ 
+ 
+C-1 Superintendent 
+Dozer Boss (2) 
+ 
+ 
+ 
+Strike Team Leader (T) 
+Firefighter - Fft1 
+ 
+ 
+ 
+ENGB 
+EDRC  
+ 
+ 
+ 
+ 
+Crew -Type 1 
+crew 
+ 
+ 
+TASK 
+ 
+The tasks being performed by the SAFENET respondents are as follows: 
+ 
+Air Operation 
+ 
+ 
+ 
+Burn Out Island 
+Center Manager 
+ 
+ 
+ 
+Completion of Work Capacity Test 
+Crew Safety  
+ 
+ 
+ 
+Current Red Card 
+Direct Mobile Attack 
+ 
+ 
+Driving 
+Engine Boss  
+ 
+ 
+ 
+Engine Operations 
+Fire Line, IA, MopUp 
+ 
+ 
+Fire Management 
+2 - Fire Suppression 
+ 
+ 
+Hand Crew Support 
+Hose Lay and Water Support 
+ 
+IA Bucket Work 
+IA Coordination 
+ 
+ 
+ 
+Incident Tfld 
+INCM  
+ 
+ 
+ 
+ 
+IA Coordination 
+Investigation/Review 
+ 
+ 
+Investigation/Structure Protection 
+6 - Line Construction 
+ 
+ 
+2 - Line Construction - Mop Up 
+Line Construction - IA 
+ 
+ 
+Line Construction - Helicopter water drops 
+Line Construction - Scouting, Burnout 
+Line Construction - Support, Mop-up, Rehab 
+Line Construction - Burnout 
+ 
+Line Engine Support 
+Line Protection 
+ 
+ 
+ 
+Manage 97T 
+2 - Mop-up 
+ 
+ 
+ 
+ 
+Packtest 
+Patrol/mop-up dozer lines  
+ 
+Structure,Holding,Burnout,safety zone 
+Pre-positioning of Resources 
+ 
+Rehab Building Contour Structures 
+Securing Line & Burnout operations 
+Staging for IA 
+Support for Coconino NF  
+ 
+Suppression 
+Training 
+ 
+ 
+ 
+ 
+Transport off helispot 
+Travel  
+ 
+ 
+ 
+ 
+Ambulance Transport 
+Helibase Support 
+ 
+ 
+ 
+ATGS 
+Line Construction,Air Ops  
+ 
+Structure Protection, Etc 
+Operations Supervisor(2)  
+ 
+Cargo section of Helibase 
+Size-up and Suppression  
+ 
+Camp Activities & Departure 
+IA, Line Construction, chainsaw use 
+Transport off Helispot 
+ 
+ 
+ 
+ 
+MANAGEMENT LEVEL 
+ 
+Type 1 = 16 
+Type 2 = 16 
+Type 3 = 21 
+Type 4 = 11 
+Type 5 = 8 
+ 
+ 
+0
+10
+20
+30
+1
+Management Level
+Type 1
+Type 2
+Type 3
+Type 4
+Type 5

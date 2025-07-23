@@ -1,0 +1,454 @@
+Thermal
+Stability
+of
+the
+AVIRIS
+On-Board
+Calibrator
+Jessica Faust,Michael Eastwood, Chuck Sarture,OrlesaWilliams
+JetPropulsionLaboratory
+CaliforniaInstituteof Technology
+Pasadena,California91109
+Introduction
+The AVIRIS On-Board Calibrator (OBC) provides essential data for refining the
+calibration of each AVIRIS data run. Annual improvement to the AVIRIS sensor and
+laborato~ calibration accuracy has resulted in increasingly high demands on the stability of
+the OBC, Since the 1995 flight season, the OBC could track the stability of the
+spectrometer alignment to the 2% level, a significant improvement over previous years.
+The major contributor to this 2% stability was the conversion from a constant-current bulb
+power supply to an intensity-based active feedback power supply. Given the high sensor
+signal-to-noise ratio, improving the OBC to track 1% or 0.5% changes was highly
+desirable. Achieving stability better than 2% required an examination of the mechanisms
+affecting stability.
+FIBER
+SPAREVISIBLEFIBER
+FOREOPTICS
+DATA
+FIBERS
+BUNDLE
+FIBERARRAYS
+END
+r ------
+------
+----
+.-----
+-----
+VIEW
+I
+I
+i
+BALANCE
+I
+FILTER
+I
+i
+I
+I
+FILTER
+1
+WHEEL
+:
+I
+I
+i
+I
+~
+I
+1- -----
+-----
+-----
+-----
+-----
+-
+-1
+Figure 1, On-BoardCalibratorLayout
+/
+2
+Historically, the OBC temperature has ranged between +1O”Cand +50”C, in-flight
+minimum and in-laboratory maximum, respectively, Optical power variations caused by
+changes in the temperature of the OBC are seen by the AVIRIS spectrometers and degrade
+the utility of the OBC as a calibration source. The goal of thermal testing the AVIRIS OBC
+was to quantify any changes in the optical output from the optical fiber bundle as the
+temperature of its environment changes.
+The on-board calibrator and its place in the AVIRIS sensor is shown in figure 1.
+When the foreoptics shutter is closed light from the feedback stabilized tungsten source in
+the on-board calibrator is carried through a fiber bundle to the back of the shutter and
+reflected into the spectrometer data fibers. Fluctuations in the OBC temperature can distort
+the OBC structure, causing the tungsten lamp to rnis-align and hence change the intensity of
+the light reaching the spectrometers. The change in temperature of the OBC in-flight has
+historically been as much as ilO°C.
+Experimental
+Set-Up
+optical filtering
+\
+BEMCO Environmental Chamber
+silicon detecto~
+-
+Ill
+L
+Fiber Optic
+NRC820 Amp
+Comtmter
+JaLa
+Yz-
+OBCTemp.—
+BulbVoltage-
+BulbCurrent—
+AmbientTemp.-
+Figure 2, Experimental Set-up
+The OBC was placed in an environmental chamber such that thermal contact
+between the chamber floor and the calibrator was eliminated; therefore, chamber air
+provided the thermal transport as opposed to point contact with the cold chamber walls (see
+figure 2). Optical fiber and power cables were fed through an opening and attached to the
+OBC. Several OBC operating parameters were monitored, including light output through
+the optical fiber, voltage across the light bulb, voltage across a O.lfJ resistor series (bulb
+current), plus both OBC structure and ambient temperature (10mV/°C).Datawas logged
+to an ASCII file using a Fluke Data Acquisition Unit. Optical power output was monitored
+by a model NRC820 silicon detector with an optical filter and stored to the data file (output
+was measured
+as volts DC on an arbitrary scale).
+3
+Procedure
+and Analysis
+The test was performed four times with improvements to the set-up added each
+time, For the first run, the OBC was not mounted on an aluminum plate (as usually
+configured
+on AVIRIS)
+and the temperature
+range was 10°C to 50°C. In this run, the OBC
+output varied with small changes in temperature. Figure 3 shows oscillations in the OBC
+out ut over regions where the OBC structure temperature is fairly stable. The bulb voltage
+f
+an current followed closely with the rise and fall of the temperatures and showed
+oscillations as well, but at significantly smaller magnitudes.
+The oscillations in the lamp
+current are 1 mA in 2000 mA and 2 mV in 5000 mV for the bulb voltage. This is a power
+variation of 2 Darts in 107while the oMical flux at the outrmt of the fiber bundle varied 3
+parts in 103. ‘
+.
+G
+29
+90
+75
+m
+12s
+150
+175
+2m
+22.$
+250
+m
+Xm
+m
+ElapsedTime(MC)
+Figure 3. First Run: Optical Output and Temperature vs. Time for OBC without a shear plate
+As shown in figure 1,the lamp output is imaged onto the fiber bundle by a
+spherical mirror after passing through the filter wheel. If the baseplate of the OBC
+distorts, then the optical components will misalign, and the image of the bulb filament will
+move off the fiber bundle input. This is the most likely cause of the oscillations seen in
+figure 3.
+For the seeond run, an aluminum plate was attached to the base of the OBC to more
+closely simulate the enhanced structural rigidity of the OBC baseplate when it is attached to
+the AVIIUS sensor’s forward panel in the normal flight configuration. The test was
+terminated before completion because the temperature sensor readout became noisy and
+unstable. The addition of a filter to the circuit at the data acquisition unit eliminated this
+noise. The third test ranged in temperature from 20°C to 40°C (equilibrium was not
+achieved at 40”C). A 10 nm FWHM, 450 nm center wavelength bartdpass filter was added
+to minimize any room temperature responsivity variations from the NRC820 silicon
+detector.
+The fourth run was done over the same temperature range as the first run, adding
+another temperature equilibrium region at 30°C (See Figure 4.). The equilibrium regions
+lasted for at least 45 minutes and did not show the oscillations that were visible in the first
+test. In this test, the OBC output was much more stable than in the first test.
+4
+0,0s45,
+‘ 55
+In
+I*
+‘
+‘1
+50
+0.0540 .-
+—.-
+.-,
+.-
+._,
+_. _, ___
+._
+._,_
+._,
+-,
+_____
+,_ ._,_
+____
+:ZC=l;
+‘s
+,..
+I
+---
+-,- - - ~ --
+I
+I
+I
+-J
+‘0
+0.051s-
+I
+o
+-s
+2s
+30
+75
+100 123 150 !7S 200 225 2S4 27S 300 325 330 375 400 425 430 475
+ElapsedTime (mIn)
+Figure 4. Fourth Run: Optical Output and Temperature vs. Time (with a shear plate)
+Conclusion
+A change in OBC structure temperature of 40”C leads to a change in optical output
+of approximately 4% at 450 nm. Last year, the in-flight temperatures ranged between 25°C
+and 45°C. If we assume AVIRIS will experience similar tem~rature
+variations in the
+future, the 20”C range would continue to yield an OBC light output uncertainty of 2%.
+However, for regions where the temperature is stable the optical output variation is far less
+than 2%. This is because temperature transients generate gradients that distort the OBC
+structure and misalign the optics. Once the OBC reaehes thermal equilibrium, the optical
+alignment is re-established, as is evident in the fourth test where the output deviation was
+approximately 0.75% across each of the three temperature stable regions. Bulb voltage and
+current followed the temperature changes very closely, indicating that the 543.5 nm filtered
+silicon detector controlling the bulb has a residual output sensitivity to temperature, or that
+the structure holding the bulb in alignment with that detector is not perfectly rigid. (see
+Figures 5. and 6.) From these results, we decided to implement a thermal control system
+to stabilize the OBC’S internal temperature to 40”C. This thermal stabilization will further
+limit the variations in optical output to well below the 0.75% seen in the test.
+S.00
+4.Y!J
+4.95
+4.94
+0255075
+100
+1?3
+150
+175
+20)
+225
+250
+27s
+3C0
+325
+350
+375
+400
+425
+450
+475
+ElapsedTime(mIn)
+Figure 5, Bulb Voltage and Temperature vs. Elapsed Time
+2!040
+2.031
+2,0N
+j
+.
+1
+2.034
+v
+jj
+2.032
+“ 2.030
+2.(128
+55
+50
+45
+40
+35 g
+31J
+k
+u!
+20
+15
+10
+s
+o
+25
+W
+7S
+lCrl
+123
+150
+17$
+200
+22s
+250
+275
+300
+32S
+330
+37s
+400
+423
+450
+475
+EhpsedTime(mIn)
+Figure 6. Bulb Current and Temperature vs. Elapsed Time
+6
+Data from the flight season, as seen in figure 7, shows that the variation in the lamp
+voltage was 0.47% while the lamp current varied by on]y O.19%, This slow increase in
+bulb voltage and cument could arise from the slowly decreasing bulb quartz envelope
+transmittance as tungsten is deposited on inside of the envelope. The halogen cycle does
+minimize this deposition, but does not completely eliminate it, This increasing opacity
+would result in less light exiting the bulb for a given power level. The intensity-based
+closed-loop control compensates for this by increasing the power, thus the bulb output is
+maintained. A slight color temperature change also results, but is not significant for the
+variation seen here.
+5,2(
+5.lC
+4.90
+4.85
+4,80
+I
+MIMFJSTDDEV,%DEV
+Volllge
+Mm
+0.024
+0.471
+Culrml
+2.036
+OJXU
+0.190I
+4.75
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+Number
+of In.FilghtData Runs
+Figure 7. On-Board Calibrator Lamp Cuirent and Voltage Trend for 1997 Flight Season
+2.11
+2.09
+2.07
+Ii
+~
+u
+1!
+2.05g
+2.03
+Lol
+The researchdescribed in this paper was carried out by the Jet Propulsion Laboratory under a contract with
+the National Aeronautics and Space Administration.
+n=l-
+AUTHORIZATION
+FOR THE EXTERNAL RELEASE
+OF INFORMATION
+Subrn)tURL(Happlicable)or twocopiesofthe abstractor fullpaper to DocumentReview,111-120
+CL No.
+fhwCmsUwmy)
+b
+lswi0%5lM-@P53G
+1~,60DueDate
+COMPLETE TITLE
+n
+‘IIWYIAJ
+StUMiWWWAVIW0P4WZZtilbm~
+K Foreign
+@
+Domestic
+Account Code
+@/”?/oG/-o-a
+K Prwneetin*publkatfon
+JzJABSTRACT (includi;g
+extended
+abstract)
+a
+FULLPAPER (including viewgraphs, poster, videocassette)
+K Publioationonmeatingday
+lx
+Postrnestingpublication
+7
+K Journal Name
+OPostersession
+o K Meeting - Subject
+,~~h~/?&
+-~~
+\nl
+lJOrdprasentation
+c1
+•1
+Sponsoring Soci
+OYL
+Meeting Date
+/2’16
+I M411
+Location
+?tidm
+&
+.
+BOOK OR BOOK CHAPTER
+K Assigned Laboratory Task
+OR
+K Private Venture
+PUBLICATION
+K BROCHURE
+K NEWSLETTER
+K For release on the Internet
+•l withinJPL
+0 outside of NASA .
+URL:
+FI-P:
+K Was previously cieared:
+Ciearance
+No(s).:
+CL-
+Date
+Author(s)
+CL-
+Date
+Author(s)
+3EPORTABLE INFORMATION
+THIS WORK:
+K New technology not previously reported
+,Nature of this work (piease describe)
+K Covers work previously reported in New Technology Report (NTR) No.
+K Provides more information for earlier NTR No(s).
+FOR TECHNOLOGY REPORTING AND
+COMMUNICATIONSUSE ONLY
+K Reiease
+K Ex Post Facto K Release Delayed or Condtiionai
+Comments:
+FOR SECTION 644 USE ONLY
+Editor
+Ext.
+Document No.
+Customer Code (RTOP No.)
+Group
+Condition _
+AUTHORIZATION(piease use biue ink)
+The signatory h this cdun)n attests to the technics/accuracy
+of
+-4
+,L#-
+Date
+Ma;ag
+Date
+4?..
+G
+Print ~me
+and Titie of Manager/Supenrisor
+NOTE:
+Aflfullpapas and Internet
+U*
+fqu/ra
+!jac#on
+or P@actManagar
+Wnwal.
+AllabwacfsraqulfwGnntp&@&or
+qyvoval
+on~.
+Technology Reporting and Communications
+Date
+Document Reviewer
+Date
+.x%.1330s R sloe Wf

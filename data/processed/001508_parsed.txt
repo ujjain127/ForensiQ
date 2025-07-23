@@ -1,0 +1,565 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+February 13, 2006  
+ 
+Nancy Morris, Secretary 
+Securities and Exchange Commission 
+100 F Street, N.E. 
+Washington, D.C. 20549-9303 
+ 
+(via electronic submission) 
+ 
+Re: File Number S7-10-05, Release Number 34-52926:  
+       Internet Availability of Proxy Materials 
+ 
+ 
+Dear Ms. Morris, 
+ 
+Computershare and Georgeson Shareholder appreciate the opportunity to comment on the 
+SEC’s proposal to allow Internet availability as an alternative distribution channel for proxy 
+materials. 
+  
+Computershare is the only global transfer agent and the largest transfer agent in the US, 
+operating in 19 countries. We service over 90,000,000 shareholder and employee accounts 
+for 14,000 corporate clients worldwide. Georgeson Shareholder, formed in 1935 (acquired by 
+Computershare in 2003), is the leading proxy solicitor in the US, is based in New York and 
+has operations around the globe. Georgeson Shareholder represents 50% of the Dow 30 and 
+38% of the Fortune 500 companies and is chosen in more than 1,100 transactions every year. 
+In our combined capacities we mail over 400,000,000 shareholder packages globally each 
+year, with 200,000,000 in the US alone, a significant percent of which are proxy materials. 
+The proxy services we provide to clients include annual meeting consultation; distribution of 
+proxy materials via mail, householding and electronic delivery; solicitation; vote tabulation 
+via Internet, phone and paper channels; and information agent programs. We are advocates 
+for changes in the market structure that protect and enhance the interests of our clients and 
+their stakeholders worldwide. Our efforts are focused on leading the industry to implement 
+changes that will benefit issuers, shareholders and global market participants by eliminating 
+unnecessary costs, creating a more efficient end-to-end proxy process, improving the quality 
+of the proxy process, and increasing transparency of ownership. We have worked with the 
+SEC and NYSE over the past five years to promote such change. 
+ 
+Computershare and Georgeson Shareholder support the SEC’s desire to modernize the proxy 
+system and we support the proposed amendments to the proxy rules. We are however 
+recommending some modifications to certain detailed aspects of the proposal which we 
+believe would result in a more efficient and effective process when implemented.  
+ 
+ 
+The primary benefits – cost savings, increased efficiency, faster access to information and the 
+positive environmental impact – are significant. We applaud the SEC’s recommendation to 
+give issuers the option to choose a distribution model with the Internet as the default. This 
+proposed notice and access model can progressively create a monumental impact that the 
+current opt-in model for electronic delivery cannot and will not produce, due to inertia. Such 
+a change will require strong leadership from the SEC. 
+ 
+We view the Internet notice and access proposal as a good first step toward a more efficient 
+model for shareholder communications and proxy voting. As the SEC has publicly noted, the 
+current proposal are focused solely on the distribution of materials. They do not address the 
+broader issues we have discussed with the SEC and the NYSE Proxy Review Committee, 
+including allowing issuers to directly communicate with beneficial shareholders, promoting a 
+competitive market-driven model for beneficial shareholder communications and proxy 
+services, and greater transparency of ownership. Issuers -- and ultimately shareholders -- are 
+paying significantly higher than necessary rates (set by the NYSE) without being afforded a 
+choice of service providers for beneficial shareholder communications. We encourage the 
+SEC to address these outstanding issues that we and the coalition formed by the Business 
+Roundtable have presented.  
+ 
+A model based on the Internet availability of proxy materials should include the following 
+attributes: 
+• Optional for issuers  
+• Appropriate measures to ensure intermediaries follow an issuer’s choice 
+• Implied shareholder consent for Internet delivery with appropriate safeguards for 
+shareholders who require paper 
+• Retains the existing affirmative consent model for electronic delivery 
+• Optionally, provides an opt-in for future paper requests 
+• Provides issuers a choice of agents for on-demand shareholder material requests 
+• Lowers regulated fees for distribution of materials to beneficial holders 
+ 
+We believe such a system is achievable and should be introduced by the SEC commencing 
+with the 2007 proxy season. Based on the success of the model, we believe business 
+combination transactions should be considered as a future enhancement.  
+ 
+Our responses to your detailed questions are attached. Please do not hesitate to contact us at 
+212-805-7000 for further information. 
+ 
+Sincerely, 
+ 
+ 
+Paul Conn 
+ 
+ 
+ 
+ 
+ 
+President, Global Capital Markets 
+Computershare Limited 
+ 
+Steven Rothbloom 
+President & CEO 
+Computershare North America 
+ 
+ 
+Comments on File No.  S7-10-05 
+ 
+ 
+ 
+ 
+1 
+Responses to Requests for Comment on the Internet Availability of Proxy 
+Materials – File Number S7-10-05, Release Number 34-52926: 
+ 
+I. Introduction & Internet Discussion 
+ 
+We support the proposed model as an optional alternative to the existing paper model that 
+would be available for issuers and for shareholders, with the same requirements. The ability 
+of the issuer or other soliciting party to choose which documents to publish on the Internet 
+and which to mail is a central aspect of the proposal and we support the choice and flexibility 
+it provides so that each issuer can act based on what is best for the company and its 
+shareholders. In addition, we see the implied consent model as a crucial aspect to realizing 
+the benefits the SEC is seeking.  
+ 
+Request for Comment  
+Based on third-party research which shows three-quarters of adults are online, continued 
+growth of active users and a majority of homes with high-speed Internet access, we believe 
+there is sufficient Internet penetration in the US to support the successful and progressive 
+implementation of the proposed amendments. Notably, the 2005 Equity Ownership Study 
+shows that among those who invest in equities, 47% to 77% use the Internet for financial 
+related purposes. While we know there is, and will continue to be, a population of 
+shareholders not online, these numbers paint a positive picture of opportunity, especially 
+considering the built-in safeguards for those who are either not online or choose not to use 
+the Internet for proxy purposes. 
+ 
+Internet Penetration Continues to Grow  
+Internet Penetration 
+75% 
+% of Adults Using the Internet  
+ 
+ 
+125
+130
+135
+140
+145
+2003
+2004
+2005
+Active Home Internet Users (mil)
+ 
+Internet Connection Speed 
+66% 
+High-Speed (Broadband / DSL) 
+ 
+2005 Nielsen/Net Ratings 
+report that three-quarters of all 
+households have Internet 
+access and that numbers of 
+active home Internet users are 
+growing notably year over 
+year. 
+ 
+While concerns have been 
+raised about Internet users’ 
+ability to access and download 
+documents due to the type of 
+connectivity they have, Web 
+Site Optimization.com reports 
+(based on Neilsen/Net 
+Ratings data) that nearly two-
+thirds of Internet users have 
+high-speed access.    
+34% 
+Dial-up 
+ 
+Comments on File No.  S7-10-05 
+ 
+ 
+ 
+ 
+2 
+Equity Investor Demographics – Majority of  Equity Investors Using Internet 
+Age 
+Percent of Equity 
+Investors * 
+(mean age 51) 
+ 
+Percent Using the 
+Internet ** 
+ 
+Percent of Equity 
+Investors Using the 
+Internet for Financial 
+Related Purposes* 
+    Less than 35  
+15% 
+84% 
+77% 
+     35 - 49 
+33% 
+83% 
+72% 
+     50 - 64 
+33% 
+71% 
+69% 
+     65 + 
+19% 
+30% 
+47% 
+ 
+*    Source: Equity Ownership in America 2005 by the ICI & SIA 
+** Source: Pew Internet & American Life Project, Sept 2005 
+An equity ownership study conducted by the ICI and SIA revealed that a majority of equity investors – 
+those ages 35 to 64 – use the internet for financial related purposes.  
+ 
+ 
+Existing technology is available, such as HTML, which provides user-friendly searchable 
+formatting that, without downloading any documents, will increase the “viewing” population. 
+With regard to the ability to download documents, we foresee this to be a little-used 
+application for large documents such as annual reports and potentially proxy statements, 
+particularly given the built-in protections enabling shareholders to request material by phone. 
+Applying the data above, we project that 70% of shareholders will have a propensity to view 
+materials rather than request paper copies. By comparison, only about 35 % of retail 
+shareholders routinely vote their proxies. 
+ 
+Our recommendation is that no specific document formats be required. Format preferences 
+should be up to the issuer, rather than requiring specific technologies. The continuous advent 
+of new browsing and search technologies may quickly outdate the rule. Issuers currently 
+provide a variety of formats to shareholders who have consented to electronic delivery. Most 
+who promote electronic delivery already provide PDF downloadable documents, a link to 
+access free software that will facilitate downloads, and some also provide a user-friendly 
+searchable online document that does not require downloads. In contrast, some companies 
+provide a link to their filings and directly to online voting platforms.  
+ 
+Demands on Internet bandwidth should not present difficulties for issuers. If they choose to 
+use the notice and access model, they will want it to be successful and, in our opinion, will be 
+sufficiently motivated to ensure they are providing sufficient access for shareholders willing 
+to view documents online, either through their corporate website or their designated third-
+party provider. 
+ 
+II. Implied vs. Affirmative Consent 
+The implied consent model lies at the heart of the transformational nature and success of the 
+proposed model. This model can be contrasted with the limited success of electronic delivery 
+in today’s paper-based system. Affirmative consent has not been successful due to the apathy 
+of shareholders. Issuers have made great efforts to encourage shareholders to consent to 
+receive proxy materials electronically and the results are below three per cent in most cases. 
+More sophisticated electronic delivery solutions, such as Computershare’s e-Tree™, which 
+provides for having a tree planted for each shareholder who consents to electronic delivery, 
+can bring more robust response rates of up to 20 per cent, but even this innovation requires 
+Comments on File No.  S7-10-05 
+ 
+ 
+ 
+ 
+3 
+effort and expense to promote and obtain affirmative consents. The implication is that 80 % 
+of shareholders want paper, while only 35 % actually vote. 
+ 
+III. Eligibility 
+The notice and access model should be available to all issuers and all classes of shareholders. 
+We believe it is appropriate to have one standard with appropriate safeguards for those 
+wanting paper.  
+ 
+IV. Notice of Internet Availability of Proxy Materials (“notice”) 
+We support the proposed changes regarding the notice, and while some issuers may have 
+difficulty meeting the longer 30 day requirement with respect to finalizing materials, we 
+agree with the logic and believe issuers will progressively include this in their planning in 
+order to take advantage of the proposed model. We believe the ability to household the 
+notice, based on previous implied consents, should be retained. The proposal however, does 
+not address how, or if, the amendments impact current electronic delivery rules, though we 
+understand the intent is that the existing rules would continue to apply. We recommend the 
+SEC include language to clarify this point in order to facilitate full electronic delivery. We 
+assume, and recommend, the current electronic voting rules will be retained. 
+ 
+Requests for Comment  
+A toll-free phone number to request free copies should be provided. We do not however, 
+agree that using an e-mail address is an efficient request mechanism. The free-form nature of 
+an e-mail message would require excessive manual processing. We recommend a toll-free 
+number be required but other means such as Internet-based request forms and e-mail be 
+permitted, though not required. Many issuers large and small have Internet-based document 
+request features available on their web sites today.  
+ 
+Under the proposed model, a shareholder could request that material fulfillment be sent via e-
+mail. We recommend that this fulfillment method be removed from, or made optional in, the 
+proposal as the attachment of large documents to an email message could be problematic for 
+certain internet users. Additionally, those who have access to Internet based e-mail would 
+have immediate access to browse and search the materials online. 
+ 
+We agree that only pertinent proxy related information should be sent with the notice and 
+that there should be only one plain English standard for shareholder communications. We 
+have no major concerns with the required wording for the notice as proposed.  
+ 
+With regard to the delivery of paper material, we believe the issuer’s obligation should be 
+considered fulfilled when the requested materials are delivered to the postal authority. We 
+agree that the notice should be filed with the SEC. We believe any requirements for the 
+mailing of a notice due to revised materials should be consistent with the existing paper 
+model (i.e., if revised materials have to be mailed under the paper model, a notice should be 
+sent under the proposed Internet model.)  
+ 
+Adjournment of a meeting should not require the mailing of another notice. Most companies 
+issue a press release in such a case and we see no immediate benefit to an additional mailing. 
+Comments on File No.  S7-10-05 
+ 
+ 
+ 
+ 
+4 
+V. Proxy Card 
+We support the proposed model allowing issuer the choice of providing the proxy card along 
+with the notice. However, we believe having a downloadable proxy card available on the 
+Internet provides serious challenges with shareholder eligibility and voting control. 
+ 
+Requests for Comment  
+In our experience, electronic voting is an efficient and convenient mechanism for 
+shareholders. In the current electronic delivery process, the shareholder is provided a control 
+number that allows them access to the appropriate Internet voting site. Whether a shareholder 
+votes on the Internet, via phone or mails a proxy card, there must be a unique identifying 
+number for each shareholder to ensure that only those voting are eligible and to protect the 
+integrity of the tabulation process.  
+ 
+While under the proposal there are certain options available to the issuer, the mailing of a 
+postcard style notice would not allow for such account related information under privacy 
+laws. To accommodate a control number, the postcard notice would be required to be mailed 
+in a sealed envelope given the confidential nature of such information. A postcard notice 
+without a control number will make it more difficult for a shareholder to login to an Internet 
+voting platform. It will however, be completely feasible for a shareholder to browse and 
+search materials online without a control number. 
+ 
+Additionally, we would like to ensure that a combination notice and proxy card is permitted 
+to maximize cost savings.  
+ 
+The option to provide a downloadable proxy card (or VIF for beneficial shareholders), in our 
+view, presents practical challenges if downloadable forms do not include a control number 
+issued and recognized by the proxy tabulator’s processing system. Without this form of 
+control we believe a downloadable proxy card may encourage non-eligible voters to attempt 
+to vote, and it would require significant manual processing when received in the mail. Hence, 
+we strongly recommend that downloadable proxy cards be eliminated from the proposal 
+unless such controls are readily available. In our view, if a shareholder is willing to access 
+the Internet to download a proxy card, print, complete and mail it, we believe the shareholder 
+can be educated to use Internet voting which requires no return mail and does not present the 
+same authentication challenges. With Internet voting, shareholders will also be able to print a 
+voting confirmation to confirm how their votes were cast. 
+ 
+VI. Bundling of the Proxy Statement with the Proxy Card  
+We do not believe issuers should be required to provide the proxy card and proxy statement 
+in the same media. Rather, it should represent a choice as to how information is 
+communicated. We do agree that if the proxy statement is provided in a different media than 
+the notice or proxy card, language should be included to direct shareholders to the Internet or 
+the toll-free number to obtain such information. However, we note that others have strong 
+views that, if separating the proxy card and proxy statement is allowed, issuers will purposely 
+separate the card and the statement in order to influence voting outcomes by discouraging 
+shareholder votes and relying instead on broker discretionary voting. While we believe 
+Comments on File No.  S7-10-05 
+ 
+ 
+ 
+ 
+5 
+discussion about the broker discretionary vote is important, we do not believe it should be 
+allowed to sidetrack or delay the implementation of this proposal. 
+ 
+While simplistic, in our view, we do not believe that the proposed model will materially 
+change shareholder voting behavior – those who vote will continue to vote, and those who 
+don’t won’t vote. We do not believe the proposed model will materially increase the 
+dependency on the broker discretionary vote. In fact, the proposed model may actually 
+increase voting by streamlining the process. 
+ 
+VII. Internet Posting of Proxy Materials 
+To maximize the cost savings available through the use of this model, it is in an issuer’s best 
+interest to provide easy access to user-friendly materials. We do not believe that EDGAR, in 
+its current form, should be allowed as the only access point to view materials. While we are 
+proponents of “issuer choice”, we agree is appropriate to set minimum requirements similar 
+to those proposed. We do believe issuers should be given some latitude in the appearance of 
+the online documents due to the nature of the user-friendly tools that are available and may 
+be developed. Issuers should not be required to publish an “exact” image of the printed copy, 
+but rather should provide the same information to shareholders. 
+ 
+With regard to accessing materials online, in our view, it is not necessary to require a 
+shareholder to go through extra “preregistration” steps to access publicly available materials. 
+Authentication will however remain a prerequisite for online voting, as is the case today. 
+ 
+VIII. Period of Reliance on the Proposed Model 
+As proposed, we agree that issuers should be able to choose the method of furnishing 
+materials with respect to a particular meeting without binding their decision for subsequent 
+meetings. We also agree that shareholders should not be bound by their last choice for 
+subsequent meetings. 
+ 
+Request for Comment  
+We believe an issuer should have the right to choose whether to store a shareholder’s request 
+for paper for future meetings. Depending on the demographics of the issuer’s shareholder 
+base, it may make sense to retain requests for paper if there is a significant population of 
+shareholders who will continuously ask for copies. We do not believe regulation should 
+mandate this option unless the proposal would otherwise be defeated. 
+ 
+IX. Additional Soliciting Materials 
+The posting of additional soliciting materials should be permitted not required. We don’t 
+believe the intent of the proposed amendments is to add requirements that do not apply under 
+the existing rules for paper distribution. 
+ 
+X. Requests for Copies of Proxy Material 
+The fulfillment of requests for material is common in the industry, though not necessarily 
+under the proposed timeframe. Given the structure of today’s fulfillment systems, we 
+recommend that three business days is more appropriate than the proposed two business 
+days. We do agree that the requests should be fulfilled promptly by the issuer and that 
+Comments on File No.  S7-10-05 
+ 
+ 
+ 
+ 
+6 
+shareholders should be responsible for requesting materials in sufficient time to receive and 
+review them prior to voting.  
+ 
+Requests for Comment  
+Under the proposed model, it is the shareholder’s responsibility to request materials in 
+sufficient time to review them and vote and we believe it would be appropriate to require that 
+the notice contain a “last date to request” of 15 days prior to the meeting. This would allow 3 
+days to mail requested materials, 3-4 days for postal delivery, 6-7 days to review and return a 
+proxy card and 1-2 days to process the vote. We do not find it practical to mandate a 
+minimum period of time after receipt of the notice during which shareholders can request a 
+copy.  
+ 
+Many issuers currently mail materials more than 30 days in advance of the meeting and while 
+it might be practical to allow a longer fulfillment time in such cases, we believe the copies 
+should be mailed promptly, within three business days. First class mail is the only alternative 
+available given the required turnaround time. Issuers should not be required to send material 
+by an expedited means (e.g., courier).  
+ 
+Notwithstanding higher postage and transactional costs, we still expect issuers to save 
+significant sums given the small number of shareholders that we expect will request paper 
+copies than receive them today.  
+ 
+Establishing precise print requirements for a company’s first year under the notice and access 
+model will require a degree of conservative estimation. We do not believe the regulations 
+should include a procedure to mitigate the possibility that an issuer will run out of paper 
+copies. Issuers, we believe, will be conservative in the first year and will print sufficient 
+copies to fulfill all shareholder requests rather than breach the regulations. 
+ 
+XI. The Role of Intermediaries 
+With regard to what intermediaries are allowed to do, we believe the intermediaries should 
+be required to abide by an issuer’s decision regarding the notice model used each year. The 
+issuer should provide the intermediary the exact notice they have filed and, other than voting 
+instructions, intermediaries should not be permitted to make changes to the notice.  
+ 
+We believe the issuer should be responsible for the publishing of material on a website. It 
+would be preferable to require that intermediary’s link to the designated site rather than seek 
+to replicate the information unless they are specifically authorized by the issuer to do so. 
+ 
+Where the issuer elects to deliver a postcard notice, we believe that the issuer need only 
+provide the intermediary with one copy of the notice, to be printed and delivered to beneficial 
+holders by the intermediary.  
+ 
+Given the majority of accounts represent beneficial shareholders, this is where a significant 
+portion of the cost savings can be captured in this segment. There are however some 
+logistical issues to be resolved.  
+ 
+Comments on File No.  S7-10-05 
+ 
+ 
+ 
+ 
+7 
+While under this proposal, the distribution of the notice and tabulation of votes remains 
+unchanged, a change we recommend is that issuers should have the right to choose a 
+fulfillment agent and should be given the information necessary to enable them to satisfy on-
+demand requests from all shareholders – registered and beneficial, excluding OBOs. 
+Information should include: 
+– the total number of beneficial accounts (broken down by NOBO and OBO) 
+– the total number of electronic delivery affirmative consents (broken down by OBO 
+and NOBO) 
+– the names addresses and relevant control details for voting purposes (excluding 
+OBOs) 
+ 
+Under this model, OBOs are most affected as they will need to contact their intermediaries to 
+request copies of materials. This raises a broader policy issue about who should bear the cost 
+of OBO communications. 
+ 
+XIII. NYSE Fees 
+Request for Comment 
+Consistent with today’s paper-based system, it is appropriate to permit intermediaries to 
+charge the issuer for forwarding copies to beneficial shareholders provided:  
+a) intermediaries follows the mode of communication chosen by the issuer, 
+b) issuers have the ability to choose the agent for beneficial shareholder on-demand 
+fulfillment, and  
+c) issuers are not precluded from accessing relevant beneficial shareholder information, 
+perhaps while initially excluding OBOs.  
+The cost for communicating to OBOs should be borne by either the shareholder or their 
+nominee.  
+ 
+The intermediary incentive fee was instituted under a paper default model, thus the incentive 
+was to promote electronic delivery. The proposed system however, will create an electronic 
+default model rendering the incentive fee concept obsolete. In its place, we believe the NYSE 
+should establish new (lower) fees to reflect the streamlined process for: 
+- 
+mailing the notice, proxy card, and proxy statement  
+- 
+mailing notice and proxy card (if permitted) 
+- 
+mailing notice postcard (with and without an envelope) 
+- 
+electronic delivery (reflecting the cost of electronic distribution, not a historic 
+incentive fee) 
+ 
+We believe the NYSE will need to revise its fees as the commercial cost of a postcard notice 
+(inside an envelope) is approximately 15 cents, while a notice with a proxy card and business 
+reply envelope costs around 28 to 35 cents and e-mail distribution costs between 15 and 20 
+cents, depending on volume. These costs compare unfavorably to current NYSE rates of 45 
+cents to $1.00.  
+ 
+In addition, we believe the SEC and NYSE should not set fees but rather facilitate 
+competition to enable fees to be set by the market. 
+ 
+Comments on File No.  S7-10-05 
+ 
+ 
+ 
+ 
+8 
+XIV. Furnishing Internet Proxy Material by Soliciting Parties other than Issuers 
+The proposed model provides a cost effective mechanism for shareholders as well. We 
+believe the same requirements should apply and the same issues previously discussed in the 
+document should be addressed.  
+ 
+While we believe the new model will provide some cost relief to shareholders wishing to 
+enter into a proxy contest, we do not believe proxy contests will be waged frivolously as 
+many other expenses must be incurred beyond distribution.  
+ 
+XV. Business Combination Transactions 
+We believe the inclusion of business combinations in the proposed model could result in 
+significant incremental cost savings. Allowing the notice and access model, with required 
+language directing shareholders to the materials for specific reasons, may increase 
+shareholder review and voting as they would have the ability to search for information more 
+easily. In principle, we see no reason to exclude business combinations from the notice and 
+access model. However, perhaps the SEC would consider the inclusion of business 
+combinations at a later date if not adopted with the proposed model. 
+ 
+XVI. Cost-Benefit Analysis  
+Until such time as, a) greater certainty is delivered with regard to the proposal, b) service 
+providers have defined and priced their services, and c) an estimate is made of how many 
+copies would be required to fulfill requests, it is difficult for issuers to calculate total cost 
+savings. However, as a general principle, we believe significant savings will be captured 
+through reduced paper and postal costs and potentially lower NYSE fees, partially offset by 
+increased unit costs for on-demand fulfillment at low volumes and first class postage. 
+ 
+We have consulted our Client Advisory Board. These clients support the proposed model, 
+particularly given its optional nature. While intuitively they believe there will be significant 
+cost savings, they are still trying to calculate the full financial benefits given there is no 
+historical precedent from which to determine on-demand fulfillment requirements. 
+ 
+XVII. Ease of Communications 
+As the proposal does not seek to modify the intermediary distribution rules or the voting 
+mechanics, the Internet Availability of Proxy Materials proposal does not fundamentally 
+improve the communications channel between companies and their beneficial shareholders. 
+Our Client Advisory Board (indicative of our clients in general) continues to ask about ways 
+to facilitate a more effective, efficient and direct communications process. In this regard, we 
+urge the SEC to next turn its attention to the issue of direct communications, greater 
+transparency and competition in the marketplace.  
+ 
+ 
+ 
+ 
+ 
+Comments on File No.  S7-10-05 
+ 

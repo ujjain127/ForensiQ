@@ -1,0 +1,367 @@
+Mohammed A. Kalkhan, Ph.D.
+Natural Resource Ecology Laboratory
+Colorado State University
+Fort Collins, Colorado 80523-1499, USA
+Phone: 970-491-5262, Fax: 970-491-1965
+mohammed@nrel.colostate.edu
+Fingerprinting Native and Non-Native 
+Biodiversity in the U.S.: Phase I
+Investigators
+Mohammed A. Kalkhan1, Thomas J. Stohlgren2, 
+John L. Schnase3, Jeffrey T. Morisette3, and Jeffrey A. Pedelty3
+1Natural Resource Ecology Laboratory, Colorado State University
+2USGS National Institute of Invasive Species Science Fort Collins
+Science Center
+3NASA Goddard Space Flight Center
+ACKNOWLEDGEMENTS
+Funding – Resources - Support
+Research Team
+Paul Evangelista1, Catherine Jarnivich2, Tracy Davern1,2, Jim Graham1, 
+Greg Newman1, Alycia Crall1, Sunil Kumar1, Sara Simonson1, 
+Rick Shory1, Dave Barnett1, Geneva Chong1,2 
+Partners and Collaborators
+K. Beck, C. Brown, R. Reich, W. Cai, J. Ericson, C. Flather, J. Fridley, P. Fuller, J. 
+Freeman, J. Gentle, M. Hunter, J. Kartesz, E. Martinson, L. Master, L. Meyerson, S. 
+Naeem, J. Norman III, P. Omi, B. Peterjohn, D. Sax, E. Seabloom, M. Smith, J. 
+Sutton, E. Stafford, J. Stachowicz, P. Whirly, A. Ullah3, J. Smith3, Ed Sheffner3, 
+Woody Turner3
+1Natural Resource Ecology Laboratory, Colorado State University
+2USGS National Institute of Invasive Species Science Fort Collins Science Center
+3NASA Goddard Space Flight Center
+• Quantifying patterns of biodiversity has been 
+hampered by poor taxonomic knowledge of 
+small and uncommon organisms, woefully 
+incomplete surveys over large areas (in the 
+US and elsewhere), inadequate coupled 
+models of field data and high-resolution 
+remote sensing data, and little systematic 
+monitoring to detect the status and trends of 
+all but the most common or charismatic 
+species.
+Challenges with Fingerprinting Biodiversity
+• Fingerprinting biodiversity in the US is 
+facilitated by more complete taxonomic 
+information for many taxa and long-term 
+systematic monitoring of some taxa (e.g., 
+birds, fishes, native and non-native vascular 
+plants, mammals, amphibians) that jointly 
+may provide some insights on the patterns of 
+other biological groups.  Adequate data are 
+at least available to test this basic 
+assumption.
+Challenges with Fingerprinting Biodiversity
+• Because there currently exists no coherent 
+scientific or technological framework for 
+biodiversity assessments (especially at 
+continental scales), we embarked on a 
+multidisciplinary research study to advance 
+the science and technology of mapping and 
+modeling patterns of biodiversity (i.e., 
+biological fingerprinting).
+Background Justification for the Project
+• We also sought to document the patterns of 
+the invasion of harmful non-native plants, 
+fishes, and birds in the U.S.
+Researc Objectives: Based on Interdisciplinary 
+Research Incorporating 
+• Data from several remote sensing satellites;
+• Synthesis of biodiversity field data sets from 
+Department of Interior (USGS, BLM, NPS, BOR), 
+Department of Agriculture (USFS, APHIS, ARS), 
+non-government organizations (The Nature 
+Conservancy, NatureServe), and universities; 
+• New Multi-scale Geospatial Modeling-Mapping 
+Algorithms (Web Intrenet Tools); and 
+• High-Performance Computing Capabilities 
+(HPCC-NASA-USGS) to document, map, and 
+forecast the distributions and abundances of 
+selected native and non-native plants and 
+animals in the United States.
+Researc Objectives: Based on Interdisciplinary 
+Research Incorporating 
+• Our state of the art research approach is proving 
+successful at local and landscape scales. 
+• We focused on Tamarix spp. (tamarisk, salt 
+cedar) and Bromus tectorum (cheatgrass) as test 
+species for high-resolution mapping and 
+modeling of harmful invasive species; however, 
+our study has expanded well beyond these two 
+species examining other invasive plant species, 
+wildlife and pathogens. 
+• In addition, we tested a new field pixel nested plot 
+(PNP- Kalkhan et. al., 2007a,b) sampling design 
+with link to geospatial information data for using 
+geostatistical modeling and thematic mapping 
+applications into forecasting biodiversity, 
+environmental,  and ecological parameters.
+Geospatial Modeling- Thematic Mapping 
+Web Internet Tools 
+Through Multiple- Collaborative Teams:
+NREL-CSU, USGS-FORT, & NASA-GFSC
+Core Database Design
+Where
+Who & When
+What
+Area
+(Name, Code)
+Visit
+(Date)
+Organism Data
+(TSN)
+Spatial Data
+(X, Y)
+Treatments
+Attributes
+Projects
+Taxon Units
+Organizations
+Pathways
+Core Database Design
+Where
+Who & When
+What
+Area
+(Name, Code)
+Visit
+(Date)
+Organism Data
+(TSN)
+Spatial Data
+(X, Y)
+Treatments
+Attributes
+Projects
+Taxon Units
+Organizations
+Pathways
+A Global Organism Detection and Monitoring (GODM) System
+for Plants, Animals, and Pathogens
+Cultural Change
+IT Infrastructure
+Expertise
+Graham, J., G. Newman, C. Jarnevich, R. Shory, T. Stohlgren. 2007.
+A Global Organism Detection and Monitoring system for
+Non-native species. Ecological Informatics 2:177-183. 
+The Keys!
+PlotName
+Date
+UTM-E
+UTM-N
+Elev (m)
+Veg 
+Community
+tot no. sp
+no. 
+native
+no. 
+exotic
+tot veg 
+cov
+BRTE 
+cov
+Sand
+Silt
+Clay
+205
+5/22/01
+422424
+4159674
+2215 Ponde Pine
+49
+42
+1
+14.4
+0.05
+64.25122
+12.82617
+22.92261
+207
+5/23/01
+423256
+4161403
+2258 Piny-Junp
+22
+19
+42.4
+60.03738
+10.24955
+29.71307
+206
+5/23/01
+423484
+4160289
+2215 Pinyon Pine
+25
+19
+33.85
+41.51793
+18.89199
+39.59007
+208
+5/28/01
+415217
+4122711
+2168 Sagebrush
+27
+19
+6
+14.45
+0.3
+85.8724
+4.084044
+10.04356
+209
+5/28/01
+415286
+4123073
+1447 Peren. Riparian
+9
+5
+4
+38.8
+84.19852
+8.482759
+7.318718
+210
+5/29/01
+427169
+4146438
+1447 Piny-Junp
+37
+33
+2
+16.3
+23.99201
+41.83134
+34.17665
+212
+5/30/01
+404538
+4114473
+1932 Juniper
+34
+32
+1
+7.2
+0.1
+58.27137
+17.90272
+23.82591
+211
+5/29/01
+426994
+4146803
+1932 Sagebrush
+37
+32
+3
+18.3
+42.65982
+21.33309
+36.00709
+Various Data Types & GIS: 
+Helping Resource Management Activities
+The Maxent Model was Tested on the Predicting White Pine Blister Rust 
+Across Western USA Forests, Kumar et al. In Progress)
+N
+0
+500
+1,000
+250
+km
+­
+Diddymo, an invasive diatom infesting streams throughout the 
+U.S., was modeled using GARP Model (Kumar et al. In Review).
+N
+At Hart Mountain 
+Wildlife Refuge 
+Oregon, we tested 
+logistic regression 
+analyses to model 
+areas at risk for 
+white top infestation 
+(Barnett et al. Work 
+in Progress).
+PRES
+Mean=0.50223
+SD=0.50055
+N=448
+Mean=0.28505
+SD=0.45250
+N=214
+Mean=0.70085
+SD=0.45887
+N=234
+OVRDST<314.55847
+Mean=0.00000
+SD=0.00000
+N=57
+Mean=0.38854
+SD=0.48898
+N=157
+OVRDST<1731.83765
+CART models statistically partition the dependent data into two homogenous 
+groups, repeating the procedure for each group in a continuing process that 
+forms a hierarchal tree based on the predictive strength of each environmental 
+variable (Evangelista et al. In Press).
+N
+Tamarisk habitat suitability for the continental U.S. by Morisette et al. 2006.
+Tamarisk Habitat Suitability for the Continental U.S. by Evangelista et al. Work in 
+Progress.
+Using the Envelope model, the number of non-native species was tracked 
+over time in selected counties in Washington (Jarniviche et al. In Review).
+• Understanding the geography and topography of the 
+continental U.S. helped set the stage for evaluating patterns 
+of species diversity. 
+• Data from the 3,004 county centroids showed that as latitude 
+increased from Mexico to Canada, mean annual temperature 
+sharply declined (r = -0.91), and mean annual precipitation 
+declined (r = -0.42) with exceptions no doubt in mountainous 
+areas.  
+• Due to the shape and topography of the US, increasing 
+latitudes coincided with increasing distance to coastlines (r = 
+0.54) and increasing mean elevation (r = 0.48)
+The Geographic Setting
+ We are not yet satisfied that we achieved our 
+objectives.  Each of our data sets could be 
+improved, as could the ancillary data layers 
+used in geospatial modeling and the models 
+themselves.
+Conclusions and Future Directions
+ This is the first attempt to evaluate patterns of 
+native and non-indigenous vascular plants, birds, 
+and fishes at multiple spatial scales relative to 
+environmental factors, human population, and 
+cross-correlations among the biological groups.  
+Additional data on plant species richness are 
+needed for many counties in the US (i.e., those 
+with less than a few hundred native plant species 
+seem suspiciously low).  
+Conclusions and Future Directions
+ Non-indigenous fish data have not all been 
+refined to the 8-HUC (Hydolocgic Unit 
+Code) drainage scale.  Additional data at 
+higher resolutions will be helpful in refining 
+spatially predictive models of species 
+richness and density.
+Conclusions and Future Directions
+ Need to more closely link richness and 
+density to abundance, cover, and 
+dominance, and to link species-level data to 
+habitat quantity, quality, and connectedness 
+by roads and waterways (i.e., corridors of 
+invasion) and barriers to invasion.  
+Conclusions and Future Directions
+ Caveats aside, we are gaining a much more 
+robust general geospatial model –thematic 
+maps of successful invasions by multiple 
+biological groups.  The general patterns 
+observed here provide insights into changes 
+needed for prevention, early detection and 
+rapid response, research, control, and 
+monitoring.
+Conclusions and Future Directions
+Questions, 
+Comments, 
+!!!!!!!!!!!!!!!
+Thank you

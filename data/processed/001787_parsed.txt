@@ -1,0 +1,2038 @@
+Publication No. 91-108
+June 1991
+Current Intelligence Bulletin 54:
+Environmental Tobacco
+Smoke in the Workplace - Lung Cancer and Other Health
+Effects1
+The National Institute of Occupational Safety and Health2
+Current Intelligence Bulletins (CIBs) are issued by
+the National Institute for Occupational Safety and Health
+(NIOSH), Centers for Disease Control, Atlanta, Georgia,
+to
+disseminate
+new
+scientific
+information
+about
+occupational hazards. A CIB may draw attention to a
+formerly unrecognized hazard, report new data on a
+known hazard, or disseminate information on hazard
+control.
+CIBs are distributed to representatives of academia,
+industry, organized labor, public health agencies, and
+public interest groups, as well as to Federal agencies
+responsible for ensuring the safety and health of workers.
+Copies are available to individuals upon request
+from the Division of Standards Development and
+Technology
+Transfer,
+NIOSH
+(Robert
+A.
+Taft
+Laboratories, 4676 Columbia Parkway, Cincinnati, Ohio
+45226).
+We welcome suggestions concerning the
+content, style, and distribution of these documents.
+The purpose of this bulletin is to disseminate
+information about the potential risk of cancer to workers
+exposed to environmental tobacco smoke (ETS).
+In
+1964, the Surgeon General issued the first report on
+smoking and health, which concluded that cigarette
+smoking causes lung cancer. Since then, research on the
+toxicity and carcinogenicity of tobacco smoke has
+demonstrated that the health risk from inhaling tobacco
+smoke is not limited to the smoker, but also includes
+those who inhale ETS. ETS contains many of the toxic
+agents and carcinogens that are present in mainstream
+smoke, but in diluted form.
+Recent epidemiologic
+studies support and reinforce earlier published reviews
+by the Surgeon General and the National Research
+Council demonstrating that exposure to ETS can cause
+lung cancer. These reviews estimated the relative risk of
+lung cancer to be approximately 1.3 for a nonsmoker
+living with a smoker compared with a nonsmoker living
+with a nonsmoker.
+In addition, recent evidence also
+suggests a possible association between exposure to ETS
+and an increased risk of heart disease in nonsmokers.
+Although
+these
+data
+were
+not
+gathered
+in
+an
+occupational setting, ETS meets the criteria of the
+Occupational Safety and Health Administration (OSHA)
+for classification as a potential occupational carcinogen
+[Title 29 of the Code of Federal Regulations, Part 1990].
+NIOSH therefore considers ETS to be a potential
+occupational carcinogen and recommends that exposures
+be reduced to the lowest feasible concentration.
+All
+available
+preventive
+measures
+should
+be
+used
+to
+minimize occupational exposure to ETS. NIOSH urges
+employers to disseminate this information to employees.
+NIOSH
+also
+requests
+that
+professional
+and
+trade
+associations and unions inform their members about the
+potential hazards of exposure to ETS. Readers seeking
+more detailed information about the studies cited in this
+bulletin are urged to consult the original publications.
+J. Donald Millar, M.D., D.T.P.H. (Lond.)
+Assistant Surgeon General
+Director, National Institute for
+Occupational Safety and Health
+Centers for Disease Control
+1.
+This document is NIOSH Publication No. 91-108. Publication date: June 1991.
+2.
+National Institute for Occupational Safety and Health, 200 Independence Avenue, SW, Washington, DC, 20201. Phone: (800)356-4674.
+Disclaimer: Mention of any company or product does not constitute endorsement by the National Institute for Occupational Safety and Health.
+CIB 54: Environmental Tobacco Smoke in the Workplace
+Page 2
+ABSTRACT
+The National Institute for Occupational Safety and
+Health (NIOSH) has determined that environmental
+tobacco smoke (ETS) is potentially carcinogenic to
+occupationally exposed workers. In 1964, the Surgeon
+General issued the first report on smoking and health,
+which concluded that cigarette smoke causes lung
+cancer.
+Since then, research on the toxicity and
+carcinogenicity of tobacco smoke has demonstrated that
+the health risk from inhaling tobacco smoke is not
+limited to the smoker, but also includes those who inhale
+ETS.
+ETS contains many of the toxic agents and
+carcinogens that are present in mainstream smoke, but in
+diluted form. Recent epidemiologic studies support and
+reinforce earlier published reviews by the Surgeon
+General
+and
+the
+National
+Research
+Council
+demonstrating that exposure to ETS can cause lung
+cancer. These reviews estimated the relative risk of lung
+cancer to be approximately 1.3 for a nonsmoker living
+with a smoker compared with a nonsmoker living with
+a nonsmoker.
+In addition, recent evidence suggests a
+possible association between exposure of nonsmokers to
+ETS and an increased risk of heart disease.
+Although these data were not gathered in an
+occupational setting, ETS meets the criteria of the
+Occupational Safety and Health Administration (OSHA)
+for classifying substances as potential occupational
+carcinogens
+[Title
+29
+of
+the
+Code
+of
+Federal
+Regulations, Part 1990]. NIOSH therefore recommends
+that ETS be regarded as a potential occupational
+carcinogen in conformance with the OSHA carcinogen
+policy, and that exposures to ETS be reduced to the
+lowest
+feasible
+concentration.
+Employers
+should
+minimize occupational exposure to ETS by using all
+available preventive measures.
+ACKNOWLEDGMENTS
+This bulletin was prepared by the Division of
+Standards
+Development
+and
+Technology
+Transfer
+(DSDTT), Richard W. Niemeier, Ph.D., Director, and the
+Division of Surveillance, Hazard Evaluations, and Field
+Studies (DSHEFS), Lawrence J. Fine, M.D., Director.
+David M. Votaw, DSDTT, developed this document with
+the help of Kyle Steenland, Ph.D., DSHEFS, who
+developed the epidemiology section. The contributions
+of other National Institute for Occupational Safety and
+Health (NIOSH) personnel are gratefully acknowledged:
+David D. Bayse, Ph.D.; Philip J. Bierbaum; Robert M.
+Castellan, M.D.; Jerome P. Flesch; Hugh J. Hansen,
+Ph.D.; Bryan D. Hardin, Ph.D.; G. Kent Hatfield, Ph.D.;
+Frank J. Hearl; Marvin D. Mills; William J. Moorman,
+Ph.D.; John E. Parker, M.D.; Edward L. Petsonk, M.D.;
+Laurence D. Reed; Leslie T. Stayner, Ph.D.; and Ralph
+D. Zumwalde.
+Ruth E. Grubbs and Anne C. Hamilton performed
+editorial review and coordinated production; Vanessa L.
+Becks and Susan R. Kaelin provided editorial assistance
+and produced camera-ready copy; and Judith G. Curless
+typed the draft.
+INTRODUCTION
+The Surgeon General has concluded that tobacco
+smoke is a carcinogen and an important risk factor for
+heart disease.
+The purpose of this bulletin is to
+disseminate
+information
+about
+the
+potential
+carcinogenicity of environmental tobacco smoke1 (ETS)
+in the workplace. Evidence is now clear that the health
+risk from inhaling tobacco smoke is not limited to the
+smoker, but also includes those who inhale ETS. Recent
+epidemiologic studies of nonsmokers exposed to ETS
+have shown an increased relative risk for lung cancer
+compared with unexposed nonsmokers.
+In addition,
+recent evidence suggests that exposure of nonsmokers to
+ETS may be associated with an increased risk of heart
+disease.
+This
+bulletin
+describes
+the
+results
+and
+implications of these studies.
+The
+conclusions
+and
+recommendations
+in
+this
+Current Intelligence Bulletin (CIB) are based on the
+following:
+Reports of the Surgeon General on the health effects
+of tobacco smoke
+Comparison of the chemical composition of ETS
+with that of mainstream smoke2 (MS).
+Results
+from
+recent
+epidemiologic
+studies
+of
+nonsmokers exposed to ETS
+Methods for controlling involuntary exposures to
+ETS in the workplace are also discussed.
+REPORTS OF THE SURGEON GENERAL ON
+THE HEALTH EFFECTS OF TOBACCO
+SMOKE
+In 1964, the Surgeon General issued the first report
+on smoking and health, which concluded that cigarette
+smoke causes cancer [DHEW 1964]:
+Cigarette smoking is causally related to lung
+cancer in men; the magnitude of the
+effect
+of cigarette smoking far outweighs all other
+factors.
+The data for women, though less
+extensive, point in the same direction.... The risk
+of
+developing
+lung
+cancer
+increases
+with
+CIB 54: Environmental Tobacco Smoke in the Workplace
+Page 3
+duration
+of
+smoking
+and
+the
+number
+of
+cigarettes smoked per day, and is diminished by
+discontinuing smoking.
+Since 1964, evidence has continued to support the
+causal relationship between exposure to cigarette smoke
+and lung cancer, demonstrating that risk increases with
+amount and duration of smoking. Subsequent research
+has increased our knowledge about the toxicity and
+carcinogenicity of tobacco smoke and the risks of
+exposure. Additional support for the Surgeon General’s
+conclusion has come from (1) animal studies that
+demonstrated the carcinogenicity of tobacco smoke
+condensate, and (2) analytical studies demonstrating that
+tobacco smoke contains carcinogens [DHEW 1972;
+DHHS 1982]. Cigarette smoking is the major cause of
+lung cancer (87% of lung cancer deaths) and is estimated
+to account for 30% of all cancer deaths [DHHS 1989].
+The 1964 Surgeon General’s report also pointed out
+that male cigarette smokers have higher death rates from
+heart disease than nonsmokers. Subsequent reports have
+concluded that cigarette smoking is a major cause of
+heart disease and that smoking is a major independent
+risk factor for heart attack [DHEW 1968; DHHS 1983].
+On July 1, 1965, Congress approved the Federal
+Cigarette Labeling and Advertising Act of 1965 (Public
+Use 89-92).
+This law, which became effective on
+January 1, 1966, was the first of a continuing series of
+Federal statutes enacting warning labels to inform the
+public about the health hazards of smoking and,
+subsequently,
+the
+use
+of
+other
+tobacco
+products.
+Presently, the Comprehensive Smoking Education Act
+(Public Law 98-474) [Title 15, SS 1331 of the U.S.
+Code] requires cigarette companies to rotate four health
+warnings on all cigarette packages and in advertisements.
+COMPARISON OF THE CHEMICAL
+COMPOSITION OF ETS AND MS
+ETS
+contains
+many
+of
+the
+toxic
+agents
+and
+carcinogens that are present in MS, but in diluted form
+[DHHS 1986]. The major source of ETS is sidestream
+smoke3 (SS), which contains higher amounts of some
+toxic and carcinogenic agents than MS when it is
+obtained
+in
+its
+undiluted
+form
+under
+laboratory
+conditions [DHHS 1989]. For example, the release of
+volatile N-nitrosamines and aromatic amines is higher in
+SS than in MS.
+A major reason that undiluted SS and MS have
+different concentrations of toxic and carcinogenic agents
+is that peak temperatures in the burning cone of a
+cigarette reach 800 to 900°C during puffing, but only
+600°C
+between
+puffs,
+resulting
+in
+less
+complete
+combustion of tobacco during generation of SS.
+In
+addition, most of the burning cone is oxygen deficient
+during smoldering and produces a strongly reducing
+environment [NRC 1986].
+Table 1 lists 26 toxic and
+carcinogenic agents identified in SS and MS.
+ETS is diluted in the air before it is inhaled and thus
+is less concentrated than MS. However, active inhalation
+of MS is limited to the time it takes to smoke each
+cigarette, whereas exposure to ETS is constant over the
+period spent in the ETS-polluted environment. This fact
+is reflected in measurements of nicotine uptake by
+smokers and ETS-exposed nonsmokers [DHHS 1989].
+POTENTIAL FOR OCCUPATIONAL
+EXPOSURE
+Approximately 29% of the U.S. adult population
+smokes cigarettes, and exposure to ETS is common
+[DHHS 1989]. Many people who report no exposure to
+ETS have low concentrations of cotinine (a metabolite of
+nicotine) in their urine, indicating exposure.
+The
+average concentration of cotinine in the urine of
+nonsmokers has been reported to be approximately 8
+ng/ml compared with approximately 1,200 ng/ml in
+smokers [Cummings et al. 1990]. The National Research
+Council (NRC) estimated that nonsmokers exposed to
+ETS averaged 25 ng of cotinine/ml, and active smokers
+averaged
+1,825
+ng/ml
+[NRC
+1986].
+Husgafvel-
+Pursiainen et al.
+[1987] found that nonsmoking
+restaurant workers had an average urinary cotinine
+concentration of 56 ng/ml, and nonsmokers not exposed
+to ETS had an average concentration of 8.3 ng/ml.
+Other investigators have shown that nonsmokers living
+with smokers have approximately two to three times the
+amount of urinary cotinine as nonsmokers living with
+nonsmokers [Haley et al. 1989].
+Exposures to ETS were measured by respirable
+suspended particulates (<2.5 pm) and averaged 242
+pg/m3 in public access buildings [First 1984; NRC 1986;
+Repace and Lowrey 1980, 1982]. Studies reviewed by
+Repace and Lowrey [1990] suggested a 62% probability
+of exposure to ETS for a nonsmoker in the workplace.
+However, the relative contribution of work versus home
+environments in ETS exposure has not been well
+quantified.
+In addition, social settings outside the
+workplace or the home (e.g., restaurants and bowling
+alleys) may contribute significantly to ETS exposure.
+CIB 54: Environmental Tobacco Smoke in the Workplace
+Page 4
+Table 1. Toxic and carcinogenic agents in undiluted cigarette SS*,**
+Compound
+Type of toxicity
+Amount in SS (per cigarette)
+Ratio of SS/MS
+Vapor phase:
+Carbon monoxide
+T
+26.8-61 mg
+2.5-14.9
+Carbonyl sulfide
+T
+2-3mg
+0.03-0.13
+Benzene
+c
+400-500µg
+8-10
+Formaldehyde
+c
+1,500µg
+50
+3-Vinylpyridine
+SC
+300-450µg
+24-34
+Hydrogen cyanide
+T
+14-110µg
+0.06-0.4
+Hydrazine
+c
+90ng
+3
+Nitrogen oxides
+T
+500-2,000µg
+3.7-12.8
+N-nitrosodimethylamine
+C
+200-1,040ng
+20-130
+N-nitrosopyrrolidine
+C
+30-390ng
+6-120
+Particulate phase:
+Tar
+C
+14-30mg
+1.1-15.7
+Nicotine
+T
+2.1-46mg
+1.3-21
+Phenol
+TP
+70-250µg
+1.3-3.0
+Catechol
+CoC
+58-290µg
+0.67-12.8
+o-Toluidine
+C
+3µg
+18.7
+2-Naphthylamine
+C
+70ng
+39
+4-Aminobiphenyl
+C
+140ng
+31
+Benz(a)anthracene
+C
+40-200ng
+2-4
+Benzo(a)pyrene
+C
+40-70ng
+2.5-20
+Quinoline
+C
+15-20µg
+8-11
+N’-nitrosonornicotine
+C
+0.15-1.7µg
+0.5-5.0
+NNK
+C
+0.2-1.4µg
+1.0-22
+N-nitrosodiethanolamine
+C
+43ng
+1.2
+Cadmium
+C
+0.72µg
+7.2
+Nickel
+C
+0.2-2.55µg
+13-30
+Polonium-210
+C
+0.5-1.6pCi
+1.06-3.7
+*
+Sources: DHHS [1989]; Hoffmann and Hecht [1989].
+**
+Abbreviations: C, carcinogenic; CoC, cocarcinogenic; MS, mainstream smoke; SC, suspected carcinogen; SS,
+sidestream smoke; T, toxic; T?, tumor promoter; NNK, 4-(methyl-nitrosamino)-(3-pyridyl)- 1 -butanone.
+On the basis of urinary cotinine concentrations, the
+NRC [1986] concluded that nonsmokers exposed to ETS
+absorb the equivalent of 0.1 to 1.0 cigarette per day. On
+the basis of 1985 data, NIOSH estimates that each
+cigarette smoker in the United States smokes an average
+of about 21 cigarettes per day [NCHS 1988]. Blood and
+urine samples analyzed for vapor phase nicotine indicate
+that nonsmokers exposed to ETS absorb about 1% of the
+tobacco combustion products absorbed by active smokers
+[NRC 1986; DHHS 1986].
+EPIDEMIOLOGIC STUDIES OF
+NONSMOKERS EXPOSED TO ETS
+Lung Cancer
+Surgeon General
+The Surgeon General first addressed the possible
+health effects of involuntary smoking in 1972 [DHEW
+1972]. Evidence associating adverse health effects with
+ETS exposure continued to be reported, and in 1986, the
+Surgeon
+General’s
+report
+entitled
+The
+Health
+Consequences of Involuntary Smoking focused entirely
+on this subject [DHHS 1986]. This report cited 3 cohort
+CIB 54: Environmental Tobacco Smoke in the Workplace
+Page 5
+studies
+and
+10
+case-control
+studies
+that
+together
+documented an approximately 1.3-fold increase in the
+risk of lung cancer among nonsmoking women, usually
+wives exposed to their husbands’ ETS.
+The 1986
+Surgeon General’s report concluded that involuntary
+smoking is a cause of disease (including lung cancer) in
+healthy nonsmokers; however, more data on the dose and
+distribution of ETS exposure in the population are
+needed to accurately estimate the magnitude of risk in
+the U.S. population [DHHS 1986].
+NRC [1986]
+The NRC also reviewed the important epidemiologic
+data available in 1986 (3 cohort studies and 10 case-
+control studies) on the adverse health effects of ETS
+exposure. These studies were the same ones reviewed
+by the Surgeon General, except for one case-control
+study.
+The statistical power of a single study is often
+small, but it can be improved by analyzing all the data
+simultaneously across all studies (meta-analysis). Using
+this approach, the NRC estimated that the relative risk
+for nonsmokers married to smokers was 1.25 compared
+with nonsmokers married to nonsmokers, taking into
+account the possible misclassification of smokers as
+nonsmokers. Using data from urinary cotinine tests to
+estimate the extent of ETS exposure, the NRC also
+estimated that the relative risk of lung cancer for
+nonsmokers exposed to ETS at home, at work, or
+elsewhere
+was
+1.42
+compared
+with
+unexposed
+nonsmokers, with a plausible range of 1.24 to 1.61. The
+NRC concluded that "the weight of the evidence derived
+from epidemiologic studies shows an association between
+ETS exposure of nonsmokers and lung cancer that, taken
+as a whole, is unlikely to be due to chance or systematic
+bias."
+Wald et al. [1986]
+In another quantitative meta-analysis covering the
+same studies reviewed by the NRC, Wald et al. [1986]
+reached similar conclusions.
+Their analysis showed a
+30% greater risk of lung cancer (relative risk 1.30) for
+nonsmokers living with smokers relative to nonsmokers
+living with nonsmokers. The authors concluded that this
+result was unlikely to have occurred by chance and that
+it underestimated the true risk associated with exposure
+to ETS because nonsmokers living with nonsmokers are
+exposed to ETS in other settings (e.g., at work).
+The
+relative risk is thus based on a reference group that is
+partially exposed.
+Blot and Fraumeni [1986]
+Blot and Fraumeni [1986] analyzed the same studies
+reviewed by the Surgeon General and the NRC except
+for one case-control study. Combining data across the
+reviewed studies, these investigators concluded that the
+overall relative risk for nonsmoking women married to
+husbands who smoked was 1.3 (95% confidence interval
+[CI], 1.1- 1.5) compared with nonsmoking women
+married to nonsmokers. These authors also concluded
+that the relative risk for nonsmokers exposed to heavy
+smoking was 1.7 (95% CI, 1.4-2.1). They found that the
+epidemiologic studies strongly suggested an increased
+risk that was biologically plausible, but that limitations
+in assessing ETS exposure had introduced uncertainty.
+Eight additional studies of lung cancer and ETS
+exposure among those who never smoked have been
+published since the reviews by the Surgeon General
+[DHHS 1986; NRC 1986; Wald et al. 1986; Blot and
+Fraumeni 1986] (Table 2).
+Hole et al. [1989]
+Hole et al. [1989] updated an earlier cohort study
+[Gillis et al. 1984] of 3,960 men and 4,037 women in
+Scotland. These men and women had lived in the same
+households and had been followed for an average of 11.5
+years. They were aged 45-64 at the time of the original
+interviews, which took place from 1972 to 1976. The
+unexposed group was defined as persons who never
+smoked and lived with nonsmokers at the time of
+interview. The exposed group was composed of persons
+who never smoked and lived with smokers.
+A third
+group was composed of persons who had smoked during
+some period in the past. In the followup study [Hole et
+al. 1989], only 2 deaths from lung cancer occurred in the
+unexposed group and 7 in the exposed group, compared
+with 147 deaths from lung cancer among smokers. The
+adjusted relative risk for the exposed group was 2.41
+(95% CI, 0.45-12.83), compared with a relative risk of
+10.64 for persons who had smoked in the past. The risk
+for smokers was the same whether or not they were
+exposed to ETS.
+Brownson et al. [1987]
+Brownson et al. [1987] conducted a case-control
+study of persons diagnosed with adenocarcinoma of the
+lung. A subset of 19 nonsmoking women was identified
+from this group and was compared with 47 controls.
+Exposure to ETS was classified as less than 4 hr/day or
+more than 4 hr/day (there was no specification of when
+this exposure occurred).
+The odds ratio for those
+exposed more than 4 hr/day was 1.68 (95% CI,
+CIB 54: Environmental Tobacco Smoke in the Workplace
+Page 6
+0.39-2.97) after adjustment for confounders, whereas the
+Table 2. Recent studies of lung cancer among ETS-exposed persons who never smoked
+Study
+Design
+Exposure definition
+Relative risk*
+Comment
+Update of Gillis et al.
+[1984] by Hole et al.
+12-yr followup, 3,960
+men and 4,037 women
+aged 45-64 in 1972-76
+Living with smoker or
+ex-smoker at the time
+of the survey
+2.41 (CI, 0.45-12.83; 7
+observed
+Adjusted for age, sex,
+and social class
+Brownson et al.
+[1987]
+19 cases, 47 controls
+Exposure for >4 hr\day
+1.68 (CI, 0.39-2.97)
+Adjusted for age,
+income and
+occupation
+Humble et al. [1987]
+28 cases, 54 controls
+Lived with spouse who
+smoked
+For cigarette ETS
+exposure: 2.2 (90% CI,
+1.0-4.9) For any type
+of ETS exposure: 2.6
+(90% CI, 1.2-5.6
+Adjusted for ethnicity
+and age
+Gao et al. [1987]
+246 cases, 375
+controls
+Lived with a smoker
+<20 yr, 1.0; 20-29 yr,
+1.1 (CI, 0.7-1.8); 30-39
+yr, 1.3 (CI, 0.8-2.1);
+>40yr, 1.7 (CI, 1.0-2.9)
+Adjusted for age and
+education
+Lam et al. [1987]
+199 cases, 375
+controls
+Lived with a smoker
+1.65 (CI, 1.16-2.35)
+Matched for age and
+neighborhood
+Janerich et al. [1990]
+191 cases, 335
+controls
+Lived with a spouse
+who smoked
+1.65 (CI, 1.16-2.35)
+Matched for age, sex,
+and county of
+residence; relative risk
+for spousal smoking =
+0.9
+Shimizu et al.
+[1988]
+90 cases, 191 controls
+>25 smoker-yr of
+exposure during
+childhood
+2.07 (CI, 1.16-3.68)
+Matched for age, sex,
+and hospital; relative
+risk for spousal
+smoking = 1.1
+Geng et al. [1988]
+54 cases, 93 controls
+Lived with spouse who
+smoked
+2.16 (CI, 1.03-4.53)
+Matched for race,
+age, and marital
+status; positive dose
+response;
+methodologic details
+not presented
+* Confidence interval is 95% unless otherwise indicated.
+odds ratio for those exposed fewer than 4 hr/day was
+1.00. The study does not state whether the nonsmoking
+females had ever smoked, but the implication is that they
+had never smoked. Because many of the subjects were
+deceased, smoking status was often determined from
+interviews with next of kin. The study lacked sufficient
+sample size to draw substantive conclusions, but it did
+suggest an increased risk for adenocarcinoma among
+nonsmokers exposed to ETS.
+Humble et al. [1987]
+Humble et al. [1987] evaluated the risk of lung
+cancer in a case-control study of 28 lung cancer patients
+who never smoked and lived with a smoking spouse
+compared with a control group of 54 persons who never
+smoked and lived with a nonsmoking spouse. Surrogate
+responses about smoking habits were used for 19 of the
+28 cases, with most of these data provided by the
+spouse.
+The adjusted odds ratio for nonsmokers living
+with a spouse who smoked cigarettes was 2.2 (90% CI,
+1.0-4.9),
+and
+it
+was
+2.6
+(90%
+CI,
+1.2-5.6)
+for
+nonsmokers exposed to any type of ETS (including pipes
+and cigars). There was no trend of increasing risk with
+increased duration of exposure or increased amount
+regularly smoked by the spouse. In addition, marriage
+to a smoker did not increase the risk for persons who
+had ever smoked.
+This study contained no data on
+exposure to ETS outside the home or from other persons
+(nonspouses) living in the home.
+CIB 54: Environmental Tobacco Smoke in the Workplace
+Page 7
+Gao et al. [1987]
+Gao et al. [1987] studied 672 female lung cancer
+patients and 735 population-based controls in Shanghai,
+China.
+Patients had been diagnosed as having lung
+cancer between 1984 and 1986, and both patients and
+controls were all interviewed directly.
+The odds ratio
+(adjusted for age and education) was 0.9 (95% CI,
+0.6-1.4) for persons who had ever lived with a smoker
+during adulthood, and 1. 1 (95% CI, 0.7-1.7) for those
+who had ever lived with a smoker during childhood.
+However, for 246 married patients and 375 married
+controls, risk increased with increasing years of marriage
+to a spouse who smoked, reaching 1.7 (95% CI, 1.0-2.9)
+among nonsmokers who lived with a smoker for more
+than 40 years.
+Lam et al. [1987]
+Lam et al. [1987] studied 445 female lung cancer
+patients in Hong Kong matched by age with 445 female
+controls
+from
+the
+same
+neighborhood.
+Analyses
+(unmatched) for exposure to ETS included 199 married
+patients and 335 married controls who never smoked. A
+small number of persons who were not married and
+never smoked (5% to 6% of the patients and controls)
+were also included and treated as unexposed to ETS.
+Wives exposed to ETS from a husband who smoked had
+an odds ratio of 1.65 (95% CI, 1.16-2.35), with the
+predominant type of cancer being adenocarcinoma (odds
+ratio 2.12). These odds ratios were not adjusted for any
+confounders.
+Janerich et al. [1990]
+Janerich et al. [1990] conducted a population-based
+case-control study of 191 persons who never smoked and
+were diagnosed with lung cancer from 1982 to 1984; this
+group was compared with individually matched controls
+who never smoked. Controls were matched by age, sex,
+and county of residence.
+Surrogate interviews were
+necessary for 62 cases and thus were also conducted for
+their matched controls.
+The number of years of
+exposure to ETS in the home was calculated by
+summing the number of smokers in the home per year
+across all years of life. The number of years exposed to
+ETS outside the home was also estimated, although
+details were not given in the report.
+Childhood and
+adolescent exposures in the home, adult exposures in the
+home,
+and adult exposures outside the home all
+contributed about equally to total lifetime exposure to
+ETS. For spouses, ETS exposure was also calculated by
+multiplying the number of packs smoked per day by the
+number of years the spouse smoked. The major finding
+of the study was a trend of increasing lung cancer risk
+with increasing years of exposure during childhood.
+Household exposure to ETS for 25 or more years that
+included childhood doubled the risk of lung cancer (odds
+ratio, 2.07; 95 % CI, 1.16-3.68). No consistent increase
+in
+cancer risk
+occurred with increasing
+years
+of
+adulthood exposure to all sources of ETS, but persons
+exposed for the greatest number of years showed the
+highest risk (odds ratio, 1.11; 95% CI, 0.56-2.20).
+Separate analyses of exposure to ETS from spousal
+smoking found no excess risk of lung cancer for
+individuals married to smokers, and no
+trend
+of
+increased risk with increased years of exposure or with
+increased amount smoked by the spouse. Odds ratios in
+this study were not adjusted for any confounders, and
+odds ratios for exposure to ETS from spousal smoking
+do not appear to have been adjusted for childhood ETS
+exposures.
+Shimizu et al. [1988]
+Shimizu et al. [1988] published a case-control study
+of 90 female lung cancer patients who never smoked.
+Each
+patient
+was
+matched
+by
+age,
+hospital,
+and
+admission date to 2 controls of the same sex who did not
+have lung cancer (for 17 patients, only 1 control was
+used).
+Information was gathered about occupation,
+exposure to ETS, diet, and cooking fuels. The risk of
+lung cancer was significantly elevated for women who
+never smoked and lived in a home where the mother
+smoked (relative risk, 4.0; P<0.05) or the paternal
+grandfather smoked (relative risk, 3.2; P<0.05). Exposure
+to the ETS of other household members (including the
+husband, the father, and the children) was not associated
+with increased risk.
+The relative risk for exposure to
+ETS at work was 1.2. The authors found no increasing
+trend in risk with the number of cigarettes smoked by
+the mother or the paternal grandfather.
+However, the
+authors indicated that the subjects had trouble recalling
+the amount of smoking to which they had been exposed.
+The authors also pointed out that in Japan, children
+spend considerable time with their mother in the home,
+and less with the father; it is also common for the retired
+father of the husband to live in his son’s home.
+Geng et al. [1988]
+Geng
+et
+al.
+[1988]
+studied
+54
+nonsmoking
+(undefined) women with lung cancer in Tianjin, China.
+These patients were matched with controls by race, age,
+sex, and marital status.
+The authors reported a
+significantly elevated odds ratio for the patients exposed
+to ETS from spouses (odds ratio, 2.16; 95% CI,
+1.03-4.53), but it is not clear whether these women
+included former smokers. Their risk increased with the
+amount and duration (years) of the husband’s smoking.
+CIB 54: Environmental Tobacco Smoke in the Workplace
+Page 8
+Table 3. Recent studies of hear disease among ETS-exposed persons who never smoked
+Study
+Design
+Exposure definition
+Relative risk
+Comment
+Update of Gillis
+et al. [1984] by Hole
+et al. [1989]**
+12-yr followup, 3,960
+men and 4,037 women
+aged 45-64 in 1972-76
+Living with a smoker
+or ex-smoker in early
+1970’s
+2.01 (CI, 1.21-3.35;
+485 observed)
+Adjusted for
+cardiovascular risk
+factors***, positive
+dose response
+Humble et al. [1990]
+20-yr followup, 513
+women aged 40+
+Living with smoker in
+1960
+1.59 (CI, 0.99-2.57)
+Adjusted for
+cardiovascular risk
+factors, dose
+response in some
+strata
+Helsing et al. [1988]
+12-yr followup, 4,162
+men and 14,873
+women, aged 25+ in
+1963
+Living with smoker or
+ex-smoker in 1963
+Men: 1.31 (CI, 0.99-
+2.57)
+Adjusted for
+cardiovascular risk
+factors, dose
+response among
+women only
+Svendsen et al.
+[1985, 1987]****
+7-yr average followup,
+1,245 men aged 35-57
+in 1973-82
+Married to smoker or
+ex-smoker
+1.61 (CI, 0.96-2.71; 90
+observed)
+Adjusted for
+cardiovascular risk
+factors, positive dose
+response
+Garland et al. [1985]
+10-yr followup, 695
+women aged 50-79 in
+1972-74
+Married to a smoker or
+ex-smoker
+2.9 (estimate; 19
+observed)
+Adjusted for age
+Hiryama [1984]
+16-yr followup, 91,540
+women aged 40+
+Married to a smoker or
+ex-smoker
+Low exposure: 1/10
+(90% CI, 0.91-1.33)
+Significant dose
+response
+*
+Confidence interval is 95% unless otherwise indicated.
+**
+Hole et al. [1989] provide updated results of the same population studied by Gillis et al. [1984].
+***
+Serum cholesterol, blood pressure, and body mass index.
+**** Svendsen et al. [1987] is the full report of the abstract published by Svendsen et al. [1985].
+Summary
+of
+Results
+from
+Lung
+Cancer
+Studies
+The studies published since 1986 have concentrated
+on ETS exposure through spousal smoking during
+adulthood [Hole et al. 1989; Brownson et al. 1987;
+Humble et al. 1987; Gao et al. 1987; Lam et al. 1987;
+Janerich et al. 1990; Shimizu et al. 1988; Geng et al.
+1988], although some studies include data on childhood
+exposures [Janerich et al. 1990; Shimizu et al. 1988; Gao
+et al. 1987]. The data from these more recent studies do
+not individually demonstrate a clear causal relationship
+between ETS exposure and lung cancer, but their
+consistent finding of a relative risk greater than 1.0 for
+nonsmokers exposed to ETS provides evidence of a
+positive association. These data are consistent with and
+reinforce the reviews by NRC [1986], DHHS [1986],
+Blot and Fraumeni [1986], and Wald et al. [ 1986], all
+of which concluded that ETS exposure is associated with
+an increased risk of lung cancer for nonsmokers.
+The most important limitation observed in all studies
+reporting lung cancer risks among persons who never
+smoked is the lack of quantitative ETS exposure data.
+Most
+studies
+have
+defined
+exposure
+to
+ETS
+for
+nonsmokers on the basis of living with or being married
+to a smoker. All of the case-control studies ascertained
+the potential for exposure by interviewing subjects and
+controls (or surrogates) without any other independent
+assessment of ETS exposure. Questionnaires often failed
+to include specific questions about afl sources of ETS.
+Most studies included limited or no information about
+the risk of lung cancer from ETS exposure in the
+workplace.
+The potential exists for a positive bias, particularly
+in the case-control studies, where ex-smokers with lung
+cancer might have been misclassified as never having
+smoked. The misclassified ex-smokers are more likely
+to be married to smokers and to develop lung cancer
+than those who never smoked.
+However, the NRC
+[1986] estimated that the effect of such misclassification
+would have been relatively slight and could not entirely
+account for the increased risk of lung cancer following
+exposure to ETS. This conclusion by the NRC is based
+on calculations that assume a degree of misclassification
+CIB 54: Environmental Tobacco Smoke in the Workplace
+Page 9
+(based on nonsmoker urinary cotinine data) and its likely
+effect on the observed lung cancer risk. In addition, the
+risk of lung cancer in these studies is based on a
+reference group of nonsmokers living with nonsmokers
+who are exposed to ETS in other settings.
+This
+background exposure results in underestimation of the
+true risk.
+Several risk assessments have been performed for
+persons who never smoked and were exposed to ETS.
+The NRC [1986] estimated that of the 7,000 lung cancer
+deaths reported in 1985 among U.S. women who never
+smoked, 2,010 (29%) were attributable to ETS.
+The
+corresponding number for men was 820 (16%) of the
+5,200 lung cancer deaths among U.S. males who never
+smoked.
+Wells [1988] estimated that approximately
+3,000 of the lung cancer deaths reported in 1985 among
+persons who never smoked occurred as a result of ETS
+exposure.
+Repace and Lowrey [1990] estimated that
+approximately 5,000 of the lung cancer deaths reported
+in 1988 among persons who never smoked and ex-
+smokers occurred as a result of ETS exposure.
+These
+risk assessments used a 1.3 to 1.5 relative risk of lung
+cancer for nonsmokers exposed to ETS at home or
+elsewhere compared with unexposed persons.
+The
+number of deaths attributable to ETS exposure was
+derived using standard formulas for attributable risks
+[Kleinbaum et al. 1983] with the estimated number of
+annual lung cancer deaths in the United States for
+persons who have never smoked.
+Heart Disease
+Surgeon General
+The Surgeon General [DHHS 1986] reviewed four
+epidemiologic
+studies of cardiovascular
+disease in
+persons exposed to ETS [Lee et al. 1986; Hirayama
+1984; Gillis et al. 1984; Garland et al. 1985] (Table 3).
+He concluded that further studies on the relationship
+between involuntary smoking and cardiovascular disease
+are needed in order to determine whether involuntary
+smoking increases the risk of cardiovascular disease.
+More detailed characterizations of exposure to ETS and
+specific types of cardiovascular disease associated with
+this exposure are needed before an effect of involuntary
+smoking on the etiology of cardiovascular disease can be
+established.
+NRC [1986]
+The NRC [1986] reviewed four epidemiologic
+studies that evaluated the association between heart
+disease and ETS exposure [Garland et al. 1985; Gillis et
+al. 1984; Hirayama 1984; Svendsen et al. 1985, 19874]
+(Table 3). The same NRC review examined studies of
+the effects of ETS exposure on heart rate and blood
+pressure among healthy individuals.
+No statistically
+significant increases were found in heart disease or
+effects on heart rate and blood pressure.
+The NRC
+report
+concluded
+that
+with
+respect
+to
+chronic
+cardiovascular
+morbidity
+and
+mortality,
+although
+biologically plausible, there is no evidence of statistically
+significant effects due to ETS exposure, apart from the
+study by Hirayama (see Table 3) in Japan."
+Other Epidemiologic and Experimental Studies
+Since publication of the reports by the NRC and the
+Surgeon
+General,
+researchers
+have
+published
+two
+epidemiologic studies of heart disease and ETS exposure
+[Humble et al. 1990; Helsing et al. 1988], and one
+update [Hole et al. 1989] of an earlier cohort study
+[Gillis et al. 1984] (Table 3). Experimental studies of
+the effects of ETS on the heart have also been published
+[Davis et al. 1989; Allred et al. 1989; Sheps et al. 1990].
+The studies reported by Hole et al. [1989], Helsing
+et al. [1988], and Humble et al. [1990] associated ETS
+exposure with an increase of heart disease among
+persons who never smoked. The studies by Hole et al.
+[1989] and Helsing et al. [1988] are both large follow-up
+cohort studies that used direct interviews of men and
+women who lived in the same household. Study of these
+cohorts demonstrated an excess of heart disease in
+persons who lived with smokers and never smoked
+compared with persons who lived with nonsmokers and
+never smoked.
+Furthermore, Hole et al. [1989] and
+Humble et al. [1990] show an increasing risk for heart
+disease mortality with increasing exposure to ETS at
+home.
+Helsing et al. [1988] found a similar trend in
+women but not men.
+Experimental studies support the hypothesis that ETS
+exposure has deleterious effects on platelets and the
+endothelium [Davis et al. 1989] and can decrease the
+time to onset of angina pectoris in patients with coronary
+artery disease [Allred et al. 1989]. Allred et al. [1989]
+reported that the time to angina decreased in heart
+disease patients who exercised after exposure to airborne
+carbon monoxide (CO) at concentrations producing 2%
+and 3.9% carboxyhemoglobin (COHb) in the blood.
+Sheps et al. [1990] observed that arrhythmias in heart
+disease patients increased when they exercised after
+exposure to airborne CO at concentrations producing 6%
+COHB in the blood.
+Persons exposed to ETS in
+unventilated areas have been shown to have COHB
+concentrations of 2% to 3% [NRC 1986].
+CIB 54: Environmental Tobacco Smoke in the Workplace
+Page 10
+Wells [1988] estimated that among nonsmokers in
+the United States, 32,000 deaths from heart disease each
+year were attributable to ETS exposure.
+Wells used
+estimated rates for death from heart disease among
+nonsmokers and a relative risk of 1.30 for ETS-exposed
+nonsmokers compared with unexposed nonsmokers.
+Glantz and Parmley [1991] recently reviewed the
+epidemiologic literature on exposure to ETS and heart
+disease (including the studies in Table 3) from 1984 to
+the present. These researchers estimated a 30% increase
+(relative risk, 1.30; 95% CI, 1.2-1.4) in the risk of death
+from ischemic heart disease or myocardial infarction in
+nonsmoking individuals exposed to ETS at home.
+Glantz and Parmley also noted that several of these
+studies found a dose-response relation between the
+amount of smoking by the spouse and the risk of heart
+disease in the nonsmoking spouse; they concluded that
+exposure to ETS can cause heart disease.
+Summary of Results from
+Heart Disease Studies
+The principal limitation found in the lung cancer
+studies also applies to the studies of heart disease in
+persons exposed to ETS-that is, the indirect method of
+assessing exposure to ETS (usually defined as spousal
+smoking). The second limitation of these heart disease
+studies is the difficulty in controlling for all known
+cardiovascular risk factors (e.g., blood pressure, serum
+cholesterol, and body mass index). In addition, the risk
+of heart disease for ETS-exposed persons who never
+smoked seems large compared with the risk of heart
+disease for smokers.
+Unlike lung cancer mortality,
+where the relative risk for smokers compared with
+nonsmokers is 22.4 for men and 11.9 for women, the
+relative risk of heart disease mortality for smokers
+compared with nonsmokers is 1.9 for men and 1.8 for
+women [DHHS 1989].
+Note that the nonsmoking
+comparison group for these risk estimates includes those
+exposed to ETS.
+Other Adverse Health Effects
+Several additional adverse health effects have been
+associated with ETS exposure, including cervical cancer
+[Slattery et al. 1989], ischemic stroke [Donnan et al.
+1989], spontaneous abortion [Ahlborg 1990], and low
+birthweight
+[NRC
+1986].
+However,
+evidence
+is
+insufficient to draw conclusions about the relationship of
+ETS exposure to these health effects.
+CONCLUSIONS
+In 1964 the Surgeon General concluded that cigarette
+smoke Causes lung cancer. Since that time, additional
+research on the toxicity and carcinogenicity of tobacco
+smoke has demonstrated that the health risks from
+inhaling tobacco smoke are not limited to smokers, but
+also include those who inhale ETS. ETS contains many
+of the toxic agents and carcinogens found in MS, but in
+diluted form. Recent epidemiologic studies support and
+reinforce the conclusions of the reviews by the Surgeon
+General and the NRC demonstrating that exposure to
+ETS can cause lung cancer. These reviews estimated the
+relative risk for lung cancer to be approximately 1.3 for
+nonsmokers
+living
+with
+smokers
+compared
+with
+nonsmokers living with nonsmokers. In addition, recent
+evidence also suggests a possible association between
+exposure to ETS and an increased risk for
+heart disease in nonsmokers. The recent epidemiologic
+studies (including those associating ETS with other
+adverse health effects) point to a pattern of health effects
+that is similar for both smokers and nonsmokers exposed
+to ETS.
+NIOSH recognizes that these recent epidemiologic
+studies have several shortcomings: lack of objective
+measures for characterizing and quantifying exposures,
+failure to adjust for all confounding variables, potential
+misclassification
+of
+ex-smokers
+as
+nonsmokers,
+unavailability of comparison groups that have not been
+exposed to ETS, and low statistical power. Nonetheless,
+NIOSH has determined that the collective weight of
+evidence (i.e., that from the Surgeon General’s reports,
+the similarities in composition of MS and ETS, and the
+recent epidemiologic studies) is sufficient to conclude
+that ETS poses an increased risk of lung cancer and
+possibly heart disease to occupationally exposed workers.
+The epidemiologic data are not sufficient to draw
+conclusions about other health effects such as cervical
+cancer, ischemic stroke, spontaneous abortion, and low
+birthweight.
+RECOMMENDATIONS
+Several systems exist for classifying a substance as
+a carcinogen.
+Such classification systems have been
+developed by NTP [1989], IARC [1987], and OSHA [29
+CFR 1990]. NIOSH considers the OSHA classification
+system (Identification, Classification, and Regulation of
+Potential Occupational Carcinogens [29 CFR 1990], also
+known as the OSHA carcinogen policy) the most
+appropriate
+for
+use
+in
+identifying
+occupational
+carcinogens5. The Surgeon General has concluded that
+cigarette smoke causes lung cancer as well as heart
+disease.
+Table
+1
+lists
+21
+known
+or
+suspected
+CIB 54: Environmental Tobacco Smoke in the Workplace
+Page 11
+carcinogens,
+cocarcinogens,
+and
+tumor
+promoters
+identified as components of ETS and MS in analytical
+studies. Furthermore, a large body of evidence indicates
+that exposure to ETS has produced lung cancer in
+nonsmokers.
+NIOSH therefore considers ETS to be a
+potential occupational carcinogen in conformance with
+the OSHA carcinogen policy [29 CFR 1990].
+The risk of developing cancer should be decreased
+by minimizing exposure to ETS.
+Employers should
+therefore assess conditions that may result in worker
+exposure to ETS and take steps to reduce exposures to
+the lowest feasible concentration.
+METHODS FOR CONTROLLING
+INVOLUNTARY EXPOSURE TO ETS
+Workers should not be involuntarily exposed to
+tobacco smoke.
+To prevent worker exposures to any
+hazardous substance, employers should first eliminate
+hazardous workplace emissions at their source.
+If
+elimination is not possible, emissions should be removed
+from the pathway between the source and the worker
+[NIOSH
+1983].
+Therefore,
+the
+best
+method
+for
+controlling worker exposure to ETS is to eliminate
+tobacco use from the workplace and to implement a
+smoking cessation program.
+Until tobacco use can be
+completely
+eliminated,
+employers
+should
+protect
+nonsmokers from ETS by isolating smokers. Methods
+for eliminating tobacco use from the workplace and
+isolating smokers are described here briefly.
+Eliminating Tobacco Use from the Workplace
+Worker exposure to ETS is most efficiently and
+completely controlled by simply eliminating tobacco use
+from the workplace. To facilitate elimination of tobacco
+use, employers should implement smoking cessation
+programs. The Association of Schools of Public Health
+(ASPH) has recommended the following strategy for
+smoking
+cessation
+[NIOSH
+1986].
+Specifically,
+management and labor should work together to develop
+appropriate nonsmoking policies that include some or all
+of the following:
+Prohibit smoking at the workplace and provide
+sufficient disincentives for those who do not comply
+Distribute information about health promotion and
+the harmful effects of smoking
+Offer smoking-cessation classes to all workers
+Establish incentives to encourage workers to stop
+smoking
+Further information regarding workplace smoking
+policies and smoking cessation programs can be found in
+No Smoking: A Decision Maker’s Guide to Reducing
+Smoking at the Worksite [American Cancer Society et
+al. 1985].
+Isolating Smokers
+The 1986 Surgeon General’s report on involuntary
+smoking concluded that, the simple separation of
+smokers and nonsmokers within the same airspace may
+reduce,
+but
+does
+not
+eliminate,
+the
+exposure
+of
+nonsmokers to ETS."
+In indoor workplaces where
+smoking is permitted, ETS can spread throughout the
+airspace of all workers. The most direct and effective
+method of eliminating ETS from the workplace is to
+prohibit smoking in the workplace.
+Until that is
+achieved, employers can designate separate, enclosed
+areas for smoking, with separate ventilation. Air from
+this area should be exhausted directly outside and not
+recirculated within the building or mixed with the
+general dilution ventilation for the building. Ventilation
+of the smoking area should meet general ventilation
+standards, and the smoking area should have slight
+negative pressure to ensure airflow into the area rather
+than back into the airspace of the workplace [ASHRAE
+1989]. Guidance for designing local exhaust ventilation
+systems can be found in Recommended Industrial
+Ventilation Guidelines [Hagopian and Bastress 1976],
+Industrial
+Ventilation-A
+Manual
+of
+Recommended
+Practice [ACGIH 1986], and Fundamentals Governing
+the Design and Operation of Local Exhaust Systems
+[ANSI 1979].
+Warning signs should be posted at the entrances to
+the workplace in both English and the predominant
+language of non-English-reading workers. These signs
+should state that smoking is prohibited or permitted only
+in designated smoking areas.
+If designated smoking
+areas are provided, they should be clearly identified by
+signs.
+RESEARCH NEEDS
+Research is needed to investigate the following issues:
+More accurate quantification of the increased risk of
+lung cancer associated with ETS exposure, including
+determination of other contributing factors (e.g.,
+occupational exposures) that may accentuate the risk.
+Determination of the concentration and distribution
+of ETS components in the
+workplace to help
+quantify the risk for the U.S. working population.
+The association of ETS exposure with cancer other
+than lung cancer.
+CIB 54: Environmental Tobacco Smoke in the Workplace
+Page 12
+The
+relationship
+between
+ETS
+exposure
+and
+cardiovascular disease.
+The
+relationship
+between
+ETS
+exposure
+and
+nonmalignant respiratory diseases such as asthma,
+bronchitis, and emphysema, and the effects of ETS
+on lung function and respiratory symptoms.
+Possible
+mechanisms
+of
+ETS
+damage
+to
+the
+cardiovascular system, such as increased platelet
+aggregation, increased CORB leading to oxygen
+deprivation, or damage to the endothelium.
+Effects of workplace smoking restrictions on the
+ETS exposure of nonsmokers and ETS related health
+effects in nonsmokers.
+APPENDIX POSITIONS OF OTHER
+AGENCIES REGARDING ETS
+The Occupational Safety and Health Administration
+(OSHA) and the Mine Safety and Health Administration
+(MSHA) have not established permissible exposure limits
+(PEU) for ETS in the workplace.
+OSHA is now
+preparing to address this issue as part of an indoor air
+quality standard.
+The U.S. Environmental Protection Agency (EPA)
+states that ETS is a known cause of lung cancer and
+respiratory symptoms and that it has been linked to heart
+disease. EPA also recommends that exposure to ETS be
+minimized wherever possible by restricting smoking to
+separately ventilated areas directly exhausted to the
+outside, or by entirely eliminating smoking in buildings
+[EPA 1989].
+The International Agency for Research on Cancer
+[IARC 1986] stated that epidemiologic studies have
+demonstrated an increased risk of lung cancer for
+nonsmoking spouses of smokers. Although researchers
+had substantial difficulty in determining exposure to ETS
+and other risk factors for the cancers studied, IARC
+concluded that passive smoking gives rise to some risk
+of cancer. IARC also concluded that there is sufficient
+evidence that tobacco smoke is carcinogenic to humans,"
+and that there is sufficient evidence that inhalation of
+tobacco smoke as well as topical application of tobacco
+smoke condensate cause cancer in experimental animals."
+Table 4. Commonly used abbreviations in this Current
+Intelligence Bulletin
+Abbrev-
+iations
+Meanings
+ASPH
+Association of Schools of Public Health
+c
+carcinogenic
+CO
+carbon monoxide
+COHb
+carboxyhemoglobin
+CoC
+cocarcinogenic
+CI
+confidence interval
+CIB
+Current Intelligence Bulletin
+°C
+degree Celsius
+DSDTT
+Division of Standards Development and
+Technology Transfer
+DSHEFS
+Division of Surveillance, Hazard Evaluations,
+and Field Studies EPA U.S. Environmental
+Protection Agency
+EPA
+U.S. Environmental Protection Agency
+ETS
+environmental tobacco smoke (tobacco
+smoke in the ambient atmosphere
+composed of sidestream smoke and exhaled
+mainstream smoke)
+IARC
+International Agency for Research on
+Cancer
+m
+meter
+MS
+mainstream smoke (smoke drawn through
+the tobacco and into the smoker’s mouth)
+mg
+milligram
+ml
+milliliter
+mm
+millimeter
+MSHA
+Mine Safety and Health Administration
+ng
+nanogram
+NIOSH
+National Institute for Occupational Safety
+and Health
+NNK
+4-(methyl-nitrosamino)-(3-pyridyl)- 1-
+butanone
+NRC
+National Research Council
+OSHA
+Occupational Safety and Health
+Administration
+P
+probability
+pCi
+picocurie
+PEL
+permissible exposure limit
+SC
+suspected carcinogen
+sec
+second
+SS
+sidestream smoke (smoke generated by
+smoldering tobacco between puffs and
+smoke diffusing through the cigarette paper
+and escaping from the burning cone during
+puffing)
+T
+toxic
+TP
+tumor promoter
+µg
+microgram
+µm
+micrometer
+CIB 54: Environmental Tobacco Smoke in the Workplace
+Page 13
+ABBREVIATIONS
+Table 4 lists commonly used abbreviations in this
+Current Intelligence Bulletin.
+REFERENCES
+ACGIH [1986].
+Industrial ventilation: a manual of
+recommended practice. 19th ed.
+Cincinnati, OH:
+American Conference of Governmental Industrial
+Hygienists.
+Ahlborg G Jr. [1990].
+Epidemiologic studies on
+occupational factors and pregnancy outcome. Arbete
+och Halsa 14:1-65.
+Allred EN, Bleecker ER, Chairman BR, Dahms TE,
+Gottlieb SO, Hackney JD, et al. [1989]. Shorttertn
+effects of carbon monoxide exposure on the exercise
+performance
+of
+subjects
+with
+coronary
+artery
+disease. N Engl J Med 321(21):1426-1432.
+American Cancer Society, American Heart Association,
+American Lung Association [1985]. No smoldng: a
+decision maker’s guide to reducing smoldng at the
+wotksite.
+Washington, DC: U.S. Department of
+Health and Human Services, Public Health Service,
+Office of Disease Prevention and Health Promotion,
+and Office on Smoking and Health.
+ANSI [1979]. American national standardfundamentals
+governing the design and operation of local exhaust
+systems.
+New York, NY: American National
+Standards Institute, Inc., ANSI Z9.2-1979.
+ASHRA.E [1989]. Ventilation for acceptable indoor air
+quality. Atlanta, GA: American Society of Heating,
+Refrigerating, and Air-Conditioning Engineers, Inc.,
+ASHRAE 62-1989.
+Blot WJ, Fraumeni JF Jr. [1986]. Passive smoking and
+lung cancer. JNCI 77(5): 993-1000.
+Brownson RC, Reif JS, Keefe TJ, Ferguson SW, Pritzl
+JA [1987]. Risk factors for adenocarcinoma of the
+lung. Am J Epidemiol 125(l):25-34.
+29
+CFR
+1990.
+Code
+of
+Federal
+regulations.
+Washington, DC: U.S. Government Printing Office,
+Office of the Federal Register.
+Cummings KM, Markello SJ, Mahoney M, Bhargava
+AK,
+McElroy
+PD,
+Marshall
+JR
+[1990].
+Measurement of current exposure to environmental
+tobacco smoke. Arch Environ Health 45(2):74-79.
+Davis JW, Shelton L, Watanabe IS, Arnold J [1989].
+Passive smoking affects endothelium and platelets.
+Arch Intern Med 149:386-389.
+DHEW [1964].
+Smoking and health.
+Report of the
+advisory committee to the Surgeon General of the
+Public
+Health
+Service.
+Rockville,
+MD:
+U.S.
+Department of Health, Education, and Welfare,
+Public Health Service, Center for Disease Control,
+PHS Publication No. 1103.
+DHEW [1968].
+The health consequences of smoking.
+A public health service review: 1967.
+U.S.
+Department of Health, Education, and Welfare,
+Public Health Service, PHS Publication No. 1696.
+DHEW [1972].
+The health consequences of smoking.
+A report of the Surgeon General: 1972. Rockville,
+MD: U.S. Department of Health, Education, and
+Welfare, Public Health Service, Health Services and
+Mental Health Administration, DHEW Publication
+No. (HSM) 72-7516.
+DHHS [1982].
+The health consequences of smoking:
+cancer.
+A report of the Surgeon General.
+U.S.
+Department of Health and Human Services, Public
+Health Service, Office on Smoking and Health,
+DHHS Publication No. (PHS) 82-50179.
+DHHS [1983].
+The health consequences of smoking:
+cardiovascular disease.
+A report of the Surgeon
+General. Rockville, MD: U.S. Department of Health
+and Human Services, Public Health Service, Office
+on Smoking and Health, DHHS Publication No.
+(PHS) 84-50204.
+DHHS [1986]. The health consequences of involuntary
+smoking.
+A report of the Surgeon General.
+Rockville, MD: U.S. Department of Health and
+Human Services, Public Health Service, Centers for
+Disease Control, Center for Health Promotion and
+Education, Office on Smoking and Health, DHHS
+Publication No. (CDC) 87-8398.
+DHHS [1989].
+Reducing the health consequences of
+smoking: 25 years of progress.
+A report of the
+Surgeon General. Rockville, MD: U.S. Department
+of Health and Human Services, Public Health
+Service, Centers for Disease Control, Center for
+Chronic Disease Prevention and Health Promotion,
+Office on Smoking and Health, DHHS Publication
+No. (CDC) 89-841 1.
+Donnan GA, Adena NU, O’Malley HM, McNeil JJ,
+Doyle AE, Neill GC [1989].
+Smoking as a risk
+CIB 54: Environmental Tobacco Smoke in the Workplace
+Page 14
+factor for cerebral ischaemia. Lancet, September 16,
+pp.643-647.
+EPA [1989].
+Indoor air facts: environmental tobacco
+smoke. No. 5. Washington, DC: U.S. Environmental
+Protection Agency, Office of Air and Radiation
+(ANR-445).
+First MW [1984].
+Environmental tobacco smoke
+measurement: retrospect and prospect. Eur J Respir
+Dis 5(Suppl):9-16.
+Gao YT, Blot WJ, Zheng W, Ershow AG, Hsu CW,
+Levin L et al. [1987]. Lung cancer among Chinese
+women. Int J Cancer 40(5):604-609.
+Garland C, Baffett-Connor E, Suarez L, Criqui NM,
+Wingard DL [1985]. Effects of passive smoldng on
+ischemic heart disease mortality of nonsmokers. Am
+J Epidemiol 121(5):645-650.
+Geng G-Y, Liang ZH, Zhang AY, Wu GL [1988]. On
+the relationship between smoking and female lung
+cancer. In: Aold M, Hisamichi S, Tominaga S, eds.
+Smoking and health 1987: proceedings of the 6th
+World Conference on Smoldng and Health, Tokyo,
+9-12 November 1987. Amsterdam, The Netherlands:
+Elsevier Science Publishers, pp. 483-486.
+Gillis CR, Hole DJ, Hawthorne VM, Boyle P [1984].
+The effect of environmental tobacco smoke in two
+urban communities in the west of Scotland. Eur J
+Respir Dis 65(Suppl 133):121126.
+Glantz SA, Partnley WW [1991]. Passive smoking and
+heart
+disease:
+epidemiology,
+physiology,
+and
+biochemistry. Circulation 83(l):1-12.
+Hagopian JH, Bastress EK [1976].
+Recommended
+industrial ventilation guidelines.
+Cincinnati, OH:
+U.S. Department of Health, Education, and Welfare,
+Public Health Service, Center for Disease Control,
+National Institute for Occupational Safety and
+Health, DHEW (NIOSH) Publication No. 76-162.
+Haley NJ, Colosimo SG, Axelrad CM, Harris R,
+Sepkovic DW [1989].
+Biochemical validation of
+self-reported exposure to environmental tobacco
+smoke. Environ Res 49:127-135.
+Helsing KJ, Sandler DP, Conistock GW, Chee E [1988].
+Heart disease mortality in nonsmokers living with
+smokers. Am J Epidemiol 12 7(5):915 922.
+Hirayama T [1984].
+Lung cancer in Japan: effects of
+nutrition and passive smoldng.
+In: Nfizell M and
+Correa P, eds.
+Proceedings of the International
+Lung Cancer Update Conference.
+Tokyo, Japan:
+Verlag Chemie International, pp. 175-195.
+Hoffmann D, Hecht SS [1989].
+Advances in tobacco
+carcinogenesis.
+In: Grover P, ed.
+Handbook of
+experimental pharmacology 1988. New York, NY:
+Springer Verlag.
+Hole DJ, Gillis CR, Chopra C, Hawthorne VM [1989].
+Passive smoking and cardiorespiratory health in a
+general population in the west of Scotland. Br Med
+J No. 6696, 299:423-427.
+Humble C, Croft J, Gerber A, Casper M, Hames CG,
+Tyroler HA [1990].
+Passive smoking and 20-year
+cardiovascular disease mortality among nonsmoking
+wives, Evans County, Georgia. Am J Public Health
+80(5):599-601.
+Humble CG, Samet JM, Pathak DR [1987]. Marriage to
+a smoker and lung cancer risk. Am J Public Health
+77(5):598-602.
+Husgafvel-Pursiainen K, Sorsa M, Engstrm K, Einist P
+[1987]. Passive smoking at work: biochemical and
+biological measures of exposure to environmental
+tobacco smoke.
+Int Arch Occup Environ Health
+59:337-345.
+IARC [1986].
+IARC monograph on the evaluation of
+the carcinogenic risk of chemicals to humans:
+tobacco smoldng.
+Vol. 38.
+Lyon, France: World
+Health
+Organization,
+International
+Agency
+for
+Research on Cancer.
+IARC [1987]. IARC monographs on the evaluation of
+carcinogenic risks to humans: overall evaluations of
+carcinogenicity; an updating of IARC monographs.
+Vols. 1 through 42, Suppl. 7. Lyon, France: World
+Health
+Organization,
+International
+Agency
+for
+Research on Cancer, pp. 17-34.
+Janerich DT, Thompson WD, Varela LR, Greenwald P,
+Chorest S, Tucci C, et al. [1990]. Lung cancer and
+exposure to tobacco smoke in the household.
+N
+Engl J Med 323(10):632-636.
+Kleinbaum
+L,
+Kupper
+L,
+Morganstern
+H
+[1983].
+Epidemiologic research.
+San Jose, CA: Lifetime
+Publications.
+CIB 54: Environmental Tobacco Smoke in the Workplace
+Page 15
+Lam TH, Kung ITM, Wong CM, Lam WK, Kleevens
+JWL, Saw D, et al. [1987].
+Smoking, passive
+smoking, and histological types in lung cancer in
+Hong
+Kong
+Chinese
+women.
+Br
+J
+Cancer
+56:673-678.
+Lee
+PN,
+Chamberlain
+J,
+Alderson
+MR
+[1986].
+Relationship of passive smoking to risk of lung
+cancer and other smoking-associated diseases. Br J
+Cancer 54:97-105.
+NCHS [1988].
+Vital and health statistics: health
+promotion and disease prevention, United States,
+1985. Hyattsville, NM: U.S. Department of Health
+and Human Services, Public Health Service, Centers
+for Disease Control, National Center for Health
+Statistics, DHHS Publication No. (PHS) 88-1591.
+NIOSH
+[1983].
+NIOSH
+comments
+to
+the
+U.S.
+Department of Labor: comments of the National
+Institute
+for
+Occupational
+Safety
+and
+Health.
+Presented at the Advance Notice of Proposed
+Rulemaldng (ANPR) meeting to OSHA for Docket
+H-160: health standards; methods of compliance,
+June 1983. NIOSH policy statements. Cincinnati,
+OH:
+U.S.
+Department
+of
+Health
+and
+Human
+Services, Public Health Service, Centers for Disease
+Control, National Institute for Occupational Safety
+and Health.
+NIOSH [1986].
+Proposed national strategy for the
+prevention of leading work-related diseases anl
+injuries:
+a
+proposed
+national
+strategy
+for
+the
+prevention
+of
+occupational
+lung
+diseases.
+Cincinnati, OH: U.S. Department of Health and
+Human Services, Public Health Service, Centers for
+Disease Control, National Institute for Occupational
+Safety and Health, DHHS (NIOSH) Publication No.
+89-128.
+NRC [1986]. Environmental tobacco smoke. Measuring
+exposures and assessing health effects.
+National
+Research Council, Board on Environmental Studies
+and Toxicology, Committee on Passive Smoking.
+Washington, DC: National Academy Press.
+NTP [1989].
+Fifth annual report on carcinogens:
+summary 1989. Research Triangle Park, NC: U.S.
+Department of Health and Human Services, Public
+Health Service, National Institute of Enviromnental
+Health Sciences, National Toxicology Program, NTP
+89-239.
+Repace JL, Lowrey AH [1980].
+Indoor air pollution,
+tobacco
+smoke,
+and
+public
+health.
+Science
+208:464-472.
+Repace JL, Lowrey AH [1982].
+Tobacco smoke,
+ventilation, and indoor air quality. ASHRAE Trans.
+88:894-914.
+Repace JL, Lowrey AH [1990].
+Risk assessment
+methodologies for passive smoking-induced lung
+cancer. Risk Analysis 10(l):27-37.
+Sheps DS, Herbst MC, Hinderliter AL, Adams KF,
+Ekelund LG, O’Neil JJ, et al. [1990]. Production of
+arrhythmias
+by
+elevated
+carboxyhemoglobin
+in
+patients with coronary artery disease.
+Ann Intern
+Med 113:343-351.
+Shimizu H, Morishita M, Nfizuno K, Masuda T, Ogura
+Y, Santo M, et al. [1988]. A case-control study of
+lung cancer in nonsmoking women. Tohoku J Exp
+Med 154:389-397.
+Slattery ML, Rebison LM, Schuman KL, French TK,
+Abbott TM, Overall JC, Gardner JW [1989].
+Cigarette smoking and exposure to passive smoke
+are
+risk
+factors
+for
+cervical
+cancer.
+JAMA
+261:1593-1598.
+Svendsen KH, Kuller LH, NeatonJ [1985].
+Effect of
+passive
+smoldng
+in
+the
+multiple
+risk
+factor
+intervention trial. American Heart Association 58th
+Scientific Sessions.
+Svendsen KH, Kuller LH, Martin MJ, Ockene JK
+[1987]. Effects of passive smoking in the multiple
+risk factor intervention trial.
+Am J Epidemiol
+126:783-795.
+Wald NJ, Nanchahal K, Thompson SG, Cuckle HS
+[1986].
+Does breathing other people’s tobacco
+smoke cause lung cancer? Br Med J 293:12171222.
+Wells AJ [1988]. An estimate of adult mortality in the
+United States from passive smoking.
+Environ Int
+14:249-265.
+CIB 54: Environmental Tobacco Smoke in the Workplace
+Page 16
+1.
+Tobacco smoke in the ambient atmosphere composed of sidestream smoke and exhaled mainstream smoke. See page
+viii for a complete list of definitions and abbreviations.
+2.
+Smoke drawn through the tobacco and into the smoker’s mouth.
+3.
+Smoke generated by (1) smoldering tobacco between puffs, and (2) smoke diffusing through the cigarette paper and escaping
+from the burning cone during puffing.
+4.
+Svendsen et al. [1985] is the abstract of the full report published in 1987 [Svendsen et al. 1987].
+5.
+"’Potential occupational carcinogen’ means any substance, or combination or mixture of substances, which causes an increased
+incidence of benign and/or malignant neoplasms, or a substantial decrease in the latency period between exposure and onset
+of neoplasms in humans or in one or more experimental mammalian species as the result of any oral, respiratory or dermal
+exposure, or any other exposure which results in the induction of tumors at a site other than the site of administration. This
+definition also includes any substance which is metabolized into one or more potential occupational carcinogens by mammals"
+[29 CFR 1990.103].

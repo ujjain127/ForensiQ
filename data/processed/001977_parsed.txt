@@ -1,0 +1,1591 @@
+APRIL 30, 2007 
+This publication was produced for review by the United States Agency for International 
+Development. It was prepared by Management Systems International. 
+ 
+ 
+SIERRA LEONE INTEGRATED DIAMOND 
+MANAGEMENT PROGRAM  
+10TH QUARTER ACTIVITY REPORT: 
+JANUARY 1, 2007 TO MARCH 31, 2007 
+INTEGRATED DIAMOND 
+MANAGEMENT PROGRAM 
+10TH QUARTERLY ACTIVITY REPORT: 1 JANUARY THROUGH 31 MARCH 2007 
+ 
+ 
+ 
+ 
+ 
+Management Systems 
+International 
+Corporate Offices 
+600 Water Street, SW 
+Washington, DC 20024 
+ 
+ 
+ 
+ 
+Contracted under CA #636-A-00-04-00217-00  
+ 
+ 
+DISCLAIMER 
+The author’s views expressed in this publication do not necessarily reflect the views of the United States Agency for 
+International Development or the United States Government. 
+ 
+ 
+ 
+CONTENTS 
+1. 
+OVERVIEW......................................................................................................... 1 
+REGIONAL ISSUES............................................................................................. 4 
+NATIONAL ISSUES ............................................................................................ 4 
+PROGRAM ISSUES ............................................................................................. 4 
+2. 
+INTRODUCTION ............................................................................................... 5 
+3. 
+PROGRAM ACTIVITIES DURING QUARTER............................................ 6 
+1. 
+Improved GOSL diamond management systems and incentives to 
+use them effectively..................................................................................... 6 
+2. 
+Active civil society supporting improved public and private 
+diamond management.................................................................................. 8 
+3. 
+Private sector diamond businesses that are more transparent, 
+competitive, and responsive to community interests ................................. 10 
+4. 
+Improved Community Diamond Management Systems and 
+Incentives to Use Them Effectively........................................................... 13 
+5. 
+Improved Enabling Environment for Improved Diamond 
+Management............................................................................................... 14 
+4. 
+PROGRAM MANAGEMENT ......................................................................... 15
+ 
+ANNEX A – ACTIVITIES PLANNED MAY THROUGH JUNE 2007 
+ANNEX B – DACDF NATIONAL WORKSHOP REPORT 
+ 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 9TH QUARTER REPORT 
+i 
+ 
+1. OVERVIEW 
+The Integrated Diamond Management Program (IDMP) works to improve the management of Sierra 
+Leone’s diamond sector at both national and local levels with the goal of increasing benefits to the 
+government of Sierra Leone and local communities.  Bringing diamond mining and marketing into the 
+formal sector increases government revenues through taxes and license fees while reducing security 
+threats from diamond smuggling. 
+ 
+A percentage of officially accrued revenue from diamond exports is provided to the Diamond Area 
+Community Development Fund (DACDF). The DACDF is financed from the 3% diamond export tax 
+levied by the National Revenue Authority for community development within the diamond producing 
+chiefdoms. This is meant to provide development funds to communities, as well as encourage the 
+industry produce and export diamonds legally. During the last reporting period, the Government of 
+Sierra Leone implemented revised DACDF mechanisms in line with decentralization strategies to 
+ensure increased local council oversight of development projects and other expenditures as a means to 
+improve transparency. Issues of awareness and stakeholder inclusion within some districts remain, but 
+this combination of measures furthers Sierra Leone’s decentralization process, improves transparency, 
+and enhances compliance with the international Kimberley Process. During this quarter IDMP 
+sponsored a workshop for DACDF area recipients. The outcome of this first and important workshop 
+for DACDF communities is summarized below. 
+ 
+Following the steady increase in diamond export revenues over a seven year period, 2006 saw a 
+decline. Table 1, below, illustrates the steady general increase in diamond exports since 2001, 
+following the steep decline during the years of civil strife, while Table 2 depicts the disappointing 
+performance of 2006 with respect to the two preceding years, not only of export values, but also of the 
+level of production.1  In contrast to last year’s performance, the first quarter of 2007 started 
+moderately, with February and March showing a dramatic increase in diamond export values over the 
+same months of 2006. In fact, March 2007 (shown below in Table 4) is the most lucrative month yet 
+recorded for official and taxable diamond exports.   
+ 
+TABLE 1: SIERRA LEONE TOTAL DIAMOND EXPORTS, 1992-2006 
+$0
+$20,000,000
+$40,000,000
+$60,000,000
+$80,000,000
+$100,000,000
+$120,000,000
+$140,000,000
+$160,000,000
+1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006
+ 
+                                                     
+1 Data in Tables 1 through 6 are official export statistics prepared by the Sierra Leone Gold and Diamond 
+Department. 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+1 
+ 
+*Note: These are calendar years. 
+TABLE 2: SIERRA LEONE TOTAL DIAMOND EXPORT JAN.TO DEC. 2003-2006 
+YEAR* 
+CARATS 
+VALUE 
+AV. PER CARAT 
+2003 
+506,723 
+75,969,753 
+$149.92 
+2004 
+691,757 
+$126,652,634 
+$183.09 
+2005 
+668,709 
+$141,940,244 
+$212.26 
+2006 
+603,566 
+$125,304,842 
+$207.61 
+ 
+Conclusions on what diamond export values indicate -- as they decline and then rebound -- remain 
+speculative, given the vagaries of the local diamond industry. If early 2007 performance signals a 
+temporary surge rather than a steady rebound but more, it is possible that we are witnessing a potential 
+diamond resource decline after 75 years of mining, particularly in the alluvial sector.  That alluvial 
+exports are losing steam is a possibility that cannot be dismissed. As Table 3 illustrates, rising 
+diamond prices in 2005 and 2006 (with respect to 2004) helped mask the rapid decline in alluvial 
+production.  As major alluvial industrial mining companies are still commissioning their operations, 
+their production has had limited impact on the overall diamond exports.  Trends in production figures 
+after the deduction of Koidu Holdings fairly accurately represent what is happening in the artisanal 
+sector, which is the focus of IDMP activities. This trend has continued through 2006, both in terms of 
+total carats exported and the average price per carat.  
+ 
+TABLE 3: SIERRA LEONE ALLUVIAL EXPORTS, JANUARY-DECEMBER 2004-2006 
+YEAR* 
+CARATS 
+VALUE 
+AV. PER CARAT 
+2004 
+612,699 
+$112,793,045 
+$184.09 
+2005 
+522,044 
+$119,429,528 
+$216.34 
+2006 
+491,526 
+$101,857,434 
+$207.23 
+*Note: this table does not include Kimberlite production. 
+ 
+There are, however, several possible explanations for a temporary downturn in 2006.  One such 
+possibility is that investment revenues did not materialize and fewer mining operations were financed 
+due to tight money supplies or a lack of investor confidence.  Alternately, industrial mining operations 
+have now taken so much of the once lucrative small plot areas that self organized small groups and 
+individuals are competing for less and less land available, temporarily decreasing the diamond 
+winnings until companies like SLDC become fully operational.  Another explanation may be that 
+smuggling increased in 2006.  The problem is that poor infrastructure, porous borders, lax inspection 
+systems, stultifying poverty and minimal official political will are all factors that contribute to a dearth 
+of information on market and economic trends in the country, and specifically in the diamond industry 
+in Sierra Leone.  
+ 
+The positive indication for the first quarter of 2007 is that exports are, so far, strengthening, and we 
+are most likely witnessing the normal business cycles of decline and rebound inherent in the private 
+sector.  If current trends continue in 2007, the decline in 2006 exports will be offset by the general 
+upward trend. As political stability and economic policy reform strengthens, the 2006 decline in 
+diamond production and exports will most likely be seen in later analysis as a period of industry 
+adjustment towards less reliance in the traditional alluvial sector and more on kimberlitic sources of 
+diamond exports. 
+ 
+Tables 4, 5 and 6 provide first quarter export values for both alluvial and kimberlite productions in 
+2007, 2006 and 2005 respectively.  As noted, after the 2006 decline, the first quarter of 2007 shows an 
+increase in both alluvial and kimberlite export values.  With respect to alluvial exports in particular, 
+2007 shows gains of just under $4million and 11,000 carats over 2006. Figures from 2007, compared 
+with those of 2005, show a positive difference of just over $3million but carat production declined 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+2 
+ 
+slightly.  Global price per carat figures vary widely during any given month, driven by the amount of 
+low quality industrial diamonds traded. This is offset by an erratic, but consistent increase in the prices 
+paid for alluvial exports, where a higher percentage of gem quality diamonds and ‘specials’ of high 
+value originate. 
+ 
+TABLE  4:  FIRST QUARTER 2007 EXPORT DATA 
+ 
+ 
+Alluvial 
+Kimberlite 
+Total 
+Month 
+Export 
+Amount $ 
+Carats 
+Price/ 
+Carat 
+Export 
+Amount $ 
+Carats 
+Price/ 
+Carat 
+Export 
+Amount $ 
+Carats 
+Price/ 
+Carat 
+Jan-07 
+ $8,829,879 
+30,809 
+$189.23 
+$3,562,703 
+34,777 
+$102.44 
+$9,392,582  
+65,587 
+$143.21 
+Feb-07 
+ $9,104,738  
+39,292 
+$232.00 
+$3,420,706 
+12,908 
+$265.00 
+$12,525,444  
+52,201 
+$240.00 
+Mar-07 
+$13,465,25
+7 
+59,430 
+$226.57 
+$2,547,580 
+10,084 
+$252.64 
+$16,012,838  
+69,515 
+$230.35 
+Total 
+$28,399,87
+5 
+129,53
+1 
+$219.25 
+$9,530,989 
+57,769 
+$620.08 
+$37,930,864 
+187,303 
+$202.51 
+ 
+ 
+TABLE 5: FIRST QUARTER 2006 EXPORT DATA 
+ 
+ 
+Alluvial 
+Kimberlite 
+Total 
+Month 
+Export 
+Amount $ 
+Carats 
+Price/ 
+Carat 
+Export 
+Amount $ 
+Carats 
+Price/ 
+Carat 
+Export 
+Amount $ 
+Carats 
+Price/ 
+Carat 
+Jan-06 
+$5,553,599 
+29,713 
+$186.91 
+n/a 
+n/a 
+n/a 
+$5,553,599  
+29,713 
+$186.91 
+Feb-06 
+$6,391,812 
+30,219 
+$211.52 
+$4,056,223 
+18,074 
+$224.43 
+$10,448,035  48,292 
+$216.35 
+Mar-06 
+$12,810,263 
+58,151 
+$220.29 
+$1,205,870 
+5,228 
+$230.64 
+$14,016,133  63,379 
+$221.15 
+Total 
+$24,755,674 
+118,083 
+$209.65 
+$5,262,093 
+23,302 
+$225.82 
+$30,017,768 
+141,385 
+$212.31 
+ 
+ 
+TABLE 6: FIRST QUARTER 2005 EXPORT DATA 
+ 
+ 
+Alluvial 
+Kimberlite 
+Total 
+Month 
+Export 
+Amount $ 
+Carats 
+Price/ 
+Carat 
+Export 
+Amount $ 
+Carats 
+Price/ 
+Carat 
+Export 
+Amount $ 
+Carats 
+Price/ 
+Carat 
+Jan-05 
+$8,082,482 
+46,298 
+$174.58 
+$1,594,471 
+11,051 
+$144.28 
+$9,676,953  
+57,349 
+$168.74 
+Feb-05 
+$8,829,146 
+42,154 
+$209.45 
+n/a 
+n/a 
+n/a 
+$8,829,146  
+42,154 
+$209.45 
+Mar-05 
+$8,345,201 
+41,328 
+$201.93 
+$1,512,364 
+6,638 
+$227.84 
+$9,857,566  
+47,966 
+$205.51 
+Total 
+$25,256,829 
+129,780 
+$194.61 
+$3,106,836 
+17,689 
+$175.64 
+$28,363,664 
+147,469 
+$192.34 
+ 
+ 
+As more industrial diamond mining companies commence operations, the relative decline of the 
+artisanal sector would appear to be assured. This is giving rise to fears over the continued viability of 
+diamond mining as a livelihood for a considerable number of Sierra Leoneans. As other employment 
+opportunities are scarce, this decline has the potential to decrease economic activity and increase 
+poverty and security concerns at the local level. It is also an opportunity to use this ensuing uncertainty 
+to convince young people living proximate to the alluvial mining sites that their future must be found 
+outside the diamond sector. Emphasis on agriculture, environment, education, vocational manual arts, 
+IT, and economic activities supporting the trend towards industrial mining should be seen by the 
+younger population and inculcated in them as the modern way forward in assuring their future. 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+3 
+ 
+REGIONAL ISSUES 
+Liberia was the recipient of positive news at the end of the first quarter of 2007. The United Nations 
+Security Council voted to allow Liberia to resume diamond export after several years of sanctions 
+imposed due to that country’s long civil war, financed largely by diamond and timber sales. This is 
+good news for not only Liberia, but for the region as a whole.  It is also a time of concern as the three 
+countries of the Manu River Union, Guinea, Liberia and Sierra Leone have different and varied 
+diamond and mineral policies, export and licensing procedures, as well as weak border controls. This 
+situation most likely contributes to smuggling and other illicit activities over the three countries 
+borders, all of which pose threats to regional security. The United Nations and other international 
+organizations are actively engaged in regional diamond and mineral harmonization endeavors in an 
+effort to mitigate illegal cross border trade. USAID and the IDMP are actively engaged in efforts to 
+contribute to regional trade policy harmonization.  
+ 
+Unrest in Guinea during the quarter was also of concern for Sierra Leone. A return to regional 
+instability could negatively affect the positive work done by the IDMP that has resulted in more 
+community awareness of the diamond sector over the past years. 
+NATIONAL ISSUES 
+The upcoming elections, now scheduled for August 11, 2007, will affect IDMP activities nationally 
+and locally. During the reporting period, political activity increased significantly, with various party 
+rallies and politicians canvassing the country, including Koidu and Tongo Fields, lining up supporters 
+and making their cases for what they would do as elected officials. The press proliferates with charges, 
+counter charges, promises, accusations and smear campaigns. It is lively political debate at its best and 
+similar to many nations at election time.  
+PROGRAM ISSUES 
+IDMP continued to monitor DACDF during the quarter. IDMP also hosted and conducted a national-
+level DACDF workshop in Bo. This workshop was attended not only by community members, local 
+government leaders and Chiefs in the IDMP target area, but by those from all the diamond producing 
+areas receiving DACDF benefits. The workshop was deemed a success by all in attendance. After the 
+workshop concluded, IDMP staff conducted a nine day DACDF monitoring trip to assess the impact 
+of DACDF on recipient communities. Although still a relatively new concept in some communities, 
+particularly the involvement of Local Councils directing fund development priorities, many solid and 
+beneficial community projects are being implemented throughout the diamond area communities. The 
+workshop indicated that much has been accomplished not only with development projects, but also in 
+the increased confidence community leaders now have in making their own decisions with the 
+participation of their individual communities at large. 
+ 
+Small Stones Training continues to attract as many participants as can be accommodated and the 
+IDMP zonal and community meetings always have more willing attendees than planned. These three 
+activities are extremely popular and welcomed in the communities. 
+ 
+PDA in Kono continued to be ineffective and moribund due to the intransigent attitude of its 
+leadership, particularly its Chairman.  However, this attitude is beginning to change amongst some 
+members of its Executive Committee. A national workshop is needed to rescue this important 
+organization from parochialism and destructive self-interest. The PDA branch in Tongo Fields has 
+made good progress and is active in advancing the aims and goals of the PDA.  
+ 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+4 
+ 
+During the quarter, IDMP staff conducted a program retreat in Koidu to reflect on successes and 
+problems encountered since project inception in 2004 and to map a way forward for the project after 
+indications that an extension was imminent. The USAID Cognizant Technical Officer attended the last 
+day of this retreat and provided valuable insights and inputs to help inform the best ways forward. A 
+follow up senior staff meeting was held in Freetown two weeks later to actually design a work plan 
+and budget for this potential extension. This was the first time the Sierra Leonean senior staff was 
+involved in project design and decision-making. The exercise gave ownership and direction to the staff 
+and was a confidence and moral booster, as well as a team building endeavor 
+ 
+Based on this good work, much of March was spent responding to a USAID request for a nine- month 
+extension proposal and work plan to end December 31, 2007. 
+ 
+2. INTRODUCTION 
+This Activity Report describes activities for the tenth quarter (January through March, 2007) of 
+Cooperative Agreement #636-A-00-04-00217-00, which encompasses the last three months of the 
+Cooperative Agreement’s seven-month cost extension awarded to Management Systems International 
+by USAID in August 2006.  These activities are executed consistently with the IDMP work plan and 
+the objectives of the Agreement.  In its effort to manage for results, activities are designed to achieve 
+the outcomes summarized in the following results framework: 
+ 
+1.  Improved 
+GOSL diamond 
+management 
+systems and 
+incentives to use 
+them effectively
+2. Active civil 
+society supporting 
+improved public 
+and private 
+diamond 
+management
+3. Private sector 
+diamond 
+businesses that are 
+more transparent, 
+competitive, and 
+responsive to 
+community 
+interests
+4. Improved 
+community 
+diamond 
+management 
+systems and 
+incentives to use 
+them effectively
+5.  Improved enabling environment for improved diamond management
+Sierra Leone diamond trade contributes 
+positively to peace and prosperity
+Strategic Objective:
+Intermediate Results:
+Expected Results:
+•Increased diamond 
+exports
+•Increased benefits to 
+communities from 
+diamond mining
+ 
+The following sections will present highlights of the quarter. Activities completed during the quarter 
+are summarized by Intermediate Result, including a summary of work completed by the program. 
+ 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+5 
+ 
+3. PROGRAM ACTIVITIES DURING 
+QUARTER 
+1. IMPROVED GOSL DIAMOND MANAGEMENT SYSTEMS AND 
+INCENTIVES TO USE THEM EFFECTIVELY  
+ 
+EFFECTIVE USE OF DACDF ENHANCED 
+Project staff continued to monitor the DACDF during the reporting period.  The specific requirement 
+for the project to work with the District Councils in the Eastern Province was enhanced during the last 
+quarter of 2006, when for the first time, the central GoSL directly distributed DACD funds earmarked 
+for individual chiefdoms to and through district councils. This took place in Kenema in the presence of 
+Vice President Solomon Berewa and of some 200 Eastern Province local government councilors.  
+  
+To effectively administer these funds, the affected district councils were given the mandate to 
+supervise the chiefdoms in their use of the funds for community projects. This action by GoSL was a 
+success story for the IDMP, especially since the program, from the time the fund was established, has 
+advocated direct disbursement of proceeds through the councils. An important incentive for the 
+councils to help administer the funds was that that they themselves receive a portion of the DACD 
+funds for their own programming activities.  Distribution of the funds in the presence of the Vice 
+President, 200 councilors, many journalists, and several key ministers was an encouraging 
+demonstration of transparency. 
+ 
+IDMP also monitored how communities affected by diamond mining activities are benefiting. During 
+the period under review, a qualitative study was conducted in 19 DACDF communities and three 
+impact assessments were made.  Findings regarding the impact of the DACDF include a reduction in 
+illegal mining, increased community infrastructure, and a heightened social interaction in communities 
+as a result of the fund. These findings have been shared and reviewed by the various diamond sector 
+reform program (DSRP) participants and will help inform future mineral sector community-based 
+initiatives in Sierra Leone.  
+ 
+DACDF NATIONAL WORKSHOP 
+During the reporting period, IDMP hosted and conducted a national DACDF workshop in Bo at the Madam 
+Wokies Conference hall on 14-17th March 2007. This workshop attracted 100 participants, 40 percent of 
+which were women. Participants included twenty-three paramount chiefs, members of five district/town 
+councils and the Permanent Secretary of the Ministry of Mineral Resources. The workshop incorporated a 
+client-based participatory methodology to assess nationally the successes and failures of the DACDF policy. 
+After a thorough situation analysis of pre-DACDF policy in mining communities, participants identified a 
+number of critical successes as well as failures and challenges with the Fund (see the workshop report, 
+included as Annex C, for details). 
+In line with the identified failures and challenges associated with the implementation of the Fund, workshop 
+participants adopted the idea of establishing district-level coalitions of DACDF beneficiary groups to ensure: 
+1. 
+Peer-review performance related and support mechanisms  
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+6 
+ 
+2. 
+Timely and full disbursement of DACDF funds by the government 
+3. 
+Identification of relevant local civil society groups and NGOs to undertake DACDF monitoring 
+4. 
+A commitment to ensure the dissemination of relevant DACDF information at local level 
+5. 
+Collaboration with councils and local civil society to encourage the central government to replicate 
+the DACDF community-beneficiation module in non-diamond extractive industries.   
+ 
+DACDF POST-WORKSHOP MONITORING 
+To validate the various workshop views and as part of ensuring accurate DACDF policy reform 
+recommendations to the government, the IDMP policy unit embarked on field monitoring trips to selected 
+projects in seven chiefdoms at the conclusion of the workshop. Post-workshop monitoring results appear 
+consistent with issues raised at the workshop, such as delayed or incomplete disbursement of DACDF funds 
+and lack of DACDF information at the local level, and the IDMP is in the process of documenting the details 
+of such issues.  Analysis of the implications of the aforesaid issues will serve as empirical evidence and the 
+basis to advise the government to review the DACDF policy and put in place relevant improvement 
+measures in line with those identified by the workshop. 
+ 
+HIGH LEVEL DIAMOND STEERING COMMITTEE & TECHNICAL COMMITTEE 
+There were no HLSC meetings, nor technical committee meetings held during the quarter. This lack of 
+activity mirrored that of the preceding quarter. During the life of IDMP there has been significant 
+progress in enhancing GoSL capacity to institute policies leading to effective management of the 
+Sierra Leone diamond industry. Unfortunately, differing donor mandates and government agendas 
+negatively impact the HLSC and sub Technical Committee concept. During the quarter, work plans for 
+the extension period include a thorough review of the HLSC process, which was begun during this 
+reporting period, as described below. 
+ 
+Much of the policy work for this quarter involved the initial implementation of a systematized survey to gain 
+insights into the efficacy of the HLSC and its ad hoc Technical Committee. For some donors, the two 
+committees are seen as crucial for government and donor collaboration on matters regarding diamond policy. 
+Preliminary survey findings suggest that different expectations in policy engagement between donors and the 
+government may have significantly impacted on the efficacy, relevance and therefore purpose for continued 
+meetings. Further, government agendas continue to impact on the frequency of HLSC and the sub Technical 
+Committee meetings causing breaks or inadequate implementation of suggested activities.  
+This state of affairs raises questions regarding the effectiveness of the HLSC as a key policy forum. The 
+IDMP policy unit has undertaken a study to review the mandate and structure of both Committees with a 
+view to revitalizing them or suggesting a change. The exercise involves one-on-one interviews with both 
+government and donor participants in the two committees. An open meeting will be organized at the end of 
+the interview process to validate findings and suggest a way forward.  
+With national elections soon to take place, and the possibility of a change in government a very real 
+possibility, it may be that the HLSC concept will have to wait until after the elections have taken place 
+before being reconstituted. No matter the outcome of the election, policy review and change will most likely 
+be part of the new government’s agenda. Even if the current political party remains in power, key players 
+will change in parliament, in the presidency and within the ministries. This will result in a new view of how 
+business is done. Further, changes in the staff of donor agencies, concerned diplomatic missions, the United 
+Nations and bi-lateral missions will also influence relationships between themselves individually and 
+collectively, and the new government of Sierra Leone. Going forward, the HLSC concept will be guided by 
+the fact that as the years have gone by since it was first introduced, the possibility that new thinking may 
+need to be applied to keep up with current events and progress. 
+ 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+7 
+ 
+SUPPORT TO THE ESTABLISHMENT OF A PIU WITHIN THE MMR 
+Although progress has been painstakingly slow regarding the establishment of a public information unit 
+(PIU) at the MMR, IDMP worked with the MMR to establish a small working-committee to move on with 
+the PIU initiative. Having encouraged the representation of civil society, the committee met three times 
+during this quarter with the MMR and MoIC.  As an interim result, a sector PIU implementation concept and 
+benchmarks are currently being developed.  
+ 
+ENVIRONMENTAL REMEDIATION 
+Policy issues regarding the impact of mining on the environment, health and communities continued to be 
+pursued in collaboration with other agencies. For example, in February 2007, IDMP collaborated with FESS, 
+eight diamond area chiefdoms, five local civil society groups and two local council administrations in two 
+structured workshops in Kono and Tongo Fields. The workshops provided opportunities for diamond area 
+communities, chiefs and councils to work together and identify common environmental impact variables and 
+seek local solutions. With technical inputs from the IDMP and previous experience in implementing a pilot 
+reclamation project in Tongo, FESS is currently spearheading the reclamation of 15-acre mined-out sites in 
+both Kono and Tongo Fields.  
+ 
+OTHER POLICY ACTIVITIES 
+Keeping abreast with Strengthening Democratic Governance (SDG) program, also implemented by 
+MSI, the IDMP policy unit, through its interactions with paramount chiefs and councils, disseminated 
+pertinent information regarding the SDG Matching Funds program.  This program supports increased 
+citizen demand for good governance and Sierra Leone’s decentralization process by matching local 
+government contribution towards qualifying community development initiatives with program funds.  
+A concrete result of this synergy is that five chiefdoms have agreed to provide a total of Le 60,000,000 
+(USD $20,000) each of DACDF money to be matched by SDG, potentially availing $40,000 for 
+community development in target communities. 
+ 
+2. ACTIVE CIVIL SOCIETY SUPPORTING IMPROVED PUBLIC AND 
+PRIVATE DIAMOND MANAGEMENT 
+ 
+COMMUNITY AND ZONAL MEETINGS 
+ 
+Zonal and Community Meetings promote community awareness of diamond issues and offer 
+participants the opportunity to state their concerns about entrant industrial mining companies and 
+operations.  It also provides IDMP staff an opportunity to disseminate policy information. Information 
+sharing with mining communities on diamond issues has proved vital to the communities.  It serves as 
+the main channel through which local, national and international diamond issues are communicated. 
+Like the rough diamond identification training, the meetings in these mining zones have always 
+attracted so many participants that, in most cases, the number of attendees has to be limited to the 
+available resources to ensure that information is effectively and accurately disseminated to 
+participants.  Issues relating to government policies on diamonds, mining technology, land rights 
+issues, the role of USAID, environmental issues, and community beneficiation have always been 
+paramount in IDMP zonal meetings.  
+ 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+8 
+ 
+Out of five plus hours allocated to each of these meetings, at least one hour thirty minutes is always 
+allocated to discussions of diamond issues affecting the host community. Through this, the program is 
+able to understand mining issues affecting the communities. We then forward this information to other 
+interested organizations and stakeholders in the diamond industry of Sierra Leone.  Community issues 
+gleaned during zonal meetings are then intended to be raised with HLDSC and Tech Committee 
+members, both formally and informally.   
+ 
+During this quarter, a first zonal meeting was held in one of the newly identified target zones.  At this 
+zonal meeting was unprecedented female participation.  With 45 females and 55 males in attendance, 
+it was the first time in the over two years of IDMP zonal meetings that more women  
+than men participated – an occurrence made even more extraordinary by the rural location of the 
+meeting.  This is a clear indication that IDMP activities are having considerable impact on gender 
+perceptions as well as raising awareness of not only diamond activities, but also of societal roles in 
+decision-making and comprehensive community participation in local governance. 
+ 
+The awareness raising campaigns in mining zones have impacted communities so as to: 
+ 
+ 
+Reduce nefarious rumors on issues like land ownership that have the potential to spark social 
+conflict. 
+ 
+Reduce illegal diamond transactions as communities are now, more than ever, aware that 
+mining without a license or selling diamonds without documenting the license in the chiefdom 
+of origin, will lead to a reduction of the Diamond Area Community Development Fund 
+(DACDF) that will go to that chiefdom. 
+ 
+Facilitate the employment of chiefdom monitors to monitor their mines, thereby impeding 
+illegalities and bringing more benefits to the chiefdoms in question. 
+ 
+Stakeholder zonal meetings held in Kono during the quarter included the chiefdoms of Sandor (the 
+chiefdom producing the highest quantity of alluvial diamonds in Sierra Leone), Nimiyama Nimikoro, 
+Tankoro, and especially Soa and Gbaneh which, like Fiama, have just been officially declared 
+diamondiferous and were not originally among the six traditionally know diamondiferous chiefdoms 
+in Kono.  During the quarter, sixteen zonal awareness meetings and three community stakeholder 
+meetings were successfully conducted.  These meetings attracted a total of 1,730 participants 
+including 1,317 males and 413 females, at an average of 105 participants per each zonal meetings and 
+65 per each community stakeholders meeting.  
+ 
+Five community meetings were held in the Kono District attended by 331 decision makers. 
+Community meetings bring together stakeholders at community level to understand current 
+community beneficiation. A by-product is the increased transparency of beneficiation processes, 
+specifically the actions of local leaders directly accountable for the benefits received on behalf of 
+communities. Authorities therefore can be better scrutinized on how decisions are reached for the 
+distribution of such benefits. As noted, the community meetings provide a forum for participants to 
+state their concerns about entrant industrial mining companies and operations. The IDMP staff also 
+utilize these meetings to disseminate policy information among the meeting participants.  
+   
+ACTIVE INVOLVEMENT OF MEMBERS OF CIVIL SOCIETY 
+At the request of the civil society group, Network Movement for Justice and Development, IDMP 
+facilitated an all-day launching of its document: “To Mine or Not to Mine.” A delegate at this 
+launching workshop was Canada’s African Coordinator of the Development and Peace organization, 
+an entity with relevant operations in many African countries. IDMP involvement in this workshop was 
+an effort by the program to encourage understanding between industrial mining operators and 
+communities affected by these operations. Fortunately, both sides of the industrial mining conundrum 
+were well represented at this workshop. 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+9 
+ 
+ 
+On the 6th of January one IDMP senior staff member participated in a workshop in Kono under 
+sponsorship of the World Bank through CEMMATS and NACE. The workshop was on the strategic 
+environmental assessment of Sierra Leone and was attended by a cross section of CSOs, NGOs and 
+interested public. 
+ 
+SMALL STONES TRAINING 
+Small Stones Diamond Identification training, in which local indigenous miners and diggers 
+participate, continues to break the bond that has supported the monopoly of knowledge in the diamond 
+business for so long. The training itself is one of the key motivational activities of the program for 
+participating men and women, including local authorities involved in the diamond industry. During the 
+quarter, coordination, facilitation and monitoring of the implementation of IDMP Small Stones 
+Trainings continued in both Kono district and Tongo fields. Each cluster of the twenty trainees is 
+trained under the coordination and supervision of the IDMP Deputy Team Leader, the Business 
+Advisor, and by the Kono Youth Coalition Chairman.  
+ 
+During the quarter, certificates were printed and signed for 472 graduates. These graduates will be 
+certified during next quarter at formal ceremonies to be held in Tongo Fields and in Kono District. A 
+significant number of the trainees and trainers are members of civil society organizations such as 
+MOCKY, the Youth Coalition, Teachers’ Union, ADAGMAK, Union of Cooperative Societies and 
+the Fifty-Fifty women’s group, amongst others.  In this reporting period, twenty trainers hailing from 
+CSOs in Kono and Tongo Fields, identified and selected in the previous quarter, underwent a Training 
+of Trainers and then themselves delivered the training. 
+ 
+Significant progress was made in Tongo Fields as regards increasing awareness amongst formerly 
+marginalized groups in diamond marketing. Previously, diggers and women had little or no say in the 
+marketing of diamonds. Their basic roles were the manual aspect of digging and cooking respectively. 
+Currently, Tongo Fields has four male and four female Small Stones trainers. The presence and 
+participation of these women helps motivate other women determined to make themselves available 
+for the Small Stones training. At a recent Small Stones Training course in Ngiehun, nine female and 
+eleven male trainees attended and passed the course. Until recently, female participation typically 
+ranged from zero to four per a class of twenty. 
+ 
+Three Small Stones trainings were conducted in Ngiehun, Lalehun and Panguma zones respectively, 
+comprising of a total of sixty trainees. The Small Stones training reaching further into the rural zones 
+is very strategic as it is helping to spread the knowledge and skills to diggers and miners in what are 
+locally called mining hide-outs. 
+ 
+3. PRIVATE SECTOR DIAMOND BUSINESSES THAT ARE MORE 
+TRANSPARENT, COMPETITIVE, AND RESPONSIVE TO 
+COMMUNITY INTERESTS 
+ 
+Within the program Kono area, four companies have made large investments and are active. 
+ 
+Koidu Holdings (Operating in both Koidu and Tongo Fields) 
+ 
+Target Resources operating under Milestone T/A Sandor Development Corporation  
+ 
+Sierra Leone Diamond Company (SLDC) 
+ 
+Crown Mining, T/A Basama  
+ 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+10 
+ 
+In Tongo Fields the following companies are involved in more large scale and industrial diamond 
+mining: Koidu Holdings S.A, Bara Kul, Olympus, Sam, Sympathizers, Vanguard and SLDC.  There 
+are also a number of smaller mining companies operating in the area but not at the scale of investment 
+or size of operation as the above. IDMP, with its links within the local community, is well placed to 
+monitor relationships between those companies and the local inhabitants.  
+ 
+During the quarter, groundwork towards enhancing understanding between communities and industrial 
+mining companies continued. Companies were invited to participate with the IDMP secretariat in 
+discussions regarding corporate social responsibility. Initial reactions by several such companies were 
+surprisingly encouraging to the program staff. The outcomes of this meeting are forthcoming, but early 
+indications are positive with the notable participation of SLDC.  
+ 
+During the quarter, the IDMP senior staff’s radio discussions, call-in reactions, key stakeholder zonal 
+meetings, general community meetings, Small Stones Training and even the recently held DACDF 
+national workshop that the program conducted in Bo were, in part, geared toward enhancing relations 
+between communities and mining companies in general. It is slowly being realized in the diamond 
+fields that larger mining operations are the future of diamond extraction in Sierra Leone, and that 
+alternative employment options must be considered and education encouraged for all those miners and 
+diggers likely to be displaced. 
+ 
+Normally, when people want to avoid paying license fees and or taxes, they operate in secret. Such 
+people in the diamond sector in Tongo Fields and Lower Bambara have not been very fortunate 
+recently due to the vigilance of the Tongo Fields Peace Diamond Alliance Executive Committee and 
+the IDMP.  As recently as the early part of the last quarter, the female members of the Tongo Peace 
+Diamond Alliance Executive Committee and the Tongo Fields IDMP staff detected that legal diamond 
+dealer agents were on the decrease whereas illegal ones were on the increase. Swift steps in the form 
+of sensitizing workshops and public awareness activities were taken to reverse the trend.  Those 
+targeted to make strong position statements and to take actions against illegal diamond dealers 
+included the chiefdom local authorities, landlords, the Ministry of Mineral Resources (MMR), the 
+police, legal and illegal dealers, sectional local authorities, and representatives of Government of 
+Sierra Leone in the Lower Bambara. This approach has drastically reduced unlicensed diamond 
+dealers.   
+ 
+IDMP further supports the Peace Diamond Alliance’s efforts to prevent and mitigate confrontation or 
+conflict between mining companies and the communities is.  In Tongo Fields, five out the eleven 
+Peace Diamond Alliance Executive Committee members are members of the Community Relation 
+Committee (CRC), a liaison body assisting in good relations between Koidu Holdings and other 
+industrial diamond mining companies and the Lower Bambara community. The CRC sees to it that 
+both companies and the community honor their respective corporate social responsibilities in order to 
+promote friendliness and peace. For instance, CSR-focused awareness has helped Koidu Holdings 
+carry out its mining operation with little obstruction from the community. As a benefit to the 
+community, as well as for its own operational efficiency, Koidu Holdings has rehabilitated the forty-
+two mile road from Tongo to Koidu. The company also regularly employs competent citizens of the 
+chiefdom. These benefits of employment and improved transport infrastructure are bound to have 
+significant and potentially lasting economic impacts on the area as trade is already increasing between 
+the two towns.  
+ 
+Land where traditional alluvial mining once predominated is coming under pressure from industrial 
+and larger alluvial mining investors. There is limited local ability to undertake the investment 
+necessary to extract in larger rivers and the kimberlite pipes and dykes. But when large areas of land 
+are allocated to the mining companies, reducing access both to miners and farmers alike without clear 
+policy and notification, the populace feels aggrieved. The increasing levels of public suspicion 
+surrounding the activities of the larger mining companies’ remains of great concern to IDMP.  Much 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+11 
+ 
+of the tension emanates from the lack of communication, not only from the companies themselves, but 
+also from the government and local authorities. Secrecy, unfortunately, has always been an inherent 
+element of the diamond sector in Sierra Leone. This problem will be ameliorated only with the passing 
+of time. 
+ 
+As a result of IDMP awareness raising activities, mining company consultations with mining 
+communities where land is allocated to industrial operations are now more frequent.  Still, most of the 
+community problems resulting from displacement, loss of farms or small mining plots continue to be 
+shouldered by local residents. Effective government intervention is typically slow or unrewarding. 
+Talk of corporate responsibility, even if supported by the international community and local civil 
+society organizations, will have only minimal impact without significant government involvement and 
+political will. Lacking this, and given the current rate of land allocation, dissatisfaction is bound to 
+increase to potentially unacceptable levels. IDMP is only one player in the rectification of this 
+problem, but is beginning to be consulted by sector operators.  
+ 
+The issue of the resettlement of the Affected Property Owners (APO) within the Koidu Holdings 
+operating area in Kono is a classic illustration of promises not fulfilled that led to increased mistrust. 
+Despite continuous promises, three years after operations commenced, less than 40 dwellings had been 
+completed by mid 2006, out of over 100 to be constructed. During this reporting period, and with 
+IDMP participation, Koidu Holdings handed over a further 67 houses to families displaced by their 
+kimberlite mining operation in Koidu Town. This is a very positive development after a long period of 
+stress and disappointments.  
+ 
+In Tongo Fields, the community, with IDMP participation, has frequent interaction with Koidu 
+Holdings management and other mining companies active in the area. While not always in agreement, 
+the frequency of contact has created a better understanding of both company operations and the 
+community concerns 
+ 
+Understanding rights and responsibilities is important for all players in diamond production if the 
+benefits of diamonds are to be properly utilized, especially as alluvial mining tends to be capital 
+intensive.  The need for companies and communities to see each other as partners in development 
+cannot be overemphasized. IDMP continues to work closely with stakeholders in the realization of 
+their rights and responsibilities for the general good of the people in mining communities.  
+ 
+COMMUNITY ISSUES RAISED DURING THE QUARTER 
+ 
+The unnecessary delays in issuance of mining licenses by the MMR.  
+ 
+The discrepancies in monies paid for such mining licenses. 
+ 
+Many communities lack clean drinking water. It is the concern of many people that the 
+commencement of new alluvial activities will exacerbate an already poor health situation in the 
+region.  
+ 
+The movement of vehicles, workers and heavy equipment into some of the communities by 
+mining companies. 
+ 
+There is concern about how the inhabitants will be able to address important concerns, such as the 
+destruction of their crops, river systems, farm lands, etc, when the allocation of these lands was 
+ordered by the Paramount Chief.  
+ 
+ 
+ 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+12 
+ 
+ISSUES REQUIRING ATTENTION 
+ 
+The organization of civil society groups to take important information to community meetings in 
+mining areas needs to continue so that the legacy of information sharing continues after the IDM 
+project leaves Sierra Leone. 
+ 
+ 
+The cooperation of other NGO’s and funding partners in the execution of activities outside the 
+strategic and intermediate objectives of the IDMP so that the efforts of IDMP are complemented 
+for better results. 
+ 
+ 
+Chiefdoms where mining has just begun must be intensely targeted with awareness meetings and 
+training to address problematic issues before mining actually begins in their areas.   
+ 
+ 
+Better explanation or information by authorities to communities on the way the DACDF has been 
+allocated and used within the chiefdoms. 
+ 
+ 
+What benefits will communities derive from companies who operate under the guise of 
+exploration or prospecting licenses. 
+ 
+4. IMPROVED COMMUNITY DIAMOND MANAGEMENT SYSTEMS 
+AND INCENTIVES TO USE THEM EFFECTIVELY 
+ARTISANAL MINING PROCEDURES IMPROVED THROUGH SMARTER TRAINING 
+The Sustainable Mining by Artisanal Miners (SMARTER) concept, developed by CEMMATS under 
+IDMP, introduces modern and environmentally acceptable approaches to diamond prospecting and 
+mining through the use of improved methods to reduce environmental degradation.  Additionally, 
+SMARTER emphasizes improved and proper equipment usage and, most importantly, safety measures 
+to be observed in alluvial mining.  Following the pilot SMARTER training conducted in end 2006, 
+IDMP contracted CEMMATS to prepare the SMARTER mining training modules as a follow-on to 
+the IDMP small stones training activities, to add value to the skills of the “best and brightest” of the 
+those participants, which they will then disseminate to a larger audience in the diamond fields.  This 
+training will also build a cadre capable of performing as mine monitors and advisors to their local 
+councils, formal sector mining enterprises, and government ministries and agencies.   
+ 
+During the quarter, CEMMATS trained a total of 80 trainees using the SMARTER mining technology 
+and curriculum.  A first training was conducted in early February.  Included in the 40 participants were 
+eight residents from the newly declared diamondiferous chiefdoms.  In late February, CEMMATS 
+conducted its second SMARTER training in Tongo Fields with 40 more participants, eight of whom 
+were women.  Including the pilot training conducted in late 2006, 77 diamond miners have been 
+trained SMARTER technology in Kono to date.  These trainings have been facilitated and monitored 
+by the IDMP Deputy Team Leader. 
+ 
+The SMARTER trainees will be awarded individual certificates of satisfactory completion of the 
+course at a ceremony during the next quarter. Those certificates have already been designed and 
+printed. This cadre of individuals now trained in more efficient, safe, and environmentally friendly 
+diamond mining techniques has the potential to pass this knowledge on to hundreds if not thousands of 
+their colleagues. The possible impact is inspiring. 
+ 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+13 
+ 
+5. IMPROVED ENABLING ENVIRONMENT FOR IMPROVED DIAMOND 
+MANAGEMENT 
+The issue of land reclamation was addressed at two community meetings which helped to contribute to 
+the reclamation work of FESS and Government of Sierra Leone (GoSL). The Tongo Fields IDMP 
+office was able to help in clearly distinguishing between mined-out and worked-out land for proper 
+and sustainable reclamation work. Also the Tongo Fields IDMP office was able to help FESS and 
+GoSL with a template of an agreement between the donor and the community for successful and 
+sustainable implementation of land reclamation. 
+ 
+COMMUNITY RADIO DISCUSSIONS ON DIAMOND MATTERS 
+Community radio discussions are another medium which IDMP uses to reach a wider audience in 
+target communities and to strengthen awareness campaigns. Discussions focus on key issues such as 
+the relationship between mining companies and diamond communities, environmental management 
+during mining, health status in mining communities, DACDF allocation, alluvial mining best 
+practices, and land rights and land allocation to artisanal miners.  One hour discussions and phone-in 
+programs are broadcast live on Wednesdays and Saturdays.  These radio programs have generated so 
+much interest that the audience has requested an extension of the one hour program format. 
+ 
+IDMP COLLABORATION 
+Collaboration both within and outside the Integrated Diamond Management Program has always been 
+identified as key to success of the program.  Internally, bringing IDMP staff together from its three 
+locations of Kono, Tongo Fields and Freetown for exchanges of experiences has bolstered the 
+planning and implementation of program activities.   During this quarter, program staff convened in 
+Koidu to collaborate on the way forward for the April to December extension and later gathered in 
+Freetown to develop a work plan for the extension period. 
+ 
+Externally, the program has maintained close ties with other partners like the USAID Strengthening 
+Democratic Governance program, Network Movement for Justice and Development (NMJD), the 
+Foundation for Environmental Security and Sustainability (FESS), DIfD, Talking Drum Studio, the 
+Ministry of Mineral Resources, CEMMATS, Global Witness, UNDP and many others. The program 
+cannot address the varied issues in the diamond industry alone, nor in isolation, hence the need for 
+such collaborative efforts with other concerned actors.  
+ 
+In January, IDMP participated in the World Bank-sponsored Strategic Environmental Assessment 
+(SEA) workshop.  The goal of the SEA is to conduct a complete assessment of the issues, stakeholders 
+and possible mitigation measures relating to the environmental destruction caused by mining. 
+ 
+GOLD 
+ 
+With the acquiescence and approval of USAID, no activities were conducted this quarter with respect 
+to gold. 
+ 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+14 
+ 
+INTEGRATED DIAMOND 
+4. PROGRAM MANAGEMENT 
+ 
+VISITORS TO IDMP FIELDS OFFICES 
+ACTIVITIES PLANNED FOR THE UPCOMING QUARTER 
+FINANCIAL STATEMENT  
+Visitors continue to proliferate at IDMP, particularly in Kono. This and the last reporting period saw 
+weekly visits exacerbated by the run up to and the screening of the movie Blood Diamond, a fictional 
+account of the diamond sector during Sierra Leone’s past civil unrest, with Kono and Tongo Fields 
+diamond fields as its focus.  Visitors, including university researchers, the media in all its renditions, 
+the donor community, international NGOs working on diamond sector reform, private sector diamond 
+business representatives, and documentary makers, have all descended on Kono and the IDMP offices 
+in search of information to further their individual causes or agendas or to inform the international 
+community of the reality on the ground.  Some, like the Liberian delegation, visited IDMP and Kono 
+to learn from the experience of the program and Sierra Leone at large as regards sustainable diamond 
+management. 
+During this quarter, USAID awarded a nine month cost extension to IDMP, moving the final project 
+end date to December 31, 2007.  The modification for this extension was awarded shortly before the 
+program’s previous close out date of March 31, 2007, causing some program management challenges 
+while transitioning from close out to a productive and innovative extension period.  The Washington 
+D.C.-based Project Manager spent two weeks with the program during the latter half of March 
+assisting with this transition and ensuring sound financial and administrative procedures were in place 
+to support the program through December 2007. 
+Please refer to Annex A for activities planned for the upcoming quarter, April through June 2007.  
+An accrual statement summarizing program expenditures through December 31, 2006 is attached as 
+Annex B. 
+ 
+MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+15
+ 
+These frequent visits have a mixed effect on program implementation.  Positively, these visits draw 
+attention to IDMP’s achievements and the capabilities of its staff members.  On the negative, they 
+have taken many man hours of IDMP staff time. It has been a major factor in increasing the awareness 
+of staff on thinking outside Sierra Leone regarding the diamond industry and its rapidly evolving 
+change and attempts to enhance its transparency in the face of increasing international scrutiny, the 
+Kimberly Process view of IDMP work, particularly the cooperative initiative and PDA. Responses 
+from such visiting teams on the work of the program helps IDMP see itself and assists in modifying 
+strategies in addressing the varied issues. 
+ 
+USAID/Sierra Leone has always been actively engaged in the planning and implemention of IDMP 
+activities.  In February, the USAID/Sierra Leone Country Program Manager visited the program’s 
+operations in Kono and Tongo Fields.  The program’s Cognizant Technical Officer attended the senior 
+staff retreat in Koidu to help chart the way forward 
+ 
+ 
+ 
+ANNEX A 
+ 
+Time Frame 
+Sierra Leone Integrated Diamond Management Program 
+April to June 2007 Quarterly Work Plan 
+2007 
+Justification/ 
+Objective for activity 
+ 
+Activity 
+April
+May 
+June 
+IR 1 
+Improved GOSL Diamond Management Systems and Incentives to 
+use them effectively 
+ 
+ 
+ 
+1.1 
+Continue to serve as the Secretariat to the HLDSC and its Technical 
+Committee 
+ 
+ 
+ 
+1.2 
+Undertake extensive member-consultation and review HLSC/Technical 
+Committee: Mandate, structure and relevance. Undertake extensive 
+member-consultation and review HLSC/Technical Committee: Mandate, 
+structure and relevance. 
+ 
+ 
+ 
+ 
+ 
+To enhance effective policy 
+advice through donor/GoSL 
+collaboration and dialogue 
+1.3 
+Facilitate the implementation of the HLSC restructuring and functioning. 
+ 
+ 
+ 
+IR 2 
+Active civil society supporting improved public and private diamond 
+management 
+ 
+ 
+ 
+2.1 
+Contact and dialogue with Mano River Union (MRU) countries (Sierra 
+Leone, Liberia, Guinea) to identify and mobilize diamond sector CSOs 
+ 
+ 
+ 
+ 
+To identify, mobilize MRU sector 
+CSOs and adopt a single 
+approach to mitigate diamond 
+smuggling and encourage MRU 
+Governments to adopt diamond 
+resource/ regional harmonized 
+policy. 
+2.2 
+Organize Mano River Union Regional harmonization activities with CSOs 
+ 
+ 
+ 
+IR 3 
+Resource Information dissemination 
+ 
+ 
+ 
+3.1 
+Implement information campaigns with two (2) identified CSO partners. 
+ 
+ 
+ 
+3.2 
+Write and record media in English, Krio and other local languages 
+ 
+ 
+ 
+3.3 
+Twenty four (24) one (1) hour weekly radio discussion on mining policy 
+and d other development issues affecting mining communities. 
+ 
+ 
+ 
+3.4 
+Partner with Talking Drum Studio (TDS) and over see Capacity Building 
+of local partners in disseminating diamond policy information 
+ 
+ 
+ 
+3.5 
+Identify industry watchdog organization and begin working on monitoring 
+activities 
+ 
+ 
+ 
+ 
+To disseminate diamond sector 
+information as anti-corruption 
+measures to approximately 
+800,000 people in the eastern 
+region and to enhance 
+accountability and transparency at 
+community level through the 
+effective monitoring of the 
+DACDF. 
+3.6 
+Monitor DACDF, allocation, disbursement and utilization 
+ 
+ 
+ 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+16 
+MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+17 
+ 
+INTEGRATED DIAMOND 
+IR 4 
+Awareness Raising meetings 
+ 
+ 
+ 
+4.1 
+Conduct 10 zonal stakeholder meetings in Kono and Tongo Fields. 
+ 
+ 
+ 
+To develop a stable citizenry 
+through consolidation of 
+information dissemination on 
+DACDF, land degradation, 
+corporate social responsibility 
+(CSR), mining regulations and 
+investment policy.  
+4.2 
+Conduct 7 Community meetings in Kono and Tongo  Fields 
+ 
+ 
+ 
+IR 5 
+Local Civil Society (CS) capacity building and Peace Diamond 
+Alliance (PDA) 
+ 
+ 
+ 
+5.1 
+Targeted Capacity Building (CB) of local civil society organizations 
+(CSOs) through sub-contracts to implement various activities, including 
+land reclamation and information dissemination campaigns. 
+ 
+ 
+ 
+5.2 
+Plan and conduct a three (3) days National PDA workshop to review 
+mandate and structure of PDA, develop new Terms of Reference (TOR) an 
+d strategy to make PDA functional at national level. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To identify appropriate civil 
+society organizations and 
+restructure the PDA to sustain 
+USAID/MSI efforts in the 
+diamond sector. 
+5.3 
+Facilitate and provide support to a credibly identified independent 
+consultant / group to: Develop new Terms of Reference (TOR) for a 
+restructured PDA, Undertake the restructuring process, Facilitate PDA link 
+to resources, Address PDA capacity needs, Address PDA constituency 
+biased on the diamond sector. 
+ 
+ 
+ 
+IR 7 
+Small Stones training 
+ 
+ 
+ 
+7.2 
+Conduct eight (6) Small Stones training 
+ 
+ 
+ 
+7.3 
+Four (4) training certification ceremonies (SST/Smarter) 
+ 
+ 
+ 
+ 
+To consolidate and 
+institutionalize Natural Resource 
+Management training 
+7.5 
+Provision/procurement of training equipment 
+ 
+ 
+ 
+IR 9 
+Program Management Activities 
+ 
+ 
+ 
+9.1 
+Weekly staff meetings 
+ 
+ 
+ 
+ 
+ 
+Reporting 
+9.3 
+Data collection and research shared with GoSL/USAID/CSO/HLSC and 
+other stakeholders. 
+ 
+ 
+ 
+ 
+ANNEX B 
+ 
+ 
+Report of the DACDF National Assessment workshop 
+ 
+1. Executive Summary 
+ 
+The Diamond Area Community Development Fund (DACDF) national assessment workshop 
+was conducted at the Sir Milton/Madam Wokie hotel in Bo on 14-16th March 2007. The 
+workshop attracted 100 participants from five diamondiferous districts. These five districts 
+receive over 84% of the national DACDF total. Participants included the Permanent Secretary 
+of the Ministry of Mineral Resources (MMR), twenty three paramount chiefs, five 
+district/town councils, and seven civil society groups. Forty percent of all participants were 
+women.  
+ 
+Utilizing a client-based participatory methodology2 and based on community-specific 
+experiences, participants had initially identified a number of critical successes, failures and 
+challenges associated with the Fund. There was unanimity among participants that the 
+Diamond Area Community Development Fund (DACDF) continues to be an essential 
+diamond resource redistribution pathway, through which 25% of diamond exports tax 
+revenues is returned to the communities from which they were mined. An end-of-workshop 
+evaluation suggests that more than 80% of participants saw the workshop as an important 
+forum through which stakeholders were able to articulate, for the first time, the role of the 
+fund.  The workshop provided an opportunity for key community decision-makers to assess 
+progress and impact of DACDF resources so far received and utilized for the benefit of their 
+localities.  
+ 
+After a keynote addresses and confirmation by all participants regarding the medium of 
+communication and facilitation process, the 100 participants were divided into 5 district-level 
+working groups. This was deemed more effective because participants felt more at ease 
+working with people from the same or close communities as well as having familiarity with 
+local DACDF projects and implementation processes. By the end of the third working day, 
+and in relation to area-specific implementation experiences, participants identified the 
+following components as representative of national DACDF successes, failures and 
+challenges of the Fund since its inception in June 2001. 
+           
+Successes: 
+i. 
+Enhanced social infrastructure in mining communities (roads, schools, dispensaries) 
+ii. 
+Reduction in illicit mining 
+iii. 
+Intermittent job creation opportunities and enhanced local commerce. . 
+ 
+                                                     
+2 A client-based participatory methodology was based on Hamlin’s proposed 5 level model in evaluating impact 
+and learning events.   
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+18 
+ 
+Failures: 
+i. 
+Lack of a national DACDF implementation standard impact on overall DACDF 
+project quality 
+ii. 
+Inadequate DACDF information at grassroots level impacts on local governance, 
+decision-making and choice of project that meets wider community needs 
+iii. 
+Size of the Fund in some chiefdoms restrict level of community development 
+opportunities 
+ 
+Challenges: 
+i. 
+A tendency of DACDF policy to forestall diversification of livelihoods in mining 
+areas compared to non-mining communities 
+ii. 
+Increase of industrial mining concessions Vs. artisanal mining activities 
+iii. 
+Tensions between district councils and traditional authority on oversight and 
+monitoring roles  
+ 
+In response to concerns relating to inappropriate utilization or misappropriation of DACDF 
+resources, participants adopted the following as way forward measures that would enhance 
+more transparency and efficiency in implementing the Fund.  
+ 
+Workshop recommendations and adopted way forward measures: 
+ 
+i. 
+Institute a peer-group-performance-review and support mechanisms  
+ii. 
+Ensure timely and full disbursement of DACDF funds by the government 
+iii. 
+Identify relevant local civil society groups and NGOs to collaborate with councils in 
+monitoring DACDF implementation and impact 
+iv. 
+Commit to ensure the dissemination of adequate DACDF information at local level 
+v. 
+Development of a standard and simplified DACDF implementation criteria to ensure 
+DACDF project quality 
+vi. 
+Central government to replicate the DACDF community-beneficiation module in other 
+extractive industries 
+ 
+ 
+2. Pre-DACDF Analysis and Purpose of the Workshop 
+ 
+Meant to “Enhance community development in diamondiferous chiefdoms of Sierra Leone 
+from revenue derived from diamond resources”, 71 diamond area chiefdoms and 13 councils 
+are now benefiting from this unprecedented community fund. Until June 2001, 
+diamondiferous communities had not benefited directly from diamond export revenue. 
+Instead, decades of maladministration of the diamond industry culminated in widespread 
+poverty, extensive environmental degradation, individual and community vulnerability, and 
+disaffection among diamond mining communities. These factors contributed to protracted 
+civil strife and large-scale human rights abuses, as well as the destruction of significant 
+diamond area community infrastructure.  
+ 
+From a mere US$ 195,165 in 2001, the fund reached a threshold of US$ 3.4 million or 10 
+billion Leones by the end of 2006, and a combined national total of 2,202 artisanal mining 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+19 
+ 
+licenses dispensed. Also, the present 71 recipient chiefdoms indicate a significant increase in 
+the number of benefiting chiefdoms from 54 in 2001. Implemented DACDF projects range 
+from the rehabilitation of schools, roads and health centers to the construction of new 
+courthouses and multi-purpose local facilities.  
+ 
+However, issues surrounding transparent utilization of DACDF resources, sustainability and 
+impact of current DACDF projects continue to provoke complex development and socio-
+political debates and questions the efficacy and legacy of the DACDF policy. In response to 
+such concerns, the IDMP had conducted studies to identify fund implementation weaknesses, 
+forming the basis of the report to the HLSC published in December 2005.  The recent national 
+assessment workshop is a follow-up action to the 2005 report. The bringing together various 
+DACDF stakeholders is an attempt to catalogue the successes, failures and challenges of the 
+DACDF policy.   
+ 
+ 
+3. Details of Workshop Results 
+ 
+Successes: While peace building and post-conflict social reintegration were cited as important 
+contributions of the fund in mining areas, participants identified the following three 
+components as consistently reflective of national DACDF successes. 
+ 
+i. 
+Enhanced social infrastructure in mining communities: 
+All five working groups during the workshop plenary sessions reported an increase in social 
+infrastructure development in their communities as a direct result of the fund. Success was 
+specifically related to actual numbers and concentration of community infrastructure projects 
+such as health centers, guesthouses, rehabilitated roads, schools and bridges. However, 
+participants agreed that the infrastructural impact created by the Fund is yet to translate into 
+longer-term economic benefits in view of continuing low-income distributions in mining 
+communities. It was also mentioned that there has been little emphasis in vocational or 
+capacity development that would allow for livelihood diversification in the face of dwindling 
+diamond reserves in most of such communities. 
+ 
+ii. 
+Reduction in illicit mining:  
+Reduction in illicit mining ranked consistently across all groups irrespective of which region 
+from which participants came. Participants argued that the DACDF has become an important 
+incentive for communities to monitor mining activities. The incentive rationale is that local 
+authorities aided by landowners have instituted local monitoring structures known as 
+Chiefdom Mining Committees which report and controls illegal mining, and by so doing, 
+boost the total DACDF amount chiefdoms can receive.  
+ 
+iii. 
+Intermittent job creation opportunities and enhanced local commerce:  
+Almost all of implemented DACDF projects consist of local constructions often providing 
+intermittent local jobs for skilled artisans and suppliers at chiefdom level. Participants cited a 
+number of examples where such opportunities have been provided and how such processes 
+have supported local economies. Roads rehabilitation in some chiefdoms have as well-
+enhanced local movement of goods and services. 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+20 
+ 
+ 
+Failures: Participants contextualized failures mainly in terms of those factors that inhibit 
+accountability and transparency. Civil society members present at the workshop complained 
+about the composition of Chiefdom Development Committees (CDCs), which in most cases 
+comprise of paramount and sub-chiefs and that such arrangement does not allow for adequate 
+representation of other social groups in DACDF project decision-making. 
+ 
+i. 
+Lack of national DACDF implementation standards impact on DACDF 
+project quality: 
+ 
+Plenary group presentations revealed consistent trends of poor DACDF project quality mainly 
+due to: 
+ 
+ 
+Lack of national standards from which the implementation of DACDF projects 
+such size and dimensions for schools and health centers would be guided, and 
+against which quality would be evaluated 
+ 
+The issue of inadequate civil society and grassroots participation in DACDF 
+project decision-making was cited as an important factor responsible for the 
+concentration of most DACDF projects around chiefdom or district 
+headquarters. Participants pointed out some instances where DACDF projects 
+have failed to meet deep rooted and wider community needs because of these 
+factors and have agreed that they pose critical questions for longer-term 
+community development approaches in Sierra Leone. 
+ 
+ii. 
+Inadequate grassroots dissemination of DACDF information: 
+Plenary group reports indicated that while most DACDF citizens may have knowledge 
+regarding the existence of the fund, such knowledge may not necessarily translate to 
+knowledge about the size, purpose or which community needs should be addressed by the 
+Fund. The lack of adequate DACDF information at the critical grassroots level was seen as 
+one of the failures of the fund to enhance decision-making and promote good governance.  
+ 
+iii. 
+Size of the fund in some chiefdoms restrict level of community development 
+opportunities: 
+One of the criteria in calculating DACDF disbursement is based on the number of artisanal 
+mining licenses chiefdoms produce. Although the argument remain that a chiefdom with 20 
+licenses but with high value diamonds might contribute more to export value than a chiefdom 
+say, with 100 licenses, chiefdoms such as Dodo in Kenema which received only Le. 3 million 
+in 2004 are too small to implement any useful projects.  
+ 
+Challenges: Participants identified three main challenges associated with the management of 
+the fund. These are: 
+ 
+1) A tendency of DACDF policy to forestall diversification of livelihoods in mining 
+areas compared to non mining communities: 
+Participants noted in their plenary presentations that the DACDF policy could, in some 
+chiefdoms, forestall diversification into alternative and productive livelihoods such as 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+21 
+ 
+agriculture and other economic activities. Rather than reclaiming lands affected by diamond 
+mining activities for alternative use, a temptation exists for chiefdom and landowning 
+authorities to continue issuing out surface-rent licenses in the hope that this would bring 
+DACDF money to their communities.  
+ 
+2) Increase of industrial mining concessions Vs. Artisanal mining activities: 
+As access to artisanal mining fields are decreasing, demand for industrial mining concessions 
+are on the other hand increasing. Although the requirements in the government Mines and 
+Minerals Act 1996 prohibits the duplication of rights-holding on mining land, participants 
+pointed out specific inconsistencies in the application of mining policy in some chiefdoms in 
+Kono. Dwindling artisanal fields and increasing demands for industrial mining poses serious 
+challenges for DACDF policy sustainability. 
+ 
+3) Tensions between district councils and traditional authority on oversight and 
+monitoring roles  
+Another challenge identified by participants relates to on-going tensions between district 
+councils and traditional authority over who should monitor whom. Participants specifically 
+noted some protests made to the government by traditional leaders rejecting the role of 
+councils to provide DACDF implementation oversight. As the fund continues to be 
+implemented without any credible monitoring mechanism, proper utilization of funds and 
+project quality will be difficult to measure and attain. 
+ 
+Other critical factors: In addition to the above challenges, participants were of the view that 
+the original administrative structure to manage the fund should be reinstated and must 
+comprise of:  
+ 
+Permanent Secretary (MMR) 
+ 
+Director of mines (MMR) 
+ 
+Professional Head (MoW) 
+ 
+Director of Rural Development 
+ 
+General Manager – GDD 
+ 
+Director Economic Planning 
+ 
+An Ex-officio from Civil Society 
+ 
+ 
+4. Workshop recommendations and adopted way forward measures: 
+ 
+1) Institute a district peer-group-performance-review and support mechanism:  
+Based on lively discussions and exchange of experiences during plenary sessions, it became 
+clear that some communities might be more advanced and competent in implementing self-
+help community development projects than others. As a way forward to address competency 
+inconsistencies, participants recommended that a district-level peer-group-performance-
+review and support mechanism be adopted among participating chiefdoms.  
+    
+2) Ensure timely and full disbursement of DACDF funds by the government: 
+Participants noted that late and backlog payments, as happened with Kono in 2004, negatively 
+impact quality and timely implementation of DACDF projects. Late or partial disbursement of 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+22 
+ 
+DACDF checks delay implementation due to price inflation of essential construction 
+materials, after consensus allocation and budget preparation.   
+ 
+3) Identify relevant local civil society groups and NGOs to collaborate with councils 
+in monitoring DACDF implementation and impact:  
+Participants felt strongly that the involvement of some credible civil society organizations and 
+NGOs coupled with proper reporting mechanisms would improve transparency and credibility 
+of DACDF administration and utilization processes at community level. While participants 
+have not outright rejected the oversight role given to councils, they noted a conflict of interest, 
+as councils themselves are recipients of 20% of the fund.    
+ 
+4) Commit to ensure the dissemination of adequate DACDF information at local 
+level: 
+A standardized DACDF implementation criteria package should be developed to ensure 
+DACDF project quality. It was strongly recommended that central government replicate the 
+DACDF community-beneficiation module in other extractive industries. 
+ 
+ 
+ 
+DIAMOND AREA COMMUNITY DEVELOPMENT FUND 
+(DACDF) 
+TOTAL ALLOCATION BY DISTRICT 
+2001 THROUGH 2006 
+DISTRICTS 
+AMOUNT (LE) 
+KONO 
+4,990,620,000 
+KENEMA 
+2,560,740,000 
+BO 
+1,559,420,000 
+BONTHE 
+170,840,000 
+MOYAMBA 
+4,430,000 
+PUJEHUN 
+437,150,000 
+KAILAHUN 
+250,090,000 
+BOMBALI 
+233,970,000 
+PORTLOKO 
+5,280,000 
+KAMBIA 
+9,130,000 
+TONKOLILI 
+3,750,000 
+GRAND TOTAL 
+10,225,420,000 
+ 
+ 
+INTEGRATED DIAMOND MANAGEMENT PROGRAM 10TH QUARTER REPORT 
+23 

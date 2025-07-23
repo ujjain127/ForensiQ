@@ -1,0 +1,2839 @@
+Wednesday,
+April 9, 2003
+Part III
+Department of Labor
+Employee Benefits Security 
+Administration 
+29 CFR Part 2510 and 2570
+Employee Retirement Income Security Act 
+of 1974; Procedures for Administrative 
+Hearings Regarding Plans Established or 
+Maintained Under or Pursuant to 
+Collective Bargaining Agreements Under 
+Section 3(40)(A) of ERISA; Final Rule
+VerDate Jan<31>2003 
+15:31 Apr 08, 2003
+Jkt 200001
+PO 00000
+Frm 00001
+Fmt 4717
+Sfmt 4717
+E:\FR\FM\09APR3.SGM
+09APR3
+17472
+Federal Register / Vol. 68, No. 68 / Wednesday, April 9, 2003 / Rules and Regulations 
+DEPARTMENT OF LABOR
+Employee Benefits Security 
+Administration 
+29 CFR Part 2510
+RIN 1210–AA48
+Employee Retirement Income Security 
+Act of 1974; Plans Established or 
+Maintained Under or Pursuant to 
+Collective Bargaining Agreements 
+Under Section 3(40)(A) of ERISA
+AGENCY: Employee Benefits Security 
+Administration, Labor.
+ACTION: Final rule.
+SUMMARY: This document contains a 
+regulation under the Employee 
+Retirement Income Security Act of 1974, 
+as amended, (ERISA or the Act) setting 
+forth specific criteria that, if met and if 
+certain other factors set forth in the 
+regulation are not present, constitute a 
+finding by the Secretary of Labor (the 
+Secretary) that a plan is established or 
+maintained under or pursuant to one or 
+more collective bargaining agreements 
+for purposes of section 3(40) of ERISA. 
+Employee welfare benefit plans, such as 
+health care plans, that meet the 
+requirements of the regulation are 
+excluded from the definition of 
+‘‘multiple employer welfare 
+arrangements’’ under section 3(40) of 
+ERISA and consequently are not subject 
+to state regulation of multiple employer 
+welfare arrangements as provided for by 
+the Act. Regulations published 
+elsewhere in this issue of the Federal 
+Register set forth a procedure for 
+obtaining a determination by the 
+Secretary as to whether a particular 
+employee welfare benefit plan is 
+established or maintained under or 
+pursuant to one or more agreements that 
+are collective bargaining agreements for 
+purposes of section 3(40) of ERISA. The 
+procedure is available only in situations 
+where the jurisdiction or law of a state 
+has been asserted against an entity that 
+contends it meets the exception for 
+plans established or maintained under 
+or pursuant to one or more collective 
+bargaining agreements. This regulation 
+is intended to assist labor organizations, 
+plan sponsors and state insurance 
+departments in determining whether a 
+plan is a ‘‘multiple employer welfare 
+arrangement’’ within the meaning of 
+section 3(40) of ERISA.
+EFFECTIVE DATE: June 9, 2003.
+FOR FURTHER INFORMATION CONTACT: 
+Elizabeth A. Goodman, Office of 
+Regulations and Interpretations, 
+Employee Benefits Security 
+Administration, U.S. Department of 
+Labor, 200 Constitution Avenue, NW., 
+Room N–5669, Washington, DC 20210, 
+(202) 693–8510. This is not a toll-free 
+number.
+SUPPLEMENTARY INFORMATION:
+A. Background 
+The Statute 
+Section 3(40) of ERISA defines the 
+term multiple employer welfare 
+arrangement (MEWA), in pertinent part, 
+as an employee welfare benefit plan, or 
+any other arrangement (other than an 
+employee welfare benefit plan), which 
+is established or maintained for the 
+purpose of offering or providing any 
+benefit described in paragraph (1) of 
+section 3 of the Act to the employees of 
+two or more employers (including one 
+or more self-employed individuals), or 
+to their beneficiaries, except that such 
+term does not include any such plan or 
+other arrangement which is established 
+or maintained under or pursuant to one 
+or more agreements which the Secretary 
+finds to be collective bargaining 
+agreements. 
+This definition was added to ERISA 
+by the Multiple Employer Welfare 
+Arrangement Act of 1983, Sec. 302(b), 
+Pub. L. 97–473, 96 Stat. 2611, 2612 (29 
+U.S.C. 1002(40)) (the MEWA 
+amendments), which also amended 
+section 514(b) of ERISA to narrow the 
+scope of federal preemption of state 
+laws applicable to MEWAs. The 
+purpose of the MEWA amendments 
+generally was to permit states to 
+regulate employee welfare benefit plans 
+that are MEWAs; the extent of the states’ 
+jurisdiction over such entities under the 
+MEWA amendments depends on 
+whether or not the MEWA is fully 
+insured. Sec. 302(b), Pub.L. 97–473, 96 
+Stat. 2611, 2613 (29 U.S.C. 1144(b)(6)). 
+The Multiple Employer Welfare 
+Arrangement Act of 1983, which was 
+introduced to counter what the 
+Congressional drafters termed abuse by 
+the ‘‘operators of bogus ‘insurance’ 
+trusts,’’ see 128 Cong. Rec. E2407 (1982) 
+(Statement of Congressman Erlenborn), 
+significantly enhanced the states’ ability 
+to regulate MEWAs. Nevertheless, 
+problems in this area persist. Among 
+other things, the exception for 
+collectively bargained plans contained 
+in section 3(40) has been exploited by 
+some MEWA operators who, through 
+the use of sham unions and collective 
+bargaining agreements, market 
+fraudulent insurance schemes under the 
+guise of collectively bargained welfare 
+plans exempt from state insurance 
+regulation. Another problem in this area 
+involves the use of collectively 
+bargained plans as vehicles for 
+marketing health care coverage to 
+individuals and employers with no 
+relationship to the bargaining process or 
+the underlying bargaining agreement. 
+The definition of a MEWA in section 
+3(40) was drafted to exclude certain 
+types of plans. As pertains to this 
+rulemaking, section 3(40)(A)(i) of ERISA 
+provides that employee welfare benefit 
+plans that are found by the Secretary of 
+Labor (the Secretary) to be established 
+or maintained under or pursuant to one 
+or more collective bargaining 
+agreements are not MEWAs for purposes 
+of ERISA. Such collectively bargained 
+plans, as a result, were not made subject 
+to the regulatory jurisdiction of the 
+states pursuant to the MEWA 
+amendments. 
+The Department of Labor (the 
+Department) notes that also appearing in 
+today’s Federal Register are final 
+regulations relating to filing the Form 
+M–1 and Civil Monetary Penalties for 
+failure or refusal to file the Form M–1. 
+For information on the Form M–1 and 
+related civil monetary penalties, contact 
+Deborah S. Hobbs or Amy J. Turner, 
+Employee Benefits Security 
+Administration, U.S. Department of 
+Labor, Room C–5331, 200 Constitution 
+Ave., NW., Washington, DC 20210 
+(telephone (202) 693–8335) (this is not 
+a toll-free number). 
+The Proposed Regulations
+On October 27, 2000, the Department 
+published a notice in the Federal 
+Register (65 FR 64482) containing a 
+proposed regulation (the criteria 
+regulation) setting forth specific criteria 
+that, if met in the case of a specific plan, 
+and provided that certain other factors 
+set forth in the proposed regulation are 
+not present, would constitute a finding 
+by the Secretary pursuant to section 
+3(40)(A)(i) of ERISA that a plan is 
+established or maintained under or 
+pursuant to one or more collective 
+bargaining agreements for purposes of 
+section 3(40) of ERISA. The Department 
+also simultaneously published in the 
+Federal Register (65 FR 64498) 
+proposed regulations (the procedural 
+regulations) that set forth an 
+administrative procedure for obtaining, 
+under certain limited circumstances, an 
+individualized determination by the 
+Secretary as to whether a particular 
+employee welfare benefit plan is 
+established or maintained under or 
+pursuant to one or more agreements that 
+are collective bargaining agreements for 
+purposes of section 3(40) of ERISA. 
+The proposed regulations followed 
+the recommendations of the ERISA 
+section 3(40) Negotiated Rulemaking 
+Advisory Committee (the Committee). 
+The Committee was convened under the 
+Negotiated Rulemaking Act (the NRA)
+VerDate Jan<31>2003 
+17:14 Apr 08, 2003
+Jkt 200001
+PO 00000
+Frm 00002
+Fmt 4701
+Sfmt 4700
+E:\FR\FM\09APR3.SGM
+09APR3
+17473
+Federal Register / Vol. 68, No. 68 / Wednesday, April 9, 2003 / Rules and Regulations 
+and the Federal Advisory Committee 
+Act (the FACA), 5 U.S.C. App. 2, to 
+assist the Department in developing 
+proposed regulations to implement 
+section 3(40)(A)(i) of ERISA, 29 U.S.C. 
+1002(40)(A)(i). 
+The criteria regulation set forth 
+standards that, if satisfied, would 
+constitute a finding by the Secretary that 
+a plan is established or maintained 
+under or pursuant to one or more 
+collective bargaining agreements for 
+purposes of section 3(40). 
+The proposed regulation established 
+four general criteria for a finding that a 
+plan was established or maintained 
+under or pursuant to collective 
+bargaining for purposes of section 
+3(40)(A)(i). First, the entity in question 
+had to be an employee welfare benefit 
+plan within the meaning of ERISA 
+section 3(1). Second, the preponderance 
+of those participants covered by the 
+plan (at least 80%) had to have a nexus 
+to the bargaining relationships under or 
+pursuant to which the plan was 
+established or maintained (referred to as 
+the ‘‘nexus’’ group or test). Third, the 
+agreements under or pursuant to which 
+the plan is established or maintained 
+had to have certain characteristics that 
+indicate that they were, for purposes of 
+section 3(40) of ERISA only, collective 
+bargaining agreements, including that 
+the agreements were the product of a 
+‘‘bona fide collective bargaining 
+relationship.’’ Fourth, the proposed 
+regulation listed eight specific ‘‘factors’’ 
+deemed to indicate the existence, for 
+purposes of section 3(40) only, of a bona 
+fide collective bargaining relationship. If 
+at least four of those specified factors 
+were present, the regulation indicated 
+that a bona fide collective bargaining 
+relationship underlying the agreements 
+under or pursuant to which the plan is 
+established or maintained could be 
+presumed to exist. 
+The proposed criteria regulation 
+included a ninth non-specific ‘‘factor’’ 
+in the list. The ninth factor indicated 
+that the Secretary would consider, in 
+making a finding, whether ‘‘other 
+objective or subjective indicia of actual 
+collective bargaining and 
+representation’’ were present. The 
+inclusion of this ‘‘catch-all’’ factor 
+recognized that, in any particular case, 
+other facts might need to be taken into 
+account to determine whether a bona 
+fide collective bargaining relationship 
+existed, especially where the entity did 
+not meet at least four of the eight 
+specific factors, or where, despite 
+meeting four of the eight factors, there 
+were other facts indicating that a bona 
+fide collective bargaining relationship 
+did not exist. 
+The proposed criteria regulation also 
+specified circumstances that, if present, 
+would lead to a conclusion that an 
+employee welfare benefit plan is not 
+established or maintained under or 
+pursuant to one or more agreements that 
+the Secretary finds to be collective 
+bargaining agreements. The regulation 
+stated that, for any plan year in which 
+the specified circumstances were 
+present, a plan that otherwise met the 
+criteria of the regulation should not be 
+deemed to be excluded from the MEWA 
+definition by virtue of section 
+3(40)(A)(i). 
+The proposed regulation provided 
+that, under certain limited 
+circumstances, an entity would be 
+permitted to petition the Secretary for 
+an individual finding. The ability to 
+petition, however, would arise under 
+the proposed regulation only if a state’s 
+law or jurisdiction had been asserted 
+against the entity in an administrative or 
+judicial proceeding. The procedural 
+regulations set forth specific processes 
+for petitioning for an individual finding. 
+Public Comments 
+Subsequent to publication of the 
+proposed regulations, the Department 
+received seven public comments. The 
+Department reconvened the Committee 
+and held a public meeting on March 1, 
+2002, to obtain the Committee’s views 
+on the public comments. Minutes of this 
+meeting, as well as other meetings, of 
+the Committee are available for 
+inspection by the public in the 
+Department’s Public Disclosure Room, 
+200 Constitution Avenue, NW., N1513, 
+Washington, DC 20210. 
+The following discussion summarizes 
+the issues raised by the public 
+comments, the Committee’s discussion 
+of those issues at the public meeting, 
+and the Department’s decisions, which 
+are reflected in the final regulations. 
+1. Whether the Factors Set Forth in the 
+Proposed Criteria Regulation as 
+Presumptive of Bona Fide Collective 
+Bargaining Should Be Expanded or 
+Modified 
+Two commenters suggested that the 
+Department should expand the list of 
+factors indicative of a bona fide 
+collective bargaining relationship. One 
+commenter argued that such an 
+expansion is necessary to make sure that 
+small employers and employers in 
+manufacturing, warehousing, service 
+and other non-construction related 
+industries could easily meet this 
+criterion. The commenter further 
+suggested that government certification 
+of a union, as a collective bargaining 
+agent should be a stand-alone safe 
+harbor factor. The other commenter 
+noted that newly established unions, 
+particularly those organizing in the 
+health care field, might have difficulty 
+meeting four of the eight factors. That 
+commenter suggested that an additional 
+factor—that the welfare plan was being 
+administered along sound actuarial 
+principles—be added to the list of 
+factors. The commenter also suggested 
+that the examples set out as part of the 
+non-specific ninth factor be listed 
+individually as separate factors that 
+could be counted towards meeting the 
+‘‘safe harbor.’’
+In discussing these comments, the 
+Committee noted that these issues were 
+not new and had been considered by the 
+Committee in its initial deliberations. It 
+was noted that the language of the 
+proposed regulation went as far as 
+possible to be inclusive of various types 
+of collective bargaining relationships. 
+The purpose of the ninth ‘‘catch-all’’ 
+factor is to take into account that the 
+eight specific factors may not 
+encompass all bona fide collective 
+bargaining relationships. Concerns were 
+also expressed about lowering the 
+threshold for what constitutes a bona 
+fide collective bargaining relationship. 
+Bona fide collectively bargained 
+arrangements are not likely to be 
+challenged under the regulation by the 
+states. The consensus of the Committee 
+was that the eight factors should not be 
+expanded or modified. 
+After consideration of the comments 
+and the Committee’s discussion, the 
+Department has decided not to expand 
+or modify the factors presumptive of a 
+bona fide collective bargaining 
+relationship. The final regulation 
+therefore retains, in section 2510.3–
+40(b)(4)(i)–(viii), the factors as originally 
+proposed. In the view of the 
+Department, the regulation carefully 
+distinguishes between the specific 
+factors that generally evidence a bona 
+fide collective bargaining relationship 
+and the types of activities and fact 
+patterns that are common to sham 
+MEWA operators. Expanding or 
+modifying the factors to include less 
+well-established or less common 
+situations, or making any single factor a 
+stand-alone safe-harbor, may make it 
+easier for sham MEWA operators to 
+mimic the regulation’s factors 
+presumptive of a bona fide collective 
+bargaining relationship. 
+The Department also declines to add 
+to the factors, as suggested by one 
+commenter, the fact that the plan is 
+maintained on sound actuarial 
+principles. Although maintaining a plan 
+on sound actuarial principles is 
+important in other regards, that a plan 
+is actuarially sound does not necessarily
+VerDate Jan<31>2003 
+17:14 Apr 08, 2003
+Jkt 200001
+PO 00000
+Frm 00003
+Fmt 4701
+Sfmt 4700
+E:\FR\FM\09APR3.SGM
+09APR3
+17474
+Federal Register / Vol. 68, No. 68 / Wednesday, April 9, 2003 / Rules and Regulations 
+evidence the existence of a bona fide 
+collective bargaining relationship. 
+The Department notes, however, that 
+the final regulations are structured to 
+take into account the possibility that a 
+bona fide collective bargaining 
+relationship might, in some case, fail to 
+meet the ‘‘safe harbor’’ factors. In 
+addition to including the ninth catch-all 
+factor, the regulations permit entities 
+that assert they are in fact established or 
+maintained under or pursuant to bona 
+fide collective bargaining, and against 
+which state law or jurisdiction is 
+asserted, to petition for an 
+individualized finding from the 
+Department as to their status. 
+2. Whether the Definition of Collective 
+Bargaining Agreement Should Be 
+Modified 
+The Department received one 
+comment suggesting that the definition 
+of collective bargaining agreement in 
+section 2510.3–(40)(b)(3) needed to be 
+modified to correct a technical defect. 
+As proposed, the regulation required 
+that a plan be ‘‘incorporated or 
+referenced in a written agreement 
+between two or more employers and one 
+or more employee organizations.’’ The 
+commenter argued that the requirement 
+of a minimum of two employers, rather 
+than one, was unnecessarily narrow, 
+since there may be situations where a 
+plan that originally was established or 
+maintained under or pursuant to a 
+collective bargaining agreement signed 
+by two or more employers, is now 
+maintained only by one due to a 
+dwindling number of participating 
+employers, although the plan still 
+covers the employees of more than one 
+employer. 
+The Committee, in discussing this 
+issue, considered whether, in addition 
+to the reasons articulated by the 
+commenter, the language of paragraph 
+2510.3–40(b)(3) should be changed to 
+make clear that the regulation applies to 
+plans established or maintained under 
+or pursuant to collective bargaining by 
+a single employer but covering the 
+employees of other employers who do 
+not bind themselves to the collective 
+bargaining agreement. It was noted that 
+such entities are MEWAs. The 
+Committee’s discussion focused on the 
+fact that it is important for the 
+regulation to make clear that such 
+entities are subject to evaluation under 
+the regulation to see whether in fact 
+they meet the exception under section 
+3(40) for plans established or 
+maintained under or pursuant to 
+collective bargaining. 
+On the basis of the public comment 
+and the Committee’s discussion, the 
+Department has determined to amend 
+2510.3–40 to provide that the conditions 
+of (b)(3) will be met if the written 
+agreement referencing the plan is 
+between one or more employers, rather 
+than two or more employers, and one or 
+more employee organizations. 
+3. Whether the Nexus Group Categories 
+Should Be Expanded or Modified 
+As part of the process for determining 
+whether a preponderance of the 
+participants covered by the plan have a 
+nexus to the bargaining relationships 
+under or pursuant to which the plan is 
+established or maintained, the proposed 
+criteria regulation defined a ‘‘nexus 
+group’’ of categories of participants who 
+could be counted towards the 80% 
+coverage level set in the proposed 
+regulation as demonstrating such a 
+preponderance. One commenter 
+requested that the nexus group 
+categories be expanded to include 
+employees of an employer trade 
+association that has negotiated any of 
+the multiemployer agreements under or 
+pursuant to which a plan is established 
+or maintained. The commenter noted 
+that the proposed regulation included, 
+as part of the nexus group, employees of 
+employee organizations that sponsor or 
+jointly sponsor a plan, or are 
+represented on the committee, joint 
+board of trustees, or other similar group 
+of representatives of the parties who 
+sponsor the plan. The commenter noted 
+that employees of employer associations 
+might have a similar connection to the 
+collective bargaining process. The 
+commenter asserted that employer trade 
+associations often are involved in 
+negotiating collective bargaining 
+agreements on behalf of many 
+employers, and that such employers 
+routinely become signatories to, or 
+otherwise adopt, agreements that have 
+been negotiated by their employer 
+associations. The multiemployer plans 
+that result from such bargaining often 
+cover the employees of the employer 
+association as well as the employees of 
+the employers represented by the 
+association. 
+The Committee concluded that, as a 
+matter of parity, employees of an 
+authorized representative of employers 
+in collective bargaining should be 
+included in the nexus group, just as are 
+employees of the employee 
+organization. 
+Based on its consideration of the 
+comment and the Committee’s 
+discussion, the Department has 
+determined to amend 2530.3–
+40(b)(2)(vi) to include, as a separate 
+category, the employees of an 
+authorized employer representative that 
+actually engaged in the collective 
+bargaining that led to the agreement that 
+references the plan as described in 
+2510.3–40(b)(3)(i).
+4. Whether the Regulation Should Be 
+Expanded To Include Entities That Are 
+Not Collectively Bargained, i.e., Long-
+Established MEWAs, Union-Only 
+Sponsored Public Sector Benefit Plans 
+The Department received two 
+comments suggesting that the regulation 
+should be expanded to include certain 
+types of entities that technically are not 
+established or maintained under or 
+pursuant to collective bargaining. The 
+commenters were concerned that 
+issuance of regulations providing clear 
+guidance addressing what the Secretary 
+finds to be collective bargaining for the 
+purposes of the collective bargaining 
+exception in 3(40) of ERISA might result 
+in more state regulation of entities that 
+are not established pursuant to 
+collective bargaining than there had 
+been in the absence of regulations. 
+The first commenter was a long-
+established MEWA that contended that 
+it should be excluded from the scope of 
+the MEWA definition pursuant to a 
+‘‘grandfather’’ provision in the 
+regulation, allowing it to operate free of 
+state regulation even though it is not a 
+plan established or maintained under or 
+pursuant to collective bargaining, 
+because it had been operating on a 
+financially sound basis for many years. 
+A similar comment had been previously 
+submitted to the Committee for 
+consideration prior to the issuance of its 
+Report to the Secretary. Another 
+commenter requested that the preamble 
+to the regulation discuss the nature of 
+legal defense funds for peace officers, 
+which are established by employee 
+organizations for the employees of more 
+than one employer, but are not actually 
+the subject of collective bargaining. 
+The Committee reiterated its belief, as 
+noted in the preamble to the proposed 
+criteria regulation, that the regulation 
+should serve only to define what 
+constitutes a plan that is established or 
+maintained under or pursuant to 
+collective bargaining. The Department 
+believes that the issues raised by these 
+commenters go beyond the scope of the 
+regulation and, therefore, has 
+determined not to modify the final 
+regulation in response to these 
+comments. 
+5. Whether and How the Procedural 
+Regulation Should Be Modified in Order 
+To Obviate the Possibility That It May 
+Hinder or Impede Timely State 
+Enforcement Actions 
+One commenter expressed concern 
+that the availability of administrative 
+proceedings for an individualized 
+section 3(40) finding in cases where the 
+VerDate Jan<31>2003 
+15:31 Apr 08, 2003
+Jkt 200001
+PO 00000
+Frm 00004
+Fmt 4701
+Sfmt 4700
+E:\FR\FM\09APR3.SGM
+09APR3
+17475
+Federal Register / Vol. 68, No. 68 / Wednesday, April 9, 2003 / Rules and Regulations 
+jurisdiction or law of a state has been 
+asserted may result in delays in state 
+enforcement that could substantially 
+hinder a state’s ability to take timely 
+enforcement actions against sham 
+MEWA operators. The commenter stated 
+that time is often of the essence in such 
+circumstances and that a delay of even 
+a few days in a state’s taking effective 
+action against a MEWA may seriously 
+increase the harm to the participants in 
+the MEWA by permitting the amount of 
+unpaid medical benefit claims to 
+increase, allowing the plan to collect 
+additional illegal premiums, and 
+impinging or eliminating the states’ 
+ability to preserve assets by giving the 
+plan operators and opportunity to 
+transfer and hide funds. The commenter 
+specifically identified the need to be 
+able to obtain preliminary and 
+permanent injunctive relief and cease 
+and desist orders where sham union 
+plans are continuing to collect 
+premiums or failing to pay claims. The 
+commenter asserted that, unless the 
+Department made clear that the 
+availability of administrative 
+proceedings was not meant to provide a 
+basis for a stay or delay of state 
+enforcement actions, the regulations 
+should not be implemented. 
+Recognizing the need to ensure that 
+the regulations assist, rather than 
+hinder, state enforcement efforts against 
+sham MEWA operators and that there 
+are situations where time is of the 
+essence for effective enforcement by the 
+states, the Committee recommended 
+that the regulatory language be clarified 
+to emphasize that the section 3(40) ALJ 
+proceedings are not a basis in 
+themselves for a stay-of-state 
+administrative or judicial proceedings 
+against a putative MEWA. 
+As proposed, paragraph 2510.3–
+40(g)(2) of the criteria regulation 
+provided that ‘‘nothing in this section or 
+in part 2570, subpart H of this chapter 
+is intended to have any effect on 
+applicable law relating to stay or delay 
+of a state administrative or court 
+proceeding or enforcement subpoena.’’ 
+In response to the commenter and the 
+concerns of the Committee, the 
+Department has amended that paragraph 
+to state that ‘‘nothing in this section or 
+in part 2570, subpart H of this chapter 
+is intended to provide the basis for a 
+stay or delay of a state administrative or 
+court proceeding or enforcement of a 
+subpoena.’’ 
+Miscellaneous Changes 
+In its consideration of a final 
+regulation, the Committee questioned 
+whether consideration should be given 
+to the effect of plan mergers on counting 
+years of service for purposes of the 
+determining the ‘‘nexus’’ group. In this 
+regard, the Committee noted that the 
+nexus group in section 2510.3–40(b)(2) 
+includes retirees who either participated 
+in the welfare benefit plan for at least 
+five of the last 10 years preceding their 
+retirement or are receiving benefits as 
+participants under a multiemployer 
+pension benefit plan that is maintained 
+under the same agreement referred to in 
+paragraph (b)(2)(i), and have at least five 
+years of service or the equivalent under 
+that pension plan. The Committee 
+suggested that participation in the pre-
+merger multiemployer plans should also 
+be considered in determining whether 
+employees meet the requirements of 
+these categories of the nexus group. The 
+Committee also raised the issue of 
+whether employment in the bargaining 
+unit under the pre-merger plan should 
+be considered for determining whether 
+an individual is a bargaining unit 
+alumnus under 2510.3–40(b)(2)(vii) 
+where the merger was based on a merger 
+of unions. The Committee noted that 
+Example 2 of the proposed regulation 
+addresses how a merger affects the 
+evaluation of the factors in (b)(4)(iii) and 
+(iv) and suggested that another example 
+could be added to the final regulation to 
+address the effect of merging unions and 
+multiemployer plans on the nexus 
+group analysis. After considering the 
+issues raised by the Committee, the 
+Department has determined that it is 
+appropriate to clarify the examples at 
+2510.3–40(e) to make clear that, in the 
+case of a merger of multiemployer plans, 
+participation in a predecessor plan or 
+employment with a predecessor union 
+may be considered for purposes of 
+determining the nexus group 
+individuals in section 2510.3–
+40(b)(2)(ii) and (vii). In this regard, a 
+new paragraph (3) was added to 
+Example 2 to clarify that the merger of 
+two unions and the related pension and 
+health and welfare plans will not affect 
+the determinations of who is a ‘‘retiree’’ 
+or a ‘‘bargaining unit alumni’’ for 
+purposes of determining the nexus 
+group under the regulation.
+In reviewing the 75% test in 
+paragraph (b)(4)(vi) of 2510.3–40, the 
+Department decided that the regulation 
+should be modified to make clear that 
+in determining the amount of premiums 
+or contributions to which the 75% test 
+applies does not include any amount 
+that a participant or beneficiary might 
+be required to pay as a co-pay or 
+deductible under the provided coverage. 
+Accordingly, the Department has 
+modified paragraph 2510.3–40(b)(4)(iv) 
+to make clear that, in addition to dental 
+or vision care and coverage for excepted 
+benefits under 29 CFR 2590.732(b), 
+amounts payable by participants and 
+beneficiaries as co-payments or 
+deductibles are disregarded for purposes 
+of the 75% test. In so clarifying this 
+provision, however, the Department 
+notes that if an entity were to establish 
+a co-payment or deductible schedule 
+designed solely to satisfy the criteria of 
+paragraph 2510.3–40(b)(4)(vi), without 
+actually requiring substantial employer 
+contributions, evidence of such a design 
+may be considered in evaluating 
+whether for purposes of 2510.3–40(c)(3) 
+there is fraud, forgery, or willful 
+misrepresentation as to the factors relied 
+on to demonstrate that the plan satisfies 
+the criteria set forth in paragraph (b) of 
+this section. The Department further 
+notes that the collective bargaining 
+history appropriately may be examined 
+in a 3(40) proceeding, including a 
+review of those factors in section 
+2510.3–40(b)(4). 
+Independent of the Committee’s 
+review of the regulations, the 
+Department considered whether the 
+proposed 80% minimum coverage 
+requirement for the ‘‘nexus’’ test is too 
+low. In the August 1, 1995, proposed 
+regulation, the Department proposed 
+that no less than 85% of the individuals 
+covered by a plan must be within the 
+‘‘nexus’’ group. A number of 
+commenters on that regulation 
+expressed concern that the percentage 
+was too high. In developing a new 
+proposal, the Committee recommended, 
+and the Department proposed, an 80% 
+test. In this regard, the preamble to the 
+proposal indicated that ‘‘[t]he 
+Committee recommended a 20% margin 
+for coverage of non-nexus people, even 
+though it understood that the percentage 
+of participants in collectively bargained 
+plans who are not within one of the 
+nexus categories is rarely likely to be 
+that high.’’ 65 FR 64485 (Oct. 27, 2000). 
+While comments were specifically 
+invited on the 80% test, no comments 
+were received on that provision. 
+Moreover, the Department received no 
+comments suggesting that changing the 
+80% test to an 85% test would present 
+a problem for affected plans. The 
+Department further notes that H.R. 2563 
+of the 107th Congress, the ‘‘Bipartisan 
+Patients Protection Act,’’ as passed by 
+the U.S. House of Representatives, 
+among other things, amends ERISA 
+section 3(40)(A)(i) to clarify the 
+standards applicable to determining 
+whether a plan is established or 
+maintained pursuant to collective 
+bargaining agreements. See section 423 
+of H.R. 2563. Although similar in many 
+respects to the regulatory standards 
+proposed by the Department, H.R. 2563
+VerDate Jan<31>2003 
+17:14 Apr 08, 2003
+Jkt 200001
+PO 00000
+Frm 00005
+Fmt 4701
+Sfmt 4700
+E:\FR\FM\09APR3.SGM
+09APR3
+17476
+Federal Register / Vol. 68, No. 68 / Wednesday, April 9, 2003 / Rules and Regulations 
+limits the percentage of non-nexus 
+group individuals to 15 percent. 
+On the basis of the comments, as well 
+as the discussions of the Committee, the 
+Department does not believe that, in the 
+absence of any data to the contrary, 
+requiring 85% of the covered 
+individuals to be within the ‘‘nexus’’ 
+group, rather than 80%, will have any 
+significant effect on the status of 
+otherwise bona fide collectively 
+bargained plans. Increasing the ‘‘nexus’’ 
+group percentage to 85% should 
+enhance the regulation’s deterrent effect 
+on sham MEWA operators who attempt 
+to masquerade as collectively bargained 
+plans in order to avoid state insurance 
+regulation and oversight. In an 
+environment where problems with sham 
+MEWA operators are growing, the 
+Department believes that any action it 
+can take to reduce the likelihood of 
+health insurance fraud against workers 
+and their families is action that should 
+be taken. Accordingly, the Department 
+determined it appropriate to modify 
+paragraph (b)(2) of 2510.3–40 to require 
+that at least 85% of the participants in 
+the plan be within the ‘‘nexus’’ group 
+(described in subparagraphs (i) through 
+(x) of 2510.3–40(b)(2)). 
+B. Economic Analysis Under Executive 
+Order 12866
+Under Executive Order 12866, the 
+Department must determine whether a 
+regulatory action is ‘‘significant’’ and 
+therefore subject to the requirements of 
+the Executive Order and subject to 
+review by the Office of Management and 
+Budget (OMB). Under section 3(f), the 
+order defines a ‘‘significant regulatory 
+action’’ as an action that is likely to 
+result in a rule: (1) Having an annual 
+effect on the economy of $100 million 
+or more, or adversely and materially 
+affecting a sector of the economy, 
+productivity, competition, jobs, the 
+environment, public health or safety, or 
+State, local, or tribal governments or 
+communities (also referred to as 
+‘‘economically significant’’); (2) creating 
+serious inconsistency or otherwise 
+interfering with an action taken or 
+planned by another agency; (3) 
+materially altering the budgetary 
+impacts of entitlement grants, user fees, 
+or loan programs or the rights and 
+obligations of recipients thereof; or (4) 
+raising novel legal or policy issues 
+arising out of legal mandates, the 
+President’s priorities, or the principles 
+set forth in the Executive Order.
+Pursuant to the terms of the Executive 
+Order, it has been determined that this 
+action is ‘‘significant’’ within the 
+meaning of 3(f)(4), and therefore subject 
+to review by the Office of Management 
+and Budget (OMB). Consistent with the 
+Executive Order, the Department has 
+undertaken an assessment of the costs 
+and benefits of this regulatory action. 
+This analysis is detailed below. 
+Summary 
+Although neither the benefits nor 
+costs have been fully quantified, the 
+Department believes that the benefits of 
+this final regulation more than justify its 
+costs. The final regulation yields 
+positive benefits by reducing 
+uncertainty over which welfare benefit 
+plans are excepted from the definition 
+of a multiple employer welfare 
+arrangement under section 3(40) and are 
+therefore not subject to state regulation. 
+The Department sought comments from 
+the public concerning its analysis of 
+benefits and costs of the proposed 
+regulation. Having received no 
+comments, the Department has relied on 
+its initial analysis in concluding that the 
+benefits of the final regulation justify its 
+costs. 
+The regulation’s elements for 
+distinguishing collectively bargained 
+plans from MEWAs are verifiable 
+through documentation that plans or 
+their agents generally maintain as part 
+of usual business practices. The 
+regulation also incorporates elements of 
+flexibility, allowing entities to 
+demonstrate the existence of a bona fide 
+collective bargaining agreement, one of 
+the regulatory factors, by satisfying any 
+four of eight specified factors. Finally, 
+the regulation is both sufficiently broad 
+to include all plans established or 
+maintained under or pursuant to one or 
+more collective bargaining agreements, 
+yet is discriminating enough to ensure 
+that state law will apply to entities not 
+meeting the criteria. Only a very small 
+number of entities are likely to be 
+treated differently as a result of 
+promulgation of this criteria regulation. 
+In the case of the few entities that will 
+be determined to be not collectively 
+bargained plans, the additional cost 
+attributable to state regulation is 
+outweighed by the benefit that such 
+state regulation will provide by way of 
+additional protections for participants 
+and beneficiaries. 
+Background 
+It is the view of the Department that 
+the uncertainty created by the lack of 
+clear criteria for distinguishing 
+collectively bargained plans from 
+MEWAs has encouraged unscrupulous 
+operators of sham MEWAs in attempts 
+to escape or delay state regulatory 
+efforts by asserting that states lack 
+jurisdiction to regulate such entities 
+because they are excluded from the 
+definition of MEWA by reason of the 
+exception for collectively bargained 
+plans. In order to establish their 
+authority to regulate, states have had to 
+take additional steps, such as initiating 
+administrative or legal proceedings 
+contesting the defendant’s status as a 
+collectively bargained plan, and have 
+been the subject of actions initiated by 
+sham MEWA operators, such as suits for 
+federal declaratory judgment or removal 
+actions. 
+Confusion about whether a plan was 
+established or maintained under or 
+pursuant to an agreement which the 
+Secretary finds to be a collective 
+bargaining agreement has made it 
+difficult for the states to enforce 
+appropriate laws. The criteria regulation 
+will reduce or eliminate this 
+uncertainty. It will provide greater 
+clarity for entities and states and reduce 
+the time and expense attributable to 
+court actions or requests to the 
+Department for guidance. 
+Benefits of the Regulation—Reducing 
+Uncertainty 
+Plans and arrangements will benefit 
+from greater assurance concerning their 
+actual legal status. States, through an 
+enhanced ability to regulate based on 
+the greater certainty offered by the 
+regulation, will be better able to protect 
+employers, participants, and 
+beneficiaries from unscrupulous MEWA 
+operators. Further, the majority of plans 
+established or maintained under or 
+pursuant to collective bargaining 
+agreements currently operate in a 
+manner that is consistent with the 
+regulation. Most entities will therefore 
+not perceive any need to undertake a 
+systematic reassessment of their status 
+under the regulation. It is possible, 
+however, that some will choose to 
+undertake such an assessment by 
+‘‘comparison testing’’ the plan’s 
+operations against the ‘‘safe harbor’’ 
+criteria established in the final 
+regulation. The Department has 
+estimated below the number of entities 
+likely to undertake a status assessment 
+and the costs likely to be associated 
+with those activities. 
+Costs of the Regulation 
+Entities Potentially Affected. To 
+estimate the number of entities 
+potentially affected by the final rule, the 
+Department examined available data on 
+multiemployer welfare plans 
+established or maintained under or 
+pursuant to collective bargaining 
+agreements, and the number of entities 
+self-reporting as MEWAs. Under ERISA, 
+multiemployer collectively bargained 
+plans are required to file an annual 
+financial report, the Form 5500. MEWAs 
+are required to file the Form M–1 
+annually. The 1998 Form 5500 filings by 
+VerDate Jan<31>2003 
+15:31 Apr 08, 2003
+Jkt 200001
+PO 00000
+Frm 00006
+Fmt 4701
+Sfmt 4700
+E:\FR\FM\09APR3.SGM
+09APR3
+17477
+Federal Register / Vol. 68, No. 68 / Wednesday, April 9, 2003 / Rules and Regulations 
+1 This represents a smaller number of plans and 
+fewer participants than the numbers projected at 
+the time of the proposal. Because the Form M–1 
+requirement had not been fully implemented at the 
+time of the proposal, actual information on its use 
+was not available, and the Department relied on 
+survey data regarded as the most comparable at the 
+time.
+2 Data from the Health Insurance Association of 
+America (Source Book of Health Insurance Data, 
+1999–2000) suggests that insurance companies’ loss 
+ratios for group health insurance policies 
+historically ranged from about 85 percent to 90 
+percent. The inverse of the loss ratio, or about 10 
+percent to 15 percent, generally would include all 
+of these costs except those associated with benefit 
+mandates and some managed care protections, as 
+well as insurance company profits, income taxes, 
+and normal administrative overhead. Loss ratios 
+tend to be higher (and these costs lower) for larger 
+group policies, and MEWAs are likely to be large. 
+The cost of benefit mandates and managed care 
+protection will very across states depending on 
+their extent and across MEWAs depending largely 
+on the degree to which they otherwise are included 
+voluntarily in the insurance products they provide. 
+One study estimated that mandates raise premiums 
+by between 4 percent and 13 percent (Gail A. Jensen 
+and Michael A. Morrisey, Mandated Benefit Laws 
+and Employer-Sponsored Health Insurance 
+(Washington, DC: HIAA 1999)).
+multiemployer collectively bargained 
+plans numbered about 2,000 (with about 
+6 million participants). The MEWAs 
+that filed Form M–1 for the year 2000, 
+pursuant to section 101 of ERISA and 
+related interim final rules (65 FR 7152, 
+February 11, 2000) numbered about 600 
+(with about 2 million participants).1 The 
+total number of MEWAs and 
+collectively bargained plans, which 
+represents the total universe of 
+arrangements that might have questions 
+about their legal status and ‘‘comparison 
+test’’ under this regulation, is estimated 
+at about 2,600 (8 million participants).
+The Department was unable to 
+identify any direct measure of the 
+number of entities whose status is 
+uncertain or whose status would remain 
+uncertain under the regulation. 
+Therefore, in order to assess the 
+economic impact of reduced uncertainty 
+under the regulation, the Department 
+examined proxies for the number of 
+entities that might be subject to such 
+uncertainty. After estimating the total 
+number of MEWAs and collectively 
+bargained plans at 2,600, the 
+Department then tallied the number of 
+inquiries to the Department concerning 
+MEWAs and the number of MEWA-
+related lawsuits to which the 
+Department has been party, taking this 
+to represent a reasonable indicator of 
+the number of entities that have been 
+subject to uncertainty in the past.
+Department data indicate that in 
+recent years, the Department has 
+received an average of about nine 
+MEWA-related requests for information 
+each year from state and federal 
+agencies and the private sector. The 
+Department also considered the number 
+of MEWA-related lawsuits that were 
+filed by the Department in recent years. 
+An average of about 45 actions have 
+been brought each year. For purposes of 
+this analysis, it has been assumed that 
+each case involved a different MEWA. 
+Accordingly, the Department has 
+estimated for purposes of this economic 
+analysis that approximately 54 entities 
+(45 + 9) annually may have reason to be 
+uncertain about their legal status with 
+respect to section 3(40) of ERISA, or 
+about two percent of the estimated total 
+number of 2,600 MEWAs and 
+collectively bargained plans. 
+The Department views this 
+approximate number of 54 entities per 
+year as a conservatively high estimate of 
+the number of entities whose status 
+could be made more certain by issuance 
+of this regulation. On one hand, because 
+some number of entities may confront 
+uncertainty without becoming either the 
+subject of an inquiry addressed to the 
+Department or a lawsuit to which the 
+Department is party, this estimate may 
+represent only a subset of the entities 
+that face uncertainty over their status. 
+On the other hand, this estimate may 
+overstate the number of entities that face 
+uncertainty because it is known that not 
+all requests to the Department or court 
+actions actually raised issues related 
+directly to the collective bargaining 
+exception under section 3(40). 
+Assessment of Status. The 
+Department estimates the cost to the 54 
+entities of conducting an assessment of 
+their status under the regulation to be 
+small. Such cost would be largely 
+generated by reviewing records kept by 
+third parties or by the entity in the 
+ordinary course of business. The 
+Department assumes that such a review 
+requires 16 hours of an attorney’s or 
+comparable professional’s time, plus 5 
+hours of clerical staff time. At $72 per 
+hour and $21 per hour respectively, the 
+total cost would be $1,173 per entity, or 
+about $63,342 on aggregate per year for 
+54 entities. This cost would be incurred 
+only once for a given entity unless its 
+circumstances changed substantially 
+relative to the standard. The Department 
+believes that the cost is more than 
+justified by savings to entities that, by 
+conducting this assessment, avoid the 
+need to engage in litigation or seek 
+guidance from the Department in order 
+to determine their status. These net 
+savings represent a net benefit of this 
+regulation. 
+Following a self-assessment of status, 
+some fraction of these 54 entities might 
+nonetheless find themselves in a 
+situation leading them to seek an 
+administrative determination from the 
+Secretary under the procedural 
+regulations, incurring attendant costs, 
+perhaps because a state’s jurisdiction or 
+laws are asserted against the entity. The 
+administrative process under the 
+procedural regulations is, in the 
+Department’s view, an efficient and less 
+costly process for resolving such 
+disputes than would be available in the 
+absence of the procedural regulations. 
+The Department has elected to attribute 
+the net benefit from these savings not to 
+this regulation, but to the accompanying 
+procedural regulations. 
+Reclassifying Incorrectly Classified 
+Entities. Some number of entities, 
+generally a subset of the 54 estimated 
+annually to face uncertainty over status, 
+will be reclassified as a result of 
+comparison testing against the 
+regulation’s criteria. Entities that 
+formerly considered themselves to be 
+excluded from the MEWAs definition as 
+collectively bargained plans may be 
+required under the criteria regulation to 
+classify themselves as MEWAs. These 
+MEWAs will likely incur costs to 
+comply with newly applicable state 
+requirements. Such requirements vary 
+from state to state, making it difficult to 
+estimate the cost of compliance, but it 
+is likely that costs might include those 
+attributable to audits, funding and 
+reserves, reporting, premium taxes and 
+assessments, provision of state-
+mandated benefits, underwriting and 
+rating rules, market conduct standards, 
+and managed care patient protection 
+rules, among other costs. These costs 
+may be higher for those MEWAs that 
+conduct business in more than one 
+state. 
+Relevant literature suggests these 
+costs can amount to ten percent of 
+premium.2 The cost may be 
+substantially more if a state regulates 
+premium rates and the entity otherwise 
+would have benefited from insuring a 
+population whose health costs are far 
+lower than average. However, these 
+added costs are transfers and not true 
+economic costs because they serve as 
+cross-subsidies that reduce costs for 
+populations that are costlier than 
+average.
+As noted above, the universe of 2,600 
+entities that includes those potentially 
+subject to uncertainty covers 8 million 
+participants, or about 3,100 participants 
+per entity on average. Industry surveys 
+put the cost of health coverage at about 
+$4,500 per employee and retiree per 
+year. Applying these figures to 54 
+entities that might face uncertainty over 
+status—an upper bound on the number 
+likely to be reclassified—produces an 
+VerDate Jan<31>2003 
+15:31 Apr 08, 2003
+Jkt 200001
+PO 00000
+Frm 00007
+Fmt 4701
+Sfmt 4700
+E:\FR\FM\09APR3.SGM
+09APR3
+17478
+Federal Register / Vol. 68, No. 68 / Wednesday, April 9, 2003 / Rules and Regulations 
+3 Recent data from actual Form M–1 filings results 
+in a higher estimated number of participants per 
+entity than was indicated in the proposal; therefore, 
+the estimated cost for the final regulation exceeds 
+the $58 million cost estimate for the proposal.
+upper-bound estimated cost of about 
+$75 million.3
+The Department has concluded that 
+actual costs will be far lower than this 
+and will be outweighed by the benefit 
+of the associated protections that will 
+flow from clarifying the state’s authority 
+to regulate. As noted above, it is likely 
+that the true number of entities that are 
+reclassified as MEWAs will be a fraction 
+of the estimated 54 that annually might 
+face uncertainty over status. Among 
+those that are reclassified, certain 
+entities likely would already have 
+elected voluntarily to comply with some 
+of the state regulatory requirements and 
+therefore would not incur any cost from 
+the application of state law. For those 
+that would not have complied with 
+relevant state law, operation of the 
+regulation may impose additional costs, 
+such as meeting solvency requirements 
+or providing mandated benefits. The 
+additional costs are offset and justified 
+by increased security for plans and 
+improved coverage for participants. 
+Thus, the added cost from state 
+regulation would be offset by the 
+benefits derived from the protections 
+that state regulations provide. GAO, in 
+1992, identified $124 million in unpaid 
+claims owed by sham MEWAs. 
+Department enforcement actions 
+involving MEWAs in recent years have 
+identified monetary violations of 
+approximately $121.6 million. With 
+state licensing and solvency 
+requirements in place, at least some 
+incidences of the $124 million in 
+unpaid claims cited in the GAO study 
+or the $121.6 million in violations 
+would most likely not have occurred. 
+It is also possible that some entities 
+considered to be MEWAs because they 
+are not collectively bargained will be 
+reclassified under the criteria regulation 
+as collectively bargained plans. 
+However, this number seems likely to be 
+very small because entities that can 
+legitimately be treated as collectively 
+bargained have an economic incentive 
+to do so. Any entities that are so 
+classified benefit from the savings of 
+having no obligation to comply with 
+state regulatory requirements. There is 
+no meaningful loss of benefits from the 
+absence of state protections in such 
+cases because the combination of a 
+legitimate collective bargaining 
+agreement and the application of ERISA 
+provides adequate protections. 
+C. Paperwork Reduction Act 
+This Notice of Final Rulemaking is 
+not subject to the requirements of the 
+Paperwork Reduction Act of 1995 (44 
+U.S.C. 3501 et seq.) because it does not 
+contain a ‘‘collection of information’’ as 
+defined in 44 U.S.C. 3502(3). 
+D. Regulatory Flexibility Act 
+The Regulatory Flexibility Act (5 
+U.S.C. 601 et seq.) (RFA) imposes 
+certain requirements with respect to 
+Federal rules that are subject to the 
+notice and comment requirements of 
+section 553(b) of the Administrative 
+Procedure Act (5 U.S.C. 551 et seq.) and 
+which are likely to have a significant 
+economic impact on a substantial 
+number of small entities. Unless an 
+agency certifies that a rule will not have 
+a significant economic impact on a 
+substantial number of small entities, 
+section 604 of the RFA requires that the 
+agency present a regulatory flexibility 
+analysis at the time of the publication of 
+the notice of final rulemaking describing 
+the impact of the rule on small entities. 
+Small entities include small businesses, 
+organizations and governmental 
+jurisdictions. 
+For purposes of analysis under the 
+RFA, the Employee Benefits Security 
+Administration (EBSA) continues to 
+consider a small entity to be an 
+employee benefit plan with fewer than 
+100 participants. The basis of this 
+definition is found in section 104(a)(2) 
+of ERISA, which permits the Secretary 
+of Labor to prescribe simplified annual 
+reports for pension plans that cover 
+fewer than 100 participants. Under 
+section 104(a)(3), the Secretary may also 
+provide for exemptions or simplified 
+annual reporting and disclosure for 
+welfare benefit plans. Pursuant to the 
+authority of section 104(a)(3), the 
+Department has previously issued at 29 
+CFR 2520.104–20, 2520.104–21, 
+2520.104–41, 2520.104–46, and 
+2520.104b–10, certain simplified 
+reporting provisions and limited 
+exemptions from reporting and 
+disclosure requirements for small plans, 
+including unfunded or insured welfare 
+benefit plans covering fewer than 100 
+participants and that satisfy certain 
+other requirements. 
+Further, while some large employers 
+may have small plans, generally, most 
+small plans are maintained by small 
+employers. Thus, EBSA believes that 
+assessing the impact of this rule on 
+small plans is an appropriate substitute 
+for evaluating the effect on small 
+entities. The definition of small entity 
+considered appropriate for this purpose 
+differs, however, from a definition of 
+small business that is based on size 
+standards promulgated by the Small 
+Business Administration (SBA) (13 CFR 
+121.201) pursuant to the Small Business 
+Act (15 U.S.C. 631 et seq.). At the time 
+of the proposed rule, EBSA requested 
+comments on the appropriateness of the 
+size standard used in evaluating the 
+impact of this rule on small entities; no 
+comments were received that would 
+cause the Department to reevaluate its 
+size standard. 
+On this basis, however, EBSA has 
+determined that this rule will not have 
+a significant economic impact on a 
+substantial number of small entities. In 
+support of this determination, and in an 
+effort to provide a sound basis for this 
+conclusion, EBSA has prepared the 
+following final regulatory flexibility 
+analysis. 
+(1) Reasons for Action. EBSA is 
+proposing this regulation because it 
+believes that regulatory guidance 
+concerning the definition of a ‘‘plan or 
+arrangement which is established or 
+maintained under or pursuant to one or 
+more agreements which the Secretary 
+finds to be collective bargaining 
+agreements’’ (ERISA 3(40)(A)(1)) is 
+necessary to ensure that state insurance 
+regulators have ascertainable guidelines 
+to help regulate MEWAs operating in 
+their jurisdictions. The guidance will 
+also allow sponsors of employee welfare 
+benefit plans to determine 
+independently whether their entities are 
+excepted under section 3(40) of ERISA. 
+A more detailed discussion of the 
+agency’s reasoning for issuing the 
+regulation is found above.
+(2) Objective. The objective of the 
+regulation is to provide criteria for the 
+application of an exception to the 
+definition ‘‘multiple employer welfare 
+arrangement’’ (MEWA) found in section 
+3(40) of ERISA for a ‘‘plan or other 
+arrangement which is established or 
+maintained—(i) under or pursuant to 
+one or more agreements which the 
+Secretary finds to be collective 
+bargaining agreements.’’ An extensive 
+list of authority may be found in the 
+Statutory Authority section, below. 
+(3) Estimate of Small Entities 
+Affected. Form 5500 filings and Form 
+M–1 filings indicate that there are about 
+2,600 entities that could be classified as 
+collectively bargained plans or MEWAs 
+and that could be affected by the new 
+criteria for defining collectively 
+bargained plans. It is expected, 
+however, that a very small number of 
+these entities will have fewer than 100 
+participants. By their nature, the 
+affected entities must involve at least 
+two employers, which decreases the 
+likelihood of their covering fewer than 
+100 participants. Also, the underlying 
+goals behind the formation of these 
+VerDate Jan<31>2003 
+15:31 Apr 08, 2003
+Jkt 200001
+PO 00000
+Frm 00008
+Fmt 4701
+Sfmt 4700
+E:\FR\FM\09APR3.SGM
+09APR3
+17479
+Federal Register / Vol. 68, No. 68 / Wednesday, April 9, 2003 / Rules and Regulations 
+entities, such as gaining purchasing and 
+negotiating power through economies of 
+scale, improving administrative 
+efficiencies, and gaining access to 
+additional benefit design features, are 
+not readily accomplished if the group of 
+covered lives remains small. 
+Available data indicate that about 200 
+or eight percent of the 2,600 entities 
+have fewer than 100 participants. Based 
+on the health coverage reported in the 
+Employee Benefits Supplement to the 
+1993 Current Population Survey and a 
+1993 Small Business Administration 
+survey of retirement and other benefit 
+coverages in small firms, the 
+Department estimates that there are 
+more than 2.5 million private group 
+health plans with fewer than 100 
+participants. Thus, the number of small 
+plans and MEWAs potentially affected 
+is very small in light of this large 
+number of small plans. Even if every 
+one of the 2,600 entities at issue had 
+fewer than 100 participants, the number 
+of entities affected would represent 
+approximately one-tenth of one percent 
+of all small group health plans. 
+Accordingly, the Department has 
+determined that this regulation will not 
+have a significant economic impact on 
+a substantial number of small entities. 
+Although relatively few small plans 
+and other entities are expected to be 
+affected by this proposal, it is known 
+that the employers typically involved in 
+these entities are often small (that is, 
+they have fewer than 500 employees, 
+which is generally consistent with the 
+definition of small entity found in 
+regulations issued by the Small 
+Business Administration (13 CFR 
+121.201)). At the time of the proposed 
+regulation, the Department sought 
+comments and data with respect to the 
+number of small employers potentially 
+impacted by the establishment of a 
+standard for determining whether a 
+welfare benefit plan is established or 
+maintained under or pursuant to one or 
+more collective bargaining agreements. 
+No comments or data were received in 
+response to this request; the Department 
+therefore continues to believe that, 
+because these plans and arrangements 
+involve at least two employers, and 
+assuming that each is small, it can be 
+estimated that at least 5,200 small 
+employers may be affected. 
+It is possible that a small employer 
+participating in what it thinks is a 
+legitimate MEWA may find that it has 
+unknowingly participated in a sham 
+MEWA and will need to change its 
+method of providing welfare benefits to 
+its employees. By enabling states to 
+regulate fraudulent and financially 
+unsound MEWAs, therefore, the 
+regulation may limit the sources of 
+welfare benefits available to some small 
+businesses, requiring them to seek 
+alternative coverage for their employees. 
+The greater benefit for employers, 
+however, is an increased certainty that 
+the MEWAs that remain in business will 
+meet state regulatory standards and will 
+be more certain to provide promised 
+health, life, disability or other welfare 
+benefits to employees. Consequently, 
+employers will receive a net benefit 
+from the reduced incidence of fraud and 
+insolvency among the pool of MEWAs 
+in the marketplace. 
+(4) Reporting and Recordkeeping. In 
+most cases, the records used to 
+determine if a welfare benefit plan is 
+established or maintained under or 
+pursuant to a collective bargaining 
+agreement are routinely prepared and 
+held by a collectively bargained 
+multiemployer plan in the ordinary 
+course of business. For any entities that 
+are newly determined to be MEWAs 
+under the regulation, there will be an 
+economic impact related to the start-up 
+costs of compliance with state 
+regulations. These costs arise from state 
+requirements, however, and not the 
+requirements of this regulation. Start-up 
+costs under state regulations may 
+include expenses of registration, 
+licensing, financial reporting, auditing, 
+and any other requirement of state 
+insurance law. Reporting and filing this 
+information with the state would 
+require the professional skills of an 
+attorney, accountant, or other health 
+benefit plan professional; however, post 
+start-up, the majority of the 
+recordkeeping and reporting could be 
+handled by clerical staff. 
+(5) Duplication. No federal rules have 
+been identified that duplicate, overlap, 
+or conflict with the final rule. 
+(6) Alternatives. The regulation adopts 
+generally the views of the consensus 
+report of the Committee that was 
+established to provide an alternative to 
+the Department’s earlier Notice of 
+Proposed Rulemaking on Plans 
+Established or Maintained Under or 
+Pursuant to Collective Bargaining 
+Agreements, published in the Federal 
+Register (60 FR 39209, Aug. 1, 1995). At 
+that time, recognizing that guidance was 
+needed to clarify the collective 
+bargaining exception to the MEWA 
+regulation, the Department had 
+proposed certain criteria describing the 
+collective bargaining agreement. 
+Commenters on the first proposed 
+regulation expressed concerns related to 
+plan compliance and the issue of state 
+regulation. 
+Based on the comments received, the 
+Department subsequently turned to 
+negotiated rulemaking, establishing the 
+Committee to assist the Department in 
+developing acceptable criteria. The 
+Committee included representatives 
+from labor unions, multiemployer plans, 
+state governments, employer/
+management associations, Railway 
+Labor Act plans, third-party 
+administrators, independent agents and 
+brokers of health care products, 
+insurance carriers and the federal 
+government. Because this rule takes into 
+account the Committee’s consensus 
+views, and because the Committee 
+represented a full cross-section of the 
+parties affected by the rule, including 
+state, federal, association, and private 
+sector health care organizations, the 
+Department believes that, as an 
+alternative to the 1995 NPRM, this 
+regulation accomplishes the stated 
+objectives of the Secretary and will have 
+a beneficial effect on small employer 
+participation in MEWAs.
+The Department has concluded that 
+the implementation of the regulation 
+will be less costly than alternative 
+methods of determining compliance 
+with section 3(40), such as through case-
+by-case analysis by EBSA of each 
+employee welfare benefit plan or 
+litigation. In addition, if the Department 
+elected not to define specific guidelines 
+for the application of section 3(40), 
+thereby enabling sham MEWAs to 
+continue to evade state regulation, costs 
+for small businesses would rise in terms 
+of loss of coverage and unpaid claims. 
+No other significant alternatives that 
+would minimize economic impact on 
+small entities were identified. 
+Further, the Department has 
+concluded that it would be 
+inappropriate to create a specific 
+exemption under the regulation for 
+small MEWAs because small MEWAs 
+are just as likely as large MEWAs to be 
+underfunded or otherwise have 
+inadequate reserves to meet the benefit 
+claims submitted for payment. 
+E. Small Business Regulatory 
+Enforcement Fairness Act 
+The rule being issued here is subject 
+to the Congressional Review Act 
+provisions of the Small Business 
+Regulatory Enforcement Fairness Act of 
+1996 (5 U.S.C. 801 et seq.) and has been 
+transmitted to Congress and the 
+Comptroller General for review. The 
+rule is not a ‘‘major rule’’ as that term 
+is defined in 5 U.S.C. 804, because it is 
+not likely to result in (1) An annual 
+effect on the economy of $100 million 
+or more; (2) a major increase in costs or 
+prices for consumers, individual 
+industries, or federal, state, or local 
+government agencies, or geographic 
+regions; or (3) significant adverse effects 
+on competition, employment, 
+investment, productivity, innovation, or 
+VerDate Jan<31>2003 
+15:31 Apr 08, 2003
+Jkt 200001
+PO 00000
+Frm 00009
+Fmt 4701
+Sfmt 4700
+E:\FR\FM\09APR3.SGM
+09APR3
+17480
+Federal Register / Vol. 68, No. 68 / Wednesday, April 9, 2003 / Rules and Regulations 
+on the ability of United States-based 
+enterprises to compete with foreign-
+based enterprises in domestic or export 
+markets. 
+F. Unfunded Mandates Reform Act 
+For purposes of the Unfunded 
+Mandates Reform Act of 1995 (2 U.S.C. 
+1501 et seq.), as well as Executive Order 
+12875, this rule does not include any 
+Federal mandate that may result in 
+expenditures by State, local, or tribal 
+governments, or the private sector, 
+which may impose an annual burden of 
+$100 million. 
+G. Executive Order 13132 
+When an agency promulgates a 
+regulation that has federalism 
+implications, Executive Order 13132 (64 
+FR 43255, August 10, 1999), requires the 
+Agency to provide a federalism 
+summary impact statement. Pursuant to 
+section 6(c) of the Order, such a 
+statement must include a description of 
+the extent of the agency’s consultation 
+with State and local officials, a 
+summary of the nature of their concerns 
+and the agency’s position supporting the 
+need to issue the regulation, and a 
+statement of the extent to which the 
+concerns of the State have been met. 
+This regulation has federalism 
+implications because it sets forth 
+standards and procedures for 
+determining whether certain entities 
+may be regulated under certain state 
+laws or whether such state laws are 
+preempted with respect to such entities. 
+The state laws at issue are those that 
+regulate the business of insurance. 
+From the inception of the Committee 
+through final deliberations on 
+comments received on the proposed 
+regulation, a representative from the 
+National Association of Insurance 
+Commissioners (NAIC), representing the 
+interests of state governments in the 
+regulation of insurance, participated in 
+the rulemaking. NAIC raised the 
+following concerns at Committee 
+meetings: (1) That the rule should allow 
+MEWAs to be easily distinguishable 
+from collectively bargained plans so that 
+MEWAs properly may be subjected to 
+state jurisdiction and regulation; (2) that 
+the rule should prevent the unlicensed 
+sale of health insurance; and (3) that 
+losses to individuals in the form of 
+unreimbursed and denied medical 
+claims should be eliminated. 
+The Department’s position is that 
+there is a substantial need for this 
+regulation. Unscrupulous individuals 
+have been able to exploit the lack of 
+clear guidance regarding the criteria for 
+determining whether an entity is 
+established or maintained pursuant to 
+collective bargaining agreements to 
+create entities that falsely promise 
+benefits they are unable to provide. 
+These operators, free of state solvency 
+and reserve requirements, have 
+marketed unlicensed health insurance 
+to small employers, often offering health 
+insurance at significantly lower rates 
+than state-licensed insurance 
+companies. Ultimately, these operations 
+have often gone bankrupt, leaving 
+individuals with significant unpaid 
+health claims and without health 
+insurance. The lack of clear guidance 
+has hampered states in their efforts to 
+regulate these entities, and appropriate 
+state regulation would reduce or 
+eliminate the risk of losses to 
+employers, employees and their 
+families. 
+This regulation provides objective 
+criteria for distinguishing collectively 
+bargained plans from arrangements 
+subject to state insurance law. The 
+regulation will facilitate state 
+enforcement efforts against 
+arrangements attempting to misuse the 
+collectively bargained exception in 
+section 3(40) of ERISA. In that regard, 
+the regulation will reduce the incidence 
+of sale of unlicensed insurance under 
+the guise of collectively bargained plans 
+and will limit the losses to individuals 
+in the form of unreimbursed medical 
+and other welfare benefit insurance 
+claims. 
+The Department notes further, as 
+discussed more fully above, that one 
+commenter expressed concern that the 
+availability of administrative 
+proceedings for an individualized 
+section 3(40) finding in cases where the 
+jurisdiction or law of a state has been 
+asserted may result in delays in state 
+enforcement that could substantially 
+hinder a state’s ability to take timely 
+enforcement actions against sham 
+MEWA operators. Recognizing the need 
+to ensure that the regulations assist, 
+rather than hinder, state enforcement 
+efforts against sham MEWA operators, 
+and taking into account the input of the 
+Committee, including the NAIC 
+representative, the Department has 
+amended the regulation to make clear 
+that it is not intended to provide the 
+basis for a stay or delay of any state 
+actions, including administrative or 
+court proceedings and enforcement 
+subpoenas, where immediate state 
+enforcement action is warranted.
+List of Subjects in 29 CFR Part 2510 
+Collective bargaining, Employee 
+benefit plans, Pensions.
+I For the reasons set forth in the pre-
+amble, 29 CFR part 2510 is amended as 
+follows:
+PART 2510—[AMENDED] DEFINITION 
+OF TERMS USED IN SUBCHAPTERS C, 
+D, E, F, AND G OF THIS CHAPTER
+I 1. The authority citation for part 2510 
+is revised to read as follows:
+Authority: 29 U.S.C. 1002(2), 1002(21), 
+1002(37), 1002(40), 1031, and 1135; Secretary 
+of Labor’s Order 1–2003, 68 FR 5374; Sec. 
+2510.3–101 also issued under sec. 102 of 
+Reorganization Plan No. 4 of 1978, 43 FR 
+47713, 3 CFR, 1978 Comp., p. 332 and E.O. 
+12108, 44 FR 1065, 3 CFR, 1978 Comp., p. 
+275, and 29 U.S.C. 1135 note. Sec. 2510.3–
+102 also issued under sec. 102 of 
+Reorganization Plan No. 4 of 1978, 43 FR 
+47713, 3 CFR, 1978 Comp., p. 332 and E.O. 
+12108, 44 FR 1065, 3 CFR, 1978 Comp., p. 
+275.
+I 2. Add new section 2510.3–40 to read 
+as follows:
+§ 2510.3–40
+Plans Established or 
+Maintained Under or Pursuant to Collective 
+Bargaining Agreements Under Section 
+3(40)(A) of ERISA. 
+(a) Scope and purpose. Section 
+3(40)(A) of the Employee Retirement 
+Income Security Act of 1974 (ERISA) 
+provides that the term ‘‘multiple 
+employer welfare arrangement’’ 
+(MEWA) does not include an employee 
+welfare benefit plan that is established 
+or maintained under or pursuant to one 
+or more agreements that the Secretary of 
+Labor (the Secretary) finds to be 
+collective bargaining agreements. This 
+section sets forth criteria that represent 
+a finding by the Secretary whether an 
+arrangement is an employee welfare 
+benefit plan established or maintained 
+under or pursuant to one or more 
+collective bargaining agreements. A plan 
+is established or maintained under or 
+pursuant to collective bargaining if it 
+meets the criteria in this section. 
+However, even if an entity meets the 
+criteria in this section, it will not be an 
+employee welfare benefit plan 
+established or maintained under or 
+pursuant to a collective bargaining 
+agreement if it comes within the 
+exclusions in the section. Nothing in or 
+pursuant to this section shall constitute 
+a finding for any purpose other than the 
+exception for plans established or 
+maintained under or pursuant to one or 
+more collective bargaining agreements 
+under section 3(40) of ERISA. In a 
+particular case where there is an attempt 
+to assert state jurisdiction or the 
+application of state law with respect to 
+a plan or other arrangement that 
+allegedly is covered under Title I of 
+ERISA, the Secretary has set forth a 
+procedure for obtaining individualized 
+findings at 29 CFR part 2570, subpart H. 
+(b) General criteria. The Secretary 
+finds, for purposes of section 3(40) of 
+ERISA, that an employee welfare benefit 
+VerDate Jan<31>2003 
+15:31 Apr 08, 2003
+Jkt 200001
+PO 00000
+Frm 00010
+Fmt 4701
+Sfmt 4700
+E:\FR\FM\09APR3.SGM
+09APR3
+17481
+Federal Register / Vol. 68, No. 68 / Wednesday, April 9, 2003 / Rules and Regulations 
+plan is ‘‘established or maintained 
+under or pursuant to one or more 
+agreements which the Secretary finds to 
+be collective bargaining agreements’’ for 
+any plan year in which the plan meets 
+the criteria set forth in paragraphs (b)(1), 
+(2), (3), and (4) of this section, and is not 
+excluded under paragraph (c) of this 
+section. 
+(1) The entity is an employee welfare 
+benefit plan within the meaning of 
+section 3(1) of ERISA. 
+(2) At least 85% of the participants in 
+the plan are: 
+(i) Individuals employed under one or 
+more agreements meeting the criteria of 
+paragraph (b)(3) of this section, under 
+which contributions are made to the 
+plan, or pursuant to which coverage 
+under the plan is provided; 
+(ii) Retirees who either participated in 
+the plan at least five of the last 10 years 
+preceding their retirement, or 
+(A) Are receiving benefits as 
+participants under a multiemployer 
+pension benefit plan that is maintained 
+under the same agreements referred to 
+in paragraph (b)(3) of this section, and 
+(B) Have at least five years of service 
+or the equivalent under that 
+multiemployer pension benefit plan; 
+(iii) Participants on extended coverage 
+under the plan pursuant to the 
+requirements of a statute or court or 
+administrative agency decision, 
+including but not limited to the 
+continuation coverage requirements of 
+the Consolidated Omnibus Budget 
+Reconciliation Act of 1985, sections 
+601–609, 29 U.S.C. 1169, the Family 
+and Medical Leave Act, 29 U.S.C. 2601 
+et seq., the Uniformed Services 
+Employment and Reemployment Rights 
+Act of 1994, 38 U.S.C. 4301 et seq., or 
+the National Labor Relations Act, 29 
+U.S.C. 158(a)(5);
+(iv) Participants who were active 
+participants and whose coverage is 
+otherwise extended under the terms of 
+the plan, including but not limited to 
+extension by reason of self-payment, 
+hour bank, long or short-term disability, 
+furlough, or temporary unemployment, 
+provided that the charge to the 
+individual for such extended coverage is 
+no more than the applicable premium 
+under section 604 of the Act; 
+(v) Participants whose coverage under 
+the plan is maintained pursuant to a 
+reciprocal agreement with one or more 
+other employee welfare benefit plans 
+that are established or maintained under 
+or pursuant to one or more collective 
+bargaining agreements and that are 
+multiemployer plans; 
+(vi) Individuals employed by: 
+(A) An employee organization that 
+sponsors, jointly sponsors, or is 
+represented on the association, 
+committee, joint board of trustees, or 
+other similar group of representatives of 
+the parties who sponsor the plan; 
+(B) The plan or associated trust fund; 
+(C) Other employee benefit plans or 
+trust funds to which contributions are 
+made pursuant to the same agreement 
+described in paragraph (b)(3) of this 
+section; or 
+(D) An employer association that is 
+the authorized employer representative 
+that actually engaged in the collective 
+bargaining that led to the agreement that 
+references the plan as described in 
+paragraph (b)(3) of this section; 
+(vii) Individuals who were employed 
+under an agreement described in 
+paragraph (b)(3) of this section, 
+provided that they are employed by one 
+or more employers that are parties to an 
+agreement described in paragraph (b)(3) 
+and are covered under the plan on terms 
+that are generally no more favorable 
+than those that apply to similarly 
+situated individuals described in 
+paragraph (b)(2)(i) of this section; 
+(viii) Individuals (other than 
+individuals described in paragraph 
+(b)(2)(i) of this section) who are 
+employed by employers that are bound 
+by the terms of an agreement described 
+in paragraph (b)(3) of this section and 
+that employ personnel covered by such 
+agreement, and who are covered under 
+the plan on terms that are generally no 
+more favorable than those that apply to 
+such covered personnel. For this 
+purpose, such individuals in excess of 
+10% of the total population of 
+participants in the plan are disregarded; 
+(ix) Individuals who are, or were for 
+a period of at least three years, 
+employed under one or more 
+agreements between or among one or 
+more ‘‘carriers’’ (including ‘‘carriers by 
+air’’) and one or more ‘‘representatives’’ 
+of employees for collective bargaining 
+purposes and as defined by the Railway 
+Labor Act, 45 U.S.C. 151 et seq., 
+providing for such individuals’ current 
+or subsequent participation in the plan, 
+or providing for contributions to be 
+made to the plan by such carriers; or 
+(x) Individuals who are licensed 
+marine pilots operating in United States 
+ports as a state-regulated enterprise and 
+are covered under an employee welfare 
+benefit plan that meets the definition of 
+a qualified merchant marine plan, as 
+defined in section 415(b)(2)(F) of the 
+Internal Revenue Code (26 U.S.C.). 
+(3) The plan is incorporated or 
+referenced in a written agreement 
+between one or more employers and one 
+or more employee organizations, which 
+agreement, itself or together with other 
+agreements among the same parties: 
+(i) Is the product of a bona fide 
+collective bargaining relationship 
+between the employers and the 
+employee organization(s); 
+(ii) Identifies employers and 
+employee organization(s) that are parties 
+to and bound by the agreement; 
+(iii) Identifies the personnel, job 
+classifications, and/or work jurisdiction 
+covered by the agreement;
+(iv) Provides for terms and conditions 
+of employment in addition to coverage 
+under, or contributions to, the plan; and 
+(v) Is not unilaterally terminable or 
+automatically terminated solely for non-
+payment of benefits under, or 
+contributions to, the plan. 
+(4) For purposes of paragraph (b)(3)(i) 
+of this section, the following factors, 
+among others, are to be considered in 
+determining the existence of a bona fide 
+collective bargaining relationship. In 
+any proceeding initiated under 29 CFR 
+part 2570 subpart H, the existence of a 
+bona fide collective bargaining 
+relationship under paragraph (b)(3)(i) 
+shall be presumed where at least four of 
+the factors set out in paragraphs (b)(4)(i) 
+through (viii) of this section are 
+established. In such a proceeding, the 
+Secretary may also consider whether 
+other objective or subjective indicia of 
+actual collective bargaining and 
+representation are present as set out in 
+paragraph (b)(4)(ix) of this section. 
+(i) The agreement referred to in 
+paragraph (b)(3) of this section provides 
+for contributions to a labor-management 
+trust fund structured according to 
+section 302(c)(5), (6), (7), (8), or (9) of 
+the Taft-Hartley Act, 29 U.S.C. 186(c)(5), 
+(6), (7), (8) or (9), or to a plan lawfully 
+negotiated under the Railway Labor Act; 
+(ii) The agreement referred to in 
+paragraph (b)(3) of this section requires 
+contributions by substantially all of the 
+participating employers to a 
+multiemployer pension plan that is 
+structured in accordance with section 
+401 of the Internal Revenue Code (26 
+U.S.C.) and is either structured in 
+accordance with section 302(c)(5) of the 
+Taft-Hartley Act, 29 U.S.C. 186(c)(5), or 
+is lawfully negotiated under the Railway 
+Labor Act, and substantially all of the 
+active participants covered by the 
+employee welfare benefit plan are also 
+eligible to become participants in that 
+pension plan; 
+(iii) The predominant employee 
+organization that is a party to the 
+agreement referred to in paragraph (b)(3) 
+of this section has maintained a series 
+of agreements incorporating or 
+referencing the plan since before 
+January 1, 1983; 
+(iv) The predominant employee 
+organization that is a party to the 
+agreement referred to in paragraph (b)(3) 
+of this section has been a national or 
+international union, or a federation of 
+VerDate Jan<31>2003 
+15:31 Apr 08, 2003
+Jkt 200001
+PO 00000
+Frm 00011
+Fmt 4701
+Sfmt 4700
+E:\FR\FM\09APR3.SGM
+09APR3
+17482
+Federal Register / Vol. 68, No. 68 / Wednesday, April 9, 2003 / Rules and Regulations 
+national and international unions, or 
+has been affiliated with such a union or 
+federation, since before January 1, 1983; 
+(v) A court, government agency, or 
+other third-party adjudicatory tribunal 
+has determined, in a contested or 
+adversary proceeding, or in a 
+government-supervised election, that 
+the predominant employee organization 
+that is a party to the agreement 
+described in paragraph (b)(3) of this 
+section is the lawfully recognized or 
+designated collective bargaining 
+representative with respect to one or 
+more bargaining units of personnel 
+covered by such agreement; 
+(vi) Employers who are parties to the 
+agreement described in paragraph (b)(3) 
+of this section pay at least 75% of the 
+premiums or contributions required for 
+the coverage of active participants under 
+the plan or, in the case of a retiree-only 
+plan, the employers pay at least 75% of 
+the premiums or contributions required 
+for the coverage of the retirees. For this 
+purpose, coverage under the plan for 
+dental or vision care, coverage for 
+excepted benefits under 29 CFR 
+2590.732(b), and amounts paid by 
+participants and beneficiaries as co-
+payments or deductibles in accordance 
+with the terms of the plan are 
+disregarded; 
+(vii) The predominant employee 
+organization that is a party to the 
+agreement described in paragraph (b)(3) 
+of this section provides, sponsors, or 
+jointly sponsors a hiring hall(s) and/or 
+a state-certified apprenticeship 
+program(s) that provides services that 
+are available to substantially all active 
+participants covered by the plan; 
+(viii) The agreement described in 
+paragraph (b)(3) of this section has been 
+determined to be a bona fide collective 
+bargaining agreement for purposes of 
+establishing the prevailing practices 
+with respect to wages and supplements 
+in a locality, pursuant to a prevailing 
+wage statute of any state or the District 
+of Columbia. 
+(ix) There are other objective or 
+subjective indicia of actual collective 
+bargaining and representation, such as 
+that arm’s-length negotiations occurred 
+between the parties to the agreement 
+described in paragraph (b)(3) of this 
+section; that the predominant employee 
+organization that is party to such 
+agreement actively represents 
+employees covered by such agreement 
+with respect to grievances, disputes, or 
+other matters involving employment 
+terms and conditions other than 
+coverage under, or contributions to, the 
+employee welfare benefit plan; that 
+there is a geographic, occupational, 
+trade, organizing, or other rationale for 
+the employers and bargaining units 
+covered by such agreement; that there is 
+a connection between such agreement 
+and the participation, if any, of self-
+employed individuals in the employee 
+welfare benefit plan established or 
+maintained under or pursuant to such 
+agreement. 
+(c) Exclusions. An employee welfare 
+benefit plan shall not be deemed to be 
+‘‘established or maintained under or 
+pursuant to one or more agreements 
+which the Secretary finds to be 
+collective bargaining agreements’’ for 
+any plan year in which: 
+(1) The plan is self-funded or partially 
+self-funded and is marketed to 
+employers or sole proprietors 
+(i) By one or more insurance 
+producers as defined in paragraph (d) of 
+this section; 
+(ii) By an individual who is 
+disqualified from, or ineligible for, or 
+has failed to obtain, a license to serve 
+as an insurance producer to the extent 
+that the individual engages in an 
+activity for which such license is 
+required; or 
+(iii) By individuals (other than 
+individuals described in paragraphs 
+(c)(1)(i) and (ii) of this section) who are 
+paid on a commission-type basis to 
+market the plan. 
+(iv) For the purposes of this paragraph 
+(c)(1): 
+(A) ‘‘Marketing’’ does not include 
+administering the plan, consulting with 
+plan sponsors, counseling on benefit 
+design or coverage, or explaining the 
+terms of coverage available under the 
+plan to employees or union members; 
+(B) ‘‘Marketing’’ does include the 
+marketing of union membership that 
+carries with it plan participation by 
+virtue of such membership, except for 
+membership in unions representing 
+insurance producers themselves; 
+(2) The agreement under which the 
+plan is established or maintained is a 
+scheme, plan, stratagem, or artifice of 
+evasion, a principal intent of which is 
+to evade compliance with state law and 
+regulations applicable to insurance; or 
+(3) There is fraud, forgery, or willful 
+misrepresentation as to the factors relied 
+on to demonstrate that the plan satisfies 
+the criteria set forth in paragraph (b) of 
+this section. 
+(d) Definitions. (1) Active participant 
+means a participant who is not retired 
+and who is not on extended coverage 
+under paragraphs (b)(2)(iii) or (b)(2)(iv) 
+of this section. 
+(2) Agreement means the contract 
+embodying the terms and conditions 
+mutually agreed upon between or 
+among the parties to such agreement. 
+Where the singular is used in this 
+section, the plural is automatically 
+included.
+(3) Individual employed means any 
+natural person who furnishes services to 
+another person or entity in the capacity 
+of an employee under common law, 
+without regard to any specialized 
+definitions or interpretations of the 
+terms ‘‘employee,’’ ‘‘employer,’’ or 
+‘‘employed’’ under federal or state 
+statutes other than ERISA. 
+(4) Insurance producer means an 
+agent, broker, consultant, or producer 
+who is an individual, entity, or sole 
+proprietor that is licensed under the 
+laws of the state to sell, solicit, or 
+negotiate insurance. 
+(5) Predominant employee 
+organization means, where more than 
+one employee organization is a party to 
+an agreement, either the organization 
+representing the plurality of individuals 
+employed under such agreement, or 
+organizations that in combination 
+represent the majority of such 
+individuals. 
+(e) Examples. The operation of the 
+provisions of this section may be 
+illustrated by the following examples.
+Example 1. Plan A has 500 participants, in 
+the following 4 categories of participants 
+under paragraph (b)(2) of this section:
+Categories of participants 
+Total number 
+Nexus group 
+Non-nexus 
+1. Individuals working under CBAs .............................................................................................
+335 (67%) 
+335 (67%) 
+0
+2. Retirees ...................................................................................................................................
+50 (10%) 
+50 (10%) 
+0
+3. ‘‘Special Class’’—Non-CBA, non-CBA-alumni ........................................................................
+100 (20%) 
+50 (10%) 
+50 (10%) 
+4. Non-nexus participants ............................................................................................................
+15 (3%) 
+0
+15 (3%) 
+Total ..................................................................................................................................
+500 (100%) 
+435 (87%) 
+65 (13%) 
+In determining whether at least 85% of 
+Plan A’s participant population is made up 
+of individuals with the required nexus to the 
+collective bargaining agreement as required 
+by paragraph (b)(2) of this section, the Plan 
+may count as part of the nexus group only
+VerDate Jan<31>2003 
+17:14 Apr 08, 2003
+Jkt 200001
+PO 00000
+Frm 00012
+Fmt 4701
+Sfmt 4700
+E:\FR\FM\09APR3.SGM
+09APR3
+17483
+Federal Register / Vol. 68, No. 68 / Wednesday, April 9, 2003 / Rules and Regulations 
+50 (10% of the total plan population) of the 
+100 individuals described in paragraph 
+(b)(2)(viii) of this section. That is because the 
+number of individuals meeting the category 
+of individuals in paragraph (b)(2)(viii) 
+exceeds 10% of the total participant 
+population by 50 individuals. The paragraph 
+specifies that of those individuals who would 
+otherwise be deemed to be nexus individuals 
+because they are the type of individuals 
+described in paragraph (b)(2)(viii), the 
+number in excess of 10% of the total plan 
+population may not be counted in the nexus 
+group. Here, 50 of the 100 individuals 
+employed by signatory employers, but not 
+covered by the collective bargaining 
+agreement, are counted as nexus individuals 
+and 50 are not counted as nexus individuals. 
+Nonetheless, the Plan satisfies the 85% 
+criterion under paragraph (b)(2) because a 
+total of 435 (335 individuals covered by the 
+collective bargaining agreement, plus 50 
+retirees, plus 50 individuals employed by 
+signatory employers), or 87%, of the 500 
+participants in Plan A are individuals who 
+may be counted as nexus participants under 
+paragraph (b)(2). Beneficiaries (e.g., spouses, 
+dependent children, etc.) are not counted to 
+determine whether the 85% test has been 
+met.
+Example 2. (i) International Union MG and 
+its Local Unions have represented people 
+working primarily in a particular industry for 
+over 60 years. Since 1950, most of their 
+collective bargaining agreements have called 
+for those workers to be covered by the 
+National MG Health and Welfare Plan. 
+During that time, the number of union-
+represented workers in the industry, and the 
+number of active participants in the National 
+MG Health and Welfare Plan, first grew and 
+then declined. New Locals were formed and 
+later were shut down. Despite these 
+fluctuations, the National MG Health and 
+Welfare Plan meets the factors described in 
+paragraphs (b)(4)(iii) and (iv) of this section, 
+as the plan has been in existence pursuant to 
+collective bargaining agreements to which 
+the International Union and its affiliates have 
+been parties since before January 1, 1983. 
+(ii) Assume the same facts, except that on 
+January 1, 1999, International Union MG 
+merged with International Union RE to form 
+International Union MRGE. MRGE and its 
+Locals now represent the active participants 
+in the National MG Health and Welfare Plan 
+and in the National RE Health and Welfare 
+Plan, which, for 45 years, had been 
+maintained under collective bargaining 
+agreements negotiated by International Union 
+RE and its Locals. Since International Union 
+MRGE is the continuation of, and successor 
+to, the MG and RE unions, the two plans 
+continue to meet the factors in paragraphs 
+(b)(4)(iii) and (iv) of this section. This also 
+would be true if the two plans were merged.
+(iii) Assume the same facts as in 
+paragraphs (i) and (ii) of this Example. In 
+addition to maintaining the health and 
+welfare plans described in those paragraphs, 
+International Union MG also maintained the 
+National MG Pension Plan and International 
+Union RE maintained the National RE 
+Pension Plan. When the unions merged and 
+the health and welfare plans were merged, 
+National MG Pension Plan and National RE 
+Pension Plan were merged to form National 
+MRGE Pension Plan. When the unions 
+merged, the employees and retirees covered 
+under the pre-merger plans continued to be 
+covered under the post-merger plans 
+pursuant to the collective bargaining 
+agreements and also were given credit in the 
+post-merger plans for their years of service 
+and coverage in the pre-merger plans. 
+Retirees who originally were covered under 
+the pre-merger plans and continue to be 
+covered under the post-merger plans based 
+on their past service and coverage would be 
+considered to be ‘‘retirees’’ for purposes of 
+2550.3–40(b)(2)(ii). Likewise, bargaining unit 
+alumni who were covered under the pre-
+merger plans and continued to be covered 
+under the post-merger plans based on their 
+past service and coverage and their 
+continued employment with employers that 
+are parties to an agreement described in 
+paragraph (b)(3) of this section would be 
+considered to be bargaining unit alumni for 
+purposes of 2550.3–40(b)(2)(vii).
+Example 3. Assume the same facts as in 
+paragraph (ii) of Example 2 with respect to 
+International Union MG. However, in 1997, 
+one of its Locals and the employers with 
+which it negotiates agree to set up a new 
+multiemployer health and welfare plan that 
+only covers the individuals represented by 
+that Local Union. That plan would not meet 
+the factor in paragraph (b)(4)(iii) of this 
+section, as it has not been incorporated or 
+referenced in collective bargaining 
+agreements since before January 1, 1983.
+Example 4. (i) Pursuant to a collective 
+bargaining agreement between various 
+employers and Local 2000, the employers 
+contribute $2 per hour to the Fund for every 
+hour that a covered employee works under 
+the agreement. The covered employees are 
+automatically entitled to health and 
+disability coverage from the Fund for every 
+calendar quarter the employees have 300 
+hours of additional covered service in the 
+preceding quarter. The employees do not 
+need to make any additional contributions 
+for their own coverage, but must pay $250 
+per month if they want health coverage for 
+their dependent spouse and children. 
+Because the employer payments cover 100% 
+of the required contributions for the 
+employees’ own coverage, the Local 2000 
+Employers Health and Welfare Fund meets 
+the ‘‘75% employer payment’’ factor under 
+paragraph (b)(4)(vi) of this section. 
+(ii) Assume, however, that the negotiated 
+employer contribution rate was $1 per hour, 
+and the employees could only obtain health 
+coverage for themselves if they also elected 
+to contribute $1 per hour, paid on a pre-tax 
+basis through salary reduction. The Fund 
+would not meet the 75% employer payment 
+factor, even though the employees’ 
+contributions are treated as employer 
+contributions for tax purposes. Under ERISA, 
+and therefore under this section, elective 
+salary reduction contributions are treated as 
+employee contributions. The outcome would 
+be the same if a uniform employee 
+contribution rate applied to all employees, 
+whether they had individual or family 
+coverage, so that the $1 per hour employee 
+contribution qualified an employee for his or 
+her own coverage and, if he or she had 
+dependents, dependent coverage as well.
+Example 5. Arthur is a licensed insurance 
+broker, one of whose clients is 
+Multiemployer Fund M, a partially self-
+funded plan. Arthur takes bids from 
+insurance companies on behalf of Fund M for 
+the insured portion of its coverage, helps the 
+trustees to evaluate the bids, and places the 
+Fund’s health insurance coverage with the 
+carrier that is selected. Arthur also assists the 
+trustees of Fund M in preparing material to 
+explain the plan and its benefits to the 
+participants, as well as in monitoring the 
+insurance company’s performance under the 
+contract. At the Trustees’ request, Arthur 
+meets with a group of employers with which 
+the union is negotiating for their employees’ 
+coverage under Fund M, and he explains the 
+cost structure and benefits that Fund M 
+provides. Arthur is not engaged in marketing 
+within the meaning of paragraph (c)(1) of this 
+section, so the fact that he provides these 
+administrative services and sells insurance to 
+the Fund itself does not affect the plan’s 
+status as a plan established or maintained 
+under or pursuant to a collective bargaining 
+agreement. This is the case whether or how 
+he is compensated.
+Example 6. Assume the same facts as 
+Example 5, except that Arthur has a group of 
+clients who are unrelated to the employers 
+bound by the collective bargaining 
+agreement, whose employees would not be 
+‘‘nexus group’’ members, and whose 
+insurance carrier has withdrawn from the 
+market in their locality. He persuades the 
+client group to retain him to find them other 
+coverage. The client group has no 
+relationship with the labor union that 
+represents the participants in Fund M. 
+However, Arthur offers them coverage under 
+Fund M and persuades the Fund’s Trustees 
+to allow the client group to join Fund M in 
+order to broaden Fund M’s contribution base. 
+Arthur’s activities in obtaining coverage for 
+the unrelated group under Fund M 
+constitutes marketing through an insurance 
+producer; Fund M is a MEWA under 
+paragraph (c)(1) of this section.
+Example 7. Union A represents thousands 
+of construction workers in a three-state 
+geographic region. For many years, Union A 
+has maintained a standard written collective 
+bargaining agreement with several hundred 
+large and small building contractors, 
+covering wages, hours, and other terms and 
+conditions of employment for all work 
+performed in Union A’s geographic territory. 
+The terms of those agreements are negotiated 
+every three years between Union A and a 
+multiemployer Association, which signs on 
+behalf of those employers who have 
+delegated their bargaining authority to the 
+Association. Hundreds of other employers—
+including both local and traveling 
+contractors—have chosen to become bound 
+to the terms of Union A’s standard area 
+agreement for various periods of time and in 
+various ways, such as by signing short-form 
+binders or ‘‘me too’’ agreements, executing a 
+single job or project labor agreement, or 
+entering into a subcontracting arrangement 
+with a signatory employer. All of these 
+employ individuals represented by Union A 
+and contribute to Plan A, a self-insured 
+multiemployer health and welfare plan 
+established and maintained under Union A’s 
+VerDate Jan<31>2003 
+15:31 Apr 08, 2003
+Jkt 200001
+PO 00000
+Frm 00013
+Fmt 4701
+Sfmt 4700
+E:\FR\FM\09APR3.SGM
+09APR3
+17484
+Federal Register / Vol. 68, No. 68 / Wednesday, April 9, 2003 / Rules and Regulations 
+standard area agreement. During the past 
+year, the trustees of Plan A have brought 
+lawsuits against several signatory employers 
+seeking contributions allegedly owed, but not 
+paid to the trust. In defending that litigation, 
+a number of employers have sworn that they 
+never intended to operate as union 
+contractors, that their employees want 
+nothing to do with Union A, that Union A 
+procured their assent to the collective 
+bargaining agreement solely by threats and 
+fraudulent misrepresentations, and that 
+Union A has failed to file certain reports 
+required by the Labor Management Reporting 
+and Disclosure Act. In at least one instance, 
+a petition for a decertification election has 
+been filed with the National Labor Relations 
+Board. In this example, Plan A meets the 
+criteria for a regulatory finding under this 
+section that it is a multiemployer plan 
+established and maintained under or 
+pursuant to one or more collective bargaining 
+agreements, assuming that its participant 
+population satisfies the 85% test of 
+paragraph (b)(2) of this section and that none 
+of the disqualifying factors in paragraph (c) 
+of this section is present. Plan A’s status for 
+the purpose of this section is not affected by 
+the fact that some of the employers who deal 
+with Union A have challenged Union A’s 
+conduct, or have disputed under labor 
+statutes and legal doctrines other than ERISA 
+section 3(40) the validity and enforceability 
+of their putative contract with Union A, 
+regardless of the outcome of those disputes.
+Example 8. Assume the same facts as 
+Example 7. Plan A’s benefits consultant 
+recently entered into an arrangement with 
+the Medical Consortium, a newly formed 
+organization of health care providers, which 
+allows the Plan to offer a broader range of 
+health services to Plan A’s participants while 
+achieving cost savings to the Plan and to 
+participants. Union A, Plan A, and Plan A’s 
+consultant each have added a page to their 
+Web sites publicizing the new arrangement 
+with the Medical Consortium. Concurrently, 
+Medical Consortium’s Web site prominently 
+publicizes its recent affiliation with Plan A 
+and the innovative services it makes 
+available to the Plan’s participants. Union A 
+has mailed out informational packets to its 
+members describing the benefit 
+enhancements and encouraging election of 
+family coverage. Union A has also begun 
+distributing similar material to workers on 
+hundreds of non-union construction job sites 
+within its geographic territory. In this 
+example, Plan A remains a plan established 
+and maintained under or pursuant to one or 
+more collective bargaining agreements under 
+section 3(40) of ERISA. Neither Plan A’s 
+relationship with a new organization of 
+health care providers, nor the use of various 
+media to publicize Plan A’s attractive 
+benefits throughout the area served by Union 
+A, alters Plan A’s status for purpose of this 
+section.
+Example 9. Assume the same facts as in 
+Example 7. Union A undertakes an area-wide 
+organizing campaign among the employees of 
+all the health care providers who belong to 
+the Medical Consortium. When soliciting 
+individual employees to sign up as union 
+members, Union A distributes Plan A’s 
+information materials and promises to 
+bargain for the same coverage. At the same 
+time, when appealing to the employers in the 
+Medical Consortium for voluntary 
+recognition, Union A promises to publicize 
+the Consortium’s status as a group of 
+unionized health care service providers. 
+Union A eventually succeeds in obtaining 
+recognition based on its majority status 
+among the employees working for Medical 
+Consortium employers. The Consortium, 
+acting on behalf of its employer members, 
+negotiates a collective bargaining agreement 
+with Union A that provides terms and 
+conditions of employment, including 
+coverage under Plan A. In this example, Plan 
+A still meets the criteria for a regulatory 
+finding that it is collectively bargained under 
+section 3(40) of ERISA. Union A’s 
+recruitment and representation of a new 
+occupational category of workers unrelated to 
+the construction trade, its promotion of 
+attractive health benefits to achieve 
+organizing success, and the Plan’s resultant 
+growth, do not take Plan A outside the 
+regulatory finding.
+Example 10. Assume the same facts as in 
+Example 7. The Medical Consortium, a newly 
+formed organization, approaches Plan A with 
+a proposal to make money for Plan A and 
+Union A by enrolling a large group of 
+employers, their employees, and self-
+employed individuals affiliated with the 
+Medical Consortium. The Medical 
+Consortium obtains employers’ signatures on 
+a generic document bearing Union A’s name, 
+labeled ‘‘collective bargaining agreement,’’ 
+which provides for health coverage under 
+Plan A and compliance with wage and hour 
+statutes, as well as other employment laws. 
+Employees of signatory employers sign 
+enrollment documents for Plan A and are 
+issued membership cards in Union A; their 
+membership dues are regularly checked off 
+along with their monthly payments for health 
+coverage. Self-employed individuals 
+similarly receive union membership cards 
+and make monthly payments, which are 
+divided between Plan A and the Union. 
+Aside from health coverage matters, these 
+new participants have little or no contact 
+with Union A. The new participants enrolled 
+through the Consortium amount to 18% of 
+the population of Plan A during the current 
+Plan Year. In this example, Plan A now fails 
+to meet the criteria in paragraphs (b)(2) and 
+(b)(3) of this section, because more than 15% 
+of its participants are individuals who are not 
+employed under agreements that are the 
+product of a bona fide collective bargaining 
+relationship and who do not fall within any 
+of the other nexus categories set forth in 
+paragraph (b)(2) of this section. Moreover, 
+even if the number of additional participants 
+enrolled through the Medical Consortium, 
+together with any other participants who did 
+not fall within any of the nexus categories, 
+did not exceed 15% of the total participant 
+population under the plan, the circumstances 
+in this example would trigger the 
+disqualification of paragraph (c)(2) of this 
+section, because Plan A now is being 
+maintained under a substantial number of 
+agreements that are a ‘‘scheme, plan, 
+stratagem or artifice of evasion’’ intended 
+primarily to evade compliance with state 
+laws and regulations pertaining to insurance. 
+In either case, the consequence of adding the 
+participants through the Medical Consortium 
+is that Plan A is now a MEWA for purposes 
+of section 3(40) of ERISA and is not exempt 
+from state regulation by virtue of ERISA.
+(f) Cross-reference. See 29 CFR part 
+2570, subpart H for procedural rules 
+relating to proceedings seeking an 
+Administrative Law Judge finding by 
+the Secretary under section 3(40) of 
+ERISA. 
+(g) Effect of proceeding seeking 
+Administrative Law Judge Section 3(40) 
+Finding. 
+(1) An Administrative Law Judge 
+finding issued pursuant to the 
+procedures in 29 CFR part 2570, subpart 
+H will constitute a finding whether the 
+entity in that proceeding is an employee 
+welfare benefit plan established or 
+maintained under or pursuant to an 
+agreement that the Secretary finds to be 
+a collective bargaining agreement for 
+purposes of section 3(40) of ERISA. 
+(2) Nothing in this section or in 29 
+CFR part 2570, subpart H is intended to 
+provide the basis for a stay or delay of 
+a state administrative or court 
+proceeding or enforcement of a 
+subpoena.
+Signed this 31st day of March 2003. 
+Ann L. Combs, 
+Assistant Secretary, Employee Benefits 
+Security Administration.
+[FR Doc. 03–8113 Filed 4–7–03; 8:45 am] 
+BILLING CODE 4510–29–P
+DEPARTMENT OF LABOR
+Employee Benefits Security 
+Administration 
+29 CFR Part 2570
+RIN 1210–AA48
+Procedures for Administrative 
+Hearings Regarding Plans Established 
+or Maintained Pursuant to Collective 
+Bargaining Agreements Under Section 
+3(40)(A) of ERISA
+AGENCY: Employee Benefits Security 
+Administration, Department of Labor.
+ACTION: Final rule.
+SUMMARY: This document contains 
+regulations under the Employee 
+Retirement Income Security Act of 1974, 
+as amended, (ERISA or the Act) 
+describing procedures for administrative 
+hearings to obtain a determination by 
+the Secretary of Labor (Secretary) as to 
+whether a particular employee welfare 
+benefit plan is established or 
+maintained under or pursuant to one or 
+more collective bargaining agreements 
+for purposes of section 3(40) of ERISA. 
+An administrative hearing is available 
+VerDate Jan<31>2003 
+15:31 Apr 08, 2003
+Jkt 200001
+PO 00000
+Frm 00014
+Fmt 4701
+Sfmt 4700
+E:\FR\FM\09APR3.SGM
+09APR3

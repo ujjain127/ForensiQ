@@ -1,0 +1,865 @@
+576
+September 2007      Volume 33 Number 9
+The Joint Commission Journal on Quality and Patient Safety
+W
+ithin the past decade medication errors have
+emerged as a significant patient safety concern
+and have been shown to account for up to
+7,000 deaths per year.
+1 One intervention aimed at reduc-
+ing the incidence of medication errors is improving writ-
+ten or electronic communications, particularly in patient
+medical charts. In 2004 The Joint Commission intro-
+duced the “Do Not Use” list of abbreviations2 as part of
+the requirements for meeting National Patient Safety Goal
+2, which addresses the effectiveness of communication
+among caregivers. Goal 2B requires health care organiza-
+tions to maintain a standardized list of abbreviations,
+acronyms, and symbols that are not to be used.3
+In addition to the “Do Not Use” list, the organization
+is required to develop additional restrictions pertaining to
+the use of abbreviations. In May 2005, the Joint Commis-
+sion’s required “Do Not Use” list was reaffirmed4,5 (Table 1,
+page 578). Despite the list’s availability since 2004, non-
+compliance remains a frequent finding (23%) during Joint
+Commission surveys. Furthermore, annual Joint Commis-
+sion survey results have shown a decreasing trend (from
+75.2% to 64.2%) in compliance in hospitals from 2004 to
+2006.6
+Communication failures are the most common root
+cause of sentinel events, accounting for more than 60% of
+events from 2002 through 2006.7 Frequently, communica-
+tion lapses are the result of using abbreviations when con-
+veying medication orders. Staff responsible for reading,
+interpretation, and processing medication orders may not
+recognize or may misconstrue an abbreviation, resulting in
+the alteration of the intended meaning. An example com-
+monly reported is the misinterpretation of the letter “U”
+intended to represent the word “units” being frequently
+interpreted as a 0 (that is, “10U” is misread as “100”
+units). If not caught, this error would likely result in the
+administration of an inappropriate dose, potentially harm-
+ing patients.8 To our knowledge, however, the deleterious
+effect of using abbreviations has not been previously quan-
+tified. The purpose of this study was to provide further
+evidence about patient safety risks that result from using
+abbreviations.
+The United States Pharmacopeia (USP) MEDMARX®
+program is a national medication error reporting program
+that allows subscribing facilities (hospitals and their relat-
+ed health systems) to report and track medication errors in
+a standardized format. MEDMARX uses the National
+Coordinating Council for Medication Error Reporting
+and Prevention (NCC MERP) Index for Categorizing
+Medication Errors to measure error outcomes, in which
+Categories E through I indicate patient harm.9,10 The valid-
+ity of this instrument was recently reaffirmed.11 The char-
+acteristics and impact of abbreviation use are summarized
+and analyzed in this article on the basis of error records
+submitted to MEDMARX between 2004 and 2006.
+Methods
+All error records submitted during the study period that
+contained “Abbreviation” as one of the causes of error were
+The Impact of 
+Abbreviations on 
+Patient Safety
+USP Medication Safety Forum
+Luigi Brunetti, Pharm.D. 
+John P. Santell, M.S., R.Ph.
+Rodney W. Hicks, Ph.D., A.R.N.P.
+Department Editor: James G. Stevenson, Pharm.D., College of Pharmacy,
+University of Michigan, and University of Michigan Hospitals. This depart-
+ment features medication error issues based on data collected by the
+United States Pharmacopeia (USP). 
+Copyright 2007 Joint Commission on Accreditation of Healthcare Organizations
+577
+September 2007      Volume 33 Number 9
+The Joint Commission Journal on Quality and Patient Safety
+identified and exported to a worksheet format. Machine
+reading of the records was done using keywords (from the
+“Do Not Use” list and previous USP publications12,13) in
+filter mode. Figure 1 (above) outlines the methodology of
+the study. The researchers also read any record that could
+not be machine read, looking for evidence of any abbrevi-
+ation that was involved in the errors. Any record that
+could not be associated with a particular abbreviation was
+discarded from the sample.  
+Each record that remained in the final data set was eval-
+uated, using the Index for Categorizing Medication
+Errors, for the node (or phase in the medication use
+process), the level of staff associated with making the error,
+and the type of error that resulted. When records were
+assessed for the types of error involved in the event, the
+number of times a type of error was selected rather than
+the number of records containing that error type was used
+for calculations because each error record may have con-
+tained more than one type of error. Errors were also exam-
+ined by discipline (medicine, pharmacy, or nursing)
+involved in the event. All data were analyzed using
+descriptive statistics.
+Findings 
+SAMPLE
+From 2004 through 2006 a total of 643,151 medication
+errors were reported to the MEDMARX program from
+682 facilities. Of these errors, 29,974 (4.7%) were attrib-
+utable to abbreviation use.  Through machine and staff
+reading, records were grouped into themes or discarded.
+Approximately 39.4% (n = 11,821) of the abbreviation
+errors were excluded due to lack of information provided
+from the reporter in the error description to allow classifi-
+cation of the abbreviation. The final sample size consisted
+of 18,153 medication error reports. These reports were
+distributed into the appropriate recurring themes, here-
+after referred to as abbreviation groups. 
+The primary variables measured included (1) volume or
+Figure 1. The study’s methodology is outlined.
+Methodology
+* Data pool based on available data.
+† Node for category A reports not recorded since these events were not errors, but had the potential to cause error. 
+‡ Based on reporter selection; each abbreviation may have resulted in more than one error type. 
+Copyright 2007 Joint Commission on Accreditation of Healthcare Organizations
+September 2007      Volume 33 Number 9
+The Joint Commission Journal on Quality and Patient Safety
+distribution of reports in each abbreviation group, (2) the
+error outcome using the NCC MERP Index, (3) node where
+error originated, (4) staff involved, and (5) type of error. 
+ABBREVIATION GROUPS
+The frequency of abbreviation groups involved in med-
+ication errors is summarized in Table 2 (page 579). The
+most common abbreviation resulting in a medication error
+was the use of “QD” in place of “once daily,” accounting
+for 43.1% of all errors, followed by “U” for units (13.1%),
+“cc” for “mL” (12.6%), “MSO4” or “MS” for “morphine
+sulfate” (9.7%), and decimal errors (3.7%). Drug name
+abbreviations other than MSO4 (morphine sulfate) or
+MgSO4 (magnesium sulfate) were represented by the
+abbreviation group “drug name.” Abbreviations for drug
+names using the stem (for example, nitro = nitroglycerin)
+were placed in the abbreviation group “stem.”
+ERROR OUTCOME
+The majority of errors were associated with an NCC
+MERP categorization of A, B, or C (28%, 67.2%, and
+3.8%, respectively). Using the sample size available for
+evaluation as the denominator (n = 18,153); 0.3% of
+errors resulted in patient harm (NCC MERP Categories E
+through I). The most common abbreviations resulting in
+patient harm are summarized in Table 3 (page 580).
+NODE WHERE ERROR ORIGINATED
+Eighty-one percent of the errors occurred at the pre-
+scribing node of the medication process, while errors
+occurring at the transcribing and dispensing nodes
+occurred with much less frequency, representing only 14%
+and 2.9% of errors, respectively. Administration, monitor-
+ing, and procurement combined represented less than 2%
+of errors.  
+STAFF INVOLVED
+Abbreviation errors originated more often from 
+medical staff (78.5%) in comparison to nursing (15.1%),
+pharmacy (4.2%), other health care providers (1.3%), 
+and non–health care providers (0.9%). As shown in Table
+4 (page 581), the abbreviations with the greatest incidence
+differed among staff. For example, the top abbreviation
+errors among medical staff were “sc” (90.4%; 319/353
+occurrences), “HS” (87.8%; 424/483), and “cc” (83.7%;
+1705/2036), while the top abbreviations among nursing
+staff were “IU” (46.2%; 6/13), “stem”drug names,
+(29.4%; 5/17 incidents), and “TID” (27.8%; 20/72). The
+use of “BID” (21.2%; 35/165), “µg” (20.9%; 14/67
+occurrences), and “d/c” (20.3%; 25/123) were identified
+as the abbreviation errors with the greatest incidence with-
+in the pharmacy staff. 
+578
+Table 1. The Joint Commission’s “Do Not Use” Abbreviation List*
+Do Not Use
+Potential Problem
+Use Instead
+U (unit)
+Mistaken for “0” (zero), the
+Write “unit”
+number “4” (four), or “cc”
+IU (International Unit)
+Mistaken for “IV” (intravenous)
+Write “International Unit”
+or the number “10” (ten)
+Q.D., QD, q.d., qd (daily)
+Mistaken for each other;
+Write “daily”
+Q.O.D., QOD, q.o.d., qod
+period after the “Q” mistaken for
+Write “every other day”
+(every other day)
+“I” and the “O” mistaken for “I”
+Trailing zero (X.0 mg)†
+Decimal point is missed
+Write “X mg”
+Lack of leading zero (.X mg)
+Write “0.X mg”
+MS
+Can mean morphine sulfate
+Write “morphine sulfate”
+MSO4 and MgSO4
+or magnesium sulfate; 
+Write “magnesium sulfate”
+confused for one another
+* Applies to all orders and all medication-related documentation that is handwritten (including free-text computer entry) or on preprinted forms.
+† Exception: A “trailing zero” may be used only where required to demonstrate the level of precision of the value being reported, such as for labo-
+ratory results, imaging studies that report size of lesions, or catheter/tube sizes. It may not be used in medication orders or other medication-relat-
+ed documentation.
+Copyright 2007 Joint Commission on Accreditation of Healthcare Organizations
+579
+September 2007      Volume 33 Number 9
+The Joint Commission Journal on Quality and Patient Safety
+TYPES OF ERROR
+Errors involving abbreviations were also examined by
+the types of error associated with the event. A total of
+19,048 error type selections were reported in 18,153
+records and sorted to their respective abbreviation groups.
+Overall, the three most common types of error resulting
+from abbreviation use were prescribing (67.5%), improp-
+er dose/quantity (20.7%), and incorrectly prepared med-
+ication (3.9%). When evaluating the frequency of types of
+error by the five most frequently reported abbreviations
+(QD, u, cc, MSO4 or MS, and decimal—the inappropri-
+ate use of leading or trailing zeros), the error-type inci-
+dence was very similar, with prescribing (68.8%) as the
+most common type of error, followed by improper
+dose/quantity (21.9%) and incorrectly prepared medica-
+tion (3.5%). Furthermore, if the top five abbreviations
+were removed from the data pool (decreasing the data pool
+to n = 3474), the incidence of error type would still be
+greatest among prescribing (61.8%) and improper dose
+quantity (15.4%).
+Abbreviations and
+Miscommunication: Case Examples 
+CASE 1
+A 62-year-old patient on hemodialysis was treated for a
+viral infection with acyclovir. The order for acyclovir was
+written as “acyclovir (unknown dose) with HD.” The order
+was misinterpreted as TID (three times daily). Intravenous
+acyclovir should be adjusted for renal impairment and
+given after hemodialysis once daily. The patient received
+three doses daily during a two-day period, resulting in a
+rapid mental decline, delirium, and subsequent death.
+CASE 2
+A hydromorphone epidural was prescribed for a patient
+and written as “2 µg/mL.” The pharmacist incorrectly
+entered the order as “500 mg in 250 mL” and prepared
+and labeled the medication as “2 mg/mL.” The error was
+perpetuated when the nurse incorrectly interpreted the
+labeled medication and administered a 1,000-fold dose
+variance. The patient developed marked respiratory
+depression requiring intubation and mechanical ventila-
+tion, in addition to compromised cardiac function requir-
+ing chest compressions and pharmacological intervention.
+The epidural was removed and naloxone was administered
+as a continuous infusion to antagonize the effects.
+CASE 3
+A 53-year old male patient whose chief complaint was
+mid-sternal chest pain was evaluated by a cardiologist. On
+evaluation the physician believed that the pain was not
+cardiac in nature, but rather of gastrointestinal origin. An
+order for “MDX/GI” cocktail was written. Pharmacy pre-
+pared the compound, which is composed of Mylanta®
+(aluminum hydroxide, magnesium hydroxide, and sime-
+thicone), diclomine, and Xylocaine® (lidocaine). On
+administration, the patient experienced difficulty breath-
+ing, followed by respiratory distress. A code was called and
+Error
+Abbreviation Group
+Number Error %
+QD = once daily
+7,827
+43.1%
+U = units
+2,378
+13.1%
+cc = mL
+2,281
+12.6%
+MSO4, MS = morphine sulfate
+1,768
+9.7%
+decimal error (i.e., X.0 mg or .X mg)
+666
+3.7%
+HS = at bedtime
+541
+3%
+MgSO4, Mag, Mg = magnesium sulfate 459
+2.5%
+sc or sq = subcutaneous
+375
+2.1%
+QOD = every other day
+305
+1.7%
+1/2
+277
+1.5%
+x d (i.e., x 3 d; days or doses?)
+216
+1.2%
+QID = four times daily
+211
+1.2%
+d/c or dc (discharge or discontinue?)
+200
+1.1%
+BID = twice daily
+180
+1%
+Drug name (i.e., HCTZ, T3, ARA-C)
+153
+0.8%
+μg = mcg
+84
+0.5%
+< or >
+84
+0.5%
+TID = three times daily
+78
+0.4%
+Stem (i.e., “nitro,” “IV vanc”)
+29
+0.2%
+IU = international units
+24
+0.1%
+os, od, ou = left eye, right eye, 
+or both eyes
+16
+0.1%
+* Based on percentage of 18,153 reports.
+Table 2. Frequency of Selected Abbreviations
+Associated with Errors*
+Copyright 2007 Joint Commission on Accreditation of Healthcare Organizations
+580
+September 2007      Volume 33 Number 9
+The Joint Commission Journal on Quality and Patient Safety
+administration of epinephrine resolved symptoms. The
+patient had a well-documented allergy history to lido-
+caine. Both nursing staff and physician were unaware that
+MDX/GI cocktail contained lidocaine.
+Discussion
+Medication errors are often associated with illegible hand-
+writing of orders, which often include abbreviations. With
+the increased adoption of information technology, the use
+of abbreviations in drug data libraries and computer-entry
+screens will continue to pose a threat to patient safety. The
+results of this study provide further evidence that abbrevi-
+ation use remains prevalent and can result in patient harm
+despite the introduction of the National Patient Safety
+Goal to improve communication and restrict the use of
+abbreviations. Few studies have quantified the extent of
+such errors in terms of volume or error severity. Since the
+adoption of The Joint Commission list of prohibited
+abbreviations, it appears that awareness has led to
+increased reporting of medication errors stemming from
+abbreviation use. In addition, the reporting of abbrevia-
+tions as a cause of medication errors before the introduc-
+tion of the Joint Commission National Patient Safety
+Goals in 2002 represented 1% of all reported medication
+errors, compared with an average of 4.5% since (2003-
+2006).14 Continued reporting of errors associated with
+abbreviations is critical in the identification of error-prone
+practices and the improvement of patient safety.
+Although the incidence of patient harm is low, any inci-
+dence which can be avoided is a target toward which
+everyone should strive. A simple risk-versus-benefit analy-
+sis of abbreviation use versus prohibition will reveal that
+whereas using abbreviations may
+save minutes, prohibiting abbrevia-
+tions may save lives. 
+Abbreviation errors originated
+at the prescribing node more often
+than all other nodes combined.
+One may argue that errors origi-
+nating at this node are less prob-
+lematic because the pathway
+between prescribing and patient
+receipt of the order is designed to
+intercept errors; however, they do
+present unnecessary risk. Funda-
+mentally, removal of the originating causes of the error
+(that is, abbreviations) is more sensible than relying on
+quality control measures to intercept the error before it
+reaches the patient.
+A study performed by Bates et al.15 revealed that
+approximately 30% of all handwritten prescriptions
+required clarification and correction by a pharmacist to
+prevent an error. Pharmacy and nursing are often charged
+with contacting the prescriber when abbreviations con-
+found orders. This often causes conflict between the
+health care professions, further deteriorating communica-
+tion. Potential solutions to this dilemma include engage-
+ment of medical staff leadership, accountability for
+habitual offenders, rewards for nonusage, and education.  
+The identification of which staff members contribute
+to the medication errors associated with individual abbre-
+viations highlights areas for further staff development.
+Education targeted at illustrating the dangers of abbrevia-
+tion use is essential. If data and illustrative case reports
+(perhaps organization-specific) are presented, awareness of
+the perils of abbreviation use will be heightened.
+Identifying by discipline the most common abbreviations
+that resulted in errors may be of value for designing inter-
+ventions aimed at various health professionals. For exam-
+ple, physician education initiatives should include limiting
+the use of “sc,” “hs,” and “cc”—the most common infrac-
+tions. A similar approach may be taken for pharmacy and
+nursing.  
+Education is often not enough; enforcement is required
+to ensure that abbreviations are not used.16 This may be
+done by holding health care professionals accountable for
+infractions. Medical staff leadership must be engaged to
+Abbreviation 
+Total
+Category
+Group
+Errors
+E
+F
+G
+H
+I
+Totals
+Percentage
+U
+2,378
+28
+1
+0
+1
+0
+30
+1.26%
+Drug name
+152
+2
+1
+0
+0
+0
+3
+1.97%
+Stem
+31
+0
+0
+0
+2
+0
+2
+6.45%
+TID
+78
+0
+0
+0
+0
+1
+1
+1.28%
+mcg
+84
+0
+0
+0
+1
+0
+1
+1.19%
+Totals
+2,723
+30
+2
+0
+4
+1
+37*
+1.36%
+* The top 5 abbreviations associated with patient harm account for 69% (37 of 54) of all errors
+resulting in patient harm. 
+Table 3. Top Five Abbreviation Groups Associated with Patient Harm*
+Copyright 2007 Joint Commission on Accreditation of Healthcare Organizations
+581
+September 2007      Volume 33 Number 9
+The Joint Commission Journal on Quality and Patient Safety
+exert peer pressure and support for the policy. Likewise, an
+endorsement from the pharmacy and therapeutics com-
+mittee may also be a good source for awareness and
+enforcement policy for pharmacy departments. Senior
+nursing leaders share a similar responsibility for eliminat-
+ing the use of inappropriate abbreviations by nursing staff.
+Peer-initiated programs tend to have better staff accept-
+ance. Therefore, the identification of key leadership figures
+respective to each discipline responsible for implementing
+peer accountability is a crucial element for success.
+Several negative outcomes may develop as a result of
+lapses in communication originating from commonly
+used, error-prone abbreviations. For example, prescribing
+errors have the propensity to be perpetuated and result in
+patient harm when abbreviated drug names are confused
+with other products, scheduling instructions are unclear,
+or units of measure are ambiguous. Improper dosages that
+are excessive may lead to medication toxicity. Conversely,
+improper dosages that underdose may lead to subthera-
+peutic drug levels, which could contribute to increased
+hospital stays, treatment failures, and in the case of antibi-
+otics, drug resistance. Improper medication preparation
+results in unnecessary drug expenditure and waste, in
+addition to potentially exposing patients to unnecessary
+pharmacologic agents.
+Limitations
+Several limitations were evident during analysis of the
+Total Errors 
+Staff
+Abbreviation Group
+Reported†
+Medicine (%)‡ Pharmacy (%)‡ Nursing (%)‡ Other HCP (%)‡ Non-HCP (%)‡
+QD = once daily
+5,493
+4,469 (81.4)
+171 (3.1)
+750 (13.7)
+71 (1.3)
+32 (0.6)
+cc = mL
+2,036
+1,705 (83.7)
+43 (2.1)
+271 (13.3)
+5 (0.2)
+12 (0.6)
+U = units
+1,606
+1,176 (73.2)
+58 (3.6)
+323 (20.1)
+35 (2.2)
+14 (0.9)
+MSO4, MS = morphine sulfate
+1,044
+752 (72)
+38 (3.6)
+235 (22.5)
+14 (1.3)
+5 (0.5)
+HS = at bedtime
+483
+424 (87.8)
+23 (4.8)
+25 (5.2)
+5 (1)
+6 (1.2)
+decimal error (i.e., X.0 mg or .X mg)
+480
+376 (78.3)
+13 (2.7)
+74 (15.4)
+3 (0.6)
+14 (2.9)
+sc or sq = subcutaneous
+353
+319 (90.4)
+7 (2)
+25 (7.1)
+0 (0)
+2 (0.6)
+MgSO4, Mag, Mg = 
+magnesium sulfate
+243
+186 (76.5)
+4 (1.6)
+50 (20.6)
+2 (0.8)
+1 (0.4)
+½
+225
+150 (66.7)
+30 (13.3)
+32 (14.2)
+11 (4.9)
+2 (0.9)
+QOD =  every other day
+188
+118 (62.8)
+24 (12.8)
+34 (18.1)
+7 (3.7)
+5 (2.7)
+BID = twice daily
+165
+106 (64.2)
+35 (21.2)
+12 (7.3)
+7 (4.2)
+5 (3)
+x d (i.e., x 3 d; days or doses?)
+149
+110 (73.8)
+8 (5.4)
+25 (16.8)
+4 (2.7)
+2 (1.3)
+d/c or dc (discharge or discontinue?)
+123
+69 (56.1)
+25 (20.3)
+24 (19.5)
+1 (0.8)
+4 (3.3)
+QID = four times daily
+119
+90 (75.6)
+12 (10.1)
+11 (9.2)
+3 (2.5)
+3 (2.5)
+Drug name (i.e., HCTZ, T3, ARA-C)
+109
+74 (67.9)
+9 (8.3)
+21 (19.3)
+3 (2.8)
+2 (1.8)
+TID = three times daily
+72
+34 (47.2)
+14 (19.4)
+20 (27.8)
+2 (2.8)
+2 (2.8)
+μg = mcg
+67
+33 (49.3)
+14 (20.9)
+18 (26.9)
+1 (1.5)
+1 (1.5)
+< or >
+64
+38 (59.4)
+12 (18.8)
+14 (21.9)
+0 (0)
+0 (0)
+Stem (i.e., “nitro,” “IV vanc”)
+17
+10 (58.8)
+2 (11.8)
+5 (29.4)
+0 (0)
+0 (0)
+os, od, ou = left eye, right eye, 
+or both eyes
+15
+9 (60)
+3 (20)
+2 (13.3)
+0 (0)
+1 (6.7)
+IU = international units
+13
+7 (53.8)
+0 (0)
+6 (46.2)
+0 (0)
+0 (0)
+Totals
+13,064
+10,255 (78.5)
+545 (4.2)
+1,977(15.1)
+174 (1.3)
+113 (0.9)
+* HCP, health care provider.
+† Totals based only on reports identifying staff implicated in abbreviation error.
+‡ Percentages of errors by staff within each abbreviation group.
+Table 4. Staff Involved with Various Abbreviation Groups*
+Copyright 2007 Joint Commission on Accreditation of Healthcare Organizations
+582
+September 2007      Volume 33 Number 9
+The Joint Commission Journal on Quality and Patient Safety
+data. Reporter bias or inexperience may have contributed
+to conservative categorization of errors. This was seen par-
+ticularly in the “U,” “MSO4,” and “MgSO4” groups
+because reporters tended to be more conservative in
+assigning the error to an NCC MERP Index category.
+Furthermore, reporting may be biased to find only those
+errors that are associated with abbreviations from The
+Joint Commission’s “Do Not Use” abbreviation list, result-
+ing in a higher ranking for those abbreviations than oth-
+ers. In addition, the incidence of patient harm associated
+with abbreviation use was based on a small sample size in
+several of the top five abbreviations associated with patient
+harm. Another limitation, which is discussed in greater
+depth in the Conclusion and Recommendations, is the
+large number of records (39.4%) excluded because of the
+lack of error description and subsequent identification of
+the error causing abbreviation. This decreased the viable
+sample size and thus eliminated records with the potential
+to identify additional error-prone abbreviations or to
+strengthen data supporting prohibition of error-prone
+abbreviations.
+Conclusion and Recommendations
+Nearly 5% of all errors reported to MEDMARX from
+2004 through 2006 were attributable to abbreviations.
+Armed with the understanding that communication is the
+leading cause of sentinel events and that abbreviation use
+hinders communication, limiting abbreviation use im-
+proves patient safety and patient care. In addition, error-
+prone abbreviations are preventable and therefore are a
+logical area for improvement. Although the use of abbre-
+viations may be more time efficient, it comes at the
+expense of creating barriers to communication, which is
+detrimental to patient safety. This study provides further
+support to the “Do Not Use” list.
+This analysis of nearly 30,000 medication error reports
+involving abbreviations suggests that health care organiza-
+tions should examine other additions to the “Do Not Use”
+list. Some atypical abbreviations resulted in patient harm
+and are worthy of consideration for inclusion in facility-
+specific lists. Good candidates for incorporation into such
+lists include drug name abbreviations (for example, PCN,
+DCN, TCN), stem abbreviations (amps, nitro, succs), µg
+(mcg), cc (mL), and dose scheduling (BID, TID, QID).*
+As previously stated, 39.4% of the 29,794 errors in
+which abbreviations were identified as the cause of error
+could not be used in data analysis because of insufficient
+error descriptions, meaning that the exact abbreviation
+was unidentified. This is of concern because these data
+have the potential to benefit clinical practice through illus-
+tration of potential harm associated with these abbrevia-
+tions. When reporting medication errors, it is essential for
+the reporter to include the key points that adequately
+■Initiate a campaign to eradicate the use of abbrevia-
+tions in clinical practice; an interdisciplinary approach is
+essential.
+–Use “Dear Doctor” letters
+–Post prohibited abbreviation lists on hospital 
+identification badges, in patient charts, newsletters,
+an intranet site, computer screen savers, and
+announcement boards.
+–Use peer-initiated accountability.
+–Give rewards for non-usage.
+■Educate staff on the harmful effects of abbreviations.
+■Minimize the use of abbreviations; write out the drug
+name, schedule, unit of measure.
+–Prohibit use in patient charts, preprinted order
+forms, computer programs.
+■Clarify intent to avoid misinterpretation if abbreviations
+are found.
+■Introduce computerized physician order entry (CPOE)
+in a manner that minimizes the use of abbreviations.
+■Review all computer-entry software for potential 
+abbreviation issues.
+■Prohibit the use of abbreviations in all facility publica-
+tions (e.g., newsletters).
+■Include industry, organizational, educational, and 
+professional bodies in error-prone abbreviation aware-
+ness and avoidance, as the multifaceted nature of health
+care requires a global approach.
+Table 5. Recommendations for Improving
+Communications Through Minimization of
+Abbreviation Use
+* Drug name abbreviations, cc, and μg (mcg) are among the additional
+abbreviations, acronyms, and symbols suggested for possible future inclu-
+sion in the official “Do Not Use” List. The Joint Commission: Official “Do Not
+Use” List. http://www.jointcommission.org/NR/rdonlyres/2329F8F5-6EC5-
+4E21-B932-54B2B7D53F00/0/06_dnu_list.pdf (last accessed Jun. 11,
+2007).
+Copyright 2007 Joint Commission on Accreditation of Healthcare Organizations
+583
+September 2007      Volume 33 Number 9
+The Joint Commission Journal on Quality and Patient Safety
+describe the error—cause of the error, brief description of
+the cause (in the case of abbreviations, what abbreviation),
+the contributing factors, the outcome, staff involved, and
+the point in the medication process where the error
+occurred.
+Recommendations for improving communications
+through minimization of abbreviation use are provided in
+Table 5 (page 582). 
+References 
+1. Institute of Medicine: To Err Is Human: Building a Safer Health
+System. Washington, D.C.: National Academy Press, 2000.
+2. The Joint Commission: National Patient Safety Goal on abbrevia-
+tions clarified, implementation revised. Jt Comm Perspect 23:14–15,
+Dec. 2003.
+3. The Joint Commission: Facts about the 2007 National Patient Safety
+Goals. http://www.jointcommission.org/PatientSafety/NationalPatient
+SafetyGoals/ 07_npsg_facts.htm (accessed Jun. 11, 2007).
+4. 
+The 
+Joint 
+Commission: 
+Official 
+“Do 
+Not 
+Use” 
+List.
+http://www.jointcommission.org/NR/rdonlyres/2329F8F5-6EC5-
+4E21-B932-54B2B7D53F00/0/06_dnu_list.pdf (last accessed Jun. 11,
+2007).
+5. The Joint Commission: Facts about the Official “Do Not Use” List.
+http://www.jointcommission.org/PatientSafety/DoNotUseList/facts_dn
+u.htm?print=yes (accessed Jun. 11, 2007).
+6. The Joint Commission: National Patient Safety Goal Compliance
+Trends by Program, Hospital Accreditation Program (January 1, 2003–June
+30, 2006) http://www.jointcommission.org/NR/rdonlyres/
+1 8 4 4 0 6 E 5 - 0 6 4 6 - 4 D 5 A - A 8 4 4 - 3 D E 4 6 7 3 0 9 F 3 9 / 0 /
+03_06_NPSG_trends_Hap.pdf (last accessed Jun. 11, 2007).
+7. The Joint Commission:
+Root Cause of Sentinel Events.
+http://www.jointcommission.org/NR/rdonlyres/FA465646-5F5F-
+4543-AC8F-E8AF6571E372/0/root_cause_se.jpg (accessed Jun. 11,
+2007).
+8. Beyea S.C.: Best practices for abbreviation use. AORN J 79:641–642,
+Mar. 2004.     
+9. National Coordinating Council for Medication Error Reporting and
+Prevention 
+(NCC 
+MERP): 
+About 
+Medication 
+Errors.
+http://www.nccmerp.org/medErrorCatIndex.html (last accessed Jun.
+11, 2007).  
+10. Santell J.P.: Medication errors: Experience of the United States
+Pharmacopeia (USP). Jt Comm J Qual Patient Saf 31:114–119, 61, Feb.
+2005.
+11. Forrey R.A., Pedersen C.A., Schneider P.J.: Interrater agreement
+with a standard scheme for classifying medication errors. Am J Health
+Syst Pharm 64:175–181, Jan. 15, 2007.
+12. United States Pharmacopeia: USP Quality Review. Pub. No. 80.
+Rockville, MD: United States Pharmacopeia: Center for the
+Advancement of Patient Safety, Jul. 2004.  
+13. United States Pharmacopeia: Practitioners’ Reporting News:
+Abbreviation Errors,
+Jun. 30, 2005. http://www.usp.org/hqi/
+practitionerprograms/newsletters/practitionerReportingNews/prn1262
+005-06-30.html (last accessed Apr,. 4, 2007). 
+14. United States Pharmacopeia: Data on file.
+15. Bates D.W., et al.: Incidence of adverse drug events and potential
+adverse drug events: Implications for prevention. ADE Prevention Study
+Group. JAMA 274:29–34, Jul. 5, 1995.
+16. Traynor K.: Enforcement outdoes education at eliminating unsafe
+abbreviations. Am J Health Syst Pharm 61:1314,1317, 1322, Jul. 1,
+2004. 
+J
+Luigi Brunetti, Pharm.D., formerly Specialty Resident
+in Drug Information, Drug Information Service, Ernest
+Mario School of Pharmacy, Rutgers, the State
+University of New Jersey, and Robert Wood Johnson
+University Hospital, New Brunswick, New Jersey, is a
+Clinical Assistant Professor, Ernest Mario School of
+Pharmacy. John P. Santell, M.S., R.Ph., is Director of
+Practitioner Programs and Services, Department of
+Healthcare Quality and Information, United States
+Pharmacopeia, Rockville, Maryland. Rodney W.
+Hicks, Ph.D., A.R.N.P., is Manager, Patient Safety
+Research. Please send reprint requests to Luigi
+Brunetti, brunetti@rci.rutgers.edu. 
+Copyright 2007 Joint Commission on Accreditation of Healthcare Organizations

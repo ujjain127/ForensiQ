@@ -1,0 +1,838 @@
+T R A N S F U S I O N C O M P L I C A T I O N S
+Experience with universal bacterial culturing
+to detect contamination of apheresis platelet
+units in a hospital transfusion service
+James P. AuBuchon, Linda K. Cooper, Miriam F. Leach, Deborah E. Zuaro, and
+Joseph D. Schwartzman
+BACKGROUND: Bacterial contamination of platelet
+units poses one of the greatest risks of morbidity and
+mortality to platelet transfusion recipients. A routine cul-
+ture of all units (WBC-reduced apheresis platelet units)
+was instituted on Day 2 over a 2-year period to reduce
+this risk.
+STUDY DESIGN AND METHODS: A sterile connecting
+device was used to attach a small transfer pack on the
+morning of Day 2 after collection, and 10 mL of the unit
+were transferred to the small bag. After disconnection
+from the unit, about half of this volume was transferred
+to an aerobic culture bottle of an automated bacterial
+detection system. Units were maintained in available
+inventory until and unless a report was received of
+growth in the sample. When available, the unit or a re-
+tained aliquot was recultured if the initial sample was
+positive. Units were held up to 2 days beyond their
+5-day outdate and used for transfusion if no other suit-
+able units were available to meet the clinical need or
+were evaluated with in vitro testing on Day 8.
+RESULTS: Of 2678 units cultured, 16 (0.6%) were posi-
+tive on initial culture. Thirteen could be recultured, and
+all of these samples were negative. Shortly after the
+2-year period of the study, two units (split from the
+same collection) were documented as growing coagu-
+lase-negative Staphylococci 12 hours after sampling.
+Units transfused on Day 6 or 7 (n = 40) yielded ex-
+pected clinical responses, and CCI available on 21 re-
+cipients 10 to 60 minutes after transfusion demonstrated
+acceptable results (mean, 14,400 ± 8800; median,
+12,191; 90% > 7500). More than 96 percent of units
+tested on Day 8 had pH greater than 6.2 and continued
+to demonstrate swirling.
+CONCLUSIONS: Routine culturing of apheresis platelet
+units is feasible, can be accomplished with a low rate of
+false positivity, and can detect contaminated units. The
+cost of such a protocol could be mitigated with exten-
+sion of the storage period, and clinical experience with
+units held for 6 or 7 days was satisfactory.
+B
+acterial contamination poses one of the great-
+est risks of morbidity and mortality faced by the
+recipients of platelet transfusions. Approxi-
+mately 1 in 22,000 to 1 in 3000 units of platelets
+are contaminated with bacteria originating from the do-
+nor’s skin or bloodstream.1,2 Although only a portion of
+these result in clinically recognized post transfusion sep-
+tic events and not all of these are fatal, careful follow-up
+of platelet transfusion recipients in France has docu-
+mented that the death rate from bacterially contaminated
+units is seven per million apheresis units transfused, or 1
+in 140,000.3 In the United States, longitudinal study of
+platelet transfusion recipients in one institution has
+documented the risk of sepsis after receipt of apheresis
+platelets as 75 per million (1/13,000) and 402 per million
+(1/2500) after whole blood-derived platelet units; the
+risks of fatality were documented as 14 per million
+(1/71,000) and 62 per million (1/16,000), respectively, for
+these two platelet sources.4 These risks exceed those of
+HIV and HCV transmission by more than an order of
+magnitude.5,6
+Various approaches have been suggested to reduce
+the chance of bacteria being collected with the unit or to
+detect their presence. Augmented skin cleansing prepa-
+rations and diversion of the first milliliters of blood may
+reduce by 75 to 90 percent the risk of skin commensal
+bacteria entering the unit.7-9 Consumption of glucose by
+contaminating bacteria may be detected directly or
+through changes in pH that then may also be reflected as
+From the Department of Pathology, Dartmouth-Hitchcock
+Medical Center, Lebanon, New Hampshire.
+Address reprint requests to: James P. AuBuchon, MD, Pro-
+fessor of Pathology and Medicine, Dartmouth-Hitchcock Medi-
+cal Center, One Medical Center Drive, Lebanon, New Hamp-
+shire 03756; e-mail: james.p.aubuchon@hitchcock.org.
+Received for publication December 4, 2001; revision re-
+ceived March 10, 2002, and accepted March 11, 2002.
+TRANSFUSION 2002;42:855-861.
+Volume 42, July 2002
+TRANSFUSION
+855
+loss of swirling.10-14 The sensitivity of these techniques
+appears suboptimal, although averaging 75 percent, and
+a large, potentially fatal, inoculum (in excess of 106 CFU/
+mL) must be present before the necessary change can be
+detected. Similarly, microscopic examination of a smear
+from the unit shortly before transfusion, using either
+gram staining or a fluorescent stain, such as acridine or-
+ange, have sensitivities in the range of 105 to 106 CFU per
+mL with a substantial false-positive rate.15,16 A variety of
+methods to detect bacteria in platelet units are under
+development by commercial manufacturers.
+In bacteriology, culture is regarded as the “gold stan-
+dard” for sterility testing. This approach poses challenges
+in transfusion medicine, however, because the initial in-
+oculum may be so low (often projected at 0.1-10 CFU/
+mL) that detection by culture would require culturing so
+large a portion of the unit that its therapeutic effective-
+ness would be diminished significantly. Furthermore,
+blood banks and transfusion service laboratories do not
+culture units routinely and may lack automated equip-
+ment that facilitates large-scale culturing. The inevitable
+time lag between obtaining the culture and detecting
+growth further complicates the management of platelet
+units because of their short shelf life.
+To reduce the substantial threat posed by bacterial
+contamination of platelet units, we began culturing all
+apheresis platelet units in May 1999. Our approach was
+modeled after techniques implemented successfully in
+several European blood centers17-20 and was also based
+on observations in our laboratory and elsewhere that a
+small volume cultured on Day 2 after spiking bacteria
+into a platelet unit would consistently contain bacteria
+despite a low initial inoculum.12,21 By retaining units be-
+yond their usual 5-day outdate, we accumulated data
+augmenting that obtained in a formal clinical trial of ex-
+tended platelet storage.22 Furthermore, transfusion of
+platelet units on Day 6 or 7 of storage, when in-dated
+units were unavailable to meet pressing clinical needs,
+demonstrated the clinical utility of platelets stored up to
+7 days. This manuscript reports the first 2 years of our
+experience of routine culture of platelet units.
+MATERIALS AND METHODS
+Procedure for sampling and culturing
+All units of platelets entering the transfusible inventory
+but not issued before the morning of Day 2 were cultured.
+All of these were WBC-reduced apheresis platelet units.
+Approximately 90 percent were collected on-site; ap-
+proximately 75 percent of these were collected using a
+cell separator (Spectra LRS Turbo, Gambro BCT, Lake-
+wood, CO), and the remainder were collected using an-
+other cell separator (MCS+, Haemonetics, Braintree, MA).
+The standard procedure for donor arm preparation be-
+fore on-site collection included an iodophor and polyvi-
+nyl pyrolidone scrub (0.75% iodine) for 30 seconds fol-
+lowed by application and drying of a povidone iodine
+solution (1% iodine). Units were held at 22 to 24C on a
+flat-bed rotator in a monitored environment throughout
+storage. Initially, units were discarded after reaching the
+end of their usual 5-day dating period. Beginning ap-
+proximately 6 months into the protocol, units were held
+in quarantine after reaching midnight of Day 5 until they
+were transfused or until the morning of Day 8 (when
+subjected to in vitro analyses). All units were subjected to
+visual examination before transfusion to ensure the
+maintenance of swirling.
+On the morning of Day 2 after collection, or, for units
+collected by an external supplier, on receipt of the unit,
+the unit was cultured in the transfusion service labora-
+tory. The unit was mixed well by hand, and all of it was
+transferred to a single bag (if the contents were being
+stored between two bags). A 150-mL transfer pack (Fen-
+wal, Baxter, Round Lake, IL) was attached by use of a
+sterile connecting device (SCD312, Terumo, Elkton, MD),
+and 5 to 10 grams (10 mL) of the unit were transferred to
+the transfer pack. Following separation of the transfer
+pack by heat sealing, a sampling site coupler was inserted
+into the sample bag, the septum of the needle access was
+swabbed with an alcohol swab, and a 5- to 9-mL sample
+was withdrawn from the transfer pack into a syringe us-
+ing a 16- or 20-gauge needle. The cap of an aerobic blood
+culture bottle (FA, bioMerieux, Durham, NC) was re-
+moved and swabbed with a fresh alcohol swab. The con-
+tents of the syringe were then transferred to the bottle
+using the same needle used for sample aspiration. (This
+bottle is intended to receive this volume [5-9 mL] of
+blood for patient blood cultures.) The bottle was
+promptly delivered to the Microbiology Laboratory (De-
+partment of Pathology, Dartmouth-Hitchcock Medical
+Center, Lebanon, NH) and incubated in an automated
+bacterial detection system (BacT/Alert, bioMerieux) at 35
+to 37C for up to 5 days or until growth was detected by
+the system. If a report of growth was received while the
+unit remained in inventory, the unit was immediately
+quarantined and the unit recultured. If no report of
+growth had been received by the time the unit was re-
+leased for transfusion, approximately 5 mL were retained
+in one of the two platelet storage bags of the unit to allow
+reculture in case of a later report of growth from the Day
+2 sampling. (This retention aliquot was added to the pro-
+tocol approximately 6 months into the trial. We believed
+this would help assess the specificity of the protocol.) The
+organisms detected in positive cultures of platelet units
+were identified using standard microbiologic techniques.
+Our hypothesis was that growth of any bacteria
+would be detected in the automated bacterial detection
+system before they reached a clinically critical inoculum
+in the unit. This was based on knowledge of growth
+curves in platelet packs (80th percentile of detection, 48
+AUBUCHON ET AL.
+856
+TRANSFUSION
+Volume 42, July 2002
+hr)21,23 and that the platelet units were being held at a
+temperature lower than the culture bottles. Therefore,
+units were made available for transfusion at any time
+they were needed clinically following labeling (usually on
+Day 1).
+Transfusion experience
+In-date platelet units meeting all standard criteria for re-
+lease were issued to patients as needed. Culture results
+were not sought before release of units. On occasion, the
+inventory of suitable platelet units became depleted and
+could not be replenished from either internal or external
+sources (3 hr distant) before a definable clinical need for
+transfusion. In such circumstances, the pathologist cov-
+ering the transfusion service was contacted and, if clini-
+cally appropriate, specifically authorized the issuance of
+a Day-6 or Day-7 unit that continued to have no detect-
+able bacterial growth in the automated bacterial detec-
+tion system and if swirling was evident.
+The platelet transfusion routine in this institution in-
+cludes determination of a CCI 1 hour (10-60 min) after
+transfusion to assess posttransfusion recovery whenever
+possible.24,25 The CCI was calculated according to a stan-
+dard formula using the following approximation of body
+surface area: body surface area (in cm2) = (body mass in
+kg)0.425  (height in cm)0.725  71.84.26 In addition, the
+patient’s response to each transfusion using platelets
+stored for 6 or 7 days was assessed.
+In vitro analyses
+Platelet units that remained available on the morning of
+Day 8 (approx., 10-12 hr after passing midnight on Day 7
+after collection) were examined by a trained, experienced
+laboratory staff member to assess qualitatively the pres-
+ence or absence of swirling. A sample was taken for de-
+termination of pH measured at 37C (Model 855, Bayer,
+Norwood, MA).
+RESULTS
+During the first 24 months of this protocol, 2678 units of
+WBC-reduced apheresis platelets were cultured. Of these,
+16 (0.6%) grew bacteria (Table 1). Aliquots or the units
+themselves were available to reculture in 13 cases. All of
+these repeat cultures were negative despite the repeat
+cultures occurring a day or more after the initial culture
+(i.e., after additional time for any contaminating bacteria
+to proliferate). Five of the units had been transfused be-
+fore detection of bacterial growth in the initial samples.
+The patients’ physicians were notified, and blood cul-
+tures were collected from the patients, all of which were
+negative. The patients had no unusual symptomatology
+associated with these transfusions as determined by
+chart review and interviews. Aliquots had been reserved
+and remained available for reculture in three of these
+cases; all of these follow-up cultures were negative.
+Incidents of bacterial growth appeared to cluster
+around the introduction of new laboratory personnel to
+the culturing protocol. Despite careful training of staff
+before beginning to perform the steps of the protocol,
+documentation of competency in its techniques, and ad-
+herence to a written standard operating procedure, con-
+taminated samples in the first week or two of new staff
+taking responsibility for this aspect of laboratory opera-
+tions were not uncommon. Additional training resulted
+in a reduction of aliquots contaminated in the process of
+sample collection.
+TABLE 1. Results of bacterial cultures
+Case
+number
+Time to
+detection (hr)
+Bacterium identified
+Unit
+disposition
+Results of aliquot reculture
+During the 2-year study
+1
+10.0
+Coagulase-negative Staphylococci
+Quarantine
+Negative
+2
+12.0
+Bacillus sp.
+Quarantine
+Negative
+3
+21.5
+Bacillus sp.
+Quarantine
+NT
+4
+51.0
+Coagulase-negative Staphylococci
+Transfused
+NT
+5
+25.5
+Coagulase-negative Staphylococci
+Transfused
+NT
+6
+24.0
+Coagulase-negative Staphylococci
+Quarantine
+Negative
+7
+58.0
+Bacillus sp.
+Quarantine
+Negative
+8
+39.0
+Coagulase-negative Staphylococci
+Quarantine
+Negative
+9
+30.0
+Bacillus sp.
+Quarantine
+Negative
+10
+69.0
+Bacillus sp.
+Transfused
+Negative
+11
+32.7
+Bacillus sp.
+Quarantine
+Negative
+12
+12.2
+Bacillus sp.
+Quarantine
+Negative
+13
+11.0
+Bacillus sp.
+Quarantine
+Negative
+14
+27.0
+Coagulase-negative Staphylococci
+Transfused
+Negative
+15
+30.8
+Coagulase-negative Staphylococci
+Quarantine
+Negative
+16
+25.7
+Coagulase-negative Staphylococci
+Transfused
+Negative
+After the 2-year study
+17A
+12.0
+Coagulase-negative Staphylococci
+Quarantine
+Positive*
+17B
+12.0
+Coagulase-negative Staphylococci
+Quarantine
+NT
+*
+Bacterium identified as coagulase-negative Staphylococci.
+CULTURING OF APHERESIS PLATELET UNITS
+Volume 42, July 2002
+TRANSFUSION
+857
+The culturing protocol was continued after the
+2-year study period. In the subsequent 6 months, two
+units (split from the same apheresis collection by an ex-
+ternal supplier) grew coagulase-negative Staphylococci
+within 12 hours of culture on Day 2. Repeat culture of one
+of the units confirmed this finding.
+During the 2-year study period, six febrile transfu-
+sion reactions following platelet transfusions (0.2% of
+transfused units) were reported. In one case, a tempera-
+ture rise of 2C or more was noted, but neither blood
+culture of the patient nor repeat culture of a retained
+aliquot of the unit was positive. None of these cases had
+other clinical evidence suggestive of bacterial contami-
+nation as the cause of the fever following transfusion.
+Ninety-one units collected with the Spectra LRS were
+available for further testing on the morning of Day 8.
+Swirling was detected in 87 units (96%). The pH of these
+units was 6.86 ( 0.245) (measured at 37C) and was
+above 6.20 (6.30 at 22C) in 88 (97%). (One unit that had
+no detectable swirling had a pH > 6.20.) The highest pH
+recorded was 7.26 (7.47 at 22C). Fewer units collected on
+the MCS+ were available for study, but the results of ana-
+lyzing them on Day 8 were similar (data not shown).
+Because of periodic inventory shortages and the dis-
+tance to external suppliers, 40 transfusions using Spectra
+LRS units stored for 6 or 7 days were given to patients
+who required platelets without delay. All of these ap-
+peared to yield expected clinical results. In 21 of these
+transfusions, the patient’s clinical condition allowed
+evaluation of CCIs measured 10 to 60 minutes after trans-
+fusion. These Day-6- and Day-7-units yielded a CCI of
+14,400  8800 (median, 12,191); 90 percent of the CCIs
+were above 7500, and all but one was above 5000 (Fig. 1).
+DISCUSSION
+Our experience with routine culturing of platelet units
+demonstrates that this protocol is practical in an Ameri-
+can tertiary care medical center and can contribute to the
+improvement of transfusion recipient safety. Although no
+units could be confirmed to contain bacteria during the
+initial 2-year study period, the discovery of a bacterially
+contaminated collection shortly thereafter places the
+contamination rate we encountered at approximately 1
+per 3000 units, a rate commonly quoted in the litera-
+ture.27
+We interpret the first 16 occurences of initial culture
+positivity during the 2-year study period as most likely
+representing false-positive results, that is, introduction of
+bacteria that were not present in the unit during the sam-
+pling process. The 13 cases in which a reserved aliquot
+was culture-negative on subsequent culture reinforces
+this contention. The finding of the same bacterium in the
+two parts of a split “double” plateletpheresis collection
+shortly after the study period ended would appear to be
+a documented case of contamination occuring around
+the time of collection.
+Five units had been transfused by the time that bac-
+terial growth had been detected. None of the patients
+appeared to acquire an infection as a result of the trans-
+fusion, and reculture of the aliquots reserved from three
+of these units revealed no growth. These three units
+would appear not to have been contaminated. The true
+status of the two other units (without reserved aliquots
+available for reculturing) that were positive on initial cul-
+ture but already transfused without incident cannot be
+determined.
+The clinical risks associated with bacterially con-
+taminated platelet units presumably increase with the
+length of storage of the platelet unit and the additional
+time allowed for bacterial proliferation. After develop-
+ments in bag technology allowed the FDA to extend the
+storage period for platelets from 3 to 5 and ultimately 7
+days, the agency noted an increase in the number of re-
+ports of bacterially contaminated platelet units.28 The
+FDA subsequently reduced the dating
+period from 7 to 5 days to limit the time
+during which bacterial proliferation
+could occur before transfusion. The im-
+portance of the time over which the
+unit was being held at room tempera-
+ture was highlighted by Morrow et al.29
+who noted that although less than 10
+percent of their institution’s platelet
+transfusions occured on Day 5 of stor-
+age, these transfusions accounted for
+57 percent of septic reactions. In the
+preliminary report of the Bacterial Con-
+tamination (BaCon) study coordinated
+through the CDC, all platelet units im-
+plicated in clinically apparent septic re-
+actions had been stored for 4 or 5
+days.30
+Fig. 1. CCIs of 21 patients calculated 10 to 60 minutes after transfusion of WBC-
+reduced apheresis platelet units on Day 6 or 7 of storage. Arrow indicates a CCI
+of 7500, a response indicative of a “successful” response to platelet transfusion.
+AUBUCHON ET AL.
+858
+TRANSFUSION
+Volume 42, July 2002
+Our experience corroborates the European practice
+in using an automated culturing system to detect bacteria
+and to extend the storage period of platelet units.18,31
+However, the culture protocol used in our laboratory has
+not been validated as capable of detecting all instances of
+bacterial contamination. Kinetic studies in plateletpher-
+esis units inoculated with commonly encountered organ-
+isms to 1 CFU per mL and then subjected to repetitive
+5-mL automated cultures illustrated that cultures were
+100 percent sensitive beginning on Day 2 of storage.12 A
+similar study using a variety of organisms reported
+growth in all but one sample (sensitivity >99%) when cul-
+tures were taken at this point.21 An earlier study of the
+growth curves of a variety of organisms inoculated into
+platelet units validates that culture of a small aliquot on
+Day 2 is sufficient to detect bacteria if present.23 How-
+ever, it is recognized that some slower-growing organ-
+isms, such as some Staphylococcus epidermidis, may not
+be detected rapidly in an automated culture system.21
+Validation of the sensitivity of this protocol, however,
+might necessitate culturing units twice (once early in
+storage and again at a later time) to ensure detection of
+low inoculum in the unit. (This second culture point per-
+haps might be at unit expiration, Day 5 or Day 7, or at
+least 24 hr after the initial sampling, a time at which the
+growth of any initial inoculum to a detectable level could
+be reasonably assured.) Even assuming a contamination
+rate of 1 per 3000, over 11,000 units would have to be
+cultured to ensure (with 80% power and 95% CI) that the
+protocol was detecting a sufficient proportion of truly
+contaminated units so that extension of the storage pe-
+riod would not decrease the bacteriologic safety of recipi-
+ents. Recruitment of centers to participate in such a pro-
+tocol (or sponsors of it) would be daunting. Nevertheless,
+the value of routine culturing may be inferred from this
+report and the publications detailing the European expe-
+rience.
+The report of culture positivity after transfusion for
+one-quarter of the platelet units showing initial positivity
+might be regarded as diminishing the clinical utility of
+this protocol. However, results from repeat cultures or
+the clinical situation suggest that all of these were not
+true-positive cultures. Even in cases of true contamina-
+tion, the bacteria are likely to grow more rapidly in the
+(warmer) culture environment than in the unit itself, and
+detection in the culture bottle would appear likely before
+the inoculum in the bag reached a critical level. The units
+with documented bacterial contamination were detected
+by automated culture in only 12 hours.
+Because the storage time for platelets is shorter than
+for any other component, more platelets outdate than
+any other type of component; implementation of a sys-
+tem to reduce the chance of transfusing a bacterially con-
+taminated unit could reduce platelet unit outdating
+through increased storage time. In 1994, for example,
+18 percent of platelets were reporting as outdated.32
+This contrasts with much lower outdate rates (<5%) seen
+during the period when platelets could be stored for
+7 days.33,34 Because almost two-thirds of platelet trans-
+fusions are now given as plateletpheresis components
+at a cost of approximately $500 per preparation, this
+outdating incurs a substantial cost in the healthcare
+system and reduces the availability of platelets signifi-
+cantly.35 The ability to extend the outdate, such as to
+7 days, would make an important contribution to health-
+care efficiency and platelet availability. Several European
+centers have begun using this approach to ensure sterility
+of platelet units and reap the benefit of extended shelf
+life.17,18,31 We previously reported that our (variable)
+costs for this culture protocol (excluding only those
+costs related to the capital expense of the automated cul-
+ture cabinet) was $16.50 per unit.36 The projected outdate
+rate today with 7-day storage of platelets is difficult to
+estimate because production, component type distribu-
+tion, and logistics have all changed since the change of
+platelet storage from 7 to 5 days 18 years ago. However,
+even a modest reduction in outdating would be expected
+to provide an economic advantage to the blood supply
+system while improving patient safety with respect to
+bacterial risks. Additional savings might be achieved if
+such a bacterial detection technique were viewed as sup-
+porting prestorage pooling of platelet units (as is com-
+monly performed in European centers). This would sim-
+plify handling of platelets for hospital transfusion
+services and permit use of a single filter to be applied for
+prestorage WBC reduction of platelets derived from
+whole blood.
+Applying this culture approach more broadly across
+the US blood banking system remains a challenge. In
+situations where hospitals hold platelet units only for
+short periods before their transfusion, the culture would
+need to be performed at the blood center. This would
+necessitate several changes in current systems. First, a
+reliable system to notify hospitals of a positive culture
+result would need to be established to interdict the trans-
+fusion of a distributed, bacterially contaminated unit.
+Several European centers have created computerized
+alert systems to accomplish this task, and many US blood
+centers created just such a system when NAT was imple-
+mented without a requirement that these test results be
+available before distribution of the units. More signifi-
+cant, perhaps, would be the alteration of the mindset of
+blood suppliers to accept that bacterial test results were
+still pending when releasing platelet units to hospitals.
+Although 7-day storage of platelets has previously
+been shown to provide viable, functional platelets, exten-
+sion of the storage period to 7 days will require validation
+that the current systems for collecting, processing, and
+storing platelet units provide adequate clinical effi-
+cacy.37-41 The results of our experience, that took advan-
+CULTURING OF APHERESIS PLATELET UNITS
+Volume 42, July 2002
+TRANSFUSION
+859
+tage of our unique location and platelet supply logistics,
+support such an extension. The pH results after extended
+storage indicated that almost all of the units held through
+7 days of storage were likely to contain platelets that were
+viable and functional. The transfusion of units beyond 5
+days of storage resulted in CCIs that were clearly ad-
+equate to support patient hemotherapy needs, and al-
+most all (90%) were above the usual definition of a “suc-
+cessful” transfusion increment.42 These transfusion
+results in patients bolster the contention based on clini-
+cal trials in this laboratory and elsewhere that platelets
+can be stored for 7 days and retain clinical efficacy that is
+indistinguishable from that of those stored for 5 days de-
+spite the documented diminution of functionality, recov-
+ery, and survival.22,43 This assertion is also a logical ex-
+trapolation of previous experience that although there is
+undoubtedly the accumulation of a functional lesion as-
+sociated with increasing storage time of platelets, this is
+not clinically distinguishable when transfusing platelets
+of various storage ages.44 Concern has also been ex-
+pressed that, with the advent of WBC reduction of plate-
+let units, removal of WBCs would greatly reduce oxygen
+consumption and allow the pH to rise dramatically dur-
+ing storage, injuring the platelets as readily as a fall in pH
+would.45,46 Changes in anticoagulant ratios with apher-
+esis collections have undoubtedly changed initial levels
+of acidity in platelet units as well. We found no instances
+of pH elevation to or beyond physiologic levels in the 91
+units of WBC-reduced platelets tested on Day 8, and el-
+evation of pH to levels that would truly be injurious to
+platelets (>7.6 using some types of agitators) seems un-
+likely.22,47
+Our experience is shared in the hope of encouraging
+others to develop and implement similar protocols to im-
+prove safety for platelet transfusion recipients. In combi-
+nation with clinical trials demonstrating adequate func-
+tionality, recovery, and survival of platelets stored for 7
+days, we hope that experiences such as ours will embol-
+den regulatory authorities to extend the storage time for
+platelets in conjunction with use of a bacterial detection
+system and thus allow improvement of patient safety
+with minimization—or complete avoidance—of addi-
+tional expense.
+REFERENCES
+1.
+Blajchman MA. Bacterial contamination of blood prod-
+ucts and the value of pre-transfusion testing. Immunol
+Invest 1995;24:163-70.
+2.
+Goldman M, Blajchman MA. Blood product-associated
+bacterial sepsis. Transf Med Rev 1991;5:73-83.
+3.
+Perez P, Salmi LR, Folle´a G, et al. Determinants of trans-
+fusion-associated bacterial contamination: results of the
+French BACTHEM case control study. Transfusion 2001;
+41:862-72.
+4.
+Ness P, Braine H, King K, et al. Single-donor platelets re-
+duce the risk of septic platelet transfusion reactions.
+Transfusion 2001;41:857-61.
+5.
+Hotaling S, Kolk D, Baker D, et al. Significant closure of
+the HCV detection window with the TMA HIV-1/HCV as-
+say (abstract). Transfusion 1999;39 (Suppl):67S.
+6.
+Kolk D, Hotaling S, Baker D, et al. Significant closure of
+the HIV-1 detection window with the TMA HIV-1/HCV
+assay (abstract). Transfusion 1999;39 (Suppl):70S.
+7.
+Wagner SJ, Robinette D, Fridman LI, Miripol J. Use of a
+precollection diversion arm to reduce bacterial load in
+whole blood units (abstract). Transfusion 1999;39 (Suppl):
+12S.
+8.
+Bruneau C, Perez P, Chassaigne M, et al. Efficacy of a
+new collection procedure for preventing bacterial con-
+tamination of whole blood donations (abstract).
+Transfusion 1999;39 (Suppl):116S.
+9.
+Strand CL, Wajsbort RR, Sturmann K. Effect of iodophor
+vs iodine tincture skin press on blood culture contamina-
+tion rate. JAMA 1993;269:1004-6.
+10.
+Burstain JM, Brecher ME, Workman K, et al. Rapid iden-
+tification of bacterially contaminated platelets using
+reagent strips: glucose and pH analysis as markers of
+bacterial metabolism. Transfusion 1997;37:255-8.
+11.
+Wagner SJ, Robinette D. Evaluation of swirling, pH, and
+glucose tests for the detection of bacterial contamination
+in platelet concentrates. Transfusion 1996;36:989-93.
+12.
+Leach MF, Pickard CA, Herschel LH, et al. Evaluation of
+glucose and pH test strips for detection of microbial con-
+taminants in apheresis platelets (abstract). Transfusion
+1998;38 (Suppl):89S.
+13.
+Mhawech PY, Werch J, Stager C, et al. Detecting bacterial
+contamination in platelet concentrates using reagent
+strips: application in a major cancer center blood bank
+(abstract). Transfusion 1999;39 (Suppl):36S.
+14.
+Bertolini F, Murphy S. A multicenter inspection of the
+swirling phenomenon in platelet concentrates prepared in
+routine practice. Biomedical Excellence for Safer Transfu-
+sion (BEST) Working Party of the International Society of
+Blood Transfusion. Transfusion 1996;36:128-32.
+15.
+Yomtovian R, Lazarus HM, Goodnough LT, et al. A pro-
+spective microbiologic surveillance program to detect and
+prevent the transfusion of bacterially contaminated plate-
+lets. Transfusion 1993;33:902-9.
+16.
+Barrett BB, Anderson JW, Anderson KC. Strategies for the
+avoidance of bacterial contamination of blood compo-
+nents. Transfusion 1993;33:228-33.
+17.
+Castro EM, Bueno JL, Gonzalez R, Barea L. Implementa-
+tion of an automated bacterial culture of platelet prod-
+ucts in the blood bank routine (abstract). Transfusion
+1999;39 (Suppl):75S.
+18.
+Schelstraete B, Bijnens B, Wuyts G. Prevalence of bacteria
+in leucodepleted pooled platelet concentrates and apher-
+esis platelets: Current status in the Flemish Blood Service
+(abstract). Vox Sang 2000;78 (Suppl 1):370.
+AUBUCHON ET AL.
+860
+TRANSFUSION
+Volume 42, July 2002
+19.
+Claeys H, Verhaegle B. Bacterial screening of platelets
+(abstract). Vox Sang 2000;78 (Suppl 1):374.
+20.
+De Korte D, Welle F, Marcelis J, et al. Determination of
+the prevalence of bacterial contamination of whole blood
+collections using Bacti/Alert (abstract). Transfusion
+1999;39 (Suppl):20S.
+21.
+Brecher ME, Means N, Jere CS, et al. Evaluation of an au-
+tomated culture system for detecting bacterial contamina-
+tion of platelets: an analysis with 15 contaminating or-
+ganisms. Transfusion 2001;41:477-82.
+22.
+Dumont LJ, AuBuchon JP, Whitley P, et al. Seven day
+storage of apheresis platelets: report of a clinical trial.
+Transfusion 2001;41.
+23.
+Heal JM, Singal S, Sardisco E, Mayer T. Bacterial prolif-
+eration in platelet concentrates. Transfusion 1986;26:388-
+90.
+24.
+Daly PA, Schiffer CA, Asiner J, Wiernik PH. Platelet trans-
+fusion therapy. One-hour posttransfusion increments are
+valuable in predicting the need for HLA-matched prepa-
+rations. JAMA 1980;243:435-8.
+25.
+O’Connell B, Lee EJ, Schiffer CA. The value of 10-minute
+posttransfusion platelet counts. Transfusion 1988;28:66-7.
+26.
+Slichter SJ. Mechanisms and management of platelet re-
+fractoriness. In: Nance SJ, ed. Transfusion medicine in
+the 1990s. Arlington: American Association of Blood
+Banks, 1990:95-179.
+27.
+Goldman M, Blajchman MA. Bacterial contamination.
+In: Popovsky MA, ed. Transfusion reactions. 2nd ed.
+Bethesda: AABB Press, 2001:129-54.
+28.
+U.S. Food and Drug Administration. Transcript of 32nd
+meeting of the Blood Products Advisory Committee, May
+9, 1991. Washington: Freedom of Information Office,
+1991.
+29.
+Morrow JF, Braine HG, Kickler TS, et al. Septic reactions
+to platelet transfusions. A persistent problem. JAMA 1991;
+266:555-8.
+30.
+Gregory K, Haley NR. BaCon study short topic. In: The
+compendium, 52nd annual meeting of the American As-
+sociation of Blood Banks, San Francisco, 1999.
+31.
+McDonald CP, Roy A, Lowe P, et al. The first experience
+in the United Kingdom of the bacteriologic screening of
+platelets to increase the shelf life to 7 days (abstract). Vox
+Sang 2000;78 (Suppl 1):375.
+32.
+Wallace EL, Churchill WH, Surgenor DM, et al. Collection
+and transfusion of blood and blood components in the
+United States, 1994. Transfusion 1998;38:625-36.
+33.
+U.S. Department of Health and Human Services. The na-
+tion’s blood resource. A summary report. NIH Publication
+85-2028. Washington: U.S. Government Printing Office,
+March, 1985.
+34.
+McCullough J, Undis J, Allen JW. Platelet production and
+inventory management. In: Mallory DM, ed. Platelet
+physiology and transfusion. Washington, DC: American
+Association of Blood Banks, 1978.
+35.
+National Blood Data Resource Center. Comprehensive
+report on blood collection and transfusion in the United
+States in 1999. Bethesda: 2001.
+36.
+Cooper L, Leach MF, Tracy JE, et al. Application of a uni-
+versal culturing approach to reduce the risk of bacterial
+contamination of platelet units (abstract). Transfusion
+1999;39 (Suppl):119-20S.
+37.
+Simon TL, Nelson EJ, Murphy S. Extension of platelet
+concentrate storage to 7 days in second-generation bags.
+Transfusion 1987;27:6-9.
+38.
+Murphy S. Platelet storage for transfusion. Seminars
+Hematol 1985;22:165-77.
+39.
+Archer GT, Grimsley PG, Jindra J, et al. Survival of trans-
+fused platelets collected into new formulation plastic
+packs. Vox Sang 1982;43:223-30.
+40.
+Simon TL, Nelson EJ, Carmen R, Murphy S. Extension of
+platelet concentrate storage. Transfusion 1983;23:207-12.
+41.
+Murphy S, Kahn RA, Holme S, et al. Improved storage of
+platelets for transfusion in a new container. Blood 1982;
+60:194-200.
+42.
+Herman JH. Platelet transfusion therapy. In: Mintz PD,
+ed. Transfusion therapy. Clinical principles and practice.
+Bethesda: American Association of Blood Banks, 1999.
+43.
+Slichter SJ, Christoffel T, Pellham E, et al. Extension of
+platelet (Plt) storage to 7 days in plasmalyte versus (Vs)
+plasma: in vivo and in vitro evaluations (abstract). Blood
+2001;98:448a–9a.
+44.
+Leach MF, AuBuchon JP. Effect of storage time on clinical
+efficacy of single-donor platelet units. Transfusion 1993;
+33:661-4; erratum in Transfusion 1993;33:887.
+45.
+Poindexter BJ, Shafer BC, Mondoro TH, Vostal JG. In-
+crease in the pH and mean platelet volume of platelets,
+pheresis products submitted to the FDA for quality con-
+trol testing (abstract). Transfusion 1999;39 (Suppl):21S.
+46.
+Murphy S, Gardner FH. Platelet storage at 22C: role of
+gas transport across plastic containers in maintenance of
+viability. Blood 1975;46:209-18.
+47.
+Bannai M, Mazda T, Sasakawa S. The effect of pH and
+agitation on platelet preservation. Transfusion
+1985;25:57-9.
+CULTURING OF APHERESIS PLATELET UNITS
+Volume 42, July 2002
+TRANSFUSION
+861

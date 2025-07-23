@@ -1,0 +1,2464 @@
+ 
+FOOD AND DRUG ADMINISTRATION 
+COMPLIANCE PROGRAM GUIDANCE MANUAL 
+ 
+PROGRAM 
+7303.003 
+ 
+CHAPTER 03 - FOODBORNE BIOLOGICAL HAZARDS 
+ 
+SUBJECT: 
+ 
+IMPLEMENTATION DATE 
+7/31/06 
+COMPLETION DATE 
+ 
+IMPORT ACIDIFIED AND LOW-ACID CANNED FOODS 
+COMPLIANCE PROGRAM  (FY 06/07/08) 
+ 
+This program has completed A Good Guidance 
+Practices clearance by CFSAN’s ORP and OC/DFP/CPB 
+in July of 2006. 
+9/30/08 
+DATA REPORTING 
+PRODUCT CODES 
+PRODUCT/ASSIGNMENT CODES 
+INDUSTRY CODES:    
+ REPORT INSPECTIONS UNDER THE 
+FOLLOWING PACs:
+03, 04, 09 12-18, 
+03003 
+LACF Products 
+ 
+20-25, 27, 29-31, 33-41 
+03003A 
+Acidified Products 
+USE APPROPRIATE PRODUCT CODES: 
+ 
+ 
+(refer to Attachment A for an extended 
+list) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: Material that is not releasable under the Freedom of Information Act 
+(FOIA) has been redacted/deleted from this electronic version of the program. 
+Deletions are marked as follows: (#) denotes one or more words were deleted; 
+(&) denotes one or more paragraphs were deleted; and (%) denotes an entire 
+attachment was deleted. 
+ 
+FIELD REPORTS TO HEADQUARTERS 
+ 
+Hard Copy Reporting to Headquarters
+ 
+All hard copy reports are to be submitted by the analyzing laboratories, as 
+listed in PART IV. 
+ 
+FACTS Reporting
+ 
+The analyzing laboratory will report results for each sample of low acid and 
+acidified products into FACTS using PAF = ACD.  
+ 
+Use the following Problem Codes: 
+ 
+AFD = Acid food Analysis 
+ 
+ACF = Acidified Food Analysis 
+ 
+LAF = Low-Acid Canned Food Analysis 
+ 
+OTHER Reporting 
+ 
+If there is any Entry Review or Filer Evaluation work, the following PAC Codes 
+should also be included: 
+ 
+  
+ 1
+DATE OF ISSUANCE:
+PAGE
+ 
+ 
+FORM FDA 2438 (7/92) 
+ 
+ 
+ 
+ 
+PROGRAM 
+ 
+TRANSMITTAL NO 
+ 
+PAGE 2 
+ 
+FORM FDA 2438g (10/91) 
+PAC 03R833 Entry Review (report as Import Investigation – Operation Code 14) 
+PAC 99R833 Filer Evaluations (report as Program Evaluation – Operation Code 
+95)  
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO  
+ 
+PART I 
+PAGE 1 
+ 
+FORM FDA 2438 g (10/91) 
+ 
+PART I - BACKGROUND
+ 
+ 
+Inadequate or improper manufacturing, processing or packing of thermally 
+processed low-acid foods in hermetically sealed containers, or acidified foods 
+may result in the distribution in interstate commerce of processed foods that 
+may be injurious to health.  The absence of oxygen at normal room temperature 
+storage conditions with adequate moisture and nutrients favor the growth of 
+Clostridium botulinum (C. botulinum) in Low-Acid Foods.  A failure to either 
+destroy or control (by water activity or acidification) the germination and 
+growth of spores of C. botulinum due to improper manufacturing, processing or 
+packing may result in the production of a toxin which causes the potentially 
+fatal food poisoning known as botulism. 
+ 
+The requirements in 21 CFR 108 (including the requirements for manufacturers 
+of low-acid or acidified foods to register their processing plants and file 
+scheduled processing information with FDA), and the mandatory requirements of 
+21 CFR 113 and 114 are intended to ensure safe manufacturing, processing and 
+packing of thermally processed low-acid food in hermetically sealed 
+containers, and acidified low-acid food, and to permit the Food and Drug 
+Administration (FDA) to verify that the procedures are being followed.   
+ 
+This program is part of FDA's verification procedures to determine whether the 
+foreign industry provides adequate controls over the production and 
+distribution of LACF and acidified food (AF).  FDA attempts to identify 
+problems which may have broad implications such as commodities, industry 
+segments from a particular region or country, faulty equipment, defective 
+containers, etc. 
+ 
+Chinese mushrooms were implicated in four outbreaks of Staphylococcal 
+Enterotoxin (SET) poisonings which occurred between February 13, 1989 and 
+April 22, 1989. FDA’s testing of Chinese mushrooms detected SET in samples of 
+mushrooms that were associated with the outbreaks.  To prevent further SET 
+outbreaks, on May 10, 1989, FDA initiated detention without physical 
+examination (DWPE) of all #10 cans of People’s Republic of China (PROC) canned 
+mushrooms and all other can sizes from PROC canneries whose mushrooms tested 
+positive for SET. This DWPE was extended to all can sizes of mushrooms from 
+all PROC canneries on October 17,1989. In 1995, the DWPE provisions were 
+established for the “Lot by Lot” release program to allow entry of PROC 
+mushrooms.  *Import Alert 25-11 and the “Lot by Lot” release program was 
+officially cancelled as of March 1, 2004.  FDA and the Peoples Republic of 
+China had a recent meeting and reached an agreement to cancel this import 
+alert. The Chinese government has assumed responsibility for most of the firms 
+currently shipping to the U.S. and recent visits and other information 
+indicate that this alert is no longer supportable.  Chinese mushrooms will now 
+be covered under normal import surveillance.*
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO  
+ 
+PART II 
+PAGE 1 
+ 
+FORM FDA 2438 g (10/91) 
+ 
+PART II - IMPLEMENTATION
+ 
+Objectives
+ 
+• 
+To determine whether products comply with the plant registration and 
+process filing requirements as required by 21 CFR 108. 
+ 
+• 
+To determine if AF and LACF products are improperly processed or 
+packaged through examination of lots or analysis of samples. 
+ 
+ 
+Interaction with Other Programs 
+ 
+AF/LACF Foreign Inspections: 
+Inspections of foreign manufacturers of LACF products and acidified foods to 
+determine compliance with 21 CFR 108 (Emergency Permit Control), 113 
+(Thermally Processed Low-Acid Foods Packaged in Hermetically Sealed 
+Containers) and 114 (Acidified Foods) 
+(http://intranet.cfsan.fda.gov/OC/pages/industry.htm) are accomplished under 
+FDA’s Foreign Inspection Program.  The Agency has been performing Foreign 
+Inspections on a yearly basis and will continue to do so in the future.  PAC 
+Code 03R233 should be used for each Foreign Inspection. Investigators should 
+refer to Compliance Program 7303.803a, Domestic LACF and Acidified Foods 
+Compliance Program, for inspectional and regulatory guidance.  CFSAN reviews 
+foreign inspection EIRs and classifies each inspection.  Regulatory actions, 
+such as DWPE and/or placement on Import Alert, may be recommended by CFSAN if 
+significant deviations from the regulations are revealed. 
+ 
+*Import Seafood Products Compliance Program, CP 7303.844: 
+Seafood hazards other than C. botulinum (e.g. histamine toxin formation, 
+shellfish toxins, etc.) are to be reported under the Import Seafood Products 
+Compliance Program, CP 7303.844, which provides additional coverage of fish 
+and fishery products. 
+ 
+Import Foods – General Compliance Program, CP 7303.819: 
+Products labeled Keep Refrigerated, but are not are temperature abused, should 
+be covered in the Import Foods – General Compliance Program, CP 7303.819.* 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART III 
+PAGE 1 
+ 
+FORM FDA 2438g (10/91) 
+ 
+PART III - INSPECTIONAL
+ 
+ 
+NOTES: 
+ 
+1. 
+The Import Alerts in FIARS list products and firms to be given 
+intensified coverage. 
+ 
+2. 
+Import Alert 99-04 lists products/firms to be detained without 
+physical examination even if these firms have Food Canning 
+Establishment (FCE) numbers or processes (SID’s) on file.  
+Therefore, this alert should be reviewed before release of an 
+entry is considered. 
+ 
+3. 
+If the listed manufacturer in the line entry is not the actual 
+processor, the entry should not be released until the importer is 
+contacted and the manufacturer’s name determined and registration 
+confirmed.  If the manufacturer's name cannot be determined, the 
+product should be detained. 
+ 
+A. 
+ENTRY REVIEW
+ 
+Determine whether the product is LACF or an AF.  Definitions for 
+LACF and AF are found in 21 CFR 113.3 and 21 CFR 114.3. 
+ 
+*Attachment A lists valid product codes for this program (not all 
+inclusive).* 
+ 
+1. 
+Examples of LACF and AF products (not all-inclusive): 
+ 
+a. 
+Low-acid canned foods (LACF) 
+ 
+Bamboo shoots, bean sprouts, black olives, mushrooms, 
+mussels, sardines, snails, tuna 
+ 
+b. 
+Water activity (aw) and salt controlled LACF 
+ 
+Bean paste, caviar, canned cake or bread, chutney, guava 
+paste, lupini beans, salted fish, salted vegetables, some 
+oriental cooking sauces, some soy sauces   
+ 
+c. 
+Acidified Foods (AF) 
+ 
+Artichokes, hearts of palm, non-fermented pickles and 
+pickled products, peppers, pimentos, papaya and other low-
+acid tropical fruits 
+ 
+d. 
+LACF where pH control at levels greater than 4.6 is a 
+critical factor in the scheduled process. 
+ 
+Clam sauces, gazpacho, okra and tomatoes, limas and corn, 
+some potato salads, some spaghetti and other pasta in tomato 
+sauces, shrimp in tomato sauce, turtle soup 
+ 
+e. 
+Mis-identified Fermented Products 
+ 
+If it is suspected that the product is mis-identified as a 
+fermented product, check the LACF database to determine if a 
+process is on file, and if there is no process on file and 
+resources exist, collect six subs and analyze for water 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART III 
+PAGE 2 
+ 
+FORM 2438 g (10/91) 
+ 
+activity (aw), salt content and pH.  If after analyzing, the 
+product falls within the parameters of an AF or LACF product 
+(per 21 CFR 113.3 and 21 CFR 114.3), a recommendation should 
+be made to DIOP to place the manufacturer/product under DWPE 
+and to issue an advisory to the field and to CFSAN/Division 
+of Enforcement/Imports Branch/HFS-606 alerting them of the 
+situation.  If processing procedures can be obtained from 
+importer/filer, please include in recommendation package. 
+ 
+  
+f. 
+Other Products (including refrigerated products) 
+ 
+If products are unfamiliar to District personnel and cannot 
+be readily classified as LACF, AF or fermented, and a check 
+of the LACF database reveals no process information on file, 
+then collect six subs and for aw and pH analyses.  If the 
+product falls under the parameters of a LACF or AF, follow 
+the directions in 1e above.  Consult CFSAN/Division of 
+Enforcement/Imports Branch/HFS-606 for guidance and/or the 
+Division of Import Operations/HFC-170 for guidance. 
+ 
+Also, refrigeration does not necessarily exempt a product 
+from the regulations.  For example, the small, extended 
+shelf-life coffee creamers usually bear a “Keep 
+Refrigerated” statement on the small peel-off foil top.  
+Many times they are not held under refrigerated conditions 
+(e.g. restaurant tables), so they are subject to the 
+regulations.  
+ 
+2. 
+*Example containers used for LACF and AF 
+ 
+a. 
+Metal - tinplate, steel and aluminum (usually LACF) 
+ 
+Containers may be cylindrical, square, rectangular, or oval.  
+Irregular shapes may be encountered. 
+ 
+b. 
+Glass (usually Acidified) 
+ 
+Containers are generally cylindrical with a metal screw cap 
+or pressed-on cap.  There may also be unusually shaped 
+containers. 
+ 
+c. 
+Plastic  
+ 
+Rigid or semi-rigid cylindrical cans, trays, cups, or tubs 
+with heat sealed or double seamed ends (usually Acidified) 
+ 
+Flexible - pouches heat sealed on two or more sides, tubes 
+either heat sealed or closed with a metal crimp (usually 
+LACF)* 
+ 
+d. 
+Multilayer  
+ 
+These containers are usually flexible or semi-rigid and 
+consist of multiple layers of various materials such as 
+plastic, fiberboard and aluminum foil. 
+ 
+B. 
+REGISTRATION AND PROCESS FILING
+ 
+Determine whether the manufacturer has registered and filed processes 
+for the product(s). 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART III 
+PAGE 3 
+ 
+FORM 2438 g (10/91) 
+ 
+ 
+1. 
+Obtain from import entry documents:  
+ 
+• 
+Country of origin 
+• 
+Product name 
+• 
+Name of the manufacturer 
+• 
+Food Canning Establishment (FCE) number and/or actual 
+plant address of the site specific manufacturer. 
+• 
+SID number of the container dimensions 
+ 
+If this information is not transmitted electronically or cannot be 
+determined after review of the import documents from the importer, 
+the product should be detained.  
+ 
+2. 
+*The LACF Web Application System Website, available at # will 
+assist in the determination of whether the manufacturer has 
+registered and filed a process for the product(s) entered.  ORA 
+and District Office Personnel requiring access to this website may 
+create their own accounts at # under the “Create New Accounts” 
+link.  Only FDA personnel who deal with LACF-related activities 
+will be listed in the drop down list.  Any FDA personnel who do 
+not find their name in this list should contact the CFSAN Help 
+Desk or send an e-mail to LACF@cfsan.fda.gov for assistance.  
+There is a User’s Guide available under the above referenced URL 
+selecting the “LACF User Guide” link.  If the Word version is 
+selected to print, go to the bottom of the document to allow all 
+graphics to load prior to printing the document. 
+ 
+OASIS release 4.3.01 provides a link between OASIS and the 
+information stored in the LACF database.  Entry reviewers and 
+other import staff are able to link directly from a line entry to 
+the data stored for a specific FCE, manufacturer or scheduled 
+process.  They are also able to perform ad hoc queries of the data 
+from within OASIS. 
+ 
+a. 
+If the FCE number is not provided, the FCE Registration 
+Search/Update option may be used to search, using the 
+manufacturer’s or firm’s name along with Country. 
+ 
+b. 
+If the manufacturer is registered, determine if there is a 
+process on file for the product(s) and container size(s) 
+being entered. 
+ 
+i. The Generate Reports option in the LACF Website should be 
+used: 
+ 
+• 
+Searches for LACF products and containers require 
+two searches:  View Tracking Option and Products 
+Report Option: 
+ 
+View Tracking Option:  This option lists all 
+forms which have been received by FDA and are in 
+various stages of acceptance.  For specifics on 
+the information on this screen, refer to the LACF 
+User’s Guide.  The dates on this screen are 
+critical to determine the form(s) status of 
+acceptance. 
+ 
+Products Report Option:  This option lists 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART III 
+PAGE 4 
+ 
+FORM 2438 g (10/91) 
+ 
+process filing form(s) currently accepted and on 
+file with FDA.  It lists the firm information, 
+FCE, SID, product name, governing regulation, 
+i.e. whether filed as LACF or AF, water activity 
+and pH (if critical), processing method, etc as 
+well as container information. 
+ 
+• 
+If a firm is on Import Alert #99-04, a reference 
+to the product(s) on alert will appear in the 
+report. 
+ 
+c. 
+The LACF Registration Coordinator, HFS-618, should not be 
+contacted, except in unusual circumstances, since the LACF 
+Web Application Computer System is updated continuously. 
+ 
+d. 
+The Import Alert option is a list of firms under Import 
+Alert #99-04.  It is advisable to check FIARS as well this 
+option.  Any discrepancies, please contact CFSAN/Division of 
+Enforcement and Programs/Imports Branch/HFS-606 or the 
+Division of Import Operations and Policy (DIOP)/HFC-170.* 
+ 
+3. 
+Container Dimensions (see Attachment C) 
+ 
+Also note the following: 
+ 
+• 
+Metal Containers 
+ 
+Some countries incorrectly file a "plug diameter" 
+measurement (diameter inside double seam) for cans.  It may 
+be necessary to measure the plug diameter to determine 
+process filing.  The plug diameter will be approximately 
+2/16 smaller than the outside diameter. 
+ 
+Cylindrical (round) cans have two dimensions - diameter and 
+height.  Square, rectangular and oval cans have three 
+dimensions - length, width and height. 
+ 
+Measurement of can diameter (round) or length and width 
+(square and oval) should be measured from the outside of the 
+end or lid seam.  Side-to-side measurement of can height 
+should be from the top of one end seam to the top of the 
+other in 3-piece round, square or oval cans, or from the top 
+of the seam to the bottom of the container in 2-piece cans. 
+ 
+• 
+Pouches 
+ 
+Measurement of length and width in pouches should be made 
+from the inside edge of the seal area, side-to-side.  Pouch 
+thickness should be determined by placing the container 
+horizontally on a flat surface and measuring the thickness 
+approximately halfway down its length.  Pouches have three 
+dimensions - length, width and thickness.  The actual pouch 
+thickness should be less than or equal to the thickness 
+listed in the filed scheduled thermal process.  Thickness 
+listed in the filed scheduled thermal process represents the 
+maximum thickness during thermal processing and is not 
+necessarily the pouch thickness dimension. 
+ 
+• 
+Semirigid Containers 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART III 
+PAGE 5 
+ 
+FORM 2438 g (10/91) 
+ 
+ 
+Measure heat-sealed containers using procedures similar to 
+that described under pouches.  For plastic bowl shaped 
+containers with metal lids that are double seamed, measure 
+the diameter of the double seamed end, the height, and the 
+dimension of the plastic bottom.  Plastic bottles are 
+measured similar to procedures described for glass 
+containers.     
+ 
+• 
+Glass Containers  
+ 
+The widest body diameter or the neck diameter is often given 
+on filing forms. 
+ 
+Measurement of the diameter of a glass jar may be 
+facilitated by using a flexible measuring tape to measure 
+the circumference, then dividing by π (3.1416) to obtain the 
+diameter.  
+ 
+Height is usually measured from the lip to the bottom.  
+Accurate measurements will not be possible on jars in a 
+shipment because of the presence of the cap. 
+ 
+Manufacturers are permitted to file container capacity for 
+irregularly shaped containers.  The filed weight should be 
+the weight declared on the label. 
+ 
+C. 
+OASIS Reporting Instructions
+ 
+Process the entry as a DTR (Detention Requests) if the following 
+criteria are met: 
+ 
+1. 
+The firm is not registered. 
+ 
+2. 
+No process is on file. 
+ 
+3. 
+Process filed but: 
+ 
+• 
+The container dimensions on file deviate by 2/16 inch or 
+more in any dimension from those indicated on the 
+file(for glass containers allow 3/16 or more). Therefore, 
+conclude that a process has not been filed.  
+ 
+• 
+The product name is not the same as that which is on file 
+(with some exceptions).  Therefore conclude that a 
+process has not been filed.  If there are questions about 
+product names, then contact the LACF Registration 
+Coordinator. 
+ 
+Process the entry as a DER (Detention Request without Exam) if: 
+ 
+The firm is identified for DWPE under a particular Alert such as 
+Import Alert #99-04. 
+ 
+ 
+DTR and DER should include, if possible, copies of invoices, 
+packing lists, and copies of labels, etc. since those documents 
+may indicate the actual manufacturer. 
+ 
+D. 
+FIELD EXAMINATIONS AND PRODUCT SAMPLING 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART III 
+PAGE 6 
+ 
+FORM 2438 g (10/91) 
+ 
+ 
+*Reconciliation Exams:   
+ 
+A comparison of records with the physical product to verify that 
+the entry is consistent with declarations on product documents 
+with regard to the type and quantity of product. These exams 
+should be performed consistent with the guidance in the IOM and/or 
+current Division of Import Operations/HFC-170 instructions. Refer 
+to IOM 5.4.1.4 at:  
+ 
+http://www.fda.gov/ora/inspect_ref/iom/ChapterText/5_4.html#SUB5.4
+ 
+NOTE: Submit all samples as directed in Part IV, Item I. 
+Analytical Laboratories. 
+ 
+1. 
+Low-Acid Canned Foods
+ 
+a. 
+Field Examination - See IOM, Sample Schedule 2 at: 
+ 
+http://www.fda.gov/ora/inspect_ref/iom/ChapterText/ssc
+hedule2.html
+ 
+A "lot" should consist of only one production code and 
+one product.  If codes are commingled to the extent 
+that sorting is impractical, consider the entry as one 
+lot for the purpose of the field examination. 
+ 
+Make a notation on the Collection Report (C/R), the 
+codes observed, number of containers examined, and 
+number of abnormal or defective cans by type of 
+abnormality or defect, and relate to the can codes. 
+ 
+When listing can codes, use a hyphen or a dash to 
+denote a space between characters, and a slash "/" to 
+denote separate lines. 
+ 
+b. 
+Sample Collection
+ 
+If abnormal or defective containers are found during 
+the field examination, collect all abnormal (up to 24) 
+and 12 normals.  Include samples of each type of 
+abnormal or container defect observed.  If products 
+may be partially preserved through control of aw, 
+collect 6 more normal containers.  See IOM, Sample 
+Schedule 2 at: 
+ 
+http://www.fda.gov/ora/inspect_ref/iom/ChapterText/ssc
+hedule2.html
+ 
+*NOTE:  When collecting swollen or leaking cans, place 
+in plastic bags to prevent leakage before final 
+packing for shipment to field laboratory for 
+analysis.* 
+ 
+2. 
+Acidified Foods (AF)
+ 
+Acidified foods not hermetically sealed in containers or not 
+thermally processed are included under 21 CFR 114 
+(http://www.access.gpo.gov/nara/cfr/waisidx_02/21cfr114_02.h
+tml).  Most acidified foods are in hermetically sealed 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART III 
+PAGE 7 
+ 
+FORM 2438 g (10/91) 
+ 
+containers. Refer to "Investigator's Guide to Inspection of 
+Acidified Foods" 
+(http://www.fda.gov/ora/inspect_ref/igs/iglist.html#FOODS).  
+ 
+a. 
+*Field examinations of acidified products should 
+include checking for damaged or destructive container 
+closures (non-destructive).* 
+ 
+b. 
+Sample Collection - Collect samples for pH testing.  
+Random sampling is essential to reveal pH variations. 
+ 
+1) 
+For containers larger than 28 oz. net weight, 
+select one normal container from each of 12 
+randomly selected cases. 
+ 
+2) 
+For all other containers, 28 oz. net weight or 
+less, select 2 normal containers from each of 12 
+randomly selected cases. 
+ 
+If abnormal containers are encountered, follow 
+IOM, Sample Schedule 2 at: 
+ 
+http://www.fda.gov/ora/inspect_ref/iom/ChapterTe
+xt/sschedule2.html
+ 
+Collect all abnormal containers (up to 24) in 
+addition to the normal containers collected for 
+pH testing. 
+ 
+3) 
+AF where pH is a critical factor in the 
+scheduled process at pH greater than 4.6 should 
+be treated according to instructions for LACF 
+and sampled for pH to confirm the product pH is 
+not higher than the maximum value specified in 
+the scheduled process.   
+ 
+4) 
+Questionable Products 
+ 
+a) 
+When in doubt as to whether a product is LACF 
+or AF, contact CFSAN/Division of 
+Enforcement/Imports Branch/HFS-606 for 
+guidance.  Label ingredients listings may 
+help identify acidified or partially 
+acidified products and enable a regulatory 
+decision to be made without laboratory 
+analysis.  When possible, obtain shipping 
+documents, labels and other information to 
+identify the actual manufacturer and the 
+actual name of the product.  Also attempt to 
+obtain processing information.  If a decision 
+cannot be made based on this information, 
+sampling for pH, water activity, and possibly 
+water phase salt or soluble solids may be 
+necessary.  Samples to determine a product’s 
+status should consist of 3-6 containers. 
+ 
+b) 
+An acid food that contains a small amount of 
+low-acid ingredient(s) and has an equilibrium 
+pH that does not differ significantly from 
+the pH of the predominant acid or acid food 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART III 
+PAGE 8 
+ 
+FORM 2438 g (10/91) 
+ 
+ingredient (i.e., formulated acid food) is 
+not covered under 21 CFR 114.  Examples of 
+formulated acid foods are some salsas, 
+dressings, and condiment sauces. 
+ 
+• 
+To determine whether the small amounts of 
+low-acid ingredient(s) result in a 
+significant pH difference, obtain: 
+ 
+1. Quantitative formulation (obtain 
+quantitative information using the same 
+units of measurement or percentages). 
+ 
+2. pH of each ingredient in the 
+quantitative formulation or other 
+evidence that determines whether 
+ingredients being used are acid or low-
+acid components (i.e., raw chopped 
+vegetables used as ingredient(s)). 
+ 
+3. Complete description of the formulation 
+process (how ingredients are processed 
+and formulated together).   
+ 
+4. pH of the acid(s) and/or food(s) 
+ingredients mixed together in the same 
+proportion in which the acid(s) and/or 
+acid food(s) ingredients appear in the 
+product formulation. 
+ 
+5. pH (minimum of six units when obtaining 
+information  to determine if product is 
+covered) of the finished product 
+(obtain from the firm, if available, or 
+through sampling). Relate these samples 
+to the mixed acid ingredients pH and 
+the individual ingredient pH levels. 
+ 
+• 
+Finished products collected to determine 
+pH for the purpose of supporting 
+regulatory action should be collected per 
+IOM sample schedule chart 2. 
+ 
+• 
+Submit the information to CFSAN/Division 
+of Enforcement/Imports Branch/HFS-606 for 
+review to determine if there is a 
+significant difference between the pH of 
+the finished product and the predominant 
+acid(s) or acid food(s). 
+ 
+c) 
+If a shipment contains numerous questionable 
+products (unclear whether many products are 
+AF or LACF), call CFSAN/Division of 
+Enforcement/Imports Branch/HFS-606 to arrange 
+for a review of the invoice and guidance on 
+product status and/or appropriate sample 
+collection and analyses to determine product 
+status. 
+ 
+5) 
+Aseptically Packaged LACF/AF 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART III 
+PAGE 9 
+ 
+FORM 2438 g (10/91) 
+ 
+ 
+Some new aseptic packaging systems use high 
+temperature for a relatively short period of time 
+to render the product commercially sterile and 
+use various means (chemicals, irradiation, etc.) 
+for container sterilization.  Containers used for 
+these products are usually flexible or semi-rigid 
+cartons which cannot tolerate high temperature 
+(e.g., multi-layer, fiberboard, laminated boxes; 
+molded-form/fill/seal cups). 
+ 
+Most of those products will be liquids or semi-
+solids, e.g., milk, soy bean products (drinks, 
+TOFU), teas, puddings, fruit purees, etc.  *If 
+any products are encountered which appear to 
+contain small pieces of food (e.g., cream of 
+mushroom soup), collect documentary evidence for 
+particulate size determination and photos of the 
+suspect product and submit to CFSAN/Division of 
+Enforcement/Imports Branch/HFS-606, 5100 Paint 
+Branch Parkway, College Park, MD 20740.  Hold the 
+entry pending CFSAN, HFS-606 review.* 
+ 
+NOTE:  The LACF Web Application System can be 
+used to determine whether a product is 
+LACF, AF, aseptically processed or aw 
+controlled. 
+ 
+The “Process File Menu” link provides some of the 
+information contained on the process filing forms 
+and can be used to determine whether the process 
+was filed as LACF or AF, the container type and 
+sizes, the processing method and whether water 
+activity or maximum pH are critical factors.  
+Authorized FDA employees can obtain facsimiles of 
+process filing forms directly from the LACF Web 
+Application System. 
+ 
+NOTE - SECURITY/CONFIDENTIALITY MEASURES: 
+  
+Due to the confidential information contained 
+in the LACF Process File, special precautions 
+should be taken to maintain the 
+confidentiality and to ensure the security of 
+the data generated from the system.  The 
+reports generated from this system should be 
+handled with discretion, secured when not in 
+use and destroyed in an appropriate manner 
+when no longer needed, i.e., 
+ 
+• 
+Only FDA employees are to have access to 
+these reports. 
+ 
+• 
+These reports may not be reproduced or 
+copied in any way. 
+ 
+• 
+These reports should be secured in a 
+locked cabinet when not in use or awaiting 
+distribution. 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART III 
+PAGE 10 
+• 
+These reports may be placed in the case 
+files, in the section which is not for 
+public information or distribution. 
+ 
+• 
+These reports should be destroyed after 
+use, including reports generated in error. 
+ 
+6) 
+Reporting 
+ 
+a. 
+Products Released Without Field 
+Examination or Sample Collection. 
+ 
+*Report time spent determining that a 
+product meets registration and filing 
+requirements, including measuring 
+containers, as “Entry Review” and ensure 
+that the appropriate PAC is used (e.g. 
+03003 for Import LACF or 03003A for Import 
+AF)* 
+ 
+b. 
+LACF/AF or Samples Collected for Abnormal 
+Containers 
+ 
+Report the total number of containers 
+examined and estimate the percentage of 
+abnormal in the lot. 
+ 
+Report the number of each type of abnormal 
+(hard swell, etc., refer to IOM, Sample 
+Schedule 2 at: 
+http://www.fda.gov/ora/inspect_ref/iom/Cha
+pterText/sschedule2.html
+or defective containers observed (leaker, 
+seam defects or other abnormalities). 
+E. 
+Fraudulent Entries
+ 
+*Entry reviewers should look for suspicious entries; for example, 
+mushrooms from one country shipped by an exporter in another 
+country.  Fraudulent entries of other mushroom products, bamboo 
+shoots, and water chestnuts have also been found.  If fraud is 
+suspected, it should immediately be brought to the attention of 
+the district compliance branch via supervisory channels.  
+Appropriate evidence needs to be collected such as documents, 
+product samples and interviews of involved personnel.  OCI should 
+be consulted early in the investigation.  Any suspicious entries 
+should also be brought to the attention of CFSAN/Division of 
+Enforcement/Imports Branch/HFS-606 for further instructions. 
+ 
+Report time under OASIS Activity Code #23 – Field Exam (FEX) when 
+conducting review of can codes to verify the actual manufacturer 
+and use the appropriate PAC (e.g. 03003 or 03003A).* 
+ 
+FORM 2438 g (10/91) 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART IV 
+PAGE 1 
+ 
+PART IV - ANALYTICAL
+ 
+ 
+I. 
+ANALYTICAL LABORATORIES
+ 
+A. 
+pH Determination - Normal servicing laboratories 
+ 
+B. 
+Microbiological and Physical 
+ 
+1. 
+Initial Analysis - Normal servicing laboratories 
+ 
+2. 
+C. botulinum confirmation - SRL for NE, CR, and SE Regions, 
+PRL-NW for SW, and PA Regions. 
+ 
+C. 
+Toxin Confirmation - Division of Microbiological Studies, HFS-515. 
+ 
+D. 
+Cover chemical contaminants and food additives under CP 7309.006, 
+Import Food and Color Additives, not under the AF/LACF program. 
+ 
+E. 
+Heat Resistance - SRL for all Districts. 
+ 
+F. 
+Filth and Extraneous Matter - Normal servicing laboratories 
+ 
+G. 
+Headspace Gas Analysis by Gas Chromatograph (GC) - Normal 
+servicing laboratories 
+ 
+H. 
+Water Activity (aw) - Normal servicing laboratories 
+ 
+ 
+II. 
+ANALYSIS
+ 
+A. 
+Low-Acid Canned Foods (LACF)
+ 
+1. 
+Microbiological and Physical:  Refer to Bacteriological 
+Analytical Manual for Foods (BAM), Rev A, 8th Ed. or most 
+current (http://www.cfsan.fda.gov/~ebam/bam-toc.html). 
+ 
+• 
+Districts so equipped and trained should use the gas 
+chromatography (GC) method for headspace gas provided in 
+the BAM, *8th Ed.* 
+ 
+• 
+Laboratories that do not have the necessary equipment 
+(GC) should perform headspace gas analysis according to 
+the BAM, *8th Ed.* 
+ 
+• 
+Perform teardown seam evaluations on abnormal cans (to 
+the extent that the data obtained are meaningful) and on 
+a representative number of normal cans (see CPG 7120.16) 
+(http://www.fda.gov/ora/compliance_ref/cpg/cpgfod/cpg520-
+200.html).  Perform microleak examinations where 
+appropriate.  Perform vacuum tests aseptically (LIB No. 
+2723) on the normal cans selected for culturing and seam 
+teardown exams. 
+ 
+• 
+Send sample portions and cultures to the appropriate 
+servicing laboratory for C. botulinum confirmation. 
+ 
+All preformed C. botulinum tests for toxin in samples and 
+ 
+FORM 2438 g (10/91) 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART IV 
+PAGE 2 
+production of toxin by cultures should be confirmed by 
+CFSAN. 
+ 
+NOTE: If examination shows gram-positive or gram- 
+variable rods typical of either the Bacillus or 
+Clostridium genus, in the absence of other 
+morphological types and microleaks, and if no 
+defective can seams are found, or if no can seam 
+measurements are outside of can manufacturers' 
+specifications, heat resistance studies may be 
+required.  Follow this procedure: 
+ 
+a. Immediately notify CFSAN/Low-Acid and Acidified Canned 
+Foods Team, HFS-617 with a summary of the cultural 
+findings as well as can seam and microleak data.  
+RFPTB will instruct the District if heat resistance 
+studies are needed. 
+ 
+b. Submit a completed Heat Resistance Report (Attachment 
+B) and the culture(s) to SRL if heat resistance 
+studies are necessary.  Also, send copy of analytical 
+worksheet and collection report. 
+ 
+c. SRL should start analysis of the cultures immediately 
+upon receipt. If closer worksheet review by HFS-617 
+reveals that heat resistance studies are not needed, 
+SRL will be told to stop the analysis. 
+ 
+NOTE: The Home District will notify SRL to destroy the 
+cultures. 
+ 
+2. 
+Water Activity (aw)
+ 
+Please refer to the most current AOAC Methods available, 
+unless stated otherwise. 
+ 
+In products having a pH above 4.6, when aw may be a part of 
+the preservation means, determine aw using "Official Methods 
+of Analysis of the Association of Official Analytical 
+Chemists (AOAC)," *16th Edition (1995) 42.1.03 (978.18)*. 
+ 
+• 
+Where the product status is in doubt (i.e., LACF/AF or 
+exempt) it may be necessary to determine the aw to 
+classify the products.  Products with aw values at or 
+below 0.85 are neither LACF nor acidified.  Measurement 
+systems specified in b) below should always be used. 
+ 
+• 
+If sugar may be controlling aw, determine the percent 
+sucrose (Brix) or soluble solids.  If salt content may 
+be controlling aw, determine and report the percent salt 
+as water phase salt. 
+ 
+"Water phase salt" means the percent salt (sodium 
+chloride) in finished product as determined by the 
+method described in the AOAC, *16th Ed., 35.1.18 
+(937.09)*, under "Volumetric Method - Official Final 
+Action," which is incorporated by reference, multiplied 
+by 100 and divided by the percent salt (sodium chloride) 
+plus the percent moisture in the finished products as 
+ 
+FORM 2438 g (10/91) 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART IV 
+PAGE 3 
+determined by the method described in AOAC, *16th Ed., 
+35.1.13 (952.08)*, under "Total Solids for all Marine 
+Products, Except Raw Oysters - Official Final Action." 
+ 
+a. 
+Initial Screening:  For all size containers, 
+determine the aw of 3 units using the Abbeon aw 
+Value Analyzer or other approved analyzer (AOAC, 
+16th Ed., 42.1.03 (978.18B)*. The Decagon Aqualab 
+Hygrometer is faster than the Abbeon analyzer. 
+NRL, SRL, and SAN will also determine the aw for 
+samples receiving an initial aw screening in 
+their laboratories by measurement of 
+microcrystalline cellulose weight change.  
+Standardize the instrument using salt slush, 
+AOAC, *16th Ed., 42.1.03(978.18D, E)*. 
+ 
+b. 
+Confirmation:  Determine the aw of 3 containers 
+using the: 
+ 
+• 
+Beckman Hygroline Moisture/Humidity Meter, 
+• 
+Decagon Aqualab Hygrometer, 
+• 
+Weather Measure Relative Humidity System, 
+or 
+• 
+Rotronic AG. 
+ 
+If aw is confirmed at or above 0.90, refer the 
+results of analysis to the District Compliance 
+Branch of the collecting District.  The Lab or 
+District Compliance Branch may contact the to 
+Low-Acid and Acidified Canned Foods Team, HFS-
+617, for any direct questions concerning analysis 
+of foods in which water activity or salt content 
+may be at least in part a means of preservation. 
+ 
+B. 
+Acidified Foods
+ 
+pH Analysis
+ 
+1. 
+Use normal containers.  Refer to AOAC *16th Ed., 42.1.04 
+(981.12)* except: 
+ 
+Determine the pH on the container mixture only, by opening 
+the container, inserting the electrode(s) and measuring the 
+pH.  Do not make separate pH determinations on both the 
+liquid and the solid.  If the product is freshly packed and 
+not in equilibrium, blend entire contents of can and test 
+pH. 
+ 
+• 
+Carry out all pH determinations to two decimal 
+places, e.g., 4.40. 
+ 
+2. 
+Number of containers for pH analysis: 
+ 
+The total sample size for containers 28 oz. net weight or 
+smaller is 24 containers.  The total sample size for all 
+others is 12 containers. 
+ 
+ 
+FORM 2438 g (10/91) 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART IV 
+PAGE 4 
+a. 
+One analyst will determine the pH of half of the 
+sample containers and record the name, model and 
+serial number of the pH meter on the Analyst 
+Worksheet. 
+ 
+b. 
+If one or more containers have pH values equal to or 
+greater than 4.40, or if the mean pH plus 2 standard 
+deviations is equal to or greater than 4.40, a second 
+analyst should promptly (same day) re-determine the pH 
+values of the same containers using a different pH 
+meter, and record the name, model, and serial number 
+of the pH meter on the Analyst Worksheet. 
+ 
+c. 
+If one or more containers have pH values above 4.65, 
+or if the mean pH plus 2 standard deviations (as 
+determined separately from either analyst's results) 
+is above 4.65, both analysts will analyze the 
+remaining half of the sample using the same respective 
+pH meters as were used on the first half of the 
+sample. 
+ 
+d. 
+When the analysis is complete, regardless of whether 
+it was necessary to analyze all containers in the 
+sample or only half of them, consider all of the pH 
+values determined by the first analyst together as the 
+"original analysis." If a second analyst was required, 
+consider all of the pH values determined by the second 
+analyst together as the "check analysis." Never 
+average the two analysts’ results together. 
+ 
+C. 
+Acidified and LACF 
+ 
+ 
+Toxin Confirmation
+ 
+For confirmation of preformed and/or cultured C. botulinum 
+toxin, send a portion of the product and the subculture 
+enrichment to the CFSAN/ Office of Plant and Dairy Foods/ 
+Division of Microbiological Studies/ Microbiological Methods 
+Development Branch, HFS-516, along with copies of the 
+analyst worksheets, collection report, etc. 
+ 
+D. 
+Container Integrity/Abnormal Containers 
+ 
+Container Integrity 
+ 
+Container integrity problems, especially seam defects, are 
+most significant with low-acid canned foods.  They are of 
+primary importance from a public health standpoint when 
+canned seafood is involved.  Seam defects are less important 
+from a public health standpoint with acidified foods unless 
+contamination has resulted in elevated pH levels at or above 
+4.75. 
+ 
+In examining canned foods for container integrity, the 
+analyst should examine each can for visible can seam defects 
+and describe these defects.  Guidance in describing visible 
+defects is available in the AOAC chart, 2000, Classification 
+of Visible Can Defects (Exterior).
+ 
+ 
+FORM 2438 g (10/91) 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART IV 
+PAGE 5 
+ 
+FORM 2438 g (10/91) 
+ 
+When visible can seam defects are found, the analyst should 
+attempt to determine the severity of the defects.  This is 
+done by determining the amount of overlap remaining in the 
+seam at the point of the defect.  The defect rating 
+procedure provided below was devised as a means to judge the 
+severity of “droops” and “vees” encountered in the cover 
+hook of can double seams: 
+ 
+Rate the defects in the cover hook (“droops”, “vees”) in the 
+same manner as the juncture on cylindrical cans.  Defects 
+should be rated on a percentage scale, in ten (10) percent 
+increments, from 100 to 0%.  If the cover hook at the defect 
+is even with the rest of the cover hook on the torn-down 
+seam, it is given a 100% rating.  If the cover hook is 
+reduced by 70% the defect is given a 30% rating.  When the 
+cover hook at the defect is reduced to a point where it is 
+even with or below the bottom of the seam and there would be 
+no overlap between the cover hook and body hook, the defect 
+is given a 0% rating. 
+ 
+• 
+Abnormal Containers 
+ 
+Conduct the following additional analyses on the 
+abnormal containers:  gas, odor and appearance, 
+net weight, drained weight, can seam teardown 
+and condition of container interior.  If the pH 
+of abnormal containers is greater than 4.65, 
+analyze for C. botulinum toxin. 
+ 
+• 
+Glass containers and Semirigid and Flexible 
+Packaging 
+ 
+Perform visual examinations, microleak 
+examinations and destructive testing where 
+appropriate.  Refer to the BAM, Chapter 22B 
+(http://www.cfsan.fda.gov/~ebam/bam-22b.html), 
+"Examination of Containers for Integrity", pages 
+22.35 - 22.85, for methods of analysis.  When 
+necessary, questions should be referred to 
+CFSAN, Office of Compliance, Low-Acid and 
+Acidified Canned Foods Team (HFS-617), phone 
+(301) 436-2411. 
+ 
+E.  *Staphylococcal Enterotoxin In Canned Mushrooms 
+ 
+General Instructions: 
+ 
+Perform enterotoxin testing if: 
+ 
+1. Product abuse (e.g. temperature, outbreaks, etc.) is 
+suspected. 
+ 
+OR 
+ 
+2. Instructed by Compliance Program or Field Assignment to 
+analyze the sample for Staphylococcus. 
+ 
+If viable Staphylococcus sp. colonies are observed by: 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART IV 
+PAGE 6 
+ 
+FORM 2438 g (10/91) 
+ 
+• 
+most probable number (MPN) when performed as directed 
+per BAM Chapter 12 
+(http://www.cfsan.fda.gov/~ebam/bam-12.html)where the 
+results are >11,000  
+ 
+AND 
+ 
+• 
+direct plate counts when performed as directed per BAM 
+chapter 2 (http://www.cfsan.fda.gov/~ebam/bam-
+2.html)indicates a level of 10,000/ gram  
+ 
+*Enterotoxin Analysis: 
+ 
+Follow the methodology outlined in BAM 8th Ed., Revision A, 
+1998 or most current Ed., Ch. 13, “Staphylococcal Enterotoxins” 
+(http://www.cfsan.fda.gov/~ebam/bam-toc.html), beginning on 
+page 13.01. 
+ 
+The laboratory will individually test each sub-sample using the 
+TECRATM ELISA with proper procedures followed accordingly. 
+ 
+NOTE: Under no circumstances should positive TECRATM ELISA 
+results be conveyed to a regulated firm or consumer 
+without confirmation. The TECRATM ELISA is intended as a 
+screening method only. 
+ 
+NOTE: The total contents of each subsample should be retained 
+until the original analyses are completed to ensure that 
+a sufficient amount of product is available for 
+subsequent additional and confirmation tests, if 
+necessary. 
+ 
+TECRATM ELISA Test Results 
+ 
+1. Negative result - the laboratory need not conduct further 
+analysis for enterotoxin. The sample is considered 
+“negative” and no other regulatory or follow-up action is 
+warranted. The laboratory should classify this particular 
+analysis as lab class 1, in compliance.  
+ 
+2. Positive result – the laboratory should analyze the 
+original sample using the VIDAS method for confirmation 
+refer to BAM 8th Ed., Revision A, 1998 or most current 
+Ed., Ch. 13A, “Staphylococcal Enterotoxins: Micro-slide 
+Double Diffusion and ELISA Based Methods”(i.e., VIDAS)”. 
+See (http://www.cfsan.fda.gov/~ebam/bam-toc.html) 
+ 
+TECRATM ELISA and the VIDAS Tests Results 
+ 
+1. When the TECRATM ELISA and the VIDAS Tests are positive, the 
+following should be sent to CFSAN for re-confirmation 
+analysis: 
+ 
+(a) 
+The remaining portion of the original TECRATM ELISA 
+positive tested extract(s) 
+ 
+(b) 
+The remaining portion of the positive tested 
+extract(s) from the VIDAS System 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART IV 
+PAGE 7 
+ 
+FORM 2438 g (10/91) 
+ 
+(c) 
+If possible, send at least 100 grams of the remaining 
+reserve portion of the positive subsample(s) 
+ 
+(d) 
+A copy of the analytical worksheets 
+ 
+(e) 
+A copy of the collection report 
+ 
+to 
+ 
+FDA/ CFSAN/ Microbiology Methods Research Branch 
+Attention: Reginald Bennett, HFS-516 
+5100 Paint Branch Parkway 
+College Park, MD 20740. 
+ 
+NOTE: If additional information concerning sample 
+preparation, handling or shipping to CFSAN is needed 
+contact Reginald Bennett at (301) 436-2009. 
+ 
+Confirmation analyses will be performed on the extract 
+and reserve subsample(s) as appropriate. 
+ 
+Districts should wait for Center confirmation before 
+finalizing any regulatory action. 
+ 
+2. When the result of the TECRATM ELISA is positive and the 
+VIDAS is negative then: 
+ 
+Check for presence of peroxidase. 
+ 
+NOTE: Some foods contain peroxidase which can cause a false-
+positive reaction with the TECRATM ELISA; therefore if 
+this scenario presents itself the analyst should 
+inactivate the peroxidase and retest.  
+ 
+To determine peroxidase presence, refer to the method 
+outlined in BAM chapter 13A “Staphylococcal Enterotoxins: 
+Micro-slide Double Diffusion and ELISA-based Methods”, 
+Section “Extraction of Enterotoxins from Foods for ELISA 
+Assays”, A. General Precautions.  If peroxidase is present, 
+inactivate the peroxidase using the methods outlined in the 
+General Precautions section and retest. 
+ 
+NOTE: Under no circumstances should positive TECRATM ELISA 
+results be conveyed to a regulated firm or consumer 
+without confirmation. The TECRATM ELISA is intended as 
+a screening method only. 
+ 
+If the TECRATM ELISA retest remains positive, send the 
+extract used for the TECRATM ELISA and the reserve portion 
+for all of the original sub-samples to: 
+ 
+FDA/ CFSAN/ Microbiology Methods Research Branch 
+Attention: Reginald Bennett, HFS-516 
+5100 Paint Branch Parkway 
+College Park, MD 20740.* 
+ 
+Methods Contact 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART IV 
+PAGE 8 
+ 
+FORM 2438 g (10/91) 
+ 
+• 
+Reginald Bennett, CFSAN/Office of Plant and Dairy Foods/ 
+Division of Microbiological Studies/ Microbiological Methods 
+Research Branch/HFS-516, (301) 436-2009, 
+RBennett@CFSAN.FDA.GOV  
+ 
+• 
+Marsha Hayden, ORO/Division of Field Science/HFC-140, (301) 
+827-1039, MHayden@ORA.FDA.GOV  
+ 
+CFSAN’s Microbiological Methods Research Branch will provide 
+results to CFSAN/Office of Compliance/Division of Enforcement.  
+The Division of Enforcement will contact the District’s 
+Compliance Branch with the results for appropriate follow-up.* 
+ 
+III. REPORTING
+ 
+ 
+pH Determination
+ 
+If any normal container of acidified product has a pH at or above 
+4.65 or the mean plus two standard deviations (as determined by 
+either analyst's total result(s) is at or above 4.65, immediately 
+refer the results of analysis to the District Compliance Branch.  
+Do not average the two analysts' pH results. 
+ 
+ 
+FACTS Reporting
+ 
+The analyzing laboratory will report results for each sample of 
+low acid and acidified products into FACTS using PAF = ACD. 
+ 
+The following Problem Area Flags should be used: 
+ 
+AFD = Acid Food Analysis 
+ 
+ACF = Acidified Food Analysis 
+ 
+LAF = Low-Acid Canned Food Analysis 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART V 
+PAGE 1 
+ 
+FORM 2438 g (10/91) 
+ 
+PART V - REGULATORY/ADMINISTRATIVE STRATEGY
+ 
+ 
+If the Center for Food Safety and Applied Nutrition determines that a health 
+hazard exists, determine the disposition of the lot after it has been refused 
+admission and inform, CFSAN, HFS-606. If the lot has been re-exported, HFS-606 
+will inform the International Affairs Staff (HFY-50), who will notify 
+appropriate authorities of the countries to which the lot was shipped. 
+ 
+Products which meet the following criteria shall be considered for detention: 
+  
+1. 
+LACF Products Based on Microbiological Findings 
+ 
+Advise HFS-606 of any detentions. Follow instructions in the Regulatory 
+Procedures Manual (Import Alerts) 
+(http://www.fda.gov/ora/compliance_ref/rpm_new2/ch9dirs.html) and 
+Compliance Policy Guide Section 520.200 "Canned Foods - Seam Defects" 
+(http://www.fda.gov/ora/compliance_ref/cpg/cpgfod/cpg520-200.html). 
+ 
+2. 
+Water Activity Controlled Products Based on pH and aw Findings
+ 
+*When analysis identifies a water activity controlled product with pH 
+above 4.6 for which there is no process filing or the water activity is 
+confirmed above the maximum aw listed in the filed scheduled process, 
+contact HFS-606 for further instructions.  
+ 
+In addition, when a sample is collected for water activity, the district 
+import branches should either check the LACF Web Application System to 
+determine whether a process has been filed or the maximum water activity 
+value filed should be reported to the laboratory with the collection 
+information. The reason for analyses should be noted either “analyses to 
+determine if LACF” or if known “to confirm compliance with a filed 
+maximum water activity value”.* 
+ 
+3. 
+Acidified Products Based on pH Findings
+ 
+*Consult “CPG Section 520.300 Acidified Low-Acid Canned Foods – 
+Adulteration Due to High pH (CPG 7120.25)” 
+(http://www.fda.gov/ora/compliance_ref/cpg/cpgfod/cpg520-300.html).* 
+ 
+If sample results meet criteria stated in CPG Section 520.300, send all 
+pertinent documents, such as the analytical worksheets, collection 
+report, entry package and complete labeling, to HFS-606 along with 
+Detention Request. List the FCE number on the documents. 
+ 
+4. 
+Abnormal Containers (Acidified, LACF, and aw controlled Products)
+ 
+• 
+If the abnormal rate is 1% or greater, send a Detention Request 
+in addition to all pertinent documents as listed above to 
+CFSAN, HFS-606.  (IOM Sample Schedule Chart 2 describes the 
+different types of abnormal containers). 
+ 
+• 
+When submitting any collection reports or analytical worksheets 
+always send copies of labels, invoices/packaging lists or other 
+documents which may identify the manufacturer. 
+ 
+5. 
+Firm's Failure to Register or to have Process on File
+ 
+In most cases, this decision will be based on a DTR or DER, rather than 
+a physical sample.  
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART V 
+PAGE 2 
+ 
+FORM 2438 g (10/91) 
+ 
+a. 
+Detain the shipment if the steps in PART III, pages 1 and 2 have 
+been completed and the firm has not registered and has not filed 
+the necessary processing information with FDA.  
+ 
+Consider providing the importer with: 
+ 
+• 
+The FDA Importer's Guide/Low Acid Canned and Acidified 
+Foods, and/or 
+ 
+• 
+Importing Foods into the United States. 
+ 
+• 
+Also refer them to the Center’s Webpage “Acidified and Low-
+Acid Canned Foods” at http://vm.CFSAN.fda.gov/~comm/Lacf-
+Toc.html. At this site, they can download the regulations, 
+registration and process filing forms, instructions for 
+completing the forms and there are links to FDA inspection 
+Guides, Import Alerts, Import Procedures and Importer’s 
+Guide.  
+ 
+These publications are available in each District or on-line at 
+the above site.  Additional copies may also be obtained through 
+HFS-565 (301) 436-1727.  
+ 
+b. 
+While evaluating the disposition of an entry, check the LACF Web 
+Application System. If the process filing form has been accepted 
+as indicated in the tracking file or the LACF Process File, the 
+entry may be released.  An accepted form in the tracking file will 
+have a date in the "Ready" slot. 
+ 
+6. 
+Import Alerts, Including #99-04
+ 
+Follow the criteria, instructions, and guidance contained in the Import 
+Alerts.  Release of products should only be given with concurrence of 
+CFSAN/Imports Branch, HFS-606 and DIOP HFC-170 should also be notified. 
+ 
+Import Alert # 99-04 "Detention Without Physical Examination Of 
+Manufacturers of Low-Acid Canned Foods and Acidified Foods" was designed 
+only for companies that have already registered with FDA (have an FCE 
+number). Do not recommend firms/products for inclusion in this alert if 
+the firm does not have an FCE number.  
+ 
+*Do not recommend firm/products for an Import Alert/DWPE solely based on 
+firm/product not registered and/or filed processes with FDA since all 
+LACF and acidified foods should be checked for registration and process 
+filing. However, it may be appropriate to recommend to CFSAN/DIOP an 
+Alert or Import Bulletin for non-registration and/or process filing if 
+the product may not readily be identified as a LACF or an acidified 
+food. It may also be appropriate to recommend a separate Import 
+Alert/DWPE of an LACF or acidified product if the violation involves a 
+health hazard and it does not fit into the criteria for being included 
+in Import Alert # 99-04. Recommendations may be made directly to 
+CFSAN/Import Branch (HFS-606) and an info copy sent to DIOP, HFC-170. 
+Follow the procedures in Chapter 9 of the Regulatory Procedures Manual* 
+ 
+ 
+7. 
+*Fraudulent Entries 
+ 
+When fraud is suspected, it should immediately be brought to the 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART V 
+PAGE 3 
+ 
+FORM 2438 g (10/91) 
+attention of the district compliance branch via supervisory channels.  
+Appropriate evidence needs to be collected, including documents, product 
+samples, and interviews of involved personnel.  OCI should be consulted 
+early in the investigation. Regulatory actions that can be taken for 
+fraudulent entries include refusal or may proceed after consultation 
+with the district compliance branch, CFSAN and OCI.* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART VI 
+PAGE 1 
+ 
+FORM FDA 2438c (5/84)  
+ 
+ 
+PART VI - ATTACHMENTS, REFERENCES, AND PROGRAM CONTACTS
+ 
+ 
+ATTACHMENTS
+ 
+Attachment A - Product Code List 
+Attachment B - Heat Resistance Report Form 
+Attachment C - Can Sizes 
+ 
+PROGRAM CONTACTS
+General Program Directions: 
+*Robyn Jones, CFSAN/ Office of 
+Compliance/ Division of Field 
+Program/ Compliance Program 
+Branch, HFS-636, (301) 436-2575, 
+Fax (301) 436-2657, 
+Robyn.Jones@FDA.HHS.GOV* 
+ 
+Regulatory, compliance matters or 
+interpretation of regulations/ what products 
+are covered: 
+*Angel Suarez, CFSAN/ Office of 
+Compliance/ Division of 
+Enforcement/ Import Branch, HFS-
+606, (301) 436-2146, ASuarez@ 
+FDA.HHS.GOV;  
+ 
+LACF Registration Control Coordinator (Plant 
+registration and filed scheduled processes):
+CFSAN/ Office of Compliance/ 
+Division of Field Programs/ 
+Regulatory Food Processing and 
+Technology Branch , HFS-618, 
+(301) 436-2411, LACF@FDA.HHS.GOV 
+ 
+Accounts for the Intranet LACF Web 
+Application System can be obtained from 
+http://intranet.cfsan.fda.gov/LACF/login.cfm
+If there are any problems, contact: 
+*Sharon Macuci, CFSAN/ Office of 
+Management System, HFS-676, 
+(301) 436-1865, 
+SMacuci@FDA.HHS.GOV
+ 
+Celines Roberts, CFSAN/ Office 
+of Management System, HFS-676, 
+(301) 436-1476, 
+CRoberts@FDA.HHS.GOV* 
+ 
+Questions regarding the preservation, 
+processing or packaging of LACF/AF or 
+analysis of foods in which pH, water 
+activity, or salt content may be at least in 
+part a means or preservation: 
+ 
+ 
+Susan Brecher, CFSAN/Office of 
+Compliance/ Division of Field 
+Programs/ Low-Acid and Acidified 
+Canned Foods Team,  HFS-617, 
+(301) 436-1781, 
+SBrecher@FDA.HHS.GOV  
+Import Procedures, Joint BCBP Compliance 
+Enforcement Actions and Coverage: 
+ORO/ Division of Import 
+Operations and Policy, HFC-170, 
+(301) 443-6553 
+Inspectional History: 
+ORO/ Division of Field 
+Investigations, HFC-130, (301) 
+827-6691 
+Confirmation of Preformed and/or Cultured C. 
+botulinum toxin: 
+*Richard C. Whiting, 
+CFSAN/Office of Plant and Dairy 
+Foods, HFS-301, (301) 436-1925, 
+Rwhiting@FDA.HHS.GOV
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART VI 
+PAGE 2 
+ 
+FORM FDA 2438c (5/84)  
+ 
+Confirmation of Staphylococcal enterotoxin: 
+*Reginald Bennett, CFSAN/Office 
+of Plant and Dairy Foods/ 
+Division of Microbiological 
+Studies/ Microbiological Methods 
+Research Branch, HFS-516, (301) 
+436-2009, Rbennett@FDA.HHS.GOV * 
+ 
+Industry Education: 
+CFSAN/Office of Constituent 
+Operations/ International Policy 
+in Industry Outreach Branch, 
+HFS-585, (301) 436-1714 
+ 
+Analytical Methods Inquiries: 
+ 
+*Marsha Hayden, ORO/ Division of 
+Field Science, HFC-140, (301) 
+827-1039, MHayden@FDA.HHS.GOV* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ 
+TRANSMITTAL NO:  
+PART VII 
+PAGE 1 
+ 
+FORM FDA 2438c (5/84)  
+ 
+ 
+PART VII - CENTER RESPONSIBILITIES
+ 
+1. 
+Center Analyses for Program Support
+ 
+*Confirmation of preformed toxin samples and toxin production by culture 
+isolates and Staphylococcal Enterotoxin, CFSAN, Office of Plant and 
+Dairy Foods/ Division of Microbiological Studies/ Microbiological 
+Methods Research Branch, HFS-516, R.C. Whiting, S. Sharma, and R.W. 
+Bennett (SET).* 
+ 
+2. 
+Evaluation Requirements
+ 
+The Office of Compliance has the responsibility to prepare periodic 
+formal evaluations of this compliance program.  When completed and 
+cleared, the evaluations will be available for Agency personnel on 
+CFSAN’s OC Intranet site 
+(http://intranet.cfsan.fda.gov/OC/pages/panda.htm).  Additionally, the 
+evaluations should appear on CFSAN’s Internet website. 
+ 
+3. 
+Foreign Inspection Program
+ 
+On receipt of information from the foreign inspection program (Division 
+of Field Investigational, HFC-130), of noncompliant firms, the Center 
+will modify the lists of registered firms with filed processes and/or 
+submit a recommendation to DIOP to revise Import Alert #99-04 and 
+reflect the findings. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ATTACHMENT A 
+ 
+TRANSMITTAL NO:  
+PAGE 1 
+ 
+FORM FDA 2438g (10/91) 
+Import Acidified and Low-Acid Canned Foods Program 
+ 
+ 
+PRODUCT CODE LIST 
+ 
+The following product codes include both LACF and acidified products. These 
+codes are not all inclusive for LACF and Acidified products. Additionally, 
+some of the codes can be used for products which are either LACF or Acidified 
+foods. 
+ 
+PRODUCT DESCRIPTION
+INDUSTRY 
+CODE
+PRODUCT 
+CLASS
+Bakery Products, dough, mixes and icings 
+03 
+A, T,  
+U, Y 
+Macaroni and noodle products 
+04 
+C 
+Milk, Butter and Dried Milk Products 
+09 
+C, D, E, 
+F, G, Y 
+Cheese and Cheese Products 
+12 
+B, C, Y 
+Ice Cream and Related Products  
+13 
+G 
+Milk Substitutes and Imitation Milk Products 
+14 
+All 
+Egg and egg products 
+15 
+All but A 
+Fishery/ Seafood Products  
+16 
+All 
+Meat, Meat Products and Poultry (include only 
+game animals and birds, NOT APHIS inspected 
+products) 
+17 
+All 
+Vegetable Protein Products (Simulated meats) 
+18 
+All 
+Fruits and Fruit Products (Limited to avocado, 
+banana, black olives, exotic fruits, guava, 
+melon, papaya and other low-acid fruits) 
+20 – 22  
+All 
+Nuts and Edible Seeds 
+23 
+D, E,  
+F, Y 
+Vegetables and Vegetable Products (Exclude high 
+acid tomatoes, sauerkraut, fermented salt 
+stock pickles) 
+24 - 25 
+All 
+Dressing and Condiments (e.g. chili, puree, 
+chutney, pepper sauce, etc) 
+27 
+Y 
+Soft Drinks and Water (Only banana, chocolate, 
+coconut and other low-acid beverages) 
+29 
+A, Y 
+Beverages Bases, Concentrates and Nectars (Only 
+banana, coconut and other low-acid products) 
+30 
+B, G, K, 
+P, Y 
+Coffee and Tea (liquids only) 
+31 
+A, E, K, 
+P 
+Toppings, Non-fruit or Nut Origin 
+33 
+T, Y 
+Chocolate and Cocoa Products 
+34 
+H, J, Y 
+Gelatin, Rennet, Pudding Mixes and Pie fillings 
+(Only low-acid products) 
+35 
+C, D, E, 
+F 
+Food sweeteners (syrups and molasses and 
+imitation syrups, molasses and Honey) 
+36 
+B, D, Y 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ATTACHMENT A 
+ 
+ 
+TRANSMITTAL NO:  
+    PA GE 2 
+ 
+FORM FDA 2438c (5/84)  
+ 
+Multiple Food Dinners, Gravies, Sauces and 
+Specialties 
+37 
+A, B, C, 
+D, G, J, 
+Y 
+Soups 
+38 
+All 
+Prepared Salad Products  
+39 
+All 
+Baby (Infant and Junior) Food Products  
+40 
+All but X 
+Dietary Conventional Foods and Meal Replacements 
+41 
+All 
+. 
+ 
+ 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ATTACHMENT B 
+ 
+TRANSMITTAL NO:                                                                                         PAGE 1 
+ 
+FORM FDA 2438g (10/91) 
+HEAT RESISTANCE REPORTING FORM
+ 
+ 
+ 
+ 
+DISTRICT 
+ 
+ 
+SAMPLE NUMBER 
+ 
+ 
+DATE SENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRODUCT 
+ 
+ 
+MANUFACTURER AND/OR DISTRIBUTOR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SUBSAMPLE # 
+ 
+   CODE 
+ 
+ 
+CULTURE # 
+ 
+ TYPE OF CULTURE 
+ 
+ VERIFICATION 
+ 
+ 
+D240
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ATTACHMENT C 
+ 
+TRANSMITTAL NO:                                                    PAGE 1 
+ 
+FORM FDA 2438g (10/91) 
+CAN SIZES 
+ 
+In the canning trade can sizes are commonly referred to by symbols and 
+common names, e.g. 307 x 409 = No. 2 can.  The actual size is measured 
+in whole inches and fractions of 1/16th inches in diameter and height. 
+In the 307 x 409 example, the 3 = 3 inches & the 07 = 7/16th of an inch; 
+the 4 = 4 inches & the 09 = 9/16th of an inch, the 307 x 409 can is 3 
+7/16 inches in diameter & 4 7/16 inches in height. 
+ 
+ 
+Can Number 
+Inches 
+Can Dimensions 
+in Millimeters 
+(Diameter x 
+Height) 
+Common Name 
+202 x 202 
+2 2/16 x 2 2/16 
+54.0 x 54.0 
+None 
+202 x 204 
+2 2/16 x 2 4/16 
+54.0 x 57.2 
+2oz Mushroom 
+202 x 214 
+2 2/16 x 2 14/16 
+54.0 x 73.0 
+5oz Baby food 
+202 x 308 
+2 2/16 x 3 8/16 
+54.0 x 88.9 
+6oz Jitney 
+202 x 314 
+2 2/16 x 3 14/16 
+54.0 x 98.4 
+6oz 
+211 x 109 
+2 11/16 x 1 9/16 
+68.3 x 39.7 
+¼ lb tuna 
+211 x 200 
+2 11/16 x 2 
+68.3 x 50.8 
+4oz Pimiento – 
+211 Baby Food 
+211 x 210 
+2 11/16 x 2 10/16 
+68.3 x 66.7 
+6oz Junior Food 
+211 x 212 
+2 11/16 x 2 12/16 
+68.3 x 69.9 
+4oz Mushroom 
+211 x 214 
+2 11/16 x 2 14/16 
+68.3 x 73.0 
+None 
+211 x 300 
+2 11/16 x 3 
+68.3 x 76.2 
+8oz Short 
+211 x 304 
+2 11/16 x 3 4/16 
+68.3 x 82.5 
+8oz Tall 
+211 x 400 
+2 11/16 x 4 
+68.3 x 101.6 
+No.1 (Picnic) 
+211 x 414 
+2 11/16 x 4 14/16 
+68.3 x 123.8 
+No.211 Cylinder 
+211 x 600 
+2 11/16 x 6 
+68.3 x 152.4 
+Pint Olive 
+300 x 109 
+3 x 1 9/16 
+76.2 x 39.7 
+None 
+300 x 206 
+3 x 2 6/16 
+76.3 x 60.3 
+7oz Pimiento 
+300 x 308 
+3 x 3 8/16 
+76.2 x 88.9 
+None 
+300 x 400 
+3 x 4 
+76.2 x 101.6 
+8oz Mushroom 
+300 x 407 
+3 x 4 7/16 
+76.2 x 112.7 
+No. 300 
+300 x 409 
+3 x 4 9/16 
+76.2 x 115.9 
+None 
+301 x 106 
+3 1/16 x 1 6/16 
+77.8 x 34.9 
+¼lb Salmon  
+301 x 208 
+3 1/16 x 2 8/16 
+77.8 x 63.5 
+8oz Pimiento 
+301 x 408 
+3 1/16 x 4 8/16 
+77.8 x 114.3 
+No.1 Tall 
+301 x 411 
+3 1/16 x 4 11/16 
+77.8 x 119 
+No.1 Tall 
+303 x 406 
+3 3/16 x 4 6/16 
+81.0 x 111.1 
+No. 303 
+303 x 509 
+3 3/16 x 5 9/16 
+81.0 x 141.3 
+No. 303 Cylinder 
+307 x 113 
+3 7/16 x 1 13/16 
+87.3 x 46.0 
+1/2 lb Tuna 
+307 x 200.25 
+3 7/16 x 2 1/64 
+87.3 x 51.2 
+½ lb Salmon 
+307 x 202 
+3 7/16 x 2 2/16 
+87.3 x 54.0 
+None 
+307 x 203 
+3 7/16 x 2 3/16 
+87.3 x 55.6 
+No.1 Flat 
+307 x 208 
+3 7/16 x 2 8/16 
+87.3 x 63.5 
+None 
+307 x 214 
+3 7/16 x 2 14/16 
+87.3 x 73.0 
+Kitchenette 
+307 x 306 
+3 7/16 x 3 6/16 
+87.3 x 85.7 
+ No. 2 Vacuum 
+307 x 400 
+3 7/16 x 4 
+87.3 x 101.6 
+No.95 
+307 x 409 
+3 7/16 x 4 9/16 
+87.3 x 115.9 
+No. 2 
+307 x 509 
+3 7/16 x 5 9/16 
+87.3 x 141.3  
+None 
+307 x 510 
+3 7/16 x 5 10/16 
+87.3 x 142.9 
+Jumbo 
+307 x 512 
+3 7/16 x 5 12/16 
+87.3 x 146.1 
+No. 2 Cylinder 
+307 x 704 
+3 7/16 x 7 4/16 
+87.3 x 184.2 
+Quart Olive 
+307 x 710 
+3 7/16 x 7 10/16 
+87.4 x 193.7 
+32oz (Quart) 
+ 
+ 
+ 
+ 
+PROGRAM 
+7303.003 
+ATTACHMENT C 
+ 
+ 
+TRANSMITTAL NO:  
+    PA GE 2 
+ 
+FORM FDA 2438c (5/84)  
+ 
+401 x 205.5 
+4 1/16 x 2 11/32 
+103.2 x 59.5 
+No. 1 Tuna 
+401 x 206 
+4 1/16 X 2 6/16 
+103.2 x 60.3 
+No.1¼ (Veg.)  
+401 x 207.5 
+4 1/16 x 2 15/32 
+103.2 x 62.7 
+No.1¼ 
+401 x 211 
+4 1/16 x 2 11/16 
+103.2 x 68.3 
+No.1 Flat 
+401 x 411 
+4 1/16 x 4 11/16 
+103.2 x 119.1 
+No. 2½  
+404 x 307  
+4 4/16 x 3 7/16 
+108.0 x 87.3 
+No. 3 Vac. 
+404 x 414 
+4 4/16 x 4 14/16 
+108.0 x 123.8 
+No. 3 
+404 x 700 
+4 4/16 x 7 
+108.0 x 177.8 
+No. 3 Cyl (46oz) 
+502 x 510 
+5 2/16 x 5 10/16 
+130.2 x 142.9 
+No. 5 
+603 x 405 
+6 3/16 x 4 5/16 
+157.2 x 109.5 
+None 
+603 x 408 
+6 3/16 x 4 8/16 
+157.2 x 114.3 
+No. 5 Squat 
+603 x 700 
+6 3/16 x 7 
+157.2 x 177.8 
+No. 10 
+603 x 812 
+6 3/16 x 8 12/16 
+157.2 x 222.3 
+No. 12 (Gal.) 
+ 

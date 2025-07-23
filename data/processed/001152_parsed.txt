@@ -1,0 +1,537 @@
+UNITED STATES ENVIRONMENTAL PROTECTION AGENCY
+WASHINGTON, D.C. 20460
+;(i.o
+.
+.t..~
+~, 
+~~~
+"c~-'
+"
+~~,
+OFFICE OF PREVENTION,
+PESnCillES, AND TOXIC
+SUBSTANCES
+February 27, 2006
+ACTION MEMORANDUM
+SUBJECT:
+Inert Reassessment -Tannin (CAS Reg. No. 1401-55-4)
+FROM:
+Pauline 
+Wagner, 
+Chief Q ~~ 
+~ 
+~~"'('~) "'2..-\ 
+1.. , \ 0 (p
+Inert Ingredient Assessment Branch
+TO:
+Lois A. Rossi, Director
+Registration Division
+I.
+FQPA REASSESSMENT ACTION
+Action:
+Reassessment of one exemption from the requirement of a tolerance for
+tannin. The reassessment decision is to maintain ''as-is'' the one exemption
+from the requirement of a tolerance.
+Chemical: Tannin
+*Residues listed in 40 CPR 180.920 are exempt from the requirement of a tolerance when used in accordance with good agricultural
+practice as inert (or occasionally active) ingredients in pesticide formulations applied to growing crops only.
+Use Summary: Tannin is approved for use as a dispersing agent in pesticide
+fo1lIlulations applied to growing crops only under 40 CPR 180.920. Tannins also occur
+naturally in coffee and tea and nearly all wood and vegetation contain some fo1lIl of
+tannin in the leaves, twigs, bark, wood, or fruit, including a variety of plants utilized for
+food and feed (food grains, fruits, wines, teas, and forages).
+List Reclassification Determination: 
+The current List Classification for tannin is 3.
+Because EP A has determined that there is a reasonable certainty.that no harm to any
+population subgroup will result from aggregate exposure to tannin when used as a
+dispersing agent in pesticide formulations applied to growing crops only, the List
+Classification for tannin will change from List 3 to List 4B.
+II.
+MANAGEMENT CONCURRENCE
+I concur with the reassessment of the exemption from the requirement of a
+tolerance for the inert ingredient tannin, CAS Reg. No. 1401-55-4 and with the List
+reclassification determination, as described above. I consider the one exemption
+established in 40 CPR part 180.920 [formerly 40 CPR 180.1001(d)], to be reassessed for
+purposes of FFDCA' s section 408( q) as of the date of my signature, below. A Federal
+Register Notice regarding this tolerance exemption reassessment decision will be
+published in the near future.
+t!;1J.i1
+a R~
+Lois A. Rossi, Director
+Registration Division
+CC: Debbie Edwards, SRRD
+Joe Nevola, SRRD
+MEMORANDUM
+SUBJECT:
+FROM:
+Reassessment 
+of One Exemption from the Requirement of a Tolerance
+For Tannin (CAS Reg. No. 1401-55-4)
+Keri Grinstead ~JL~~~
+Inert Ingredient Assessment Branch (IIAB)
+Registration Division (7505C)
+TO:
+Pauline Wagner, Chief
+Inert Ingredient Assessment Branch (IIAB)
+Registration Division (7505C)
+Back2round
+Attached is the science assessment for tannin (tannic acid). It will be referred to
+as tannin or tannic acid throughout this document. Tannin has one exemption from the
+requirement of a tolerance under 40 CPR 180.920 when used as an inert ingredient
+(dispersing agent) in pesticide formulations applied to growing crops only. This
+assessment summarizes available information on the use, physical/chemical properties,
+toxicological effects, exposure profile, environmental fate, and ecotoxicity of tannin. The
+purpose of this document is to reassess the existing exemption from the requirement of a
+tolerance for residues of tannin when used as an inert ingredient (dispersing agent) in
+pesticide formulations as required under the Food Quality Protection Act (FQP A).
+Executive Summary
+This report evaluates the existing 40 CFR 180.920 exemption from the
+requirement of a tolerance for tannin when used as an inert ingredient (dispersing agent)
+in pesticide formulations applied to growing crops only.
+Compounds considered to be tannins vary from simple phenols such as gallic acid
+to macromolecules with molecular weights between 500 and 3000. Tannins occur
+naturally in coffee and tea and nearly all wood and vegetation contain some form of
+tannin in the leaves, twigs, bark, wood, or fruit. Tannins can also be found in a variety of
+plants utilized for food and feed including food grains (sorghum, millets, barley, dry
+beans, faba beans, peas, carobs, pigeonpeas, winged beans, and legumes), fruits (apples,
+bananas, blackberries, cranberries, dates, grapes, hawthorns, peaches, pears, persimmons,
+plums, raspberries, and strawberries), and in wines, teas, and forages (Chung et al. 1998).
+Page 1 of 13
+UNITED STATES ENVIRONMENTAL PROTECTION AGENCY
+Tannic acid is affirmed as Generally Recognized as Safe'CGRAS) by the Food and Drug
+Administration (FDA) for use as a direct food additive Cwith limitations) in numerous
+food and beverage products Csee Table 2).
+Tannin, orally administered to rabbits, was absorbed by the gastrointestinal tract,
+metabolized, and excreted within 24 hours. It has low acute, subchronic, and chronic oral
+toxicities in animal studies, and is nonmutagenic and noncarcinogenic. In a teratologic
+evaluation of tannic acid on rats and mice, no effects on nidation (implantation), maternal
+or fetal survival, or abnonnalities in soft or skeletal tissues were seen at dosages of up to
+135 mgikg bw/day (mice) and 180 mgikg bw/day (rats) for ten consecutive days during
+pregnancy. In addition, a three generation rat reproduction study resulted in a NOAEL of
+60 mgikg bw/day and a LOAEL of 117 mgikg bw/day (lower pup weights at weaning),
+with no effects on fertility, gestation, viability, or lactation indices at any dose level.
+Suppressed reproductive activity was observed in mice kept on a continuous 8% tannic
+acid diet prior to and throughout the breeding cycle(s).
+The environmental fate of tannin will limit its likelihood of reaching either
+surface (drinking water) or ground water or bioaccumulating in the environment. Tannin
+is expected to biodegrade in the environment with ultimate aerobic degradation estimated
+to be weeks and primary degradation estimated to be days. Migration to groundwater
+drinking water sources is possible in sandy soils, but will be limited in other soils by its
+rate of primary degradation and its strong sorption to soils and sediment and, therefore,
+exposures of concern via drinking water are likely to be low.
+The primary route of exposure to tannin from its use as an inert ingredient in
+pesticide formulations is expected to be through consumption of food to which pesticide
+products containing tannin have been applied. Residential exposures (dermal and
+inhalation) of concern are not expected based on its use pattern, nonvolatile nature, and
+instability in the presence of light and oxygen. The exposure of the general population to
+tannin from its use in pesticide products is expected to be small in comparison to
+exposure from its natural occurrence in feed grains, wine, tea, fruits, and forage, and its
+use as an FDA-approved direct food additive in numerous food and beverage products.
+The rapid atmospheric oxidation, ready biodegradation, as well as the low toxicity and
+rapid metabolism and excretion of tannin further decrease the likelihood of dietary
+exposures of concern from tannin as an inert ingredient in pesticide formulations.
+Tannin is considered to be moderately toxic to practically nontoxic to aquatic
+organisms. Ecological concerns for listed and nonlisted species are not likely from its
+use as an inert ingredient in pesticide formulations based on application rates of less than
+10 pounds per acre.
+Taking into consideration all available infonnation on tannin, it has been
+detennined that there is a reasonable certainty that no hanD to any population subgroup
+will result from aggregate exposure to tannin when used as an inert ingredient (dispersing
+agent) in pesticide fonnulations when considering dietary exposure and all other non-
+occupational sources of pesticide exposure for which there is reliable infonnation.
+Page 2 of 13
+Therefore, it is recommended that the one exemption from the requirement of a tolerance
+established for residues of tannin, as listed in Table 1, can be considered reassessed as
+safe under section 408(q) of the FFDCA.
+I.
+Introduction
+This report provides a qualitative assessment for tannin, an inert ingredient used
+as a dispersing agent in pesticide formulations. Tannin has one exemption from the
+requirement of a tolerance under 40 CPR 180.920 when applied to growing crops only.
+According to and/or cited by Rashid et al. (1985), "Tannic acid, the commercial
+term for a mixture of large gallotannins, trigallic, m-digallic, and gallic acid (King and
+Pruden 1970) is extracted from plant material." "Gallotannins are large polyphenolic
+compounds consisting of glucose esterified to gallic acid" and "occur in 18% of all
+dicotyledenous plants and play important roles in defense against attack by bacteria,
+fungi, or herbivores (Swain 1979)."
+Compounds considered to be tannins vary from simple phenols such as gallic acid
+to macromolecules with molecular weights between 500 and 3000. Tannins occur
+naturally in coffee and tea and nearly all wood and vegetation contain some form of
+tannin in the leaves, twigs, bark, wood, or fruit. Tannins can also be found in a variety of
+plants utilized for food and feed including food grains (sorghum, millets, barley, dry
+beans, faba beans, peas, carobs, pigeonpeas, winged beans, and legumes), fruits (apples,
+bananas, blackberries, cranberries, dates, grapes, hawthorns, peaches, pears, persimmons,
+plums, raspberries, and strawberries), and in wines, teas, and forages (Chung et al. 1998).
+There are two types of tannins: condensed tannins and hydrolyzable tannins.
+Condensed tannins are those derived from flavonols and contain little or no carbohydrate.
+Hydrolyzable tannins are esters of sugar hydrolyzed by acids, alkalis and enzymes into
+glucose or other polyhydric alcohols and phenolic acids; they are further subdivided into
+two groups based on the phenolic acids they contain (i.e., gallotannins or ellagitannins)
+(International Agency for Research on Cancer (IARC) 1976). According to IARC
+"tannic acid is the astringent or tanning principle occurring in the wood, bark, fruit,
+leaves, and roots of a large number of plants." The Environmental Protection Agency's
+Substance Registry System (SRS) lists the following synonyms for tannin: tannic acid,
+tannins, quebracho wood extract, quebracho extract, Chinese tannin, glycerite, digallic
+acid, gallotannicacid, gallotannin, and penta NM digalloyl glucose.
+II.
+Use Information
+A. Pesticide Uses
+Tannin is approved for use as a dispersing agent in pesticide fonnulations applied
+to growing crops only. The exemption from the requirement of a tolerance for its use in
+pesticide products applied to growing crops only is provided in Table 1 below.
+Page 3 of 13
+Table 1. Pesticide Uses
+practice as inert (or occasionally active) ingredients in pesticide fonnulations applied to growing crops only.
+B. Other Uses
+Tannic acid is affinned as Generally Recognized as Safe (GRAS) by the Food and
+Drug Administration (FDA) for use as a direct food additive (with limitations) as listed in
+Table 2. below. According to the 1996 Merck Index 12th Edition, uses of tannic acid
+include: as a mordant in dyeing; in the manufacture of ink; sizing paper and silk; printing
+fabrics; with gelatin and albumin for the manufacture of imitation horn and tortoise shell;
+tanning; clarifying beer or wine; in photography; as a coagulant in rubber manufacturing;
+in the manufacture of gallic acid and pyrogallol; and as a reagent in analytical chemistry.
+Table 2. Direct Food Additive Uses/Limitations
+173.310
+Secondary Direct Food Additives Permitted in Food for Human Consumption
+-boiler 
+water additive
+184.1097
+Maximum level of use in food (as served)
+(percent)
+0.01
+0.015
+0.005
+0.005
+0.04
+Direct Food Substances Affirmed as
+Generally Recognized as Safe
+Tannic Acid -for use in:
+-baked 
+goods and baking mixes
+-alcoholic 
+beverages
+-nonalcoholic 
+beverages and
+beverage bases
+-gelatins, 
+puddings, and fillings
+-frozen 
+dairy desserts and mixes,
+soft candy
+-hard 
+candy, cough drops
+-meat 
+products
+-rendered 
+animal fat
+0.013
+0.001
+in accordance
+with9CFR318.7
+III.
+Physical and Chemical Properties
+Page 4 of 13
+IV.
+Hazard Assessment
+A. Hazard Profile
+This hazard assessment was developed primarily using a 1976 IARC report on
+tannic acid, The Merck Index (12th Edition), a Joint FAO/WHO Expert Committee on
+Food Additives (.rECFA) report on tannin, Agency databases, and various studies/articles.
+Tannin has low acute, subchronic, and chronic oral toxicities in animal studies,
+and is nonmutagenic and noncarcinogenic. In developmental studies, no effects on
+nidation (implantation), maternal or fetal survival, or abnonnalities in soft or skeletal
+tissues were seen at dosages of up to 135 mgikg (mice) and 180 mgikg (rats). In
+addition, a three generation rat reproduction study resulted in a NOAEL of 60 mgikg
+bw/day and a LOAEL of 117 mgikg bw/day (lower pup weaning weights), with no
+effects on fertility, gestation, viability, or lactation indices at any dose level. Reduced
+fecundity was observed in mice fed a continuous diet containing 8% both prior to and
+throughout the breeding cycle(s). The exposure of the general population to tannin from
+its use in pesticide products is expected to be small in comparison to exposure from its
+natural occurrence in feed grains, wine, tea, fruits, and forage, and its use as a direct food
+additive in numerous food and beverage products.
+B. Metabolism and Pharmacokinetics
+Tannins occur naturally in coffee and tea and nearly all wood and vegetation
+contain some form of tannin in the leaves, twigs, bark, wood, or fruit. Tannins can also
+be found in fruits, wines, teas and in a variety of plants utilized for food and feed
+including food grains and forages (Chung et at. 1998).
+"Korpassy et al. 1951, found an increased concentration of tannic acid in the
+blood of rabbits and dogs given tannic acid by stomach tube, with a maximum level after
+three hours. Absorption of tannic acid from the colon, as shown by rising blood levels,
+was demonstrated in rabbits, sheep, goats, rats and dogs" (as cited in IARC 1976).
+According to Dollahite et aI., 1962, in rabbits, tannic acid was rapidly absorbed from the
+Page 5 of 13
+gastrointestinal tract into the bloodstream and rapidly detoxified or excreted. "Tannic
+acid and gallic acid would possibly be combined by the proteins in the gastrointestinal
+tract, thereby reducing the quantity available for uptake" and "in rabbits not given a lethal
+dose of tannic acid, the serum tannic acid level is completely metabolized or eliminated
+within 24 hours."
+According to Chung et al. (1998), "Tannins fonn complexes with proteins, starch,
+and digestive enzymes to cause a reduction in nutritional values of foods. They can cause
+a browning reaction in foods through the action of polyphenol oxidase by darkening
+reactions adversely affecting the acceptability of such foods." The antinutritional effects
+seem to be predominantly related to condensed tannins probably due to hydrolyzable
+tannins being present only in trace amounts in commonly consumed foods. "Tannins are
+of nutritional concern for people whose diets depend largely on crops with high tannin
+content. It is not advisable to ingest a large quantity of high tannin-containing foods;
+tannins affect protein absorption and metabolism." "Animals fed on tannin-free diets had
+higher feed consumption and weight gains, compared with those fed on a diet with
+endogenous tannin or tannin supplementation for an extended period of time." "Rats
+could tolerate up to 5% tannins mixed in a good ration. However, a much higher content
+of tannins caused a marked growth depression." "Tannins are known to affect the
+utilization of vitamins and minerals."
+C. Toxicological Data
+Acute Oral
+Based on the oral LDso values, tannic acid is of low acute oral toxicity when
+administered to rats.
+Table 4. Rat Intragastric LDso Values
+Aleppo
+1550 mgikg
+Tara
+3700mg/kg
+Chinese
+2800 ffigikg
+Sicilian sumac
+2650 mgikg
+Douglas fir
+7500 ffig/kg
+Subchronic Oral Toxicity
+According to JECFA (Joint FAO/WHO Expert Committee on Food Additives)
+(1970), seven groups of male and female rats received 0, 8, 80, or 800 mgikg bw/day of
+Aleppo or tara tannin in their diet for twelve weeks. No significant changes in body
+Page 6 of 13
+weight, food intake and food utilization, liver and kidney weights, or gross and
+histopathology were seen (Food and Drug Res. Lab. 1964). "Similar studies at these
+same levels using Chinese tannin (Food and Drug Res. Lab. 1965), Sicilian sumac tannin
+(Food and Drug Res. Lab. 1967), and Douglas fir tannin (Food and Drug Res. Lab. 1967)
+at these same levels produced comparable findings."
+Chronic Oral Toxicity
+No adverse effects (as judged by survival, growth, food consumption,
+hematology, organ weights and gross and microscopic pathology) were noted in five
+groups of male and female rats dosed with tannin (from Peruvian tara) at dietary levels of
+0,0.117,0.125,0.234, or 0.25% (equivalent to 58.5, 62.5, 117.0, and 125 mgikg bw/day)
+for two years (Rosner-Hixon Lab, 1965 as cited in JECFA 1970).
+Five groups of male and female dogs received 0.0, 0.117, 0.125, 0.234, or 0.25%
+tannin (equivalent to 58.5, 62.5, 117.0, and 125 mg/kg bw/day respectively) (from
+Peruvian tara) in their diets for two years. No ill effects on behavior, food consumption,
+hematology, organ function tests, or on organ weights and gross microscopic pathology
+were noted at any dose level (Rosner-Hixon Lab, 1965 as cited in JECFA 1970).
+Mutagenicity
+In Ames testing using Salmonella typhimurium strains TA98, TAI00, and
+T A1535, tannic acid was shown to be nonmutagenic both with and without activation
+using 8-9 mix from rat and woodchuck liver (Rashid et al. 1985).
+According to Chung et al. (1998), mutagenicity testing of tannic acid from tea
+was shown to be nonmutagenic to S. typhimurium strains TA98, TAI00, TA1535, and
+TA1538 with or without metabolic activation and those tannin fractions did not increase
+tumor incidence in gavage-fed Swiss mice. In addition, "Tannic acid was found not to be
+clastogenic to germ cells of male Drosophila melanogaster."
+Carcinogenicity
+"A recent study by Onodera et al. using F344 rats of both sexes showed that
+tannic acid given ad libitum as 0.25 or 0.50% in distilled water for up to two years did not
+significantly increase the incidence of any tumor. Thus, tannic acid has no carcinogenic
+potential in F344 rat or modifying effects on development of spontaneous tumors"
+(Chung et al. 1998).
+Tannin isolated from bracken fern was determined to be noncarcinogenic in a 72
+week study of rats fed a basic diet containing 0.1 % tannin for weeks 0-3, followed by
+0.2% tannin for weeks 3-22, and then 0.4% tannin for weeks 22-72 (cumulative total
+tannin dose of 22,500 mg/rat) (pamucku et at. 1980).
+Page 7 of 13
+Developmental/Reproductive Toxicity
+Female mice were dosed via oral intubation with tannic acid at 1.35,6.27,29.1, or
+135 mg/kg on days 6-15 of gestation. The final report concluded that "administration of
+up to 135 mg/kg (body weight) of the test material to pregnant mice for 10 consecutive
+days had no clearly discernible effect on nidation or on maternal or fetal survival. The
+number of abnonnalities seen in either soft or skeletal tissues for the test groups did not
+differ from the number occurring spontaneously in the sham-treated controls" (NTIS
+1975).
+Female rats were dosed via oral intubation with tannic acid at 1.8, 8.4,38.8, or
+180 mg/kg on days 6-15 of gestation. The final report concluded that "administration of
+up to 180 mg/kg (body weight) of the test material to pregnant rats for 10 consecutive
+days had no clearly discernible effect on nidation or on maternal of fetal survival. The
+number of abnormalities seen in either soft or skeletal tissues of the test groups did not
+differ from the number occurring spontaneously in the sham-treated controls" (NTIS
+1975).
+A three-generation reproduction study was conducted on male and female rats
+fed Peruvian tara tannin at dietary levels of 0.0 or 0.234% (117 mg/kg bw/day) and at 0.0,
+0.058 (29 mg/kg bw/day), or 0.117% (60 mg/kg bw/day). No effects upon fertility,
+gestation, viability, or lactation indices were seen at any dose level; however, pups in the
+0.234% (117 mg/kg bw/day) dosing group had significantly lower weights at weaning.
+The NOAEL for this study was 0.117% (60 mg/kg bw/day) (Rosner-Hixon Lab. 1969 as
+cited in JECFA 1970).
+Peaslee and Einhellig (1973b) reported that "White mice fed a continuous diet of
+8% tannic acid in laboratory chow produced litters of smaller number, slower growth
+rates, and lower body-weight plateau." In addition, "Females on this tannic acid diet
+required a longer time to become impregnated." Mice were fed 8% tannic acid diets both
+prior to and throughout the breeding cycle(s).
+D. Special Consideration for Infants and Children
+Results of developmental studies showed no effects on nidation (implantation),
+maternal or fetal survival, or abnormalities in soft or skeletal tissues were seen at dosages
+of up to 135 mg/kg (mice) and 180 mg/kg (rats). In addition, a three generation rat
+reproduction study resulted in a NOAEL of 60 mg/kg bw/day and a LOAEL of 117
+mg/kg bw/day (lower pup weights at weaning), with no effects on fertility, gestation,
+viability, or lactation indices at any dose level. The use of tannin as an inert ingredient in
+pesticide formulations would not contribute greatly to the natural levels present in
+foodstuffs, which is expected to be orders of magnitude less than the levels seen in
+reproductive/developmental studies. Based on this information, as well as its natural
+occurrence as a normal component in the human diet and its long history of use as a
+direct food additive in numerous foodstuffs, there is no concern, at this time, for
+increased sensitivity to infants and children to tannin from its use as an inert ingredient
+Page 8 of 13
+(dispersing agent) in pesticide products. For these same reasons, a safety factor analysis
+has not been used to assess risk and, therefore, the additional tenfold safety factor for the
+protection of infants and children is also unnecessary.
+v.
+There are no available measured data, therefore, based on the estimated physical-
+chemical and environmental transformation properties, tannin is not likely to persist in
+aerobic environments, leach to ground water except in sandy soils or through preferential
+plow, or bioconcentrate/bioaccumulate in the environment. Tannin is predicted to be
+readily biodegradable with ultimate aerobic degradation estimated to be weeks and
+primary degradation estimated to be days. Tannin is slightly to moderately soluble in
+water, nonvolatile, and exhibits strong sorption to very strong sorption to soil (Log
+Koc=4.912). Leaching to groundwater is likely in sandy or porous soils, however this is
+mitigated in other soils due to biodegradation and sorption. The potential for tannin to
+volatilize from surface waters is low and it undergoes rapid atmospheric oxidation in the
+presence of hydroxyl radicals with a half-life of 0.96 hours if volatilization from soils or
+water does occur.
+While it is possible that tannin used for agricultural purposes could reach drinking
+water (from surface water), the environmental contribution from the use of tannin in
+pesticide products is likely to be small in comparison to the tannin that is found naturally
+in the environment due to its natural occurrence in nearly all wood and vegetation.
+Additionally, its instability in the presence of light and oxygen and rapid biodegradation
+further decrease the likelihood of environmental and drinking water concentrations of
+concern from its use as an inert ingredient in pesticide products.
+VI.
+Exposure Assessment
+For the general population, the majority of exposure to tannin(s) comes from its
+natural occurrence in coffee, wine, tea, food grains, fruits, and from its use as a direct
+food additive in numerous food and beverage products. It is affirmed as GRAS by the
+FDA as a direct food additive (see Table 2).
+Tannin is approved for use as a dispersing agent in pesticide fonnulations applied
+to growing crops only. The primary route of exposure from its use in pesticide products
+is expected to be through consumption of food to which pesticide products containing
+tannin have been applied. Dennal exposure from residential uses of pesticide products
+containing tannin is possible; however, inhalation exposure is unlikely based on its
+nonvolatile nature.
+Migration of tannin to ground water (from surface water runoff) is possible, but
+will be limited by its low solubility in water, strong sorption to soils and ready
+biodegradation, therefore, exposures of concern from drinking water are likely to be low.
+I all annotated values were calculated from the Agency's EpiSuite program at
+http://www.epa.gov/oPDtintr/exRosure/docs/EPISuitedl.htm
+Page 9 of 13
+A22re2ate Exposure
+In examining aggregate exposure, FFDCA section 408 directs EP A to consider
+available information concerning exposures from the pesticide residue in food and all
+other non-occupational exposures, including drinking water from ground water or surface
+water and exposure through pesticide use in gardens, lawns, or buildings (residential and
+other indoor uses).
+For tannin, a qualitative assessment for all pathways of human exposure (food,
+drinking water, and residential) is appropriate given the lack of human health concerns
+associated with exposure to tannin when used as an inert ingredient in pesticide
+formulations.
+Cumulative Exposure
+Section 408(b)(2)(D)(v) of the FFDCA requires that, when considering whether to
+establish, modify, or revoke a tolerance, the Agency consider "available information"
+concerning the cumulative effects of a particular pesticide's residues and "other
+substances that have a common mechanism of toxicity."
+Unlike other pesticides for which EP A has followed a cumulative risk approach
+based on a common mechanism or toxicity, EPA has not made a common mechanism of
+toxicity finding as to tannin and any other substances, and tannin does not appear to
+produce a toxic metabolite produced by other substances. For the purposes of these
+tolerance actions, therefore, EP A has not assumed that tannin has a common mechanism
+of toxicity with other substances. For information regarding EP A's efforts to determine
+which chemicals have a common mechanism of toxicity and to evaluate the cumulative
+effects of such chemicals, see the policy statements released by EP A's Office of Pesticide
+Programs concerning common mechanism determinations and procedures for cumulating
+effects from substances found to have a common mechanism on EP A's website at
+httQ:/ /www .eQa.Qov/Desticides/cumulative/.
+Human Health Risk Characterization
+Tannin is approved for use as a dispersing agent in pesticide formulations applied
+to growing crops only. Tannin has low acute, subchronic, and chronic oral toxicities in
+animal studies, and is nonmutagenic and noncarcinogenic. In developmental studies, no
+effects on nidation (implantation), maternal or fetal survival, or abnormalities in soft or
+skeletal tissues were seen at dosages of up to 135 mg/kg (mice) and 180 mg/kg (rats). In
+addition, a three generation rat reproduction study resulted in a NOAEL of 60 mg/kg
+bw/day and a LOAEL of 117 mg/kg bw/day (lower pup weaning weights), with no
+effects on fertility, gestation, viability, or lactation indices at any dose level. Reduced
+fecundity was observed in mice fed a continuous diet containing 8% both prior to and
+throughout the breeding cycle(s). The exposure of the general population to tannin from
+its use in pesticide products is expected to be small in comparison to exposure from its
+natural occurrence in feed grains, wine, tea, fruits, and forage, and its use as a direct food
+Page 10 of 13
+additive in numerous food and beverage products. Considering its rapid atmospheric
+oxidation, ready biodegradation, as well as its low toxicity and rapid metabolism and
+excretion, dietary exposures of concern from the use of pesticide products containing
+tannin are not anticipated. Residential exposures of concern are not expected from the
+use of tannin as an inert ingredient (dispersing agent) in pesticide formulations.
+Taking into consideration all available information, EP A has determined there is a
+reasonable certainty that no harm to any population subgroup will result from aggregate
+exposure to tannin when used as an inert ingredient in pesticide formulations when
+considering the dietary exposure and all other non-occupational sources of pesticide
+exposure for which there is reliable information. Therefore, it is recommended that the
+one exemption from the requirement of a tolerance established for residues of tannin be
+maintained and considered reassessed as safe under section 408(q) of the FFDCA.
+x.
+Ecotoxicitv and Ecolo2:ical Risk Characterization
+Tannins may be considered moderately toxic to practically nontoxic to most
+aquatic organisms based on measured effects data located in the Agency's Ecotox
+Database (http://www.eDa.e:ov/ecotox/) and on the ester and phenol SAR (Structure
+Activity Relationship) estimates.
+Measured effects data for fish indicate 48h to 96h LCso's are on the order of
+several mg/L to >100 mg/L depending on species and test conditions. Aquatic
+invertebrate data is more limited, but indicate effects levels for population and behavior
+in the low mg/L range (e.g., Daphnia magna effects level for behavior of <26 mg/L). A
+single study on the bull frog for 12 hours under static conditions was inconclusive at
+concentrations up to 1000 mg/L. Plant effects data for both aquatic (blue-green algae)
+and terrestrial (agricultural crop) species reported no adverse responses up to the test dose
+for terrestrial plants (note: test concentrations were not verified in the terrestrial plant
+studies) and a decrease in algae population at 100 Jlmoles. No chronic effects data were
+reported in Ecotox.
+Depending on structural class (esters or phenols), predicted acute toxicity values
+are approximately: 1400-2100 parts per million (ppm) for fish 96h LCso's, 260-49000
+ppm for daphnid 48h LCso's, and 100-27500 ppm for green algae 96h ECso's. These
+levels are unlikely to occur in surface waters as a result of the use tannin as an inert
+ingredient in pesticide formulations. Chronic effects estimates range from approximately
+70 mg/L of algae based on the ester SAR class and 330 mg/L for fish based on the phenol
+SAR class. Even with frequent applications in agricultural or commercial/residential
+settings at applications in excess of 10 pounds per acre, concentrations in surface water as
+a result of pesticide use is unlikely to reach effects thresholds. Using mammalian data as
+a surrogate for terrestrial organisms, tannin is unlike to result in adverse effects from
+pesticide uses.
+Tannin is not expected to bioaccumulate in the environment, therefore, based on
+potential exposures and estimated toxicity to aquatic and terrestrial organisms (using
+Page 11 of 13
+available rat and mouse data as surrogate for all terrestrial animals), ecological concerns
+for listed and nonlisted species are not likely from the use of tannin as an inert ingredient
+in pesticide products.
+Page 12 of 13
+References:
+Chung, King-Thorn; Wong, Tit Yee; Wie, Cheng-I; Huang, Yao-Wen; and Lin, Yuan;
+Tannins and Human Health: A Review, Critical Reviews in Food Science and Nutrition,
+38(6):421-464 (1998).
+Dollahite, James W.; Pigeon, Robert F.; and Camp, Bennie J.; The toxicity of Gallic
+Acid, Pyrogallol, Tannic Acid, and Quercus havardi in the Rabbit, Am. J. Vet. Res.,
+Nov., 1962,23,97, pp 1264-1267.
+Environmental Protection Agency, EpiSuite program (V. 3.12),
+http://www .epa.gov /opptintr/exposure/docs/EPISuitedl.htm )
+Environmental Protection Agency Substance Registry System, httQ://www.eQa.gov/srs/
+JECFA 1970, Joint FAO/WHO Expert Committee on Food Additives, Food and
+Agriculture Organization of the United Nations, World Health Organization, FAO
+Nutrition Meetings Report Series No. 48A,
+httQ:/ /www .inchem.orgldocuments/iecfa/iecmono/v48aie 
+14.htm..
+Merck 1996, The Merck Index (12th Edition), Merck and Co., Inc., 1996.
+NTIS 1975, Terotologic Evaluation of FDA 71-56, Tannic Acid in Mice and Rats, Food
+and Drug Research Laboratories, Incorporated, 31 January 1975, distributed by National
+Technical Information Service (NTIS) U.S. Department of Commerce.
+Pamucku, A, Mahir; Wang, Chin Yung; Hatcher, J.; Bryan, George T.; Carcinogenicity
+of Tannin and Tannin-Free Extracts of Bracken Fern (Pteridium aquilinium) in Rats,
+JNCI, Vol. 65, No.1, July 1980.
+Peaslee, Margaret H. and Einhellig, Frank A., Reduced Fecundity in Mice on Tannic
+Acid Diet, Compo gen. Pharmac., 1973,4, 393-397.
+Rashid, Kamal A.; Baldwin, Ian T.; Babish, John G.; Schultz, Jack C.; Mumma, Ralph
+0.; Mutagenicity Tests with Gallic and Tannic Acid in the SalmonellalMammalian
+Microsome Assay, J. Environ. Sci. Health, B20(2), 153-165 (1985).
+World Health Organization International Agency for Research on Cancer, !ARC
+Monographs on the Evaluation of Carcinogenic Risk of Chemicals to Man, Some
+Naturally Occurring Substances, Volume 10, Tannic Acid and Tannins, pp 253-262
+1976.
+Page 13 of 13

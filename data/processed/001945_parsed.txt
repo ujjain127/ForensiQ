@@ -1,0 +1,217 @@
+Guidance for Industry
+Product Name Placement, Size, and
+Prominence in Advertising and
+Promotional Labeling 
+DRAFT GUIDANCE
+This guidance is being distributed for comment purposes only.
+Comments and suggestions regarding this draft document should be submitted within 60 days of publication
+in the Federal Register of the notice announcing the availability of the draft guidance.  Submit comments to
+Dockets Management Branch (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061,
+Rockville, MD  20852.  All comments should be identified with the docket number listed in the notice of
+availability that publishes in the Federal Register.
+For questions on the content of the draft document contact (CDER) Melissa Moncavage 301-927-2828,
+(CBER) Toni Stifano (301) 827-3028, or (CVM) Mukund R.  Parkhie 301-827-6642
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Drug Evaluation and Research (CDER)
+Center for Biologics Evaluation and Research (CBER)
+Center for Veterinary Medicine (CVM)
+ January 1999
+DDMAC #
+Guidance for Industry
+Product Name Placement, Size, and Prominence in
+Advertising and Promotional Labeling 
+Additional copies are available from:
+Additional copies are available from:
+the Drug Information Branch (HFD-210),
+Center for Drug Evaluation and Research (CDER),
+5600 Fishers Lane, Rockville, MD  20857 (Tel) 301-827-4573
+Internet at http://www.fda.gov/cder/guidance/index.htm
+or
+Office of Communication,
+Training, and Manufacturers Assistance (HFM-40)
+Center for Biologics Evaluation and Research (CBER)
+1401 Rockville Pike, Rockville, MD  20852-1448
+http://www.fda.gov/cber/guidelines.htm
+(Fax) 888-CBERFAX or 301-827-3844
+(Voice Information) 800-835-4709 or 301-827-1800
+or
+Communications Staff (HFV-12),
+Center for Veterinary Medicine (CVM)
+7500 Standish Place, Rockville, MD  20855  (Tel) 301-594-1755
+Internet at http://www.fda.gov/cvm
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Drug Evaluation and Research (CDER)
+Center for Biologics Evaluation and Research (CBER)
+Center for Veterinary Medicine (CVM)
+ January 1999
+DDMAC #
+TABLE OF CONTENTS
+I. 
+INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+II. 
+PRODUCTS WITH ONE ACTIVE INGREDIENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+A. 
+Juxtaposition of Proprietary Name and Established Name . . . . . . . . . . . . . . . . . . 2
+B. 
+Size of Proprietary and Established Names . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+C. 
+Prominence of Proprietary and Established Names . . . . . . . . . . . . . . . . . . . . . . . 3
+D. 
+Proprietary and Established Names in Audio-Visual and Broadcast 
+Advertisements and Promotional Labeling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+E. 
+Proprietary and Established Names in the Running Text of Electronic and
+Computer-based Advertisements and Promotional Labeling . . . . . . . . . . . . . . . . 3
+III. 
+PRODUCTS WITH TWO OR MORE ACTIVE INGREDIENTS . . . . . . . . . . . . . . . . . 4
+Draft - Not for Implementation
+This guidance has been prepared by the Intra-Agency Working Group on Advertising and Promotion at the
+1
+Food and Drug Administration.  This guidance represents the Agency’s current thinking on product name placement,
+size, and prominence in advertising and labeling for human and animal prescription drugs and biologics.  It does not
+create or confer any rights for or on any person and does not operate to bind FDA or the public.  An alternative approach
+may be used if such approach satisfies the requirements of the applicable stature, regulations, or both. 
+As referenced in the regulations under 21 CFR 610.62, the trade name for a biological product is synonymous
+2
+with the proprietary name for drug products, and the proper name for a biological product is synonymous with the
+established name for drug products.
+GUIDANCE FOR INDUSTRY1
+Product Name Placement, Size, and Prominence in 
+Advertising and Promotional Labeling
+I. 
+INTRODUCTION
+This guidance is intended to clarify for applicants the requirements for product name placement,
+size, and prominence in labeling and advertising for human and animal prescription drugs and
+biological products.  The disclosure of established names and ingredients in promotional labeling
+and advertising for all prescription human and animal drug and biological products is important
+for the proper identification of such products to help ensure their safe and effective use.
+The Division of Drug Marketing, Advertising, and Communications (DDMAC), Center for Drug
+Evaluation and Research (CDER), the Division of Epidemiology and Surveillance (DES), Center
+for Veterinary Medicine (CVM), and the Advertising and Promotional Labeling Staff (APLS),
+Center for Biologics Evaluation and Research (CBER) frequently address violations and inquiries
+about the placement, size, and prominence of the proprietary name and established name  in
+2
+promotional materials.  Generally, the violations and inquiries address two topics:  (1) the
+juxtaposition of the proprietary and established names in relation to certain graphic presentations
+and (2) problems that stem from obscuring the presentation of, or minimizing disclosure of, the
+established name.
+The placement and prominence of the proprietary and established names for human and animal
+prescription drug products are specified in labeling and advertising regulations (21 CFR 201.10(g)
+and (h), 202.1(b) and (c)).  These regulations are applicable to human and animal prescription
+drug products that contain either a single active ingredient or two or more active ingredients.
+For biological products, the regulations regarding position and prominence of the trade name and
+proper name of products, as described in 21 CFR 610.62, apply only to the container and package
+labels.  The regulations for drug products under 21 CFR 201.10(g) and (h) and 21 CFR 202.1(b)
+Draft - Not for Implementation
+2
+and (c) apply to all other biological product labeling and advertising materials.
+II. 
+PRODUCTS WITH ONE ACTIVE INGREDIENT
+A. 
+Juxtaposition of Proprietary Name and Established Name
+For products with one active ingredient, the regulations describe when and how the
+established name must accompany the proprietary name in the product labeling and
+advertising (21 CFR 201.10(g)(1), 202.1(b)(1), and 21 CFR 610.62).  The regulations
+provided under 21 CFR 201.10(g)(1) and 202.1(b)(1) state that: 
+where the established name is required to accompany or to be used in
+association with the proprietary name or designation, the established name
+shall be placed in direct conjunction with the proprietary name or
+designation, and the relationship between the proprietary name or
+designation and the established name shall be made clear by use of a phrase
+such as "brand of" preceding the established name, by brackets surrounding
+the established name, or by other suitable means.  (Emphasis added).
+FDA interprets this provision as precluding separation of the proprietary or trade name
+and the established or proper name by placement of a logo, trademark, or other graphic
+matter, or otherwise physically separating the proprietary and established name.  The
+established or proper name should be placed either directly to the right of or directly under
+the proprietary name.  There should be no intervening matter that in any way would
+detract, obfuscate, or de-emphasize the established or proper name of the product.
+B. 
+Size of Proprietary and Established Names
+The regulations also require that, in general, the proprietary and established names be
+presented in the same size type in the running text of  advertisements and promotional
+labeling.  However, if the proprietary name is presented in some other location, such as in
+a headline or in larger sized type in running text, “[t]he established name shall be printed in
+letters that are at least half as large as the letters comprising the proprietary name or
+designation with which it is joined” (21 CFR 201.10(g)(1) and (2) and 202.1(b)(1) and
+(2)).”
+This print size requirement relates to actual size, not point size, of upper case and lower
+case letters in the proprietary and established names.  For example, if the proprietary name
+were printed in all upper case letters, the established name should be printed in letters at
+least one half the actual size of the proprietary name letters.  The size of the established
+Draft - Not for Implementation
+3
+name letters should be independent of whether the established name is printed in upper- or
+lower-case letters. 
+C. 
+Prominence of Proprietary and Established Names
+The regulations require that “the established name shall have a prominence commensurate
+with the prominence with which such proprietary name or designation appears, taking into
+account all pertinent factors, including typography, layout, contrast, and other printing
+features” (21 CFR 201.10(g)(2) and 202.1(b)(2)).
+These requirements include all methods used in printed promotional materials to provide
+emphasis, including type size, spacing, and contrast.
+D. 
+Proprietary and Established Names in Audio-Visual and Broadcast
+Advertisements and Promotional Labeling 
+The requirements for juxtaposition, size, and prominence of proprietary and established
+names in advertising and promotional labeling also apply to audio-visual promotional
+labeling and visual broadcast advertisements.  When the proprietary name is displayed
+most prominently during audio-visual promotional labeling and broadcast advertisements,
+the established name should be displayed simultaneously and with a size and prominence
+as described in sections B and C, above.  The established name should also have the same
+exposure time as the proprietary name.
+E. 
+Proprietary and Established Names in the Running Text of Electronic and
+Computer-based Advertisements and Promotional Labeling
+1. 
+Proprietary and Established Name in the Same Type Size as the
+Running Text
+The regulations for prescription drug labeling and advertising in 21 CFR
+201.10(g)(1) and 202.1(b)(1) state:
+On any page of an advertisement [labeling] in which the proprietary name
+or designation is not featured but is used in the running text, the established
+name shall be used at least once in the running text in association with such
+proprietary name or designation and in the same type size used in the
+running text: . . . .
+Electronic and computer-based media, such as the Internet, CD-ROM, or
+electronic bulletin boards, do not contain text pages as do print media.  However,
+Draft - Not for Implementation
+4
+promotional labeling and advertisements in such media often contain running text
+equivalent to many pages of printed text.  Sponsors can fulfill the requirements of
+21 CFR 201.10(g)(1) and 202.1(b)(1) by using one of the following approaches. 
+Sponsors are not limited to the approaches listed below.
+C 
+The established name accompanies the proprietary name each time the
+proprietary name appears in the running text.
+C 
+The established name accompanies the proprietary name once in each
+paragraph.
+C 
+The established name accompanies the proprietary name at regular intervals
+throughout the running text (e.g., every fifth paragraph).
+C 
+The established name appears with the proprietary name at the beginning,
+middle, and end of the running text.
+2. 
+Proprietary Name in a Larger Type Size than the Running Text
+When the proprietary name is used in the running text in a larger type size, the
+established name should be presented as stated in the regulations:
+Provided, however, That [sic] if the proprietary name or designation is
+used in the running text in larger type size, the established name shall be
+used at least once in association with, and in type at least half as large as
+the type used for, the most prominent presentation of the proprietary name
+or designation in such running text (21 CFR 201.10(g)(1) and 202.1(b)(1)).
+III. 
+PRODUCTS WITH TWO OR MORE ACTIVE INGREDIENTS
+A product with two or more active ingredients might not have an established name corresponding
+to the proprietary name.  In such instances, the regulations (21 CFR 201.10(h)(1) and 202.1(c))
+provide that: 
+the quantitative ingredient information required on the label by section 502(e) of the act
+[in the advertisement by section 502(n) of the Act] shall be placed in direct conjunction
+with the most prominent display of the proprietary name or designation.  The prominence 
+of the quantitative ingredient information shall bear a reasonable relationship to the
+prominence of the proprietary name.   (Emphasis added.)

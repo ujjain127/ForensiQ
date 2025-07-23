@@ -1,0 +1,612 @@
+AlAA 9~1--?6?6
+‘J’]ICi N(w l)j SL rjbutc!c] Conq>ut eri zed COIII rc)l Sys L CWI
+of . 1 1 ’  1 , ’ s
+?-5-l”t  .  Sl)ac.e Sitnul at or
+KrIIl)c~tlI R. .]O]lllS  0 1 1
+.lct l’ro]]tll sion IIabc)ratory
+L1800 o a k  Grove l)rivc
+l’asaclcwa, CA 91109-8099
+lJSA
+18th AIAA Aerospace Ground Testing
+Conference
+June 20-23, 1994 / Colorado Springs, CO
+G
+For permission to copy or republish, contact the American Instttute of Aeronautics and Astronautics
+370 L’Enfant Promenade, S.W., Washington, D.C. 20024
+THE NEW DISTRIBUTED COMPUTERIZED CONTROL of JPL’s 25-FT Space Simulator
+A project to refurbish fhe JPL 25-F1” Space Simulator facilities which began in May 1991
+will be complete by June 1994. This project included the installation and implementation
+of a new distributed computerized control system using GFFanuc 901M-70 Programmable
+I,ocal Controller (PLC) hardware and l,ogicMaster~M programming software. Vacuum,
+temperature, pressure and solar simulation control elements and instruments arc
+connected to modular G}l-Fanuc Geniusl M control blocks. ~’he Genius blocks arc
+distributed among ten field-mounted Computer Control Stations (CCS), bussed to the
+Central Processing IJnit (CPU) through seven separate Genius Networks (GENHTS).
+Redundant CPUS, each connected to all field 1/0, were installed to provide continuous
+on-line backup control. A dedicated unint erruplable power sLIpply feeds both CPU racks to
+maintain control even during power failure situations. Critical devices were wired in two
+separate GItNHls to provide double redundancy, and thus, control surety. This paper will
+discuss the design, installation, startup, troubleshooting and current status of this new
+control system.
+lntmdudim
+The initial construction of JI’L’s 25-F’1”  Space Simulator was completed in 1961 and
+included a control system which utiliz,ed technology current at that time, That initial
+control system was based on remotely-operated, centralized, hardwired controls using
+electromechanical relay logic with protective in[erlock circuitry. By the late 1980’s, some
+re]dacement parts for this control system were becoming hard to find, especially the
+system-specific electromechanical relays. Additionally, PI.C control systems which were
+introduced in the early 1970’s, had become very feature-rich and reliable. Accordingly, it
+was decided to reconfigure the old control system with a new system based on remotely-
+operated, distributed PLC’S using solid state relay logic with protective interlock circuitry.
+Afler a review of existing market hardware, GE-17anuc  Genius equipment was selected, its
+self-diagnostic capabilities being one of the deciding factors in its selection, The Genius
+hardware was configured into seven separate networks, named GFiNETs, and each
+network was attached {O two separate CPUS, one serving as the primary or main CIJU and
+the other serving as a back-up.
+Both CPUS concurrently receive all inputs at all times.
+Figure 1 is a schematic which illustrates how the CENE’l”S are configured within the 25-F]’
+Space Simulator facility. Figure 2 shows how the G1}NWI’S are attached to the MAIN CPU
+RACK and the STANDBY CPU RACK. To insure against control failure of certain critical
+process system elements, control circuitry of these critical elements was wired in parallel
+to two separate GENETs, which in effect provides double redundant control for these
+elements. Thus, these critical elements would still operate if there was a simultaneous
+failure of a Genius block, a GENET and a CPU. Figure 3 presents one such configuration
+of this ctoub]e redundant control.
+Three separate new graphic control panels wem fabricated and installed in the main
+control room to provide push-button control of system elements in the vacuum, the
+temperature, and the solar simulation control systems.
+~“hese panels provide control and
+a complete view of the status of all facility system control elements.
+The software application Wonderwarc  was selected to develop computer graphic displays
+of control element status (open/closed; on/off, etc.), Wonderware provides a full set of
+tc~ols for creating graphical representations of the various process elements and for
+linking field 1/0 so that process element status can be tracked. The software also provides
+the ability to adapt the graphical displays for cm-screen process control such that operators
+can control the various process elements either by the computer keyboard or by a mouse
+or other point-and-click device,
+For the JPI. 2.5 1~1’ Space Simulator, three separate control
+windows are planned, one each for vacuum, thermal, and solar simulation system
+control, At the time of this writing, these displays have not yet been created.
+A typical pumpdown of the 25-ft Space Simulator chamber begins by using a two-stage
+axial compressor to evacuate the chamber from atmospheric pressure to 7(I torr in about
+10 minutes. For the next 60 minutes, a mechaliical pumping system, consisting of four
+Stokes 17221 IC small blower/n~echanical  pump combinations and two large Roots type
+blowers (Stokes 171 3), lowers the pressure to the 5 x 10-s torr range. ~’his phase of pumping
+is referred to as “roughing” and requires about 70 minutes. During the roughing period, a
+liquid nitrogen (1.N2) cooled baffle (cryotrap) prevents mechanical pump oil vapors from
+backstreaming into the vacuum chamber. Afler each evacuation, this cryotrap is warmed
+to ambient temperature and residual condensate is drained.
+When a vacuum of 5 x 10
+-3 torr has been attained, the roughing period is complete. At
+this point, a contamination plate is flooded with liquid nitrogen to further reduce the
+chamber pressure by removing water vapor, and, when the chamber vacuum begins to
+asymptote, the new high vacuum (hi-vat) valves, made by Torr-Vat, lnc, are opened.
+Ten new Cry-O-Vat 45,000 liter/see cryogenic pumps, which were pre-evacuated and pre-
+chilled prior to pumpdown, are available for use in this final stage of evacuation. When
+t hc hi-vat valves are opened the chamber pressure reaches 1 x 10-5 torr within 20 minutes.
+Each of the new hi-vat valves have a dedicated 100 psig air accumulator which con{ains
+enough pressure for three valve strokes - close/open /close. Therefore, even if all control
+systems fail, the chamber can still be isolated manually using hi-vat valve accumulators,
+After the hi-vat valves have been opened and the chamber pressure begins to asymptote,
+the wall and floor shrouds are chilled with cold GN2 then flooded with LN2 to lower the
+vacuum pressure to the mid-10-6 t orr range, the minimum chamber pressure obtained
+with this system.
+‘1’ypically, an additional hour or more is required to reach the lowest
+asymptotic vacuum.
+1’WO new Balzcr 2200 liter/see turbomo]ecular pumps have been installed to be used
+when high loads of helium or hydrogen are encountered. Also, these pumps can be used
+for detecting leaks in the chamber and its nitrogen shrouds.
+Thermal S@eQeGtticm  Overview
+Temperature control of the space simulator chamber shrouds and mirror is achieved
+using GN2 and LN2 feed systems, to produce a temperature-controlled stream which is
+circulated through the shrouds and mirror to maintain specific test temperature
+conditions. For most thermal-vacuum testing, the chamber shrouds are filled (flooded)
+with LN2 to minimize chamber temperature and vacuum conditions. Also, LN2 is used
+to chill and GN2 is used to warm the cryopump baffles, the contamination plate and the
+cryotrap.
+solar Sitnulafitm system Qp~ration overview
+I’he solar simulation system consists of 37 water-cooled xenon arc lamps each operating
+nominally at 30 kW and controlled by one of 37 new electric power supplies, an integrated
+lens unit which condenses then projects the ]ight from the lamps, a chamber penetration
+window of fused silica which transmits the projected light into the chamber, and a 23-P{.
+diameter spherically-radiused  collimator mirror which receives the projected light and
+reflects it as a uniform collimated beam onto the test article surface.
+QQnmQlsyslem Specifics
+The GIi-Fanuc Automation Series 90-70 PLC system provjdes a wide selection of control
+90-70 PLC Modules, Genius Blocks and programming software with which to configure a
+ccmt rol system.
+The JPL 25-f[ Space Simulator installation utiliz,ed 17 different Modules
+and 5 different Blocks. Modules were mounted in 90-70 PLC 9-Slot Racks while Blocks
+were mounted in CCS I loffman electrical boxes. All field 1/0 was connected to either a
+Module or a Block. Table 1 presents identifications of the modules and blocks used in this
+project. ~>able 2 shows the I’LC Module configuration in each of the 1790-70 PLC 9-Slot
+Racks. Table 3 lists the Genius Blocks and their associated GIiNRT/Block#  designations
+for all Blocks that are mounted in the field CC% 1 Ioffman boxes. Figure 3 illustrates how a
+typical Genius Block network is connected. In Table 3, the asterisk designates those Blocks
+which are redudant  in two separate CENETS.
+Figure 4 shows an example of a typical
+redundant wiring arrangement for critical valves. l’able 4 gives the I.amp Power Supply
+GENE’1’/Block#  designations. Finally, Table 5 presents a cross reference of GENNI”/Block#
+identification with respect to field location.
+I’rograrnming  of the control system logic was done using l.ogicn~aster~M 90-70
+Programming Software.
+Keyboard function keys (F!, F2, etc.) are used to se]ect menu
+choices which are provided in several embedded layers.
+There are nine primary ladder
+logic program elemental functions:
+relay, tin~er/counter, math, relational, bit operation,
+data move, table, conversion and control. There are 28 different relay functions, 19 math
+functions, 7 relational functions and 13 bit operations operable on 11 data types. This
+thorough toolbox provides options for almost any conceivable control requirement.
+Control device status or reference table information is displayed with the prefix 7.1 for
+discrete inputs, %Q for discrete outputs, %M foI’ discrete internal coils, %T for discrete
+temporary coils, %R for system registers, %AI for analog input, %AQ for analog output,
+VOI’ for program registers, %L for local registers and %GA for d i.screte global data. Each 1/0
+element is identified with a unique YO label during PLC system configuration. These
+labels are used in preparing ladder logic for process control. Table 6 gives a listing of
+reference books available from GE-Fanuc Automation. These books describe the details of
+all Series 90-70 PLC hardware and software options.
+Table 6. GE-Fanuc  Automation Publications
+Series 90TM-70° Programmable Contro]]er Reference Manua]
+GFK-0265H
+Series 90TM-70  Programmable Controller Data Shecls
+GFK-0600A
+series 90
+TM-70 Programmable controller Installation Manual
+GFK-0262D
+Series 90TM-70 Remote 1/0 Scanner User’s Manual
+GFK-0579A
+Series 90TM-70 Gcnius~M BUS Controller User’s Manual
+GFK-0398B
+Series 90~”-70 GeniusT’M  1/0 System and Communications User’s Manua]-Vo].l GFK-90486D-l
+Series 901M-70 GeniusTM 1/0 Discrete and Analog Blocks User’s Manual-Vol.2
+GFK-90486C-2
+.Series 90~’”-70 LogicmasterTM  90-70 Programming Software User’s Manual
+GFK-0263D
+Troubleshooting
+The fabrication/installation of the control hardware and the development of the ladder
+locic programming took place over the period of 10-11 /92 and throughout 1993. There
+were many field wiring corrections to made to make the system function properly, but the
+diagnostic characteristics of the GE-Fanuc 1’1 tC system helped to minimize the time
+required to locate and correct field wiring anomalies.
+Nonetheless, by early 12/93, both
+the thermal and vacuum systems were read y to be tested.
+System Startup
+~“he new control system was first used to operate the thermal and the vacuum system
+cc)ntro)s during the period 12/6-7/93. Some problems with mechanical and electrical
+hardware were encountered but we experienced no failures of any of the GH-Fanuc
+hardware.
+Specifically, after being cold during normal vacuum operation, the 10 LN2
+valves which are located on the discharge side of the cryopump baffles would not close
+when directed to close. Also, the 1.N2 feed valve upstream of the contamination plate
+froze opcJI during normal operations and could not be closed without application of heat
+directly to the valve body by an operator,
+1“’hese 11 valves were all of the same type, . ~
+were all new, and will all be replaced with Annin control valves. Another problem
+which has recurred with excessive frequency is burnout of the indicator lights which are
+associated with the control panel switches.
+A considerable supply of small 24 VDC
+indicator lights has been procured to cover this burnout problem in the near term. one
+suggested long term solution is to replace the 24 VVC incandescent bulbs with 24VDC
+LFDs but that solution has not yet been tried.
+During the 1-2/93 time period, a complete checkout of all the lamp power supplies was
+conducted. Several of the power supplies were inoperative and required field service but
+al] 37 circuits are now functioning properly.
+All additional solar simulation system
+components will be tested in the 5-6/93 time period when a full-up system test will be
+conducted. No significant problems are anticipated.
+Conclusions
+The thermal and vacuum systems have been operated about 20 times since the initial
+startup and the thermal and vacuum control system have performed well.
+There have
+been no other problems with the new distributed control system to date other than those
+noted above. The GE- Fanuc 90-70 I’I.C-based control system is very versatile and, so far,
+has been reliable in this application.
+P-
+,
+0
+i+=vtr
+— .— -
+[.-. . .
+——. .-.. __
+II
+J
+—. ._7
+ij
+E
+-. Fu
+~-
+.
+,.-..-—
+[..___/
+.
+I
+i
+T
+l+= ~ 
+~ 
+,:E.
+l--
+F~a:
+Computer 
+—
+GENET #1
+Printer
+‘cm Communications
+GENET #1
+----
+GENET #2
+~— ~ Lamp Power Supplies (14)
+GENET W
+i
+GENET#3
++“
+Lamp Power Supplies (14)
+r
+-
+i
+GENET #3
+I
+SPARE
+~’
+MAIN CPU RACK
+Connectivity Between the Main CPU RACK
+-and the ?!%!25
+CPU Rack
+SPARE
+BACKUP CPU RACK
+/ [1. sw.r Vwti  Wmmulsw  RSSISTLR
+!!
+—
+Sf-R+
+SER-
+SNID
+DUT
+NKD
+IN O
+——
+Lsd w Nm TCRWMTDG  nts[$lm!  .
+=-=-4
+SNLD
+WT  g
+-------
+L.
+r
+t
+R.
+R-
+SILD‘o
+SHD
+N
+\
+!-
+—
+i
+=--0
+w
+SW-4-D
+0
+SM_D
+_&*
+14--74
+L
+. .—
+1
+~ ,,,”AC  ,omRATcc~
+I
+I
+I
+f - — - - - l
+I
+I
+-+-+
+I
+r
+,
+-9.  
+- ~
+I
+I
+[ 
+BLK 
+;
+GENE’ 6c
+L:.N  i
+I
+I
+027
+I
+./
+I
+I
+-----d\“
+1
+I
+I
+‘BLOCK #9
+I
+SOLID WIRE BY PCI
+—._ __
+—
+DASHED W?RE BY SASCU
+o
+G TERMINAL
+o
+f13
+PLC INPUT
+D
+01
+PLC OUTPUT
+TYPICAL FOR:
+42” CRYOpUMP VACUUM VALVES
+HELIUM COMPRESSORS
+36” VACUUM  HEADER VALVE
+TURBO PUMP VACUUM VALVE
+LN&fEADER TO CRYOPUMPS
+INLET TO EACH CRYOPUMP
+LNZWTLET  FROM EACH CRYOPUMP
+GNWENT FROM E4CH CRYOPUMP
+Lh&FLOOR  SHROUD BACK PRESSURE
+LNGJIAIN SHROUD BACK PRESSURE
+LN?OUTLET  HEADER FROM CRYOPUMPS
+LN~NLET TO CONTAMIN  PIATES
+L!WXTLET FROM CONTAMIN PLATES
+JIW,
+(C FIECK[[)fl  Y)
+([),17: )
+(Flf Pof4”l N<) )
+([) AIE)
+[f, Fl[)J[ C l )
+7111[
+. .
+(
+—-.-—L.
+ 
+——  
+. 
+. 
+. 
+-.  
+——--—
+ 
+._.. 
+..-
+Cl A:,’>IF l[. AI ICIN’
+JF,l 099!) S  IF{[ V  11/8:{)
+4?
+—
+.-
+.,
+T ~ & 4 & 4 . : J x -
+. . . . . ..” .,. .,,
+Q.=Ek-Jx-Jz.--d~;
+“—.  ——..  -.. -.. . . _______
+ .-
+Q.uk.h)Lt.uQIQ:&i:J
+o- elm=-wamaa
+— - -.---..--—- ..-. . . . . ..— -.. ._ .-. -.
+I
+. . . . . ,, .,., .
+. . . . . . . . . . . . . . .
+.+.
+Q u
+I
+8$ WQ-- Q- o 0.0---4 44—--$’
+-—- . .._. . . . . . . . -.. . . . .-~.- .e,u”.. ..
+I
+43pJ
+-+_. _...._. . . . . . . . . . . . . . . . . -.._
+Q
+J%
+-.”...+  . . . ..—. -_.- . . . . .
+. .- ——. —-— —
+L-
+.3Jl~ ~J- \l’R.() CL_ (L-Q. (Lm
+5..
+—— . . ----—— _ ________________ .
+.ac-.& .- --- — ---- .--.–———-—
+(J 3;lro LlcJ)
+(’C)NJll C)d3tl)
+(3JVUJ
+(31 VU)
+J’
+.
+//
+,--
+*—.
+:1-11 IJ
+(Afl 03tl Vdiltl cl}
+,10
+ 
+– 
+:I:)vd
+-mdr
+g...
+. 
+. 
+.
+d“
+;.9-a-.s~
+v)
+. . . .
+ko~j—a”~
+1
+..- . . ..__ . . . . . . . .
+$:22!+””
+-q 
+““””””-”’”
+-
+-
+-
+~,=.9=S4Q.\n
+v)
+.
+.—..
+.+ ... ___ ______ ._ ._. . . .
+4
+1--”---”””----”--
+3331- I-3
+:X*
+3 –T:~N
+a—
+-—l . . . . . . . . . . .
+p
+: w-l- +-b
+19
+-—, . . . . .
+– 1  
+- - -
+—.
+. 
+. 
+.
+.,.
+. . . . .
+.
+.—
+$ l’>>>w-)~xv)
+~ -z--@F . . . . . . . . . . . . . . .
+.,
+--J-NW
+P
+:– ~-
+- J  - - - - ..—. .. — .---. .
+. ——.. — .
+3-IJ IJ
+(J33rc)&ld)
+(3JVCI)
+(“ ON  JLIOd:JH)
+(:ilvcl)
+[At7 C13X33}{3)
+(AFJ Cl”ltlt/d:JLld)
+TABLE 1
+(d m? ?OW4U2 9uPP~Y
+TABLE1{O
+Typ&l Layout Identifying GENET and Block Designations
+R
+LAMP
+B2
+B3
+B4
+B5
+E2
+E3_
+E4
+E5
+E6
+E7
+E8
+C2
+C3
+C4
+GENET’ 
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+BLOCK 
+1
+3
+5
+7
+9
+11
+13
+15
+17
+14
+21
+23
+25
+27
+lJ_,,,, ,,,,,,,,,,,,,,,
+BLOCK 
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+21
+23
+25
+27
+BLOCK 
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+..:$:. :: ,;,: :,; : ,, ,,, . ,:.,. :. :, : : :,:;,:: .:,.,. ,,, ::: ,, : :::, :, ::, , +::
+ ::.:.., : ,, ..!
+,,, ,, ,,,.,, . . . . :,:,:.,.,,,.  ,.,, ,.,.:. ., ,. .,,,,,,,,.,.,,,,.,.:.:::::,:,:,.,
+,,, ...,,., ,..
+. . . . . . . ...’.. : . . ...’.,,
+.: .,’ ., . . . . . . . . . . ,. .? .:,: . . .:.:, ,:, : ., . . . . . . . . . .
++
+t
+All odd numbered blocks are 8 ch 115 vac 1/0: Block IC660 BBD101
+All even numbered blocks are 4 in/2 out analog: Block IG660BBA100
+Page 1
+.
+(r)/\7f )
+(rl AIE)
+(F{E F’OF:’I  ,N() 
+)
+(F’ FIC)JI  C-l)
+(G-t
+—.—
+—--------  .
+?, L&cl?
+Ii;
+. . ..— —
+tEIL
+F3
+He
+CcS-&)
+. .— . . .. —-
+-.— ..—
+pl. oc.t-’
+(! Cs-e cc5-~
+C’Cs”? CC S-7
+75
+-2 
+k 
+’22
+7(’
+..-_ -,,+. 
+,— ... 
+. 
+.
+1-”
+1
+c?
+‘e3c~c41
+-—i-_..
+.—.. . .. —-—  L—.-—.—— . .
+I~-”
+—
+.-.

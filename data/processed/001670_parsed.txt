@@ -1,0 +1,1213 @@
+NOCTURNAL OLFACTORY RESPONSE TO SMOKE ODOR 
+EXECUTIVE DEVELOPMENT 
+BY: 
+J. L. Lynch 
+Irondale Fire and Rescue Service 
+Irondale, Alabama 
+An applied research project submitted to the National Fire Academy 
+as part of the Executive Fire Officer Program 
+June 1997 
+- 115 -
+- 116 -
+ABSTRACT 
+The Irondale Fire and Rescue Service has been teaching its constituents that they could 
+not smell during sleep and therefore needed the protection of a smoke detector. A challenge to 
+this idea produced the problem of not knowing whether the sense of smell will awaken a human to 
+smoke odor stimulus. The only way to answer that challenge was to perform an inquiry 
+(research) to affirm or deny the existence of olfactory fire protection during sleep. Through 
+descriptive and evaluative research methods, this research project evaluated the sense of smell 
+during sleep to learn if a sleeping adult could detect the odors of water, smoke, or citrus. These 
+odors were first introduced to conscious subjects to screen them for olfactory response. The 
+subjects went to sleep and a compressor pump nebulized three different odorants through an 
+elaborate delivery system into the sleep rooms. EKG, EEG, EMG, and EOG biomeasurements 
+were monitored for response to the stimuli. The following research questions were identified for 
+use: (a) Can a defined group of conscious adults detect the presence of the smell of smoke odor? 
+(b) Will the smell of smoke odor awaken a defined group of sleeping adults? and (c) Will the 
+smells of water, smoke, or citrus odors arouse a defined group of sleeping adults? The results 
+revealed that although a significant number of subjects responded to the stimuli, only two of the 
+ten subjects awoke. The integration of an olfactometer into smoke detectors, the use of smell-
+sensitive components in building materials and household goods, a greater emphasis on smoke 
+detector compliance, and the dissemination of the knowledge gained in this study to convince 
+citizens to protect themselves with smoke detectors were all recommended as a result of this 
+study. 
+- 117 -
+- 118 -
+TABLE OF CONTENTS 
+PAGE 
+Abstract ................................................................................................................. 
+117 
+Table of Contents................................................................................................... 
+119 
+Introduction ........................................................................................................... 
+121 
+Background and Significance.................................................................................. 
+121 
+Literature Review................................................................................................... 
+125 
+Procedures ............................................................................................................. 
+129 
+Results ................................................................................................................... 
+135 
+Discussion.............................................................................................................. 
+136 
+Recommendations .................................................................................................. 
+137 
+Reference List ........................................................................................................ 
+139 
+Appendix A (Typical EEG Patterns)....................................................................... 
+143 
+Appendix B (Various Monitoring Rhythms) ........................................................... 
+145 
+Appendix C (Letter of Introduction)....................................................................... 
+147 
+Appendix D (NFA Brochure) ................................................................................. 
+149 
+Appendix E (Patient Information Sheet) ................................................................. 
+151 
+Appendix F (Permission to Participate Form) ......................................................... 
+153 
+Appendix G (Record of Observations).................................................................... 
+155 
+Appendix H (Photographs of Sleep Study) ............................................................. 
+157 
+Appendix I (Diagram of Sleep Room) .................................................................... 
+159 
+Appendix J (Photographs of Odor Delivery System)............................................... 
+161 
+Appendix K (Results of Odor Tests Table) ............................................................. 
+163 
+- 119 -
+- 120 -
+INTRODUCTION 
+Smoke detectors provide the most common and inexpensive form of early warning to the 
+presence of night fires. Compliance issues that involve detectors continue to be a fire protection 
+obstacle. Prior research has shown that apathy is primarily responsible for noncompliance 
+(Management Internship Program, 1991). The only way apathy can be addressed is through a 
+cognitive learning experience in which a value change has occurred. Because of this, it has always 
+been the intent of the Irondale Fire and Rescue Service to effect a change in the attitude of those 
+citizens who can be identified as being apathetic toward smoke detector compliance issues. 
+For more than 20 years, representatives from the Irondale Fire and Rescue Service have 
+delivered lectures and demonstrations to various groups concerning the need for properly 
+maintained smoke detectors. A key component of the lecture rationale was the inability of 
+humans to smell smoke during sleep. Recently the validity of this point was called into question. 
+A major problem developed when a review of the scientific literature failed to affirm this 
+hypothesis as fact. No one knows if the sense of smell will awaken a human to smoke odor 
+stimuli. Because of the importance of this issue for fire protection, a decision was made to 
+investigate olfactory response to smoke odor during sleep. The purpose of this research is to 
+affirm or deny the existence of olfactory fire protection during sleep. The descriptive and 
+evaluative research methods were chosen to describe the results of this research and compare 
+them with the findings reported in similar studies. 
+The following research questions will be answered in this study: 
+1. 
+Can a defined group of conscious adults detect the presence of the smell of smoke 
+odor? 
+2. 
+Will the smell of smoke odor awaken a defined group of sleeping adults? 
+3. 
+Will the smell of water, smoke, or citrus odors arouse a defined group of sleeping 
+adults? 
+BACKGROUND AND SIGNIFICANCE 
+Have other fire prevention educators ever dedicated a tremendous amount of energy and 
+expense to a noble idea and later realized that they were disseminating misleading information to 
+the very individuals they were trying to help? The author of this report realized he was and 
+embarked on a personal mission of validation. While the specifics of his error will be exposed 
+later, understanding the contributing circumstances of this dilemma is important for the reader of 
+this report. Please note that the sources for the presentation are also cited in the reference list of 
+this paper. 
+- 121 -
+The saga began some 22 years ago when a very young and inexperienced firefighter 
+addressed a group of citizens concerned about fire prevention. Since then, more than 200 
+performances of the "show" have started by citing, "when fire occurs in your home, your chances 
+for survival are two times better when smoke detectors are present than when they are not 
+(Federal Emergency Management Agency [FEMA], 1993, p. 103)," and this is "without 
+specifying complete coverage or operational detectors" (Cote, 1991, p. 10-21). This was 
+repeated to target audiences ranging from the very young to the very old because young children 
+and the elderly represent the two highest fire death risk groups (FEMA, 1990). 
+The firefighter's convictions were founded in the published mandates of notable reports 
+addressing our nation's fire problem. Since their introduction in 1955 (Bukowski, 1993), 
+residential smoke detectors were immediately embraced by public fire educators who proclaimed 
+their promising role in cutting our national fire death rate (National Commission on Fire 
+Prevention and Control [NCFPC], 1973). "Their economical designs and fire service support 
+have led to their installation in the majority of American homes" (Brachtler & Brennan, 1995, p. 
+991). Those early prevention pioneers documented their beliefs at a number of historical 
+gatherings. In 1966, a group of dedicated individuals met at the Wingspread Conference Center 
+in Racine, Wisconsin, to discuss the fire problems in the U.S. Published under the building's 
+namesake, the Wingspread I Conference Report identifies a public complacent about the rising 
+trend of both property and life loss. Wingspread II occurred in 1976 and went on to say, "it 
+appears that residential smoke detectors hold the most practical potential at this time for saving 
+lives" (Rubin, 1996, p. 28). The fire service should take the leadership role in encouraging their 
+widespread use and proper maintenance. It was reported that "public fire safety education will 
+not achieve its potential until it is organized in a systematic manner based on human behavior" in 
+the Wingspread III Conference of 1986 (Rubin, 1996, p.30). Just last year, Wingspread IV 
+produced, as an ongoing issue, similar concerns about the subjects of prevention, public 
+education, and loss of life (Rubin, 1997). 
+The United States government's interest in smoke detectors has been profound since the 
+publishing of America Burning. The findings of this 1973 report were considered a pivotal event 
+in the nation's fire safety evolution. Along with the recommendation of establishing a permanent 
+Federal agency specifically concerned with fire, and a National Fire Academy, the assembled 
+caucus of fire safety leaders advised Americans "to protect themselves and their families by 
+installing approved early warning fire detectors and alarms in their homes" (NCFPC, 1973, p. 
+119). Fourteen years later, the government continued its fire protection agenda by addressing 
+smoke detector compliance issues in the report entitled American Burning Revisited. It was 
+stated in this report that "maintenance problems are eroding detector effectiveness" (FEMA, 
+1990, p. 57). 
+Enlightened by the various subject matter expert reports, the firefighter was convinced of 
+the accuracy and validity of his lesson plan. An orientation concerning the various types of 
+detectors and the common reasons for their failures initiated the instruction. The first reason for 
+smoke detector failures involves the error of not using the product as it was designed. Learning 
+that photoelectric detectors are superior at sensing large particles while the ionization type 
+responds more quickly to fast hot fire partially addressed the "placing the detector in the wrong 
+- 122 -
+place" reason for failures. The second reason for nonactivation of detectors was cited as failure 
+to maintain them by cleaning the sensing passages on a regular basis. "Of course, the biggest 
+reason smoke detectors fail is likely due to dead or missing batteries" ("How It Works," 1993, p. 
+4). By examining these categories of failure, he hoped to see a changed behavior similar to one 
+experienced in Ann Arundel County, Maryland, and Bullhead City, Arizona, that were reported by 
+Charles A. Parks (1990) and Rick A. Southey (1995) in their Executive Development projects. In 
+Parks' project, a mailer was sent out defining the need for detectors and the common maintenance 
+problems. This increased public awareness campaign led to greater smoke detector code 
+compliance. In Southey's project, public fire education sessions in the local elementary schools 
+led to more than 248 household visits by fire department crews for installation of smoke detectors 
+and the replacement of defective batteries. 
+Because less than two percent of households have tested their alarms using smoke, testing 
+smoke detectors was the next topic discussed (Narriott, 1995). The test button method of 
+evaluation does not always signify that a detector will sound in case of a fire (Cooper, 1996). The 
+firefighter introduced an aerosol smoke detector testing product to the patrons of his show and 
+identified a vendor for this product. A demonstration of the CRC Smoke Test® brand of smoke 
+detector testing products was performed according to the instructions contained in the Technical 
+Data Sheet produced by CRC (1997). It was noted that smoke detectors, like other electrical 
+appliances, wear out and may need to be replaced at a future date (Coughlin, 1994). 
+Like detector failures, false smoke alarm activations were identified as problematic. The 
+common ionization type of detector is much less expensive than the photoelectric type; however, 
+they are prone to false alarms (Cooper, 1996). Cooking odors, steam from bathing, tobacco 
+smoke, paint stripping, and the use of coal gas and electric bar fires were all listed as common 
+reasons for false activation of the ionization detectors (Narriott, 1995). 
+The show ended with a recital of information concerning the use of smoke detectors and a 
+question-answer opportunity. Reciting from facts provided by the National Fire Data Center, the 
+firefighter announced that "in 1990, detectors were present in only 27 percent of the one- and 
+two-family homes that experienced fire deaths and 43 percent of the homes that had fires" 
+(FEMA, 1993, p. 103). By 1994, a national average of 88 percent of households reported having 
+detectors. Unfortunately, 20 percent of all households have detectors that are nonoperational 
+(FEMA, 1997). 
+To verify the accuracy of these figures, the 1996 annual report of the Phoenix (Arizona) 
+Fire Department was obtained, and it revealed that only 3 of the 13 residents that suffered fire 
+deaths had detectors installed in their homes. The 1996 Birmingham (Alabama) Fire and Rescue 
+annual report was also consulted, and it listed two of the five residential fire death structures as 
+being protected with smoke alarms. Amazingly, the firefighter discovered that 13 of the 18 deaths 
+reported in these 2 cities occurred in structures that were not protected by smoke alarms and that 
+figure is the exact percentage reported earlier (FEMA, 1997). 
+- 123 -
+To help target at-risk groups, the firefighter explained that there exists a direct relationship 
+between the socioeconomic characteristics of poverty, race, age, and other factors with the risk of 
+having a fire (Hall, 1994). Furthermore, he announced that those having fires do not usually 
+protect themselves. With adequate numbers of detectors on each floor, 3 minutes of warning was 
+provided 89 percent of the time in experiments; whereas the same amount of warning was 
+provided in only 35 percent of the experiments when a single detector was placed near the 
+bedrooms (Bukowski, 1993). At this point, he used a small interactive presentation board with 
+moveable transparent shapes to teach where important safety devices belong in the home. The 
+visual aid used was provided as part of the First Alert Junior Fire Inspector Program© (Timmons, 
+1996), and it referenced the appropriate standards that established these rules. Installation 
+guidelines from the National Fire Protection Standard [NFPA] Number 74 (1996) and the 
+American National Standards Institute [ANSI] Standard Number 217 (1993) were abridged for 
+the sake of time. (The ANSI standard is also known as the United Laboratories standard.) If 
+time permitted, he occasionally used videos to dramatize his message. For children, the he used 
+the cartoon video "Donald's Fire Survival Plan" (Disney Educational Productions, 1987), which 
+ironically starts with Uncle Donald saying, "Fire can't happen to me." For adult audiences, he used 
+the NFPA movie entitled "Fire Power" (MacClary & Estus, 1986), which graphically shows the 
+effects of fire. At this point, the show moved into its final act. 
+After summarizing the major points of the presentation, the firefighter gave the audience 
+an opportunity to ask questions. If no inquiries were generated, a third person's perspective was 
+used for addressing commonly asked questions and myths concerning home protection. Referring 
+to product information, he explained that ionization detectors are easy to install, easy to test, and 
+can be obtained for as little as $ 3.99 per unit (Jameson, 1994). Quoting from the NFPA 
+Standard Number 72 (1996, p. 72-28), he advised the audience that "smoke detectors should be 
+installed outside of each separate sleeping area in the immediate vicinity of the bedrooms and on 
+each additional story of the family living unit, including the basements, and they should be tested 
+in an approved manner weekly." To address any health risk concerns, he announced that the 
+ANSI Standard No. 217 (1993) requires all ionization detectors to meet safety criteria 10-CFR 
+32.27 of the United States Nuclear Regulatory Commission and that the radioactive source within 
+the detector cannot be harmful to those who handle or use the device (Bare, 1977). A brochure 
+entitled Smoke Detectors: Don't Stay Home Without One was distributed for reinforcement of the 
+concepts covered in the presentation (FEMA, 1988). 
+Just before the curtain fell, he took on a dangerous but commonly held myth concerning 
+home fire protection. Unbeknownst to the firefighter, it was at this point that his credibility took 
+a nose dive. Armed with the results of a report by the graduate students of the University of 
+South California that stated "a popular reason for not choosing to protect one's self from fire is--I 
+know about things like fire and I am able to handle this problem myself" (Management Internship 
+Program, 1991, p. 1), he mounted his stump for the grand finale. 
+Feeling very confident and righteous, the firefighter dramatically exclaimed that because 
+humans have no sense of smell while sleeping, our lives are in peril without the protection of a 
+smoke detector! He had always considered this line as the "coup de grace" to any holdouts, and 
+no challenge was ever raised to this point. Although this concept had been handed down from 
+- 124 -
+previous public fire education officers who had influenced him, he realized that he had never seen 
+a reference attesting to this fact. His naiveté was destroyed in the summer of 1996 when a 
+multiple fatality residential fire occurred in south Alabama. Local officials (frustrated with the 
+progress of the investigation) turned their attention to a suspected smoke detection device. Since 
+the occupants had awakened from their sleep only to perish near a window, they surmised that the 
+detector had activated. They were also under the impression that humans could not smell during 
+sleep. A quick literature check revealed that there were no supporting data to justify that 
+position. It was overwhelming to consider that for over 20 years, he had based his entire life 
+safety message on a belief that could not be substantiated. It was at this point that he decided to 
+try to reclaim his convincing argument by researching smell during sleep. The Executive Fire 
+Officer program of the National Fire Academy facilitated this research by exposing him to the 
+systematic problem-solving model covered in Unit 4 (Problem-Solving) of the Executive 
+Development class. 
+LITERATURE REVIEW 
+To perform a complete literature review, 25 separate libraries, medical institutions, trade 
+organizations, governmental entities, or private companies were queried for information. 
+Surprisingly, a very limited amount of research has been documented in this area of behavioral 
+science. Any discussion or review of the previous related studies must begin with a short 
+introduction about the bodily functions of sleep and smell. 
+Sleep 
+"Sleep is a normal, easily reversible, recurrent, and spontaneous state of decreased and 
+less efficient responsiveness to external stimulations" (Goetz, 1991, p. 298). Research has shown 
+that a number of basic states of sleep exist. These states are known as waking, REM (rapid eye 
+movement), and NREM (nonrapid eye movement). REM sleep and NREM sleep are controlled 
+by a separate groups of brain cells, or neurons, located in the brain stem. The brain stem is the 
+hindmost part of the brain that regulates basic survival functions (Pollak, 1996). Specifically, the 
+control of NREM sleep likely resides in widely ranging circuits from the area around the solitary 
+track in the medulla, through the dorsal raphe, and in the basal forebrain area (Hauri, 1992). The 
+responsible groups of brain cells or neurons (all located in the brain stem area) communicate with 
+each other with chemical messengers known as serotonin and norepinephrine (Pollak, 1996). 
+NREM is further characterized as having four distinctive stages. Humans progress 
+through theses stages in a predetermined order or rhythm. Stage 1 of NREM can be thought of 
+as the boundary between wakefulness and sleep, while stage 2 is the first (lightest) bonafide level 
+of sleep. Stages 3 and 4 represent the most remote levels of responsiveness. A person in stage 4 
+sleep is very hard to arouse by any outside stimuli (Coren, 1996). Specific stages of sleep have 
+been defined through the "presence of certain electroencephalograms (EEG) patterns that occur 
+during specific behavior sleep periods" (Hauri, 1992, p.4) (see Appendix A for typical EEG 
+patterns). The typical sleep pattern is represented by the following model: Conscious--NREM 
+- 125 -
+Stage 1, 2, 3, 4, 3, 2, REM, NREM 2, 3, 4, 3, 2, REM, etc., (Hauri, 1992). The pattern takes 
+approximately 70 to 90 minutes to be completed and is repeated throughout the night (Goetz, 
+1991). Dreaming occurs in REM, and it is the easiest state of sleep from which to be aroused. 
+Most sleep studies are performed in stage 2 (NREM) sleep because we spend 50 percent 
+of our time in light sleep. Stage 2 sleep is determined by a mixed voltage pattern of EEG, "Stage 
+2 combines spindles and K complexes with a stage 1 background" (Hauri, 1992, p. 4). Sleep 
+spindles are naturally occurring and are the brain's electrical sleep signature. They are further 
+defined as spindle-shaped bursts of 11.5- to 15.5-Hz waves lasting 0.5 to 1.5 seconds. K-
+complexes or sharp biphasic waves lasting 0.5 seconds also occur naturally or can be induced by 
+external stimulation. Sleep is normally defined as a state in which there is a limited amount of 
+alpha rhythm. Alpha rhythm, or conscious state, is an EEG rhythm with a frequency of 8 to 13 
+Hz in human adults. Although this rhythm is blocked when the eyes are open, it is very 
+discernible when a person is conscious with their eyes closed. Alpha intrusions are considered 
+brief superimpositions of EEG alpha activity (arousals) during a stage of sleep (Pegram, 1997). 
+Drug abuse can cause an inordinate amount of sleep spindles or alpha intrusions during NREM 
+sleep (Russell Laney, personal communication, May 9, 1996). 
+Sleep centers use polysomnography machines to monitor patients during their study. 
+These machines typically monitor the electroencephalogram (EEG), eye movements 
+(electrooculogram or EOG), muscle activity (electromyogram or EMG), electrocardiogram 
+(EKG), nasal and air flow, breathing effort (measured at the chest and abdomen), and oximetry. 
+The tracings obtained on a polysomnogram machine represent electrical activity within the 
+cerebral cortex (EEG), voltages generated by muscle fibers (EMG), voltage shifts caused by the 
+movements of the eyes (EOG), and voltages generated by the heart (EKG) (see Appendix B for 
+examples of the various monitoring rhythms). 
+There are a number of factors that influence the quality of a person's sleep. Age tends to 
+limit the number of hours and, consequently, the completed sleep cycles or patterns humans enjoy. 
+The average senior adult sleeps six hours a day while an infant sleeps fourteen (Howard, 1994). 
+Many drugs (i.e., phenobarbital, secobarbital, et al.) reduce the amount of time spent in REM 
+sleep while other drugs (i.e., barbiturates, amphetamines, and narcotics) have been shown to 
+produce withdrawal symptoms characterized by high percentages of REM sleep (Goetz, 1991). 
+Periods of alpha intrusions are commonly observed in NREM sleep of drug abusers (Russell 
+Laney, personal communication, May 9, 1996). The data clearly supports the position that drugs 
+can have a dramatic effect on sleep 
+Sleep apnea, night terrors, narcolepsy, hypersomnia, somniloquy (sleep talking), 
+somnambulism (sleepwalking), enuresis (bed wetting), bruxism (tooth grinding), and snoring are 
+all disorders that affect the quality and patterns of sleep. Considerable attention is given to these 
+sleep barriers in current physical as well as mental therapy plans (Goetz, 1991). 
+- 126 -
+The last sleep factor to address in this study is the circadian rhythm or "body's clock" 
+mechanism. Current research suggests that our bodies are regulated by an internal rhythm that 
+ebbs and flows on a regular schedule. Charles Czeisler of Harvard University and the Center for 
+Circadian and Sleep Disorders at Brigham and Women's Hospital in Boston states that "triggered 
+by a daily pattern of sunrise and sunset, the clock can be reset by bright lights" (Howard, 1999, p. 
+94). If the body's clock gets thrown out of kilter by disease, aging, travel, or some other factor, 
+our sleep patterns will be affected. 
+Smell 
+Smelling, the most primitive sense, is the other bodily function under consideration in this 
+project. Smelling (also known as olfaction) is performed by odoriferous molecules attaching to 
+receptor sites located in the nasal cavity. Via a chemical interaction within the receptor sites, a 
+transfer of odor data is accomplished through olfactory dendrites, specialized nerves, and the 
+hypothalamus region of the brain. This is a direct-link, instinctual response system that animals 
+depend on for survival (Piotrowski, 1996). Smelling, like sleep, is controlled in the stem or base 
+area of the brain (Pollak, 1996). This area is described as a continuation of the spinal cord into 
+the brain, and the lowest division of the encephalon. The medulla is truly the connection between 
+the brain and the body (Pick & Howden, 1977). 
+Smells are classified according to at least the following primary odors: camphor-like, 
+musky, floral, ethereal, pungnant, and putrid. Woody, spicy, and burned have also been 
+suggested as bonafide odor classifications (Piotrowski, 1996). 
+Due to their fragile nature, olfactory nerves regenerate in a 28-day cycle; nevertheless, 
+about 1 percent of the sites die each year due to damage and general wear. The loss in the ability 
+to smell (anosmia), the state of hyposmia (which is a decrease of the smell function), and 
+dysosmia (an altered sense of smell) can all manifest themselves in numerous ways (Piotrowski, 
+1996). The common medical problems associated with the loss of smell are smoking habits, nasal 
+polyps, allergic rhinitis, viral and bacterial infections, head injuries, and complications of nasal 
+surgery and brain tumors (Larson, 1996). There is an overall weakening of our ability to smell as 
+we get older (Petraglia, 1991). In 1957, Clalke and Dewhurts reported that 30 percent of a 
+defined group of people over the age of 65 was unable to smell propane gas (Stevens, Cain, and 
+Weinstein, 1987). 
+Historical Review of Olfactory Sleep Studies 
+Due to the limited amount of research in this area, the critical findings of others who have 
+performed smoke tests on olfactory senses were somewhat hard to obtain. Early in my literature 
+review, I talked with two medical professionals who had performed fundamental sleep research. 
+When queried about the accumulated body of knowledge in this area, both individuals responded 
+in a similar fashion. Dr. Pietro Badia of the Bowling Green State University Department of 
+Physiology stated that "very few studies have been performed on olfactory response during sleep" 
+- 127 -
+(personal communication, May 9, 1997). Dr. Alan Hirsch of the Chicago Smell and Taste 
+Research Foundation suggested that "much more effort needs to be committed to this type of 
+research" (personal communication, May 9, 1997). As a barometer of the sincerity of their 
+responses, I humbly offer their interest in the results of this research. Both individuals requested a 
+copy of this report, and it will be forwarded to them at completion. 
+Related research was performed by Bryant and Woods during the 1970s. Smoke, along 
+with other fire indicators, was introduced to the study groups to learn how people became aware 
+of the presence of fire (DiNenno, 1988). Latane and Darley duplicated these efforts by 
+introducing smoke into rooms that college students were using for the purpose of completing a 
+written questionnaire (DiNenno.) In every one of these studies, the largest reported "means of 
+awareness" category was smelt smoke. 
+In 1973, Kahreman concluded his report by stating that "what one perceives is largely 
+dependent on one's needs, experience, and attitudes as well as on the physical characteristics of 
+stimuli (Schwalm, 1991, p. 119)." He declared this after obtaining prior information on 56 
+subjects and then exposing them to a set of simulated fire scenarios. To obtain performance data, 
+smoke, heat, and sound threats were presented in this experiment. The subjects were evaluated 
+by the time they took to detect simulated fire clues, the time they took to respond to those clues, 
+and the appropriateness of their responses (Schwalm). 
+Canter, Breaux, and Sime suggested that males and females might react differently when 
+confronted with smoke or fire itself. Their research suggested conventional sex role behavior 
+during fire scenarios and problems associated with nonresponse to stimuli due to negative 
+conditioning. Canter, Breaux, and Sime defined conventional sex role behavior for females as 
+passive and for males as active (Paulsen, 1984). 
+Murray and Campbell (1970) studied 3-day-old infants to determine their olfactory 
+response. Though their study suggested the presence of olfactory produced response during 
+sleep, it was completed without the benefit of polygraphic recordings and without the 
+consideration of infantile startle response. 
+Odorous response during sleep was again assessed in a nonpublished proprietary study 
+that was commissioned by a large midwestern public utility. Dr. Alan Hirsch exposed a study 
+group to the principal odorant in natural gas to determine if it would arouse a sleeping subject. It 
+was determined that an extraordinary concentration of the odorant (methyl mercaptan) was 
+required to produce the desired result. In fact, Dr. Hirsch stated (personal communication, May 
+9, 1997) that "trigeminal or fifth cranial nerve level response was required to awake a person by 
+the smell of methyl mercaptan." The trigeminus nerve is the great sensory nerve of the head and 
+face and the motor nerve of the muscles of mastication (Pick & Howden, 1997). Dr. Hirsch went 
+on to say that "this is equivalent to the odor generated by smelling sauce or a strong onion." From 
+a fire protection point of view, the most important conclusion drawn from Dr. Hirsch's research 
+was the finding that a response derived from a trigeminal level of methyl mercaptan also 
+constitutes an explosive concentration of gas when mixed with an ambient atmosphere. 
+- 128 -
+Intrinsically, the most valuable work in the area of olfactory responses during sleep was 
+published by Micheal J. Kahn and Pietro Badia. In 1983, Kahn studied sleep response to the 
+stimulus of a smoke odor, heat sensations, and auditory alarms. Twenty-four college-aged males 
+were divided into two groups and exposed to smoke alarm sounds of different intensities. By test 
+design, both groups were exposed to heat and smoke odor. Kahn found that sleeping subjects 
+exposed to higher signal-to-noise ratios responded more quickly than those who were not. Kahn 
+also attempted to address an hypothesis concerning the time required for a sleeping adult to 
+respond to a smoke odor. Unfortunately, he reported that "comparing smoke alarm and sleeping 
+human proficiency in detecting a smoke presentation could not be tested meaningfully" (Kahn, 
+1983, p. 51). He finished his presentation by calling for additional research in this area. In 1991, 
+Pietro Badia evaluated the effects of fragrances on the quality of a person's sleep. In his 
+discussion, he also indicated the need for additional inquiries into the perplexing topic of odor 
+research during sleep. 
+In 1989, Pietro Badia, Nancy Wesenstern, William Lammers, Joel Culpepper, and John 
+Harsh wrote a report entitled "Responsiveness to Olfactory Stimuli Present in Sleep." The results 
+of their study showed that although the overall responsiveness to olfactory stimuli presented in 
+sleep was low, statistically significant differences in responsiveness to odors were found for micro 
+switch closures, EEG, EMG, and heart rate. The condition of micro switch closure involved the 
+physical manipulation of an electrical switch attached to the patient. Ten patients were presented 
+a peppermint and a nonfragrance air supply via a modified oxygen mask during sleep. 
+Polysonograph machines recorded the biomeasurements listed above to assist the researchers in 
+detecting a psychophysiological response. The patients were presented the fragrance multiple 
+times during the night so that the related dependent variables were repeatedly assessed during the 
+test period. The number of times a patient responded to the condition divided by the 
+opportunities a patient had to respond resulted in a percentage of response variable. These 
+percentages of responses were determined to be statistically significant (Sign test =p<0.05) for the 
+overall group. The methodology for reporting these before and after observation was the 
+nonparametric Sign or paired-samples t-test. All fragrance presentations occurred in stage 2 
+sleep. Awakenings were noted and evaluated separately to determine their rate of occurrence. 
+Sign tests failed to reveal any significant awakening occurrences (Sign test=p>0.05). Although 
+multiple trials were presented on each of the 10 patients, only 3 awakenings occurred during the 
+study. Discovering the obvious lack of documentation in the area of olfactory sleep research 
+challenged my natural drive for closure; however, it was the studies involving Badia that excited 
+my aforementioned curiosity in this project and identified a methodology by which smoke odor 
+response could be evaluated. 
+PROCEDURES 
+In order to perform a sleep study, one must be affiliated with a sleep clinic. Therefore, the 
+first procedure was to convince one of the local bonafide sleep clinics to assist me in this 
+endeavor. A letter of introduction was prepared and hand delivered to the offices of Dr. Vernon 
+Pegram (800 Montclair Road, Birmingham, Alabama 35213), who is the director of the Sleep 
+Disorder Centers of Alabama [SDCA] (see Appendix C for the letter of introduction). The 
+- 129 -
+National Fire Academy's brochure explaining the Applied Research Projects was also included to 
+validate my request (see Appendix D for the NFA brochure). Within a week of Dr. Pegram's 
+receiving the letter, a meeting was scheduled to discuss the possibility of performing the study 
+with the medical and business staff. Issues concerning the compatibility of this study with that of 
+the primary study were reviewed along with the topics of feasibility and liability. Each issue was 
+resolved and a consensus decision was made to go forward with the project. Clearly, the 
+significance of this subject matter and the lack of recorded data available influenced the decision 
+making process. All parties agreed that the research was needed, important, and achievable 
+before a possible commercial application of this concept was mentioned. A leading manufacturer 
+of smoke detectors is interested in the results of this study, and there existed a good possibility of 
+parlaying this superficial study into a comprehensive commercially funded study. (The SDCA will 
+explore this opportunity after this project has been completed.) A timetable for conducting the 
+research was agreed upon and implemented. The sleep studies were completed during the month 
+of April, 1997. 
+The subjects or patients in this research were 10 sleep disorder patients of the SDCA who 
+properly responded to the olfactory screen process. This is the defined group for the purposes of 
+this study. The number of patients to be involved in the study was predetermined to be the same 
+number of subjects (10) used in Badia's, et al., test (1989). Dr. Vernon Pegram of the SDCA 
+agreed that this would be an appropriate number to evaluate for similar responses. This is also the 
+minimum population versus sample size identified in the research section of the National Fire 
+Academy course Executive Development. The demographics of the group were five Caucasian 
+females, four Caucasian males, and one African-American male. Their ages ranged from 26 to 61 
+years of age. The mean age for the subjects was 45.60 years of age. They were screened before 
+participation for medication use, health concerns, allergy problems, and for responsiveness to 
+olfactory stimuli in the waking state. The screening process was designed to identify patients with 
+health problems that would either place the patient in jeopardy or corrupt the results of the tests. 
+Two possible subjects were eliminated prior to the sleep portion of the study. The first subject (a 
+Caucasian male) developed an allergic rhinitis condition immediately after the exposure to the 
+smoke odor. This condition effectively blocked his nasal passages. This subject later admitted to 
+being allergic to products of combustion and the event was short in duration. This reaction can be 
+thought of as a form of validation of the authentic nature of the smoke odor selected for use in 
+this study. The second subject (a Caucasian female) eliminated from the study failed to detect any 
+of the odors in the screening process. This subject was referred to the medical staff for evaluation 
+and followup. A total of 12 subjects was evaluated for participation and 2 were eliminated 
+All patients participating in this study were undergoing sleep studies for other reasons. 
+They were not paid for participating in the smoke odorant research. None of the patients 
+reported a history of smoking. All patients appeared conscious and alert prior to the sleep 
+studies. No specialized breathing equipment such as CPAP (Continuous Positive Airway 
+Pressure) or a nasal cannula was used in this research. Since new patients begin their sleep 
+studies on Monday and Wednesday night, a decision was made to use these patients as the 
+research database. The sleep studies were performed in six different sessions between the hours 
+of midnight and 0200. 
+- 130 -
+For statistical purposes in answering research question three, a determination was made to 
+use three different odorants in this project. In each test, the patient was exposed to all three 
+odorants in a predetermined order: first, a neutral odorant, then a smoke odorant, and finally, a 
+smoke-eliminating citrus odorant. The first odorant used was a placebo of only drinking water. 
+The second odorant administered was a product known as Charsol C-10® that is normally used as 
+a food additive and is produced by the Red Arrow Products Co., Inc., of Manitowoc, Wisconsin. 
+They produce the majority of smoke flavoring used in barbeque sauces in this country. Charsol 
+C-10® smells like smoke generated by a house fire and is described in the product information as 
+"an aqueous solution of natural smoke flavors produced by controlled pyrolysis of mixed 
+hardwoods" (Red Arrow, 1997, p. 1). From a fire or smoke study perspective, it could be said 
+that although there are many causes of smoke odors, the smell of burning wood is considered 
+unmistakable. Wood smoke is the most recognizable of all the smoke odors and there is a 
+perceived danger associated with its presence (Montagna, 1995). Charsol C-10® was chosen after 
+consultations with the technical research staffs of the U. S. Flavors and Fragrances Company 
+(Chicago, Illinois) and the International Flavors and Fragrances Company (Union Beach, NJ). 
+The final odorant selected for the tests was a product known as Ultra Citrus®. It is produced by 
+Medo Industries, Inc., of Tarrytown, New York. This product yields a strong citrus smell that 
+effectively eliminates other odors. 
+These odorants were chosen for a number of reasons. By using water as a placebo, the 
+background effects on the patient can be identified. Since water was administered in the same 
+manner as the smoke odorant, stimuli resulting from the process of administration could be 
+eliminated. The smoke and citrus odorants were used during the conscious test to establish the 
+capability of the subjects to discern the smoke odor. The conscious tests were always performed 
+prior to the sleep tests so that the subjects could associate the smoke odorant with the threat from 
+fire. The citrus odorant was included for two reasons. Primarily, the role of the citrus product 
+was to stimulate the sleeping subjects in a nonthreatening manner. By doing this, a smoke/citrus 
+comparative analysis can be performed in the results of the study. The secondary reason for using 
+the citrus odorant was to absorb the offensive and lingering smoke odor. Medo states on their 
+product's packaging that "Ultra Citrus® chemically absorbs odors." Since this product was 
+delivered last, the test rooms were left in a deodorized manner so that the patients could continue 
+their primary sleep study. 
+Patients arrived at SDCA at 2030 hours to be prepared for the night's monitoring. The 
+staff of the SDCA explained the research project and presented the information sheet and 
+permission to participate form to the patients for their review and authorization (see Appendix E 
+for a sample of the patient information sheet, and Appendix F for a sample of the permission to 
+participate form). After the patient signed the release, a series of tests were performed to 
+determine if the patient could discern a difference in the odorants while in a conscious state. 
+These tests were performed to verify the patient's ability to smell the scents used during the sleep 
+study. The conscious or olfactory sensitivity tests were performed by the staff of the SDCA and 
+consisted of a spray discharge of 120 micro liters of the three odorants into the ambient 
+atmosphere. These tests were performed in rooms other than the sleep rooms. After every 
+discharge, the patients were asked to identify the smell of the odorant, and their responses were 
+- 131 -
+indicated on a record of observation (see Appendix G for the record of observation). All of the 
+patients responded in a correct manner when identifying the odorants. 
+The patients were then given an orientation to the various monitoring leads that are 
+customarily attached to a sleep study patient. Electrodes were secured for recording central 
+responses known as brain waves or EEG (C3, C4, O1, O2, left and right mastoids), autonomic 
+responses of pulse and heart rhythm (modified Lead II), eye movement or EOG (outer canthi, 
+above and below midline), muscle movement or EMG (supra- and submental), oxygen 
+concentration, and breathing muscle movement. The respiration belt was secured comfortably 
+around the rib cage at or about the 4th or 5th ribs (figure H1 is a picture of a patient with the 
+various leads attached). For approximately 30 minutes, the staff of the SDCA calibrated their 
+monitoring devices to choreographed movements the patients were required to perform. Once 
+the calibration ritual was complete, the patients were allowed to go to sleep. The 
+polysomnography machine used during this study was a Nihon Kohden model 125 (figure H2 is a 
+picture of a Nihon Kohden model 125 polysomnography machine). Observations of the patients 
+during sleep were also of a visual nature. In addition to a regular closed circuit camera, the 
+SDCA uses an infrared camera by which behavioral responses of the patient can be recorded in 
+total darkness from "lights out" to "lights on." 
+The patients slept in electrically shielded and sound-attenuated bedrooms. The rooms that 
+the patients sleep in contain approximately 32.5 cubic meters of ambient atmosphere (see 
+Appendix I for a diagram of the sleep room). To isolate the patient's environment, the entrance 
+doors of the sleep rooms were shut. The HVAC (heating, ventilation, and air conditioning) 
+system discharge and return vents were allowed to work in their proper or designed manner to 
+simulate normal air current patterns. None of the ionization smoke detectors activated during the 
+sleep tests. 
+The patients were told that the same odors presented to them earlier in the night would be 
+presented to them during their sleep and that they should let the observers know if they reached a 
+state of consciousness. The tests were administered while the patients were in stage 2 sleep and 
+this was verified by EEG. 
+The odorant delivery system for the sleep study was much different from that of the 
+conscious study. The delivery system started with a W. R. Brown Company Speedy® model PC 
+201 AC compressor pump rated at .35 CFM at 20 P.S.I. or 9,800 milliliters per minutes (Federal 
+Equipment Company, 1991). The compressor discharged into a 6mm (i.d.) plastic Teflon tubing 
+that was approximately 256 centimeters long. Connected to the end of the tubing was a standard 
+banded screw-type automotive hose clamp and the receiving end of a Hudson R.I. Neb-U-Mist® 
+nebulizer (figure J1 is a picture of the setup). The hose clamp ensured that the nebulizer would 
+not be blown off during the tests. The Hudson Respiratory Care, Inc., Company of Temecula, 
+California, manufactures the Neb-U-Mist® style of nebulizer consisting of two different pieces. 
+The first piece is called the nebulizer jar, and it usually contains the fluid or medicine to be used. 
+This particular brand of nebulizer has the advantage of having a ribbed inlet stem that ensures a 
+tight connection with the compressor hose. In this case, one milliliter of odorant was used in each 
+of the three procedures. The odorant was dispensed from standard medical syringes calibrated to 
+determine one milliliter of fluid. The second piece of the nebulizer is called the nebulizer cap, and 
+- 132 -
+its primary function is to catch the atomized odorant and route it into a delivery hose (figure J2 is 
+a picture of the nebulizer). The delivery hose used in this study was a piece of 2.5-centimeter 
+(minimum i.d.) corrugated plastic polyvinylchoride ventilator hose approximately 2.44 meters in 
+length. This hose was routed through the ceiling membrane in the hallway, through the double 
+firewall barrier with its insulation, and down through the ceiling membrane into the patient's room. 
+Because the hose is flexible and semitranslucent, installation took place in such a way that the fire 
+wall integrity was never compromised during the study (figure J3 is a picture of the hose passing 
+through ceiling membrane). The delivery hose terminated approximately 218 centimeters away 
+from where the nose of a prone positioned patient would be (Figure J4 is a picture of the delivery 
+hose terminating in the sleep room). To make sure that sound would not interfere with the study, 
+the compressor pump and the nebulizers were operated in a remote location from where the 
+patients slept. The complete odor delivery system was tested to determine if the odor of smoke 
+and citrus was significant enough to test olfactory senses prior to the beginning of the sleep tests. 
+The intent of the odor delivery process was to produce a concentration of odor that is similar to 
+that of a fire in an early stage of development. The odor generated in the sleep rooms did this and 
+was strong enough to produce a residual odor for several hours after administration. 
+Usually around 0030, the SDCA technicians confirmed that the patient had reached stage 
+2 sleep and it was time to administer the tests. Each patient was exposed to the discharge 
+produced from 90 seconds of pump operation in which 1 milliliter of odorant was completely 
+nebulized. As in the previous tests, the order of delivery was predetermined and administered by 
+the following schedule: water, smoke odorant, and citrus odorant. A minimum of two minutes of 
+time elapsed between each of the tests conducted. Along with the visual observation of the 
+patient, the SDCA technicians scanned the 12 electrical tracings on a polysomnogram to 
+determine if the patient had been aroused in some way (see Appendix B for a polysomnogram 
+tracing example). Along with any significant reactions, the beginning and ending of each of the 
+three tests were indicated on each of the patient's hard copy monitor recording, computer file, and 
+progress report. The computer software used for scoring (interpreting) sleep studies at the SDCA 
+is called Sandman©, and it is produced by the Nellcor Puritan Bennett Corporation of Ottawa, 
+Ontario. These three sources of patient data were customarily reviewed and scored by the 
+medical staff during the following business day. 
+Data Analysis 
+The results of this study will be reported statistically from a Cochran's Q test format. The 
+results were obtained with the assistance of a computer program known as SPSS for Windows 
+6.1©- PC Plus Student Ware. The program is manufactured by the Statistical Package for Social 
+Sciences Company located in Chicago, Illinois. This methodology of reporting is a non-
+parametric form used to test whether several dichotomous variables have the same proportion of 
+responses. Basically, the Cochran's Q test allows a statistical analysis of single response to 
+conditions or tests that are of a yes-no nature. In the study performed by Pietro Badia, et al., the 
+nonparametric Sign or paired-samples t-test was performed to evaluate the percentages of 
+observed responses in a repeated process. Both tests evaluate similar responses as variables to 
+the conditions of odors and nonodors presented during sleep. The difference between the tests 
+- 133 -
+involves the number of opportunities a subject has to respond, the breathing atmosphere the 
+patient was exposed to, and the nature of odorants used in the tests. 
+In this project, each subject had the opportunity to respond once to each stimulus or 
+condition. In Badia's, et al., test, each subject had a number of opportunities to respond and a 
+percentage of responses was determined. The method of administration of odorant was through 
+ambient air in this research and by modified oxygen masks in Badia's, et al., project. Using the 
+ambient environment allows the simulation of a normal air current delivery of odors as opposed to 
+the artificial environment of a mask. Using the ambient environment was also necessary due to 
+the multiple evaluations being performed during the same sleep period (see limitations). Finally, 
+the odorants of water, smoke, and citrus were used in this research, whereas Badia, et al., used 
+nonscented air and peppermint. In order to make an inferential comparison between Badia's, et 
+al., study and this one, water is considered a comparable condition to Badia's, et al., nonscented 
+air while citrus and smoke odors are considered comparable conditions to his fragrance of 
+peppermint. The combined variable responses of awakenings and arousals in EEG and EMG are 
+inferentially comparable in both studies and thus form the basis for the evaluative portion of this 
+research project. 
+Assumptions and Limitations 
+All subjects participating in this study were patients in a sleep research clinic. They were 
+being evaluated for sleep disorders before, during, and after the various odor tests were being 
+administered. To some degree, all of the subjects had some type of sleep disorder. However, the 
+symptoms of the disorders were monitored and evaluated to prevent the corruption of odor 
+research data. 
+Another possible limitation of this study involves the design and type of analysis 
+performed. Each subject had one opportunity to respond to the three conditions. A better 
+analysis might be performed in a repeated measures type of study in which each subject would 
+have multiple opportunities to respond to various conditions, and a percentage of responses could 
+be determined. This was not possible due to the fact that the primary reason for the sleep study 
+was to diagnose sleep disorders. 
+Although the odor delivery process (identified under Procedures section) can be 
+objectively reproduced, the condition of representing an equivalent amount of odor to that of an 
+early stage of fire development was a subjective standard of the researcher. This assumption was 
+made after three different staff members sampled the air in the sleep rooms to determine if the 
+process produced a satisfactory odor. All three agreed that the concentration of the odor was 
+significant and fairly represented the desired effect. The equipment necessary to define the 
+concentration of ambient odors in the sleep rooms was not available to give a scientific 
+measurement for that condition. Due to odor diffusion, that measurement would vary according 
+to the sampling position in the room and the time a sample was taken. If complete saturation of 
+the odorant was achieved, that concentration could be determined by dividing the capacity of the 
+room (32.5 cubic meters) by the one milliliter of odor concentrate (see Appendix I for the various 
+- 134 -
+measurements of the sleep room). 
+Although smoke odor was assessed during this study, none of the customary fire gases 
+were present that contribute to the problem of fire deaths. For example, an ambient exposure 
+resulting in a 20 percent blood saturation of carbon monoxide (a common fire gas) will cause 
+disorientation. Increase this exposure to a 40 percent saturation and unconsciousness will occur. 
+Many of the common fire gases tend to cause loss of smell and the depression of the central 
+nervous system. A few of the fire gases will actually cause a sleeping person to fall deeper into 
+unconsciousness after a limited exposure (Meidl, 1970). The results of a sleep study performed in 
+an environment of fire gases would probably be heavily influenced by this condition. 
+The last identified limitation involves the lack of smell deficient subjects being represented 
+in the study. All of the subjects in this study were nonsmokers and could easily identify the odors 
+in the screening process. There are however, a significant number of people in the general 
+population of the United States who have a reduced olfactory ability due to smoking or medical 
+reasons (see Smelling under Literature Review). Mr. Bill Orz of the Tobacco Institute in 
+Washington, DC, reports that "there are between forty-two and forty-five million adult smokers in 
+the United States alone" (personal communication, May 22, 1997). If we add the people who 
+have medical problems, the statistics reveal that quite a few people are grouped into the category 
+of diminished smellers. The addition of this group into our research process would probably 
+influence the results. 
+RESULTS 
+Appendix K shows the results of the conscious fragrance screening and the proportion of 
+responses (variables) to the three conditions of the sleep tests. Each of the 10 sleeping subjects 
+were scored on the variables of awakenings, EEG (alpha waves or multiple K complexes), and 
+EMG (spontaneously occurring muscle movements) arousals. If one, two, or all three of these 
+variables occurred during a condition, the subject was scored 1 for that condition. 
+Answers to Research Questions 
+Research Question 1.  The first question was whether a defined group of conscious 
+adults could detect the presence of smoke odor. The answer is yes; all 10 subjects identified the 
+smoke odor. They also gave appropriate responses to the conscious sensitivity tests for citrus and 
+water odors. 
+Research Question 2.  The second question was if the smell of smoke odor would 
+awaken a defined group of sleeping adults. Two of the 10 subjects, or 20 percent, were actually 
+aroused out of stage 2 sleep by the stimulus of smoke odor. This was verified by infrared camera 
+and EEG. Remember that sustained alpha waves indicate a state of consciousness also. The 
+answer to the second question is that smoke odor will awaken 20 percent of a defined group of 
+adults. 
+- 135 -
+Research Question 3.  The third question was if the smell of water, smoke, or citrus 
+odors aroused a defined group of sleeping adults. All 10 subjects were monitored by infrared 
+camera, EEG, and EMG for variables or responses to the three conditions of water, smoke, and 
+citrus. Cochran's Q test was used a nonparametric alternative to test overall differences in the 
+proportion of responses among the three conditions. The study resulted in a Cochran's Q =9.00, 
+p=.011. These figures indicated a significant difference among the test conditions. 
+Next, I followed up with two planned subanalyses performed to determine differences in 
+the proportion of variables or responses to two of the conditions of the study. The degree of 
+freedom rule allows only two subanalyses of the three conditions. The water-smoke and the 
+citrus-smoke comparisons were chosen for subanalysis. Proportional results were established by 
+reporting the number of variables occurring to each condition over the total number of subjects 
+participating. 
+The water-smoke subanalysis to determine differences in the proportions of responses or 
+variables to these two conditions resulted in a Cochran's Q = 6.00, p=.0143. The proportions 
+(with standard deviations in parentheses) were as follows: smoke proportion = 6/10 (.51640) and 
+water proportion = .00 (.00). These figures indicate a significant difference among the test 
+subjects. 
+The citrus-smoke subanalysis to determine differences in the proportions of responses or 
+variables to these two conditions resulted in a Cochran's Q = 3.00, p=.0833. The proportions 
+(with standard deviations in parentheses) were as follows: citrus proportion = 3/10 (.48305) and 
+smoke proportion = 6/10 (.51640). These figures do not indicate a significant difference among 
+the test subjects. The third question has two answers: no, the smell of water will not awaken or 
+arouse a defined group of sleep adults, and yes, the smell of smoke and citrus will cause arousals 
+in the same group. These arousals occur in different proportions when responding to different 
+conditions 
+DISCUSSION 
+The following can be said regarding olfactory sensitivity in sleep. There were significantly 
+more EEG and EMG responses to fragrances than to nonfragrances. The present data not only 
+indicate that sensitivity to olfactory stimuli presented in sleep can be assessed using central (EEG) 
+and autonomic (EKG and EMG) measures, but it also yields the finding that those measures 
+varied markedly in the various subjects. 
+The results of this research project can be inferentially compared with the study made by 
+Pietro Badia, et al., discussed in the literature review. The overall results of Badia's, et al., study 
+indicated a significant difference in the percentages of responses (variables) the subjects made to 
+the various conditions of the study. Likewise, the overall results of this study indicate a 
+significant difference among the subjects in their responses (variables) to similar conditions. The 
+implications of these comparisons support a hypothesis that adults do respond to olfactory stimuli 
+- 136 -
+during sleep. 
+The subanalysis performed within the set of conditions of this study reveals some 
+interesting data. When the condition of smoke was compared with the condition of water, the 
+subjects responded in a significantly different proportion; however, when the condition of smoke 
+was compared with the condition of citrus, a less than significant proportion of responses 
+occurred. Considering this, it may be that it is just the presence of some type of fragrance versus 
+no fragrance (i.e., water) that is important for subject response in sleep. 
+Unexpectedly, the data reflect that awakenings in this research occurred only to the 
+condition of a smoke odor. Perhaps, a smoke odor is more meaningful than the citrus odor due to 
+an association the subject(s) may have with this condition and danger. 
+By far, the most relevant to life safety finding derived from this research is the affirmation 
+of Badia's, et al., observation that few people are actually awakened from a state of sleep by an 
+odor stimulus. In this study, 2 of the 10 subjects (20 percent) awoke to the conditions of water, 
+smoke, or citrus odors. In Badia's, et al., research, 3 of the 10 subjects (30 percent) awoke to the 
+repeated conditions of air or peppermint odors. Statistically, these figures represent a significant 
+difference among the test conditions. Very few of either study's sleeping subjects responded to 
+any of the conditions mentioned by actually waking up. The implications of these findings are 
+astonishing. The fire protection afforded by residential smoke detectors is the only prudent 
+manner to protect oneself from the threat of fires occurring during sleep. 
+The results of this research project allow the Irondale Fire and Rescue Service to reclaim 
+(with credibility) the convincing argument of smoke failing to awaken 80 percent of the 
+participants of this study as the reason for having smoke detectors. 
+RECOMMENDATIONS 
+Recommendation 1.  Fire prevention programs should incorporate the rationale that 
+olfactory functions cannot be relied on to provide protection from fire occurring while we sleep. 
+Manufacturers of smoke detectors, trade associations and organizations, teaching institutions, and 
+government bodies should embrace these findings and incorporate them into print as well as 
+audiovisual media. 
+Recommendation 2.  Since olfactory functions cannot be relied on to provide protection 
+during sleep, manufacturers of smoke detectors should begin a program of research and 
+development to emulate our conscious olfactory ability. Olfactometers are currently being used 
+for other purposes and could be incorporated into the design of smoke detectors. This would 
+provide a reduced threshold of the detection time required to sound an alarm and therefore 
+activate during incipient fires. The desired effect of this would be saving lives by earlier detection 
+of fires. One of the first steps in developing an olfactometer-detector would be the integration of 
+the carbon monoxide meter into the common smoke detector. Since most fire deaths occur as a 
+result of carbon monoxide poisoning (DeHaan, 1991), this would be the logical place to start. 
+- 137 -
+Recommendation 3.  Additional sleep studies should be performed to identify odors that 
+are likely to arouse us from sleep. If specific odors can be identified, products that liberate that 
+odor during fires can be incorporated into the manufacture of common building materials and 
+home furnishings. Consequently, an incipient fire would therefore provide notice of its existence 
+by production of chemically manipulated fire products. This concept is very similar to the 
+industrial process of adding a chemical odorant known as methyl mercaptan to natural gas for the 
+purpose of providing early detection. 
+Recommendation 4.  Now that we know that our olfactory sense will not protect us from 
+the threat of fire during sleep, we should rededicate ourselves to public fire education initiatives 
+that address smoke detector compliance. This is not merely a fire prevention activity. In the text 
+Essentials of Fire Fighting, the writer states that "while an early warning is often credited with 
+saving the lives of the home's occupants, do not forget that the smoke detector's warning may 
+have also protected a firefighter having to enter the structure" (Wieder, Smith, & Brackage, 1992, 
+p. 535). Early notification of firefighters can easily translate into safer fire attack scenarios. It is 
+usually much safer to engage in a firefighting operation in the early stages of fire development. 
+Considered in this light, a public education campaign addressing smoke detector compliance is 
+also addressing the firefighter's personal safety. 
+- 138 -
+REFERENCE LIST 
+American National Standards Institute. (1993). Standard for Safety Single and Multiple Station 
+Smoke Detectors (217). New York: Author. 
+Bachtler, J. R. & Brennan, T. F. (Eds.). (1995). The fire chief's handbook. (5th ed., p. 991). 
+Saddle Brook, NJ: Fire Engineering. 
+Badia, P., Wesensten, N., Lammers, W., Cullpepper, J., and Harsh, J. (1989, September). 
+Responsiveness to olfactory stimuli presented in sleep¹. Bowling Green, OH: University 
+of Bowling Green State University, Department of Psychology. 
+Badia, P. (1991). Olfaction sensitivity in sleep: effects of fragrances on the quality of sleep. 
+Bowling Green, OH: Bowling Green State University, Department of Psychology. 
+Bare, W. K. (1977). Fundamentals of fire prevention. (pp. 14-15). Englewood Cliffs, NJ: 
+Prentice-Hall. 
+Bukowski, R. W. (1993, January-February). Studies assess performance of residential detectors. 
+NFPA Journal, pp. 48-54. 
+City of Birmingham, Alabama, Fire Department. (1997). 1996 Annual Report. Birmingham, 
+AL: Author. 
+City of Phoenix, Arizona Fire Department. (1997). 1996 annual report. Phoenix, AZ: Author. 
+Cooper, L. (1996, October). Does your smoke detector really work? Consumers' Research, 
+pp. 30-32. 
+Coren, S. (1996). Sleep thieves: An eye-opening exploration into the science and mysteries of 
+sleep (pp. 23-35). New York: The Free Press. 
+Coughlin, P. (1994, August). Are aging smoke detectors a safety threat? Operation Life Safety, 
+p. 7. 
+Cote, A. E. (Ed.). (1991). Fire protection handbook. (17th ed., chap. 10-3, p. 21). Quincy, 
+MA: National Fire Protection Association. 
+CRC Industries, Inc. (1997, January). Technical Data Sheet-Smoke Test.  Warminster, PA: 
+Author. 
+DeHaan, J. D. (1991). Kirk's fire investigation. (3rd ed., pp. 310-314). Englewood Cliffs, NJ: 
+Prentice-Hall. 
+DiNenno, P. J. (Ed.) (1988). SFPE handbook of fire protection engineering. (lst ed., chap. 1-
+16, pp. 269-285). Quincy, MA: National Fire Protection Association. 
+- 139 -
+Disney Educational Productions. (1987). Donald's Fire Survival Plan (Rev. ed.) [video tape]. 
+(Available from Disney Educational Productions, 105 Terry Drive, Suite 170, Newtown, 
+PA 18940-3425). 
+Federal Emergency Management Agency. (1990). America Burning Revisited (USFA 
+Publication No. 1990-724-156/20430, p. 57). Washington, DC: U.S. Government 
+Printing Office. 
+. (1993). Fire in the United States 1983-1990 (USFA Publication No. FA-140, p. 103). 
+Washington, DC: U.S. Government Printing Office. 
+. (1997). Fire in the United States 1985-1994. (pp. 78-91). Unpublished raw data. 
+. (1988, October). Smoke Detectors: Don't Stay Home Without One, (L-163) 
+[Brochure]. Washington, DC: U. S. Government Printing Office. 
+Federal Equipment Company. (1991). Equipment specifications-Speedy [Brochure]. North 
+Chicago, IL: Author. 
+Goetz, R. (Ed.). (1991). The New Encyclopedia Britannica. (15th ed., Vol. 27, pp. 298-308.) 
+Chicago: Encyclopedia Britannica. 
+Hall, J. R. (1994, September-October). The U. S. experience with smoke detectors: Who has 
+them? How well do they work? When don't they work? NFPA Journal, pp. 36-45. 
+Hauri, P. J. (1992). Sleep disorders (pp. 4-7). Kalamazoo, Michigan: The Up John Company. 
+How it works. (1993, Spring). Fire Findings, p. 4. 
+Howard, P. J. (1994). The owner's manual for the brain (pp. 92-104). Austin, TX: Leornian 
+Press. 
+Jameson Home Products. (1994, August). Owners manual (Code One 2000 Smoke and Fire 
+Alarm-110-284J) [Brochure]. Downers Grove, IL: Author. 
+Kahn, M. J. (1983, June). Detection times to fire-related stimuli by sleeping subjects. Raleigh: 
+North Carolina State University, Department of Psychology. 
+Larson, D. E. (Ed.). (1996). Mayo clinic family health book. (2nd ed.). New York: Morrow. 
+MacClary, M. (Producer), & Estus, B. (Director). (1986). Firepower [videotape]. (Available 
+from the National Fire Protection Association, Quincy, MA) 
+- 140 -
+Management Internship Program. (1991, May). Final report for the fire sprinkler advisory 
+board of southern California.  Los Angeles: University of Southern California, Graduate 
+School of Business Administration. 
+Marray, B., & Campbell, D. (1970). Difference between olfactory thresholds in two sleep states 
+in the newborn infant. Pyschonomic Science, 18, 313-314. 
+Meidl, J. H. (1970). Explosive and toxic hazardous materials  (pp. 288-305). New York: 
+Macmillian. 
+Montagna, F. C. (1995, March). Odor of smoke. Fire Engineering, pp. 69-72. 
+Marriott, M. D. (1995, June). Reliability and Effectiveness of Domestic Smoke Alarms. Fire 
+Engineers Journal, pp. 10-13. 
+National Commission on Fire Prevention and Control. (1973). America Burning (Publication 
+No. 1973-0-495-792). Washington, DC: U. S. Government Printing Office. 
+National Fire Protection Association. (1996). National Fire Alarm Code (NFPA 72, pp. 101-
+102). Quincy, MA: Author. 
+Parks, C. A. (1990). Smoke Detector Compliance in Single Family Dwellings. Executive Fire 
+Officer Research Paper, Emmitsburg, MD: National Fire Academy. 
+Paulsen, R. L. (1984, May). Human behavior and fires: An introduction. Fire technology, pp. 
+15-27. 
+Pegram, V. (1997). Training manual 1 (pp. 3-26). Birmingham, Alabama: Author. 
+Petraglia, J. S. (1991, March-April). Fire and the aging of America. NFPA Journal, 37-46. 
+Pick, H, & Howden R. (Eds.). (1977). Gray's Anatomy (p. 725). New York: Bounty. 
+Piotrowski, N. A. (Ed.). (1996). Magill's medical guide-health and illness supplement (Vol. 6, 
+pp. 1603-1607). Pasadena, CA: Salem Press. 
+Pollak, C. (1996). Sleep [CD-ROM]. The 1996 Grolier Multimedia Encyclopedia (Version 
+8.01). Danbury, CT: Grolier Electronic Publishing. 
+Red Arrow Company. (1997, February). Red Arrow Products Specifications: Charsol C-10 
+(Item 100110) [Brochure]. Manitowoc, WI: Author. 
+Rubin, D. L. (1996, November). Chief concerns--Wingspread IV. Firehouse, pp. 28-30. 
+. (1997, March). Wingspread IV--a practical look. Firehouse, pp. 42-44. 
+- 141 -
+Schwalm, N. D. (1981, July). The effects of attitudes and experience on human behavior in fires. 
+Fire Journal, pp. 118-122. 
+Southey, R. A. (1995). Smoke detectors: a Bullhead City, Arizona experience. Executive Fire 
+Officer Research Paper, Emmitsburg, MD: National Fire Academy. 
+Stevens, J. C., Cain, W. S., Weinstein, D. E. (1987, August). Aging impairs the ability to detect 
+gas odor. Fire Technology, 23 (3), 198-204. 
+Timmons, R. (Ed.). (1996, Summer). First Alert Junior Fire Inspector Program. (Available 
+from BRK Brands, Inc., 3901 Liberty Street Road, Aurora, IL 60504-8122) 
+Wieder, M. A., Smith, C., and Brackage, C. (Eds.). (1992). Essentials of fire fighting. (3rd ed., 
+p. 535). Stillwater, OK: Fire Protection Publications. 
+- 142 -
+Appendix A 
+Typical EEG Patterns 
+- 143 -
+- 144 -
+Appendix B 
+Various Monitoring Rythums 
+- 145 -
+Appendix B 
+Various Monitoring Rhythms 
+- 146 -
+Appendix C 
+Letter of Introduction 
+2-26-97 
+Dr. Vernon Pegram 
+University of Alabama at Birmingham 
+Sleep Wake Disorder Center 
+1713 6th Ave. South 
+Birmingham, Alabama 35294-0018 
+Dear Dr. Pegram, 
+Let me start with a small introduction-My name is Joe Lynch and I need your help! Part 
+of my responsibilities to the City of Irondale is to attend the National Fire Academy annually and 
+to perform meaningful research associated with the various programs of the Irondale Fire 
+Department. Smoke detector education is a fundamental element of our public education 
+program and it is mostly driven by compliance issues. Apathy seems to be the primary cause of a 
+noncompliance with our local smoke detector laws and ordinances. It is my belief that many of 
+our noncompliant citizens would respond to meaningful information about the limitation of our 
+sleep-time olfactory senses if evidence of this could be substantiated. This is the focus or reason 
+behind my request. 
+I would like to determine if adult subjects can detect the odor of smoke while asleep. I 
+propose that informed, willing, and monitored adults be subjected to a safe exposure of odorants 
+for a brief time during sleep and after your primary studies have been completed. I would also 
+like to have a copy of the various monitor outputs immediately before, during, and immediately 
+after the test for the study. I am prepared to develop an information sheet to be given to the 
+patients and a consent form for participation in the study. I will also provide a report copy back 
+to the participants and you when my project is completed. It is my desire to perform this research 
+on ten adults of various genders and ethnic backgrounds. I am willing to be present and 
+administer the odorants. The method of administration would be a standard air freshener spray 
+pump bottle delivering one (1) 120 microliter spray from a predetermined distance from the 
+patient. The odorant will be delivered in the ambient room atmosphere. I would also like to 
+administer the odorant tests to the subjects while they are awake to determine their ability to 
+detect the odors. This could be performed the morning after the sleep study. 
+Additional information about my applied research project requirement and a copy of prior 
+related studies is attached for your review. 
+- 147 -
+Page -2-
+Since this is part of the responsibilities associated with being the fire chief, the city’s 
+liability insurance would provide coverage for this process. 
+I would also like to mention that the makers of the First Alert brand of smoke detector is 
+very interested in this project and I can see the possibility of them funding a comprehensive 
+project in this area. 
+Please review this package and I will contact you next week to arrange a time in which I 
+can show you the odorants as well as the administration pump bottles. 
+Sincerely, 
+Joe Lynch, Fire Chief 
+- 148 -
+Appendix D 
+NFA Brochure 
+Federal Emergency Management Agency 
+United States Fire Administration 
+National Fire Academy 
+Executive Fire Officer 
+Applied Research Projects 
+Philosophy 
+A significant measure of the professionalism of any occupation is the quality and quantity 
+of the research upon which the discipline is based. The Executive Fire Officer Research project 
+helps the National Fire Academy achieve its mission of increasing the professionalism of the fire 
+service. 
+Purpose 
+The Applied Research Project in the Executive Fire Officer Program is designed to allow 
+students to investigate a key issue or problem that has been identified as being important to their 
+fire service organization. Upon completing the investigation, students will be able to reach 
+conclusions and offer recommendations which will contribute to the improvement of their 
+organization. 
+Through this process, students have an opportunity to translate what they have learned in 
+the Executive Fire Officer courses into real-world applicants. By writing the applied research 
+project in a professional paper format, Executive Fire Officer students are contributing to the fire 
+service literature. 
+Process 
+Students are required to complete one applied research project for each of the four 
+courses in the Executive Fire Officer Program. The reports are to be sent to the National Fire 
+Academy within 6 months of completing each course. A project must be evaluated as acceptable 
+in order for the student to continue in the Executive Fire Officer program. To be acceptable, a 
+project must receive a grade of "C" or higher. 
+Product 
+Specific products are developed as a result of the Executive Fire Officer Applied Research 
+Project which are beneficial to the student, local government, fire service, and the National Fire 
+Academy. Students receive individualized evaluation to their critical thinking skills; local 
+problems are solved; a computer data base containing the research projects is available to the 
+Nation's fire service; and the National Fire Academy receives feedback relating to the application 
+of the knowledge, skills, and abilities of its graduates. All of these benefits contribute to the 
+reduction of our Nation's fire problem. 
+- 149 -
+- 150 -
+Appendix E 
+Patient Information Sheet 
+Dear Patient, 
+My name is Joe Lynch and I serve as Fire Chief in the City of Irondale. I am involved in an 
+exciting research project that will hopefully prevent some of the tragic fire deaths in our 
+community. Each and every year, a number of our neighbors experience fires during the night. 
+Most of them are awakened by the sound of smoke detectors going off and are able to escape. 
+Unfortunately, there are others that for some reason or another, perish in the fire. Although 
+national statistics suggests a strong connection between having a smoke detector and being able to 
+survive a night fire, many of our neighbors have failed to protect themselves with an inexpensive 
+detector. 
+Why is smoke detector compliance a problem? It is my belief that many of our neighbors 
+rely on their sense of smell alone to awaken them in the event of a night fire. This is why I am 
+asking your permission and cooperation to take part in a simple procedure to determine if the smell 
+of smoke will arouse an adult while they are sleeping. I need help to solve this simple question of 
+great importance-Will the smell of smoke cause an adult to wake up from sleep? 
+What procedure will be used in the test? If you agree, you will be exposed to two 
+different scents to determine if they will arouse you from sleep. This process will not interfere with 
+your scheduled sleep study and the scents used are either actual air fresheners or their equivalent in 
+strength. The scents do not represent a health threat to the participants of the study. The duration 
+of the scent test will be approximately one minute and you will be constantly monitored for 
+reaction. The scents will be lightly sprayed into the air of the room in which you are sleeping in 
+and then allowed to dissipate. To make sure that you do not have a condition that would prevent 
+you from detecting the scents, a base line testing process will occur either before or after your 
+sleep test. This base line process is identical to the sleep test. 
+Health Risks: No health risks have been identified that are associated with these scents. 
+The scents are natural products that smell like smoke and citrus fruit. Medical histories that would 
+prevent you from participating in this program include asthma, pulmonary disease, heart disease, 
+history of smoking, smelling disorders, or similar conditions that make you hypersensitive to 
+common scents or odors. 
+When Will the Program Take Place? The sleep study shall take place during the months 
+of March and April, 1997. 
+Release of personal information will not occur.  Each patient will be classified as to 
+gender, age, race, and known smelling disorders. Names, addresses, phone numbers and other 
+specific patient information will not be requested or obtained for this study. 
+Copies of this report will be made available to the patients.  A copy of my report will be 
+presented to Dr. Pegram at the completion of the research project. Patients may obtain a copy of 
+the report by indicating their request on the "Permission to Participate" form. 
+How can I help? By signing the "Permission to Participate" form you are indicating that 
+you will participate and allow us to answer this question about the smell of smoke and sleep. The 
+findings of this study will be the basis for the creation of a free public fire education program that 
+I will market in the greater Birmingham area. 
+- 151 -
+- 152 -
+Appendix F 
+Permission to Participate Form 
+This form acknowledges my agreement to participate in a sleep study designed to 
+determine if the smell of smoke will awake a sleeping adult and that I know of no health problem 
+or sensitivity that would prevent me from participating. I understand that for purposes of 
+describing the resulting data, my race, gender, and age will be documented and that the results of 
+the study will be sent to me at the completion of the study utilizing the address listed at the 
+bottom of this form. 
+Patient's signature: 
+Date: 
+Witnesses's signature: 
+Patient Code 
+(please print) 
+Patient's Name: 
+Patient's Address: 
+Patient's Gender: Male: 
+Female: 
+Patient's Age: 
+Please list any known health problems or smelling disorders: 
+- 153 -
+- 154 -
+Appendix G 
+Record of Observations 
+PATIENT CODE: 
+DATE OF TESTS: 
+AWAKE:
+ SLEEP: 
+LOCATION OF TESTS: 
+TIME OF TESTS: AWAKE:
+ SLEEP: 
+WITNESS OF TESTS: 
+-OBSERVATIONS-
+Reported Smelling Water 
+Detected Smoke Smell 
+Detected Citrus Smell 
+Water Smell Awakening 
+Smoke Smell Awakening 
+Citrus Smell Awakening 
+AWAKE 
+_______ 
+_______ 
+_______ 
+SLEEP 
+_______ 
+_______ 
+_______ 
+- 155 -
+- 156 -
+Appendix H 
+Photographs of Sleep Study 
+- 157 -
+- 158 -
+Appendix I 
+Diagram of Sleep Room 
+- 159 -
+- 160 -
+Appendix J 
+Photographs of Odor Delivery Systems 
+- 161 -
+ Appendix J 
+Photographs of Odor Delivery Systems 
+J1 - a picture of the setup. 
+Figure J2 - a picture of the nebulizer 
+Figure J3 - a picture of the hose passing 
+Figure J4 - a picture of the delivery hose 
+through the ceiling membrane. 
+terminating in the sleep room. 
+- 162 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Appendix K 
+Results of Odor Tests 
+Patient Code 
+Race 
+Gender 
+Age 
+Awake reactions 
+(S) smells odor (NR) no reaction 
+Water 
+Smoke 
+Citrus 
+Sleep reactions 
+(A) Awakening 
+(E) EEG arousal 
+(NR) no reaction (M) EMG arousal 
+Water 
+Smoke 
+Citrus 
+C 
+M 
+48 
+NR 
+S 
+S 
+NR 
+A 
+NR 
+C 
+F 
+41 
+NR 
+S 
+S 
+NR 
+E 
+E 
+C 
+F 
+52 
+NR 
+S 
+S 
+NR 
+E,M 
+NR 
+C 
+M 
+26 
+NR 
+S 
+S 
+NR 
+NR 
+NR 
+C 
+F 
+52 
+NR 
+S 
+S 
+NR 
+E,M 
+NR 
+C 
+M 
+40 
+NR 
+S 
+S 
+NR 
+NR 
+NR 
+AA 
+M 
+41 
+NR 
+S 
+S 
+NR 
+NR 
+NR 
+C 
+F 
+54 
+NR 
+S 
+S 
+NR 
+E 
+E 
+C 
+F 
+41 
+NR 
+S 
+S 
+NR 
+A 
+M 
+C 
+M 
+61 
+NR 
+S 
+S 
+NR 
+NR 
+NR 
+Note: Responses or variables were a minimum of .00 and a maximum of 1.00. N=10. 
+Proportional results were established by reporting the number of variables occurring to each 
+condition over the total number of subjects participating. Overall test response proportions (with 
+standard deviations in parentheses) were Water 0 (.00), Smoke 6/10 (.51640), and Citrus 3/10 
+(.48305). 
+- 163 -
+- 164 -

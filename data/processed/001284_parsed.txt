@@ -1,0 +1,1185 @@
+Technical Report Series on the
+Boreal Ecosystem-Atmosphere Study (BOREAS)
+National Aeronautics and
+Space Administration
+Goddard Space Flight Center
+Greenbelt, Maryland 20771
+October 2000
+NASA/TM—2000–209891, Vol. 153
+Volume 153
+H. Margolis, M. Coyea, and Q. Dang
+Forrest G. Hall and Shelaine Curd, Editors
+BOREAS TE-9 In Situ Diurnal Gas Exchange
+of NSA Boreal Forest Stands
+The NASA STI Program Office … in Profile
+Since its founding, NASA has been dedicated to
+the advancement of aeronautics and space
+science. The NASA Scientific and Technical
+Information (STI) Program Office plays a key
+part in helping NASA maintain this important
+role.
+The NASA STI Program Office is operated by
+Langley Research Center, the lead center for
+NASA’s scientific and technical information. The
+NASA STI Program Office provides access to
+the NASA STI Database, the largest collection of
+aeronautical and space science STI in the world.
+The Program Office is also NASA’s institutional
+mechanism for disseminating the results of its
+research and development activities. These
+results are published by NASA in the NASA STI
+Report Series, which includes the following
+report types:
+• TECHNICAL PUBLICATION. Reports of
+completed research or a major significant
+phase of research that present the results of
+NASA programs and include extensive data or
+theoretical analysis. Includes compilations of
+significant scientific and technical data and
+information deemed to be of continuing
+reference value. NASA’s counterpart of
+peer-reviewed formal professional papers but
+has less stringent limitations on manuscript
+length and extent of graphic presentations.
+• TECHNICAL MEMORANDUM. Scientific
+and technical findings that are preliminary or
+of specialized interest, e.g., quick release
+reports, working papers, and bibliographies
+that contain minimal annotation. Does not
+contain extensive analysis.
+• CONTRACTOR REPORT. Scientific and
+technical findings by NASA-sponsored
+contractors and grantees.
+• CONFERENCE PUBLICATION. Collected
+papers from scientific and technical
+conferences, symposia, seminars, or other
+meetings sponsored or cosponsored by NASA.
+• SPECIAL PUBLICATION. Scientific, techni-
+cal, or historical information from NASA
+programs, projects, and mission, often con-
+cerned with subjects having substantial public
+interest.
+• TECHNICAL TRANSLATION.
+English-language translations of foreign scien-
+tific and technical material pertinent to NASA’s
+mission.
+Specialized services that complement the STI
+Program Office’s diverse offerings include creat-
+ing custom thesauri, building customized data-
+bases, organizing and publishing research results . . .
+even providing videos.
+For more information about the NASA STI Pro-
+gram Office, see the following:
+• Access the NASA STI Program Home Page at
+http://www.sti.nasa.gov/STI-homepage.html
+• E-mail your question via the Internet to
+help@sti.nasa.gov
+• Fax your question to the NASA Access Help
+Desk at (301) 621-0134
+• Telephone the NASA Access Help Desk at
+(301) 621-0390
+• Write to:
+NASA Access Help Desk
+NASA Center for AeroSpace Information
+7121 Standard Drive
+Hanover, MD 21076-1320
+October 2000
+Technical Report Series on the
+Boreal Ecosystem-Atmosphere Study (BOREAS)
+Forrest G. Hall and Shelaine Curd, Editors
+National Aeronautics and
+Space Administration
+Goddard Space Flight Center
+Greenbelt, Maryland 20771
+NASA/TM—2000–209891, Vol. 153
+Volume 153
+Hank Margolis and Marie Coyea
+Université Laval, Sainte-Foy, Quebec, Canada
+Qinglai Dang, Lakehead University, Thunder Bay, Canada
+BOREAS TE-9 In Situ Diurnal Gas Exchange
+of NSA Boreal Forest Stands
+Available from:
+NASA Center for AeroSpace Information
+National Technical Information Service
+7121 Standard Drive
+5285 Port Royal Road
+Hanover, MD 21076-1320
+Springfield, VA 22161
+Price Code: A17
+Price Code: A10
+BOREAS TE-9 In Situ Diurnal Gas Exchange of NSA Boreal Forest
+Stands
+Hank Margolis, Marie Coyea), Qinglai Dang
+Summary
+The BOREAS TE-9 team collected several data sets related to chemical and photosynthetic properties
+of leaves in boreal forest tree species. The purpose of the BOREAS TE-09 study was threefold: 1) to
+provide in situ gas exchange data that will be used to validate models of photosynthetic responses to
+light, temperature, and carbon dioxide (CO2); 2) to compare the photosynthetic responses of different
+tree crown levels (upper and lower); and 3) to characterize the diurnal water potential curves for these
+sites to get an indication of the extent to which soil moisture supply to leaves might be limiting
+photosynthesis. The gas exchange data of the BOREAS NSA were collected to characterize diurnal gas
+exchange and water potential of two canopy levels of five boreal canopy cover types: young jack pine,
+old jack pine, old aspen, lowland old black spruce, and upland black spruce. These data were collected
+between 27-May-1994 and 17-Sep-1994. The data are provided in tabular ASCII files. 
+Table of Contents
+1)
+Data Set Overview
+2)
+Investigator(s)
+3)
+Theory of Measurements
+4)
+Equipment
+5)
+Data Acquisition Methods
+6)
+Observations
+7)
+Data Description
+8)
+Data Organization
+9)
+Data Manipulations
+10) Errors
+11) Notes
+12) Application of the Data Set
+13) Future Modifications and Plans
+14) Software
+15) Data Access
+16) Output Products and Availability
+17) References
+18) Glossary of Terms
+19) List of Acronyms
+20) Document Information
+1. Data Set Overview
+1.1 Data Set Identification
+      BOREAS TE-09 In Situ Diurnal Gas Exchange of NSA Boreal Forest Stands 
+1.2 Data Set Introduction
+      The gas exchange data of the BOReal Ecosystem-Atmosphere Study (BOREAS) Northern Study
+Area (NSA) were collected to characterize diurnal gas exchange and water potential of two canopy
+levels of five boreal canopy cover types: young and old jack pine (Pinus banksiana Lamb.), old aspen
+(Populus tremuloides Michx.), and lowland and upland black spruce (Picea mariana (Mill) B.S.P.).
+The BOREAS Terrestrial Ecology (TE)-09 team collected these data between 27-May-1994 and
+17-Sep-1994. 
+Page 1
+1.3 Objective/Purpose
+      The purpose of this study was threefold: 1) to provide in situ gas exchange data that will be used to
+validate models of photosynthetic responses to light, temperature, and carbon dioxide (CO2); 2) to
+compare the photosynthetic responses of different tree crown levels (upper and lower); and 3) to
+characterize the diurnal water potential curves for these sites to get an indication of the extent to which
+soil moisture supply to leaves might be limiting photosynthesis. 
+1.4 Summary of Parameters
+      Net photosynthesis, stomatal conductance to water vapor, stomatal conductance to CO2 ,
+transpiration, water use efficiency, mesophyll conductance, photosynthetically active radiation (PAR),
+air and leaf temperature, CO2 concentration, relative humidity, vapor pressure, vapor pressure deficit
+(VPD), barometric pressure, and water potential. 
+1.5 Discussion
+      The gas exchange data of the BOREAS NSA were collected to characterize diurnal gas exchange
+and water potential of two canopy levels of five boreal canopy cover types: young and old jack pine,
+old aspen, lowland old and upland black spruce. These data were collected between 27-May-1994 and
+17-Sept-1994. 
+1.6 Related Data Sets
+BOREAS TE-09 PAR and Leaf Nitrogen Data for BOREAS NSA Species
+BOREAS TE-09 NSA Photosynthetic Capacity and Foliage Nitrogen Data
+BOREAS TE-09 NSA Leaf Chlorophyll Density
+BOREAS TE-09 NSA Photosynthetic Response Data
+2. Investigator(s)
+2.1 Investigator(s) Name and Title
+Hank Margolis, Ph.D.
+Universite Laval
+Faculte de foresterie et geomatique
+Pavillon Abitibi-Price 
+2.2 Title of Investigation
+      Relationship Between Measures of Absorbed and Reflected Radiation and the Photosynthetic
+Capacity of Boreal Forest Canopies and Understories 
+2.3 Contact Information
+Contact 1:
+Marie R. Coyea, Ph.D.
+Universite Laval
+Faculte de foresterie et geomatique
+Pavillon Abitibi-Price
+Sainte-Foy, Quebec G1K 7P4 Canada
+(418)656-2131, poste 6546
+marie.coyea@sbf.ulaval.ca
+Page 2
+Contact 2:
+Shelaine Curd
+Raytheon ITSS
+Code 923
+NASA GSFC
+Greenbelt, MD 20771
+(301) 286-2447
+(301) 286-0239 fax
+shelaine.curd@gsfc.nasa.gov
+3. Theory of Measurements
+The gas exchange measurements were made with a closed portable photosynthetic system (LI-COR
+LI-6200). As described in the LI-6200 Primer Manual, it contains three major components: a leaf
+chamber, within which temperature and humidity measurements are made; the LI-6250, an infrared gas
+analyzer (IRGA), which measures CO2 concentration and flow rate; and a control console. Air
+temperature, leaf temperature, and relative humidity are measured in the leaf chamber. The pump in the
+LI-6250 circulates air from the chamber to the analyzer, where CO2 concentration is measured, and
+returns it to the chamber. The air flow through the LI-6250 can be diverted through soda lime to
+remove CO2 for purposes of calibration.
+      The flow valve is used to force some fraction of the flow through a tube of desiccant, which dries
+the air. This proportional control feature is used to help maintain a steady humidity in the chamber
+during a measurement. The flow rate of the air going through the desiccant is measured by a flow
+meter.
+      The IRGA can be used for absolute or differential measurement of CO2. As used with the LI-6200,
+however, it is configured for absolute measurements.
+      The methodology for measuring leaf area is described in Appendix K of the Experiment Plan,
+Version 3.0. Aspen foliage is expressed as hemisurface area leaf area, while conifer foliage is
+expressed as total surface area leaf area.
+      The optical image analysis system (Decagon AgVision System) is an image analysis system that
+works by first looking at an object through a video camera, then processing the image into discrete
+numerical information with a digitizer and microcomputer, and finally displaying the image or other
+information on a monitor for examination.
+      For the measurement of Y (please note that in the text below, "Y" is the Greek symbol psi that is
+generally used for water potential) response at high (less negative) Y, the cut end of the stem was
+connected to a water reservoir. For lower (more negative) Y, the branches were taken out of water and
+the cut surface of the stem was dried and sealed with silicone grease. The branches were then exposed
+to light and permitted to transpire freely in an open space where the air was stirred continuously using
+an electric fan. Sealing the cut surface of the branch allowed the branch to maintain a negative pressure
+inside the xylem while transpiration continued. A pair of branches was chosen randomly at various
+times for gas exchange measurement at 20 °C. The transpiration rate of the branch being measured was
+kept very low by maintaining a high humidity in the cuvette (VPD < 0.8 kPa). It took from 3 to 6
+hours for branches to reach their minimum Y. Immediately after the gas exchange measurement, the
+stem of the branch was cut and the water potential was measured with a pressure chamber (Model 610,
+PMS Instrument, Inc., Corvallis, OR, USA). By controlling the time interval between measurements,
+a range of water potentials was achieved for black spruce and jack pine during both Intensive Field
+Campaign (IFC)-2 and IFC-3. 
+Page 3
+4. Equipment
+4.1 Sensor/Instrument Description
+      LI-6200 portable gas exchange system (LI-COR), pressure chamber (PMS Instrument Co.),
+drying oven, optical image analysis system (Decagon Devices, Inc., Pullman, WA), top loading
+weighing balance, IBM or compatible computer. 
+4.1.1 Collection Environment
+      Gas exchange and water potential measurements were measured by persons on the upper and
+lower levels of canopy access towers. In the Young Jack Pine (YJP) stand, only 3-m ladders were
+necessary. Leaf area measurements were determined in the lab. 
+4.1.2 Source/Platform
+      Gas exchange and water potential measurements were measured by persons on the upper and
+lower levels of canopy access towers. In the YJP stand, only 3-m ladders were necessary. Leaf area
+measurements were determined in the lab. 
+4.1.3 Source/Platform Mission Objectives
+      The purpose of this study was threefold as outlined in the BOREAS Experiment Plan, Version 3.0,
+Appendix N, page N-34): 
+•
+To describe the diurnal patterns of stomatal conductance, photosynthesis, and leaf water
+potential of the principal forest types present at the BOREAS NSA and to determine the
+precise nature of the environmental controls on these variables. 
+•
+To understand how these physiological properties and their environmental controls are
+influenced by canopy position and period of the growing season. 
+•
+To use these data for partial model validation with a model parameterized from laboratory data
+to be compared eventually to flux tower data from the NSA. 
+4.1.4 Key Variables
+      Diurnal water potential and net photosynthesis. 
+4.1.5 Principles of Operation
+      Gas exchange measurements were taken with a LI-COR 6200 system. Generally, a branch
+(bearing leaves) section was placed into the cuvette for three 20-second measurements. The same
+branch section was measured periodically throughout the day (approximately once every hour). At the
+end of the day, these branch sections were harvested and stored in a freezer until leaf area was
+determined.
+      The volume displacement method (Appendix K of BOREAS Experiment Plan, Version 3.0) was
+used to measure leaf area of conifer needles. The optical image analysis system was used to measure
+needle lengths and aspen projected leaf areas.
+      Water potential measurements were taken simultaneously with a pressure chamber on randomly
+selected branch sections at the same canopy level as the photosynthetic measurements. These samples
+were not kept for any further analyses. 
+4.1.6 Sensor/Instrument Measurement Geometry
+      Measurements were taken at two canopy levels: top and bottom. The heights of these samples
+varied according to the location of the canopy access tower; however, they reflected the average
+canopy as described in Section 2.2.3.1 of the BOREAS Experiment Plan, Version 3.0. Because the
+canopy access towers moved between IFC periods, the canopy levels were not always exactly the
+same. For example, the measurements at the old aspen stand ranged from approximately 13-15 m for
+the upper canopy and 9-11 m for the lower canopy. 
+Page 4
+4.1.7 Manufacturer of Sensor/Instrument
+LI-6200 portable gas exchange system
+LI-COR
+P.O. Box 4425,
+4421 Superior St.
+Lincoln, NE 68504
+(800) 447-3576
+Pressure Chamber, Model 610
+PMS Instrument Co.
+480 SW Airport Avenue
+Corvallis, OR 97333
+(503) 752-7926
+Leaf area measurement system/optical image analysis system (AgVision,
+Monochrome system, root and leaf analysis)
+Decagon Devices, Inc.
+P.O. Box 835
+Pullman, WA 99163
+(800) 755-2751
+IBM DX2/486 Computer
+IBM, Inc. 
+4.2 Calibration
+      The LI-COR LI-6200 was sent to the manufacturer for calibration and general maintenance in
+February 1994 before field work began (big mistake, see Section 10.1). The LI-6200 was examined
+daily for page parameters, operating parameters, and clock setting; quantum sensor calculation
+constant; CO2 analyzer calculation list; flow meter calculation list; relative humidity sensor calculation
+list; and analyzer reference.
+      Each sensor was checked daily and periodically to make sure it was responding as expected:
+quantum sensor; air and leaf temperature match; IRGA temperature; flow meter; CO2 concentration;
+and relative humidity. The zero and span for the CO2 analyzer were set daily. The flow meter was
+zeroed frequently.
+      The LI-6250 CO2 gas analyzer was calibrated daily according to instrument specifications (CO2
+levels), while system tests (e.g., leak tests, boundary layer resistance, soda lime test, and desiccant (k)
+test) were conducted periodically throughout each sampling day. Approximately every half hour, the
+desiccant tube was shaken.
+      Daily, the chambers were cleaned and the batteries recharged. The foam pads in the chamber were
+changed after frequent usage and any noticeable damage.
+      The optical image analysis system was calibrated according to instrument specifications each time
+the system was opened or after it was left for a period of time. A fine ruler and flat disks of known
+area were used in the calibration.
+      The pressure chamber was inspected at the manufacturer's facility prior to field use. Safety checks
+were conducted from time to time throughout the sampling period. 
+4.2.1 Specifications
+      The weighing balance was accurate to within 0.0001 g. The leaf area system was accurate to within
+1%. The gas exchange system was accurate to 1 ppm CO2.
+      The shape factor used for black spruce was 4, in accordance with the BOREAS Experiment Plan,
+Appendix K, Version 3.0. Based on observations of two cross-sections of two needles per fascicle for
+five fascicles for six jack pine trees from Thompson, Manitoba, an average shape factor of 4.59 (+/-
+0.07) was calculated. 
+Page 5
+4.2.1.1 Tolerance
+      The acceptable range for net photosynthetic measurements is not available at this revision. 
+4.2.2 Frequency of Calibration
+      The LI-COR LI-6200 was sent to the manufacturer for calibration and general maintenance in
+February 1994 before field work began (big mistake, see Section 10.1). The LI-6200 was examined
+daily for page parameters, operating parameters, and clock setting; quantum sensor calculation
+constant; CO2 analyzer calculation list; flow meter calculation list; relative humidity sensor calculation
+list; and analyzer reference.
+      Each sensor was checked daily and periodically to make sure it was responding as expected:
+quantum sensor; air and leaf temperature match; IRGA temperature; flow meter; CO2 concentration;
+and relative humidity. The zero and SPAN for the CO2 analyzer were set daily. The flow meter was
+zeroed frequently.
+      The LI-6250 CO2 gas analyzer was calibrated daily according to instrument specifications (CO2
+levels), while system tests (e.g., leak tests, boundary layer resistance, soda lime test, and desiccant (k)
+test) were conducted periodically throughout each sampling day. Approximately every half hour, the
+desiccant tube was shaken.
+      Daily, the chambers were cleaned and the batteries recharged. The foam pads in the chamber were
+changed after frequent usage and any noticeable damage.
+      The optical image analysis system was calibrated according to instrument specifications each time
+the system was opened or after it was left for a period of time. A fine ruler and flat disks of known
+area were used in the calibration.
+      The pressure chamber was inspected at the manufacturer's facility prior to field use. Safety checks
+were conducted from time to time throughout the sampling period. 
+4.2.3 Other Calibration Information
+      During IFC-1, the LI-6200 system had problems caused by the manufacturer's calibration. For the
+days when this equipment problem occurred, the data could not be treated and thus will not be stored
+in the BOREAS Information System (BORIS). Furthermore, the radio handsets that were distributed
+to the field groups caused some failure in instrument functioning. Either the instrument completely shut
+down or the periodic calibrations detected the influence of the handsets. These data have been cleaned
+and removed from the data set available in BORIS. 
+5. Data Acquisition Methods
+Gas exchange and water potential measurements took place in five stands during daylight hours. Prior
+to each measurement period, instruments were calibrated and placed onsite (for example, on canopy
+access towers) for measurement. Five branches from randomly selected trees at a given canopy level
+were identified and prepared by exposing only a desirable amount of foliage for gas exchange
+measurement. Net photosynthesis was measured on these branches with a LI-COR LI-6200 system.
+Ambient conditions were also obtained once or twice within the measurement period of the five
+samples.
+      Once a canopy level was completed, another was started, which normally was within a half hour.
+Several cycles of measurement (upper and lower canopy) could be completed during a day. During the
+first IFC only, samples were harvested after four to five cycles and another five were selected. This
+was done to ensure that the measurement technique did not affect the sample by inducing high
+respiration rates from damaged tissue, for example.
+      A branch (bearing leaves) section was placed into the cuvette for three 20-second measurements.
+This period varied in the first IFC, when investigators were trying to find an ideal measurement period
+for the species being measured. Three 30-second measurements, or three 60-second intervals, were
+found to be too long. Two 20- or 30-second intervals did not always provide enough data to determine
+whether data errors existed. The same branch section was measured periodically throughout the day
+Page 6
+(approximately once every hour). At the end of the day, these branch sections were harvested and
+stored in a freezer until leaf area was determined.
+      The projected leaf areas of fresh aspen leaves that were harvested following the gas exchange
+measurements were measured using an optical image analysis system. Projected leaf area is essentially
+equivalent to half the area of the surface of the leaf (HASL) for flat leaves. Leaf area of each fresh
+conifer sample was measured using the volume displacement method as described in Appendix K of
+the BOREAS Experiment Plan (Version 3.0). Because precision work was required, the needles were
+removed from the shoot, and the volume of the woody portion of the shoot was measured by
+submerging it in the liquid-filled container on the balance. The needle volume was the difference
+between the total volume and the woody volume. The length of all needles in the sample and the shoot
+silhouette were measured using the optical image analysis system. The shape factors for black spruce
+and jack pine respectively were 4.00 and 4.59.
+      The silhouette area of conifer samples was measured by age class. (In the first IFC, however, there
+was only one age class.) A conifer shoot was first snipped/clipped into two age classes. These two age
+classes included (1) 1994 needles and (2) anything produced in 1993 and earlier. Each shoot section
+was then randomly thrown under the camera lens and a silhouette measurement was taken. These
+samples were then processed under the normal procedures for measuring leaf area (volume
+displacement). 
+6. Observations
+6.1 Data Notes
+      None given. 
+6.2 Field Notes
+      During IFC-1 only, canopy gas exchange measurements were made only in the upper canopy with
+the exception of 27-May in the YJP stand. On this particular day, gas exchange measurements were
+made on three branches per tree, for five trees for three canopy levels. (The data set will reflect this
+difference in numbering.) Water potential measurements were made on 01-Jun and for subsequent
+days. Identification errors have been corrected in the data set and are too detailed to list here. 
+7. Data Description
+7.1 Spatial Characteristics 
+7.1.1 Spatial Coverage
+      The data were collected from five principal sites in the NSA of Manitoba. The NSA is
+approximately 100 km wide by 80 km and is located 735 km north of Winnipeg. The North American
+Datum of 1983 (NAD83) coordinates for the sites are: 
+•
+NSA-YJP flux tower site: Lat/Long: 55.89575°N, 98.28706°W; UTM Zone 14, N:6194706.9
+E:544583.9 
+•
+NSA-OJP flux tower site: Lat/Long: 55.842°N, 98.62396°W; UTM Zone 14, N:6198176.3
+E:523496.2 
+•
+NSA-OA canopy access tower site (auxiliary site number T2Q6A, BOREAS Experiment Plan,
+Version 3.0): Lat/Long: 55.88691°N, 98.67479°W; UTM Zone 14, N: 6193540.7 E: 520342 
+•
+NSA-OBS flux tower site: Lat/Long: 55.88007°N, 98.48139°W; UTM Zone 14,
+N:6192853.4 E:532444.5 
+•
+NSA-UBS canopy access tower site (auxiliary site number T6R5S, BOREAS Experiment
+Plan, Version 3.0): Lat/Long: 55.90802°N, 98.51865°W; UTM Zone 14, N: 6195947
+E:530092 
+Measurements were taken on the canopy access towers or, in the case of the YJP site, within 1 km of
+the flux tower. 
+Page 7
+7.1.2 Spatial Coverage Map
+      Not available. 
+7.1.3 Spatial Resolution
+      The data represent point source measurements made at the given locations. 
+7.1.4 Projection
+      Not applicable. 
+7.1.5 Grid Description
+      Not applicable. 
+7.2 Temporal Characteristics 
+7.2.1 Temporal Coverage
+      Data acquisition took place during the three IFCs, which lasted from 24-May-1994 to
+19-Sept-1994. 
+7.2.2 Temporal Coverage Map
+•
+During the first IFC, because of problems with the LI-6200, usable data were obtained only
+for four sampling days: YJP, 17-May; OJP, 30-May and 01-Jun; and OBS, 05-Jun. 
+•
+During the second IFC, usable data were obtained for seven sampling days: YJP, 01-Aug;
+OJP, 27-Jul and 09-Aug; OA, 29-Jul and 08-Aug; OBS, 05-Aug; and UBS, 03-Aug. 
+•
+During the third IFC, usable data were obtained for eight sampling days: YJP, 01-Sep and
+10-Sep; OJP, 31-Aug and 09-Sep; OA, 03-Sep and 16-Sep; OBS, 07-Sep; and UBS, 17-Sep. 
+7.2.3 Temporal Resolution 
+      None given.
+7.3 Data Characteristics 
+7.3.1 Parameter/Variable
+     The parameters contained in the data files on the CD-ROM are:
+         Column Name
+------------------------------
+SITE_NAME
+SUB_SITE
+DATE_OBS
+TIME_OBS
+SPECIES
+SAMPLE_BRANCH_NUM
+CANOPY_LOCATION
+TREE_ID
+WATER_POTENTIAL
+PHOTOSYNTHETIC_RATE
+STOMATAL_MOLAR_CONDUCT_H2O
+STOMATAL_MOLAR_CONDUCT_CO2
+INTERCELL_CO2_CONC
+TRANSPIRATION_RATE
+WATER_USE_EFF
+MESOPHYL_MOLAR_CONDUCT_CO2
+INTERCELL_AMB_CO2_RATIO
+DOWN_PPFD
+AIR_TEMP_CHAMBER
+Page 8
+LEAF_TEMP
+CO2_CONC
+AIR_FLOW_RATE
+REL_HUM_CHAMBER
+VAPOR_PRESS_CHAMBER
+LST_SQR_SLOPE_VAPOR_PRESS
+LST_SQR_SLOPE_CO2_CONC
+VAPOR_PRESS_DEFICIT
+ATMOSPHERIC_PRESS
+LEAF_AREA
+LEAF_BOUND_LAYER_MOLAR_CONDUCT
+STOMATAL_CONDUCT_RATIO
+INST_WATER_ABSORB_FACTOR
+NEEDLE_AREA_1994
+NEEDLE_AREA_1993
+NEEDLE_SILHOU_AREA_1994
+NEEDLE_SILHOU_AREA_1993
+TOTAL_NEEDLE_SILHOU_AREA
+LICOR_VOLUME
+IRGA_HOSE_VOLUME
+MAX_FLOW_RATE
+CRTFCN_CODE
+REVISION_DATE
+7.3.2 Variable Description/Definition
+     The descriptions of the parameters contained in the data files onthe CD-ROM are:
+         Column Name                             Description
+------------------------------ ------------------------------------------------
+SITE_NAME                      The identifier assigned to the site by BOREAS, in
+                               the format SSS-TTT-CCCCC, where SSS identifies
+                                the portion of the study area: NSA, SSA, REG,
+                               TRN, and TTT identifies the cover type for the
+                               site, 999 if unknown, and CCCCC is the identifier
+                               for site, exactly what it means will vary with
+                               site type.
+SUB_SITE                       The identifier assigned to the sub-site by
+                               BOREAS, in the format GGGGG-IIIII, where GGGGG is
+                               the group associated with the sub-site
+                               instrument, e.g. HYD06 or STAFF, and IIIII is the
+                               identifier for sub-site, often this will refer to
+                               an instrument.
+DATE_OBS                       The date on which the data were collected.
+TIME_OBS                       The Greenwich Mean Time (GMT) when the data were
+                               collected.
+SPECIES                        Botanical (Latin) name of the species (Genus
+                               species).
+SAMPLE_BRANCH_NUM              The branch number sampled.  When sample value is
+                               "ambient" this represents no branch and is used
+                               for a check on the ambient conditions where
+                               measurements are being taken.
+CANOPY_LOCATION                Location in the canopy from which the sample was
+                               taken.
+TREE_ID                        Identifier of the mapped tree or plant stem.
+Page 9
+WATER_POTENTIAL                Water Potential
+PHOTOSYNTHETIC_RATE            Measured Net Photosynthesis
+STOMATAL_MOLAR_CONDUCT_H2O     Stomatal conductance of water vapor.
+STOMATAL_MOLAR_CONDUCT_CO2     Stomatal conductance of CO2
+INTERCELL_CO2_CONC             Intercellular CO2 concentration
+TRANSPIRATION_RATE             Transpiration rate
+WATER_USE_EFF                  Water use efficiency
+MESOPHYL_MOLAR_CONDUCT_CO2     Mesophyll CO2 conductance.
+INTERCELL_AMB_CO2_RATIO        The ratio of intercellular CO2 concentration and
+                               ambient CO2 concentration.
+DOWN_PPFD                      The downward photosynthetic photon flux density.
+AIR_TEMP_CHAMBER               The temperature of the air in the chamber.
+LEAF_TEMP                      The leaf or shoot temperature
+CO2_CONC                       CO2 concentration.
+AIR_FLOW_RATE                  Air flow rate through the desiccant
+REL_HUM_CHAMBER                The relative humidity of the air in the chamber.
+VAPOR_PRESS_CHAMBER            Vapor pressure of the air in the chamber.
+LST_SQR_SLOPE_VAPOR_PRESS      The calculated least squares slope of vapor
+                               pressure in relation to time for the observation.
+LST_SQR_SLOPE_CO2_CONC         The calculated least squares slope of CO2 as a
+                               function of time for the observation.
+VAPOR_PRESS_DEFICIT            Vapor Pressure Deficit
+ATMOSPHERIC_PRESS              The atmospheric pressure.
+LEAF_AREA                      The area of the leaf (or needles) enclosed in
+                               the chamber, this value is always half the total
+                               surface area of the sample.
+LEAF_BOUND_LAYER_MOLAR_CONDUCT The one-sided leaf boundary layer conductance.
+                               This is a function of leaf size and type of
+                               chamber.
+STOMATAL_CONDUCT_RATIO         Ratio of stomatal conductance of one side of the
+                               leaf to the other.
+INST_WATER_ABSORB_FACTOR       Instrument water absorption factor
+NEEDLE_AREA_1994               Leaf area for foliage that developed in 1994
+                               based on a total leaf area basis.  (This does not
+                               apply to aspen).
+NEEDLE_AREA_1993               Leaf area for foliage that developed during and
+                               before 1993 based on a total leaf area basis.
+                               This does not apply to aspen foliage.
+NEEDLE_SILHOU_AREA_1994        The area of the silhouette of the shoots that
+                               developed in 1994.
+NEEDLE_SILHOU_AREA_1993        The area of the silhouette of the shoots that
+                               developed during and before 1993.
+TOTAL_NEEDLE_SILHOU_AREA       The total area of the silhouette of all the
+                               shoots.
+LICOR_VOLUME                   LI-COR system volume, including LI-6250 gas
+                               analyzer, the LI-6200 console, chamber and tubing.
+IRGA_HOSE_VOLUME               The volume of the IRGA and hose.
+MAX_FLOW_RATE                  Maximum flow rate of air.
+CRTFCN_CODE                    The BOREAS certification level of the data.
+                               Examples are CPI (Checked by PI), CGR (Certified
+                               by Group), PRE (Preliminary), and CPI-??? (CPI
+                               but questionable).
+REVISION_DATE                  The most recent date when the information in the
+                               referenced data base table record was revised.
+Page 10
+7.3.3 Unit of Measurement
+     The measurement units for the parameters contained in the data files onthe CD-ROM are:
+         Column Name                                Units
+------------------------------ ------------------------------------------------
+SITE_NAME                      [none]
+SUB_SITE                       [none]
+DATE_OBS                       [DD-MON-YY]
+TIME_OBS                       [HHMM GMT]
+SPECIES                        [none]
+SAMPLE_BRANCH_NUM              [unitless]
+CANOPY_LOCATION                [none]
+TREE_ID                        [none]
+WATER_POTENTIAL                [megaPascals]
+PHOTOSYNTHETIC_RATE            [micromoles CO2][meter^-2][second^-1]
+STOMATAL_MOLAR_CONDUCT_H2O     [millimoles H2O][meter^-2][second^-1]
+STOMATAL_MOLAR_CONDUCT_CO2     [millimoles CO2][meter^-2][second^-1]
+INTERCELL_CO2_CONC             [parts per million]
+TRANSPIRATION_RATE             [millimoles H2O][meter^-2][second^-1]
+WATER_USE_EFF                  [micromoles CO2][millimole H2O^-1]
+MESOPHYL_MOLAR_CONDUCT_CO2     [millimoles CO2][meter^-2][second^-1]
+INTERCELL_AMB_CO2_RATIO        [millimoles CO2][meter^-2][second^-1][parts per
+                                million CO2^-1]
+DOWN_PPFD                      [micromoles][meter^-2][second^-1]
+AIR_TEMP_CHAMBER               [degrees Celsius]
+LEAF_TEMP                      [degrees Celsius]
+CO2_CONC                       [parts per million]
+AIR_FLOW_RATE                  [micromoles][second^-1]
+REL_HUM_CHAMBER                [percent]
+VAPOR_PRESS_CHAMBER            [millibars]
+LST_SQR_SLOPE_VAPOR_PRESS      [unitless]
+LST_SQR_SLOPE_CO2_CONC         [unitless]
+VAPOR_PRESS_DEFICIT            [kiloPascals]
+ATMOSPHERIC_PRESS              [kiloPascals]
+LEAF_AREA                      [millimeter^2]
+LEAF_BOUND_LAYER_MOLAR_CONDUCT [mole][meter^-2][second^-1]
+STOMATAL_CONDUCT_RATIO         [unitless]
+INST_WATER_ABSORB_FACTOR       [unitless]
+NEEDLE_AREA_1994               [millimeter^2]
+NEEDLE_AREA_1993               [millimeter^2]
+NEEDLE_SILHOU_AREA_1994        [millimeter^2]
+NEEDLE_SILHOU_AREA_1993        [millimeter^2]
+TOTAL_NEEDLE_SILHOU_AREA       [millimeter^2]
+LICOR_VOLUME                   [millimeter^3]
+IRGA_HOSE_VOLUME               [millimeter^3]
+MAX_FLOW_RATE                  [micromoles]
+CRTFCN_CODE                    [none]
+REVISION_DATE                  [DD-MON-YY]
+Page 11
+7.3.4 Data Source
+     The sources of the parameter values contained in the data files onthe CD-ROM are:
+         Column Name                             Data Source
+------------------------------ ------------------------------------------------
+SITE_NAME                      [BORIS Designation]
+SUB_SITE                       [BORIS Designation]
+DATE_OBS                       [Human Observer]
+TIME_OBS                       [Human Observer]
+SPECIES                        [Human Observer]
+SAMPLE_BRANCH_NUM              [Human Observer]
+CANOPY_LOCATION                [Human Observer]
+TREE_ID                        [Human Observer]
+WATER_POTENTIAL                [Laboratory Equipment]
+PHOTOSYNTHETIC_RATE            [Laboratory Equipment]
+STOMATAL_MOLAR_CONDUCT_H2O     [Laboratory Equipment]
+STOMATAL_MOLAR_CONDUCT_CO2     [Laboratory Equipment]
+INTERCELL_CO2_CONC             [Laboratory Equipment]
+TRANSPIRATION_RATE             [Laboratory Equipment]
+WATER_USE_EFF                  [Laboratory Equipment]
+MESOPHYL_MOLAR_CONDUCT_CO2     [Laboratory Equipment]
+INTERCELL_AMB_CO2_RATIO        [Laboratory Equipment]
+DOWN_PPFD                      [Laboratory Equipment]
+AIR_TEMP_CHAMBER               [Laboratory Equipment]
+LEAF_TEMP                      [Laboratory Equipment]
+CO2_CONC                       [Laboratory Equipment]
+AIR_FLOW_RATE                  [Laboratory Equipment]
+REL_HUM_CHAMBER                [Laboratory Equipment]
+VAPOR_PRESS_CHAMBER            [Laboratory Equipment]
+LST_SQR_SLOPE_VAPOR_PRESS      [Laboratory Equipment]
+LST_SQR_SLOPE_CO2_CONC         [Laboratory Equipment]
+VAPOR_PRESS_DEFICIT            [Laboratory Equipment]
+ATMOSPHERIC_PRESS              [Laboratory Equipment]
+LEAF_AREA                      [Laboratory Equipment]
+LEAF_BOUND_LAYER_MOLAR_CONDUCT [Laboratory Equipment]
+STOMATAL_CONDUCT_RATIO         [Laboratory Equipment]
+INST_WATER_ABSORB_FACTOR       [Laboratory Equipment]
+NEEDLE_AREA_1994               [Laboratory Equipment]
+NEEDLE_AREA_1993               [Laboratory Equipment]
+NEEDLE_SILHOU_AREA_1994        [Laboratory Equipment]
+NEEDLE_SILHOU_AREA_1993        [Laboratory Equipment]
+TOTAL_NEEDLE_SILHOU_AREA       [Laboratory Equipment]
+LICOR_VOLUME                   [Laboratory Equipment]
+IRGA_HOSE_VOLUME               [Laboratory Equipment]
+MAX_FLOW_RATE                  [Laboratory Equipment]
+CRTFCN_CODE                    [BORIS Designation]
+REVISION_DATE                  [BORIS Designation]
+Page 12
+7.3.5 Data Range
+     The following table gives information about the parameter values found inthe data files on the
+CD-ROM.
+                     Minimum        Maximum        Missng  Unrel  Below   Data
+                     Data           Data           Data    Data   Detect  Not
+Column Name          Value          Value          Value   Value  Limit   Cllctd
+--------------------------------------------------------------------------------
+SITE_NAME            NSA-9BS-9TETR  NSA-YJP-FLXTR  None    None   None    None
+SUB_SITE             9TE09-GSE01    9TE09-GSE01    None    None   None    None
+DATE_OBS             27-MAY-94      14-SEP-94      None    None   None    None
+TIME_OBS             746            1913           None    None   None    None
+SPECIES              N/A            N/A            None    None   None    None
+SAMPLE_BRANCH_NUM    1              AMBIENT        None    None   None    None
+CANOPY_LOCATION      Bottom         Top            None    None   None    Blank
+TREE_ID              1              4              None    None   None    Blank
+WATER_POTENTIAL      0              3.7            -999    None   None    Blank
+PHOTOSYNTHETIC_RATE  -22.08         27.927         None    None   None    Blank
+STOMATAL_MOLAR_      6.03           536            None    None   None    Blank
+CONDUCT_H2O
+STOMATAL_MOLAR_      .00388         335            None    None   None    Blank
+CONDUCT_CO2
+INTERCELL_CO2_CONC   142.4667       369.3          None    None   None    Blank
+TRANSPIRATION_RATE   .116267        7.3765         None    None   None    Blank
+WATER_USE_EFF        -1.18598       10.12996       None    None   None    Blank
+MESOPHYL_MOLAR_      -100.91        105.1762       -999    None   None    Blank
+CONDUCT_CO2
+INTERCELL_AMB_CO2_   .397991        1.047737       None    None   None    Blank
+RATIO
+DOWN_PPFD            16.66          1868.5         None    None   None    None
+AIR_TEMP_CHAMBER     9.46           34.72          None    None   None    None
+LEAF_TEMP            8.563          36.243         None    None   None    None
+CO2_CONC             274.63         685.95         None    None   None    None
+AIR_FLOW_RATE        174.53         600            None    None   None    None
+REL_HUM_CHAMBER      15.737         70.293         None    None   None    None
+VAPOR_PRESS_CHAMBER  5.584          26.65          None    None   None    None
+LST_SQR_SLOPE_VAPOR_ -.03445        .14183         None    None   None    Blank
+PRESS
+LST_SQR_SLOPE_CO2_   -.99353        .1341          None    None   None    None
+CONC
+VAPOR_PRESS_DEFICIT  .3514          3.896          None    None   None    None
+ATMOSPHERIC_PRESS    979.9          987            None    None   None    None
+LEAF_AREA            1              163.9          None    None   None    None
+LEAF_BOUND_LAYER_    1.3            1.6            None    None   None    None
+MOLAR_CONDUCT
+STOMATAL_CONDUCT_    0              1              None    None   None    None
+RATIO
+INST_WATER_ABSORB_   1.05           2.35           None    None   None    None
+FACTOR
+NEEDLE_AREA_1994     .91            112.14         None    None   None    Blank
+NEEDLE_AREA_1993     9.94           121.95         None    None   None    Blank
+NEEDLE_SILHOU_AREA_  .7745          14.24          None    None   None    Blank
+1994
+NEEDLE_SILHOU_AREA_  2.2826         19.0773        -999    None   None    Blank
+1993
+TOTAL_NEEDLE_SILHOU_ .91            66.05          -999    None   None    Blank
+AREA
+Page 13
+LICOR_VOLUME         414            1149           None    None   None    None
+IRGA_HOSE_VOLUME     154            154            None    None   None    None
+MAX_FLOW_RATE        1180           1290           None    None   None    None
+CRTFCN_CODE          CPI            CPI            None    None   None    None
+REVISION_DATE        10-JUL-97      12-SEP-97      None    None   None    None
+--------------------------------------------------------------------------------
+Minimum Data Value -- The minimum value found in the column.
+Maximum Data Value -- The maximum value found in the column.
+Missng Data Value  -- The value that indicates missing data. This is used to
+                      indicate that an attempt was made to determine the
+                      parameter value, but the attempt was unsuccessful.
+Unrel Data Value   -- The value that indicates unreliable data.  This is used
+                      to indicate an attempt was made to determine the
+                      parameter value, but the value was deemed to be
+                      unreliable by the analysis personnel.
+Below Detect Limit -- The value that indicates parameter values below the
+                      instruments detection limits.  This is used to
+                      indicate that an attempt was made to determine the
+                      parameter value, but the analysis personnel determined
+                      that the parameter value was below the detection
+                      limit of the instrumentation.
+Data Not Cllctd    -- This value indicates that no attempt was made to
+                      determine the parameter value.  This usually
+                      indicates that BORIS combined several similar but
+                      not identical data sets into the same data base table
+                      but this particular science team did not
+                      measure that parameter.
+Blank -- Indicates that blank spaces are used to denote that type of value.
+N/A   -- Indicates that the value is not applicable to the respective column.
+None  -- Indicates that no values of that sort were found in the column.
+-------------------------------------------------------------------------------- 
+7.4 Sample Data Record
+     The following are wrapped versions of data record from a sample data fileon the CD-ROM.
+SITE_NAME,SUB_SITE,DATE_OBS,TIME_OBS,SPECIES,SAMPLE_BRANCH_NUM,CANOPY_LOCATION,
+TREE_ID,WATER_POTENTIAL,PHOTOSYNTHETIC_RATE,STOMATAL_MOLAR_CONDUCT_H2O,
+STOMATAL_MOLAR_CONDUCT_CO2,INTERCELL_CO2_CONC,TRANSPIRATION_RATE,WATER_USE_EFF,
+MESOPHYL_MOLAR_CONDUCT_CO2,INTERCELL_AMB_CO2_RATIO,DOWN_PPFD,AIR_TEMP_CHAMBER,
+LEAF_TEMP,CO2_CONC,AIR_FLOW_RATE,REL_HUM_CHAMBER,VAPOR_PRESS_CHAMBER,
+LST_SQR_SLOPE_VAPOR_PRESS,LST_SQR_SLOPE_CO2_CONC,VAPOR_PRESS_DEFICIT,
+ATMOSPHERIC_PRESS,LEAF_AREA,LEAF_BOUND_LAYER_MOLAR_CONDUCT,
+STOMATAL_CONDUCT_RATIO,INST_WATER_ABSORB_FACTOR,NEEDLE_AREA_1994,
+NEEDLE_AREA_1993,NEEDLE_SILHOU_AREA_1994,NEEDLE_SILHOU_AREA_1993,
+TOTAL_NEEDLE_SILHOU_AREA,LICOR_VOLUME,IRGA_HOSE_VOLUME,MAX_FLOW_RATE,
+CRTFCN_CODE,REVISION_DATE
+'NSA-9BS-9TETR','9TE09-GSE01',03-AUG-94,958,'Picea mariana','1','Top',,1.3,
+1.407333,39.6,24.75,302.8,.2772,5.08947,4.657189,.830968,210.367,12.26,11.757,
+364.3,288.73,48.24,6.882,.00913,-.30193,.737567,979.9,99.79,1.3,1,1.68,69.28,
+30.51,11.2329,6.261,17.4939,1149,154,1290,'CPI',11-SEP-97
+'NSA-9BS-9TETR','9TE09-GSE01',03-AUG-94,1003,'Picea mariana','2','Top',,1.4,
+1.090333,37.53,23.45813,299.2333,.264033,4.140771,3.648057,.854651,307.233,12.25,
+11.86,350.07,289.3,48.72,6.948,.0096,-.252,.730367,979.9,107.1,1.3,1,1.68,64.91,
+42.19,12.339,7.7328,20.0718,1149,154,1290,'CPI',11-SEP-97 
+Page 14
+8. Data Organization
+8.1 Data Granularity
+      The smallest unit of data tracked by BORIS was that collected at a given site on a given date. 
+8.2 Data Format(s)
+      The Compact Disk-Read-Only Memory (CD-ROM) files contain American Standard Code for
+Information Interchange (ASCII) numerical and character fields of varying length separated by
+commas. The character fields are enclosed with single apostrophe marks. There are no spaces between
+the fields.
+      Each data file on the CD-ROM has four header lines of Hyper-Text Markup Language (HTML)
+code at the top. When viewed with a Web browser, this code displays header information (data set
+title, location, date, acknowledgments, etc.) and a series of HTML links to associated data files and
+related data sets. Line 5 of each data file is a list of the column names, and line 6 and following lines
+contain the actual data. 
+9. Data Manipulations
+9.1 Formulae
+      During the data processing, the following formulae were used: 
+•
+water use efficiency (WUE)=(photosynthesis (µmol/m2/s) /transpiration(mmol/m2/s)) 
+•
+mesophyll conductance (GM)=( (photosynthesis (µmol/m2/s) /Intercellular CO2 concentration
+(ppm)) x 1000) (Fites and Teskey, 1988) 
+•
+Ci/Ca: CINT: Intercellular CO2 concentration (ppm) / CO2 concentration (ppm)) 
+9.1.1 Derivation Techniques and Algorithms
+      None at this time. 
+9.2 Data Processing Sequence 
+9.2.1 Processing Steps
+      Data were stored in the LI-6200 system during the measurement day. Data were then
+downloaded/transferred from the system to an IBM or IBM-compatible computer.
+     When the true leaf areas for each sample were available, these values were entered into the LI-COR
+programming software, and all gas exchange parameters subsequently were recomputed.
+     Raw data for each day of data were printed and examined for anomalies in each line of data.
+Subsequently, any data corresponding to each line of data that showed an anomaly were removed. For
+example, a branch was normally placed in the cuvette for three repetitions of 20 seconds. If in one (or
+more) of these repetitions, a parameter output was more than 25% out of range, then the entire line of
+data was removed, leaving only the data corresponding to the 'clean' repetitions.
+     Data were recomputed using the LI-COR software if any other errors in default parameters were
+detected. For example, on occasion, the ratio of the stomatal conductance of one side of the leaf to the
+other (STMRAT) was erroneously entered in the field.
+     Using Excel (Version 5.0 for IBM), a program was written to process each cleaned data set. This
+program did the following: 
+•
+Calculated new parameters that were not part of the LI-COR software system. These
+parameters included water use efficiency, mesophyll conductance, and Ci:Ca ratios. 
+•
+Permitted the user to average the data depending on whether the data had been recomputed or
+not. 
+•
+Permitted the user to average the data depending on whether there were two or three
+repetitions of data, taking into account missing data. 
+•
+Formatted the data into column format. 
+Page 15
+Once the data were in a cleaned, column format, water potential values for each time period were
+entered into the data set. Data in imperial units were converted to standard metric units. 
+9.2.2 Processing Changes
+      See Section 9.2.1. 
+9.3 Calculations
+      During the data processing, the following formulae were used: 
+•
+water use efficiency (WUE)=(photosynthesis (µmol/m2/s) /transpiration(µmol/m2/s)) 
+•
+mesophyll conductance (GM)=( (photosynthesis (µmol/m2/s) /Intercellular CO2 concentration
+(ppm)) x 1000 ) (Fites and Teskey, 1988) 
+•
+Ci/Ca: CINT: Intercellular CO2 concentration (ppm) / CO2 concentration (ppm) 
+9.3.1 Special Corrections/Adjustments
+      Raw data for each day of data were printed and examined for anomalies in each line of data.
+Subsequently, any data corresponding to each line of data that showed an anomaly were removed. For
+example, a branch was normally placed in the cuvette for three repetitions of 20 seconds. If in one (or
+more) of these repetitions, a parameter output was more than 25% out of range, then the entire line of
+data was removed, leaving only the data corresponding to the 'clean' repetitions.
+      Data were recomputed using the LI-COR software if any other errors in default parameters were
+detected. For example, on occasion, the ratio of the stomatal conductance of one side of the leaf to the
+other (STMRAT) was erroneously entered in the field.
+      Using the software Excel (Version 5.0 for IBM), a program was written to process each cleaned
+data set. This program did the following: 
+•
+Calculated new parameters that were not part of the LI-COR software system. These
+parameters included water use efficiency, mesophyll conductance, and Ci:Ca ratios. 
+•
+Permitted the user to average the data depending on whether the data had been recomputed or
+not. 
+•
+Permitted the user to average the data depending on whether there were two or three
+repetitions of data, taking into account missing data. 4) Formatted the data into column
+format. 
+Once the data were in a cleaned, column format, water potential values for each time period were
+entered into the data set. Data in imperial units were converted to standard metric units. 
+9.3.2 Calculated Variables
+water use efficiency (WUE)
+mesophyll conductance (GM)
+intercellular CO2 concentration(ppm) 
+9.4 Graphs and Plots
+      None submitted. 
+10. Errors
+10.1 Sources of Error
+      During IFC-1, the LI-6200 system had problems caused by the manufacturer's calibration. For
+days when this equipment problem occurred, the data could not be treated and thus will not be stored
+in BORIS. Furthermore, the radio handsets that were distributed to the field groups caused some
+failure in instrument functioning. Either the instrument completely shut down or the periodic
+calibrations detected the handset influence. These data have been cleaned and removed from the data
+set available in BORIS.
+Page 16
+     All erroneous default parameters were adjusted. Anomalies in each line of data were removed. For
+example, a branch was normally placed in the cuvette for three repetitions of 20 seconds. If in one (or
+more) of these repetitions, a parameter output was more than 25% out of range, then the entire line of
+data was removed, leaving only the data corresponding to the 'clean' repetitions. Most often these
+anomalies could not be explained. However, a sudden burst in light during the measurement or a poor
+electrical signal could cause these kinds of errors. These out-of-range errors were detected and
+removed. See Section 9.2.1 for additional details. 
+10.2 Quality Assessment 
+10.2.1 Data Validation by Source
+      All known errors were removed. 
+10.2.2 Confidence Level/Accuracy Judgment
+      All known errors were removed, yielding a high degree of confidence in this data set. 
+10.2.3 Measurement Error for Parameters
+      No measurement errors are known at this time. 
+10.2.4 Additional Quality Assessments
+      Data were compared to results observed in the laboratory, and results are within a realistic range. 
+10.2.5 Data Verification by Data Center
+      Data were examined for general consistency and clarity. 
+11. Notes
+11.1 Limitations of the Data
+      None given. 
+11.2 Known Problems with the Data
+      All known problems have been removed; see Section 10.1. 
+11.3 Usage Guidance
+      Use data columns as presented. 
+11.4 Other Relevant Information
+      Not available at this time. 
+12. Application of the Data Set
+These data can be used to characterize the diurnal water potential curves for these sites to obtain an
+indication of the extent to which soil moisture supply to leaves might be limiting photosynthesis. 
+13. Future Modifications and Plans
+This is the final version of data. 
+Page 17
+14. Software
+14.1 Software Description
+      None given. 
+14.2 Software Access
+      None given. 
+15. Data Access
+The gas exchange data are available from the Earth Observing System Data and Information System
+(EOSDIS) Oak Ridge National Laboratory (ORNL) Distributed Active Archive Center (DAAC). 
+15.1 Contact Information
+      For BOREAS data and documentation please contact:
+ORNL DAAC User Services
+Oak Ridge National Laboratory
+P.O. Box 2008 MS-6407
+Oak Ridge, TN 37831-6407
+Phone: (423) 241-3952
+Fax: (423) 574-4665
+E-mail: ornldaac@ornl.gov or ornl@eos.nasa.gov 
+15.2 Data Center Identification
+      Earth Observing System Data and Information System (EOSDIS) Oak Ridge National Laboratory
+(ORNL) Distributed Active Archive Center (DAAC) for Biogeochemical Dynamics
+http://www-eosdis.ornl.gov/. 
+15.3 Procedures for Obtaining Data
+      Users may obtain data directly through the ORNL DAAC online search and order system
+[http://www-eosdis.ornl.gov/] and the anonymous FTP site [ftp://www-eosdis.ornl.gov/data/] or by
+contacting User Services by electronic mail, telephone, fax, letter, or personal visit using the contact
+information in Section 15.1. 
+15.4 Data Center Status/Plans
+      The ORNL DAAC is the primary source for BOREAS field measurement, image, GIS, and
+hardcopy data products. The BOREAS CD-ROM and data referenced or listed in inventories on the
+CD-ROM are available from the ORNL DAAC.
+16. Output Products and Availability
+16.1 Tape Products
+      None. 
+16.2 Film Products
+      None. 
+16.3 Other Products
+      These data are available on the BOREAS CD-ROM series. 
+Page 18
+17. References
+17.1 Platform/Sensor/Instrument/Data Processing Documentation
+Decagon Devices, Inc. 1990. AgVision monochrome system, root and leaf analysis, operators manual.
+Pullman, WA. 
+LI-COR, Inc. 1990. LI-COR 6200 Condensed Reference. Software Revision 2.00 (August 1990).
+Lincoln, NE. 
+LI-COR, Inc. 1990. LI-COR 6200 Technical reference. (March 1990). Lincoln, NE. 
+LI-COR, Inc. 1990. The LI-COR 6200 Primer: An introduction to operating the LI-6200 portable
+photosynthesis system. (May 1990) Lincoln, NE. 
+LI-COR, Inc. 1993. LI-COR 6200 software. Lincoln, NE. 
+17.2 Journal Articles and Study Reports
+Coyea, M.R., Q.L. Dang, H. Margolis, M. Sy, and G.J. Collatz. 1996. Canopy profiles of PAR,
+nitrogen, and photosynthetic capacity: implications for scaling from leaf to canopy. North American
+Forest Biology Workshop. June 16-20 1996. Poster presented. 
+Dang, Q.L., H. Margolis, M. Sy, M.R. Coyea, and G. J. Collatz. 1996. Profiles of
+photosynthetically active radiation, nitrogen, and photosynthetic capacity in the boreal forest:
+implications for scaling from leaf to canopy. Ecological Society of America. August 10-14, 1996.
+Providence, RI. 
+Dang, Q.L., H. Margolis, M. Sy, M.R. Coyea, and G.J. Collatz. 1996. Water potential and vapor
+pressure difference as environmental controls on branch-level gas exchange of boreal tree species in
+northern Manitoba. North American Forest Biology Workshop. June 16-20, 1996. 
+Dang, Q.L., H. Margolis, M. Sy, M.R. Coyea, G.J. Collatz, and C.L. Walthall. 1997. Profiles of
+photosynthetically active radiation, nitrogen and photosynthetic capacity in the boreal forest:
+Implications for scaling from leaf to canopy. Journal of Geophysical Research 102(D24):
+28,845-28,859. 
+Dang, Q.L., H. Margolis, M.R. Coyea, M. Sy, and G. J. Collatz,. 1996. Regulation of branch-level
+gas exchange of boreal trees: role of shoot water potential and vapor pressure difference. Tree Phys. In
+press. 
+Dang, Q.L., H. Margolis, M.R. Coyea, M. Sy, G.J. Collatz and De Yue. 1995. Environmental
+controls on photosynthesis and stomatal conductance of boreal forest tree species. Ecological Society
+of America. July 31-August 4, 1995. Snowbird, UT. 
+Fites, J.A. and R.O. Teskey. 1988. CO2 and water vapor exchange of Pinus in relation to stomatal
+behavior: test of an optimization hypothesis. Can. J. For. Res. 18:150-157. 
+Newcomer, J., D. Landis, S. Conrad, S. Curd, K. Huemmrich, D. Knapp, A. Morrell, J. Nickeson,
+A. Papagno, D. Rinker, R. Strub, T. Twine, F. Hall, and P. Sellers, eds. 2000. Collected Data of The
+Boreal Ecosystem-Atmosphere Study. NASA. CD-ROM. 
+Sellers, P. and F. Hall. 1994. Boreal Ecosystem-Atmosphere Study: Experiment Plan. Version
+1994-3.0, NASA BOREAS Report (EXPLAN 94). 
+Page 19
+Sellers, P. and F. Hall. 1996. Boreal Ecosystem-Atmosphere Study: Experiment Plan. Version
+1996-2.0, NASA BOREAS Report (EXPLAN 96). 
+Sellers, P., F. Hall, and K.F. Huemmrich. 1996. Boreal Ecosystem-Atmosphere Study: 1994
+Operations. NASA BOREAS Report (OPS DOC 94). 
+Sellers, P., F. Hall, and K.F. Huemmrich. 1997. Boreal Ecosystem-Atmosphere Study: 1996
+Operations. NASA BOREAS Report (OPS DOC 96). 
+Sellers, P., F. Hall, H. Margolis, B. Kelly, D. Baldocchi, G. den Hartog, J. Cihlar, M.G. Ryan, B.
+Goodison, P. Crill, K.J. Ranson, D. Lettenmaier, and D.E. Wickland. 1995. The boreal
+ecosystem-atmosphere study (BOREAS): an overview and early results from the 1994 field year.
+Bulletin of the American Meteorological Society. 76(9):1549-1577. 
+Sellers, P.J., F.G. Hall, R.D. Kelly, A. Black, D. Baldocchi, J. Berry, M. Ryan, K.J. Ranson, P.M.
+Crill, D.P. Lettenmaier, H. Margolis, J. Cihlar, J. Newcomer, D. Fitzjarrald, P.G. Jarvis, S.T.
+Gower, D. Halliwell, D. Williams, B. Goodison, D.E. Wickland, and F.E. Guertin. 1997. BOREAS
+in 1997: Experiment Overview, Scientific Results and Future Directions. Journal of Geophysical
+Research 102(D24): 28,731-28,770. 
+17.3 Archive/DBMS Usage Documentation
+      None. 
+18. Glossary of Terms
+None. 
+19. List of Acronyms
+    ASCII   - American Standard Code for Information Interchange
+    BOREAS  - BOReal Ecosystem-Atmosphere Study
+    BORIS   - BOREAS Information System
+    CD-ROM  - Compact Disk-Read-Only Memory
+    DAAC    - Distributed Active Archive Center
+    EOS     - Earth Observing System
+    EOSDIS  - EOS Data and Information System
+    FPAR    - Fraction of PAR
+    GIS     - Geographic Information System
+    GMT     - Greenwich Mean Time
+    GSFC    - Goddard Space Flight Center
+    HASL    - Half the Area of the Surface of the Leaf
+    HTML    - HyperText Markup Language
+    IFC     - Intensive Field Campaign
+    IRGA    - Infrared Gas Analyzer
+    NAD27   - North American Datum of 1927
+    NAD83   - North American Datum of 1983
+    NASA    - National Aeronautics and Space Administration
+    NSA     - Northern Study Area
+    OA      - Old Aspen
+    OBS     - Old Black Spruce
+    OJP     - Old Jack Pine
+Page 20
+    ORNL    - Oak Ridge National Laboratory
+    PANP    - Prince Albert National Park
+    PAR     - Photosynthetically Active Radiation
+    PI      - Principal Investigator
+    Ps      - Photosynthesis
+    SSA     - Southern Study Area
+    TE      - Terrestrial Ecology
+    UBS     - Upland Black Spruce
+    URL     - Uniform Resource Locator
+    UTM     - Universal Transverse Mercator
+    VPD     - Vapor Pressure Deficit
+    YA      - Young Aspen
+    YJP     - Young Jack Pine
+20. Document Information
+20.1 Document Revision Date
+Written: 27-Feb-1997 
+Last Updated: 27-May-1999 
+20.2 Document Review Date(s)
+BORIS Review: 26-Feb-1998 
+Science Review:06-Feb-1998 
+20.3 Document ID
+      
+20.4 Citation
+      When using these data, please include the following acknowledgment as well as citations of
+relevant papers in Section 17.2:
+      The diurnal gas exchange and water potential measurements were collected for BOREAS by the
+TE-09 research team from Universite Laval, Quebec, Canada, under the direction of H. Margolis. The
+dedicated efforts of Marie R. Coyea, Mikailou Sy, Raynald Paquin, Simon Arbour, Munyonge Abwe
+Wa Masabo, and Tshinkenke Vinlha in collecting and preparing these data is particularly appreciated. 
+If using data from the BOREAS CD-ROM series, also reference the data as:
+      Margolis, H., "Relationship Between Measures of Absorbed and Reflected Radiation and the
+Photosynthetic Capacity of Boreal Forest Canopies and Understories." In Collected Data of The Boreal
+Ecosystem-Atmosphere Study. Eds. J. Newcomer, D. Landis, S. Conrad, S. Curd, K. Huemmrich,
+D. Knapp, A. Morrell, J. Nickeson, A. Papagno, D. Rinker, R. Strub, T. Twine, F. Hall, and P.
+Sellers. CD-ROM. NASA, 2000. 
+Also, cite the BOREAS CD-ROM set as:
+      Newcomer, J., D. Landis, S. Conrad, S. Curd, K. Huemmrich, D. Knapp, A. Morrell, J.
+Nickeson, A. Papagno, D. Rinker, R. Strub, T. Twine, F. Hall, and P. Sellers, eds. Collected Data of
+The Boreal Ecosystem-Atmosphere Study. NASA. CD-ROM. NASA, 2000. 
+20.5 Document Curator
+      
+20.6 Document URL
+Page 21
+Public reporting burden for this collection of information is estimated to average 1 hour per response, including the time for reviewing instructions, searching existing data sources,
+gathering  and maintaining the data needed, and completing and reviewing the collection of information.  Send comments regarding this burden estimate or any other aspect of this
+collection of  information, including suggestions for reducing this burden, to Washington Headquarters Services, Directorate for Information Operations and Reports, 1215 Jefferson
+Davis Highway, Suite 1204, Arlington, VA 22202-4302, and to the Office of Management and Budget, Paperwork Reduction Project (0704-0188), Washington, DC  20503.
+Form Approved
+OMB No. 0704-0188
+3. REPORT TYPE AND DATES COVERED
+2. REPORT DATE
+5. FUNDING NUMBERS
+8. PEFORMING ORGANIZATION
+    REPORT NUMBER
+10. SPONSORING / MONITORING
+      AGENCY REPORT NUMBER
+12b. DISTRIBUTION CODE
+18.  SECURITY CLASSIFICATION
+       OF THIS PAGE
+19.  SECURITY CLASSIFICATION
+       OF ABSTRACT
+Standard Form 298 (Rev. 2-89)
+Prescribed by ANSI Std. Z39.18
+298-102
+NSN 7540-01-280-5500
+Unclassified
+Unclassified
+Unclassified
+Unclassified–Unlimited
+Subject Category: 43
+Report available from the NASA Center for AeroSpace Information,
+7121 Standard Drive, Hanover, MD  21076-1320. (301) 621-0390.
+REPORT DOCUMENTATION PAGE
+UL
+20. LIMITATION OF ABSTRACT
+16. PRICE CODE
+15. NUMBER OF PAGES
+14. SUBJECT TERMS
+National Aeronautics and Space Administration
+Washington, DC 20546-0001
+Goddard Space Flight Center
+Greenbelt, Maryland 20771
+17.  SECURITY CLASSIFICATION
+       OF REPORT
+7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS (ES)
+12a. DISTRIBUTION / AVAILABILITY STATEMENT
+13. ABSTRACT (Maximum 200 words)
+4. TITLE AND SUBTITLE
+1. AGENCY USE ONLY (Leave blank)
+6. AUTHOR(S)
+9. SPONSORING / MONITORING AGENCY NAME(S) AND ADDRESS (ES)
+11. SUPPLEMENTARY NOTES
+923
+RTOP: 923-462-33-01
+2000-03136-0
+TM—2000–209891
+Technical Report Series on the Boreal Ecosystem-Atmosphere Study (BOREAS)
+Vol. 153
+October 2000
+Technical Memorandum
+BOREAS TE-9 In Situ Diurnal Gas Exchange of NSA Boreal Forest Stands
+Hank Margolis, Marie Coyea, and Qinglai Dang
+Forrest G. Hall and Shelaine Curd, Editors
+H. Margolis and M. Coyea: Université Laval, Sainte-Foy, Quebec, Canada; Q. Dang: Lakehead
+University, Thunder Bay, Canada; S. Curd: Raytheon ITSS, NASA Goddard Space Flight Center,
+Greenbelt, Maryland
+The BOREAS TE-9 team collected several data sets related to chemical and photosynthetic properties
+of leaves in boreal forest tree species. The purpose of the BOREAS TE-09 study was threefold: 1) to
+provide in situ gas exchange data that will be used to validate models of photosynthetic responses to
+light, temperature, and carbon dioxide (CO2); 2) to compare the photosynthetic responses of different
+tree crown levels (upper and lower); and 3) to characterize the diurnal water potential curves for these
+sites to get an indication of the extent to which soil moisture supply to leaves might be limiting photo-
+synthesis. The gas exchange data of the BOREAS NSA were collected to characterize diurnal gas
+exchange and water potential of two canopy levels of five boreal canopy cover types: young jack pine,
+old jack pine, old aspen, lowland old black spruce, and upland black spruce. These data were collected
+between 27-May-1994 and 17-Sep-1994. The data are provided in tabular ASCII files.
+BOREAS, terrestrial ecology, boreal forests.
+21

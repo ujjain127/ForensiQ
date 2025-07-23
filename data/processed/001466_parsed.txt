@@ -1,0 +1,435 @@
+Notice DAP-94
+UNITED STATES DEPARTMENT OF AGRICULTURE
+Farm Service Agency
+Washington, DC 20250
+For:  California State and County Offices
+Processing Additional Payments for 1999 California Citrus Crops
+Approved by: Acting Deputy Administrator, Farm Programs
+1
+Overview
+A
+Background
+The Agriculture, Rural Development, Food and Drug Administration, and Related
+Agencies Appropriations Act, 2001, was recently signed into law.  This Act
+provides authority to issue additional payments to 1999 Crop Disaster Program
+(CDP) producers in California that:
+&
+incurred a loss on 1999 citrus crops
+&
+applied for and received disaster benefits under 1999 CDP instead of 1998
+Crop Loss Disaster Assistance Program (CLDAP).
+B
+Purpose
+This notice provides State and County Offices with:
+&
+general payment provisions
+&
+instructions for ensuring that payment limitation allocations are set properly for
+multi-county producers
+&
+information and instructions for issuing additional payments to California
+producers with eligible citrus losses
+&
+instructions for canceling payments
+&
+instructions for printing the Producer Payment History (PPH).
+Disposal Date
+Distribution
+January 1, 2002
+California State Office; State Office relays to
+County Offices
+3-7-01
+Page 1
+Notice DAP-94
+3-7-01
+Page 2
+2
+General Payment Provisions
+A
+Eligible
+Producers and
+Crops
+Payments to California producers with citrus losses is not a new program.  Rather,
+it is an additional payment to specific producers who:
+&
+suffered a loss on their 1999 citrus crop because of weather occurring in
+December 1998
+&
+subsequently filed CCC-547 under the 1999 CDP program.
+Producers are eligible to receive the California Citrus payment if all of the
+following apply.
+&
+Physical location of the 1999 crop loss was in California
+&
+Producer timely filed CCC-547 for a crop loss on Valencia Oranges.
+Note: CCC-547’s must have been filed by the February 25, 2000, program
+signup deadline.  County Offices are not authorized to approve
+applications filed after March 27, 2000.  These additional payments do
+not have to be requested by the producer.
+&
+COC has approved the producer’s CCC-547.
+&
+All program requirements have been met.
+Note: All program provisions that applied to 1999 CDP also apply to issuing
+the California Citrus payments.
+B
+Payment Factor
+An additional 15.3 percent payment will be issued to eligible producers as defined
+in subparagraph A.  This payment factor is the difference between:
+&
+84.9 percent payment factor used for 1998 CLDAP payments
+&
+69.6 percent payment factor used for 1999 CDP payments.
+C
+Assignments
+County Offices shall process assignments and joint payments according to 63-FI
+using program code “99CITRUS”.  Payments shall:
+&
+be assigned if CCC-36 was filed on or after October 29, 2000
+&
+not be assigned based on previous CCC-36’s filed for 1999 CDP.
+Continued on the next page
+Notice DAP-94
+3-7-01
+Page 3
+2
+General Payment Provisions (Continued)
+D
+Offsets
+As with 1999 CDP payments, the additional payment for California Citrus losses
+are not subject to administrative offset.
+Exception:
+The additional California Citrus payment shall be offset and applied
+against any outstanding debt that resulted from a 1999 CDP
+overpayment.
+E
+Bankruptcy
+County Offices shall contact the OGC Regional Attorney for guidance on issuing
+California Citrus payments on all bankruptcy cases.
+3
+Handling Payment Limitation
+A
+Review
+Payments for the 1998 CLDAP and 1999 CDP programs were factored as well as
+the payment limitation amount needed to issue those payments.  Counties shall
+ensure that the payment limitation amount has been set correctly.  Counties shall
+also provide any additional unallocated payment limitation amounts to counties
+with producers with citrus losses.
+Note: Because of the complexity of the payment limitation factors with CLDAP
+and CDP programs, several examples are illustrated in the remainder of this
+paragraph showing the most common situations that may occur. 
+B
+County Office
+Actions
+County Offices shall take the following steps to ensure that payment limitation
+allocations are set correctly.
+Step
+Action
+1
+Print a “Producer Payment History” report of all multi-county producers that received a 1999 CDP citrus loss
+payment.
+&
+Divide the total 1999 CDP payment amount by .696; this is the minimum amount of payment limitation
+amount that must be allocated to the county.  To determine the amount of the 1999 CDP payments issued,
+total all “CHK/EFT” records; then subtract all “RECV” records.
+&
+The control county shall distribute any unallocated payment limitation to counties with citrus applications.
+2
+Ensure all 1999 CDP applications, that are approved, have been paid.  The County Offices shall run an “ALL”
+payment batch to ensure all payments have been issued.  Counties shall then review the payment reports and
+correct any problems that the reports indicate.
+3
+County Offices shall run an “All” overpayment register for 1999 CDP.  Correct all problems that the
+overpayment register indicates.  If a producer has been overpaid, the county shall set up a receivable
+immediately.  
+Continued on the next page
+Notice DAP-94
+3-7-01
+Page 4
+3
+Handling Payment Limitation (Continued)
+C
+Example 1
+In this example, the producer:
+&
+is a multi-county producer
+&
+applied for benefits on the citrus crop only
+&
+reached payment limitation on the citrus crop.
+In County A, Joe Smith receives a 1999 CDP payment of $55,000, and in
+County B a payment of $680.  The payment allocation amount must be set equal to
+or greater than the payment amount divided by .696:
+&
+County A - $55,000 divided by .696 = $79,023
+&
+County B - $680 divided by .696 = $977.
+The payment limitation amount must be at least $79,023 in County A and $977 in
+County B.
+D
+Example 2
+In this example, the producer:
+&
+is a multi-county producer
+&
+applied for benefits on multiple crops (wheat and citrus)
+&
+reached payment limitation on the citrus crop.
+In County A, Steve Jones received a 1999 CDP payment of:
+&
+$10,440 for wheat
+&
+$17,400 for citrus. 
+In County B, he received a payment of $27,840 for citrus.
+The payment allocation amount must be set equal to or greater than the total
+payment amount issued in each county divided by .696:
+&
+County A - $10,440 + $17,400 divided by .696 = $40,000
+&
+County B - $27,840 divided by .696 = $40,000
+The payment limitation amount must be at least $40,000 in both counties.
+Continued on the next page
+Notice DAP-94
+3-7-01
+Page 5
+3
+Handling Payment Limitation (Continued)
+E
+Example 3
+In this example, the producer:
+&
+is a multi-county producer
+&
+applied for benefits on multiple crops (citrus and apples)
+&
+reached payment limitation on the apple crop.
+In County A, Sara Johnson received a 1999 CDP payment of:
+&
+$24,360 for citrus
+&
+$1,392 for apples.
+In County B, she received payments of:
+&
+$6,960 for citrus
+&
+$3,480 for apples.
+The payment allocation amount must be set equal to or greater than the total
+payment amount divided by .696:
+&
+County A - $24,360 + $1,392 divided by .696 = $37,000
+&
+County B - $6,960 + $3,480 divided by .696 = $15,000.
+The payment limitation amount in County A must be at least $37,000 and in
+County B at least $15,000
+Notice DAP-94
+3-7-01
+Page 6
+4
+Issuing Payments
+A
+Timing of
+Payments
+On March 7, 2001, KC-ITSDO transmitted software to County Offices that
+provides the menu option to the California Citrus payments.  However, this
+software transmission only provides the menu.  The actual payment software is
+included in County Release No. 454 to arrive in County Offices on or about
+March 7, 2001.
+Once the transmitted software and County Release No. 454 are installed, County
+Offices shall immediately process payments to eligible producers.
+B
+Prerequisites for
+Issuing
+California Citrus
+Payments
+Before processing California Citrus payments, County Offices shall ensure that all
+the following have been completed.
+&
+All CCC-547’s have been updated properly in the system.
+&
+Assignments and joint payments data is loaded in the system according to
+subparagraph 2 C.
+&
+1999 CDP payment limitation allocations have been adjusted and downloaded
+according to paragraph 3.
+&
+1999 CDP overpayments have been computed and legitimate overpayments
+have been transferred to the Common Receivable System (CRS). 
+C
+Accessing 
+Payment
+Processing
+Options
+The software developed to issue the California Citrus payments functions similar
+to the 1999 CDP payment software.
+Access the California Citrus payment process from Menu FAX250 according to
+this table.
+Step
+Screen
+Action
+Menu or
+1
+FAX250
+ENTER “3” or “4”, “Application Processing”.
+2
+FAX09002
+Menu FAX09002 will be displayed if option 4 was selected on Menu FAX250.  Select the
+appropriate county to continue to Menu FAX07001.
+3
+FAX07001
+ENTER “11”, “PFC/Compliance”.
+4
+M00000
+ENTER “1”, “NAP and Disaster”.
+5
+MH0000
+ENTER “1”, “Crop Disaster Program”.
+Continued on the next page
+Notice DAP-94
+3-7-01
+Page 7
+4
+Issuing Payments (Continued)
+C
+Accessing 
+Payment
+Processing
+Options
+(Continued)
+Step
+Screen
+Action
+Menu or
+6
+MHA0YR
+ENTER “1”, “1999 Crop Year”.
+7
+MHAX00
+ENTER “7”, “California Citrus Payment Processing”.
+8
+MHAUN0
+The following options are provided on the main menu for California Citrus payment processing.
+&
+Option 1 - Issue Payments
+&
+Option 2 - cancel payables that have not been issued to producers
+&
+Option 3 - continue a suspended payment batch
+&
+Option 5 - print PPH.
+D
+Issuing
+California Citrus
+Payments
+An option has not been provided to process payments by producer.  Each time the
+payment process is run, payments will be computed for all producers with an
+approved CCC-547.  This process can be run as many times as necessary to ensure
+all producers are paid properly.
+Note: Duplicate payments will not be issued if the option to issue payments is
+accessed more than 1 time.
+Follow the procedure in this table to issue the California Citrus payments.
+Step
+Action
+Result
+1
+Access Menu MHAUN0 according to subparagraph 4 C.
+2
+Select the printer where the pending payment and nonpayment registers
+Screen MHADNE-05 will be
+should be queued.
+displayed.
+3
+Screen MHADNE-05 is displayed with the current system date.  The date
+Payments will be processed for all
+displayed on Screen MHADNE-05 can be changed to a later date, but
+eligible producers with an
+cannot be more than 14 calendar days after the system date.
+approved CCC-547.
+Change the date or PRESS “Enter” to continue with the payment process.
+4
+Follow 2-DAP, Part 9 to complete the payment process.
+Notice DAP-94
+3-7-01
+Page 8
+5
+Canceling California Citrus Payments
+A
+When to Cancel
+Payment
+The provisions for canceling 1999 CDP payments also applies to canceling
+California Citrus payments.  County Offices shall follow 2-DAP, paragraph 300 to
+determine whether a payment should be canceled through the California Citrus
+payment process or the accounting process.
+Reminder:
+Payments shall not be canceled through the California Citrus
+payment process if the payment has been issued to the producer. 
+This includes situations where:
+&
+CCC-184 has been mailed to the producer
+&
+electronic funds transfer (EFT) has been transmitted to KCFO
+for processing.
+B
+Canceling
+If it is determined that the payment was generated erroneously, and CCC-184 is
+Payables
+Through
+Payment Process
+available in the County Office or EFT has not been transmitted, County
+Offices shall follow the procedure in this table to cancel California Citrus payables.
+Step
+Action
+Result
+1
+Access Menu MHAUN0 according to subparagraph 4 C.
+2
+Menu MHAUN0:
+Screen MHADN007
+&
+ENTER “2”, “Cancel Payables”
+&
+PRESS “Enter”.
+will be displayed.
+3
+Information Screen MHAND007 advises County Offices that payments should not be
+Screen MHADPRT2
+canceled through this process unless the payment is available.  If the payable is
+available, PRESS “Enter” to continue the cancellation process.
+will be displayed.
+4
+Select the printer where reports should be queued.
+Screen MHADNA02
+will be displayed.
+5
+Follow 2-DAP, subparagraph 301 B to complete the payment cancellation process.
+Notice DAP-94
+3-7-01
+Page 9
+6
+Handling Overpayments
+A
+Introduction
+An automated overpayment process is not being developed for the California
+Citrus payment for the following reasons.
+&
+Since payments are based on 1999 CDP applications that were filed before
+February 25, 2000, all application and eligibility data should be loaded properly
+in the system.
+&
+The limited number of applications does not warrant dedication of the
+resources required to automate an overpayment process.
+B
+County Office
+Action
+If it is determined that payments are based on inaccurate application or eligibility
+data, County Offices shall:
+&
+manually determine the overpayment amount of the California Citrus payment
+&
+establish a receivable in CRS according to 67-FI using program code
+“99CITRUS”
+&
+notify the producer of the overpayment and provide appeal rights.
+Reminder:
+County Offices shall not cancel payments already issued to
+producers to create a receivable.  See paragraph 5 for additional
+information on payment cancellations.

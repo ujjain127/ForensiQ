@@ -1,0 +1,950 @@
+PROGRESS ARTICLE
+nature materials | VOL 3 | NOVEMBER 2004 | www.nature.com/naturematerials 
+759
+Quasicrystals as cluster aggregates
+Quasicrystals are solids that exhibit symmetries long thought forbidden in nature. Since their discovery 
+in a rapidly solidiﬁ ed Al–Mn alloy in 1984, the central issue in the ﬁ eld has been to understand why they 
+form. Are they energetically stable compounds or stabilized by entropy? In recent years, major strides 
+have been made in determining atomic structure, largely by direct imaging using advanced electron 
+microscopy. One system is now known to be energetically stabilized, and quasicrystals are therefore 
+ﬁ rmly established as a new physical state of matter. They represent a unique packing of atomic 
+clusters some tens of atoms in size, with substantial localized ﬂ uctuations, referred to as phasons. 
+Understanding phasons may in future allow their unique macroscopic properties to be tailored for 
+useful materials applications.
+EIJI ABE1*, YANFA YAN2 AND 
+STEPHEN J. PENNYCOOK3*
+1National Institute for Materials Science, 1-2-1 Sengen, 
+Tsukuba 305-0047, Japan.
+2National Renewable Energy Laboratory, Golden, Colorado 
+80401, USA.
+3Condensed Matter Sciences Division, Oak Ridge National 
+Laboratory, Oak Ridge, Tennessee 37831, USA.
+*e-mail: abe.eiji@nims.go.jp; pennycooksj@ornl.gov
+Quasicrystals are aperiodic solids that exhibit rotational 
+symmetries incompatible with conventional periodic 
+lattice order, for example, icosahedral symmetry in 
+three dimensions and tenfold symmetry in the plane. 
+The ﬁ rst example1 was obtained as a metastable 
+icosahedral conﬁ guration in a rapidly solidiﬁ ed 
+Al–Mn alloy (Fig. 1a). Soon after this discovery, 
+thermodynamically stable quasicrystals were found 
+in several other alloys2–4. At present both metastable 
+and stable quasicrystalline phases can be formed in 
+a variety of metallic alloys5, and certain stable phases 
+can be grown into a single grain several millimetres 
+(Fig. 1b) or even centimetres in size. It would appear 
+obvious, therefore, that quasicrystals can represent a 
+free-energy minimum state at a given temperature. 
+Such highly perfect quasicrystalline materials exhibit 
+a striking diffraction pattern (see Fig. 2); namely, 
+(i) a large number of diffraction peaks, (ii) peak 
+sharpness comparable to that from nearly perfect 
+crystals such as silicon, and (iii) all peaks are 
+located at their ideal positions, consistent with 
+the quasicrystalline symmetry within the limits of 
+instrumental resolution.
+These diffraction features, in particular the sharp 
+diffraction peaks (represented by delta-functions) 
+that had been believed to be possible only for periodic 
+crystals, can no longer be explained with the model 
+structures discussed in early times. Representative early 
+0.1   m
+µ
+1 mm
+a
+b
+Figure 1 Morphologies 
+of faceted single grains of 
+icosahedral quasicrystals. 
+a, Scanning electron 
+microscope image of 
+icosahedral-symmetry grains 
+formed in a rapidly solidiﬁ ed 
+Al-6at.%Mn alloy (courtesy 
+of An-Pang Tsai, unpublished 
+results). b, Optical micrograph 
+of a large dodecahedral grain 
+of Zn56.8Mg34.6Ho8.7 quasicrystal 
+successfully grown from the 
+melt via a slow-cooling method 
+(courtesy of Ian Fisher & 
+Paul Canﬁ eld63).
+© 2004 Nature Publishing Group
+PROGRESS ARTICLE
+760 
+nature materials | VOL 3 | NOVEMBER 2004 | www.nature.com/naturematerials
+models are an icosahedral glass model6 that assumes 
+only a short-range icosahedral order distributed 
+randomly to form the solid, and the so-called Pauling’s 
+model7 that uses multiply twinned conﬁ gurations 
+of giant cubic crystals to generate a pseudo-ﬁ vefold 
+symmetry pattern. Nowadays we interpret this 
+interesting long-range order as true quasiperiodicity8, 
+which is not a simple periodic arrangement of a unit 
+cell as a normal crystal, but instead is composed of 
+an array of two length-scales as represented by the 
+Fibonacci sequence (Fig. 3). This is a precisely deﬁ ned 
+sequence that is able to generate the delta-function 
+diffraction peaks and account for the experimental 
+observations. In time, this revolutionary discovery 
+led to a redeﬁ nition of the term ‘crystal’ to mean any 
+solid giving essentially discrete diffraction peaks, as 
+declared by the International Union of Crystallography 
+in 1991. Microscopic unit cells that repeat periodically 
+are not necessary any longer for a material to be 
+called a crystal, and within the family of crystals we 
+now distinguish between periodic and aperiodic 
+(incommensurate) solids based on their diffraction 
+features. The term quasicrystal is a short form for 
+‘quasiperiodic crystal’, and never means an imperfect, 
+pseudo-crystal as one might guess from the expression. 
+Rather, quasiperiodicity represents just as rigorous 
+an ordering as periodic order, even though in many 
+systems the rules for deﬁ ning the ordering remain to 
+be discovered9. In any case, it is important to recognize 
+that quasicrystals indeed represent a well-ordered 
+condensed state of matter that has been generally 
+accepted as a new form of solid; a third phase following 
+the classical crystalline (periodic) 
+and amorphous (random) solids.
+“Where are the atoms?” This has been the 
+fundamental key question since it was used as the 
+title of an early article10. It is important from the 
+perspective of basic physics, but also if the unique 
+physical properties of quasicrystals are ever to be 
+understood and controlled to provide new materials 
+with useful properties, as has long been the case with 
+crystalline and amorphous materials. We describe 
+quasicrystal structure based on a quasiperiodic lattice 
+(quasilattice), which is constructed by a set of two or 
+more unit cells, and a proper atomic decoration of it. 
+Diffraction intensity calculations of any quasicrystal 
+model structures are carried out in the framework 
+of hyperspace crystallography11,12, a mathematical 
+recipe that treats a quasicrystal as a periodic 
+structure embedded in a hyperspace (for example, 
+a cubic lattice deﬁ ned in six dimensions generates 
+the icosahedral quasilattice in three dimensions; 
+an example of generation of a one-dimensional 
+quasiperiodic order from a two-dimensional square 
+lattice is shown in Fig. 3). As an effective guide for 
+local atomic decorations, though Pauling’s model7 
+was found to be invalid, the giant cubic crystals he 
+used have signiﬁ cant implications. One commonly 
+ﬁ nds multiple-shell icosahededral atomic clusters 
+in many of the giant crystals (Fig. 4) that occur near 
+to compositions known to form quasicrystals13–15, 
+prompting the idea that these clusters are also the 
+building blocks of quasicrystal structures. In this 
+sense, quasicrystals can be viewed as the consequence 
+of linking the basic clusters in a quasiperiodic way 
+— a quasicrystalline cluster aggregate16. This concept 
+is supported by hyperspace crystallography that 
+clearly correlates such cubic crystals as a variant 
+structure of quasicrystals13.
+But, unlike the structure determination of crystals, 
+in the case of quasicrystals a unique structural 
+solution cannot be easily obtained solely based on 
+the standard X-ray diffraction experiments. This is 
+due to the local isomorphic nature of a quasilattice8. 
+To illustrate this feature of a quasicrystal, consider 
+the one-dimensional quasiperiodic lattice in Fig. 3; 
+several quasiperiodic arrangements of S and L can 
+be generated when the square lattice is uniformly 
+translated along the E⊥ direction, and they are locally 
+isomorphic to the original. Each gives rise to identical 
+diffraction intensity distributions17. That is, multiple 
+structural solutions — arrangements of clusters 
+— intrinsically occur from the diffraction data. 
+Atomic-resolution electron microscope images are 
+unique in this regard, as they directly represent the 
+local atomic structure and can therefore investigate 
+details of the cluster packing and relevant local 
+atomic conﬁ gurations. Electron diffraction is also 
+available to probe the average features seen in an 
+image, in a comparable manner to X-ray diffraction. 
+The picture that is emerging from these studies 
+supports the picture of a quasicrystal as a cluster 
+aggregate: a quasilattice successfully decorated by 
+atomic clusters that have the same point symmetry 
+of the quasicrystals.
+Nevertheless, there is still signiﬁ cant information 
+lacking concerning the local packing of the clusters. 
+In real quasicrystalline material, are the clusters always 
+placed at the ideal quasiperiodic positions? What types 
+of characteristic disorder (defects) do they possess? 
+These local structure issues are especially important 
+for quasicrystals, because they have direct inﬂ uence 
+on physical properties such as conductivity, and also 
+on their thermodynamic stability, which in turn is 
+important for understanding why quasicrystals form. 
+Yet these issues have not been clariﬁ ed sufﬁ ciently 
+because of experimental limitations of standard X-ray 
+techniques and conventional high-resolution electron 
+microscopy. Below we describe some recent insights 
+made into these critical issues, which have been 
+Figure 2 Electron diffraction 
+patterns taken along the 
+tenfold symmetry axis of 
+the Al72Ni20Co8 decagonal 
+quasicrystal, one of the best 
+quasiperiodic ordered materials 
+available today.
+© 2004 Nature Publishing Group
+ PROGRESS ARTICLE
+nature materials | VOL 3 | NOVEMBER 2004 | www.nature.com/naturematerials 
+761
+provided through direct structural observations by 
+advanced transmission electron microscopy.
+CLUSTER PACKING AND STABILTY OF QUASICRYSTALS
+Decagonal quasicrystals18 are the planar realization of 
+a quasiperiodic order, whose structure is described 
+as a periodic stack of quasiperiodic layers and is 
+composed of decagonal columnar clusters as a 
+building unit. Because of their two-dimensional 
+character, quasiperiodic planar arrangements of atoms 
+can be directly addressed through high-resolution 
+electron microscope observations viewing along the 
+tenfold-symmetry axis. Individual decagonal clusters 
+appear as decagons in the projected images, so that 
+their packing, or tiling, may be directly observed19. 
+(Note that for icosahedral quasicrystals, the atomic 
+images are the projections of three-dimensional 
+quasiperiodic structures so that individual icosahedral 
+clusters cannot be distinguished; see ref. 20, for 
+example). Previous observations, mostly made on 
+Al–transition metal decagonal alloys, provided 
+evidence that their structures are quasiperiodic 
+arrangements of the decagonal tiles. All models 
+assumed either tenfold or ﬁ vefold symmetric atomic 
+conﬁ gurations within the clusters; typical and well-
+known examples are the large decagonal clusters with 
+a diameter of 2 nm, commonly found in Al-Ni-Co, 
+Al-Cu-Co and Al-Pd-Mn decagonal alloys19,21,22. 
+These cluster symmetries, in particular the tenfold 
+rotation axis, originated not from conﬁ dent 
+experimental evidence, but rather from the notion 
+that the symmetry of every component cluster 
+should directly reﬂ ect the entire symmetry seen 
+in the diffraction pattern, in other words, that the 
+microscopic and macroscopic symmetry should be 
+the same, similar to the unit cell concept for a regular 
+crystal. Hence there still remained ambiguities in terms 
+of detailed atomic distributions within the clusters.
+Some decagonal quasicrystalline samples were 
+found to have a cluster arrangement similar to a 
+Penrose pattern23, a planar tiling composed of two 
+different tiles with matching rules. The matching 
+rule is a strict mathematical rule that forces the tiles 
+to join uniquely into a perfect quasiperiodic pattern; 
+however, such a rule is purely mathematical and does 
+not provide any physical insight on why the atoms 
+should favour such a complicated structure. It cannot 
+explain how quasicrystals arise as a minimum free-
+energy state against competing periodic crystals. 
+As an alternative to the two-tile Penrose tiling (or 
+its subset tiling composed of multiple shapes of 
+tiles), Burkov24 described the quasiperiodic pattern 
+in a broader sense that discards the matching rule, 
+describing the model structure of Al-Cu-Co as a 
+random packing of decagon clusters having tenfold 
+symmetry. The clusters are allowed to overlap with 
+their neighbours, in the sense that they partially share 
+atoms with neighbouring clusters. In random packing, 
+there are no rules that force the clusters into a unique 
+arrangement, and hence many possible conﬁ gurations 
+appear due to a large degree of freedom on how to 
+join or overlap the neighbour decagons — many 
+degenerate ways of packing are an unavoidable 
+consequence of this model. This idea, in turn, suggests 
+that conﬁ gurational entropy might be an important 
+factor causing quasicrystals to be more stable than 
+crystals. The so-called random tiling model would 
+give signiﬁ cant contributions of conﬁ gurational 
+entropy25, and seems to be consistent with the fact that 
+the stable quasicrystalline phases discovered so far 
+occur only at high temperatures5, and most transform 
+into periodic structures at lower temperatures. 
+In the random-packing picture, resultant structures 
+should appear to have a considerable amount of 
+chemical disorder — most atomic sites are mixed 
+with constituent atoms. Atomic disorder is, of course, 
+another contribution to conﬁ gurational entropy26.
+More recently, however, a striking feature of 
+cluster packing has become apparent through 
+investigations of a decagonal Al72Ni20Co8 (so-called 
+Ni-rich Al-Ni-Co phase5,27). This material exhibits 
+the highest quasicrystalline structural perfection 
+available today, as conﬁ rmed from microscopic26 to 
+macroscopic scales28, and therefore is an excellent 
+candidate to investigate the intrinsic features of a 
+quasiperiodic structure. The insights have come 
+from the use of Z-contrast scanning transmission 
+electron microscopy29,30, an alternative to classical 
+high-resolution phase-contrast transmission electron 
+microscopy (see Box 1); the ﬁ rst application of the 
+technique to the quasicrystal31–33 provided immediate 
+insights into the veiled structural details. The ﬁ rst 
+signiﬁ cant breakthrough to emerge is a breaking of 
+the tenfold symmetry within the 2 nm decagonal 
+cluster, see Fig. 5a. The brightest spots in the Z-
+contrast image represent atomic columns of Ni or 
+Co (Ni and Co are neighbouring elements in the 
+periodic table and are not distinguishable). In the 
+cluster centre they are clearly not arranged in a tenfold 
+form, but appear to show only mirror symmetry. 
+Moreover, such local broken symmetries in every 
+decagon are found to be not in random orientations 
+but in accord with a perfect quaisperiodic pattern33. 
+The pattern can be well represented by the novel 
+form of decagon packing proposed by Gummelt34 
+L
+L
+S
+S
+S
+L
+L
+L
+L
+L
+S
+L
+⊥
+E
+E
+||
+Figure 3 Generation of 1D 
+quasiperiodic order from a 2D 
+square lattice. The slope of 
+the square lattice with respect 
+to the E// direction is –1/τ, 
+where τ is an irrational number 
+(= (1+√5)/2) known as the 
+golden mean. By projecting 
+the 2D lattice points (open 
+circles) contained within an 
+acceptance window bound 
+by the red lines along the E⊥ 
+direction, a 1D quasiperiodic 
+lattice (ﬁ lled circles) is obtained 
+along the E// direction. This 
+is a Fibonacci sequence of 
+the two length-scales L and 
+S. Translation of the lattice 
+along E// corresponds to spatial 
+translation of the quasicrystal, 
+distortion along E// corresponds 
+to a phonon. Translation along 
+the E⊥ direction causes some 
+external lattice points to move 
+into the acceptance window 
+and some of the original points 
+to move outside the window. 
+As an example, if the blue 
+lattice point comes into the 
+window a new local sequence 
+LSL (blue) is generated instead 
+of the original LLS sequence. 
+This is a phason ﬂ ip, a special 
+kind of diffusive motion that 
+is speciﬁ c to a quasicrystal; 
+details are described in the text.
+© 2004 Nature Publishing Group
+PROGRESS ARTICLE
+762 
+nature materials | VOL 3 | NOVEMBER 2004 | www.nature.com/naturematerials
+This technique provides atomic-resolution images by effectively illuminating each atomic column one-by-one as a finely 
+focused electron probe (< ~2 Å) scans across the specimen, generating an intensity map at the annular detector (Fig. B1). 
+The atomic images may, to a good approximation, be interpreted assuming independent scattering from individual 
+atomic columns, and hence the observed intensity distribution (I(R)) can be simply described by a convolution between 
+a probe-intensity function (P(R)) and a scattering object function (O(R)) (the mathematical definition of incoherent 
+imaging30);
+ 
+I (R) = O(R) ⊗ P (R)   
+ 
+ 
+ 
+(1)
+Here, O(R) represents the columnar scattering cross-section that contributes to the annular detector. By detecting high-
+angle scattering (s > ~1Å–1), the intensity at the detector is dominated by phonon scattering events; that is, thermal diffuse 
+scattering (TDS). An Einstein model of independently vibrating atoms is usually sufficient to describe the multiphonon 
+contribution that dominates high-angle diffuse scattering and to estimate the integrated intensity reaching the detector. 
+Therefore, the intensity of each illuminated atomic column will be directly related to the TDS cross-section (σTDS), which 
+is given by integrating an absorptive form factor65 (f΄HA (M,s)) over the angular range of the detector30:
+ 
+f΄HA(M,s) ≈ σTDS ∝ ∫detector f 2(s)[1–exp(–2Ms2)]d2s 
+ 
+(2)
+where the f(s) is the atomic form factor for elastic scatterings (with s = θ/2λ, θ is a scattering angle, λ is the electron 
+wave-length) and M is the Debye–Waller factor defined by mean-square thermal vibration amplitude of the atoms. 
+Because σTDS is proportional to the square of f(s) (equation (2)), ADF-STEM provides a significant atomic-number-
+dependent contrast29 (Z-contrast). Furthermore, σTDS is a function of M (see the upper-right hand side of Fig. B1), and 
+hence the ADF-contrast is also sensitive to the Debye–Waller factors54 at individual atomic sites (columns).
+Box 1: Annular-dark-field scanning transmission electron microscopy 
+(ADF-STEM).
+Convergent electron beam
+Scanning
+Intensity (arb.units)
+Angular distributions of
+thermal diffuse scattering
+M
+1.0
+2.0
+0
+s (   –1)
+Å
+M = 0 0.25 0.5
+1.0
+1.5
+Annular detector
+Intensity mapping
+ at  the detector
+~1.4 Å
+Figure B1 Schematic drawing of atomic-resolution ADF-STEM. The resolution is primarily determined by the size of the convergent 
+electron beam. The intensity of electrons reaching the annular detector (f΄HA (M,s), given in equation (2)) is dominated by TDS, and 
+depends strongly on Z. The angular distribution depends on the M values; M-dependent changes of f΄HA (M,s)65 are shown for an 
+aluminium atom.
+© 2004 Nature Publishing Group
+ PROGRESS ARTICLE
+nature materials | VOL 3 | NOVEMBER 2004 | www.nature.com/naturematerials 
+763
+(Fig. 5b). In Gummelt’s construction plan, decagons 
+are not tenfold symmetric, and they overlap with 
+their neighbours according to the well-deﬁ ned 
+rule (overlap rule) that is equivalent to the Penrose 
+matching rule, and forces the decagons into a perfect 
+quasiperiodic arrangement.
+This remarkable mathematical proof at last 
+has led to a physically plausible picture for the 
+origin of quasicrystals. A subsequent but important 
+proof by Steinhardt and Jeong35 has shown that the 
+overlap rule realizes the condition that the density 
+of the decagons is maximized. Suppose the atomic 
+conﬁ guration within a decagon, that is, the atomic 
+cluster in the form of Gummelt’s decagon33,36, is 
+energetically favoured. Then, quasicrystals occur as a 
+consequence of simple energetics, following ‘density 
+maximization of energy minimized clusters’. 
+The fact that the Al72Ni20Co8 structure appears to 
+be the realization of a unique packing of symmetry-
+breaking clusters (Gummelt’s decagon) therefore 
+suggests that the phase is dominantly stabilized by 
+energy; if there were signiﬁ cant entropy contributions, 
+a considerable amount of random structural disorder 
+or deviations from an ideal tiling would be observed. 
+Symmetry-breaking atomic decorations on the 2 nm 
+decagonal cluster of the Al72Ni20Co8 in fact provide a 
+remarkably better ﬁ t to electron microscope images on 
+some details, such as triangular arrangements of 
+Al atoms36 around the cluster centre and closely spaced 
+(~0.13 nm) pairs of transition metal atoms32, which did 
+not exist in any previous tenfold symmetric models.
+Strong supporting evidence on the cluster 
+stability comes from a ﬁ rst-principles total energy 
+calculation37,38, which demonstrates that the symmetry-
+breaking cluster is energetically more favoured than 
+any symmetric-based models. Shown in Fig. 5c are 
+three representative cluster models37 for three different 
+symmetries; mirror symmetry, ﬁ vefold rotation 
+symmetry and tenfold rotation symmetry (in the 
+calculations, Ni atoms were used for all transition 
+metal atoms). Note that the three structures in the 
+calculations have the same unit-cell dimension and 
+the same number of each atom species, so that their 
+total energies can be directly compared. We ﬁ nd 
+that the structure with broken symmetry, the mirror 
+symmetry, has the lowest energy, about 12 eV per unit 
+cell lower than the structure with tenfold symmetry, 
+and 5 eV per unit cell lower than the structure with 
+ﬁ vefold symmetry. This is clear evidence that the 
+symmetry-breaking cluster is energetically more 
+favoured than any symmetric cluster. Remember that 
+most of the decagons identiﬁ ed in Fig. 5a reveal the 
+symmetry-breaking feature; the broken symmetry 
+provides an atomistic explanation for Gummelt’s 
+overlap rule and gives insight at a fundamental level 
+into why these decagonal clusters would form a 
+perfect quasiperiodic arrangement, even though the 
+detailed atomic conﬁ gurations in each cluster slightly 
+differ depending on their local environments36.
+Al72Ni20Co8 has turned out to be a quasiperiodic 
+intermetallic compound with nearly perfect 
+atomic order — it is deﬁ nitely not comparable to 
+order–disorder type alloys, which take the form of 
+a disordered solid solution at high temperature to 
+account for signiﬁ cant entropy contributions. 
+Good chemical order between the Al and transition 
+metal, directly observed in the Z-contrast images, 
+seems to be consistent with the fact that the 
+present highly perfect Al-Ni-Co structure occurs 
+only for a narrow composition range, within a 
+few atomic percent for both the Al and transition 
+metal contents39. If the structure could tolerate a 
+considerable amount of chemical disorder, essential 
+for a random-packing model, then the single-phase 
+region would extend to a much wider composition 
+range at high temperatures — this is evidently not 
+the case. In this sense, the Al72Ni20Co8 compound is 
+close to its ideal stoichiometry, being tuned in favour 
+of structural energy. This may well be explained by 
+optimized average valence electron concentration 
+per atom (e/a)5, which is known as Hume–Rothery’s 
+empirical rule40 that concerns structural stability of 
+ordered alloys in terms of Brillouin-zone/Fermi-
+surface interactions. When the composition deviates 
+from the ideal stoichiometry, Al-Ni-Co alloys form 
+several types of less-ordered quasicrystalline phases5,41 
+with diffraction patterns that show a strong diffuse 
+background and broadened Bragg peaks — direct 
+signs of signiﬁ cant disorder. For such disordered 
+quasicrystals, their average structures may be 
+well described by random packing of clusters20. 
+The apparent high symmetry of these patterns is 
+then a result of averaging over the local random 
+disorder. Structural variations of the basic cluster 
+(at some conditions, ﬁ vefold symmetric decagonal 
+clusters occur for the decagonal Al-Ni-Co alloys42) 
+will then simply depend on the alloy composition and 
+annealing temperature, in the same way as ordinary 
+crystalline alloys behave, and can be depicted through 
+equilibrium phase diagrams. Nevertheless, we now 
+Multiple-shell icosahedral atomic cluster
++
++
+Figure 4 Atomic conﬁ gurations 
+commonly found in Cd6X 
+intermetallic compounds. 
+X = Ca, Sr, Y and most of 
+the rare-earth elements. 
+The structure is a typical 
+example of a giant cubic crystal 
+constructed by a body-centred-
+cubic type packing of large 
+icosahedral atomic clusters. 
+These clusters are believed to 
+be a building block of Cd5.7X 
+(X = Ca and Yb) icosahedral 
+quasicrystal structures64.
+© 2004 Nature Publishing Group
+PROGRESS ARTICLE
+764 
+nature materials | VOL 3 | NOVEMBER 2004 | www.nature.com/naturematerials
+see that the best quasicrystalline sample appears to be 
+a highly ordered intermetallic compound with only 
+a minimal amount of disorder on the atomic scale, 
+within the resolution limit of the STEM imaging 
+~0.1 nm. The fundamental reason for the existence of 
+such well-ordered quasicrystals is that their structure 
+is energetically favoured. Only rarely do practical 
+experimental conditions allow the perfect structure to 
+be realized, and therefore most quasicrystalline phases 
+do not reach that degree of perfection. The situation 
+seems to be quite analogous to that of normal crystals; 
+that is, highly perfect, almost defect-free single crystals 
+can only be grown for a limited range of materials 
+under carefully controlled conditions.
+LOCALIZED BEHAVIOUR IN CLUSTER COMPOUNDS
+Clusters outlined by high-symmetry polyhedra are a 
+good representation of short-range atomic order in 
+quasicrystals, and are also found in some crystalline 
+compounds with giant unit cells. In this section, 
+we brieﬂ y describe how these clusters not only 
+provide effective motifs to represent the geometrical 
+substructure of quasicrystals or giant crystals, but they 
+also deﬁ ne the length scales of characteristic localized 
+ﬂ uctuations, which in turn have a critical effect on the 
+conduction properties. In the case of quasicrystals, 
+these localized ﬂ uctuations may be described in terms 
+of phason43–45 ﬂ uctuations speciﬁ c to quasiperiodic 
+order, as will be demonstrated below. But the 
+concept of a localized ﬂ uctuation has a more general 
+importance to a broad class of structurally complex 
+systems, in which the cluster substructure essentially 
+dominates their major physical properties46.
+Even though the best quasicrystalline materials 
+show delta-function-like diffraction peaks, sharp 
+enough to compare with the best crystals, we may 
+still expect substantial diffuse scattering to originate 
+from phason-related ﬂ uctuations or disorders47–50. 
+Here, a phason43–45 is a unique elastic degree of 
+freedom that arises as a consequence of deﬁ ning 
+the quasicrystal through an n-dimensional 
+hyperspace lattice (n > 4); see Fig. 3. Suppose that the 
+square lattice (hypercrystal) is elastically excited to 
+give a non-uniform translation of the lattice points. 
+Along the E// direction it corresponds to phonons as 
+in the normal crystals, whereas along the E⊥ direction 
+it gives rise to an extra degree of freedom, phasons, 
+that occur only for quasiperiodic structures. Locally, 
+phason excitations may turn out to switch S and L at 
+some places, which, in the example illustrated in 
+Fig. 3, ﬂ ips a sequence LLS into the sequence LSL. 
+In the real quasicrystal structure, primary phason 
+effects are often manifested as ﬂ uctuations or 
+occupational disorders at pairs of atomic sites that are 
+separated by less than a typical interatomic distance51. 
+These closely spaced sites are termed phason-ﬂ ip sites, 
+where, due to simple geometrical constraints, one site 
+should be vacant when the other is occupied; the atom 
+may be hopping51 between them. Therefore, within 
+this context, the lattice dynamics of quasicrystals can 
+be described by a combination of lattice vibrations 
+(phonons) and atomic ﬂ uctuations or jumps 
+(phasons). When these local atomic ﬂ uctuations show 
+long-range correlations, phason dynamics modes 
+may be characterized by long wavelengths of the 
+order of ~100 nm (ref. 52) and slow relaxation times, 
+several tens of seconds52,53 due to the diffusive nature 
+of a phason excitation44. Here we describe only local 
+behaviour. Atomic ﬂ uctuations at such local phason-
+ﬂ ip sites do not destroy the long-range quasiperiodic 
+order, but instead give rise to signiﬁ cant diffuse 
+scattering in the same manner as thermal vibrations50.
+Thermal diffuse scattering (TDS) is described 
+by the mean-square thermal vibration amplitude of 
+the atom (Debye–Waller factor), see equation (2) in 
+Box 1. Having in mind that the high-angle annular 
+detector mainly captures TDS30, annular-dark-ﬁ eld 
+scanning transmission electron microscopy (ADF-
+STEM) is able to detect any local thermal vibration 
+anomaly through investigations of the image intensity 
+with variations in temperature and/or detector angle 
+range54. For the highly perfect decagonal Al72Ni20Co8, 
+signiﬁ cant local ﬂ uctuations are in fact observed as 
+an anomalously large Debye–Waller factor at speciﬁ c 
+Al sites. The anomalous sites are located around 
+the core of the 2 nm decagonal clusters and can be 
+represented by a pentagonal quasiperiodic tiling 
+with an edge length of 2 nm (Fig. 5d)54 — the same 
+length scale as that of the basic cluster. These localized 
+ﬂ uctuations can be reasonably interpreted as phason 
+ﬂ uctuations54; that is, the observed Al sites are the 
+most likely to ﬂ uctuate due to their phason degree of 
+freedom, predicted by the hyperspace description55,56 
+of the decagonal Al72Ni20Co8 structure. Though it is 
+beyond the capability of STEM experiments, further 
+investigations on correlated motion of these Al atoms 
+may be an important key to understand the phason 
+dynamics modes truly typical of quasiperiodic order. 
+Preliminary X-ray diffraction studies on the same 
+Al72Ni20Co8 have conﬁ rmed signiﬁ cant attenuation 
+of Bragg intensities at high temperature, a direct sign 
+of an anomalously large Debye–Waller factor that 
+goes on even at a macroscopic scale57.
+Apart from the phason-related ﬂ uctuations 
+described above, similar localized atomic behaviour 
+is also found in some crystalline metallic solids such 
+as skutterudite58 or clathrate59 compounds, which are 
+well known candidates as thermoelectric materials. 
+Low thermal conductivities combined with reasonably 
+good metallic electric conductivities are necessary 
+demands to obtain better thermoelectric properties. 
+In the above compounds, it is known that there 
+indeed exist localized, anharmonic vibrational 
+modes58, which are attributed to the ‘rattling’ 
+behaviour59 of atoms that are weakly bound and 
+located within the core of open-structured atomic 
+cages (namely, the atomic polyhedra such as 
+represented in Fig. 4). The rattling behaviour is 
+believed to be responsible for the drastic reduction of 
+thermal conductivity in these materials, by providing 
+local scattering points that effectively suppress 
+long-range phonon propagation. A similar effect 
+occurs with the phasonic atomic ﬂ uctuations in the 
+quasicrystalline compounds. In fact, some of the 
+Al-transition metal quasicrystals and related giant 
+crystals composed of the large clusters (~2 nm) show 
+conducting properties that make them attractive 
+as thermoelectric materials60,61, although their 
+performance is still not beyond those of the 
+© 2004 Nature Publishing Group
+ PROGRESS ARTICLE
+nature materials | VOL 3 | NOVEMBER 2004 | www.nature.com/naturematerials 
+765
+existing materials. Within the multiple-shell clusters 
+in quasicrystalline and related crystalline compounds, 
+the outer atomic shells are rather robust, but the 
+atomic conﬁ gurations around the core may easily 
+show structural frustration: many possible sites with 
+only a fraction that can be occupied causes signiﬁ cant 
+ﬂ uctuation or disorder. A good example of this 
+description can be found in the Cd-rare-earth giant 
+cubic compounds, in which only the core atoms in 
+the icosahedral clusters are arranged in a signiﬁ cantly 
+disordered manner62. An important and encouraging 
+implication of this cluster-based notion is that we 
+may be able to tune the balance between electrical 
+and thermal conductivities if we can control localized 
+ﬂ uctuations, perhaps by designing new cluster 
+structures in either quasiperiodic or periodic forms.
+In a general sense, we expect localization 
+phenomena in solids at any disordered or defected 
+area. For the simple close-packed metallic solids such 
+as face-centred-cubic or hexagonal-close-packed 
+structures, occurrence of such structural disorder 
+is basically random, even if the defect density is 
+artiﬁ cially enhanced by some processing method. 
+The most exciting and potentially useful aspect of 
+2 nm
+2 nm
+b
+a
+c
+d
+Mirror symmetry
+Tenfold rotation symmetry
+Fivefold rotation symmetry
+2 nm
+Figure 5 Atomic-resolution 
+ADF-STEM images of 
+decagonal Al72Ni20Co8 with 
+cluster models. a, A decagonal 
+cluster with a diameter 
+of about 2 nm (ref. 32). 
+Tenfold-symmetry-breaking 
+arrangements of the bright 
+spots are in good accordance 
+with Gummelt’s prototype 
+decagon (blue). b, Superposing 
+the decagon covering pattern 
+over the image33. c, Structural 
+models of the decagonal 
+cluster for three different 
+symmetries37. Red spheres 
+indicate Al atoms, blue spheres 
+indicate transition metal atoms. 
+d, Signiﬁ cant ADF-contrast 
+due to a local anomaly of the 
+Debye–Waller factor emerges 
+around the core of the clusters 
+(red), during in situ high-
+temperature observation at 
+1,100 K (ref. 54). Occurrence 
+of such localized ﬂ uctuations 
+can be well represented by the 
+pentagonal quasiperiodic tiling 
+(yellow) with an edge length 
+of 2 nm.
+© 2004 Nature Publishing Group
+PROGRESS ARTICLE
+766 
+nature materials | VOL 3 | NOVEMBER 2004 | www.nature.com/naturematerials
+complex metallic structures46, including quasicrystals 
+and giant unit-cell crystals, is that localized 
+ﬂ uctuations or disorder is intrinsically involved in the 
+structure in many cases. These localized sites can be 
+reasonably represented by the cluster substructure. 
+Although there is no available example at the 
+moment, the effective use of such a dense, three-
+dimensional ‘ordered’ array of disordered parts in the 
+structure, may in the future lead to the development 
+of new functional compounds. For example, such sites 
+could be used as a template to substitute additional 
+atoms not originally part of the crystal or quasicrystal 
+structure, and impart new electrical, thermal or 
+magnetic properties.
+SUMMARY
+The discovery of quasicrystals has provided a 
+paradigm shift in solid-state physics because it had 
+long been assumed, though never strictly proven, that 
+the best and most stable long-range order should be 
+realized in the form of a periodic solid constructed by 
+regularly repeating unit cells. Quasicrystals are now 
+established as a second well-ordered form of solids, 
+and in fact the best quasicrystalline materials available 
+today possess a highly perfect long-range order that 
+is comparable with the best available crystalline 
+materials, if ‘order’ is judged by the sharpness of 
+their diffraction peaks. Although quasicrystals 
+cannot be deﬁ ned as packing of identical unit cells, 
+their structures can be effectively viewed in terms 
+of packing of clusters, and their ideal state may be 
+described as a unique way of packing by overlapping 
+clusters that realizes the most stable, energetically 
+favoured atomic conﬁ gurations. The clusters are also 
+found to deﬁ ne the length scales of the characteristic 
+localized ﬂ uctuations in quasicrystals, explaining the 
+origin of the substantial diffuse scattering that exists 
+even for the best quasicrystalline materials, 
+and providing a critical inﬂ uence on long-range 
+thermal and electrical conduction properties. 
+This cluster-based concept can also be invoked to 
+describe crystalline intermetallic phases with giant 
+unit cells, which frequently occur at compositions near 
+to those where quasicrystals form. Like quasicrystals, 
+these giant unit-cell crystals also show many unusual 
+properties, and represent a natural extension for 
+research into cluster-based compounds, whether 
+periodic or quasiperiodic, with the potential for the 
+discovery of new properties and new applications to 
+materials. We may even see a whole new ﬁ eld emerge: 
+cluster-engineered materials.
+doi:10.1038/nmat1244
+References
+1. Shechtman, D., Blech, I., Gratias, D. & Cahn, J. W. Metalic phase with long-
+range orientational order and no translational symmetry. Phys. Rev. Lett. 53, 
+1951–1953 (1984).
+2. Dubost, B., Lang, J.-M., Tanaka, M., Sainfort, P. & Audier, M. Large AlCuLi 
+single quasicrystals with triacontahedral solidiﬁ cation morphology. Nature 
+324, 48–50 (1986).
+3. Tsai, A. P., Inoue, A. & Masumoto, T. A stable quasicrystal in Al-Cu-Fe system. 
+Jpn J. Appl. Phys. 26, L1505–L1507 (1987).
+4. Ohashi, W. & Spaepen, F. Stable Ga-Mg-Zn quasi-periodic crystals with 
+pentagonal dodecahedral solidiﬁ cation morphology. Nature 330, 555–556 
+(1987).
+5. Tsai, A. P. in Physical Properties of Quasicrystals (ed. Stadnik, Z. M.) 5–50 
+(Springer, 1999).
+6. Stephens, P. W. & Goldman, A. I. Sharp diffraction maxima from an icosahedral 
+glass. Phys. Rev. Lett. 56, 1168–1171 (1986); ibid 57, 2331 (1986).
+7. Pauling, L. Apparent icosahedral symmetry is due to directed multiple twinning 
+of cubic crystals. Nature 317, 512–514 (1986); ibid So-called icosahedral and 
+decagonal quasicrystals are twins of an 820-atom cubic crystal. Phys. Rev. Lett. 
+58, 365–368 (1987).
+8. Levine, D. & Steinhardt, P. J. Quasicrystals: A new class of ordered structures. 
+Phys. Rev. Lett. 53, 2477–2480 (1984).
+9. Desiraju, G. R. In search of clarity. Nature 423, 485 (2003).
+10. Bak, P. Icosahedral crystals: Where are the atoms? Phys. Rev. Lett. 56, 861–864 
+(1986).
+11. Janssen, T. Crystallography of quasi-crystals. Acta Crystallogr. A 42, 261–271 
+(1986).
+12. Yamamoto, A. Crystallography of quasiperiodic crystals. Acta Crystallogr. A 52, 
+509–560 (1996).
+13. Elser, V. & Henley, C. L. Crystal and quasicrystal structures in Al-Mn-Si alloys. 
+Phys. Rev. Lett. 55, 2883–2886 (1985).
+14. Audier, M. et al. Structural relationships in intermetallic compounds of the 
+Al-Li-(Cu, Mg, Zn) system. Phil. Mag. B 60, 437–466 (1989).
+15. Hiraga, K., Sugiyama, K. & Ohsuna, T. Atomic cluster arrangements in cubic 
+approximant phases of icosahedral quasicrystals. Phil. Mag. A 78, 1051–1064 
+(1998).
+16. Janot, C. & de Boissieu, M. Quasicrystals as a hierarchy of clusters. Phys. Rev. 
+Lett. 72, 1674–1677 (1994).
+17. Ishihara, K. N. & Yamamoto, A. Penrose patterns and related structures. I. 
+Superstructure and generalized Penrose patterns. Acta Crystallogr. A 44, 
+508–516 (1988).
+18. Bendersky, L. Quasicrystal with one-dimensional translational symmetry and 
+a tenfold rotation axis. Phys. Rev. Lett. 55, 1461–1463 (1985).
+19. Hiraga, K. in Advances in Imaging and Electron Physics (ed. Hawks P. W.) 37–98 
+(Academic, London, 1998).
+20. Abe, E., Takakura, H. & Tsai, A. P. Ho arrangement in the Zn6Mg3Ho 
+icosahedral quasicrystal studied by atomic-resolution Z-contrast STEM. 
+J. Electron Microsc. 50, 187–195 (2001).
+21. Beeli, C. & Horiuchi, S. The structure and its reconstruction in the decagonal 
+Al70Mn17Pd13 quasicrystal. Phil. Mag. B 70, 215–240 (1994).
+22. Tsuda, K. et al. Structure of Al-Ni-Co decagonal quasicrystals. Phil. Mag. A 74, 
+697–708 (1996).
+23. Penrose, R. The role of aesthetics in pure and applied mathematical reserach. 
+Bull. Inst. Math. Applic. 10, 266–271 (1974).
+24. Burkov, S. Structure model of the Al-Cu-Co decagonal quasicrystal. Phys. 
+Rev. Lett. 67, 614–617 (1991); ibid Modeling decagonal quasicrystals: random 
+assembly of interpenetrating decagonal clusters. J. Phys. 2, 695–706 (1992).
+25. Henley, C. L. in Quasicrystals: The State of the Art (eds DiVincenzo, D. & 
+Steinhardt, P. J.) 429–524 (World Scientiﬁ c, Singapore, 1991).
+26. Joseph, D., Ritsch, S. & Beeli, C. Distinguishing quasiperiodic from random 
+order in high-resolution TEM images. Phys. Rev. B 55, 8175–8183 (1997).
+27. Ritsch, S. et al. Highly perfect decagonal Al-Co-Ni quasicrystal. Phil. Mag. Lett. 
+74, 99–106 (1996).
+28. Abe, H. et al. Atomic short-range order in an Al72Ni20Co8 decagonal 
+quasicrystal by anomalous X-ray scattering. Jpn J. Appl. Phys. 39, L1111–L1114 
+(2000).
+29. Pennycook, S. J. & Boatner, L. A. Chemically sensitive structure imaging with a 
+scanning transmission electron microscope. Nature 336, 565–567 (1988).
+30. Pennycook, S. J. & Jesson, D. E. High-resolution Z-contrast imaging of crystals. 
+Ultramicroscopy 37, 14–38 (1991); ibid High-resolution incoherent imaging of 
+crystals. Phys. Rev. Lett. 64, 938–941 (1990).
+31. Saitoh, K. et al. Structural study of an Al72Ni20Co8 decagonal quasicrystal using 
+the high-angle annular dark-ﬁ eld method. Jpn J. Appl. Phys. 36, L1400–1402 
+(1997).
+32. Yan, Y., Pennycook, S. J. & Tsai, A. P. Direct imaging of local chemical disorder 
+and columnar vacancies in ideal decagonal Al-Ni-Co quasicrystals. Phys. Rev. 
+Lett. 81, 5145–5148 (1998).
+33. Steinhardt, P. J. et al. Experimental veriﬁ cation of the quasi-unit-cell model 
+of quasicrystal structure. Nature 396, 55–57 (1998); correction Nature 399, 
+84 (1999).
+34. Gummelt, P. Construction of Penrose tilings by a single aperiodic protoset. 
+Geometriae Dedicata 62, 1–17 (1996).
+35. Steinhardt, P. J. & Jeong, H.-C. A simpler approach to Penrose tiling with 
+implications for quasicrystal formation. Nature 382, 433–435 (1996).
+36. Abe, E. et al. Quasi-unit cell model for an Al-Ni-Co ideal quasicrystal based on 
+clusters with broken tenfold symmetry. Phys. Rev. Lett. 84, 4609–4612 (2000).
+37. Yan, Y. & Pennycook, S. J. Chemical ordering in Al72Ni20Co8 decagonal 
+quasicrystals. Phys. Rev. Lett. 86, 1542–1545 (2001).
+38. Mihalkovic, M. et al. Total-energy-based prediction of a quasicrystal structure. 
+Phys. Rev. B 65, 104205 (2002).
+39. Goedecke, T. et al. Isothermal sections of phase equilibria in the Al-AlCo-AlNi 
+system. Z. Metallkd. 89, 687–698 (1998).
+40. Hume-Rothery, W. Researches on the nature, properties, and conditions 
+of formation of intermetallic compounds, with special reference to certain 
+compounds of tin.-I.-V. J. Inst. Met. 36, 295–361 (1926).
+41. Ritsch, S. et al. The existence regions of structural modiﬁ cations in decagonal 
+© 2004 Nature Publishing Group
+ PROGRESS ARTICLE
+nature materials | VOL 3 | NOVEMBER 2004 | www.nature.com/naturematerials 
+767
+Al-Co-Ni. Phil. Mag. Lett. 78, 67–75 (1998).
+42. Hiraga, K. et al. Structural characteristics of Al-Co-Ni decagonal quasicrystals 
+and crystalline approximants. Mater. Trans. 42, 2354–2367 (2001).
+43. Bak, P. Phenomenological theory of icosahedral incommensurate 
+(“quasiperiodic”) order in Mn-Al alloys. Phys. Rev. Lett. 54, 1517–1519 (1985).
+44. Levine, D. et al. Elasticity and dislocations in pentagonal and icosahedral 
+quasicrystals. Phys. Rev. Lett. 54, 1520–1523 (1985).
+45. Socolar, T., Lubensky, T. & Steinhardt, P. J. Phonons, phasons and dislocations 
+in quasicrystals. Phys. Rev. B 34, 3345–3360 (1986).
+46. Urban, K. & Feuerbacher, M. Structurally complex alloy phases. J. Non-Cryst. 
+Solids 334–335, 143–150 (2004).
+47. Lubensky, T. C. et al. Distortion and peak broadening in quasicrystal 
+diffraction patterns. Phys. Rev. Lett. 57, 1440–1443 (1986).
+48. Jaric, M. V. & Nelson, D. R. Diffuse scattering from quasicrystals. Phys. Rev. B 
+37, 4458–4472 (1988).
+49. Ishii, Y. Phason softening and structural transitions in icosahedral 
+quasicrystals. Phys. Rev. B 45, 5228–5239 (1992).
+50. de Boissieu, M. et al. Diffuse scattering and phason elasticity in the AlPdMn 
+icosahedral phase. Phys. Rev. Lett. 75, 89–92 (1995).
+51. Coddens, G. & Steurer, W. Time-of–ﬂ ight neutron-scattering study of phason 
+hopping in decagonal Al-Co-Ni quasicrystals. Phys. Rev. B 60, 270–276 (1999).
+52. Francoual, S. et al. Dynamics of phason ﬂ uctuations in the i-AlPdMn 
+quasicrystal. Phys. Rev. Lett. 91, 225501 (2003).
+53. Edagawa, K., Suzuki, K. & Takeuchi, S. High resolution transmission electron 
+microscopy observation of thermally ﬂ uctuating phasons in decagonal Al-Cu-
+Co. Phys. Rev. Lett. 85, 1674–1677 (2000).
+54. Abe, E., Pennycook, S. J. & Tsai, A. P. Direct observation of a local thermal 
+vibration anomaly in a quasicrystal. Nature 421, 347–350 (2003).
+55. Takakura, H., Yamamoto, A. & Tsai, A. P. The structure of decagonal 
+Al72Ni20Co8 quasicrystal. Acta Crystallogr. A 57, 576–585 (2001).
+56. Abe, H. et al. Anomalous Debye-Waller factor associated with an order-
+disorder transformation in an Al72Ni20Co8 decagonal quasicrystal. J. Phys. Soc. 
+Jpn 72, 1828–1831 (2003).
+57. Cervellino, A., Haibach, T. & Steurer, W. Structure solution of the basic 
+decagonal Al-Co-Ni phase by the atomic surfaces modeling method. Acta 
+Crystallogr. B 58, 8–33 (2002).
+58. Keppens, V. et al. Localized vibrational modes in metallic solids. Nature 395, 
+876–878 (1998).
+59. Cohn, J. L. et al. Glasslike heat conduction in high-mobility crystalline 
+semiconductors. Phys. Rev. Lett. 82, 779–782 (1999).
+60. Mizutani, U., Takeuchi, T. & Sato, H. Atomic structure determination, 
+electronic structure calculations and interpretation of electron transport 
+properties of various 1/1–1/1–1/1 approximants. J. Phys. Condens. Matter 14, 
+R767–R788 (2002).
+61. Macia, E. May quasicrystals be good thermoelectric materials? Appl. Phys. Lett. 
+77, 3045–3047 (2000).
+62. Gomez, C. P. & Lindin, S. Comparative structural study of the disordered 
+MCd6 quasicrystal approximants. Phys. Rev. B 68, 024203 (2003).
+63. Fisher, I. R. et al. Growth of large-grain R – Mg – Zn quasicrystals from the 
+ternary melt (R = Y, Er, Ho, Dy and Tb). Phil. Mag. B 77, 1601–1615 (1998).
+64. Tsai, A. P., Guo, J. Q., Abe, E., Takakura, H. & Sato, T. J. A stable binary 
+quasicrystal. Nature 408, 537–538 (2000).
+65. Weickenmeier, A. & Kohl, H. Computation of absorptive form factors for high-
+energy electron diffraction. Acta Crystallogr. A 47, 590–597 (1991).
+Acknowledgement
+We are grateful to A. P. Tsai, K. Saitoh, P. J. Steinhardt, H.-C. Jeong and 
+H. Takakura for collaboration, on which the present article is based. We also thank 
+T. J. Sato, M. Widom, C. L. Henley, M. Miharcovic, W. Steurer, M. de Boissieu, 
+A. Yamamoto, N. Tanaka, K. Ishizuka and H. Inui for valuable comments and 
+discussions. E.A. acknowledges support from the CREST-JST ‘Fundamental 
+properties of quasicrystals’ project (1996-2001, Project leader: A. P. Tsai). Y.Y. and 
+S.J.P. acknowledge support from the US department of Energy under contract 
+numbers DE-AC36-99GO10337 and DE-AC05-00OR22725.
+Correspondence and requests for materials should be address to E.A. or S.J.P.
+Competing ﬁ nancial interests
+The authors declare that they have no competing ﬁ nancial interests.
+© 2004 Nature Publishing Group

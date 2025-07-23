@@ -1,0 +1,264 @@
+477
+Federal Aviation Administration, DOT
+§ 25.1521
+§ 25.1511
+Flap extended speed. 
+The established flap extended speed 
+VFE must be established so that it does 
+not exceed the design flap speed VF 
+chosen under §§ 25.335(e) and 25.345, for 
+the corresponding flap positions and 
+engine powers.
+§ 25.1513
+Minimum control speed. 
+The minimum control speed VMC de-
+termined under § 25.149 must be estab-
+lished as an operating limitation.
+§ 25.1515
+Landing gear speeds. 
+(a) The established landing gear oper-
+ating speed or speeds, VLO, may not ex-
+ceed the speed at which it is safe both 
+to extend and to retract the landing 
+gear, as determined under § 25.729 or by 
+flight characteristics. If the extension 
+speed is not the same as the retraction 
+speed, the two speeds must be des-
+ignated as VLO(EXT) and VLO(RET), re-
+spectively. 
+(b) The established landing gear ex-
+tended speed VLE may not exceed the 
+speed at which it is safe to fly with the 
+landing gear secured in the fully ex-
+tended position, and that determined 
+under § 25.729. 
+[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as 
+amended by Amdt. 25–38, 41 FR 55468, Dec. 20, 
+1976]
+§ 25.1516
+Other speed limitations. 
+Any other limitation associated with 
+speed must be established. 
+[Doc. No. 2000–8511, 66 FR 34024, June 26, 2001]
+§ 25.1517
+Rough air speed, VRA. 
+A rough air speed, VRA, for use as the 
+recommended turbulence penetration 
+airspeed in § 25.1585(a)(8), must be es-
+tablished, which— 
+(1) Is not greater than the design air-
+speed for maximum gust intensity, se-
+lected for VB; and 
+(2) Is not less than the minimum 
+value of VB specified in § 25.335(d); and 
+(3) Is sufficiently less than VMO to en-
+sure that likely speed variation during 
+rough air encounters will not cause the 
+overspeed warning to operate too fre-
+quently. In the absence of a rational 
+investigation substantiating the use of 
+other values, VRA must be less than 
+VMO—35 knots (TAS). 
+[Doc. No. 27902, 61 FR 5222, Feb. 9, 1996]
+§ 25.1519
+Weight, center of gravity, and 
+weight distribution. 
+The airplane weight, center of grav-
+ity, and weight distribution limita-
+tions determined under §§ 25.23 through 
+25.27 must be established as operating 
+limitations.
+§ 25.1521
+Powerplant limitations. 
+(a) General. The powerplant limita-
+tions prescribed in this section must be 
+established so that they do not exceed 
+the corresponding limits for which the 
+engines or propellers are type certifi-
+cated and do not exceed the values on 
+which compliance with any other re-
+quirement of this part is based. 
+(b) Reciprocating engine installations. 
+Operating limitations relating to the 
+following must be established for recip-
+rocating engine installations: 
+(1) Horsepower or torque, r.p.m., 
+manifold pressure, and time at critical 
+pressure altitude and sea level pressure 
+altitude for— 
+(i) Maximum continuous power (re-
+lating to unsupercharged operation or 
+to operation in each supercharger mode 
+as applicable); and 
+(ii) Takeoff power (relating to unsu-
+percharged operation or to operation in 
+each supercharger mode as applicable). 
+(2) Fuel grade or specification. 
+(3) Cylinder head and oil tempera-
+tures. 
+(4) Any other parameter for which a 
+limitation has been established as part 
+of the engine type certificate except 
+that a limitation need not be estab-
+lished for a parameter that cannot be 
+exceeded during normal operation due 
+to the design of the installation or to 
+another established limitation. 
+(c) Turbine engine installations. Oper-
+ating limitations relating to the fol-
+lowing must be established for turbine 
+engine installations: 
+(1) Horsepower, torque or thrust, 
+r.p.m., gas temperature, and time for— 
+(i) Maximum continuous power or 
+thrust (relating to augmented or un-
+augmented operation as applicable). 
+(ii) Takeoff power or thrust (relating 
+to augmented or unaugmented oper-
+ation as applicable). 
+VerDate Dec<13>2002 
+08:22 Jan 27, 2003
+Jkt 200041
+PO 00000
+Frm 00477
+Fmt 8010
+Sfmt 8010
+Y:\SGML\200041T.XXX
+200041T
+478
+14 CFR Ch. I (1–1–03 Edition)
+§ 25.1522
+(2) Fuel designation or specification. 
+(3) Any other parameter for which a 
+limitation has been established as part 
+of the engine type certificate except 
+that a limitation need not be estab-
+lished for a parameter that cannot be 
+exceeded during normal operation due 
+to the design of the installation or to 
+another established limitation. 
+(d) Ambient temperature. An ambient 
+temperature limitation (including lim-
+itations for winterization installations, 
+if applicable) must be established as 
+the maximum ambient atmospheric 
+temperature established in accordance 
+with § 25.1043(b). 
+[Amdt. 25–72, 55 FR 29786, July 20, 1990]
+§ 25.1522
+Auxiliary power unit limita-
+tions. 
+If an auxiliary power unit is installed 
+in the airplane, limitations established 
+for the auxiliary power unit, including 
+categories of operation, must be speci-
+fied as operating limitations for the 
+airplane. 
+[Amdt. 25–72, 55 FR 29786, July 20, 1990]
+§ 25.1523
+Minimum flight crew. 
+The minimum flight crew must be es-
+tablished so that it is sufficient for safe 
+operation, considering— 
+(a) The workload on individual crew-
+members; 
+(b) The accessibility and ease of oper-
+ation of necessary controls by the ap-
+propriate crewmember; and 
+(c) The kind of operation authorized 
+under § 25.1525. 
+The criteria used in making the deter-
+minations required by this section are 
+set forth in appendix D. 
+[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as 
+amended by Amdt. 25–3, 30 FR 6067, Apr. 29, 
+1965]
+§ 25.1525
+Kinds of operation. 
+The kinds of operation to which the 
+airplane is limited are established by 
+the category in which it is eligible for 
+certification 
+and 
+by 
+the 
+installed 
+equipment.
+§ 25.1527
+Ambient air temperature and 
+operating altitude. 
+The extremes of the ambient air tem-
+perature and operating altitude for 
+which operation is allowed, as limited 
+by flight, structural, powerplant, func-
+tional, or equipment characteristics, 
+must be established. 
+[Doc. No. 2000–8511, 66 FR 34024, June 26, 2001]
+§ 25.1529
+Instructions 
+for 
+Continued 
+Airworthiness. 
+The applicant must prepare Instruc-
+tions for Continued Airworthiness in 
+accordance with appendix H to this 
+part that are acceptable to the Admin-
+istrator. The instructions may be in-
+complete at type certification if a pro-
+gram exists to ensure their completion 
+prior to delivery of the first airplane or 
+issuance of a standard certificate of 
+airworthiness, whichever occurs later. 
+[Amdt. 25–54, 45 FR 60173, Sept. 11, 1980]
+§ 25.1531
+Maneuvering flight load fac-
+tors. 
+Load factor limitations, not exceed-
+ing the positive limit load factors de-
+termined from the maneuvering dia-
+gram in § 25.333(b), must be established.
+§ 25.1533
+Additional operating limita-
+tions. 
+(a) Additional operating limitations 
+must be established as follows: 
+(1) The maximum takeoff weights 
+must be established as the weights at 
+which compliance is shown with the 
+applicable provisions of this part (in-
+cluding the takeoff climb provisions of 
+§ 25.121(a) through (c), for altitudes and 
+ambient temperatures). 
+(2) The maximum landing weights 
+must be established as the weights at 
+which compliance is shown with the 
+applicable provisions of this part (in-
+cluding the landing and approach climb 
+provisions of §§ 25.119 and 25.121(d) for 
+altitudes and ambient temperatures). 
+(3) The minimum takeoff distances 
+must be established as the distances at 
+which compliance is shown with the 
+applicable provisions of this part (in-
+cluding the provisions of §§ 25.109 and 
+25.113, for weights, altitudes, tempera-
+tures, wind components, runway sur-
+face conditions (dry and wet), and run-
+way gradients) for smooth, hard-sur-
+faced runways. Additionally, at the op-
+tion of the applicant, wet runway take-
+off distances may be established for 
+runway 
+surfaces 
+that 
+have 
+been 
+VerDate Dec<13>2002 
+08:22 Jan 27, 2003
+Jkt 200041
+PO 00000
+Frm 00478
+Fmt 8010
+Sfmt 8010
+Y:\SGML\200041T.XXX
+200041T

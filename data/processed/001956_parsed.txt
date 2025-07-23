@@ -1,0 +1,2424 @@
+ 
+POPULATION ECOLOGY AND SOME POTENTIAL IMPACTS OF EMERGING 
+POPULATIONS OF EXOTIC PARROTS 
+ 
+DOUGLAS E. RUNDE AND WILLIAM C. PITT, USDA/APHIS/WS National Wildlife Research Center, Hilo, 
+ 
+Hawaii, USA 
+J. T. FOSTER, Northern Arizona University, Flagstaff, Arizona, USA 
+ 
+Abstract: Parrots have been transported around the world since the 1400s and about 44 species have 
+established populations outside of their native ranges.  At least 70% of these introduced species were 
+identified as potential agricultural pests, compared to only 15% of all parrot species.  At least 74 exotic 
+psittacines have been reported in the wild in the United States, but only nine species were considered 
+established.  Since 1990, 24 psittacine species have been sighted in the wild in Hawai`i, about 21 species 
+regularly occur on the main islands and at least five appear established.  Past history of successful 
+introduction, recent status of introduced populations, and life history traits were used to identify parrots 
+which, if introduced, appeared most likely to establish nonindigenous populations.  Potential impacts related 
+to ecology, agriculture, and health were diverse but poorly documented in the literature.  Five species were 
+the most widespread and abundant species, and were considered established.  Four more species with rapidly 
+expanding ranges and increasing populations may become naturalized.  Nine species had significantly 
+expanded ranges and increased populations.  Several introduced populations remained low for 10-15 years 
+before rapidly increasing and becoming established; similar lag periods for other psittacines have approached 
+30 years. 
+ 
+Key Words: Hawaii, invasive species, parrots, psittacines. 
+ 
+Managing Vertebrate Invasive Species: Proceedings of 
+an International Symposium (G. W. Witmer, W. C. Pitt, 
+K. A. Fagerstone, Eds). USDA/APHIS/WS, National 
+Wildlife Research Center, Fort Collins, CO. 2007. 
+ 
+ 
+INTRODUCTION 
+ 
+Exotic species invasions are a leading cause of 
+native species declines and are a major 
+environmental issue of public concern (Didhama et 
+al. 2005).  The establishment of introduced species 
+is recognized as a major ecological threat 
+worldwide, and increasing volumes of international 
+trade are expected to increase the rate at which 
+species are unintentionally transported (Ricciardi et 
+al. 2000).  Geographic and taxonomic patterns of 
+exotic bird introductions are striking.  In their 
+analyses of 1,378 introductions of 426 bird species 
+around the world, Blackburn and Duncan (2001a) 
+found that 40% occurred in four geographic areas: 
+Hawai’i (163 introduction events), New Zealand 
+(146), mainland United States (US, 125) and 
+Australia (113).  On the 6 main Hawaiian Islands, 
+at least 140 species of birds, belonging to 14 
+different taxonomic orders and originating from 6 
+continents have been introduced, including 75 
+species of gamebirds (Long 1981, Moulton et al. 
+2001).  Taxonomic patterns of successfully 
+established exotic birds are also distinctly 
+nonrandom and 7 families contained more 
+successfully established exotic species than 
+expected by chance: Anatidae (15 species of ducks 
+and geese), Phasianidae (35 species of pheasants), 
+Passeridae (30 species of sparrows and finches), 
+Psittacidae (39 species of parrots), Columbidae (19 
+species of pigeons and doves), Rheidae (2 species 
+of rhea), and Odontophoridae (6 species of quail) 
+(Lockwood 1999, Cassey 2002).   
+ 
+Loope et al. (2001) noted that in contrast to 
+mainland states like Florida, inadvertent 
+colonization of Pacific islands is highly unlikely 
+and all successfully established exotic birds in 
+Hawai`i were deliberately brought to the islands for 
+some purpose.  Limiting introductions therefore has 
+relied mainly on regulating the trade in live birds 
+and they predict that future introductions are likely 
+to come from four groups: waterfowl, gallinaceous 
+birds, psittacines, and passerines (especially 
+finches).  In line with this, Foster (In Press) 
+documented that overall patterns of bird 
+introductions into Hawai`i have shifted over time 
+from intentional releases to escapes of birds from 
+captivity; since 1976 this has included at least 9 
+psittacines. 
+338 
+ 
+ 
+In this paper, we highlight emerging populations 
+of exotic parrots and review potential effects 
+related to ecology, agriculture, and health.  Few 
+data are available from Hawai’i and we review 
+information from naturalized parrot populations on 
+the mainland US to identify species with increasing 
+and expanding naturalized breeding populations, 
+those with traits similar to successfully established 
+psittacines (Cassey et al. 2004b) and with the 
+potential to become agricultural pests if established. 
+ 
+Williamson (1996) identified 4 steps in the 
+process of invasion of a region by exotic species as 
+a result of human activity, and these steps have 
+served as a basis for several subsequent studies of 
+patterns of success for introduced birds.  Blackburn 
+and Duncan (2001a) labeled the stages of this 
+process as “transport, introduction, establishment 
+and spread.”   Usage of some relevant terms was 
+not uniform and we followed the generalized 
+definitions of Kolar and Lodge (2001).  Indigenous 
+species: a species found within its native range.  
+Invasive species: a nonindigenous species that 
+spreads from the point of introduction and becomes 
+abundant.  Nonindigenous species: a species 
+introduced to areas beyond its native range by 
+human activity; exotic species is commonly used 
+synonymously.  Noninvasive species are 
+nonindigenous species that remain localized within 
+a new environment.  Established species are species 
+with self-sustaining populations outside of the 
+native range.  Introduced birds are deemed 
+established by the American Ornithologists Union 
+(AOU 1998) “if there are persistent records for at 
+least 10 years and satisfactory evidence of 
+maintaining a reasonably stable or increasing 
+population through successful reproduction.” (i.e., 
+not supported by continued releases).  Long 
+lifespan makes determining establishment in 
+parrots more difficult than in other groups, but 30 
+species have been successfully introduced in at 
+least one location outside of their native ranges, and 
+introductions of an additional 14 parrot species 
+were probably successful (Long 1981, Cassey et al. 
+2004a, b, Table 1). 
+ 
+OVERVIEW OF PSITTACIFORMES 
+ 
+The Order Psittaciformes is a distinct group of 
+birds with large hooked bills and zygodactyl feet.  
+There are 2 families: Cacatuidae (cockatoos) and 
+Psittacidae (parrots).  Origins have been traced 
+back to the Miocene in Queensland and Australia is 
+considered the center of evolution and radiation for 
+psittacines (del Hoyo et al. 1997).  Diversity of 
+parrots is highest in Australasia and South America 
+with about one-third of all parrot species occurring 
+in each regions.  Comprehensive species accounts 
+were compiled by Juniper and Parr (1998), Forshaw 
+(1977), and del Hoyo et al. (1997); and online at 
+www.arndt-verlag.com.  This overview follows the 
+taxonomic nomenclature of del Hoyo et al. (1997). 
+ 
+INFLUENCES ON ESTABLISHMENT 
+SUCCESS 
+ 
+Once established, the control or eradication of 
+invasive species is highly costly, and preventing 
+introduction and establishment is preferable (Kolar 
+and Lodge 2001).  This has prompted researchers to 
+characterize established species in order to identify 
+potentially invasive species before the invasion has 
+occurred.  Traits associated with invasive birds are 
+as varied as migratory habits (Kolar and Lodge 
+2001), broad diet and habitat niches (Cassey et al. 
+2004b, c), and behavioral flexibility and forebrain 
+size (Sol and Lefebvre 2000).  Although there are 
+intrinsic differences in the ability of bird species to 
+invade new locations, various studies (e.g., 
+Lockwood 1999, Sol and Lefebvre 2000) have 
+confirmed that introduction effort, defined as the 
+number of releases or numbers released at a 
+location, is the principal factor influencing numbers 
+of nonindigenous bird species. 
+ 
+Introduction effort is correlated with many 
+variables previously thought to influence 
+establishment success (Blackburn and Duncan 
+2001a, b), and highlights its importance both within 
+and across large regions including oceanic islands 
+(Cassey et al. 2005).  Moulton et al. (2001) found a 
+significant relationship between introduction effort 
+and success rates of Galliformes (game birds) 
+introduced to the Island of Hawai`i.  Even though 
+successful establishment ultimately depends on the 
+particular combination of a species and a location 
+(Blackburn and Duncan 2001a, b) this consistent 
+finding regarding introduction effort suggests that 
+fewer species will become established if the 
+number of releases or number of individuals is 
+minimized. 
+ 
+The Wild Bird Conservation Act of 1992 
+specifies that wild-caught birds may be imported 
+into the US only if they come from a country with a 
+US Fish and Wildlife Service (FWS) approved 
+management plan for sustainable use of the species.  
+Before this, the US was the world’s largest  
+ 
+339 
+ 
+340 
+Table 1.  Life history scores for Psittacines with successful and probably successful introduced populations. 
+Species 
+Altitude range 
+Migration 
+score 
+Diet 
+breadth 
+Ag. 
+pest? 
+Introductions successful: 
+ 
+ 
+ 
+Sulphur-crested cockatoo (Cacatua galerita) 
+2,400 
+0 
+4 
+y 
+Rainbow lorikeet (Trichoglossus haematodus) 
+2,440 
+0 (1) 
+3 
+y 
+Kuhl's lorikeet (Vini kuhlii) 
+-- 
+0 
+2 
+n 
+Blue lorikeet (Vini peruviana) 
+-- 
+1 
+4 
+y 
+Ultramarine lorikeet (Vini ultramarina) 
+1,000 
+0 
+3 
+y 
+Red Shining-parrot (Prosopeia tabuensis) 
+1,650 
+0 
+3 
+y 
+Yellow-fronted parakeet (Cyanoramphus auriceps) 
+-- 
+0 
+5 
+n 
+Crimson rosella (Platycercus elegans) 
+1,900 
+0 (1) 
+4 
+y 
+Eastern rosella (Platycercus eximius) 
+-- 
+0 
+5 
+y 
+Budgerigar (Melopsittacus undulatus) 
+-- 
+2 (1) 
+1 
+y 
+Eclectus parrot (Eclectus roratus) 
+1,900 
+0 
+4 
+y 
+Rose-ringed parakeet (Psittacula krameri) 
+2,000 
+0 
+2 
+y 
+Red-breasted parakeet (Psittacula alexandri) 
+2,000 
+0 (1) 
+3 
+y 
+Grey-headed lovebird (Agapornis canus) 
+1,500 
+0 
+2 
+y 
+Fischer's lovebird (Agapornis fischeri) 
+900 
+0 
+2 
+n 
+Meyer's parrot (Poicephalus meyeri) 
+2,200 
+0 (1) 
+4 
+y 
+Blue-crowned parakeet (Aratinga acuticaudata) 
+2,650 
+1 
+2 
+y 
+Green parakeet (Aratinga holochlora) 
+2,300 
+0 
+2 
+y 
+Mitred parakeet (Aratinga mitrata) 
+2,400 
+1 (0) 
+2 
+y 
+Red-masked parakeet (Aratinga erythrogenys) 
+2,500 
+1 
+3 
+n 
+Brown-throated parakeet (Aratinga pertinax) 
+1,200 
+2 
+3 
+y 
+Black-hooded parakeet (Nandayus nanday) 
+800 
+1 
+4 
+y 
+Monk parakeet (Myiopsitta monachus) 
+3,000 
+0 (1) 
+4 
+y 
+Green-rumped parrotlet (Forpus passerinus) 
+1,800 
+2 
+4 
+n 
+White-winged parakeet (Brotogeris versicolurus) 
+2,700 
+0 
+3 
+n 
+Yellow-chevroned parakeet (Brotogeris chiriri) 
+1,560 
+1 
+3 
+n 
+Hispaniolan parrot (Amazona ventralis) 
+1,500 
+0 
+2 
+y 
+Red-crowned parrot (Amazona viridigenalis) 
+1,200 
+1 
+4 
+n 
+Lilac-crowned parrot (Amazona finschi) 
+2,000 
+2 
+2 
+y 
+Yellow-headed parrot (Amazona oratrix) 
+500 
+0 (1) 
+3 
+y 
+Introductions probably successful: 
+ 
+ 
+ 
+ 
+Galah (Eolophus roseicapillus) 
+1,250 
+1 
+4 
+y 
+Long-billed corella (Cacatua tenuirostris) 
+-- 
+0 
+4 
+y 
+Little corella (Cacatua sanguinea) 
+-- 
+1 
+5 
+y 
+Yellow-crested cockatoo (Cacatua sulphurea) 
+1,200 
+0 
+4 
+y 
+Blue-streaked lory (Eos reticulata) 
+-- 
+0? 
+-- 
+n 
+Red-rumped parrot (Psephotus haematonotus) 
+1,100 
+0 
+3 
+n 
+Alexandrine parakeet (Psittacula eupatria) 
+1,600 
+0 (1,2) 
+4 
+y 
+Plum-headed parakeet (Psittacula cyanocephala) 
+1,500 
+0 
+4 
+y 
+Rosy-faced lovebird (Agapornis roseicollis) 
+1,500 
+0 
+2 
+y 
+Yellow-collared Lovebird (Agapornis personatus) 
+700 
+0 
+1 
+n 
+Nyasa lovebird (Agapornis lilianae) 
+1,000 
+0 
+3 
+n 
+Chestnut-fronted macaw (Ara severa) 
+1,150 
+0 (2)4 
+2 
+n 
+Yellow-crowned parrot (Amazona ochrocephala) 
+750 
+0 (1) 
+2 
+y 
+Orange-winged parrot (Amazona amazonica) 
+1,200 
+0? 
+2 
+y 
+ 
+ 
+importer of parrots from wild populations.  At least 
+150,000 live parrots were imported in 1990 (World 
+Wildlife Fund 2007).  Since passage of this Act, 
+parrot imports have decreased, and captive 
+breeding for the pet trade has increased.  Since 
+1990, numbers imported have declined to about 
+17,000/year (World Wildlife Fund 2007).  Mass 
+importation, and thus mass releases and escapes, of 
+wild-caught parrots into the US appear to be greatly 
+reduced (Brightsmith 1999). 
+ 
+International restrictions in wildlife trade have 
+similarly reduced parrot exports.  From 1989-90 to 
+1999, numbers exported from the five main 
+producer countries (Argentina, Guyana, Indonesia, 
+Senegal, and Tanzania) dropped from 245,000 to 
+57,360 birds.  Although actual origins are 
+uncertain, 9 of the species recently sighted in 
+Hawai`i were exported from these 5 countries.  
+Exports of 8 of the species dropped from 88,790 to 
+26,290; in contrast, burrowing parakeets 
+(Cyanoliseus patagonus) from Argentina entered 
+the trade during this period and nearly 7,500 were 
+exported (Roe et al. 2002).  Despite increased 
+regulation and quarantine requirements 2,811 
+parrots of 28 species were legally imported into 
+Hawai`i in 1999 (Foster 2005, Hawai`i Department 
+of Agriculture, unpublished data). 
+ 
+Future feral populations will most likely 
+originate from small numbers of captive-bred pet 
+parrots, rather than from large numbers of wild-
+caught birds.  Thus, the process of establishment 
+will likely be slow, requiring perhaps several 
+decades, and the probability that additional parrot 
+populations will become established should now be 
+relatively low.  However, releases of wild-caught 
+birds being traded illegally are still possible.  
+Cassey et al. (2004a, b) closely examined the 
+patterns of transport, release and establishment of 
+parrots around the world, and while the availability 
+of individual birds for transport and release was 
+very important, this had no obvious effect on 
+establishment following release.  Their multivariate 
+statistical study revealed significant and 
+independent effects of diet breadth, elevational 
+range, and migratory habit.  Sedentary, non-
+migratory, parrots and those with broad diets or 
+large elevation ranges had higher establishment 
+success.  Other significant traits included lower 
+fecundity, and longer fledgling periods. 
+ 
+At least 74 exotic psittacines have been reported 
+in the wild in the US, but only 9 species are 
+established (Table 2).  Prior to 1981, 14 parrots had 
+been introduced to the main Hawaiian islands  
+ 
+ 
+ 
+Table 2.  Naturalized psittacines in the United States currently recognized by the American 
+Ornithologists Union (AOU 1998, Banks et al. 2002), the California Bird Records Committee (2006), the 
+Florida Ornithological Societies’ Records Committee (2005), the Texas Ornithological Societies’ Bird 
+Records Committee (2006), Hawai`i Audubon Society (Pyle 2002) or the American Birding Association 
+(ABA 2005). 
+Species 
+AOU California 
+Florida Texas Hawai’i ABA 
+Budgerigar (Melopsittacus undulatus) 
+√ 
+ 
+√ 
+ 
+ 
+√ 
+Rose-ringed parakeet (Psittacula krameri) 
+√ 
+ 
+ 
+ 
+√ 
+ 
+Mitred parakeet (Aratinga mitrata) 
+√ 
+ 
+ 
+ 
+√ 
+ 
+Green parakeet (Aratinga holochlora) 
+ 
+ 
+ 
+√ 
+ 
+√ 
+Black-hooded Parakeet (Nandayus nenday) 
+ 
+ 
+√ 
+ 
+ 
+ 
+Monk parakeet (Myiopsitta monachus) 
+√ 
+ 
+√ 
+√ 
+ 
+√ 
+White-winged parakeet (Brotogeris 
+versicolurus) 
+√ 
+ 
+√ 
+ 
+ 
+√ 
+Yellow-chevroned Parakeet (Brotogeris 
+chiriri) 
+ 
+ 
+ 
+ 
+ 
+√ 
+Red-crowned parrot (Amazona viridigenalis) 
+√ 
+√ 
+ 
+√ 
+√ 
+ 
+ 
+341 
+ 
+Table 3.  Parrots introduced to Hawai`i, 1877-1981 (Moulton et al.  2001, Berger 1981, and Long 
+1981).   
+Species 
+Islands 
+Years 
+Galah (Eolophus roseicapillus) 
+O`ahu 
+1933 
+Sulphur-crested cockatoo (Cacatua galerita) 
+O`ahu 
+1933 
+Salmon-crested cockatoo (Cacatua moluccensis) 
+O`ahu 
+1981 
+Bugerigar (Melopsittacus undulatus) 
+O`ahu 
+1933 
+Pale-headed rosella (Platycercus adscitus) 
+Maui 
+1877 
+Eclectus parrot (Eclectus roratus) 
+O`ahu 
+1981 
+Rose-ringed parakeet (Psittacula krameri) 
+Kau`ai, O`ahu, Hawai`i 
+1981, 1933, 1981 
+Peach-faced lovebird (Agapornis roseicollis) 
+O`ahu 
+1973 
+Scarlet macaw (Ara macao) 
+O`ahu 
+1933 
+Black-hooded parakeet (Nandayus nenday) 
+O`ahu, Hawai`i 
+1981, 1981 
+Monk parakeet (Myiopsitta monachus) 
+O`ahu 
+1970 
+Orange-chinned parakeet (Brotogeris jugularis) 
+O`ahu 
+1933 
+Yellow-crowned parrot (Amazona ochrocephala) 
+O`ahu 
+1969 
+Red-crowned parrot (Amazona viridigenalis) 
+O`ahu 
+1971 
+ 
+ 
+ 
+(Berger 1981, Long 1981, Moulton et al. 2001, 
+Table 3), but few are considered established (Pratt 
+et al. 1987, Pyle 2002), at least one has been (Pyle 
+2002).  Since 1970 (R. Pyle, unpublished data), 28 
+psittacines have been sighted in the wild in the 
+state, species richness was highest on the islands of 
+O`ahu (21) and Hawai`i (13).  Currently, about 21 
+species regularly occur on the main islands 
+including 11 breeding species (Table 4), and a few 
+more species now appear to be established.  Some 
+species are being controlled and, hence, may not 
+become established. 
+ 
+ESTABLISHMENT PATTERNS 
+ 
+Generally, only a small proportion of exotic 
+birds introduced to new locations have established 
+wild populations, and have created negative 
+impacts in the new environment (Lockwood 1999).  
+Overall, less than 3% of all avian species have 
+established nonindigenous populations somewhere 
+in the world (Lockwood 1999) and 36% of alien 
+birds introduced to Hawai'i have established 
+breeding populations (Loope et al. 2001).  Overall, 
+parrots had even higher rates of establishment: 70% 
+of 54 species intentionally released established 
+naturalized populations (Cassey et al. 2004b).  For 
+long-lived birds like parrots, it can be hard to know 
+if they are truly established, or are simply living out 
+a long life span in a new location.   
+ 
+The highest diversity and abundance of 
+nonindigenous parrots in the US occurs primarily in 
+the subtropical areas of Florida, California and 
+Texas (Pranty and Garrett 2003).  The proportion of 
+introduced and naturalized species is greater in 
+urban/suburban areas than in rural areas and parrots 
+fit this pattern (Spreyer and Bucher 1998, Lamont 
+2002, Butler 2003, Domenech et al. 2003, Eguchi 
+and Amano 2004).  Additionally, parrots usually 
+exploit habitats dominated by exotic flora (Lamont 
+2002).  In a few cases, however, a parrot species 
+will colonize important agricultural areas 
+(Domenech et al. 2003). 
+ 
+The occurrence of feral parrots non- 
+urban/suburban areas may be due to a relatively 
+large pool of potential escapees.  Compared to rural 
+areas, densities of pet parrots, like people, are likely 
+much higher in urbanized areas; both density and 
+diversity of feral parrots is especially high near 
+ports of entry (e.g., Miami, Honolulu).  Like 
+southern California and southeastern Florida, 
+Hawai`i has a mild climate, urban areas extensively 
+landscaped with exotic vegetation, and major ports 
+of entry.  This, along with a lack of natural 
+predators and abundant sources of invasive exotic  
+342 
+ 
+Table 4.  Parrots possibly breeding and reported from the wild in Hawai`i since 1990.  
+Species in bold typeface were identified as agricultural pest species, or as feeding on 
+crops, orchards etc., in their native ranges by del Hoyo et al. (1997). 
+Species 
+Islands 
+11 breeding species: 
+ 
+Tanimbar cockatoo (Cacatua goffini) 
+Maui  
+Sulphur-crested cockatoo (Cacatua galerita) 
+Maui  
+Rose-ringed parakeet (Psittacula krameri) 
+Hawai`i, Kaua`i, Maui, O`ahu  
+Peach-faced lovebird (Agapornis roseicollis) 
+Maui  
+Blue and yellow macaw  (Ara ararauna) 
+Maui  
+Military macaw (Ara militaris) 
+Maui  
+Scarlet-fronted parakeet  (Aratinga wagleri) 
+Hawai`i  
+Mitred parakeet  (Aratinga mitrata ) 
+Maui  
+Red-masked parakeet  (Aratinga erythrogenys) 
+O`ahu  
+Burrowing parakeet (Cyanoliseus patagonus) 
+Hawai`i  
+Red-crowned parrot (Amazona viridigenalis) 
+O`ahu 
+13 species sighted since 1990: 
+ 
+Salmon-crested cockatoo (Cacatua moluccensis) 
+Hawai`i, Maui, O`ahu 
+Cockatiel (Nymphicus hollandicus) 
+All  
+Black lory (Chalcopsitta atra) 
+Hawai`i  
+Budgerigar (Melopsittacus undulatus) 
+Maui, O`ahu  
+Eclectus parrot (Eclectus roratus) 
+Hawai`i, Kaua`i, O`ahu 
+Alexandrine parakeet  (Psittacula eupatria) 
+Maui 
+African grey parrot  (Psittacus erithacus) 
+Hawai`i 
+Senegal parrot (Poicephalus senegalus) 
+Hawai`i, Kaua`i, O`ahu  
+Brown parrot (Poicephalus meyeri) 
+Kaua`i 
+Blue-crowned parakeet (Aratinga acuticaudata) 
+O`ahu  
+Black-hooded parakeet (Nandayus nenday) 
+Hawai`i 
+Yellow-crowned parrot (Amazona ochrocephala)  
+O`ahu 
+Blue-fronted parrot (Amazona aestiva) 
+Maui, O`ahu 
+ 
+ 
+ 
+food plants, likely increases the probability that 
+introduced parrots will establish naturalized 
+populations of psittacines.  Three of the 9 species 
+established on the mainland US (Table 2) are 
+present and established in Hawai`i and  if 
+introduced, the other 6 presumably have the 
+capacity to become established. 
+ 
+METHODS 
+ 
+We compiled and tabulated life history 
+information (T. Pratt and J. Foster, unpublished 
+data, Forshaw 1977, del Hoyo et al. 1997, Juniper 
+and Parr 1998).  Introduction histories were gleaned 
+from Garret et al. (1997), Simberloff et al. (1997), 
+Lever (1987), Long (1981), and reviews of official 
+state lists of bird status and occurrence for 
+California, Florida and Texas.  Using these data we 
+calculated scores for three of the traits shown by 
+Cassey et al. (2004b) to be correlated with 
+successful establishment of introduced psittacines: 
+extent of altitudinal range, diet breadth, and degree 
+of migration.  The scores used in their analyses 
+were not available to us, and we calculated them 
+based on the descriptions in Cassey et al. (2004b).  
+Altitude range was the difference between the 
+normal upper and lower altitudinal range limits of a 
+species in its natural range.  Diet breadth reflected 
+the composition of each species diet scored as 
+presence or absence of five different food types: 
+fruit/berry, seed/grain, vegetative material, animal 
+343 
+ 
+material or nectar/flower.  Each diet category was 
+scored as 0 or 1 and summed (range 1 to 5).  
+Cassey et al. (2004b) scored diets based on the first 
+four of these categories only.  Degree of migration 
+was scored as: (0) for resident species with local 
+movements only, (1) for nomadic species with 
+irruptive seasonal movements, and (2) for species 
+with regular altitudinal or geographical migrations.  
+Unlike the previous two variables, migration score 
+was inversely related to establishment success 
+(Cassey et al. 2004b).  We scored migration habit 
+for a limited number of parrots which scored highly 
+for altitudinal range and diet breadth, or which we 
+judged potentially important based on their 
+likelihood of establishment success, presence in 
+Hawai'i, etc.  For a similarly limited number of 
+species we also noted if they were identified as 
+agricultural pests, or reportedly fed on crops or 
+orchards in their native ranges (del Hoyo et al. 
+1997). 
+ 
+In an effort to identify psittacines that could 
+become established, and perhaps invasive, we 
+searched data from the National Audubon Society’s 
+(NAS) annual Christmas Bird Counts (CBC) and 
+looked for parrots that were both widespread and 
+abundant.  Our figures were created from the data 
+accessible from the Audubon website: 
+www.audubon.org/bird/cbc.  To examine relative 
+distribution among species we used the number of 
+count circles where a species was reported in each 
+count year for each state.  For abundance we used 
+the sum of all individuals reported in each count 
+year for each state.  Because we were most 
+interested in total numbers of birds reported, rather 
+than in statistical trend analyses, we have presented 
+these data uncorrected for survey effort, and have 
+made no inferences to larger geographical areas 
+outside of the CBC circles.  However, we note that 
+there are both advantages and limitations to using 
+CBC data to examine status of exotic birds (Pranty 
+2002, Butler 2005). 
+ 
+To identify broadly distributed psittacines with 
+large populations, we examined counts from seven 
+recent CBC seasons (winters of 1999-2000 through 
+2005-2006) from the three states with the highest 
+diversity of exotic parrots: California, Florida and 
+Texas.  As a relative index to the extent of 
+distribution within each state we used the 
+maximum number of count circles that reported 
+each species during this time period.  The 
+maximum of the annual sum of all individuals 
+reported was used to index each species abundance.  
+To facilitate visual comparisons among species 
+these two index values were used as x,y coordinates 
+to plot distribution on the horizontal axis and 
+abundance on the vertical axis. 
+ 
+We used similar metrics to portray recent 
+changes in distribution and abundance with indices 
+based on changes in numbers of CBC count circles 
+and numbers of birds counted for each of the three  
+states.  For each species, changes in distribution 
+were indexed as: 
+ 
+ No. of count circles reported in 2006 ÷ 
+No. of count circles reported in 2000 
+ 
+Changes in abundance were similarly indexed as: 
+Total no. of individuals reported in 2006 
+÷ Total no. reported in 2000 
+ 
+ 
+Our goal was to highlight species that had 
+clearly shown the ability become both widespread 
+and abundant.  Our measures of distribution and 
+abundance are ordinal indexes only, not statistical 
+estimates.  For inferences comparing abundances of 
+different species and changes over time, statistical 
+analyses were limited to nonparametric, rank order 
+methods using SAS® version 9.1 (SAS Institute, 
+Cary, NC).  Spearman rank correlation coefficients 
+(Rs) were used to analyze long-term (>10 years) 
+trends in abundance and distribution of exotic 
+parrot species on CBC circles within California and 
+Florida; data from Texas were too sparse to 
+analyze.  To identify species with significant trends 
+over time, Rs was calculated by year with number 
+of individual birds reported; and for year with 
+number of CBC circles where a species was 
+reported.  Rs values, and significance levels, 
+reflected how closely the rank order of each 
+variable corresponded with year.  Inferences here 
+were limited to concluding whether or not trends 
+over time were statistically significant at the 10% 
+level; we did not calculate trend lines or estimate 
+rates of population growth. 
+ 
+RESULTS AND DISCUSSION 
+ 
+Psittacines with successful, or probably 
+successful, introduced populations somewhere in 
+the world are listed in Table 1.  Most were from the 
+subfamily Psittacinae, but five cacatuids, and four 
+loriinids were also included.  An established 
+species becomes invasive when both distribution 
+and abundance increase, and data from CBC circles 
+(NAS 2002) demonstrated that monk parakeets, 
+from South America, have increased in both  
+344 
+ 
+345 
+0
+10
+20
+30
+40
+50
+80
+82
+84
+86
+88
+90
+92
+94
+96
+98
+00
+02
+04
+06
+Year
+No. Count Circles
+0
+1000
+2000
+3000
+4000
+5000
+No. Birds Reported
+No. Count Circles
+No. of Birds
+A. Monk parakeet
+ 
+ 
+0
+10
+20
+30
+40
+50
+80
+82
+84
+86
+88
+90
+92
+94
+96
+98
+00
+02
+04
+06
+Year
+No. Count Circles
+0
+1000
+2000
+3000
+4000
+5000
+No. Birds Reported
+B.  Rose-ringed parakeet
+ 
+Figure 1.  Trends in distribution and abundance of monk parakeets and rose-ringed parakeets from CBC circles within 
+the US, 1980-2006. 
+ 
+ 
+numbers and distribution in North America (Figure 
+1a).  Originating from multiple releases in the 
+1960s, they have recently bred in 11 states and 
+Puerto Rico (Spreyer and Butcher 1998).  At the 
+same time, rose-ringed parakeet populations, 
+introduced to the US in the mid-1960s to 1970s, 
+have remained much more limited (Figure 1b) and 
+were largely restricted to southern California, south 
+Florida and Kaua’i.  Patterns of population growth 
+for established psittacines in Florida varied (Figures 
+2, 3) and included a period of slow growth followed 
+by rapid expansion in both range and population 
+size for monk (Myiopsitta monachus) and black-
+hooded parakeets (Nandayus nenday); both are now 
+established members of the local avifauna.  The 
+initial high growth rate and spread of the 
+budgerigar population, fueled by large scale 
+releases of captive-bred birds, was followed by a 
+sudden collapse (Figure 2b).  Such crashes are 
+common among naturalized species (Simberloff 
+and Gibbons 2003) and exotic birds whose 
+populations have exploded may not remain 
+abundant.  Examples from Hawai`i include the 
+common myna (Acridotheres tristis), red-billed  
+ 
+A. Monk Parakeet
+0
+5
+10
+15
+20
+25
+No. Count Circles
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+No. Birds Reported
+No. Count Circles
+No. Birds
+ 
+B. Bugerigar
+0
+5
+10
+15
+20
+25
+No. Count Circles
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+No. Birds Reported
+ 
+C. Black-hooded parakeet
+0
+5
+10
+15
+20
+25
+70
+72
+74
+76
+78
+80
+82
+84
+86
+88
+90
+92
+94
+96
+98
+00
+02
+04
+06
+Count Year
+No. Count Circles
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+No. Birds Reported
+ 
+Figure 2.  Trends in distribution and abundance of 3 established parrots from CBC circles within Florida, 1970-2006.  
+Monk parakeets are invasive pests but may be declining (A); bugerigars range has contracted and numbers have 
+plummeted (B); black-hooded parakeets are recently established (C). 
+ 
+ 
+346 
+ 
+1
+10
+100
+1000
+10000
+74
+76
+78
+80
+82
+84
+86
+88
+90
+92
+94
+96
+98
+00
+02
+04
+06
+Year
+No. Birds Reported
+Black-hooded Parakeet
+Monk Parakeet
+ 
+ 
+Figure 3.  Trends in numbers of black hooded parakeets (solid line) and monk parakeets (dashed line) from CBC circles 
+within Florida, 1974-2006. 
+ 
+ 
+leiothrix (Leiothrix lutea), and the varied tit (Parus 
+varius, Foster 2005). 
+ 
+There were sufficient data to examine long-term 
+(11 to 33 years) trends in distribution and 
+abundance for 15 species in California and Florida 
+(Table 5).  Mitred (Aratinga mitrata), black-hooded 
+and yellow-chevroned parakeets (Brotogeris 
+chiriri) each had significant (P ≤ 0.10) positive 
+correlations over time for both numbers of 
+individual birds reported and numbers of CBC 
+circles within both states.  Hence, both numbers 
+and distribution increased over time.  Conversely, 
+budgerigars (Melopsittacus undulatus), yellow-
+headed parrots (Amazona oratrix), and red-crowned 
+parrots (Amazona viridigenalis) showed significant 
+negative correlations, indicating declines over time 
+in Florida. 
+ 
+Data from CBC circles within California and 
+Texas were adequate to portray the relative status 
+of 16 species (Figures 4, 5), and 26 species in 
+Florida (Figures 6, 7).  These graphic summaries 
+provided a snapshot of the relative status of 
+different species on a state-by-state basis; 
+widespread and abundant parrots appeared in the 
+upper right, while smaller relatively localized 
+populations appeared closer to the origin (Figures 
+4, 6).  Populations which may have been relatively 
+small and limited geographically, but which 
+recently showed rapid increases in distribution and 
+abundance appeared further to the right and above 
+those with slowly expanding populations (Figures 
+5, 7).  Numbers of three Brotogeris parakeets 
+counted on CBC circles within California and 
+Florida peaked at 200-300 (Figures 8, 9).  Similarly 
+for five species of Aratinga parakeets, numbers 
+peaked at <100 to >300 (Figures 8, 10).   
+ 
+Rose-ringed parakeets (Psittacula krameri) were 
+first recorded from CBC circles in Florida in 1974 
+(Figure 11), but were not reported from California 
+until 10 years later with numbers relatively low for 
+many years.  Similarly, black-hooded parakeets 
+were first recorded in Florida in 1981, about 10 
+years before they were reported from California, 
+and were well established in south Florida by the 
+early 2000s.  Trends for five Amazona species are 
+shown in Figures 12-14.  Numbers of three 
+Amazona species counted on CBC circles within 
+California and Florida peaked at less than 50 birds, 
+numbers of two others were higher (Figures 12-14).  
+ 
+Pranty (2001, 2002) used CBC data to graph 
+population changes over time for 10 species of 
+exotics, including three psittacines.  Brightsmith 
+(1999) used data from specific CBCs in south 
+Florida and Los Angeles to help describe changes  
+347 
+ 
+Table 5.  Long-term (>10 years) trends in abundance and distribution of exotic parrot species on CBC 
+circles within California and Florida, 1970 to 2006.  Values are Spearman rank correlation coefficients 
+(Rs) for year with number of individual birds reported; and for year with number of CBC circles where 
+a species was reported.  Species with significantly increasing and expanding populations in both states 
+are in bold typeface. 
+ 
+California 
+Florida 
+Species 
+Years 
+(no. yrs) 
+Rs 
+(abundance) 
+Rs  
+(CBC 
+circles) 
+Years 
+(no. yrs) 
+Rs 
+(abundance) 
+Rs  
+(CBC 
+circles) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Budgerigar 
+--- 
+--- 
+--- 
+1970-2006 
+(30) 
+-0.55 *** 
+-0.22 
+Rose-ringed parakeet 
+1984-2006 
+(23) 
+0.84 *** 
+0.81 *** 
+1974-2006 
+(33) 
+0.22 
+0.32 
+Blue-crowned parakeet 
+--- 
+--- 
+--- 
+1989-2006 
+(18) 
+0.61 *** 
+0.42 * 
+Green parakeet 
+--- 
+--- 
+--- 
+1984-2006 
+(23) 
+0.39 * 
+0.30  
+Mitred parakeet 
+1991-2006 
+(16) 
+0.70 *** 
+0.60 ** 
+1989-2006 
+(18) 
+0.61 *** 
+0.45 * 
+Red-masked parakeet 
+1994-2006 
+(13) 
+0.76 *** 
+0.73 *** 
+1989-2006 
+(18) 
+0.60 *** 
+0.41 * 
+White-eyed parakeet 
+--- 
+--- 
+--- 
+1989-2006 
+(18) 
+0.58 ** 
+0.45 * 
+Black-hooded parakeet 
+1990-2006 
+(17) 
+0.73 *** 
+0.30  
+1981-2006 
+(26) 
+0.97 *** 
+0.94 *** 
+Monk parakeet 
+--- 
+--- 
+--- 
+1974-2006 
+(33) 
+0.99*** 
+0.97 *** 
+Yellow-chevroned 
+parakeet  
+1996-2006 
+(11) 
+0.67 ** 
+0.90 *** 
+1995-2006 
+(12) 
+0.79 *** 
+0.64 ** 
+Red-crowned parrot 
+1976-2006 
+(31) 
+0.86 *** 
+0.86 *** 
+1975-2006 
+(32) 
+-0.16 
+-0.33 * 
+Lilac-crowned parrot 
+1979-2006 
+(28) 
+0.38 ** 
+0.47 ** 
+--- 
+ --- 
+--- 
+Blue-fronted parrot 
+--- 
+--- 
+--- 
+1995-2006 
+(12) 
+0.69 ** 
+0.07 
+Yellow-crowned parrot 
+1975-2006 
+(32) 
+-0.25 
+-0.05 
+1978-2006 
+(29) 
+-0.67 *** 
+-0.45 ** 
+Orange-winged parrot 
+--- 
+--- 
+--- 
+1989-2006 
+(18) 
+0.30 
+0.58 ** 
+* = P ≤ 0.10, ** = P ≤ 0.05, *** = P ≤ 0.01 
+ 
+348 
+ 
+1
+10
+100
+1000
+10000
+0
+2
+4
+6
+8
+Maximum No. CBCs
+Maximum No. Reported
+BkhPar
+MitPar
+BufPar
+WhfPar
+MeaPar
+YwcPar
+Budger
+Orf Par
+MonPar
+RecPar
+Mit Par
+LicPar
+YecPar
+RecPar
+RorPar
+RemPar
+YwcPar
+GrnPar
+RelPar
+                        Key
+BufPar    Blue-fronted Parrot
+LicPar     Lilac-crowned Parrot
+RecPar   Red-crowned Parrot
+RelPar    Red-lored Parrot
+WhfPar    White-fronted Parrot
+YwcPar    Yellow-crowned Parrot
+OrfPar     Orange-fronted Parakeet
+GrnPar    Green Parakeet
+MitPar      Mitred Parakeet
+RemPar   Red-masked Parakeet
+BkhPar    Black-hooded parakeet
+YecPar     Yellow-chevron. Parakeet
+Budger     Budgerigar
+MonPar    Monk Parakeet
+ 
+ 
+Figure 4.  Distribution and abundance of 12 exotic parrots from CBC circles within California (solid triangles) and 7 
+species within Texas (open circles), 2000-06. 
+ 
+ 
+0.0
+5.0
+10.0
+15.0
+0.0
+1.0
+2.0
+3.0
+Change in No. CBCs
+Change in No. Reported
+RelPar
+YwcPar
+MitPar
+WhfPar
+BufPar
+BkhPar
+RorPar
+RecPar
+RemPar
+YecPar
+BucPar
+RecPar
+OrfPar
+GrnPar
+MitPar
+Budgie
+MonPar
+YwcPar
+LicPar
+4.0
+                      Key
+BufPar    Blue-fronted Parrot
+LicPar     Lilac-crowned Parrot
+RecPar   Red-crowned Parrot
+RelPar    Red-lored Parrot
+WhfPar    White-fronted Parrot
+YwcPar   Yellow-crowned Parrot
+BucPar    Blue-crowned Parakeet
+OrfPar     Orange-fronted Parakeet
+GrnPar    Green Parakeet
+MitPar      Mitred Parakeet
+RemPar   Red-masked Parakeet
+YecPar     Yellow-chevroned Parakeet
+BayMac    Blue-and-yellow Macaw
+Budger     Budgerigar
+MonPar    Monk Parakeet
+Cockat      Cockatiel
+ 
+ 
+Figure 5.  Changes in abundance and distribution of 16 exotic parrots from CBC circles within California (solid 
+triangles) and 6 species in Texas (open circles), 2000-06. 
+ 
+ 
+ 
+349 
+ 
+1
+10
+100
+1000
+10000
+0
+4
+8
+12
+16
+20
+Maximum No. CBCs
+Maximum No. Reported
+OrwPar
+BufPar
+BkhPar
+MitPar  WhwPar
+YecPar  RecPar
+BucPar
+WhfPar
+RorPar
+Budger
+RemPar
+MonPar
+                       KEY
+BufPar    Blue-fronted Parrot
+OrwPar   Orange-winged Parrot
+RecPar   Red-crowned Parrot
+YwcPar    Yellow-crowned Parrot
+ChfMac   Chestnut-front. Macaw
+BayMac   Blue & Yellow Macaw
+BucPar    Blue-crowned Parakeet
+GrnPar    Green Parakeet
+MitPar      Mitred Parakeet
+RemPar   Red-masked Parakeet
+DuhPar    Dusky-headed Parakeet
+WhePar   White-eyed Parakeet
+YecPar     Yellow-chevroned Parakeet
+WhwPar   White-winged Parakeet
+Budger     Budgerigar
+MonPar    Monk Parakeet
+BkhPar   Black-hooded Parakeet
+RorPar   Rose-ringed Parakeet
+BayMac
+WhePar
+ChfMac
+GrnPar
+DuhPar
+5 species
+YwcPar
+ 
+ 
+Figure 6.  Distribution and abundance of 19 exotic parrots reported from CBC circles within Florida, 2000-06.  Five 
+additional species were reported from 1 count circle with <5 individuals: orange-fronted parakeet, red-lored parrot, lilac-
+crowned parrot, crimson-fronted parakeet, and cockatiel. 
+ 
+ 
+0.0
+5.0
+10.0
+15.0
+0.0
+1.0
+2.0
+3.0
+Change in No. CBCs
+Change in No. Reported
+OrwPar
+YwcPar
+MitPar
+BufPar
+RorPar
+BkhPar
+RecPar
+OrfPar
+WhwPar
+ChfMac
+Budger
+GrnPar
+MonPar
+RemPar
+40.0
+35.0
+YecPar
+7 species
+WhePar
+BucPar
+                          Key
+BufPar    Blue-fronted Parrot
+OrwPar    Orange-winged Parrot
+RecPar    Red-crowned Parrot
+YwcPar     Yellow-crowned Parrot
+ChfMac    Chestnut-fronted Macaw
+BucPar    Blue-crowned Parakeet
+OrfPar     Orange-fronted Parakeet
+GrnPar    Green Parakeet
+MitPar     Mitred Parakeet
+RemPar    Red-masked Parakeet
+WhePar    White-eyed Parakeet
+YecPar    Yellow-chevroned Parakeet
+WhwPar    White-winged Parakeet
+Budger    Budgerigar
+MonPar    Monk Parakeet
+BkhPar    Black-hooded Parakeet
+RorPar    Rose-ringed Parakeet
+ 
+Figure 7.  Changes in distribution and abundance of 18 exotic parrots from CBC circles within Florida, 2000-06.  Seven 
+additional species showed no net changes during this period: blue and yellow macaw, crimson-fronted parakeet, dusky-
+headed parakeet, lilac-crowned parrot, red-lored parrot, white-fronted parrot, and cockatiel. 
+350 
+ 
+0
+50
+100
+150
+200
+250
+300
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+00
+01
+02
+03
+04
+05
+06
+Year
+No. Birds Reported
+Blue-crowned Parakeet
+Green Parakeet
+White-eyed Parakeet
+White-winged Parakeet
+ 
+ 
+Figure  8.  Trends in numbers of blue-crowned parakeets, green parakeets, white-eyed parakeets and white-winged 
+parakeets from CBC circles within Florida, 1984-2006. 
+ 
+ 
+0
+100
+200
+300
+400
+95
+96
+97
+98
+99
+00
+01
+02
+03
+04
+05
+06
+Year
+No. Birds Reported
+Yellow-chevroned Parakeet-Florida
+Yellow-chevroned Parakeet-California
+ 
+ 
+Figure 9.  Trends in numbers of yellow-chevroned parakeets from CBC circles within California (solid line) and Florida 
+(dashed line), 1995-2006. 
+ 
+ 
+ 
+351 
+ 
+0
+100
+200
+300
+400
+88
+90
+92
+94
+96
+98
+00
+02
+04
+06
+Year
+No. Birds Reported
+Mitred Parakeet-California
+Mitred Parakeet-Florida
+ 
+0
+100
+200
+300
+400
+88
+90
+92
+94
+96
+98
+00
+02
+04
+Year
+No. Birds Reported
+Red-masked Parakeet-California
+Red-masked Parakeet-Florida
+ 
+ 
+Figure 10.  Trends in numbers of mitred parakeets and red-masked parakeets from CBC circles within California (solid 
+line) and Florida (dashed line), 1988-2006. 
+352 
+ 
+0
+200
+400
+600
+800
+70
+72
+74
+76
+78
+80
+82
+84
+86
+88
+90
+92
+94
+96
+98
+00
+02
+04
+06
+Year
+No. Birds Reported
+Black-hooded Parakeet-California
+Black-hooded Parakeet-Florida
+ 
+0
+200
+400
+600
+800
+70
+72
+74
+76
+78
+80
+82
+84
+86
+88
+90
+92
+94
+96
+98
+00
+02
+04
+06
+Year
+No. Birds Reported
+Rose-ringed Parakeet-Florida
+Rose-ringed Parakeet-California
+ 
+ 
+Figure 11.  Trends in numbers of black-hooded parakeets and rose-ringed parakeets from CBC circles within California 
+(solid line) and Florida (dashed line), 1970-2006. 
+353 
+ 
+0
+20
+40
+60
+80
+100
+79
+81
+83
+85
+87
+89
+91
+93
+95
+97
+99
+01
+03
+05
+Year
+No. Birds Reported
+Orange-winged Parrot-Florida
+Blue-fronted Parrot-Florida
+Lilac-crowned Parrot-California
+ 
+ 
+Figure 12.  Trends in numbers of orange-winged parrots, blue-fronted parrots and lilac-crowned parrots from CBC 
+circles within Florida and California, 1979-2005. 
+ 
+ 
+1
+10
+100
+1000
+10000
+75
+77
+79
+81
+83
+85
+87
+89
+91
+93
+95
+97
+99
+01
+03
+05
+Year
+No. Birds reported
+Red-crowned parrot-California
+Red-crowned parrot-Florida
+ 
+ 
+Figure 13.  Trends in numbers of red-crowned parrots from CBC circles within California (solid line) and Florida 
+(dashed line), 1988-2006. 
+354 
+ 
+355 
+0
+20
+40
+60
+80
+100
+76
+78
+80
+82
+84
+86
+88
+90
+92
+94
+96
+98
+00
+02
+04
+06
+Year
+No. Birds Reported
+Yellow-crowned parrot-California
+Yellow-crowned parrot-Florida
+ 
+Figure 14.  Trends in numbers of yellow-crowned parrots from CBC circles within California (solid line) and Florida 
+(dashed line), 1976-2006. 
+ 
+ 
+in local Brotogeris parakeet populations.  In his 
+review of feral parrot populations, Butler (2005) 
+described the status of several species on CBC 
+circles within the US and identified five psittacines 
+with significantly increasing populations: mitred, 
+blue-crowned (Aratinga acuticaudata), and black-
+hooded parakeets, blue-fronted parrot (Amazona 
+aestiva) , and chestnut-fronted macaw (Ara severa).  
+Our results supported the idea that the three 
+parakeets he identified have expanded in both 
+numbers and distribution, and that the blue-fronted 
+parrot population has increased (Table 5), but we 
+could not confirm this for the chestnut-fronted 
+macaw. 
+ 
+Population trends of monk parakeets have been 
+analyzed with CBC data (Van Bael and Pruett-
+Jones 1996, Avery et al. 2002, Pruett-Jones et al. 
+2007) to show that the US and Florida populations 
+of monk parakeets were increasing exponentially 
+and doubling every six to seven years.  Similar 
+population expansions have been observed in 
+Europe, where the species is also established (Sol et 
+al. 1997).  Plots of recent CBC data suggested that 
+they may beginning to decline (Figure 1, 2) but 
+long-term trends in abundance and distribution in 
+Florida (Table 5) and across the US were positive 
+(Rs > 0.92, P< 0.0001). 
+ 
+Monk parakeets are the best example of an 
+invasive pest parrot in North America, but while 
+distribution has increased over time (Figure 1) it 
+remains limited.  They have been reported from no 
+more than 2.8% of all CBC circles across North 
+America, but at the statewide scale they have been 
+reported from up to 35% of the circles in Florida.  
+To put these numbers in perspective, in recent 
+decades, the invasive European starling has 
+occurred on up to 96% of CBC circles across North 
+America. 
+ 
+In contrast to the monk parakeet, the budgerigar 
+population, which was deliberately established after 
+repeated releases of up to 3,000 birds along the 
+central Gulf Coast of Florida, did not become 
+invasive (Figure 2).  In the late-1970s, total 
+numbers in the wild peaked at >20,000 birds.  The 
+population was concentrated in five counties along 
+the Gulf Coast, but included birds widely scattered 
+across 31 of Florida’s 67 counties (Pranty 2001).  
+ 
+Budgerigars then declined dramatically in both 
+abundance and distribution during the 1980s and 
+1990s, and recently numbered <200 birds in just 
+two counties (Wenner and Hirth 1984, Pranty 2001, 
+NAS 2002, Florida Fish and Wildlife Conservation 
+Commission 2003).  Pranty (2001) and Butler 
+(2005) reviewed the potential causes for this 
+population crash, but data are sparse and no firm 
+conclusion has been presented.  A breeding 
+population on Tresco Island in the United Kingdom 
+(UK) followed a similar track: in less than 10 years, 
+ 
+10 pairs increased to 100 birds then crashed and 
+vanished after the resident who fed the birds moved 
+away (Butler 2005).  Rank correlation analyses for 
+budgerigars reflected the dramatic decline in 
+numbers from CBC circles within Florida, but the 
+decline in distribution (Figure 2) was not 
+significant (Table 5).  An intermediate example 
+(Figure 2c) is the recently established black-hooded 
+parakeet population whose limited range is 
+expanding in Florida (NAS 2002, Pranty and Lovell 
+2004).  They are not currently considered invasive, 
+but their numbers appear to be on the same 
+trajectory as the monk parakeet (Figure 3).   
+ 
+Our calculations and graphs were designed to 
+compare the relative abundance and distribution 
+status of exotic populations of parrots in order to 
+identify species that have increased rapidly in 
+numbers and distribution.  Our comparisons were 
+relative and restricted to psittacines reported from 
+CBC circles and the distribution of most species 
+was relatively limited.  In California, none occurred 
+on more than 8 count circles.  For Texas, the 
+maximum number of CBCs was 7 seven circles 
+(Figure 4).  Similarly for Florida, only two species 
+(monk and black-hooded parakeets) were reported 
+from more than 4 CBCs (Figure 6).   
+ 
+The graphic summaries of recent (1999-2006) 
+data from CBC circles within Florida, California, 
+and Texas highlighted the following species as 
+relatively widespread and abundant: monk 
+parakeet, black-hooded parakeet, red-crowned 
+parrot, green parakeet (Aratinga holochlora) , and 
+mitred parakeet (Figures 4, 6).  These 5 species 
+were previously recognized as established by 
+experts in the US (Table 2).  The most rapidly 
+expanding and increasing species in these years 
+were the blue-crowned parakeet, white-eyed 
+parakeet (Aratinga leucophthalmus), lilac-crowned 
+parrot (Amazona finschi) and red-lored parrot 
+(Amazona autumnalis lilcana; Figures 5, 7) which 
+may be in the process of establishing naturalized 
+populations.  In addition to these, longer-term 
+trends in numbers indicate that the yellow-
+chevroned and white-winged parakeet (Brotogeris 
+versicolurus) are capable of rapid, if not sustained, 
+population increases (Figures 8, 9). 
+ 
+As predicted by an exponential population 
+growth curve, many exotic vertebrate populations 
+have shown lag phases in population growth after  
+introduction (Mack et al. 2000).  After initial 
+releases, introduced populations may first grow 
+slowly as they build momentum and then suddenly 
+irrupt.  Following releases in Hawai`i, several 
+currently naturalized birds were not found breeding 
+or even sighted for many years (e.g., barn owls 
+(Tyto alba), white-rumped shama (Copsychus 
+malabaricus), and Guam swiftlets (Aerodramus 
+bartschi; Foster 2005).  Populations of the common 
+myna and red-billed leiothrix both experienced a 
+slow building period followed by rapid growth in 
+Hawai`i (Foster 2005).  CBC data reflected a 
+similar pattern for several introduced parrot 
+populations as well.  Examples from Florida 
+included monk parakeets (Figures 2, 3) and white-
+eyed parakeets (Figure 8) whose numbers built 
+slowly for >10 years.  In comparison, red-masked 
+parakeet counts remained low for about 15 years 
+(Figure 10).  Black-hooded parakeets were recently 
+accepted as an established part of Florida’s 
+avifauna following a lag of about 15 years (Figures 
+2, 3, 11).  Counts of several Amazona spp. 
+fluctuated greatly but have remained low for 10-20 
+years (Figures 12, 13).  Similarly, Maui’s mitred 
+parakeet population, which was founded by a single 
+pair, took 15 years to reach 200 (Runde and Pitt 
+2006).  The lag periods for south Florida’s yellow-
+chevroned and white-winged parakeets appeared 
+short at about 5 years (Figures 8, 9), but both 
+populations were founded by large-scale escapes of 
+wild birds in the pet trade (Brightsmith 1999).   
+ 
+Lag periods for rose-ringed parakeets appear to 
+be on the scale of decades.  Numbers on California 
+CBCs remained <200 for >20 years and still 
+appeared low after 30 years in Florida (Figure 11).  
+Established populations of rose-ringed parakeets in 
+the UK appeared to grow slowly from 1969-1996, 
+but have increased exponentially since then.  
+Annual increases have recently been estimated at 
+15 to 30%, but range expansion at 300-400 m/yr 
+has been relatively slow (Butler 2003).  Similar 
+growth rates were noted in the Netherlands, where 
+the population has increased at a rate of 22.5% per 
+year since 1994 (Keiji 2001).  For long-lived 
+parrots with low reproductive rates, this 
+phenomenon of long lag periods preceding 
+exponential population growth makes it especially 
+difficult to determine if feral populations will 
+become established or invasive and argues for 
+timely control of incipient populations even though 
+they may appear stagnant for 20-30 years. 
+ 
+356 
+ 
+POTENTIAL IMPACTS OF EXOTIC 
+PARROTS  
+ 
+Established populations of exotic parrots may 
+pose problems to Hawai`i’s natural systems as well 
+as human health and safety, and agriculture.  Since 
+there are no native psittacines, emerging parrot 
+populations may present novel threats to Hawai`i’s 
+ecology in ways that previous bird introductions 
+have not.  Although most psittacines are seed 
+predators and are not generally recognized as seed 
+dispersers, they do feed on many exotic invasive 
+plants and there is concern that they may disperse 
+viable seeds and over large areas.  For example, 
+mitred parakeets are known to feed on Miconia 
+calvescens berries in their home range and captive 
+feeding trials on Maui indicated that they can pass 
+viable Miconia seeds (Gassmann-Duval 2002). and 
+thus may currently be a factor in the long distance 
+dispersal of invasive Miconia into native forests 
+and other areas where much effort has been put into 
+eradication.  However, most parrots are seed 
+predators feeding on immature seeds, thus the 
+extent to which exotic parrots in general may 
+disperse alien plants is unclear (Loope et al. 2001; 
+J. Gilardi, personal communication). 
+ 
+As seed predators, parrots may inhibit 
+reproduction of native tree species.  Important 
+foods for exotic parrots in Los Angeles included 
+several palms (Araceae spp.; Garrett et al. 1997) 
+and introduced sulfur-crested cockatoos (Cacatua 
+galerita) reportedly fed on hearts of palm and 
+devastated large stands of two endemic palms 
+found only in Palau's rock islands (Engbring 1992, 
+Loope et al. 2001, National Environmental 
+Protection Council 2004).  Thus, introduced 
+psittacines may threaten Hawai`i’s endangered 
+loulu palms (Pritchardia spp.) and other native 
+trees and shrubs with large seeds. 
+ 
+On Maui, direct competition between mitred 
+parakeets and native birds has been observed in the 
+displacement of frigate birds (Fregata minor) from 
+roosting areas and in competition with shearwaters 
+(Puffinus spp.) and petrels (Pterodroma spp.) for 
+nesting sites in cliff-side burrows (MISC 2002) and 
+may also be in conflict with Hawaiian black 
+noddies (Anous minutus).  A similar situation may 
+exist with the burrowing parakeets on the Kona 
+Coast.  Roughly half of all psittacines include 
+flower parts, nectar, or pollen in their diets and in 
+Hawai`i, there is concern that these species could 
+feed on native ohia trees (Metrosideros 
+polymorpha) and other native flowering plants and 
+might devastate native honeycreeper populations by 
+competing for nectar resources (Loope et al. 2001). 
+ 
+A variety of parrot species are well-known 
+agricultural pests in their native ranges typically 
+targeting a wide variety of fruits, grains and oilseed 
+crops (Bomford 1992).  Habitats of about 30% of 
+psittacines included orchards, plantations or 
+croplands, but <4% included major Hawaiian crops 
+such as coffee plantations or flooded taro fields.  
+Cultivated tropical fruits, also important Hawaiian 
+crops, were specifically included in summaries of 
+diets for <10% of species; mango, citrus, banana 
+and papaya were most frequent.  Maize or various 
+nut crops were included in diets of about 20% of 
+species (T. Pratt and J. Foster, unpublished data).  
+The agricultural impact of parrots in Hawai`i has 
+not been assessed, but the potential for damage by 
+existing species is evidenced by the fact that over 
+70% (17) of the 24 psittacines recently sighted in 
+the state were identified as agricultural pest species, 
+or as feeding on cultivated crops, orchards, etc. in 
+their native ranges (Table 4).  In a recent survey of 
+farmers across Hawai`i, only 2% of respondents 
+were concerned about damage from parrots to fruits 
+and vegetables, such as corn, bananas, and papaya 
+(NWRC, unpublished data).  Our analyses suggest 
+that the species most likely to emerge as 
+agricultural pests in the US, if established, were the 
+Aratinga parakeets and Amazona parrots of South 
+America, cockatoos and corellas (Cacatua spp.) 
+from Australia, lovebirds from Africa, and 
+Psittacula parakeets from Africa and Asia.   
+ 
+The devastating impact of introduced parasites 
+and disease on native Hawaiian forest birds has 
+been well documented (Berger 1975; Van Riper et 
+al. 1986, Van Riper and Scott 2001, Van Riper et 
+al. 2002) and parrots can carry a variety of diseases 
+that could impact native forest birds.  As potential 
+disease vectors, wide-ranging parrot populations 
+threaten not only native bird species, but also 
+poultry flocks, cage birds, aviculture, and human 
+health.  Diseases potentially transmissible to man or 
+other birds include avian influenza, psittacosis (also 
+known as ornithosis, chlamydiosis, and parrot 
+fever), salmonellosis, pseudotuberculosis, 
+tuberculosis, avian malaria, avian pox, erysipelas, 
+pasteurellosis and Newcastle's disease.  Of these, 
+the first five are potentially of importance to human 
+health.  It has not yet been determined if any of the 
+free-ranging parrots in Hawai`i carry these 
+diseases.  Since 2002, restrictions aimed at 
+reducing imports of birds potentially infected with 
+Newcastle disease and West Nile Virus into 
+Hawai`i have been imposed.  However, thousands 
+357 
+ 
+of birds have recently been imported into the State 
+each year (Foster 2005).  Currently, avian influenza 
+if of great concern worldwide and there is 
+widespread recognition of the risk of disease 
+transmission associated with wildlife translocations 
+and international trade in birds (Fevre et al. 2006).  
+For highly pathogenic avian influenza (subtype 
+H5N1), there is a potential for pandemic spread and 
+cross-species transmission. 
+ 
+CONCLUSION 
+ 
+Every invasive species was first introduced, and 
+introduction effort is clearly the most important 
+influence on the establishment of exotic birds in 
+general, and of parrots in particular.  Thus, 
+minimizing the frequency of introductions, and the 
+numbers of parrots released, will be the best way to 
+prevent exotic parrots from becoming established in 
+the future.  This basic principle can be broadly 
+applied; in their review of the status of a wide 
+variety of exotic wildlife in North America and 
+Europe, Jeschke and Strayer (2005) concluded, 
+“…once a vertebrate is introduced, it has a high 
+potential to become invasive.  Thus, it is crucial to 
+minimize the number of species introductions to 
+effectively control invasive vertebrates”.  Because 
+invasive species are rarely eradicated, and their 
+damages will be borne for long periods, prevention 
+is the best cure and will likely be the most cost-
+effective cure in the long run (Keller et al. 2007).  
+As advocated by Loope et al. (2001), the list of 
+birds permitted into Hawai’i should be reassessed 
+to eliminate species with high risk of invasion.  Past 
+history of successful introduction, and trends in 
+distribution and abundance of introduced 
+populations are a reliable basis to identify parrots 
+that pose a high risk of invasion.  We used this 
+along with three life history traits (extent of altitude 
+range, diet breadth and degree of migration) to 
+screen psittacines and identified 22 species which 
+appeared most likely to establish naturalized 
+breeding populations, if introduced.  Currently, 17 
+of these are conditionally approved for import, 
+meaning that permits may be granted for 
+“individual possession, businesses, or institutions” 
+(Hawai`i Department of Agriculture HRS Chapter 
+71).  Policy makers might consider these as 
+potential candidates for early detection 
+surveillance, rapid response planning, or stricter 
+import regulations. 
+ 
+LITERATURE CITED 
+AMERICAN BIRDING ASSOCIATION (ABA).  2005. 
+Checklist: birds of  the continental United States and 
+Canada. 6th edition.  American Birding Association, 
+Colorado Springs, Colorado, USA. 
+AMERICAN ORNITHOLOGISTS’ UNION (AOU). 1998. 
+Check-list of North American birds, 7th edition. 
+American Ornithologists’ Union. Washington D.C., 
+USA.  www.aou.org/checklist/ index.php3.  
+Accessed January 10, 2007. 
+AVERY, M. L., E. C. GREINER, J. R. LINDSAY, J. R. 
+NEWMAN, AND S. PRUETT-JONES. 2002.  Monk 
+parakeet management at electric utility facilities in 
+South Florida.  Pages 140-145 in R. M. Timm and 
+R. H. Schmidt, editors.  Proceedings of the 20th 
+Vertebrate Pest Conference. 
+BANKS, R. C., C. CICERO, J. L. DUNN, A. W. KRATTER, P. 
+C. RASMUSSEN, J. V. REMSEN, J. D. RISING, AND D. 
+F. STOTZ.  2002.  43rd Supplement, American 
+Ornithologists’ Union checklist of North American 
+birds.  Auk 119:897-906. 
+BERGER, A. J. 1975. History of exotic birds in Hawaii, 
+part II. `Elepaio 35:72-80.  
+BERGER, A. J. 1981. Hawaiian birdlife. 2nd edition. 
+University of Hawaii, Honolulu, Hawaii, USA. 
+BISHOP, M. A. AND G. F. BENNETT.  1992. Host-parasite 
+catalogue of the avian haematozoa Supplement 1.  
+Memorial University of Newfoundland Occas. Pap. 
+Biol. No. 15. 
+BLACKBURN T. M., AND R. P. DUNCAN. 2001a.  
+Establishment patterns of exotic birds are 
+constrained by non-random patterns in introduction.  
+Journal of Biogeography 28:927-939 
+BLACKBURN T. M., AND R. P. DUNCAN. 2001b.  
+Determinants of establishment success in introduced 
+birds. Nature 414:195-197.  
+BOMFORD, M.  1992.  Review of research on control of 
+bird pests in Australia.  Pages 93-96 in J. E. 
+Borrecco and R. E. Marsh, editors.  Proceedings of 
+the 15th Vertebrate Pest Conference.  
+BRIGHTSMITH, D.  1999. White-winged parakeet 
+(Brotogeris versicolurus) and yellow-chevroned 
+parakeet (Brotogeris chiriri).  No. 386-387 in A. 
+Poole and F. Gill, editors.  The birds of North 
+America, Philadelphia, PA, USA. 
+BUTLER, C. J.  2003.  Population biology of the 
+introduced rose-ringed parakeet Psittacula krameri 
+in the UK.  Thesis, University of Oxford, UK. 
+BUTLER, C. J.  2005.  Feral parrots in the continental 
+United States and United Kingdom: past, present, 
+and future.  Journal of  Avian Medicine and Surgery 
+19:142-149. 
+CALIFORNIA BIRD RECORDS COMMITTEE.  2006.  
+California bird list. Western Field Ornithologists.  
+www.wfo-cbrc.org/cbrc/ca_list.html. 
+CASSEY, P. T. 2002. Life history and ecology influences 
+establishment success of introduced land birds. 
+Biological Journal of the Linnean Society 
+ 
+76:465–480. 
+358 
+ 
+CASSEY, P. T., T. M. BLACKBURN, R. P. DUNCAN, AND 
+K. J. GASTON.  2005.  Causes of exotic bird 
+establishment across oceanic islands.  Proceedings 
+of the Royal Society B: Biological Sciences 
+272:2059-2063. 
+CASSEY, P. T., M. BLACKBURN, K. E. JONES, AND J. L. 
+LOCKWOOD.  2004a. Mistakes in the analysis of 
+exotic species establishment: source pool 
+designation and correlates of introduction success 
+among parrots (Aves: Psittaciformes) of the world.  
+Journal of  Biogeography 31:277-284. 
+CASSEY, P. T., M. BLACKBURN, G. J. RUSSELL, K. E. 
+JONES, AND J. L. LOCKWOOD.  2004b.  Influences on 
+the transport and establishment of exotic bird 
+species: An analysis of the parrots (Psittaciformes) 
+of the world.  Global Change Biology 10:417-426. 
+CASSEY, P. T., M. BLACKBURN, D. SOL, R. P. DUNCAN, 
+AND J. L. LOCKWOOD.  2004c.  Global patterns of 
+introduction effort and establishment success in 
+birds. Proceedings of the Royal Society B: 
+271:S405-408. 
+DEL HOYO J., A. ELLIOTT, AND J. SARGATAL.  1997.  
+Handbook of the birds of the world. Sandgrouse to 
+cuckoos. Birdlife International, Cambridge, UK. 
+DIDHAMA, R. K., J. M. TYLIANAKIS, M. A. HUTCHISON, 
+R. M. EWERSC, AND N. J. GEMMELL.  2005. Are 
+invasive species the drivers of ecological change? 
+Trends in Ecology and Evolution 20:470-474. 
+DOMÈNECH, J., J. CARRILLO AND J. C. SENAR.  2003. 
+Population size of the monk parakeet Myiopsitta 
+monachus in Catalonia.  Revista Catalana 
+d’Ornitologia 20:1-9. 
+ENGBRING, J.  1992.  Surveys of forest birds of the 
+Republic of Palau.  U.S. Fish and Wildlife Service, 
+Honolulu, Hawaii, USA. 
+EGUCHI, K., AND H. E. AMANO.  2004.  Spread of exotic 
+birds in Japan.  Ornithological Science 3:3-11. 
+FEVRE, E. M., B. M. DE C. BRONSVOORT, K. A. 
+HAMILTON, AND S. CLEAVELAND. 2006.  Animal 
+movements and the spread of infectious diseases. 
+Trends in Microbiology 14:125-131. 
+FLORIDA FISH AND WILDLIFE CONSERVATION 
+COMMISSION. 2003.  Florida's breeding bird atlas: a 
+collaborative study of Florida's birdlife. 
+www.myfwc.com/bba. 
+FLORIDA ORNITHOLOGICAL SOCIETY RECORDS 
+COMMITTEE.  2005.  Official state list of the birds of 
+Florida.  www.fosbirds.org/RecordCommittee/ 
+ 
+StateListFebruary2005.htm.  Accessed January, 8 
+and 10, 2007. 
+FORSHAW, J. M. 1977. Parrots of the world. Second 
+edition. T. F. H. Publications, Neptune, New Jersey, 
+USA. 
+FOSTER, J. F.  2005.  Exotic bird invasion into forests of 
+Hawaii: demography, competition, and seed 
+dispersal. Thesis, University of Illinois, Urbana, 
+Illinois, USA. 
+FOSTER, J. T.  In Press. The history, naturalization, and 
+impacts of introduced birds in the Hawaiian islands.  
+Chapter 13 in T. Pratt, editor. Hawaii forest birds, 
+University of Hawaii, Honolulu, Hawaii, USA. 
+GARRETT, K. L, K. T. MABB, C. T. COLLINS, AND L. M. 
+KARES.  1997.  Food items of naturalized parrots in 
+southern California. West. Birds 28:196-201. 
+GASSMANN-DUVALL, R.  2002.  Naturalized mitred 
+conures on Maui and other parrots–pest evaluation 
+and management proposal for non-native, invasive 
+bird species.  Unpublished draft report, Maui 
+Invasive Species Committee, Makawao, Maui, 
+Hawai’i, USA. 
+JESCHKE, J. M., AND D. L. STRAYER.  2005.  Invasion 
+success of vertebrates in Europe and North America.  
+Proceedings of the National Academy of Sciences 
+102:7198-7202. 
+JUNIPER, T., AND M. PARR.  1998.  Parrots. A guide to 
+the parrots of the world.  Yale University, New 
+Haven, Connecticut, USA. 
+KEIJI, G. O. 2001. Ring-necked parakeets Psittacula 
+krameri in Amsterdam, 1976-2000. Limosa 
+ 
+74:29-32. 
+KELLER, R. P., D. M. LODGE, AND D. C. FINNOFF.  2007.  
+Risk assessment for invasive species produces net 
+bioeconomic benefits.  Proceedings of the National 
+Academy of  Sciences 104:203-207  
+KOLAR C. J., AND D. M. LODGE.  2001.  Progress in 
+invasion biology: predicting invaders. Trends in 
+Ecology and Evolution 16:199-204. 
+LAMONT, D.  2002.  Rainbow lorikeet.  Farmnote No. 
+8/2002.  Department of Agriculture West. Australia.  
+Delivery Centre, Western Australia. 
+LEVER, C.  1987.  Naturalized birds of the world.  John 
+Wiley & Sons, New York, NY, USA. 
+LOCKWOOD, J. L. 1999.  Using taxonomy to predict 
+success among introduced avifauna: relative 
+importance of transport and establishment. 
+Conservation Biology 13:560-567. 
+LONG, J. L.  1981.  Introduced birds of the world.  The 
+worldwide history, distribution and influence of  
+birds introduced to new environments.  David & 
+Charles, Newton, Abbot, London. 
+LOOPE, L. L., F. G. HOWARTH, F. KRAUS, AND T. K. 
+PRATT. 2001. Newly emergent and future threats of 
+alien species to pacific birds and ecosystems. 
+Studies in Avian Biology 22:291-304. 
+MACK, R. N., D. SIMBERLOFF, W. M. LONSDALE, H. 
+EVANS, M. CLOUT, AND F. A. BAZZAZ. 2000. Biotic 
+invasions: causes, epidemiology, global 
+consequences, and control.  Ecological Applications 
+10:689-710. 
+MAUI INVASIVE SPECIES COMMITTEE (MISC).  2002.  
+Action plan.  Makawao, Hawai`i, USA.  
+www.hear.org/misc/pdfs.  Accessed January, 2007. 
+MOULTON, M. I., K. E. MILLER, AND E. A. TILLMAN.  
+2001.  Patterns of success among introduced birds in 
+the Hawai`ian islands. Studies in Avian Biology  
+22:31-46. 
+359 
+ 
+360 
+NATIONAL AUDUBON SOCIETY (NAS). 2002. The 
+Christmas bird count. Historical results. 
+www.audubon.org/bird/cbc.  Accessed October, 
+2006. 
+NATIONAL ENVIRONMENTAL PROTECTION COUNCIL.  
+2004.  Palau national invasive species strategy.  
+www.palau.biodiv-chm.org.  Accessed February 12, 
+2007. 
+PRANTY, W.  2001.  The budgerigar in Florida: rise and 
+fall of an exotic Psittacid.  American Birds 
+ 
+55:389-397. 
+PRANTY, W.  2002.  The use of Christmas bird count 
+data to monitor populations of exotic birds.  
+American Birds 56:24-28. 
+PRANTY, W., AND H. W. LOVELL.  2004.  Population 
+increase and range expansion of black-hooded 
+parakeets in Florida.  Florida Field Naturalist  
+32:129-137. 
+PRANTY, W., AND K. L. GARRETT.  2003.  The parrot 
+fauna of the ABA area: a current look.  Birding 
+35:248-261. 
+PRATT, H. D., L. BRUNER, AND D. G. BERRETT. 1987.  A 
+field guide to the birds of Hawaii and the tropical 
+Pacific. Princeton University, Princeton, New 
+Jersey, USA. 
+PRUETT-JONES, S.,  J. R. NEWMAN, C. M. NEWMAN, M. 
+L. AVERY AND J. R. LINDSAY 2007.  Population 
+viability analysis of monk parakeets in the United 
+States and examination of alternative management 
+strategies.  Human-Wildlife Conflicts 1:35–44. 
+PYLE, R. L. 2002.  Checklist of the birds of Hawaii.  
+Elepaio 62:137-148. 
+RICCIARDI A., W. W. M. STEINER, R. N. MACK, AND D. 
+SIMBERLOFF. 2000. Computers in biology: toward a 
+global information system for invasive species. 
+BioScience 50:239-244. 
+ROE, D., T. MULLIKEN, S. MILLEDGE, J. MREMI, S. 
+MOSHA, AND M. GRIEG-GRAN.  2002.  Assessing the 
+impacts of wildlife trade regulations.  Pages 32-54 
+in Making a killing or making a living? Wildlife 
+trade, trade controls and rural livelihoods.  
+Biodiversity and Livelihoods Issues No. 6. Chapter 
+4.  International Institute of Environmental 
+Development, and TRAFFIC.  www.traffic.org.  
+Accessed January 11, 2007. 
+RUNDE, D. E. AND W. C. PITT.  2006.  Developing 
+capture and removal methods for mitred conures 
+(Aratinga mitrata) on Maui: report and 
+recommendations.  Unpublished report, US Fish and 
+Wildlife Service, Honolulu, Hawaii, USA. 
+SIMBERLOFF, D., SCHMITZ, D. C., BROWN, T.C.  1997.  
+Strangers in paradise: impact and management of 
+nonindigenous species in Florida.  Island Press, 
+Washington D.C., USA. 
+SIMBERLOFF, D., AND L. GIBBONS. 2003. Now you see 
+them, now you don't! - population crashes of 
+established introduced species. Biological Invasions 
+6:161-172. 
+SOL, D., AND L. LEFEBVRE.  2000.  Behavioural 
+flexibility predicts invasion success in birds 
+introduced to New Zealand. Oikos 90:599-605. 
+SOL, D., D. M. SANTOS, E. FERIA, AND J. CLAVELL. 1997. 
+Habitat selection by the monk parakeet Myiopsitta 
+monachus during the colonization of a new area. 
+Condor 99:39-46. 
+SPREYER, M. R., AND E. H. BUCHER. 1998. Monk 
+parakeet (Myiopsitta monachus). No. 322 in A. 
+Poole and F. Gill, editors.  The Birds of North 
+America, Philadelphia, Pennsylvania, USA. 
+TEXAS BIRD RECORDS COMMITTEE.  2006.  Accepted 
+Texas species.  Texas Ornithological Society.  
+www.texasbirds.org/tbrc/statelis.htm. 
+VAN BAEL, S., AND S. PRUETT-JONES.  1996. Exponential 
+population growth of monk parakeets in the United 
+States.  Wilson Bull 108:584-588. 
+VAN RIPER, C., III, AND J. M. SCOTT. 2001. Limiting 
+factors affecting Hawaiian native birds. Studies in 
+Avian Biology 22:221-233.  
+VAN RIPER, C., III, S. G. VAN RIPER AND W. R. HANSEN.  
+2002.  Epizootiology and effect of avian pox on 
+Hawaiian forest birds. Auk 119:929-942. 
+VAN RIPER, C., III, S. G. VAN RIPER, M. L. GOFF, AND 
+M. LAIRD. 1986. The epizootiology and ecological 
+significance of malaria in Hawaiian land birds. 
+Ecological Monographs 56:327-344. 
+WENNER, A. S., AND D. H. HIRTH.  1984.  Status of the 
+feral budgerigar in Florida.  Journal of Ornithology 
+55:214-219. 
+WILLIAMSON, M.  1996.  Biological invasions. Chapman 
+& Hall, London, UK.  Accessed January 22, 2007. 
+WORLD WILDLIFE FUND.  2007.  Parrot trade.  Online 
+article. www.worldwildlife.org/trade/ 
+ 
+faqs_parrot.cfm.
+ 

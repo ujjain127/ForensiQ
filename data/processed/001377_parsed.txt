@@ -1,0 +1,1288 @@
+ASSESSING THE LITERARY:
+INTELLECTUAL BOUNDARIES AND JUSTIFICATION
+IN FRENCH AND AMERICAN LITERARY STUDIES1
+                                                 
+1 This paper was made possible by funding from the Center for Excellence in French Studies, the Center
+of International Studies, and the sociology department of Princeton University.  I wish to thank
+Agnes Camus, Brian Colkler, Nathalie Heinich, Claudette Lafaye, Cyril Lemieux, Michael Moody,
+Abigail Smith Saguy, John Schmalzbauer, Laurent Thèvenot, and Daniel Weber for their critical
+reactions to the paper at several stages in its composition.  Special thanks go to Michèle Lamont,
+Paul Starr, and Karen Petroski for their detailed criticism of multiple drafts.  I would like to thank
+the twenty literary scholars in France and the United States, who shall remain anonymous, for
+taking time from their busy schedules to be interviewed, and for answering my questions frankly
+and with patience.  Finally, a number of literature professors and sociologists were kind enough to
+read and comment upon the penultimate draft of this paper when it arrived unexpectedly on their
+doorsteps:  my thanks to Sarah Corse, Priscilla Parkhurst Ferguson, Jean-Louis Fabiani, Catherine
+Gallagher, Thomas Pavel, and Ezra Suleiman, and the two respondents who were also interviewees.
+Jason Duell
+Princeton University
+INTRODUCTION
+Has American literary criticism “gone French”? Affirmative answers to this
+question have become commonplace. Many literature professors in America credit
+French scholars such as Michel Foucault, Roland Barthes, Jacques Derrida, Louis
+Althusser, Jacques Lacan, and Julia Kristeva with having revitalized their field after
+the long postwar reign of New Criticism.2  Citations of these thinkers have steadily
+increased in American journals of literary criticism since the late 1960s,3 and a large
+number of the leading literary scholars in America have drawn heavily upon them in
+their own work.4  It is difficult to think of a major critical paradigm in American
+literary studies today—be it deconstruction, psychoanalysis, Marxism, gender and
+                                                 
+2 Frank Lentricchia, a literature professor at Duke, has compared his generation’s discovery of Derrida
+to an “awakening” from a “dogmatic slumber" (Lentricchia , 1980: 159).  It is worth noting that
+Lentriccia's opinion on the benefits of French theory has since changed dramatically.
+3 Figures compiled by Michèle Lamont and Marsha Witten show a steady increase in articles on French
+thinkers in American academic journals of literary studies.  Between the periods 1970-1977 and
+1980-1987, for instance, there was an increase of 52 percent in articles on Foucault (44 vs. 67), an
+increase of 32 percent in articles on Barthes (94 vs. 124), and an increase of 390 percent in articles
+on Lacan (21 vs. 82).  Figures for articles  on Jacques Derrida show a similar trend, with an increase
+from 60 in 1970-1977 to 147 in 1980-1984 (Lamont 1987).  My thanks to Michèle Lamont for
+making these figures (some unpublished in the form presented here) available to me.  For expanded
+discussion and numbers on the diffusion of French thinkers into a variety of disciplines in the
+United States, see Lamont and Witten (1988).
+4 Such scholars would include, for instance,  Edward Said, J. Hillis Miller, Gayatri Spivak, Eve
+Sedgwick, Fredric Jameson, Judith Butler, Henry Louis Gates, Jr., Houston Baker, Barbara Johnson,
+Barbara Herrnstein Smith.
+race studies, New Historicism, or post-colonialism—in  which the work of French
+theorists does not figure prominently.
+Given the vast influence that many American literary professors attribute to
+French theory—a vision shared by many of their critics (e.g., Hughes 1989; Paglia
+1991; Kimball 1990), who deplore such influence5—one might expect to see a great
+deal of intellectual commonality today between academic literary studies in France
+and the United States.  Yet here a puzzle presents itself: if American literary critics
+have indeed “gone French,” they seem to have done so in a manner quite different
+than the French have themselves.  Interviews I conducted for this study with twenty
+literature professors in both countries show significant cross-national differences in
+their prevailing conceptions of what “literary studies” are and ought to be.6  Literature
+                                                 
+5 Critics of recent trends in American literary scholarship tend to see it as enthralled to trendy French
+theories.  For instance, Robert Hughes (1989) laments American academic literary critics’
+infatuation with “the lake of jargon whose waters (bottled for export to the United States) well up
+between Nanterre and the Sorbonne and to whose marshy verge the bleating flocks of
+poststructuralists go each night to drink.”  Camille Paglia daydreams a scenario where “Aretha
+Franklin...  shouting ‘Think!’ blasts Lacan, Derrida, and Foucault like dishrags against the wall, then
+leads thousands of freed academic white slaves in a victory parade down the Champs-Elysées” (The
+New York Times Book Review, May 5, 1991).  Similar sentiments can be found in Kimball (1990).
+6  Interviews were split evenly between each country (10 in France, 10 in the United States), and took
+place in Paris and the New York area in the summer of 1995.  Interviewees were chosen via
+snowball sampling:  an initial list was derived from surveying approximately a half-dozen
+professors familiar with the discipline in either country, and interviewees were then asked to
+provide further names.  The criteria for inclusion given to respondents was that they try to compile a
+list that both included “prominent” scholars, and that represented the diversity of intellectual
+perspectives within their discipline.  The institutional affiliations of interviewees in France included
+professors in the United States, for example, consider a much wider range of material
+to be appropriate for literary studies than do their French counterparts.  The two
+groups also differ in the types of criteria they perceive as legitimate for determining
+“good work.”  And French and American literature professors exhibit very different
+amounts of professional consensus over these boundaries and evaluatory criteria, with
+the French showing much more agreement over the basic goals and definition of
+literary studies.  Finally, the two groups forward opposing narratives of how their
+discipline has evolved intellectually in the past generation, and of where they think it
+is headed in the future.
+Why, despite the apparent massive influence of the French upon American
+literary scholars, do literary studies show such marked variance between the two
+countries?  I forward three explanations for these cross-national differences.  First, the
+more diffuse and contentious sense of national cultural identity of the United States
+and the greater legitimacy there of claims based on ascribed group characteristics has
+weakened the traditional boundaries of the Anglo-American literary “canon,” and
+forwarded the use of “representation” as a criterion for scholarship, whereas the
+                                                                                                                                 
+the Universities of Paris III & IV (the Sorbonne), VII, and VIII; the Ecole des Hautes Etudes en
+Sciences Sociales; the Maison des Sciences de l’Homme; and the Collège de France.  In the United
+States, they included Columbia University; the City University of New York Graduate Center; New
+York University; Rutgers University, Princeton University; and Yale University.  The decision was
+made to interview professors of French literature in France, and of English literature in America,
+rather than professors of the same literature (French or English) in both countries, under the
+assumption that scholars of the national literature of their respective countries would form more
+structurally homologous groups than would scholars of a single literature that was foreign in one of
+the two contexts.  All interviews were done under signed agreement that interviewee comments
+would be anonymous in attribution, so that participants could speak with a maximum of candor.
+opposite is the case in France.  Second, national differences in the ability of humanist
+intellectuals to influence public debate drive the presence of “political” criteria in the
+American literary studies and their relative absence in France.  Third, differences in
+the national consensus over the status of high culture and differences in the
+“disciplinary ecology” in both countries have influenced the professional strategy of
+literary studies, with French literary scholars choosing to maintain their traditional
+intellectual niche, while American literary scholars are increasingly moving into
+intellectual terrain traditionally the province of the social sciences and philosophy.
+Finally, I examine the paradoxical “Frenchness” of contemporary American
+literary studies—why certain French scholars have become so influential, despite their
+waning or nonexistent influence in literary studies in France itself.  I propose that
+these French thinkers have provided an “alternative canon” for American literary
+scholars, allowing them to maintain their professional distinctiveness (and legitimacy)
+as they enter fields in which their work might otherwise be indistinguishable from
+social science or philosophy.  I conclude, however, that for reasons of both supply and
+demand the further importation of French theory is unlikely to play a significant role
+in American literary studies in the future.
+LITERARY STUDIES IN THE UNITED STATES
+[I]t took more years than anyone could possibly have imagined for the earth to
+move in the world of American literary and cultural studies.  What Jacques
+Derrida calls “white mythology” has held uncommon sway for centuries in the
+male hands of those who believe themselves to be completely responsible for
+both the sun’s light and the legacy of the Enlightenment.  Toni Morrison
+stunningly captures the entailments of this control in Playing in the Dark,
+where she notes that any “others” in the American literary and cultural
+enterprise were, until quite recently, considered dark or in the dark, the
+exclusive property of, and instrument for, white males who were living in the
+light—or who thought that they were.
+It is precisely a new sense of a full, diversifying, and ever-proliferating
+household on earth that has brought us to the sign “multiculturalism.”  The
+sign has unfolded in the same critical and intellectual space that has witnessed
+the coming to fullness of such denominations as black studies, women’s
+studies, Chicano and Chicana studies, gay and lesbian studies, Native
+American studies, and Asian American studies. Here, we might say—in these
+denominations—is the earth’s plenty.  And there can be no doubt that the old
+order has changed, yielding paradigmatically to the new. (Baker 1993, 5)
+The above quote captures a number of themes that permeate much of
+American literary scholarship today: the conflation of “literary” and “cultural” study;
+the belief that traditional literary scholarship has been politically oppressive,
+especially to women and minority groups; the citation of French theorists to help
+expose the false Enlightenment rationalism by which that oppression was justified;
+and the conviction that a cluster of “critical” (or, often, “post-modern”) scholarly
+approaches based around categories of race, ethnicity, gender, and sexual orientation
+has arisen to replace the older theories and set the situation right.  And while the
+author states these ideas with a degree of force and conviction that is probably greater
+than that which would be used by the majority of literature professors in America
+today, the fact that he was the president of the Modern Language Association when he
+wrote them (and that his comments were published in a journal distributed to every
+member of that organization) seems enough to merit concluding that his perspective
+on literary studies is not entirely out of the mainstream.  And indeed, all of the
+literature professors interviewed for this study in America agreed that there have been
+major changes in the discipline in the last twenty-five years, and that the academic
+study of literature has become more imbued with theory, more concerned with politics
+(especially issues of race, class, gender, and sexual orientation), and less tightly
+focused upon a traditional “canon” of “great” literary works.  Most also noted that the
+discipline has witnessed more intellectual conflict in this period, or at least that such
+conflict has acquired more explicitly political overtones than was the case previously.
+Throughout most of the postwar period until the late sixties, American literary
+studies were dominated by the New Criticism, which provided a number of clear
+standards for work in the discipline.  First, it drew a fairly clear line between
+“literature” and “non-literature”; literary works were characterized by their richer,
+more ambiguous language.  Second, it emphasized the formalist study of the internal
+workings of literary texts, without reference to their social context; indeed, New
+Critical doctrines such as the “heresy of paraphrase” and the “intentional fallacy”
+(Wimsatt and Beardsley, 1954) militated against any attempts to summarize or explain
+the meaning of literary works via factors external the text, even including authors’
+stated intentions about their own work.  Aggressively challenged by a host of
+theoretical movements, such as deconstruction, feminism, African-American studies,
+Marxism, and psychoanalysis, the New Criticism began to decline in the late 1960s,
+and had essentially disappeared by the late 1970s.  American literary studies have
+since seen an explosion of new paradigms—New Historicism, post-colonialism, queer
+theory, and Cultural Studies, to name some of the most prominent—and this new
+theoretical landscape has resulted in major shifts in the scholarly boundaries of the
+discipline that had held during the reign of New Criticism.
+One of these shifts is that literary studies in America have become more
+political in their focus.  Many of the most prominent paradigms in the discipline are
+explicitly political, and often base their legitimacy upon the notion that they represent
+perspectives which have traditionally been excluded from literary studies for political
+reasons.  The intellectual climate appears to be sufficiently permeated by politicization
+that even those scholars who have no particular wish to be “political” often cannot
+help but see many of their everyday activities through a political prism (or, as many in
+the profession might put it, a “hermeneutic of suspicion”7).  For instance, when asked
+if he considered his work to be a political activity in any way, an Ivy League professor
+(who specializes in drama) noted:
+I don’t think of it that way while I’m doing it... [But] just by the choice of the
+people whose work I consider most important in contemporary theater I’m
+engaged in a political action, and when I make up the syllabus for the
+contemporary drama course those are the people I’m teaching, and from some
+people’s point of view this would look less like a syllabus than, you know like
+a political correctness canon or something, so, yeah [my work is political].
+While this particular professor showed ambivalence about treating his work as
+political (“I don’t think of it that way while I’m doing it”), some other literature
+professors fully embrace the idea of literary criticism as a politically engaged practice.
+                                                 
+7 The phrase “hermeneutic of suspicion” derives from philosopher Paul Ricoeur’s (1970) work on Freud
+and Marx, and has come to refer generally in the humanities to any intellectual methodology which,
+given a truth claim, immediately seeks to problematize it by uncovering the power interests driving
+such claims.
+One interviewed professor (a former tenured literature professor at an Ivy League
+university) responded to the question “Do you see your work as political?” by stating:
+“The only reason why I do what I do is for political reasons—I couldn’t see any
+reason for doing it otherwise.” In the course of a discussion of the criteria for good
+scholarly work, it further became evident that the professor viewed political concerns
+as inevitably extending to matters such as evaluating job candidates:
+I like work to have a goal. That’s something I would look for in someone’s
+work—that they have a clear sense of purpose.
+Does it matter what kind of purpose they have?
+To my mind, it would have to be—it would have to be a political stake, that
+was relevant.
+Would you have a problem with hiring someone whose politics you found
+repugnant?
+Oh yeah—I wouldn’t hire him.  No way.  I mean, I have to work with these
+people. [laughs]
+To be sure, there are many literature professors in America who disapprove of
+the highly politicized atmosphere in contemporary literary studies, or who at least feel
+that its political aspects are being overblown and/or overextended into inappropriate
+areas.  The majority of professors interviewed, for instance, felt that one could and
+ought to draw a line between a scholar’s politics and the quality of his or her work,
+and that the former should be excluded as a criteria in hiring.  But these professors
+often expressed the concern that in practice, this separation does not happen, and that
+instead the two aspects are conflated; for instance, one professor at a noted public
+research university complained that job candidates often get evaluated on their skill in
+a kind of political theater, in which they compete to appear ever more “radical,” and in
+which a savvy performance gains one vital recognition as the “smart” candidate:
+What counts as a better reading is actually a reading that does what the
+paradigm is supposed to do even better than the paradigm.  So usually people
+correct Said by showing that he’s not “Saidish” enough; he could be even
+more postcolonial—or Eve Sedgwick could be even more queer...  And then
+you show that you’re even more queer than Eve Sedgwick. You never get
+points by saying that Eve Sedgwick is too queer, Edward Said is too
+postcolonial...  It’s just this constant outflanking.  It’s “how do I take a position
+just to the left of everybody else?” So you find somebody who’s already on the
+left, and then you find some reason why part of their position might possibly
+lead to fascism [laughs], there’s still some lingering degree of oppression, and
+then you get rid of that...  It just becomes a kind of dance.  It’s very
+predictable.
+Besides causing what they perceive as an unwarranted intrusion of political
+concerns into the evaluation of scholarship, politicization is also seen by some literary
+scholars as beginning to extract a heavy toll on the discipline in the form of decreased
+public legitimacy for the profession, and also in a frequent breakdown of collegial
+relations, to the point where many departments witness open feuding and bureaucratic
+breakdown:
+The problem has been that it’s become much more difficult to defend what
+people are doing in the academy because it looks rather shallowly adversarial
+in a way that possibly it didn’t before—in the fifties and sixties...  It’s put
+everybody in a very uncomfortable position, and it’s produced a lot of
+stridency, I think, and I think the stridency results in increasingly simplistic
+political paradigms.  So I think things are not in a great way right now...
+Departments just collapse  because they get so factionalized, and everybody’s
+so suspicious of everyone else’s motives—rightly so, probably! [laughs]—and
+it’s made for a bad situation. It hasn’t shaken out, in other words, terribly
+well—it’s been about ten or fifteen years since all this has been going on.
+Another major shift that has occurred in American literary studies is in the area
+of subject matter and methodology; the New Critical criterion of close and fairly
+atheoretical readings of a narrow canon of aesthetically-defined literary texts no
+longer holds.  Scholars from various minority groups have challenged the boundaries
+of the traditional canon, by examining and problematizing the historical process of its
+selection,8 by promoting the inclusion of certain minority authors into the canon, and,
+                                                 
+8 Books and articles on the process of canon formation and/or the social influences on the reception of
+various authors have become a popular scholarly subject among American literary scholars.  See,
+for instance, Tompkins (1985), Spender (1986), Crawford (1992), and Guillory (1993).
+increasingly, by demanding separate canons for various minority groups.9  Scholars
+from paradigms such as New Historicism, postcolonialism, and Cultural Studies have
+often left literature behind entirely and moved into historical and social scientific
+terrains, to the point where their range of subject matter is virtually anything that can
+be read as a “text,” or that can be considered “cultural.”  Along with this vast
+broadening in subject matter has come a proliferation of methodologies and
+paradigms.  Literary scholars today borrow freely from other disciplines such as
+psychology, history, sociology, anthropology, philosophy, semiotics, and linguistics,
+to the point where many scholars feel there is no common denominator for defining a
+“literary” method.
+The result of these changes is that the scholarly terrain and the array of
+methods perceived as legitimate for literary study is remarkably broad, and goes well
+beyond any traditional definition of “literature” and “literary studies”; as the editor of
+the Publication of the Modern Language Association recently put it in an editorial
+column:
+[I]sn’t literature today, for some readers at least, capacious enough to include
+any text that can be studied from a historical or sociological perspective?
+(Stanton, 1994: 359)
+                                                 
+9 These demands are being made on behalf of more groups than ever, with the initial movements for the
+acceptance of Afro-American literature and women’s literature as legitimate and professionally
+recognized categories being matched by calls for Hispanic, Asian-American, Native American, and
+gay literatures as well.  Attempts to formulate canons for these groups have been made via the
+publication of anthologies, and it is also increasingly common to see university literature courses
+based around these categories.
+All of the interviewed scholars noted this expansion of literary studies’
+intellectual domain.  But they split sharply on its desirability.  Some lauded the
+development as a positive development for the field, while others felt that literary
+scholarship is extending itself into areas in which it has little methodological
+competence, thus producing bad work.  As a member of the latter group put it:
+The problem is that not everything is culture. But it’s being treated like it is.
+So that humanities professors—English professors particularly—treat the
+building across the street as a text.  And, you know, it’s also the building
+across the street, but we don’t have any way to talk about it in those terms, and
+the thing about Cultural Studies is that is does that—it grinds everything down
+to text, and then does semiotic interpretation of it.  And I think the usefulness
+of that is really questionable...  It works for literature because it is text, but it
+doesn’t really work for everything else very well, and it becomes this very
+obvious and self-serving way of analysis.
+Where is literary studies headed in the United States?  For some scholars, the
+seeming lack of any scholarly boundaries in the discipline is causing it to lose any
+coherence or definition, and they fear the discipline is in danger of disintegrating.  For
+instance, in a 1993 report to the American Council of Learned Societies on the state of
+American literary studies, Barbara K. Lewalski—a Professor of literature at Harvard,
+and the 1993 MLA delegate to the ACLS—noted the proliferation of subject matter
+and methods as the primary problem facing the profession:
+As I see it, the chief intellectual issues facing our discipline arise from one
+central fact:  the enormous expansion of what may be said to constitute literary
+studies.  Postmodern theory and the recent emphasis on cultural studies
+combine to make all kinds of texts and discourses (verbal and even non-verbal)
+proper subject matter for us, overwhelming received notions of a core, or
+canon, or common theoretical ground, or common methodology for our
+discipline.  There is, as well, a new attention to literary texts and traditions
+hitherto ignored or marginalized...  We might add to these factors the
+permeability of disciplinary boundaries...  In the contemporary critical milieu,
+the distinction between background and foreground, literary and subliterary, is
+blurred or obliterated...
+At the root of the problem is the lack of consensus about what the discipline of
+literary studies really is: if it is not a shared body of knowledge, not an agreed-
+on canon of texts, and not a common methodology, then what is it?... These
+questions afford a genuine basis for anxiety, and they have no ready and easy
+solution... (1993: 92-94)
+While several of the literature professors interviewed dismissed such talk of a
+crisis in their profession, a majority had concerns about the potential “breakup” of
+literature as a discipline.  Most of these professors were troubled by the possibility of
+this development, but not all of them.  One professor at a major public university was
+actively pleased by the prospect of literary studies breaking down into some sort of
+“post-disciplinary” form, as he already saw literature departments (along with most
+other humanities departments) as obsolete institutional artifacts with no intellectual
+reason for existence:
+If English departments start kind of proliferating into Cultural Studies,
+women’s studies, gay and lesbian studies, etc., and all this other stuff is
+interdisciplinary by definition—and even to some extent anti-disciplinary, in
+the sense that it was founded more to react against what was going on—then
+who knows what will happen to them... I think that’s actually a great
+development, from my point of view, because I think disciplinary authority is
+pretty fraudulent... The problem is that you still have this shell left called the
+“department” or the “discipline”, and everybody still operates frantically
+within the shell because that’s the way you have a career—but nothing
+intellectually conforms to what the shell is supposed to stand for.
+Similarly, the chair of an Ivy League literature department observed that
+literary studies may well eventually be replaced by “media studies,” in which
+literature could be overshadowed by studies of film and television; while he noted that
+this development was not something he himself was pushing for, he stated that he
+would have no problem with it if it came to pass.
+LITERARY STUDIES IN FRANCE
+Twenty-five years ago in literary studies many people appeared who wanted to
+introduce new disciplines into the field—structuralism, psychoanalysis,
+Marxism, things like that.  At the time, there was an extreme intensity about
+literary study—when one did literature when I was a student, around 1968, one
+had the impression that literary studies could be a really very important terrain:
+that one wasn’t doing just literature, that it concerned the entire symbolic
+order;  that it was eminently political, even if one didn’t directly do politics;
+that language was fundamental, that language was the symbolic key to
+institutions, etc.  In a lot of this work—there wasn’t a disappearance of
+literature exactly, but it was nonetheless a bit phased out... So, there was both
+the sense that these were important stakes, and at the same time a certain
+dissatisfaction that literature was being a bit obscured, or that it was serving
+just as a pretext.
+We’re certainly in a totally different phase now.
+This sentiment—that literary studies in France was in a state of political and
+intellectual ferment in the years surrounding 1968, but that there has since been a shift
+to a qualitatively new stage in the discipline’s history—is from an interview with a
+prominent literary scholar at a CNRS research institute in Paris.  It has been chosen
+for its conciseness, but could be replaced by many others, for the fact is that every
+single literary scholar interviewed for this study, when asked “how has literary studies
+in France changed in the last twenty five years?”, expressed a similar sentiment, and
+drew a similarly strong boundary between literary studies “then” and “now.”
+The first characteristic cited as proof of this difference was inevitably the
+observation that the heated debates which existed in the discipline in France in the late
+1960s and the 1970s between advocates of traditional literary history and those of
+newer, “modernist” positions (such as Marxism, psychoanalysis, and structuralism)
+have diminished to the point where they are generally considered “ancient history.”10
+In contrast to the turbulent situation many American literary scholars attributed to
+their discipline, French literature professors invariably described literary studies in
+France as in a period of relative calm. As one professor put it:
+The great wars of the epoch—where there had been a kind of war between the
+modernist positions and those of the old Sorbonne—all that’s gone.  It hasn’t
+completely disappeared, but it’s pretty much gone.  You can still find a few
+professors at Paris IV [i.e., the Sorbonne] who continue the war from twenty-
+five years ago, and who say things like “Barthes was an impostor” and that “all
+those types are dangerous,” but it’s become a bit rare, eh? [smiles].
+You could say instead that there’s been a phenomenon of assimilation, of
+absorption... I have the impression that by all evidence there has been a
+lowering of the intensity of debate over literature in France today... There’s not
+at all the passion that there was twenty-five years ago.
+                                                 
+10 I use the term “modernist” as it is the term which is used by French scholars themselves.  In the
+United States, however, many of the same intellectual positions (such as those of Foucault, Lacan,
+Barthes, etc.) are typically referred to as “postmodern,” and the term “modernist” instead is used to
+refer to older forms of scholarship (or to current scholarship perceived to be operating under
+antiquated assumptions), typically in a derogatory way.  The fact that “postmodernism”—perhaps
+the most (de)central referent in American literary studies in the last fifteen years or so—is a term
+with little or no meaning for French literary scholars is itself suggestive of wide cross-national
+intellectual differences in the discipline.
+As the mention of “assimilation” and “absorption” suggests, this period of
+calm has not been precipitated by the victory of one side or another within the
+discipline.  Unlike in America, where the New Criticism and the older model of
+literary history have essentially been vanquished, and conflict remains among the
+victorious paradigms, in France the older and newer methods of scholarship both
+remain, and seem to be co-existing relatively peacefully.  Many professors described
+the discipline as being in a state of “eclecticism,” in which varied methods often mix
+in the work of individual scholars to the point where it has become difficult (and
+pointless) to try to label their scholarship as belonging to one tradition or the other.
+But if French literary studies are indeed now “eclectic,” it is an eclecticism that
+operates within much clearer and narrower boundaries than those found in the United
+States.  In the process of entering the mainstream of French literary studies, modernist
+scholars appear to have shed most of their original interdisciplinary and political
+ambitions, and have instead increasingly adopted the traditional criteria of the
+discipline.
+This trend can be most clearly seen in the range of subject matter covered by
+French literary scholars today.  Whereas pioneering modernists like Barthes (1957)
+once implicitly challenged the notion of a literary “canon” as the appropriate boundary
+of scholarship by producing works on subjects as various as travel guides, television
+wrestling shows, and laundry detergent advertising, attempts to recast French literary
+studies into something analogous to the Cultural Studies model seen in the United
+States today appear to have been fairly weak and short-lived.  Interviewed professors
+described the move into the analysis of non-literary objects like film and mass culture
+as a brief trend in the early 1970s, which acquired little inertia and quickly fizzled out,
+at least in university departments.  There appears to be little or no push for such
+studies today, and few literary scholars in France today deviate, at least in their
+professional work, from the study of traditional literature.11
+Beyond choices of subject matter, an increasing consensus also appears to be
+emerging in French literary studies about the appropriate relation between theory and
+literature, and this too is a change from initial modernist positions.  Just as current
+standards discourage literary scholars from drifting into social science in their choice
+of topics, so do they increasingly discourage styles of work which adopt an overly
+social-scientific tone and discuss literary works only to validate social, psychological,
+or other theories.  The threat that literature is being “obscured” by theory thus seems
+to have waned.  Few purely theoretical works are being written by French literary
+scholars today, and most professors now appear to believe that attempts to fit literary
+works into overarching social or psychological theories are a thing of the past; as a
+CNRS researcher explained:
+Literature used to be a pretext for bringing in an exterior discourse—Marxist
+literary studies, for example.  I think now that’s finished; their points have
+been made.  It’s true that there are still psychoanalytic studies, but I think that
+it’s understood now that it’s been turned around, and that it can be interesting
+for literature to interrogate psychoanalysis, but not the other way around.  So
+                                                 
+11 Two of the scholars I interviewed did do work that is non-canonical in focus (one on journalism in
+the 19th century, and the other on a range of symbolic phenomena in the middle ages), but both
+were connected with interdisciplinary CNRS research institutes.  Both labeled themselves as
+ñimpureî literary scholars, however, and noted that they have little contact with the mainstream of
+their discipline.
+all that kind of research is I think a bit out of fashion, or is no longer
+productive.
+In contrast to a transdisciplinary or post-disciplinary identification, many
+literary scholars feel that despite the methodological eclecticism of literary studies in
+France today,  the discipline is not merely the branch of les sciences humaines that
+deals with literature as its object; in contrast, several scholars drew the distinction that
+while other disciplines might draw upon literature as “evidence” in social or historical
+analysis, the mark of the literature scholar is to use social and historical analysis
+(among other methods) to “enrich the meaning" of the literary text.
+Finally, the highly political overtones that accompanied modernist literary
+scholarship at its inception appear to have largely disappeared in France today.
+Whereas one’s intellectual alignment in the 1960s and 1970s usually predicted one’s
+politics, and many modernists challenged the legitimacy of the older scholarship by
+accusing it of reflecting conservative and/or oppressive political values, today the
+equation of paradigms with politics has broken down.  The salience of political issues
+generally seems to have subsided in literary studies; while most of the professors
+interviewed were willing to grant that literary scholarship inevitably contains some
+political assumptions and overtones (two professors categorically denied even this,
+and insisted that their work had nothing at all to do with politics), they typically did
+not feel that the literary profession was in any meaningful sense an arena for political
+debate or engagement.  Only two of the interviewees embraced a description of their
+work as a “political activity,” and if another professor is to be believed, the proportion
+of such politicized scholars in the profession is declining:  when asked if he felt that
+many literature professors see their research and teaching as political activities, he
+replied:
+I don’t know.  Of course, there are a certain number of instructors—who tend
+to be a bit older than me [the interviewee was in his mid-forties]—who still
+have the idea that it’s very political.  I don’t have the impression of
+encountering that among younger scholars.  In any case, it’s not big.  It exists
+at the level of the individual, of course, but I don’t think that today it’s
+something with much resonance.
+Another indication of the subsiding of political concerns in French literary
+studies today is that political concerns seem to have diminished dramatically as a
+factor in the job market.  While a number of professors noted that literature
+departments had until recently tended to align themselves as a whole towards either
+radical or traditional scholarship, and had only hired like-minded professors, they all
+noted a general sea-change in the profession away from hiring practices based on such
+litmus tests, and towards more meritocratic criteria; as one professor put it:
+It seems to me that conflicts [over hiring] are based more on the quality of
+work.  That’s to say—to put it really very roughly—one used to say “he’s on
+our side,” or “he’s not on our side,” and today one would say instead “his work
+is good” or “his work isn’t good.”  It’s “good” or “not good.”
+Similarly, a professor at a department at one of the newer Parisian universities
+(i.e, created in the late 1960s or early 1970s) told me that while he felt that the initial
+deliberate establishment of his department as a home for “radical” scholarship was
+“necessary at the time,” he now feels that the separation of perspectives is the worst
+thing for the discipline intellectually, and that departments should no longer impose
+intellectual or political litmus tests upon candidates for jobs.
+Where are literary studies in France headed in the future? Most of the
+professors interviewed declined to speculate, but many noted that the current trend
+seems to be towards work of a more traditional style.  Several scholars mentioned that
+much of the current scholarship in the field resembles the “old literary history” with
+only slight modifications, and that a large number of the new books in French
+literature today consist of fairly atheoretical scholarly works, such as definitive
+scholarly editions of individual writers’ works.  As one professor with modernist
+leanings put it:
+There’s a tremendous amount of work which has a more traditional allure.
+There’s a return to more in-depth works, more critical editions, more scholarly
+editions, more than there are works of polemics or essayism.  I think that’s the
+tendency.  I’m not a good example, but this is [pulls off his shelf and displays
+a volume from a recently published definitive scholarly edition of a minor 18th
+Century author].  This isn’t at all what would have been done twenty years
+ago.
+This should not be taken to mean that “modernist” scholarship is on the wane,
+although it does seem to lack the vitality of the traditionalist revival, and although
+certain “modernist” paradigms—most notably Marxism—do seem to be disappearing.
+But it does seem to indicate that there are few signs at present that literary studies in
+France will head soon towards anything approaching the direction of the discipline in
+America.  If anything, they appear to be moving in the opposite way.
+EXPLAINING THE VARIANCE
+Why have French and American literary studies developed in such different
+directions in recent years? Without wishing to discount the effects of individual
+agency or other important contingent factors, there appear to be a number of
+sociological variables, both at the national and academic levels of social organization,
+which may account for much of the observed variance between the French and
+American cases.  I will focus here upon three sets of factors whose cross-national
+differences seem particularly salient in this regard:  1) the differing amount of racial,
+ethnic, and cultural diversity in each country, and the differing ways in which these
+kinds of diversity are institutionally recognized and mediated; 2) the differing social
+position in each country of humanist intellectuals; and 3) the different “disciplinary
+ecology” in which literary studies is positioned in each country.
+Multiculturalism
+From its initial transformation in the late 1960s to the present, American
+literary studies has shown more concern over issues related to ethnic, racial, or other
+minority or “marginalized” groups than has been the case in the discipline in France.
+This concern has been manifested both in the conflicts over the traditional canon for
+literary studies, and in the appearance of scholarly paradigms based upon inserting
+categories like gender, race, and sexual preference into the analysis of texts.  In
+contrast, French literary studies has witnessed neither of these movements.  Why has
+this difference existed, and what have been its consequences for literary studies in the
+two countries?
+One reason for the difference may be simply that the United States is a more
+ethnically and racially diverse society than France.  Given this greater diversity—and
+the fact that certain groups, most notably African-Americans, have not assimilated
+along the ideals of the “melting pot”—and given the fact that this diversity is
+increasingly represented in an academic system that was previously fairly culturally
+homogeneous along WASP (and largely masculine) lines, it is perhaps unsurprising
+that literary scholarship in America is more attentive to issues of diversity.
+While this simple reflection model (more diversity leads to more attention to
+diversity) makes a certain amount of intuitive sense, and may account for some of the
+variance between literary studies in France and America, it also presents certain
+problems.  For while France is certainly less culturally diverse than the United States,
+it is by no means lacking in groups which might plausibly have challenged the French
+canon in a manner similar to the challenges in the United States.  Why, for instance,
+has the French literary canon not seen significant challenges from women, or from
+French citizens of African descent whose Francophone literary traditions are scarcely
+visible in French literature departments?12 Women are certainly not a smaller
+percentage of the population in France than in the United States, and while
+Francophone blacks are a smaller group proportionally than African-Americans, they
+are not a smaller percentage of the population than are some of the other groups in
+America (Native Americans or Asian Americans, for instance) which have
+successfully mobilized around charges of their group’s exclusion from literary study.
+Accounting for these issues requires moving beyond a simple reflection model
+to an examination of the differing ways in which social categories like ethnicity, race,
+and gender are treated in France and the United States in various contexts of claim-
+making and justification.  As Paul Starr (1992) has noted, all bureaucratic institutions
+                                                 
+12 While individual feminist literature scholars are present in France, none of the French scholars
+interviewed noted any feminist challenge to the canon analogous to that in the United States.  None
+of the scholars in the sample worked on Francophone literature, and the one scholar who mentioned
+Francophone literature in an interview did so only to note its absence; he stated that Italian literary
+scholars have actually done more work in the area than French scholars themselves.
+must choose from the potentially infinite array of possible social classifications a
+limited set which will be treated as legitimate for use in institutional classification and
+decision-making; in the ideal-typical democratic-liberal state, for instance, the use of
+many ascribed and/or group characteristics (such as religion, race or gender) in the
+evaluation, rewarding, and sanctioning of individuals is legally forbidden (one cannot
+employ such a category to discriminate for or against someone in an employment
+decision, for instance).  But as Starr also notes, liberal democracies often deviate from
+this model in specific situations; in the United States, for instance, while the legal
+system forbids discrimination against individuals on the basis of such “suspect
+classifications,” it has permitted the use of these same classifications in certain
+programs, such as affirmative action, which seek to remedy previous discrimination
+based on those categories.  There thus exists what Starr calls a “classificatory tension,”
+in which the use of these suspect categories is simultaneously forbidden and
+permitted, depending on context and purpose, and in which many predominantly
+“liberal” American institutions veer at times into a “corporatist” model of governance
+whose principle is the mediation between officially recognized groups rather than the
+liberal principle of mediation between “suspect classification”-free individuals.
+The presence of this sort of classificatory tension is evident in the American
+university system, where “suspect classifications” have been embodied not only in the
+presence of affirmative action hiring and admissions for various minorities, but also in
+the creation of separate programs, institutes and/or departments centered around
+minority concerns.  First established for Afro-American and Women’s studies, these
+programs have proliferated as more groups have organized and come forward as
+marginalized identities demanding representation within a university system which
+they feel has ignored or suppressed them and their concerns.  As we have seen, such
+movements also exist within literary studies, in the form of claims by these same
+groups that they merit separate canons, courses, and/or theoretical perspectives.
+While French society certainly has its share of corporatist tendencies (such as
+in the sphere of industrial and labor relations), French universities are much freer of
+this sort of corporatist mediation than are their American counterparts.  One reason for
+this seems to be that the use of “suspect classifications” in France is largely confined
+to work and class-based categories (or what Laurent Thévenot calls “industrial” orders
+of worth: see Desorisères & Thévenot, 1988 and Boltanski & Thévenot, 1991).
+“Suspect” classifications based on ethnic, gender, and racial categories are much more
+uniformly forbidden in institutional decision-making than in the U.S. Also, the very
+open admission policies of French universities and the relative lack of an institutional
+“pecking order” among them means that there has been little concern over whether
+disadvantaged groups are being excluded from admissions or being shunted off into
+lesser schools.13  There are no affirmative action-style policies in place for
+disadvantaged groups in French higher education, and French universities also lack
+their American counterparts’ long and continuing history of preferential treatment for
+alumni offspring and athletes.  In this relatively meritocratic and universalistic
+environment, American-style ethnic, gender, race, or other "group studies" movements
+are not perceived as legitimate: when French literature professors were asked why
+such movements do not exist in France, for example, the most frequent response was
+                                                 
+13 The great exception to the general lack of hierarchy among higher educational institutions in France
+is of course the small number of elite Grandes Écoles, and there has been some recent concern about
+the demographic makeup of the students at these institutions, whose graduates comprise a very
+disproportionate percentage of France’s elite.  At a recent talk at Princeton, for instance, a professor
+from the École Normale Supérieure presented statistics showing that the composition of the student
+body has increasingly been dominated by the upper classes.  So far, however, admission to the
+Grandes Écoles remains entirely based upon competitive examinations, and the schools are seen by
+many as the epitome of French educational meritocracy.
+that they are "impensable" (unthinkable) within the context of French "universalism"
+and "Republicanism."
+The fact that scholarly groupings based upon ethnic, racial, and other group
+status do exist in American literature departments and do not in French ones explains
+some of the differences observed between them along the dimensions of subject
+matter, politicization, and intellectual conflict.  In the area of subject matter, the
+challenges such groups have made to the traditional canon in America have obviously
+broadened the range of subject material for the discipline, at the very least by adding
+more literary works by minority authors.  It may have also contributed to the move in
+American literary studies towards the study of mass culture and other "non-literary"
+(in the classical sense) texts; since many marginalized groups have historically
+participated less in the production of "high literature" than in other cultural forms,
+many literary scholars (e.g., Baker, 1992) from these groups have focused at least part
+of their efforts on other cultural products of their groups, such as slave narratives or
+rap music.  Finally, since these scholars are often interested in how their group has
+been marginalized or oppressed in society in general, and not just in the sphere of
+literature, they have often pushed into Cultural Studies terrain, textually analyzing
+non-written social phenomena like movies and television or public debates to reveal
+racist, patriarchal, or homophobic images and discourses.
+It is also likely that the presence of these scholarly groupings has contributed
+to the more politicized and contentious atmosphere in American literary studies.  Most
+basically, these scholarly movements have usually relied upon charges of
+discrimination as the foundation for their legitimacy, and typically are predicated upon
+actively combating what is seen as the continuation of such discrimination in society
+and/or the profession.  Even when talk of discrimination is replaced by the notion of
+“representing multicultural diversity,” certain corporatist dynamics which often lead
+to politicization remain inescapable.  For "multiculturalism" by definition (or if
+perhaps not by all possible definitions, then certainly by the definitions most often
+used in practice) involves a form of corporatist mediation, as it implies a number of
+different cultures or groups which merit representation.  Not only does this framework
+invite conflict over how much representation (i.e., resources, space in the curriculum,
+etc.) each group will receive, but it also inevitably involves the contentious issue of
+which groups merit recognition in the first place.  Realistically, only a limited number
+of groupings can be granted official institutional recognition, and this fact has created
+the necessity for mobilization around group identities that are broad enough to achieve
+the critical mass sufficient for recognition; Afro-American and women's studies
+clearly long ago reached this critical mass and are well represented institutionally,
+while movements around other identities, such as Latino studies, Gay studies, Native
+American studies, and Asian-American studies, are still struggling (with varying
+degrees of success) for similar levels of institutional recognition.  These broad identity
+labels often include considerable diversity within them (such as differences between
+American and Caribbean blacks), which can give rise to internal conflicts, and this
+problem is especially acute in cases where groups fall under several labels at once, yet
+feel insufficiently represented within any of them; feminist studies, for instance, has
+witnessed a great deal of internal division and conflict over whether it has
+marginalized the perspectives and interests of women of color or lesbians.
+Finally, but certainly not least in significance, besides these conflictual
+dynamics internal to multiculturalism, the corporatist form that multiculturalism has
+taken in American academia is itself a very controversial issue (both within academia
+and the public at large), with many scholars (and a very large number of politicians
+and public critics) strongly disapproving of what they see as the "balkanization" of
+academia (Schlesinger, 1992).  Some of these scholars and critics are themselves
+members of the marginalized groups, and their dissent from the multicultural
+consensus (often on the ground that the identity politics and corporatism typical of
+multiculturalism produce a damaging "victim mentality" among minorities, and/or
+only serve to further underscore group differences, thus impeding integration) has
+been the cause of some of the most heated polemics and political recriminations in
+literary studies in recent years.14
+The Position of Humanist Intellectuals
+While the national differences in how issues of race, gender, and other
+marginalized categories are handled clearly account for much of the difference
+between French and American literary studies in recent years, there are other
+significant national differences which seem likely to have also been factors.  Among
+these are the differing legitimacy and position of humanist intellectuals (particularly
+those of a leftist or “progressive” stripe) in each country, and the differing way that
+intellectual life relates to academic work.15
+French humanist intellectuals have long been noted for their exceptionally
+prominent place in their nation's public and political discourse.  While the amount of
+this influence has declined since the days when Sartre and other intellectuals
+championed the opposition to France's war in Algeria, and led protest marches in
+1968, French intellectuals and their ideas remain quite visible in the public sphere,
+especially within the press but also on certain television shows like the popular
+                                                 
+14 The loud objections many minority literary scholars have directed towards dissidents like Shelby
+Steele, Camille Paglia, and Katie Roiphe have been matched in polemical force perhaps only by
+those directed at Republican appointees to the National Endowment to the Humanities such as
+William Bennett and Lynne Cheney.
+15 The term "intellectuals" is notoriously vague, and I should make clear here that I am using “humanist
+intellectuals” to refer to artists, writers, philosophers, and critics, etc., who wish to intervene in
+public debates, and not to political figures, policy experts, or professional journalists.
+Bouillon de Culture (formerly Apostrophes ).  In contrast to their French counterparts,
+American humanist intellectuals—particularly those on the Left—have traditionally
+had a much less prominent and legitimate position in American public life.  The
+notion that artists, writers, and humanist academics have by grace of their intellectual
+positions the right to have influence on public issues is much less widely accepted by
+Americans than by the French, and many observers have commented on the general
+suspicion of the American public towards intellectuals (e.g., Hofstadter, 1943; Ross
+1989).  And while certain conservative humanist intellectuals have succeeded in
+achieving a fair amount of public attention in recent years (often thanks in large part to
+their connections with certain major newspapers, a number of well-funded
+conservative institutes, and the Republican party), intellectuals on the Left and/or from
+minority groups commonly feel that they have been shut out of the media, out of the
+narrow spectrum of the two party system, and thus out of any significant presence in
+public life.16
+The peripheral position of progressive humanist American intellectuals may
+account for a good deal of the politicization of American literature departments.
+Given their perceived lack of access to the major organs of public debate, many of
+these intellectuals have decided to utilize the academy as a sort of “headquarters of
+                                                 
+16 A list of humanist intellectuals in America today  who are both publicly prominent and conservative
+could include, for instance, William Bennett, George Will, William F. Buckley, and Irving Kristol,
+to name a few.  For documentation of the rise of public conservative intellectuals,  and its
+connection with the broader rise to power of conservatism in America in recent decades, see
+Blumenthal (1988).  It should be noted that the sense of media isolation among intellectuals from
+minority groups in America may be diminishing with the increasing rise to public prominence of a
+group of black intellectuals such as Cornel West, Henry Louis Gates, Jr., and Bell Hooks, among
+others (Anderson 1994).
+last resort” for radical political change and expression.  During the course of one
+interview, for instance, a professor described his vision of the mission of his
+department in precisely such terms:
+What we’re trying to do here is to create a program where people who think of
+themselves as intellectual activists can train themselves.  It’s a very distinct
+category—it’s people who come to the academy to do the kind of work that
+they can’t do outside of the academy—but the academy is not necessarily the
+only location for that work...  It has a lot do to with the lack of journalistic
+organs that are available in the independent public sphere.  Since officially the
+Left does not exist in America, at least in terms of mainstream media
+definitions, there are very few Left intellectuals, academic or otherwise, who
+really have access...  The structure of the academy gives you openings to speak
+in certain areas, it gives you access to certain forms of media that you wouldn’t
+have otherwise—and if you don’t speak, surely someone else will, whose
+politics you may not agree with.  So, I say “seize the day” under those
+circumstances.
+While the number of professors who view their academic positions with this
+degree of political calculation is almost undoubtedly a minority within American
+literature departments (and academia generally), they have been numerous enough to
+spawn a backlash from conservative (and some liberal) critics in the media and
+politicians, who have seized upon the presence of these "tenured radicals" (and often
+on related phenomena like multiculturalism) as proof that American higher education
+is in the thrall of "political correctness."   These charges of "PC" (as it has become
+commonly referred to) received enormous amounts of coverage in the national press
+in the early 1990s,17 have been the subject of many books (e.g., Kimball, 1990;
+D'Souza, 1991), and remain a staple in many conservative publications.  Responding
+to these attacks, politically engaged literary scholars have charged that their subject
+matter is inherently and unavoidably political, and that their conservative critics are
+hypocrites who want not to depoliticize academia, but rather to align it with
+conservative politics and values (Graff, 1992).
+The overall effect of these public conflicts has undoubtedly been to highlight
+the political dimension of literary studies in America, and to create an atmosphere
+where many scholars feel caught between polarized camps of conservatives and
+radicals.  As one professor lamented, literary studies has "become fodder for the
+culture wars":
+The culture wars have clearly replaced anti-communism as a sort of national
+political hot button thing...  So that’s created this kind of siege mentality,
+which then produces even more aggressive scholarship and posturing.  I just
+think it’s a very unpleasant situation for people when they get caught in the
+middle of it.
+                                                 
+17 The phrase "political correctness" first appeared in the press in a New York Times article by Richard
+Bernstein (1990).  At its height the controversy over PC received a cover study in Newsweek (1990),
+a major feature article in Time (Henry, 1991), stories in USA Today (e.g., Grabmeier, 1992) and
+similarly high-profile coverage in most other major journalistic publications.
+Since it is not very easy to take a neutral position in these disputes, it is not
+surprising that, as we have seen, many literary scholars who would probably not
+describe their work as "political" in different circumstances feel compelled to do so in
+the current atmosphere of literary studies:  political prisms have become difficult to
+avoid.
+French literary studies (and French academia generally) has avoided anything
+resembling the "political correctness" debate in America.  In large part this may be
+because there are no significant groups who have both the incentive and the means to
+start such a debate.  In the absence of multicultural movements, there is no struggle
+over minority group representation in the academic profession.  Those literary
+scholars who wish to take public intellectual stands on political issues tend to do so
+outside the profession in the general public intellectual sphere; an academic career is
+thus typically for engagé intellectuals more of a stepping stone and resource base for
+their public activities rather than their principal field of engagement.18
+Also, none of the political parties in France seems to be very interested in
+making an issue of the political orientation of university professors.  Unlike in
+America, where attacks on “political correctness” and multiculturalism often seem to
+fit into a broader conservative populist rhetoric against “liberal elites,” who are
+accused of fomenting “the welfare state,” cultural decline, and unpopular affirmative
+action programs, none of these issues has much resonance in mainstream French
+politics, and the one political party which has made a major issue of protecting a
+French “way of life”—Jean-Marie Le Pen’s National Front—has seen the threat to
+                                                 
+18 Priscilla Parkhurst Clark notes that public intellectuals in France today tend to use university
+appointments as “a springboard to general intellectual life and to a broad, heterogenous public"
+(Clark, 1987: 197).
+French culture as emanating mainly from immigration, and not from any vision of
+countercultural elites in academia or the media preying upon traditional values.19
+The Professional Ecology
+One final set of factors that may account for some of the differences between
+French and American literary studies—particularly their different conceptions of
+appropriate subject matter—concerns the different possibilities that the “disciplinary
+ecology” in each country has offered for the expansion of literary studies’ intellectual
+terrain, and the incentives that the discipline in each country has had for such
+expansion.
+One of the more fruitful ways of looking at professions, as Andrew Abbott’s
+work (1988) has documented, is by seeing them as existing within a larger
+professional “system” or “ecology,” within which both nascent and existing
+professions must compete with each other for recognized and exclusive expertise over
+different “niches” of specialized services.  Professions are thus seen as engaged in a
+process of “turf wars,” in which—much as in Paul Starr’s discussion of
+corporatism—conflict often centers as much upon the definition and delimitation of
+the various “niches” as upon which profession will have dominion over each of them.
+The result of these definitional struggles is often a situation where a single broad
+service area (care of the mentally ill, for instance) is traversed by a number of
+different professional niches (psychiatrists, psychologists, social workers, counselors),
+                                                 
+19 Of course, if French academia were witnessing affirmative action programs for scholars of Algerian
+and African descent, and/or if attacks were being made on the French canon in the name of a
+Francophone or Franco-Arab multiculturalism, this situation might be quite different—which
+perhaps underscores the role these types of phenomena may have had in the United States in making
+literary studies the subject of political controversy.
+sometimes in an orderly and stratified manner, and sometimes in a more hodgepodge,
+overlapping, and/or conflictual way.
+In the academic context, the various professional disciplines have historically
+competed with one another for dominion over intellectual terrain, and the same sort of
+overlapping jurisdiction over broad categories exists (economic phenomena, to take
+one example, are the terrain of an entire discipline—economics—but are also studied
+in other disciplines in fields such as political economy, economic sociology, economic
+history, anthropology, public policy programs, and occasionally psychology, each of
+which study different aspects of economic phenomena and/or utilize different
+theoretical paradigms and methodologies, and/or simply overlap).  The same sort of
+rise, fall and contestation of specific niches is also present, with the occasional new
+discipline emerging (computer science, for instance), certain once quite central
+disciplines seeing their niches wane in importance (Classics), and some disciplines
+making moves into others’ terrain, either because their traditional niche is on the
+decline (for instance, anthropology’s increasing move towards the ethnographic study
+of “modern” societies—traditionally sociology’s preserve—because of the dwindling
+number of already often overstudied “premodern” societies), or out of imperialistic
+ambitions (such as in the efforts of Rational Choice theorists to “economize” the study
+of many social and political phenomena outside of economics’ traditional terrain).
+Using this perspective to look at literary studies, it seems that in many ways
+the heightened attention to “theory” and the recent expansion of subject matter in
+American literary studies are the result of professional dynamics similar to those in
+these last two examples of anthropology and rational choice theory.  Motivated either
+by concerns about literary studies’ waning professional fortunes, and/or by a desire to
+spread the insights of literary analysis to the terrains of other disciplines, American
+literary scholars have in recent years shown a pronounced tendency to move into
+subject areas that overlap with the professional domains of other disciplines.
+Literature departments in America witnessed a pronounced decline in
+undergraduate enrollments in the 1970s,20 and much of the move towards more
+interdisciplinary and theoretical work in literary studies seems to have been influenced
+by literature professors’ concern to reverse this decline.  For instance, in a influential
+1981 book on literary theory, Jonathan Culler (a Professor of literature at Cornell, and
+one of the more widely read disseminators and interpreters of French post-structuralist
+theory), advocated more attention to mass culture and interdisciplinary theory in
+literature departments precisely for the reason that such a method would attract more
+students:
+In most universities the traditional English courses organized according to
+periods have suffered a decline in enrollments...  The problem is structural,
+involving the marginal situation of literature within the students’ cultures...
+Confronted with students for whom literature is simply one aspect of their
+culture, and an aspect with which they are relatively unfamiliar, teachers need
+to be able to discuss literature in relation to more familiar cultural products and
+in its relations to other ways of writing about the human experience, such as
+philosophy, psychology, sociology, anthropology, and history (Culler, 1981:
+212-3).
+                                                 
+20 The number of bachelor's degrees awarded in English literature in the United States declined from
+64,342 in the 1970-71 academic year to 32,254 in 1980-81—a drop of 50%.  This number has
+gradually recovered strength since the mid-to-late 1980s, with 56,133 degrees reported in 1992-3,
+the latest year for which statistics are available at the time of this writing (National Center of
+Education Statistics, 1995: Table 243).
+Furthermore, Culler also advocated that English departments begin to pick up
+intellectual niches that were being left behind or neglected by other disciplines,
+particularly the “humanistic” tradition:  towards the end of his book he offered
+[w]hat may seem a peculiar suggestion—to have English departments go
+“outside the field” to teach what other departments neglect...  This is especially
+important, it seems to me, in universities where philosophy departments fail to
+teach traditional philosophy and psychology departments reject
+psychoanalysis, producing a situation in which the central texts of the
+humanist tradition—Plato, Descartes, Hegel, Nietzsche, Freud—are neglected,
+unless they are taught in literature courses. (1981: 221)
+Finally, Culler put forward the idea that literary studies could use literary
+theory to shore up its professional legitimacy vis à vis other academic disciplines.  In a
+manner similar to the way in which economistic paradigms like Rational Choice
+theory have recently gained professional ground by redefining many social and
+political issues as “economic,” literary studies could deconstruct the theories and
+methods of many other disciplines to show how they relied upon “literary” images and
+conventions, thus raising the relative professional status of literature departments:
+[W]e can think about literature in relation to other types of discourses by
+focusing on a theoretical topic, such as narrative or theory of tropes, that will
+enable us to see the importance and pervasiveness of structures that we
+traditionally regard as “literary” and thus to justify the importance that we
+think literary study ought to have. (1981: 217)
+In the years since Culler voiced these suggestions, American literary studies
+has moved along many of the directions he proposed.21  Scholarship studying literature
+from interdisciplinary perspectives has proliferated, as has work relating literature to
+other cultural forms.  The approach of analyzing social science discourse to reveal its
+implicit “narratives” and “rhetorics” has caught on quite widely, and has precipitated
+major discussions and autocritiques in a number of disciplines; while this has not
+wholly been the result of the efforts of literary theorists, their work often figures
+prominently in these discussions (e.g., Brown, 1987; Clifford and Marcus, 1986;
+Hunter, 1990; McClosky, 1985).  Literary theory, particularly through deconstruction,
+has kept a window open to continental philosophy and the humanist tradition, and
+while some have complained that this has led to situation where undergraduate
+English majors tend to “discuss the logocentrism of the philosophical tradition without
+having read a single classic of philosophy” (Lamont, 1987: 593),  it does seem to have
+made English departments attractive to many students.22
+                                                 
+21 It should be made clear that I am not trying to claim that these ideas originated with Culler, or to
+place any specific measure on the effects of his advocacy; rather I cite him to show that concerns
+such as his were evident in American literary studies at least as far back as the early 1980s.
+22 The noted American philosopher Richard Rorty has suggested that literary theory in the United States
+today fills an important role for intellectually-minded students that philosophy used to fill in
+America, and still does in France and other European countries:
+I think that in...  America philosophy has already been displaced by literary criticism in its
+principal cultural function—as a source for youth’s self-description of its own difference
+The most dramatic attempt at securing a new “niche” for literary studies,
+however—and the one which appears to have both the most momentum at present,
+and the most potential ramifications for the future of the discipline and the disciplinary
+ecology in general—is the contemporary push to redefine the professional subject
+matter of literature departments from “literature” to “culture” (or “discourse,” or
+“text”).  As we have seen, this is the program of many American literary scholars
+today.  Their effort to secure “culture” as the province for literary study seeks in
+essence to legitimate the movement of many literary scholars onto intellectual terrains
+traditionally the province of history and the social sciences.
+Some of these scholars see this project in a way analogous to literary studies’
+appropriation of  Continental philosophy and the Humanist tradition; they believe that
+the social sciences and history have neglected the study of cultural phenomena to the
+point of abdication, and that literature departments can profit by picking up the
+abandoned niche; as Russell Berman (a professor of literature at Stanford) recently put
+it in Profession:
+Despite some recent developments, the study of culture is still marginal in
+history departments, and culture is barely a factor at all in the quantitative
+social sciences.  So the interdisciplinarity that devolves from the replacement
+of literature (narrowly defined) by culture (broadly defined) has the advantage
+of revitalizing the language and literature model by using an innovative
+                                                                                                                                 
+from the past...  This is roughly because of the Kantian and anti-historicist tenor of Anglo-
+Saxon philosophy.  The cultural function of teachers of philosophy in countries where
+Hegel was not forgotten is quite different and closer to the position of literary critics in
+America. (Rorty, 1980: 168)
+pedagogy that examines a culture through a range of objects, including but not
+restricted to canonic literature.(Berman, 1995: 91)
+For many of these scholars, however, “culture” is defined more broadly, and is
+not just a question of subject matter but also one of politics and methodology.  They
+perceive their model of cultural studies as opposing interpretive, textual, and/or
+“postmodern” methods to what they see as the positivist and technocratic orientation
+of the quantitative social sciences.23  From these scholars’ perspective, a “critical” and
+culturally-focused literary studies has as its legitimate terrain the entire range of social
+phenomena, and is often seen as existing in a contested relation to the mainstream
+social sciences, which are viewed as reflecting a number of intellectually and
+politically regressive and outmoded “modernist” assumptions about objective
+knowledge, value-neutrality, and/or human nature.  Many of the more Cultural-
+studies-inclined professors interviewed, for instance, expressed a generalized
+skepticism about quantitative work and positivistic rhetoric in the social science
+                                                 
+23 In the case of certain literary scholars associated with “Science Studies,” this suspicion about
+positivist methodology also extends to the natural sciences, and has produced much controversy,
+such as in the recent “Sokal Affair,” in which New York University physicist Alan Sokal submitted
+to Social Text (a prominent Cultural Studies journal) a paper which contained many erronoeus
+statements about physics but was written in a “postmodern” style.  The paper was published, and
+Sokal's subsequent revealation that it was a hoax attracted a great deal of media attention.  See Alan
+Sokal (1996a and b), Scott (1996), Berkowitz (1996), and Begley and Rogers (1996).
+disciplines,24 and one explicitly described his work as entering onto social science
+terrain in order to combat such tendencies:
+Most of what I do I see as being more in social science terrain rather than the
+humanities nowadays.
+What’s the difference?
+Once you move into social science terrain, the local battles are a little different.
+You tend to be at loggerheads with quantitative paradigms  And you can see
+from department to department how there’s a war going on, very clearly.
+Do you see yourself as warring against quantitative paradigms?
+ Oh, yeah, I would be part of that.  I’m part of that crusade, to save what we
+can [laughs].  In a way it’s the frontline between humanistic values and natural
+science values.
+                                                 
+24 A representative quote: “I’m generally skeptical of positivistic claims, outside of the hard sciences...
+I think that human stuff doesn’t quantify terribly well, and I further have doubts about the people
+who do it (laughs), in terms of their infallibility. I’m skeptical of the general face that quantitative
+work, positivistic work, presents in the social sciences.”
+For a variety of reasons, then—to react to a threatening dropoff in enrollments
+and prestige, to seize perceived opportunities to seize intellectual turf that is seen as
+“up for grabs,” and to further methodological and political agendas—American
+literary scholars have sought to expand their discipline’s professional intellectual
+niche.
+In contrast, French literary studies has witnessed little of this kind of activity,
+and remains focused fairly narrowly upon the traditional terrain of canonical literature.
+Part of the reason for this may be that such efforts would be difficult and seen as out
+of place for literary studies within the French disciplinary ecology.  With regard to the
+appropriation of other disciplines’ abandoned professional terrain, there are few
+niches—at least of the sort which American literary studies have seized upon—for
+literary studies to pick up within the French disciplinary ecology.  Psychology
+departments in France still teach Freud and Lacan, and French philosophers retain
+interest in both the history of philosophy and the Continental philosophical tradition.
+Many of the philosophically-oriented social theorists often imported and appropriated
+by American literature departments (such as Michel Foucault, Jean Baudrillard, and
+Gilles Deleuze) are also the products (and the province) of French philosophy
+departments.
+Attempts by literary scholars to appropriate the sphere of cultural phenomena
+from the social sciences, or to mount a humanistic challenge against them, would also
+seem implausible in the French context.  While (often American-influenced)
+quantitative work and paradigms do exist in the French social sciences, they are fairly
+marginal.  The mainstream of French social science has a long tradition of being
+“critical,” interpretive, and attentive to culture; indeed, many of the thinkers often
+cited by Cultural Studies scholars in the United States (Pierre Bourdieu, for instance)
+are French social scientists.  Generally, there seems to be more common ground and
+much less of a sense of intellectual separateness between the social sciences and the
+humanities in France than there is in the United States; French professors in both the
+humanities and the social sciences report less sense of intellectual foreignness or
+“otherness” across the social science/humanities divide than do their American
+counterparts, and many reject the distinction entirely in favor of a composite
+conception of the “les sciences humaines” (the human sciences).25  Given the situation
+in French social science, then, any attempt by French literary scholars to turn their
+discipline into a sort of refuge for a “shadow,” humanist social science would seem
+superfluous; the social sciences in France already are largely humanist.
+But by themselves, these greater obstacles to the discipline’s expansion do not
+seem sufficient to fully explain why French literary studies has remained so canonical
+in focus.  Some subject niches—popular fiction, for instance, and perhaps some other
+parts of mass culture—could certainly be within the professional domain of literature
+departments in France if literature professors wished to incorporate them.  But by and
+large, they have shown little interest in making such an appropriation, and are content
+to remain focused on canonical literature.  Why the lack of interest?
+Partly, this seems to do with some of the national differences in literary studies
+already described earlier.  The lack of any strong multicultural movement among
+                                                 
+25 In related research I have also interviewed 20 political scientists in France and the United States.
+When asked about scholarship across their side of the social science/humanities divide, American
+political scientists and literary scholars were much more likely to report feelings such as a lack of
+intellectual familiarity or a sense of strong intellectual difference, and more often expressed the
+sense that they lacked the competence to evaluate such work as good or bad (frequently with
+explanations such as “I don’t understand what the rules are in those disciplines”).  French scholars,
+by contrast, were much less likely to report such feelings of difference, and tended to be quite
+confident in their ability to evaluate all but the most technical or specialized work across the breadth
+of “les science humaines.”
+French literary scholars, for instance, takes away a group that in the American context
+has had a whole set of incentives to push the borders of traditional subject matter, and
+the absence in France of American-style displaced political intellectuals would seem
+to have a similar negative effect.
+It also seems likely that French literary scholars have had less reason to feel
+insecure about the prestige or institutional security of canonical literary study than
+have their American counterparts, and so have had less incentive to try to move into
+other areas of scholarship.  Institutionally, literature departments in France have had
+little reason to fear being “downsized.”  Funding for academic departments is seldom
+tied to changes in undergraduate enrollments (which in any case seem to have been
+steadily rising for literature departments)26 and funding for universities generally in
+France comes directly from a central government which is much less likely than
+American state and national governments to view funding for literary scholarship as
+an expendable luxury item in yearly budgets.  In an era in which Francophone culture
+is often seen as under siege from “Hollywood” and other Anglophone influences,
+there is considerable and broad public support in French society for measures to
+protect and preserve the national culture.  Besides the well-known instances of the
+French government’s protection of the French film industry against American
+competition, and the Academie Française’s efforts to resist the Anglicization of the
+French language, this cultural nationalism is manifested generally in the presence of
+state support for projects and institutions related to “patrimoine” (patrimony, or
+national heritage).  The preservation and dissemination of classic French literature in
+the nation’s universities fits directly into this goal of preserving patrimoine, and while
+literature departments are hardly lavishly funded, none of the scholars interviewed felt
+                                                 
+26 Eric Fassin, personal correspondence.
+that there was any danger of their support being significantly cut.  As one of the
+CNRS literary scholars put it:
+Our society, despite its hypermodernism, is obsessed with patrimony.  The
+word that is the most saleable today is the word “patrimony.”  If one wants to
+obtain money for a project for no matter what, one doesn’t speak the language
+of “breakthroughs”, et cetera; one must only say the word “patrimony,” and
+the money rains down.  This is a society which is at the moment completely
+patrimonial, and it’s evident that there’s nothing more patrimonial than
+literature as a cultural treasure.  It has an obvious patrimonial aspect.
+Beyond assured state support, it appears that canonical literature remains a
+cultural status item of more general and widespread importance in France than in the
+United States.  Attempts to transpose Pierre Bourdieu’s (1987)  model of how
+“cultural capital” plays a key role in social stratification and reproduction from its
+initial context of French society to American society seem to have demonstrated that
+cultural capital has a less significant role in American society than in France;
+Americans are less likely to value being “cultured” than are the French.27
+Furthermore, the very definition of cultural capital is more problematic in the United
+States; while the French seem to have a fairly homogeneous understanding of what
+sort of knowledge and culture make one a “cultured” person, Americans seem to share
+much less common ground on this issue, and the value of having a familiarity with the
+                                                 
+27 For an empirical and theoretical examination of how Bourdieu’s model fares when applied to the
+United States context, see Lamont (1992).
+national canon of “high literature” is much less self-evident for many Americans than
+it is for a solid majority of the French.  This greater social significance and
+appreciation of canonical literature in France may constitute a final reason why French
+literary studies have kept their canonical focus; with their object of study retaining a
+strong and generalized social prestige, French literary scholars may feel no need to
+move into other subject areas in order to maintain their discipline’s “relevance” or
+intellectual profile.
+CONCLUSION :  THE PARADOX OF FRENCH INFLUENCE?
+In conclusion, let us return to the puzzle posed at the beginning of this essay:
+if French theorists have been so influential upon American literary scholars, then why
+are literary studies so different in the two countries?  Since most of this paper has
+already been devoted to explaining these differences, it is perhaps best at this point to
+reverse the terms of this apparent paradox: why have American literary scholars
+devoted so much energy to importing French scholarship, given that literary studies in
+the two countries are so “out of step” intellectually?
+The paradoxical aspects of this importation largely disappear when one
+examines the specific French thinkers that American literary theorists have imported,
+for these thinkers are themselves largely “out of step” with contemporary French
+literary criticism.  First and foremost, virtually all of these French thinkers are (or
+were) members of the more radical preceding generation of French intellectuals,
+against which the current generation of French literary scholars draw sharp intellectual
+boundaries.  Furthermore, many, such as Lacan, Foucault, Derrida, and Althusser,
+were (or, in Derrida’s case, are) not literary scholars, but rather hailed from other
+disciplines.  Some, such as Barthes, were literary scholars, but never held regular
+academic appointments.  Of the pantheon of French theorists imported to the United
+States in recent years, only Julia Kristeva holds a regular university appointment in a
+literature department in France.  Of course, the fact that most of these thinkers have
+not held literature chairs does not mean that they have not been influential in French
+literary studies:  many of them have been, particularly Barthes and Foucault.  But their
+influence seems to have coincided largely with the atmosphere of radical politics that
+permeated France in the years following 1968, and with the relative waning of anti-
+statist and anti-capitalist sentiments in France since that time, their intellectual
+influence in French literary studies has declined.
+By contrast, the “hermeneutics of suspicion” that form the common intellectual
+denominator of most of the French theories imported to the United States have proven
+more resiliently resonant with an American audience of literary scholars who remain
+more concerned with issues of power and domination than do their French
+counterparts.28  While the focus of their concerns is obviously somewhat different,
+with more attention paid by Americans to issues of gender, race, and sexual
+preference, the French theorists who have become the most popular among American
+literary scholars are those whose theoretical apparatuses have proven sufficiently
+flexible to fit these issues.  Michel Foucault’s dissections of the intertwining of
+“discourse” and power, Derrida’s deconstruction of hierarchical concepts of
+“difference,” and Lacan’s notion of the “Other” are all capable of being transposed
+onto issues of race, gender, and sexuality, and have been by American literary
+scholars.
+One would not, however, want to attribute the importation and influence of
+French theory solely to its elective affinity to the contemporary sociopolitical concerns
+                                                 
+28 Michèle Lamont and Marsha Witten, noting the often significant intellectual differences between the
+theorists imported to United States humanities departments, conclude that they “converge
+substantively only to the extent that [most] of them study the process by which culture...  contributes
+to the reproduction of power relations.” (Lamont and Witten 1988: 19).
+of American literary theorists.  In a number of articles Michèle Lamont (1987; Lamont
+and Witten, 1988) has offered some other explanations for  the popularity of Jacques
+Derrida and other French thinkers in American literary studies:  their initial
+championing by professors at certain leading universities; the fact that “French
+theory” has been perceived as sophisticated, and has thus been used as a form of
+“cultural capital” within the academic literary field; and the fact that deconstruction’s
+(and other French theories’) applicability to a wide variety of literary products has
+offered literature department a way of creating a degree of intellectual community
+across the divisions of periodization.
+This study suggests another cause related to Lamont's point about theoretical
+unification.  Beyond internally unifying literary studies across periodizations, the
+importation of French theories has also strengthened American literary studies in its
+struggles with external disciplines over intellectual terrain.  In particular, the
+importation of French theory has given literature scholars a “canon” of theories and
+theorists that is in effect social-scientific, yet which differs from the set of canonical
+theories and texts in the American social sciences themselves.  It has thus aided those
+American literary scholars who seek to turn the discipline into a competing variant of
+the social science disciplines, helping to maintain the distinctiveness of their work
+from mainstream social science and thereby legitimating the discplines’ coexistence in
+traditionally social-scientific terrain.
+To the extent that a set of French theorists have played such a key role in the
+founding of contemporary American literary and cultural studies, their influence has
+been undeniable.  But is this influence likely to continue?  I would suggest that this is
+unlikely, for reasons of both supply and demand.  On the supply side, there seem to be
+few “undiscovered” French theorists from the generation of Derrida and Foucault who
+have not already been imported by American literary theorists, and as we have seen,
+the contemporary generation of French literary scholars is not producing similar work.
+On the demand side, I would posit that American literary scholars no longer need an
+external theoretical canon on which to base their work.  There are now enough
+“homegrown” canonical theorists and texts in American literary studies to form a
+basis for new scholarship, and a dissertation in literature in America today can just as
+easily build upon the work of American theorists such as Said, Sedgwick, or Butler as
+it can on Derrida or Lacan.  Indeed, to the extent that American theorists have taken
+French theory in directions different than the French themselves, further importation
+of French theory might prove unwelcome and jarring.  I would posit that the situation
+of American literary studies today is in some ways like that of sociology just after the
+rise of Parsonian structural functionalism: in that situation, too, a set of European
+theorists was used as the basis and legitimation for a new and sharply different style of
+scholarship, but with a tenor and an emphasis that made the field soon diverge from
+developments on the Continent, after which the direct influence of European scholars
+on their American counterparts dropped off sharply.
+This study has confined inself to the examination of literary studies, and while
+this discipline has been among those most influenced by French theory,  performing a
+satisfying analysis of the importation of French theories to American academia in
+general would require a broader focus than is provided here.  The less successful (but
+still quite influential) attempts to bring French theories into disciplines such as
+anthropology, sociology, history, and political science would need to be accounted for,
+and this is beyond the scope of what can be accomplished here.  It is hoped, however,
+that by providing an analysis of the differing state of literary studies in France and the
+United States, this paper has gone some distance towards examining the social factors
+affecting academic disciplines in France and the United States, and shed some light
+upon their often complicated international relations.
+BIBLIOGRAPHY
+Abbott, Andrew 1988, The System of Professions, Chicago: University of Chicago
+Press.
+Anderson, Jervis 1994, “The Public Intellectual (profile of Cornel West)," The New
+Yorker 17 January.
+Baker, Houston, Jr. 1993, “Introduction” to “Presidential Forum on Multiculturalism:
+The Task of Literary Representation in the Twenty-First Century,” Profession
+93.
+Baker, Houston, Jr. 1992, Black Studies, Rap, and the Academy, Chicago: University
+of Chicago Press.
+Barthes, Roland 1957, Mythologies, Paris: Editions de Seuil.
+Begley, Sharon and Adam Rogers 1996, "'Morphogenic field’ day  (academic journal
+Social Text falls for A. Sokal's hoax debunking postmodernist literary
+theory)," Newsweek 3 June.
+Berkowitz, Peter 1996, "Science fiction (A. Sokal perpetrates hoax in Social Text),"
+The New Republic 1 July.
+Berman, Russell A. 1995, “Global Thinking, Local Teaching: Departments, Curricula,
+and Culture,” Profession 95.
+Bernstein, Richard 1990, "The Rising Hegemony of the Politically Correct," The New
+York Times 25 October.
+Blumenthal, Sidney 1988, The Rise of the Counterestablishment. New York: Harper &
+Row.
+Boltanski, Luc and Laurent Thévenot 1991,  De la justification. Les économies de la
+grandeur, Paris: Gallimard.
+Bourdieu, Pierre 1984, Distinction: A Social Critique of the Judgement of Taste,
+Cambridge: Harvard University Press.
+Brown, Richard Harvey 1987, Society As Text: Essays on Rhetoric, Reason, and
+Reality, Chicago: University of Chicago Press.
+Clark, Priscilla Parkhurst 1987, Literary France: The Making of a Culture, Berkeley:
+University of California Press.
+Clifford, James and Steven Marcus (eds) 1986, Writing Culture: The Poetics and
+Politics of Ethnography, Berkeley: University of California Press.
+Crawford, Robert 1992, Devolving English Literature, Oxford: Clarendon Press.
+Culler, Jonathan 1981, The Pursuit of Signs: Semiotics, Literature, Deconstruction,
+Ithaca: Cornell University Press.
+Desrosières, Alain and Laurent Thévenot 1988,  Les catégories socioprofessionnelles,
+Paris: La Découverte.
+D'Souza, Dinesh 1991, Illiberal Education:  The Politics of Race and Sex on Campus,
+New York: The Free Press.
+Grabmeier, Jeff 1992, "Clashing over political correctness," USA Today 12
+November.
+Graff, Gerald 1992, Beyond the Culture Wars, New York: W.W. Norton.
+Guillory, John 1993, Cultural Capital: The Problem of Literary Canon Formation,
+Chicago: University of Chicago Press.
+Henry, William A. 1991, "Upside down in the groves of academe," Time 1 April.
+Hofstadter, Richard 1943, Anti-Intellectualism in American Life, New York: Knopf.
+Hughes, Robert 1989, “America (book review),” The New York Review of Books 1
+June.
+Hunter, Albert (ed) 1990, The Rhetoric of Social Research: Understood and Believed,
+New Brunswick: Rutgers University Press.
+Kimball, Roger 1990, Tenured Radicals: How Politics Has Corrupted Our Higher
+Education, New York: HarperPerennial.
+Lamont, Michèle 1987, “How to Become a Dominant French Philosopher: The Case
+of Jacques Derrida,” American Journal of Sociology 93:3.
+Lamont, Michèle 1992, Money, Morals, and Manners, Chicago: University of
+Chicago Press.
+Lamont, Michèle and Marsha Witten 1988, “Surveying the Continental Drift: The
+Diffusion of French Social and Literary Theory in the United States,” French
+Politics and Society 6:3.
+Lentricchia, Frank 1980, After the New Criticism, Chicago: University of Chicago
+Press.
+Lewalski, Barbara K. 1993, “Critical Issues in Literary Studies,” Profession 93.
+McClosky, Donald N. 1985, The Rhetoric of Economics, Madison: University of
+Wisconsin Press.
+National Center of Education Statistics 1995, "Bachelor's Degrees Conferred by
+Institutions of Higher Education, by Discipline, 1970-71 to 1992-93 (Table
+243)," 1995 Digest of Education Statistics, Washington, DC: United States
+Department of Education.
+Newsweek 1990, "Taking offense.  (political correctness movement on campus; cover
+story; special section)," Dec. 24.
+Paglia, Camille 1991, “Ninnies, Pedants, Tyrants and Other Academics,” The New
+York Times Book Review 5 May.
+Ricoeur, Paul 1970, Freud and Philosophy: An Essay on Interpretation, New Haven:
+Yale University Press.
+Rorty, Richard 1980, Philosophy and the Mirror of Nature, Princeton: Princeton
+University Press.
+Ross, Andrew 1989, No Respect: Intellectuals and Popular Culture, New York:
+Routledge.
+Schlesinger, Arthur, Jr. 1992, The Disuniting of America, New York: W.W. Norton.
+Scott, Janny 1996, "Postmodern gravity deconstructed, slyly. (A. Sokal's parody in
+Social Text)," The New York Times May 18.
+Sokal, Alan 1996a, “Transgressing the Boundaries: Toward a Transformative
+Hermenuetics of Quantum Gravity,” Social Text  45-46 (Spring/Summer).
+Sokal, Alan 1996b, “A Physicist Experiments with Cultural Studies,” Lingua Franca
+(May/June).
+Spender, Dale 1986, Mothers of the Novel: 100 Good Women Writers Before Jane
+Austen, London: Pandora Press.
+Stanton, Domna C. 1994, “Editor’s Column: What is Literature?—1994,”
+Publications of the Modern Language Association 109.
+Starr, Paul 1992, “Social Categories and Claims in the Liberal State,” Social Research
+59:2 (Summer 1992).
+Tompkins, Jane 1985, Sensational Designs: The Cultural Work of American Fiction
+1790-1860, Oxford: Oxford University Press.
+Wimsatt, W.K. and Monroe C. Beardsley 1954, “The Intentional Fallacy,” in The
+Verbal Icon:  Studies in the Meaning of Poetry, Lexington: University Press of
+Kentucky.

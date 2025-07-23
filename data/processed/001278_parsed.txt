@@ -1,0 +1,3435 @@
+PNNL-16538 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T Tank Farm Interim Surface Barrier 
+Demonstration – Vadose Zone Monitoring 
+Plan 
+ 
+Z. F. Zhang 
+J. M. Keller 
+C. E. Strickland 
+ 
+ 
+ 
+ 
+ 
+April 2007 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared for the U.S. Department of Energy 
+under Contract DE-AC05-76RL01830 
+ 
+ 
+DISCLAIMER 
+ 
+This report was prepared as an account of work sponsored by an agency of the 
+United States Government. Neither the United States Government nor any 
+agency thereof, nor Battelle Memorial Institute, nor any of their employees, 
+makes any warranty, express or implied, or assumes any legal liability or 
+responsibility for the accuracy, completeness, or usefulness of any information, 
+apparatus, product, or process disclosed, or represents that its use would not 
+infringe privately owned rights. Reference herein to any specific commercial 
+product, process, or service by trade name, trademark, manufacturer, or 
+otherwise does not necessarily constitute or imply its endorsement, 
+recommendation, or favoring by the United States Government or any agency 
+thereof, or Battelle Memorial Institute. The views and opinions of authors 
+expressed herein do not necessarily state or reflect those of the United States 
+Government or any agency thereof. 
+ 
+PACIFIC NORTHWEST NATIONAL LABORATORY 
+operated by 
+ 
+BATTELLE 
+for the 
+UNITED STATES DEPARTMENT OF ENERGY 
+under Contract DE-AC05-76RL01830 
+ 
+ 
+ 
+Printed in the United States of America 
+ 
+Available to DOE and DOE contractors from the 
+Office of Scientific and Technical Information, 
+P.O. Box 62, Oak Ridge, TN 37831-0062; 
+ph: (865) 576-8401 
+fax: (865) 576 5728 
+email: reports@adonis.osti.gov 
+ 
+ 
+PNNL-16538 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T Tank Farm Interim Surface Barrier Demonstration – 
+Vadose Zone Monitoring Plan 
+ 
+ 
+ 
+ 
+Z. F. Zhang 
+J. M. Keller 
+C. E. Strickland 
+ 
+ 
+ 
+April 2007 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared for the U.S. Department of Energy 
+under Contract DE-AC05-76RL01830 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pacific Northwest National Laboratory 
+Richland, Washington 99352 
+ 
+ 
+ii
+ 
+Summary 
+The Hanford Site has 149 underground single-shell tanks that store hazardous radioactive waste.  Many of 
+these tanks and their associated infrastructure (e.g., pipelines, diversion boxes) have leaked.  Some of the 
+leaked waste has entered the groundwater.  The largest known leak occurred from the T-106 Tank in 1973.  
+Many of the contaminants from that leak still reside within the vadose zone beneath the T Tank Farm.  
+CH2M Hill Hanford Group, Inc. seeks to minimize movement of this residual contaminant plume by 
+placing an interim barrier on the surface.  Such a barrier is expected to prevent infiltrating water from 
+reaching the plume and moving it further.  A plan has been prepared to monitor and determine the 
+effectiveness of the interim surface barrier.  Soil-water content (θ) and water pressure (ψ) will be 
+monitored using off-the-shelf equipment that can be installed by the hydraulic hammer technique.  Two 
+instrument nests were installed in fiscal year (FY) 2006.  Each instrument nest contains a neutron probe 
+access tube, a capacitance probe (to measure θ), four heat-dissipation units (to measure ψ), and a drain 
+gauge to measure soil-water flux.  A meteorological station has been installed outside of the fence.  Two 
+additional instrument nests are planned to be installed beneath the proposed barrier in FY 2007.  
+ 
+ 
+ 
+iii
+ 
+Acronyms 
+ARHCO 
+Atlantic-Richfield Hanford Company 
+CCU 
+Cold Creek Unit 
+CHG 
+CH2M Hill Hanford Group, Inc. 
+CSI 
+Campbell Scientific, Inc. 
+DOE 
+Department of Energy 
+FY 
+Fiscal year 
+HDU 
+Heat-dissipation unit 
+HMS 
+Hanford Meteorological Station 
+IAEA 
+International Atomic Energy Agency 
+ID 
+Inside Diameter 
+OD 
+Outside Diameter 
+PMP 
+Project Management Plan 
+PNNL 
+Pacific Northwest National Laboratory 
+PVC 
+Polyvinyl chloride 
+QAP 
+Quality Assurance Plan 
+SST 
+Single-shell tank 
+STOMP 
+Subsurface Transport Over Multiple Phases 
+WIDS 
+Waste Information Data System 
+WMA 
+Waste Management Area 
+ 
+ 
+ 
+iv
+ 
+ 
+ 
+v
+Table of Contents 
+ 
+Summary.......................................................................................................................................................ii 
+Acronyms.....................................................................................................................................................iii 
+1.0 Introduction....................................................................................................................................... 1.1 
+1.1 T Tank Farm and Tank T-106 Leak ........................................................................................ 1.1 
+1.2 Surface Barrier and Monitoring............................................................................................... 1.1 
+1.3 Objectives and Scope............................................................................................................... 1.2 
+2.0 Numerical Analysis........................................................................................................................... 2.1 
+2.1 Geology and Hydraulic Properties........................................................................................... 2.1 
+2.2 Simulation Domain, Initial and Boundary Conditions ............................................................ 2.1 
+2.3 Simulation Results................................................................................................................... 2.2 
+2.3.1 
+Time Series of Soil-Water Content............................................................................. 2.3 
+2.3.2 
+Time Series of Soil-Water Pressure Head .................................................................. 2.3 
+2.3.3 
+Time Series of Soil-Water Flux.................................................................................. 2.4 
+2.3.4 
+Spatial Distribution of Soil-Water Saturation............................................................. 2.5 
+3.0 Monitoring Methods and Equipment................................................................................................ 3.1 
+3.1 Soil Water and Environmental Variables ................................................................................ 3.1 
+3.2 Criteria for Method Selection .................................................................................................. 3.1 
+3.3 Water Content.......................................................................................................................... 3.3 
+3.3.1 
+Neutron Probe Method ............................................................................................... 3.3 
+3.3.2 
+Capacitance Method ................................................................................................... 3.4 
+3.4 Soil Matric Potential and Heat Dissipation Unit Method........................................................ 3.6 
+3.4.1 
+Principles .................................................................................................................... 3.6 
+3.4.2 
+CSI 229 HDU ............................................................................................................. 3.8 
+3.5 Water Flux Meter..................................................................................................................... 3.9 
+3.5.1 
+Principles .................................................................................................................... 3.9 
+3.5.2 
+Decagon Drain Gauge ................................................................................................ 3.9 
+3.6 Precipitation and Air and Soil Temperatures......................................................................... 3.10 
+3.7 Electric and Electronic Equipment ........................................................................................ 3.11 
+4.0 Equipment Calibrations .................................................................................................................... 4.1 
+4.1 Neutron Probe.......................................................................................................................... 4.1 
+4.2 EnviroSMART Capacitance Probe.......................................................................................... 4.1 
+4.3 Heat-Dissipation Unit.............................................................................................................. 4.3 
+4.4 Drain Gauge............................................................................................................................. 4.6 
+4.5 Temperature Probe................................................................................................................... 4.7 
+4.6 Rain Gauge .............................................................................................................................. 4.7 
+ 
+ 
+vi
+5.0 Instrument Layout and Installation................................................................................................... 5.1 
+5.1 Selection of Monitoring Locations .......................................................................................... 5.1 
+5.2 Instrument Nest Design ........................................................................................................... 5.2 
+5.3 FY 2006 Instrument Installation.............................................................................................. 5.5 
+5.3.1 
+Neutron-Moisture-Probe Access Tubes...................................................................... 5.5 
+5.3.2 
+EnviroSMART Capacitance Probe............................................................................. 5.6 
+5.3.3 
+Heat-Dissipation Units ............................................................................................... 5.8 
+5.3.4 
+Drain Gauge.............................................................................................................. 5.11 
+5.3.5 
+Datalogger and Wiring ............................................................................................. 5.13 
+5.3.6 
+Meteorological Station ............................................................................................. 5.14 
+6.0 Vadose Zone Monitoring Plan.......................................................................................................... 6.1 
+6.1 Measurement Procedures and Frequencies.............................................................................. 6.1 
+6.2 Data Management.................................................................................................................... 6.2 
+6.2.1 
+Raw Data Review and Archival ................................................................................. 6.2 
+6.2.2 
+Data Reduction and Organization............................................................................... 6.3 
+6.2.3 
+Data Validation........................................................................................................... 6.3 
+6.3 Data Analysis........................................................................................................................... 6.3 
+6.3.1 
+Instrument Performance Indicators and Contingencies.............................................. 6.4 
+6.3.2 
+Vadose Zone Response Indicators.............................................................................. 6.7 
+7.0 Quality Assurance............................................................................................................................. 7.1 
+8.0 References......................................................................................................................................... 8.1 
+Appendix A: Heat Dissipation Unit Probe Normalization and Calibration Procedures ........................... A.1 
+Appendix B: Suggested Troubleshooting Procedures................................................................................B.1 
+ 
+ 
+ 
+vii
+ 
+Figures 
+ 
+Figure 1.1. 
+Waste Management Area of the T Tank Farm and Surrounding Facilities (from Myers 
+2005) 
+1.2 
+Figure 2.1. 
+Simulation Domain Without and with an Interim Surface Barrier.  The domain size 
+was (x, y, z) = (148, 148, 55) m.  The origin of the simulation domain in the Hanford coordinate 
+system was (x0, y0) = (466710, 136650) m....................................................................................... 2.3 
+Figure 2.2. 
+Time Series of Soil-Water Content Inside [(x, y) = (81, 67) m] and Outside 
+[(x, y) = (15, 67) m] the Interim Surface Barrier at Four Different Depths.  The numbers by the 
+curves are times and soil-moisture contents at these times.  The origin of the simulation domain in 
+the Hanford coordinate system was (x0, y0) = (466710, 136650) m................................................ 2.4 
+Figure 2.3. 
+Soil-Water Pressure Inside [(x, y) = (81, 67) m] and Outside [(x, y) = (15, 67) m] the 
+Interim Surface Barrier at Four Different Depths.  The numbers by the curves are times and soil-
+water pressures at these times.  1 bar = 10.2 m H2O height.............................................................. 2.5 
+Figure 2.4. 
+Soil-Water Flux Inside [(x, y) = (81, 67) m] and Outside [(x, y) = (15, 67) m] the 
+Interim Surface Barrier at Four Different Depths.  The numbers by the curves are times and soil-
+water fluxes at these times................................................................................................................ 2.6 
+Figure 2.5. 
+Horizontal Distribution of Soil-Water Saturation at Depth 0.5 m at Different Times.  
+The interim surface barrier was emplaced in Year 2007.5. .............................................................. 2.7 
+Figure 2.6. 
+Horizontal Distribution of Soil-Water Saturation at Depth 12.5 m in Different Times.  
+The interim surface barrier was emplaced in Year 2007.5. .............................................................. 2.8 
+Figure 2.7. 
+Vertical Distributions of Soil-Water Saturation and Stream Lines at an Easting 
+Transect Crossing the Center of Tanks T-104, T-105, and T-106.  The interim surface barrier was 
+emplaced in Year 2007.5. ................................................................................................................. 2.9 
+Figure 2.8. 
+Vertical Distributions of Soil-Water Saturation and Stream Lines at an Easting 
+Transect Crossing the Center Between Tank Rows T-104, T-105, T-106 and Tank Rows T-107, T-
+108, and T-109.  The interim surface barrier was emplaced in Year 2007.5.................................... 2.9 
+Figure 3.1.  503 DR Hydroprobe ............................................................................................................... 3.4 
+Figure 3.2.  (a) EnviroSMART Probe;  (b) Field Installation.................................................................... 3.5 
+Figure 3.3. 
+A 229 Heat-Dissipation Matric Water Potential Sensor is shown at the top (the dashed 
+line is in clear color).  The hypodermic assembly (without epoxy and ceramic) is shown just below.  
+A cutaway view shows the longitudinal section of the needle with heater and thermocouple junction.3.8 
+Figure 3.4.  (a) Decagon Drain Gauge; (b) Close-up of Measurement  Section (Decagon Devices, Inc. 
+2006)............................................................................................................................................... 3.10 
+Figure 4.1.  Water Vessel and Access Tube for Capacitance Sensor Normalization Measurement in Water4.2 
+ 
+ 
+viii
+Figure 4.2.  Capacitance Probe Default Calibration (Sentek Pty Ltd 2001).............................................. 4.3 
+Figure 4.3.  Six HDUs and Two Tensiometers Packed in Warden Silt Loam for Calibration of the HDUs.  
+Tensiometer pressure transducers are not present in this figure. ...................................................... 4.5 
+Figure 4.4.  HDU Calibration Data Points and Calibration Relationship .................................................. 4.6 
+Figure 5.1. 
+Plan View of T Tank Farm with the Approximate Locations of Existing Monitoring 
+Nests A and B, Prospective Monitoring Nests C and D, and Proposed Interim Surface barrier 
+Boundary as Marked by the Octagon................................................................................................ 5.3 
+Figure 5.2.  Plan View of T Tank Farm with the Dry Wells Expected to Be  Suitable for Neutron Moisture 
+Logging Being Marked in Circles..................................................................................................... 5.4 
+Figure 5.3.  Cone-tipped Drive Shaft Used in Conjunction with  a Hydraulic Hammer for Creating 
+Driving Boreholes............................................................................................................................. 5.5 
+Figure 5.4. 
+Capacitance Probe Cap and Protective Casing at Instrument Nest B Before Filling 
+With Tank Farm Surface Material.................................................................................................... 5.6 
+Figure 5.5.  Diagram of the Installed Neutron Probe Access Tubes  and Installation Procedures (after 
+CHG 2006)........................................................................................................................................ 5.7 
+Figure 5.6.  Protective Casing Over the HDU Location at Instrument Nest B .......................................... 5.8 
+Figure 5.7.  Diagram of the Installed Capacitance Probe Access Tubes  and Installation Procedures (after 
+CHG 2006)........................................................................................................................................ 5.9 
+Figure 5.8.  HDU Installation and Packing Material Layering Scheme (after CHG 2006)..................... 5.10 
+Figure 5.9. 
+Instrument Nest B Drain Gauge (smaller diameter tube) and Protective Casing (larger 
+diameter tube).  Also shown are the solution sampling line (blue tube) and drain gauge calibration 
+and testing line (clear tube)............................................................................................................. 5.11 
+Figure 5.10.  Diagram of the Installed Drainage Gauges and Installation Procedures (after CHG 2006)5.12 
+Figure 5.11.  Instrument Nest B Tri-pod with Attached Solar Panel,  Datalogger Enclosure, and Transfer 
+Box.................................................................................................................................................. 5.13 
+Figure 5.12.  Meteorological Station Tri-pod with Attached Solar Panel,  Datalogger Enclosure, Rain 
+Gauge, and Temperature Sensor..................................................................................................... 5.14 
+Figure 5.13.  Wiring Diagram for T Tank Farm Instrument Nests and Meteorological Station (after CHG 
+2006)............................................................................................................................................... 5.15 
+Figure 6.1.  Monitoring Components, Instrumentation, and Data  Collection and Management Flow 
+Diagram ............................................................................................................................................ 6.4 
+ 
+ 
+ix
+ 
+Tables 
+ 
+Table 2.1.  The Geological Formations of the 241-T Farm ....................................................................... 2.1 
+Table 2.2.  The Composite Hydraulic Parameters for Soils at Hanford’s T Tank Farm  (data from Khaleel 
+et al. 2004) ........................................................................................................................................ 2.2 
+Table 3.1.  Criteria For Selecting Alternative Vadose Zone Monitoring Methods.................................... 3.2 
+Table 3.2.  Selected Methods to Monitor Meteorological Conditions and Selection Rationale .............. 3.11 
+Table 3.3.  Electric and Electronic Equipment and their Function .......................................................... 3.11 
+Table 4.1.  Capacitance Sensor Frequency Response in Air and Water.  Values are  used to normalize 
+capacitance sensor output using Eq. 2.3. .......................................................................................... 4.2 
+Table 4.2.  HDU Temperature Rise Under Dry (ΔTd) and Wet (ΔTw) Conditions .................................... 4.4 
+Table 4.3.  Drain-Gauge-Function Verification Results ............................................................................ 4.6 
+Table 4.4.  Rain-Gauge-Function Verification Results.............................................................................. 4.8 
+Table 5.1.  Vadose Zone Monitoring Driving Boreholes Coordinates Drilled  in FY2006 and Associated 
+Installed Instruments......................................................................................................................... 5.3 
+Table 5.2.  Instrument Vertical Placement................................................................................................. 5.4 
+Table 5.3.  Capacitance Sensors Placement............................................................................................... 5.4 
+Table 5.4.  Capacitance Sensors Placement............................................................................................... 5.5 
+Table 6.1.  Data Collection Method(a) and Approximate Frequency Under Normal Working Condition . 6.1 
+Table 6.2.  Instrument Performance Indicators.......................................................................................... 6.5 
+ 
+ 
+ 
+x
+ 
+ 
+ 
+ 
+1.1
+ 
+1.0 Introduction 
+The Hanford Site in southeastern Washington State has 149 underground single-shell tanks (SSTs) that 
+store hazardous radioactive waste.  Many of these tanks and their associated infrastructure (e.g., pipelines, 
+diversion boxes) have leaked.  Some of the leaked waste has entered the groundwater.  The largest known 
+leak occurred from the T-106 Tank in 1973.  Many of the contaminants from that leak still reside within 
+the vadose zone beneath the T Tank Farm.  CH2M Hill Hanford Group, Inc. (CHG) seeks to minimize 
+movement of this residual contaminant plume by placing an interim barrier on the surface.  This 
+monitoring plan is prepared to guide the monitoring program and will replace a previous prepared design 
+plan. 
+1.1 T Tank Farm and Tank T-106 Leak 
+According to Myers (2005), the T tank farm was built from 1943 to 1944.  The T tank farm contains 
+12  SSTs with a diameter of 23 m (75 ft) and a capacity of 2,006,050 L (530,000 gal), four SSTs with a 
+diameter of 6.1 m (20 ft) and a capacity of 208,175 L (55,000 gal), waste-transfer lines, leak-detection 
+systems, and tank ancillary equipment.  The soil cover from the apex of the tank domes to ground surface 
+is approximately 2.2 m (7.3 ft).  All the tanks have a dish-shaped bottom.  Figure 1.1 shows the waste 
+management area (WMA) of the T tank farm and surrounding facilities. 
+ 
+In general, the vadose zone in the T tank farm consists of a portion of the thick, relatively coarse-grained 
+sediments of the middle Ringold Formation (Rwi) overlain by the finer grained sediments of the upper 
+Ringold Formation (Rtf) and the Plio-Pleistocene unit (also called the Cold Creek Unit, CCU), overlain by 
+the coarser grained sands and gravels of the Hanford formation (H), which are exposed at the surface.  
+The upper 12 m (40 ft) of the Hanford formation was locally excavated and backfilled with gravelly sand 
+during installation of the SSTs. 
+ 
+According to Hanford’s Waste Information Data System (WIDS), an accidental leak from Tank T-106 
+occurred in 1973, and the details and chronology of the leak are well documented (ARHCO 1973; 
+Routson et al. 1979).  The leak was suspected to have started on April 20, 1973, during a routine filling 
+operation.  The leak stopped on June 10, 1973, when the free liquid contents of the tank were removed.  
+The total duration of the leak was estimated to be 51 days.  Approximately 435,000 L (115,000 gal) of 
+fluid leaked from Tank T-106.  The fluid contained cesium-137, strontium-90, plutonium, and various 
+fission products, including technetium-99.  It is likely that the leak occurred in the southeast quadrant of 
+the tank near the bottom of the tank side. 
+ 
+CHG has proposed to use an interim surface barrier over Tank T-106 and the surrounding area in the 
+T-tank farm to prevent or reduce infiltration of meteoric water entering into the subsurface to reduce the 
+rate of the downward movement of leaked contaminants.  
+1.2 Surface Barrier and Monitoring 
+CH2M HILL Hanford Group has proposed to use felt with a polyurea coating as an interim barrier over 
+the part of the T Tank Farm in Hanford.  It is expected that the interim barrier will prevent the meteoric 
+water from entering into soil and consequently will reduce the rate of downward movement of flow and 
+dissolving contaminants.  At shallower depths, there will be no water supply from above to replace the 
+ 
+ 
+1.2
+draining water, and hence, it will dry up more quickly.  At larger depths, soil will keep receiving drainage 
+from the soil above for some time and will drain relatively more slowly.  Therefore, it may take a very 
+long time (e.g., years) for drainage rates deep in the profile (e.g., > 10 m) to reduce significantly.  As the 
+soil below the surface barrier becomes drier, the soil in the uncovered region near the vertical plane 
+directly beneath the barrier edge will also be drier than would be the case if there would be no surface 
+barrier. 
+ 
+ 
+ 
+Figure 1.1. Waste Management Area of the T Tank Farm and Surrounding Facilities (from Myers 2005) 
+ 
+In fiscal year (FY) 2006, two instrument nests were installed by the hydraulic hammer technique outside 
+of the proposed surface barrier.  Soil-water content (θ), water pressure (ψ), and temperature (T) are 
+monitored using neutron probes, capacitance probes, and heat-dissipation units (HDUs).  In FY 2007, two 
+additional instrument nests, both inside the proposed surface barrier, will be installed.  Each instrument 
+nest will contain a neutron access tube and a capacitance probe (to measure θ), and four HDUs (to 
+measure ψ and T).   
+1.3 Objectives and Scope  
+Subsurface monitoring is integral to achieving acceptance of covers.  The subsurface water conditions 
+will be monitored to verify impacts of the T-106 interim barrier on the soil-moisture regime.  
+ 
+ 
+ 
+1.3
+This monitoring plan updates the previous design plan and provides additional technical details for 
+monitoring the soil-water regime and evaluating the impacts of the interim surface barrier on sub-surface 
+moisture conditions.  After a brief introduction of the background information in Chapter 1, Chapter 2 
+summarizes the numerical simulation results, which were used as guidance for designing the monitoring 
+system.  Chapter 3 presents the principles of relevant measurement methods as guidance for equipment 
+calibration.  In Chapter 4, equipment calibration or verification procedures and results are presented.  
+Chapter 5 summarizes the installation of the two existing instrument nests and the plan for installing two 
+additional nests.  Chapter 6 presents the schedule of data collection, data validation and analysis, 
+contingencies given instrument failure, and data reporting.  Chapter 7 provides a declaration about the 
+quality assurance plan to verify the quality of the work.  
+ 
+ 
+ 
+ 
+1.4
+ 
+ 
+2.1
+ 
+2.0 Numerical Analysis 
+This section presents numerical simulation results of water flow after placing an interim surface barrier 
+over a portion of the T tank farm.  The Subsurface Transport Over Multiple Phases (STOMP) numerical 
+simulator (White and Oostrom 2004) was used to predict the movement of vadose-zone water in response 
+to placement of an interim surface barrier on July 1, 2007. 
+ 
+The interim surface barrier is expected to be an impermeable layer and will be sloped so that excess water 
+is drained outside the T Farm.  For this analysis, it is assumed that all excess water is successfully 
+removed such that none infiltrates at the barrier edge. 
+ 
+The simulation was conducted for 50 years after placing the interim surface barrier.  Water contents, 
+pressure heads, and fluxes at specific locations were compared and contrasted to highlight changes caused 
+by barrier placement.  The results were used to guide sensor selection and placement (explained more 
+fully in Section 3.0).  Some gas-phase and temperature effects may be caused by the interim surface 
+barrier, but these processes were considered secondary to the water-flow solution and were not simulated 
+in this exercise.  The following sections describe the geology and hydraulic properties, domain, initial and 
+boundary conditions, and the simulation results. 
+2.1 Geology and Hydraulic Properties 
+The borehole C4104 drilled near T-106 showed the geology as six main layers whose depths and soil 
+types are given in Table 2.1 (Serne et al. 2004).  The hydraulic parameters for each of the geological 
+formations were from Khaleel et al. (2004) and are listed in Table 2.2. 
+2.2 Simulation Domain, Initial and Boundary Conditions 
+The three-dimensional physical domain was discretized with 74 nodes in both the east-west (x) and north-
+south (y) directions and 55 nodes in the vertical (z) direction.  Horizontal node spacing was uniformly 
+2 m; vertical spacing was uniformly 1 m.  The total domain size was 148 m in the x and y directions and 
+55 m in the z direction.  The origin of the simulation domain in the Hanford coordinate system was 
+(x0, y0) = (566710, 136650) m.  The domain includes the 12 large tanks (T-101 through T-112) but not 
+other infrastructures (e.g., the 200 series tanks and trenches).  The nodes representing each tank were 
+treated as inactive and did not interact with the changing water conditions in the vadose zone. 
+ 
+Table 2.1.  The Geological Formations of the 241-T Farm 
+Geology 
+Soil 
+Depth (m) 
+Depth (ft) 
+1.  Backfill 
+Gravelly Sand 
+0–12.2 
+0–40 
+2.  H1 Sand 
+Sand 
+12.2–24.4 
+40–80 
+3.  H2 Sand 
+Silty Sand 
+24.4–28.3 
+80–93 
+4.  Cold Creek Unit 
+Silty Sand 
+28.3–32.9 
+93–108 
+5.  Upper Ringold Sand 
+Sand 
+32.9–36.9 
+108–121 
+6.  Ringold Unit E 
+Sandy Gravel 
+36.9–55.0 
+121–180 
+ 
+ 
+ 
+2.2
+Table 2.2.  The Composite Hydraulic Parameters for Soils at Hanford’s T Tank Farm  
+(data from Khaleel et al. 2004) 
+Parameters Sandy Gravel/ Gravelly Sand
+Sand 
+Silty Sand 
+θs (m3m-3) 
+0.138 
+0.382 
+0.435 
+θr (m3m-3) 
+0.010 
+0.044 
+0.067 
+α (m-1) 
+0.021 
+0.012 
+0.0085 
+n (-) 
+1.374 
+1.616 
+1.851 
+Ks (m s-1) 
+5.600×10-4 
+9.880×10-5
+2.400×10-4 
+L (-) 
+0.5 
+0.5 
+0.5 
+θs: saturated water content; θr: residual water content; α: van Genuchten 
+(1980) parameter related to soil capillarity; n: a parameter related to 
+soil particle size distribution; Ks: saturated hydraulic conductivity; and 
+L: the flow path connectivity-tortuosity coefficient. 
+ 
+The initial conditions within the simulation domain at an estimated time in which the interim surface 
+barrier was to be placed (July 1, 2007) were established using a two-step simulation.  First, the uniform 
+recharge rate was 3.5 mm/yr (Khaleel et al. 2004) before 1945, the year the tanks were deployed.  Then, 
+the simulation ran from 1945 to July 1, 2007, the time the interim surface barrier was to be installed, 
+under the recharge rate of 100 mm/yr (Khaleel et al. 2004).  Normally, such hydraulic conditions would 
+be the same as at similar depths across the domain, but, because of the shedding effect caused by the 
+impermeable tanks, water flowing around the tanks (i.e., represented by inactive nodes) created slightly 
+different initial conditions in the vicinity of the tanks. 
+ 
+At time zero (i.e., July 1, 2007), the interim barrier was placed on the surface above Tanks T-105, -106, -
+108, and -109 as shown in Figure 2.1.  The surface barrier was rectangular-shaped, and its size was 76×66 
+m [from (x1, y1) = (36, 36) m to (x2, y2) = (112, 102) m] with the longer sides orienting to the east-west 
+direction.  The surface barrier was simulated by changing the boundary condition inside the surface 
+barrier to zero flux and keeping the boundary condition at 100 mm/yr outside the surface barrier.  A water 
+table was applied to the bottom boundary to mimic the water table beneath the T tank farm. 
+ 
+The effects of the interim surface barrier on soil-water conditions were shown by comparing soil-water 
+variables at two locations, one inside the surface barrier [(x, y) = (81, 67) m] and the other outside the 
+surface barrier [(x, y) = (15, 67) m].  As will be shown below, these effects are stronger at a shallower 
+depth and weaker at a deeper depth. 
+2.3 Simulation Results 
+The time series and/or the spatial distribution of the simulated results of soil-water content, saturation, 
+pressure head, and water flux are reported below. 
+ 
+ 
+ 
+2.3
+ 
+Figure 2.1. Simulation Domain Without and with an Interim Surface Barrier.  The domain size was 
+(x, y, z) = (148, 148, 55) m.  The origin of the simulation domain in the Hanford coordinate 
+system was (x0, y0) = (466710, 136650) m. 
+ 
+2.3.1 Time Series of Soil-Water Content 
+Figure 2.2 shows the time series of soil-water content inside [(x, y) = (81, 67) m] and outside [(x, y) = (15, 
+67) m] the surface barrier at four different depths.  As expected, the soil-water content was stable through 
+the simulation period outside the surface barrier.  Inside the surface barrier, the soil-water content 
+decreased with time.  The water-content decrease ranged from 0.0 at the 25.5-m depth to 0.015 m3m-3 at 
+the 0.5-m depth 1 year after the placement of the surface barrier; 3 years after the placement of the surface 
+barrier, the water-content decrease ranged from 0.005 m3m-3 at the 25.5-m depth to 0.025 m3m-3 at 15.5-m 
+depth.  Note that the slight difference in water content at the time the surface barrier was placed 
+(Year 2007.5) was caused by the shedding effects of the impermeable tanks at depths of 15.5 and 25.5 m. 
+2.3.2 Time Series of Soil-Water Pressure Head 
+Figure 2.3 shows the time series of the soil pressure head inside [(x, y) = (81, 67) m] and outside 
+[(x, y) = (15, 67) m] the interim surface barrier at four different depths.  As expected, the soil-water 
+pressure was stable through the simulation period outside the surface barrier.  Inside the surface barrier, 
+the soil-water pressure decreased (became more negative) with time.  One year after the placement of the 
+surface barrier, the soil-water pressure decrease ranged from 0.0 bar (0.0 m) at 25.5-m depth to -0.244 bar 
+(-2.49 m) at 0.5-m depth; 3 years after the placement of the surface barrier, the soil-water pressure 
+decrease ranged from -0.018 bar (-0.19 m) at 25.5-m depth to -0.407 bar (-4.15 m) at 0.5-m depth.  Note 
+that the slight difference in soil-water pressure at the time the surface barrier was placed (Year 2007.5) 
+was caused by the shedding effects of the impermeable tanks at depths of 15.5 and 25.5 m. 
+ 
+ 
+ 
+2.4
+2008.5, 0.063
+2010.5, 0.058
+2007.5, 0.078
+0.04
+0.05
+0.06
+0.07
+0.08
+0.09
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Miosture Content (m3/m3)
+Inside of Cover
+Outside of Cover
+Dept h = 0 .5 m
+2008.5, 0.072
+2010.5, 0.065
+2007.5, 0.079
+0.04
+0.05
+0.06
+0.07
+0.08
+0.09
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Miosture Content (m3/m3)
+Inside of Cover
+Outside of Cover
+D ept h = 5.5 m
+2008.5, 0.218
+2010.5, 0.198
+2007.5, 0.223
+0.18
+0.19
+0.2
+0.21
+0.22
+0.23
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Miosture Content (m3/m3)
+Inside of Cover
+Outside of Cover
+D ept h = 15.5 m
+2008.5, 0.203
+2010.5, 0.198
+2007.5, 0.203
+0.18
+0.19
+0.2
+0.21
+0.22
+0.23
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Miosture Content (m3/m3)
+Inside of Cover
+Outside of Cover
+Dept h = 2 5.5 m
+Figure 2.2. Time Series of Soil-Water Content Inside [(x, y) = (81, 67) m] and Outside 
+[(x, y) = (15, 67) m] the Interim Surface Barrier at Four Different Depths.  The numbers by 
+the curves are times and soil-moisture contents at these times.  The origin of the simulation 
+domain in the Hanford coordinate system was (x0, y0) = (466710, 136650) m. 
+ 
+2.3.3 Time Series of Soil-Water Flux 
+Figure 2.4 shows the time series of the fluxes inside [(x, y) = (81, 67) m] and outside [(x, y) = (15, 67) m] 
+the interim surface barrier at four different depths.  As expected, the soil-water flux outside the surface 
+barrier was stable through the simulation period.  Inside the surface barrier, the soil-water flux decreased 
+with time.  One year after the placement of the surface barrier, the soil-water flux decrease ranged from 
+0.2 mm/yr at 25.5-m depth to 94.7 mm/yr at 0.5-m depth; 3 years after the placement of the surface 
+barrier, the soil-water flux decrease ranged from 27.2 mm/yr at 25.5-m depth to 98.3 mm/yr at 0.5-m 
+depth.  Note that, at depths of 15.5 and 25.5 m, the slight difference in soil-water flux at the time the 
+surface barrier was placed (Year 2007.5) was caused by the shedding effects of the impermeable tanks. 
+ 
+ 
+ 
+2.5
+2010.5, -0.637
+2008.5, -0.474
+2007.5, -0.230
+-0.7
+-0.6
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Aqueous Pressure (Bar)
+Inside of Cover
+Outside of Cover
+Dept h = 0 .5 m
+2010.5, -0.429
+2008.5, -0.308
+2007.5, -0.226
+-0.7
+-0.6
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Aqueous Pressure (Bar)
+Inside of Cover
+Outside of Cover
+D ept h = 5.5 m
+2010.5, -0.272
+2008.5, -0.215
+2007.5, -0.205
+-0.7
+-0.6
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Aqueous Pressure (Bar)
+Inside of Cover
+Outside of Cover
+Dept h = 15.5 m
+2010.5, -0.358
+2008.5, -0.340
+2007.5, -0.340
+-0.7
+-0.6
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Aqueous Pressure (Bar)
+Inside of Cover
+Outside of Cover
+Dept h = 2 5.5 m
+ 
+Figure 2.3. Soil-Water Pressure Inside [(x, y) = (81, 67) m] and Outside [(x, y) = (15, 67) m] the Interim 
+Surface Barrier at Four Different Depths.  The numbers by the curves are times and soil-
+water pressures at these times.  1 bar = 10.2 m H2O height. 
+ 
+2.3.4 Spatial Distribution of Soil-Water Saturation 
+The spatial distributions of soil water are shown using two-dimensional contours of soil-water saturation 
+in the selected horizontal planes and vertical planes at the time the surface barrier was applied (Year 
+2007.5) and 1, 2, and 3 years after the surface barrier was applied.  
+ 
+Figure 2.5 shows the horizontal distribution of soil-water saturation at a depth of 0.5 m in different times.  
+At the time the surface barrier was placed (Year 2007.5), the soil water was uniform, except that it was 
+slightly wetter at the places right above each of the tanks because of the tank shedding effect.  After the 
+surface barrier was emplaced, the soil beneath the surface barrier became drier gradually.  Similar effects 
+can be seen at the depth of 15.5 m (Figure 2.6). 
+ 
+ 
+ 
+2.6
+2007.5, 100.11
+2010.5, 1.81
+2008.5, 5.38
+1
+10
+100
+1000
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Inside of Cover
+Outside of Cover
+D ept h = 0 .5 m
+2007.5, 103.62
+2010.5, 13.61
+2008.5, 37.89
+1
+10
+100
+1000
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Inside of Cover
+Outside of Cover
+Dept h = 5.5 m
+2007.5, 130.35
+2010.5, 47.56
+2008.5, 107.95
+1
+10
+100
+1000
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Inside of Cover
+Outside of Cover
+Dept h = 15.5 m
+2007.5, 139.82
+2010.5, 112.50
+2008.5, 139.65
+1
+10
+100
+1000
+2007.5
+2008
+2008.5
+2009
+2009.5
+2010
+2010.5
+Year
+Inside of Cover
+Outside of Cover
+D ept h = 2 5.5 m
+ 
+Figure 2.4. Soil-Water Flux Inside [(x, y) = (81, 67) m] and Outside [(x, y) = (15, 67) m] the Interim 
+Surface Barrier at Four Different Depths.  The numbers by the curves are times and soil-
+water fluxes at these times. 
+Z Aqueous Flux (mm/yr)
+Z Aqueous Flux (mm/yr)
+Z Aqueous Flux (mm/yr)
+Z Aqueous Flux (mm/yr)
+ 
+ 
+2.7
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.5. Horizontal Distribution of Soil-Water Saturation at Depth 0.5 m at Different Times.  The 
+interim surface barrier was emplaced in Year 2007.5. 
+ 
+Figure 2.7 shows the vertical distributions of soil-water saturation and stream lines at an easting transect 
+crossing the center of Tanks T-104, T-105, and T-106.  The soil beneath the surface barrier became drier 
+gradually.  The stream lines indicate that, as the soil beneath the surface barrier became drier, some water 
+at the relatively wetter region beneath the place without a surface barrier moved laterally into the drier 
+region beneath the covered region.  This effect became stronger with time.  This lateral movement of 
+water is referred as the “edging effect.”  The results suggest that, 3 years after the placement of the 
+surface barrier, the distance being affected beyond the edge of the surface barrier in the easting direction 
+was about 5 m.  Figure 2.8 shows vertical distributions of soil-water saturation and stream lines at an 
+easting transect crossing the center between tank rows T-104, T-105, T-106 and tank rows T-107, T-108, 
+and T-109.  Similar results were observed in Figure 2.8 as those in Figure 2.7. 
+ 
+ 
+ 
+2.8
+ 
+ 
+ 
+ 
+ 
+Figure 2.6. Horizontal Distribution of Soil-Water Saturation at Depth 12.5 m in Different Times.  The 
+interim surface barrier was emplaced in Year 2007.5. 
+ 
+ 
+ 
+2.9
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.7. Vertical Distributions of Soil-Water Saturation and Stream Lines at an Easting Transect 
+Crossing the Center of Tanks T-104, T-105, and T-106.  The interim surface barrier was 
+emplaced in Year 2007.5. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.8. Vertical Distributions of Soil-Water Saturation and Stream Lines at an Easting Transect 
+Crossing the Center Between Tank Rows T-104, T-105, T-106 and Tank Rows T-107, T-108, 
+and T-109.  The interim surface barrier was emplaced in Year 2007.5. 
+ 
+ 
+ 
+2.10
+ 
+ 
+3.1
+3.0 Monitoring Methods and Equipment 
+This section describes the criteria used to select the various measurement methods, the principals of 
+selected methods, and the description of the selected instruments.  
+3.1 Soil Water and Environmental Variables 
+Variables to be monitored are chosen based on their contribution to describing soil-water flux conditions 
+and inputs.  Principal variables to be monitored are 1) soil-moisture content, 2) soil-water pressure, and 
+3) soil-water flux.  Soil-water content shows the actual moisture contained in the soil.  Soil-water content 
+ranges between zero and the porosity of the soil.  Soil-water pressure (or head) describes the energy level 
+of soil water and is of primary importance in determining the state and movement of water in the soil.  
+Differences in the soil-water head between one point and another give rise to the tendency of water to 
+flow within the soil.  Soil-water pressure in the vadose zone is often negative due to the suction of soil 
+particles on water.  Unless the soil is very dry, the pressure head generally varies logarithmically from 
+zero when the soil is fully saturated to a few bars (negative pressure) when soil drainage has effectively 
+ended.  Both soil-water content and pressure describe the static state of soil water.  Soil-water flux 
+describes the dynamic state of soil water, showing how fast soil water moves in the soil.  The reasons for 
+monitoring all three types of variables are summarized below. 
+• 
+Each variable reflects one aspect of the soil-moisture regime.  
+• 
+Their variation is different under different conditions.  On the one hand, the change of water 
+content can be measured more easily than the change of pressure head under relatively wet 
+conditions.  On the other hand, the change of pressure head can be measured more easily than the 
+change of water content under relatively dry conditions.  
+• 
+Soil-water flux is directly related to the transport velocity of the dissolving solute.  However, due 
+to very small values, especially in arid regions (e.g., on the order of a few to a few tens of mm/yr 
+at Hanford), the measurement is often difficult.  With the emergence of a new measuring 
+technique, water flux as low as 1 mm/yr is measurable in coarse textured soils.  
+ 
+Secondary variables to be monitored include soil temperature and meteorological conditions, including 
+precipitation and air temperature.  The measured precipitation will be used to estimate the total volume of 
+water intercepted by the surface barrier. 
+3.2 Criteria for Method Selection 
+Table 3.1 illustrates criteria for selecting monitoring methods that were modified from criteria described 
+by Everett et al. (1984).  The criteria provide for a systematic way of determining which monitoring 
+technologies will best serve the given objectives.  Because of restrictions of working within the T tank 
+farm, considerable attention was given to potential installation problems and constraints when selecting 
+methods.  For example, the segmented time-domain reflectometry probe was considered to measure water 
+content.  Due to the significant impacts of temperature on probe response and to impacts of cable length 
+on signal strength, this probe was eliminated.  The cone-penetrometer was also considered to measure 
+soil-water pressure head, but this method was also eliminated because of its possible insufficient strength 
+in gravelly soil.  While the selected technologies may not meet all criteria, they do encompass the 
+majority of criteria presented. 
+ 
+ 
+3.2
+Table 3.1.  Criteria For Selecting Alternative Vadose Zone Monitoring Methods 
+Item Criteria 
+Neutron 
+Probe 
+Capacitance
+Probe 
+HDU 
+Drainage 
+Gauge 
+1 
+Applicability to Tank 
+Farm 
+Yes 
+Yes 
+Yes 
+Yes 
+2 
+Measurement accuracy 
+±0.016 
+cm3cm-3(a) 
+±0.01 
+cm3cm-3(b) 
+±20%(c) 
+±0.25ºC(d) 
+±10% 
+[1 ml 
+resolution] (e) 
+3 
+Measurement range 
+Zero to full 
+saturation 
+Zero to full 
+saturation 
+-0.1 bar (-1 m) to 
+-10 bar (-100 m)(f) 
+ 
+1 to 1000 
+mm/yr 
+4 
+Representative volume 
+~0.04 to 
+~0.7(g) m3 
+~ 0.002(h) m3 
+1.1E-5(i) m3 
+~1.7(j) m3 
+5 
+Limitations 
+Cannot be 
+automated 
+Difficult to 
+install for 
+large depth 
+Difficulty to 
+replace once in 
+place 
+Soil must be 
+disturbed; not 
+applicable to 
+very dry soil(k) 
+6 
+Cost 
+High 
+Medium 
+Low 
+Medium 
+7 
+Potential installation 
+problem 
+Bending 
+access tube 
+Inappropriate 
+refilling of 
+annulus 
+Bad soil-sensor 
+contact 
+Inappropriate  
+density of 
+backfill 
+8 
+Data collection system/ 
+wire length effects 
+Manual/ No 
+Automated/ 
+No 
+Automated/ 
+Negligible 
+Automated/ 
+No 
+9 
+Continuous or discrete 
+sampling 
+Discrete 
+Continuous 
+Continuous 
+Continuous 
+10 
+Maintenance 
+requirements 
+Minor 
+Minor 
+Minor 
+Minor 
+11 
+Effect of hazardous 
+waste on measurement 
+No 
+No 
+No 
+No 
+12 
+Power requirements 
+Battery 
+Battery 
+Battery 
+Battery 
+13 
+Multiple use 
+capabilities 
+No 
+No 
+Yes 
+No 
+14 
+Other concerns 
+Radiological 
+Exposure 
+No 
+No 
+No 
+(a) D. Carter, CPN International, Inc., personal communication, May 24, 2006. 
+(b) Campbell Scientific, Inc. (CSI 2006b).  
+(c) Calibration dependent.  Accuracy value taken from Reece et al. (1996). 
+(d) J. Ritter, CSI, personal communication, June 2, 2006. 
+(e) D. Cobos, Decagon, personal communication, May 24, 2006. 
+(f) Reece et al. (1996). 
+(g) Calculated based on the information from the International Atomic Energy Agency (IAEA) (1970). 
+(h) Calculated based on the information from the user’s manual (CSI 2006a). 
+(i) This is the volume of the HDU. 
+(j) This is the volume of the drain gauge. 
+(k) Water suction of the soil near the wick inside the fluxmeter must be smaller than the length of the wick. 
+ 
+ 
+ 
+3.3
+Based on the criteria in Table 3.1, equipment such as a neutron probe, capacitance sensors, HDUs, and 
+water flux meters are being used to monitor flow regime.  A rain gauge is also installed to more 
+accurately record precipitation, especially for storms.  All the equipment except the neutron probe will be 
+connected to data loggers, which remotely transmit data to a computer.  The following sections describe 
+the principle of each method and specific equipment chosen. 
+3.3 Water Content 
+Moisture content as a function of depth will be measured to monitor the impacts of the interim surface 
+barrier in reducing water flux from baseline conditions.  Soil-water measurements will be used to track 
+wetting and drying processes and produce estimates of water fluxes using available soil-water potential 
+data and soil hydraulic properties.  Two methods, neutron moisture probe and capacitance probe, will be 
+employed to monitor absolute or relative soil-moisture content.  This affords the benefit of providing 
+certain data through redundancy while at the same time offering advantages presented by each method.  
+Additionally, both methods of measurement provide the accuracy (Table 3.1) needed to capture the 
+predicted changes in soil-moisture content after the interim surface barrier is in place.   
+3.3.1 Neutron Probe Method 
+3.3.1.1 Principles 
+Neutron thermalization, as a method to measure soil-water content, uses a radioactive source of fast 
+neutrons (mean energy of 5 MeV) and a detector of slow neutrons (~0.025 eV).  High-energy neutrons 
+emitted from the source are either slowed through repeated collisions with the nuclei of atoms in the soil 
+(scattering) or are absorbed by those nuclei.  The most common atoms in soil (Al, Si, and O) scatter 
+neutrons with little energy loss.  If the neutron hits an H atom, its energy is reduced on average to about 
+half because the mass of the H nucleus is the same as that of the neutron.  The concentration of thermal 
+neutrons changes mainly with the H content of the surrounding material, while changes in H content 
+occur mainly because of changes in soil-water content.  Therefore, the concentration of thermal neutrons 
+surrounding a neutron source placed in the soil can be precisely related to the soil volumetric water 
+content. 
+ 
+A profiling type neutron moisture meter has a readout and control unit connected by cable to a cylindrical 
+probe that is lowered into a borehole that is usually cased with an access tube.  The probe is lowered into 
+the tube and stopped at intervals to measure the thermal neutron concentration at that depth.  The 
+measurement volume is approximately a sphere with a radius of about 0.15 m in a wet clay soil and up to 
+0.5 m if the water content declines to 0.02 m3m-3 (van Bavel et al. 1956). 
+3.3.1.2 Neutron Probe  
+Any type of neutron probe that has been calibrated can be used to measure soil-water content.  An 
+example is the 503DR hydroprobe (Figure 3.1) manufactured by CPN International, Inc. (Martinez, CA).  
+The 503DR hydroprobe has a history of successful use at Hanford and is currently used for a number of 
+Hanford waste site soil-moisture monitoring programs (DOE 2005; Ward et al. 2000).  The probe 
+includes a 50-mCi americium-241 and beryllium source and a neutron detector.  The 16-sec neutron 
+counts are recorded at different depths of 1-ft intervals.  Operation of the Hydroprobe should follow the 
+“Tank Farm Plant Operating Procedure—Operate Model 503DR Hydroprobe Neutron Moisture 
+Detection” (Ross 2007). 
+ 
+ 
+3.4
+3.3.2 Capacitance Method 
+Capacitance, as an electromagnetic method to 
+measure soil-water content, was introduced in 
+the 1930s (Smith-Rose 1933) and developed 
+rapidly with recent advances of microelectroncs 
+in the 1990s (Paltineau and Starr 1997).  
+According to Starr and Paltineanu (2002), 
+positive features of capacitance probes include 
+robust and stable instrumentation, fast response 
+times, accuracy with good soil-probe contact, 
+ease of use, safety, availability of several sensor 
+configurations, and amenability to automatic 
+and continuous logging over large areas (up to 
+500-m radium).  
+3.3.2.1 Principles 
+To measure the volumetric soil-water content 
+(θv), the capacitance method uses the soil 
+surrounding the electrodes as part of a capacitor 
+in which the dipoles of water in the soil become 
+polarized in response to the frequency of an 
+imposed electric field.  Capacitance probes 
+consist of a capacitor connected to circuitry that 
+oscillates at a frequency (F) that is dependent 
+on the inductance (L) of an inductor and the 
+total capacitance (C) of the electrode-soil system.  For a given probe, the value of L is constant, and the 
+value of C is related to the bulk dielectric constant (εra) of the surrounding soil: 
+ 
+C = gεra 
+(3.1)
+ 
+where g is a geometrical constant based on the electrode configuration (size, shape, and distance between 
+electrodes).  The output of the capacitance probe is the oscillation frequency, which is an inverse square 
+root function of the total capacitance: 
+ 
+(
+)
+(
+)
+1
+1
+2
+2
+−
+−=
+=
+ra
+gL
+LC
+F
+ε
+π
+π
+ 
+(3.2)
+ 
+The total capacitance of the soil is a function of volumetric soil-water content (θv).  Hence, oscillation 
+frequency is a function of soil-water content.  
+ 
+The probe geometric constant, g, is often instrument-dependent.  For one calibration equation to cover all 
+the sensors and to allow one sensor or probe to be replaced at the same field position without loss of data 
+continuity, a normalization process is used to minimize instrumental-dependent readings.  For cylindrical 
+sensors, a scaled frequency (Sf) is calculated by incorporating the raw-frequency reading in soil (F) with 
+frequency readings in air (Fa) and in water (Fw) (Paltineanu and Starr 1997): 
+Figure 3.1.  503 DR Hydroprobe 
+ 
+ 
+3.5
+ 
+w
+a
+a
+f
+F
+F
+F
+F
+S
+−
+−
+=
+ 
+(3.3)
+ 
+The relationship between Sf and soil-water content can be determined empirically.  Sentek Pty Ltd (2001) 
+calibrated the capacitance using a power function: 
+ 
+b
+f
+v
+a
+c
+S
+1
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+−
+=
+θ
+ 
+(3.4)
+ 
+where a, b, and c are constants. 
+ 
+The zone of influence has both axial 
+(vertically along the sensor) and radial 
+(perpendicular to the sensor) components.  
+The extent and shape of the primary zone of 
+influence is largely dependent on the sensor 
+geometry.  Paltineanu and Starr (1997) 
+found the axial zone of influence to be 
+±5 cm, centered at the plastic ring between 
+the two metal rings, and the radial zone of 
+influence to be primarily within 10 cm of 
+the access pipe.  Both axial and radial 
+sensitivities were affected by soil-water 
+content and scaled frequency.  This suggests 
+the importance of good probe installation. 
+3.3.2.2 EnviroSMART Soil-Water 
+Content Profile Probes 
+The capacitance probe to be used is a 
+profile-type probe distributed by Campbell 
+Scientific, Inc. (CSI, Logan, UT).  It is 
+called an EnviroSMART probe (CSI 
+2006a, b) and is made by Sentek Pty Ltd 
+(Stepney, Australia).  It consists of a probe 
+with several independent sensors and an 
+access tube (Figure 3.2).  
+ 
+EnviroSMART Probe: 
+• 
+Multiple sensors with flexible depth placement (10-cm increments)   
+• 
+Can monitor from shallow depths (0 to 10 cm) to deep installations (up to 30 meters)   
+• 
+Length of EnviroSMART probe can be customized to suit a wide range of applications   
+• 
+Up to 16 sensors per probe   
+• 
+In-built probe orientation and depth settings to increase sensor repeatability   
+ 
+(a) 
+ 
+(b) 
+Figure 3.2.  (a) EnviroSMART Probe;  
+(b) Field Installation 
+ 
+ 
+3.6
+• 
+A range of connectivity for integration is available, including SDI-12, voltage output, current 
+output, RS-485 (Modbus), and RS-232 (Modbus).   
+    
+Access Tube: 
+• 
+Customized access tube increases sensor accuracy   
+• 
+Sensors have no direct contact with the soil   
+• 
+Specially sealed to guarantee long-term operation   
+• 
+No preferential path flow of water alongside the probe body   
+• 
+Probe and sensors are readily accessible and serviceable without destroying the site   
+• 
+Easily change sensor configuration   
+• 
+Minimized soil and root disturbance   
+• 
+Data continuity.   
+ 
+3.4 Soil Matric Potential and Heat Dissipation Unit Method 
+Soil-water-pressure measurements can be used to track wetting or drying processes, identify pressure 
+gradients, and produce estimates of water fluxes using available soil-water-content data and soil hydraulic 
+properties.   
+ 
+An HDU can be used to indirectly measure the soil matric potential (ψs) by measuring the thermal 
+conductivity (k) of the reference matrix, which is part of an HDU and often is made of porous ceramics.  
+The water content of the ceramic matrix (θvc) changes with the matric potential of the ceramic matrix (ψc) 
+and causes a corresponding change in k.  Because the equilibrium between the sensor and the soil is a 
+matric potential (i.e., ψs = ψc) rather than a water-content equilibrium, the measured thermal conductivity 
+of the reference matrix is related to the matric potential of the soil.  HDU measurement and calibration are 
+independent of soil texture because the heat pulse is restricted to the ceramic.  It is also independent of 
+salinity because the method is independent of electrical conductivity.  
+3.4.1 Principles 
+HDUs consist of a heater and a temperature sensor in a porous matrix material.  The HDU is heated for a 
+fixed time period.  The rate of heat dissipation is controlled by the water content of the porous matrix 
+because water conducts heat much more readily than air.  The temperature increase measured by the 
+temperature sensor at time t represents the heat that is not dissipated at this time.  The time dependence of 
+temperature, T, in a line heat source buried in an infinite medium can be approximated by Shiozawa and 
+Campbell (1990): 
+ 
+)
+ln(
+4
+0
+0
+t
+t
+k
+q
+T
+T
+−
+=
+−
+π
+ 
+(3.5)
+ 
+where T0 is the initial temperature, q is the heat input, and t0 is an offset time.  Heat dissipation is 
+generally determined as the difference between two temperatures, one measured after 1 s of heating and 
+the other measured after a heating time that can vary from 20 to 30 s (CSI HDUs).  Whatever time period 
+is chosen for laboratory calibration should also be used for field monitoring. 
+ 
+ 
+ 
+3.7
+Due to the variability of the heat-transfer properties of individual HDUs, the relationship between 
+temperature increase and matric potential is sensor-dependent.  Flint et al. (2002) evaluated calibration 
+equations for six HDUs and suggested normalizing the temperature increase according to: 
+ 
+w
+d
+d
+T
+T
+T
+T
+T
+S
+Δ
+−
+Δ
+Δ
+−
+Δ
+=
+Δ
+ 
+(3.6)
+ 
+where SΔT is the scaled temperature rise, ΔT is the temperature increase, and subscripts “d” and “w” 
+denote the temperature increases for a dry and water-saturated ceramic matrix, respectively.  This relation 
+results in a range of 0 to 1 for dimensionless temperature.  The matric potential is related to the 
+dimensionless temperature rise by an empirical model. 
+ 
+The heat conductivity of the HDUs is temperature dependent, and thus, the measurements that deviate 
+from a reference temperature need to be corrected to the reference temperature.  Flint et al. (2002) 
+developed the following equations to correct for temperature effects for HDUs calibrated at 20°C: 
+ 
+)
+20
+(
+*
+−
+−
+=
+Δ
+Δ
+T
+s
+S
+S
+T
+T
+ 
+(3.7a)
+5
+5
+4
+4
+3
+3
+2
+2
+1
+0
+T
+T
+T
+T
+T
+S
+c
+S
+c
+S
+c
+S
+c
+S
+c
+c
+s
+Δ
+Δ
+Δ
+Δ
+Δ
++
++
++
++
++
+=
+ 
+(3.7b)
+ 
+where   SΔT
+* = corrected SΔT 
+ 
+s = an intermediate variable
+ 
+T = the field temperature 
+ 
+c0 = 0.0013 
+ 
+c1 = 0.011 
+ 
+c2 = 0.0203 
+ 
+c3 = -0.0747 
+ 
+c4 = 0.0559 
+ 
+c5 = -0.0133. 
+ 
+The upper measurement range of the HDUs is controlled by the air-entry pressure (bubbling pressure) of 
+the matrix material of the probe, which is generally -10 kPa (-1 m).  Matric potentials above the air-entry 
+pressure (i.e., between 0 and -10 kPa [-1 m]) cannot be measured because the matrix material is 
+essentially saturated.  The lower measurement limit is generally considered to be about -1 MPa (-100 m) 
+(Reece 1996).  However, less-accurate measurements can be made between -1 and -35 MPa 
+(-100 and -3500 m). 
+ 
+It is critical to maintain good hydraulic contact between sensors and surrounding soil in the field.  Good 
+contact may be difficult to attain in very coarse sediments, such as gravel.  Wet silica flour is often used 
+during installation to confirm that there is good contact between the sensor and surrounding soil.  
+Fredlund et al. (2000) found that HDUs do not provide reliable matric-potential measurements in freezing 
+or thawing soils because the voltage drops as a result of the effect of the latent heat of fusion on thermal 
+conductivity.  However, freeze-thaw cycles did not affect the capability of HDUs to function upon return 
+to normal conditions.  
+ 
+ 
+ 
+3.8
+The heat-dissipation method as currently applied requires constant power dissipation at the heating 
+element.  A constant voltage source cannot be used in place of a constant current source because there is a 
+voltage drop in the cable.  Thus, if a voltage source were used, different calibrations for sensors with 
+different cable lengths would be required.  Variation in applied power during measurement or between 
+measurements will cause the temperature increase to change, thus introducing an error in application. 
+3.4.2 CSI 229 HDU 
+The HDU to be used is made by Campbell Scientific, Inc. and is called the “229 Heat Dissipation Matric 
+Water Potential Sensor” (Figure 3.3).  The sensor has a cylindrically-shaped porous ceramic body.  A 
+heating element that has the same length as the ceramic body is positioned at the center of the cylinder.  A 
+thermocouple is located at mid-length of the ceramic and heating element.  The position of the heating 
+element and the thermocouple is maintained by placing both inside a hypodermic needle, which also 
+protects the delicate wires.  The volume inside the needle, which is not occupied by wiring, is filled with 
+epoxy. 
+ 
+HDUs provide affordable measurements of soil matric potential and also the added benefit of measuring 
+soil temperature.  The size of a single HDU is also a benefit, with the CSI HDU (Model 299) dimensions 
+being 1.5 cm in diameter and 60 mm in length.   
+ 
+ to output on CE4/CE8 
+to ground on CE4/CE8 
+to differential on 
+datalogger 
+to input channel on 
+datalogger 
+to ground on 
+datalogger 
+ 
+Figure 3.3. A 229 Heat-Dissipation Matric Water Potential Sensor is shown at the top (the dashed line is 
+in clear color).  The hypodermic assembly (without epoxy and ceramic) is shown just below.  
+A cutaway view shows the longitudinal section of the needle with heater and thermocouple 
+junction. 
+ 
+ 
+ 
+3.9
+Using the 229 sensor requires a power source that is a constant current source.  This can be achieved by 
+using CSI’s CE4 or CE8 current excitation modules, which provide regulated outputs of 50±0.25 mA.  
+The –L option on the model 229 sensor indicates that the cable length is user specified.  The 229 sensor is 
+compatible with the 21X, CR7, CR10(X), CR23X, CR800, CR1000, and CR3000 dataloggers. 
+3.5 Water Flux Meter 
+A soil-water balance takes into consideration the inputs, losses, and storage of water in a soil profile.  An 
+important component of the water balance is the water that drains from the bottom of the soil profile, 
+referred to as drainage.  This is water that has gone sufficiently deep that it cannot be removed from the 
+soil by transpiration or evaporation.  This drainage moves downward with dissolved contaminants.  If 
+there is no drainage, then there would be no convective movement of contaminants.  The other 
+components of the water balance can be measured, but the deep drainage typically has been computed as 
+the remainder when the other components were measured and accounted for.  Because of uncertainties in 
+the measurements of the other water-balance components, the calculated drainage is subject to large 
+errors. 
+3.5.1 Principles 
+Gee et al. (2002) designed, constructed, and tested a water fluxmeter to directly measure drainage fluxes 
+in field soils.  The fluxmeter, which was designed to minimize divergence, concentrates flow into a 
+narrow sensing region filled with a fiberglass wick.  The wick applies suction, proportional to its length, 
+and passively drains the meter.  The meter can be installed in an augured borehole at almost any depth 
+below the root zone.  Water flux through the meter is measured either with a self-calibrating tipping 
+bucket, or with a dosing siphon whose action is monitored with a small capacitance probe (see Figure 3.4).  
+Under proper conditions, water fluxmeters have the capability of providing continuous and reliable 
+monitoring of unsaturated water fluxes ranging from less than 1 mm yr1 to more than 1000 mm yr-1. 
+3.5.2 Decagon Drain Gauge 
+The drain gauge is installed below the root zone.  Water infiltrates down through the divergence control 
+tube and then is pulled by gravity down a fiberglass wick into a collector.  As collected water fills the 
+measurement reservoir, the water level is monitored by a water-depth sensor.  When the water level in the 
+measurement reservoir reaches the top of the siphon tube, the water empties, and the event is recorded by 
+an attached data logger.  The emptied water then drains into the sampling reservoir.  A sampling syringe, 
+attached to the water reservoir sampling port (blue tube), can draw water samples out of the sampling 
+reservoir for chemical analysis.  Excess water drains out of an overflow port and into the soil while 
+allowing a volume of water to remain for sampling. 
+ 
+The drain gauge’s water-level sensor comes with a 3.5-mm “stereo-plug” style connector.  This allows for 
+rapid connection directly to a data logger.  
+ 
+ 
+ 
+3.10
+ 
+(a) 
+ 
+(b) 
+Figure 3.4.  (a) Decagon Drain Gauge; (b) Close-up of Measurement  
+Section (Decagon Devices, Inc. 2006) 
+ 
+3.6 Precipitation and Air and Soil Temperatures 
+Precipitation and air temperature will be continuously monitored using a single meteorological station.  
+Monitoring precipitation directly at T tank farm is useful in determining the total amount of meteoric 
+water and the amount of water intercepted by the surface barrier.  Localized thunderstorms that 
+occasionally occur at Hanford produce spatially variable short-term, high-energy precipitation events.  
+Such events require that a meteorological monitoring station be located at the T farm to document 
+potential localized precipitation events.  Site-specific measurement of precipitation will be used to assess 
+the quantity of precipitation intercepted by the barrier. 
+ 
+Power requirements necessary for a heated rain gauge necessitated that the rain gauge not be heated 
+because there is no AC power in the Tank Farm.  As such, the rain gauge may not accurately measure 
+precipitation during periods of snowfall.  Given the proximity of the Hanford Meteorological Station 
+(HMS) and the uniformity of snowfall across the Hanford Site, it is acceptable to conclude that snowfall 
+measured by the HMS will approximate describe the snowfall at the T farm.  Table 3.2 gives the 
+manufacturer’s documented instrument accuracy along with summarizing the rationale for using the 
+chosen monitoring method. 
+ 
+ 
+ 
+3.11
+The soil temperature will be measured and recorded during set time intervals at various locations.  
+Measuring soil temperature provides information on soil-temperature gradients that contribute to liquid 
+water and vapor movement in the subsurface.  Automated soil-temperature measurements will be made 
+using HDUs, which provide measurements of both soil temperature and soil-water pressure.  HDUs 
+provide for an efficient method to measure soil temperature, given that they will already be used for 
+measuring soil-water pressure.   
+ 
+Table 3.2.  Selected Methods to Monitor Meteorological Conditions and Selection Rationale 
+ 
+Selected Monitoring 
+Method(s) 
+Manufacturer 
+Accuracy
+Rationale 
+Rain gauge 
+Texas Electronics 
+(distributed by CSI) 
+±1%(a) 
+Thermometer 
+CSI 
+±0.1ºC(b) 
+Standard methods.  Capable of 
+continuous automated measurements. 
+(a)  (CSI 2002). 
+(b)  (CSI 2006c). 
+ 
+3.7 Electric and Electronic Equipment 
+The measurement and control device for the HDUs, capacitance probes, drain gauge, and meteorological 
+station will be the CR10X or other compatible datalogger manufactured by CSI (Logan, UT).  The 
+datalogger allows the data to be measured, processed, stored, and retrieved.  However, permanent power 
+does not exist near the proposed placement of the data logger.  This requires that the data logger and 
+peripherals be powered by a battery that can be recharged with a solar panel. 
+ 
+For automatic monitoring and data collection, compatible electric and electronic equipment are needed. 
+Table 3.3 summarizes this equipment and its functions. 
+ 
+Table 3.3.  Electric and Electronic Equipment and their Function 
+ 
+Equipment/Instrument 
+Functions 
+Datalogger 
+Data collection and storage 
+Rechargeable Battery w/charger 
+Power supply 
+Solar Panel w/cable 
+Power source for the rechargeable battery 
+Mulitiplexer 
+To connect to multiple HDUs 
+Excitation Module 
+Create a constant current power source for HDU
+Network Link, Radio, Antenna, interface
+Wireless data communication  
+Software  
+Software to control the datalogger 
+ 
+ 
+ 
+3.12
+ 
+ 
+4.1
+ 
+4.0 Equipment Calibrations 
+All monitoring equipment to be installed at T Tank Farm will be verified to be functioning before field 
+installation.  For the temperature sensors, rain gauge, and drain gauges, sensors arrived calibrated to relate 
+sensor output to the measurement parameter.  The neutron probe, capacitance probes, and HDUs do not 
+come from the manufacturer with the necessary calibration or normalization information, requiring that 
+instrument normalization be performed (capacitance probes and HDUs) and calibrations be developed 
+(neutron probe and HDUs).  This section documents the instrument verifications and calibrations in 
+addition to sensor normalizations.   
+4.1 Neutron Probe 
+The neutron probe to be used in the monitoring will measure relative soil wetness, which is proportional 
+to but not equal to the absolute soil-water content. Additional neutron calibration model may be 
+developed to enhance the quantification of soil water content.  The relative soil wetness between different 
+locations will still be comparable to show the impact of the surface barrier on soil-water regime.  
+4.2 EnviroSMART Capacitance Probe 
+Two components exist as part of the EnviroSMART capacitance probe calibration.  First is normalization 
+or scaling of the EnviroSMART capacitance sensor output.  Due to slight sensor-to-sensor variations, 
+normalization is necessary to allow for direct comparison of results from each capacitance sensor and also 
+allows for a single calibration to be used to relate sensor output to volumetric moisture content.  The 
+second component is the actual calibration, which is developed using scaled sensor response and 
+associated moisture content. 
+ 
+Normalization: Normalization is performed by measuring the response of each sensor in open air and 
+when surrounded by water.  The normalization procedure is thoroughly documented in Appendix B of the 
+EnviroSMART user’s manual (CSI 2006a).  For that reason, details of the method are not duplicated here.  
+The values obtained from the open-air and water measurements are used to normalize sensor output using 
+Eq. (3.3). 
+ 
+The open-air measurements were performed while holding the probe out at arm’s length into the air, 
+verifying that the sensors are a distance away from any other objects that may affect the measurement.  
+The water measurements were taken with the sensors inside the water-tight access tube that was placed in 
+a 10-in.-diameter cylindrical water vessel (Figure 4.1).  Table 4.1 presents the water and open-air 
+measurement output for each sensor.  
+ 
+ 
+ 
+ 
+4.2
+ 
+Figure 4.1.  Water Vessel and Access Tube for Capacitance Sensor Normalization Measurement in Water 
+ 
+Table 4.1.  Capacitance Sensor Frequency Response in Air and Water.  Values are  
+used to normalize capacitance sensor output using Eq. 2.3. 
+Frequency 
+ 
+Frequency 
+Sensor Serial # 
+Air 
+Water
+ 
+Sensor Serial #
+Air 
+Water 
+AP06-303 
+37584
+28503 
+ 
+FE06-374 
+37720
+28468 
+AP06-304 
+37170
+28219 
+ 
+FE06-375 
+37180
+27835 
+AP06-305 
+37522
+28657 
+ 
+FE06-376 
+37162
+28246 
+AP06-309 
+37728
+28863 
+ 
+FE06-377 
+37468
+28374 
+AP06-310 
+37583
+28413 
+ 
+FE06-378 
+37545
+28517 
+FE06-371 
+37448
+28395 
+ 
+FE06-379 
+37359
+28270 
+FE06-372 
+37048
+28148 
+ 
+FE06-380 
+37381
+28456 
+FE06-373 
+37323
+28227 
+ 
+  
+  
+  
+ 
+Calibration: The capacitance probe calibration documentation (Sentek Pty Ltd. 2001) provides a default 
+calibration developed using sand, loam, and clay-loam soils.  This calibration was developed by 
+performing nonlinear regression on frequency data for paired volumetric moisture content and 
+capacitance sensor scales (Figure 4.2).  The default calibration is sufficient to show relative changes in 
+soil-water content, which is the primary interest in this study.  The manufacturer’s developed calibration 
+follows the form,  
+ 
+ 
+ 
+4.3
+b
+f
+v
+a
+c
+S
+1
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+−
+=
+θ
+ 
+(4.1)
+ 
+where a is 0.1957, b is 0.404, and c is 0.02852. 
+ 
+0
+10
+20
+30
+40
+50
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+Scaled Frequency
+Volumetric Moisture Content (%)
+Calibration Data
+Nonlinear Regression
+ 
+Figure 4.2.  Capacitance Probe Default Calibration (Sentek Pty Ltd 2001) 
+ 
+4.3 Heat-Dissipation Unit 
+As explained by Scanlon et al. (2002), a variety of procedures can be used to calibrate heat-dissipation 
+sensors.  The sole requirement is that the matric potential of the medium surrounding the sensor be known.  
+Similar to the capacitance probe, there are two elements to the HDU calibration: 1) a normalization 
+procedure to remove variation between the HDU sensors (the normalization of temperature rise is sensor 
+specific, and thus all sensors need to be normalized) and 2) a calibration procedure to develop the 
+relationship between soil matric potential and the normalized temperature rise measured by the HDU.  
+This relationship is general for all the sensors, and hence only a selected few sensors need be used to 
+develop this relationship. 
+ 
+Normalization: Much of the HDU sensor-to-sensor variation is due to variation in the heater-ceramic 
+contact.  If the same heating method and heating time is used for each HDU sensor, then the variation 
+ 
+ 
+4.4
+between sensors can be removed by normalizing the measurements.  A normalization procedure of Flint 
+et al. (2002), described by Eq. (3.6), was used to calculate a dimensionless temperature rise. These 
+procedures are summarized in Appendix A.  The HDU temperature-rise measurement under dry 
+conditions (ΔTd) was made after the HDU had been placed over oven-dried desiccant in a sealed container 
+for a length of time (approximately 24 hours).  For the HDU temperature-rise measurement under water-
+saturated conditions (ΔTw), the sensor was submerged in water for 24 to 48 hours and then removed 
+before the HDU measurement.  Flint et al. (2002) report that this method of saturating the HDU is 
+sufficient for conditions that will remain drier then -0.1 bar, which are the expected field conditions for 
+this project.  All readings were taken with a constant line-heat source current of 50 mA and measurement 
+times of 1 s and 30 s after HDU heating was initiated.  Table 4.2 summarizes the normalization results. 
+ 
+Table 4.2.  HDU Temperature Rise Under Dry (ΔTd) and Wet (ΔTw) Conditions 
+HDU NO. 
+250-1 
+250-2 
+250-3 
+250-4 
+250-5 
+Sensor Serial # 
+11251 
+11254 
+11256 
+11259 
+11252 
+ΔTd (°C) 
+2.80 
+2.75 
+2.59 
+2.79 
+2.71 
+ΔTw (°C) 
+0.79 
+0.80 
+0.79 
+0.83 
+0.80 
+  
+ 
+ 
+ 
+ 
+  
+HDU NO. 
+250-6 
+250-7 
+250-8 
+250-9 
+250-10 
+Sensor Serial # 
+11255 
+11257 
+11258 
+11250 
+11253 
+ΔTd (°C) 
+2.85 
+2.65 
+2.68 
+2.75 
+2.59 
+ΔTw (°C) 
+0.83 
+0.82 
+0.80 
+0.82 
+0.78 
+  
+ 
+ 
+ 
+ 
+  
+HDU NO. 
+275-1 
+275-2 
+275-3 
+275-4 
+275-5 
+Sensor Serial # 
+11269 
+11262 
+11265 
+11260 
+11266 
+ΔTd (°C) 
+2.53 
+2.87 
+2.82 
+2.64 
+2.79 
+ΔTw (°C) 
+0.81 
+0.84 
+0.83 
+0.82 
+0.79 
+  
+ 
+ 
+ 
+ 
+  
+HDU NO. 
+275-6 
+275-7 
+275-8 
+275-9 
+275-10 
+Sensor Serial # 
+11263 
+11261 
+11268 
+11267 
+11264 
+ΔTd (°C) 
+2.66 
+2.74 
+2.79 
+2.62 
+2.75 
+ΔTw (°C) 
+0.82 
+0.84 
+0.82 
+0.79 
+0.84 
+ 
+Calibration: The HDUs were calibrated in the laboratory across the range of expected field soil-water 
+pressures using the procedures described in Appendix A.  The calibration was performed using a bucket 
+packed with Hanford’s Warden silt loam and containing six HDUs and two tensiometers with pressure 
+transducers for independent matric potential measurements (Figure 4.3).  Warden silt loam was used 
+because its water-retention characteristics allow for creating soil-water matric potential over the desired 
+range.  HDU calibration is independent of soil texture, permitting the use of Warden silt loam without 
+introducing error into the calibration.   
+ 
+ 
+4.5
+ 
+The appropriate amount of soil and water was mixed together to attain the desired water content and 
+hence desired matric potential.  Uniform mixing of the soil and water was achieved before packing the 
+soil in the bucket.  During packing of the soil, the HDUs and tensiometers were added to the bucket, and 
+soil was packed around the instruments.  After packing the bucket, the surface was covered to reduce 
+evaporation. The HDUs and tensiometer pressure transducers were controlled by a single datalogger.  The 
+HDU measurements were taken continuously for at least 24 hrs or until steady-state conditions were 
+achieved, as indicated by HDU and tensiometer measurements.  HDU readings were taken with a 50 mA 
+current applied to the heating element for 30 seconds.  After the measurement set was completed, the 
+procedure was repeated for a different water content (matric potential). 
+ 
+ 
+Figure 4.3.  Six HDUs and Two Tensiometers Packed in Warden Silt Loam for Calibration of the HDUs.  
+Tensiometer pressure transducers are not present in this figure. 
+ 
+Using the normalized HDU temperature rise and tensiometer readings under steady-state soil conditions, a 
+calibration was developed by fitting a calibration curve to the paired matric potential and normalized 
+HDU data points.  Figure 4.4 shows the paired data points and developed relationship between matric 
+potential, ψ (m of water) and normalized HDU response, SΔT.  The dataset is best fit using a second-order 
+polynomial equation described by: 
+ 
+2548
+.6
+9697
+.3
+388
+.
+12
+2
+−
+×
+−
+×
+=
+Δ
+Δ
+T
+T
+S
+S
+ψ
+, r2 = 0.9689 
+(4.2)
+ 
+ 
+ 
+4.6
+y = 12.388x
+2 - 3.9697x - 6.2548
+R
+2 = 0.9689
+-7.000
+-6.000
+-5.000
+-4.000
+-3.000
+-2.000
+-1.000
+0.000
+0.000
+0.200
+0.400
+0.600
+0.800
+1.000
+Normalized HDU Temperature Rise
+Soil Water Pressure (m water)
+ 
+Figure 4.4.  HDU Calibration Data Points and Calibration Relationship 
+ 
+4.4 Drain Gauge 
+The manufacturer’s quality-control requirements state that each drain gauge is manufactured to dose at 
+31 mL ±10%.(a)  This represents 1 mm of drainage for the 310-cm2 sampling area of the drain gauge.  In 
+addition, drainage resolution of less than 1 mm can be attained by measuring the volume of water in the 
+siphon chamber.  A calibration relating volume of water in the chamber, V (cm3), to the water-depth 
+sensor output, WD (mV), is provided by the manufacture as (Decagon Devices, Inc. 2006): 
+ 
+8.9
+33
+.0
+2 −
+×
+=
+WD
+V
+ 
+(4.3)
+ 
+Both calibrations will be used to convert drain-gauge output to drainage.  A drain-gauge dose will be 
+considered 31 mL drainage, and volumes less than 31 mL will use the relationship in Eq. (4.3) to compute 
+drainage water residing in the siphon chamber.   
+ 
+Before installing the drain gauges in the field, each drain gauge was tested to verify that it was 
+functioning.  Testing was achieved by slowly applying a known volume of water to the drain-gauge 
+calibration line using a graduated 60-mL syringe while monitoring the gauge for dose events.  The 
+volume of water applied for each dose was recorded and compared to the manufacturer’s stated 
+calibration (31 mL per dose).  Table 4.3 presents results from the tests.  Due to the empty volume of the 
+calibration line and the resolution of the syringe (0.5 mL), the differences between calibrated dosing 
+volume and applied liquid were no more than 1.0 mL, which is less than the manufacturer’s suggested 
+measurement error of ±10%.  The results support that the drain gauges were functioning before 
+installation. 
+ 
+Table 4.3.  Drain-Gauge-Function Verification Results 
+                                                     
+(a) Decagon Devices, Inc., Personal communication. 
+ 
+ 
+4.7
+Volume applied per dose (mL)
+Test 
+Gauge 1 
+Gauge 2 
+1 
+31.0 
+30.5 
+2 
+31.0 
+31.0 
+3 
+30.0 
+31.0 
+ 
+4.5 Temperature Probe 
+The temperature probes come from the manufacturer already calibrated and do not require a field 
+calibration.  Two different CSI models, Model 107 and Model 109, of temperature probes are used.  The 
+Model 107 temperature probe is used as a reference temperature probe and is located within the enclosure 
+boxes housing the dataloggers that control the instrument inside the T tank farm.  The Model 107 
+temperature probe is described by a fifth-order polynomial equation relating thermistor resistance, Rs 
+(Ohms), to temperature, T (°C) by (Campbell Scientific Inc. 2004), 
+ 
+5
+5
+4
+4
+3
+3
+2
+2
+1
+0
+Rs
+C
+Rs
+C
+Rs
+C
+Rs
+C
+Rs
+C
+C
+T
++
++
++
++
++
+=
+ 
+(4.4)
+ 
+where   C0 = -53.4601 
+ 
+C1 = 90.807 
+ 
+C2 = -83.257 
+ 
+C3 = 52.283 
+ 
+C4 = -16.723 
+ 
+C5 = 2.211 
+ 
+The temperature sensor used as part of the meteorological station is a Model 109 temperature probe.  This 
+temperatures sensor relates thermistor resistance to temperature using the relationship (Campbell 
+Scientific Inc. 2004),  
+ 
+(
+)
+[
+]
+15
+.
+273
+ln
+)
+ln(
+1
+3
+−
+⎭
+⎬
+⎫
+⎩
+⎨
+⎧
++
++
+=
+Rs
+C
+Rs
+B
+A
+T
+ 
+(4.5)
+ 
+where A is 1.129241×10-3, B is 2.341077×10-4, and C is 8.775468×10-8. 
+4.6 Rain Gauge 
+The rain gauge is factory calibrated and does not require a field calibration.  The calibration produces an 
+equivalent height of water of 0.254 mm per tip.  Before field installation, the functionality of the rain 
+gauge was confirmed by applying a known volume of water to the rain gauge with a graduated 60-mL 
+syringe while monitoring for tips.  The volume of water applied for each tip was compared to the 
+manufacturer’s calibration (8.3 mL per tip) to see that there was general agreement between the two.  
+Table 4.4 presents results from this analysis.  Differences between the calibrated tipping volume and the 
+volume of water applied were no more than the resolution volume of the syringe (0.5 mL).  The results 
+confirm that the rain gauge is functioning. 
+ 
+ 
+ 
+4.8
+Table 4.4.  Rain-Gauge-Function Verification Results 
+Test Volume applied per tip (mL)
+1 
+8.5 
+2 
+8.5 
+3 
+8.5 
+ 
+ 
+ 
+5.1
+ 
+5.0 Instrument Layout and Installation 
+During August and September of 2006, two nests of vadose zone monitoring instruments were installed 
+within T Tank Farm, and a meteorological station was installed outside of the tank farm.  Each of the two 
+instrument nests within the tank farm included its own datalogger as did the meteorological station 
+outside the farm.  This section updates the discussion in the design plan to represent any change and slight 
+modifications to the installation procedure.  Adjustments to the locations of two additional nests planned 
+for FY 2007 are also presented.   
+5.1 Selection of Monitoring Locations 
+The instruments are installed both under the interim surface barrier and outside of the surface barrier for 
+purposes of monitoring surface-barrier impacts on the subsurface water regime.  Three-dimensional 
+simulations presented in Section 2 and two-dimensional simulations(a) suggest that the measurable 
+changes in subsurface conditions 3 years after surface barrier placement will primarily be contained in the 
+top 15 m of sediment.  Longer time periods are required before measurable changes propagate to deeper 
+depths.  As such, a combination of shallow and deep instrument placement is incorporated into the 
+monitoring design.   
+ 
+Nest placement is guided by three primary factors: 1) the capability to distinguish the differences in soil-
+water regimes in the regions with and without a surface barrier, 2) the capability to investigate edge 
+effects, and 3) the locations of existing underground utilities (e.g., pipelines, electrical conduits) or 
+structures and the geometry of the planned interim surface barrier.  The nest placement should provide the 
+greatest opportunity for monitoring instruments to detect changing subsurface soil-water conditions.  For 
+example, in the region with a surface barrier, the water content of the soil close to or between tanks is 
+expected to have a larger change than the soil far away from the tanks.  
+ 
+Those designing a monitoring system also need to consider that soil attributes may vary in space.  This 
+requires that the monitoring of a flow variable should be taken at multiple locations, if possible.  There 
+are three options for repetitive measurements: 1) multiple measurements horizontally, 2) multiple 
+measurements vertically, and 3) multiple measurements both horizontally and vertically.  Other factors to 
+be considered include the cost constraint for instrument purchase, installation and monitoring, the method 
+of installation, and the depth of a surface barrier that affects the soil-water regime within the time frame 
+of monitoring.  The use of options 1) and 3) are more costly than option 2) to achieve similar 
+measurement repetition.  Hence, option 2) is used for instrument placement.  
+ 
+Horizontally, the instruments are grouped into four nests (i.e., A, B, C, and D), each of which includes a 
+neutron access tube, a capacitance probe, and an HDU.  Nest A is placed in the area without a cover and 
+serves as a control.  It needs to be at least 5 m away from the closest edge of the surface cover to prevent 
+measurable impacts from the cover.  Nest B is placed at the edge of the surface barrier to monitor the 
+edge effect of the surface barrier on the soil-water regime.  Each Nest (A and B) also contains a water-
+flux meter.  Nests C and D are duplicates and are placed inside the covered area; they need be at least 5 m 
+from the closest edge of the surface barrier and between two or more tanks where the largest change of 
+soil-water content, and hence water flux, is expected after the emplacement of the surface barrier.  
+                                                     
+(a) McMahon, W., 2007, Personal communication. 
+ 
+ 
+5.2
+ 
+Vertically, the monitoring depths go to 15-m bgs.  Considering that, upon the emplacement of the surface 
+barrier, the changes of soil moisture will be more significant in shallower depths; more intensive and 
+frequent measurement will be taken in small depths. 
+5.2 Instrument Nest Design 
+As described above, the design groups instruments and access tubes into four nests, with each nest being 
+composed of a vertical access tube for neutron-moisture-probe measurements, an EnviroSMART 
+capacitance probe, and HDU units.  In addition, each Nest (A and B) contains a drain gauge.  Figure 5.1 
+provides a plan view of the existing instrument nest locations (A and B), the prospective location for two 
+additional instrument Nests C and D to be installed in FY 2007, and the probable footprint of the interim 
+surface barrier.  After surface-barrier placement, Nest A will continue to provide subsurface conditions 
+outside the surface barrier area.  Nest B, at the edge of the surface barrier, will provide subsurface 
+measurements that are aimed to explore the magnitude of surface-barrier edge effects.  Nests C and D will 
+serve as a redundant measurement of conditions beneath the interim surface barrier at locations where 
+subsurface hydraulic conditions are anticipated to exhibit the greatest change, as supported by model 
+results.  All present and future instrument nests lie within backfill material, except for the lower part of 
+the neutron access tubes, which extend into the undisturbed Hanford formation below the tanks.   
+ 
+Nests A and B were installed in late FY 2006, and monitoring was initiated on September 29, 2006.  
+Figure 5.1 shows the approximate location of each instrument installation.  Table 5.1 provides the 
+coordinates of each well using the Washington Coordinate System, NAD83(91) datum.  Nests A and B 
+will provide baseline conditions before installing the interim surface barrier, anticipated to occur in the 
+summer of 2007.  Nests A and B are installed at a separation distance of approximately 20 m, with Nest A 
+being outside the proposed surface-barrier area, and Nest B being near the edge of the surface barrier.  
+Both nests are approximately 11 m from the nearest tank.  
+ 
+Nests C and D are planned to be installed in FY 2007.  Nests C and D will be inside the surface-barrier 
+area, with Nest C being between tank T106 and T109, and Nest D located approximately at the center of 
+the interim surface barrier, between tanks T105, T106, T108, and T109 (Figure 5.1).  The instrumentation 
+and configuration of both nests will be identical in design to Nests A and B, except that Nests C and D 
+will not include a drain gauge.  The final instrument composition of Nests C and D will be a vertical 
+access tube for neutron-moisture-probe measurements, an EnviroSMART capacitance probe, and HDU 
+units.  Table 5.2 summarizes the vertical placement of instrument or measurement points. The sensor 
+serial numbers and/or sensor numbers for the capacitance and HDU sensors are listed in Table 5.3 and 
+Table 5.4, respectively.  
+ 
+In addition to the instrument nests, some of the existing dry wells located in the T Farm may be neutron 
+logged, provided the wells have a favorable completion design.  These data may provide information 
+regarding the soil-water condition in the regions that are not monitored by the above-mentioned 
+instrument nests.  The following wells appear to be suitable for neutron logging: 50-08-11, 50-05-04, 
+50-09-01, 50-08-08, 50-11-11, and 50-08-19 (Figure 5.2). 
+ 
+ 
+ 
+5.3
+ 
+Figure 5.1. Plan View of T Tank Farm with the Approximate Locations of Existing Monitoring Nests A 
+and B, Prospective Monitoring Nests C and D, and Proposed Interim Surface barrier 
+Boundary as Marked by the Octagon 
+ 
+Table 5.1.  Vadose Zone Monitoring Driving Boreholes Coordinates Drilled  
+in FY2006 and Associated Installed Instruments 
+Coordinates(a) 
+Well Number 
+Instrument 
+Northing (m)
+Easting (m) 
+C5306 
+Drain Gauge 
+136762.16 
+566752.82 
+C5307 
+Access Tube 
+136761.16 
+566752.82 
+C5309 
+HDUs 
+136760.16 
+566751.82 
+C5310 
+Capacitance Probe
+136761.16 
+566751.82 
+C5311 
+Drain Gauge 
+136739.59 
+566753.47 
+C5312 
+Access Tube 
+136738.59 
+566753.47 
+C5314 
+HDUs 
+136737.59 
+566752.47 
+C5315 
+Capacitance Probe
+136738.59 
+566752.47 
+(a) Washington Coordinate System, NAD83(91) datum 
+ 
+ 
+ 
+5.4
+Table 5.2.  Instrument Vertical Placement 
+ 
+Methods 
+Nest 
+No. of Sensors/ 
+Measurement Points 
+Depth of Sensors/ 
+Measurement Points 
+Capacitance Probe 
+A, B, C, D 
+5 
+0.6, 0.9, 1.3, 1.8, and 2.3 m 
+Neutron Probe 
+A, B, C, D 
+50 
+from 1 to 50 ft bgs at 1-ft 
+interval 
+HDU 
+A, B, C, D 
+4 
+1, 2, 5, and 10 m 
+Drain Gauge 
+A, B 
+1 
+ground surface 
+ 
+ 
+ 
+Figure 5.2.  Plan View of T Tank Farm with the Dry Wells Expected to Be  
+Suitable for Neutron Moisture Logging Being Marked in Circles 
+ 
+Table 5.3.  Serial Numbers of the Capacitance Sensors Installed in Nests A and B 
+ 
+Depth (m) 
+Nest A 
+Nest B 
+0.6 
+AP06-305 
+FE06-371 
+0.9 
+AP06-310 
+FE06-372 
+1.3 
+AP06-303 
+FE06-373 
+1.8 
+AP06-304 
+FE06-374 
+2.3 
+AP06-309 
+FE06-375 
+ 
+ 
+ 
+5.5
+Table 5.4.  Serial Numbers and Sensor Numbers of the HDU Sensors Installed in Nests A and B 
+ 
+Nest A 
+Nest B 
+Depth 
+(m) 
+Sensors S/N 
+Sensor # 
+Sensors S/N 
+Sensor # 
+1 
+11256 
+250-3 
+11261 
+275-7 
+2 
+11257 
+250-7 
+11268 
+275-8 
+5 
+11258 
+250-8 
+11267 
+275-9 
+10 
+11259 
+250-4 
+11263 
+275-6 
+ 
+5.3 FY 2006 Instrument Installation 
+In FY 2006, instrument Nests A and B were installed following the placement and methods described 
+below.  Instruments were placed in an open driving borehole created by pounding a cone-tipped hollow 
+drive shaft into the ground using a hydraulic hammer.  Figure 5.3 shows a typical cone-tipped drive shaft 
+used for driving boreholes.  The benefit of using the hydraulic hammer to create a borehole as opposed to 
+drilling is that the hydraulic-hammer technique avoids bringing potentially contaminated soil to the 
+surface.  The cone tip on the drive shaft has the capability to be removed once the desired driving depth is 
+reached.  This allows instruments to be placed down the borehole through the inside of the drive shaft as 
+the drive shaft is removed from the soil.  Likewise, the drive shaft can remain in the soil as a permanent 
+access tube.  The diameter of the borehole can be increased or decreased using differing drive-shaft and 
+drive-head diameters. 
+ 
+The following discussion provides specific details of each instrument installation and is adapted from 
+Zhang and Keller (2006) to reflect installation modifications.  Both metric and English units of 
+measurement are reported in this section to be consistent with the English units used by the drillers to 
+measure and report depths and instrument-installation details.   
+ 
+ 
+Figure 5.3.  Cone-tipped Drive Shaft Used in Conjunction with  
+a Hydraulic Hammer for Creating Driving Boreholes 
+ 
+5.3.1 Neutron-Moisture-Probe Access Tubes 
+Each neutron-probe access tube was installed using the basic function of the hydraulic hammer.  A steel 
+access tube 4.45 cm ID, 6.35 cm OD (1.75 inch ID, 2.5 inch OD) was driven vertically by the hydraulic 
+hammer to a depth of 15.24 m (50 ft).  A cap on the access tube is used to prevent precipitation from 
+ 
+ 
+5.6
+entering the access tube.  Figure 5.5 shows the diagram of the installed neutron-probe access tubes and 
+installation procedures. 
+5.3.2 EnviroSMART Capacitance Probe 
+To allow the capacitance probe access tube with a 5.65 cm (2.22 inch OD) to be placed into the ground 
+through the drive shaft, an 8.48 cm (3.34 inch) ID drive rod was used.  The OD of this drive shaft was 
+10.16 cm (4.00 inches), resulting in an annulus of 4.51 cm (1.78 inches).  At both instrument nests, the 
+drive rod was driven to a depth of approximately 3.50 m (11.50 ft).  Once the target depth was reached, 
+the drive cone was detached from the shaft, and the cone was isolated from the capacitance probe by 
+surrounding it with 20/40 clean sand until the borehole depth was approximately 2.83 m (9.28 ft).  The 
+EnviroSMART PVC access tube was then placed at depth through the drive rod, with the top of the probe 
+being approximately 0.30 m (0.98 ft) below ground surface.  As the drive rod was extracted, 20/40 clean 
+sand was packed in the annulus surrounding the polyvinyl chloride (PVC) access tube.   
+ 
+The drive-rod diameter was selected to create as small of an annulus as possible.  However, the annulus 
+size still required packing the 20/40 sand around the access tube to eliminate any air gaps around the 
+access tube.  Keeping the size of the annulus to a minimum was important so that the measured moisture 
+content of the capacitance probe is not heavily skewed by the moisture content of the packing material.  
+The manufacturer of the probe states that 99% of the probe reading is taken within a 10-cm radius from 
+the outside of the capacitance-probe access tube.  Given that the radial thickness of the 20/40 clean sand  
+packed in the annulus is 4.51 cm (1.78 inches), this 
+suggests that approximately 45% of the capacitance-
+probe reading is interrogating the 20/40 clean-sand 
+material.  While the sand pack will skew absolute soil-
+water-content values, relative trends over depth and 
+time will still be valuable. 
+ 
+Near the top of the borehole, an approximately 5 cm 
+(1.97 inches) thick layer of hydrated bentonite  
+crumbles was added to the annulus to reduce the 
+potential for preferential flow through the 20/40 sand 
+pack material.  After the PVC access tube and packing 
+material was emplaced, accumulated soil and dust 
+within the access tube was removed, and the sensors 
+were placed within the access tube as was desiccant.  
+The access tube was then capped and sealed with a 
+water-tight and weather-resistant sealant.   
+ 
+To protect the probe from surface traffic, a 25.4-cm 
+(10-inch) diameter steel casing was placed around the access tube, extending from the surface to a depth 
+of 0.30 m (1 ft).  The casing was then filled with soil material from the tank farm surface.  Figure 5.4 
+shows the capacitance probe cap and protective casing before filling the casing with the tank-farm surface 
+material, while Figure 5.7 shows a diagram of the installed capacitance probe access tubes and installation 
+procedures. 
+ 
+ 
+Figure 5.4. Capacitance Probe Cap and 
+Protective Casing at Instrument 
+Nest B Before Filling With Tank 
+Farm Surface Material 
+ 
+ 
+5.7
+ 
+Figure 5.5.  Diagram of the Installed Neutron Probe Access Tubes  
+and Installation Procedures (after CHG 2006) 
+ 
+ 
+ 
+ 
+5.8
+5.3.3 Heat-Dissipation Units 
+HDUs were installed within a borehole created by driving a 4.45-cm-ID, 6.35-cm-OD (1.75–inch-ID, 
+2.5–inch-OD) steel drive shaft and drive head set to a depth of 10.97 m (36.0 ft) using the hydraulic 
+hammer.  Figure 5.8 provides a representation of the packing material and instrument layering scheme for 
+installing the HDUs within the borehole.  Once the drive shaft was at depth, the drive cone was 
+disconnected from the drive shaft, and as the rod was removed, 20/40 clean sand was added to bring the 
+level to approximately 10.0 cm (3.9 inches) below the bottom HDU depth of 10.0 m (32.8 ft).  The HDU 
+and silica flour were added for a total of 20.0-cm (7.9-inches) thickness of silica flour.  Silica flour was 
+packed around the HDU to supply optimum contact between the sensor and surrounding soil material.  
+The silica flour was moistened slightly before adding to the borehole to improve packing of the flour and 
+to reduce HDU equilibration time with the surrounding sediment.  Approximately 20.0 cm (7.9 inches) of 
+20/40 sand was then added on top of the silica flour, followed by hydrated bentonite crumbles to a depth 
+of approximately 30.0 cm (11.8 inches) below the next instrument depth of 5.0 m (16.4 ft).  20/40 sand 
+was added to bring the level to approximately 10.0 cm (3.9 inches) below the instrument depth.  The next 
+HDU and silica flour was then added as was done with the previous HDU.  This sequence was repeated 
+until all HDUs were installed.  After the last HDU was installed, 20.0 cm (7.9 inches) of 20/40 clean sand 
+was added before the borehole was completed to the surface with hydrated bentonite crumbles.  A 
+representation of this packing scheme is presented in Figure 5.8.  To protect wiring and instruments from 
+vehicle traffic, a 20.3-cm (8.0-inches) diameter steel casing was placed over the borehole to a depth 
+extending 0.30 m (1.0 ft) below the soil surface, and the casing was capped.  Figure 5.6 shows the HDU 
+installation before placing a cap on the protective casing.  Note the HDU cabling that runs to the 
+datalogger.   
+ 
+Figure 5.6.  Protective Casing Over the HDU Location at Instrument Nest B 
+ 
+ 
+ 
+5.9
+ 
+ 
+ 
+Figure 5.7.  Diagram of the Installed Capacitance Probe Access Tubes  
+and Installation Procedures (after CHG 2006) 
+ 
+ 
+ 
+ 
+5.10
+ 
+Figure 5.8.  HDU Installation and Packing Material Layering Scheme (after CHG 2006) 
+ 
+ 
+ 
+5.11
+5.3.4 Drain Gauge 
+The drain gauge has a 20.3-cm (8.0-inch) OD divergence control tube that is 0.67 m (2.2 feet) in length, 
+requiring a hole of this diameter to be created from the surface to a depth of 0.67 m (2.2 feet).  An auger 
+was employed to create a sufficiently large diameter hole to allow placement of the divergence control 
+tube.  To preserve the hole while auguring, a 25.4-cm (10-inch) diameter casing was advanced as the 
+auguring proceeded.  The sediment removed during auguring was set aside to be used later to pack the 
+divergence control tube.  After auguring to the correct depth, a 4.45-cm-ID, 6.35-cm-OD (1.75-inch-ID, 
+2.5-inch-OD) drive shaft and drive-head combination was pushed, starting from the base of the augured 
+hole to a depth of approximately 1.2 m (4 ft) past the base of the auger hole.  The hole was pushed 
+multiple times until it maintained its structure when the drive shaft was removed.  Gravel was added to 
+the bottom of the smaller diameter borehole until approximately 0.30-m (1-ft) depth of gravel was present.  
+The gravel allows for unabated movement of the dosing water away from the drain gauge.  The wick 
+section of the drain gauge was then placed inside the smaller diameter borehole with the top plate of the  
+wick section resting on the bottom of the auger hole.  A 2-cm-thick (0.79-inches) layer of manufacturer-
+provided diatomaceous earth was placed on top of the fiberglass fabric that covers the top plate to 
+enhance contact between the soil in the divergence control tube and the fiberglass wick.  The divergence 
+control tube was then securely placed on the top plate of the wick section and packed with the augured 
+out soil.  The drain gauges were placed at both nests so that the divergence control tube and steel casing 
+terminated at ground surface, with the steel casing remaining to provide an added level of protection for 
+the drain gauge.  Figure 5.9 shows the drain gauge at instrument Nest B before the surface material was 
+ 
+Figure 5.9. Instrument Nest B Drain Gauge (smaller diameter tube) and Protective Casing (larger 
+diameter tube).  Also shown are the solution sampling line (blue tube) and drain 
+gauge calibration and testing line (clear tube). 
+ 
+ 
+ 
+5.12
+packed.  In this figure, the drain gauge is the smaller diameter tube, and the larger diameter tube is the 
+protective casing.  The clear tube coming from the drain gauge is a calibration tube that allows for 
+calibration of the unit after it has been installed and allows the functionality of the unit to be checked.  
+The blue tube can be used to extract a solution sample from the unit if desired.  Figure 5.10 shows a 
+diagram of the installed drainage gauges and installation procedures. 
+ 
+ 
+Figure 5.10.  Diagram of the Installed Drainage Gauges and Installation Procedures (after CHG 2006) 
+ 
+ 
+ 
+5.13
+ 
+5.3.5 Datalogger and Wiring 
+Each instrument nest within the tank farm will be connected to a dedicated datalogger adjacent to the 
+instrument nest.  Wiring from each instrument is run through buried conduit that terminates at a transfer 
+box.  The wiring then runs from the transfer box to the datalogger enclosure box through a single line of 
+conduit.  The datalogger is installed in a weather-tight enclosure containing desiccant bags to reduce 
+moisture inside the box.  The enclosure and transfer box is attached to a 6-foot-tall galvanized steel tripod 
+that is securely anchored using 12-inch-long rebar ground stakes.  The tripod is grounded to a 5-inch 
+grounding rod. 
+ 
+The datalogger and peripherals are powered by a 12-volt rechargeable battery, which is charged by a solar 
+panel attached to the tripod.  The battery is placed within the enclosure.  Data from the datalogger are 
+transmitted remotely by a 900-MHz spread spectrum radio to a receiving computer located outside of the 
+tank farm.  Figure 5.11 shows the datalogger enclosure and other infrastructure associated with the 
+datalogger station controlling instrument Nest B.  Each instrument nest is surrounded by T-posts and rope 
+to deter vehicle traffic.  Figure 5.13 shows the wiring diagram for the instrument nests inside the T tank 
+farm.  The wiring for Nests A and B are identical. 
+ 
+ 
+ 
+Figure 5.11.  Instrument Nest B Tri-pod with Attached Solar Panel,  
+Datalogger Enclosure, and Transfer Box 
+ 
+ 
+5.14
+ 
+5.3.6 Meteorological Station 
+The meteorological station was installed along the north fence line, just outside of the T tank farm.  The 
+datalogger and meteorological instruments are mounted on a 6-foot-tall galvanized steel tripod that is 
+securely anchored using 12-inch-long rebar ground stakes.  The datalogger controlling the instruments is 
+placed inside a weather-resistant enclosure.  The datalogger is powered by a 12-volt rechargeable battery 
+that is charged by a solar panel attached to the tripod.  The battery is placed within the enclosure.  Data 
+from the datalogger are transmitted remotely by a 900-MHz spread spectrum radio to a receiving 
+computer.  Figure 5.12 shows the meteorological station instruments and control components.  A smaller 
+version of the wiring diagram for T Tank Farm Instrument Nests and the meteorological station (CHG 
+2006) is presented in Figure 5.13. 
+ 
+ 
+ 
+Figure 5.12.  Meteorological Station Tri-pod with Attached Solar Panel,  
+Datalogger Enclosure, Rain Gauge, and Temperature Sensor 
+ 
+ 
+ 
+5.15
+ 
+Figure 5.13.  Wiring Diagram for T Tank Farm Instrument Nests and Meteorological Station (after CHG 2006) 
+ 
+ 
+5.16
+ 
+ 
+ 
+6.1
+ 
+6.0 Vadose Zone Monitoring Plan 
+A monitoring plan is presented that uses the monitoring design described in Section 5.0 that will be used 
+to document vadose zone response to the placement of an interim surface barrier in the T tank farm.  The 
+monitoring plan employs the measurement of subsurface hydraulic conditions directly beneath and 
+outside of the interim surface barrier as well as meteorological conditions.  This section details aspects of 
+the monitoring plan, including: 
+• 
+the source, method, frequency, and schedule of data collection 
+• 
+data reduction, validation, organization, and analysis 
+• 
+instrument performance and vadose zone response indicators 
+• 
+contingencies given instrument failure 
+• 
+data reporting. 
+6.1 Measurement Procedures and Frequencies 
+This section describes the standard procedures to be used for collecting data under the monitoring design 
+described in Section 5.0 as well as the measurement schedule.  Table 6.1 summarizes the six variables to 
+be monitored, the monitoring methods, and the approximate monitoring frequency.  The monitoring 
+procedures and frequency may be adjusted as more experience is gained. 
+ 
+Table 6.1.  Data Collection Method(a) and Approximate Frequency Under Normal Working Condition 
+Monitoring Component 
+Monitoring Method 
+Monitoring Frequency 
+Soil-Water Content 
+Neutron Moisture Probe
+Quarterly  
+Soil-Water Content 
+Capacitance Probe 
+Every 6 hours 
+Soil-Water Pressure 
+Heat Dissipation Unit 
+Every 6 hours 
+Soil Temperature 
+Heat Dissipation Unit 
+Every 6 hours 
+Soil-Water Drainage 
+Drain Gauge 
+Hourly 
+Air Temperature 
+Thermister 
+Hourly 
+Precipitation 
+Rain Gauge 
+Hourly 
+(a) All measurements except neutron probe will be controlled by dataloggers and 
+taken automatically.  The data will be transmitted to the project server on a 
+weekly basis. 
+ 
+Neutron-moisture-probe measurements will be performed manually.  The measurements will initially be 
+made about every 3 months, but may vary according to the needs and the variation of soil-water content.  
+Following the neutron-probe-measurement procedure documented in CHG (Ross 2007), profile 
+measurements will be made at 1-foot intervals to the depths of the access tubes.     
+ 
+The datalogger will control the probe and store the measurement data of moisture content from 
+capacitance sensors, soil-water pressure and soil temperature from HDUs, drainage from the drain gauges, 
+precipitation from the rain gauge, and air temperature from the thermister.  Soil-moisture-content 
+measurements made with the capacitance probe and HDU measurements to monitor soil-water pressure 
+ 
+ 
+6.2
+and soil temperature will be taken once or more every 6 hours.  At this measurement frequency, a fully 
+charged battery can last for approximately 30 days without being charged by the solar panel.  A concern 
+for a more frequent measurement is that the HDU may drain too much power from the battery, especially 
+in the winter months when cloud cover reduces the capability of the solar panel to charge the battery.  Air 
+temperature in the meteorological station will be measured every hour or shorter considering that air 
+temperature changes quicker than other variables.  Both precipitation and water flux will be measured 
+continuously, but the former is reported hourly.  The data will be transmitted to the project server on a 
+weekly basis.  
+6.2 Data Management 
+Given the variety and volume of data to be collected, it is critical that the data generated under the 
+monitoring plan be consistently managed in a high-quality format and continuously validated.  Doing so 
+allows for reliable routine review and assessment of the functionality of the sensors.  The following 
+sections discuss the review and archival of raw data collected by the instrument/datalogger, the reduction 
+of the data into meaningful parameter quantities, and data validation.  
+6.2.1 Raw Data Review and Archival 
+The data from the dataloggers are treated as raw data.  These data will be reviewed before they are 
+archived in a central server.  In the case when the data are not complete, the data will be re-retrieved from 
+the dataloggers.  The data from the dataloggers will be in ASCII format.  The files from the instrument 
+nests will have the same or similar format as described below. However, the file formats are subject to 
+change if needed. The actual format of each data file will be described in a data-configuration-information 
+file, which is prepared when a data file is archived. 
+• 
+The file contains multiple rows of comma-delimited data measured at different times. The 
+comma-delimited values correspond to the following variables sequentially:  
+o Columns 1 to 5: Array No., Year, Day of year, Hour/Min, Seconds 
+o Columns 6 to 7: Battery voltage (V), Reference temperature (°C) 
+o Columns 8 to 11: HDU initial temperature at 1, 2, 5, 10 m bgs (°C) 
+o Columns 12 to 15: Temperature difference between 1 sec and 30 sec for HDUs at 1, 2, 5, 
+10 m bgs (°C) 
+o Columns 16 to 20: Capacitance-probe scaled frequency from sensors at 0.6, 0.9, 1.3, 1.8, and 
+2.3 m bgs 
+o Columns 21 to 25: Capacitance probe soil-moisture content from sensors at 0.6, 0.9, 1.3, 1.8, 
+and 2.3 m bgs (volume %) 
+o Columns 26 and 27: Number of drain gauge doses and siphon water level (mV) 
+• 
+The file from the Meteorological Station contains the comma-delimited values corresponding to 
+the following variables sequentially: 
+o Column 1: Date/Time 
+o Column 2: Record number 
+o Column 3: Battery voltage (V) 
+o Column 4: Rain gauge (inch) 
+ 
+ 
+6.3
+o Column 5: Air temperature (deg C). 
+ 
+Note that in case measurement frequencies do not match, the same value for the less-frequent 
+measurements will be repeated to keep the same data format as described above.  Should there be 
+additional data output, they will be added after the above mentioned data items in a row. 
+6.2.2 Data Reduction and Organization 
+All monitoring data to be collected require a calibration to relate the measured instrument output of an 
+electric signal to a meaningful parameter value.  In the case a calibration is not available for the neutron 
+probe, relative values will be derived. In instances where the instrument calibration is stable and will not 
+change with time, the datalogger will perform the calculation, and the calculated value will be included in 
+the data file.  For other instruments, the application of the calibration equation will be done through post 
+processing of the data file.  Applying the calibration during post processing allows for the datalogger data 
+file to remain consistent in terms of output fields and to derive the values in the data file. 
+ 
+Data collected under the monitoring plan will be managed in a centralized electronic database repository.  
+The database will be backed up daily using an automated back-up routine.  Except for the neutron 
+moisture probe data, data will be automatically or manually downloaded from the datalogger to the 
+project server using a combination of radio-frequency telemetry and/or telephone communication.  Data 
+are to be downloaded from the datalogger to the project server approximately once a week.  Neutron-
+moisture-probe data will be copied to the project server after measurements are made.  Templates (e.g., 
+using MathCad, EXCEL) will be used to apply the specific instrument calibration and to produce time 
+series plots of the data.  The processed data and plots will be stored in the project server.  Figure 6.1 
+presents a flow diagram describing the monitoring components, instrumentation, and data collection and 
+management. 
+6.2.3 Data Validation 
+Monitoring data that have been copied to the central server will be screened regularly for anomalies by 
+comparing recent data to historical data and using performance indicators defined in the next section.  
+Anomalous data will be flagged and further investigated following procedures identified in the data-
+analysis section.  If the data are proven to be erroneous, the data will either be corrected, if possible, or 
+noted as suspect.  Generally, the data will be validated approximately quarterly, but the validation 
+frequency may be adjusted as more experience is gained. 
+6.3 Data Analysis 
+Data analysis will be consistent with the purpose, goals, and objectives of the interim-surface-barrier 
+monitoring plan to assess the performance of the interim barrier.  Data represent measurements at selected 
+monitoring locations at selected times and include soil-water content, soil-water pressure, soil temperature, 
+soil drainage, and meteorological conditions.   
+ 
+ 
+ 
+6.4
+Meteorological 
+Conditions
+Soil Water Pressure
+Soil Water Content
+Soil Water 
+Drainage
+Soil Temperature
+Air 
+Temperature
+Precipitation
+HDU
+Capacitance 
+Probe
+Neutron 
+Probe
+HDU
+Drain Gauge
+Thermister
+Rain Gauge
+Datalogger
+RF Telemetry and 
+Telephone
+Central 
+Database
+Post 
+Processing
+Analysis
+Reporting
+Monitoring Components
+Instruments
+Data Collection 
+and Management
+ 
+Figure 6.1.  Monitoring Components, Instrumentation, and Data  
+Collection and Management Flow Diagram 
+ 
+This section provides a general discussion of the analysis and assessment of the measurement data, with 
+an emphasis on instrument performance indicators and vadose zone response indicators.  If necessary to 
+better represent subsurface conditions, performance indicators may be revised in the future in response to 
+measured background data.  The data will be summarized in reports that will include tabular and 
+graphical summaries of the monitoring data.  The reports will identify any potentially significant 
+anomalies that may require attention.   
+6.3.1 Instrument Performance Indicators and Contingencies 
+Performance indicators to evaluate instrument functionality are presented.  Unmet performance indicators 
+may be a result of real unexpected subsurface conditions, data-transmittal error, post-processing error, or 
+instrument malfunction.  In the case of unexpected subsurface conditions, the performance indicators may 
+require adjustment after baseline data are collected.  For instances when performance indicators are not 
+met, suggested troubleshooting methods are presented as are contingencies.  Table 6.2 summarizes the 
+performance indicators outlined in this section. 
+ 
+ 
+ 
+6.5
+Table 6.2.  Instrument Performance Indicators 
+Monitoring Method 
+Monitoring Component 
+Performance Indicator 
+0.75 ≤ SDR ≤ 1.25  
+Neutron Moisture 
+Probe 
+Soil-Water Content (θv) 
+PSC
+SC
+×
+±
+=
+98
+.0
+ 
+Capacitance Probe 
+Soil-Water Content (θv) 
+0 ≤ θv ≤ θs 
+Heat Dissipation Unit 
+Soil-Water Pressure (ψ) 
+-100 m ≤ ψ ≤ -1 m  
+Heat Dissipation Unit 
+Soil Temperature (Tsoil) 
+0°C ≤ Tsoil ≤ 30°C 
+Drain Gauge 
+Annual Soil-Water Drainage 
+(D) 
+0 ≤ D ≤ Pannual  
+Rain Gauge 
+Precipitation (P) 
+Annual value is within ±50%  
+HMS measured P  
+Thermister 
+Air Temperature (Tair) 
+Annual average is within ±5%  HMS Tair 
+SDR—standard deviation ratio of neutron count 
+SC—standard count 
+PSC—previous standard count 
+Pwinter—precipitation from November through March 
+θs—saturated water content 
+ 
+Neutron Moisture Probe 
+Indicators of neutron-probe performance can be acquired using a standard count analysis.  A standard 
+count is to be taken before neutron logging as described in Section 2.1.  From this analysis, the ratio of 
+the measured standard deviation to the ideal standard deviation, also called the chi-squared test, is 
+calculated and for a properly functioning probe should be between 0.75 and 1.25.  If the ratio consistently 
+falls outside these limits, then the probe may be experiencing problems.  In addition, the new standard 
+count should be within the previous standard count ±0.98 times the square-root of the previous standard 
+count.  A standard count outside of this range is an indication that the probe may not be functioning 
+correctly.    
+ 
+Appendix A and B of the CPN International users manual (CPN International) and the CHG procedure 
+guide (Ross 2007) provide a list of error messages and their meanings as well as a troubleshooting guide.  
+In addition to the information provided in this document, troubleshooting should include evaluating the 
+post processing of the data to verify that the error does not exist in this step.  If problems with the neutron 
+probe are not correctable, another neutron probe may be used.   
+ 
+Capacitance Probe 
+ 
+The capacitance-probe performance can be examined using published information (e.g., from the Hanford 
+vadose zone hydrogeology data package by Last et al. 2006).  The saturated moisture content value serves 
+as the upper-boundary indicator for capacitance-probe-measured moisture content.  Alternatively, a 
+moisture content of zero is set as the lower boundary indicator for the probe.  Measurements of 
+capacitance-probe moisture content that fall outside these established boundaries may be considered 
+suspect.  Because of subsurface heterogeneities, property uncertainties, and calibration errors, 
+capacitance-probe performance will be reevaluated after sufficient baseline capacitance probe data are 
+acquired. 
+ 
+ 
+ 
+6.6
+If the capacitance-probe measurements do not meet the indicators specified, follow the suggested 
+troubleshooting steps presented in Appendix B to identify the problem.  If the problem still cannot be 
+solved, remove the capacitance probe from its access tube and visually inspect the probe for damage and 
+moisture accumulation.  Replace sensors on the probe and test, and/or bring the probe in from the field for 
+additional examination and possible repair.   
+ 
+If the above steps do not produce a reasonable result, a new probe can be installed using the existing 
+access tube.   
+ 
+Heat Dissipation Unit 
+ 
+Soil-water pressures over the depth of measurement should not be greater than zero, indicating full 
+saturation.  However, there is no minimum for soil-water pressure theoretically.  In this monitor plan, the 
+HDU measurement range of soil-water pressure, from -1 m to -100 m, is used as the performance 
+indicators.  Because of subsurface heterogeneities and property uncertainties, HDU performance will be 
+reevaluated after sufficient baseline capacitance probe data are acquired.     
+ 
+A 50-year monitoring record of soil temperature (Hoitink et al. 2005) in a bare surfaced gravelly sand soil 
+near the HMS provides a range and of soil temperatures to expect in T tank farm.  At the 0.9-m depth, the 
+Hoitink et al. (2005) data show that hourly extremes at this site were a minimum temperature of 0.1 °C 
+and a maximum of 29.6 °C.  Given the observed results, soil-temperature measurements at a 1-m depth or 
+deeper should not exceed 30°C and should not be less than 0°C.  After baseline HDU data are acquired, 
+this performance indicator may be adjusted based on the HDU measurements. However, depending on the 
+color, the surface barrier may transmit heat into the sub-surface soil that may exceed 30C. So, it is 
+expected that thermal regime under the surface barrier may be quite different than that outside the barrier.    
+   
+If the HDU soil-water pressure or soil temperature measurements do not meet the indicators specified, 
+follow the suggested troubleshooting steps presented in Appendix B to identify the problem.  If the above 
+steps do not produce a functioning probe, the installation of new HDUs may be necessary.   
+ 
+Drain Gauge 
+ 
+In the region without a barrier, drainage should not exceed the annual precipitation for that year, unless 
+there is focused flow to the drain gauge due to either a rapid snowmelt event in winter, or possibly a berm 
+failure at the edge of the poly sheet, potentially causing a surface flood after a torrential rainstorm 
+(extreme event).  Both conditions are highly unlikely but rapid snowmelt has caused flooding of tank 
+farm surfaces in the past and this condition needs to be recognized.  The lower bound of drainage is zero, 
+which means no flux at all.  
+ 
+If the drain-gauge measurements do not meet the indicators specified, confirm if the output from the drain 
+gauge when receiving a voltage excitation is between an appropriate range and follow the suggested 
+troubleshooting steps presented in Appendix B to identify the problem.  If the problem still cannot be 
+solved, apply water to the calibration line to see if a flushing event is observed.   
+ 
+If the above steps do not produce a functioning gauge, a new drain gauge may need to be installed. 
+ 
+ 
+ 
+ 
+6.7
+Precipitation and Air Temperature   
+ 
+Performance bounds for the rain-gauge and air-temperature sensors are set relative to those at the HMS.  
+For calendar year 2004, the most recent year that Hanford climate data are documented, annual 
+precipitation and annual average temperature measured at the 200W monitoring station varied -35.3% and 
+-1.3%, respectively, from those measured at the HMS (Hoitink et al. 2005).  Using this information, the 
+annual precipitation data measured at T tank farm should not vary more than ±50% of the HMS 
+precipitation.  Likewise, the T tank farm annual average air-temperature data should not vary greater than 
+±5% of the HMS-measured annual average temperature. 
+ 
+If the rain-gauge or air-temperature measurements do not meet the indicators specified, follow the 
+suggested troubleshooting steps presented in Appendix B to identify the problem.  If the problem of the 
+rain gauge still cannot be solved, apply water to the rain gauge to see if a tipping event is observed.   
+ 
+If the above steps do not produce a functioning gauge or thermister, the instrument may be removed and 
+sent to the manufacturer for repair, or a new instrument may need to be installed. 
+6.3.2 Vadose Zone Response Indicators 
+Vadose zone response will be monitored by examining systematic changes of subsurface conditions over 
+time as represented by time-history trends at the monitoring locations.  The trends in subsurface 
+conditions beneath the interim surface barrier will be used to help answer whether the surface barrier 
+significantly and adequately reduces the downward flux of soil water relative to background conditions.  
+The monitoring plan calls for the direct measurement of downward soil-water flux using drain gauges and 
+indirect measurements using soil-water content and soil-water pressure data.   
+ 
+The drain gauges at Nests A and B were installed at the soil surface and measure the drainage at 0.6 m 
+below the soil surface.  The time-history trend of soil-water content below the surface barrier will provide 
+additional information about the effectiveness of the surface barrier in reducing soil-water flux.  An 
+effective surface barrier will produce, on average, a drying soil profile beneath the surface barrier, 
+representing a decrease in soil-water flux.  Decreasing soil-water flux will also be portrayed by decreasing 
+soil-water pressure relative to baseline conditions.  However, it is pointed out that, at very shallow depth, 
+the soil can be completely dry in the summer time when the surface barrier will be emplaced.  Then, a 
+redistribution of soil water below the surface barrier will occur, and soil moisture will move upward from 
+the wetter soil at deeper depths to the drier soil in shallow depth until a new equilibrium condition is 
+established. 
+ 
+A clear vadose zone response indicator is a near-surface instrument response after precipitation or snow 
+melt events.  Adequate surface-barrier performance should result in no observable increases in moisture 
+content, drainage, or soil-water pressure (less negative) immediately after precipitation or snow-melt 
+events.  Such instrument responses would indicate percolating water and general surface-barrier failure, 
+provided the instruments are functioning. 
+ 
+A secondary component of surface barrier performance is the potential advective movement and buildup 
+of water vapor immediately beneath the low-permeable surface barrier.  Condensation of the water vapor 
+would result in increased soil-water content immediately below the surface barrier.  The vaporization-
+condensation process does not indicate any problem of the surface barrier because there is no net gain or 
+ 
+ 
+6.8
+loss of water mass across the barrier. The seasonal water movement that might observed by the 
+capacitance probe monitoring, will most likely be due to thermally induced vapor and liquid flow as 
+described above and it is expected that this fluctuation will persist for the life of the barrier.  The 
+magnitude of the water content changes and the depth of penetration depend on the soil type and initial 
+water content of the soil, but for typical Hanford conditions it should not extend deeper than a few 10s of 
+cm into the subsurface. 
+ 
+ 
+ 
+7.1
+ 
+7.0 Quality Assurance 
+To verify the quality of the project, the organization performing the monitoring will be required to have a 
+project management plan (PMP) and a quality assurance plan (QAP).  Quality specialists will provide 
+quality assurance support for the project.  Project members will be required to follow the PMP and QAP.  
+ 
+ 
+ 
+7.2
+ 
+ 
+ 
+ 
+8.1
+ 
+8.0 References 
+Atlantic-Richfield Hanford Company (ARHCO).  1973.  241-T-106 Tank leak investigation.  ARH_2874, 
+Atlantic-Richfield Hanford Company, Richland, WA.  
+ 
+Campbell Scientific, Inc. (CSI).  2002. Rain Gauges Models TE525WS, TE525, TE525MM, (brochure). 
+Logan, UT. 
+ 
+Campbell Scientific, Inc. (CSI).  2004. Model 107 Temperature Probe Instruction Manual. 
+ 
+Campbell Scientific, Inc. (CSI).  2006a.  EnviroSMART Soil Water Content Profile Probes – Instruction 
+Manual. Logan, UT. 
+ 
+Campbell Scientific, Inc. (CSI).  2006b.  “Soil Volumetric Water Content/Salinity Probes Models 
+EasyAG II and EnviroSMART,” (brochure).  Logan, UT. 
+ 
+Campbell Scientific, Inc. (CSI).  2006c. “Temperature Probes Models 107 and 108”, (brochure).  Logan, 
+UT. 
+ 
+CHG.  2006.  “Weather and Vadose Zone Monitoring Stations, Electrical Connection Diagram, Rev. 0, 
+Sheet 2, H-14-107368.”  CH2M HILL Hanford Company, Inc., Richland, Washington. 
+Decagon Devices, Inc.  2006.  Drain Gauge – Gee Passive Capillary Lysimeter User’s Manual Version 
+3.0.  Pullman, Washington. 
+Everett, LG, LG Wilson, and EW Hoylman.  1984.  Vadose Zone Monitoring for Hazardous Waste Sites.  
+Noyes Data Corporation, Parkridge, New Jersey. 
+Flint AL, GS Campbell, KM Ellett, and C Calissendorff.  2002.  “Calibration and temperature correction 
+of heat dissipation matric potential sensors.”  Soil Sci. Soc. Am. J. 66:1439-1445. 
+Fredlund DG, F Shuai, and M Feng.  2000.  “Use of a new thermal conductivity sensor for laboratory 
+suction measurement.”  pp. 275-280.  In: Unsaturated soil for Asia. Rahardjo et al. (ed.).  Proc. of the 
+Asian Conf. on Unsaturated Soils Unsat-Asia 2000.  Singapore. 
+Gee GW, AL Ward, TG Caldwell, and JC Ritter.  2002.  “A vadose zone water fluxmeter with divergence 
+control.”  Water Resour. Res. 38:10.1029. 
+ 
+Hoitink DJ, KW Burk, JV Ramsdell Jr, WJ Shaw.  2005.  Hanford Site Climatological Summary 2004 
+with Historical Data.  PNNL-15160.  Pacific Northwest National Laboratory, Richland, Washington. 
+ 
+International Atomic Energy Agency (IAEA).  1970. Neutron Moisture Gauges. Tech. Rep. Ser. No. 112, 
+Vienna, Austria. 
+ 
+ 
+ 
+8.2
+Khaleel R, FJ Anderson, MP Connelly, TE Jones, FM Mann, DA Myers, and MI Wood.  2004.  Modeling 
+data package for WMAs T and TX-TY Field Investigation report.  RPP-17393 Rev. 0, CH2MHiLL 
+Hanford Group, Inc., Richland, WA. 
+ 
+Myers DA.  2005.  Field Investigation Report for Waste Management Areas.  RPR-23752, CH2M Hill 
+Hanford Group, Richland, WA. 
+ 
+Paltineanu IC, and JL Starr.  1997.  “Real-time soil water dynamics using multisensor capacitance probes: 
+laboratory calibration.”  Soil Sci. Soc. Am. J. 61:1576-1585. 
+ 
+Reece C.  1996.  “Evaluation of a line heat dissipation sensor for measuring soil matric potential.”  Soil 
+Sci. Soc. Am. J. 60:1022-1028. 
+ 
+Ross L.  2007.  “Tank Farm Plant Operating Procedure - Operate Model 503DR Hydroprobe Neutron 
+Moisture Detection.”  TO-320-022, B-8. CH2M Hill Hanford Group, Richland, WA. 
+ 
+Routson RC, WH Price, DJ Brown, and KR Fecht.  1979.  High-level waste leakage from the 241-T-106 
+tank at Hanford.  RHO-ST-14, Rockwell Hanford Operations, Richland, WA. 
+ 
+Scanlon BR, BJ Andraski, and J Bilskie.  2002.  “Miscellaneous methods for measuring matric or water 
+potential.”  In: Methods of Soil Analysis Part 4 Physical Methods.  Dane JH and GC Topp (eds.), pp. 643-
+654.  Soil Science Society of America Inc.  Madison, Wisconsin, USA. 
+ 
+Sentek Pty Ltd.  2001.  Calibration of the Sentek Pty Ltd Soil Moisture Sensors.  Stepney, Australia. 
+ 
+Serne RJ, BN Bjornstad, DG Horton, DC Lanigan, HT Schaef, CW Lindenmeier, MJ Lindberg, RE 
+Clayton, VL LeGore, KN Geiszler, SR Baum, MM Valenta, IV Kutnyakov, TS Vickerman, RD Orr, CF 
+Brown.  2004.  Characterization of Vadose Zone Sediments Below the T Tank Farm: Boreholes C4104, 
+C4105, 299-W10-196, and RCRA Borehole 299-W11-39.  PNNL-14849, Pacific Northwest National 
+Laboratory, Richland, Washington. 
+ 
+Shiozawa S and GS Campbell.  1990.  “Soil thermal conductivity.”  Remote Sens. Rev. 5:301-310. 
+ 
+Smith-Rose RL.  1933.  “The electrical properties of soils for alternating currents at radio frequencies.”  
+Proc. R. Soc. London 140:359. 
+ 
+Starr JL and IC Paltineanu.  2002.  “Capacitance Devices.”  In: Methods of soil analysis Part 4 Physical 
+methods, Dane JH and GC Topp (eds.), pp. 463-475.  Soil Science Society of America, Inc., Madison 
+Wisconsin. 
+ 
+U.S. Department of Energy (DOE).  2005.  Hanford Tank Farms Vadose Zone Monitoring Project, 
+Annual Monitoring Report for Fiscal Year 2004.  DOE-EM/GJ777-2004, Grand Junction Office, Grand 
+Junction, CO. 
+ 
+van Bavel, CHM, N Underwood, and RW Swanson.  1956.  “Soil moisture measurement by neutron 
+moderation.”  Soil Sci. 82:29-41. 
+ 
+ 
+8.3
+ 
+van Genuchten MTh.  1980.  “A closed-form equation for predicting the hydraulic conductivity of 
+unsaturated soils.”  Soil Science Society of America Journal 44:892-898. 
+ 
+Ward AL, TC Caldwell, and GW Gee.  2000.  Vadose Zone Transport Field Study: Soil Water Content 
+Distribution by Neutron Moderation.  PNNL-13795, Pacific Northwest National Laboratory, Richland, 
+WA. 
+ 
+White MD, and M Oostrom.  2004.  User’s Guide of STOMP – Subsurface Transport Over Multiple 
+Phases, Version 3.1. PNNL-14478, Pacific Northwest National Laboratory, Richland, Washington. 
+ 
+Zhang ZF, and JM Keller.  2006.  T Tank Farm Interim Cover Test - Design Plan.  PNNL-15913 Rev. 0, 
+Pacific Northwest National Laboratory, Richland, Washington.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix A 
+ 
+Heat Dissipation Unit Probe Normalization and Calibration 
+Procedures 
+ 
+ 
+ 
+ 
+ 
+ A.1
+ 
+Appendix A: Heat Dissipation Unit Probe Normalization and 
+Calibration Procedures 
+This procedure is adapted from HDU normalization and calibration procedures discussed in Scanlon et al. 
+(2002) and Flint et al. (2002). 
+ 
+Normalization 
+ 
+1. Place oven dried desiccant and one or more HDUs in a sealed container and allow to equilibrate 
+for a minimum of 24 hours.  If the HDU ceramic has been previously wetted, the HDU is best 
+dried in an oven not to exceed 60°C.     
+2. Measure temperature rise a HDU using the same heat source current and heating time to be used 
+for the field measurements.  This is the temperature rise for dry ceramic (ΔTd). Repeat Step 2 for 
+other HDUs. 
+3. Place one or more HDUs in deaired water and allow to equilibrate for a minimum of 24 hours. 
+4. Remove a HDU from water and immediately measure HDU temperature rise using the same heat 
+source current and heating time to be used for the field measurements.  This is the temperature 
+rise for saturated ceramic (ΔTw). Repeat Step 4 for other HDUs. 
+ 
+Calibration 
+1. Wet soil to desired soil water pressure condition.  Wet soil by thoroughly mixing soil and added 
+water.  The amount of water needed to obtain a specified soil water pressure condition can be 
+approximated with prior knowledge of the soil’s soil water characteristics curve and the mass of 
+soil. 
+2. Obtain a minimum of two tensiometers to provide an independent reading of soil water pressure. 
+3. Pack wetted soil, HDUs and tensiometers into a bucket of five gallons or larger.  A minimum of 
+three HDUs should be used to obtain the calibration. 
+4. Seal the top of the bucket to reduce evaporative water loss from the soil. 
+5. Measure HDU temperature rise using the same heat source current and heating time to be used for 
+the field measurements. 
+6. Measure tensiometer pressure. 
+7. Once HDU temperature rise and tensiometer pressure measurements stabilize, record tensiometer 
+pressure and HDU temperature rise.  This is one calibration point.    
+8. Repeat steps 1 through 7 with a different soil water content until all desired calibration points are 
+obtained.  Obtain a minimum of three calibration points.  The calibration points should span the 
+anticipated HDU measurement range in the field.   
+9. Fit appropriate calibration curve to paired soil water pressure and normalized HDU data points. 
+ 
+References 
+Flint AL, GS Campbell, KM Ellett, and C Calissendorff. 2002. Calibration and temperature correction of 
+heat dissipation matric potential sensors. Soil Sci. Soc. Am. J. 66:1439-1445. 
+ 
+ A.2
+Scanlon BR, BJ Andraski, and J Bilskie. 2002. Miscellaneous methods for measuring matric or water 
+potential. In Dane JH and GC Topp (eds.) Methods of Soil Analysis Part 4 Physical Methods, pp643-654. 
+Soil Science Society of America Inc. Madison, Wisconsin, USA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix B 
+ 
+Suggested Troubleshooting Procedures 
+ 
+ 
+ 
+ 
+ 
+B.1 
+ 
+Appendix B: Suggested Troubleshooting Procedures 
+If measurements from an instrument or a sensor do not meet the indicators specified, the following 
+suggested troubleshooting steps should be taken in the order presented.  Note that troubleshooting Steps 1 
+through 3 are performed outside the tank farm.  If Steps 1 through 3 do not resolve the issue, entrance into 
+the tank farm is required for further troubleshooting. 
+1. Review the post processing procedure to verify that the error does not reside in this step. 
+2. Check the battery voltage data for power supply. 
+3. Check the datalogger program for potential program error. 
+4. Manually download the data from the datalogger to confirm that the data error is not created 
+during remote data transmittal to the server. 
+5. Check the datalogger ports to confirm that they are functioning. 
+6. Inspect the wiring and connections at the datalogger for disconnections or wiring wear. 
+7. Inspect the wiring coming out of the top of the probe for disconnection or wiring wear. 
+8. Test the wiring from the probe to the datalogger for continuity. 
+ 
+ 
+B.2 
+ 
+PNNL-16538 
+ 
+Distr. 1
+ 
+Distribution List 
+ 
+ 
+No. of 
+Copies 
+ 
+ONSITE 
+ 
+10 
+CH2M-HILL Group, Inc. 
+ 
+ 
+C.D. Wittreich(5) 
+ 
+E6-35 
+ 
+J.G. Field 
+ 
+ 
+E6-35 
+ 
+F.M. Mann 
+ 
+ 
+E6-35 
+ 
+D.A. Myers 
+ 
+ 
+E6-35 
+ 
+N.L. Peters 
+ 
+ 
+E6-35 
+ 
+H.A. Sydnor 
+ 
+ 
+E6-35 
+ 
+1 
+Energy Solutions 
+ 
+ 
+K.D. Kent 
+ 
+ 
+H1-11 
+ 
+10 
+Pacific Northwest National Laboratory 
+ 
+ 
+Z.F. Zhang (3)  
+ 
+K9-36 
+ 
+M.J. Fayer 
+ 
+ 
+K9-36 
+ 
+G.W. Gee 
+ 
+ 
+K9-36 
+ 
+J.M. Keller 
+ 
+ 
+K9-36 
+ 
+R.R. Kirkham  
+ 
+K9-36 
+ 
+C.E. Strickland  
+ 
+K9-36 
+ 
+A.L Ward 
+ 
+ 
+K9-36 
+ 
+Information Release (2)  
+K1-06 
+ 

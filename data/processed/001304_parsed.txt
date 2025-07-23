@@ -1,0 +1,1016 @@
+APRIL 2004
+639
+B I L L E S B A C H E T A L .
+q 2004 American Meteorological Society
+A Portable Eddy Covariance System for the Measurement of Ecosystem–Atmosphere
+Exchange of CO2, Water Vapor, and Energy
+D. P. BILLESBACH
+Department of Biological Systems Engineering, University of Nebraska—Lincoln, Lincoln, Nebraska
+M. L. FISCHER
+Environmental Energy Technologies Division, Lawrence Berkeley Laboratory, Berkeley, California
+M. S. TORN
+Center for Isotope Geochemistry, Lawrence Berkeley Laboratory, Berkeley, California
+J. A. BERRY
+Department of Plant Biology, Carnegie Institution of Washington, Stanford, California
+(Manuscript received 25 June 2003, in ﬁnal form 20 November 2003)
+ABSTRACT
+To facilitate the study of ﬂux heterogeneity within a region, the authors have designed and ﬁeld-tested a
+portable eddy covariance system to measure exchange of CO 2, water vapor, and energy between the land surface
+and the atmosphere. The combination of instrumentation used in this system allows high precision ﬂux mea-
+surements without requiring on-site infrastructure such as prepositioned towers or line power. In addition, the
+system contains sensors to measure a suit of soil, climatic, and energy-related parameters that are needed to
+quality control the ﬂuxes and to characterize the ﬂux footprint. The physical design and instrument packaging
+used in the system allows for simple transport (ﬁts in a standard minivan) and for rapid deployment with a
+minimal number of ﬁeld personnel (usually less than a day for one person). The power requirement for the
+entire system (instruments and data loggers) is less than 35 W, which is provided by a companion solar power
+system.
+Side-by-side ﬁeld comparisons between this system and two permanent AmeriFlux sites and between the
+roving AmeriFlux intercomparison system are described here. Results of these comparisons indicate that the
+portable system is capable of absolute ﬂux resolutions of about 61.2 mmol m22 s21 for CO2, 615 W m22 for
+LE, 67 W m22 for H, and 60.06 m s21 for u* between any given 30-min averaging periods. It is also found
+that, compared to a permanent Ameriﬂux site, the relative accuracy of this ﬂux estimates is between 1% and
+7%. Based on these results, it is concluded that this portable system is capable of making ecosystem ﬂux
+measurements with an accuracy and precision comparable to most permanent AmeriFlux systems.
+1. Introduction
+The inﬂuence of land use and management is a central
+question in climate change research. Spatial patterns of
+use and management generate strong heterogeneity in
+surface albedo, and ﬂuxes of heat, water, and carbon
+dioxide, as well as in other surface properties that force
+climate. Previous work in forests (e.g., BOREAS, more
+information available online at http://www.daac.ornl.
+gov/BOREAS/boreasphomeppage.html.) and in grazed
+or crop ecosystems (e.g., Bremer and Ham 2002) has
+Corresponding author address: Dr. D. P. Billesbach, Department
+of Biological Systems Engineering, University of Nebraska—Lin-
+coln, Lincoln, NE 68583-0726.
+E-mail: dbillesbach1@unl.edu
+shown the importance of land alteration. Climate,
+edaphic variables, and history may also create hetero-
+geneity within a given vegetation type or crop man-
+agement regime. Because the ﬁrst priority of most ﬂux
+networks has been to achieve representation of the major
+different vegetation types, there are few replicates with-
+in a single vegetative land cover type. As a result, re-
+gional estimates of carbon exchange commonly must
+extrapolate a single eddy ﬂux site to all areas within the
+same vegetation type or management regime, without
+an empirical estimate of the uncertainty due to spatial
+heterogeneity. We seek to explore this heterogeneity on
+the scale of 50 to 100 hectars, or on a ﬁeld-to-ﬁeld basis.
+The magnitude of the differences between different
+ﬁelds with the same crop type or the same land cover
+type is currently unknown.
+640
+VOLUME 21
+J O U R N A L O F A T M O S P H E R I C A N D O C E A N I C T E C H N O L O G Y
+To characterize the carbon cycle dynamics in a het-
+erogeneous region, we are developing a program of at-
+mosphere–biosphere carbon exchange measurements in
+the Southern Great Plains (SGP) Cloud and Radiation
+Testbed (CART) of the Department of Energy (DOE)
+Atmospheric Radiation Measurement (ARM) program.
+The ARM–CART encompasses an area of 140 000 km2
+in Oklahoma and southern Kansas (ARM SGP, more
+information available online at http://www.arm.gov/
+docs/sites/sgp/sgp.html). It is heavily instrumented with
+atmospheric-observation technologies at the central fa-
+cility (located near the town of Lamont, Oklahoma;
+368379N, 978309W) and at a distributed network of ex-
+tended facilities. The mission of this project is to im-
+prove understanding and modeling of cloud and con-
+vection processes in general circulation models. Ad-
+dressing these objectives requires measurement of car-
+bon, water, and energy ﬂuxes in many plots, with
+accompanying measurements of other variables needed
+to drive and test the ecosystem models and other ap-
+proaches to scaling and prediction.
+With the goal of facilitating measurements that cap-
+ture the landscape scale heterogeneity in cropped and
+grazed systems, we have identiﬁed a set of performance
+criteria for an ideal portable ﬂux system. This system
+should (i) be easily and rapidly moveable from site to
+site while requiring only one or two people for setup;
+(ii) operate continuously and unattended for weeks at a
+time with low power consumption and infrastructure
+requirements, such as permanent towers or line power;
+(iii) be comprehensive enough to make all the mea-
+surements necessary for quality control of ﬂuxes and
+for modeling; (iv) provide accuracy and precision com-
+parable to permanent eddy covariance installations; and
+(v) be built at fairly low cost.
+Existing portable ﬂux systems have shown the utility
+of this concept. One portable system is currently being
+used to cross calibrate carbon ﬂux sites within the
+AmeriFlux program (Evans 2000). It makes high pre-
+cision measurements, but it is typically set up using the
+infrastructure (such as the tower, power, and ancillary
+energy-budget sensors) of the permanent AmeriFlux in-
+stallation. An earlier portable system was used to ex-
+amine spatial and climatic heterogeneity in ﬂuxes from
+arctic ecosystems (Eugster et al. 1997). While the in-
+strumentation of this system was indeed portable, it re-
+quired 150–200 W of power to operate. The authors
+estimated that (at the time) different instrumentation
+could have saved 45–60 W, but such a system would
+still require 90 W or more to operate. Supplying this
+resource required the use of a generator and its asso-
+ciated fuel supply. A third system, was described by
+Meyers (2001) and, although it was used in a long-term
+experiment, it did have the potential for portability. This
+system was based on a noncommercial gas analyzer de-
+signed and produced at the National Oceanic and At-
+mospheric Administration’s Atmospheric Turbulence
+and Dispersion Division (NOAA ATDD) laboratory in
+Oak Ridge, Tennessee (Auble and Meyers 1992). Un-
+fortunately, this analyzer is only available from the au-
+thors and exhibits limited offset stability.
+Since the time that these systems were designed, new
+gas analyzer technology has become available that al-
+lows the design of more precise and energy-efﬁcient
+eddy ﬂux systems. It is now possible to design a compact
+portable system that minimizes power requirements with
+good long-term stability.
+The key instrument that makes this system effective
+is an accurate and stable open-path infrared gas analyzer
+(IRGA; LI-7500, LICOR Inc., Lincoln, Nebraska) that
+measures the densities of CO2 and H2O. Compared to
+earlier analyzers (Auble and Meyers 1992), this instru-
+ment contains feedback and signal processing systems
+that provide improved gain and offset stability, and that
+signiﬁcantly reduce the frequency of calibrations needed
+to make precise density measurements. As with other
+open-path instruments, the LI-7500 requires little power
+to operate (,10 W during operation) because the mea-
+surement does not require the pumps used to transport
+gas samples to closed-path analyzers.
+In the absence of advection, the true surface ﬂux of
+a trace gas (as measured by the eddy covariance tech-
+nique) is the sum of three terms. The ﬁrst is simply the
+raw covariance between the ﬂuctuations of the density
+of the trace gas and the ﬂuctuations in the vertical wind
+speed. The other two are proportional to the sensible
+heat ﬂux and the latent heat ﬂux, respectively, and are
+commonly referred to as the Webb–Pearman–Leuning
+(or WPL) corrections (Webb et al. 1980; Paw U et al.
+2000). We prefer the nomenclature of WPL terms in-
+stead, since they are not corrections in the sense that
+they make up for some perceived defect in the mea-
+surement system. The relative magnitudes of these terms
+differ between open and closed-path IRGAs. In partic-
+ular, the term proportional to the sensible heat ﬂux often
+reduces to 0 for closed-path analyzers but can be quite
+large for open-path analyzers, sometimes exceeding the
+raw covariance in magnitude. It is thus obvious that all
+three of these terms must be measured and accurately
+calculated to produce high-quality eddy covariance sur-
+face ﬂuxes.
+To validate the correct operation of our portable ﬂux
+system, we undertook a series of ﬂux measurement com-
+parisons between our system and other established ﬂux
+systems under a variety of conditions. In the ﬁrst ex-
+periment, we compared our system with a closed-path
+IRGA based ﬂux system under typical prairie growth
+conditions. This allowed us to compare our system to
+a traditionally designed, closed-path IRGA based ﬂux
+system, and to evaluate our system under conditions
+providing a wide range of ﬂux values. In the second
+experiment, we compared our system with another
+closed-path IRGA based system under conditions where
+the CO2 ﬂux was expected to be very small, but the
+sensible heat ﬂux was expected to be very large. This
+provided us an opportunity to test how well our system
+APRIL 2004
+641
+B I L L E S B A C H E T A L .
+FIG. 1. Photo of the complete system deployed in a wheat ﬁeld in north-central Oklahoma.
+was able to measure and calculate the WPL term pro-
+portional to sensible heat ﬂux under extreme conditions.
+Also this allowed us to verify the precision and reso-
+lution of our ﬂux calculations. Finally, in the third ex-
+periment, we compared our system with the AmeriFlux
+roving intercomparison system under growth conditions
+similar to the ﬁrst deployment. This exercise provided
+an estimate of the relative accuracy of our system with
+respect to the AmeriFlux standard.
+To summarize, we describe here the design and ﬁeld
+testing of a portable, rapidly deployable, precision eddy
+covariance CO2 ﬂux system. It takes advantage of the
+LI-7500 IRGA to reduce power demands, while in-
+creasing instrument portability, reliability, and preci-
+sion. The results of our ﬁeld intercomparisons with ex-
+isting ﬂux systems will demonstrate the measurement
+accuracy and precision of the system under a range of
+conditions, that include both large and small WPL
+terms.
+2. Instrument description
+The design that was eventually chosen can be broken
+down into two major subsystems, referred to as the
+‘‘fast-response’’ subsystem and the ‘‘slow-response’’
+subsystem. This nomenclature describes the measure-
+ment frequency and the time response of the instruments
+within each subsystem. In addition to these two sub-
+systems, there is also a ﬂexible power module that is
+adaptable to most ﬁeld sites, and a suite of data collec-
+tion and analysis software. The full system is shown
+deployed in Fig. 1.
+3. Fast-response subsystem
+The primary function of the fast-response subsystem
+is to measure the variables needed to compute the tur-
+bulent transfer of CO2, H2O, heat, and momentum. It
+is composed of two sensors, the sonic anemometer and
+the CO2–H2O IRGA. The anemometer chosen was the
+Gill-Solent WindMaster Pro, three-dimensional sonic
+anemometer/thermometer (Gill Instruments, Ltd, Lym-
+ington, United Kingdom). This anemometer incorpo-
+rates an analog input system that may be conﬁgured as
+either four differential or eight single ended channels.
+These inputs can digitize signals between 65 V with
+14-bit precision. Data from the anemometer (wind speed
+components, sonic temperature, and analog inputs) are
+output as a single serial stream on an RS-422 data port
+at the selected sampling rate (usually 10 Hz).
+A LiCor LI-7500 open-path CO2–H2O infrared gas
+analyzer (LiCor, Inc) was chosen to make density mea-
+surements of CO2 and water vapor. The calibrated CO2
+and H2O densities are output as analog voltages (0–5
+V range, 16-bit resolution) and are connected (at the
+signal junction box described below) to the WindMaster
+Pro analog inputs. By taking advantage of the anemom-
+eter analog inputs, we avoid possible time shifting prob-
+lems that could be caused by using two unsynchronized
+instrument clocks to control two separate serial data
+streams. While not recording the full serial data stream
+from the LI-7500 looses some of the ancillary data avail-
+able from the IRGA (e.g., pressure, temperature, diag-
+nostics), it simpliﬁes the data collection system by re-
+quiring only a single serial data channel.
+642
+VOLUME 21
+J O U R N A L O F A T M O S P H E R I C A N D O C E A N I C T E C H N O L O G Y
+TABLE 1. Instrumentation and measurements made by the slow-response subsystem.
+Instrument
+Measured variable
+Climatronics CS800-12 wind set (Climatronics Corp.,
+Bohemia, NY)
+Mean horizontal wind speed and direction
+Vaisala Humiter 50Y (2) (Vaisala, Inc., Woburn, MA)
+Temperature and relative humidity proﬁles
+Vaisala PTB101B barometer
+Mean atmospheric pressure
+HFT3 soil heat ﬂux plates (4) (Radiation and Energy
+Balance Systems, Seattle, WA)
+Soil heat ﬂux
+Type E thermocouples (6) (inhouse)
+Soil temperature proﬁles
+ECH2O soil moisture probes (8) (Decagon Devices,
+Inc., Pullman, WA)
+Soil moisture proﬁles
+LiCor LI-190SA quantum sensor (LiCor, Inc., Lincoln,
+NE)
+PAR
+LiCor LI-200SA pyranometer
+Total insolation
+Kipp & Zonen CNR-1 radiometer (Kipp & Zonen Inc.,
+Bohemia, NY)
+Upwelling and downwelling radiation (0.3–2.8 and 5–50 mm)
+Kipp & Zonen NR-lite net radiometer
+Net radiation
+TE525 tipping bucket rain gage (Texas Electronics,
+Dallas, TX)
+Mean precipitation
+The fast-response instruments are mounted at the top
+of a Campbell Scientiﬁc CM10 tripod tower (Campbell
+Scientiﬁc Inc., Logan, Utah). The sensors (IRGA and
+anemometer) are mounted on a common horizontal bar
+such that their lateral separation can be adjusted from
+about 15 cm to more than 30 cm. To minimize ﬂux loss
+and ﬂow distortion, the IRGA is mounted about 25 cm
+below the anemometer volume (Kristensen et al. 1997).
+As recommended in the LiCor LI-7500 manual, the
+IRGA is tipped about 308 from vertical to facilitate
+drainage of condensation and rain from the optical win-
+dows. As received from the manufacturer, the tripod
+tower allows the instruments to be mounted between
+about 3 and 4 m above the ground. If higher or lower
+deployments are required, the central pole of the tower
+can be replaced with a longer or shorter piece of stan-
+dard ANSI 1¼-inch galvanized steel water pipe. When
+the tower was properly deployed with its guy wires and
+foot pegs installed, it proved to be quite stable and vi-
+bration free, even in sustained winds of between 10 and
+12 m s21 (the strongest experienced on our test de-
+ployments).
+To record the raw, high speed data from the fast-
+response subsystem, we used a small notebook com-
+puter. The particular models used (Toshiba Portege
+3110CT or Toshiba Portege 7200CT) were chosen spe-
+ciﬁcally for their low power consumption. The notebook
+computer is housed in a small, insulated plywood shel-
+ter. The shelter is passively cooled with a standard roof
+ventilator installed on top and ﬁve small soffet vents
+installed in the bottom. The shelter has four, ANSI 1-
+inch ﬂoor ﬂanges attached to its bottom. These allow
+legs to be mounted to the shelter to elevate it above the
+vegetation for improved ventilation. Field tests showed
+that the interior temperature never rose more than about
+58C above ambient.
+To facilitate quick set up of the system, a signal junc-
+tion box was fabricated from a weatherproof, polycar-
+bonate box. Cables from both the anemometer and the
+LiCor IRGA were terminated in black plastic circular
+connectors (Amphenol Series One, Columbia, South
+Carolina). Mating connectors were mounted to the junc-
+tion box and all interconnections were made inside.
+Since the serial data stream from the anemometer con-
+forms to the RS422 standard, an RS422 to RS232 con-
+verter (Telebyte Inc., Greenlawn, New York) was also
+installed in the junction box. A similar box with mating
+connectors was mounted on the outside of the computer
+shelter. On the inside of the shelter, standard nine-pin
+serial connectors were mounted in a small plastic work-
+box attached to the wall. These allowed standard serial
+cables to be used for all signal connections. The total
+cost for the fast response subsystem was about $25,000.
+4. Slow-response subsystem
+The slow-response subsystem contains instrumenta-
+tion used to measure ancillary parameters needed to
+calculate accurate ﬂuxes, validate their quality, and to
+quantify other ecosystem variables necessary for mod-
+eling. In this subsystem, the instruments are read once
+every 1–5 s by a Campbell Scientiﬁc datalogger. These
+readings are then averaged in 30-min blocks to match
+the usual averaging period of the fast-response subsys-
+tem. Quantities measured by this subsystem include,
+mean wind speed, wind direction, air temperature and
+relative humidity at two heights, barometric pressure,
+soil temperature proﬁles, soil heat ﬂux, soil moisture
+proﬁles, total incoming solar radiation, photosyntheti-
+cally active radiation (PAR), incoming and reﬂected ra-
+diation in long and short wavelength bands, and net solar
+radiation. The system is built around a Campbell Sci-
+entiﬁc Inc. CR23X datalogger and AMT-25 multiplexer.
+Instruments attached to the data logger are listed in Ta-
+ble 1. While this is the list of instruments attached to
+the current system, it can easily be modiﬁed for other
+applications.
+As in the fast-response subsystem, the slow-response
+APRIL 2004
+643
+B I L L E S B A C H E T A L .
+sensors are mounted on a Campbell Scientiﬁc Inc. CM-
+10 tripod tower. The tower was modiﬁed by adding a
+removable, horizontal outrigger bar for mounting the
+radiation instruments. This bar is at a height of about
+2.3 m and extends approximately 2 m out from the
+central tower.
+The outrigger and all other similar parts were con-
+structed from ANSI standard plumbing ﬁttings and pipe.
+This has the advantage that any lost or damaged parts
+can be easily obtained from a local hardware or plumb-
+ing supply store. We have found that this can be a dis-
+tinct advantage for systems that are frequently moved.
+For deployments outside the United States, these parts
+can be replaced with near-equivalent metric parts.
+The datalogger is housed inside an environmental en-
+closure (Campbell Scientiﬁc Inc., ENC 12/14) that at-
+taches to the tower. To facilitate instrument set up, a
+signal junction box similar to the fast-response junction
+box is permanently attached to the bottom of the data
+logger enclosure, with short lengths of PVC pipe. These
+also form wiring chases for the cables that run from the
+connectors on the bottom of the junction box to the ter-
+minal strips of the datalogger. All of the slow-response
+instruments are terminated in the same kind of connectors
+that were used with the fast-response subsystem or in
+thermocouple connectors. This approach realizes signif-
+icant savings in setup time. The datalogger stores aver-
+aged values of each quantity measured and the user may
+download this data to a laptop computer at any time
+without interrupting the measurements. The total cost of
+the slow response system was about $16,000.
+5. Power system
+The entire system (fast-response and slow-response)
+runs from a power source supplying between 11 and 18
+VDC. In the tests described here, the system drew be-
+tween 2.2 and 2.5 A (at 13.6 V) or between 30 and 35
+W. In later, longer-term deployments, the total system
+power requirements were measured at 1.8 A (at 12.9 V)
+or less than 25 W.
+Power may be supplied from various sources, but for
+remote deployments at unimproved sites, we have as-
+sembled a solar panel system capable of running the
+system indeﬁnitely. This power system consists of three
+120-W solar panels and associated controllers charging
+a pair of 105 A h batteries. The batteries are common
+deep-cycle marine–RV types and, in the event of failure,
+may be replaced from local vendors. The power distri-
+bution system incorporates 0.01V resistors in series with
+each solar panel and with each load distribution box.
+These are connected to input channels on the slow-re-
+sponse datalogger to monitor the condition of the power
+system. Power is distributed to the various system com-
+ponents using 18-gauge cable with reverse-gender plugs
+(Amphenol Series One) to avoid accidental sensor dam-
+age. The total cost of the solar power system was about
+$2000.
+6. Software
+The fast-response data collection program is of our
+own design and was coded by D. P. Billesbach. This
+program, which runs under the MSDOS operating sys-
+tem, has proven reliable at ﬁve different AmeriFlux tow-
+ers since 1998. Only a few modiﬁcations were needed
+to adapt the program to this project. The central function
+of the program is to read the serial data stream from
+the anemometer and store it in binary form on a hard
+disk. The program can operate at any of the baud rates
+available from the anemometer, but is capable on only
+reading a single serial data stream. In addition, the pro-
+gram does online unit conversions and keeps running
+statistics (means, variances, and covariances) from
+which online ﬂuxes and correction factors are calculat-
+ed. We note that a new data collection program, which
+runs under most versions of the Windows operating sys-
+tem, is currently being developed and ﬁeld tested. The
+new program will be capable of reading multiple serial
+data streams and will be able to interface to many dif-
+ferent anemometers and IRGAs.
+While the online ﬂux values are considered fairly
+accurate, proper reprocessing of the raw data is nec-
+essary to obtain ﬂuxes of the highest possible precision.
+The program used for this task (written by D. P. Bil-
+lesbach) calculates and applies the optimum delay factor
+for each channel (Chahuneau et al. 1989) and removes
+mean values using a linear detrending technique (Rannik
+and Vesala 1999). Should the user desire, the program
+can be reconﬁgured to remove mean values by block
+averaging, or high-pass ﬁltering. The program also cal-
+culates covariances, ﬂuxes, and other relevant statistics.
+Finally, the program calculates all terms and correction
+factors (Webb et al. 1980; Moore 1986; Schotanus et
+al. 1983) needed to assemble nonadvective surface ﬂux-
+es. To provide an estimated system error, the program
+calculates the worst possible covariance for each av-
+eraging period by correlating data points separated by
+at least one half of the averaging period. This number
+should represent only accidental correlations and is thus
+assumed to provide an estimate of the total system ﬂux
+error. We assume that this total system ﬂux error is also
+a good estimate of the point-to-point ﬂux resolution of
+the system.
+7. Field measurements
+To validate and test the precision and accuracy of the
+system, we conducted three short ﬁeld experiments in
+2000 and 2001. The ﬁrst two were intercomparisons at
+a pair of established AmeriFlux ﬁeld sites. The ﬁrst of
+these was in north-central Oklahoma near the town of
+Shidler and took place in a tall-grass prairie. The second
+was also in north-central Oklahoma, near the town of
+Ponca City and took place in a cultivated wheat ﬁeld.
+The third experiment was an intercomparison between
+our portable system and the AmeriFlux reference system
+644
+VOLUME 21
+J O U R N A L O F A T M O S P H E R I C A N D O C E A N I C T E C H N O L O G Y
+at the U.S. Department of Energy’s Atmospheric Bound-
+ary Layer Experiment (DOE–ABLE) pasture site near
+Smileyberg, Kansas.
+When the ﬁrst experiment was conducted, the slow-
+response subsystem had not been completed and only
+the fast-response subsystem was deployed. The goal of
+this test was to establish the correct operation of our
+fast-response subsystem and to compare the precision
+of the ﬂuxes obtained with those being collected from
+the closed-path IRGA ﬂux system, already in operation
+at the site, under typical prairie growing conditions. The
+goal of the second test was to determine the precision
+with which we could make our fully corrected ﬂux es-
+timates and, because of the ﬁeld conditions, to estimate
+the accuracy and minimum detectable levels of our mea-
+sured ﬂuxes. The third experiment had the objective of
+measuring the accuracy of our system, relative to the
+AmeriFlux standard. In addition, this experiment of-
+fered an opportunity to compare our ﬂux reprocessing
+software with that used by the AmeriFlux standard sys-
+tem. For all three deployments, we used a 30-min av-
+eraging time for ﬂuxes and 10-Hz sampling rate for the
+fast response instruments. These parameters will capture
+all of the signiﬁcant high and low frequency ﬂux com-
+ponents for our particular instrument heights, mean
+wind speeds, and for the local topography.
+8. Data quality control and instrument
+calibrations
+In the ﬁrst two experiments, only the raw, fast re-
+sponse data were available from the ‘‘permanent’’
+AmeriFlux stations. We processed these data using the
+same program that we used with our portable system
+data. For the third experiment, we were supplied with
+reprocessed ﬂuxes from the AmeriFlux reference sys-
+tem. Before comparisons were made, each dataset was
+independently quality controlled. The criteria applied to
+the CO2 ﬂux data were as follows. First, all averaging
+periods where the mean horizontal wind speed was less
+than 2 m s21 were rejected. This assured that the mea-
+sured ﬂux was not local in nature and was representative
+of the surrounding landscape. To eliminate anomalous
+spikes, we also rejected periods where the standard de-
+viation of the CO2 density was greater than 0.57 mmol
+m23 (25 mg m23). All covariance and WPL terms were
+corrected for frequency losses and then summed to yield
+corrected surface ﬂuxes.
+Throughout the development and testing period, the
+calibration stability of the IRGA was found to be very
+good. Before the ﬁrst deployment, both the CO2 and the
+H2O channels of the LI-7500 were calibrated [on day
+of year (DOY) 196]. Prior to this, the IRGA had last
+been calibrated on DOY 78. The IRGA offset was mea-
+sured to be 25 ppmv. After this offset was adjusted,
+span gas with a mixing ratio of 384.9 ppmv was then
+introduced into the calibration hood and measured as
+385.5 ppmv. This represented a gain drift of less than
+0.2%. A similar procedure was applied to the H2O chan-
+nel using dry N2 and a Licor LI-610 dewpoint generator.
+The offset was 23.2 mmol mol21 and a dewpoint of
+20.008C was measured as 19.658C. As a check of the
+CO2 calibration, N2 and a span gas (338.5 ppmv) were
+run in the ﬁeld on DOY 201. The measured offset was
+25.5 ppmv, and the span gas was measured at 335.5
+ppmv. Calibrations made for the second and third de-
+ployments showed similar results.
+9. First deployment
+The ﬁrst deployment near Shidler, Oklahoma was at
+a native tallgrass prairie and lasted from 16 July 2000
+(DOY 198) until 22 July 2000 (DOY 204). At the time
+of this deployment, the slow-response subsystem was
+not ﬁnished, so only the fast-response subsystem was
+taken to the ﬁeld. The portable tower was set up ap-
+proximately 8 m west of the existing AmeriFlux tower.
+The IRGA was mounted on the west end, and the an-
+emometer on the east end of the cross bar at the top of
+the tower and they were separated by about 30 cm on
+this east–west line. The sonic anemometer was located
+4.05 m above ground level and the LI-7500 IRGA was
+located 3.75 m above ground. The vegetation height was
+about 40 cm. The permanent eddy covariance ﬂux sys-
+tem was comprised of a Gill-Solent model R3 research
+grade sonic anemometer and a LiCor LI-6262 closed-
+path IRGA. The sonic anemometer was mounted 4.4 m
+above ground, and the IRGA inlet cup was attached to
+the anemometer body, just below the active volume. The
+sample ﬂow rate was maintained at 8 standard liters per
+minute (SLM). The IRGA was housed in a small, mod-
+iﬁed refrigerator and kept at a constant temperature. This
+system recorded its data on a desktop computer housed
+in a small, air-conditioned shed and used a version of
+the same data collection program as was used by the
+portable system. Raw data from both the permanent and
+the portable systems were analyzed with our reprocess-
+ing program.
+Because the portable slow-response subsystem was
+not available for this deployment, we used meteorolog-
+ical data (means of temperature, pressure, and relative
+humidity) collected by the permanent system for ﬂux
+reprocessing. A diurnal plot of CO2 ﬂuxes measured by
+both the permanent and portable systems is shown in
+Fig. 2a. To more clearly illustrate how the two ﬂux
+systems compare, Fig. 2b shows CO2 ﬂux values mea-
+sured by the portable, open-path LI-7500 based system
+as a function of ﬂux values measured by the permanent,
+closed-path LI-6262 based system. Comparison data for
+latent heat ﬂuxes are shown in Fig. 3.
+Besides using different IRGAs, the two ﬂux systems
+also used different anemometers. To compare this aspect
+of the systems, we examined the sensible heat ﬂux H,
+since the anemometer measures all data for this quantity.
+Figure 4 is a comparison of sensible heat ﬂuxes from
+our portable system and the permanent system. In ad-
+APRIL 2004
+645
+B I L L E S B A C H E T A L .
+FIG. 2. Plots of the CO2 ﬂuxes measured during the ﬁrst deployment
+(DOY 198–204). (a) The diurnal plot open boxes are ﬂuxes from the
+portable system and the solid triangles are ﬂuxes from the permanent
+system. (b) The horizontal axis represents the portable system and
+the vertical axis represents the permanent system.
+FIG. 4. Comparison of H ﬂuxes between the portable system
+(horizontal axis) and the permanent system (vertical axis).
+FIG. 3. Comparison of LE ﬂuxes between the portable system
+(horizontal axis) and the permanent system (vertical axis).
+FIG. 5. Comparison of friction velocities between the portable
+system (horizontal axis) and the permanent system (vertical axis).
+dition to the sensible heat ﬂux, we also considered the
+friction velocity (u*), which is a function of the co-
+variance between the vertical and horizontal wind
+speeds. A comparison between the two systems is shown
+in Fig. 5. Of the 261 individual ﬂux averaging periods
+collected, 162 passed through the quality control ﬁlter.
+10. Second deployment
+The second deployment was in a freshly plowed, fal-
+low wheat ﬁeld near Ponca City, Oklahoma. The ex-
+isting AmeriFlux site at this location was instrumented
+identically to the tall grass prairie site of the ﬁrst ex-
+periment. This deployment lasted from 3 October 2000
+(DOY 277) until 7 October 2000 (DOY 281). The por-
+table fast-response tower was again set up approxi-
+mately 10 m to the west of the permanent AmeriFlux
+tower. The portable sonic anemometer was mounted 4.2
+646
+VOLUME 21
+J O U R N A L O F A T M O S P H E R I C A N D O C E A N I C T E C H N O L O G Y
+FIG. 6. Diurnal plot of the corrected (or total surface ﬂux) (solid
+line) and uncorrected (or raw covariance) (dotted line) CO2 ﬂuxes
+obtained from the portable system during the second deployment
+(DOY 277–281).
+FIG. 7. Diurnal plot of the corrected surface CO2 ﬂuxes from the
+portable system (solid line) and the permanent system (dotted line)
+obtained during the second deployment (DOY 277–281).
+m above ground and the IRGA was installed at 3.9 m.
+Like the ﬁrst deployment, they were separated by 30
+cm on an east–west line. The slow-response tower was
+located about half way between the portable fast-re-
+sponse tower and the AmeriFlux tower. The cup ane-
+mometer and wind vane were 3.45 m above ground and
+temperature/relative humidity sensors were located at
+3.15 and 2.30 m above ground. The radiometers were
+mounted on the outrigger at a height of 2.35 m above
+ground. During the time of this deployment, the site was
+bare soil and had been under drought conditions for a
+number of weeks. The ﬁeld had been freshly turned over
+about a week prior to our deployment. Because of the
+lack of vegetation, we anticipated little or no CO2 up-
+take, and because of the dry conditions, we expected
+very small soil respiration ﬂuxes. The net effect is that
+we anticipated very small total CO2 ﬂuxes. Because of
+the ﬁeld conditions (freshly turned over, extremely dry
+and hard soil chunks), we decided that the soil heat ﬂux
+and soil temperature sensors could not be properly in-
+stalled and were left out of the system. Also, since there
+was no vegetation, the PAR sensor was not deployed.
+We expected relatively large sensible heat ﬂuxes and
+small latent heat ﬂuxes (i.e., large Bowen ratios). These
+are the most difﬁcult conditions to accurately apply the
+WPL terms for ﬂux measurements with an open-path
+sensor. Since the range of CO2 ﬂux values obtained
+during this deployment is very limited, a direct com-
+parison plot does not yield any information that is not
+already contained in Fig. 2b. Figure 6 shows the diurnal
+series of raw and fully corrected CO2 ﬂuxes obtained
+from the portable system, and in Fig. 7, we show the
+corrected CO2 ﬂuxes from both systems. Of the 170
+individual ﬂux averaging periods collected, 161 were
+passed through the quality control ﬁlters.
+11. Third deployment
+The third deployment was in a grazed pasture near
+Smileyberg, Kansas, at the DOE–ABLE site. The in-
+tercomparison began on 14 May 2001 (DOY 134) and
+lasted until a strong storm forced the site to shut down
+on 17 May 2001 (DOY 137). Four eddy covariance ﬂux
+systems were deployed at this site, but we will only
+report on the intercomparison between our system and
+the AmeriFlux reference system. Our fast-response tow-
+er was set up 12.6 m to the east of the AmeriFlux system.
+Our fast-response instruments were installed at a height
+of 3.79 m, and the other ﬂux systems were installed at
+4 m. Because of the limited space inside the fenced area,
+our slow-response tower was located about 3 m to the
+north of the fast-response tower. Since the predominant
+wind direction was from the south, this arrangement
+introduced minimal ﬂow distortion to the fast-response
+instruments. The land surface was an actively grazed
+pasture with a vegetation height of about 20 cm. The
+AmeriFlux system was composed of an Applied Tech-
+nologies, Inc. model SATI/3SX sonic anemometer and
+a LiCor LI-6262 closed-path IRGA. Further details of
+this system can be found in Evans (2000). Comparisons
+of CO2, LE, H, and u* are shown in Fig. 8. Of the 113
+ﬂux averaging periods collected, 63 passed the quality
+control criteria.
+Because we had our full complement of sensors de-
+ployed, we were able to estimate the degree of energy
+closure. This is shown in Fig. 9 where we plot H 1 LE
+as a function of available energy (Rn 2 G). A free
+regression ﬁt to the data yields a slope of 0.887 6 0.016
+and an intercept of 22.5 6 5.6 W m22 (R2 5 0.97). If
+we constrain the regression to pass through the origin,
+we obtain a slope of 0.929 6 0.013 (R2 5 0.960). It
+should be noted that energy balance as an indicator of
+the correctness of eddy covariance ﬂuxes is a contro-
+APRIL 2004
+647
+B I L L E S B A C H E T A L .
+FIG. 8. Comparison of (a) CO2, (b) LE, and (c) H ﬂuxes and (d) friction velocities between the portable system (horizontal axis) and the
+AmeriFlux reference system (vertical axis).
+FIG. 9. Energy balance measured by the portable system during the
+third deployment.
+versial issue. A comprehensive study of energy balance
+at more than 20 AmeriFlux sites (Wilson et al. 2002)
+indicates that the energy budget can often be open by
+20% or more with the worst periods happening at night.
+We therefore include these results, not as conclusive
+evidence of the correctness of our ﬂuxes, but simply as
+supporting evidence of the consistency of our slow-re-
+sponse results with our fast-response results within the
+limits of current energy balance theory.
+12. Discussion of ﬁeld results
+The data in Fig. 2a show good qualitative agreement
+between the two ﬂux systems. We note in the ﬁgure,
+that there are several gaps where ﬂux values have been
+removed from the portable system record. Most notable
+is the early morning of DOY 199. During this period,
+strong thunderstorms moved across the region and pro-
+duced rain events at the ﬂux tower site. Data points that
+648
+VOLUME 21
+J O U R N A L O F A T M O S P H E R I C A N D O C E A N I C T E C H N O L O G Y
+exhibited unrealistically large values of the variance in
+the CO2 density were eliminated from further analysis.
+This effect was believed to be the result of rainwater
+collecting on the LI-7500 window and attenuating the
+infrared beam. This was not unexpected behavior for
+an open-path IRGA. When the LI-7500 was ﬁrst in-
+stalled, it was mounted vertically. After this rain event,
+we tilted it about 308 away from vertical to promote
+runoff. While this should have improved performance,
+we were not able to quantify the effect because there
+were no more signiﬁcant rain events (note that the large
+gap in the morning of DOY 202 was caused by power
+problems). In this respect, the closed-path IRGA ex-
+hibited an advantage over the open-path design. While
+neither system performed adequately in heavy rains, the
+closed-path system was observed to operate in periods
+of light to moderate rain. Other rain events were noted
+in the early morning of DOY 202, and during the night
+and early morning of DOY 202 and 203. The data span
+a range of 124 (uptake) to 214 (respiration) mmol m22
+s21, and a regression ﬁt to the data in Fig. 2b yields a
+slope of 1.03 6 0.02 and an intercept of 20.97 6 0.25
+mmol m22 s21 (R2 5 0.93) with an estimated system
+error (ﬂux resolution) of 61.2 mmol m22 s21. While the
+slope is only 3% from ideal, the apparent bias of almost
+21 mmol m22 s21 could be signiﬁcant. Examination of
+Fig. 2b, however, shows that there are at least two points
+where the permanent system signiﬁcantly overestimates
+ﬂuxes relative to the portable system. It is possible that
+with more rigorous quality control, these points would
+be ﬂagged as suspect, which would have the effect of
+reducing the relative offsets. Careful examination of Fig.
+2b also reveals that no apparent nonlinear differences
+exist between the two systems. We note that the quality
+control criteria for this data (u . 2 m s21, and s
+,
+pCO2
+0.57 mmol m23) are fairly simple and may include data
+where the strict conditions for good ﬂux measurements
+were not met. We chose this approach to include as many
+data points as possible.
+The one-to-one comparison of LE shown in Fig. 3
+indicates some differences between the two systems. We
+note that the slope is 0.95 6 0.02 and the intercept is
+12.6 6 3.6 W m22 (R2 5 0.94) with an estimated system
+error (ﬂux resolution) of 615 W m22. While the inter-
+cept is not excessive, it is signiﬁcantly larger than the
+intercept of the sensible heat (H) comparison (see be-
+low). This behavior suggests that either the closed-path,
+LI-6262 based permanent system may be underesti-
+mating LE by several percent or the open-path, LI-7500
+based portable system may be overestimating LE. Of
+particular interest are small values of LE, where we
+observe a distinct nonlinearity in the data. This nonlin-
+ear behavior suggests that for small LEs, the closed-
+path system may underestimate ﬂuxes worse than at high
+LEs. This is consistent with expectations about closed-
+path IRGAs and their response to water vapor. Water
+vapor has one of the strongest dipole moments of all of
+the permanent atmospheric gases (Weast 1974). This
+implies that it will adsorb (or stick) to almost any sur-
+face, including the inner surface of a sampling tube or
+the walls of a closed-path analyzer cell. This could ob-
+viously cause serious high frequency loss in the water
+vapor spectral density, resulting in underestimation of
+the ﬂuxes. In fact, Billesbach has observed exactly this
+effect in spectral plots of unpublished data comparing
+open-path with closed-path IRGAs. In addition, the non-
+linear behavior combined with the large number of data
+points clustered at small values where the nonlinearity
+is strongest, may have biased the linear regression. A
+ﬁt to points with LE values (from the portable system)
+of 250 W m22 or less yielded a slope of 1.01 6 0.04
+with an intercept of 27.6 6 0.3 W m22 (R2 5 0.88).
+The regression ﬁt to the sensible heat ﬂux H shown
+in Fig. 4 yields a slope of 0.93 6 0.01 and an intercept
+of 3.5 6 0.9 W m22 (R2 5 0.98) with an estimated
+system error (ﬂux resolution) of 67 W m22. As with
+the CO2 ﬂuxes and the LE ﬂuxes, this result indicates
+good agreement between the two systems. There does
+seem to be a region of possibly anomalous behavior at
+high values of H. In this region, it is possible that the
+permanent system might be underestimating, or the por-
+table system overestimating the sensible heat ﬂux. This
+effect, however, is manifest only in a small number of
+points and cannot be veriﬁed by this study.
+The friction velocity comparison shown in Fig. 5 has
+a slope of 0.93 6 0.02 and an intercept of 0.02 6 0.01
+m s21 (R2 5 0.91) with an estimated system error (res-
+olution) of 60.06 m s21. Again, this indicates good
+agreement between two different instrument systems.
+The similarities between the slopes of these two quan-
+tities, which are derived only from sonic anemometer
+data, suggest that both anemometers behave similarly.
+Using the same reasoning as Eugster et al. (1997),
+the above slope data suggest that our system can resolve
+trend differences of 3% in CO2 ﬂuxes, 5% in LE ﬂuxes,
+7% in H ﬂuxes, and 7% in friction velocity when com-
+pared to similar permanent ﬂux systems.
+During the second deployment, we concentrated on
+the problem of calculating precise WPL terms for CO2
+ﬂuxes (Webb et al. 1980). As seen in Fig. 6, the raw
+CO2 covariance (from the portable open-path system)
+showed a very strong diurnal variation. Because of the
+ﬁeld conditions, we know that there was no photosyn-
+thetic contribution to the ﬂuxes (there was no vegetation
+in the fetch) and, because of the extremely low soil
+moisture, that the heterotrophic soil respiration com-
+ponent was also small. Our expectation was that there
+should be very little diurnal pattern to the net CO 2 ﬂuxes
+and we would see only a relative small and constant
+respirative ﬂux. When all of the WPL terms are added,
+the resulting surface ﬂux indeed conforms to these ex-
+pectations. The corrected data show that the ﬂux was
+almost constant until DOY 279. In the early morning
+of DOY 279, the site received several millimeters of
+precipitation, which was quickly absorbed by the soil
+surface. We expected to see the respirative CO2 ﬂux
+APRIL 2004
+649
+B I L L E S B A C H E T A L .
+increase (grow more negative) slightly, and then taper
+off as the soil again dried out. This trend, while quite
+small is clearly apparent in the corrected data. The fully
+corrected surface CO2 ﬂuxes from the portable and per-
+manent systems (Fig. 7) both show the above-described
+behavior, and quantitatively agree quite well. Careful
+examination of DOY 277 in Fig. 6 reveals that the cor-
+rected ﬂux does show some diurnal pattern (slight res-
+pirative ﬂux). When we compare this to the permanent
+closed-path system (no WPL H term and only a small
+WPL LE term), we see a similar trend and therefore
+believe that this is indeed a physiological effect. The
+only signiﬁcant difference between the two systems
+seems to be less scatter in the portable ﬂuxes (see Fig.
+7) compared to the permanent system.
+Examination of Fig. 8 shows that our portable system
+measures ﬂuxes that are in good agreement with the
+AmeriFlux reference system. The regression parameters
+for CO2 ﬂuxes are slope 5 0.94 6 0.03, intercept 5
+0.50 6 0.22 mmol m22 s21 (R2 5 0.93); for LE, slope
+5 0.84 6 0.02, intercept 5 1.48 6 4.2 W m22 (R2 5
+0.93); for H, slope 5 0.86 6 0.02, intercept 5 1.48 6
+2.7 W m22 (R2 5 0.94); and for u*, slope 5 0.98 6
+0.06, intercept 5 0.002 6 0.02 m s21 (R2 5 0.78). As
+before, our analysis indicates a good comparison be-
+tween these two ﬂux systems. We note that the same
+nonlinear behavior of LE ﬂuxes seen at low values in
+deployment 1 is also observed here. This is consistent
+with our hypothesis that there are attenuation processes
+associated with closed-path instruments, which are not
+properly accounted for, and cause excess attenuation of
+H2O density ﬂuctuations. We also note that the good
+energy balance (closure between 7% and 12%) shown
+in Fig. 9 indicates good internal consistency among our
+own instruments. Because the AmeriFlux roving system
+does not include soil heat ﬂux sensors, we cannot di-
+rectly compare our results to that system.
+Even though these validation deployments were of
+limited duration, the data collected for the key eddy
+covariance ﬂuxes (CO2, LE, H, and u*) covered a large
+span of values. The comparison slopes for these quan-
+tities showed only small deviations from ideal compar-
+isons, indicating little (if any) systematic differences
+between the ﬂux systems. The extremely small gain
+drifts observed during our calibrations verify that little
+ﬁeld maintenance is required for the IRGA. While some
+offset drifts were observed, they were small and are
+eliminated in the eddy covariance process.
+The actual setup of the instruments went very smooth-
+ly. During the ﬁrst deployment, Billesbach and Fischer
+set up the fast-response subsystem in about 2 h. During
+the second deployment, Billesbach set up both the fast
+and slow-response towers alone in less than 4 h. It
+should be noted, however, that these sites allowed easy
+and close vehicle access. For less accessible sites, longer
+setup times would be expected. In later deployments,
+we found that we could set up everything except the
+soil moisture and temperature sensors in similar times.
+Installation of the soil sensors added considerable time
+to the process and was found to be highly dependent
+on ﬁeld conditions. For transportation, all components
+of both subsystems and the solar power module ﬁt easily
+in a minivan and broke down into light sections, each
+less than 2 m in length. The heaviest components were
+the batteries and the tripod towers, which weigh between
+25 and 30 kg each. The computer shelter unbolts into
+six ﬂat panels if desired, or can be transported assem-
+bled. After the second deployment, the entire system
+was dismantled, loaded, and ready to travel in less than
+two hours. By design, only a minimal number of tools
+were required to set up and dismantle the system (two
+end wrenches, two Allen wrenches, a ﬂat-blade screw-
+driver, wire cutters, a pipe wrench, and a hammer).
+13. Conclusions
+As demonstrated by these validation deployments, the
+portable eddy covariance ﬂux system described here
+meets the stated design goals. As shown by the short
+setup and dismantling times and the minimal number
+of ﬁeld personnel, the ﬁrst two goals, portability and
+ease of setup, are well met. The measured power con-
+sumption of 35 W (or less) is much less than the 150–
+200 W required by previous systems based on closed-
+path analyzers (Eugster et al. 1997). The majority of the
+power savings come from elimination of the vacuum
+pump necessary in a closed-path ﬂux system. The ex-
+cellent calibration stability and good comparison with
+the established AmeriFlux system show that we have
+produced a high-precision, low-maintenance ﬂux sys-
+tem. The close agreement with the AmeriFlux tall-grass
+prairie closed-path system under typical growth con-
+ditions shows that our system is capable of making ﬂux
+measurements as precise as current closed-path based
+systems. Similarly, the good agreement with the
+AmeriFlux closed-path system during the second de-
+ployment shows that the WPL terms can be calculated
+with a high level of precision using this instrumentation.
+Despite this success, more work should be done to better
+understand the differences between ﬂuxes made with
+open-path and closed-path IRGAs, especially for LE.
+Comparison to the AmeriFlux reference system shows
+that we can make ﬂux measurements with the same
+relative accuracy as permanent or long-duration facili-
+ties. The system performed well in all ﬁeld conditions
+except during periods of moderate to heavy rain. This
+clearly points out that no single ﬂux system design is
+best for all environments. We would expect to have
+greater instrument availability in rainy environments
+(such as in the Amazon basin) with a closed-path based
+system. Finally, by using off-the-shelf parts and elim-
+inating some instrument redundancies, the system was
+built for a relatively low total cost of less than $45,000.
+Acknowledgments. The authors would like to express
+their gratitude to Prof. Shashi Verma of the University
+650
+VOLUME 21
+J O U R N A L O F A T M O S P H E R I C A N D O C E A N I C T E C H N O L O G Y
+of Nebraska for allowing access to his research sites
+and for graciously sharing his data with us. We also
+wish to thank Mr. Sheldon Sharp of the University of
+Nebraska for his help in building several of the system
+components and Mr. John Martin of Ponca City,
+Oklahoma for his assistance at the ﬁeld sites. This work
+was supported by the Atmospheric Radiation Measure-
+ment program (ARM), Ofﬁce of Science, U.S. Depart-
+ment of Energy (DOE) under Contract DE-AC03-
+76SF00098 and is a contribution of the University of
+Nebraska Agricultural Research Division, Lincoln, NE
+68583 (Journal Series No. 13516).
+REFERENCES
+Auble, D. L., and T. P. Meyers, 1992: An open-path, fast response
+infrared absorption gas analyzer for H2O and CO2. Bound.-Layer
+Meteor., 59, 243–256.
+Bremer, D. J., and J. M. Ham, 2002: Measurement and modeling of
+soil CO2 ﬂux in a temperate grassland under mowed and burned
+regimes. Ecol. Appl., 12, 1318–1328.
+Chahuneau, F., R. L. Desjardins, E. Branch, and R. Verdon, 1989: A
+micrometeorological facility for eddy ﬂux measurements of CO 2
+and H2O. J. Atmos. Oceanic Technol., 6, 193–200.
+Eugster, W., J. P. McFadden, and F. S. Chapin, 1997: A comparative
+approach to regional variation in surface ﬂuxes using mobile
+eddy correlation towers. Bound.-Layer Meteor., 85, 293–307.
+Evans, R., cited 2000: AmeriFlux Relocatable System: A relocatable
+eddy covariance carbon ﬂux and meteorological measurement
+system. [Available online at http://public.ornl.gov/ameriﬂux/
+Standards/roving-system/rovingpupdatep12-26-2000.cfm.]
+Kristensen, L., J. Mann, S. P. Oncley, and J. C. Wyngaard, 1997:
+How close is close enough when measuring scalar ﬂuxes with
+displaced sensors? J. Atmos. Oceanic Technol., 14, 814–821.
+Meyers, T. P., 2001: A comparison of summertime water and CO 2
+ﬂuxes over rangeland for well watered and drought conditions.
+Agric. For. Meteor., 106, 205–214.
+Moore, C. J., 1986: Frequency response corrections for eddy corre-
+lation systems. Bound.-Layer Meteor., 37, 17–35.
+Paw U, K. T., D. D. Baldocchi, T. P. Meyers, and K. B. Wilson, 2000:
+Correction of eddy-covariance measurements incorporating both
+advective effects and density ﬂuxes. Bound.-Layer Meteor., 97,
+487–511.
+Rannik, U., and T. Vesala, 1999: Autoregressive ﬁltering versus linear
+detrending in estimation of ﬂuxes by the eddy covariance meth-
+od. Bound.-Layer Meteor., 91, 259–280.
+Schotanus, P., F. T. M. Nieuwstadt, and H. A. R. De Bruin, 1983:
+Temperature measurement with a sonic anemometer and its ap-
+plication to heat and moisture ﬂuxes. Bound.-Layer Meteor., 26,
+81–93.
+Weast, R. C., 1974: Handbook of Chemistry and Physics. CRC Press,
+2225 pp.
+Webb, E. K., G. I. Pearman, and R. Leuning, 1980: Correction of
+ﬂux measurements for density effects due to heat and water
+vapour transfer. Quart. J. Roy. Meteor. Soc., 106, 85–100.
+Wilson, K., and Coauthors, 2002: Energy balance closure at FLUX-
+NET sites. Agric. For. Meteor., 113, 223–243.

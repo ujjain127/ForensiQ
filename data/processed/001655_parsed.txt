@@ -1,0 +1,2141 @@
+U.S. Pharmacopeia
+The Standard of Qua/iv
+12601  Twinbrook  Parkway
+Rockville, MD 20852
+301881JX66
+w."sp.org
+December 10, 1999
+Dockets Management Branch (HFA-305)
+Food and Drug Administration
+5630 Fishers Lane, Room 1061
+Rockville, Maryland 20852
+Re:
+“Guidance for Industry: Chemistry, Manufacturing and Control Changes to an
+Approved NADA or ANADA”
+Docket No. 99D- 165 1
+Dear Sir or Madam:
+This letter provides the comments of the United States Pharmacopeia (USP) on
+the proposed guidance for industry on changes to an approved new animal drug -’
+application (DADA) or abbreviated new animal drug application (ANADA).
+Notification of this guidance document appeared in the October 1, 1999 Federal
+This guidance accompanies proposed regulations issued by the Food and
+Register.’
+Drug Administration (FDA) on “Supplements and Other Changes to Approved New
+Animal Drug Applications.“2 USP’s comments to this proposed regulation are attached
+and incorporated into these comments by reference.3
+USP believes that the guidance must be made consistent with the regulatory
+scheme set forth in the Federal Food, Drug, & Cosmetic Act (FD&C Act) and with the
+recently issued guidance by FDA’s Center for Drug Evaluation and Research (CDER)
+on supplements to new drug applications @IDA) and abbreviated new drug applications
+(ANDA). To do so, USP suggests that the Center for Veterinary Medicine (CVM)
+amend its guidance to permit manufacturers of animal drugs to file an annual report for
+those changes in specifications and in labeling made to comply with an official
+compendium.
+According to section 50 1 (b) of the FD&C Act, a drug, including those for use in
+animals, is considered adulterated if it fails to comply with the standards of an official
+compendium.’ If a drug differs from the official standards of strength, quality, or
+purity, section 501 (b) provides that the difference shall be plainly stated on the
+’ 64 Fed. Reg. 53393 (Oct. 1,1999).
+2 Id. at 53281.
+3 Attachment 1.
+4 “Guidance for Industry: Changes to an Approved NDA or ANDA”  (hereinafter “Changes to an Approved
+NDA or ANDA”)  FDA, CDER (November 1999); Attachment 2.
+’ 21 U.S.C. 5 351(b). A drug is defined as “ (A) articles recognized in the official United States Pharmacopeia,
+official Homeopathic Pharmacopeia of the United States, or official National Formulary, or any supplement to
+any of them; and (B) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of
+disease in man or other animals; and (C) articles (other than food) intended to affect the structure or any
+function of the body of man or other animals; and (D) articles intended for use as a component of any articles
+specified in clause (A), (B) or (C). && 5 321(g)(  I)(emphasis  added).
+United States  Pharmacopeia
+product’s label. Such determinations are to be made in accordance with the analytical
+procedures set forth in the official compendium.
+The proposed regulations and the corresponding guidance require that major and
+moderate changes in specifications (i.e., tests, analytical procedures, and acceptance
+criteria) be submitted to FDA in a supplemental application.6  According to the
+guidance, minor changes in specifications may be submitted in an annual report,
+including “[a]ny change made to comply with an official compendium that is consistent
+with FDA requirements and that provides the same or increased assurance of the
+identity, strength, quality, purity, or potency of the material being tested as the
+analytical procedure described in the approved application.“7
+However, what meets this type of minor change is unclear. Rather than guess
+how FDA will interpret “FDA requirements” and “increased assurance,” manufacturers
+are likely to submit a supplemental application for such changes. As a result,
+manufacturers will refrain from making changes to comply with an official
+compendium before FDA review or approval of the supplemental application. Such
+action could result in legal difficulties since products that are not modified to comply
+with a change in a USP-NF standard may be considered adulterated unless the
+difference is plainly stated on its label. The product also may be considered adulterated
+under state Food and Drug laws or under Pharmacy Acts, many of which have ,adopted
+the adulteration provisions in the FD&C Act.
+In addition, since sponsors and USP are unlikely to know about these “FDA
+requirements” in advance, there would be no consistent regulatory method. As a result,
+other governmental bodies (Federal and State) and purchasers could not rely on
+published compendia1 methods as being the regulatory method for a particular drug
+product, a result contrary to Congressional intent as expressed in section 501(b) of the
+FD&C Act.
+Such a result also appears inconsistent with the agency’s intent, as expressed in
+a recent letter, to support USP standards. In this letter, Dr. Bernard Schwetz, FDA’s
+Acting Deputy Commissioner of Food and Drugs, stated that FDA intends “to help
+protect USP standards recognition from erosion through changes in regulatory policy,
+where appropriate.“’ Such support would be clearly appropriate in CVM’s guidance,
+which should reflect the statutory requirement that manufacturers comply with official
+compendia1 standards.
+If the agency is suggesting in the guidance that the compendia1 tests or methods
+of assay are insufficient, FDA should follow the appropriate statutory procedure in
+section 50 1 (b) to modify them.9 According to section 501(b), FDA must bring
+information on “insufficient” tests or methods to the attention of the compendia1 body,
+e.g., the USP. If the compendia1 body fails to provide sufficient tests or methods of
+6 64 Fed. Reg. at 53291-93; FDA, Center for Veterinary Medicine, “Draft Guidance for Industry: Chemistry,
+Manufacturing and Control Changes to an Approved NADA or ANADA”  17-20 (June 1999).
+’ @. at 20.
+’ Letter from Bernard Schwetz, D.V.M., Ph.D., FDA Acting Deputy Commissioner of Food and Drugs, to
+Arline Bilbo, USP Member Services Manager, 2 (November 1, 1999); Attachment 3.
+’ 21 U.S.C. 8 351(b).
+United  States Pharmacopeia
+assay, only then should FDA promulgate regulations for tests or methods of assay.
+Under the proposed guidance, FDA could disapprove or fail to approve the NADA or
+ANADA supplement containing the changed compendia1 method, instead of notifying
+USP of any insufficiencies and providing USP with an opportunity to revise the current
+tests or develop new tests or methods of assay. This would result in inconsistent
+regulatory methods for the same drug and would cause confusion within the industry.
+The difference between the NADA, ANADA and compendia1 specifications,
+tests or methods of assay can create a regulatory quagmire for FDA. For example will
+the agency be able to take legal action against a product failing a USP requirement, if
+the agency is responsible for the different specification or analytical procedure?
+Conversely will the FDA be able to hold a manufacturer to the NADA specification,
+when the statute indicates the USP standard or method of analysis is the one to be used?
+This would result in a difficult position for FDA.
+The guidance also fails to mention labeling changes made to comply with an
+official compendium. Section 502(g) of the FD&C Act provides that a drug shall be
+deemed misbranded unless it is labeled and packaged as prescribed in an official
+compendium.r’ Other sections of the FD&C Act require labeling dependent upon the
+compendium. For example, the FD&C Act requires the drug label to bear a .
+-
+nonproprietary (i.e. generic) name, which is defined in section 502(e)(3) as the. FDA
+established name or the official title in an official compendium. * i For the most part,
+FDA has relied upon USP to determine the official names for a drug. Manufacturers
+seeking to change labeling to comply with an official compendium would be required to
+submit a supplemental application, prior to making any such change, rendering their
+products misbranded under the FD&C Act.
+USP revisions can result in hundreds of specification and labeling changes
+within any given year. Since the proposed guidance would require submission of
+supplemental applications for some of these changes, manufacturers would be in the
+difficult position of marketing a product that may be considered adulterated or
+misbranded, until the proper submission or approval of the supplement.
+USP encourages the agency to follow its recently issued guidance “Changes to
+an Approved NDA or ANDA.” In that guidance, the agency permits a manufacturer
+making a change in specifications or in labeling to comply with an official compendium
+to submit the information in the annual report. I2 The guidance recognizes the
+procedures successfully implemented by FDA and USP for full review of compendia1
+revisions, including: (1) USP’s Document Disclosure Policy; (2) public notice and
+comment revisions in USP’s Pharmacopeial Forum, and the attendant Discussion Open
+House opportunities; (3) USP-NF’ Supplement Open House; (4) the FDA-USP ad hoc
+reviewers program; (5) the Compendia1 Operations Branch; (7) liaisons to USP
+assigned by FDA Centers; (8) FDA review of changes in annual reports responding to
+compendia1 changes; and (9) high level meetings.
+lo &j. 9 352(g). FDA may modify the method of packing.
+” @. $0 352(e)(l)(A)(i) and 352(e)(3).
+‘* “Changes to an Approved NDA or ANDA”  at 19,25.
+3
+United  States  Pharmacopeia
+--
+USP specifically requests that CVM’s  draft guidance be modified as follows:
+4
+On page 20, at the end of line 567, delete all text after the words “official
+compendium.” The statement would then read:
+1.
+Any change made to comply with an official compendium.
+m
+On page 26, after line 752, add the following sentence;
+5.
+Any change made in labeling to comply with an official
+compendium.
+We believe that these changes are consistent with the regulatory scheme
+provided by the FD&C Act and with CDER’s November 1999 guidance on “Changes to
+an Approved NDA or ANDA.”
+You may contact me at (301) 816-8256 if you have any questions about these
+comments. Thank you for your careful consideration.
+. 
+r
+Sincerely,
+Q+A ai&
+/Joseph G. Valentino
+Senior Vice President and General Counsel
+Attachments
+cc:
+Stephen F. Sundlof, D.V.M., Ph.D.
+Director, Center for Veterinary Medicine
+Yana R. Mille,  R.Ph.
+Chief, Compendial Operations Branch, FDA
+Jerome A. Malperin
+Executive Vice President, USP
+G:WGB-AMB\na&>idoc2.doc
+U.S. Phormocopeio
+The Standard of Quoiiv
+12601 Twinbrook  Porkwoy
+Rcckville, MD 20852
+301-881-0666
+www.usp.org
+. .
+December 1, 1999
+Dockets Management Branch (HFA-305)
+Food and Drug Administration
+5630 Fishers Lane, Room 1061
+Rockville, Maryland 20852
+Re:
+“Supplements and Other Changes to Approved New Animal Drug
+Applications”
+Docket No. 99N-1415
+Dear Sir or Madam:
+This letter provides the comments of the United States Pharmacopeia (USP) to
+the Food and Drug Administration’s (FDA) proposed rule on “Supplements and Other
+Changes to Approved New Animal Drug Applications (NADA).“’
+USP, established in 1820, is a not-for-profit organization that develops and
+disseminates legally recognized standards of strength, quality, purity, packaging and
+labeling for drugs. The standards are published in the United States Pharmacopeia-
+National Formulary (UP-NF). These texts are legally recognized as official
+compendia, and the compendia1 standards have been enforceable since 1906.2 The
+Federal Food, Drug, and Cosmetic Act (FD&C Act) requires drugs, which include
+those for animal use, to be in compliance with USP compendia1 standards.3  These
+provisions are not superseded by, but instead work in conjunction with, the statutory
+requirements on New Drug and New Animal Drug approvals.4
+’ 64 Fed. Reg. 53281 (Oct. 1, 1999).
+2 The standards are enforceable under the Federal Food, Drug, and Cosmetic Act; see 21 U.S.C.
+.
+$8 321(g)(l)(A), 35 I(b) and 352(g). Congress specifically recognized as official the changes to the USP-NF
+that appear in the supplements by defining official compendium as “the official United States Pharmacopeia,
+official Homeopathic Pharmacopeia of the United States, official National Formulary, or any supplement to
+yv of them.” d. 0 321(j) (emphasis added).
+The definition of drug includes “ (A) articles recognized in the official United States Pharmacopeia, official
+Homeopathic Pharmacopeia of the United States, or official National Formulary, or any supplement to any of
+them; and (B) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease
+in man or other animals; and (C) articles (other than food) intended to affect the structure or any function of
+the body of man or other animals; and (D) articles intended for use as a component of any articles specified
+in clause (A), (B) or (C). !&. $32l(g)(l)(emphasis  added).
+4 According to 21 U.S.C. 0 351(b), a drug is adulterated
+[i]f it purports to be or is represented as a drug the name of which is recognized in an official
+compendium, and its strength differs from, or its quality or purity falls below, the standards set
+forth in such compendium. Such determination as to strength, quality, or purity shall be made in
+accordance with the tests or methods of assay set forth in such compendium, except that
+whenever tests or methods of assay have not been prescribed in such compendium, or such tests
+or methods of assay as are prescribed are, in the judgment of the Secretary, insufficient for the
+making of such determination, the Secretary shall bring such fact to the attention of the
+,
+t
+United  States Pharmacopeia
+--
+. .
+The regulations proposed by the FDA’s Center for Veterinary Medicine
+(CVM) appear consistent with those proposed by the agency’s Center for Drug
+Evaluation and Research (CDER) for “Supplements and Other Changes to an
+Approved Application.“’ USP submitted comments to CDER’s proposed regulation, a
+copy of which is enclosed and incorporated by reference into these comments.6
+USP opposes adoption of CVM’s  proposed regulations because they: (1) are
+inconsistent with the statutory and regulatory scheme that recognize compendia1
+standards to assure the quality of drugs in the marketplace; (2) would require
+supplements for labeling changes made to comply with compendia1 revisions, which
+would cause confusion and uncertainty about a product’s legal status; and (3) would
+impose unnecessary, burdensome requirements on industry.
+USP urges the agency to amend the proposed regulations to provide a
+regulatory exemption consistent with that recommended by USP for CDER’s
+proposed regulations, 2 1 C.F.R. $ 3 14.70. This exemption would permit
+manufacturers of animal drugs to make changes in specifications and in labeling to
+comply with an official compendium without tiling a supplemental application,
+provided these changes are submitted in the annual report.
+This exemption also would be consistent with that recognized by CDER in its
+recently issued final guidance on supplements to new drug applications (NDA) and
+abbreviated new drug applications (ANDA) permitting changes in specifications and
+in labeling made to comply with an official compendium, provided the changes are
+appropriate body charged with the revision of such compendium, and if such body fails within a
+reasonable time to prescribe tests or methods of assay which, in the judgment of the Secretary,
+are sufficient for purposes of this paragraph, then the Secretary shall promulgate regulations
+prescribing appropriate tests or methods of assay in accordance with which such determination as
+to strength, quality, or purity shall be made. No drug defined in an official compendium shall be
+deemed to be adulterated under this paragraph because it differs from the standard of strength,
+quality, or purity therefor set forth in such compendium, if its difference in strength, quality, or
+purity from such standards is plainly stated on its label. Whenever a drug is recognized in both
+the United States Pharmacopeia and the Homeopathic Pharmacopeia of the United States it shall
+be subject to the requirements of the United States Pharmacopeia unless it is labeled and offered
+for sale as a homeopathic drug, in which case it shall be subject to the provisions of the
+Homeopathic Pharmacopeia of the United States and not to those of the United States
+Pharmacopeia .
+As provided by 21 U.S.C. !j 352(g), a drug is misbranded
+[i]f it purports to be a drug the name of which is recognized in an official compendium, unless
+it is packaged and labeled as prescribed therein. The method of packing may be modified with
+the consent of the Secretary. Whenever a drug is recognized in both the United States
+Pharmacopeia and the Homeopathic Pharmacopeia of the United States, it shall be subject to
+the requirements of the United States Pharmacopeia with respect to packaging, and labeling
+unless it is labeled and offered for sale as a homeopathic drug, in which case it shall be subject
+to the provisions of the Homeopathic Pharmacopeia of the United States, and not to those of the
+United States Pharmacopeia, except that in the event of inconsistency between the requirements
+of this paragraph and those of paragraph (e) as to the name by which the drug or its ingredients
+shall be designated, the requirements of paragraph (e) shall prevail.
+’ 64 Fed. Reg. 34608 (June 28,1999).
+6 Attachment 1.
+2
+,‘.
+--
+United  States  Pharmacopeia
+ah
+. .
+submitted in the manufacturer’s annual report.’ In addition, the exemption would be
+consistent with the requirements under the FD&C Act that recognize compendial
+standards, methods of analysis, and labeling requirements and would eliminate a
+redundant review by FDA, without compromising the safety and efficacy of animal
+drugs.
+1.
+FDA’s Pronosed Regulations Are Inconsistent With The Statutory Structure
+For Drug Approval And Oualitv
+The proposed regulations undermine the current statutory scheme that
+recognizes the standards for drug strength, quality, and purity provided by the USP -
+NF. Section 501(b)  of the FD&C Act sets standards for product quality by defining
+adulterated drugs as those that have their strength, quality or purity falling below
+compendia1 standards.* Section 501(b) also requires that adulteration be determined
+by compendia1 tests or methods of assay.
+The proposed regulations ignore section 50 1 (b) by imposing additional
+requirements even on minor changes made to comply with an official compendium.
+Specifically, the proposed regulations state that these changes must be “consistent
+with FDA requirements” and must provide “increased assurance that the new animal
+drug will have the characteristics of identity, strength, quality, purity, or potency that it
+purports or is represented to possess.“’ Section 50 1 (b) requires compliance with all
+compendia1 standards, not only those consistent with FDA requirements and those that
+provide increased assurances. Moreover, the meaning of these phrases is so vague that
+it will likely cause confusion in the industry and perhaps within the agency.
+Not only are the phrases “FDA requirements” and “increased assurance”
+unclear, but if they refer to those methods and specifications in approved NADAs,
+they are likely to be confidential and unknown to USP. Therefore, these requirements
+would seem to undermine the clear intent of the statute to recognize public,
+compendia1 standards that are readily available to the entire pharmaceutical industry,
+health care professions, and the public.
+Addition of these proposed regulatory requirements also appears to suggest
+that compendial methods of analysis are insufficient. The appropriate mechanism to
+remedy insufficiencies is provided by section 501(b) of the FD&C Act. According to
+the statute, FDA must bring information on insufficient tests or methods to the
+attention of the compendia1 body. If the compendial body fails to provide sufficient
+tests or methods of assay, only then would FDA have the authority to promulgate
+regulations for tests or methods of assay. FDA has never had to take corrective action
+under section 501(b) due to insufficiencies in the compendia1 procedures related to
+specifications. If such insufficiencies exist, FDA has failed to address the alternative
+remedies available to it that are relevant to such matters.
+’ “Guidance for Industry: Changes to an Approved NDA or ANDA”  FDA, CDER 19,25 (November 1999);
+Attachment 2.
+’ 21 U.S.C. $351(b).
+9 64 Fed. Reg. at 53293 (to be codified at 21 C.F.R. $ 514.8(b)(4)(ii)(A)).
+3
+United States Pharmacopeia
+--
+.
+FDA’s proposed regulations also are inconsistent with the statutory
+requirement that FDA cooperate with scientific societies in the revision of the USP
+and in the development of methods of analysis and mechanical and physical tests
+necessary to carry out the work of FDA. lo Instead of eliciting cooperation, it appears
+that FDA is unilaterally imposing its own vague standards, which violate the spirit of
+the law. In a recent letter from Dr. Bernard Schwetz, FDA’s Acting Deputy
+Commissioner of Food and Drugs, FDA articulated its support “to help protect USP
+standards recognition from erosion through changes in regulatory policy, where
+appropriate.“* I Such support would be clearly appropriate in these FDA proposed
+regulations, which should reflect the statutory requirement that manufacturers comply
+with official compendia1 standards.
+2.
+The Proposed Regulations Requiring Supplements For Labeling Changes
+Consistent With Compendia1 Revisions Would Likelv Cause Confusion And
+Uncertaintv About A Product’s Legal Status
+The proposed regulations also undermine the statutory scheme recognizing
+consistency in labeling of drug products. According to 9 502(g) of the FD&C Act, a
+drug is misbranded if it is a drug recognized in an official compendium and is not
+labeled  and packaged as described in the compendium.” In addition,
+$ 502(e)(l)(A)(i) of the FD&C Act requires a drug to bear a nonproprietary (i.e.
+generic) name. I3 This is defined in section 502(e)(3) as the FDA established name or
+the official title in an official compendium.i4
+For the most part, FDA has relied upon
+USP to determine the official names for a drug. Drug names often change as the
+nature of products change.
+.
+CVM’s proposed regulations do not specifically mention the procedure for
+supplemental applications for labeling changes made to comply with an official
+compendium. However, the regulations appear to require a manufacturer making
+labeling changes consistent with compendia1 changes to submit a supplement for
+approval prior to distributing the product.‘5  Specifically, proposed 21 C.F.R.
+5 5148(c)(2)(D) describes the labeling changes requiring the submission and approval
+of a supplement prior to product distribution, which include “any other changes in
+labeling except ones described in paragraph (~)(3).“‘~ Proposed 21 C.F.R.
+$ 5 14.8(c)(3),  which permits labeling changes to be placed into effect before approval
+of a supplemental application, does not include labeling changes made to comply with
+those of USP-NF.‘7
+lo 21 U.S.C. 0 377. This states that “[tlhe Secretary, in carrying into effect the provisions of this chapter, is
+authorized on and after July 12, 1943, to cooperate with associations and scientific societies in the revision of
+the United States Pharmacopoeia and in the development of methods of analysis and mechanical and physical
+tests necessary to carry out the work of the Food and Drug Administration.”
+I’ Letter from Bernard Schwetz, D.V.M., Ph.D., FDA Acting Deputy Commissioner of Food and Drugs, to
+Arline Bilbo. USP Member Services Manager, 2 (November 1, 1999); Attachment 3.
+-
+I2 2 1 U.S.C. 0 352(g); see sunra note 4.
+I3 rd. 0 352(e)(l)(A)(i).
+I4 Id. 0 352(e)(3).
+Is 64 Fed. Reg. at 53293-94 (to be codified at 21 C.F.R. 9 514.8(c)(l),  (2), and (3)).
+I6 Id. at 53293.
+” J& at 53293-94.
+4
+United  States  Pharmacopeia
+e..
+.
+If USP makes official a change to a labeling requirement and a company
+cannot comply until FDA approves the change, the marketed drug, in the intervening
+period, technically may be misbranded or adulterated if it fails to meet the changed
+compendial requirements. There is likely to be confusion in the marketplace and more
+opportunity for errors if manufacturers individually must seek approval to change their
+labeling and the labels do not change uniformly.
+It is clear that public standards, including labeling for drugs, is in the public
+interest because the standards serve to uniformly assure the quality of drugs in the
+marketplace. Changes in the standards and in labeling to comply with compendia1
+changes should be made simultaneously for all brands of the same drug to assure
+consistency in the marketplace. Implementing changes at various times for different
+brands of the same drug based on each manufacturer’s interpretation of the nature of
+the change, may cause inconsistencies in drug quality.
+3.
+The Proposed Regulations Would Impose Unnecessarv. Burdensome
+Requirements On Industrv
+USP believes that the implementation of the proposed regulations will impose
+on industry substantial paperwork burdens that are unnecessary under the statute.
+Under the proposed regulations, manufacturers of animal drug products must file and
+obtain FDA approval of supplemental applications for labeling changes made to
+comply with an official compendium, although the FD&C Act requires immediate
+compliance with such changes, without supplemental applications and FDA review.
+In addition, manufacturers are likely to file supplemental applications and obtain
+approval for any change made to comply with an official compendium to ensure
+compliance with the proposed, vague requirement that such change be “consistent
+with FDA requirements and provide[ ] increased assurance that the new animal drug
+will have the characteristics of identity, strength, quality, purity, or potency that it
+purports or is represented to possess.“18
+If USP changes the compendia1 requirements to delete a test for a commonly
+used excipient (such as magnesium stearate, an excipient commonly found in tablet
+formulations) or if USP changes a general method of analysis, the proposed
+regulations may result in manufacturers filing supplements for every NADA and
+ANADA using that excipient or general analytical method.ig  Similarly, any change in
+compendia1 would result in supplemental applications for every NADA and
+Abbreviated New Animal Drug Application (ANADA). The number of supplements
+generated by such changes could prove overwhelming for both industry and CVM.
+It is unclear what justification exists for these unnecessary regulatory burdens
+on companies and for the added review time on the agency. FDA has not provided a
+reason to impose these filing requirements. FDA has not provided USP with evidence
+that changes made to comply with compendia1 standards or labeling have resulted in
+‘* Id. at 53293.
+I9 Since 1995, almost 4,000 individual revisions to the USP-NF were made official. In addition, eight new
+chapters establishing general requirements were published. These new requirements have necessitated
+hundreds of other changes.
+5
+,‘.
+United  States  Pharmacopeia
+--
+.
+drugs that are unsafe, not effective, or of poor quality. Nor has the agency provided
+any public policy concerns that would justify imposing the filing requirements for
+these changes. It appears that the proposed regulations would impose unnecessary
+costs for industry, the agency, and ultimately consumers, without providing any clear
+benefit.
+FDA already has the opportunity to review USP compendia1 changes and to
+provide comments through the agency’s Compendia1 Operations Branch located in
+CDER. Under its current policies, USP publishes all proposed changes in compendia1
+standards in the Pharmacopeial Forum, a bimonthly publication providing an
+opportunity for public review of and comment on revisions affecting the USP-NF.
+There is no need for a redundant review by the agency of supplemental applications
+containing these changes.
+Nor are these proposed regulations consistent with the intent of the
+Food and Drug Administration Modernization Act (FDAMA), which was
+enacted, in part, to improve drug regulation and to expedite the availability of
+drug products to consumers. Section 116 of FDAMA requires the submission
+and approval of a supplemental application for major manufacturing changes
+but allows FDA to exempt certain changes in specifications2’ FDAMA
+therefore would support a system that provides an exemption from filing a
+supplemental application for any change made to comply with an official
+compendium. Such a system would achieve the goal of safe, high quality
+products in the marketplace and would be more efficient and less costly than
+the proposed regulations.
+Conclusion
+USP requests that the agency amend its proposed regulations to permit a
+manufacturer that makes any change to a specification or labeling to comply with a
+change in an official compendium to provide information on the change in the annual
+report (minor changes and stability report). Specifically, USP proposes the following
+amended language to the proposed regulation:
+21 C.F.R. 3 514.8
+ibj Manz&acturing  changes to an approved application
+. . .
+” The Food and Drug Administration Modernization Act of 1997 8 116, Pub. L. No. 105-l 15, (codified at 21
+U.S.C. Q 356a (1997)). FDA has the authority to exempt certain changes from the definition of major
+manufacturing changes. Major manufacturing change are those that have “substantial potential to adversely
+affect the identity, strength, quality, purity, or potency of the drug as they may relate to the safety or
+effectiveness of a drug” including: (A) a change in the qualitative or quantitative formulation of the drug
+involved or in the specifications in the approved application or license, unless exempted by regulation or
+guidance; (B) a change determined by FDA to require completion of an appropriate clinical study
+demonstrating equivalence of the drug to the drug manufactured without the change; or (C) another type of
+change determined by FDA to have substantial potential to adversely affect the safety or effectiveness of a
+drug. 21 U.S.C. $356a (c)(2)(emphasis  added).
+6
+,‘.
+, -,
+.
+4
+a_
+United  States Pharmacopeia
+--
+. .
+(4) Changes and updated stability data to be described and
+submitted in an annual report (minor changes).
+. . .
+(ii) These changes include but are not limited to:
+(A) Any change made to comply with an official
+compendium; m
+(c) Labeling and other changes to an approved application-
+(I) General Provisions. The applicant must notify FDA about
+each change in each condition established in an approved
+application beyond the variations already provided for in the
+application. The notice is required to describe the change fully.
+Any change made  in labeling to comply with an official
+compendlium  may be submitted in the annual reporL2’
+. . .
+*****
+These amendments are consistent with: (1) the current regulatory scheme that
+recognizes and utilizes offkial compendial requirements; (2) the participation by the
+agency in the public review process in developing and monitoring compendial
+requirements; (3) the changes made in CDER’s final guidance on “Changes to an
+Approved NDA or ANDA;” and (4) USP’s comments to CDER’s proposed regulation on
+supplemental applications.
+You may contact me at (301) 8 16-8256 if you have any questions about these
+comments. Thank you for your careful consideration.
+c;==2 /fqLa
+/
+Joseph G. Valentine
+Senior Vice President and General Counsel
+Attachments
+cc:
+Bernard Schwetz, D.V.M., Ph.D.
+Acting Deputy Commissioner of Food and Drugs
+Stephen F. Sundlof, D.V.M., Ph.D.
+Director, Center for Veterinary Medicine
+” The language added by USP appears in bold. USP has indicated the language to be removed in the
+proposed regulations by striking through it.
+.
+,
+-_
+United  States  Pharunacopeia
+--
+. .
+Yana R. Mille, R.Ph.
+Chief, Compendial Operations Branch, FDA
+Jerome A. Halperin
+Executive Vice President, USP
+Jordan L. Cohen, Ph.D.
+Chairman, USP Board of Trustees
+Degnis  K. J. Gore&i,  Ph.D.
+Chairman, USP Division of Standards Development Executive Committee
+\\USPNETI\VOLI\DATA\EXE\FGB-AMB\nada-anada2.doc
+\\USPNETI\VOLI\DATA\EXE\FGB-AMB\nada-anada2.doc
+i-
+r
+a.  ,-.--.- . 
+..LW.
+I_^  ,.I 
+1
+Guida ce for Industry
+Changes to an Approved
+NDA or ANDA
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Drug Evaluation and Research (CDER)
+November 1999
+CMC
+Guida ce for Industry
+es to an Approved
+NDA or ANDA
+Additional copies are available from:
+Drug Information Branch (HFD-210)
+Center for Drug Evaluation and Research (CDER)
+5600 Fishers Lane, Rockville, MD 20857 (Tel) 301-827-4573
+.
+Internet at http://www.fda.gov/cder/guidance/index.  htm
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Drug Evaluation and Research (CDER)
+November 1999
+CMC
+I.
+VI.
+VII.
+VIII.
+IX.
+X.
+XI.
+TABLE OF CONTENTS
+INTRODUCTION ...................................................... .
+REPORTINGCATEGORIES ............................................ .
+GENERAL  REQUIREMENTS .......................................... .3
+ASSESSING  THE EFFECT OF MANUFACTURING  CHANGES ............ .4
+COMPONENTS  AND COMPOSITION ................................... .7
+MANUFACTURING  SITES ............................................. .7
+MANUFACTURING  PROCESS ......................................... 11
+SPECIFICATIONS .................................................. ..16
+PACKAGE ......................................................... ..2 0
+LABELING ........................................................ ..2 4
+MISCELLANEOUS  CHANGES ........................................ .25
+MULTIPLE RELATED CHANGES ..................................... .27
+XII.
+ATTACHMENT  A
+MANUFACTURING  SITES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . , . . . . . . . . .28
+ATTACHMENT  B
+TYPE OF OPERATION  AND CGMP INSPECTIONS
+. . . . . . . . . . . . . . . . . . . . . .30
+ATTACHMENT  C
+CDER-APPROVED....................................................33
+GLOSSARY  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...34
+GUIDANCE FOR INbUSTRY’
+Changes to an Approved NDA or ANDA
+I.
+INTRODUCTION
+On November 21, 1997, the President signed the Food and Drug Administration Modernization Act
+(the Modernization Act).2 Section 116 of the Modernization Act amended the Food, Drug, and
+Cosmetic Act (the Act) by adding section 506A (21 U.S.C. 356a), which provides requirements for
+making and reporting manufacturing changes to an approved application and for distributing a drug
+product made with such changes.
+,
+The purpose of this guidance is to provide recommendations to holders of new drug applications
+(NDAs) and abbreviated new drug applications (ANDAs) who intend to make postapproval changes
+in accordance with Section 506A. The guidance covers recommended reporting categories for
+postapproval changes for drugs, other than specified biotechnology and specified synthetic biological
+products. Recommendations are provided for postapproval changes in (1) components and
+composition, (2) manufacturing sites, (3) manufacturing process, (4) specifications, (5) package, (6)
+labeling, (7) miscellaneous changes, and (8) multiple related changes.
+Recommendations on reporting categories for changes relating to specified biotechnology and specified
+synthetic biological products regulated by CDER are found in the guidance for industry entitled
+Changes to an Approved Application for Specz$ed Biotechnology and SpeciJied Synthetic
+Biological Products (July 1 997).3
+This guidance does not provide recommendations on the specific information that should be developed
+by an applicant to assess the effect of the change on the identity, strength (e.g., assay, content
+uniformity), quality (e.g., physical, chemical, and biological properties), purity (e.g., impurities and
+degradation products), or potency (e.g., biological activity, bioavailability, bioequivalence) of a product
+’ This guidance has been prepared under the direction of the Chemistry, Manufacturing and Controls
+Coordinating Committee in the Center for Drug Evaluation and Research (CDER) at the Food and Drug
+Administration. This guidance represents the Agency’s current thinking on how it will apply the requirements of
+section 506A of the Act for NDA and ANDA  products. It does not create or confer any rights for or on any person
+and does not operate to bind FDA or the public. An alternative approach may be used if such approach satisfies the
+requirements of the applicable statutes, regulations, or both.
+’ Pub. L. 105-l 15.
+3 FDA is currently revising the 1997 guidance and intends to issue it in draft for public comment.
+1
+as they may relate to the safety or effectiveness of the product. An applicant should consider all
+relevant CDER guidance documents for recommendations on the information that should be submitted
+to support a given change.4
+CDER has published guidances, including the SUPAC (scale-up and postapproval changes) guidances,
+that provide recommendations on reporting categories. To the extent that the recommendations on
+reporting categories in this guidance are found to be inconsistent with guidances published before this
+guidance was finalized, the recommended reporting categories in such previously published guidances
+are superseded by this guidance. This guidance does not provide extensive recommendations on
+reporting categories for components and composition changes (see section V). Therefore,
+recommended reporting categories for components and composition changes provided in previously
+published guidances, such as the SUPAC guidances, still apply. Section 506A of the Act provides for
+two types of changes being effected supplements (see section II) while previously there was only one
+type. It is important for applicants to use this guidance to determine which type of changes being
+effected supplement is recommended. CDER intends to update the previously published guidances to
+make them consistent with this guidance.
+If guidance for either recommended filing categories and/or information that should be submitted to
+support a particular change is not available, the appropriate CDER chemistry or microbiology review
+staff can be consulted for advice.
+II.
+REPORTING  CATEGORIES
+Section 506A of the Act provides for four reporting categories that are distinguished in the following
+paragraphs.
+A major change is a change that has a substantial potential to have an adverse effect on the identity,
+strength, quality, purity, or potency of a product as they may relate to the safety or effectiveness of the
+product (506A(c)(2)). A major change requires the submission of a supplement and approval by FDA
+prior to distribution of the product made using the change (506A(t)(l)).
+This type of supplement is
+called, and should be clearly labeled, a Prior Approval Supplement. An applicant may ask FDA to
+expedite its review of a prior approval supplement for public health reasons (e.g., drug shortage) or if a
+delay in making the change described in it would impose an extraordinary hardship on the applicant.
+This type of supplement is called, and should be clearly labeled, a Prior ApprovaE Supplement -
+Expedited Review Requested.’ Requests for expedited review based on extraordinary hardship should
+4 A list of CDER guidances is available on the Internet at http://www.fda.gov/cder/guidance/index.htm.
+’ Internal Agency policies and procedures relating to processing requests for expedited review of
+supplements to approved ANDAs and NDAs are documented in CDER’s Manual of Policies and Procedures
+(MAPP) at 5240.1 and 5310.3, respectively. MAPPs  can be located on the Internet at
+2
+be reserved for manufacturing changes made necessary by catastrophic events (e.g;, fire) or by events
+be reserved for manufacturing changes made necessary by catastrophic events (e.g;, fire) or by events
+that could not be reasonably foreseen and for which the applicant could not plan.
+that could not be reasonably foreseen and for which the applicant could not plan.
+A moderate change is a change that has a moderate potential to have an adverse effect on the identity;
+strength, quality, purity, or potency of the product as they may relate to the safety or effectiveness of
+the product. There are two types of moderate change. One type of moderate change requires the
+submission of a supplement to FDA at least 30 days before the distribution of the product made using
+the change (506A(d)(3)(B)(i)).  This type of supplement is called, and should be clearly labeled, a
+Supplement - Changes Being Effected in 30 Days. The product made using a moderate change
+cannot be distributed if FDA informs the applicant within 30 days of receipt of the supplement that a
+prior approval supplement is required (506A(d)(3)(B)(i)). For each change, the supplement must
+contain information determined by FDA to be appropriate and must include the information developed
+by the applicant in assessing the effects of the change (506A(b)). If FDA informs the applicant within
+30 days of receipt of the supplement that information is missing, distribution must be delayed until the
+supplement has been amended with the missing information.
+FDA may identify certain moderate changes for which distribution can occur when FDA receives the
+supplement (506A(d)(3)(B)(ii)).
+This type of supplement is called, and should be clearly labeled, a
+Supplement - Changes Being Effected. If, after review, FDA disapproves a changes being
+effected in 30 days supplement or changes being effected supplement, FDA may order the
+manufacturer to cease distribution of the drugs that have been made using the disapproved change
+(506A(d)(3)(B)(iii)).
+A minor change is a change that has minimal potential to have an adverse effect on the identity,
+strength, quality, purity, or potency of the product as they may relate to the safety or effectiveness of
+the product. The applicant must describe minor changes in its next Annual Report (506A(d)(i)(A)
+and W(2)).
+An applicant can submit one or more protocols (i.e., comparability protocols) describing tests,
+validation studies, and acceptable limits to be achieved to demonstrate the absence of an adverse effect
+from specified types of changes. A comparability protocol can be used to reduce the reporting
+category for specified changes. A proposed comparability protocol should be submitted as a prior
+approval supplement, if not approved as part of the original application. FDA intends to issue separate
+guidance on comparability protocols.
+III.
+GENERAi  
+REQUIREMENTS
+http://www.fda.gov/cderlmapp.htm.
+-.
+Other than for editorial changes in previously submitted information (e.g., correction of spelling or
+typographical errors, reformatting of batch records), an applicant must notify FDA about each change
+in each condition established in an approved application beyond the variations already provided for in
+the application (506A(a)).
+An applicant making a change to an approved application under section 506A of the Act must also
+conform to other applicable laws and regulations, including current good manufacturing practice
+(CGMP) requirements of the Act (21 U.S.C. 351(a)(2)(B)) and applicable regulations in Title 21 of the
+Code of Federal Regulations (e.g., 2 1 CFR parts 2 10,2 11,3 14). For example, manufacturers must
+comply with relevant CGMP validation and recordkeeping requirements and ensure that relevant
+records are readily available for examination by authorized FDA personnel during an inspection.
+A changes being effected supplement for labeling changes must include 12 copies of the final printed
+labeling (21 CFR 3 14.50(e)(2)(ii)).
+Except for a supplemental application providing for a change in labeling, an applicant should include a
+statement in a supplemental application or amendment certifying that the required field copy (21 CFR
+3 14.50) of the supplement or amendment has been provided.6
+IV.
+ASSESSING  THE EFFECT OF MANUFACTURING  CHANGES
+A.
+Assessment of the Effects of the Change
+A drug made with a manufacturing change, whether a major manufacturing change or
+otherwise, may be distributed only after the holder validates (i.e., assesses) the effects of the
+change on the identity, strength, quality, purity, and potency of the product as these factors may
+relate to the safety or effectiveness of the product (506A(b)).’ For each change, the
+supplement or annual report must contain information determined by FDA to be appropriate
+and must include the information developed by the applicant in assessing the effects of the
+change (506A(b), (c)(l), (d)(2)(A), and (d)(3)(A)). Recommendations on the type of
+’ Mailing information for field copies is provided in 21 CFR 3 14.440(a)(4). FDA recommends that the
+applicant’s home FDA district ofJice referred to in the regulations be the district offke where the applicant’s
+headquarters is located.
+’ Validate the effects of the change means to assess the effect of a manufacturing change on the identity,
+strength, quality, purity, or potency of a drug as these factors relate to the safety or effectiveness of the drug. The
+term assess or assessment, as used in this guidance, is not the same as CGMP validation. Unless otherwise specified
+by FDA, CGMP validation (e.g., process, equipment) data need not be filed in the application but should be retained
+at the facility and be available for review by FDA at the Agency’s discretion. For example, in addition to the
+information assessing the effects of the change specified in 506A(b)  of the Act, validation information on
+sterilization processes should be submitted in an NDA or ANDA.
+4
+information that should be included in a supplemental application or annual report is available in
+guidance documents. If no guidance is available on the type of information that should be
+submitted to support a change, the applicant is encouraged to contact the appropriate chemistry
+or microbiology review staff
+1.
+Conforinance to Speczjications
+An assessment of the effect of a change on the identity, strength, quality, purity, or
+potency of the drug product should include a determination that the drug substance
+intermediates, drug substance, in-process materials, and/or drug product affected by
+the change conform to the approved specifications.8  A speczjkation is a quality
+standard (i.e., tests, analytical procedures, and acceptance criteria) provided in an
+approved application to confirm the quality of drug substances, drug products,
+intermediates, raw materials, reagents, and other components, including container
+closure systems and their components and in-process materials. For the purpose of
+defining specifications, acceptance criteria are numerical limits, ranges, or other
+criteria for the tests described. Conformance to a specification means that the material,
+when tested according to the analytical procedures listed in the specification, will meet
+the listed acceptance criteria.
+2.
+Additional Testing
+In addition to confirmation that the material affected by manufacturing changes
+continues to meet its specification, the applicant should perform additional testmg, when
+appropriate, to assess whether the identity, strength, quality, purity, or potency of the
+product as they may relate to the safety or effectiveness of the product have been or
+will be affected. The assessment should include, as appropriate, evaluation of any
+changes in the chemical, physical, microbiological, biological, bioavailability, and/or
+stability profiles. This additional assessment could involve testing of the postchange
+drug product itself or, if appropriate, the component directly affected by the change.
+The type of additional testing that an applicant should perform would depend on the
+type of manufacturing change, the type of drug substance and/or drug product, and the
+effect of the change on the quality of the product. For example:
+0
+Evaluation of changes in the impurity or degradant profile could first involve
+profiling using appropriate chromatographic techniques and then, depending on
+the observed changes in the impurity profile, toxicology tests to qualify a new
+impurity or degradant or to qualify an impurity that is above a previously
+’ If a specification needs to be revised as a result of the change, this would be considered a multiple change
+(See sections VIII and XII).
+qualified level9
+l
+Evaluation of the hardness or friability of a tablet after certain changes.
+a
+Assessment of the effect of a change on bioequivalence when required under
+21 CFR part 320 could include, for example, multipoint and/or multimedia
+dissolution profiling and/or an in vivo bioequivalence study.
+0
+Evaluation of extractables from new packaging components or moisture
+permeability of a new container closure system.
+An applicant should refer to all relevant CDER guidance documents for
+recommendations on the information that should be submitted to support a given
+change. If guidance for information that should be submitted to support a particular
+change is not available, applicants can consult the appropriate CDER chemistry or
+microbiology review staff for advice.
+B.
+Equivalence
+When testing is performed, the applicant should usually assess the extent to which the
+manufacturing change has affected the identity, strength, quality, purity, or potency of the drug
+product. Typically this is accomplished by comparing test results from pre- and postchange
+material and determining if the test results are equivalent. Simply stated: Is the product made
+after the change equivalent to the product made before the change? An exception to this
+general approach is that when bioequivalence should be redocumented for certain ANDA
+postapproval changes, the comparator should be the reference listed drug. Equivalence
+comparisons frequently require a criterion for comparison with calculation of confidence
+intervals relative to a predetermined equivalence interval. For this, as well as for other reasons,
+equivalent does not necessarily mean identical. Equivalence may also relate to maintenance
+of a quality characteristic (e.g., stability) rather than a single performance  of a test.
+c.
+Adverse Effect
+Sometimes manufacturing changes have an adverse effect on the identity, strength, quality,
+purity, or potency of the. drug product. In many cases, the applicant chooses not to implement
+these manufacturing changes, but sometimes the applicant wishes to do so. If an assessment
+concludes that a change has adversely affected the identity, strength, quality, purity, or potency
+of the drug product, the change should be filed in a prior approval supplement,
+9 Recommendations on identifying, qualifying, and reporting impurities can be found in relevant guidances
+(e.g., ICH Q3B Impurities in New Drug Products (November 1996)).
+6
+.-* , ...;-”
+regardless of the recommended  reporting  category for the change. For example, a type
+of process change with a recommended filing category of a supplement - changes being
+effected in 30 days, could cause a new degradant to be formed that requires qualification
+and/or identification.” However, the applicant’s degradation qualification procedures may
+indicate that there are no safety concerns relating to the new degradant. The applicant should
+submit this change in a prior approval supplement with appropriate information to support the
+continued safety and effectiveness of the product. During the review of the prior approval
+supplement, the FDA will assess the impact of any adverse effect on the product as it may
+relate to the safety or effectiveness of the product.
+Applicants are encouraged to consult with the appropriate CDER chemistry or microbiology
+review staff if there are any questions on whether a change in a characteristic would be viewed
+by CDER as adversely affecting the identity, strength, quality, purity, or potency of the product.
+V.
+COMPONENTS  AND COMPOSITION
+Changes in the qualitative or quantitative formulation, including inactive ingredients, as provided in the
+approved application, are considered major changes and should be filed in a prior approval
+supplement, unless exempted by regulation or guidance (506A(t)(2)(A)).  The deletion or reduction of
+an ingredient intended to affect only the color of a product may be reported in an annual report.
+Guidance on changes in components and composition that may be filed in a changes being effected
+supplement or annual report is not included in this document because of the complexity of these
+recommendations, but may be covered in one or more guidance documents describing postapproval
+changes (e.g., SUPAC documents).
+VI.
+MANUFACTURING  SITES”
+A.
+General Considerations
+CDER should be notified about a change to a different manufacturing site used by an applicant
+to (1) manufacture or process drug products,r2 in-process materials, drug substances, or drug
+lo Recommendations on identifying, qualifying, and reporting impurities can be found in relevant guidances.
+I’ See Attachment A for a discussion of the definition of same manufacturing site and d&-ent
+manufacturing site.
+I2 Manufacturing or processing drug product would also include the preparation (e.g., sterilization,
+depyrogenation, irradiation, washing) by the applicant or applicant’s contractor of container closure systems or
+packaging components.
+7
+2 
+I.._ 
+..- 
+*d
+..-1.”
+substance intermediates, (2) package drug products, (3) label drug products, and (4) test
+components, drug product containers, closures, packaging materials, in-process materials, or
+drug products. Sites include those owned by the applicant or contract sites used by an
+applicant. Testing sites include those performing physical, chemical, biological, and
+microbiological testing to monitor, accept, or reject materials, as well as those performing
+stability testing. Sites used to label drug products are considered those that perform labeling of
+the drug product’s primary or secondary packaging components. Sites performing operations
+that place identifying information on the dosage form itself (e.g., ink imprint on a filled capsule)
+are considered to be facilities that manufacture or process the drug product. The supplement or
+annual report should identify whether the proposed manufacturing site is an alternative or
+replacement to those provided for in the approved application.
+A move to a different manufacturing site, when it is a type of site routinely subject to FDA
+inspection, should be filed as a prior approval supplement if the site does not have a
+satisfactory CGMP inspection’3  for the type of operatiod4 being moved (see sections
+V1.B. 1 and 2).
+For labeling, secondary packaging, and testing site changes, the potential for adverse effect on
+the identity, strength, quality, purity, or potency of a product as they may relate to the safety or
+effectiveness of the product is considered to be independent of the type of drug product dosage
+form or specific type of operation being performed. Therefore, the recommended reporting
+category for any one of these manufacturing site changes will be the same for all types of drug
+products and operations. For manufacturing sites used to (1) manufacture or process drug
+products, in-process materials, drug substances, or drug substance intermediates or (2) perform
+primary packaging operations, the potential for adverse impact and, consequently, the
+recommended reporting category depends on various factors such as the type of product and
+operation being performed. For this reason, recommended reporting categories may differ
+depending on the type of drug product and operations.
+Except for those situations described in sections VI.B.4, VI.C.l.b, and VI.D.5, moving
+production operations between buildings at the same manufacturing site or within a building, or
+construction activities occurring at a manufacturing site, do not have to be reported to CDER.
+A move to a different manufacturing site that involves other changes (e.g., process, equipment)
+should be evaluated as a multiple related change (see section XII) to determine the appropriate
+reporting category.
+” See Glossary for a definition of satisfactory CGMP inspection.
+I4 See Attachment B for a discussion of the term type ofoperation.
+8
+B.
+Major Changes (Prior Approval Supplement)
+The following are examples of changes that are considered to have a substantial potential to
+have an adverse effect on the identity, strength, quality, purity, or potency of a product as they
+may relate to the safety or effectiveness of the product.
+1.
+A move to a different manufacturing site, except one used to manufacture or
+process a drug substance intermediate, when the new manufacturing site has
+never been inspected by FDA for the type of operation that is being moved or
+the move results in a restart at the new manufacturing site of a type of operation
+that has been discontinued for more than two years.
+2.
+A move to a different manufacturing site, except those used to manufacture or
+process a drug substance intermediate, when the new manufacturing site does
+not have a satisfactory CGMP inspection for the type of operation being
+moved.
+3.
+A move to a different manufacturing site for (1) the manufacture, processing, or
+primary packaging of drug products when the primary packaging components
+control the dose delivered to the patient or the formulation modifies the rate or
+extent of availability of the drug, or (2) the manufacture or processing of in-
+process materials with modified-release characteristics. Examples of these
+types of drug products include modified-release solid oral dosage forms,‘5
+transdermal  systems, liposomal products, depot products, oral and nasal
+metered-dose inhalers (MDIs), dry powder inhalers (DPIs), and nasal spray
+pumps.
+4.
+Transfer of manufacturing of an aseptically processed sterile drug substance or
+aseptically processed sterile drug product to (1) a newly constructed or
+refurbished aseptic processing facility or area or (2) an existing aseptic
+processing facility or area that does not manufacture similar (including container
+types and sizes) approved products. For example, transferring the manufacture
+of a lyophilized product to an existing aseptic process area where no approved
+lyophilized products are manufactured or the approved lyophilized products
+being manufactured have dissimilar container types and/or sizes to the product
+being transferred. See section VI.C. 1.b for recommendations for other
+manufacturing site changes relating to aseptically processed sterile drug
+substance or aseptically processed sterile drug product.
+I5 Certain operations relating to the manufacture, processing, or primary packaging of modified-release solid
+oral dosage form products need not be reported in a prior approval supplement (see sections V1.C. 1 .c and VI.D.6).
+_L
+5.
+Transfer of the manufacture of a finished product sterilized by terminal
+processes to a newly constructed facility at a different manufacturing site. Once
+this change has been approved, subsequent site changes to the facility for
+similar product types and processes may be filed as a supplement - changes
+being effected in 30 days (see section V1.C. 1 .a).
+C.
+Moderate Changes (Supplement  - Changes Being Effected)
+The following are examples of changes that are considered to have a moderate potential to
+have an adverse effect on the identity, strength, quality, purity, or potency of a product as they
+may relate to the safety or effectiveness of the product.
+The following manufacturing site changes (excluding changes relating to drug substance
+intermediate manufacturing sites) should be filed in a prior approval supplement if the new site
+does not have a satisfactory CGMP inspection for the type of operation being moved (see
+sections V1.B. 1 and 2).
+1.
+Supplement - Changes Being Effected in 30 Days
+a.
+A move to a different manufacturing site for the manufacture or
+processing of any drug product, in-process material, or drug substance
+that is not otherwise provided for in this guidance.
+b.
+For aseptically processed sterile drug substance or aseptically
+processed sterile drug product, a move to an aseptic processing facility
+or area at the same or different manufacturing site, except as provided
+for in section VI.B.4.
+C.
+A move to a different manufacturing site for the primary packaging of
+(1) any drug product that is not otherwise listed as a major change and
+(2) modified-release solid oral dosage form products.
+d.
+A move to a different manufacturing site for testing if (1) the test
+procedures approved in the application or procedures that have been
+implemented via an annual report are used, (2) all postapproval
+commitments made by the applicant relating to the test procedures have
+been fulfilled (e.g., providing methods validation samples), and (3) the
+new testing facility has the capability to perform the intended testing.
+._.,, 
+r
+2.
+Supplement - Changes Being Effected
+10
+a.
+A move to a different manufacturing site for the manufacture or
+processing of the final intermediate.
+D.
+Minor Changes (Atink Report)
+The following are examples of changes that are considered to have a minimal potential to have
+an adverse effect on the identity, strength, quality, purity, or potency of a product as they may
+relate to the safety or effectiveness of the product.
+The following manufacturing site changes (excluding changes relating to drug substance
+intermediate manufacturing sites) should be filed in a prior approval supplement if the new site
+does not have a satisfactory CGMP inspection for the type of operation being moved (see
+sections V1.B. 1 and 2).
+1.
+2.
+3.
+A move to a different manufacturing site for secondary packaging.
+A move to a different manufacturing site for labeling.
+A move to a different manufacturing site for the manufacture or processing of
+drug substance intermediates, other than the final intermediate.
+4.
+A change in the contract sterilization site for packaging components when the
+process is not materially different from that provided for in the approved
+application and the facility has a satisfactory CGMP inspection for the &pe of
+operation being performed.
+5.
+A transfer of the manufacture of a finished product sterilized by terminal
+processes to a newly constructed building or existing building at the same
+manufacturing site.
+6.
+A move to a different manufacturing site for the ink imprinting of solid oral
+dosage form products.
+VII.
+MANUFACTURING  PROCEFS
+A.
+General Considerations
+The potential for adverse effects on the identity, strength, quality, purity, or potency of a drug
+product as they may relate to the safety or effectiveness of the product depends on the type of
+manufacturing process and the changes being instituted for the drug substance or drug product.
+11
+In some cases there may be a substantial potential for adverse effect, regardless of direct testing
+of the drug substance or drug product for conformance with the approved specification. When
+there is a substantial potential for adverse effects, a change should be filed in a prior approval
+supplement.
+B.
+Major Changes (Prior Approval Supplement)
+The following are examples of changes that are considered to have a substantial potential to
+have an adverse effect on the identity, strength, quality, purity, or potency of a product as they
+may relate to the safety or effectiveness of the product.
+1.
+Changes that may affect the controlled (or modified) release, metering or other
+characteristics (e.g., particle size) of the dose delivered to the patient, including
+the addition or deletion of a code imprint by embossing, debossing, or
+engraving on a modified-release solid oral dosage form.
+2.
+Changes that may affect product sterility assurance including, where
+appropriate, process changes for sterile drug substances and sterile packaging
+components. These include:
+0
+Changes in the sterilization method (e.g., gas, dry heat, irradiation).
+These include changes from sterile filtered or aseptic processing to
+terminal sterilization, or vice versa.
+0
+Addition, deletion, or substitution of sterilization steps or procedures for
+handling sterile materials in an aseptic processing operation.
+0
+Replacing sterilizers that operate by one set of principles with sterilizers
+that operate by another principle (e.g., substituting a gravity
+displacement steam process with a process using superheated water
+spray).
+0
+Addition to an aseptic processing line of new equipment made of
+different materials (e.g., stainless steel versus glass, changes between
+plastics) that will come in contact with sterilized bulk solution or sterile
+drug components, or deletion of equipment from an aseptic processing
+line.
+0
+Replacing a Class 100 aseptic fill area with a barrier system or isolator
+for aseptic filling. Once this change has been approved, subsequent
+process changes for similar product types in the same barrier system or
+isolator may be filed as a Supplement - changes being effected in 30
+days.
+0
+Replacement or addition of lyophilization equipment of a different size
+that uses different operating parameters or lengthens the overall process
+time.
+Changes from bioburden-based terminal sterilization to the use of an
+overkill process, and vice versa.
+Changes to aseptic processing methods, including scale, that extend the
+total processing, including bulk storage time, by more than 50 percent
+beyond the validated limits in the approved application.
+Changes in sterilizer load configurations that are outside the range of
+previously validated loads.
+Changes in materials or pore size rating of filters used in aseptic
+processing.
+The following changes for a natural product?
+0
+0
+l
+Changes in the virus or adventitious agent removal or inactivation
+methods. This is applicable to any material where such procedures are
+necessary, including drug substance, drug product, reagents, and
+excipients.
+For drug substance and drug product, changes in the source material
+(e.g., microorganism, plant) or cell line.
+For drug substance and drug product, establishment of a new master
+cell bank or seed.
+4.
+Any fundamental change in the manufacturing process or technology from that
+currently used by the applicant. For example:
+a.
+Drug product
+0
+Dry to wet granulation or vice versa.
+e
+Change from one type of drying process to another (e.g., oven tray,
+fluid bed, microwave).
+b.
+Drug substance
+0
+Filtration to centrifugation or vice versa.
+a
+Change in the route of synthesis of a drug substance.
+5 .
+The following changes for drug substance
+“ For the purposes of this guidance, naturalproduct refers to materials (e.g., drug substance, excipients)
+that are derived from plants, animals, or microorganisms. The specific recommendations for natural products are not
+applicable to inorganic compounds (e.g., salts, minerals).
+13
+l
+Any process change made after the final intermediate processing step in
+drug substance manufacture.
+0
+Changes in the synthesis or manufacture of the drug substance that may
+affect its impurity profile and/or the physical, chemical, or biological
+properties.
+6.
+Addition of an ink code imprint or change to or in the ink used for an existing
+imprint code for a solid oral dosage form drug product when the ink as changed
+is not currently used on CDER-approvedproducts.”
+7.
+Establishing a new procedure for reprocessing a batch of drug substance or
+drug product that fails to meet the approved specification.
+C.
+Moderate Changes (Supplement  - Changes Being Effected)
+The following are examples of changes that are considered to have a moderate potential to
+have an adverse effect on the identity, strength, quality, purity, or potency of a product as they
+may relate to the safety or effectiveness of the product.
+1.
+Supplement - Changes Being Effected in 30 Days
+a.
+IFor drug products, any change in the process, process parameters
+and/or equipment, except as otherwise provided for in this guidance.
+b.
+IFor drug substances, any change in process and/or process
+parameters, except as otherwise provided for in this guidance.
+For natural protein drug substances and drug products:
+Any change in the process, process parameters, and/or
+equipment, except as otherwise provided for in this guidance.
+An increase or decrease in production scale during finishing
+steps that involves new or different equipment.
+Replacement of equipment with that of similar, but not identical,
+design and operating principle that does not affect the process
+methodology or process operating parameters.
+For sterile products, drug substances, and components, as appropriate:
+d.
+I7 See Attachment C for a discussion of CDER-approved.
+14
+a
+Changes in dry heat depyrogenation processes’for glass
+container systems for products that are produced by terminal
+sterilization processes or aseptic processing.
+a
+Changes to filtration parameters for aseptic processing
+(including flow rate, pressure, time, or volume, but not filter
+materials or pore size rating) that require additional validation
+studies for the new parameters.
+a
+Filtration process changes that provide for a change from single
+to dual product sterilizing filters in series, or for repeated
+filtration of a bulk.
+a
+Changes fi-om one qualified sterilization chamber to another for
+in-process or terminal sterilization that results in changes to
+validated operating parameters (time, temperature, F,, and
+others).
+a
+Changes in scale of manufacturing for terminally sterilized
+products that increase the bulk solution storage time by more
+than 50 percent beyond the validated limits in the approved
+application when bioburden limits are unchanged.
+e.
+For drug substances, redefinition of an intermediate, excluding the final
+intermediate, as a starting material.
+2.
+Supplement - Changes Being Effected
+a.
+A change in methods or controls that provides increased assurance that
+the drug substance or drug product will have the characteristics of
+identity, strength, purity, or potency that it puports or is represented to
+possess.
+b.
+For sterile drug products, elimination of in-process filtration performed
+as part of the manufacture of a terminally sterilized product.
+D.
+Minor Changes (Annual Report)
+The following are examples of changes that are considered to have a minimal potential to have
+an adverse effect on the identity, strength, quality, purity, or potency of a product as they may
+relate to the safety or effectiveness of the product.
+1:
+For drug products and protein drug substances, changes to equipment of the
+same design and operating principle and/or changes in scale, except as
+otherwise provided for in this guidance (e.g., section VI1.C.  1 .c).
+A minor change in an existing code imprint for a dosage form. For example,
+changing from a numeric to alphanumeric code.
+3.
+Addition of an ink code imprint or a change in the ink used in an existing code
+imprint for a solid oral dosage form drug product when the ink is currently used
+on CDER-approved products.
+4.
+Addition or deletion of a code imprint by embossing, debossing, or engraving
+on a solid dosage form drug product other than a modified- release dosage
+form.
+5.
+A change in the order of addition of ingredients for solution dosage forms or
+solutions used in unit operations (e.g., granulation solutions).
+6.
+Changes in scale of manufacturing for terminally sterilized products that increase
+the bulk solution storage time by no more than 50 percent beyond the validated
+limits in the approved application when bioburden limits are unchanged.
+VIII. SPECIFICATIONS
+A.
+General Considerations
+All changes in specifications from those in the approved application must be submitted in a prior
+approval supplement unless otherwise exempted by regulation or guidance (506A(t)(2)(A)).
+Speczjkations (i.e., tests, analytical procedures, and acceptance criteria) are the quality
+standards provided in an approved application to confirm the quality of drug substances, drug
+products, intermediates, raw materials, reagents, and other components, including container and
+closure systems and in-process materials. For the purpose of defining specifications,
+acceptance criteria are numerical limits, ranges, or other criteria for the tests described. An
+example of a test, analytical procedure, and acceptance criteria is: assay, a specific fully
+described high pressure liquid chromatography (HF’LC) procedure, and 98.0-102.0 percent.
+The recommendations in this section. also apply to specifications associated with sterility
+assurance that are included in NDA and ANDA s,ubm$sions.‘*
+A regulatory analytical procedure is the analytical procedure used to evaluate a defined
+characteristic of the drug substance or drug product. The analytical procedures in the U.S.
+‘* See FDA guidance for industry on the Submission of Documentation for Sterilization Process
+Validation in Applications for Human and Veterinary  Drug Products (November 1994).
+16
+Pharmacopeia/NationaZ FormuZary  (USP/NF) are those legally recognized under section
+50 1 (b) of the Act as the regulatory analytical procedures for compendia1 items.
+The applicant may include in its application akernative analytical procedures to the approved
+regulatory procedure for testing the drug substance and drug product. However, for purposes
+of determining compliance with the Act, the regulatory analytical procedure is used.
+In sections B-D below, the use of the term anaZyticaZprocedure  without a qualifier such as
+reguzatory or azternative refers to analytical procedures used to test materials other than the
+drug substance or drug product.
+B.
+Major Changes (Prior Approval Supplement)
+The following are examples of changes in specifications that are considered to have a
+substantial potential to have an adverse effect on the identity, strength, quality, purity, or
+potency of a product as they may relate to the safety or effectiveness of the product.
+1.
+2.
+Relaxing an acceptance criterion, except as otherwise provided for in this
+guidance (e.g., section VIILC. 1 .b).
+Deleting any part of a specification, except as otherwise provided for in this
+guidance (e.g., section VIII.D.2).
+3.
+4.
+.
+Establishing a new regulatory analytical procedure.
+A change in a regulatory analytical procedure that does not provide the same or
+increased assurance of the identity, strength, quality, purity, or potency of the
+material being tested as the regulatory analytical procedure described in the
+approved application.
+5.
+A change in an analytical procedure used for testing components, packaging
+components, the final intermediate, in-process materials after the final
+intermediate, or starting materials introduced after the final intermediate that
+does not provide the same or increased assurance of the identity, strength,
+quality, purity, or potency of the material being tested as the analytical
+procedure described in the approved application, except as otherwise noted.
+For example, a change from an HPLC procedure that distinguishes impurities to
+(1) one that does not, (2) another type of analytical procedure (e.g., titrimetric)
+that does not, or (3) one that distinguishes impurities but the limit of detection
+and/or limit of quantitation is higher.
+17
+6.
+Relating to testing of raw materials for viruses or adventitious agents:19 (1)
+relaxing an acceptance criteria, (2) deleting a test, or (3) a change in the
+analytical procedure that does not provide the same or increased assurance of
+the identity, strength, quality, purity, or potency of the material being tested as
+the analytical procedure described in the approved application.
+C.
+Moderate Changes (Supplement  - Changes Being Effected)
+The following are examples of changes in specifications that are considered to have a moderate
+potential to have an adverse effect on the identity, strength, quality, purity, or potency of a
+product as they may relate to the safety or effectiveness of the product.
+1.
+Supplement - Changes Being Effected in 30 Days
+a.
+Any change in a regulatory analytical procedure other than editorial or
+those identified as major changes.
+b.
+Relaxing an acceptance criterion or deleting a test for raw materials
+used in drug substance manufacturing, in-process materials prior to the
+final intermediate, starting materials introduced prior to the final drug
+substance intermediate, or drug substance intermediates (excluding final
+intermediate), except as provided for in section VIII.B.6.
+C.
+A change in an analytical procedure used for testing raw materials used
+in drug substance manufacturing, in-process materials prior to the
+intermediate, starting materials introduced prior to the final drug
+substance intermediate, or drug substance intermediates (excluding final
+intermediate) that does not provide the same or increased assurance of
+the identity, strength, quality, purity, or potency of the material being
+tested as the analytical procedure described in the approved
+application, except as provided for in section VIII.B.6.
+d.
+Relaxing an in-process acceptance criterion associated with
+microbiological monitoring of the production environment, materials,
+and components that are included in NDA and ANDA submissions.
+For example, increasing the microbiological alert or action limits for
+critical processing environments in an aseptic fill facility or increasing the
+acceptance limit for bioburden in bulk solution intended for filtration and
+I9 In this context, testing for adventitious agents is not considered to include tests that are found in an
+official compendium (e.g., USP <61>).
+.-mll.,.l
+”
+aseptic filling.
+2.
+Supplement - Changes Being Effected
+a.
+An addition to a specification that provides increased assurance that the
+drug substance or drug product will have the characteristics of identity,
+strength, purity, or potency that it purports or is represented to possess.
+For example, adding a new test and associated analytical procedure
+and acceptance criterion.
+b.
+A change in an analytical procedure used for testing components,
+packaging components, the final intermediate, in-process materials after
+the final intermediate, or starting materials introduced after the final
+intermediate that provides the same or increased assurance of the
+identity, strength, quality, purity, or potency of the material being tested
+as the analytical procedure described in the approved application.
+D.
+Minor Changes (Annual Report)
+The following are examples of changes in specifications that are considered to have a minimal
+potential to have an adverse effect on the identity, strength, quality, purity, or potency of a
+product as they may relate to the safety or effectiveness of the product.
+1.
+Any change in a specification made to comply with an official compendium.
+2.
+For drug substance and drug product, the addition, deletion or revision of an
+alternative analytical procedure that provides the same or greater level of
+assurance of the identity, strength, quality, purity, or potency of the material
+being tested as the analytical procedure described in the approved application.
+3.
+Tightening of acceptance criteria.
+4.
+A change in an analytical procedure used for testing raw materials used in drug
+substance synthesis, starting materials introduced prior to the final drug
+substance intermediate, in-process materials prior to the final intermediate, or
+drug substance intermediates (excluding final intermediate) that provides the
+same or increased assurance of the identity, strength, quality, purity, or potency
+of the material being tested as the analytical procedure described in the
+approved application.
+19
+IX.
+PACKAGE
+A.
+General Consideratik
+The potential for adverse effect on the identity, strength, quality, purity, or potency of a product
+The potential for adverse effect on the identity, strength, quality, purity, or potency of a product
+as they may relate to the safety or effectiveness of the product when making a change to or in
+as they may relate to the safety or effectiveness of the product when making a change to or in
+the container closure system is generally dependent on the route of administration of the drug
+the container closure system is generally dependent on the route of administration of the drug
+product, performance of the container closure system, and the likelihood of interaction between
+the packaging component and the dosage form.
+In some cases there may be a substantial
+potential for adverse effect, regardless of direct product testing for conformance with the
+approved specification.
+A change to or in a packaging component will often result in a new or revised specification for
+the packaging component. This situation does not have to be considered a multiple related
+change. Only the reporting category for the packaging change needs to be considered.
+B.
+Major Changes (Prior Approval Supplement)
+The following are examples of changes that are considered to have a substantial potential to
+have an adverse effect on the identity, strength, quality, purity, or potency of a product as they
+may relate to the safety or effectiveness of the product.
+1.
+For liquid (e.g., solution, suspension, elixir) and semisolid (e.g., creams,
+ointments) dosage forms, a change to or in polymeric materials (e.g., plastic,
+rubber) of primary packaging components, when the composition of the
+component as changed has never been used in a CDER-approved product of
+the same dosage form and same route of administration. For example, a
+polymeric material that has been used in a CDER-approved topical ointment
+would not be considered CDER-approved for use with an ophthalmic ointment.
+2.
+For liquid (e.g., solution, suspension, elixir) and semisolid (e.g., creams,
+ointments) dosage forms in permeable or semipermeable container closure
+systems, a change to an ink and/or adhesive used on the permeable or
+semipermeable packaging component to one that has never been used in a
+CDER-approved product of the same dosage form, same route of
+administration, and same type of permeable or semipermeable packaging
+component (e.g., low density polyethylene, polyvinyl chloride).
+3.
+A change in the primary packaging components for any product when the
+primary packaging components control the dose delivered to the patient (e.g.,
+the valve or actuator of a metered-dose inhaler).
+20
+For sterile products, any other change that may affect product sterility
+assurance such as?’
+0
+A change fi-om a glass ampule to a glass vial with an elastomeric
+closure.
+0
+A change to a flexible container system (bag) from another container
+system.
+0
+A change to a prefilled syringe dosage form from another container
+system.
+0
+A change from a single unit dose container to a multiple dose container
+system.
+0
+Changes that add or delete silicone treatments to container closure
+systems (such as elastomeric closures or syringe barrels).
+0
+Changes in the size and/or shape of a container for a sterile drug
+product.
+5.
+Deletion of a secondary packaging component intended to provide additional
+protection to the drug product (e.g., carton to protect from light, over-wrap to
+limit transmission of moisture or gases).
+6.
+A change to a new container closure system if the new container closure system
+does not provide the same or better protective properties than the approved
+container closure system.
+C.
+Moderate Changes (Supplement  - Changes Being Effected)
+The following are examples of changes that are considered to have a moderate potential to
+have an adverse effect on the identity, strength, quality, purity, or potency of a product as they
+may relate to the safety or effectiveness of the product.
+1.
+Supplement - Changes Being Effected in 30 Days
+a.
+A change to or in a container closure system, except as otherwise
+provided for in this guidance.
+b.
+Changes in the size or shape of a container for a sterile drug substance.
+2o Some of these identified changes, depending on the circumstances, may have to be filed as new NDAs or
+ANDAs instead of as supplements. Applicants can consult the appropriate CDER chemistry division/office if there
+are questions.
+21
+- . . . _ -
+2.
+Supplement - Changes Being Effected
+a.
+A change in the size and/or shape of a container for a nonsterile drug
+product, except for solid dosage forms (see section IX.D.2 regarding
+solid dosage forms).
+b.
+A change in or addition or deletion of a desiccant.
+D.
+Minor Changes (Annual Report)
+The following are examples of changes that are considered to have a minimal potential to have
+an adverse effect on the identity, strength, quality, purity, or potency of a product as they may
+relate to the safety or effectiveness of the product.
+1.
+A change in the container closure system for a nonsterile drug product, based
+on a showing of equivalency to the approved system under a protocol
+approved in the application or published in an official compendium.
+2.
+A change in the size and/or shape of a container containing the same number of
+dose units, for a nonsterile solid dosage form.
+3.
+The foljlowing  changes in the container closure system of solid oral dosage form
+products as long as the new package provides the same or better protective
+properties (e.g., light, moisture) and any new primary packaging component
+materials have been used in and been in contact with CDER-approved solid
+oral dosage form products:*l
+0
+Adding or changing a child-resistant closure, changing from a metal to
+plastic screw cap, or changing fi-om a plastic to metal screw cap.
+0
+Changing from one plastic container to another of the same type of
+plastic (e.g., high density polyethylene (HDPE) container to another
+HDPE container).
+0
+Changes in packaging materials used to control odor (e.g., charcoal
+packets).
+0
+Changes in bottle filler (e.g., change in weight of cotton or amount
+used) without changes in the type of filler (e.g., cotton to rayon).
+21 For sections IX.D.3 to 6, changes in the container closure system that result in product contact with a
+component material that has never been used in any CDER-approved product of the same type should be filed as a
+supplement - changes being effected in 30 days (IX.C.1)  or prior approval supplement (IX.B.1).
+22
+4.
+5.
+6.
+0
+Increasing the wall thickness of the container.
+0
+A change in or addition of a cap liner.
+0
+A change in or addition of a seal (e.g., heat induction seal).
+i
+A change in an antioxidant, colorant, stabilizer, or mold releasing agent
+for production of the container and/or closure to one that is used at
+similar levels in the packaging of CDER-approved solid oral dosage
+form products.
+0
+A change to a new container closure system when the container closure
+system is already approved in the NDA or ANDA for other strengths
+of the product.
+The following changes in the container closure system of nonsterile liquid
+products, as long as the new package provides the same or better protective
+properties and any new primary packaging component materials have been
+used in and been in contact with CDER-approved liquid products with the
+same route of administration (i.e., the material in contact with a liquid topical
+should already have been used witt other CDER-approved liquid topical
+products):
+0
+Adding or changing a child-resistant closure, changing from a metal to
+plastic screw cap, or changing from a plastic to metal screw cap.
+0
+Increasing the wall thickness of the container.
+0
+A change in or addition of a cap liner.
+0
+A change in or addition of a seal (e.g., heat induction seal).
+.
+A change in the container closure system of unit dose packaging (e.g., blister
+packs) for nonsterile solid dosage form products, as long as the new package
+provides the same or better protective properties and any new primary
+packaging component materials have been used in and been in contact with
+CDER-approved products of the same type (e.g., solid oral dosage form,
+rectal suppository).
+The following changes in the container closure system of nonsterile semisolid
+products, as long as the new package provides the same or better protective
+properties and any new primary packaging component materials have been
+used in and been in contact with CDER-approved semisolid products:
+0
+Changes in the closure or cap.
+0
+Increasing the wall thickness of the container.
+l
+A change in or addition of a cap liner.
+0
+A change in or addition of a seal.
+23
+.-.-.._.-
+0
+A change in the crimp sealant.
+7.
+A change in the flip seal cap color, as long as the cap color is consistent with
+any established color coding system for that class of drug products.
+LABELING
+A.
+General Considerations
+A drug product labeling change includes changes in the package insert, package labeling, or
+container label. An applicant should promptly revise all promotional labeling and drug
+advertising to make it consistent with any labeling change implemented in accordance with the
+regulations. All labeling changes for ANDA products must be consistent with section 505(j) of
+the Act.
+B.
+Major Changes (Prior Approval Supplement)
+Any proposed change in the labeling, except those that are designated as moderate or minor
+changes by regulation or guidance, should be submitted as a prior approval supplement. The
+following list contains some examples of changes that are currently considered by CDER to fall
+into this reporting category.
+1.
+2.
+3.
+Changes based on postmarketing study results, including, but not limited to,
+labeling changes associated with new indications and usage.
+Change in, or addition of, pharmacoeconomic claims based on clinical studies.
+Changes to the clinical pharmacology or the clinical study section reflecting new
+or modified data.
+C.
+4.
+Changes based on data from preclinical studies.
+5.
+Revision (expansion or contraction) of population based on data.
+6.
+Claims of superiority to another product.
+7.
+Change in the labeled storage conditions, unless exempted by regulation or
+guidance.
+Moderate  Changes (Supplement  - Changes Being Effected)
+24
+XI.
+.
+A changes being effected supplement should be submitted for any labeling change that (1) adds
+or strengthens a contraindication, warning, precaution, or adverse reaction, (2) adds or
+strengthens a statement about drug abuse, dependence, psychological effect, or overdosage,
+(3) adds or strengthens an instruction about dosage and administration that is intended to
+increase the safe use of the product, (4) deletes false, ‘misleading, or unsupported indications for
+use or claims for effectiveness, or (5) is specifically requested by FDA. The submission should
+include 12 copies of final printed labeling. The following list includes some examples of changes
+that are currently considered by CDER to fall into this reporting category.
+1.
+Addition of an adverse event due to information reported to the applicant or
+Agency.
+2.
+Addition of a precaution arising out of a postmarketing study.
+3.
+Clarification of the administration statement to ensure moner adminis:trstion  of
+I
+-= -- ..- _-------__-
+the product.
+4.
+Labeling changes, normally classified as major changes, that FDA specifically
+requests be implemented using a changes being effected supplement.
+D.
+Minor Changes (Annual Report)
+Labeling with editorial or similar minor changes or with a change in the information concerning
+the description of the drug product or information about how the drug is supplied that does not
+involve a change in the dosage strength or dosage form should be described in an annual report.
+The following list includes some examples that are currently considered by CDER to fall into
+this reporting category.
+1.
+Changes in the layout of the package or container label that are consistent with
+FDA regulations (e.g., 21 CFR part 201), without a change in the content of
+the labeling.
+2.
+Editorial changes, such as adding a distributor’s name.
+3.
+Foreign language versions of the labeling, if no change is made to the content of
+the approved labeling and a certified translation is included.
+4.
+Labeling changes made to comply with an official compendium.
+MISCELLANEOUS  CHANGES
+25
+.-. ___ . ...,. -.
+A.
+Major Changes (Prior Approval Supplement)
+The following are examples of changes that are considered to have a substantial potential to
+have an adverse effect on the identity, strength, quality, purity, or potency of a product as they
+may relate to the safety or effectiveness of the product.
+1.
+Changes requiring completion of studies in accordance with 2 1 CFR part 320
+to demonstrate equivalence of the drug to the drug as manufactured without the
+change or to a reference listed drug (506A(t)(2)(B)).
+2.
+3.
+Addition of a stability protocol or comparability protocol.
+Changes to an approved stability protocol or comparability protocol unless
+otherwise provided for in this guidance (e.g., VIILC, VIII.D, XI.C.2).
+B.
+Moderate Changes (Supplement  - Changes Being Effected)
+An extension of an expiration dating period based on (1) data obtained under a
+new or revised stability testing protocol that has not been approved in the
+application or (2) full shelf life data on pilot scale batches using an approved
+protocol.
+The following are examples of changes that are considered to have a moderate potential to
+have an adverse effect on the identity, strength, quality, purity, or potency of a product as they
+may relate to the safety or effectiveness of the product.
+I.
+Supplement - Changes Being ERected in 30 Days
+a.
+Reduction of an expiration dating period to provide increased
+assurance of the identity, strength, quality, purity, or potency of the drug
+product. Extension of an expiration date that has previously been
+reduced under this provision should be filed in a supplement - changes
+being effected in 30 days even if it is based on data obtained under a
+protocol approved in the application.
+2.
+Supplement - Changes Being Effected
+No changes have been identified.
+26
+C.
+Minor Changes (Annual Report)
+The following are examples of changes that are considered to have a minimal potential to have
+an adverse effect on the identity, strength, quality, purity, or potency of a product as they may
+relate to the safety or effectiveness of the product.
+1.
+An extension of an expiration dating period based on full shelf life data on full
+production batches obtained under a protocol approved in the application.
+2. 
+‘*-
+Addition of time points to the stability protocol or deletion of time points
+beyond the approved expiration dating period.
+3.
+A change from previously approved stability storage conditions to storage
+conditions recommended in International Conference on Harmonisation (ICH)
+guidances.
+4.
+Non-USP reference standards:
+0
+Replacement of an in-house reference standard or reference panel (or
+panel member) according to procedures in an approved application.
+0
+Tightening of acceptance criteria for existing reference standards to
+provide greater assurance of product purity and potency.
+XII.
+MULTIPLE RELATED CHANGES
+Multiple related changes involve various combinations of individual changes. For example, a site
+change may also involve equipment and manufacturing process changes or a components and
+composition change may necessitate a change in a specification. For multiple related changes where the
+recommended reporting categories for the individual changes differ, CDER recommends that the filing
+be in accordance with the most restrictive of those recommended for the individual changes. When the
+multiple related changes all have the same recommended reporting category, CDER recommends that
+the filing be in accordance with the reporting category for the individual changes.
+27
+ATTACHMENT  A
+MANUFACTURING  SITES
+All owners or operators of all drug establishments (not exempt by regulation) that engage in the
+manufacture, preparation, propagation, compounding, or processing of a drug or drugs are required to
+register with the FDA (2 1 CFR 207.20). An establishment means a place of business under one
+management at one general physical location (21 CFR 207.3(a)(7)). A generalphysical location is
+reasonably construed to include separate buildings within the same city ifthe activities in them are
+closely related to the same business enterprise, under the supervision of the same local management,
+and all inspected at the same time (ORA Field Management Directive No. 132).
+For the purposes of determining the reporting category for moves between buildings, the terms
+different manufacturing site and same manufacturing site mean:
+Domestic Establishments
+Same manufacturing site:
+0
+The new and old building are included under the same drug establishment registration
+numbe?’
+and
+0
+The same FDA district office is responsible for inspecting the operations in both the
+new and old building.
+Dzfferent manufacturing site:
+0
+The new and old building have different drug establishment registration numbers
+Or
+0
+Different FDA district offices are responsible for inspecting operations in the new and
+old building.
+For domestic establishments, the terms same and different manufacturing site supersede the terms
+contiguous campus, same campus, and different campus as used in the SUPAC guidances.
+** The registration number is the number assigned to the establishment by the district (ORA Field
+Management Directive No. 92). Currently, the registration number is the seven digit central file number (CFN).
+28
+Foreign  Establishments
+Foreign establishments are not currently required to register with the FDA. On May 14, 1999 FDA
+published a proposed rule to require registration of foreign establishments (64 FR 26330). Until the
+time registration of foreign establishments is required, same and different manufacturing sites mean:
+Same manufacturing site:
+l
+A contiguous or unbroken site or a set of buildings in adjacent city blocks.
+Different manufacturing site:
+0
+New and old building not on a contiguous site or not in adjacent city blocks.
+.
+ATTACHMENT  B
+TYPE OF OPERATION  AND CGMP INSPECTIONS
+Section VI states that a change to a different manufacturing site should be filed in a prior approval
+supplement when (1) the new manufacturing site has never been inspected by FDA for the type of
+operation being moved, (2) the move results in a restart at the new manufacturing site of a type of
+operation that has been discontinued for more than two years, or (3) the new manufacturing site does
+not have a satisfactory current good manufacturing practice (CGMP) inspection for the type of
+operation being moved.
+AproJZe class system is used by FDA to assist in (1) managing the CGMP inspection process, (2)
+. 
+I
+evaluating the findings and the compliance follow-up needed, and (3) communicating the results of
+inspections.
+A profile class can relate to the manufacture of a particular dosage form (e.g., large
+volume parenterals, oral liquids), type of drug substance (e.g., sterile bulk by chemical synthesis), or
+specific function performed at a site (e.g., control testing laboratory). There are profile class codes for
+major categories of drug substance processes, dosage forms, and manufacturing functions (see table
+below). However, the system is not comprehensive for all operations performed in the pharmaceutical
+industry (see not elsewhere classified (NEC) profile class code).
+The term type of operation refers to the specialized or even unique conditions and practices which are
+employed to manufacture a class or category ofdrug substance or drug product or to perform a limited
+segment of the manufacturing process. These conditions and practices exist and are performed within
+the framework of CGMPs, along with general conditions and practices that contribute to the
+manufacture of all products at a given manufacturing site. Both the general and the specific conditions
+and practices are inspected to evaluate the CGMP acceptability of a manufacturing site. A wide variety
+of classes or categories of drug substances and products may be produced at a manufacturing site or
+the manufacturing site may only produce a single class of drug substance and/or drug product or
+perform a limited segment of a manufacturing process. Each type of operation is represented by a
+profile class code.
+Generally, a satisfactory CGMP rating for a profile class code is used to communicate a satisfactory
+CGMP clearance for all of the products and for all of the operations included within the category that
+code represents. Thus the profile class code for a particular dosage form or type of drug substance is
+used to communicate the CGMP status for all aspects of manufacturing, processing, packing, or holding
+that are performed at the specific manufacturing site relating to that particular dosage form or type of
+drug substance, including packaging and labeling operations, testing, and quality control. The profile
+class code for a particular dosage form or type of drug substance is also used to communicate the
+CGMP  status for manufacturing sites that produce &process material (e.g., controlled-release beads),
+package drug products, or label drug products, even if these are stand-alone (e.g., contractor)
+operations.
+30
+A few profile class codes that describe certain types of operations (see items in boldface in table) are
+provided to report the CGMP status for contractor firms whose only function in the manufacturing
+process is to perform this operation. If one of these operations (e.g., steam sterilization process) is
+performed at the manufacturing site involved in producing the drug product/drug substance, the CGMP
+status for that operation is reported-as part of the profile class code for the particular dosage form or
+type of drug substance. For example, a manufacturing site producing a terminally sterilized small
+volume parenteral product would be reported with the profile class code for the dosage form (SVT),
+not by the profile code for the sterilization process (SSP).
+Certain inspections may be required by program priorities even if a profile class code indicates an
+acceptable CGMP status. The current profile codes/classes for human drugs are:
+31
+ADM
+Aerosol dispensed medication
+NEC
+Not elsewhere classified (when using this class,
+specific products are noted)
+CBI
+Biotechnology crude drug
+OIN
+Ointment, nonsterile (includes cream, jelly, paste)
+CEX
+Plant/animal extraction crude drug
+POW
+Powders (includes oral and topical)
+CFS
+Sterile bulk by fermentation crude drug
+RAD Radiopharmaceutical
+CFN
+Nonsterile bulk by fermentation crude drug
+RSP
+Radiation  sterilization process
+CHG
+Capsule, prompt release
+SNI
+Sterile noninjectable
+CRU
+Crude bulk drugs-nonsynthesized
+SOP
+Soap
+CSG
+Capsules, soft gelatin
+SSP
+Steam sterilization process
+CSN
+Nonsterile bulk by chemical synthesis
+SUP
+Suppositories
+CSP
+Chemical  sterilization process
+SVL
+Small volume parenterals (lyophilized)
+c s s
+Sterile bulk by chemical synthesis
+s v s
+Sterile-filled small volume parenterals
+CTL
+Control testing  laboratories
+SVT
+Terminally sterilized small volume parenteral
+CTR
+Capsules, modified-release
+TCM Tablets, prompt-release
+GAS
+Medical gas (includes liquid oxygen and other)
+TCT
+Tablets, delayed-release
+GSP
+Gas sterilization process
+TDP
+Transdermal patches
+HSP
+Dry heat sterilization process
+TSP
+Fractional  (tyndallization)  sterilization process
+LIQ
+Liquid (includes solutions, suspension, elixirs, and
+TTR
+Tablets, extended-release
+tinctures)
+LVP
+Large volume parenterals
+WSP
+Water  sterilization process
+‘CGMP inspectional status, based on the profile class, is available through FDA’s Freedom of
+Information (FOI) Office. (See Glossary under Satisfactory Current Good Manufacturing Practice
+(CGMP) Inspection for more information regarding FOI requests.)
+Examples of postapproval manufacturing site changes and filing consequences:
+0
+An applicant wants to move the manufacture of an immediate-release tablet (TCM) to a
+different manufacturing site that currently manufactures, and has satisfactory CGMP status for,
+capsules (CHG) and powders for oral solution (POW). This manufacturing site change should
+be tiled in a prior approval supplement because the new manufacturing site doesn’t have a
+satisfactory CGMP inspection for immediate-release tablets.
+0
+0
+An applicant wants to contract out their packaging operations for immediate-release tablets
+(TCM) and capsules (CHG), and modified-release capsules (CTR). The potential contract
+packager has a satisfactory CGMP status for immediate-release and modified-release capsules
+but has never packaged immediate-release tablets. The packaging site change for the
+immediate-release tablet products should be filed in a prior approval supplement. The
+packaging site change for the capsule products should be filed as recommended in section VI of
+this guidance for packaging sites with a satisfactory CGMP inspection.
+An applicant wishes to consolidate their product testing to a single analytical laboratory at a
+manufacturing site. This manufacturing site produces various solid oral dosage form products,
+has an operational analytical laboratory currently at the site, and satisfactory CGMP inspections
+for the manufacturing occurring at the facility. Some of the products that will be tested at the
+analytical laboratory when the consolidation occurs are not solid oral dosage form products.
+Unlike most other production operations, testing laboratories (and other operations in boldface
+in the table) are not inspected on a dosage form/type of drug substance specific basis. The
+satisfactory CGMP inspection of the analytical laboratory, which was performed as part of the
+CGMP inspection for manufacture of the solid oral dosage form products, is considered to
+apply to all dosage forms, including those not actually produced at the site.
+32
+.’ -__ ___....
+ATTACHMENT  C
+CDER-APPROVED
+In several places throughout the guidance, different reporting categories are proposed for changes to or
+the addition of certain components based on whether the component/material has been used in and has
+been in contact with CDER-approved products. Different reporting categories are recommended once
+CDER has reviewed certain components/materials in association with a product approval because
+similar subsequent changes then have a reduced potential to have an adverse effect on the identity,
+strength, quality, purity, or potency of a product as they may relate to the safety or effectiveness of the
+product. For example, certain changes in the container closure systems of solid oral dosage form
+products may be included in the annual report, as long as the new package provides the same or better
+protective properties and any new primary packaging component materials have been used in and been
+in contact with CDER-approved solid oral dosage form products (see section IX.D.3). If the primary
+packaging component material has not been used in or has not been in contact with CDER-approved
+solid oral dosage form products, then submission of the change in an annual report is not
+recommended.
+CDER-approved products are considered those subject to an approved NDA or ANDA. Some
+information on which components/materials are used in CDER-approved products is available from the
+Agency (e.g., FDA, CDER, Inactive Ingredient Guide, 1996, Division of Drug Information
+Resources). When information is not available, an applicant should use reliable sources of information
+to determine that the component or material has been used in and has been in contact with a CDER-
+approved product of the same dosage form and route of administration, as appropriate. The applicant
+should identify in the supplement or annual report the basis for the conclusion that the component or
+material is used in a CDER-approved product.
+If an applicant cannot confirm that a component or material has been used in and has been in contact
+with a CDER-approved product of the same dosage form and route of administration, the applicant has
+the option of filing the change for a single NDA or ANDA using the higher recommended reporting
+category and, after approval, filing similar subsequent changes for other NDAs and ANDAs using the
+lower recommended reporting category.
+GLOSSARY
+Acceptance Criteria: Numerical limits, ranges, or other criteria for the tests described.
+Active Ingredient/Drug Substance: Any component that is intended to furnish pharmacological
+activity or other direct effect in the diagnosis, cure, mitigation, treatment, or prevention of a disease, or
+to affect the structure or any function of the human body, but does not include intermediates used in the
+synthesis of such ingredient. The term includes those components that may undergo chemical change in
+the manufacture of the drug product and are present in the drug product in a modified form intended to
+furnish the specified activity or effect (21 CFR 210.3(b)(7) and 314.3).
+Container Closure System: The sum of packaging components that together contain and protect the
+dosage form. This includes primary packaging components and secondary packaging components, if
+the latter are intended to provide additional protection to the drug product.
+Component: Any ingredient intended for use in the manufacture of a drug product, including those that
+may not appear in such drug product (21 CFR 210.3(b)(3)).
+Drug Product: A finished dosage form, for example, tablet, capsule, or solution, that contains an
+active ingredient, generally, but not necessarily, in association with inactive ingredients (2 1 CFR
+210,3(b)(4)).
+Final Intermediate: The last compound synthesized before the reaction that produces the drug
+substance. The final step forming the drug substance must involve covalent bond formation or
+breakage; ionic bond formation (i.e., making the salt of a compound) does not qualify. Consequently,
+when the drug substance is a salt, the precursors to the organic acid or base, rather than the acid or
+base itself, should be considered the final intermediate.
+Inactive Ingredients: Any intended component of the drug product other than an active ingredient.
+In-process Material: Any material fabricated, compounded, blended, or derived by chemical
+reaction that is produced for, and used in, the preparation of the drug product (21 CFR 210.3(b)(9)).
+For drug substance, in-process materials are considered those materials that are undergoing change
+(e.g., molecular, physical).
+Intermediate: A material produced during steps of the synthesis of a drug substance that must
+undergo further molecular change before it becomes a drug substance.
+Package:
+The container closure system and labeling, associated components (e.g., dosing cups,
+droppers, spoons), and external packaging (e.g., cartons, shrink wrap).
+Packaging Component: Any single part of a container closure system.
+Primary Packaging Component: A packaging component that is or may be in direct contact with the
+dosage form.
+Reference Listed Drug: The listed drug identified by FDA as the drug product on which an
+applicant relies in seeking approval of its abbreviated application (21 CFR 3 14.3).
+Satisfactory Current Good Manufacturing Practice (CGMP) Inspection: A satisfactory CGMP
+inspection is an FDA inspection during which (1) no objectionable conditions or practices were found
+during (No Action Indicated @AI)) or (2) objectionable conditions were found, but, corrective action
+is left to the firm to take voluntarily and the objectionable conditions will not be the subject of further
+administrative or regulatory actions (Voluntary Action Indicated (VAI)).
+Information about the CGMP status of a firm may be obtained by requesting a copy of the Quality
+Assurance Profile (QAP) from the FDA’s Freedom of Information (FOI) Office. The QAP reports
+information on the CGMP compliance status of firms that manufacture, package, assemble, repack,
+relabel, or test human drugs, devices, biologics, and veterinary drugs. All FOI requests must be in
+writing and should follow the instructions found in the reference entitled A Handbookfor Requesting
+Information and Records from 4;DA. An electronic version of this reference is available on the
+Internet at http://www.fda.gov/opacorn/backgrounders/foiahand.html.
+Secondary Packaging Component: A packaging component that is not and will not be in direct
+contact with the dosage form.
+.
+Specifications: The quality standards (i.e., tests, analytical procedures, and acceptance criteria)
+provided in an approved application to confirm the quality of drug substances, drug products,
+intermediates, raw materials, reagents, and other components including container closure systems, and
+in-process materials.
+Validate the Effects of the Change: To assess the effect of a manufacturing change on the identity,
+strength, quality, purity, or potency of a drug as these factors relate to the safety or effectiveness of the
+drug.
+35
+I
+-_
+DEPARTMENT OF HEALTH % HUMAN SERVICES
+K’
++
+i
+..’
+Food and Drua Adrriinistrzrtion
+Rockville MD 20857
+November 1, 1999
+Ms. Arline Bilbo
+Member Services Manager
+U.S. Pharmacopeial Convention, Inc.
+1260 1 Twinbrook Parkway
+Rockville, Maryland 30853
+Dear Ms. Bilbo:
+On behalf of the Food and Drug Administration, I am pleased to respond to the September 1,
+1999, Member Memorandum from Dr. Edwin D. Bransome, Jr. requesting comments on the
+strategic planning process and the preliminary USP Strategic Plan. The final Strategic Plan will
+guide the development of annual operational plans for fiscal years 200 l-2003.
+We believe this involvement of USP Convention members will help the Board of Trustees to
+develop a sound, well conceived strategic plan for USP activities as we enter the new
+millennium. The early request for input provides FDA with the opportunity to make our views
+available to the Board of Trustees as they finalize the plan. We recognize that the process has
+been well thought out and commend the Board for taking this step. The fact that the success of
+the strategic plan will be evaluated by Convention members, Committee of Revision members,
+and the Board leadership in 3003 is a weIcome  opportunity. We are especially encouraged that
+this process will consider the comments from the Committee of Revision members as the
+Committee is the heart of the USP process. It is through their dedication as volunteers that USP
+is the world’s leading Pharmacopeia.
+We have the following comments on specific items in the preliminary Strategic Plan:
+Goal 1: Ensure the continued leadership of the U.S. Pharmacopeia (USP) and the National
+Formulary (NF)
+1.1 The availability of the web-based version of USP-NF  wiI1 increase its utilization not
+only by the U.S. pharmaceutical community but also by numerous countries around the
+world. This will help to provide additional funds for USP priority projects.
+Page 2 - Ms. Bilbo
+1.2 We fully support the Committee of Revision established New Monograph
+Development Policy. The goal of publishing proposed monographs for at least 90
+percent of new approved drugs means that public standards will be available for those
+products of commerce in a timely manner.
+1.3 The plan to establish and maintain general notices and chapters that are current with
+the state of the technology and the evolution of pharmaceutical science means that the
+end users of these notices and chapters will be assured that their drugs are of the highest
+quality possible.
+1.4 The regulation of biotechnology-derived medicines and novel (customized)
+therapeutic modahties requires specialized expertise. We support USP in its efforts to
+develop monographs for the control of the identity, strength, quality, purity, and potency
+of these uroducts.
+.
+1.5 We believe that neither FDA nor USP has enough experience with the regulation of
+dietary supplements to develop appropriate standards at this point. We would welcome
+the opportunity for further discussion with USP on this project.
+I .6 While the NF currently contains monographs for most of the commonly used
+excipients, we are aware that novel excipients are being used more frequently by the
+pharmaceutical industry. FDA considers the inclusion of monographs for these materials
+an important factor in ensuring that appropriate public standards are available.
+1.7 FDA will do whatever we can to help protect USP standards recognition from erosion
+through changes in regulatory policy, where appropriate.
+1.8 In today’s world of the multinational pharmaceutical industry, strong relationships
+with international health organizations is a must, not only for USP but also for FDA. We
+encourage USP to develop and maintain these relationships, and we hope to have the
+opportunity to work in concert with USP in the coming years.
+1.9 Continued harmonization with the European and Japanese pharmacopoeias will help
+to further the goals of the International Conference on Harmonization of Technical
+Requirements for the Registration of Pharmaceuticals (ICI-I). As you are aware, FDA has
+been an active partner in the ICH efforts to develop harmonized guidelines on the safety,
+efficacy, and quality of new drug substances and new drug products that have not been
+, *
+Page 3 -Ms. Bilbo
+i
+.I.
+previously registered in the three ICH regions. In particular, pharmacopoeia1
+harmonization is extremely important to the Q6A and Q6B guidelines dealing with
+setting of specifications for chemical substances and biotechnology substances,
+respectively.
+1.10 Providing ready access to USP standards and reference standards for foreign
+governments and pharmaceutical industries will advance the quality of their drug supplies
+and the public health of their citizens, as well as the public health of our citizens if the
+products are marketed in the U.S.
+1 .l 1 Contributions by USP to the Expert Working Groups of the Veterinary ICH will
+have a similar impact to the contribution to the ICH Expert Working Groups. We
+encourage USP to be as proactive as possibie in this endeavor.
+Goal 2: Improve availability of and access to USP Reference Standards
+2.1 Ready access to USP Reference Standards is critical for both regulators and the
+pharmaceutical industry. FDA is proud to be a contributor to the laboratory evaluation
+program for proposed new and replacement lots of USP Reference Standards. We have
+long recognized the critical importance of maintaining the highest quality materials for
+quality control and regulatory purposes. We also realize that USP depends on the
+pharmaceutical industry as its source of reference standards and that, at times, those
+materials are not always forthcoming. FDA is willing to work with USP to ensure that
+there is an adequate supply of reference standards and to continue our joint role to
+improve the reference’standards program.
+Goal 3: Maintain USP’s leadership role in assuring the availability and use of evidence-based
+drug and therapeutic information.
+3.1 We support the concept of determining and refining “value-added” information for
+the USP DI database so long as any off-label information does not erode the appropriate
+regulatory route of submission by applicants to demonstrate broader therapy claims.
+3.2 As with 3.1, we are concerned about promoting “new and off-label” use in drug
+therapy decision making without the appropriate safeguards of well-controlled clinical
+t r i a l s .
+r. :
+,. -,
+/ 
+-“.U_*.._^,
+,,___.  .._
+- 
+-.
+Page 4 -Ms. Biibo
+Goal 4: Improve USPS recognition and standing in, and contributions to, the public, health
+professions, scientific, legislative and regulatory communities.
+4.1 We strongly support the development of a Public Health Program designed to
+improve the health of and the appropriate use of medicines by patients and special
+populations. Strategies to increase patient compliance and communication with
+healthcare professionals will be of benefit to the public.
+4.2 Improved communications among governmental, professional, and scientific
+organizations and USP is a noteworthy goal. Good communication is necessary to help
+USP achieve its missions and goals of standards setting, information development, and
+reporting and preventing medication errors.
+4.3 As indicated above (3.2), we have some concern about the promotion of new and off-
+label use. However, anything that USP can do to improve the pubiic  comment and
+feedback processes is to be encouraged, as is the active participation in the establishment
+of compendia1 standards.
+4.4 FDA supports the goal of increasing the use of USP and NF standards in pharmacy
+practice and pharmacy education.
+Goal 5: Increase recognition of USP as the leader in medication error reporting and prevention.
+5.1 We would be pleased to work with USP to ensure the continued maintenance of an
+accurate medication error reporting system. As you are aware, FDA has given the
+reduction of medication errors extremely high priority as evidenced by our MedWatch
+program. Our one concern is that the use of both the MedMARx system and MedWatch
+not lead to incompIete  information in either system’s database.
+5.2 USP has our support for its efforts to adapt the MedMARx system to ambulatory care
+settings.
+5.3 FDA supports extending the MedMARx system to non-US settings as a means of
+providing increased assurance that citizens in those countries will receive their intended
+medications.
+Page 5 - Ms. Bilbo
+e
+_.
+..*
+Goal 6: Ensure USP’s long-term financial viability.
+6.1 FDA continues to support the maintenance of the USP Reference Standards program
+as indicated above.
+We consider the continued availability of high quality Reference
+Standards critical to our ability to maintain the quality of pharmaceuticals sold in the
+United States.
+6.2 - 6.4 We support new USP initiatives that are in concert with FDA’s mission to
+protect the public health.
+Goal 7: Ensure the Committee of Revision is optimally organized and supported to meet the
+challenges of the 2000-2005 revision cycle.
+7.1 The Ad Hoc Committee on the Structure and Processes of the Committee of Revision
+will have considerable influence in the implementation of the strategic plan by the
+Committee of Revision. FDA supports these efforts and looks forward to reports of
+progress in the years ahead.
+7.2 We enthusiastically support the recruitment of highly qualified experts for the 2000-
+2005 Committee of Revision. We are especially pleased that a number of FDA scientists
+have indicated their interest in serving on this Committee.
+7.3 The recruitment of qualified individuals for the USP DI value-added information
+development process also is considered an important endeavor, and we would hope that
+FDA scientists will be involved in this effort, as well.
+7.4 FDA supports any efforts that will improve the efficiency of the work flow of
+Corm-nit-tee of Revision-work as this will lead to the publication of new and revised
+monographs in a shorter time frame and goes hand-in-hand with the efforts to publish
+monographs for recently approved drugs within a three year period.
+7.5 We consider an effective orientation program for members of the new Committee of
+Revision, especially for new members, critical to the implementation of the USP strategic
+plan. FDA would be happy to work with USP on this program so that new members have
+a better understanding of the relationship between our two organizations.
+Page 6 - Ms. Bilbo
+..
+. . .
+Again, on behalf of the FDA, I thank you for the opportunity to comment on the strategic plan;
+we look forward to titure interactions with the USP and the Committee of Revision.
+Sincerely,
+m5c%.@qY
+Bernard Schwetz, D.V.M., Ph.D.
+Acting Deputy Commissioner
+of Food and Drugs
+.

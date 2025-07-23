@@ -1,0 +1,101 @@
+Quasi-Brillouin zones and s-p band dispersion observed
+in photoemission from the 2fold surface of decagonal AlNiCo
+E.Rotenberg1, W.Theis2, K.Franke2, K.Horn3, P.Gille4
+1 Advanced Light Source, Lawrence Berkeley Lab, Berkeley CA 94720, USA
+2 Fachbereich Physik, Freie Universität Berlin, D-14195 Berlin, Germany
+3 Fritz-Haber-Institut der Max-Planck-Gesellschaft, D-14195 Berlin, Germany
+4 Fachbereich Kristallographie der Leopold-Maximilians-Universität, D-80000 München, Germany
+In spite of considerable progress in the understanding of the structural properties of quasi-
+crystalline alloys, an explanation of their fascinating physical properties in terms of the nature of
+their electronic states remains elusive1. The conventional picture of Bloch waves, so successful
+in interpreting the properties of regular crystals, is obviously problematic since the basis of
+Bloch wave behavior, i.e. translational symmetry, is absent in quasicrystals. Hence, cluster-like
+localized states have been put forward in theoretical treatments, in analogy to the cluster concept
+of the quasicrystal geometric structure. We have recently shown that signatures of band-like
+states are observed in decagonal AlNiCo quasicrystals by means of photoemission from the
+tenfold surface2. The observation of band-like states, which exhibit a free-electron like dispersion
+with the parallel and normal component of the electron wave vector k|| and k⊥, can be understood
+within a picture of quasi-Brillouin zones in which only those reciprocal lattice vectors with a
+large structure factor associated act as centers for higher-order Brillouin zones3. Here we show
+that this concept provides a consistent description of the electronic states along both the periodic
+and quasiperiodic directions of decagonal AlNiCo. Planes of atoms are stacked periodically
+along the tenfold axis, while within the planes the atoms are ordered quasiperiodically; this is
+sketched schematically in the top left side of Figure 1. Normal to the tenfold axis are two
+inequivalent 2-fold symmetric directions (named "P" and "E" in the inset of Figure 1), and our
+photoemission experiments were performed on these two, which are represented by arrows
+passing through the planes and vertices of the fictitious decagon in the Figure; they form an
+angle of 18o with one another. All data were recorded on beamline 7.0.1, and were recorded by
+rotating the sample in the polar and
+azimuthal directions with analyzer and light
+incidence fixed, with subsequent
+symmetrization; the azimuthal range was
+large enough to avoid artefacts from the
+symmetrization process. The images were
+constructed by subtraction of a polynomial
+background to enhance the weak features in
+the s-p band region.
+The concept of quasi-Brillouin zones is
+based on the relation between the diffraction
+pattern and the influence of the dominant
+Bragg planes on valence electron dynamics
+in the quasicrystal. Quasicrystals possess
+diffraction patterns characterized by
+(countably infinite) sharp spots, with a
+hierarchy of decreasing intensity. This
+suggests that one may, to a first
+approximation, take only the location of the
+Figure 1: Distribution of
+photoelectron intensity
+from two inequivalent 2-
+fold surfaces of AlNiCo at
+a binding energy of 6 eV
+below EF.  The horizontal
+direction is the quasi-
+periodic and the vertical
+the periodic direction. The
+inset shows a schematic
+diagram of the symmetry
+axes in d-AlNiCo
+most intense spots in reciprocal space as centers of higher order Brillouin zones. If we consider
+an s-p band with a free-electron-like dispersion, we expect spherical constant energy surfaces in
+k-space. By sampling the intensity distribution at a specific binding energy below the Fermi level
+EF, as a function of parallel wave vector k||
+x and k||
+y, (in terms of polar and azimuthal angle of
+electron emission), we expect ring-like features from the cut through these spherical surfaces.
+Such rings, centered at specific points in k||-space, are in fact observed (Fig. 1). They arise from
+s-p-like states in the AlNiCo valence band, dispersing in a parabolic manner. The top image
+(from the "E" surface) shows two rings on either side of the center (k||
+x ,k||
+y)=(0,0), while the
+bottom (from "P") has one ring centered on (0,0) and two rings on either side. This demonstrates
+that bulk states are sampled, since the rotation of the bulk direction exactly corresponds to the
+displacement of the ring structures in the k-space images.
+The above analogy between the diffraction and quasi-Brillouin zones can in fact be made by
+directly comparing our electron diffraction image from the "P" surface and the corresponding k||-
+space distribution of s-p state intensity in Figure 2. The low energy diffraction (LEED) pattern
+shows a rhombic arrangement of intense spots, as shown by the white lines; a similar
+arrangement connects the centers of the ring patterns in the photoemission image. The fact that
+the rings in the horizontal plane are strongest, while those centered around the top and bottom
+corner are weaker may be related to the photoemission transition matrix element. The image
+actually contains more detailed information which goes beyond the simple interpretation in terms
+of s-p states which disperse in a parabolic fashion; note, for example, that the rings seem to
+overlap in the center of the k|| space image, and that there are secondary rings above and below
+the strongest features. The energy which is sampled here is already close to the onset of the Co
+and Ni d-band region, where a more complex dispersion is expected.
+Figure 2: a.) LEED pattern of a twofold surface of d-AlNiCo at 100
+eV kinetic energy. B.) Photoemission intensity map from d-AlNiCo at
+a binding energy of 4.5 eV below EF, recorded at a photon energy of
+99 eV. The rhombic pattern connecting the prominent LEED
+diffraction spots and the centers of the rings in the photoemision
+k||, quasiperiodic
+k||, periodic
+References
+1. "Physical Properties of Quasicrystals", ed. Z.M.Stadnik, Springer Series in Solid State
+Sciences 126, (1999).
+2. E.Rotenberg, W.Theis, K.Horn, P.Gille, Nature 406, 602(2000)
+3. K.Niizeki, T.Akamatsu, J.Phys.Cond.Mat. 2, 2759(1990)
+This work was supported by the Director, Office of Science, Office of Basic Energy Sciences, of the U.S.
+Department of Energy under Contract No. DE-AC03-76SF00098, and Deutsche Forschungsgemeinschaft.
+Principal investigator: Eli Rotenberg, Advanced Light Source, E.O. Lawrence Berkeley National Laboratory. Email:
+erotenberg@lbl.gov. Telephone: 510-486-5975.

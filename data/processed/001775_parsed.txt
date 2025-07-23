@@ -1,0 +1,824 @@
+1
+Personal Exposure To Environmental 
+Tobacco Smoke (ETS) in a 
+Demographically Representative Subject 
+Population
+Roger A. Jenkins, Michael P. Maskarinec, 
+John E. Caton, Richard W. Counts, Bruce A. 
+Tomkins, and Ralph H. Ilgner
+Chemical and Analytical Sciences Division
+Computer Science and Mathematics Division
+Oak Ridge National Laboratory
+Oak Ridge, TN  37831-6120
+Presented at the International Society on Exposure Analysis Conference, 
+Monterey, CA October 24 – 27, 2000
+2
+Acknowledgment
+Research sponsored by the Center for Indoor Air Research
+under contract No. ERD-88-812 with the Oak Ridge National Laboratory,
+managed by UT-Battelle, LLC. for the 
+US. Department of Energy, under contract DE-AC05-00OR22725.
+Special Contributions:
+Keith Phillips
+Mark Bentley
+Covance, UK
+Pat Amick
+Amick Research
+3
+Study Objective and Design:
+Study Objective and Design:
+Determination of 
+Determination of Personal
+Personal Exposure to 
+Exposure to 
+ETS
+ETS
+O To determine the extent to which a demographically 
+representative study population will be exposed to ETS 
+differently than one selected primarily through random calling
+O Target 60 non-smokers in each of four cells.
+O Each subject wears a sampling pump at their workplace (8 
+hours) and “away from work” (16 hours).
+¾ Away-from-work includes commuting, shopping, dining, 
+home, and sleeping.
+O Particle and gas phase ETS components collected.
+O Smoking status assessed using salivary cotinine.
+4
+Recruiting goals:
+Recruiting goals:
+To approach 1990 Census information for Knox 
+To approach 1990 Census information for Knox 
+County, TN (Knoxville) with respect to:
+County, TN (Knoxville) with respect to:
+O Age distribution
+O Income distribution
+O Gender
+O Race
+O Educational attainment
+O Rural/urban mix
+O Job title
+5
+Participant Inclusion Criteria
+Participant Inclusion Criteria
+O Must live and work in Knox County, TN
+O Older than 18 years of age
+O No tobacco use within the last 6 months (includes 
+prescription use of patch or gum)
+O Work at least 35 hours per week outside the home.
+O Avoid selected professions to exclude overly inquisitive 
+participants or those with an interest in the outcome.
+O No membership in smoking related public interest groups.  
+(Either side of the issue.)
+6
+Subject Recruiting Methods
+Subject Recruiting Methods
+O Newspaper advertisements
+O Businesses with target populations
+O Announcement on public bulletin boards
+O Announcement in public schools
+O Personal contacts
+O Stratified random calling
+7
+Task Responsibilities
+Task Responsibilities
+O Oak Ridge National Laboratory
+– Overall study design and oversight
+– Field sampling operations and logistics
+– Data integration, interpretation, and reporting
+– Air sample analysis
+O Tombras Group/Amick Research
+– Questionnaire restructure from 16 Cities
+– Field recruitment of subjects 
+– Assistance with field operations
+– Coding of subject demographic data
+O Covance Laboratories (UK).
+– Salivary cotinine and 3-OH cotinine analyses
+8
+ETS Components Measured
+ETS Components Measured
+ORNL  Demographically Representative Exposure Study
+X ETS Particle Phase
+X Respirable suspended particulate matter (RSP)
+X UV-absorbing particulate matter (UVPM)
+X Fluorescing particulate matter (FPM)
+X Solanesol (Sol-PM or ETS-RSP)
+X ETS Vapor Phase
+X 3-ethenyl pyridine
+X Nicotine
+X Myosmine
+X Saliva
+X Cotinine
+X 3-OH Cotinine
+9
+Sampling Equipment
+Sampling Equipment
+10
+Sample Collection in the Workplace
+Sample Collection in the Workplace
+Sampling Head
+Sampling Pump
+11
+Study Design:  2 x 2 Cell 
+Study Design:  2 x 2 Cell 
+Structure
+Structure
+Smoking
+Workplace
+Non-Smoking
+Workplace
+Smoking Home
+Cell 1
+Cell 2
+Non-Smoking
+Home
+Cell 3
+Cell 4
+12
+Estimated Misclassification Rates of 
+Estimated Misclassification Rates of 
+Subjects Claiming to be 
+Subjects Claiming to be Never
+Never-Smokers
+Smokers
+All Subjects Recruited on Basis of Non
+All Subjects Recruited on Basis of Non-Smoking Status
+Smoking Status
+Salivary
+Cotinine Level,
+ng/mL
+Females
+Above Cut-off
+Point
+Female
+Misclassification
+Rate, %
+Males
+Above
+Cut-off
+Point
+Male
+Misclassification
+Rate, %
+Overall
+Misclassification
+Rate, %
+Mean >106
+6
+14.3
+2
+4.4
+9.1
+Mean >35
+8
+19.0
+2
+4.4
+11.4
+Mean > 15
+10
+23.8
+3
+6.6
+14.8
+Overall Simple Misclassification Rate:  13/277, or 4.7%
+13
+Distribution of 24
+Distribution of 24-hour TWA Nicotine 
+hour TWA Nicotine 
+Levels
+Levels
+Subject Segregation by Self
+Subject Segregation by Self-Reported Home and Workplace Smoking
+Reported Home and Workplace Smoking
+Status  Confirmed by Diary Observations
+Status  Confirmed by Diary Observations
+(All Subjects with Avg.
+(All Subjects with Avg. Cotinine
+Cotinine <15
+<15 ng
+ng/mL
+mL)
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0.001
+0.01
+0.1
+1
+10
+100
+24 hr TWA Nicotine, ug/m3
+Percent Subject Distribution
+Cell 1
+Cell 2
+Cell 3
+Cell 4
+14
+Concentrations of  Selected ETS Markers:
+Concentrations of  Selected ETS Markers:
+Confirmed Smoking/Non
+Confirmed Smoking/Non-Smoking Locations
+Smoking Locations
+Median
+Median 24
+24-hr TWA Levels,
+hr TWA Levels, ug
+ug/m
+/m3
+0
+5
+10
+15
+20
+25
+24 hr TWA Level, ug/m3
+Smkg
+Home/Smkg
+Work
+Smkg Home/NS
+Work
+NS Home/Smkg
+Work
+NS Home/NS
+Work
+3-EP
+Nicotine
+RSP/10
+FPM
+Sol-PM
+15
+Concentrations of  Selected ETS Markers:
+Concentrations of  Selected ETS Markers:
+Confirmed Smoking/Non
+Confirmed Smoking/Non-Smoking Locations
+Smoking Locations
+95th Percentile
+95th Percentile 24
+24-hr TWA Levels,
+hr TWA Levels, ug
+ug/m
+/m3
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+24 hr TWA Level, ug/m3
+Smkg
+Home/Smkg
+Work
+Smkg Home/NS
+Work
+NS Home/Smkg
+Work
+NS Home/NS
+Work
+3-EP
+Nicotine
+RSP/10
+FPM/10
+Sol-PM/10
+16
+Median
+Median ETS Exposures* in Environments 
+ETS Exposures* in Environments 
+Where Smoking is Unrestricted
+Where Smoking is Unrestricted
+Exposure = Concentration x Time
+Exposure = Concentration x Time
+0
+10
+20
+30
+40
+50
+Exposure, ug-hr/m3
+3-EP
+Nicotine
+FPM/10
+Sol-PM/10
+Home (n  = 52)
+Workplace (n = 39)
+*  Smoking confirmed by diary reports
+17
+95th Percentile
+95th Percentile ETS Exposures* in 
+ETS Exposures* in 
+Environments Where Smoking is 
+Environments Where Smoking is 
+Unrestricted
+Unrestricted
+Exposure = Concentration x Time
+Exposure = Concentration x Time
+0
+50
+100
+150
+200
+Exposure, ug-hr/m3
+3-EP
+Nicotine
+FPM/10
+Sol-
+PM/10
+Home (n  = 52)
+Workplace (n = 39)
+*  Smoking confirmed by diary reports
+18
+Median
+Median Away
+Away-from
+from-Work ETS Exposures* in 
+Work ETS Exposures* in 
+Environments Where Smoking is Unrestricted
+Environments Where Smoking is Unrestricted
+This Study vs. “16 Cities”
+This Study vs. “16 Cities”
+Exposure = Concentration x Time
+Exposure = Concentration x Time
+0
+10
+20
+30
+40
+50
+Exposure, ug-hr/m3
+3-EP
+Nicotine
+FPM/10
+Sol-PM/10
+Demographic
+Representative
+16 Cities
+Note large difference
+in ETS-specific particles
+19
+Comparison of Median RSP Fraction Attributable to 
+Comparison of Median RSP Fraction Attributable to 
+Environmental Tobacco Smoke
+Environmental Tobacco Smoke
+This Study 
+This Study vs 
+vs “16 Cities”
+“16 Cities”
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Percent of RSP 
+Attributable to ETS
+SH/SW
+SH/NSW
+NSH/SW
+NSH/NSW
+This Study
+16 Cities
+20
+A Much Larger Fraction of Subject Population Had 
+A Much Larger Fraction of Subject Population Had 
+Discernable Levels of ETS
+Discernable Levels of ETS-RSP in This Study
+RSP in This Study
+16 hour Away from Work Levels of Sol
+16 hour Away from Work Levels of Sol-PM for Subjects with Average 
+PM for Subjects with Average 
+Cotinine 
+Cotinine < 15 
+< 15 ng
+ng/mL
+mL
+0
+20
+40
+60
+80
+100
+0.01
+0.1
+1
+10
+100
+1000
+ETS-RSP (Sol-PM), ug/m3
+Cumulative Subject 
+Distribution, %
+16 Cities
+This Study
+Data points below
+solanesol LOD
+21
+We 
+We Speculate
+Speculate:  Opaque Filter Holders 
+:  Opaque Filter Holders 
+May Mitigate Post
+May Mitigate Post-Collection Degradation 
+Collection Degradation 
+of 
+of Solanesol
+Solanesol
+Filter Holder
+Cyclone
+Separator
+XAD-4 Vapor
+Collection 
+Cartridge
+Clear plastic filter holder 
+used in 16 Cities Study
+Opaque plastic filter holder 
+used in This Study
+22
+16 Hour Personal Concentrations: RSP minus ETS
+16 Hour Personal Concentrations: RSP minus ETS-RSP
+RSP
+Does ETS
+Does ETS-RSP Account for all the Differences between Smoking and 
+RSP Account for all the Differences between Smoking and 
+Non
+Non-Smoking Home Environments?
+Smoking Home Environments?
+0
+20
+40
+60
+80
+100
+120
+0
+50
+100
+150
+200
+16 hr RSP - ETS RSP, ug/m3
+Subject Cumulative 
+Distribution, %
+Confrmd Smkg
+Homes
+Confirmed
+Nonsmoking
+Homes
+23
+Comparison of Salivary
+Comparison of Salivary Cotinine 
+Cotinine 
+Levels and Nicotine Exposure
+Levels and Nicotine Exposure
+Cell Classification by Screening Questionnaire 
+Cell Classification by Screening Questionnaire 
+and Diary Observations
+and Diary Observations
+Cell No.
+Away-from-
+Work
+Environment
+Work
+Environment
+No. of Participants
+Median
+Nicotine, 24-hr
+TWA, ug/m3
+Median Cotinine,
+ng/mL
+1
+S
+S
+27
+2.25
+0.57
+2
+S
+NS
+22
+1.30
+0.66
+3
+NS
+S
+53
+0.36
+0.58
+4
+NS
+NS
+44
+0.05
+0.23
+24
+Average Salivary
+Average Salivary Cotinine
+Cotinine Level
+Level
+as a Function of Nicotine Exposure
+as a Function of Nicotine Exposure
+All Subjects with Both Markers above LOQ
+All Subjects with Both Markers above LOQ
+Nicotine:  0.063
+Nicotine:  0.063 ug
+ug/m
+/m3; Cotinine
+Cotinine: 0.10 
+: 0.10 ng
+ng/mL
+mL
+0
+1
+2
+3
+4
+5
+6
+7
+8
+0
+5
+10
+15
+20
+24-hr TWA Nicotine, ug/m^3
+Average Salivary Cotinine, ng/mL
+R2 = 0.17 
+with one point 
+removed
+25
+Is 
+Is Benowitz 
+Benowitz (1996) Model of Estimated Nicotine 
+(1996) Model of Estimated Nicotine 
+Exposure Based on Serum or Saliva
+Exposure Based on Serum or Saliva Cotinine
+Cotinine
+Confirmed by this Data Set?
+Confirmed by this Data Set?
+1 ng/mL salivary cotinine equivalent to 64 ug of nicotine intake?
+0.1
+1
+10
+100
+1000
+0.1
+1
+10
+100
+1000
+10000
+Absorbed Potential Inhaled Quantity of Nicotine*
+Ratio:  Estimated Systemic Dose to 
+Absorbed PIQ
+Ideal correspondence between 
+data and model would 
+yield ratio of 1.0
+Median ratio: 5.3
+* Absorbed estimated at 71% of inhaled dose.
+26
+Comparison of Knoxville Data:
+Comparison of Knoxville Data:
+16 Cities vs. This Study
+16 Cities vs. This Study
+Median Cell 1 24
+Median Cell 1 24-hr TWA Concentrations
+hr TWA Concentrations
+0
+1
+2
+3
+4
+5
+6
+7
+24-hr TWA Concentration, ug/m^3
+Nicotine
+3-EP
+RSP/10 FPM/10
+Sol-
+PM/10
+DemoRep Study
+Knoxville:  16 Cities Study
+27
+Comparison of Knoxville Data:
+Comparison of Knoxville Data:
+16 Cities vs. This Study
+16 Cities vs. This Study
+Cell 3 Median 24
+Cell 3 Median 24-hr TWA Concentrations
+hr TWA Concentrations
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+24-hr TWA Concentration, ug/m^3
+Nicotine
+3-EP
+RSP/10 FPM/10
+Sol-
+PM/10
+DemoRep Study
+Knoxville:  16 Cities
+Study
+28
+Observations and Conclusions
+Observations and Conclusions
+O Recruiting subjects for exposure studies to match 
+population demographics can be challenging, but CAN be 
+done.
+O The perception and reality of ETS exposure is frequently 
+incongruent: reporting that one works in a smoking 
+workplace and actually seeing smoking products is two 
+different things.
+O There exist general trends of more ETS exposure with 
+increasing time spent around smokers.
+O “Away-from-work” (eg. Home) appears even more 
+dominant an exposure venue than in the 16 Cities Study.
+29
+Observations and Conclusions: 
+Observations and Conclusions: 
+continued
+continued
+O Estimated misclassification rates for never-smokers appear 
+to be much higher than in 16 Cities Study.
+O The fraction of RSP attributable to ETS appears to be 
+substantially greater than that previously observed.
+O Group-wise salivary cotinine appears to be less well 
+correlated with nicotine exposure than for 16 Cities Study.
+O This data set not supportive of rule of thumb model for 
+exposure extrapolation from cotinine levels.
+O Direct comparisons of TWA ETS levels between City #1 
+(Knoxville) in 16 Cities Study with this study are mixed.
+30
+Demographic Data
+Demographic Data
+Behind this slide
+Behind this slide
+31
+Income Distribution
+Income Distribution
+0%
+5%
+10%
+15%
+20%
+25%
+    <$10K
+    $10K-$20K 
+    $20K-$30K
+    $30K-$40K
+    $40K-$50K
+    $50K-$75K
+    $75K-$100K
+    >$100K
+Study Population
+Knox County
+32
+Educational Attainment 
+Educational Attainment 
+Distribution
+Distribution
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+    Not High
+School
+Graduate
+    High
+School
+Graduate
+    Some
+College
+    College
+Graduate
+Study Population
+Knox County
+33
+Age Distribution
+Age Distribution
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+    18-24
+    25-44
+    45-64
+    65 & older
+Study Population
+Knox County
+34
+Previous Smoking Status 
+Previous Smoking Status 
+Distribution
+Distribution
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+    Former Smoker
+    Never Smoker
+Study Population
+US Population
+35
+Racial Distribution
+Racial Distribution
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+    White
+    Black
+    Other
+Hispanic Origin
+Study Population
+Knox County
+36
+Occupational Category 
+Occupational Category 
+Distribution
+Distribution
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+Mgmt & Prof
+Tech, Sales, & Ad Supp
+    Service
+    Production & Crafts
+Ops, Labrs, & Fabs
+    Other
+Study Population
+Knox County
+37
+Gender and Urban/Rural 
+Gender and Urban/Rural 
+Distributions
+Distributions
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+    Urban
+    Rural
+Study
+Population
+Knox County
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+    Male
+    Female
+Study
+Population
+Knox County

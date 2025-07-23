@@ -1,0 +1,1429 @@
+Toulouse Aeronautical Test Centre (CEAT)
+« Fire Safety Department »
+FIRE BEHAVIOUR OF STRUCTURAL 
+COMPOSITE MATERIALS
+Serge LE NEVE
+E-mail : Serge.le-neve@dga.defense.gouv.fr
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°2 / 48
+MINISTÈRE DE LA DÉFENSE
+DGAC
+DGAC
+CEAT
+CEAT
+AIRBUS
+AIRBUS
+FIRE BEHAVIOUR OF STRUCTURAL 
+COMPOSITE MATERIALS
+Î Development of Hidden Fire Source
+Development of Hidden Fire Source
+Î Burnthrough
+Burnthrough, Smoke & Toxicity of structural composite materials 
+, Smoke & Toxicity of structural composite materials 
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°3 / 48
+MINISTÈRE DE LA DÉFENSE
+ÎReminder of the full test program
+Reminder of the full test program
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°4 / 48
+MINISTÈRE DE LA DÉFENSE
+ÎThe aircraft manufacturer are required to demonstrate that polymer 
+structural composites provide an equivalent safety level to the current 
+material (aluminium alloy) 
+Increase in the use of composite materials in new aircraft 
+programs (structural applications and fuselages)
+ The use of composite structures has been increased because of the advantages 
+composites offer over metal
+ Boeing 787 or Airbus 350 will 
+have about 50 % of the structural 
+weight including wings and fuselage
+ Currently, there is no fire requirement on composite materials used outside the cabin, 
+cargo compartment and fire zones
+FIRE BEHAVIOUR OF STRUCTURAL 
+COMPOSITE MATERIALS
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°5 / 48
+MINISTÈRE DE LA DÉFENSE
+MANY TESTS HAVE BEEN DEVELOPPED FOR FIRE SAFETY 
+REQUIREMENTS 
+CABINE LAYOUT
+HIDDEN AREA
+CARGO COMPARTMENTS
+FIRE AREAS or POWERPLANT INSTALLATIONS
+works will allow to determine if the current aeronautical fire tests are 
+sufficient to assess the fire behaviour of structural composite materials
+FIRE BEHAVIOUR OF STRUCTURAL 
+COMPOSITE MATERIALS
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°6 / 48
+MINISTÈRE DE LA DÉFENSE
+FIRE BEHAVIOUR OF STRUCTURAL 
+COMPOSITE MATERIALS
+In-flight thermal damaging
+Post-crash fire effects
+Hidden fire damaging 
+Electric arc effects
+Check the residual mechanical 
+properties
+Burnthrough behaviour 
+Environmental effects on cabin 
+side (smoke / toxicity / heat release)
+TEST PROGRAM 
+To assess the fire behaviour of structural composite materials faced with the following threats :
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°7 / 48
+MINISTÈRE DE LA DÉFENSE
+FIRE BEHAVIOUR OF STRUCTURAL 
+COMPOSITE MATERIALS
+To define or adapt
+various specific test means & procedures
+FIRE TEST MEANS TO BE DEVELOPED
+Hidden Fire source 
+Hidden Fire source (development of the test 
+(development of the test 
+mean in progress
+mean in progress / fire scenario to be defined
+/ fire scenario to be defined)
+Burnthrough smoke box test (
+Burnthrough smoke box test (in progress
+in progress)
+Under load fire test (
+Under load fire test (mean test and method to be 
+mean test and method to be 
+defined
+defined)
+Electric arc effects (method to be defined
+Electric arc effects (method to be defined)
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°8 / 48
+MINISTÈRE DE LA DÉFENSE
+FIRE BEHAVIOUR OF STRUCTURAL 
+COMPOSITE MATERIALS
+TESTS
+Bunsen burner test (FAR 25.853)
+Bunsen burner test (FAR 25.853)
+OSU
+OSU test chamber (Heat Release) (FAR 25.853)
+test chamber (Heat Release) (FAR 25.853)
+NBS
+NBS test chamber (Smoke / Toxicity) (FAR 25.853 / 
+test chamber (Smoke / Toxicity) (FAR 25.853 / 
+ABD0031)
+ABD0031)
+Cone calorimeter (7,5 & 10 W/cm
+Cone calorimeter (7,5 & 10 W/cm²)
+Following the development of the new test means & test methods, all the following 
+tests will be performed on each kind of composite materials
+Exposure to the hidden fire source 
+Exposure to the hidden fire source 
++ 
++ NDI & mechanical tests
+NDI & mechanical tests
+Under load fire tests 
+Under load fire tests (hidden fire source)
+(hidden fire source)
+Burnthrough
+Burnthrough smoke box tests
+smoke box tests
+Electrical arc effect
+Electrical arc effect
+Standard tests
+New tests
+Comparison of all the test results will be made to determine if the current tests are 
+relevant to characterize the fire behaviour of composite materials
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°9 / 48
+MINISTÈRE DE LA DÉFENSE
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+BURNTHROUGH
+SMOKE & TOXICITY
+of
+STRUCTURAL COMPOSITE MATERIALS
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°10 / 48
+MINISTÈRE DE LA DÉFENSE
+A small scale test was developed by the CEAT in 1996 to assess the 
+fire behaviour of thermal insulation blankets.
+Many tests were carried out on assemblies including aluminium 
+skin & insulation blankets which gave a good repeatability on 
+burnthrough time, smoke density and toxicity.
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+Burnthrough / Smoke box
+z
+In 2002, this test device was widely used to assess the fire 
+behaviour of GLARE (Glass-Epoxy / Aluminium composite) for 
+fuselage skin (partially used on A380).
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°11 / 48
+MINISTÈRE DE LA DÉFENSE
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+z
+Smoke box size : 1,2m3
+z
+Burner configuration in accordance with the 
+burnthrough test requirements (App F Part VI)
+z
+Photometer system (= NBS test chamber)
+z
+FTIR gas analyzer & gas sampling (=> IC or 
+colorimetric analysis)
+Burnthrough / Smoke box
+z
+Test sample is fitted on the outer side of the 
+specimen holder to avoid that the released smoke 
+from the edges of the sample penetrates inside the 
+smoke box
+z
+Test samples : Smoke box window = 500 mm x 500 mm
+(tests sample : 600 mm x 600 mm)
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°12 / 48
+MINISTÈRE DE LA DÉFENSE
+Î Various resins, fibbers, thicknesses, with & without honeycomb
+Î Tests will be carried out on assemblies “composite / insulation blanket / wall panel”
+¾ Various materials will be tested
+civil / military applications for airplane or helicopter
+Materials / configurations to be tested
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°13 / 48
+MINISTÈRE DE LA DÉFENSE
+Species to be analysed
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+Toxicity
+Gas Component
+Carbon
+monoxide/dioxide
+CO / CO2
+Oxides of nitrogen
+NOx (NO + NO2)
+Sulphur dioxide
+SO2
+Hydrogen fluoride
+HF
+Hydrogen bromide
+HBr
+Hydrogen chloride
+HCl
+Hydrogen cyanide
+HCN
+Hydrogen sulphide
+H2S
+Ammonia
+NH3
+Phenol
+C6H5OH
+Choice of the species results from :
+• effect on Toxicity Index
+(recent works from a NATO working group on 
+standardization of the fire test methods for 
+naval ships)
+• Our capabilities …
+FTIR
+FTIR
+FTIR
+FTIR
+FTIR
+FTIR
+?
+?
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°14 / 48
+MINISTÈRE DE LA DÉFENSE
+Tests on aluminium plates
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+Aluminum Burnthrough
+(Burnthrough Smoke Box Test Chamber)
+0
+60
+120
+180
+0
+1
+2
+3
+4
+5
+6
+7
+Thickness (mm)
+Time (s)
+Preliminary tests
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°15 / 48
+MINISTÈRE DE LA DÉFENSE
+Composite materials / Test procedure
+Î
+Burner settings : Calibration in accordance with the burnthrough test requirements
+Î
+Test duration : 5mn
+Î
+Gas analysis : FTIR & sampling (90s 4 mn & 5 mn)
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+Preliminary tests
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°16 / 48
+MINISTÈRE DE LA DÉFENSE
+Preliminary  tests were carried out on various small specimens
+(window box : 400 mm x 250 mm)
+Î
+Composite : carbon - epoxy (M18-1/G939)+ NOMEX honeycomb
+Total thickness : 11.5 mm . (Resin 180)
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+Preliminary tests
+Inner face
+Outer face
+After test
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°17 / 48
+MINISTÈRE DE LA DÉFENSE
+Smoke Opacity
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+Preliminary tests
+BT Smoke box Test
+carbon - epoxy (M18-1/G939)+ NOMEX honeycomb   (window 400 mm x 250 mm)
+% Light Transmittance - 10/06/08   
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+30
+60
+90
+120
+150
+Time (s)
+Light Transmittance (%)
+Smoke release started at 40s
+The majority of the loss of visibility 
+happened before the 90s
+(But the gas concentration is higher than 
+in a real case)
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°18 / 48
+MINISTÈRE DE LA DÉFENSE
+Development tests were carried out on various large specimens 
+(window box : 500 mm x 500 mm)
+Î
+Composite : Glass Epoxy S8VE3 30/R367F / NOMEX Honeycomb
+(Resin 120)
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+Development tests
+Outer face – After test
+Inner face – After test
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°19 / 48
+MINISTÈRE DE LA DÉFENSE
+Smoke Opacity
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+Development tests 
+BT Smoke Box Test
+Composite : glass - epoxy S8VE3 30/R367F / NOMEX Honeycomb
+Smoke Release - 09/10/08
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+60
+120
+180
+240
+300
+Time (s)
+Light Transmittance (%)
+0
+0,5
+1
+1,5
+2
+2,5
+3
+3,5
+4
+4,5
+5
+Optical Density
+Smoke (%)
+DO
+Smoke release started at 1mn 40s
+No loss of visibility before the 90s
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°20 / 48
+MINISTÈRE DE LA DÉFENSE
+Î
+Composite : Carbon - Epoxy T300/914 - 16 plies - Thickness : 2,5 mm
+(Resin 180)
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+Development tests
+Outer face – After test
+Inner face – After test
+Inner face – After test
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°21 / 48
+MINISTÈRE DE LA DÉFENSE
+Smoke Opacity
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+Development tests 
+BT Smoke Box Test (Carbon - Epoxy  T300/914 - 16 plies) - Thickness : 2,5 mm
+Smoke release - 09/10/08
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+60
+120
+180
+240
+300
+360
+Time (s)
+Light Transmittance (%)
+0
+0,5
+1
+1,5
+2
+Optical Density
+Smoke (%)
+DO
+Smoke release started very early ~ 15 s
+But the total smoke release was not very high
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°22 / 48
+MINISTÈRE DE LA DÉFENSE
+Î
+Composite :
+Î
+Carbon - Epoxy  T300/914 - 16 plies - Thickness : 2,5 mm (Resin 180)
+Î
+Thermal acoustic insulation : (Microlite, Nextel + térul 18)
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+Development tests
+Before test
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°23 / 48
+MINISTÈRE DE LA DÉFENSE
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+Development tests
+After test
+Thermal insulation removed
+Inner side
+Outer side
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°24 / 48
+MINISTÈRE DE LA DÉFENSE
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+Development tests
+Smoke Opacity
+T300/914 + Thermal acoustic insulation (Microlite, Nextel + térul 18) - Smoke release - 14/10/08
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+30
+60
+90
+120
+150
+180
+Time (s)
+Light Transmittance %
+0
+0,5
+1
+1,5
+2
+2,5
+Optical Density
+Smoke release started early again ~ 20 s
+Total loss of visibility happened before the 90s
+(But the gas concentration is higher than in a real case)
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°25 / 48
+MINISTÈRE DE LA DÉFENSE
+FTIR analyses
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+HCN (acide cyanhydrique)
+NO + NO2 (vapeurs nitreuses)
+SO2 (anhydride sulfureux)
+H2S (dioxyde de soufre)
+CO (monoxyde de carbone)
+C02 (dioxyde de carbone)
+C6H5OH (phénol)
+HCHO (formaldhéyde)
+NH3 (ammoniac)
+CH4 (méthane)
+ppm
+M18-1/G929 + honeycomb
+glass epoxy + honeycomb
+T300/914 16 plies
+T300/914 + insulation
+FTIR analyses
+700
+1500
+1143
+1780
+972
+732
+2720
+33500
+0
+5000
+10000
+15000
+20000
+25000
+30000
+35000
+CO (monoxyde de carbone)
+C02 (dioxyde de carbone)
+ppm
+M18-1/G929 + honeycomb
+glass epoxy + honeycomb
+T300/914 16 plies
+T300/914 + insulation
+Gas sample analyses
+25
+5
+0
+600
+0
+0
+25
+100
+0
+100
+120
+20
+0
+700
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+HCN (acide cyanhydrique)
+NO + NO2 (vapeurs nitreuses)
+SO2 (anhydride sulfureux)
+H2S (dioxyde de soufre)
+CO (monoxyde de carbone)
+C02 (dioxyde de carbone)
+C6H5OH (phénol)
+HCHO (formaldhéyde)
+NH3 (ammoniac)
+CH4 (méthane)
+M18-1/G929 + honeycomb
+glass epoxy + honeycomb
+T300/914 16 plies
+T300/914 + insulation
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+Development tests
+few species are currently analysed by 
+FTIR 
+Some differences between FTIR & gas 
+sample analyses
+need to buy other standard gas mixtures
+need to improve the procedure of 
+measurement
+Gas sample analyses
+600
+3000
+1900
+6500
+120
+1000
+3000
+15000
+0
+5000
+10000
+15000
+20000
+25000
+30000
+35000
+CO (monoxyde de carbone)
+C02 (dioxyde de carbone)
+ppm
+M18-1/G929 + honeycomb
+glass epoxy + honeycomb
+T300/914 16 plies
+T300/914 + insulation
+More than 3000
+(Draeger tube saturated)
+Toxicity results
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°26 / 48
+MINISTÈRE DE LA DÉFENSE
+BT Smoke box Test
+carbon - epoxy (M18-1/G939)+ NOMEX honeycomb   (window 400 mm x 250 mm)
+Specific Optical Density - 10/06/08   
+0
+10
+20
+30
+0
+30
+60
+90
+120
+150
+Time (s)
+Specific Optical Density
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+Smoke Opacity : Comparison with NBS criteria 
+(Max Specific Density (Dm) = 200
+Due to the limitation of the photometric system and to the 
+scale factor, it will not be possible to compare the smoke 
+opacity with the NBS criteria (Specific Density < 200)
+Test
+Test Chamber Vol
+Light Path Lenght
+Dm at 0,5% of Light Transmittance
+Smoke Box
+Small Size
+400mm x 250mm
+1,2m3
+1m
+27,6
+Smoke Box
+Regular Size
+500mm x 500mm
+1,2m3
+1m
+11
+NBS Requirement
+200
+NBS
+Standard
+65mm x 65mm
+0,510m3
+0,914m
+300
+Exposed Area
+BT Smoke box Test
+carbon - epoxy (M18-1/G939)+ NOMEX honeycomb   (window 400 mm x 250 mm)
+% Light Transmittance - 10/06/08   
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+30
+60
+90
+120
+150
+Time (s)
+Light Transmittance (%)
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°27 / 48
+MINISTÈRE DE LA DÉFENSE
+Gas concentration in the CEAT smoke box is 25 more 
+than in the NBS test chamber
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+NBS test chamber :
+• Volume of the test chamber : VNBS = 0.510 m3
+• Exposed area of the test sample : SNBS = 0.00424 m²
+Burnthrough smoke box :
+Volume of the smoke box : VSB = 1.2 m3
+Exposed area of the test samples :
+• 400mm x 250mm : SSB = 0.1 m²
+• 500mm x 500mm : SSB = 0.25 m²
+Scale factors :
+k = (SNBS/SSB) x (VSB/VNBS)
+• small test sample : k = 1/10
+• regular test sample : k = 1/25
+NBS test chambre 
+ABD0031 
+requirements 
+(ppmm) 
+ 
+ 
+Corrected requirements ABD  
+Î Smoke Box (ppm) 
+ 
+  Small sample / Regular sample 
+1 000 
+CO 
+Carbone monoxyde 
+10 000 
+25 000 
+100 
+NOx 
+(NO+NO2)
+Oxides of nitrogen 
+1 000 
+2 500 
+100 
+SO2 
+Sulphur dioxide 
+1 000 
+2 500 
+100 
+HF 
+Hydrogen fluoride 
+1 000 
+2 500 
+ 
+HBr 
+Hydrogen bromide 
+ 
+ 
+150 
+HCl 
+Hydrogen chloride 
+1 500 
+3 750 
+150 
+HCN 
+Hydrogen cyanide 
+1 500 
+3 750 
+ 
+H2S 
+Hydrogen sulphide 
+ 
+ 
+ 
+NH3 
+Amonia 
+ 
+ 
+ 
+C6H5OH 
+Phenol 
+ 
+ 
+ 
+Smoke Toxicity : Comparison with NBS toxicity requirements 
+Scale Factors
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°28 / 48
+MINISTÈRE DE LA DÉFENSE
+Gas concentration in the CEAT smoke box is 1.36 more 
+than in the FAA test chamber
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+Burnthrough smoke box :
+Volume of the smoke box : VSB = 1.2 m3
+Exposed area of the regular test sample :
+•500mm x 500mm : SSB = 0.25 m²
+Smoke Toxicity : Comparison with FAA smoke box
+Scale Factor
+Ratio of Volume to Exposed area = 4.80
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°29 / 48
+MINISTÈRE DE LA DÉFENSE
+CONCLUSIONS & NEXT WORKS
+Not possible to easily compare the smoke densities from the BT smoke box test to 
+the acceptance criteria from the NBS test chamber
+Scale factor has been determined to compare the toxic gas concentrations from the 
+BT smoke box to the acceptance criteria from the NBS test chamber
+Scale factor has been determined to compare the toxic gas concentrations from the 
+CEAT BT smoke box and from the FAA BT smoke box
+Few toxic species are currently analyzed  (we need to buy other standard gas 
+mixtures)
+We need to perform more tests on various materials to compare the FTIR gas 
+analysis to the sampling gas analysis
+Burnthrough, Smoke & Toxicity of Structural Composite Materials
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°30 / 48
+MINISTÈRE DE LA DÉFENSE
+Hidden Fire Source
+DEVELOPMENT
+OF A REPEATABLE
+HIDDEN FIRE SOURCE
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°31 / 48
+MINISTÈRE DE LA DÉFENSE
+HIDDEN FIRE SOURCE
+Interlaminar Shear Strength (ILSS)
+Open Hole Compression (OHC)
+Unnotched Tension (UT)
+Unnotched Compression (UC)
+What’s the need ?
+4-point-bending test
+Clamped beam test
+¾ Under load  fire tests (to be defined)
+Fire damaged area
+Fire test sample
+Mechanical test specimens
+Hidden Fire Source
+¾
+Repeatable fire source simulating a hidden fire :
+¾
+To expose the various composite test samples to various scenarios before 
+mechanical tests
+¾
+To perform the under-load fire tests
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°32 / 48
+MINISTÈRE DE LA DÉFENSE
+Assuming that the FAA foam block fire source is representative of a declared hidden fire :
+¾
+Heat Flux Density / T° : The flame characteristics must be similar to the flame produced 
+by the FAA foam block
+¾
+Flame size : must be capable to produce an homogeneous damaged area compatible 
+with the mechanical test specimens to be removed (area ~ 150 mm X 300 mm)
+HIDDEN FIRE SOURCE
+SPECIFICATIONS
+Hidden Fire Source
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°33 / 48
+MINISTÈRE DE LA DÉFENSE
+Characterisation of the FAA foam block fire source
+T° at 9 inches from the foam top
+0
+100
+200
+300
+400
+500
+600
+700
+800
+0
+60
+120
+180
+240
+300
+360
+Temps (s)
+Température (°C)
+T° at 3 inches from the foam top
+0
+100
+200
+300
+400
+500
+600
+700
+800
+0
+60
+120
+180
+240
+300
+360
+Temps (s)
+Température (°C)
+Foam 16kg/m3 + Heptane 10ml - Foam top to HF meter : 3 inches
+ - 24/06/08
+0
+1
+2
+3
+4
+5
+6
+7
+0
+60
+120
+180
+240
+300
+360
+Temps (s)
+Flux (W/cm²)
+Heat fluxes at 9 inches from  the top / 4 inches from  the side 
+0
+1
+2
+3
+4
+5
+0
+60
+120
+180
+240
+300
+360
+Tem ps (s)
+Flux (W/cm²)
+Various distances from the 
+foam top to the plate were 
+tested :
+• 9 inches
+• 6 inches
+• 3 inches
+• 2 inches
+T° profile / 9 inches
+T° profile / 3 inches
+HF profile / 9 inches
+HF profile / 3 inches
+HF at 4 inches from the side
+Active time of burning : ~ 1mn
+Hidden Fire Source
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°34 / 48
+MINISTÈRE DE LA DÉFENSE
+Characterisation of the FAA foam block fire source
+Average T° vs Distance from foam top to plate
+0
+200
+400
+600
+800
+1000
+0
+2
+4
+6
+8
+10
+Inch
+°C
+max T° 
+Av. T for 30'
+Av. T for 60'
+Av. T for 90'
+Average Heat Flux vs Distance from foam top to plate
+0
+2
+4
+6
+8
+0
+2
+4
+6
+8
+10
+Inch
+W/cm²
+max Heat Flux
+Av. HF for 30'
+Av. HF for 60'
+Av. HF for 90'
+Av T°C
+d = 2 inches
+d = 3 inches
+d = 6 inches
+d = 9 inches
+30"
+697
+700
+588
+447
+60"
+621
+642
+492
+365
+90"
+494
+495
+375
+278
+Max :             805°C                  781°C
+Av HF (W/cm²) d = 2 inches
+d = 3 inches
+d = 6 inches
+d = 9 inches
+30"
+4,35
+5
+4,33
+1,60 to 3,90
+60"
+4,05
+4,75
+3,32
+0,65 to 2
+90"
+3,01
+3,44
+2,4
+0,60 to 1,5
+Max :             6,14 W/cm²
+6,84 W/cm²
+Fire source specifications :
+T° ~ 650 to 700 °C
+Heat Flux Density ~ 4 to 5 W/cm²
+Hidden Fire Source
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°35 / 48
+MINISTÈRE DE LA DÉFENSE
+ISO 2685 Gas Burner
+Characterisation of the ISO flame
+Heat flux Mapping (3 inches above the burner)
+(centre line (vertical impact position))
+Continious movement of the HF meter
+above the burner
+max : 10.3 W/cm²
+ISO setting of the burner is too energetic
+(7,17 W/cm² / 1150 °C)
+Heat Flux is not homogeneous (very thin and 
+high peak)
+Av. above the burner : 7.17 W/cm²
+Diameter = 152 mm
+Hidden Fire Source
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°36 / 48
+MINISTÈRE DE LA DÉFENSE
+ISO 2685 Gas Burner
+Lowest energetic flame
+Heat flux Maping (3 inches above the burner)
+The flame T° is too high (950 °C)
+The Heat Flux is not homogeneous
+Diameter = 152 mm
+Several settings were tested, the lowest energetic flame was :
+Hidden Fire Source
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°37 / 48
+MINISTÈRE DE LA DÉFENSE
+CEAT Hidden Fire Source
+Simple experimental gas burner made with 
+5 bored tubes
+Hidden Fire Source
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°38 / 48
+MINISTÈRE DE LA DÉFENSE
+Characterisation of the CEAT gas burner’s flame
+Heat Flux density
+T°
+Flame T° ~ 750 °C
+Heat Flux ~ 5,5 W/cm²
+Flame characteristics are homogeneous & 
+very close to the flame of the foam block 
+Hidden Fire Source
+CEAT Hidden Fire Source
+Distance of measurement : 6 inches
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°39 / 48
+MINISTÈRE DE LA DÉFENSE
+T300 / 914 Epoxy Carbon and T300J or HTA / 
+RTM6 Epoxy Carbon were used to compare the 
+damages generated by the 2 fire sources (Foam block 
+/ Gas burner)
+2024 Aluminium plate was used as reference to 
+determine the burnthrough time
+Hidden Fire Source
+CEAT Hidden Fire Source
+Surface exposed to the flame :
+150 x 400 mm
+Comparison of the damage tests : 
+Foam block / Gas burner
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°40 / 48
+MINISTÈRE DE LA DÉFENSE
+T° at 3 inches from the foam top
+0
+100
+200
+300
+400
+500
+600
+700
+800
+0
+60
+120
+180
+240
+300
+360
+Temps (s)
+Température (°C)
+Foam block test / d = 3 inches (exposure time : 7 mn (complete burning of the foam))
+Gas burner test / d = 6 inches (exposure time : 1 mn 30 s) /
+Hidden Fire Source
+CEAT Hidden Fire Source
+Comparison of the damage tests : 
+Foam block / Gas burner
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°41 / 48
+MINISTÈRE DE LA DÉFENSE
+Foam block tests (exposure time : 7 mn (complete burning of the foam)) d = 3 inches
+Gas burner tests (exposure time : 45 s to 1 mn 30 s) d = 6 inches
+Back side T° - foam block test - T300/914 - 24/09/08 
+0
+100
+200
+300
+0
+60
+120
+180
+240
+Temps (s)
+Température (°C)
+Back side T° - Foam block - T300/914 - 26/09/08 
+0
+50
+100
+150
+200
+250
+300
+0
+60
+120
+180
+240
+Temps (s)
+Température (°C)
+Back side T° - Gas burner test - 60 s - T300/914 - 26/09/08 
+0
+50
+100
+150
+200
+250
+300
+0
+60
+120
+180
+240
+Temps (s)
+Température (°C)
+Back side T° - Gas burner test - 1 mn 15 s - T300/914 - 26/09/08 
+0
+50
+100
+150
+200
+250
+300
+0
+60
+120
+180
+240
+Temps (s)
+Température (°C)
+Back side T° - Gas burner test - 1 mn 30s - T300/914 - 25/09/08 
+0
+50
+100
+150
+200
+250
+300
+0
+60
+120
+180
+240
+Temps (s)
+Température (°C)
+Back side T° - Gas burner test - 45 s - T300/914 - 26/09/08 
+0
+50
+100
+150
+200
+250
+300
+0
+60
+120
+180
+240
+Temps (s)
+Température (°C)
+For both fire sources :
+Back side T° ~ 250 / 300 °C (insulating effect of the delaminations)
+Profile rise T° are very similar until the first delaminations
+Gas burner tests : an after flame time (~ 20 s ) was observed
+45 s gas burner test shows the more similar profile of T°
+Hidden Fire Source
+CEAT Hidden Fire Source
+Comparison of the damage tests : 
+Foam block / Gas burner
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°42 / 48
+MINISTÈRE DE LA DÉFENSE
+Non Destructive Investigation
+(Visual & Ultrasonic Phased Array Analysis)
+Gas burner tests (exposure time : 45 s to 1 mn 30 s)
+Foam block tests (exposure time : 7 mn (complete burning of the foam))
+Test 1
+Test 2
+45 s
+60 s
+1 mn 15 s
+1 mn 30 s
+Hidden Fire Source
+CEAT Hidden Fire Source
+Foam block tests :
+• Destructive analyse showed more than 11 delaminated plies (composite 
+plate was constituted of 16 plies)
+CEAT hidden Fire Source tests :
+• 45s fire test is closer than the others to the Foam block test
+T300 / 914 Epoxy Carbon
+Comparison of the damage tests : 
+Foam block / Gas burner
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°43 / 48
+MINISTÈRE DE LA DÉFENSE
+Non Destructive Investigation
+Hidden Fire Source
+CEAT Hidden Fire Source
+Damages created by the foam block and the 
+hidden fire sources are rather similar
+The hidden fire source seems a little more 
+severe (black areas are totally delaminated)
+Duplication of the central image (maximum damage) of the foam block test 
+Foam block test
+CEAT Hidden Fire Source Test
+T300 / 914 Epoxy Carbon (2.5 mm)
+45s
+Comparison of the damage tests : 
+Foam block / Gas burner
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°44 / 48
+MINISTÈRE DE LA DÉFENSE
+Non Destructive Investigation
+Hidden Fire Source
+CEAT Hidden Fire Source
+HTA / RTM6 Epoxy Carbon (“Sergé 2/2” weaving) (3.6 mm)
+T300J / RTM6 Epoxy Carbon (“Satin 4” weaving) (3.6 mm)
+Tests on thicker materials confirm that :
+hidden fire source is a little more severe
+repeatability is acceptable
+P = 0.55 mm
+FOAM BLOCK
+FOAM BLOCK
+FOAM BLOCK
+Hidden Fire Source
+Hidden Fire Source
+Hidden Fire Source
+Comparison of the damage tests : 
+Foam block / Gas burner
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°45 / 48
+MINISTÈRE DE LA DÉFENSE
+Non Destructive Investigation
+Hidden Fire Source
+CEAT Hidden Fire Source
+Despite the differences shown by NDI, these curves show that the fire sources are probably quite similar. 
+Should be possible to do better by modifying the burner settings
+6281 Foam / 6284 gas (13/10/08)
+0
+20
+40
+60
+80
+100
+120
+0
+50
+100
+150
+200
+Time (s)
+Delta T (>160°C)
+Foam block test
+Hidden fire source
+6284 Foam  (06/10/08) / 6284 Gas (13/10/08)
+0
+20
+40
+60
+80
+100
+120
+0
+50
+100
+150
+200
+Time (s)
+Delta T (>160°C)
+foam block test
+hidden fire source test
+Back side T°
+(over 160°C)  
+45s test
+45s test
+Comparison of the damage tests : 
+Foam block / Gas burner
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°46 / 48
+MINISTÈRE DE LA DÉFENSE
+Gas burner
+Damaging test on 2024 aluminium
+Burnthrough time of a 2mm “2024 Aluminium plate”
+7 mn 26 s
+Back side T° - 2024 Aluminium plate - 2mm
+(distance from the burner : 6 inches) - 29/09/08 
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+550
+600
+650
+700
+0
+60
+120
+180
+240
+300
+360
+420
+480
+540
+600
+Temps (s)
+Température (°C)
+Burnthrough time : this fire source is probably very close to the 
+FAA fire source used on wind tunnel test (FAA burnthrough time :   
+9 to 10 mn (thickness 3.175 mm (1/4 inch)):
+• an estimation of the burnthrough time using our fire source on an 
+aluminum plate of this thickness is in the same range.
+Hidden Fire Source
+CEAT Hidden Fire Source
+2024 Aluminium – 2 mm
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°47 / 48
+MINISTÈRE DE LA DÉFENSE
+CONCLUSIONS
+The flame characteristics  (T° / Heat Flux) of the gas burner and the FAA foam block 
+fire sources are very close
+The damages generated on composite material (epoxy/carbon) by the CEAT’s hidden 
+fire source (exposure time : 45s (close to the duration of the active combustion of the foam block) and by 
+the foam block fire source are rather similar
+The hidden fire source seems a little more severe. (should be easily corrected by 
+modifications of the burner settings)
+Burnthrough of aluminum : The effect of the CEAT hidden Fire Source and the FAA 
+fire source used for the wind tunnel fire test (under static conditions) are similar 
+Hidden Fire Source
+SOON APPROVED
+FOR THE NEXT WORKS
+CEAT / Fire Safety Department
+IAMFTWorking Group / Atlantic City / October 08
+Diapositive N°48 / 48
+MINISTÈRE DE LA DÉFENSE
+NEXT WORKS
+9 To define various scenarios of exposure to fire
+(from 45s (ignition stage) to a duration to be determined simulating a declared hidden fire)
+9 To define the test procedures for the under load fire test
+9 To run the fabrication of various composite materials
+9 To run the fire tests and mechanical characterisations
+Hidden Fire Source
+Toulouse Aeronautical Test Centre (CEAT)
+« Fire Safety Department »
+FIRE BEHAVIOUR OF STRUCTURAL 
+COMPOSITE MATERIALS
+Serge LE NEVE
+E-mail : Serge.le-neve@dga.defense.gouv.fr

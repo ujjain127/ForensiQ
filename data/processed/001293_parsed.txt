@@ -1,0 +1,413 @@
+Report as of FY2007 for 2006MT110B: "Student fellowship:
+Sources of groundwater and subsurface water aquisition and
+utilization by conifers invading riparian communities in western 
+Montana"
+Publications
+Project 2006MT110B has resulted in no reported publications as of FY2007. 
+Report Follows
+ 
+ 
+ROOTING DISTRIBUTION OF TWO TREE SPECIES IN UPLAND AND 
+RIPARIAN AREAS IN WESTERN MONTANA 
+ 
+ 
+Final Report for 
+Water Research Fellowship 
+ 
+Erin Thais Riley, PhD Candidate 
+Clayton Marlow, Main Advisor 
+ 
+ 
+ 
+Project Synopsis 
+This current project is an effort to provide insight into a plant-soil interaction that may be 
+fundamental to the understanding of landscape scale effects of global climate change, 
+disrupted fire cycles, and stream flow. While it is believed larger trees are tapping into 
+deeper groundwater sources and smaller sized trees are using water in the upper 1-2 m of 
+the forest floor, it is possible that small Douglas-fir are capturing shallow ground water 
+before it can enter the subsurface flow path that recharges streams.  In contrast, small 
+aspen may be sharing deeper water sources with conspecific larger trees (Arno 1986). 
+Picture by Erin Thais Riley at Pony Canyon, January 26, 2007. 
+Identifying those variables that affect lateral runoff is key to understanding the water 
+budget and ultimately the affect of fire suppression and climate change on stream flow.  
+This research will help management agencies to adjust their management objectives for 
+vegetation management under the constantly changing pressures of climate change, fire 
+suppression, and grazing.  
+ 
+The Beaverhead-Deerlodge forest south of Boulder, MT is dominated by lodgepole pine 
+and Douglas-fir in the uplands with Quaking aspen in the riparian systems. Following a 
+century of aggressive wildfire suppression, local ranchers and government officials are 
+seeing a decline in stream flow that wildlife and livestock use for water sources.  The 
+degree of interaction between climate change and disrupted fire cycles and stream flow 
+has become a focal point for forest, range, and landscape ecological research. Among the 
+management agencies interested in this work is Bureau of Land Management, Lewistown 
+Field Office. A fire ecologist at this field station acknowledges immediate benefits from 
+this research.     
+ 
+Vegetation management requires knowing which species and age class to manipulate to 
+achieve landscape goals. The goal of this project is to determine if Douglas-fir, aspen, 
+and herbaceous communities extract water from the same or different depths within the 
+top 1-2 m of the soil column. To achieve this goal we will: 1) ascertain rooting zone 
+within the upper soil column in Douglas-fir, Aspen and grass/forb communities; 2) 
+confirm rooting depth stratification by using a DNA fingerprinting tool (AFLP’s) to 
+match roots from a specific depth to their counterpart; 3) compare the impact of the forb 
+and grass community on soil water decline in non-forested areas. The hypotheses of this 
+study are as follows: 1) smaller sized Douglas-fir and aspen use water within the upper 
+profile where as larger sized Douglas-fir use deeper water sources and 2) grasses and 
+forbs have less affect on soil water status than small-size classes of trees.  
+ 
+Douglas-fir size classes 1,2 vs. 3 are significantly different (P=0.07). Conversely, aspen 
+was not showing significance among different size classes with n=15. The initial results 
+are based on four sites, two were Douglas-fir and two were aspen out of the 24 total sites.  
+Research Approach: 
+This research project will aim to achieve the goal of determining if Douglas-fir, aspen, 
+and herbaceous communities extract water from the same or different depths within the 
+top 1-2 m of the soil column. Predawn water potentials (Ψpredawn) coupled with soil water 
+potentials (Ψsoil) extrapolated from soil water content (θ) measured with a neutron 
+moisture meter will give estimations about what depths Douglas-fir and Aspen are 
+acquiring their water from.  Measuring leaf conductance with a porometer will allow us 
+to see if the trees are water stressed.  AFLPs which is a DNA fingerprinting tool, will 
+allow us to definitively say if those tree roots are found at that depth in the soil.  
+Study Design: 
+Individual trees will be sampled for three seasons within 24 pre-selected sites represented 
+by four drainages. Samples will be collected during the months of April, May, June, July, 
+August, September and October. Each of the 24 sites have two Neutron Moisture Meter 
+tubes inserted to a 154 cm depth and soil water volume at 20 cm intervals will be 
+collected Monthly during the spring and fall and weekly during the summer months. One 
+of the Neutron Moisture Meter tubes is undisturbed and one has the entire vegetative 
+understory removed to account for water uptake by grasses and forbs.  At each site 12 
+trees will be selected, tagged, and classed into three size categories.  Class size one is 
+between 0 and 120 cm, class size two is between 120 and 240 cm and class three is any 
+tree above 240 cm.  Twelve trees at each site will be paired within 2 meters (Moore and 
+Owens 2006) of one another and sampled using the predawn water potential and 
+porometer on the sides as close to each other as possible to avoid environmental 
+variability that can occur from atmospheric, edaphic, topographic, and vegetation 
+variables (Wambolt 1973). To be sure roots are present at certain depths, DNA from 
+aboveground plant tissue such as leaves will be isolated and digest the DNA using 
+Amplified Fragment Length Polymorphism technique then matched to their roots. Soil 
+cores will be taken with a two inch circumference soil core to 154 cm depth or bedrock, 
+extracted and fine roots will be removed, their depth recorded in the soil, and matched to 
+their above ground counterpart.  Drs. Luther Talbert and Mike Giroux at Montana State 
+University have offered the use of their labs to conduct this portion of the research 
+project.  
+Neutron Moisture Access Tubes 
+24 forested sites were chosen to install two Neutron Moisture Meter access tubes. These 
+sites were chosen by location within watersheds and tree community. 12 of the sites are 
+dominated by aspen and 12 sites are dominated by Douglas-fir. These access tubes will 
+be 15 meters apart and one will have all understory vegetation removed with roundup.  24 
+of these access tubes were inserted 154 cm or bedrock, whichever came first, and the 
+remaining will be inserted at the same depth this coming summer.  The access tubes were 
+dug with a 5 cm hand auger and thin walled PVC pipe was installed for the access tubes.  
+Rubber stoppers were inserted in the bottom of each tube to keep moisture from entering 
+at the bottom of the tubes. About 31 cm were left above ground to set the Neutron 
+Moisture Meter on top of.  
+Soil water potential 
+Soil water potential (Ψsoil) will be calculated through soil retention curves developed for 
+the study site. Samples from different horizons visible within soil pits dug will be 
+collected.   Soil water volume (θ) is measured at 20 cm intervals to the bottom of the 
+neutron moisture access tubes.  Soil water potential will be developed by Midwest 
+Industries Corp. from the soil samples collected from the different soil horizons, and soil 
+water potentials (Ψsoil) will be extrapolated from soil retention curves by using soil water 
+content collected with the Neutron Moisture Meter. This method of extrapolating soil 
+water potentials from soil water content has shown to have a very high correlation (Fahey 
+and Young 1984).  
+Xylem Water Potential 
+In this study, leaf petioles from Quaking aspen trees are used to get an estimate of xylem 
+water potential and twigs are used to get xylem water potential for Douglas-fir. Pressure 
+chamber determinations are estimates of the total water potential of the xylem sap 
+(Ritchie and Hinckley 1975).  The twig or leaf is removed from the tree and cut with a 
+razor blade at an angle to allow for more surface area of the xylem. The instant water is 
+seen at the end of the leaf petiole or twig, the pressure gauge is read and recorded.  This 
+value measured in bars is the xylem water potential for the twig and will be used to 
+represent the xylem water potential for the tree.  
+Leaf Conductance 
+A steady state leaf porometer (Decagon Devices) is used to measure stomatal 
+conductance.  This is a measures of the passage of carbon dioxide (CO2) or water vapor 
+through the stomata of the leaf.  The leaf porometer calculates the resistance between the 
+inside and outside of the leaf with a measurement in mmol/m2 s1 (Millimoles per meter 
+squared seconds). This measure how much conductance or exchange is taking place 
+between the atmosphere and the leaf of the tree. If the tree is transpiring more, it has 
+access to water, but when the tree does not have access to water, it will close its stomates. 
+The same twelve trees that were measured for xylem water potential will be measured for 
+leaf conductance.   
+Amplified Fragment Length Polymorphisms 
+This DNA fingerprinting tool allows DNA polymorphisms to be determined between 
+individual plants. We will use this technique to determine the identity of fine root tissue 
+and match them to their aboveground counterpart at different depths. The use of  AFLP 
+kit from Invitrogen Life Technologies will be used to do the isolation and amplification 
+following three major steps: restriction endonuclease digestion of the DNA and ligation 
+of adapters, amplification of the restriction fragments, and gel analysis of the amplified 
+fragments. This technique usually creates 50 to 100 restriction fragments in each AFLP, 
+making it very powerful in detecting DNA polymorphisms and a good means to identify 
+individuals. High quality DNA must be used with this technique which is why small roots 
+will be used in fingerprinting (Jackson 2000).  Douglas-fir plots will be sampled by 
+individuals while fingerprinting aspen may be difficult since they are all one organism. 
+Study area 
+ 
+ 
+ 
+ 
+Hay Canyon with neutron access wells as the red points. 
+ 
+ 
+ 
+ 
+State Creek with neutron access wells as the red points. 
+ 
+ 
+ 
+ 
+Boulder Divide with neutron access wells as the red points. 
+ 
+ 
+ 
+ 
+ Pony Reject with neutron access wells as the red points. 
+This study site is in Jefferson County, Montana north of Whitehall, Montana.  It is 
+located on Route 16 that goes from Whitehall, MT to Boulder, MT.  The site is located on 
+the west side of the road between long 45o00’ and Lat 112o00, 46o00’ and 112o15’, 
+112o00’ and 46o15’, 112o15’ and 46o15’. Land resources within the study are 
+administered by the Bureau of Land Management, Butte Area Office and the 
+Beaverhead-Deerlodge National Forest.   The sub-watersheds under consideration lie 
+within the northern portion of the Upper Jefferson TMDL Planning Unit.  
+ 
+The drainages empty to the east to south east and were chosen due to similarity in aspect.  
+The upper portion of the larger watershed area is dominated by Lodgepole pine (Pinus 
+contorta) forest which transitions into Douglas-fir (Pseudotsuga menzesii) forest and 
+ends in a sagebrush/grassland type in the valley bottom.  The watershed that contains the 
+target sub-watersheds drains over 11,200 ha (28,800 acres) or about 36% of the Whitetail 
+Basin.   
+Vegetation and soil sampling 
+The vegetation changes from site to site but the dominant vegetation are: Bearberry 
+(Arctosaphylos uva-ursi), Baltic Rush (Juncus balticus), Big Sagebrush,(Artemesia 
+tridentata ssp. Veseyana), Bluebunch Wheatgrass (Psedorogenaria spicata), Clover 
+(Trifolium repens), Common Horsetail (Equisetum arvense), Idaho Fescue (Festuca 
+idahoensis), Kentucky Bluegrass (Poa pratensis), Oatgrass (Danthonia spp.), Red Top 
+(Agrostis stolonifera), Smooth Brome (Bromus inermis), Snowberry (Symphoricarpos 
+occidentalis), Tailcup lupine (Lupinus caudatus), Wild Geranium (Geranium 
+viscosissimum), and Woods Rose (Rosa woodsii) 
+ 
+The soils in this area are predominately sandy soils with some silt. This changes in the 
+riparian systems where more clay is present.  This is not expected considering the granite 
+parent material of the boulder batholith area.  
+ 
+The parent material of the Whitehall site is intrusive igneous rock that probably 
+originated 10-20 miles beneath the surface during the late Cretaceous and early Tertiary 
+period.(78-69 million years ago) During the Eocene Epoch the overlaying rock was 
+removed (1 mile above the surface) exposing the igneous rock below. The major 
+exposure in the study site is the Boulder batholith with smaller satellite bodies connected 
+to the primary extrusion but are similar in composition and texture. The dominant type of 
+material is light gray coarse to medium grained quartz throughout the watershed. Large 
+boulders can be found which are called tor piles, and were formed from weathering and 
+erosion along joint planes. The material that is found in the stream beds in the Quaternary 
+period is Alluvium composed of silt, sand and gravel in the stream valleys ( Arno 1986).    
+Environmental Measurements 
+Relative humidity, temperature, and precipitation will be measured in each of the sub-
+watersheds by placing a probe at 2/3 rds canopy height. Vapor pressure deficit will be 
+calculated using air relative humidity and temperature at a height corresponding to two 
+thirds of the canopy height.   This will give us a good indication of RH measures and 
+effects on transpiration.  Temperature and precipitation are recorded with digital 
+recorders within one mile of the sample site. These are encased in fencing to keep 
+wildlife from destroying them.  Soil volumetric water content will be taken using a 
+Neutron Moisture Meter by wells throughout the sample units.  Soils will be taken back 
+to the lab, weighed, dried, and weighed again to get soil mass.  Bulk density and 
+volumetric water content will be calculated for the sites.   
+Supporting Hydrologic Data 
+This data will provide important information about vegetative effects on streamflow and 
+at what depths different tree species are affecting the soil water moisture. In tangent of 
+this study, fifteen monitoring wells have been placed in the riparian zone of 4 drainage.  
+The wells are arranged in rows of three with the two outermost wells in the upland 
+ecotone on the sides of the stream and one well adjacent to the stream channel.  Since 
+2003, measurements of groundwater elevation have been taken from April to November.  
+In 2004 pressure transducers were installed inside stilling wells on each stream above and 
+below the prescribed burn sites to monitor surface flow. In the spring of 2006 Hay 
+Canyon  was burned with a prescription of 70% small Douglas-fir to be removed.  We are 
+currently looking how the groundwater wells and surface water runoff are affected by this 
+burn.  
+Results to date: 
+Initial review of neutron and groundwater monitoring in 2006 indicated the following. 
+Douglas-fir size classes 1,2 vs. 3 are significantly different (P=0.07). Conversely, aspen 
+was not showing significance among different size classes with n=15. A sample adequacy 
+test was used to get an idea of sample size using our initial results.  This test indicated 
+that we need close to n=45 samples to get a P=0.05 for the Douglas-fir size classes 1,2 
+vs.3.  The sample adequacy for the aspen when comparing size class 1 vs. 3 is with a 
+P=.1we need approximately n=91 and we currently have approximately 15(Kupper and 
+Hafner 1989). The initial results are based on four sites, two were Douglas-fir and two 
+were aspen out of the 24 total sites.  
+ 
+ 
+Percentage of Aspen compared to all trees
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+0.3
+0.35
+0.4
+0.45
+0.5
+Pony
+Hay
+Percentage of Aspen
+compared to all trees
+ 
+ 
+ 
+Figure 3 
+Hay Canyon Levels Over 2 Days
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+12:35
+15:35
+0:35
+3:35
+6:35
+9:35
+17:05
+21:35
+0:35
+3:35
+6:35
+12:35
+15:35
+11:05
+18:35
+21:35
+Time
+W ater Level Change in cm
+July
+August
+September
+October
+November
+Pony Canyon Daily Water Levels Over 
+2 Days
+-5.5
+-5
+-4.5
+-4
+-3.5
+-3
+-2.5
+-2
+-1.5
+-1
+-0.50
+1:22
+8:52
+16:22
+23:52
+20:52
+4:22
+13:22
+Time
+Water Level Change 
+in cm
+July
+August
+September
+October
+November
+ 
+ 
+ 
+The two canyons sampled are Hay and Pony Canyon.  Pony Canyon has considerably 
+less aspen than Hay Canyon (fig. 3) which could explain the greater amount of oscillation 
+in Hay Canyon than we see in Pony Canyon. If we look at the difference of surface water 
+levels between Hay (fig. 4) and Pony (fig. 5) Canyon every hour and a half over two 
+days, we see there is a much greater amount of fluctuation in the Hay drainage than in the 
+Pony drainage.  The more negative the number, the lower the water level. This 
+relationship needs to be investigated in more detail to confirm or reject the hypothesis 
+that tree encroachment can affect stream flow.   
+Figure 4 
+Figure 5 
+Research Products: 
+The expected products of this research are two journal articles, two posters presented at 
+professional meetings, three departmental presentations and a paper for the Society of 
+Range Management.  
+ 
+ 
+ 
+Outreach Activities: 
+As a Ph.D. student Erin Thais Riley has the opportunity to help design and implement a 
+curriculum for a class given at Little Big Horn College on the Crow Reservation.  This 
+class was implemented this past summer and was a five day field school. A portion of the 
+class was riparian ecology and management that Ms. Riley developed a course 
+curriculum for. This course will continue for the next two summers with Ms. Riley’s 
+help. The Crow, as well as other Native Americans, are concerned about the affects of 
+off-reservation land uses on water resources within the reservation. Riparian tree species, 
+like aspen, have cultural significance to native peoples so the Crow are concerned about 
+management options that involve tree removal. Consequently, the information generated 
+from this study will be incorporated into the LBHC natural resource field school 
+curriculum in 2007 and 2008.  The results of this research will be used by the Forest 
+Service and BLM in land management prescriptions to help regenerate water in systems 
+that are lacking.  
+ 
+ 
+References: 
+ 
+Arno, S.F and George E. Gruell. (May 1986) Douglas-fir Encroachment into Mountain 
+Grasslands in Southwestern Montana. Journal of Range Management 39(3): 272-276. 
+ 
+Auken, Van, O.W. (2000) Shrub invasions of North American semiarid grasslands. 
+Annual Review of Ecology and Systematics, 31; 197-215. 
+ 
+Davis, S.D. and H.A. Mooney (1986) Water Use Patterns of Four Co-occurring Chaparral 
+Shrubs. Oecologia. v.70; 172-177.  
+       
+Fahey, T.J. and D.R. Young (1984) Soil and xylem water potential and soil water content 
+in contrasting Pinus controta ecosystems, southeastern Wyoming, USA. Oecologia. 61: 
+346-351. 
+       
+Goodale, C.L, Davidson, E.A. 8 August (2002) Carbon cycle: Uncertain sinks in the 
+shrubs. Nature 418; 593-594. 
+ 
+Heisler, J.L., Briggs, J.M., Knapp, A.K. (2003) Long term patterns of shrub expansion in 
+a C4-dominated grassland: fire frequency and the dynamics of shrub cover and 
+abundance. American Journal of Botany 90; 423-428. 
+ 
+Hillel, Daniel (2004). Introduction to Environmental Soil Physics, Elsevier academic 
+Press.  
+ 
+Huxman, T. E., Wilcox, B. P., Breshears, D.D, Scott, R.L., Snyder, K.A., Small, E.E., 
+Hultine, K. (2005) Ecohydrological Implications of Woody Plant Encroachment. 
+Ecology. 86(2); 308-319.  
+ 
+Jackson, R.B., L.A. Moore, W.A. Hoffmann, W.T.Pockman, and C.R. Linder (1999) 
+Ecosystem Rooting Depth Determined with Caves and DNA. Proc. Natl. Acad. Sci. Vol. 
+96; 11387-11392.  
+ 
+Jackson, R. B., John S. Sperry and Todd E. Dawson. (2000). Root Water Uptake and 
+Transport: using physiological processes in global predictions. Trends in Plant Science, 
+Vol 5, No. 11; 482-488.  
+ 
+Kay, Charles (2001). Long-Term Aspen Exclosures in the Yellowstone Ecosystem. 
+USDA Forest Service Proceedings RMRS-p-18. 225-240 
+ 
+Marlow, C.B., C. Wood, and R. Tucker (2006). Armells Creek Prescribed Fire 
+Demonstration Project. Final Report. JFSP 01C-3-1-02. 
+ 
+Moore G.W. and M.K. Owens (July 2006). Removing adult overstory trees stimulates 
+growth and transpiration of conspecific juvenile trees. Rangeland Ecol Manage. 59:416-
+421. 
+  
+Ritchie, G.A. and Thomas M. Hinckley (1975) The Pressure Chamber as an Instrument 
+for Ecological Research. Ecological Research. V 9. 165-253.  
+   
+Scholander P.F. and H.T. Hammel (1965). Sap Pressure in Vascular Plants. Science v. 
+148. 339-346. 
+ 
+Wambolt, Carl (1973). Conifer Water Potential as Influenced by Stand Density and 
+Environmental Factors. Canadian Journal of Botany v. 51; 2333-2337. 
+ 
+ 
+ 
+ 
+ 
+ 

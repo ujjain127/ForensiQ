@@ -1,0 +1,687 @@
+Department of Veterans Affairs 
+Decentralized Hospital Computer Program 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GENERIC CODE SHEET 
+INSTALLATION GUIDE 
+ 
+ 
+ 
+ 
+ 
+Version 2.0 
+March 1995 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Information Systems Center 
+Washington, D.C. 
+ 
+ 
+March 1995 
+Generic Code Sheet V. 2.0 
+i 
+ 
+Installation Guide 
+Table of Contents 
+ 
+Installation ....................................................................................................... 1 
+Step 1.   Print local modifications (optional) ......................................................1 
+Step 2.   Users off the system (optional) .............................................................2 
+Step 3.   Remove version 1.5 routines (mandatory) ...........................................2 
+Step 4.   Load version 2.0 routines (mandatory) ................................................2 
+Step 5.   Set up programming environment (mandatory)..................................2 
+Step 6.   Initialize version 2.0 (mandatory) ........................................................3 
+Step 7.   Move version 2.0 routines to all systems (mandatory)........................8 
+Step 8.   Fix any mail group errors (mandatory)................................................8 
+Step 9.   Remove initialization routines (optional).............................................9 
+Step 10.  Remake local modifications (optional).................................................9 
+ 
+ 
+ii 
+Generic Code Sheet V. 2.0 
+March 1995 
+ 
+Installation Guide 
+ 
+March 1995 
+Generic Code Sheet V. 2.0 
+iii 
+ 
+Installation Guide 
+Revision History 
+ 
+ 
+Initiated on 12/22/04 
+ 
+Date 
+Description (Patch # if applic.) 
+Project Manager 
+Technical Writer 
+12/22/04 
+Updated to comply with SOP 192-
+352 Displaying Sensitive Data. 
+ 
+Mary Ellen Gray 
+12/22/04 
+Pdf file checked for accessibility to 
+readers with disabilities. 
+ 
+Mary Ellen Gray 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iv 
+Generic Code Sheet V. 2.0 
+March 1995 
+ 
+Installation Guide 
+ 
+March 1995 
+Generic Code Sheet V. 2.0 
+1 
+ 
+Installation Guide 
+Installation 
+ 
+The following installation instructions and examples should be used for installing 
+Generic Code Sheet Version 2.0.  In order to ensure proper installation, follow each 
+step carefully and in the order as they appear below. 
+ 
+ 
+Step 1.  Print local modifications (optional) 
+ 
+The post initialization routine will move the code sheets under the correct batch 
+types as distributed by the Generic Code Sheet package.  If your site has made any 
+local modifications placing code sheets under different batch types, it will be 
+necessary to print a listing of the code sheets and batch types using VA FileMan in 
+order to remake the local modifications after installation. 
+ 
+Below is an example of printing the code sheets under the batch types: 
+ 
+VA FileMan 20.0 
+ 
+Select OPTION: PRINT FILE ENTRIES 
+ 
+OUTPUT FROM WHAT FILE: GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT// <RET> 
+          
+SORT BY: NAME// BATCH TYPE;S1   
+START WITH BATCH TYPE: FIRST// <RET> 
+  WITHIN BATCH TYPE, SORT BY: <RET> 
+FIRST PRINT FIELD: .01  NAME   
+THEN PRINT FIELD: 2  GENERAL PURPOSE   
+THEN PRINT FIELD: <RET> 
+HEADING: GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT LIST 
+  Replace <RET> 
+DEVICE:   LAT    RIGHT MARGIN: 80//<RET>  
+ 
+...HMMM, JUST A MOMENT PLEASE... 
+ 
+GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT LIST   JAN  4,1995  11:10   PAGE 1 
+NAME    GENERAL PURPOSE 
+------------------------------------------------------------------------------- 
+ 
+ 
+        BATCH TYPE: ACCOUNTS RECEIVABLE 
+243     CAT C - NSC VET NHC 
+244     CAT C - NSC OUTPATIENT CARE 
+245     CAT C - NSC HOSPITAL CARE 
+246     WORKMAN'S COMPENSATION CARE 
+247     NO FAULT MOTOR VEHICLE ACCIDENT CARE 
+248     CRIME OF PERSONAL VIOLENCE 
+249     NSC W/HEALTH INSURANCE (OPT) 
+251     INELIGIBLE HOSPITALIZATION AND TREATMENT 
+252     EMERGENCY HOSPITALIZATION 
+253     BREACHED CAREER RESIDENCY CONTRACTS 
+254     BREECHED OBLIGATED SERVICE AGREEMENT 
+292     SC VET TREAT NSC CON (INPT) 
+293     SC VET TREAT NSC CON (OPT) 
+294     MEDS FURNISHED OPT CARE, RX CO-PAY (NSC) 
+295     $10 PER DAY HOSPITAL CARE 
+296     $5 PER DAY NHCU CARE 
+297     NSC VET W/HEALTH INSURANCE (INPT) 
+298     MEDS FURNISHED OPT CARE, RX CO-PAY (SC) 
+ 
+        BATCH TYPE: BUILDING MANAGEMENT 
+Installation 
+2 
+Generic Code Sheet V. 2.0 
+March 1995 
+ 
+Installation Guide 
+220     BMS Contracted Hours 
+217     BMS Staff Hours Worked 
+218     BMS Environmental Care Operations 
+219     BMS Textile Care Operations 
+ 
+        BATCH TYPE: CHAPLAIN 
+141     Chaplain Service Monthly Code Sheet 
+142     Chaplain's Fund 
+ 
+ 
+ 
+Step 2.   Users off the system (optional) 
+ 
+Make sure no Generic Code Sheet users are on the system.  This is not critical and 
+will not cause damage to the database.  This will only be a nuisance to the users if 
+they are using the package during the installation of Version 2.0.  If users are in the 
+Generic Code Sheet package during installation, they will error out with no 
+program or line errors.  After installation, the user will be able to continue with the 
+option they were using when they received the error. 
+ 
+ 
+Step 3.   Remove version 1.5 routines (mandatory) 
+ 
+Delete all GEC* routines from all systems. 
+ 
+ 
+Step 4.   Load version 2.0 routines (mandatory) 
+ 
+Load the Version 2.0 Generic Code Sheet GEC* routines onto the system containing 
+the ^DD global.  It is not necessary for the routines to be loaded on the system 
+containing the ^DD global, but the initialization will run faster. 
+ 
+ 
+Step 5.   Set up programming environment (mandatory) 
+ 
+From programmer mode, kill all variables and run the routine XUP to set up your 
+DUZ variables. 
+  
+ 
+ 
+ 
+Installation 
+January 1995 
+Generic Code Sheet 
+3 
+ 
+Installation Guide 
+>K 
+  
+>D ^XUP 
+  
+Setting up programmer environment 
+Access Code:  
+  
+Terminal Type set to: C-VT100 
+Select OPTION NAME: ^ 
+>     
+  
+ 
+Step 6.   Initialize Version 2.0 (mandatory) 
+ 
+From programmer mode, run the Generic Code Sheet Version 2.0 initialization 
+routine GECINIT.  While the initialization routine is running, step 7 can be 
+performed. 
+ 
+>D ^GECINIT 
+  
+This version (#2.0) of 'GECINIT' was created on 09-DEC-1994 
+         (at IFA, by VA FileMan V.20.0) 
+  
+I AM GOING TO SET UP THE FOLLOWING FILES: 
+  
+   2100      GENERIC CODE SHEET 
+Note:  You already have the 'GENERIC CODE SHEET' File. 
+  
+   2100.1    GENERIC CODE SHEET STACK 
+Note:  You already have the 'GENERIC CODE SHEET STACK' File. 
+  
+   2101.1    GENERIC CODE SHEET BATCH TYPE  (including data) 
+Note:  You already have the 'GENERIC CODE SHEET BATCH TYPE' File. 
+I will OVERWRITE your data with mine. 
+  
+   2101.2    GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT  (including data) 
+Note:  You already have the 'GENERIC CODE SHEET TRANSACTION TYPE/SEGMENT' 
+File. 
+I will OVERWRITE your data with mine. 
+  
+   2101.3    GENERIC CODE SHEET TRANSMISSION RECORD 
+Note:  You already have the 'GENERIC CODE SHEET TRANSMISSION RECORD' File. 
+  
+   2101.4    GENERIC CODE SHEET TEMPLATE MAPS (not used) 
+Note:  You already have the 'GENERIC CODE SHEET TEMPLATE MAPS (not used)' 
+File. 
+  
+   2101.5    GENERIC CODE SHEET COUNTER 
+Note:  You already have the 'GENERIC CODE SHEET COUNTER' File. 
+  
+   2101.6    GENERIC CODE SHEET LOCK 
+Note:  You already have the 'GENERIC CODE SHEET LOCK' File. 
+  
+   2101.7    GENERIC CODE SHEET SITE 
+Note:  You already have the 'GENERIC CODE SHEET SITE' File. 
+  
+SHALL I WRITE OVER FILE SECURITY CODES? NO// YES  (YES) 
+NOTE: This package also contains SORT TEMPLATES 
+      SHALL I WRITE OVER EXISTING SORT TEMPLATES OF THE SAME NAME? YES// YES 
+Installation 
+4 
+Generic Code Sheet V. 2.0 
+March 1995 
+ 
+Installation Guide 
+ NOTE: This package also contains INPUT TEMPLATES 
+      SHALL I WRITE OVER EXISTING INPUT TEMPLATES OF THE SAME NAME? YES// YES 
+NOTE: This package also contains PRINT TEMPLATES 
+      SHALL I WRITE OVER EXISTING PRINT TEMPLATES OF THE SAME NAME? YES// YES 
+NOTE: This package also contains HELP FRAMES 
+      SHALL I WRITE OVER EXISTING HELP FRAMES OF THE SAME NAME? YES// YES 
+NOTE: This package also contains SECURITY KEYS 
+      SHALL I WRITE OVER EXISTING SECURITY KEYS OF THE SAME NAME? YES// YES 
+NOTE: This package also contains OPTIONS 
+      SHALL I WRITE OVER EXISTING OPTIONS OF THE SAME NAME? YES// YES 
+  
+ARE YOU SURE EVERYTHING'S OK? NO// YES 
+  
+...HMMM, THIS MAY TAKE A FEW MOMENTS......................................... 
+............................................................................. 
+............................................................................. 
+............................................................................. 
+............................................................................. 
+............................................................................. 
+............................................................................. 
+............................................................................. 
+............................................................................. 
+........................................................ 
+'GECQ 1-DAY PICKUP CODES' Help Frame filed. 
+'GECQ 2-DAY PICKUP CODES' Help Frame filed. 
+'GECQ 3-DAY PICKUP CODES' Help Frame filed. 
+'GECQ 4-DAY PICKUP CODES' Help Frame filed. 
+'GECQ 5-DAY PICKUP CODES' Help Frame filed. 
+'GECQ 6-DAY PICKUP CODES' Help Frame filed. 
+'GECQ 7-DAY PICKUP CODES' Help Frame filed. 
+'GECQ PICKUP CODES' Help Frame filed......................................... 
+.......... 
+'GECO GECS BATCH' Option Filed 
+'GECO GECS BATCH EDIT' Option Filed 
+'GECO GECS BATCHES STATUS' Option Filed 
+'GECO GECS BATCHES WAITING TRAN' Option Filed 
+'GECO GECS CODE EDIT' Option Filed 
+'GECO GECS CREATE' Option Filed 
+'GECO GECS DELETE' Option Filed 
+'GECO GECS KEYPUNCH' Option Filed 
+'GECO GECS MAIN MENU' Option Filed 
+'GECO GECS MAINTENANCE USER MEN' Option Filed 
+'GECO GECS PURGE' Option Filed 
+'GECO GECS READY FOR BATCHING L' Option Filed 
+'GECO GECS REBATCH' Option Filed 
+'GECO GECS REPORTS MENU' Option Filed 
+'GECO GECS RETRANSMIT' Option Filed 
+'GECO GECS REVIEW CODE SHEET' Option Filed 
+'GECO GECS TRANSMIT' Option Filed 
+'GECO GECS TRANSMIT USER' Option Filed 
+'GECO GECS USER MENU' Option Filed 
+'GECS BATCH' Option Filed 
+'GECS BATCH EDIT' Option Filed 
+'GECS BATCHES STATUS' Option Filed 
+'GECS BATCHES WAITING TRANS' Option Filed 
+'GECS CODE EDIT' Option Filed 
+'GECS CREATE' Option Filed 
+'GECS DELETE' Option Filed 
+'GECS KEYPUNCH' Option Filed 
+'GECS MAIN MENU' Option Filed 
+'GECS MAINTENANCE MENU' Option Filed 
+'GECS MAINTENANCE USER MENU' Option Filed 
+'GECS PURGE' Option Filed 
+ 
+ 
+Installation 
+January 1995 
+Generic Code Sheet 
+5 
+ 
+Installation Guide 
+'GECS READY FOR BATCHING LIST' Option Filed 
+'GECS REBATCH' Option Filed 
+'GECS REPORTS MENU' Option Filed 
+'GECS RETRANSMIT' Option Filed 
+'GECS REVIEW CODE SHEET' Option Filed 
+'GECS SETUP' Option Filed 
+'GECS STACK MENU' Option Filed 
+'GECS STACK REPORT' Option Filed 
+'GECS STACK RETRANSMIT' Option Filed 
+'GECS STACK TRANSMIT TASKMAN' Option Filed 
+'GECS STACK USER COMMENTS’ Option Filed 
+‘GECS TRANSMIT' Option Filed 
+'GECS TRANSMIT USER' Option Filed  
+'GECS USER MENU' Option 
+Filed.................................................. 
+..............................................................................
+. 
+..............................................................................
+. 
+.................................... 
+NOTE THAT FILE SECURITY-CODE PROTECTION HAS BEEN MADE 
+ 
+ 
+      [The Post-Initialization Routine Starts Here]  
+ 
+ 
+----------------------------------------------------------------------- 
+checking batch type: ACCOUNTS RECEIVABLE 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: BUILDING MANAGEMENT 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: CHAPLAIN 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: CONSULTING/ATTENDING 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-CAA.VA.GOV'  
+                                              [NOT 'Q-AMD.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: DDCSS - MENTAL HEALTH 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-NPF.VA.GOV'  
+                                              [NOT 'Q-CEN.MED.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: DENTAL 
+------------------------------------------------------------------------------
+- 
+checking batch type: DIETETICS 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+The errors listed 
+below may be 
+different than 
+they appear in 
+this manual. 
+Installation 
+6 
+Generic Code Sheet V. 2.0 
+March 1995 
+ 
+Installation Guide 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: FEE BASIS 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: FEE BASIS - GECO 
+------------------------------------------------------------------------------
+- 
+checking batch type: FEE BASIS - IFCAP 
+------------------------------------------------------------------------------
+- 
+ 
+checking batch type: FINANCIAL MANAGEMENT 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-FMS.VA.GOV' [NOT ''] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: FORM REQUISITION - GECO 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-LOG.VA.GOV'  
+                                              [NOT 'Q-CAA.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: HOSPITAL BASED HOME CARE- GECO 
+------------------------------------------------------------------------------
+- 
+checking batch type: LAB 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: MAS 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: MEDICAL MEDIA 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: MEDICINE 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: MENTAL HEALTH 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: NURSING 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+ 
+ 
+Installation 
+January 1995 
+Generic Code Sheet 
+7 
+ 
+Installation Guide 
+------------------------------------------------------------------------------
+- 
+checking batch type: PERSONNEL 
+----------------------------------------------------------------------------
+--- 
+checking batch type: PERSONNEL:VACANT 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-PFV.VA.GOV'  
+                                              [NOT 'Q-RCV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+----------------------------------------------------------------------------
+--- 
+checking batch type: PHARMACY 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: PHYSICIAN RECRUIT/STAFF - GECO 
+------------------------------------------------------------------------------
+- 
+checking batch type: PROSTHETICS 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: RADIOLOGY 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: RECREATION 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: SECURITY/POLICE 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: SOCIAL WORK 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: STAFFING MANAGEMENT - GECO 
+------------------------------------------------------------------------------
+- 
+checking batch type: SURGERY 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-AMD.VA.GOV'  
+                                              [NOT 'Q-PFV.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: SWS (FOR VAF10-7946) - GECO 
+------------------------------------------------------------------------------
+- 
+checking batch type: SWS - GECO 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-RHC.VA.GOV'  
+                                              [NOT 'Q-NPF.VA.GOV'] 
+Installation 
+8 
+Generic Code Sheet V. 2.0 
+March 1995 
+ 
+Installation Guide 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: VOLUNTARY 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-NST.VA.GOV'  
+                                              [NOT 'Q-LOG.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+------------------------------------------------------------------------------
+- 
+checking batch type: WAGE SURVEY - GECO 
+      1.  ERROR -- DOMAIN MAIL ROUTER SHOULD EQUAL 'Q-WGE.VA.GOV'  
+                                              [NOT 'Q-NST.VA.GOV'] 
+          ... FIXING DOMAIN MAIL ROUTER. 
+      2.  ERROR -- THE MAIL GROUP 'WGE' NEEDS TO BE SET UP. 
+ 
+==================== *** INSTALLING  PIMS  5.3  PATCH 47 *** 
+================== 
+Installing PIMS Patch DG*5.3*47, routine DGGECSB ... OK, DONE. 
+ 
+SPECIAL NOTE:  If the Post-Initialization does not run to completion you may 
+restart the Post-Initialization by running ^GECSVFY from programmer mode.  If 
+the Initialization does not get to the Post-Initialization routine, the INITs must be 
+started over from the beginning. 
+ 
+ 
+Step 7.   Move version 2.0 routines to all systems (mandatory) 
+ 
+While the initialization routine is running, load the GECS* routines onto all 
+systems.  The GECI* initialization routines should not be loaded on all systems. 
+  
+ If you are running PIMS version 5.3 and receive the message "Installing PIMS 
+patch DG*5.3*47  Routine DGGECSB" as shown at the end of the post-init in step 6 
+(the words "OK, DONE" will appear), the routine DGGECSB should be moved to all 
+systems. 
+ 
+ 
+Step 8.   Fix any mail group errors (mandatory) 
+ 
+The post initialization routine (which runs after the initialization routine in step 6) 
+fixes any problems with the Generic Code Sheet package files.  The only error which 
+will not be fixed is the error showing which mail groups need to be set up.  This 
+error is shown on the last line of the initialization in step 6 above.  It will be 
+necessary to set up these mail groups shown in error if the code sheet relating to 
+the mail group is being used by the station.  If you are running a prior version of 
+Generic Code Sheet, most of the mail groups are probably already set up. 
+  
+You may run the post initialization as many times as you would like by running the 
+routine GECSVFY.  The routine GECSVFY will ask if you would like to check the 
+ 
+ 
+Installation 
+January 1995 
+Generic Code Sheet 
+9 
+ 
+Installation Guide 
+batch types for errors, answer YES.  Next it will ask you if you would like to fix any 
+errors found.  A NO response will print the report, a YES response will print the 
+report and fix the error (except for the setting up of mail groups). 
+  
+  
+Step 9.   Remove initialization routines (optional) 
+ 
+After the initialization routine GECINIT has completed (step 6), delete the GECI* 
+routines from the system. 
+ 
+ 
+Step 10.  Remake local modifications (optional) 
+ 
+If your site has made any local modifications per step 1, reprint the code sheets 
+under the batch types as shown in step 1 and remake the local modifications. 
+ 
+Installation 
+10 
+Generic Code Sheet V. 2.0 
+March 1995 
+ 
+Installation Guide 
+ 

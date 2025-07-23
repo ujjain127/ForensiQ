@@ -1,0 +1,2482 @@
+An Analysis of the Feasibility of Providing
+Federal Multi-Peril Crop Insurance to
+Nut Tree Growers:
+Almonds
+Hazelnuts
+Pecans
+Pistachios
+Walnuts
+A Report to the Risk Management Agency
+from the 
+Economic Research Service
+May 25, 1998
+Author and Contact:
+Susan Pollack
+(202) 694-5251
+Table of Contents
+Executive Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+The Nut Tree Industry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Supply . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Demand . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Cultivation and Marketing Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Climatic Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Planting and Production Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Propagation and Orchard Management Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Harvesting and Marketing Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Production Perils . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Hurricanes and High Winds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Excessive Heat and Drought . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Ice Storms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Frost and Freezing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Lightning . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Diseases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Insects and Animal Pests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Almonds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Almond Tree Characteristics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Varieties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Propagation and Planting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Cultivation and Management Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Harvesting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Production Perils . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Hazelnuts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Hazelnut Tree Characteristics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Varieties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Propagation and Planting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Cultivation and Management Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Harvesting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Production Perils . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Pecans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Pecan Tree Characteristics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Varieties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Propagation and Planting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Cultivation and Management Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Harvesting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Production Perils . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Pistachios . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+Pistachio Tree Characteristics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+Varieties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Propagation and Planting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+Cultivation and Management Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+Harvesting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+Production Perils . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+Walnuts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+Walnut Tree Characteristics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+Varieties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+Propagation and Planting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+Cultivation and Management Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+Harvesting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Production Perils . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+State Analyses and Demand for Insurance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+California . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+Georgia and Other Southern States . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+Texas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+Oregon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+Nut Tree Crop Insurance Implementation Issues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+Adverse Selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+Setting Reference Prices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+Estimating “Appraised Production” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+Moral Hazard . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+Other Implementation Issues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+4
+Executive Summary
+The concentration of tree nut production in the United States varies according to the type of
+crop.  Nearly all U.S. commercial almond, pistachio, and walnut acreage is concentrated in the Central
+Valley area of California.  In contrast, production of hazelnuts is limited to the Pacific Northwest,
+mostly Oregon, where the tree thrives in that state's mild climate.  Commercial pecan acreage is
+scattered across thirteen states in the South, although the greatest concentration of acreage is in
+Georgia, Texas, and New Mexico.
+Across the various types, more almond trees were grown in the United States than any other
+nut tree in the early- and mid- 1990's.  Almond trees produced the highest revenue among all U.S. nut
+tree crops, totaling over $1 billion in 1996 and averaging to about $923 million annually between 1994
+and 1996.  The high values associated with this crop have resulted in increased plantings within the last
+few years.  When these almond trees reach bearing age, it is expected that commercial production
+should increase significantly.  
+Nut trees are deciduous and produce the highest yields in climates that experience cool weather
+during November and December, followed by warmer weather in January and February.  The cool
+weather provides the trees with a period of dormancy in the winter, while the warm weather
+immediately following promotes blossom production.  Without a sufficient number of chill hours, bud
+opening may be delayed, the bloom may be uneven, and a poor crop and branch dieback may occur. 
+For optimal pollination, nut trees are best planted in a climate where frost does not occur after
+February.  Low temperatures at any time during the year--below 12o F to  15o F--can cause serious
+damage to both the nut crop and the trees.
+Hazelnut trees, in particular, do not thrive in either very hot or very cold climates.  Cold
+temperatures--below 15o F--result in reduced nut production.  Very hot temperatures cause leaves to
+dry up and stress to the tree, again reducing crop size.  These trees flourish in moderate climates that do
+not experience either of these extremes.
+Although adaptable to many soil types, most nut trees produce the highest yields in deep, light
+soils that have good drainage.  Most nut trees do not tolerate prolonged wet conditions.  Such situations
+can cause root rot, or weaken the anchoring ability of the roots, resulting in susceptibility to toppling
+during strong wind storms.  In extreme cases, excessive wetness can result in the death of the tree.  Nut
+trees are most able to withstand excessive moisture during their dormant period without any serious
+damage to the trees or to production.   
+Most nut trees begin bearing nuts within 2 to 4 years after planting.  While most trees may
+produce a small quantity of nuts during the earlier years, at least 6 years are typically required before a
+nut tree produces a good-sized commercial crop.  Once the trees become productive, they can
+produce high yields for many years.  Commercially productive pecan trees exist, for example, that are
+over 100 years old.
+Nut trees generally do not grow true from seed, and therefore are generally propagated by
+grafting or budding a desirable variety onto a rootstock.  The rootstock may be a different variety of
+that same nut tree, or it may be associated with a related type of tree in the same family.  Peach
+rootstock, for example, may be used in the grafting of almonds.  The rootstock variety is chosen
+5
+because of its hardiness or resistance to certain diseases, but may not produce a nut with desirable
+characteristics.  As a result, the wood of a variety that produces a desirable nut is grafted onto the
+rootstock (after removing all of the tree’s branches) of the hardier variety to achieve maximum
+production of the best marketable nut.  
+Most nut trees are harvested with the use of a tree shaker.  This machine grips the trunk of the
+tree and shakes it, causing the nuts to drop.  The nuts are either caught by an apron, or fall on the
+ground where they are then raked up or blown together and gathered.  Harvesting occurs in the fall
+when the nuts are ready to be released and the tree’s bark is stable.  As a result, trees do not need to
+be shaken very vigorously and harvesting (when done correctly) is not considered to be harmful to the
+tree. 
+Various fungal and bacterial diseases affect nut trees, and generally cause greater damage to the
+nut crop than to the tree itself.  There are a few diseases, however, that can destroy the tree or reduce
+its productivity to the extent that it is necessary to remove the tree.  In most of these cases, it is
+unadvisable to replant nut trees on that acreage.  Many diseases can be controlled with chemical sprays
+or fumigation.  In some cases, however, the chemical most effective in controlling the disease is methyl
+bromide, the availability and use of which is uncertain over the next several years.  
+Other perils can also affect nut trees.   Frosts or freezing temperatures occurring directly after
+warm weather can damage buds that may have begun to emerge on the trees.  Frost damage can have
+a ripple affect, reducing the tree’s productivity for several years, especially if the frost occurs during the
+“on-bearing” year.  Heavy winds are always a problem for any kind of tree crop if the winds follow
+long periods of heavy rains or flooding.  Wet soil reduces the ability of the root system to anchor the
+tree, and high winds in such situations are more readily able to cause toppling.  Trees infected with root
+rot diseases (which are also commonly associated with wet conditions) are also more susceptible to
+toppling in heavy winds.
+The demand for insurance appears to vary by type of tree and area.  Several farm advisors in
+California, for example, felt there would be interest in crop insurance for nut trees, especially in areas
+where flooding and strong winds are likely to occur.  Growers may also be interested because of the
+number of diseases that can affect different trees.  Many years are often required before a disease
+becomes apparent and, in many cases, there are no rootstock that are totally tolerant to a disease.
+ Growers may also want crop insurance for their trees because they may already have coverage for the
+crop and want to cover their investment in the tree as well.  
+Pecan growers in Georgia, northern Mississippi, and Alabama are believed to have a fairly high
+demand for crop insurance to cover their nut trees.  The demand for nut tree insurance is, however,
+thought to be less than the demand for insurance of the nut crop.  Many orchards that are producing
+commercial pecan crops were planted in the 1800's, and some native trees are much older.  
+The hazelnut extension specialist in Oregon did not believe that demand for crop insurance for
+hazelnut trees would be significant.  The greatest demand would likely emerge from growers most
+concerned about Eastern Filbert Blight, since the disease can kill an entire orchard in 7 to 10 years. 
+Hazelnuts are hardy and are grown in a mild environment, and many growers are believed not to be
+very interested in obtaining insurance only for the trees.
+     1  Prior Economic Research Service (ERS) reports to the Risk Management Agency (RMA) address the feasibility
+of insuring hazelnuts and pistachios. 
+6
+Nut Trees: An Examination of the Feasibility 
+of Providing Federal Crop Insurance
+This report examines the feasibility of insuring the trees of five U.S. nut crops:  almonds,
+hazelnuts, pecans, pistachios, and walnuts.  These crops were chosen for the analysis because they are
+the primary nut crops produced in the United States, and the trees are not presently covered by
+Federal multi-peril crop insurance.  The availability of insurance for nut tree crops is in varying stages of
+development.  For several crops--almonds, walnuts, and pecans--insurance is available for the nut
+crops in many areas, but not for the trees themselves.  For other crops--hazelnuts and pistachios--
+insurance is not available for either the nut or the tree in any location.1  Macadamias, another major
+U.S. nut, have the most complete availability of coverage currently:  insurance is available for both the
+nuts as well as the macadamia nut tree. 
+The Nut Tree Industry
+Supply
+The concentration of tree nut production in the United States varies according to the type of
+crop.  Nearly all U.S. commercial almond, pistachio, and walnut acreage is concentrated in the Central
+Valley area of California.  In contrast, production of hazelnuts is limited to the Pacific Northwest,
+mostly Oregon, where the tree thrives in that state's mild climate.  Commercial pecan acreage is
+scattered across thirteen states in the South, although the greatest concentration of acreage is in
+Georgia, Texas, and New Mexico (USDA, NASS).
+Across the various types, more almond trees were grown in the United States than any other
+nut tree in the early- and mid- 1990's (Tables 1 and 2).  Almond trees produced the highest revenue
+among all U.S. nut tree crops, totaling over $1 billion in 1996 and averaging to about $923 million
+annually between 1994 and 1996.  The high values associated with this crop have resulted in increased
+plantings within the last few years.  When these almond trees reach bearing age, it is expected that
+commercial production should increase significantly.  
+While pecan trees account for the second largest number of nut trees in production--and for the
+most acreage of any of the nut tree crops--the value of the pecan crop is lower than for almonds,
+averaging to $207 million over the 1994-96 period.  Unlike most other nut tree crops, a large
+proportion of pecan acreage produces nuts from native and seedling trees, and not improved varieties. 
+7
+Plantings of such native and seedling trees are more sporadic than other tree plantings, and overall
+productivity per acre is lower. 
+The bearing acreage associated with walnuts, pistachios, and hazelnuts is smaller than the
+acreage in almonds and pecans.  Pistachio production is relatively new to the U.S. compared to other
+nut crops, and the trees are generally younger and planted using newer techniques.  Hazelnut (filbert)
+acreage is concentrated in the Willamette Valley of Oregon, and has the smallest acreage of any of the
+crops discussed in this report.  The value of production associated with these three crops over the
+1994-96 period averaged to $296 million annually for walnuts, $134 million annually for pistachios, and
+$23 million annually for hazelnuts.  
+Table 1--Nut trees, Number of Farms, Acres, and Trees, 1992
+Type of Tree
+Farms
+Acres
+Trees
+Almonds
+6,263
+441,700
+37,262,330
+Pistachios
+1,051
+69,344
+9,142,754
+Pecans
+21,206
+473,426
+10,073,078
+English walnuts
+7,276
+214,159
+9,188,660
+Source: Department of Commerce, 1992 Census of Agriculture.
+Table 2-- Nut trees, Bearing Acreage, 1994-96
+Tree and State
+1994
+1995
+1996
+Hazelnuts:
+27,400
+27,800
+28,350
+ Oregon
+27,200
+27,600
+28,200
+ Washington
+200
+200
+150
+English walnuts:
+ California
+171,000
+169,000
+169,000
+Pistachio:
+ California
+57,500
+60,300
+64,300
+8
+Almonds:
+ California
+409,000
+400,000
+405,000
+Source: U.S. Department of Agriculture, National Agricultural Statistics Service.
+Demand
+Although the U.S. Department of Agriculture collects data on bearing acreage in major nut
+crops, very little information exists on the demand situation.  It appears, however, that the U.S. nut tree
+market is increasingly dependent on export markets.  Almond exports, for example, are a major portion
+of total sales, with the high grower returns and growing demand for almonds in international markets
+resulting in an increase in plantings in recent years.  Pistachio production also appears to be increasing,
+as witnessed by the recent increase in bearing acreage (Table 2).  Again, international demand for
+American pistachios may be fueling the increased plantings.
+Cultivation and Marketing Practices
+Climatic Requirements
+Nut trees are deciduous and produce the highest yields in climates that experience cool weather
+during November and December, followed by warmer weather in January and February.  The cool
+weather provides the trees with a period of dormancy in the winter, while the warm weather
+immediately following promotes blossom production.  Without a sufficient number of chill hours, bud
+opening may be delayed, the bloom may be uneven, and a poor crop and branch dieback may occur. 
+For optimal pollination, nut trees are best planted in a climate where frost does not occur after
+February.  Low temperatures at any time during the year--below 12o F to  15o F--can cause serious
+damage to both the nut crop and the trees.
+Hazelnut trees, in particular, do not thrive in either very hot or very cold climates.  Cold
+temperatures--below 15o F--result in reduced nut production.  Very hot temperatures cause leaves to
+dry up and stress to the tree, again reducing crop size.  These trees flourish in moderate climates that do
+not experience either of these extremes.
+Planting and Production Practices
+Although adaptable to many soil types, most nut trees produce the highest yields in deep, light
+soils that have good drainage.  Most nut trees do not tolerate prolonged wet conditions.  Such situations
+can cause root rot, or weaken the anchoring ability of the roots, resulting in susceptibility to toppling
+during strong wind storms.  In extreme cases, excessive wetness can result in the death of the tree.  Nut
+trees are most able to withstand excessive moisture during their dormant period without any serious
+damage to the trees or to production.   
+9
+Nut trees require supplemental nutrients in order to maintain their productivity.  Because most
+nut trees have an alternate-bearing tendency, they consume significant amounts of nutrients during their
+heavy crop years, causing the trees to be stressed the next year.  Any lack of nutrients mostly affects
+crop production.  Over a short period of time, inadequate fertilization does not generally result in
+damage to the tree.  Depending on the type of tree, applications of nitrogen, potassium, phosphorous,
+zinc, boron, and magnesium are used to reduce stress.   Excess use of any of these nutrients can,
+however, also be harmful to the tree.  Good crop management that provides a level of fertilization
+adequate to reduce tree stress may also minimize the alternate-bearing nature of the trees.
+Propagation and Orchard Management Practices
+Most nut trees begin bearing nuts within 2 to 4 years after planting.  While most trees may
+produce a small quantity of nuts during the earlier years, at least 6 years are typically required before a
+nut tree produces a good-sized commercial crop.  Once the trees become productive, they can
+produce high yields for many years.  Commercially productive pecan trees exist, for example, that are
+over 100 years old.
+Nut trees generally do not grow true from seed, and therefore are generally propagated by
+grafting or budding a desirable variety onto a rootstock.  The rootstock may be a different variety of
+that same nut tree, or it may be associated with a related type of tree in the same family.  Peach
+rootstock, for example, may be used in the grafting of almonds.  The rootstock variety is chosen
+because of its hardiness or resistance to certain diseases, but may not produce a nut with desirable
+characteristics.  As a result, the wood of a variety that produces a desirable nut is grafted onto the
+rootstock (after removing all of the tree’s branches) of the hardier variety to achieve maximum
+production of the best marketable nut.  
+Some exceptions, however, exist to this practice.  Because the hazelnut is actually a shrub
+trained to grow as a tree, it is propagated differently.  Hazelnuts are propagated by rooting a part of the
+tree while it is still attached to the parent tree.  New developments in hazelnut production, however, are
+moving towards grafting onto rootstock.  Pecan trees also can provide an exception. Pecans are the
+only nut tree where some of the crop is produced from seed.  Because those trees produced from seed
+may vary in characteristics from the parent, nut quality and yield are more variable than from the
+improved varieties.
+Nut trees usually require early training and pruning of limbs in order to shape the tree into the
+proper scaffolding structure.  In addition, suckers are removed to maximize nut production.  Annually
+pruning is necessary to remove dead, diseased, or criss-crossing branches.  Thinning and pruning also
+ensure that all branches receive sufficient sunlight to thrive and produce nuts.  With some trees, such as
+hazelnuts, the nuts only grow on new shoots, which makes annual pruning a necessity.
+Harvesting and Marketing Practices
+Most nut trees are harvested with the use of a tree shaker.  This machine grips the trunk of the
+tree and shakes it, causing the nuts to drop.  The nuts are either caught by an apron, or fall on the
+10
+ground where they are then raked up or blown together and gathered.  Harvesting occurs in the fall
+when the nuts are ready to be released and the tree’s bark is stable.  As a result, trees do not need to
+be shaken very vigorously and harvesting (when done correctly) is not considered to be harmful to the
+tree. 
+Shaking to thin the size of the crop and increase the size of the remaining nuts is usually done in
+late summer.  During this period, the tree’s bark naturally slips, making it easier for the shaking machine
+to cause wounds that invite insects and diseases.  The tree also must be shaken more vigorously in late
+summer than at harvest in the fall because the nuts are not yet mature and ready to drop.  Therefore,
+any shaking damage usually occurs during thinning and not at the time of harvest (Thompson).
+Production Perils
+This section provides a general overview of the production perils that affect most nut trees. 
+Additional information is provided for each type of nut tree in the crop-specific sections that appear
+later in this report.
+Hurricanes and High Winds
+Because of the geographic location of production, hurricanes are a problem mostly for pecan
+growers.  Pecan production in the Delta areas of Louisiana and Alabama, and in any areas within 150
+to 200 miles of the Gulf and Atlantic coasts, are especially susceptible to the dangers caused by
+hurricanes.  The heavy winds brought by hurricanes can cause tree defoliation and limb breakage.  
+Trees may be uprooted, especially if they are planted in sandy soils or if the trees are loaded with nuts. 
+Generally, the extent of damage depends on the soil type, wind speeds, and the nut load on the tree. 
+Most other nut tree crops are planted in locations where hurricanes rarely occur.  
+Heavy winds, however, are always a problem for any kind of tree crop if the winds follow long
+periods of heavy rains or flooding.  Wet soil reduces the ability of the root system to anchor the tree,
+and high winds in such situations are more readily able to cause toppling.  Trees infected with root rot
+diseases (which are also commonly associated with wet conditions) are also more susceptible to
+toppling in heavy winds.  Strong winds are more likely to cause limb damage when the trees are in leaf
+and the nuts are near maturity than when they are bare.  If high winds result in significant limb loss, nut
+production can be affected for several years and, in some cases, the trees may need to be removed.
+Excessive Heat and Drought
+Most nut trees can withstand periods of prolonged heat or drought without incurring long-term
+effects, unless they have already been stressed by diseases or insects.  Pecan trees, for example, have
+long taproots that can reach water supplies deep in the soil, and they can withstand droughts fairly
+easily.   In California and Oregon, most nut tree producers irrigate their orchards, mitigating the effects
+of excessive heat and drought.
+11
+Ice Storms
+Ice storms can be a problem for pecan growers in the northern parts of Alabama, Georgia, and
+Mississippi.  Ice can form on tree limbs, making them heavy and easily causing breakage.  If enough
+limbs fall, damage to the canopy can cause the tree to become economically inviable.  Ice storms rarely
+kill pecan trees, but cause damage rendering them unproductive and requiring tree removal.  Ice storms
+have occurred in the northern parts of these three states that have caused very severe damage, requiring
+the removal of entire orchards.  Ice storms are not a problem in California or the Pacific Northwest
+production areas because of milder weather.  Hail storms, however, may damage fruit, pitting them and
+making them unmarketable, but do little damage to the trees.
+Frost and Freezing
+Frosts or freezing temperatures occurring directly after warm weather can damage buds that
+may have begun to emerge on the trees.  Frost damage can have a ripple affect, reducing the tree’s
+productivity for several years, especially if the frost occurs during the “on-bearing” year.
+In addition, freezing temperatures can be a particular problem for young nut trees.  If freezing
+temperatures occur before a tree has had time to acclimate to the cold, tissues can freeze.  This type of
+damage mainly occurs to the lower trunk, which is the final portion of the tree to become acclimated to
+the cold.  In extreme cases, nut trees may die from such injury.  For some nut trees, the effects of
+freezing temperatures can be controlled by good cultural practices and by using rootstock that is cold
+hardy in areas where freezing temperatures can be a problem.
+Lightning
+Lightning tends to strike taller trees more often than those that are relatively shorter, and its
+effects are sporadic.  Across an entire orchard, only one tree may be struck, or many trees may be
+damaged.  For a given tree, the extent of the damage depends on how the tree is hit.  Damage can be
+minimal and the tree may grow back, or the tree may be destroyed.  In some cases, lightning damage
+may effectively destroy the canopy of the tree, and although the tree can functionally survive, it may be
+rendered unproductive.
+Diseases
+Various fungal and bacterial diseases affect nut trees, and generally cause greater damage to the
+nut crop than to the tree itself.  There are a few diseases, however, that can destroy the tree or reduce
+its productivity to the extent that it is necessary to remove the tree.  In most of these cases, it is
+unadvisable to replant nut trees on that acreage.  Many diseases can be controlled with chemical sprays
+or fumigation.  In some cases, however, the chemical most effective in controlling the disease is methyl
+bromide, the availability and use of which is uncertain over the next several years.  
+12
+Insects and Animal Pests
+Insects are most damaging to nut trees in their larval form, at which time they burrow into the
+wood or roots of the tree.  Insects can also damage trees by defoliating limbs.  Infestations are usually
+more damaging to young trees than to those that are more well established.  Most insects can be
+controlled with insecticides.  Animals also cause the most harm to young trees, and reduce the ability of
+the tree to thrive by chewing the bark from the trees. 
+Almonds
+The entire commercial almond crop in the United States is grown in California, with most of the
+state’s production concentrated in the San Joaquin and Sacramento valleys.  Almonds are California’s
+largest tree nut crop, as measured both by acreage and total dollar value.  In 1995, California growers
+had 400,000 bearing acres in almond trees.  Shelled almonds provided the state’s second highest
+revenue among fruit and tree nut crops after grapes, with a value of $888 million dollars.  In 1995,
+almonds ranked fourth in value among California’s top export products.
+Almond Tree Characteristics
+The almond belongs to the same plant family as the peach, plum, nectarine, apricot, and cherry. 
+It is native to western Asia and is adapted to the warmer areas of California.  Almond trees are
+deciduous, and require a period of dormancy between bearing cycles. They have a tendency toward
+alternate-bearing.  Because they do not reproduce true from seed, almonds are propagated through
+grafting to maintain the desirable characteristics of the tree and the nut.
+The bearing cycle of the almond tree follows a typical seasonal pattern.  In the fall, buds begin
+to develop.  A chilling period is required in November and December, followed by warmer weather in
+January and February.  The dormant buds begin to grow rapidly in January, producing blossoms in
+early February through March (www.almond.org).   The exact time of blossoming depends on the
+variety, the amount of winter chill, the exposure to warm temperatures in spring before the bloom, and
+the threshold temperature at which the buds grow.  Almond trees are less hardy and require fewer
+chilling hours during the winter months than various other bearing trees, including the peach.
+Because almond trees are not self-pollinating, at least two different varieties are necessary in a
+productive orchard.  Varieties are typically planted in alternating rows, and bees are typically used to
+aid in pollination.  For optimal bee activity, orchards should be frost-free when the trees bloom, and
+rainfall should be minimal (www.almond.org).  Because the blooming period for many varieties occurs
+fairly early in the spring, they tend to be more subject to disease problems and poor pollination than if
+blooming were later in the spring.  In addition, temperatures are critical during the budding stage. 
+Chilling is important, and winters that are too warm can delay bud opening and may reduce yields. 
+After the flower petals drop in the spring and the tree begins to produce leaves, the first signs of
+the fruit appear.  The hull of the nut hardens and matures as the months pass, and in July, the hull begins
+13
+to split open.  The split continues to widen through late October, exposing the shell and allowing the
+kernel to dry.  The nut and stem separate, and shortly before harvest, the hull opens completely
+(www.almond.org.).   Six to eight months are required from full bloom until nut maturity.  
+Varieties
+The major varieties of almond trees planted in California include "Nonpareil," "Carmel,"
+"Mission" (Texas), "Merced," "Ne Plus Ultra," "Price," "Peerless," "Butte," "Monterey," "Ruby,"
+"Sonora," "Padre," and "Fritz" (Micke).  "Nonpareil" is the most popular variety, accounting for 49
+percent of California’s almond acreage in 1997.  In terms of value of production, "Nonpareil"
+accounted for 47 percent of total receipts in 1997; "Carmel," for 20 percent; "Mission," for 5 percent;
+"Price," for 5 percent; "Butte," for 5 percent; and "Ne Plus Ultra," for 2 percent (Almond Board of
+California).  
+While "Carmel" ranks second in popularity, its susceptibility to noninfectious bud failure may
+reduce future plantings.  "Mission," "Peerless," and "Ne Plus Ultra" are also planted less frequently than
+in the past.  Because of noninfectious bud failure, there is now little new planting of "Merced," "Harvey,"
+"Jordanolo," and "Yosemite."  Difficulty in nut harvesting has reduced the popularity of "Merced,"
+"Thompson," "Drake," "Le Grand," "Davey," and "Milow."  Other factors have limited planting of the
+following varieties: "IXL," "Hasham," "Jeffries," "Sauret #1," "Sauret #2," "Kapareil," "Milow,"
+"Carrion," "Solano," and "Norman."  Newer varieties being planted include "Mono," "Tokyo,"
+"Livingston," "Aldrich," "Woods," "Colony," and "Rosetta."
+Varieties should be selected according to a variety of factors, including:  time of bloom, pollen
+compatibility, time of maturity, ease of nut removal, yield, pest resistance, marketability of the nut, and
+nut quality.  Most almond varieties are not self-pollinating and require compatible bloom varieties in
+order to pollinate.  The closer the timing of bloom across varieties, the better the opportunity for cross-
+pollination and crop set.  When the trees bloom at the same time, there is better overlap of flower
+receptivity and bees tend to fly between the trees at a similar stage of bloom.  Trees in an orchard also
+need to be chosen based on the timing of nut maturity and removal.  Marketability is also important
+because it is important not to mix different varieties of nuts at harvesting time.  Further, some varieties
+tend to be more susceptible to insects, including the navel orangeworm and the peach twig borer, which
+cause wormy kernels (Table 3) or noninfectious bud failure, a genetic disorder (Table 4) (Micke).
+Table 3--Industry Rejection of Kernels by Tree Variety in the 1980's
+Less than 2 percent
+2 to 4 percent
+Over 4 percent
+Butte
+Fritz
+Harvey
+Carmel
+Monterey
+LeGrand
+Mission
+Ne Plus Ultra
+Merced
+Peerless
+Nonpareil
+Thompson
+14
+Price
+Ruby
+Source:  Micke, Warren. Technical Editor.  Almond Production Manual. University of California
+Division of Agriculture and Natural Resources,  Pub. 3364.
+15
+Table 4--Varieties Affected by Noninfectious Bud Failure and Severity When Present
+Variety
+Relative Prevalence
+Relative Severity when Present
+Jordanolo
+high
+high
+Merced
+high
+high
+Yosemite
+high
+high
+Harvey
+moderate to high
+moderate to high
+Carmel
+moderate to high
+moderate to high
+Nonpareil
+moderate
+moderate
+Peerless
+low
+moderate to high
+Price
+low
+moderate
+Carrion
+low
+moderate
+Sauret # 1
+low
+moderate
+Thompson
+low
+high
+Mission
+low
+high
+Norman
+low
+unknown*
+*Insufficient data to rate.
+Note:  Instances have not been observed in Butte, Padre, Sonora, Ne Plus Ultra, Fritz, Monterey,
+Mono, and Tokyo to rate.
+Source:  Micke, Warren. Technical Editor.  Almond Production Manual.  University of California
+Division of Agriculture and Natural Resources.  Pub. 3364.
+Rootstocks
+The most popular rootstocks use peach or peach-almond varieties (Sibbett; Almond Board of
+California).  There is no one best almond rootstock that consistently produces the highest yield. 
+Currently, the most commonly used include "Nemaguard" (peach), "Nemared" (peach), "Lovell"
+(peach), "Marianna 2624" (plum), various peach-almond hybrids, and almond itself (often "Mission"). 
+Rootstock can be either grown from seedlings or vegetatively propagated.  When "Lovell,"
+"Nemaguard," "Nemared," and almond are used, the rootstocks are seedlings.  With propagated
+16
+rootstock, such as "Marianna 2624" and "Hansen" hybrids, source trees are maintained and cuttings are
+taken from them to produce the rootstock.  Peach-rooted trees bear earlier than almond-rooted trees,
+but they are shorter-lived (Micke).
+"Nemaguard" is the most popular rootstock for almond, and is used most frequently in the San
+Joaquin Valley.  It was bred to be resistant to root knot nematodes.  It is propagated from seed and
+develops a vigorous root system of moderate depth.  "Nemaguard" is compatible with all almond
+varieties.   It is somewhat tolerant of heavy soils and excess water, but is affected by crown gall, oak-
+root fungus, and crown rot.  "Lovell" is the second most popular rootstock for almonds, and is
+preferred by growers in the Sacramento Valley.  This area has a lower incidence of root knot
+nematode, heavier soils, and higher rainfall than the San Joaquin Valley, making the "Lovell" variety a
+better choice.  "Lovell" is susceptible to nematodes, oak-root fungus, crown rot, and crown gall.
+Almond seedlings used for almond production are rarely planted in California today, except in
+areas without irrigation.  The almond rootstock provides more drought tolerance than peach or plum
+stock, and produces large, long-lived, deep-rooted trees requiring deep, well-drained soils.  In deep
+soil, almond stock can withstand water stress at harvest-time better than other rootstocks.  Almond is
+considered to be the most sensitive of all the rootstocks to wet soil conditions, and is the most tolerant
+of high lime and boron content in the soil.  Almond is affected by nematodes, crown rot, crown gall,
+and oak-root fungus.
+"Marianna 2624" is noted for its vigor and ease of propagation from hardwood cuttings.  It is
+most valued for its ability to tolerate heavy, wet soils and soils infested with oak-root fungus.  While not
+immune to the fungus, it can be successfully planted where the fungus is present.
+Due to its vigor, this rootstock allows almonds to be planted under poorer conditions than other
+rootstock.  It does not, however, perform well in heavy clay soils or those subject to prolonged wet
+conditions.  "Marianna 2624" is resistant to root knot nematodes and is moderately resistant to crown
+gall.  It is planted mostly in northern California, especially near the Sacramento River.  Trees grown on
+"Marianna 2624" are significantly smaller than those grown on almond rootstock.  When planted 10
+percent closer than the spacing used for peach rootstock, yields are compatible.  The major drawback
+of "Marianna 2624" is that it is not compatible with the "Nonpareil" variety of almond tree, the most
+popular variety.  Only "Nonpareil" planted on "Marianna 2624" rootstock with an interstock such as
+"Havens 2B" plum will survive.  "Marianna 2624" is also susceptible to bacterial canker (Micke).
+Propagation and Planting 
+Almond trees are planted in the field at one year of age.  The rootstock is budded onto the
+selected variety in June, and the young tree grows throughout the season.  The trees are then sold to
+growers for commercial production at the end of the year, with planting in fields occurring in the
+following June through March (Sibbett).   Almond trees begin bearing an economic crop in the fourth
+year after planting, becoming fully mature in about seven years (Asai, Hendricks, Klonsky, and
+Livingston).
+Tree spacing depends on the vigor of the variety and rootstock, the location of the planting, soil
+fertility, the equipment used in the orchard, vegetation management, and irrigation method.  Wider
+     2  For cost of production budgets, see the appendix.
+17
+spacing is recommended for vigorous types of variety/rootstock combinations, and in fertile soils where
+trees tend to grow larger.  Wider spacing is also recommended where cross-cultivation is used for
+irrigation preparation and vegetation management.  Tree spacings of 24 by 24 feet are common in the
+San Joaquin Valley.  Spacings of 22 by 22 feet or 22 by 20 feet are sufficient for a mature orchard on
+shallow, less fertile soil.  On the most fertile loam soils, trees need to be spaced wider, as even 26 and
+28 feet spacings may be crowded.  Wide spacing permits trees to spread to their ultimate size without
+crowding, allowing for easier pruning in mature orchards, and aiding tree vigor into old age.  Because
+nut production is determined by the number of trees planted per acre, many growers opt for about 24
+foot spacings in deep, fertile soil, and 20 to 22 foot spacings in less fertile soils (Micke).
+Traditionally, plantings consisted of two rows of "Nonpareil," then a row of a pollinator variety. 
+However, when weather conditions are unfavorable and varieties do not have adequate bloom overlap,
+this arrangement can result in reduced set and yield.  Today, the common arrangement is of a single row
+of a variety, maximizing exposure to a pollinator to maximize yields (Micke).  
+Cultivation and Management Practices2
+Almond tree rootstock are planted in heavy soils such as loams and clay loams, as well as
+sandy soils.  Soils require site preparation to reduce the hardpan to a depth of at least 5 or 6 feet to
+allow for root formation.  Sandy soils often have higher nematode populations, and may have stratified
+layers or hardpans.  Backhoeing and fumigation helps reduce root lesion and ring nematodes.  Present
+rootstock are only tolerant to root knot nematodes (Micke).
+Soil texture and drainage are important considerations when selecting rootstock varieties. 
+Peach rootstocks tolerate poorly drained soils better than almond (seldom used today) and peach-
+almond hybrids.  "Marianna 2624" plum is more tolerant of wet conditions (Micke).
+Harvesting
+Almond trees are harvested mechanically.  Mechanical tree shakers knock the unshelled nuts to
+the ground, where they are allowed to dry before they are swept into rows and picked up by machine. 
+After the shelled nuts are picked up, they are transported to carts and transported for hulling (Almond
+Board of California). 
+Trees generally are not shaken until they are in their fourth growing season.  Before that time,
+the shaking machines could damage the trees.  Trees need to be properly trained from planting
+throughout the early nonbearing years to prevent tree injury from shakers.  The tree should be trained to
+keep a vertical trunk, and to allow for quick placement of shaker clamps (Micke).  Damage to the tree
+increases if the operator has to adjust clamps for tight spots or trunks that lean.  Low hanging branches
+that hide the trunk also need to be removed to increase visibility and  reduce potential damage to the
+trunk from the shakers.  Suckers also need to be removed.  If  a sucker or low branch gets caught in
+18
+the shaker, it may cause bruising and bark tearing (Micke).  
+Harvesting should take place about two weeks after the final pre-harvest irrigation to minimize
+bark damage from trunk shaking.  The time between irrigation and harvesting can be reduced if using
+low-volume irrigation.  As soil moisture is depleted, bark tightens and is less likely to be damaged from
+the shaker.  Also, as the season advances, the bark adheres more tightly to the trunk.  When harvesting
+early in the season, growers must be especially careful to avoid bark damage (Micke).
+Shakers can cause both direct and indirect damage to a tree.  Direct damage can cause torn,
+stripped, or compressed bark.  Severe trunk damage can cause root dieback.  Minor damage may
+cause calluses around the wound, with the tree healing eventually.  Indirect damage occurs when
+disease organisms, such as fungi or bacterial diseases, enter the tree through wounds caused by the
+shaker.  
+Production Perils
+Most natural perils affecting almond trees, including diseases and insects, can generally be
+controlled either through the application of pesticides or other management practices.   Some perils,
+however, are quite serious.  Very hot summers and flooding, for example, can kill a tree or cause it to
+become unproductive in future years.
+  
+Bud Failure
+Very hot summers, especially in August, tend to promote “noninfectious bud failure” (“crazy
+top”), a genetic disorder affecting almond trees.  The “Nonpareil” and “Carmel” varieties are
+moderately to highly susceptible.  Bud failure is not caused by a virus, nor is it contagious.  When bud
+failure occurs, tree buds do not mature in the following year.  Bud failure does not kill the tree, but
+renders it unproductive.  The only way to reduce the risk of bud failure is to plant less susceptible
+varieties (Sibbett; Freeman).
+Flooding
+Flooding can be a problem to almond trees.  Highly saturated soils may result in the death of the
+tree, or promote the development of fungal diseases.  In addition, almond trees are often shallow-
+rooted, and the combination of flooding and heavy winds can result in toppling.  Almond trees are
+especially susceptible to toppling if they are fully leafed (Sibbett).
+Diseases and Insects
+Several diseases can affect almond trees, although few are fatal by themselves unless they are
+combined with stressful weather conditions.  The most common diseases affecting almond trees include
+bacterial canker, crown gall, Armillaria root rot, leaf blight, Phytophthora root and crown rot, scab, and
+shothole.  Insects and nematodes also damage almond trees, but can usually be controlled. 
+19
+Diseases
+Bacterial Canker (Pseudomonas syringae)--This disease survives on plant surfaces, and is spread by
+splashing rain.  Bacterial canker tends to occur in the spring, and is favored by excess moisture and low
+temperatures.  When present, it tends to affect low and/or sandy spots in the orchard to the greatest
+extent.  
+The symptoms of bacterial canker include limb dieback, accompanied by rough cankers and an
+amber-colored gumlike substance.  Leaf spot and blast may also affect the young flowers and shoots. 
+Although the sour sap phase of bacterial canker may not produce gum and cankers, the inner bark is
+brown, fermented, and sour smelling.  Flecks and pockets of bacterial invasion may also appear on the
+bark outside the canker margins.  When the disease is present, almond trees frequently producer
+suckers. 
+Vigorous trees are less susceptible to bacterial canker than those that are in a weakened state. 
+Young trees, generally ranging from 2 to 8 years of age, are most commonly affected.  The disease
+rarely occurs in the first year of planting, and is uncommon in nurseries.  To discourage secondary
+invasion by wood rot organisms, infected trees should be pruned to remove cankered or dead scaffold
+limbs (UC Pest Management Guidelines). 
+Crown Gall (Agrobacterium tumefaciens)--Crown gall is a bacteria that survives in gall tissue and in
+the soil.  It enters the tree only through wounds, causing rough, abnormal galls on the roots or the trunk. 
+The galls are soft and spongy, and the decay appears in the centers of old galls.  Young trees become
+stunted, and older trees often develop secondary wood rots.  Crown gall is most damaging to young
+trees, and can appear either in nurseries or new orchard plantings.  Peach-almond hybrid rootstocks
+are more susceptible to crown gall than almonds that use a "Nemaguard" peach rootstock.  To prevent
+crown gall, trees should be purchased from reputable nurseries and handled carefully to avoid injury,
+both during planting and in the orchard.  A preplant chemical treatment can be used to reduce the
+likelihood of infection (UC Pest Management Guidelines). 
+Armillaria root rot (Armillaria mellea)--Armillaria root rot infects tree roots, producing a white or
+yellowish fan-shaped mycelial mat between the bark and the wood in the roots.  Dark brown or black
+rhizomorphs at times can be seen on root surfaces.  All stonefruit rootstocks are susceptible to
+Armillaria root rot.  “Marianna 2624,” a plum rootstock, has some tolerance and may be used in some
+situations.  The Armillaria fungus can, however, survive on dead roots.  
+Before a field can be treated, infected trees, stumps, and large roots (greater than 1 inch in
+diameter) must be removed.  Healthy-appearing trees adjacent to those exhibiting symptoms are often
+infected, and extension specialists advise removal of these trees and fumigation of the soil.  Infected tree
+material should be burned at the site or in areas where the remains cannot be washed to agricultural
+lands.  
+Complete eradication of this disease is rarely achieved, and retreatment may be necessary in
+localized areas.  If the soil is wet, or if it has extensive layers of clay to the depths reached by the roots,
+fumigant treatment may not be successful.  The greatest opportunity for eradication occurs on shallow
+20
+soils less than 5 feet deep.  Methyl bromide has been used for treatment from late summer to early fall
+(UC Pest Management Guidelines). 
+Leaf Blight (Seimatosporium lichenicola)--Leaf blight is a fungus that survives on dead petioles.  The
+fungal spores are spread by rain, and the disease favors wet spring weather.  When present, leaf blight
+causes the leaves at the base of the shoots to wither and die in early summer.  The dead areas then
+spread to the base of the petioles.  The disease rarely destroys more than 20 percent of the leaves in a
+season.  Repeated early leaf death, however, causes weakened trees, and may result in yield losses. 
+Losses are not usually severe or widespread.  Fungicides can be used to help control leaf blight (UC
+Pest Management Guidelines). 
+Phytophthora Root and Crown Rot (Phytophthora spp.)--This disease is favored when the soil is
+saturated for periods of 24 hours or more, which is common with flood irrigation in California.  Good
+soil drainage and frequent (but shorter) irrigations reduce the risk of infection.  Rootstocks vary in
+susceptibility to the different Phytophthora species, but none are resistant to all species.  Therefore, the
+success of a rootstock may depend in part on the species of Phytophthora present in the orchard.  Plum
+rootstocks, especially “Marianna 2624,” tend to be more resistant than peach or apricot rootstocks to
+Phytophthora.  
+The symptoms appearing when Phytophthora is present depend upon the extent of root or
+crown tissue infection.  Usually, phytophthora rots advance rapidly and the trees die soon after the first
+warm spring weather.  The leaves of infected trees wilt, dry, and remain attached to the tree.  Some
+phytophthora root infections, however, cause slow growth and early senescence and leaf drop.  These
+trees may be unproductive for several years before finally succumbing to the disease.  Phytophthora
+infections typically kill young trees because their root systems and crown areas are small when
+compared to mature trees.
+Proper water management is the most important aspect in controlling root and crown rot. 
+Water should not be allowed to accumulate or stand around the crowns of the trees.  In addition,
+adequate drainage must be provided in low spots in orchards, in areas that flood frequently, and in
+areas where water penetration is extremely poor.  Trees that are replanted where phytophthora is
+present should be planted as shallowly as possible on small mounds, or on broad ridges (8 to 10 inches
+high), with the upper roots near the soil level.  Planting depth should be no deeper than in the nursery,
+and the graft union should be well above the soil line (UC Pest Management Guidelines). 
+Scab (Cladosporium carpophilum)--Scab is a fungus that survives  in twig lesions.  The spores are
+spread by wind and rain.  Prolonged wet spring weather, prevalent in the Sacramento Valley, provides
+favorable conditions for scab growth.  Scab appears as grayish-black, soft-looking spots on leaves,
+fruit, and twigs.  Young lesions are indistinct small, yellow specks, which can be seen most easily when
+the leaves are held up to the light.  The lesions are not visible until late spring or early summer.  Severe
+scab infections cause early defoliation.  If left uncontrolled for several years, infected trees become
+weakened.  The disease often occurs in sprinkler-irrigated orchards where water falls upon the foliage. 
+Scab can be treated with fungicides (UC Pest Management Guidelines). 
+21
+Shothole (Wilsonomyces carpophilus)--Shothole is a fungus that survives on infected twigs and as
+spores on healthy buds.  The spores are moved by water to new sites.  As a result, lengthy periods of
+wetness, either caused by rainfall or sprinkler irrigation, promote development of the disease.  Shothole
+causes spots to appear on the leaves, fruit, twigs, and flowers.  Flower and twig lesions, however, tend
+to be relatively scarce or difficult to find.  Leaf lesions begin as tiny, red specks that enlarge into spots
+that have tan centers and purplish margins.  The fruiting structure of the spore appears as a small, dark
+speck in the center of the spot.  Spots on young leaves usually fall out, leaving a “shothole” effect. 
+Older leaves retain their lesions.  The spots on the fruits are small with purplish margins, are slightly
+corky and raised, and are found on the upper surfaces of the fruit.  Heavy infestations may cause
+distortion or gumming on the fruit.  Shothole can cause losses in yield, defoliation, and weakened trees. 
+Fungicides can be used as a protectant against the disease, but they will not eradicate the fungus. 
+Fungicides should be applied to foliage and fruit before a wet period in order to protect the tree (UC
+Pest Management Guidelines). 
+Insects
+San Jose Scale (Quadraspidiotus perniciosus)--When this insect is present, the egg stage is not
+visible.  Rather, the scales are first present, emerging as nymphs.  The crawlers are bright yellow and
+tiny (about the size of the sharp end of a pin), with well developed eyes, antennae, and legs.  After
+locating a feeding site, the crawler begins feeding; loses its antennae, legs, and eyes; and becomes
+immobile.  It secretes a waxy substance that covers its body.  Initially, the waxy covering is white (white
+cap), but then turns darker (black cap).  Males have a more elongated covering than the females,
+molting four times, while females have a rounder covering and molt twice.  The male emerges as a
+winged adult and the female remains wingless.  Three to four generations of scales can breed per
+season, averaging about 7 to 8 weeks per generation.
+Scales suck plant juices from twigs and limbs, and inject a toxin, resulting in loss of tree vigor,
+growth, and productivity, and possible death of limbs.  A red halo is produced around a feeding site on
+1-year-old wood.  Untreated infestations can kill fruit and scaffold wood within 1 to 3 years.  Scale can
+be controlled with the proper use of insecticides or dormant oil sprays (UC Pest Management
+Guidelines).  
+Tenlined June Beetle (Polyphylla decemlineata)--The larvae of this beetle feed on tree roots, and can
+cause severe injury and death to mature almond trees.  Adults cause no damage.  The larvae are
+cream-colored grubs with a brown head capsule.  They live in the soil and are about one inch long at
+maturity.  One generation appears every 2 years, with the adults emerging from the soil between late
+June and August.  Currently, no registered pesticides can be used to control this pest after the trees are
+planted.  Control requires the removal of infested trees and soil fumigation with methyl bromide or
+chloropicrin before replanting.  All infested trees, plus one or two uninfested trees on all sides of the
+infested trees, should be removed to eliminate the beetle (UC Pest Management Guidelines). 
+Tree Borers (the Prune limb borer: Bondia comonana and the American plum borer: Euzophera
+22
+semifuneralis)--Tree borers are sporadic pests that can infest young almond orchards.  They are
+present from Tehama to Merced counties and can affect all major almond cultivars.  The “Carmel” and
+“Price” varieties are most susceptible.  The borers have grey forewings with brown and black marks,
+and a wingspan of about 0.75 inch.  They overwinter in cocoons within the tree, and adult moths
+emerge in April and May.  The mature larvae are about 1 inch long, and have a dull white or pinkish
+body.  The females lay eggs near pruning wounds, in the scaffold crotches of young trees, near graft
+unions, or on crown galls.
+The larvae of this pest bore into the trees, leaving reddish-orange debris and gum pockets.  The
+boring is most damaging to the scaffold crotches or graft unions of young trees.  Vigorous trees can heal
+over borer damage.   When heavy, prolonged infestations occur, however, scaffold branches may
+break in the presence of high winds or a heavy crop.  The damage is most severe on the “Carmel” and
+“Sonora” varieties.  Pesticide spraying is used to help control tree borers (UC Pest Management
+Guidelines). 
+Western Tent Caterpillar (Malacosoma californicum)--These caterpillars overwinter in the egg stage,
+hatching in the spring and early summer. They are hairy and dull yellow-brown with rows of blue and
+orange spots on the tops of their bodies.  One generation of caterpillars appears each year.  Tent
+caterpillars can cause serious damage to individual trees and along orchard edges, but their effects are
+usually scattered randomly throughout the orchard.  Young orchards are usually the most severely
+affected. 
+In April and June, tent caterpillars build large, silken tents over the leaves on which they are
+feeding.  Because they do not eat the leaf veins, damaged leaves are skeletonized.  Other types of
+caterpillars can cause similar damage, but do not produce the silken webbing.  To control for tent
+caterpillars, infested twigs of small trees should be removed and destroyed.  Spraying for other insects
+often reduces caterpillar populations.  Usually, localized treatment on infested trees is sufficient (UC
+Pest Management Guidelines). 
+Nematodes
+Nematodes affecting almond trees include:  root knot (Meloidogyne spp.), root lesion
+(Pratylenchus vulnus), ring (Criconemella xenoplax), and dagger (Xiphinema americanum)
+nematodes.  The rootstocks used in grafting almonds differ in their response to various plant-parasitic
+nematodes.  “Nemaguard” peach rootstock, almond-"Nemaguard" hybrids, and “Marianna 2624,” all
+of which are resistant or immune to most common and injurious root knot nematodes, are susceptible to
+ring and root lesion nematodes.  Other peach rootstocks (such as “S-37”) offer resistance to some
+types of root knot species, but not others.  Almond rootstock is susceptible to root knot, root lesion,
+and ring nematodes.  
+The use of rootstocks resistant to certain types of nematodes may be limited by soil and
+horticultural considerations.  Before planting, soils should be sampled for nematodes, especially if the
+area previously was planted to an orchard or vineyard.  If any of the nematodes that affect almonds are
+present, preplanting fumigation is necessary (UC Pest Management Guidelines). 
+23
+Animals
+Animals such as gophers and voles can cause severe damage to young almond trees, and may
+result in plant death.   Animals can chew the bark from young trees, damaging them to the extent that
+they are unable to thrive (Freeman).
+Hazelnuts
+U.S. hazelnut planted area totaled 32,674 acres in 1992, with nearly 99 percent of the total
+located in Oregon (Census of Agriculture).  Washington reported 387 acres, while all other states
+combined reported 34 acres.  Oregon’s Willamette Valley is uniquely suited for hazelnut production
+because of the climate-moderating effects of the nearby Pacific ocean.  Extreme winter cold or extreme
+summer heat reduces hazelnut yields, and production is commercially unprofitable in many other
+traditional nut-producing areas of the country.
+Hazelnut Tree Characteristics
+The hazelnut plant grows naturally as a bush or a multi-trunked, shrubby tree.  In Turkey and
+other countries in southern Europe, hazelnuts have been grown in this manner for centuries (Baron, et
+al.).  In Oregon, however, hazelnuts usually are trained to grow as single-trunked trees, and may attain
+a height of 30 feet with proper management and good soil.  
+While the tree itself is quite hardy, it requires a relatively moderate climate for successful nut
+production.  Extremely low temperatures kill the pollen-producing catkins (the male flowers), reducing
+or preventing pollination.  Catkins freeze at about 15o F, while the female flower buds are destroyed at
+about 10o F.  Extreme summer heat also is detrimental to hazelnut trees.  The leaves dry up during hot,
+dry days, which stresses the tree and reduces nut production. 
+Hazelnut trees may produce nuts during their second or third year, but require about six years
+before producing commercial-sized yields.  Mature orchards may produce up to a ton-and-a-half of
+dry nuts per acre.  A well-managed orchard generally averages at least 1,500 pounds of dry nuts
+annually, and remains productive for at least 40 years.  The average U.S. hazelnut yield can vary widely
+from year to year, but has been trending upward. 
+Hazelnut flowers form more than a year before harvest.  In a typical season, the pollen-
+producing catkins begin to form in April or May, and mature in December or January.  The female
+flowers, in contrast, begin to form in late summer, and are first seen only in November or early
+December.  The peak pollination period occurs during January and February, when the female flower
+clusters appear as bright red tufts of feathery stigmas that peak from beneath bud scales.
+At the time of pollination, the female flower has not yet produced the egg cells from which the
+young nuts will grow.  Rather, the female flowers store the captured sperm until a mature ovary
+containing an egg cell develop.  Only then, during May or June, does fertilization occur.  Thus, a period
+of 4-5 months lapses between pollination and fertilization of the egg cells.  In contrast, fertilization in
+24
+most plants follows pollination by a few hours or a few days.
+Varieties
+Hazelnuts are self-incompatible, which means that the pollen from a given variety will not
+fertilize the female flowers of the same variety.  Certain combinations of varieties also are cross-
+incompatible, meaning that the pollen from one variety is ineffective in setting nuts on the other. 
+Consequently, compatible pollinating trees must be planted among the principal variety to assure good
+nut set.  Six or seven trees per acre of a compatible pollinating variety, evenly distributed throughout the
+orchard, usually provide adequate pollination (Baron).
+“Barcelona” is the primary variety planted in Oregon, and accounted for over 77 percent of
+total hazelnut plantings in 1993 (Oregon Agricultural Statistics Service).  It is a slow-growing tree that
+produces large, high-quality nuts good for the in-shell market.  “Barcelona” is susceptible to a nut
+disorder called brown stain, but is reportedly somewhat tolerant to a devastating fungal disease known
+as eastern filbert blight (EFB) (Pinkerton).  A number of the newer orchards are being planted with
+other varieties.  
+“Ennis” has become the second most-popular hazelnut variety, accounting for nearly 11 percent
+of tree plantings in 1993.  Like “Barcelona,” “Ennis” produces large hazelnuts and is grown as a nut
+producer rather than as a pollinator.  This variety is moderately susceptible to EFB. 
+The third most widely-grown hazelnut variety in 1993 was “Daviana,” accounting for less than 5
+percent of total plantings.  “Daviana” is an excellent pollinator for “Barcelona” and has been grown
+primarily for that purpose.  It produces less desirable nuts than the other varieties, and is highly
+susceptible to EFB and to an insect called “big bud mites.”
+The remaining varieties account for a small share of hazelnut plantings.  “Casina,” which is a
+relatively new variety in Oregon, accounted for about 3 percent of tree plantings in 1993.  It is grown
+as a nut producer and, like “Barcelona,” is considered to be moderately tolerant of EFB. “Duchilly,”
+“Butler,” and “Royal” collectively accounted for less than 3 percent of tree plantings.  “Duchilly”
+produces long, large, good-quality nuts, but they are slow to drop and difficult to husk.  “Royal”
+produces large, early-maturing nuts and is typically pollinated by “Daviana.”  “Butler” is more
+productive than “Daviana” and is recommended as a pollinator for “Barcelona” (Baron).
+Propagation and Planting
+Hazelnuts are propagated by layerage, which means that the plant is rooted while it is still
+attached to the parent plant.  Suckers from an orchard tree or stems from a “mother” plant in a stool
+bed are bent into an S-shape so that one bend is under ground while the tip end of the stem remains
+above ground.  Roots develop on the underground portion of the “S” and form the new tree.  Recently,
+hazelnuts have also been grafted, which involves grafting desirable varieties onto nonsuckering
+rootstocks.  
+Hazelnut trees are planted in early winter.  The earlier in the season that a tree is planted, the
+more its roots develop before it develops leaves in the spring.  The roots of newly-planted trees grow
+     3  For cost of production budgets, see the appendix.
+25
+even during January and February, as long as soil temperatures are at 40o F or above.  Young trees
+with well-developed root systems grow more vigorously than ones with fewer roots, and they are better
+able to survive drought stress during their first years. 
+The trunks of young hazelnut trees are easily sunburned, especially near the surface of the soil. 
+Sunburn (also known as sun scald) deforms the young trees and opens wounds into which bacterial
+blight infections can enter.  Painting newly-planted trees with a dilute solution of white paint or
+surrounding them with tree protectors provides protection against sunburn.
+Growers may intercrop newly-planted hazelnuts for the first few years.  When trees are inter-
+cropped, another crop (such as strawberries or beans) is planted between the rows of trees. When the
+land is irrigated, inter-cropping can reportedly promote growth of new trees (Baron).  
+Cultivation and Management Practices3
+Soil Requirements
+Soil quality is one of the most important factors in choosing an orchard site for hazelnuts in
+western Oregon.  Good hazelnut land is deep (8-10 feet or more), well drained, and neither extremely
+clayey nor extremely sandy.   Deep soils are better able to provide a large supply of water and
+adequate plant nutrients during dry seasons than are shallower soils.  Hazelnuts trees that are planted on
+shallow soils may grow well for several years.  After 8 to 10 years, however,  the orchard may become
+a poor producer because soil depths restrict the development of deep roots that are needed by larger
+trees (Baron).  
+Climate
+The ideal climate for hazelnuts is one with relatively long, mild winters.  Mild winters are a
+necessity because hazelnut catkins die at temperatures below 15o  F.  As a result, production is not
+feasible in areas where winter temperatures drop below this critical level.
+Good air drainage is also a factor in locating orchards, due to the damage that late spring frosts
+can cause to flower clusters and succulent green shoots.  Trees planted on sloping land with good air
+drainage are less likely to be damaged by such late spring frosts than are those planted in low-lying
+areas.  Cold air tends to flow from sloping land into surrounding low-lying areas, where it accumulates
+and forms “frost pockets.”  As a rule, such frost damage to hazelnuts is unusual in Oregon
+(Mehlenbacher, 1997a).
+Although varying by cultivar, hazelnuts have a fairly high winter “chilling requirement,” which
+precludes production in subtropical areas of the country.  The chilling requirement is the minimum
+number of accumulated hours with temperatures between freezing and 45o F which the plant needs
+before the leaf buds break in the spring (Mehlenbacher, 1990).  Hazelnut flower buds also have
+26
+minimum chilling requirements, but they tend to be shorter than for leaf buds.
+27
+Training
+Young hazelnut trees must be trained to develop a strong system of major scaffold limbs. 
+Training begins at planting when the young tree is cut back to a height of 30-36 inches.  Then, during
+the first two to three years of growth, all except 3 to 5 of the side shoots are removed.  These shoots
+become the tree’s scaffolding on which fruiting wood develops.  Also, all sucker growth is removed to
+force the plant to grow as a single-trunked tree rather than following its natural tendency to develop as
+a multi-stemmed shrub.
+Orchard Floor Management
+Hazelnut growers commonly use a combination of herbicide sprays and mechanical flailing to
+maintain most orchard floors.  Typically, herbicides are used to kill vegetative growth within the tree
+rows, while flailing is used to control the ground cover between the rows.  In addition to cutting weeds
+and grass down to ground level, flailing helps chop up leaves and small twigs in the spring, as well as
+blank nuts that have dropped to the ground before harvest in the fall.  Flailing may begin as early as
+March, and is usually required four to six times per season.  Growers may also flail the orchard floor
+following harvest to mulch leaves and eliminate any remaining old crop nuts which can attract rodents.
+Irrigation
+Most hazelnut trees rely on natural rainfall for water, and less than 10 percent of Oregon’s
+orchards are irrigated.  Orchards that are irrigated are usually those on sandy soils or plantings of young
+trees (Jossy).  Although most hazelnut roots are located in the first two feet of soil, active root systems
+can penetrate to depths of 8-10 feet in deep soils.  The cost of irrigation relative to its benefits is an
+important consideration for growers.  Shallow soils are often poorly drained, and irrigation does not
+necessarily improve the suitability of such soils for hazelnuts.  The greatest benefit of irrigation is in
+establishing a young orchard, where it promotes the rapid development of large trees (Baron).
+Pruning
+Hazelnuts are produced on new wood, and it is important that trees produce an abundant
+amount of new growth.  Vigorous pruning promotes the growth of these new shoots.  An added benefit
+of proper pruning is that it reduces limb breakage from ice and snow.  One guideline for pruning is to
+remove one-half of the fruiting area from one-fifth of the trees annually, while leaving as large a
+framework as possible (Riggert).  Pruning mature trees also helps suppress the alternate-year bearing
+tendency of hazelnuts. 
+Hand pruning permits more precise cutting and removal of desired wood than mechanical
+pruning.  Nevertheless, mechanical hedging and topping are widely used to speed up the operation and
+reduce costs.  Since mechanical pruning involves indiscriminate cuts, growers may follow up with hand
+pruning to further thin out interior growth.
+28
+Sucker Control
+Hazelnut trees are prone to producing sucker growth (shoots sprouting from the base of the
+plant), and will develop as a bushy shrub rather than as a tree if the suckers are not removed.  Most
+growers use chemical herbicides to control suckers, spraying when the shoots become six to nine
+inches tall.  If the suckers grow more than nine inches, chemical herbicides may not kill them.  In this
+case, they must be removed by hand.  Typically, orchards require three to four herbicide treatments per
+year to control suckers.  
+Orchard Nutrition
+Major plant nutrient requirements for hazelnuts include nitrogen, potassium, magnesium, and
+boron.  Nitrogen promotes vegetative growth, with mature trees usually requiring 1½ to 2 pounds of
+nitrogen annually.  Younger trees require smaller applications.  Potassium promotes leaf growth and nut
+development, and growers may apply up to 10 pounds per tree in the form of potash.  Potassium is
+usually applied when leaf and soil analysis results indicate such a need.  Hazelnut trees use very little
+phosphorus, and deficiencies have not been indicated in Oregon.  Applying phosphorus fertilizer
+reportedly does not increase hazelnut yields in Oregon (Baron).
+Hazelnut trees may also require the application of magnesium and/or boron for maximum growth. 
+These elements are usually applied as a foliar spray when tissue analysis indicates a need.  
+Excessively acid soils can limit hazelnut tree performance because pH levels below 5.6 reduce
+the availability of soil nitrogen and magnesium to the trees.  If the soil profile is too acid for hazelnuts,
+growers can apply agricultural or dolomitic lime to raise the soil pH.
+Moss and Lichen Control
+The most serious problem caused by moss and lichens is that they result in extra snow and ice
+accumulating on the limbs during winter storms.  At times, this additional weight can cause excessive
+limb breakage.  Moss and lichen growth on limbs can be controlled by applying copper and lime sulfur
+sprays during the winter or early spring.
+Preharvest Care
+Growers flail the orchard floor one last time just before filled nuts begin to drop in early
+September.  The flailing action grinds up blank nuts and twigs that have fallen early, and puts the
+orchard floor in proper condition for harvesting.  Ethephon, an abscision chemical, is at times sprayed
+on the trees in late August or early September to hasten nut drop.   
+ 
+Harvesting
+Commercially-grown hazelnuts in the United States are harvested mechanically.  After 90
+29
+percent or more of the nuts have dropped to the ground, they are raked from beneath the trees with
+either an air blast machine or mechanical rake, and deposited into a swath between the tree rows.  A
+pickup machine following the rake lifts and separates the nuts from the leaves, twigs, and other trash
+and deposits the cleaned nuts into a tote box.  When the tote boxes are filled, a driver with a forklift
+tractor moves them out of the orchard.  With such a system in place, 15 tons or more tons of nuts can
+reportedly be harvested per day (Riggert).  
+A modern harvesting system requires a large capital investment, and neighbors may work
+together to use their equipment more fully.  In addition, smaller orchards may use less expensive
+harvesting systems that have lower harvesting capacity.  Increasingly, however, growers are cash
+renting or share cropping several orchards to expand the size of their hazelnut operations and to capture
+the economies of size from their investment in harvesting equipment.
+Production Perils
+Several natural perils may cause yield losses in hazelnuts, the most serious of which are
+extremely cold temperatures and excessive rain during pollination.  A number of other perils can reduce
+yields, although growers have some degree of control over the extent of damage.  Virtually no weather
+perils have occurred in the Willamette Valley that kill or permanently disable hazelnut trees.  The major
+threat to hazelnut trees is the Eastern Filbert Blight (Mehlenbacher, 1997b).
+Eastern Filbert Blight (EFB)  
+Eastern filbert blight is a relatively new disease to the Pacific Northwest which infects the stems
+and twigs of the hazelnut tree.  Infections girdle the branches, and the leaves beyond the infected area
+wither.  Severely infected trees develop perennial cankers, which eventually girdle entire scaffold limbs. 
+Trees are usually killed a few years after the cankers spread to the main trunk.  The disease is spread
+within the orchard and beyond by spores carried by wind and rain.  
+Most cultivars are susceptible
+to this disease in varying degrees.  “Daviana,” “Butler,” and “Duchilly” are highly susceptible. 
+“Barcelona” is considered somewhat tolerant, as infected trees of this variety can remain productive for
+several years before they eventually die (Mehlenbacher, 1990).  “Casina” reportedly has about the
+same EFB tolerance as “Barcelona” (Pinkerton).  EFB disease has been present in the eastern United
+States for many years, and the native American hazel reportedly is a natural host of the disease.  This
+native species, however, appears tolerant of infections, suffering little or no ill effects.  
+The first infections in the Pacific Northwest were discovered in Washington in about 1970
+(Pinkerton).  The disease has gradually moved southward since that time into the main hazelnut area in
+Oregon.  The movement of the disease southward appears to be slowed by the prevailing direction of
+the wind in western Oregon.  The disease’s spores are released during rainy weather and are carried by
+the wind.  However, during the rainy season, the prevailing wind is from the southwest, and this tends to
+carry the spores back northward towards Washington.  Currently, the disease has spread about 35-40
+miles southward into the Willamette Valley. 
+Growers with infected orchards have been able to manage EFB with additional fungicide sprays
+30
+and continuous scouting and pruning, but at an increase in cost.  Once the disease is in the orchard,
+growers must apply 2-4 additional fungicide sprays annually and must continually scout the trees for
+infections, pruning out infected wood.  These scouting and pruning activities are labor intensive
+operations and add substantially to production costs.  Progress is being made in developing resistant
+varieties, but varietal development is a long-term process that requires many years before a new variety
+can be tested and its yields proven under commercial production conditions.
+Bacterial Filbert Blight
+Bacterial blight, commonly known as filbert blight, is also a serious hazelnut disease in Oregon,
+particularly among young trees.  The most serious damage occurs to trees less than 5 year old. 
+Infections cause trunk girdling and kill young plants.  Trunks of older trees are seldom infected, but
+buds and nut-bearing twigs in the tops may be killed, thereby reducing yields.  The disease is most
+prevalent after heavy fall rains and is most serious when a wet fall is preceded by another fall season
+with heavy rains.
+Copper sprays or copper dust applied in late August or early September (before the first heavy
+rains) usually control filbert blight.  In seasons with heavy and prolonged rainfall, a second application
+may be necessary after the trees have shed some of their leaves.  Avoiding unnecessary tree damage
+helps reduce infections by preventing the blight organism from entering the tree.
+Animals
+Deer are particularly damaging to young hazelnut trees in orchards next to wooded areas, as
+they browse on the foliage and new shoots.  The use of deer fencing around the entire orchard is an
+effective, but expensive, solution.  Chemical and other repellents have proven only partially effective at
+reducing deer damage.
+Gophers may kill young hazelnut trees by gnawing on the roots.  They are often attracted to the
+orchard by the succulent roots of a cover crop, but turn their attention to the hazelnut trees after the
+cover crop is turned under.  Control measures include the use of toxic bait, burning sulfur with a weed
+burner down the gopher hole, and trapping.
+Meadow mice can damage hazelnut trees by girdling the roots and stems.  Eliminating any
+ground cover around the trees minimizes this damage.  Poison baits also provide economical and
+effective control.
+Weeds
+Weeds are controlled by the combined use of herbicide applications and flail chopping. 
+Herbicides are used to control weeds within the tree row or in circles around individual trees, while
+weeds between trees are controlled by flailing.  
+31
+Moss and Lichen
+The most serious problem caused by moss and lichen is additional limb breakage during heavy,
+wet snows and ice storms.  A good pruning program, combined with fertilization and other management
+practices that encourage vigorous tree growth, usually keep moss and lichen damage under control. 
+Sprays also can be effective in controlling these bark parasites.
+Pecans
+In terms of production value, pecans rank third-highest among tree nut crops grown in the
+United States, following almonds and walnuts.  In 1995 and 1996, U.S. pecan output averaged 245
+million pounds and had a farm value of over $200 million.  Although pecans are produced across the
+southern United States, Georgia and Texas are the leading states.
+According to the Census of Agriculture, 21,206 farms grew pecans in the United States in
+1992.  Pecan trees covered 473,426 acres in 27 states.  Texas and Georgia accounted for more than
+half of the total area, with 35 and 27 percent of U.S. acreage, respectively.  Other states with
+substantial pecan acreage in 1992 include Oklahoma, Alabama, New Mexico, Mississippi, Arizona,
+Florida, and Louisiana.
+Output levels are not only influenced by alternate bearing patterns, but also by the type of
+pecan trees that are grown.   Some types regularly produce more nuts than others.  There are two
+major classifications of U.S. pecans--native (seedling) varieties and improved varieties.  Native pecan
+trees result from seeds, while improved varieties result from budding or grafting.  Managed native
+stands generally produce fewer, smaller, and lower-quality pecans than improved varieties.  
+Pecan Tree Characteristics 
+Pecan trees are deciduous, dropping all their leaves in the fall.  They require a period of
+dormancy between bearing cycles.  Mature pecan trees can become very large and are long-lived. 
+Pecan trees do not produce nuts for 5-10 years after planting, but can continue producing for over a
+hundred years.  
+Because pecans do not reproduce true from seed, improved varieties have been developed that
+are propagated by grafting to maintain the desirable characteristics of the tree and nut.  Most pecan
+orchards are planted to at least four cultivars to aid in pollination.  The nuts produced by each cultivar
+are usually very distinct in size, shape, and color, and the trees may be planted in separate rows to
+facilitate harvesting only one variety at a time. 
+ 
+Pecan trees have a pronounced tendency toward alternate-year bearing.  A typical pecan-
+growing season begins with bud-break in April, followed by pollination in May, and nut sizing in June. 
+Nuts are developing and growing on the tree until shuck split in October, and harvesting may not occur
+until mid-December.  Good orchard management can discourage alternate-bearing tendencies by
+alleviating conditions that stress trees.  Factors such as soil fertility, over-crowding, variety, and the age
+32
+of the tree also influence bearing patterns.
+Varieties
+Pecan orchards usually contain several cultivars that are carefully chosen for their yields, nut
+quality, and tolerance of insects, diseases, and cold temperatures.  Most of the pecans planted in
+Southeastern orchards before 1950 were the “Stuart,” “Schley,” “Moneymaker,” or “Success”
+cultivars.  Orchards planted within the last forty years may contain the “Desirable,” “Cape Fear,”
+“Cheyenne,” and “Elliot” cultivars.  In the Southwest, “Western” and “Wichita” are important cultivars. 
+Cultivars with Indian names have been developed by USDA.
+Stuart
+“Stuart” is the old-standard pecan cultivar of the South, and begins to bear 8-10 years after
+planting.  It originated as a superior seedling tree discovered in Mississippi in 1886.  This variety
+comprised about one-fourth of all commercially-producing trees in Georgia in 1989, and is probably
+still the dominant variety.  
+“Stuart” trees have only mediocre scab resistance and are susceptible to downy spot and
+phylloxera.  “Stuart” is one of the most consistently high-yielding cultivars, although the nuts are rather
+small and thick-shelled, with medium-to-low kernel percentages.  Nut quality is average, but demand is
+usually good for this variety and prices for “Stuart” pecans are relatively high. 
+Schley 
+Like “Stuart,” “Schley” is another older pecan cultivar.  It was planted extensively after its
+introduction in 1898, and there are still many “Schley” trees throughout the Southeast.  The nuts are
+oblong, with a thin, brittle shell and a golden-colored, high-quality kernel.  The yield-per-acre is usually
+low, however, and “Schley” is susceptible to scab and bunch disease.  The nuts may need to be hand
+picked since mechanical harvesting can damage the thin shells. 
+Moneymaker
+“Moneymaker,” introduced in Louisiana in 1896, was at one time planted throughout the
+Southeast.  Georgia still has many “Moneymaker” trees.  The nuts are fairly small, light colored, and
+round with moderately-thick shells.  The trees are high yielding and have a strong alternate-bearing
+tendency.  “Moneymaker” is moderately susceptible to scab, but is resistant to bunch disease.
+Success
+The “Success” cultivar was introduced in 1903 in Mississippi.  It is less widely planted in older
+33
+orchards in Georgia than in other Southeastern states.  The short, round trees produce large nuts that
+have a tendency to retain part of the shuck after harvest.  Yields can be high, but nut quality is
+extremely variable.  The “Success” cultivar is susceptible to vein spot, shuck dieback, stem-end blight,
+and scab.
+Elliot 
+“Elliot” originated from a seedling and was introduced in Florida in 1925.  It is a very scab-
+resistant cultivar that provides a favorite rootstock and is a good pollinator.  The nuts are small, but of
+high quality.  The tree has a tendency to become increasingly alternate bearing as it matures.  It is also
+susceptible to cold injury and aphid infestations. 
+Desirable 
+“Desirable” was introduced in 1930 in Mississippi and has been widely planted throughout the
+Southeast since the 1950's.  It is one of the most widely-grown cultivars and continues to be
+recommended for new plantings.  “Desirable” replaced “Schley” as the second most-important variety
+in Georgia in the late-1980's.  This cultivar is known for its consistent production of large, high-quality
+nuts, and it rarely over-produces.  The nuts have a light-colored shell with peppery markings. 
+“Desirable” has only moderate resistance to scab and other diseases, however, and is susceptible to
+winter injury.  The tree has a weak structure and its limbs break easily.  As a result, it requires careful
+training.
+Cape Fear
+“Cape Fear” was developed from a “Schley” seedling.  It was introduced in 1941 in North
+Carolina, and has recently regained popularity.  The nuts are of good quality with dark shells and bright
+(golden) kernels.  The variety has adequate scab resistance, but is susceptible to leaf scorch and
+angular leaf spot.  The trees begin to produce marketable crops about 5 years after planting.  They are
+a good early- and mid-season pollinator that produces high yields, and can be planted successfully in all
+the Southeastern states. 
+Cheyenne 
+“Cheyenne” was released by USDA in 1970, and is recommended for planting in seven
+Southeastern states, from South Carolina to east Texas.  Planting of Cheyenne is not, however,
+recommended in Georgia or Alabama.  It has an early pollen shed that may enhance yields in some
+orchards (depending on other cultivar plantings), and it is very resistant to pecan scab.  Although
+“Cheyenne” begins bearing 5 years after planting, the tree is slow-growing.  It is also prone to alternate
+bearing, and is susceptible to aphid infestations.  “Cheyenne” produces medium-sized, high-quality nuts
+that are bright-colored and wrinkled, with near-perfect halves.
+34
+35
+Western
+This cultivar was known as “Western Schley” when it was first developed from progeny of a
+native pecan found near the junction of the San Saba and Colorado Rivers in Texas in the 1870's
+(Hancock).  “Western” is the standard pecan variety of west Texas, due to its tolerance of heat and
+drought.  The nuts are medium-sized and ripen in mid-to-late season.  Early freezes occuring before the
+shuck is completely open can cause the shuck to adhere to the nut (McEachern).  In addition,
+“Western” has been seriously affected with what is believed to be a stress problem that occurs when
+the shuck fails to open to release the mature nut (Stein).
+Wichita
+“Wichita” was developed in an early breeding program established in Brownwood, Texas. 
+With good management, this cultivar can be vigorous and very productive.  The nut is medium-sized,
+with a high percentage kernel and excellent kernel color.  If any of its soil, space, climatic, or other
+requirements are lacking, however, “Wichita” will develop poor foliage cover and be low yielding. 
+“Wichita” is also susceptible to cold injury.  In addition, it can only be grown in the arid Southwest
+because it is highly susceptible to scab (McEachern).
+Propagation and Planting 
+Pecans are described as either "native and seedling" or "improved varieties" depending on the
+method of propagation.  A native pecan tree differs from its parent because it developed from a seed
+that resulted from cross-pollination.  Therefore, each native tree is really a unique variety. In contrast,
+improved varieties are propagated by grafting a bud or shoot from a named cultivar onto a rootstock. 
+The upper portion of the tree, above the graft line, is identical to the parent.  Improved varieties are
+selected for superior disease and insect resistance, nut yields, quality, and other desirable
+characteristics.  A new pecan cultivar requires about 25 years for development. 
+Cultivation and Management Practices 
+Most pecan trees have an alternate bearing characteristic.   Although less pronounced in some
+varieties, the trees produce a large crop during the “on” year, depleting the tree's nutrient reserves. 
+Since pecan trees carry nuts for most of the growing season, there is little time after the nuts drop in the
+fall for the tree to build up reserves before dormancy.  Consequently, the tree uses the next season to
+recuperate and produces fewer nuts in that year.  Good management practices, including adequate
+water and nutrients and control of crop size, can avoid tree stress and minimize alternate-year bearing. 
+Soil
+Pecans grow as native plants in river valleys where the nutrient-rich alluvial soil deposited by
+36
+flooding is well-suited to their needs.  The soil must have good water storage capacity, as well as good
+drainage.  Upland soils, especially sandy loams, are also suitable if several feet of loose, permeable top
+soil are present, and there are no compacted layers to hinder root growth.  Pecans should ideally be
+located where a permanent, static water table runs 10 to 25 feet below ground, providing deep water
+that can be reached by long tap roots and used when the tree is stressed by drought.  Surface water
+should be regularly provided by rainfall or irrigation.  Upland soils should typically be irrigated.  
+Pecan trees are both drought resistant and tolerant of  limited water saturation.  The long tap
+roots allow the pecan tree to tolerate drought conditions, although drought stress reduces nut yields.  At
+the same time, the tree is capable of surviving floods and can stand in water for several weeks.  Pecan
+trees are more tolerant of standing water during the winter months, when the oxygen levels in the water
+are high, than in the summer.  Pecan trees cannot tolerate continuous saturation in the summer months,
+and tree death due to excessive waterlogging may result (Thompson; Wood).
+Temperature 
+Pecan-growing areas in the U.S. generally have growing seasons of 240- to 280- days. 
+Summer temperatures between 75o F and 85o F, with little difference in day time and night time
+temperatures, are the most conducive to tree growth and nut production.  The minimum growing
+temperature is about 50o F.  Although pecan trees have adapted to colder climates, the minimum winter
+temperature in its native habitat is 0o F to -10o  F, and the average winter temperature is 45o  F.  Some
+studies have indicated that pecan trees have a chilling requirement of at least 400 hours at 45o  F or
+below (Wolstenholme).
+Pruning and Thinning
+Young trees require training during the first five years to develop a strong central leader and to
+eliminate narrow limb crotches which will split easily when subjected to strong winds and heavy crops. 
+Thinning and pruning are required as the orchard matures to ensure that all branches receive sufficient
+sunlight to thrive and produce nuts.  For trees that are more than 20 years old, pruning is usually a less
+effective way to raise the yield per tree than through the use of thinning.  If the limbs of pecan trees
+touch, or if the orchard floor has less than 40 percent sunlight at noon, the orchard should be thinned by
+removing trees.  
+In the Southeast, pecan trees are planted 30 to 40 feet apart and are thinned so that 10-15
+year-old trees are spaced 60-80 feet apart.  The space required by pecan trees increases with the
+diameter of the trunk.  Young trees that have diameters of 12-13 inches should be planted 30 feet
+apart, which results in a tree density of 36 trees per acre.  When the trunk diameter reaches 20 inches,
+the tree spacing should increase so that there are about 15 trees per acre.  Large trees, with 30-inch
+trunks, require 80 feet of space and there should be only 6 or 7 trees per acre (O'Barr).  
+Pecan trees in the Southwest are slower-growing and more compact than in the Southeast,
+making closer tree spacing possible.  In west Texas, mature pecan trees are usually spaced 50 feet
+apart (Pena).
+37
+Pollination 
+Pecan trees are dichogamous, producing both male (staminate) and female (pistillate) flowers
+that mature at different times on the same tree.  If pollen-shed occurs before the female flowers are
+receptive, the cultivar is classified as Type I (protandrous) and, if the reverse occurs, Type II
+(protogynous).  Both types of pecan cultivars are needed in an orchard for successful cross-pollination. 
+When no overlap in the period of receptivity occurs, completely dichogamous trees cannot pollinate. 
+Dichogamy is actually a desirable trait of pecans, since self-fertilization usually results in fewer and
+smaller nuts.
+Cross-pollination occurs when the pollen-shed period of one cultivar overlaps with the stigma-
+receptivity period of the other.  Cultivars with six or more days of overlap have a very good chance of
+cross-pollination.  Comparing usual overlap times indicates that “Cape Fear” will pollinate “Desirable,”
+“Desirable” will pollinate “Elliot,” and “Elliot” will pollinate “Stuart” and “Cape Fear.”  Horticulturists
+recommend at least four cultivars in the orchard--two Type I and two Type II varieties.
+Fertilization 
+The most common plant nutrient deficiencies in pecan orchards are nitrogen, potassium,
+magnesium, phosphorous, and zinc.  Horticulturists recommend that growers use a foliar analysis to
+determine specific plant nutrient needs before fertilizer applications.  Excessive applications of plant
+nutrients can be as harmful as shortages.
+In the Southeast, lime and magnesium (in the form of dolomitic limestone) are generally needed
+every 3-5 years to raise the soil pH.  Magnesium deficiencies are more likely in the sandy, acidic soils
+of the Southeast than in the higher pH, alkaline soils of the Southwest.
+The largest plant nutrient requirement is usually nitrogen, since nut production uses large
+quantities of this nutrient.  In addition, nitrogen is transient in the soil and leaches during periods of
+heavy rains.  Nitrogen deficiency causes the foliage to fade, first to light green and then to yellow.  In
+addition, nut production is limited by aborted flowers and reduced nut size.  Nitrogen-deficient trees are
+likely to defoliate early in the fall, reducing the amount of carbohydrates stored for winter.  Heavily-
+producing trees require approximately 100 pounds of nitrogen per acre, while younger trees need a
+half-pound of nitrogen for each inch of trunk diameter.
+Potassium deficiency may be triggered by an overdose of nitrogen.  Such an imbalance of
+nutrients gives rise to a condition known as "scorch."  When this condition is present, the leaves first
+develop dime-sized, dark-brown areas that then turn yellow.  As the leaves become yellow, the
+symptoms of potassium deficiency brought on by excess nitrogen can resemble the signs of nitrogen
+deficiency.
+Zinc and lime imbalances may also cause stress.  A zinc deficiency can cause "rosette," which is
+characterized by chlorosis and the curling or twisting of young leaves.  Low zinc levels can cause
+poorly-filled nuts, and the tree may have small leaves and reduced cold tolerance.  Too much lime (or
+high levels of calcium and magnesium) in the soil can induce a zinc deficiency by inhibiting zinc
+absorption.  Foliar applications are routinely used to supply zinc to pecans trees in the Southwest. 
+38
+Ground application is used in the Southeast, where soils are more acidic.  Zinc must be present while
+the trees are leafing in the spring to prevent rosette.
+Pesticides  
+Scab is a widespread disease problem in the Southeast, and must be controlled through
+preventive fungicide applications for successful pecan production.  The scab spray program typically
+involves 2 or 3 fungicide applications at 10-14 day intervals, beginning at bud break, followed by five
+or more applications at 21-day intervals.  A total of eight sprays, sometimes more in rainy seasons or
+with susceptible cultivars, may need to be applied.  The fungicides that control scab usually also control
+other fungi as well.  Because of the arid climate, routine spraying for fungal diseases is not required in
+the Southwest.
+Insecticides are usually not applied until damage is evident or scouting reveals that insect
+populations have risen to a threshold level.  Insecticide applications should be timed to control insects at
+a vulnerable stage in their life cycle.
+Irrigation 
+Adequate moisture is a critical requirement in pecan production.  Insufficient soil moisture from
+April through the shell-hardening stage in early August may cause the tree to abort nuts and cause small
+nuts among those remaining on the tree.  Drought during August and September can cause the nuts to
+be poorly filled.  In addition, dry conditions late in the season can also prevent the shucks from opening,
+as well as hinder the tree's ability to store carbohydrates for the winter.  
+All pecan orchards in New Mexico, Arizona, and west Texas, and about half of those in
+Georgia, are irrigated (Pena; Hubbard).  Fewer than half the pecan trees in other Southeastern states
+are irrigated, and less than 10 percent of Oklahoma's pecan trees are irrigated (Goff; Smith).
+Pecan trees in the Southeastern states require about 50 inches of water during the growing
+season.  Although rainfall in many pecan-growing areas averages about 50 inches annually, the
+distribution of rainfall does not always coincide with the orchard's needs.  Supplemental irrigation during
+the critical growing period helps assure consistent yields.  A 6- to 8-year-old pecan tree in the
+Southeast, for example, may need up to 10 gallons of irrigation water per day during June.  A 15-year-
+old tree may need up to 52 gallons, and a 60-year-old tree, as much as 208 gallons daily.  Water needs
+drop during October, to about half of the levels required in June.  
+Water requirements vary somewhat by area.  In central and west Texas, a mature pecan
+orchard consumes 0.25 acre-inches of water a day during peak periods, and supplementary water is
+required 50 to 90 days a year.  A young, bearing pecan tree in Texas requires 30-40 gallons of water a
+day during peak growth periods (Pena).
+39
+Harvesting
+U.S. pecans are harvested primarily during October and November.  The splitting of the pecan
+shucks marks the start of the harvesting season.  The shucks begin to split in some areas by the end of
+September, but most cultivars grown in the Southeast begin to open in mid-October.  If mechanical
+shakers are not used, the pecan nuts drop to the ground naturally over a 3 to 4 month period. 
+Commercial growers in the Southeast shake the trees when about half of the shucks are open (about
+the end of October) and gather the nuts immediately.  The trees are shaken and the nuts gathered again
+about three weeks later (Goff).  Pecan harvesting may begin earlier in Georgia than in other states, and
+is usually finished by mid-December (Crocker).
+The mechanical harvesting equipment consists of tree shakers, nut sweepers, vacuum
+harvesters, and trash separators.  Shakers have padded jaws that clamp the trunk and shake the entire
+tree.  For taller trees, a boom is attached to the shaker and large limbs are shaken one by one.  Shaking
+trees during harvest-time is not considered harmful to the tree.  The shaker simply vibrates the tree and
+the tree survives well (Thompson).  
+Shakers, however, are being increasingly used in August to thin the crop.  There is some
+question as to the impact of shaking on the tree at this time of year.  In August, the tree’s bark slips.
+ Also, the tree needs to be shaken harder than during the fall months to remove the fruit because it is
+not yet ripe and ready to drop.  If care is not taken under these conditions, the bark could be damaged,
+allowing insect and disease entry, potentially killing the tree (Wood). 
+Production Perils
+The productivity of the pecan tree is directly related to its health.  Stresses from weather, insect,
+and disease perils can reduce production for several years, or cause the tree to enter into a vegetative
+state.  A heavy crop load or lack of sun can also affect productivity, sometimes for several years after
+the stressful situation occurs.  Heavy winds, hurricanes, and tornadoes can cause sufficient damage to
+the tree’s canopy to make it unproductive for many years.   Damage can also be caused by soil
+problems, such as high levels of boron and sodium. 
+Excessive Rain or Cloudiness
+Excessive rain during the growing season can reduce the effectiveness of fungicides, and can
+cause losses due to fungal diseases, especially pecan scab.  Late in the season, cloudy weather can
+diminish photosynthetic activity and reduce the nutrients available to the tree.  Events that reduce
+nutrient availability interfere with the tree's ability to produce nuts the following season.  Although
+pecans can withstand excessive rain fairly well, extreme situations can result in the death of the tree.
+Frosts and Freezes
+Both pecan trees and the nut crop are susceptible to cold damage.  Although pecans are one of
+40
+the last trees to open their buds in the spring, late spring freezes can kill newly emerged flower buds. 
+Frost is a particular hazard if it follows a period of unusually warm weather.  Warm weather causes the
+trees to bud-out earlier than usual, increasing the chance that they will encounter frost.  Early fall and
+late spring freezes can affect the productivity of the trees for the next several years, having a ripple
+effect on production.  If the freeze damages the tree on an “on” year, when nut production should be
+high, growers could experience poor crops in that year, as well as in subsequent years due to the
+alternate bearing nature of the tree (Wood).
+Pecan trees are most susceptible to cold injury in the fall, before they have acclimated to low
+temperatures.  Young trees are more likely to be damaged by freezing temperatures than are older
+trees.  Before acclimating to colder temperatures, pecan tree tissues freeze at temperatures below 30o
+F.  When a tree is completely dormant, it can withstand mid-winter temperatures as low as -40o F. 
+Most cold injury occurs on the lower trunk, which is the last part of the tree to become acclimated, and
+the first to emerge from dormancy (Goff).  Prolonged cold temperatures may, however, result in death
+of the tree (Wood).
+The most striking cold injury to trees is sunscald, which occurs when the sun heats the tree
+trunk on cold winter days, drying out and killing plant tissues.  When sunscald occurs, the bark on the
+sunny side of the tree splits longitudinally or forms a sunken spot.  Sometimes, no damage is visible and
+the weakened tree may live for several years.  
+Cold damage can be minimized by choosing an orchard site with good air flow and cold-hardy
+cultivars, and planting trees that were budded or grafted high (not low) on the trunk.  In addition, trees
+should be maintained to promote their health, and pruning should be delayed until the danger of frost is
+minimal, about two weeks before the trees begins to come out of dormancy.  Painting young tree trunks
+with white latex paint or using light-colored, reflective trunk wraps can also reduce freeze damage.
+Excessive Wind
+The strong winds and hail that accompany thunderstorms may defoliate pecan trees and
+diminish their ability to accumulate energy reserves.  Winds also increase limb breakage, and even
+moderate winds can be very destructive to pecan trees carrying a heavy load of nuts.  This is especially
+a problem in August and September, when the crop load is heaviest.  During these months, severe wind
+storms and tornadoes could also uproot a tree, especially the taller trees in the orchard (Wood).  Once
+a sufficient number of limbs have broken off a pecan tree, the tree’s canopy will be destroyed and the
+tree will not produce again until the canopy is replaced, which  can take several years (Thompson).  
+Pecan trees located near the Gulf Coast--such as near Mobile, Alabama--are susceptible to
+damage from hurricanes.  Because pecan trees require approximately ten years to reach peak
+productivity, extension specialists suggest that they should not be planted within about 20 miles of
+hurricane-prone areas (Thompson).  Hurricane season extends into August and September, when the
+trees are loaded with nuts and very vulnerable to the strong winds associated with hurricanes (Wood). 
+41
+Ice Storms
+Ice storms tend to be a problem mostly in the fringe areas of pecan production, including the
+northern parts of Mississippi, Alabama, and Georgia.  In these areas, cold and rainy weather can cause
+icing on tree limbs, which may result in breakage.  In northern Mississippi and northeast Louisiana,
+limbs as large as 6 to 8 inches in diameter have fallen due to ice storms.  Downed limbs decrease
+productivity in that year, and if the canopy is affected, yields may be reduced for several years until the
+canopy grows back.  In the coastal plains, where most pecan production occurs, ice storms are less of
+a problem (Wood).
+The cost of cleaning up after ice storms can be very expensive, with estimates of $200 to
+$1,000 an acre to clean up and properly prune the trees.  While limb loss and pruning may cause the
+tree to enter a vegetative state for up to 4 to 5 years, the orchard still must be maintained, increasing the
+costs of the loss even further (Thompson).   Severe ice storms can tear trees apart and prompt growers
+to remove entire orchards.  Such severe damage is, however, uncommon (Wood).
+Lightning
+As pecan trees become larger, lightning damage increases as a threat.  When a tree is hit by
+lightning, the extent of damage varies depending on the specific circumstances.  The tree may be able to
+grow back from the roots after several years, or it may be killed.  When lightning strikes, only a few
+trees in an orchard are lost (Thompson; Wood). 
+Drought
+Drought can kill a pecan tree if it occurs when the tree is stressed.  This is especially likely to
+happen after a tree has produced a large crop.  Typically, few trees in an orchard are killed by drought,
+although productivity may be lowered for several years.  In such cases, there may be no crop the year
+after the drought.  The second year may produce an exceptionally heavy crop, with a high proportion of
+unfilled kernels.  This pattern may continue for 4 to 10 years, causing the orchard to become
+uneconomical.  
+Growers will often wait out the effects of drought because of the long time it takes for a new
+tree to become productive.  Good management practices can aid recovery (Wood).  Planting trees in
+soil with good water retention is an important management practice reducing the effects of drought.  If
+soil has good water-holding capability, the long taproots of the pecan tree can help the tree survive a
+drought (Pena).
+Excessive Boron and Sodium in the Soil
+Excessive levels of boron and sodium in the soil can poison a pecan tree’s roots, killing the tree. 
+This is mainly a problem in the arid West, from central and western Texas to New Mexico, Arizona,
+and California.  Pecan production in these states is entirely irrigated.  Irrigation causes boron and
+42
+sodium levels to increase, increasing the chances of such poisoning. 
+Diseases 
+Scab is the most widespread and serious disease affecting pecans in the Southeast.  Fungal
+diseases are most serious in humid regions and during periods of excessive rainfall.  In the more arid
+areas of west Texas and New Mexico, shuck disorders are a more serious problem than scab.
+Scab
+Scab is the most important disease affecting pecan trees.  It is a fungus that attacks the leaves
+and nuts of the tree, causing black spots.  Scab infections may cause pecan trees to become defoliated,
+debilitating the tree and eventually causing its death.  Even before death occurs, scab makes the tree
+unhealthy and it reaches a point where it cannot produce nuts.  At such a time, the tree must be
+removed.  
+Scab is a difficult disease to control because of its changing nature.  Cultivars that may once
+have been resistant to scab become increasingly susceptible over time.  The continual development of
+new cultivars that resist scab, at least initially, is the only way to keep pecan production continuing east
+of the Mississippi.  Creating new cultivars, however, is a long process, taking about 25 years
+(Thompson).
+Cotton Root Rot
+Cotton root rot is a fungus that lives in the soil.  The fungus attacks the roots and causes death
+of the tree.  There are no chemical methods of control that are available presently to combat this
+disease. 
+Shuck Dieback (Decline)
+The exact cause of shuck dieback is not known and no effective control has been found. 
+Shuck dieback is associated with “Success” cultivars, appearing wherever this cultivar or its progeny
+are grown.  It seems to be related to tree stress and becomes most severe on trees with large crops and
+trees that are crowded.
+Shuck dieback does not usually appear until September or October in Alabama, and about one
+to two weeks before normal shuck split in Texas.  When this disease is present, the shuck begins to turn
+black and die at, or near, the tip of the nut.  As the black area spreads, the shuck may flare open. 
+Damaged nuts have no kernel or are poorly filled.  
+Shuck dieback can kill young trees (those 15 years and younger) if they are already under
+stress.  In such situations, the tree may look healthy during the winter.  By spring, the tree may begin to
+appear damaged by cold injury, but in actuality, is dying (Wood).
+43
+44
+Crown Gall
+The tumorous growths characteristic of crown gall usually arise on the roots and bases of pecan
+trunks, but can appear on the lower limbs of young trees.  The galls are wart-like growths varying in
+size from a few inches to a foot or more in diameter.  Crown gall is caused by the bacterial pathogen
+Agrobacterium tumefaciens, which can live in the soil for many years.  It enters the pecan tree's roots
+and stems through wounds caused by insects, grafting, and cultivation.  Hosts include apple, peach,
+pecan, walnut, and grape.  Galls reduce tree vigor by retarding the flow of water and nutrients.  
+The incidence of crown gall is reduced by planting only disease-free nursery trees that have
+been dipped in a solution of an antagonistic bacterium.  Preventing entry wounds is important since
+crown gall has been found to be present in 25-60 percent of the 40- to 60-year-old orchards in
+Georgia.
+Insects 
+Insects often affect the productivity of a crop of pecans, but few threaten the life of the tree.  An
+exception is the Paranous root borer, which burrows into the root system and eventually kills the tree. 
+For a tree to be affected by the root borer, however, it first needs to be stressed by some other factor,
+reducing its resistance (Wood).
+Unknown Factors
+Pecan trees occasionally die due to unknown causes.  Typically, only a few trees in an orchard
+are affected.  One of these unknown causes is called “mouse ear.”  Mouse ear affects young trees,
+keeping them from growing and becoming productive.  It may be the result of a fertility problem,
+although the exact cause is uncertain.  Mouse ear strikes an orchard at random.  It occurs less than one
+percent of the time in newly planted orchards, but usually occurs when trees are planted  in missing
+spaces in an established orchard (Wood).
+Pistachios
+Pistachios are a relatively new crop to the United States, and virtually all production is located
+in California.  According to the Census of Agriculture, slightly more than 1,000 farms had pistachio
+trees under commercial cultivation in California in 1992.  In 1996, bearing acreage is estimated at
+64,300 acres.
+Pistachio Tree Characteristics
+Pistachio trees are related to cashew and mango trees, as well as to poison ivy, oak, and
+sumac.  Pollination occurs during April and harvest of the nuts is in September.  The trees are
+45
+deciduous, dropping their leaves in November, and require a dormant period between bearing cycles. 
+Like other nut trees, pistachio trees are alternate-bearing.
+Pistachio trees are either male or female (“dioecious”).  Consequently, trees that produce nuts
+do not produce pollen.  The cultivars used as pollinators are male, while those that produce the nuts are
+female.  Pistachio trees produce nuts about six years after planting and reach full-bearing potential in 12
+to 15 years.  The fruits of the pistachio tree are nuts that grow in clusters along the distal portions of
+branches that are produced during the previous season.
+Varieties
+A given pistachio tree produces either male or female flowers, but not both.  Cultivars tend to
+be identified as female or male because all of that cultivar’s trees have been propagated with buds from
+trees of the same sex.  “Kerman” and “Joley” are the preferred female (nut-bearing) cultivars, while
+“Peters” and “Gazvin” are the primary male (pollinator) cultivars.
+Kerman
+The “Kerman” variety was introduced in 1957 by USDA for trial purposes, and was selected
+from a group of seedlings grown from seeds imported from Iran.  In 1994, “Kerman” comprised 92.5
+percent of California pistachio acreage (California Agricultural Statistics Service).  It produces
+exceptionally large nuts with excellent kernel quality.  The trees, however, have a pronounced alternate-
+bearing tendency and, despite relatively high yields, produce a high percentage of blank nuts and nuts
+with non-split shells.
+Joley
+“Joley” is a new pistachio cultivar grown in California and New Mexico.  It comprised less than
+0.1 percent of California acreage in 1994 (California Agricultural Statistics Service).  “Joley” was
+developed by USDA, originating as an open-pollinated seedling from seed imported from Iran.  “Joley”
+trees blossom and bear nuts earlier in the season than “Kerman.”  Experience with limited plantings of
+“Joley” indicates that it produces more nuts with split shells and fewer blanks than “Kerman.”
+Peters
+The “Peters” cultivar is used as a pollinator, and accounts for 6 percent of California’s 1994
+pistachio acreage.  It is considered a universal pollinator because it sheds pollen while many female
+cultivars are receptive.
+Gazvin
+The “Gazvin” cultivar is a recently-introduced variety from Israel.  It may provide more pollen
+     4  For cost of production budgets, see the appendix.
+46
+to “Kerman” than does the “Peters” cultivar, because “Gazvin” has an earlier peak-bloom date. 
+Although “Peters” has been an effective pollinator of “Kerman,” its average peak-bloom date occurs
+before “Kerman” bloom begins.  The peak-bloom date of “Gazvin” coincides more closely with the
+early bloom of “Kerman.”
+Propagation and Planting
+Pistachio trees are propagated by grafting a bud of a selected cultivar onto a rootstock.  The
+choice of both the cultivar and the rootstock can influence the tree’s resistance to diseases, as well as
+its cold hardiness, nut yield, the extent of blank nut production, and the tree’s alternate-bearing
+tendency.  There are two dominant pistachio cultivars and two rootstocks that comprise most
+commercial pistachio orchards in California.
+The most common rootstocks used in California pistachio orchards are Pistacia atlantica and
+Pistacia integerrima (also known as Pioneer Gold I).  During the first decade of commercial plantings,
+P. atlantica and Pistacia terebinthus were used exclusively.  Both roostocks, however, were found
+to be susceptible to verticillium wilt, and many pistachio trees in the southern San Joaquin Valley were
+lost.  
+Pioneer Gold I was subsequently adopted because it is less susceptible to verticillium wilt,
+although it is less cold tolerant than P. atlantica.  A newer hybrid, Pioneer Gold II, combines
+verticillium resistance and cold hardiness.  According to a 1994 survey, Pioneer Gold I rootstock
+accounts for 48 percent of all pistachio acreage in California, P. atlantica accounts for 42 percent,
+Pioneer Gold II for 3 percent, and P. terebinthus for less than 1 percent (California Agricultural
+Statistics Service).
+Rootstock seedlings are grown in containers for approximately one year, until they are large
+enough to be transplanted to an orchard.  Transplanting is usually done in mid-June.  A cultivar is
+budded to the rootstock in the orchard the following April or May, although some rootstock seedlings
+are ready for budding in the fall.  Fall budding is usually done in August.
+Seedlings are usually spaced 11 to 12 feet apart within a row, with 22 to 24 feet between rows. 
+ The trees are planted close within the row initially to boost production during the early years of the
+planting, and then are thinned out when crowding occurs.  Crowding, however, is usually not a problem
+for at least ten years because the trees grow slowly.
+Mature pistachio trees are usually 20 to 25 feet tall and 25 to 30 feet wide.  They begin
+producing nuts within about 4 to 5 years after budding (or 5 to 6 years after planting), although an
+economically significant crop is not usually harvested for 7 to 8 years.
+Cultivation and Management Practices4
+Soil
+47
+Although pistachios can adapt to many soil types, they grow best on deep, light, sandy loams
+that have a high lime content.  Well-drained soils are required in order for the trees to
+48
+flourish and bear well, since the root system will not tolerate prolonged wet conditions.  Pistachio trees
+are more tolerant of alkaline and saline soil conditions than are many other trees.
+Temperature
+Pistachios thrive in areas with hot, dry summers and moderately cold winters.  Optimum
+temperatures for pistachio production in the United States can be found in California’s central valleys at
+elevations of 500 to 600 feet.  Trees should not be planted above elevations of 3,000 feet because cool
+summer temperatures do not promote good kernel development.  Pistachio trees grow well in some
+areas of southern California, including the desert areas, but produce very few nuts if the winter is too
+warm.  From 700 to 1,000 hours of winter temperatures at or below 45o F are needed for pistachio
+trees to fruit normally.
+Spacing
+Mature pistachio trees should be spaced with 20 to 24 feet between rows and 15 to 18 feet
+between trees for an average of 110 to 145 trees per acre.  The ratio of male to female trees is 1:8 in
+old orchards and 1:14 or 1:24 in newer orchards, with additional male trees in border portions of the
+orchard.
+Pruning
+Young pistachio trees require training during their first 4 to 5 years in order for them to develop
+an open-vase scaffold structure at 1.3 meters.  Training begins the second year after the rootstock is
+planted in the orchard.  A strong trunk that extends 36 to 40 inches from the ground to the first scaffold
+branch is developed to facilitate mechanical harvesting.  In each year, new growth should be headed
+back to 30 inches while the framework of the tree is being established.
+Trees are pruned as the orchard matures to keep the tree centers open so that all branches
+receive sunlight.  Trees tend to naturally spread as they develop, and branches will eventually be pulled
+down by the weight of the foliage and the nuts.  Drooping branches tend to sunburn and to shade the
+branches below.  Older wood must occasionally be removed to prevent spreading and to stimulate
+renewed growth from the scaffold branches.  Topping and hedging machines are often used on 3- to 5-
+year old wood.  Pruning is done during the winter.
+Pollination
+Because pistachio trees are either male or female, male (staminate) and female (pistillate)
+flowers cannot be produced on the same tree.  Wind carries the pollen from the male to female flowers. 
+Female flowers do not produce nectar, nor do they have colorful petals to attract bees.  Therefore,
+bees are not effective pollen carriers.
+For maximum fruiting, abundant pollen should be available during the first 2 to 3 days of the
+49
+female bloom period.  The “Kerman” variety has a bloom period of about 11 days, from the first to the
+third week of April.  Since the “Peters” and “Gazvin” varieties bloom from the end of March through
+mid-April, both can provide adequate pollen to “Kerman” trees.  Male pistachio trees tend to be
+prolific pollen producers, with one male tree providing enough pollen for 10 to 12 female trees.
+Fertilization
+Nitrogen is one the most likely plant nutrients to be deficient in pistachio orchards, and low
+levels may affect both leaf production and nut yield potential.  The symptoms of nitrogen deficiency
+include:  delayed bud break; short, thin shoots, with reddish bark; and small, pale-green leaves with
+reddish veins and petioles.  In addition, the leaves of the pistachio tree may turn reddish to yellow with
+time, leaves may drop early from the tree, and yields may be reduced.
+Nitrogen is usually applied to the soil of pistachio orchards four times annually, over the March
+through July period.  A recommended application rate is one pound of nitrogen per tree annually, which
+is about the amount removed by a moderate-sized (1,500 pounds per acre) nut crop.  
+Boron, zinc, and copper are other nutrients that may be deficient in pistachio orchards.  A
+deficiency of boron is associated with “crinkle leaf,” which is characterized by deformed leaves that are
+twisted, cupped, crinkled, and irregular in shape.  Soil applications can be used to correct this
+deficiency, although repeated applications can result in leaf necrosis, caused by boron toxicity.  If boron
+is applied foliarly, excess boron can cause reduced fruit set. 
+Zinc deficiency can cause “little leaf,” which results in the delayed growth of floral and
+vegetative buds in the spring.   The tree tends to produce dwarfed leaves, with leaf tissue values below
+7 ppm of zinc, based on foliar analysis in August (Beede, 1994).  Copper deficiency causes shoot die-
+back in late July and August.  
+Pesticides and Fungicides
+Preventive measures are typically used to control insects on pistachio trees.  Pistachio trees
+usually receive two sulfur applications for mite control in July and August.  In addition, permethrin
+insecticides are commonly used after fruit set in mid- to late-April to combat navel orangeworms and
+other pests.
+Fungicides are also used to help control fungal diseases.  They may be applied at any time
+between April and October, whenever conditions make infection by air-borne fungi a problem. 
+Fungicides that are currently registered for use on pistachios include benomyl, which is used at full
+bloom, and copper hydroxide sprays.  Fewer chemical applications tend to be made in August or
+September because many pesticides and fungicides are prohibited within specific pre-harvest intervals.  
+Irrigation
+Although pistachio trees are relatively drought tolerant, successful commercial production
+requires adequate soil moisture, particularly during the summer.  Insufficient soil moisture 
+50
+reduces tree growth and yields, causes nut production to be lighter and smaller, and increases the
+number of blanks and non-splits.
+Mature pistachio trees with canopies covering about 60 percent of the orchard floor use
+approximately 40 inches of water during an average summer in the southern San Joaquin Valley.  The
+trees absorb 7 to 10 inches of water per month during June, July, and August.  Somewhat less irrigation
+is required in the Sacramento Valley, where winter rainfall is higher (typically 16 to 20 inches).
+Virtually all California pistachio orchards are irrigated.  Originally, most of these orchards were
+irrigated with furrow (flood) irrigation or drag-line sprinkler systems.  A higher incidence of fungal
+infections is associated with those systems, however, and prompted growers to change to low-volume
+(drip, fan-jet, and microsprinkler) systems (Kallsen).  Flood and sprinkler irrigation systems were found
+to promote fungal infection by raising the relative humidity in the orchards.  In addition, the splashing
+water from high volume sprinklers spreads fungus spores.  Nearly all irrigation systems in Kern County
+orchards are low-volume, but flood irrigation is still used in some areas of Madera County.
+Harvesting
+California pistachios are harvested mechanically with prune-harvesting equipment, which is
+composed of two separate, self-propelled units.  The shaker, which has a catching frame, and another
+catching frame (with a conveyor belt and blower), are positioned on opposite sides of the tree.  When
+the tree is shaken, the nuts fall into the canvas aprons of the catching frames and roll onto the conveyor
+belt.  Two experienced workers can harvest about one acre of pistachio trees per hour (Crane and
+Maranto). 
+Production Perils
+Major production perils affecting pistachio trees include excessive rain, late frosts and hard
+freezes, and various diseases.  
+Excessive Rain
+Excessive rain can damage the pistachio tree in several ways.  Continually saturated conditions
+deprive the roots of oxygen and can make the tree unproductive.  Also, the saturated soil makes it
+harder for the roots to hold anchor in the soil.  If rains are accompanied by heavy winds, especially
+when the tree is full of nuts, the wet conditions could cause the tree to topple.  Continual rainy
+conditions also provide a perfect environment for fungal diseases to thrive.
+Frosts and Freezes
+Pistachio trees can generally tolerate relatively low winter temperatures, with some having
+survived temperatures as low as 6o  F without injury.   One of the few winter-related setbacks to
+pistachio production occurred in December, 1990, when a “100-year freeze” caused widespread
+51
+damage to most fruit and nut trees in southern California.  Pistachio trees were killed in Kern and
+Madera counties.  
+Cold damage can be minimized by choosing an orchard site that has good air flow and by
+planting trees with cold-hardy rootstock.  Pistacia atlantica is the most cold-tolerant rootstock,
+followed by Pioneer Gold II and Pioneer Gold I.
+Diseases
+Major diseases affecting pistachio trees include the fungal diseases Verticillium wilt, crown and
+root rot, and bacterial diseases such as canker.
+Verticillium Wilt
+Verticillium wilt is caused by the soil-born fungus Verticillium dahliae, and is the most serious
+disease affecting pistachio trees in California, particularly in the southern San Joaquin Valley
+(Ferguson).  The verticillium fungus can live in the soil for many years.  It invades the plant through the
+roots, and moves up the trunk and limbs through water-conducting tissues.  When the tree is infected,
+the leaves wilt, turning yellow and then brown.  Eventually, the tree dies.  Pre-plant soil fumigation with
+methyl bromide and chloropicrin is recommended, although planting with  resistant rootstock is the best
+way to control this disease.
+The two most common rootstocks used in early California pistachio orchards, Pistacia
+atlantica and Pistacia terebinthus, were found to be susceptible to verticillium wilt.  During the late
+1970's and early 1980's, many pistachio orchards in the southern San Joaquin Valley were planted
+where cotton had been grown and the soil was infected with verticillium.  Thousands of pistachio trees
+planted in Kern County died and were replaced with trees having new rootstock.  Pistacia
+integerrima (Pioneer Gold I) rootstock is tolerant of the disease, and has been used successfully in
+infected areas.
+Crown and Root Rot
+Crown and root rot is due to infection by several species of Phytophthora, a soil-borne fungus. 
+Pistachio trees in poorly-drained areas are the most likely to be infected.  The fungus, however, is
+widespread.  Symptoms of Phytophthora rot are similar to verticillium wilt.  Less vigorous trees are the
+most likely to succumb to Phytophthora infection and to die quickly.  The incidence of crown and root
+rot is expected to increase as pistachio trees increase in age and decline in vigor.
+Trunk and Branch Canker
+Three species of Phytophthora, P. parasitica, P. cryptogea, and P. capsici, have been
+associated with trunk and branch cankers (MacDonald, et al.).  Symptoms of the disease include the
+development of dark, sunken areas of bark from which resin exudes.  These cankers can enlarge over
+52
+time, girdling and eventually killing entire branches or trees.
+Fungicides are not an effective treatment for control of trunk and branch cankers.  The best
+control is to minimize tree injury during the growing season, because spores enter through wounds such
+as those from pruning cuts or limb breakage.  Using irrigation systems that do not splash water onto
+branches or trunks also reduces the likelihood of infection, as surface waters may be contaminated with
+pathogenic species of Phytophthora.
+Walnuts
+California accounts for 99 percent of U.S. walnut production.  Production is concentrated in the
+Central Valley, although walnut acreage is scattered throughout much of the state.  The top five walnut
+producing counties in 1994 were San Joaquin, Tulare, Stanislaus, Butte, and Sutter.  In 1995, there
+were about 170,000 bearing acres of walnuts in the state, and walnuts were second in nut acreage only
+to almonds.  In 1995, walnut production ranked 9th in revenue among all fruit and tree nut output in
+California, and 10th in export value among all of California’s agricultural commodities (California
+Agricultural Facts). 
+Walnut Tree Characteristics
+The walnut tree is deciduous, shedding its leaves in the fall.  The tree is monoecious in that a
+single tree has both pistillate and staminate (female and male) flowers and is able to self pollinate.  For
+many varieties, however, adequate pollination requires that a second variety be planted that will shed
+pollen at the time of pistillate receptivity for the first variety.  The flower is wind pollinated.  Between
+two and seven years are required before a walnut tree begins producing nuts.
+There are two major commercial species of walnuts.  The first type is the English walnut, which
+is native to a wide-ranging area from eastern Europe to the Himalayas, and is also called the Persian
+walnut.  The second type is the black walnut, which is native to the United States.  Almost all walnuts
+sold commercially in the U.S. are the English variety.  Black walnuts have a hard shell and poor hulling
+characteristics, making them less desirable for commercial use (Walnut Marketing Board).
+Varieties
+Walnut trees are part of the genus Juglans, and in the same family as pecan and hickory
+(Walnut Fact Sheet, U.C. Davis).  The most important commercial species include English or Persian
+walnut (for nut production), Juglans regia;  Eastern black walnut (for timber production), Juglans
+nigra; Northern California black walnut (for rootstock), Juglans hindsii; and “Paradox,” (for
+rootstock) a cross between the English walnut and the Northern California black walnut (Walnut Fact
+Sheet, U.C. Davis). 
+The major walnut tree varieties are “Franquette,” “Hartley,” “Payne,” “Vina,” “Chico,” “Serr,”
+“Eureka,” “Tehama,” “Sunland,” “Ashley,” “Amigo,” “Howard,” “Pedro,” “Chandler,” and “Tulare” (a
+53
+new variety).   The most common variety currently in production is “Hartley,” although “Chandler” is
+the most popular variety for new plantings.  Certain varieties are preferred for planting in different areas
+based on the timing of their leafing.  Varieties that leaf later in the season, for example, potentially have
+fewer problems with late spring frosts and rains, and are preferred in foothill counties that are prone to
+spring frosts.  The information on tree varieties that follows is from Walnut Orchard Management.
+Payne
+“Payne” originated in 1898 as a seedling and is a standard in many California producing areas. 
+The “Payne” tree is moderately sized with a rounded shape and good vigor, and its yield potential is
+high to very high.  Moderate to heavy pruning is required when the trees are young to avoid
+overbearing.  “Payne” is susceptible to codling moth and blight.  Walnuts from “Payne” trees are
+harvested early in the season, as the nuts mature in early September.  The nut size is medium to small.
+Approximately 80 to 90 percent of the lateral buds on “Payne” shoots are fruitful.  The tree
+begins to leaf in mid- to late-March in the Central Valley, and is the standard by which other varieties
+are compared.  The pollen shedding period on “Payne” coincides well with the period of pistillate
+flower receptivity, and solid blocks of “Payne” trees are often very productive.  “Payne” walnuts
+dominate the west side of Stanislaus and Merced Counties, as well as San Benito County.
+Hartley
+“Hartley” is the most widely planted variety of walnut, and its yield potential is moderately high
+to high.  Its popularity stems from its light kernel color, lack of problems with codling moth and blight,
+and its good yields.  It is, however, susceptible to deep bark canker.  With moisture stress or poor soil
+conditions, deep bark canker can be a limiting factor in production.  “Hartley” trees prefer fertile, deep,
+well-drained soil, and an adequate water supply.  It is a moderately-sized tree, moderately spreading,
+with good vigor on fertile soil.  “Hartley” is the dominant variety in the Sacramento and San Joaquin
+Valleys and in San Luis Obispo County.
+Up to 10 percent of the lateral buds are fruitful on “Hartley.”  They are somewhat slow to come
+into bearing, but yield good crops at maturity.  “Hartley” trees begin to leaf about 16 days after
+“Payne.”  Acceptable pollinators are the late-blooming “Franquette” and several University of
+California selections.  “Hartley” is harvested mid-season.  The nut has a broad, flat base and a pointed
+tip, and the nuts are large and well sealed.  “Hartley” is the primary bleaching variety sold in-shell.
+Franquette
+“Franquette” is an old French variety that is planted to a limited extent, and mainly in the foothill
+counties and areas with a tendency toward late spring frosts.  The “Scharsch-Franquette” selection is
+considered one of the best pollinators for medium- to late-blooming varieties such as “Hartley.”  The
+“Scharsch-Franquette” variety begins to leaf about 31 days after “Payne.”  Only terminal buds are
+fruitful on the “Franquette.”  Harvest-time is late in the season, and the nut size is small.  “Scharsch-
+54
+Franquette” trees are large with an upright shape, and they are moderately to highly vigorous. 
+“Franquette” is the major variety grown in Lake County.
+Serr (UC59-129)
+“Serr” is a University of California selection that is a cross between the “Payne” and “Pl-
+159568" varieties.  It produces a low to moderately heavy yield, depending on the location and orchard
+conditions.   In addition, this variety tends to drop its flowers more than other varieties. As a result,
+“Serr” has become less popular over time.  Between 30-50 percent of its lateral buds are fruitful, and it
+leafs about one day ahead of “Payne.”  Suitable pollinator varieties include “Chico,” “Tehama,” and
+other varieties that shed their pollen in mid-bloom.  Harvesting is early to mid-season, and the nut tends
+to be large in size.  The tree is large and moderately spreading with good to excessive vigor.  It bears
+earlier and more consistently on less fertile soil than other varieties.  Serr is susceptible to codling moth
+and blight.  It is the major variety in Kern County.
+Ashley
+“Ashley” is a well established, highly fruitful variety with 80 to 90 percent fruitful lateral buds. 
+The tree leafs about the same time as does “Payne.”  Many other characteristics are also similar to
+“Payne,” including its susceptibility to codling moth and blight.  “Ashley” requires consistent, heavy
+pruning in order to remain vigorous.
+Sunland (UC66-4)
+"Sunland" is a University of California variety, developed as a cross between “Lompox” and
+“Pl-159568.”  Although not well established, this variety has the potential to produce high to very high
+yields.  It leafs two days after “Payne,” and “Chico” and “Tehama” can serve as pollinators.  “Sunland”
+has 80 to 90 percent lateral bud fruitfulness.  This variety produces a very large nut, and harvesting is in
+mid- to late-season.  Young trees are very vigorous, with tree size similar to the “Payne” variety. 
+“Sunland” should not be planted in areas where late spring frost or blight are problems.
+Chico (UC56-206)
+“Chico” is a cross between the “Sharkey” and “Marchetti” varieties, and 80 to 90 percent of its
+lateral buds are fruitful.  “Chico” leafs two days after “Payne.”  Because “Chico” blooms early and
+sheds pollen late in the season, it crosses very well with early bloomers such as “Payne” and “Serr.”  It
+is planted mostly as a pollinator for early leafing varieties, but can also be a very good main variety in
+most areas of California.  “Chico” produces a small nut, and heavy pruning is necessary to maintain nut
+size.  The tree is small and shaped similarly to “Payne,” but is upright.  “Chico” is well adapted to a
+hedgerow planting or to a closely spaced planting.
+55
+Vina (UC49-49)
+“Vina” is a cross between the “Franquette” and “Payne” varieties.  It has 80 to 90 percent
+lateral bud fruitfulness, and leafs 7 days after “Payne.”  Acceptable pollinators include varieties that
+shed pollen in mid-season such as “Chico,” “Tehama,” “Howard,” and “Chandler.”  Harvest is early to
+mid-season.  “Vina” trees are small-to-medium in size, and shaped similarly to “Payne.”  The tree’s
+vigor is moderate to good, and pruning is necessary to maintain its vigor and nut size.  Although “Vina”
+exhibits fewer blight problems than “Payne” or “Ashley,” under poor conditions this disease can be a
+problem.  “Vina” is a popular variety in many walnut-producing areas in California. 
+Tehama (UC58-11)
+“Tehama” is a cross between “Waterloo” and “Payne,” with 70 to 80 percent of its lateral buds
+bearing fruit.  This variety leafs 11 days after “Payne,” and is harvested in mid-season.  Its  trees are
+large, upright, and have good vigor.  “Tehama” was primarily planted in the past as a pollinator, and
+few acres presently are planted to this variety.
+Amigo (UC56-226)
+“Amigo” is a cross between “Sharkey” and “Marchetti,” and is very fruitful, with 80 to 90
+percent of its lateral buds bearing fruit.  “Amigo” leafs 12 days after “Payne.”  Its harvest is early to
+mid-season.  “Amigo” has been planted as a pollinator to “Hartley,” although few trees have been
+planted in recent years.
+Howard (UC64-182)
+“Howard” is a cross between “Pedro” and “UC56-224.”  It has the potential to be very
+productive, and 80 to 90 percent of its lateral buds are typically fruitful.  The tree leafs 15 days after
+“Payne.”  Possible pollinators include “Scharsch-Franquette” and “UC66-178.”  Harvest is mid-
+season, slightly ahead of “Hartley,” and tree size is small to medium and semi-upright with moderate
+vigor.  “Howard” is smaller than “Vina” and “Chandler,” and may be used in hedgerow plantings. 
+Because it is late leafing, “Howard” exhibits fewer blight problems than other varieties.
+Pedro (UC53-113)
+“Pedro” is a cross between “Conway Mayette” and “Payne.”  It blooms early in the season and
+was introduced primarily as a pollinator.  “Pedro” leafs 18 days after “Payne,” and is highly fruitful, with
+80 percent of its lateral buds bearing fruit.  Harvest is mid- to late-season.  When high temperatures
+occur, shell and kernel quality may be inferior to other varieties. 
+56
+Chandler (UC64-172)
+“Chandler” is a cross between “Pedro" and “UC56-224.”  “Chandler” leafs 18 days after
+“Payne,” and 80-90 percent of its lateral buds are fruitful.  Possible pollinators for “Chandler” include
+“Scharsch-Franquette” and “UC66-178.”  Harvest is mid-season.  The tree size is larger than
+“Howard,” and it is moderately vigorous and semi-upright.  “Chandler” may experience fewer blight
+problems than other varieties because it is late leafing.  “Chandler” has become a popular variety
+because it has high nut quality and minimal insect and disease problems.  It also produces large, light
+kernels, making it an excellent shelling variety that cracks into halves easily.  A drawback, however, is
+its tendency towards tip shrivel on the kernel. 
+Rootstock
+Most of the walnut trees planted in San Joaquin County, and about one-half of the trees in
+Kings and Fresno counties, are on “Paradox” rootstock, which is highly recommended because of its
+vigor.   “Paradox” is nematode tolerant and phytophthora resistant.  In some areas, however,
+“Paradox” may lead to early crowding, and may require tree removal before costs are recovered.  The
+trend in the early nineties has been to plant “Chandler” on “Paradox” rootstock throughout most of
+California.  
+Despite this trend, northern California black walnut is the most common rootstock used in
+existing orchards.  It produces a smaller tree than “Paradox,” and is recommended in situations where
+blackline disease is epidemic.  Some growers intersperse northern California black walnut stock in
+between their “Paradox” plantings because they know the black walnut tree will grow more slowly.  As
+a result, they can keep it in their orchard longer before it becomes necessary to remove it for  thinning
+(University of California, Agricultural Issues Center).
+Propagation and Planting
+The most common propagation method for walnut trees is grafting or budding on seedling
+rootstock.  Presently, researchers are experimenting with the rooting of cuttings to produce clonal
+rootstock and own-rooted cultivars.
+Standard tree planting distances are about 30 feet apart both within a row and between the
+rows, resulting in about 48 trees per acre.  High density planting involve the spacing of trees 24 feet
+apart, resulting in about 76 trees per acre.   Hedgerow plantings space trees about 11 feet apart within
+a row, and 22 feet apart between rows, resulting in about 180 trees per acre.  
+After planting, tree trunks are treated with white, water-based paint to protect the trees from
+sunburn.  In addition, new trees are topped soon after planting in order to encourage trunk
+development.  Regular pruning begins during the winter months of the tree’s second year.  The trees are
+trained to grow with a modified central leader.  In the second year, about 2 trees per acre under
+standard planting conditions will need to be replaced.  In the third year, one tree per acre is typically
+replaced (Ramos).
+     5  For cost of production budgets, see the appendix.
+57
+Cultivation and Management Practices5
+Walnut trees need, deep, well drained, fertile soil, and produce the highest yields in warm,
+temperate climates.  The trees have the greatest vigor when rain is minimal during the growing season
+because of their susceptibility to blight.  Under such conditions, however, irrigation is a necessity.
+Climate
+California’s long, warm, dry summers and mild winters are similar to the native habitat of the
+English walnut.  Consequently, the Mediterranean strains easily adapt to California growing conditions. 
+Varieties grown in California are able to withstand winter temperatures as low as 12-15o F without
+serious injury.  Indeed, the walnut-growing areas of California are limited more by insufficient winter
+chilling than by cold tolerance.  
+Chilling requirements vary by variety.  The commercial varieties that dominated the former
+industry in southern California, for example, had low chilling requirements and were adaptable to mild
+winters.  In contrast, the walnut varieties imported from France into northern California, the major
+varieties planted today, have a relatively high winter chilling requirement.  If the sufficient number of
+chilling hours are not met, bud opening can be seriously delayed and blooming will be uneven, resulting
+in a poor crop and branch dieback (University of California, Agricultural Issues Center).
+Fertilization
+For optimal growth, walnut trees need sufficient amounts of various nutrients, including:
+nitrogen, zinc, boron, chloride, potassium, manganese, iron, magnesium, phosphorus, and copper. 
+Deficiencies in any of these nutrients usually affect growth of the leaves and nut production.  In severe
+cases of deficiency, however, the trees’ health can be harmed (Ramos).  The following paragraphs
+discussion deficiencies by type of nutrient:
+C
+Nitrogen--Nitrogen is the major nutrient required for proper tree growth and optimum nut
+yields.  Application of nitrogen in orchards is widely practiced, and deficiency symptoms are
+rarely found.  
+C
+Zinc--Zinc deficiency is prevalent in the sandy soils of the San Joaquin, Sacramento, and
+southern California interior valleys.  Deficiency symptoms appear early in the season, especially
+if severe.  The first evidence of zinc deficiency is delayed bud opening, which can be retarded
+by up to a month along the distal ends of the shoots.  When the buds do open, the leaves are
+small, chlorotic, and appear in tufts, giving them the term “little leaf.”  In severe cases, dieback
+can occur.  
+58
+C
+Boron--Boron deficiency tends to be found in the Sierra Nevada foothills and sometimes in
+Lake and Mendocino counties.  Boron deficiency results in stunted trees that have weak shoot
+growth, and the tree tends to have a bushy appearance.  Leaves often are chlorotic and
+misshapened, and are sometimes reduced to small, bractlike forms.  In severe cases, terminal
+dieback occurs.  Boron toxicity, on the other hand, is becoming more common.  Symptoms
+appear in mid- to late-summer, after enough boron has been accumulated in the leaves to cause
+injury.  First, the tips and then the margins of leaflets become necrotic.  In severe cases, the
+necrotic tissue progresses into the intervenial areas, and the margins of the leaflets curl upward. 
+Every leaf on the tree can be so severely scorched that the tree appears as if it has been injured
+by fire.
+C
+Chloride--Although chloride deficiency is not found in the field, excess chloride appears as an
+occasional problem.  Excess chloride results in terminal and marginal necrosis of the leaflets,
+with symptoms appearing in mid-summer and progressively becoming worse with time. 
+Chloride toxicity is difficult to distinguish from boron toxicity, since both produce a similar
+scorched pattern.  Many trees observed with high chloride have also contained high levels of 
+boron.  Leaf analysis can determine which element is in excess, while irrigation water should be
+tested if an excess of either nutrient is suspected.
+C
+Potassium--Potassium deficiency is present in many growing areas, including the Chico area,
+the southwestern part of the Santa Clara Valley, some sandy soils in the San Joaquin Valley,
+and some soils in Santa Barbara County.  When potassium is deficient, the leaves begin to
+show symptoms in early- to mid-summer, becoming pale, with the edges folding upward and
+curling inward.  Nut size will also be reduced.
+C
+Manganese--Manganese deficiency tends to be found in the coastal and semi-coastal areas of
+Ventura, Santa Barbara, and southern San Luis Obispo counties, with scattered cases
+elsewhere.  Symptoms begin appearing early- to mid-summer, including chlorosis, which
+develops between the main lateral veins and extends from the mid-rib to the margin.  The
+chlorotic pattern produces a “herringbone” effect.  Only in severe cases will the leaf size be
+smaller and nut yields reduced.
+C
+Iron--Iron chlorosis occurs in the coastal regions of Ventura, Santa Barbara, and San Luis
+Obispo counties, with scattered cases elsewhere.  When excess iron is present, the leaves
+become chlorotic early in the season, with the entire leaf assuming a uniform yellow color. 
+Terminal leaves tend to be affected more than basal leaves.  In severe situations, chlorotic
+leaves may develop scorch and abscise from the tree.  Iron chlorosis symptoms frequently are
+associated with calcareous soils (lime-induced chlorosis) or with heavy, poorly-drained soils.
+C
+Magnesium--Magnesium deficiency is often associated with low pH soils, such as those along
+59
+the Sierra foothills or in the north coastal areas.  Symptoms appear in mid- to late- summer,
+after considerable shoot growth.  Basal leaves, especially those on vigorous shoots, begin to
+show a distinct chlorotic region at the apical and lateral margins of the leaflets, eventually leaving
+an inverted “V”-shaped area along the basal part of the mid-rib. As the season progresses, the
+chlorotic areas along the margin become necrotic and dark brown in color.
+C
+Phosphorus--Phosphorus deficiency is mostly found in rocky, volcanic soils in a restricted area
+near Clear Lake (in Lake County).  When this deficiency is present, the trees usually show very
+weak growth and have sparse foliage with smaller-than-normal leaves.  Leaves are yellow and
+develop necrosis in irregular areas, followed by early defoliation.
+C
+Copper--Copper deficiency has been found in scattered areas.  Symptoms tend to appear in
+mid-summer, with scorch developing on the leaves near the tips of shoots.  Defoliation tends to
+occur later in the season, along with a slight shriveling of the shoots.  Small dark brown spots
+appear on the shoot near the tip, and terminal dieback then occurs in late summer.  When
+copper deficiency is present, the nut kernels are often badly shriveled.
+Irrigation
+California walnut orchards are irrigated for optimum nut yields.  Walnut trees are planted on a
+wide range of soil types, and have the capacity to store and supply anywhere from 15 to 50 percent of
+seasonal water demand.  Irrigation water is necessary to supplement this water, as well as to maintain a
+favorable salt balance.  Irrigation is also used for frost protection.
+Several methods of irrigation are used in walnut production.  Flood (or border) irrigation
+requires level ground (with not more than 1 percent slope), where relatively large flows of water are
+available.  Furrow irrigation is another form of gravity irrigation, and is used on lands with no more than
+a 2 percent slope.  Sprinkler irrigation and drip irrigation are also used (Ramos).
+Harvesting
+Walnut harvesting occurs between early September and mid-November, when the rubbery
+green hulls of the nut begin to split.   Nuts are harvested by machines that shake them from the trees. 
+Once harvested, walnuts are typically taken to collecting stations where they are hulled, washed, and
+dried.  They are then delivered to the final handler, where they are weighed, sized, inspected, and
+processed further.  Quality standards for the harvested nuts are determined by the Walnut Marketing
+Board.  About 50 percent of the California crop is handled through Diamond Walnut Growers, with the
+other 50 percent handled through many independent handlers.  
+Production Perils
+Several production perils affect walnut trees, and are similar to those affecting other nut trees. 
+     6  The following discussion of diseases is based on discussions with Ramos, and publications from the
+University of California, Agricultural Issues Center.
+60
+Excessive cold can be a problem, as can late spring rains.  Also, walnut trees can be plagued by fungal
+and bacterial diseases. 
+Excessive Cold
+In early spring, when walnut trees begin their growth, leaves, shoots, blossoms, and nuts can be
+easily killed by temperatures that drop below freezing.  This danger is usually restricted to mountainous
+and localized low-lying areas, and can be mitigated by choosing varieties that are late leafing, such as
+“Hartley” and “Franquette.”  Because of the climate, however, spring frosts are one of the limiting
+factors to walnut production in areas such as the Sierra foothills and Lake County.  Autumn frosts also
+limit the range of walnut production areas (University of California, Agricultural Issues Center).
+Late Spring Rains
+Late spring rains encourage the development of walnut blight.  Early leafing varieties are prone
+to damage, particularly when grown in the higher rainfall areas of northern California, and especially in
+years that also have late spring rains.   Because of this problem, many early leafing varieties in the
+Sacramento Valley have been replaced with later varieties that tend to escape infection (University of
+California, Agricultural Issues Center).
+Apoplexy
+The cause of apoplexy is unknown, although it is associated with the combined effects of hot
+weather, irrigation, and nitrogen fertilization.  Apoplexy kills both large and small trees, and tends to
+quickly cause the decline and death of trees once they are affected.  Apoplexy appeared more
+frequently in the 1980's than it does today.
+Diseases
+Diseases that affect the life or the vigor of a walnut tree include:  viral diseases, such as
+blackline; fungal diseases, such as Armillaria root and crown rot, and Phytophthora root and crown rot;
+and bacterial diseases, such as deep bark canker.6 
+Blackline Disease
+Blackline disease is a serious, infectious viral disease of English walnut trees propagated on
+northern California or “Paradox” rootstock in California’s commercial orchards.  The disease appears
+61
+as far north as Tehama County and as far south as Tulare County.  The highest incidence and most
+serious damage occurs in coastal walnut growing areas and in the lower Sacramento and upper San
+Joaquin valleys.  
+The above-ground symptoms of blackline disease are similar to those caused by other soil
+pathogens, nutrient deficiencies, and improper cultural practices.  The first symptoms to appear are
+poor terminal growth, followed by yellowing and drooping leaves, then premature defoliation,
+particularly in the top part of the tree.  As the disease progresses, the trees exhibit various degrees of
+dieback and general decline.  Profuse development of sucker shoots from the rootstock is a good
+indication that a walnut tree may be affected by blackline, although sprouting alone is not an infallible
+diagnosis.  
+Positive diagnosis of blackline disease requires careful examination of the graft union, with
+infected trees showing small cracks in the bark at the union.  Removing a small patch of bark may
+reveal a narrow strip of darkened cambium and phloem tissue, and a blackline (hence the name) at the
+junction of the rootstock and the scion.  In its early stages, this blackline is not continuous and several
+patches may need to be removed to find the line.  Eventually, blackline extends around the union and
+girdles the tree completely, resulting in the death of the scion top, usually 2 to 6 years after the girdle is
+completed.
+The blackline virus infects the English scion, but not the northern California or “Paradox”
+rootstock of a tree infected with blackline.  The virus can be present in the English walnuts’ bark,
+leaves, nuts, catkins, and pollen.  It spreads through the scion relatively slowly, depending on the
+cultivar, climatic conditions, and physiological state of the tree.  It can be spread from tree to tree
+through pollination, as well as by grafting or budding. 
+The most effective control for blackline disease involves using graft- or bud- wood only from
+healthy trees, and blackline virus-free English walnut trees should be used for propagation.  The
+problem, however, is that infected trees are often symptomless.  As a result, graft- or bud-wood that
+might appear to be healthy may already be infected.
+Armillaria Root and Crown Rot 
+Armillaria root and crown rot (Armillaria mellea) also is called “oak root fungus disease,”
+“shoestring root rot,” and “mushroom root rot.”  It is caused by a soilborne fungus and affects many nut
+and fruit crops, forest trees, shrubs, vines, and herbaceous plants.  The fungus infects the roots, crown,
+and basal trunk of walnut trees.  Early symptoms include poor terminal growth, small chlorotic leaves,
+premature leaf drop, and dieback of terminal shoots.  Commonly, only one side of the tree
+corresponding to the infected side of the root system or crown may show these symptoms.  Eventually,
+the disease destroys the entire root system and/or may completely girdle the lower trunk, killing the
+tree.  Infected walnut trees may show decline for 2 to 5 years before death.  In a newly infected
+orchard, a single tree may be infected or there may be several sites of infection.  The disease then
+spreads in a circular manner, infecting adjacent trees.
+If the fungus is present in an orchard, losses from Armillaria root and crown rot can be
+minimized through soil fumigation prior to planting and the use of resistant rootstock, such as northern
+62
+California black walnut. 
+Phytophthora Root and Crown Rot  
+At least 14 different species of Phytophthora, a soilborne fungus causing root and crown rot,
+are known to infect California walnut trees.  In the early stages of infection, the tree exhibits poor
+terminal growth, accompanied by small, chlorotic, and drooping leaves.  As it progresses,
+the disease causes the tree to show sparse foliage and dieback of terminal shoots.  Infected trees may
+decline slowly over several years or may collapse and die in the same growing season as the first foliage
+symptoms appear.  The rate at which a tree succumbs to Phytophthora depends on the species of
+Phytophthora, the soil type, the climatic conditions following infection, and the age of the infected tree. 
+The tree dies when massive infection and destruction of the entire root system occur, or when the
+crown is completely girdled.  Generally, a tree affected with crown and root rot dies faster than one
+infected with only root rot.
+To control Phytophthora, soils should be fumigated with methyl bromide before planting a
+walnut orchard.  Fumigants, however, cannot eradicate Phytophthora from heavily infected soil, and
+fumigated sites can become reinfected.  The use of “Paradox” as a rootstock is suggested in
+Phytophthora-infected areas because it is the most resistant among the walnut rootstocks.  Careful soil-
+water management also helps control the spread of the disease.  
+Deep Bark Canker 
+Deep bark canker is caused by the Erwinia rubrifaciens bacteria, and belongs to the same
+taxonomic group as the fire blight organism.  This canker causes large, longitudinal cracks in the bark of
+the trunk and in scaffold branches.  These cracks are many times longer than they are wide because the
+bacteria advance more rapidly vertically than horizontally.  During late spring through early fall, a
+reddish-brown to dark brown plant sap oozes from these cracks, giving the cankers a bleeding
+appearance.
+Walnuts are highly susceptible to deep bark canker infection from April through October, and
+are almost resistant to infection during the winter.  During fall harvest, the shaking machinery can cause
+wounds that serve as entry sites for the pathogen.  The wounds may remain susceptible to infection for
+up to 10 days after harvest.
+The canker is mainly a problem in the San Joaquin and Sacramento valleys.  The “Hartley”
+variety is the most susceptible walnut cultivar, but “Payne,” “Ashley,” “Eureka,” “Franquette,” and
+other varieties are also infected occasionally.  The disease does not kill walnut trees.  In combination
+with diseases such as root rot or crown gall, however, it may contribute to gradual decline of the tree
+and eventual death.
+There are no chemicals that have been found to control deep bark canker.  Good cultural
+practices, such as water management to improve the vigor of the tree, are important for reducing
+spread of the disease and improving the chances of recovery once the tree is infected. 
+63
+Crown Gall 
+Crown gall is caused by the Agrobacterium tumefaciens bacteria, and affects many species of
+plants including walnut trees.  The “Paradox” hybrid appears exceptionally susceptible.  When this
+disease is present, the most obvious symptoms are gall formations, which range in size from minute to
+several inches in diameter.  The galls are undifferentiated, disorganized, and spongy in texture, and
+develop on the crowns and roots.  Eventually, the central portions of the galls die, leaving a cavity
+inhabited by wood-rotting fungi and other decay organisms.  Those trees that are severely girdled by
+crown gall often become stunted.  Girdling is a serious problem only when the infection occurs early in
+the tree’s life and affects most of the crown area.  Research suggests that the tree’s productivity as well
+as its growth are reduced once most of the crown region is girdled.
+The crown gall bacteria enters the plant through wounds.  Disease inception often occurs in
+nurseries where there are numerous opportunities for infection to occur.  Preventing injury is the best
+way to prevent the disease.  The benefits of chemical pesticides in controlling crown gall are
+questionable.
+Branch Wilt  
+Branch wilt is caused by the fungus Hendersonula toruloidea, and can infect all walnut
+cultivars.  “Franquette” and “Mayette” are the most susceptible.  Symptoms first occur in mid-summer,
+when leaves on infected branches suddenly wilt, die, and remain attached to the tree.  By the end of
+summer, one or more dead branches with attached leaves are intermingled with healthy branches on a
+tree.  Large scaffolds sometimes are killed, and the dead wood and bark of the branch turn dark brown
+to black.  The outer corky layer of tissue cracks and peels away, revealing patches of sooty black
+substance. 
+The branch wilt fungus developed most rapidly at high temperatures, and must enter the host
+tree through a wound.  When temperatures fluctuate (do not stay constantly high, as in most fields),
+sunburn on the tree is necessary for the fungus to infect the tree.  As a result, the disease is most
+prevalent in locations providing the greatest opportunity for sunburn, such as the southwest side of a
+tree, and on trees on the orchard’s south or west edges.  Because there are no chemical treatments for
+this disease, only good cultural practices can prevent or reduce its incidence. 
+ 
+State Analyses and Demand for Insurance  
+California
+California is the major nut-producing state, producing virtually all the almonds, pistachios, and
+walnuts produced in the United States.  While production takes place throughout the state, orchards
+are mostly located in the central valley area. 
+64
+Production Perils
+Irrigation is used in all major commercial orchards in California, which helps alleviate the
+damage that the trees might otherwise incur due to drought, excessive heat, and frost.  There have
+been, however, instances where weather has caused severe damage or death to trees, and various
+diseases and disorders also can pose significant perils.
+As an example, almond trees can suffer from bud failure or “crazy top,” particularly in very hot
+summers.  When a tree experiences bud failure, buds will not develop the following 
+65
+year.  While bud failure does not kill the tree, it renders the tree unproductive in future years.  The
+cause of bud failure is unknown, and it only randomly affects trees in an orchard (Freeman). 
+Flooding has been a problem for nut growers in recent years.  Depending on the time of year
+and the specific conditions, flooding affects trees differently.  In extreme cases, flooding can prompt
+tree death due to several factors.  If the tree becomes waterlogged, the roots cannot get enough oxygen
+and suffocate.  Fungal diseases, such as Phytophthora, are favored by wet weather and, in combination
+with stress caused by flooding, can result in the death of the tree.  Also, heavy winds can more easily
+blow the tree over because root systems are not well anchored in saturated soils.  In general, if the trees
+are dormant, they can withstand flooding for longer periods of time than during the growing season.
+Because they are shallow rooted, almond trees are particularly susceptible to saturated soil
+conditions, especially if the tree is loaded with nuts and high winds are present (Freeman; Sibbett;
+McGranahan).  Other types of nut trees are also susceptible.  In 1996, extreme flooding affected
+walnut trees in the flood plains around Yuba and Sutter counties.  Levies broke and many trees were
+uprooted.  For the remaining trees, the effects of flooding took several years to appear, with the trees
+remaining productive in the interim.  Walnut trees are slow to react, and can take 2 to 3 years before
+the actual effects of flooding become apparent (Hasey). 
+Freezing weather can also be a problem in California.  Freezing temperatures that occur early in
+the season, before the trees acclimate to cold temperatures, can retard the growth of nut trees.  In
+addition, winter temperatures below certain critical temperature (varying with the type of tree), can kill
+the tree.
+Several diseases exist that can kill nut trees in California.  Because resistant varieties are
+available, almond producers do not experience great losses due to diseases.  In contrast, pistachio
+growers south of Bakersfield must be careful not to plant where Verticillium wilt is present in the soil,
+because tree death may result.  Although some varieties have greater resistance than others, none are
+totally resistant to this disease.  Verticillium has been the major source of mortality in pistachio trees
+(Ferguson).  For walnut trees, blackline and crown gall can be a problem.  Crown gall is a problem for
+trees until they are about seven years old.   Growers are not always aware of the presence of crown
+gall because it may take several years for the disease to appear.  While the disease is likely to be
+present in seedlings, not all nurseries are willing to replace infected trees.
+Demand for Crop Insurance
+Several farm advisors in California felt there would be interest in crop insurance for nut trees,
+especially in areas where flooding and strong winds are likely to occur.  Growers may also be
+interested because of the number of diseases that can affect different trees.  Many years are often
+required before a disease becomes apparent and, in many cases, there are no rootstock that are totally
+tolerant to a disease.  Growers may also want crop insurance for their trees because they may already
+have coverage for the crop and want to cover their investment in the tree as well.  
+While farm advisors indicated interest in crop insurance for nut trees, their enthusiasm was
+much greater for crop coverage.  They indicated that cost would be a key factor in
+66
+determining whether or not a grower would purchase crop insurance for a tree (versus the nut crop),
+since the incidence of losses are less frequent for trees. 
+ The Farm Service Agency (FSA) administers the Tree Assistance Program (TAP), which
+provides growers with financial assistance for the replacement, removal, or uprighting of damaged trees. 
+Few TAP payments have been made in California.  In Sutter and Yuba counties, flooding has caused
+walnut tree losses, for which qualifying growers received TAP payments.  Excessive rains in the mid-
+1990's in Fresno County resulted in TAP payments in six situations, which helped cover the costs of
+tree removal, site preparation, and replanting costs for seedlings.  Among those payments, assistance
+was provided for the replacement of entire orchards along the San Joaquin River (Schoonhoven).  In
+Sutter and Yuba counties, TAP provided financial assistance for tree removal and replacement due to
+flooding and excessive rains in 1993 and 1994 (Navdeep).  
+FSA officials indicated that there would likely be demand for crop insurance coverage for nut
+trees.  While instances like the 100-year flood that occurred in the early 1990's is unlikely to occur
+soon, other severe weather-related perils--such as a hard freeze--may arise that necessitate assistance. 
+In addition, it is difficult for growers to qualify for TAP (Schoonhoven).   
+Georgia and Other Southern States
+Georgia is one of the major pecan-producing states, accounting for one-quarter to one-half of
+the nation’s pecan crop.  Most of the production is from improved varieties, although Georgia also
+accounts for the largest share of native (seedling) pecans.  Most of Georgia’s acreage is concentrated
+around Albany, where pecan production has replaced cotton, and in Dougherty, Mitchell, and Lee
+counties. 
+ 
+Production Perils
+Scab is perhaps the most important disease affecting pecans.  It is particularly difficult to
+address, as older cultivars lose their resistance over time, and new cultivars must be introduced.   This
+is a lengthy process, as breeding new varieties requires about 25 years.  The creation of new varieties,
+however, is the only way to perpetuate pecan production east of the Mississippi River.  In addition to
+scab, other diseases also affect nut trees in the South.  In particular, the humid Southern climate
+provides the perfect environment for fungal diseases, such as shuck decline, which can kill nut trees.
+Weather factors also affect pecan production in the South.  Pecans in Georgia, northern
+Mississippi, and Alabama are likely to experience freezing temperatures that can kill trees if occurring
+early in the fall.  In addition, ice storms in these areas can break the limbs of nut trees, and possibly
+destroy the tree’s canopy.  When severe damage occurs, the tree may be rendered  unproductive and
+removal may be required.  Ice storms are one of the few weather-related perils that have destroyed
+entire pecan orchards.  
+Hurricanes are also a problem throughout the South, particularly for orchards within 150 to 200
+miles of the Gulf Coast.  The peak hurricane season is in August and September, when the crop is
+heaviest on the trees and, thus, when high winds are likely to cause the greatest damage.  Hurricanes,
+67
+like ice storms, can destroy an entire orchard, although such severe situations are fairly uncommon
+(Wood).  Tornados and thunderstorms, which are common in the South, are often accompanied by
+heavy winds and lightning.  Older trees are often very tall, and are more likely to be hit by lightning than
+smaller trees.  The damage from thunderstorms is more likely to occur around the borders of an
+orchard, and not affect all trees in the orchard to the same extent.
+Demand for Crop Insurance
+Pecan growers in Georgia, northern Mississippi, and Alabama are believed to have a fairly high
+demand for crop insurance to cover their nut trees.  The demand for nut tree insurance is, however,
+thought to be less than the demand for insurance of the nut crop.  Many orchards that are producing
+commercial pecan crops were planted in the 1800's, and some native trees are much older.  
+Weather can play a major factor in pecan production, and the effects of poor weather can
+cause a tree to become nonproductive for many years, especially if the tree’s canopy is damaged.  In
+some cases, the tree may be rendered useless because a new tree could be planted and become
+productive by the time the damaged tree again becomes productive.  This situation might create a
+special case for crop insurance covering pecan trees.  The tree may still be alive but not produce a
+commercial nut crop.  Growers might be interested in special provisions that would cover the tree for
+several years until the tree returns to its former productive capacity.
+ 
+FSA agents in Georgia’s major pecan-producing counties, and in Mobile, Alabama do not
+recall TAP payments for loss of pecan trees.  In Dougherty County, the agent recalled only one TAP
+payment, which provided assistance for uprighting and stabilizing trees in a pecan orchard (Palmer).
+Texas
+Texas is the second largest pecan-producing state.  Most of its pecan trees are improved
+varieties, with about one-quarter to one-third of the crop (depending on the year) originating from
+native varieties (USDA, NASS).  Production is concentrated in central to southeastern Texas and in the
+El  Paso area.  The heavy concentration of orchards in these areas dates to the 1960's and 1970's, and
+was stimulated by tax opportunities.  Once the tax laws were changed in the 1980s, the rate of
+plantings declined (Pena).  Most of Texas’ pecan production is irrigated.
+Production Perils
+The arid climate in central and western Texas, as well as in New Mexico, Arizona, and
+California, requires that pecan growers irrigate their orchards.  The soils in these areas tend to be high
+in boron and sodium, however, and irrigation tends to increase the levels of these chemicals.  In high
+doses, boron and sodium are poisonous to the pecan’s root system and can kill the roots. 
+In addition, fungal diseases, severe freezes, and severe storms can also be problems for pecan
+growers.  Pecan trees in the western states are susceptible to cotton root rot fungus, for example,
+particularly in areas where orchards were planted in former cotton fields.  Severe freezes can also kill
+68
+pecan trees, especially if they occur after mild weather.  Heavy storms have been known to cause limb
+loss, affecting the productivity of the tree (Pena). 
+Demand for Crop Insurance
+The lack of major perils affecting pecan trees in western production areas would probably limit
+the demand for crop insurance among growers.  Those growers, however, located in areas where
+heavy storms are likely to occur would likely have the greatest interest, since these storms can destroy
+entire orchards.  According to FSA agents in Gonzales, Guadalupe, and El Paso counties in Texas,
+TAP payments have not been made for losses to pecan trees.
+ 
+Oregon
+Oregon is the major hazelnut producing state in the U.S.  Almost all of the state’s acreage is
+concentrated in the Willamette Valley, where mild temperatures provide an ideal environment for the
+hazelnut tree.
+Production Perils
+Eastern Filbert Blight (EFB) is the major problem affecting the health of the hazelnut tree.  This
+fungus creates the most serious damage in the northern third of the Willamette Valley.  It is a perennial
+canker that girdles the branches and then the trunk of the tree, and orchards infected with this disease
+can die off in 7 to 10 years.  While good management practices can often control the disease, such
+practices tend to be very costly and uneconomical.  Usually, EFB infestation results in abandonment of
+the orchard.  Other diseases and insects are relatively easy to control and do not pose a serious threat
+to hazelnut orchards.
+Adverse weather is not generally a serious peril for hazelnut growers.  Flooding is usually not
+serious, and typically occurs when the trees are dormant, producing only minimal damage.  In addition,
+orchards are often planted on high ground, where flooding is less likely to occur.  Cold snaps that have
+hit the area have produced damage and, when such conditions occur, about half of the trees were able
+to recover.  Affected trees have, however, shown a greater tendency toward alternate-bearing.   Ice
+storms occasionally break branches on the trees, although the damage is typically not so serious as to
+require tree replacement (Mehlenbacher, 1997b).
+Demand for Crop Insurance
+The hazelnut extension specialist in Oregon did not believe that demand for crop insurance for
+hazelnut trees would be significant.  The greatest demand would likely emerge from growers most
+concerned about Eastern Filbert Blight, since the disease can kill an entire orchard in 7 to 10 years. 
+Hazelnuts are hardy and are grown in a mild environment, and many growers are believed not to be
+very interested in obtaining insurance only for the trees (Mehlenbacher, 1997b).
+69
+70
+There have been few requests from hazelnut growers for TAP assistance in Oregon.  In
+Josephine County in southern Oregon (which is not one of the major hazelnut counties), one grower
+requested assistance due to flooding of hazelnut trees in an area near the Rogue River.  
+Nut Tree Crop Insurance Implementation Issues
+Adverse Selection
+ Adverse selection should not arise as a major issue in developing insurance programs for tree
+nut growers.  Growers would be unlikely, for example, to select a rootstock non-resistant to diseases
+for several reasons.  First, several years are required for a nut tree to produce a crop and for the
+grower to receive a return on his or her investment.  Second, in most cases, tree losses due to disease
+can take years to occur, and it would be costly to growers to purchase and maintain the land until that
+time.  
+Adverse selection based on location site could, however, be an insurance issue if premium rates
+are not estimated accurately.  Planting an orchard in a soil type unsuitable for the crop, such as planting
+pecans in shallow soil with low water retention, could have adverse affects on the orchard during a
+drought year.  Also, planting pistachios on land that is known to have verticillium wilt could also been an
+instance of adverse selection.  Nut tree plantings in areas where hurricanes are more likely, such as
+along the Gulf Coast, may also be encouraged if growers knew they would have insurance to reimburse
+them for losses.  In the case of site selection, it may take several years before tree damage occurs.  In
+the meantime, growers could receive output from their trees and, under adverse conditions, also receive
+insurance payments for losses.  
+Setting Reference Prices
+The replacement cost for lost trees would need to be estimated based on the trees' age,
+location, and variety.  The tree's value increases as the tree reaches full productivity, and in some cases
+may decline overtime.  Value also increases for certain varieties of a specific nut which may have a
+higher value in the marketplace than other varieties.  Also, location may affect a tree’s productivity and
+therefore, may need to be taken into account when setting a reference price for tree replacement.
+Estimating “Appraised Production”
+Estimating appraised production may not be that difficult for nut trees except native variety
+pecans.  The centralized location of most nut production and the dominance of certain varieties helps
+establish a tree’s potential productive capacity.  Pecans, however, vary by location and variety. 
+Improved variety trees are more uniform and the estimation of value per tree or acre is easier to
+establish than for native (seedling) varieties.  With native varieties, plantings are more varied and each
+individual tree is slightly different from the other.  
+71
+An issue with estimating “appraised production” is whether a tree is salvageable or
+unproductive from an economic standpoint.  With different management techniques, some growers may
+be more willing to salvage damaged or windblown trees than other growers who may not find it
+economically viable to do so.  This situation makes it difficult to determine when a grower should
+receive an indemnity for temporary damage or a total loss.
+Moral Hazard
+Moral hazard may become an issue in the presence of tree diseases.  Diseases usually take
+several years to become apparent, and even longer to kill a tree or render it unproductive.  A grower
+who knows that his or her orchard has diseased trees might be interested in obtaining crop insurance
+once the disease has been diagnosed, even though no previous interest in insurance was expressed and
+the trees are as of that time still symptomless.
+The type of irrigation system creates another moral hazard potential.  Orchards with sprinkler
+or flood irrigation systems have a higher incidence of fungal infection than those with a low-angle or drip
+system because sprinkler water that comes into contact with the tree initiates production of blight
+spores.  It may be desirable to limit coverage to resistant rootstock and fields with low-volume
+irrigation systems to avoid insuring orchards prone to fungal diseases.
+Other Implementation Issues
+The Risk Management Agency might consider requiring mandatory inspection of tree nut
+orchards before participation in an insurance policy, in order to ensure that no serious insect or disease
+problems exist.  This would benefit the agency because, at present, most serious losses due to insects
+and disease can be managed.
+72
+References
+Almond Board of California.  Website:  http://www.almond.org/.
+Asai, Wes, Lonnie Hendricks, Karen Klonsky, and Pete Livingston.  Sample Costs to Establish and
+Produce Almonds:  Sprinkler Irrigated and Mowed Centers in Northern San Joaquin Valley-
+1992.  U.C. Cooperative Extension Service.  University of California and the U.S. Department of
+Agriculture.
+Barons Lloyd C., and others.  Growing Hazelnuts in Oregon.  Extension Circular 1219.  Oregon
+State University Extension Service.  May 1985.
+Beede, Robert.  Farm Advisor.  California Cooperative Extension Service, Kings County, Personal
+communication.  June 1995.
+Busciglio, Brenda.  County Agent.  Farm Service Agency.  Marion County, Oregon.  Personal
+communication.  December 1997.
+California Agricultural Statistics Service.   Pistachios.
+California Agricultural Facts. Website: http://129.8.100.44/agfacts.
+California Almond Board.  Website:  http://www.almond.org/object.html.
+Crane, Julian and Joseph Maranto.  Pistachio Production.  Division of Agriculture and Natural
+Resources.  Cooperative Extension Service.  Publication 2279.  University of California. Oakland,
+California.
+Crocker, Thomas F.  Extension Horticulturist.  Georgia Cooperative Extension Service.  University of
+Georgia.  Personal communication.  April 1995.
+Crocker, Thomas F.  Home Garden Pecans.  University of Georgia.  Cooperative Extension Service. 
+Website:  http://www.ces.uga.edu/pubcd/c744-w.html#Varieties.
+Ferguson, Louise.  Extension Pomologist.  Kearney Agricultural Center, Cooperative Extension
+Service.  Parlier, California.  Personal communication.  July 1997
+Finch, Donna. County Agent.  Farm Service Agency.  Jackson/Josephine counties, Oregon.  Personal
+communication.  December 1997.
+Freeman, Mark.  Farm advisor.  California Cooperative Extension Service.  Fresno County, California. 
+73
+Personal communication.  July 1997.
+Freimuth, Jill.  County Agent.  Farm Service Agency.  Clackamas County, Oregon.  Personal
+communication.   December 1997.
+Goff, William D., with John R. McVay and W.S. Gazaway, editors.  Pecan Production in the
+Southeast:  A Guide for Growers.  Alabama Cooperative Extension Service.  Auburn University. 
+Auburn, Alabama.  Circular #ANR-459.  
+Hallmark, Anita.  County Agent.  Farm Service Agency.  Gonzales County, Texas.  Personal
+communication.  December 1997.
+Hancock, Bluefford.  "Development of the Pecan Industry," in the Texas Pecan Handbook.  Texas
+Agricultural Extension Service.  Texas A&M University.  College Station, Texas.  TAEX Hort.
+Handbook 105.  June 1993.
+Hasey, Janine.  Farm advisor.  California Cooperative Extension Service, Yuba/Sutter Counties,
+Personal communication.  July 1997
+Hubbard, E.E., with Joseph C. Purcell and Stephen L. Ott.  "Identification of Major Problems and
+Marketing Practices of Pecan Growers in Georgia's Twenty Leading Pecan Counties, 1985." 
+Department of Agricultural Economics.  Georgia Experiment Station.  University of Georgia College of
+Agriculture.  Research Report 523.  September 1987. 
+Janowski, Jennifer.  County Agent.  Farm Service Agency.  Guadalupe County, Texas.  Personal
+communication.  December 1997.
+Jossy, John.  Hazelnut Growers of Oregon.  Personal communication.  March, 1997.
+Kallsen, Craig.  Farm advisor.  California Cooperative Extension Service, Kern County.  Personal
+communication.  June 1995.
+MacDonald, J., L. Bolkan, and Z. Banihashemi.  “Phytophthora Trunk and Branch Canker of
+Pistachio,” in California Pistachio Industry, Annual Report 1992/93.  California Pistachio
+Commission.  Fresno, California. 
+McEachern, George Ray.  "Pecan Varieties for Texas" and "Orchard Size Considerations," in the
+Texas Pecan Handbook.  Texas Agricultural Extension Service.  Texas A&M University.  College
+Station, Texas.  TAEX Hort. Handbook 105.  June 1993.
+McGranahan, Gale.  Director, Walnut Improvement Program.  Department of Pomology.  University of
+74
+California at Davis.  Personal communication.  July 1997.
+Mehlenbacher, Shawn A.  “Hazelnuts (Corylus).”  Acta Horticulturae.  Wageningen: International
+Society for Horticultural Science.  1990.  P791-836.
+Mehlenbacker, Shawn.  Professor of Horticulture.  Oregon State University.  Personal communication. 
+March 1997a.
+Mehlenbacker, Shawn.  Professor of Horticulture.  Oregon State University.  Personal communication,
+July 1997b.
+Micke, Warren.  Technical Editor, Almond Production Manual.  University of California, Division of
+Agriculture and Natural Resources.  Publication 3364.  1996.
+Navdeep, Sangha.  County Agent.  Farm Service Agency.  Sutter County, California.  Personal
+communication.  December 1997.
+O'Barr, R.D.  "Evaluation, Renovation, and Management of Old Pecan Groves," in Pecan South. 
+September-October, 1986.
+Olsen, Jeff.  Nut Growers Handbook.  Oregon State University.  Website:
+http://www.teleport.com/~hazelnut/handbook.htm.
+Oregon Agricultural Statistics Service.  Hazelnut Tree Report.  April 1993.
+Palmer , Susan.  County Agent.  Farm Service Agency.  Dougherty County, Georgia.  Personal
+communication.  December 1997.
+Pena, Jose.  "Orchard Economics:  Establishment, Development, and Management" in Texas Pecan
+Handbook.  Texas Agricultural Extension Service.  Texas A&M University.  College Station, Texas. 
+TAEX Hort. Handbook 105.   June 1993.
+Pena, Jose.  Extension Agent, Texas A&M Research and Extension Service.  Uvalde, Texas. Personal
+communication.  December 1997.
+Pinkerton, Jack.  Plant pathologist.  Agricultural Research Service, USDA.  Corvallis, Oregon. 
+Personal communication.  March 1997.
+Ramos, David J. Technical Editor.  Walnut Orchard Management.  University of California, Davis.
+ 1985.
+75
+Riggert, C.  “Nut Growers Handbook.”  Proceedings of the Nut Growers Society of Oregon,
+Washington, and British Columbia, 1989.   pp. 11-21.
+Schoonhoven, Janine.  County Agent.  Farm Service Agency.  Fresno County, California. Personal
+communication.  December 1997.
+Sibbett, Steve.  Farm advisor.  California Cooperative Extension Service, Tulare County, Personal
+communication.  July 1997
+Smith, Debra.  County Executive Director.  Farm Service Agency.  Lamar County, Mississippi. 
+Personal Communication.  May 1995.
+Smith, Michael.  Cooperative Extension Service.  Department of Horticulture. University of Oklahoma. 
+Personal communication.  April 1995. 
+Stein, Larry A.  "Pecan Shuck Disorders," in Texas Pecan Handbook.  Texas Agricultural Extension
+Service.  Texas A&M University.  College Station, Texas.  TAEX Hort. Handbook 105.  June 1993.
+Thompson, Tommy.  Research Geneticist.  USDA, Agricultural Research Service.  Texas.      Personal
+communication.  June 1997.
+U.S. Department of Commerce, Census of Agriculture, 1992.  Various State reports.
+U.S. Department of Agriculture, National Agricultural Statistics Service.  Noncitrus Fruit and Nuts
+1996 Summary.  FrNt 1-3 (97).  July 1997.      
+University of California Fruit and Nut Research and Information Center.  Website:
+http://pom44.ucdavis.edu/crops.html.
+University of California Fruit and Nut Research and Information Center.  U.C. Pest Management
+Guidelines. Various nut crops. Website: http://axp.ipm.ucdavis.edu.
+University of California Fruit and Nut Research and Information Center.  Walnut Fact Sheet. Website:
+http://pom.ucdavis.edu/walnutfs.htm.
+University of California, Agricultural Issues Center.  Maintaining the Competitive Edge in
+California’s Walnut Industry.  January 1994.
+Walnut Marketing Board.   Website: http://wevcom.com/walnut/
+Walnut Marketing Board.  Walnut Industry Fact Sheet.  February 3, 1995.
+Wolstenholme, B. Nigel.  "Climate," in Texas Pecan Handbook.  Texas Agricultural Extension
+Service.  Texas A&M University.  College Station, Texas.  TAEX Hort. Handbook 105.  June 1993.
+Wood, Bruce.  Research Horticulturalist.  USDA, Agricultural Research Service.  Byron, Georgia. 
+Personal communication.  June 1997.
+Contacts
+Almonds
+Mark Freeman, Farm Advisor
+Fresno County, California
+(209) 456-7285
+Steve Sibbett, Farm Advisor
+Tulare County, California
+(209) 733-6486
+Hazelnuts
+Shawn Mehlenbacher, Professor
+Department of Horticulture
+Oregon State University
+Corvallis, OR 97331
+(541) 737-5467
+Pecans
+Jose Pena, Extension
+Texas A&M University
+(830) 278-9151
+Tommy Thompson, Research Geneticist
+USDA, ARS
+(409) 272-1402
+Bruce Wood, Research Horticulturist
+USDA, ARS
+(912) 956-5656
+Pistachios
+Louise Ferguson, Extension Pomologist
+Kearney Agricultural Center
+(916) 752-0507
+Walnuts
+Gale McGranahan, Pomologist
+University of California, Davis
+(916) 752-0113
+Janet Hasey, Farm Advisor
+Sutter/Yuba Counties
+(916) 822-7515

@@ -1,0 +1,369 @@
+NARROW AND WIDE STRIP TILLAGE PRODUCTION FOR PEANUT 
+K.S. Balkcom*1, F.J. Arriaga1, and D.L. Hartzog2 
+1USDA-ARS, Soil Dynamics Research Unit, Auburn, AL 36832 
+2Alabama Cooperative Extension Service, Headland, AL 36345 
+*Corresponding author: kbalkcom@ars.usda.gov 
+ABSTRACT 
+Increased production costs and potential benefits of maintaining surface residue has 
+renewed interest in conservation tillage systems for peanut (Arachis hypogaea L.) production. 
+We initiated a study to determine surface residue cover following two strip tillage systems 
+(narrow vs wide), compare yields and sound mature kernels (SMK) of three peanut cultivars 
+(Anorden, AP-3, and GA 02-C) across each strip tillage system with two row spacings (single vs 
+twin), and evaluate soil moisture between these treatments.  Two experimental sites were 
+established on a Malbis fine sandy loam (Fine-loamy, siliceous, subactive, thermic Plinthic 
+Paleudults) in Fairhope, AL and a Dothan loamy sand (Fine-loamy, kaolinitic, thermic Plinthic, 
+Kandiudults) in Headland, AL during the 2004 growing season.  First year results indicated that 
+the narrow strip tillage system produced higher surface residue cover at the Fairhope location. 
+Yield differences between cultivars showed that GA 02-C and AP-3 yielded higher than Anorden 
+at Fairhope, while no yield differences were observed at Headland.  GA 02-C had higher SMK at 
+both locations, but AP-3 SMK were higher than Anorden at Fairhope, while Anorden SMK were 
+greater compared to AP-3 at Headland.  Strip tillage system or row pattern had no effect on yield 
+or SMK at either location. 
+Although not significant, soil moisture contents measured at 
+Headland followed the same trend as measured peanut yields, while row spacing had no effect on 
+soil moisture contents.  Preliminary results indicated that peanut conservation tillage practices 
+may not require a wide tillage strip regardless of row pattern. 
+INTRODUCTION 
+Peanut tillage operations have typically involved moldboard plowing followed by several 
+other tillage operations to create a smooth seedbed, bury crop residues that may potentially 
+increase disease pressure, and bury weed seeds to inhibit their germination (Colvin and Brecke, 
+1988; Hartzog and Adams, 1989).  However, concerns related to soil and wind erosion and the 
+need to reduce production costs has prompted interest in conservation tillage methods for peanut 
+production (Jordan et al., 2001b; Jordan et al., 2003). 
+Conservation tillage benefits have been widely reported to enhance soil physical 
+properties and these benefits can be attributed to the build-up of organic matter at the soil surface 
+by maintaining crop residue and planting a cover crop.  Residues retained on the soil surface 
+have been shown to improve moisture management by decreasing evaporation and increasing 
+infiltration (Lascano et al., 1994). A typical peanut conservation tillage system involves planting 
+a winter annual cereal cover crop, chemically terminating the cover crop in the spring, utilizing 
+an in-row subsoiler with coulters and baskets (strip tillage) to prepare a seedbed, followed by the 
+planting operation. However, this strip tillage operation typically disrupts approximately 1/3 of 
+the row width. 
+2005 Southern Conservation 
+Tillage Systems Conference
+Clemson University
+47
+Oral
+Proceedings
+Some peanut producers in the Southeast have shifted from single row patterns to twin 
+row patterns spaced 7 to 9 in. apart, centered on 36 to 40 in. rows (Jordan et al., 2001a).  This 
+shift to twin rows has been attributed to a decreased incidence of tomato spotted wilt tospovirus 
+(TSWV) compared to single row patterns (Baldwin et al., 1998), which may contribute to 
+increased peanut yields of twin row over single row patterns (Jordan et al., 2001a).  Twin row 
+peanuts in a conservation system typically utilize the strip tillage system described above which 
+disrupts a wider portion of the row to accommodate the twin rows.  A smooth seedbed is created, 
+but the incorporation of beneficial surface residue occurs. 
+Another form of strip tillage has been utilized for row crops that produce their fruit above 
+ground, such as cotton (Gossypium hirsutum L.).  The same in-row subsoiler is used, but the 
+coulters and baskets are replaced with rubber pneumatic tires to close the slit created by the 
+subsoiler shank. 
+This type of tillage operation provides belowground disruption of any 
+compacted zones present beneath the row, while maximizing the amount of residue on the soil 
+surface. Therefore, our objectives are to determine surface residue cover following two strip 
+tillage systems, compare yield responses of three peanut cultivars across each strip tillage system 
+with two row spacings, and evaluate soil moisture between these treatments. 
+MATERIALS AND METHODS 
+An experimental site was established at the Gulf Coast Research and Extension Center 
+(GCS) in Fairhope, AL  and the Wiregrass Research and Extension Center (WGS) in Headland, 
+AL during the 2004 growing season. Treatments consisted of three peanut cultivars, two tillage 
+systems, and two row spacings with a split-split plot arrangement in a randomized complete 
+block design with four replications at GCS and three replications at WGS.  Main plots were 
+peanut cultivars, (AP-3, Anorden, and GA 02-C) sub-plots were tillage systems (narrow strip 
+consisting of a coulter, shank, and press wheels; wide strip consisting of a coulter, shank, two 
+sets of coulters, rolling basket, and drag chain), and sub sub-plots were row spacings (single and 
+twin rows). Sub sub-plot dimensions were 12.7 ft. wide (4-38 in. rows) at GCS and 12 ft. wide 
+(4-36 in. rows) at WGS with 30 ft. long rows.      
+A rye (Secale cereale L.) cover crop was established in fall 2003 with a no-till drill on a 
+Malbis fine sandy loam at GCS and an oat (Avena sativa L.) cover crop was established with a 
+no-till drill on a Dothan loamy sand at WGS.  Both cover crops were seeded at 90 lb ac-1 and 
+chemically terminated the following spring.  Biomass samples were determined from each plot, 
+immediately prior to termination, by cutting all aboveground tissue from two areas, each 
+measuring 2.7 ft2. 
+Approximately 3 wk after cover crop termination, each strip tillage configuration was 
+performed in the appropriate plot and subsequent peanut cultivars were planted at 6 seed ft-1 for 
+single and twin rows. Surface residue was determined for each plot using the line transect 
+method (Morrison et al., 1993), prior to peanut emergence.  Soil water content was monitored 
+during the growing season using ECH2O-20 probes (Decagon Devices Inc., Pullman, WA1) at 
+WGS.  The probes were installed vertically in the row centers, with measurements taken between 
+3- and 11-in of depth from the soil surface.  Data was collected every 15-min using self-
+contained dataloggers. 
+Peanuts were mechanically harvested from the two center rows of each plot to determine 
+yield and SMK. Yield was determined by weighing freshly harvested nuts in the field and 
+adjusting the weight based on a subsample that was dried to 10% moisture.  That subsample was 
+2005 Southern Conservation 
+Tillage Systems Conference
+Clemson University
+48
+Oral
+Proceedings
+shelled and graded to determine SMK.  Cultural practices to control weeds, diseases, and insects 
+were based on Alabama Cooperative Extension recommendations.   
+Data were analyzed using a mixed model procedure provided by the Statistical Analysis 
+System (SAS Institute, 2001).  Treatment differences were considered significant if P > F was 
+less than or equal to 0.05. Comparison among more than three treatment means were separated 
+by the least significant difference (LSD).    
+RESULTS AND DISCUSSION 
+Surface residue cover was higher for the narrow strip tillage system at both locations; 
+however, the difference was only significant at GCS (Fig. 1).  Residue cover was greater for both 
+strip tillage systems at GCS compared to WGS (Fig. 1).  This may be attributed to higher 
+amounts of biomass produced by rye at GCS compared to oat biomass at WGS.  Previous 
+research has shown that rye was superior to other cereal and legume cover crops, as well as, 
+selected mixtures of cereals and legumes (Daniel et al., 1999).   
+Peanut populations measured 3 wk after planting were between 3.5 and 4.0 seeds ft-1 
+(data not shown). No interactions were observed for peanut yields or SMK between cultivars, 
+strip tillage systems, and row pattern, therefore each of these effects will be presented separately. 
+Peanut yields of AP-3 and GA 02-C were superior to Anorden at GCS, but they were not 
+different from each other (Table 1).  These two cultivars also produced higher yields compared 
+to Anorden at WGS, but no significant differences were observed (Table 1).  Peanut yields of all 
+cultivars were higher at WGS than yields observed at GCS, although SMK were generally higher 
+at GCS than WGS (Table 1). The cultivar GA 02-C produced the highest SMK at both locations, 
+but AP-3 SMK were higher than Anorden at Fairhope, while Anorden SMK were greater 
+compared to AP-3 at Headland (Table 1).   
+The strip tillage system utilized at each location had no effect on peanut yields or SMK 
+(Table 2).  These preliminary results indicate that the row pattern should not dictate which type 
+of strip tillage system is used.  Coulters and baskets used behind the shank for a wide strip tillage 
+system may not be necessary for twin row peanuts, allowing beneficial residue to remain on the 
+soil surface.   
+First year results indicated no differences existed between yields or SMK for single and 
+twin rows at either location (Table 3).  Jordan et al. (2001a) showed inconsistent yield responses 
+for twin rows over single rows across seven site-years, but seeding rates were higher for twin 
+rows and all plots were planted with conventional tillage practices.  The lack of yield response 
+for twin rows compared to single rows in our study may be attributed to the two conservation 
+tillage systems used in the experiment.  Conventional tillage practices that leave the soil bare 
+may attract thrips, which vector TSWV compared to soil covered with crop residue (Marois and 
+Wright, 2003).  Since cover crop residues were retained in all plots, yield reductions associated 
+with TSWV were diminished. 
+Soil moisture was affected by peanut variety (Fig. 2).  Greater soil water contents were 
+recorded with the AP-3, followed by the GA 02-C and Anorden, respectively.  Although yield 
+differences were not significant, the soil water contents corresponded to observed yields at this 
+location (Table 1). These differences in soil water content possibly reflect differences in water 
+use efficiency by the three peanut cultivars. 
+Seeding rates were the same for the single and twin row, and plant populations measured 
+3 wk after planting were between 3.5 and 4.0 seed ft-1. For this reason the plant water demand 
+2005 Southern Conservation 
+Tillage Systems Conference
+Clemson University
+49
+Oral
+Proceedings
+should have been similar for both treatments.  This was apparent in the soil water content 
+between the single and twin row spacing, which showed no differences (Fig. 3). 
+CONCLUSION 
+Preliminary results indicate that the narrow strip tillage system produced higher surface 
+residue cover at GCS. Yield differences between cultivars showed that GA 02-C and AP-3 
+yielded higher than Anorden at GCS, while no yield differences were observed at WGS when 
+averaged over tillage systems and row patterns.  The highest percentage of SMK for both 
+locations were found in GA 02-C, but AP-3 SMK were higher than Anorden at GCS, while 
+Anorden SMK were greater compared to AP-3 at WGS.  Yield and SMK were not influenced by 
+strip tillage or row pattern at either location.  Although not significant, soil moisture contents 
+measured at WGS followed the same trend as measured peanut yields, while row spacing had no 
+effect on soil moisture contents.  First year results indicate that peanut conservation tillage 
+practices may not require a wide tillage strip, regardless of row pattern, but continuing research 
+will help confirm these findings. 
+REFERENCES 
+Baldwin, J.A., J.P.J. Beasley, S.L. Brown, J.W. Todd, and A.K. Culbreath. 1998. Yield, grade, 
+and tomato spotted wilt incidence of four peanut cultivars in response to twin row versus 
+single row planting patterns. Proc. Am. Peanut Res. Educ. Soc. 30:51. 
+Colvin, D.L., and B.J. Brecke. 1988. Peanut cultivar response to tillage systems. Peanut Sci. 
+15:21-24. 
+Daniel, J.B., A.O. Abaye, M.M. Alley, C.W. Adcock, and J.C. Maitland. 1999. Winter annual 
+cover crops in a virginia no-till production system:  I. Biomass production, ground cover, 
+and nitrogen assimilation. J. Cotton Sci. 3:74-83. 
+Hartzog, D.L., and J.F. Adams. 1989.  Reduced tillage for peanut production. Soil Tillage Res. 
+14:85-90. 
+Jordan, D.L., J.B. Beam, P.D. Johnson, and J.F. Spears. 2001a. Peanut response to prohexadione  
+calcium in three seeding rate-row pattern planting systems. Agron. J. 93:232-236.  
+Jordan, D.L., J.S. Barnes, C.R. Bogle, G.C. Naderman, G.T. Roberson, and P.D. Johnson. 2001b.  
+Peanut response to tillage and fertilization. Agron. J. 93:1125-1130. 
+Jordan, D.L., J.S. Barnes, C.R. Bogle, R.L. Brandenburg, J.E. Bailey, P.D. Johnson, and A.S. 
+Culpepper. 2003. Peanut response to cultivar selection, digging date, and tillage intensity. 
+Agron. J. 95:380-385. 
+Lascano, R.J., R.L. Baumhardt, S.K. Hicks, and J.L. Heilman. 1994. Soil and plant water 
+evaporation from strip tilled cotton: Measurement and simulation. Agron. J. 86:987-994. 
+Marois, J.J., and D.L. Wright. 2003. Effect of tillage system, phorate, and cultivar on tomato 
+spotted wilt of peanut. Agron. J. 95:386-389. 
+Morrison, J.E., C.H. Huang, D.T. Lightle, and C.S.T. Daughtry. 1993. Residue management 
+techniques. J. Soil Water Conserv. 48:478-483. 
+1Disclaimer 
+Mention of a trade name, proprietary product, or specific equipment does not constitute a 
+guarantee or warranty by the USDA and does not imply approval of a product to the exclusion of 
+others that may be suitable. 
+2005 Southern Conservation 
+Tillage Systems Conference
+Clemson University
+50
+Oral
+Proceedings
+Table 1. Peanut yields and sound mature kernels (SMK) measured for three cultivars averaged 
+across two tillage systems and two row patterns at two locations during the 2004 growing season. 
+Gulfcoast† 
+Wiregrass 
+Cultivar 
+Yield 
+SMK 
+Yield 
+SMK 
+---lb ac-1---
+---%---
+---lb ac-1---
+---%---
+Anorden 
+2690 
+67.3 
+3330 
+66.6 
+AP-3 
+3530 
+68.2 
+4750 
+64.0 
+GA 02-C 
+4080 
+70.2 
+4550 
+71.3 
+LSD0.05 
+580 
+1.9 
+NS 
+1.6 
+† Four replications for Gulfcoast; three replications for Wiregrass. 
+Table 2. Peanut yields and sound mature kernels (SMK) measured for two tillage systems 
+averaged across three peanut cultivars and two row patterns at two locations during the 2004 
+growing season. 
+Gulfcoast† 
+Wiregrass 
+Strip tillage 
+Yield 
+SMK 
+Yield 
+SMK 
+---lb ac-1---
+---%---
+---lb ac-1---
+---%---
+Narrow 
+3430 
+68.1 
+4290 
+67.8 
+Wide 
+3440 
+69.0 
+4130 
+66.7 
+P > F 
+0.9944 
+0.2612 
+0.4697 
+0.0911 
+† Four replications for Gulfcoast; three replications for Wiregrass. 
+Table 3. Peanut plant populations and yields measured for two row patterns across three peanut 
+cultivars and two strip tillage systems at two locations during the 2004 growing season. 
+Gulfcoast† 
+Wiregrass 
+Row pattern 
+Yield 
+SMK 
+Yield 
+SMK 
+---lb ac-1---
+---%---
+---lb ac-1---
+---%---
+Single 
+3600 
+69.0 
+4160 
+67.7 
+Twin 
+3270 
+68.1 
+4260 
+66.9 
+P > F 
+0.1313 
+0.2612 
+0.5688 
+0.2291 
+† Four replications for Gulfcoast; three replications for Wiregrass. 
+2005 Southern Conservation 
+Tillage Systems Conference
+Clemson University
+51
+Oral
+Proceedings
+80 
+a 
+Narrow tillage 
+Wide tillage 
+60 
+b 
+a
+40 
+a 
+20 
+0 
+Gulfcoast 
+Wiregrass 
+Figure 1. Surface residue cover measured immediately after peanut planting in narrow and wide 
+strip tillage systems for a rye cover crop at the Gulfcoast Research and Extension Center in 
+Fairhope, AL and an oat cover crop at the Wiregrass Research and Extension Center in 
+Headland, AL during the 2004 growing season. Means followed by the same letter within a 
+location are not significantly different from each other at the 0.05 significance level.  
+Surface residue cover, % 
+2005 Southern Conservation 
+Tillage Systems Conference
+Clemson University
+52
+Oral
+Proceedings
+Water Content (%) 
+50
+45 
+40 
+35 
+30 
+25 
+Variety 
+AP-3 
+Anorden 
+GA 02-C 
+7/13/04 
+7/16/04 
+7/19/04 
+7/22/04 
+7/25/04 
+7/28/04 
+Figure 2. Soil water content measured during the growing season of 2004 for three peanut 
+cultivars at the Wiregrass Research and Extension Center. 
+2005 Southern Conservation 
+Tillage Systems Conference
+Clemson University
+53
+Oral
+Proceedings
+Water Content (%) 
+50 
+45 
+40 
+35 
+30 
+25 
+Row Spacing 
+Single 
+Twin 
+7/12/04 
+7/17/04 
+7/22/04 
+7/27/04 
+8/1/04 
+8/6/04 
+Figure 3. Soil water content measured during the 2004 season for single and twin row patterns at 
+the Wiregrass Research and Extension Center. 
+2005 Southern Conservation 
+Tillage Systems Conference
+Clemson University
+54
+Oral
+Proceedings

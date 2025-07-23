@@ -1,0 +1,1255 @@
+SECURITIES AND EXCHANGE COMMISSION 
+(Release No. 34-59164; File No. S7-34-08) 
+ 
+December 24, 2008 
+ 
+ORDER GRANTING TEMPORARY EXEMPTIONS UNDER THE SECURITIES 
+EXCHANGE ACT OF 1934 IN CONNECTION WITH REQUEST OF LIFFE 
+ADMINISTRATION AND MANAGEMENT AND LCH.CLEARNET LTD. RELATED 
+TO CENTRAL CLEARING OF CREDIT DEFAULT SWAPS, AND REQUEST FOR 
+COMMENTS 
+ 
+I.  
+Introduction 
+ 
+In response to the recent turmoil in the financial markets, the Securities and Exchange 
+Commission (“Commission”) has taken multiple actions to protect investors and ensure the 
+integrity of the nation’s securities markets.1  Today the Commission is taking further action 
+designed to address concerns related to the market in credit default swaps  (“CDS”).  The over-
+the-counter (“OTC”) market for CDS has been a source of concerns to us and other financial 
+regulators.  These concerns include the systemic risk posed by CDS, highlighted by the possible 
+                                                 
+1  
+A nonexclusive list of the Commission's actions to stabilize financial markets during this credit 
+crisis include:  adopting a package of measures to strengthen investor protections against naked short 
+selling, including rules requiring a hard T+3 close-out, eliminating the options market maker exception of 
+Regulation SHO, and expressly targeting fraud in short selling transactions (See Securities Exchange Act 
+Release No. 58572 (September 17, 2008), 73 FR 54875 (September 23, 2008)); issuing an emergency 
+order to enhance protections against naked short selling in the securities of primary dealers, Federal 
+National Mortgage Association (“Fannie Mae”), and Federal Home Loan Mortgage Corporation 
+(“Freddie Mac”) (See Securities Exchange Act Release No. 58166 (July 15, 2008), 73 FR 42379 (July 21, 
+2008)); taking temporary emergency action to ban short selling in financial securities (See Securities 
+Exchange Act Release No. 58592 (September 18, 2008), 73 FR 55169 (September 24, 2008)); approving 
+emergency rulemaking to ensure disclosure of short positions by hedge funds and other institutional 
+money managers (See Securities Exchange Act Release No. 58591A (September 21, 2008), 73 FR 55557 
+(September 25, 2008)); proposing rules to strengthen the regulation of credit rating agencies and making 
+the limits and purposes of credit ratings clearer to investors (See Securities Exchange Act Release No. 
+57967 (June 16, 2008), 73 FR 36212 (June 25, 2008); entering into a Memorandum of Understanding 
+with the Board of Governors of the Federal Reserve System ("FRB") to make sure key federal financial 
+regulators share information and coordinate regulatory activities in important areas of common interest 
+(See Memorandum of Understanding Between the U.S. Securities and Exchange Commission and the 
+Board of Governors of the Federal Reserve System Regarding Coordination and Information Sharing in 
+Areas of Common Regulatory and Supervisory Interest (July 7, 2008), 
+http://www.sec.gov/news/press/2008/2008-134_mou.pdf). 
+ 
+2
+inability of parties to meet their obligations as counterparties and the potential resulting adverse 
+effects on other markets and the financial system.2  Recent credit market events have 
+demonstrated the seriousness of these risks in a CDS market operating without meaningful 
+regulation, transparency,3 or central counterparties (“CCPs”). 4  These events have emphasized 
+the need for CCPs as mechanisms to help control such risks.5  A CCP for CDS could be an 
+important step in reducing the counterparty risks inherent in the CDS market, and thereby help 
+mitigate potential systemic impacts.  In November 2008, the President’s Working Group on 
+Financial Markets stated that the implementation of a CCP for CDS was a top priority6 and, in 
+furtherance of this recommendation, the Commission, the FRB and the Commodity Futures 
+Trading Commission (“CFTC”) signed a Memorandum of Understanding7 that establishes a 
+framework for consultation and information sharing on issues related to CCPs for CDS.  Given 
+the continued uncertainty in this market, taking action to help foster the prompt development of 
+                                                 
+2  
+In addition to the potential systemic risks that CDS pose to financial stability, we are concerned 
+about other potential risks in this market, including operational risks, risks relating to manipulation and 
+fraud, and regulatory arbitrage risks. 
+3  
+See Policy Objectives for the OTC Derivatives Market, The President’s Working Group on 
+Financial Markets, November 14, 2008, available at http://www.ustreas.gov/press/releases/reports/ 
+policyobjectives.pdf (“Public reporting of prices, trading volumes and aggregate open interest should be 
+required to increase market transparency for participants and the public.”). 
+4  
+See The Role of Credit Derivatives in the U.S. Economy Before the H. Agric. Comm., 110th 
+Cong. (2008) (Statement of Erik Sirri, Director of the Division of Trading and Markets, Commission). 
+5  
+See id. 
+6  
+See Policy Objectives for the OTC Derivatives Market, The President’s Working Group on 
+Financial Markets (November 14, 2008), 
+http://www.ustreas.gov/press/releases/reports/policyobjectives.pdf.  See also Policy Statement on 
+Financial Market Developments, The President's Working Group on Financial Markets (March 13, 2008), 
+http://www.treas.gov/press/releases/reports/pwgpolicystatemktturmoil_03122008.pdf; Progress Update 
+on March Policy Statement on Financial Market Developments, The President's Working Group on 
+Financial Markets (October 2008), http://www.treas.gov/press/releases/reports/q4progress%20update.pdf. 
+7  
+See Memorandum of Understanding Between the Board of Governors of the Federal Reserve 
+System, the U.S. Commodity Futures Trading Commission and the U.S. Securities and Exchange 
+Commission Regarding Central Counterparties for Credit Default Swaps (November 14, 2008), 
+http://www.treas.gov/press/releases/reports/finalmou.pdf. 
+ 
+3
+CCPs, including granting conditional exemptions from certain provisions of the federal securities 
+laws, is in the public interest.   
+A CDS is a bilateral contract between two parties, known as counterparties.  The value of 
+this financial contract is based on underlying obligations of a single entity or on a particular 
+security or other debt obligation, or an index of several such entities, securities, or obligations.  
+The obligation of a seller under a CDS to make payments under a CDS contract is triggered by a 
+default or other credit event as to such entity or entities or such security or securities.  Investors 
+may use CDS for a variety of reasons, including to offset or insure against risk in their fixed-
+income portfolios, to take positions in bonds or in segments of the debt market as represented by 
+an index, or to capitalize on the volatility in credit spreads during times of economic uncertainty.  
+In recent years, CDS market volumes have rapidly increased.8  This growth has coincided with a 
+significant rise in the types and number of entities participating in the CDS market. 9   
+The Commission’s authority over this OTC market for CDS is limited.  Specifically, 
+Section 3A of the Securities Exchange Act of 1934 (“Exchange Act”) limits the Commission’s 
+authority over swap agreements, as defined in Section 206A of the Gramm-Leach-Bliley Act.10  
+For those CDS that are swap agreements, the exclusion from the definition of security in Section 
+3A of the Exchange Act, and related provisions, will continue to apply.  The Commission’s 
+                                                 
+8   
+See Semiannual OTC derivatives statistics at end-December 2007, Bank for International 
+Settlements (“BIS”), available at http://www.bis.org/statistics/otcder/dt1920a.pdf. 
+9  
+CDS were initially created to meet the demand of banking institutions looking to hedge and 
+diversify the credit risk attendant with their lending activities.  However, financial institutions such as 
+insurance companies, pension funds, securities firms, and hedge funds have entered the CDS market.   
+10  
+15 U.S.C. 78c-1.  Section 3A excludes both a non-security-based and a security-based swap 
+agreement from the definition of “security” under Section 3(a)(10) of the Exchange Act, 15 U.S.C. 
+78c(a)(10).  Section 206A of the Gramm-Leach-Bliley Act defines a “swap agreement” as “any 
+agreement, contract, or transaction between eligible contract participants (as defined in section 1a(12) of 
+the Commodity Exchange Act. . .) . . . the material terms of which (other than price and quantity) are 
+subject to individual negotiation.”  15 U.S.C. 78c note. 
+ 
+4
+action today does not affect these CDS, and this Order does not apply to them.  For those CDS 
+that are not swap agreements (“non-excluded CDS”), the Commission’s action today provides 
+conditional exemptions from certain requirements of the Exchange Act. 
+The Commission believes that using well-regulated CCPs to clear transactions in CDS 
+would help promote efficiency and reduce risk in the CDS market and among its participants.  
+These benefits could be particularly significant in times of market stress, as CCPs would mitigate 
+the potential for a market participant’s failure to destabilize other market participants, and reduce 
+the effects of misinformation and rumors.  CCP-maintained records of CDS transactions would 
+also aid the Commission’s efforts to prevent and detect fraud and other abusive market practices.   
+A well-regulated CCP also would address concerns about counterparty risk by 
+substituting the creditworthiness and liquidity of the CCP for the creditworthiness and liquidity 
+of the counterparties to a CDS.  In the absence of a CCP, participants in the OTC CDS market 
+must carefully manage their counterparty risks because the default by a counterparty can render 
+worthless, and payment delay can reduce the usefulness of, the credit protection that has been 
+bought by a CDS purchaser.  CDS participants currently attempt to manage counterparty risk by 
+carefully selecting and monitoring their counterparties, entering into legal agreements that permit 
+them to net gains and losses across contracts with a defaulting counterparty, and often requiring 
+counterparty exposures to be collateralized.11  A CCP could allow participants to avoid these 
+risks specific to individual counterparties because a CCP “novates” bilateral trades by entering 
+                                                 
+11  
+See generally R. Bliss and C. Papathanassiou, “Derivatives clearing, central counterparties and 
+novation:  The economic implications” (March 8, 2006), at 6.  See also “New Developments in Clearing 
+and Settlement Arrangements for OTC Derivatives,” Committee on Payment and Settlement Systems, 
+BIS, at 25 (March 2007), available at http://www.bis.org/pub/cpss77.pdf; “Reducing Risks and Improving 
+Oversight in the OTC Credit Derivatives Market,” Before the Sen. Subcomm. On Secs., Ins. and 
+Investments, 110th Cong. (2008) (Statement of Patrick Parkinson, Deputy Director, Division of Research 
+and Statistics, FRB). 
+ 
+5
+into separate contractual arrangements with both counterparties – becoming buyer to one and 
+seller to the other.12  Through novation, it is the CCP that assumes counterparty risks.   
+For this reason, a CCP for CDS would contribute generally to the goal of market stability.  
+As part of its risk management, a CCP may subject novated contracts to initial and variation 
+margin requirements and establish a clearing fund.  The CCP also may implement a loss-sharing 
+arrangement among its participants to respond to a participant insolvency or default.   
+A CCP would also reduce CDS risks through multilateral netting of trades.13  Trades 
+cleared through a CCP would permit market participants to accept the best bid or offer from a 
+dealer in the OTC market with very brief exposure to the creditworthiness of the dealer.  In 
+addition, by allowing netting of positions in similar instruments, and netting of gains and losses 
+across different instruments, a CCP would reduce redundant notional exposures and promote the 
+more efficient use of resources for monitoring and managing CDS positions.  Through uniform 
+margining and other risk controls, including controls on market-wide concentrations that cannot 
+be implemented effectively when counterparty risk management is decentralized, a CCP can help 
+prevent a single market participant’s failure from destabilizing other market participants and, 
+ultimately, the broader financial system.   
+In this context, LIFFE Administration and Management (“LIFFE A&M”) and 
+LCH.Clearnet Ltd. (“LCH.Clearnet”) have requested that the Commission grant exemptions 
+                                                 
+12   
+“Novation” is a “process through which the original obligation between a buyer and seller is 
+discharged through the substitution of the CCP as seller to buyer and buyer to seller, creating two new 
+contracts.”  Committee on Payment and Settlement Systems, Technical Committee of the International 
+Organization of Securities Commissioners, Recommendations for Central Counterparties (November 
+2004) at 66. 
+13  
+See “New Developments in Clearing and Settlement Arrangements for OTC Derivatives,” supra 
+note 11, at 25.  Multilateral netting of trades would permit multiple counterparties to offset their open 
+transaction exposure through the CCP, spreading credit risk across all participants in the clearing system 
+and more effectively diffusing the risk of a counterparty's default than could be accomplished by bilateral 
+netting alone. 
+ 
+6
+from certain requirements under the Exchange Act with respect to their proposed activities in 
+clearing and settling certain index-based CDS, as well as the proposed activities of certain other 
+persons, as described below.14  
+Based on the facts that LIFFE A&M and LCH.Clearnet have presented and the 
+representations they have made,15 and for the reasons discussed in this Order, the Commission 
+temporarily is exempting, subject to certain conditions, LCH.Clearnet from the requirement to 
+register as a clearing agency under Section 17A of the Exchange Act solely to perform the 
+functions of a clearing agency for certain non-excluded CDS transactions.  The Commission also 
+temporarily is exempting eligible contract participants and others from certain Exchange Act 
+requirements with respect to non-excluded CDS cleared by LCH.Clearnet.  The Commission’s 
+exemptions are temporary and will expire on September 25, 2009.  To facilitate the operation of 
+one or more CCPs for the CDS market, the Commission has also approved interim final 
+temporary rules providing exemptions under the Securities Act of 1933 and the Exchange Act for 
+non-excluded CDS.  Finally, the Commission is providing temporary exemptions in connection 
+with Sections 5 and 6 of the Exchange Act for transactions in non-excluded CDS.16   
+                                                 
+14   
+See Letter from Arthur W. Hahn, KattenMuchinRosenman LLP, to Florence Harmon, Acting 
+Secretary, Commission, December 24, 2008.       
+15   
+See id.  The exemptions we are granting today are based on representations made by LIFFE 
+A&M and LCH.Clearnet.  We recognize, however, that there could be legal uncertainty in the event that 
+one or more of the underlying representations were to become inaccurate.  Accordingly, if any of these 
+exemptions were to become unavailable by reason of an underlying representation no longer being 
+materially accurate, the legal status of existing open positions in non-excluded CDS associated with 
+persons subject to those unavailable exemptions would remain unchanged, but no new positions could be 
+established pursuant to the exemptions until all of the underlying representations were again accurate.   
+16   
+See Securities Exchange Act Release No. 59165 (December 24, 2008). 
+ 
+7
+II. 
+Discussion 
+A. 
+Description of LIFFE A&M and LCH.Clearnet’s Proposal  
+ 
+The exemptive request by LIFFE A&M and LCH.Clearnet describes how their proposed 
+arrangements for central clearing of CDS would operate, and makes representations about the 
+safeguards associated with those arrangements, as described below: 
+1.  
+LCH Central Counterparty Services for CDS  
+LIFFE A&M has developed and makes available to its members an OTC derivatives 
+processing service, called Bclear, that will provide a mechanism for the processing and 
+centralized clearing of CDS based on credit default swap indices.  The Bclear service processes 
+OTC transactions that are submitted to it by LIFFE A&M members or authorized customers of 
+those members.  The Bclear service submits these transactions for clearance to LCH.Clearnet, 
+which stands as the central counterparty to all transactions processed through Bclear.17  LIFFE 
+A&M will begin processing index CDS through Bclear and would like to make such services 
+available to certain market participants in the U.S.  LIFFE A&M represents that the following 
+information regarding index CDS will be available on its Web site (www.nyx.com): (a) contract 
+specifications for index CDS that may be processed and cleared through the Bclear Service, and 
+(b) a description of the Bclear Service and rules applicable thereto.   
+                                                 
+17  
+Bclear provides a means by which counterparties to an index CDS may negotiate a transaction on 
+a bilateral basis and then submit the transaction for processing and clearance by LCH.Clearnet.  Bclear 
+accepts only completed transactions and is not a matching system for counterparties. 
+ 
+8
+LCH.Clearnet provides CCP services to the following markets and services:  London 
+Stock Exchange, SWX Europe Ltd., LIFFE, EDX London, London Metal Exchange, other 
+European Multilateral Trading Facilities (“MTF”), and RepoClear and SwapClear.18 
+LIFFE A&M has been granted recognition as a Recognised Investment Exchange under 
+the United Kingdom (“U.K.”) Financial Services and Markets Act 2000 (“FSMA”) by the 
+Financial Services Authority (“FSA”).  LCH.Clearnet has been granted recognition as a 
+Recognized Clearing House (“RCH”) under FSMA by the FSA.19  Regulation and oversight in 
+the U.K. is carried out by the FSA and the Bank of England.  The FSA is the main regulator of 
+LCH.Clearnet as an RCH, while the Bank of England’s oversight is confined to LCH.Clearnet’s 
+payment system.20 
+The FSA has a regulatory supervision relationship with LIFFE A&M and with 
+LCH.Clearnet.  On an annual basis, the FSA undertakes a risk assessment of LIFFE A&M and 
+LCH.Clearnet pursuant to which the FSA determines whether relevant regulatory obligations 
+                                                 
+18  
+LCH.Clearnet publishes its rules and procedures for the various markets cleared, together with 
+information on risk management, application costs and procedures, minimum contributions towards and 
+interest rates on the default fund, and transactions tariffs. 
+19   
+LCH.Clearnet has been approved as a Derivatives Clearing Organization (“DCO”) by the CFTC.  
+In addition, FSA and the Bank of England performed a risk assessment of LCH in June 2006 against the 
+Recommendations for Central Counterparties (“RCCP”), which was drafted by a joint task force 
+composed of representative members of the International Organization of Securities Commissions 
+(“IOSCO”) and Committee on Payment and Settlement Systems (“CPSS”) and published in November 
+2004.   
+The Task Force consisted of securities regulators and central bankers from 19 countries and the 
+European Union.  The U.S. representatives on the Task Force included staff from the Commission, FRB, 
+and the CFTC.  The complete RCCP Report is available on the Web sites of the Bank for International 
+Settlements and the International Organization of Securities Commission at, 
+http://www.bis.org/publ/cpss64.htm, and at http://www.iosco.org, respectively.  LCH.Clearnet has 
+assured the Commission that it is in full compliance with the Recommendations for Central 
+Counterparties.  The assessment can be found at http://www.fsa.gov.uk/pubs/other/lchclearnet.pdf. 
+20  
+LCH.Clearnet is owned 73.3 percent by users, 10.9 percent by exchanges, and 15.8 percent by 
+Euroclear.  Euroclear is a user-owned, user-governed Brussels, Belgium-based financial services 
+company that specializes in the settlement of securities transactions. 
+ 
+9
+continue to be met and whether the activities of either LIFFE A&M or LCH.Clearnet pose any 
+risks to the FSA’s statutory objectives, including maintaining market confidence and providing 
+customer protection.  The FSA approves the business continuity plans of LCH.Clearnet. 
+2. 
+CCP Role of LCH.Clearnet in Connection with LIFFE A&M 
+LIFFE A&M has two categories of members, clearing members and non-clearing 
+members.  LIFFE A&M further has two types of clearing members:  Individual Clearing 
+Members that clear and settle business for their own account or, in the case of broker-dealers, on 
+behalf of their customers; and General Clearing Members that, in addition, clear and settle 
+business on behalf of other LIFFE A&M members.  All transactions of non-clearing members 
+must be cleared through a specific clearing member.  All clearing members must also be 
+members of LCH.Clearnet and all are subject to standards of capital adequacy (set by 
+LCH.Clearnet as well as by their respective regulators).  Clearing members must also satisfy 
+LIFFE A&M and LCH.Clearnet that they have adequate systems and controls to clear and settle 
+transactions. 
+The rules of LIFFE A&M provide for members to trade for their own account and/or for 
+their customers, but all transactions must be in the name of the member effecting the trade and 
+that member will be the counterparty for those transactions.  Thus, a LIFFE A&M member will 
+be considered to be “acting as principal.”  This means that a transaction on LIFFE A&M 
+automatically generates a sequence of matching contracts.  For example, a sequence could be 
+between a customer and a LIFFE A&M member, between that member and a clearing member, 
+and between the clearing member and LCH.Clearnet. 
+The purpose of the LIFFE A&M rules is to ensure that a party to a transaction need only 
+look to its immediate counterparty for performance and need not concern itself with parties at 
+ 
+10
+other points on the contractual chain.  Thus, LCH.Clearnet need only look to its clearing 
+members and would have no contractual relationship with, or knowledge of, the non-clearing 
+members of LIFFE A&M or customers on whose behalf the transaction was executed. 
+Hence, LCH.Clearnet is the CCP to clearing firms each acting as principal in respect of 
+index CDS.  Non-clearing members and non-member customers are not party to any contracts 
+registered by clearing members with LCH.Clearnet.  Once an index CDS contract has been 
+accepted by LIFFE A&M, a chain of linked contracts is created, all having the same terms.  
+Specifically, the process by which the chain of linked contracts is created is as follows: 
+a. 
+When a non-member customer enters into an index CDS with or through a non-
+clearing member, the non-clearing member submits the contract to Bclear.  Once LIFFE A&M 
+has accepted the contract, an exchange contract21 is created between the non-clearing member, as 
+principal, and its customer.  If another customer was originally a counterparty to the index CDS, 
+an exchange contract is created between the non-clearing member, as principal, and the second 
+customer.  The contracts are referred to as “customer contracts.”  The customer contracts replace 
+the initial index CDS, which ceases to exist at that point. 
+b. 
+Simultaneously, a matching contract between the non-clearing member and its 
+clearing member, called a “parallel contract,” comes into existence for each of the customer 
+contracts. 
+c. 
+If the counterparty to the trade is a customer of another non-clearing member, a 
+“related contract” is created between the respective clearing members.  The related contract is 
+presented to LCH.Clearnet for registration.  If there is a single non-clearing member involved in 
+the transaction, the parallel contracts are presented to LCH.Clearnet for registration.   
+                                                 
+21   
+An “exchange contract” refers to a contract that is subject to the rules of LIFFE A&M.  The term 
+does not indicate that a central order book exists for a product.   
+ 
+11
+d. 
+The related contract is replaced by contracts between LCH.Clearnet and the 
+clearing member on each side of the transaction. 
+Through this process, the index CDS is discharged and a set of on-exchange contracts 
+arise imposing equivalent obligations on and granting equivalent rights to the original parties to 
+the index CDS, but with LCH.Clearnet as the CCP.  Because the non-member customer will not 
+be a party to a contract registered with LCH.Clearnet by the clearing member, the relationship 
+between the non-member customer and the non-clearing member will remain intact, although 
+such relationship will now be based upon the exchange contract, rather than the index CDS 
+originally entered into by the respective parties. 
+3. 
+LCH Risk Management   
+ 
+LCH.Clearnet requires the posting of initial margin and maintenance (“variation”) margin 
+for all clearing accounts.  The initial margin and maintenance margin is determined utilizing the 
+London SPAN (Standard Portfolio Analysis of Risk) methodology.  London SPAN was adapted 
+from the Chicago Mercantile Exchange’s margining system.   
+The initial margin requirement for a member’s CDS portfolio is the largest loss identified 
+under these various market conditions that might reasonably occur taking into account risk 
+offsets within the CDS portfolio.  Initial margin is refunded when the margined index CDS 
+position is closed.  This risk management methodology is designed to protect LCH.Clearnet 
+against the worst likely loss from one or two days’ move in the market. 
+Net Liquidation Value (“NLV”), the value of a member’s portfolio at closing market 
+prices representing the income or expenditure which would be associated with closing out an 
+index CDS position, is added to initial margin to give the total margin requirement. 
+ 
+12
+LCH.Clearnet revalues the margin positions of its members on at least a daily basis to 
+account for changes or volatility in the market price of the underlying index and in 
+LCH.Clearnet’s valuation of margin collateral provided in the form of securities.  During the 
+day, LCH.Clearnet monitors market prices and clearing members’ positions and may call for 
+additional margin payments from members.  LCH.Clearnet then revalues each member’s margin 
+requirements each night.22 
+LCH.Clearnet’s margin requirements are only applicable to clearing members.  All 
+clearing members must provide LCH.Clearnet with enough margin to cover the risk on their total 
+net positions for each account they clear.  Clearing members and/or non-clearing members in 
+turn set the margin requirements applicable to their customers.  
+4. 
+Margin Collateral 
+LCH.Clearnet accepts a wide variety of collateral types from clearing members in 
+meeting their initial and NLV margin payments.  Members may meet their margin requirements 
+by cash payments in the following currencies: sterling, U.S. dollars, yen, Swiss francs, and euros.  
+In addition, LCH.Clearnet will accept an extensive range of collateral including approved bank 
+                                                 
+22   
+While LCH.Clearnet’s margin requirements are central to its risk management, LCH.Clearnet 
+also has other measures at its disposal, including:   
+1. 
+additional financial resource requirements (buffers); 
+2. 
+additional initial margin requirements; 
+3. 
+imposition of position limits; 
+4. 
+trading for liquidation only; 
+5. 
+prior authorization of trades above a certain size; and 
+6. 
+issuing instructions to reduce positions. 
+LCH.Clearnet also monitors large cumulative profits or losses. If large and unusual trading activity is 
+detected (relative to previous exposures), LCH.Clearnet will contact compliance officers and seek 
+assurances from the senior executives or boards of a member firm or parent company. 
+ 
+13
+guarantees, certain U.K. treasury bills, U.K. gilts, sterling, U.S. dollar certificates of deposit, 
+German, Italian, and Spanish government bonds and U.K. equities.   
+To avoid frequent margin payments, clearing members may deposit margin in excess of 
+the LCH.Clearnet required minimum.  In such cases, LCH.Clearnet pays interest to clearing 
+members on excess cash margin on deposit currently at the overnight London Inter-Bank Bid 
+Rate (“LIBID”) minus twenty-five basis points. 
+5. 
+Member Default 
+If a clearing member appears to LCH.Clearnet to be unable, or likely to become unable, 
+to meet its obligations to LCH.Clearnet, it may be declared by LCH.Clearnet in default under 
+LCH.Clearnet’s default rules in relation to the contracts registered by it with LCH.Clearnet.  
+Where a clearing member has been declared in default by LCH.Clearnet, contracts between such 
+clearing member and its non-clearing members and clients will be dealt with under LIFFE 
+A&M’s default rules.  A default by a non-clearing member will also be dealt with under LIFFE 
+A&M’s default rules.  Where the defaulting party is an LCH.Clearnet clearing member, 
+LCH.Clearnet’s default rules take primacy over LIFFE A&M’s, although all actions in such 
+circumstances are typically coordinated between LCH.Clearnet and LIFFE A&M to take 
+advantage of statutory protections afforded to LCH.Clearnet as an RCH. 
+As the legal counterparty to each clearing member, LCH.Clearnet bears any loss arising 
+from the default of a clearing member, beyond the margin deposits held as security in respect of 
+the defaulting member’s liabilities.  LCH.Clearnet’s supplementary resources for use in default 
+cases, should a member’s margin deposits prove insufficient, comprise a Default Fund, totaling 
+approximately £600 million, which is provided by members and held in cash by LCH.  Each 
+member’s Default Fund contribution is assessed every three months on the basis of that 
+ 
+14
+member’s initial margin and (in the case of exchange traded derivatives) trading volumes over 
+the preceding three months. 
+The Default Fund is “mutualized” in that any loss faced by LCH.Clearnet as a result of a 
+default which cannot be met from the defaulter’s margin on deposit at LCH.Clearnet or from its 
+contribution to the Default Fund will be met by the Default Fund generally.  Customers of a 
+defaulting clearing member have no contractual relationship with LCH.Clearnet, but are 
+protected to the extent of their client agreement with the defaulting member and any segregation 
+arrangements in place with the defaulting member.23 
+LCH.Clearnet uses a stress testing model to ensure that its post-default financial backing 
+is sufficient.  The stress testing model assesses the adequacy of initial margin requirements and 
+the Default Fund on the basis of extreme price movement scenarios in all contracts cleared by 
+LCH. 
+The sequence of protections to be applied in the event of a default is as follows:24 
+a. 
+Defaulting Member’s Initial Margin (including excess collateral posted). 
+b. 
+Defaulting Member’s Default Fund Contribution. 
+c. 
+Up to £20 million of LCH.Clearnet’s capital and reserves. 
+d. 
+Remainder of the Default Fund. 
+e. 
+Remainder of LCH.Clearnet’s capital and reserves. 
+As the counterparty to every clearing member, LCH.Clearnet reduces the scope of 
+counterparty risk between clearing members.  LCH.Clearnet is legally responsible for the 
+financial performance of the contracts that it has registered and any resulting delivery 
+                                                 
+23  
+LCH is not a counterparty to contracts that clearing members have with their customers.  
+24  
+The sequence does not take into account the anticipated replenishment of the Default Fund by 
+market members and/or national governments between steps d. and e. 
+ 
+15
+obligations.  LCH.Clearnet represents that its rules and procedures are available on its Web site 
+and such rules and procedures generally set forth the sequence of protections to be applied in the 
+event of a default by a clearing member. 
+6. 
+Client Money Rules and Other Member Requirements 
+Clearing members that undertake business for clients are subject to UK client money and 
+client asset rules or, if they are authorized outside the UK, similar rules of their relevant 
+regulator.  In the European Union, the client money rules are governed by the Markets in 
+Financial Instruments Directive, although the UK client money rules prescribe some extended 
+conditions in certain cases.  Clearing members may have two accounts with LCH.Clearnet, one 
+for segregated customer business and one for all house and non-segregated client business, and 
+neither LCH.Clearnet nor the clearing member can offset liabilities on the house margin account 
+with credits arising on the client margin account.  Clearing members are required to segregate 
+customer funds and securities except in instances where the investor, if permitted to do so, 
+contracts out of the segregation requirement.     
+LIFFE A&M represents that it only considers for membership entities located in 
+jurisdictions with regulatory arrangements it deems satisfactory regarding: (i) supervision of 
+investment activity; (ii) information sharing and cooperation between the supervisory authority 
+of the jurisdiction concerned and LIFFE A&M and/or the FSA; and (iii) capital adequacy, 
+liquidity, and segregation of customers’ funds and securities (and related books and records 
+provisions).  LIFFE A&M further represents that before offering Index CDS services to U.S. 
+persons, LIFFE A&M will adopt a requirement that will prohibit a member from directly or 
+indirectly submitting, or permitting an authorized customer to submit, an Index CDS to the 
+Bclear service when the member receives or holds funds or securities of U.S. persons for the 
+ 
+16
+purpose of purchasing, selling, clearing, settling, or holding that Index CDS position, unless the 
+member, in connection with such Index CDS activities, is regulated by:  (i) a signatory to the 
+IOSCO Multilateral Memorandum of Understanding Concerning Consultation and Cooperation 
+and the Exchange of Information, (ii) a signatory to a bilateral arrangement with the Commission 
+for enforcement cooperation, or (iii) a financial regulatory authority in Ireland or Sweden.  In 
+that regard, LIFFE A&M states that it intends to launch the Index CDS service for non-U.S. 
+persons on December 22, 2008.  LIFFE A&M will notify members at that time that the service 
+may not be offered to U.S. persons until LIFFE A&M issues an additional notice. 
+In addition, LCH.Clearnet represents that its rules require its clearing members to:  (i) 
+meet specific capital adequacy standards that vary depending on the type of activities undertaken 
+by the member; (ii) provide copies of audited annual financial statements to LCH.Clearnet; and 
+(iii) notify LCH.Clearnet upon the happening of certain material events, such as significant 
+reductions in shareholders’ funds or net capital. 
+B. 
+Temporary Conditional Exemption from Clearing Agency Registration Requirement 
+Section 17A of the Exchange Act sets forth the framework for the regulation and 
+operation of the U.S. clearance and settlement system, including CCPs.  Specifically, Section 
+17A directs the Commission to use its authority to promote enumerated Congressional objectives 
+and to facilitate the development of a national clearance and settlement system for securities 
+transactions.  Absent an exemption, a CCP that novates trades of non-excluded CDS that are 
+securities and generates money and settlement obligations for participants is required to register 
+with the Commission as a clearing agency.   
+Section 36 of the Exchange Act authorizes the Commission to conditionally or 
+unconditionally exempt any person, security, or transaction, or any class or classes of persons, 
+ 
+17
+securities, or transactions, from any provision or provisions of the Exchange Act or any rule or 
+regulation thereunder, by rule, regulation, or order, to the extent that such exemption is necessary 
+or appropriate in the public interest, and is consistent with the protection of investors.25 
+Accordingly, pursuant to Section 36 of the Exchange Act, the Commission finds that it is 
+necessary or appropriate in the public interest and is consistent with the protection of investors to 
+exercise its authority to grant an exemption until September 25, 2009 to LCH.Clearnet from 
+Section 17A of the Exchange Act, solely to perform the functions of a clearing agency for 
+Cleared Index CDS,26 subject to the conditions discussed below.     
+Our action today balances the aim of facilitating the prompt establishment of 
+LCH.Clearnet as a CCP for non-excluded CDS transactions – which should help reduce systemic 
+risks during a period of extreme turmoil in the U.S. and global financial markets – with ensuring 
+that important elements of Commission oversight are applied to the non-excluded CDS market.  
+In doing so, we are mindful that applying the full scope of the Exchange Act to transactions 
+involving non-excluded CDS could deter the prompt establishment of LCH.Clearnet as a CCP to 
+settle those transactions.     
+                                                 
+25  
+15 U.S.C. 78mm. 
+26   
+For purposes of this exemption, and the other exemptions addressed in this Order, “Cleared Index 
+CDS” means a credit default swap that is submitted (or offered, purchased, or sold on terms providing for 
+submission) to LCH.Clearnet, that is offered only to, purchased only by, and sold only to eligible contract 
+participants (as defined in Section 1a(12) of the Commodity Exchange Act as in effect on the date of this 
+Order (other than a person that is an eligible contract participant under paragraph (C) of that section)), and 
+in which the reference index is an index in which 80 percent or more of the index’s weighting is 
+comprised of the following entities or securities:  (i) an entity reporting under the Exchange Act, 
+providing Securities Act Rule 144A(d)(4) information, or about which financial information is otherwise 
+publicly available; (ii) a foreign private issuer whose securities are listed outside the United States and 
+that has its principal trading market outside the United States; (iii) a foreign sovereign debt security; (iv) 
+an asset-backed security, as defined in Regulation AB, issued in a registered transaction with publicly 
+available distribution reports; or (v) an asset-backed security issued or guaranteed by the Fannie Mae, 
+Freddie Mac, or the Government National Mortgage Association (“Ginnie Mae”).  As discussed above, 
+the Commission’s action today does not affect CDS that are swap agreements under Section 206A of the 
+Gramm-Leach-Bliley Act.  See text at note 10, supra.   
+ 
+18
+ 
+While we are acting so that the prompt establishment of LCH.Clearnet as a CCP for non-
+excluded CDS will not be delayed by the need to apply the full scope of Exchange Act Section 
+17A’s requirements that govern clearing agencies, the relief we are providing is temporary and 
+conditional.  The limited duration of the exemptions will permit the Commission to gain more 
+direct experience with the non-excluded CDS market after LCH.Clearnet becomes operational, 
+giving the Commission the ability to oversee the development of the centrally cleared non-
+excluded CDS market as it evolves.  During the exemptive period, the Commission will closely 
+monitor the impact of the CCPs on the CDS market.  In particular, the Commission will seek to 
+assure itself that the CCPs do not act in anticompetivie manner or indirectly facilitate 
+anticompetitive behavior with respect to fees charged to members, the dissemination of market 
+data and the access to clearing services by independent CDS exchanges or CDS trading 
+platforms.  The Commission will take that experience into account in future actions.   
+Moreover, this temporary exemption in part is based on LCH.Clearnet’s representation 
+that it meets the standards set forth in the RCCP.27  The RCCP establishes a framework that 
+requires a CCP to have: (i) the ability to facilitate the prompt and accurate clearance and 
+settlement of CDS transactions and to safeguard its users' assets; and (ii) sound risk management, 
+including the ability to appropriately determine and collect clearing fund and monitor its users' 
+trading.  This framework is generally consistent with the requirements of Section 17A of the 
+Exchange Act.   
+In addition, this Order is designed to assure that – as LCH.Clearnet and LIFFE A&M 
+have represented – information will be available to market participants about the terms of the 
+CDS cleared by LCH.Clearnet, the creditworthiness of LCH.Clearnet or any guarantor, and the 
+                                                 
+27   
+See note 19, supra. 
+ 
+19
+clearing and settlement process for the CDS.  Moreover, to be within the definition of Cleared 
+Index CDS for purposes of this exemption (as well as the other exemptions granted through this 
+Order), at least 80 percent of the weighting of the index must be comprised of reference entities 
+or reference securities that satisfy certain conditions relating to the availability of information 
+about such persons or securities.  The definition does not prescribe the type of financial 
+information that must be available nor the location of the particular information, recognizing that 
+eligible contract participants have access to information about reference entities and reference 
+securities through multiple sources.  The Commission believes, however, that it is important in 
+the CDS market, as in the market for securities generally, that parties to transactions should have 
+access to financial information that would allow them to appropriately evaluate the risks relating 
+to a particular investment and make more informed investment decisions.28  Such information 
+availability also will assist LCH.Clearnet and the buyers and sellers in valuing their Cleared 
+Index CDS and their counterparty exposures.  As a result of the Commission’s actions today, the 
+Commission believes that information should be available for market participants to be able to 
+make informed investment decisions, and value and evaluate their Cleared Index CDS and their 
+counterparty exposures. 
+ 
+This temporary exemption is subject to a number of conditions that are designed to 
+enable Commission staff to monitor LCH.Clearnet’s clearance and settlement of CDS 
+transactions, coordinate and cooperate with the FSA, and help reduce risk in the CDS market.  
+These conditions require that LCH.Clearnet:  (i) make available on its Web site annual audited 
+                                                 
+28  
+The Commission notes the recommendations of the President’s Working Group on Financial 
+Markets regarding the informational needs and due diligence responsibilities of investors.  See Policy 
+Statement on Financial Market Developments, The President’s Working Group on Financial Markets, 
+March 13, 2008, available at: http://www.treas.gov/press/releases/reports/ 
+pwgpolicystatemktturmoil_03122008.pdf. 
+ 
+20
+financial statements; (ii) preserve records related to the conduct of its Cleared Index CDS 
+clearance and settlement services for at least five years (in an easily accessible place for the first 
+two years); (iii) supply information relating to its Cleared Index CDS clearance and settlement 
+services to the Commission; (iv) provide access to the Commission to conduct on-site 
+inspections of facilities, records and personnel related to its Cleared Index CDS clearance and 
+settlement services, subject to coordination with FSA and upon terms and conditions agreed 
+between the FSA and the Commission; (v) notify the Commission about material disciplinary 
+actions taken against users of its Cleared Index CDS clearance and settlement services, and about 
+the involuntary termination of the membership of an entity using those services; (vi) provide the 
+Commission with prior notice of changes to its Default Rules and Default Fund Rules; (vii) 
+provide the Commission with reports with respect to certain automated systems used in 
+connection with its Cleared Index CDS clearance and settlement services, and with annual 
+audited financial statements;29 and (viii) provide notice to the Commission regarding the 
+suspension of services or the inability to operate facilities in connection with its Cleared Index 
+CDS clearance and settlement services. 
+ 
+In addition, this relief is conditioned on LCH.Clearnet, directly or indirectly, making 
+available to the public on terms that are fair and reasonable and not unreasonably discriminatory: 
+(i) all end-of-day settlement prices and any other prices with respect to Cleared Index CDS that 
+LCH.Clearnet may establish to calculate mark-to market margin requirements for LCH.Clearnet 
+                                                 
+29   
+As a condition of LCH.Clearnet’s exemption, LIFFE A&M has agreed to provide the 
+Commission with reports with respect to certain automated systems used in connection with 
+LCH.Clearnet’s Cleared Index CDS clearance and settlement services.  These reports will be generated in 
+accordance with risk assessments of the areas set forth in the Commission’s Automation Review Policy 
+Statements (“ARPs”).  See Automated Systems of Self-Regulatory Organization, Securities Exchange Act 
+Release No. 27445 (November 16, 1989), 54 FR 48703 (November 24, 1989), and Automated Systems of 
+Self-Regulatory Organization (II), Securities Exchange Act Release No. 29185 (May 9, 1991), 56 FR 
+22490 (May 15, 1991). 
+ 
+21
+or LIFFE A&M participants; and (ii) any other pricing or valuation information with respect to 
+Cleared Index CDS as is published or distributed by LCH.Clearnet or LIFFE A&M. The 
+Commission believes this is an appropriate condition for LCH.Clearnet’s exemption from 
+registration as a clearing agency.  In Section 11A of the Exchange Act, Congress included a 
+finding that "[i]t is in the public interest and appropriate for the protection of investors and the 
+maintenance of fair and orderly markets to assure . . . the availability to brokers, dealers, and 
+investors of information with respect to quotations for and transactions in securities."30  The 
+President's Working Group on Financial Markets has stated that increased transparency is a 
+policy objective for the over-the-counter derivatives market,31 which includes the market for 
+CDS.  This condition is designed to further this policy objective of both Congress and the 
+President's Working Group by requiring LCH.Clearnet and LIFFE A&M to make available to 
+the public on terms that are fair and reasonable all end-of-day settlement prices and any other 
+prices with respect to Cleared Index CDS that LCH.Clearnet may establish to calculate mark-to-
+market margin requirements for  LCH.Clearnet or LIFFE A&M Participants.  In addition, 
+LCH.Clearnet or LIFFE A&M  must make available to the public on terms that are fair and 
+reasonable and not unfairly discriminatory any other pricing or valuation information with 
+respect to Cleared Index CDS as is published or distributed by LCH.Clearnet or LIFFE A&M. 
+ 
+As a CCP, LCH.Clearnet will collect and process information about CDS transactions 
+and positions from all of its participants.  With this information, a CCP will, among other things, 
+calculate and disseminate current values for open positions for the purpose of setting appropriate 
+                                                 
+30 
+15 U.S.C. 78k-1(a)(1)(C)(iii).  See also 15 U.S.C. 78k-1(a)(1)(D). 
+31 
+See President's Working Group on Financial Markets, Policy Objectives for the OTC Derivatives 
+Market (November 14, 2008), http://www.ustreas.gov/press/releases/reports/policyobjectives.pdf ("Public 
+reporting of prices, trading volumes and aggregate open interest should be required to increase market 
+transparency for participants and the public."). 
+ 
+22
+margin levels, or have an agent perform these functions on its behalf.  The availability of such 
+information can improve fairness, efficiency, and competitiveness of the market – all of which 
+enhance investor protection and facilitate capital formation.  Moreover, with pricing and 
+valuation information relating to Cleared Index CDS, market participants would be able to derive 
+information about underlying securities and indexes.  This may improve the efficiency and 
+effectiveness of the securities markets by allowing investors to better understand credit 
+conditions generally. 
+C. 
+Temporary General Exemption for LCH.Clearnet, LIFFE A&M and Certain Eligible 
+Contract Participants 
+Applying the full panoply of Exchange Act requirements to participants in transactions in 
+non-excluded CDS likely would deter some participants from using CCPs to clear CDS 
+transactions.  At the same time, it is important that the antifraud provisions of the Exchange Act 
+apply to transactions in non-excluded CDS; indeed, OTC transactions subject to individual 
+negotiation that qualify as security-based swap agreements already are subject to these antifraud 
+provisions.32 
+                                                 
+32   
+While Section 3A of the Exchange Act excludes “swap agreements” from the definition of 
+“security,” certain antifraud and insider trading provisions under the Exchange Act explicitly apply to 
+security-based swap agreements.  See (a) paragraphs (2) through (5) of Section 9(a), 15 U.S.C. 78i(a), 
+prohibiting the manipulation of security prices; (b) Section 10(b), 15 U.S.C. 78j(b), and underlying rules 
+prohibiting fraud, manipulation or insider trading (but not prophylactic reporting or recordkeeping 
+requirements); (c) Section 15(c)(1), 15 U.S.C. 78o(c)(1), which prohibits brokers and dealers from using 
+manipulative or deceptive devices; (d) Sections 16(a) and (b), 15 U.S.C. 78p(a) and (b), which address 
+disclosure by directors, officers and principal stockholders, and short-swing trading by those persons, and 
+rules with respect to reporting requirements under Section 16(a); (e) Section 20(d), 15 U.S.C. 78t(d), 
+providing for antifraud liability in connection with certain derivative transactions; and (f) Section 
+21A(a)(1), 15 U.S.C. 78u-1(a)(1), related to the Commission’s authority to impose civil penalties for 
+insider trading violations. 
+“Security-based swap agreement” is defined in Section 206B of the Gramm-Leach-Bliley Act as 
+a swap agreement in which a material term is based on the price, yield, value, or volatility of any security 
+or any group or index of securities, or any interest therein.   
+ 
+23
+ 
+We thus believe that it is appropriate in the public interest and consistent with the 
+protection of investors temporarily to apply substantially the same framework to transactions by 
+market participants in non-excluded CDS that applies to transactions in security-based swap 
+agreements.  Applying substantially the same set of requirements to participants in transactions 
+in non-excluded CDS as apply to participants in OTC CDS transactions will avoid deterring 
+market participants from promptly using CCPs, which would detract from the potential benefits 
+of central clearing.    
+ 
+Accordingly, pursuant to Section 36 of the Exchange Act, the Commission finds that it is  
+necessary or appropriate in the public interest and is consistent with the protection of investors to 
+exercise its authority to grant an exemption until September 25, 2009 from certain requirements 
+under the Exchange Act.  This temporary exemption applies to LCH.Clearnet and LIFFE A&M, 
+and also to certain eligible contract participants33 other than:  eligible contract participants that 
+receive or hold funds or securities for the purpose of purchasing, selling, clearing, settling or 
+holding Cleared Index CDS positions for other persons;34 eligible contract participants that are 
+                                                 
+33  
+This exemption in general applies to eligible contract participants, as defined in Section 1a(12) of 
+the Commodity Exchange Act as in effect on the date of this Order, other than persons that are eligible 
+contract participants under paragraph (C) of that section.      
+34   
+For these purposes, and for the purpose of the definition of “Cleared Index CDS,” the terms 
+“purchasing” and “selling” mean the execution, termination (prior to its scheduled maturity date), 
+assignment, exchange, or similar transfer or conveyance of, or extinguishing the rights or obligations 
+under, a Cleared Index CDS, as the context may require.  This is consistent with the meaning of the terms 
+“purchase” or “sale” under the Exchange Act in the context of security-based swap agreements.  See 
+Exchange Act Section 3A(b)(4).   
+A separate temporary conditional exemption addresses members of LIFFE A&M that hold funds 
+or securities for the purpose of purchasing, selling, clearing, settling, or holding Cleared Index CDS 
+positions for other persons.  See Part II.D, infra.   
+ 
+24
+self-regulatory organizations; or eligible contract participants that are registered brokers or 
+dealers.35   
+Under this temporary exemption, and solely with respect to Cleared Index CDS, these 
+persons generally are exempt from provisions of the Exchange Act and the rules and regulations 
+thereunder that do not apply to security-based swap agreements.  Those persons thus would still 
+be subject to those Exchange Act requirements that explicitly are applicable in connection with 
+security-based swap agreements.36  In addition, all provisions of the Exchange Act related to the 
+Commission’s enforcement authority in connection with violations or potential violations of such 
+provisions would remain applicable.37  In this way, the temporary exemption would apply the 
+same Exchange Act requirements in connection with non-excluded CDS as apply in connection 
+with OTC credit default swaps. 
+This temporary exemption, however, does not extend to Sections 5 and 6 of the Exchange 
+Act.  The Commission separately is issuing a conditional exemption from these provisions to all 
+broker-dealers and exchanges.38  This temporary exemption also does not extend to Section 17A 
+of the Exchange Act; instead, LCH.Clearnet is exempt from registration as a clearing agency 
+under the conditions discussed above.  In addition, this exemption does not apply to Exchange 
+                                                 
+35   
+A separate temporary exemption addresses the Cleared Index CDS activities of registered broker-
+dealers.  See Part II.E, infra. 
+36   
+See note 32, supra. 
+37   
+Thus, for example, the Commission retains the ability to investigate potential violations and bring 
+enforcement actions in the federal courts and administrative proceedings, and to seek the full panoply of 
+remedies available in such cases.   
+38  
+See note 16, supra.  A national securities exchange that effects transactions in Cleared Index CDS 
+would continue to be required to comply with all requirements under the Exchange Act applicable to such 
+transactions.  A national securities exchange could form subsidiaries or affiliates that operate exchanges 
+exempt under that order.  Any subsidiary or affiliate of a registered exchange could not integrate, or 
+otherwise link, the exempt CDS exchange with the registered exchange including the premises or 
+property of such exchange for effecting or reporting a transaction without being considered a “facility of 
+the exchange.”  See Section 3(a)(2), 15 U.S.C. 78c(a)(2).  
+ 
+25
+Act Sections 12, 13, 14, 15(d) and 16;39 eligible contract participants and other persons instead 
+should refer to the interim final temporary rules issued today by the Commission.  Finally, this 
+temporary exemption does not extend to the Commission’s administrative proceeding authority 
+under Sections 15(b)(4) and (b)(6),40 or to certain provisions related to government securities.41 
+D. 
+Conditional Temporary General Exemption for Certain Clearing Members of LIFFE 
+A&M and LCH.Clearnet 
+ 
+Absent an exception, persons that effect transactions in non-excluded CDS that are 
+securities may be required to register as broker-dealers pursuant to Section 15(a)(1) of the 
+Exchange Act.42  Moreover, certain reporting and other requirements of the Exchange Act could 
+                                                 
+39   
+15 U.S.C. 78l, 78m, 78n, 78o(d), 78p. 
+40   
+Exchange Act Sections 15(b)(4) and 15(b)(6), 15 U.S.C. 78o(b)(4) and (b)(6), grant the 
+Commission authority to take action against broker-dealers and associated persons in certain situations.  
+Accordingly, while this exemption generally extends to persons that act as inter-dealer brokers in the 
+market for Cleared Index CDS and do not hold funds or securities for others, such inter-dealer brokers 
+may be subject to actions under Sections 15(b)(4) and (b)(6) of the Exchange Act.   
+In addition, such inter-dealer brokers may be subject to actions under Exchange Act Section 
+15(c)(1), 15 U.S.C. 78o(c)(1), which prohibits brokers and dealers from using manipulative or deceptive 
+devices.  As noted above, Section 15(c)(1) explicitly applies to security-based swap agreements.  Sections 
+15(b)(4), 15(b)(6) and 15(c)(1), of course, would not apply to persons subject to this exemption who do 
+not act as broker-dealers or associated persons of broker-dealers.  
+41   
+This exemption specifically does not extend to the Exchange Act provisions applicable to 
+government securities, as set forth in Section 15C, 15 U.S.C. 78o-5, and its underlying rules and 
+regulations; nor does the exemption extend to related definitions found at paragraphs (42) through (45) of 
+Section 3(a), 15 U.S.C. 78c(a).  The Commission does not have authority under Section 36 to issue 
+exemptions in connection with those provisions.  See Exchange Act Section 36(b), 15 U.S.C. 78mm(b).   
+42  
+15 U.S.C. 78o(a)(1).  This section generally provides that, absent an exception or exemption, a 
+broker or dealer that uses the mails or any means of interstate commerce to effect transactions in, or to 
+induce or attempt to induce the purchase or sale of, any security must register with the Commission.  
+Section 3(a)(4) of the Exchange Act generally defines a “broker” as “any person engaged in the 
+business of effecting transactions in securities for the account of others,” but provides 11 exceptions for 
+certain bank securities activities.  15 U.S.C. 78c(a)(4).  Section 3(a)(5) of the Exchange Act generally 
+defines a “dealer” as “any person engaged  in the business of buying and selling securities for his own 
+account,” but includes exceptions for certain bank activities.  15 U.S.C. 78c(a)(5).  Exchange Act Section 
+3(a)(6) defines a “bank” as a bank or savings association that is directly supervised and examined by state 
+or federal banking authorities (with certain additional requirements for banks and savings associations 
+ 
+26
+apply to such persons, as broker-dealers, regardless of whether they are registered with the 
+Commission.   
+ 
+It is consistent with our investor protection mandate to require that intermediaries in 
+securities transactions that receive or hold funds and securities on behalf of others comply with 
+standards that safeguard the interests of their customers.  For example, registered broker-dealers 
+are required to segregate assets held on behalf of customers from proprietary assets, because 
+segregation will assist customers in recovering assets in the event the intermediary fails.  To the 
+extent that funds and securities are not segregated, they could be used by a participant to fund its 
+own business and could be attached to satisfy debts of the participant were the participant to fail.  
+Moreover, the maintenance of adequate capital and liquidity protects customers, CCPs and other 
+market participants.  Adequate books and records (including both transactional and position 
+records) are necessary to facilitate day to day operations as well as to help resolve situations in 
+which a participant fails and either a regulatory authority or receiver is forced to liquidate the 
+firm.  Appropriate records also are necessary to allow examiners to review for improper 
+activities, such as insider trading or fraud.   
+ 
+At the same time, requiring intermediaries that receive or hold funds and securities on 
+behalf of customers in connection with transactions in non-excluded CDS to register as broker-
+dealers may deter the use of CCPs in CDS transactions, to the detriment of the markets and 
+market participants generally.  Also, as noted above with regard to other eligible contract 
+participants to non-excluded CDS transactions, immediately applying the panoply of Exchange 
+Act requirements to centrally cleared transactions may deter the use of CCPs for CDS 
+transactions.   
+                                                                                                                                                             
+that are not chartered by a federal authority or a member of the Federal Reserve System).  15 U.S.C. 
+78c(a)(6). 
+ 
+27
+ 
+Those factors argue in favor of flexibility in applying the requirements of the Exchange 
+Act to these intermediaries.  Along with those factors, in granting an exemption here we are 
+particularly relying on the representation of LIFFE A&M that it only considers for membership 
+entities located in jurisdictions with regulatory arrangements it deems satisfactory regarding:  (i) 
+supervision of investment activity; (ii) information sharing and cooperation between the 
+supervisory authority of the jurisdiction concerned and LIFFE A&M and/or the FSA; and (iii) 
+capital adequacy, liquidity, and segregation of customers’ funds and securities (and related books 
+and records provisions).  We also are particularly relying on the representation of LCH.Clearnet 
+that its rules require its clearing members to: (i) meet specific capital adequacy standards that 
+vary depending on the type of activities undertaken by the member; (ii) provide copies of audited 
+annual financial statements to LCH.Clearnet; and (iii) notify LCH.Clearnet upon the happening 
+of certain material events, such as significant reductions in shareholders’ funds or net capital.   
+ 
+We further are relying on LIFFE A&M’s representation that before offering Index CDS 
+services to U.S. persons,43 LIFFE A&M will adopt a requirement that will prohibit a member 
+from directly or indirectly submitting, or permitting an authorized customer to submit, an Index 
+CDS to the Bclear service when the member receives or holds funds or securities of U.S. persons 
+for the purpose of purchasing, selling, clearing, settling, or holding that Index CDS position, 
+unless the member, in connection with such Index CDS activities, is regulated by:  (i) a signatory 
+to the IOSCO Multilateral Memorandum of Understanding Concerning Consultation and 
+Cooperation and the Exchange of Information, (ii) a signatory to a bilateral arrangement with the 
+Commission for enforcement cooperation, or (iii) a financial regulatory authority in Ireland or 
+                                                 
+43  
+As noted above, LIFFE A&M states that it intends to launch the Index CDS service for non-U.S. 
+persons on December 22, 2008.  LIFFE A&M will notify members at that time that that the service may 
+not be offered to U.S. persons until LIFFE A&M issues an additional notice.   
+ 
+28
+Sweden.44  This will help ensure that the Commission can access trading records and other 
+information of LIFFE A&M members as needed to enforce the federal securities laws.   
+Accordingly, pursuant to Section 36 of the Exchange Act, the Commission finds that it is 
+necessary or appropriate in the public interest and is consistent with the protection of investors to 
+exercise its authority to grant a conditional exemption until September 25, 2009 from certain 
+Exchange Act requirements.  In general, we are providing a temporary exemption, subject to the 
+conditions discussed below, to any member of LIFFE A&M that receives or holds funds or 
+securities for the purpose of purchasing, selling, clearing, settling or holding Cleared Index CDS 
+positions for other persons.  Solely with respect to Cleared Index CDS, those members generally 
+will be exempt from those provisions of the Exchange Act and the underlying rules and 
+regulations that do not apply to security-based swap agreements.45    
+ 
+As with the exemption discussed above that is applicable to LCH.Clearnet, LIFFE A&M 
+and certain eligible contract participants, and for the same reasons, this exemption for LIFFE 
+A&M members that receive or hold funds and securities does not extend to Exchange Act 
+provisions that explicitly apply in connection with security-based swap agreements,46 or to 
+related enforcement authority provisions.47  As with the exemption discussed above, we also are 
+                                                 
+44   
+The Commission has established informal relationships with securities authorities in Ireland and 
+Sweden and cooperates with them on an ad hoc basis.  The Commission will explore entering into 
+arrangements for cooperation with these authorities and, in the near term, will seek letters of intent to 
+cooperate. 
+ 
+45   
+This exemption will be available both to clearing members and to non-clearing members of 
+LIFFE A&M that hold funds and securities on behalf of others in connection with transactions in Cleared 
+Index CDS. 
+46   
+See note 32, supra. 
+47   
+See note 37, supra. 
+ 
+29
+not exempting those members from Sections 5, 6, 12(a) and (g), 13, 14, 15(b)(4), 15(b)(6), 15(d), 
+16 and 17A of the Exchange Act.48   
+This temporary exemption is subject to the member complying with conditions that are 
+important for protecting customer funds and securities.  Particularly, the member must be in 
+material compliance with the rules of LIFFE A&M and, if it is a clearing member, with the rules 
+of LCH.Clearnet, and applicable laws and regulations, relating to capital, liquidity, and 
+segregation of customers’ funds and securities (and related books and records provisions) with 
+respect to non-excluded CDS.49  Also, to the extent that the member receives or holds funds or 
+securities of U.S. eligible contract participants for the purpose of purchasing, selling, clearing, 
+settling or holding non-excluded CDS positions for those persons, this exemption is predicated 
+on the member satisfying the following three conditions:  (i) the U.S. persons cannot be natural 
+persons; (ii) the member must segregate such funds and securities of such U.S. persons from the 
+member’s own assets (i.e., the member may not permit U.S. persons to “opt out” of applicable 
+segregation requirements for such funds and securities even if regulations or laws would permit 
+the person to “opt out”); and (iii) the member shall disclose to such U.S. persons that the member 
+is not regulated by the Commission and that U.S. broker-dealer segregation requirements and 
+protections under the Securities Investor Protection Act will not apply to any funds or securities 
+held by the member.  
+                                                 
+48   
+Nor are we exempting those members from provisions related to government securities, as 
+discussed above. 
+49   
+A member would not be “in material compliance” if it failed in any way to segregate customer 
+funds and securities consistent with these rules, laws and regulations.  In that circumstance, the member 
+could not rely on this exemption. 
+ 
+30
+E. 
+Temporary General Exemption for Certain Registered Broker-Dealers 
+ 
+The temporary exemptions addressed above – with regard (i) to LCH.Clearnet, LIFFE 
+A&M and certain eligible contract participants and (ii) to LIFFE A&M members that receive or 
+hold funds and securities of others – are not available to persons that are registered as broker-
+dealers with the Commission (other than those that are notice registered pursuant to Section 
+15(b)(11)).50  The Exchange Act and its underlying rules and regulations require broker-dealers 
+to comply with a number of obligations that are important to protecting investors and promoting 
+market integrity.  We are mindful of the need to avoid creating disincentives to the prompt use of 
+CCPs, and we recognize that the factors discussed above suggest that the full panoply of 
+Exchange Act requirements should not immediately be applied to registered broker-dealers that 
+engage in transactions involving Cleared Index CDS.  At the same time, we also are sensitive to 
+the critical importance of certain broker-dealer requirements to promoting market integrity and 
+protecting customers (including those broker-dealer customers that are not involved with CDS 
+transactions). 
+ 
+This calls for balancing the facilitation of the development and prompt implementation of 
+CCPs with the preservation of certain key investor protections.  Pursuant to  
+Section 36 of the Exchange Act, the Commission finds that it is necessary or appropriate in the 
+public interest and is consistent with the protection of investors to exercise its authority to grant 
+an exemption until September 25, 2009 from certain Exchange Act requirements.  Consistent 
+with the temporary exemptions discussed above, and solely with respect to Cleared Index CDS, 
+we are exempting registered broker-dealers in general from provisions of the Exchange Act and 
+its underlying rules and regulations that do not apply to security-based swap agreements.  As 
+                                                 
+50   
+Exchange Act Section 15(b)(11) provides for notice registration of certain persons that effect 
+transactions in security futures products.  15 U.S.C. 78o(b)(11). 
+ 
+31
+above, we are not excluding registered broker-dealers from Exchange Act provisions that 
+explicitly apply in connection with security-based swap agreements or from related enforcement 
+authority provisions.51  As above, and for similar reasons, we are not exempting registered 
+broker-dealers from:  Sections 5, 6, 12(a) and (g), 13, 14, 15(b)(4), 15(b)(6), 15(d), 16 and 17A 
+of the Exchange Act.52   
+ 
+Further we are not exempting registered broker-dealers from the following additional 
+provisions under the Exchange Act:  (1) Section 7(c),53 which addresses the unlawful extension 
+of credit by broker-dealers; (2) Section 15(c)(3),54 which addresses the use of unlawful or 
+manipulative devices by broker-dealers; (3) Section 17(a),55 regarding broker-dealer obligations 
+to make, keep and furnish information; (4) Section 17(b),56regarding broker-dealer records 
+subject to examination; (5) Regulation T57, a Federal Reserve Board regulation regarding 
+extension of credit by broker-dealers; (6) Exchange Act Rule 15c3-1, regarding broker-dealer net 
+capital; (7) Exchange Act Rule 15c3-3, regarding broker-dealer reserves and custody of 
+securities; (8) Exchange Act Rules 17a-3 through 17a-5, regarding records to be made and 
+preserved by broker-dealers and reports to be made by broker-dealers; and (9) Exchange Act 
+Rule 17a-13, regarding quarterly security counts to be made by certain exchange members and 
+broker-dealers.  Registered broker-dealers should comply with these provisions in connection 
+                                                 
+51   
+See notes 32 and 37, supra.  As noted above, broker-dealers also would be subject to Section 
+15(c)(1) of the Exchange Act, which prohibits brokers and dealers from using manipulative or deceptive 
+devices, because that provision explicitly applies in connection with security-based swap agreements. 
+52   
+We also are not exempting those members from provisions related to government securities, as 
+discussed above. 
+53   
+15 U.S.C. 78g(c). 
+54   
+15 U.S.C. 78o(c)(3).  
+55   
+15 U.S.C. 78q(a). 
+56   
+15 U.S.C. 78q(b). 
+57  
+12 CFR 220.1 et seq. 
+ 
+32
+with their activities involving non-excluded CDS because these provisions are especially 
+important to helping protect customer funds and securities, ensure proper credit practices and 
+safeguard against fraud and abuse.58   
+F. 
+Solicitation of Comments 
+The Commission intends to monitor closely the development of the CDS market and 
+intends to determine to what extent, if any, additional regulatory action may be necessary.  For 
+example, as circumstances warrant, certain conditions could be added, altered, or eliminated.  
+Moreover, because these exemptions are temporary, the Commission will in the future consider 
+whether they should be extended or allowed to expire.  The Commission believes it would be 
+prudent to solicit public comment on its action today, and on what action it should take with 
+respect to the CDS market in the future.  The Commission is soliciting public comment on all 
+aspects of these exemptions, including: 
+1. 
+Whether the length of this temporary exemption (until September 25, 2009) is 
+appropriate.  If not, what should the appropriate duration be? 
+2. 
+Whether the conditions to these exemptions are appropriate.  Why or why not?  
+Should other conditions apply?  Are any of the present conditions to the 
+exemptions provided in this Order unnecessary?  If so, please specify and explain 
+why such conditions are not needed.   
+3. 
+Whether LCH.Clearnet ultimately should be required to register as a clearing 
+agency under the Exchange Act.  Why or why not? 
+                                                 
+58   
+Indeed, Congress directed the Commission to promulgate broker-dealer financial responsibility 
+rules, including rules regarding custody, the use of customer securities and the use of customers’ deposits 
+or credit balances, and regarding establishment of minimum financial requirements.   
+ 
+33
+4. 
+Whether LIFFE A&M members that receive or hold funds or securities for the 
+purpose of purchasing, selling, clearing, settling or holding non-excluded CDS 
+positions for other persons ultimately should be required to register as broker-
+dealers?  Why or why not?        
+Comments may be submitted by any of the following methods: 
+Electronic comments: 
+• 
+Use the Commission’s Internet comment form 
+(http://www.sec.gov/rules/other.shtml); or 
+• 
+Send an e-mail to rule-comments@sec.gov.  Please include File Number S7-34-
+08 on the subject line; or 
+• 
+Use the Federal eRulemaking Portal (http://www.regulations.gov/).  Follow the 
+instructions for submitting comments. 
+Paper comments: 
+• 
+Send paper comments in triplicate to Secretary, Securities and Exchange 
+Commission, 100 F Street, NE, Washington, DC 20549-1090. 
+All submissions should refer to File Number S7-34-08.  This file number should be included on 
+the subject line if e-mail is used.  To help us process and review your comments more efficiently, 
+please use only one method.  We will post all comments on the Commission’s Internet Web site 
+(http://www.sec.gov/rules/other.shtml).  Comments are also available for public inspection and 
+copying in the Commission’s Public Reference Room, 100 F Street, NE, Washington, DC 20549, 
+on official business days between the hours of 10:00 am and 3:00 pm.  All comments received 
+will be posted without change; we do not edit personal identifying information from 
+submissions.  You should submit only information that you wish to make available publicly. 
+ 
+34
+III. 
+Conclusion 
+IT IS HEREBY ORDERED, pursuant to Section 36(a) of the Exchange Act, that, until 
+September 25, 2009: 
+(a) Exemption from Section 17A of the Exchange Act. 
+LCH.Clearnet Ltd. (“LCH.Clearnet”) shall be exempt from Section 17A of the Exchange 
+Act solely to perform the functions of a clearing agency for Cleared Index CDS (as defined in 
+paragraph (e) of this Order), subject to the following conditions: 
+(1)  LCH.Clearnet shall make available on its Web site annual audited financial 
+statements. 
+(2)  LCH.Clearnet shall keep and preserve at least one copy of all documents, 
+including all correspondence, memoranda, papers, books, notices, accounts, and other 
+such records as shall be made or received by it relating to its Cleared Index CDS 
+clearance and settlement services.  These records shall be kept for at least five years and 
+for the first two years shall be held in an easily accessible place. 
+(3) LCH.Clearnet shall supply such information and periodic reports relating to its 
+Cleared Index CDS clearance and settlement services as may be reasonably requested by 
+the Commission. 
+(4) Subject to coordination with the FSA and upon such terms and conditions as 
+may be agreed between the FSA and the Commission, LCH.Clearnet shall provide access 
+to the Commission to conduct on-site inspections of all facilities (including automated 
+systems and systems environment), records, and personnel related to LCH.Clearnet’s 
+Cleared Index CDS clearance and settlement services. 
+ 
+35
+(5) LCH.Clearnet shall notify the Commission, on a monthly basis, of any 
+material disciplinary actions taken against any of its members utilizing its Cleared Index 
+CDS clearance and settlement services, including the denial of services, fines, or 
+penalties.  LCH.Clearnet shall notify the Commission promptly when it involuntarily 
+terminates the membership of an entity that is utilizing LCH.Clearnet’s Cleared Index 
+CDS clearance and settlement services.  Both notifications shall describe the facts and 
+circumstances that led to LCH.Clearnet’s disciplinary action.    
+(6) LCH.Clearnet shall provide the Commission with notice of all changes to its 
+Default Rules and Default Fund Rules, not less than one day prior to effectiveness or 
+implementation of such rule changes or, in exigent circumstances, as promptly as 
+reasonably practicable under the circumstances.  If LCH.Clearnet gives notice to, or 
+seeks approval from, the FSA regarding any other changes to its rules regarding its Index 
+CDS clearance and settlement services, LCH.Clearnet will also provide notice to the 
+Commission.  All such rule changes will be posted on LCH.Clearnet’s Web site.  Such 
+notifications will not be deemed rule filings that require Commission approval.    
+(7) LCH.Clearnet shall provide the Commission with reports with respect to 
+automated systems used in connection with Cleared Index CDS clearance and settlement 
+services, other than the TRS/CPS system, prepared by independent audit personnel that 
+are generated in accordance with risk assessment of the areas set forth in the 
+Commission’s Automation Review Policy Statements (“ARPs”).  LIFFE A&M shall 
+provide the Commission with reports with respect to its TRS/CPS system prepared by 
+audit personnel from Risk and Audit Services, an independent department of NYSE 
+Euronext, that are generated in accordance with risk assessment of the areas set forth in 
+ 
+36
+the ARPs.  LCH.Clearnet shall provide the Commission with annual audited financial 
+statements prepared by independent audit personnel. 
+(8) LCH.Clearnet shall provide notice to the Commission at the same time it 
+provides notice to the FSA in accordance with FSA REC 3.15 and FSA REC 3.16 
+regarding the suspension of services or inability to operate its facilities in connection with 
+the clearance and settlement of Cleared Index CDS.  
+(9) LCH.Clearnet, directly or indirectly, shall make available to the public on 
+terms that are fair and reasonable and not unreasonably discriminatory:  (a) all end-of-day 
+settlement prices and any other prices with respect to Cleared Index CDS that 
+LCH.Clearnet or LIFFE A&M may establish to calculate mark-to-market margin 
+requirements for LCH.Clearnet or LIFFE A&M Participants; and (b) any other pricing or 
+valuation information with respect to Cleared Index CDS as is published or distributed by 
+LCH.Clearnet or LIFFE A&M. 
+(b) Exemption for LCH.Clearnet, LIFFE A&M, and certain eligible contract participants. 
+(1) Persons eligible.  The exemption in paragraph (b)(2) is available to: 
+(i) LCH.Clearnet;  
+(ii) LIFFE A&M; and 
+(iii) Any eligible contract participant (as defined in Section 1a(12) of the 
+Commodity Exchange Act as in effect on the date of this Order (other than a 
+person that is an eligible contract participant under paragraph (C) of that section)), 
+other than:  (A) an eligible contract participant that receives or holds funds or 
+securities for the purpose of purchasing, selling, clearing, settling, or holding 
+Cleared Index CDS positions for other persons; (B) an eligible contract 
+ 
+37
+participant that is a self-regulatory organization, as that term is defined in Section 
+3(a)(26) of the Exchange Act; or (C) a broker or dealer registered under Section 
+15(b) of the Exchange Act (other than paragraph (11) thereof). 
+(2) Scope of exemption.   
+(i) In general.  Such persons generally shall, solely with respect to Cleared 
+Index CDS, be exempt from the provisions of the Exchange Act and the rules and 
+regulations thereunder that do not apply in connection with security-based swap 
+agreements.  Accordingly, under this exemption, those persons would remain 
+subject to those Exchange Act requirements that explicitly are applicable in 
+connection with security-based swap agreements (i.e., paragraphs (2) through (5) 
+of Section 9(a), Section 10(b), Section 15(c)(1), paragraphs (a) and (b) of Section 
+16, Section 20(d) and Section 21A(a)(1) and the rules thereunder that explicitly 
+are applicable to security-based swap agreements).  All provisions of the 
+Exchange Act related to the Commission’s enforcement authority in connection 
+with violations or potential violations of such provisions also remain applicable.     
+(ii) Exclusions from exemption.  The exemption in paragraph (b)(2)(i), 
+however, does not extend to the following provisions under the Exchange Act: 
+(A) Paragraphs (42), (43), (44), and (45) of Section 3(a);  
+(B) Section 5; 
+(C) Section 6; 
+(D) Section 12 and the rules and regulations thereunder; 
+(E) Section 13 and the rules and regulations thereunder; 
+(F) Section 14 and the rules and regulations thereunder; 
+ 
+38
+(G) Paragraphs (4) and (6) of Section 15(b); 
+(H) Section 15(d) and the rules and regulations thereunder; 
+(I) Section 15C and the rules and regulations thereunder;  
+(J) Section 16 and the rules and regulations thereunder; and 
+(K) Section 17A (other than as provided in paragraph (a)).  
+(c) Exemption for certain LIFFE A&M members. 
+Any member of LIFFE A&M that receives or holds funds or securities for the purpose of 
+purchasing, selling, clearing, settling or holding Cleared Index CDS positions for other persons 
+shall be exempt from the provisions of the Exchange Act and the rules and regulations 
+thereunder specified in paragraph (b)(2), solely with respect to Cleared Index CDS, subject to the 
+following conditions:  
+(1) The member shall be in material compliance with the rules of LIFFE A&M 
+and, if a clearing member, with the rules of LCH.Clearnet, and applicable laws and 
+regulations, relating to capital, liquidity, and segregation of customers’ funds and 
+securities (and related books and records provisions) with respect to Cleared Index CDS; 
+and 
+(2) To the extent that the member receives or holds funds or securities of U.S. 
+persons for the purpose of purchasing, selling, clearing, settling, or holding Cleared Index 
+CDS positions: 
+(i) The U.S. persons shall not be natural persons; 
+(ii) The member shall segregate such funds and securities of such U.S. 
+persons from the member’s own assets (i.e., the member may not permit U.S. 
+ 
+39
+persons to “opt out” of applicable segregation requirements for such funds and 
+securities even if regulations or laws would permit the person to “opt out”); and 
+(iii) The member shall disclose to such U.S. persons that the member is 
+not regulated by the Commission and that U.S. broker-dealer segregation 
+requirements and protections under the Securities Investor Protection Act will not 
+apply to any funds or securities held by the member.  
+(d) Exemption for certain registered broker-dealers. 
+A broker or dealer registered under Section 15(b) of the Exchange Act (other than 
+paragraph (11) thereof) shall be exempt from the provisions of the Exchange Act and the rules 
+and regulations thereunder specified in paragraph (b)(2), solely with respect to Cleared Index 
+CDS, except: 
+(1) Section 7(c); 
+(2) Section 15(c)(3); 
+(3) Section 17(a); 
+(4) Section 17(b);  
+(5) Regulation T, 12 CFR 200.1 et seq.; 
+(6) Rule 15c3-1; 
+(7) Rule 15c3-3; 
+(8) Rule 17a-3; 
+(9) Rule 17a-4; 
+(10) Rule 17a-5; and 
+(11) Rule 17a-13. 
+ 
+40
+(e) For purposes of this Order, “Cleared Index CDS” shall mean a credit default swap that 
+is submitted (or offered, purchased or sold on terms providing for submission) to LCH.Clearnet, 
+that is offered only to, purchased only by, and sold only to eligible contract participants (as 
+defined in Section 1a(12) of the Commodity Exchange Act as in effect on the date of this Order 
+(other than a person that is an eligible contract participant under paragraph (C) of that section)), 
+and in which the reference index is an index in which 80 percent or more of the index’s 
+weighting is comprised of the entities or securities described below: 
+(1) an entity reporting under the Exchange Act, providing Securities Act Rule 
+144A(d)(4) information, or about which financial information is otherwise publicly 
+available; 
+(2) a foreign private issuer whose securities are listed outside the United States 
+and that has its principal trading market outside the United States;  
+(3) a foreign sovereign debt security;  
+(4) an asset-backed security, as defined in Regulation AB, issued in a registered 
+transaction with publicly available distribution reports; or 
+(5) an asset-backed security issued or guaranteed by Fannie Mae, Freddie Mac or 
+Ginnie Mae. 
+ 
+By the Commission. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Florence E. Harmon 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acting Secretary 
+ 
+ 

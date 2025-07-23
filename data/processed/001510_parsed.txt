@@ -1,0 +1,2189 @@
+(1)
+Thermonuclear Fusion Division - Safety & Environment
+Via E. Fermi 45, I-00044, Frascati (Rome), Italy e-mail: pinna@frascati.enea.it
+(2)
+University of Bologna, Physic Department
+Via Irnerio 46, I-40126 Bologna, Italy,   e_mail: dangilio@bologna.enea.it
+ENTE PER LE NUOVE TECNOLOGIE, L'ENERGIA E L'AMBIENTE
+Associazione ENEA-EURATOM sulla Fusione
+FUSION UNIT
+TECHNOLOGIES DIVISION
+COLLECTION OF DATA RELATED TO 
+JET and TLK OPERATIONAL EXPERIENCE on 
+COMPONENT FAILURE
+IEA Task 5
+Princeton 10th October 2003
+T. Pinna (1) , G. Cambi(2)
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+OBJECTIVE OF THE TASK
+Ø
+Collect all the information available about single component 
+malfunctions and failures of the Vacuum and Tritium 
+Systems at JET and, of the single facilities installed at the 
+TLK, pointing out causes, consequences, maintenance actions.
+Ø
+Collect information useful to evaluate probabilistic values
+related to component malfunctions and failures.
+Ø
+Estimate the main reliability parameters, (such as the failure 
+rate and the corresponding standard errors and confidence 
+intervals), associated to the components.
+Ø
+Point out practical information on the operating experience
+acquired.
+JET   AGHS
+Component Class 
+N° of components 
+Air Ejector 
+2 
+Alarm annuntiator 
+48 
+Amplifier 
+102 
+Blower 
+4 
+Catherometer 
+8 
+Circuit Breaker 
+5 
+Condenser 
+1 
+Contactor 
+55 
+Control Unit 
+60 
+Controller 
+67 
+Convertor 
+188 
+Electrical actuator 
+4 
+Electrical Power Board 
+10 
+Electronic unit 
+83 
+Emergency Shutdown 
+1 
+Evaporator 
+2 
+Fan 
+2 
+Fan of electrical board 
+40 
+Filter 
+8 
+Filter Regulator 
+21 
+Heater 
+155 
+Heat exchanger 
+1 
+Indicator 
+653 
+Ionization Chamber 
+36 
+Motorized Valve 
+1 
+Oil circulation pump 
+6 
+Omegatron 
+1 
+Orifice 
+3 
+Peristaltic Pump 
+2 
+Pressure Gauge 
+49 
+Probe 
+1 
+Residual Gas Analyser 
+5 
+Rupture Disc 
+50 
+Selector 
+24 
+Site Power Supply (from national grid) 
+1 
+Software Unit 
+242 
+Solid State Relay 
+15 
+Switch 
+1302 
+Thermocouple 
+228 
+Thermometer 
+2 
+Thermoresistance 
+43 
+Thyristor unit 
+1 
+Transducer 
+210 
+Transformer (High Voltage) 
+6 
+Transformer (Low Voltage) 
+7 
+Transmitter 
+305 
+Uninteruptable Power Supply 
+1 
+Vacuum Pump 
+42 
+Valve 
+2124 
+Vessel 
+32 
+Total 
+6259 
+ 
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   AGHS
+Commissioning (h)
+Operations (h) 
+Operations (h) 
+Sub-system 
+1995
+1996
+1997
+1998
+1999
+2000
+2001 Jan-02
+TOTAL
+MF Mechanical Forevacuum 
+1000
+1920
+8760
+3624
+5328
+6048
+3024
+744
+30448
+EMS Exhaust Monitoring System 
+1000
+1920
+8760
+3624
+5328
+6048
+3024
+744
+30448
+CF 
+Cryogenic Forevacuum 
+1000
+1920
+8760
+3624
+5328
+6048
+3024
+744
+30448
+IP 
+Impurity Processing 
+1000
+1920
+8760
+3624
+5328
+6048
+3024
+0
+29704
+IS 
+Intermediate Storage 
+1000
+1920
+8760
+3624
+5328
+6048
+3024
+744
+30448
+GC 
+Gas Chromatography 
+1000
+1920
+8760
+2160
+0
+0
+0
+0
+13840
+PS 
+Product Storage 
+1000
+1920
+8760
+2400
+240
+240
+240
+0
+14800
+AN Analytical Laboratory 
+1000
+1920
+2920
+1208
+1776
+2016
+1008
+248
+12096
+GI 
+Gas Introduction 
+1000
+1920
+8760
+2160
+0
+0
+0
+0
+13840
+GD Gas Distribution 
+1000
+1920
+8760
+2160
+0
+0
+0
+0
+13840
+OU Over/Under Pressure Protection System 
+4872
+8784
+8760
+8760
+8760
+8784
+8760
+31
+57511
+EDS Exhaust Detritiation System 
+4872
+8784
+8760
+8760
+8760
+8784
+8760
+31
+57511
+CD 
+Cryogenic Distillation 
+600
+960
+5880
+2880
+2880
+4032
+1680
+0
+18912
+ 
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   AGHS
+About 130 failures/malfunctions on a set of 6259 components, 
+operating for about 156 767 000 hours, have been pointed out since 
+1995 up to January 2002 for the AGHS.
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   AGHS
+Number of generic faults in AGH system  since 1995 to January 2002
+0.1
+1
+10
+100
+Amplifier
+Blower
+Catherometer
+Control Unit
+Controller
+Fan of electrical board
+Filter
+Heater
+Indicator
+Ionization Chamber
+Oil circulation pump
+Peristaltic Pump
+Site Power Supply
+Switch
+Thermocouple
+Thermoresistance
+Transducer
+Transformer (High Voltage)
+Uninteruptable Power Supply
+Vacuum Pump
+Valve
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   AGHS
+Number of generic faults in AGH system  since 1995 to January 2002
+0.1
+1
+10
+100
+Amplifier
+Blower
+Catherometer
+Control Unit
+Controller
+Fan of electrical board
+Filter
+Heater
+Indicator
+Ionization Chamber
+Oil circulation pump
+Peristaltic Pump
+Site Power Supply
+Switch
+Thermocouple
+Thermoresistance
+Transducer
+Transformer (High Voltage)
+Uninteruptable Power Supply
+Vacuum Pump
+Valve
+The largest number of failures/malfunctions (52) concerns “fail 
+to open/close” and “external leaks” of small air actuated valves
+and solenoid valves, which are easily replaced. A large increase 
+of these failures in 1997-1999 due to aging. A preventative 
+maintenance programme started in 2001.
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   AGHS
+Number of generic faults in AGH system  since 1995 to January 2002
+0.1
+1
+10
+100
+Amplifier
+Blower
+Catherometer
+Control Unit
+Controller
+Fan of electrical board
+Filter
+Heater
+Indicator
+Ionization Chamber
+Oil circulation pump
+Peristaltic Pump
+Site Power Supply
+Switch
+Thermocouple
+Thermoresistance
+Transducer
+Transformer (High Voltage)
+Uninteruptable Power Supply
+Vacuum Pump
+Valve
+Important in terms of number of malfunctions are also 
+“Erratic/No Output”
+of
+instrumentation and electronic 
+components, e.g.: ammeter failures for tritium indicators
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   AGHS
+Number of generic faults in AGH system  since 1995 to January 2002
+0.1
+1
+10
+100
+Amplifier
+Blower
+Catherometer
+Control Unit
+Controller
+Fan of electrical board
+Filter
+Heater
+Indicator
+Ionization Chamber
+Oil circulation pump
+Peristaltic Pump
+Site Power Supply
+Switch
+Thermocouple
+Thermoresistance
+Transducer
+Transformer (High Voltage)
+Uninteruptable Power Supply
+Vacuum Pump
+Valve
+For Control Units failures, it can be noted that there are 40 
+cooling fans in the plant to cool down electrical boards in PLCs
+and in distributed control system. They all run continuously. 
+Since the first fan failure in July 1997, a preventative 
+maintenance program has started and fans are replaced every 
+12 months.
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   AGHS
+Number of generic faults in AGH system  since 1995 to January 2002
+0.1
+1
+10
+100
+Amplifier
+Blower
+Catherometer
+Control Unit
+Controller
+Fan of electrical board
+Filter
+Heater
+Indicator
+Ionization Chamber
+Oil circulation pump
+Peristaltic Pump
+Site Power Supply
+Switch
+Thermocouple
+Thermoresistance
+Transducer
+Transformer (High Voltage)
+Uninteruptable Power Supply
+Vacuum Pump
+Valve
+Three of the five large Normetex vacuum pumps stopped and 
+then were removed, respectively after about 29000, 22000 and 
+24000 hours of operating life. The failures were induced by the 
+build up of debris inside the pump, probably due to corrosion.
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   AGHS
+52789038
+53683827
+2124
+61
+Valve
+289747
+943740
+42
+12
+Vacuum Pump
+57511
+1
+1
+Uninteruptable Power Supply
+345066
+6
+1
+Transformer (High Voltage)
+4691600
+210
+2
+Transducer
+1056560
+43
+1
+Thermoresistance
+4965296
+226
+2
+Thermocouple
+30864063
+1302
+3
+Switch
+57511
+1
+3
+Site Power Supply (from national grid)
+115022
+2
+2
+Peristaltic Pump
+47417
+164592
+6
+2
+Oil circulation pump
+1133523
+36
+1
+Ionization Chamber
+19375448
+653
+19
+Indicator
+797945
+4465061
+155
+2
+Heater
+324773
+8
+1
+Filter
+57511
+40
+1
+Fan of electrical board
+1799919
+67
+2
+Controller
+1378133
+60
+5
+Control Unit
+103744
+8
+1
+Catherometer
+230044
+4
+5
+Blower
+2572408
+102
+3
+Amplifier
+Tot N° of demands
+Total Hours
+N° of components
+N° of faults
+Component
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   AGHS
+Failure Rates for AGH system  (1/h)
+1.E-8
+1.E-7
+1.E-6
+1.E-5
+1.E-4
+Amplifier - Erratic/No Output
+Blower - Blower stop
+Catherometer - Erratic/No Output
+Control Unit - Erratic/No Output
+Controller - Erratic/No Output
+Fan of electrical board - Fan stop
+Filter - Blocked
+Heater - Loss of power
+Indicator - Erratic/No Output
+Ionization Chamber - Erratic/No Output
+Oil circulation pump - Pump stop
+Peristaltic Pump - Pump stop
+Site Power Supply - Loss of power
+Site Power Supply - Loss of power
+Switch - Erratic/No Output
+Thermocouple - Erratic/No Output
+Thermoresistance - Erratic/No Output
+Transducer - Erratic/No Output
+Transformer (High Voltage) - Fail to operate
+Uninteruptable Power Supply - Loss of
+Vacuum Pump - External leak
+Vacuum Pump - Fail to start
+Vacuum Pump - Pump stop
+Valve - External leak
+Valve - Fail to open/close
+Valve - Internal Leak
+Valve - Pressure control - Fail to operate
+Valve - Pressure Regulator - Diaphragm
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+Failure rate 
+λ 
+Standard 
+error s.e.(λ) λL (90%) 
+λU (90%) 
+Component 
+Failure mode 
+(1/h) 
+Amplifier 
+Erratic/No Output
+1.2E-06 
+6.7E-07 
+3.2E-07 
+3.0E-06 
+Blower 
+Blower stop 
+2.2E-05 
+9.7E-06 
+8.6E-06 
+4.6E-05 
+ 
+JET   AGHS
+Failure Rate of Indicator types for "Erratic/No output" faults  (1/h)
+0.0E+00
+1.0E-06
+2.0E-06
+3.0E-06
+4.0E-06
+5.0E-06
+6.0E-06
+7.0E-06
+Indicator - Flow
+Indicator - Humidity
+Indicator - Level
+Indicator - Pressure
+Indicator - Temperature
+Indicator - Tritium
+Indicators - 
+Failure Rate of Vacuum Pump faults  (1/h)
+0.0E+0
+5.0E-6
+1.0E-5
+1.5E-5
+2.0E-5
+2.5E-5
+3.0E-5
+3.5E-5
+Normetex - External leak
+Metal Bellow - Fail to start
+Turbomolecular - Fail to start
+Metal Bellow - Pump stop
+Normetex - Pump stop
+Rotary vane - Pump stop
+Turbomolecular - Pump stop
+Vacuum Pumps - Generic
+Failure Rate of Valves faults  (1/h)
+1.8E-5
+0.0E+0
+5.0E-7
+1.0E-6
+1.5E-6
+2.0E-6
+2.5E-6
+3.0E-6
+Air Actuated - Fail to open/close
+Non return - Fail to open/close
+Solenoid - Fail to open/close
+Air Actuated - Internal Leak
+Pressure control - Fail to operate
+Pressure Regulator -
+Solenoid - External leak
+Valves - generic fault
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   AGHS
+Failure rate on demand of Vacuum Pumps for "Fail to start" faults (1/D)
+0.0E+00
+2.0E-05
+4.0E-05
+6.0E-05
+8.0E-05
+1.0E-04
+1.2E-04
+1.4E-04
+Vacuum Pump - Metal Bellow
+Vacuum Pump -
+Turbomolecular
+Vacuum Pumps
+Failure rate on demand of Valves for "Fail to open/close" faults (1/D)
+0.0E+0
+2.0E-7
+4.0E-7
+6.0E-7
+8.0E-7
+1.0E-6
+1.2E-6
+1.4E-6
+Valve - Air Actuated
+Valve - Non return
+Valve - Solenoid
+Valves
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   VACUUM SYSTEM
+ 
+UPPER VERTICAL PORTS
+EQUATORIAL PORTS
+LOWER VERTICAL PORTS
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   VACUUM SYSTEM
+Oct Sect Port Sub system
+Name 
+Purpose 
+Make 
+InDate 
+OutDate
+1 BL 3 
+KT6D 
+Poloidal view visible 
+spectroscopy of divertor 
+plasma using a periscope 
+Periscope 
+JET 
+23-Jul-91 31-Jan-02
+1 BL 4 
+LIM Cool 
+Limiter Cooling (In) 
+ 
+ 
+01-Jan-83 25-Jan-91
+1 BL 4 
+DIV Cool 
+Divertor Target Plate Cooling 
+(In) 
+ 
+ 
+25-Jan-91 31-Jan-02
+1 BL IVP KC1 
+Magnetic Diagnostics 
+Plasma current, loop volts, 
+plasma position, shape of 
+flux surfaces, diamagnetic 
+loop, fast MHD 
+JET 
+01-Jan-83 31-Jan-02
+1 BL IVP KS4 
+Active Beam Diagnostics 
+ 
+JET 
+01-Jun-87 25-Jan-91
+1 BL IVP SepLIMCoolSep- Limiter Cooling 
+ 
+ 
+31-Oct-89 25-Jan-91
+1 BL IVP DIV Baffle Divertor Baffle Feed 
+ 
+ 
+25-Jan-91 31-Jan-02
+1 BM Lim BeEvap. 
+Be evaporator 
+ 
+ 
+01-Jan-83 31-Jan-02
+1 BM Lim KJ2 
+Toroidal Soft X-ray Arrays 
+NO compatible with Tritium JET 
+01-Jan-88 18-Mar-91
+1 BM Lim KS4 
+Active Beam Diagnostics 
+ 
+JET 
+18-Mar-9119-May-92
+1 BM Lim KS5 
+Active Balmer a spectroscopy Active Beam Spect 
+ 
+19-May-92 31-Jan-02
+1 BU 3 
+Instr.F/T 
+Instrumentation F/T 
+ 
+ 
+19-May-92 31-Jan-02
+1 BU 4 
+LIM Cool 
+Limiter Cooling (Out) 
+ 
+ 
+01-Jan-83 25-Jan-91
+1 BU 4 
+DIV Cool 
+Divertor Target Plate Cooling 
+(Out) 
+ 
+ 
+25-Jan-91 31-Jan-02
+1 BU IVP KS3 
+H-alpha and Visible Light 
+Monitors 
+H-alpha 
+JET 
+01-Jan-83 31-Jan-02
+ 
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   VACUUM SYSTEM
+Class 
+Type 
+Dimension 
+Shape
+Bellow 
+ 
+Not identified 
+Bellow 
+ 
+10÷100 
+Ø 
+Bellow 
+ 
+100÷500 
+Ø 
+Bellow 
+ 
+500÷1000 
+Ø 
+Bellow 
+ 
+1000÷1500 
+Ø 
+Bellow 
+ 
+>1500 
+Ø 
+Valve 
+ 
+Not identified 
+ 
+Valve 
+ 
+10÷100 
+Ø 
+Valve 
+ 
+100÷250 
+Ø 
+Valve 
+ 
+250÷500 
+Ø 
+Valve 
+ 
+500÷1000 
+Ø 
+Valve 
+ 
+>1000 
+Ø 
+Weld 
+Fillet 
+500x500 
+?  
+Weld 
+Fillet 
+750x750 
+?  
+Weld 
+Fillet 
+1000x1000 
+?  
+Weld 
+Fillet 
+1500x1500 
+?  
+Weld 
+Lip 
+10÷100 
+Ø 
+Weld 
+Lip 
+100÷500 
+Ø 
+Weld 
+Lip 
+500÷1000 
+Ø 
+Weld 
+Lip 
+1000÷1500 
+Ø 
+Weld 
+Lip 
+>1500 
+Ø 
+ 
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   VACUUM SYSTEM
+Commissioning&Operations
+Starts 
+End 
+Operating 
+days 
+Operating 
+hours 
+Shutdown 
+(d) 
+Year 
+Operating 
+days 
+Operating 
+hours 
+20/03/1983 
+31/07/1983 
+134 
+3216 
+ 
+ 
+ 
+ 
+20/09/1983 
+20/12/1983 
+92 
+2208 
+50 
+1983 
+226 
+5424 
+20/02/1984 
+10/05/1984 
+81 
+1944 
+61 
+ 
+ 
+ 
+07/06/1984 
+30/09/1984 
+116 
+2784 
+27 
+ 
+ 
+ 
+05/12/1984 
+31/12/1984 
+27 
+648 
+65 
+1984 
+224 
+5376 
+01/01/1985 
+14/06/1985 
+165 
+3960 
+0 
+ 
+ 
+ 
+10/10/1985 
+31/12/1985 
+83 
+1992 
+117 
+1985 
+248 
+5952 
+01/01/1986 
+30/11/1986 
+334 
+8016 
+0 
+1986 
+334 
+8016 
+10/05/1987 
+31/12/1987 
+236 
+5664 
+160 
+1987 
+236 
+5664 
+01/01/1988 
+21/05/1988 
+142 
+3408 
+0 
+ 
+ 
+ 
+02/07/1988 
+25/10/1988 
+116 
+2784 
+41 
+1988 
+258 
+6192 
+15/03/1989 
+07/04/1989 
+24 
+576 
+140 
+ 
+ 
+ 
+01/05/1989 
+15/07/1989 
+76 
+1824 
+23 
+ 
+ 
+ 
+07/09/1989 
+07/10/1989 
+31 
+744 
+53 
+1989 
+131 
+3144 
+15/03/1990 
+02/04/1990 
+19 
+456 
+158 
+ 
+ 
+ 
+08/04/1990 
+07/05/1990 
+30 
+720 
+5 
+ 
+ 
+ 
+15/05/1990 
+30/07/1990 
+77 
+1848 
+7 
+ 
+ 
+ 
+27/08/1990 
+08/11/1990 
+74 
+1776 
+27 
+1990 
+200 
+4800 
+10/03/1991 
+10/05/1991 
+62 
+1488 
+121 
+ 
+ 
+ 
+02/06/1991 
+28/08/1991 
+88 
+2112 
+22 
+ 
+ 
+ 
+20/09/1991 
+31/12/1991 
+103 
+2472 
+22 
+1991 
+253 
+6072 
+01/01/1992 
+15/03/1992 
+75 
+1800 
+0 
+1992 
+75 
+1800 
+12/02/1994 
+15/04/1994 
+63 
+1512 
+698 
+ 
+ 
+ 
+15/05/1994 
+04/07/1994 
+51 
+1224 
+29 
+ 
+ 
+ 
+22/07/1994 
+15/09/1994 
+56 
+1344 
+17 
+ 
+ 
+ 
+07/10/1994 
+31/12/1994 
+86 
+2064 
+21 
+1994 
+256 
+6144 
+ 
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   VACUUM SYSTEM
+Oct. Sect. Port
+Position Location Component Dimension Shape Qty
+Interface 
+InDate 
+OutDate 
+Item1 
+Item2 
+Oper.Hours
+1 
+BL 
+3 
+  
+  
+Bellow 
+10÷100 
+Ø 
+2 
+KT6D 
+23-Jul-91 
+31-Jan-02
+  
+  
+46656
+1 
+BL 
+3 
+Outer End   
+DN63 
+ 
+ 
+2 
+KT6D 
+23-Jul-91 
+31-Jan-02
+KT6D Tube 
+KT6D Window 
+46656
+1 
+BL 
+3 
+Torus End  
+Lip 
+10÷100 
+Ø 
+2 
+KT6D 
+23-Jul-91 
+31-Jan-02
+100mm Port 
+KT6D Tube 
+46656
+1 
+BL 
+3 
+ 
+ 
+Window 
+10÷100 
+Ø 
+1 
+KT6D 
+23-Jul-91 
+31-Jan-02
+ 
+ 
+46656
+1 
+BL 
+4 
+  
+  
+F/T Lq 
+10÷100 
+Ø 
+1 
+DIV Cool 
+25-Jan-91 31-Jan-02
+100mm Port 
+Div.Water Line 
+50256
+1 
+BL 
+4 
+Torus End   
+Lip 
+10÷100 
+Ø 
+2 
+DIV Cool 
+25-Jan-91 31-Jan-02
+100mm Port 
+Div.Water Line 
+50256
+1 
+BL 
+4 
+  
+  
+F/T Lq 
+10÷100 
+Ø 
+1 
+LIM Cool 
+01-Jan-83 25-Jan-91
+100mm Port 
+Limiter Water Line
+44568
+1 
+BL 
+4 
+Torus End   
+Lip 
+10÷100 
+Ø 
+2 
+LIM Cool 
+01-Jan-83 25-Jan-91
+100mm Port 
+Limiter Water Line
+44568
+1 
+BL 
+IVP 
+Inner 
+Center 
+DN16 
+ 
+ 
+1 
+DIV Baffle 
+25-Jan-91 31-Jan-02
+IVP Flange 
+Drain Plug 
+50256
+1 
+BL 
+IVP 
+Inner 
+Back 
+Fillet 
+10÷100 
+Ø 
+1 
+DIV Baffle 
+25-Jan-91 31-Jan-02
+IVP Flange 
+Div.Baffle Feed 
+50256
+1 
+BL 
+IVP 
+Inner 
+Front 
+Fillet 
+10÷100 
+Ø 
+1 
+DIV Baffle 
+25-Jan-91 31-Jan-02
+IVP Flange 
+Div.Baffle Feed 
+50256
+1 
+BL 
+IVP 
+Center 
+  
+F/T El 
+10÷100 
+Ø 
+1 
+KC1 
+01-Jan-83 31-Jan-02
+IVP Flange 
+ 
+94824
+1 
+BL 
+IVP 
+Outer 
+  
+F/T El 
+10÷100 
+Ø 
+1 
+KC1 
+01-Jan-83 31-Jan-02
+IVP Flange 
+ 
+94824
+1 
+BL 
+IVP 
+Center 
+  
+Fillet 
+10÷100 
+Ø 
+1 
+KC1 
+01-Jan-83 31-Jan-02
+IVP Flange 
+KC1 Discr.Coil 
+94824
+1 
+BL 
+IVP 
+Outer 
+  
+Fillet 
+10÷100 
+Ø 
+1 
+KC1 
+01-Jan-83 31-Jan-02
+IVP Flange 
+KC1 Discr.Coil 
+94824
+1 
+BL 
+IVP 
+Center 
+  
+Lip 
+10÷100 
+Ø 
+1 
+KC1 
+01-Jan-83 31-Jan-02
+IVP Flange 
+KC1 Discr.Coil 
+94824
+1 
+BL 
+IVP 
+Outer 
+  
+Lip 
+10÷100 
+Ø 
+1 
+KC1 
+01-Jan-83 31-Jan-02
+IVP Flange 
+KC1 Discr.Coil 
+94824
+1 
+BL 
+IVP 
+Inner 
+  
+Butt 
+10÷100 
+Ø 
+2 
+KS4 
+01-Jun-87 25-Jan-91
+  
+  
+10728
+1 
+BL 
+IVP 
+Inner 
+  
+DN63 
+ 
+ 
+1 
+KS4 
+01-Jun-87 25-Jan-91
+  
+  
+10728
+1 
+BL 
+IVP 
+Inner 
+  
+Fillet 
+10÷100 
+Ø 
+1 
+KS4 
+01-Jun-87 25-Jan-91
+  
+  
+10728
+1 
+BL 
+IVP 
+Inner 
+  
+Lip 
+10÷100 
+Ø 
+2 
+KS4 
+01-Jun-87 25-Jan-91
+  
+  
+10728
+1 
+BL 
+IVP 
+Inner 
+  
+Window 
+10÷100 
+Ø 
+1 
+KS4 
+01-Jun-87 25-Jan-91
+  
+  
+10728
+1 
+BL 
+IVP 
+Inner 
+  
+DN16 
+ 
+ 
+1 
+SepLIMCool 31-Oct-89
+25-Jan-91
+  
+  
+4800
+1 
+BL 
+IVP 
+Inner 
+  
+Fillet 
+10÷100 
+Ø 
+1 
+SepLIMCool 31-Oct-89
+25-Jan-91
+  
+  
+4800
+1 
+BL 
+IVP 
+Inner 
+  
+Fillet 
+10÷100 
+Ø 
+1 
+SepLIMCool 31-Oct-89
+25-Jan-91
+  
+  
+4800
+1 
+BM 
+Lim Lower 
+  
+Butt 
+100÷500 
+Ø 
+2 
+BeEvap. 
+01-Jan-83 31-Jan-02
+  
+  
+94824
+1 
+BM 
+Lim Lower 
+  
+ComFit 
+ 
+ 
+4 
+BeEvap. 
+01-Jan-83 31-Jan-02
+  
+  
+94824
+1 
+BM 
+Lim Lower 
+  
+RH225 
+ 
+ 
+1 
+BeEvap. 
+01-Jan-83 31-Jan-02
+Lim.Flange 
+Spool Piece 
+94824
+1 
+BM 
+Lim Lower 
+  
+RH225 
+ 
+ 
+1 
+BeEvap. 
+01-Jan-83 31-Jan-02
+Spool Piece 
+Be Evaporator 
+94824
+ 
+Reference data set: 2375 records
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   VACUUM SYSTEM
+Reference data set: 2375 records
+Component 
+Qty Oper. Hours
+Bellows 
+243
+18107520
+Burst Disks 
+2
+189648
+Com.Fit. 
+236
+15604080
+Flange DNnnn 
+462
+26247048
+Flange RHnnn 
+254
+16758816
+F/T Cryo 
+4
+379296
+F/T El 
+143
+9169920
+F/T Gas 
+19
+1107168
+F/T Lq 
+72
+3482688
+Insulator 
+1
+50256
+Vacuum Pumps
+42
+2858304
+Vacuum Gauges
+95
+6276552
+Valve 
+153
+9295128
+Butt Welds 
+686
+41974752
+Fillet Welds 
+806
+52422576
+Lip Welds 
+542
+30331656
+Window 
+252
+15193992
+4012
+249449400
+ 
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   VACUUM SYSTEM
+Leaks data set: 616 records
+ID
+Date 
+Oct Sector Port Type Comp.
+Leak 
+Description 
+Size 
+Comments 
+Component Class Failure Mode
+1 23-Mar-83 6 
+BU 
+IVP Inst. DN32 KB1 Flange to IVP Flange 
+1.00E+00 Clamp Missing.Resealed.OK 
+DN32 
+  
+ Leak 
+2 23-Mar-83 7 
+BU 
+IVP Inst. DN32 KB1 Flange to IVP Flange 
+1.00E+00 Clamp Misaligned.Resealed.OK DN32 
+ 
+Leak 
+3 23-Mar-83 5 
+BU 
+IVP Inst. DN32 KB1 Flange to IVP Flange 
+1.00E+00 Clamp Loose.Tightened.OK 
+DN32 
+ 
+Leak 
+4 23-Mar-83 8 
+BU 
+IVP Inst. DN32 KB1 Flange to IVP Flange 
+1.00E+00 Clamp Loose.Tightened.OK 
+DN32 
+ 
+Leak 
+5 10-May-83 7 
+Di 
+g.Cr. Inst. 40KF Diag.Crown Blank Missing 
+1.00E+01 Blank Installed.OK 
+ComFit  
+Leak 
+6 01-Jun-83 8 
+BU 
+IVP Inst. Butt 
+IVP Flange Tube to IVP Tube 
+1.00E-02 Internal Weld.Repaired.OK 
+Butt 
+10÷100
+Ø Leak 
+7 03-Jun-83 5 
+CL 
+MVP Inst. Lip 
+Blank Lip to MVP Lip 
+2.00E-05 Lip Weld.Rewelded.OK 
+Lip 
+10÷100
+Ø Leak 
+8 07-Jun-83 1 
+CM 
+P.Ch Inst. O Ring Door Flange to P.Ch Door 
+1.00E-06 O Ring Replaced by Cefilac 
+RH1200  
+Leak O'Ring 
+9 07-Jun-83 5 
+CM 
+P.Ch Inst. O Ring Door Flange to P.Ch Door 
+1.00E-05 O Ring Replaced by Cefilac 
+RH1200  
+Leak O'Ring 
+10 20-Jun-83 3 
+CL 
+MVP Crit. Water GDC Elec.Int.to Torus 
+1.00E-02 GDC Electrode Mod/Replaced F/T Lq 10÷100
+Ø Water Leak 
+11 21-Jun-83 6 
+CU 
+MVP Crit. Water GDC Elec.Int.to Torus 
+1.00E-04 GDC Electrode Mod/Replaced F/T Lq 10÷100
+Ø Water Leak 
+12 29-Jun-83 6 
+CU 
+MVP Inst. 150RH GDC Elec.Flange- MVP Flange
+5.00E-08 Dirt on Seal.Resealed.OK 
+RH150  
+Leak 
+13
+19-Jul-83 8 
+CM 
+MPA Crit. Fillet 
+Duct Scraper Int.Weld-Torus 
+4.00E+00 D.Scr.Pumped.Later Modified 
+Fillet 
+100÷500 Ø Leak 
+14 19-Sep-83 1 
+CM 
+P.Ch Inst. 225RH KL1 Window to P.Ch R/Oblique 1.00E-08 Flange Tightened.Cured.OK 
+RH225  
+Leak 
+15 19-Sep-83 4 
+CM 
+MPA Inst. Valve KJ1 Prov.Valve to Torus 
+2.00E-04 Manual Valve not Shut 
+Valve 
+100÷250 Ø Fail to close 
+16 19-Sep-83 5 
+CM 
+P.Ch Inst. 225RH KL1 Window to P.Ch L/Oblique 5.00E-08 Flange Tightened.Cured.OK 
+RH225  
+Leak 
+17 20-Sep-83 2 
+BL 
+IVP Inst. Butt 
+IVP Flange Tube to IVP Tube 
+2.00E-05 Internal Weld.Repaired.OK 
+Butt 
+ 
+ Leak 
+18 24-Sep-83 5 
+CM 
+P.Ch Op. Valve T03 Valve Seat Leak 
+1.00E+00 Valve Operated out of Sequence Valve 
+250÷500 Ø Seat Leak 
+ 
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   VACUUM SYSTEM
+(a)
+Leaks referring to seals and components for which no information about the belonging equipments have 
+been found out (i.e.: total amount of components installed and their operating life)
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   VACUUM SYSTEM
+Installation/Operation failures comparison
+0
+50
+100
+150
+200
+Bellows - Leak
+DNnnn - Leak
+RHnnn - Leak
+Commerc.Fitt. - Leak
+Flanges/Fittings - Leak
+F/T - Generic Leak
+Gauges - Leak
+Valves - External Leak
+Valves - Internal Leak
+Butt Welds - Leak
+Fillet Welds - Leak
+Lip Welds - Leak
+Welds - Leak
+Windows - Leak
+Windows - Rupture
+Windows - Leak/Rupture
+Total number of failures
+Installation
+Operation
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   VACUUM SYSTEM
+Operation failures comparison between Critical and No-critical leaks
+0
+10
+20
+30
+40
+50
+Bellows - Leak
+DNnnn - Leak
+RHnnn - Leak
+Commerc.Fitt. - Leak
+Flanges/Fittings - Leak
+F/T - Generic Leak
+Gauges - Leak
+Valves - External Leak
+Valves - Internal Leak
+Butt Welds - Leak
+Fillet Welds - Leak
+Lip Welds - Leak
+Welds - Leak
+Windows - Leak
+Windows - Rupture
+Windows - Leak/Rupture
+Total number of failures
+No-critical
+Critical
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   VACUUM SYSTEM
+Vacuum leaks during the JET operations
+0
+10
+20
+30
+40
+50
+60
+70
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+Operation
+Installation
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   VACUUM SYSTEM
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+Mean leak sizes for JET vacuum system failures
+1.0E-5
+1.0E-4
+1.0E-3
+1.0E-2
+1.0E-1
+1.0E+0
+1.0E+1
+1.0E+2
+1.0E+3
+Bellow - Leak
+Bellow - Water Leak
+Burst Disk - Leak
+F/T Cryo - Leak
+F/T El - Leak
+F/T Gas - Leak
+F/T Lq - Leak
+F/T Lq - Water Leak
+Gauge - Leak
+Gauge - Water Leak
+ComFit - Leak
+DNnnn - Leak
+RHnnn - Leak
+RHnnn - Leak O'Ring
+Valve - External Leak
+Valve - Internal Leak
+Butt welds - Leak
+Fillet welds - Leak
+Lip welds - Leak
+Window - Leak
+Window - Rupture
+mbar l/s
+Installation
+Operation
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   VACUUM SYSTEM
+Failure Rate ? (1/h) during Normal Operations
+1.0E-8
+1.0E-7
+1.0E-6
+1.0E-5
+Bellows - Leak
+Burst Disks - Leak
+DNnnn - Leak
+RHnnn - Leak
+Flanges - Leak
+Commerc.Fitt. - Leak
+Flanges/Fittings - Leak
+F/T Cryo - Leak
+F/T El - Leak
+F/T Gas - Leak
+F/T Lq - Leak
+F/T Lq - Water Leak
+F/T - Generic Leak
+Gauges - Leak
+Valves - Fail to operate
+Valves - External Leak
+Valves - Internal Leak
+Valves - Generic Failure
+Butt Welds - Leak
+Fillet Welds - Leak
+Lip Welds - Leak
+Welds - Leak
+Windows - Leak
+Windows - Rupture
+Windows - Leak/Rupture
+VacPump - Leak
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   VACUUM SYSTEM
+Failure Rate ? (1/h) during Normal Operations
+1.0E-8
+1.0E-7
+1.0E-6
+1.0E-5
+Bellows - Leak
+Burst Disks - Leak
+DNnnn - Leak
+RHnnn - Leak
+Flanges - Leak
+Commerc.Fitt. - Leak
+Flanges/Fittings - Leak
+F/T Cryo - Leak
+F/T El - Leak
+F/T Gas - Leak
+F/T Lq - Leak
+F/T Lq - Water Leak
+F/T - Generic Leak
+Gauges - Leak
+Valves - Fail to operate
+Valves - External Leak
+Valves - Internal Leak
+Valves - Generic Failure
+Butt Welds - Leak
+Fillet Welds - Leak
+Lip Welds - Leak
+Welds - Leak
+Windows - Leak
+Windows - Rupture
+Windows - Leak/Rupture
+VacPump - Leak
+Failure 
+rate λ 
+Standard 
+error 
+s.e.(λ) 
+λL (90%) λU (90%)
+Component 
+Failure mode
+(1/h) 
+Bellows 
+Leak 
+4.4E-7 
+1.6E-7 
+2.2E-7 
+8.0E-7 
+Bellows 
+Water Leak 
+1.4E-6 
+2.8E-7 
+1.0E-6 
+2.0E-6 
+Bellows 
+Generic leak 1.9E-6 
+3.2E-7 
+1.4E-6 
+2.5E-6 
+ 
+JET   VACUUM SYSTEM
+Bellows Failure Rates (1/h) during Normal Operations
+0.0E+0
+1.0E-6
+2.0E-6
+3.0E-6
+4.0E-6
+5.0E-6
+6.0E-6
+7.0E-6
+Bellows 10÷100  - Leak
+Bellows 100÷500  - Leak
+Bellows   - Leak
+Valves Failure Rates (1/h) during Normal Operations
+1.0E-7
+1.0E-6
+1.0E-5
+Valves 10÷100 Ø - Fail to operate
+Valves 10÷100 Ø - External Leak
+Valves 10÷100 Ø - Internal Leak
+Valves 100÷250 Ø - External Leak
+Valves 100÷250 Ø - Internal Leak
+Valves 250÷500 Ø - External Leak
+Valves 250÷500 Ø - Internal Leak
+Valves   - External Leak
+Valves   - Internal Leak
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   VACUUM SYSTEM
+Welds Failure Rates (1/h) during Normal Operations
+1.0E-7
+1.0E-6
+1.0E-5
+Butt Welds 10÷100 Ø - Leak
+Fillet Welds 10÷100 Ø - Leak
+Fillet Welds 100÷500 Ø - Leak
+Fillet Welds 750x750 ?  - Leak
+Fillet Welds   - Leak
+Lip Welds 10÷100 Ø - Leak
+Lip Welds 100÷500 Ø - Leak
+Lip Welds 500x500 ?  - Leak
+Lip Welds   - Leak
+Welds - Leak
+Windows Failure Rates (1/h) during Normal Operations
+0.0E+0 1.0E-6 2.0E-6 3.0E-6 4.0E-6 5.0E-6 6.0E-6 7.0E-6 8.0E-6 9.0E-6
+Windows 10÷100 Ø - Leak
+Windows 100÷250 Ø - Leak
+Windows   - Leak
+Windows 10÷100 Ø - Rupture
+Windows 100÷250 Ø - Rupture
+Windows   - Rupture
+Windows 10÷100 Ø - Leak/Rupture
+Windows 100÷250 Ø - Leak/Rupture
+Windows   - Leak/Rupture
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET   VACUUM SYSTEM
+Ratio between number of failures during "Installation" and total 
+number of similar components in the vacuum system
+0.0E+0
+5.0E-2
+1.0E-1
+1.5E-1
+2.0E-1
+2.5E-1
+3.0E-1
+3.5E-1
+Bellows - Leak
+DNnnn - Leak
+RHnnn - Leak
+Flanges - Leak
+Commerc.Fitt. - Leak
+Flanges/Fittings - Leak
+F/T Cryo - Leak
+F/T Gas - Leak
+F/T Lq - Leak
+F/T - Leak
+Gauges - Leak
+Valves - External Leak
+Valves - Internal Leak
+Valves - Left open
+Valves - Fail to close
+Butt Welds - Leak
+Fillet Welds - Leak
+Lip Welds - Leak
+Welds - Leak
+VacPump - Leak
+Windows - Leak
+Windows - Rupture
+Windows - Leak/Rupt.
+TLK
+ITER Tritium Plant component 
+tests
+PETRA
+Experiment for recovery of tritium 
+from gaseous waste streams
+CAPER
+Isotopic Separation System
+ISS
+Tritium Analytical System (Tritium 
+Mess – Technik)
+TMT
+Tritium Transfer System
+TTS
+Tritium Storage (Tritium Lager)
+TLG
+Tritium Retention System
+TRS
+Central Tritium Retention System 
+(Zentrales 
+Tritium-Rueckhalte-
+System)
+ZTS
+Summary description
+System
+1
+ZrCo getter bed with heater
+14
+Uranium getter beds with heaters
+4
+Turbomolecular pump
+5
+Siemens metal bellows pump
+24
+Siemens gas ring blowers
+3
+Permeators (9 heaters)
+1
+Normetex scroll pump 150 m3/h
+9
+Normetex scroll pump 15 m3/h
+1
+Normetex diaphragm pump model D7
+2
+Neuberger double diaphragm pumps
+42
+Molecular sieve beds
+13
+MB metal bellows pump model MB601
+2
+Gaschromatographs
+16
+Flow meters
+24
+Electronic frequency converters
+21
+Coolers
+31
+Control valves
+49
+Catalysts with heaters
+322
+Automatic valves
+N°
+Component type
+584 Components
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+TLK
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+TLK
+N° of failures/Total operation time for TLK component (1/h)
+1.E-6
+1.E-5
+1.E-4
+1.E-3
+Component type
+Automatic valves
+Catalysts with heaters
+Control valves
+Coolers
+Electronic frequency converters
+Flow meters
+Gaschromatographs
+MB metal bellows pump model MB601
+Molecular sieve beds
+Neuberger double diaphragm pumps
+Normetex diaphragm pump model D7
+Normetex scroll pump 15 m3/h
+Normetex scroll pump 150 m3/h
+Permeators (9 heaters)
+Siemens gas ring blowers
+Siemens metal bellows pump
+Turbomolecular pump
+Uranium getter beds with heaters
+ZrCo getter bed with heater
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+CONCLUSION
+Ø
+AGHS: about 130 failures on a set of 6259 components, operating for about 
+156 767 000 hours, have been pointed out since 1995 up to January 2002.
+Ø
+Vacuum system : About 600 failures on a whole set of 4012 components, 
+operating for about 249 450 000 hours, have been pointed out since March 1983
+up to January 2002.
+Ø
+TLK: 52 failures on a set of 584 components, operating for about 10 746 732 
+hours, have been pointed out up to October 2002.
+Ø
+Failure rates evaluated are in very good agreement with the corresponding ones 
+existing in literature for similar applications. It has to be highlighted that the 
+present set of reliability data is between the most consistent sets of evaluated 
+data in the field of fusion facilities, both for the amount of components treated 
+and for the total operating hours. The data here reported could be useful to 
+evaluate reliability parameters in support of safety assessment and for 
+availability/reliability analyses of fusion machines/plants.
+Ø
+The statistical data will be collected into the “Fusion Component Failure 
+Rate Database”.
+WORK  IN  PROGRESS
+Ø
+Collect all the information available about single component 
+malfunctions and failures of the NBI and Power Supply 
+Systems
+at JET, pointing out causes, consequences, 
+maintenance actions.
+Ø
+Collect information useful to evaluate probabilistic values
+related to component malfunctions and failures.
+Ø
+Estimate the main reliability parameters, (such as the failure 
+rate and the corresponding standard errors and confidence 
+intervals), associated to the components.
+Ø
+Point out practical information on the operating experience
+acquired.
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003
+Thank you!
+JET and TLK operational experience on Component failures
+Princeton – Oct. 2003

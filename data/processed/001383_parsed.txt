@@ -1,0 +1,2989 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+B
+C
+Source Description
+Phase II ID No.
+760
+EPA ID No.
+TXD008079642
+Facility Name
+E.I. duPont de Nemours & Co., Inc.
+Facility Location
+    City
+Orange
+    State
+TX
+Unit ID Name/No.
+Boiler No. 8
+Other Sister Facilities
+None
+Number of Sister Facilities
+0
+Combustor Class
+Liquid-fired boiler
+Combustor Type
+Liquid-fired
+Combustor Characteristics
+Capacity (MMBtu/hr)
+350
+Soot Blowing
+APCS Detailed Acronym
+None
+APCS General Class
+APCS Characteristics
+NA
+Hazardous Wastes
+Liq
+Haz Waste Description
+NVR, HMD and Diamine liquid waste
+Supplemental Fuel
+Natural gas
+Stack Characteristics
+    Diameter (ft)
+10.0
+    Height (ft)
+152
+    Gas Velocity (ft/sec)
+19.7
+    Gas Temperature (°F)
+Permitting Status
+Tier IA for metals (except Cr) and chlorine
+HWC Burn Status (Date if 
+Terminated)
+1, source, 760
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+B
+C
+Cond Description
+760C1
+     Report Name/Date
+Source Emissions Survey of E.I. Dupont De Nemours & Company, Inc. 
+Sabine River Works 
+     Report Prepar
+METCO Environmental, Inc.
+     Testing Firm
+METCO Environmental, Inc.
+     Testing Dates
+June 15, 1995
+     Cond Dates
+Jun-95
+     Cond Description
+CoC; max temp, haz waste feed and prod rate
+     Content
+PM, CO, Cr(+6)/Cr
+760C2
+     Report Name/Date
+Source Emissions Survey of E.I. Dupont De Nemours & Company, Inc. 
+Sabine River Works 
+     Report Prepar
+METCO Environmental, Inc.
+     Testing Firm
+METCO Environmental, Inc.
+     Testing Dates
+June 14, 1995
+     Cond Dates
+Jun-95
+     Cond Description
+CoC; min comb temp
+     Content
+CO
+760C3
+     Report Name/Date
+Source Emissions Survey of E.I. Dupont De Nemours & Company, Inc. 
+Sabine River Works 
+     Report Prepar
+METCO Environmental, Inc.
+     Testing Firm
+METCO Environmental, Inc.
+     Testing Dates
+July 9, 14, 15, 16, 1998
+     Cond Dates
+Jul-98
+     Cond Description
+Trial burn; DRE
+     Content
+PM, HCl, Cl2, DRE monochlorobenzene
+760C4
+     Report Name/Date
+Source Emissions Survey of E.I. Dupont De Nemours & Company, Inc. 
+Sabine River Works 
+     Report Prepar
+METCO Environmental, Inc.
+     Testing Firm
+METCO Environmental, Inc.
+     Testing Dates
+July 20-24, 1998
+     Cond Dates
+Jul-98
+     Cond Description
+Risk burn
+     Content
+PM, metals, PCDD/PCDF, other organics
+2, cond, 760
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+Stack Gas Emissions
+Comments
+Units
+7% O2
+soot blowing
+760C1
+R1
+R2
+R3
+Cond Avg
+PM (total)
+E1
+gr/dscf
+y
+0.0241
+0.0246
+0.0378
+0.0288 total
+PM
+E1
+gr/dscf
+y
+0.0223
+0.0195
+0.0359
+0.0259 front half
+CO (MHRA)
+E1
+ppmv
+y
+42.1
+39.5
+92.1
+57.9
+CO (RA)
+E1
+ppmv
+y
+34.0
+33.6
+42.7
+36.8
+Chromium (Hex)
+lb/hr
+0.011
+0.009
+0.015
+0.012
+Chromium
+lb/hr
+0.144
+0.121
+0.254
+0.173
+Sampling Train
+PM
+E1
+   Stack Gas Flowrate
+dscfm
+76240
+78092
+77453
+77262
+   O2
+%
+7.0
+6.8
+6.8
+6.9
+   Moisture
+%
+17.11
+16.77
+17.39
+17.09
+   Temperature
+°F
+379
+393
+384
+385.3
+Chromium (Hex)
+E1
+µg/dscm y
+38.6
+30.4
+51.1
+40.0
+Chromium
+E1
+µg/dscm y
+505.0
+408.4
+864.5
+593.0
+LVM
+E1
+µg/dscm y
+505.0
+408.4
+864.5
+593.0
+760C2
+R1
+R2
+R3
+Cond Avg
+CO (MHRA)
+E1
+ppmv
+y
+30.8
+40.9
+29.2
+33.6
+CO (RA)
+E1
+ppmv
+y
+17.1
+16.5
+15.3
+16.3
+Sampling Train
+CO
+E1
+   Stack Gas Flowrate
+dscfm
+55847
+53240
+48928
+52672
+   O2
+%
+13.6
+12.8
+12.8
+13.1
+   Moisture
+%
+12.00
+13.04
+13.34
+12.8
+   Temperature
+°F
+285
+286
+286
+285.7
+760C3
+R1
+R2
+R3
+Cond Avg
+PM
+E1
+gr/dscf
+y
+0.0119
+0.008
+0.0076
+0.0092
+HCl
+ppmv
+n
+61.4
+60
+65.2
+Cl2
+ppmv
+n
+nd
+0.2 nd
+0.2 nd
+0.2
+POHC DRE
+Monochlorobenzene
+Feedrate
+Emission Rate
+E1
+µg/dscm
+nd
+5.363 nd
+8.197 nd
+4.680
+DRE
+E1
+%
+>
+99.998
+>
+99.997
+>
+99.998
+Sampling Train
+PM, HCl/Cl2
+E1
+   Stack Gas Flowrate
+dscfm
+59298
+60000
+59566
+59621.3
+   O2
+%
+11.9
+11.5
+11.9
+11.8
+   Moisture
+%
+18.34
+18.12
+17.83
+18.10
+   Temperature
+°F
+330
+328
+322
+326.67
+HCl
+E1
+ppmv
+y
+94.5
+88.4
+100.3
+94.4
+Cl2
+E1
+ppmv
+y
+0.3
+0.3
+0.3
+0.3
+Total Chlorine
+E1
+ppmv
+y
+95.1
+89.0
+100.9
+95.0
+760C4
+R1
+R2
+R3
+Cond Avg
+PM
+E1
+gr/dscf
+y
+0.0062
+0.0040
+0.0051
+0.0051
+Antimony
+µg/dscm n
+nd
+38.9 nd
+13.8 nd
+5.9
+Arsenic
+µg/dscm n
+nd
+141.9 nd
+40.7 nd
+45.0
+Barium
+µg/dscm n
+nd
+138.8 nd
+36.7 nd
+34.8
+Beryllium
+µg/dscm n
+nd
+2.9 nd
+0.8 nd
+0.7
+Cadmium
+µg/dscm n
+nd
+2.9 nd
+0.8 nd
+0.8
+Chromium
+µg/dscm n
+nd
+49.0 nd
+51.5
+63.0
+3, emiss, 760
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+Lead
+µg/dscm n
+nd
+47.8 nd
+19.5 nd
+11.5
+Mercury
+µg/dscm n
+nd
+1.0 nd
+0.9 nd
+1.0
+Nickel
+µg/dscm n
+nd
+10.0 nd
+7.9 nd
+7.2
+Selenium
+µg/dscm n
+nd
+128.5 nd
+39.6 nd
+37.4
+Silver
+µg/dscm n
+nd
+3.8 nd
+1.6 nd
+1.5
+Thallium
+µg/dscm n
+nd
+470.2 nd
+318.3 nd
+299.4
+Zinc
+µg/dscm n
+34.8
+12.3
+11.7
+Chromium (Hex)
+g/s
+nd
+9.6E-05 nd
+1.03E-04 nd
+1.27E-04
+Sampling Train
+PM, metals
+E1
+   Stack Gas Flowrate
+dscfm
+59027
+60347
+61296
+60223
+   O2
+%
+12.4
+12.3
+13.0
+12.6
+   Moisture
+%
+14.41
+14.07
+13.87
+14.12
+   Temperature
+°F
+277
+275
+286
+279
+Antimony
+E1
+µg/dscm y
+nd
+63.3 nd
+22.2 nd
+10.3 100
+31.9
+Arsenic
+E1
+µg/dscm y
+nd
+231.0 nd
+65.5 nd
+78.8 100
+125.1 high nds?
+Barium
+E1
+µg/dscm y
+nd
+225.9 nd
+59.0 nd
+60.9 100
+115.3
+Beryllium
+E1
+µg/dscm y
+nd
+4.7 nd
+1.3 nd
+1.3 100
+2.4
+Cadmium
+E1
+µg/dscm y
+nd
+4.7 nd
+1.3 nd
+1.5 100
+2.5
+Chromium
+E1
+µg/dscm y
+nd
+79.8 nd
+82.9
+110.2
+60
+90.9
+Lead
+E1
+µg/dscm y
+nd
+77.9 nd
+31.4 nd
+20.1 100
+43.1
+Mercury
+E1
+µg/dscm y
+nd
+1.6 nd
+1.5 nd
+1.8 100
+1.6
+Nickel
+E1
+µg/dscm y
+nd
+16.2 nd
+12.8 nd
+12.5 100
+13.8
+Selenium
+E1
+µg/dscm y
+nd
+209.1 nd
+63.8 nd
+65.4 100
+112.8
+Silver
+E1
+µg/dscm y
+nd
+6.2 nd
+2.6 nd
+2.6 100
+3.8
+Thallium
+E1
+µg/dscm y
+nd
+765.4 nd
+512.1 nd
+523.9 100
+600.5
+Zinc
+E1
+µg/dscm y
+56.6
+19.7
+20.5
+32.3
+Chromium (Hex)
+E1
+µg/dscm y
+nd
+5.6 nd
+5.8 nd
+7.7 100
+6.4
+SVM
+E1
+µg/dscm y
+100
+82.6 100
+32.6 100
+21.6 100
+45.6
+LVM
+E1
+µg/dscm y
+100
+315.5 100
+149.6 42
+190.3
+83
+218.5
+Particle Size Distribution
+in microns
+0.5-2.5
+% wt
+90.3
+93.1
+92
+2.5-5
+% wt
+7.5
+5.4
+6.2
+5-7.5
+% wt
+1.7
+0.8
+1.3
+7.5-10
+% wt
+0.2
+0.6
+0.2
+>10
+% wt
+0.2
+0.1
+0.3
+4, emiss, 760
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+AA
+AB
+AC
+Feedstreams
+760C1
+R1
+R2
+R3
+Cond Avg
+R1
+R2
+R3
+Cond Avg
+R1
+R2
+R3
+Cond Avg
+Feedstream Number
+F1
+F1
+F1
+F1
+F2
+F2
+F2
+F2
+Feed Class
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Feed Class 2
+HW
+HW
+HW
+HW
+Feedstream Description
+NVR
+NVR
+NVR
+NVR
+HMD
+HMD
+HMD
+HMD
+Feed Rate
+g/hr
+8123976
+8314488
+8269128
+8235864
+1955016
+1397088
+1759968
+1704024
+Heat Content
+Btu/lb
+8031
+8031
+8031
+8031
+2027
+2027
+2027
+2027
+Thermal Feedrate
+MMBtu/hr
+147
+142
+148
+145.7
+3.52
+9.24
+8.77
+7.2
+150.5
+151.2
+156.8
+152.8
+Ash
+g/hr
+nd
+4060
+nd
+4160
+nd
+4130
+4117
+977
+698
+879
+851
+Chromium (Tri)
+g/hr
+Chlorine
+g/hr
+nd
+988.394
+nd
+987.033
+nd
+987.034
+987.5
+Antimony
+g/hr
+nd
+15.004
+nd
+15.792
+nd
+15.792
+15.5
+Arsenic
+g/hr
+nd
+1.681
+nd
+0.789
+nd
+0.789
+1.1
+Barium
+g/hr
+nd
+0.557
+0.973
+nd
+0.395
+0.6
+Beryllium
+g/hr
+0.494
+0.493
+nd
+0.494
+0.5
+Cadmium
+g/hr
+nd
+0.198
+0.197
+0.198
+0.2
+Chromium
+g/hr
+nd
+238.89
+nd
+205.82
+425.328
+290.0
+Lead
+g/hr
+nd
+15.814
+nd
+15.792
+nd
+15.792
+15.8
+Mercury
+g/hr
+nd
+0.099
+nd
+0.099
+nd
+0.099
+0.1
+Silver
+g/hr
+nd
+2.489
+nd
+2.566
+nd
+2.549
+2.5
+Thallium
+g/hr
+nd
+61.638
+nd
+63.17
+nd
+63.17
+62.7
+Stack Gas Flowrate
+dscfm
+76240
+78092
+77453
+77261.7
+76240
+78092
+77453
+77261.7
+O2
+%
+7
+6.8
+6.8
+6.9
+7
+6.8
+6.8
+6.9
+Estimated Firing Rate
+MMBtu/hr
+Feedrate MTEC Calculations
+Ash
+mg/dscm
+100
+31.4 100
+30.9 100
+31.0 100
+31.1
+7.5
+5.2
+6.6
+6.4 100
+38.9 100
+36.1 100
+37.6 100
+37.5
+Chromium (Tri)
+ug/dscm
+0.0
+0.0
+0.0
+0.0
+Chlorine
+ug/dscm
+100
+7635.0 100
+7338.8 100
+7399.4
+7457.7
+100
+7635.0 100
+7338.8 100 7399.4 100
+7457.7
+Antimony
+ug/dscm
+100
+115.9 100
+117.4 100
+118.4
+117.2
+100
+115.9 100
+117.4 100
+118.4 100
+117.2
+Arsenic
+ug/dscm
+100
+13.0 100
+5.9 100
+5.9
+8.3
+100
+13.0 100
+5.9 100
+5.9 100
+8.3
+Barium
+ug/dscm
+100
+4.3
+7.2 100
+3.0
+4.8
+100
+4.3
+0
+7.2 100
+3.0
+50
+4.8
+Beryllium
+ug/dscm
+3.8
+3.7 100
+3.7
+3.7
+0
+3.8
+0
+3.7 100
+3.7
+33
+3.7
+Cadmium
+ug/dscm
+100
+1.5
+1.5
+1.5
+1.5
+100
+1.5
+0
+1.5
+0
+1.5
+34
+1.5
+Chromium
+ug/dscm
+100
+1845.3 100
+1530.3
+3188.5
+2188.1
+100
+1845.3 100
+1530.3
+0 3188.5
+51
+2188.1
+Lead
+ug/dscm
+100
+122.2 100
+117.4 100
+118.4
+119.3
+100
+122.2 100
+117.4 100
+118.4 100
+119.3
+Mercury
+ug/dscm
+100
+0.8 100
+0.7 100
+0.7
+0.7
+100
+0.8 100
+0.7 100
+0.7 100
+0.7
+Silver
+ug/dscm
+100
+19.2 100
+19.1 100
+19.1
+19.1
+100
+19.2 100
+19.1 100
+19.1 100
+19.1
+Thallium
+ug/dscm
+100
+476.1 100
+469.7 100
+473.6
+473.1
+100
+476.1 100
+469.7 100
+473.6 100
+473.1
+SVM
+ug/dscm
+123.7
+118.9
+119.9
+120.8
+100
+123.7
+99
+118.9
+99
+119.9
+99
+120.8
+LVM
+ug/dscm
+1862.1
+1539.9
+3198.1
+2200.0
+100
+1862.1 100
+1539.9
+0 3198.1
+52
+2200.0
+760C2
+R1
+R2
+R3
+Cond Avg
+R1
+R2
+R3
+Cond Avg
+R1
+R2
+R3
+Cond Avg
+Feedstream Number
+F1
+F1
+F1
+F1
+F2
+F2
+F2
+F2
+Feed Class
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Feed Class 2
+HW
+HW
+HW
+HW
+Feedstream Description
+NVR
+NVR
+NVR
+NVR
+HMD
+HMD
+HMD
+HMD waste
+Feed Rate
+g/hr
+910602
+3204533
+3205667
+2300000
+1737817
+1738649
+1787666
+1700000
+Heat Content
+Btu/lb
+8000
+8000
+8000
+8000
+2000
+2000
+2000
+2000
+5, feed, 760
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+B
+Feedstreams
+760C1
+Feedstream Number
+Feed Class
+Feed Class 2
+Feedstream Description
+Feed Rate
+Heat Content
+Thermal Feedrate
+Ash
+Chromium (Tri)
+Chlorine
+Antimony
+Arsenic
+Barium
+Beryllium
+Cadmium
+Chromium
+Lead
+Mercury
+Silver
+Thallium
+Stack Gas Flowrate
+O2
+Estimated Firing Rate
+Feedrate MTEC Calculati
+Ash
+Chromium (Tri)
+Chlorine
+Antimony
+Arsenic
+Barium
+Beryllium
+Cadmium
+Chromium
+Lead
+Mercury
+Silver
+Thallium
+SVM
+LVM
+760C2
+Feedstream Number
+Feed Class
+Feed Class 2
+Feedstream Description
+Feed Rate
+Heat Content
+AD
+AE
+AF
+AG
+AH
+AI
+AJ
+AK
+AL
+AM
+AN
+AO
+AP
+AQ
+AR
+R1
+R2
+R3
+Cond Avg
+R1
+R2
+R3
+Cond Avg
+F3
+F3
+F3
+F3
+F4
+F4
+F4
+F4
+Spike
+Spike
+Spike
+Spike
+Total
+Total
+Total
+Total
+Spike
+Spike
+Spike
+Spike
+Total
+Total
+Total
+Total
+Spike
+Spike
+Spike
+Spike
+Total
+Total
+Total
+Total
+42266
+42938
+42693
+42632
+150.5
+151.2
+156.8
+152.8
+2486
+2527
+2522
+2511
+512.568
+521.64
+517.104
+517
+76240
+78092
+77453
+77261.7
+76240
+78092
+77453
+77261.7
+7
+6.8
+6.8
+6.9
+7
+6.8
+6.8
+6.9
+338.8
+352.0
+349.2
+346.7
+19.2
+18.8
+18.9
+19.0
+67
+58.1
+66
+54.9
+67
+56.5
+66
+56.5
+3959.4
+3878.5
+3876.5
+3904.8
+0 3959.4
+0 3878.5
+0
+3876.5
+0
+3904.8
+100 7635.0 100 7338.8
+100
+7399.4 100
+7457.7
+100
+115.9 100
+117.4
+100
+118.4 100
+117.2
+100
+13.0 100
+5.9
+100
+5.9 100
+8.3
+100
+4.3
+0
+7.2
+100
+3.0
+50
+4.8
+0
+3.8
+0
+3.7
+100
+3.7
+33
+3.7
+100
+1.5
+0
+1.5
+0
+1.5
+34
+1.5
+3959.4
+3878.5
+3876.5
+3904.8
+32 5804.8
+28 5408.8
+0
+7065.0
+18
+6092.9
+100
+122.2 100
+117.4
+100
+118.4 100
+119.3
+100
+0.8 100
+0.7
+100
+0.7 100
+0.7
+100
+19.2 100
+19.1
+100
+19.1 100
+19.1
+100
+476.1 100
+469.7
+100
+473.6 100
+473.1
+100
+123.7
+99
+118.9
+99
+119.9
+99
+120.8
+3959.4
+3878.5
+3876.5
+3904.8
+32 5821.6
+28 5418.4
+0
+7074.6
+19
+6104.9
+6, feed, 760
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+AA
+AB
+AC
+Stack Gas Flowrate
+dscfm
+55847
+53240
+48928
+52671.7
+55847
+53240
+48928
+52671.7
+O2
+%
+13.6
+12.8
+12.8
+13.1
+13.6
+12.8
+12.8
+13.1
+Thermal Feedrate
+MMBtu/hr
+16.0
+56.5
+56.5
+40.5
+7.7
+7.7
+7.9
+7.5
+23.7
+64.1
+64.4
+50.7
+Estimated Firing Rate
+MMBtu/hr
+131
+139
+127
+132.4
+760C3
+R1
+R2
+R3
+Cond Avg
+R1
+R2
+R3
+Cond Avg
+R1
+R2
+R3
+Cond Avg
+Feedstream Number
+F1
+F1
+F1
+F1
+F2
+F2
+F2
+F2
+Feed Class
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Feed Class 2
+HW
+HW
+HW
+HW
+Feedstream Description
+NVR
+NVR
+NVR
+NVR
+Diamine
+Diamine
+Diamine
+Diamine
+Feed Rate
+lb/hr
+?
+?
+Density
+ml/g?
+1.058
+1.057
+1.063
+1.058
+0.9987
+0.9972
+0.9963
+0.997
+Heat Content
+Btu/lb
+2967
+2981
+2829
+2926
+348
+374
+399
+374
+Monochlorobenzene
+ug/l
+nd
+120
+nd
+120
+nd
+120
+120.0 nd
+50.0 nd
+5.0 nd
+5.0
+20.0
+Ash
+ppmw
+160
+160
+160
+147.0 nd
+13.0 nd
+13.0 nd
+13.0
+13.0
+Chlorine
+ppmw
+nd
+10
+nd
+10
+nd
+10
+10.0 nd
+10.0 nd
+10.0 nd
+10.0
+10.0
+Antimony
+ppmw
+nd
+2
+nd
+2
+nd
+2
+2.0 nd
+2.0 nd
+2.0 nd
+2.0
+2.0
+Arsenic
+ppmw
+nd
+2
+nd
+2
+nd
+2
+2.0 nd
+2.0 nd
+2.0 nd
+2.0
+2.0
+Barium
+ppmw
+nd
+40
+nd
+40
+nd
+40
+40.0 nd
+40.0 nd
+40.0 nd
+40.0
+40.0
+Beryllium
+ppmw
+nd
+1
+nd
+1
+nd
+1
+1.0 nd
+1.0 nd
+1.0 nd
+1.0
+1.0
+Cadmium
+ppmw
+nd
+0.4
+nd
+0.4
+nd
+0.4
+0.4 nd
+0.4 nd
+0.4 nd
+0.4
+0.4
+Chromium
+ppmw
+30.6
+28.2
+29.8
+29.5 nd
+1.0 nd
+1.0 nd
+1.0
+1.0
+Lead
+ppmw
+nd
+0.6
+nd
+0.6
+nd
+0.6
+0.6 nd
+0.6 nd
+0.6 nd
+0.6
+0.6
+Mercury
+ppmw
+nd
+0.03
+nd
+0.03
+nd
+0.03
+0.03 nd
+0.0 nd
+0.0 nd
+0.0
+0.03
+Silver
+ppmw
+nd
+1
+nd
+1
+nd
+1
+1.0 nd
+1.0 nd
+1.0 nd
+1.0
+1.0
+Thallium
+ppmw
+nd
+2
+nd
+2
+nd
+2
+2.0 nd
+2.0 nd
+2.0 nd
+2.0
+2.0
+Stack Gas Flowrate
+dscfm
+59298
+60000
+59566
+59621.3
+O2
+%
+11.9
+11.5
+11.9
+11.8
+Thermal Feedrate
+MMBtu/hr
+Estimated Firing Rate
+MMBtu/hr
+171
+181
+172
+175
+can't make MTEC calcs -- need total mass feedrates
+760C4
+R1
+R2
+R3
+Cond Avg
+R1
+R2
+R3
+Cond Avg
+R1
+R2
+R3
+Cond Avg
+Feedstream Number
+F1
+F1
+F1
+F1
+F2
+F2
+F2
+F2
+Feed Class
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Liq HW
+Feed Class 2
+HW
+HW
+HW
+HW
+Feedstream Description
+NVR
+NVR
+NVR
+NVR
+Diamine
+Diamine
+Diamine
+Diamine
+Feed Rate
+lb/hr
+?
+?
+Density
+ml/g?
+1.08
+1.075
+1.079
+1.078
+0.9788
+0.994
+0.9946
+0.9891
+Heat Content
+Btu/lb
+8703
+8732
+8717
+8717
+4046
+936
+923
+1968
+Chlorine
+ppmw
+nd
+15
+14
+13
+14 nd
+23
+54
+66
+48
+Ash
+%
+0.021
+0.019
+0.02
+0.02 nd
+0.0015 nd
+0.0014
+0.0017
+0.0015
+Antimony
+ppmw
+nd
+2
+nd
+2
+nd
+2
+2.0 nd
+2.0 nd
+2.0 nd
+2.0
+2.0
+Arsenic
+ppmw
+nd
+2
+nd
+2
+nd
+2
+2.0 nd
+2.0 nd
+2.0 nd
+2.0
+2.0
+Barium
+ppmw
+nd
+40
+nd
+40
+nd
+40
+40.0 nd
+40.0 nd
+40.0 nd
+40.0
+40.0
+Beryllium
+ppmw
+nd
+1
+nd
+1
+nd
+1
+1.0 nd
+1.0 nd
+1.0 nd
+1.0
+1.0
+Cadmium
+ppmw
+nd
+0.4
+nd
+0.4
+nd
+0.4
+0.40 nd
+0.4 nd
+0.4 nd
+0.4
+0.40
+Chromium
+ppmw
+45.2
+45
+45.2
+44.7 nd
+1.0 nd
+1.0 nd
+1.0
+1.0
+Lead
+ppmw
+nd
+0.6
+nd
+0.6
+nd
+0.6
+0.62 nd
+0.7 nd
+0.6 nd
+0.6
+0.63
+Mercury
+ppmw
+nd
+0.033
+nd
+0.033
+nd
+0.033
+0.033 nd
+0.0 nd
+0.0 nd
+0.0
+0.033
+Nickel
+ppmw
+nd
+8
+nd
+8
+nd
+8
+8.0 nd
+8.0 nd
+8.0 nd
+8.0
+8.0
+7, feed, 760
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+B
+Stack Gas Flowrate
+O2
+Thermal Feedrate
+Estimated Firing Rate
+760C3
+Feedstream Number
+Feed Class
+Feed Class 2
+Feedstream Description
+Feed Rate
+Density
+Heat Content
+Monochlorobenzene
+Ash
+Chlorine
+Antimony
+Arsenic
+Barium
+Beryllium
+Cadmium
+Chromium
+Lead
+Mercury
+Silver
+Thallium
+Stack Gas Flowrate
+O2
+Thermal Feedrate
+Estimated Firing Rate
+can't make MTEC calcs --
+760C4
+Feedstream Number
+Feed Class
+Feed Class 2
+Feedstream Description
+Feed Rate
+Density
+Heat Content
+Chlorine
+Ash
+Antimony
+Arsenic
+Barium
+Beryllium
+Cadmium
+Chromium
+Lead
+Mercury
+Nickel
+AD
+AE
+AF
+AG
+AH
+AI
+AJ
+AK
+AL
+AM
+AN
+AO
+AP
+AQ
+AR
+8, feed, 760
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+AA
+AB
+AC
+Selenium
+ppmw
+2.6
+1.9
+1.9
+2.1
+1.1 nd
+1.0 nd
+1.2
+1.1
+Silver
+ppmw
+nd
+1
+nd
+1
+nd
+1
+1.0 nd
+1.0 nd
+1.0 nd
+1.0
+1.0
+Thallium
+ppmw
+nd
+2
+nd
+2
+nd
+2
+2.0 nd
+2.0 nd
+2.0 nd
+2.0
+2.0
+Zinc
+ppmw
+nd
+4
+nd
+4.7
+nd
+4
+4.4 nd
+4.9 nd
+4.2 nd
+4.0
+4.4
+Stack Gas Flowrate
+dscfm
+59027
+60347
+61296
+60223
+O2
+%
+12.4
+12.3
+13
+13
+Estimated Firing Rate
+MMBtu/hr
+161.2
+166.7
+155.7
+161.2
+can't make MTEC calcs -- need total mass feedrates
+9, feed, 760
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+B
+Selenium
+Silver
+Thallium
+Zinc
+Stack Gas Flowrate
+O2
+Estimated Firing Rate
+can't make MTEC calcs --
+AD
+AE
+AF
+AG
+AH
+AI
+AJ
+AK
+AL
+AM
+AN
+AO
+AP
+AQ
+AR
+10, feed, 760
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+A
+B
+C
+D
+E
+F
+Process Information
+Units
+Run
+Run
+Run
+Avg
+1
+2
+3
+760C1
+Burner Temp
+°F
+703
+715
+717
+712
+Production Rate
+Mlb/hr
+193
+192
+196
+194
+760C2
+Burner Temp
+°F
+572
+569
+562
+568
+Production Rate
+11, process, 760
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+PCDD/PCDF
+N
+Facility Name and ID: 
+DuPont Orange TX, Boiler No. 8
+Condition ID:
+760C4
+Condition/Test Date:  
+Risk burn, July 20-24, 1998
+I-TEF
+Run 2
+Run 3
+Run 4
+Wght Fact
+Total
+ TEQ
+Total
+ TEQ
+Total
+TEQ
+Total
+TEQ
+Total
+TEQ
+Total
+TEQ
+Full ND
+Full ND
+1/2 ND
+1/2 ND
+Full ND
+Full ND
+1/2 ND
+1/2 ND
+Full ND
+Full ND
+1/2 ND
+1/2 ND
+Detected in sample volume (ng)
+2,3,7,8-TCDD
+1
+nd
+0.0030
+0.0030
+0.0015
+0.0015 nd
+0.002
+0.0020
+0.0010
+0.0010 nd
+0.002
+0.0020
+0.0010
+0.0010
+1,2,3,7,8-PCDD
+0.5
+nd
+0.0040
+0.0020
+0.0020
+0.0010 nd
+0.003
+0.0015
+0.0015
+0.0008 nd
+0.004
+0.0020
+0.0020
+0.0010
+1,2,3,4,7,8-HxCDD
+0.1
+nd
+0.0050
+0.0005
+0.0025
+0.0003 nd
+0.006
+0.0006
+0.0030
+0.0003 nd
+0.004
+0.0004
+0.0020
+0.0002
+1,2,3,6,7,8-HxCDD
+0.1
+nd
+0.0050
+0.0005
+0.0025
+0.0003 nd
+0.006
+0.0006
+0.0030
+0.0003 nd
+0.004
+0.0004
+0.0020
+0.0002
+1,2,3,7,8,9-HxCDD
+0.1
+nd
+0.0040
+0.0004
+0.0020
+0.0002 nd
+0.005
+0.0005
+0.0025
+0.0003 nd
+0.004
+0.0004
+0.0020
+0.0002
+1,2,3,4,6,7,8-HpCDD
+0.01
+nd
+0.0070
+0.0001
+0.0035
+0.0000
+0.005
+0.0001
+0.0050
+0.0001 nd
+0.006
+0.0001
+0.0030
+0.0000
+OCDD
+0.001
+0.0180
+0.0000
+0.0180
+0.0000
+0.019
+0.0000
+0.0190
+0.0000
+0.024
+0.0000
+0.0240
+0.0000
+2,3,7,8-TCDF
+0.1
+nd
+0.0040
+0.0004
+0.0020
+0.0002 nd
+0.003
+0.0003
+0.0015
+0.0002 nd
+0.004
+0.0004
+0.0020
+0.0002
+1,2,3,7,8-PCDF
+0.05
+nd
+0.0040
+0.0002
+0.0020
+0.0001 nd
+0.005
+0.0003
+0.0025
+0.0001 nd
+0.005
+0.0003
+0.0025
+0.0001
+2,3,4,7,8-PCDF
+0.5
+nd
+0.0040
+0.0020
+0.0020
+0.0010 nd
+0.004
+0.0020
+0.0020
+0.0010 nd
+0.004
+0.0020
+0.0020
+0.0010
+1,2,3,4,7,8-HxCDF
+0.1
+nd
+0.0040
+0.0004
+0.0020
+0.0002 nd
+0.004
+0.0004
+0.0020
+0.0002 nd
+0.004
+0.0004
+0.0020
+0.0002
+1,2,3,6,7,8-HxCDF
+0.1
+nd
+0.0040
+0.0004
+0.0020
+0.0002 nd
+0.003
+0.0003
+0.0015
+0.0002 nd
+0.004
+0.0004
+0.0020
+0.0002
+2,3,4,6,7,8-HxCDF
+0.1
+nd
+0.0040
+0.0004
+0.0020
+0.0002 nd
+0.004
+0.0004
+0.0020
+0.0002 nd
+0.004
+0.0004
+0.0020
+0.0002
+1,2,3,7,8,9-HxCDF
+0.1
+nd
+0.0050
+0.0005
+0.0025
+0.0003 nd
+0.004
+0.0004
+0.0020
+0.0002 nd
+0.005
+0.0005
+0.0025
+0.0003
+1,2,3,4,6,7,8-HpCDF
+0.01
+0.0170
+0.0002
+0.0170
+0.0002
+0.017
+0.0002
+0.0170
+0.0002
+0.018
+0.0002
+0.0180
+0.0002
+1,2,3,4,7,8,9-HpCDF
+0.01
+nd
+0.0040
+0.0000
+0.0020
+0.0000 nd
+0.004
+0.0000
+0.0020
+0.0000 nd
+0.006
+0.0001
+0.0030
+0.0000
+OCDF
+0.001
+0.0210
+0.0000
+0.0210
+0.0000
+0.015
+0.0000
+0.0150
+0.0000
+0.021
+0.0000
+0.0210
+0.0000
+Gas sample volume (dscf)
+132.535
+132.535
+127.168
+127.168
+133.522
+133.522
+O2 (%)
+12.40
+12.40
+12.30
+12.30
+13.00
+13.00
+PCDD/PCDF (ng in sample)
+0.0110
+0.0056
+0.0095
+0.0049
+0.0099
+0.0051
+PCDD/PCDF (ng/dscm @ 7% O2)
+98.1
+0.0048
+0.0024
+97.3
+0.0043
+0.0022
+97.7
+0.0046
+0.0023
+TEQ Cond Avg
+0.00232
+12, df c4, 760

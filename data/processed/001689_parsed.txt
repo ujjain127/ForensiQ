@@ -1,0 +1,38 @@
+Program Memorandum
+Department 
+of 
+Health 
+and
+Human Services (DHHS)
+Carriers
+HEALTH 
+CARE 
+FINANCING
+ADMINISTRATION (HCFA)
+Transmittal     B-01-07
+Date:  FEBRUARY 7, 2001
+CHANGE REQUEST 1521
+SUBJECT:
+Apligraf (Graftskin)
+On August 12, 2000, Apligraf (Graftskin) was approved for inclusion in the United States
+Pharmacopeia.  The FDA labeling for Apligraf states that the indications for its use are the treatment
+of venous leg ulcers and diabetic foot ulcers.  There is no national coverage decision regarding
+Apligraf.  Carriers and intermediaries have discretion regarding coverage of Apligraf.
+Under the hospital outpatient prospective payment system, Apligraf is reportable with HCFA
+Common Procedure Coding System (HCPCS) code C1305.   Current Procedural Terminology (CPT)
+codes describing the services delivered are reported on the bill.  The CPT codes to describe services
+associated with the use of Apligraf can include 15000 for the wound site preparation and 15342 and
+15343 for application of the bilaminate skin substitute.  Apligraf has been recognized as a biologic
+and will be paid at 95 percent of its average wholesale price (AWP) effective January 1, 2001.
+Code Q0185 should be used for Apligraf for claims submitted to the carriers.  CPT codes 15000,
+15342, and 15343 can be used to describe the services delivered when Apligraf is used.  For these
+services, physicians should not bill Apligraf using HCPCS code C1305 since this code has been
+approved solely for use under the hospital outpatient prospective payment system.  The payment
+mechanism for Q0185 is 95 percent of its AWP since Apligraf has met the statutory requirement as
+a biologic.
+The effective date for this Program Memorandum (PM) is February 7, 2001.
+The implementation date for this PM is February 7, 2001.
+These instructions should be implemented within your current operating budget.
+This PM may be discarded after January 31, 2002.
+If you have any questions, contact your local regional office.
+HCFA-Pub. 60B

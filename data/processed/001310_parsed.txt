@@ -1,0 +1,782 @@
+1
+SEMI-ANNUAL REPORT
+NASA CONTRACT NAS5-31368
+For
+MODIS Team Member: Steven W. Running
+Assoc. Team Member: Ramakrishna R. Nemani
+Software Engineer: Joseph Glassy
+January 15, 1998
+PRE-LAUNCH TASKS PROPOSED IN OUR CONTRACT OF DECEMBER 1991:
+We propose, during the pre-EOS phase to: (1) develop, with other MODIS Team
+Members, a means of discriminating different major biome types with NDVI and other
+AVHRR-based data;  (2) develop a simple ecosystem process model for each of these
+biomes, BIOME-BGC; (3) relate the seasonal trend of weekly composite NDVI to
+vegetation phenology and temperature limits to develop a satellite defined growing
+season for vegetation; and (4) define physiologically based energy to mass conversion
+factors for carbon and water for each biome.
+Our final core at-launch product will be simplified, completely satellite driven
+biome specific models for net primary production.  We will build these biome specific
+satellite driven algorithms using a family of simple ecosystem process models as
+calibration models, collectively called BIOME-BGC, and establish coordination with an
+existing network of ecological study sites in order to test and validate these products.
+Field data sets will then be available for both BIOME-BGC development and testing, use
+for algorithm developments of other MODIS Team Members, and ultimately be our first
+test point for MODIS land vegetation products upon launch.  We will use field sites from
+the National Science Foundation Long-Term Ecological Research network, and develop
+Glacier National Park as a major site for intensive validation.
+OBJECTIVES:
+We have defined the following near-term objectives for our MODIS contract
+based on the long term objectives stated above.
+- Organization of an EOS ground monitoring network with collaborating U.S. and
+international science agencies.
+- Develop advanced logic for landcover classification using carbon cycle
+simulations from BIOME-BGC.
+- Develop improved algorithms for estimating LAI and FPAR for different biome
+types from AVHRR data.
+2
+- Test of a generalized ecosystem process model, BIOME-BGC, for the
+simulation of the carbon, water and nitrogen cycles for different biomes.
+- Implementation of the Global Ecological Simulation System (GESSys) to
+estimate continental net primary production (NPP)  for the globe.
+- Deliver formal software engineering of our MODIS products, #14 Leaf Area
+Index and Fraction Absorbed Photosynthetically Active Radiation, and Daily
+Photosynthesis - Annual Net Primary Production, #16 and 17.
+The NTSG lab currently employs:
+Dr. Steven Running, Director and Professor,
+Dr. Ramakrishna Nemani, Research Assoc. Professor
+Dr. Lloyd Queen, Associate Professor
+Dr. John Kimball, Postdoctoral Research Associate
+Dr. Kathy Hibbard, Postdoctoral Research Associate
+Dr. Soizik Laguette, Postdoctoral Research Associate
+Dr. Peter Thornton, Postdoctoral Research Associate
+Mr. Joseph Glassy, Software Engineer
+Mr. Petr Votava, Programmer
+Mr. Saxon Holbrook, Computer Systems engineer
+Ms. Galina Churkina, Ph.D. student
+Mr. Mike White, Ph.D. student
+Mr. Geoff Poole, Ph.D. student
+Ms. Alisa Keyser, Ph.D. student
+Mr. Carl Seilstad, Ph.D. student
+Mr. Jim Plummer, Ph.D. student
+Ms. Youngee Cho, Office Manager
+All of these members contribute to certain aspects of our MODIS work.
+ACTIVITIES OF Seven W. Running - Team Member,  January 1998
+WORK ACCOMPLISHED
+EOS-IWG
+As Chair of the EOS Land Science panel, Running completed Chapter 7, Land
+Ecosystems and Hydrology for the EOS Science Plan.  The Science Plan is now
+scheduled for publication in March 1998.  The text can be found at:
+http://eospso.gsfc.nasa.gov/sci_plan/chapters.html
+In a related activity, Running served on the External Biennial Review team for
+Mission to Planet Earth that met in June-July. The report from that effort was delivered to
+NASA Headquarters in August.
+3
+MODLER
+The MODLER project was funded by the EOS Validation competition to explore
+sampling and instrument methodologies for measuring 3 MODIS core products,
+landcover, LAI and NPP over multi-hundred kilometer areas. This MODLER project
+brings together 14 Long-Term Ecological Research (LTER) Network sites and NASA's
+MODIS Land (MODLAND) Science Team for the purpose of locally validating Earth
+Observation System-era global data sets.  Using several standardized methods that
+incorporate extensive ground data sets, ecosystem models, and remotely-sensed imagery,
+each LTER site is developing local maps of landcover class, leaf area index, and
+aboveground net primary productivity for a 100 km2 area at a grain size of 25 m.  A
+nested, hierarchical ground-based sampling scheme will help establish error bounds on
+the variable estimates.  A number of different strategies are being used to spatially
+aggregate the fine-grain site maps to a coarse grain (1 km) so that they can be compared
+to coincident portions of global maps of the same three biosphere variables developed by
+the MODLAND Science Team.  The web site is at:
+http://atlantic.evsc.virginia.edu/~jhp7e/modlers/
+Global Climate and Terrestrial Observing Systems (GCOS/GTOS)
+Running attended an IGOS (Integrated Global Observing System) meeting in June
+1997 to plan a strategy for synergism amongst the Global Climate and Terrestrial
+Observing Systems.  The meeting, in Guernica, Spain ended with an agreement to use the
+MODLER protocol (see above) to organize a global network of sites taking compatible
+measurements of landcover, LAI and NPP over multi-kilometer scales. This network,
+now called GTOS-NPP will provide MODLAND with a very full sampling globally of
+these variables for validation. The project plan is diagramed below:
+[GTOS-NPP flowchart]
+IGBP Biospheric Aspects of the Hydrologic Cycle (BAHC)
+Running is working with Drs. Dennis Baldocchi and Ricardo Valentini concerned
+with organizing a global network of CO2 and H20 flux towers for continuous validation
+of  MODLAND vegetation flux products. This network called FLUXNET, is based on
+the La Thuile, Italy workshop, and was published in Global Change Biology, in June
+1996. We propose that FLUXNET will host the EOS Simple Tower configuration
+suggested in the MODLAND validation plan. A proposal to organize the network and
+archive office at the Oak Ridge DAAC was submitted to the EOS Validation program.
+The proposed network will be a combination of Ameriflux for North America
+(http://www.esd.ornl.gov/programs/NIGEC/), EUROFLUX for Europe, OZFLUX for
+Australia/New Zealand, and other regions as they develop. Running will be hosting the
+international FLUXNET workshop in June 1998 in Montana.  Running sees FLUXNET
+GTOS - NPP
+4
+and GTOS-NPP as the backbone of global-scale  terrestrial vegetation validation for
+EOS.
+PIK NPP Workshop
+The IGBP-GAIM project is running a global NPP model inter-comparison. This
+activity is the most organized effort in the world to determine best NPP analysis for
+validating the MODLAND NPP product. The following two papers have been submitted
+for summarizing and analyzing PIK-NPP results:
+Churkina, G., SWRunning, A.Schloss and PIK-95 1997. Comparing global models of
+terrestrial NPP: The importance of water availability to primary productivity in
+global terrestrial models. Global Change Biology (in review)
+Churkina, G., and SWRunning. 1998. Contrasting climatic controls on the estimated
+productivity of different biomes. Ecosystems (In press)
+VEMAP - Vegetation ecosystem modeling and analysis project
+VEMAP is a project to intercompare leading biogeography and biogeochemistry
+models in the US for global change and EOS research programs.  VEMAP has a
+homepage at:
+http://www.cgd.ucar.edu:80/vemap/
+The BIOME-BGC model that is part of our MODIS algorithm development for
+the EOS NPP product is one  of the three biogeochemistry models being tested. Currently
+VEMAP is building transitory climate and CO2 datasets for the next generation of
+simulations. The next models will be prototypes of what now are called DGVMs
+Dynamic Global Vegetation Models incorporating interacting biogeography and
+biogeochemistry models. We are teaming with Ron Nielson and his MAPPS
+biogeography model. Test simulations will occur in Spring 1998.
+EOS – US Forest Service Fire Management project
+Running has worked with the US Forest Service Intermountain Fire Research Lab
+for the last year to design a plan to incorporate EOS data into a next generation Wildfire
+Management Plan. These ideas were presented at the EOS-IWG meeting in San Diego in
+February.  The current project outline is given below:
+[Fire flowchart]
+The Fire Lab is currently preparing a detailed implementation plan for this
+project.
+5
+GLOBE
+The University of Montana has been selected as a GLOBE regional Training
+Center.  We will host a GLOBE training workshop in May 1998.  Additionally, we have
+written protocol for a new GLOBE variable to be measured by all participating GLOBE
+schools worldwide.
+GLOBE PHENOLOGY PROPOSAL
+Michael White and Steven Running
+University of Montana
+BACKGROUND
+1. Phenology is the study of recurring biological cycles and their connection to climate.
+Many events we see every year in nature are at least partially controlled by climate.
+For example, annual bird migrations, insect outbreaks, and salmon spawning are
+phenological cycles.  While these events occur at around the same time each year,
+their precise timing tends to vary from year to year.  This is called interannual
+variability.  In this research, you will be working with the network of Globe schools
+to try and better understand the influence of climate on phenological interannual
+variability all over the world.
+2. In the examples mentioned above, because the subjects are mobile animals,
+monitoring is difficult and requires lots of time.  On the other hand, because plants
+don’t move around, they are easier to monitor.  That’s why for this project, we are
+interested in vegetation phenology.  Have you ever noticed that leaves on trees in
+your neighborhood begin to appear at different times during spring?  This happens
+because of year-to-year changes in weather.  There are two main reasons for this
+variability.  First, in temperate areas with cold winters, warm springs will usually
+cause leaves to appear sooner than they would in cold springs.  This means that the
+growing season will be longer in warm years and that plants will have a greater
+opportunity to conduct photosynthesis.  Second, in tropical areas where it is always
+warm, many plants begin growth when there is enough moisture.  In these areas, the
+timing of growth should be controlled by precipitation patterns, not temperature.  By
+monitoring phenology and climate, we can test these hypotheses.  For example, if
+over many years we see a trend toward warmer temperatures and earlier dates of
+spring growth, this will be a strong indication that growing seasons are lengthening in
+response to warmer climates.
+3. The Globe project is especially important for this research.  We need to understand
+how vegetation responds to interannual climatic variability.  Yet while some scientists
+have studied phenology for some areas or some species, there has never been a
+consistent, world-wide effort to monitor vegetation phenology in the field.  By
+participating in the project, you will not only see for yourself how vegetation
+6
+responds to climate, you will also be providing important information that we need to
+better understand how global climate influences our vegetation.
+4. In forests, bushes, and shrubs, the growing season can be defined by the appearance
+of leaves in the spring and the dropping of leaves in the fall.  Buds are small, hard,
+protective structures containing miniature leaves formed in the previous growing
+season.  In the spring, the buds open and new leaves begin to expand.  This is called
+budburst and is easy to detect.  In the fall, leaves develop yellow, red, or orange color
+and eventually fall off their branches.  Fall patterns, such as coloring and leaf drop,
+are more gradual processes than budburst.  Because there is no one specific event like
+budburst to identify, it is difficult to establish an accurate date for the end of the
+growing season.  In evergreen canopies, where there are always some leaves on the
+tree, detection of the end of the growing season is even harder.  Additionally, in
+temperate climates, fall cycles are strongly controlled by the amount of daylight.
+Since this will always be the same for a given day, fall cycles are usually more
+regular than the temperature controlled dates of budburst.  For these reasons, we will
+only monitor dates of budburst.
+5. Now you must decide if you live in an appropriate area for the Globe phenology
+project.  First of all, you must live in an area with trees.  Both deciduous and
+evergreen trees have buds, so either type may be used.  Areas with shrub and bush
+vegetation do have phenology, but the annual patterns are so variable that accurate
+monitoring would take too much time.  If you live in a tropical area with a normally
+warm and wet climate, your vegetation may not have strong annual vegetation cycles.
+If so, you should not participate.  But if you have a dry season and most of the
+vegetation loses its leaves at some time, you should definitely participate.  You most
+likely live in the part of the world for which we have the worst understanding of
+vegetation phenology.
+SITE SELECTION
+1. For your site selection, you have two options.  First, since you will already have a site
+set up and dominant species identified, phenology monitoring could be done in the
+same area as one of the Biology/Land Cover quantitative sites.  Since you will need to
+make frequent visits to the site, select the site closest to your school.  Second, and
+probably more convenient, you could use your school grounds.  Before you decide to
+do so, you must find out if the grounds are watered, fertilized, or otherwise different
+from the Biology/Land Cover site.  If so, do not use the grounds.  Since watering or
+fertilization will alter the plants’ phenological cycles, the data would not be
+representative of natural vegetation - climate connections.
+2. At the site, identify the dominant species.  This will be the species with the largest
+individuals and most extensive coverage.  Select two of the largest overstory trees for
+permanent phenology monitoring.  Plants from the layer of vegetation under the large
+trees, called the understory, will have a different phenological cycle than the
+overstory.  Since we’re trying to establish the connection between climate and the
+dominant vegetation types, we won’t study understory plants.  The trees should be
+7
+easily accessible and you should be able to see individual leaves. Try not to select
+trees where the lowest branches are several meters above the ground.  If you can’t
+find trees with low branches, don’t worry.  Just bring a pair of binoculars when you
+visit the site.  For each tree, select two south-facing branches for permanent
+monitoring (north-facing branches if you live in the souther hemisphere).  Since the
+dates of budburst can vary within a single tree’s canopy, you need to monitor the
+same branches each year.  Mark these branches with flagging tape or some other
+identification.
+3. When selecting your trees, choose native species.  Non-native species, called exotics,
+have phenological cycles that are not tied to the local climate.  Fruit trees are a classic
+example.  You may have heard on the local news that a late spring frost ruined a fruit
+crop in your area.  This is because exotics are not evolved to survive in the local
+climate.  If you are unsure which plants are natives, ask your teacher, a local
+greenhouse, or a university professor.
+BUDBURST DETECTION
+1. Since budburst is highly variable from year to year, you will need to start monitoring
+well before average date of budburst.  Ask your biology teacher if they have any
+record of this for your area.  If not, try contacting local horticultural societies or
+university biology professors.  The date does not need to be exact.  You are just trying
+to establish when, on average, leaves begin to appear.
+2. In the spring, approximately two weeks before the average date, the entire class
+should make a field trip to the site so that the students all know which trees and
+branches to monitor.  After that, you will begin to make daily trips to the phenology
+monitoring site.  Look at the buds at the end of the branch.  Again, as for the selection
+of trees and branches, you should look at buds at the same branch position each year.
+Have any of the buds burst open? Can you see signs of tiny green leaves inside the
+bud?  If you answer yes to both these questions, enter the date of budburst on the
+internet data entry form.  Since you are trying to detect the first signs of budburst,
+don’t worry if some of the buds haven’t opened yet.  Keep monitoring until you see
+budburst on all four of your branches.
+3. It is important that someone visits the site each day until budburst.
+For two to three weeks, this will mean a lot of visits to the site.  So that not everyone
+has to visit the site every day, try to make up a schedule so that students can take
+turns visiting the site with their parents or other adults.  If budburst occurs on a day
+before which no one had visited the site, make sure to include this information in the
+comments section of the data entry form.
+WEATHER MODELING
+1. Once you have detected budburst, you now need to establish the associated climatic
+conditions.  You will use the meteorology records from your school to calculate the
+amount of warming associated with budburst and the level of moisture availability.
+8
+2. Growing degree summation (GDS) is a common measure of warming.  For this
+method, you will need to get the weather records from your school’s air temperature
+station.  For each day, calculate the daily average temperature (Tavg) as maximum +
+minimum temperature divided by two.  Beginning on January first in the northern
+hemisphere and July first in the southern hemisphere, you will calculate GDS.
+3. On January or July first, check to see if the mean temperature is greater than 1 deg C.
+If it is, record this temperature.  If not, ignore it.  Go to the next day.  Again, check to
+see if the mean temperature is greater than 1 deg C.  If it is, add it to the previous
+summation total.  If not, again ignore it.
+4. For example, look at the following series of temperatures and the summation that
+would go with them:
+ Mean Temperature  -3  -2   2   3   -1   5   6
+ 
+GDS                           0   0   2   5    5   10  16
+5. For each branch, calculate GDS up to the day at which you record budburst.
+6. Moisture availability is often measured by comparing the input of water to the surface
+with the amount of water that could leave the surface.  In other words, inputs are
+compared with outputs.  If inputs exceed potential outputs, the environment is moist.
+On the other hand, if potential outputs are much larger than inputs, drought conditions
+exist.  The precipitation measured at your school is the input.  Outputs are
+evaporation and transpiration.  Transpiration is the process of water loss from plants
+while they absorb CO2 for photosynthesis.  The sum of evaporation and transpiration
+is called evapotranspiration, or ET.  ET can be accurately estimated using fairly
+complicated equations.  Here, you will use a very simple method to calculate the
+potential amount of water that could leave the surface under the observed
+meteorological conditions.  This is called potential evapotranspiration, or PET.
+7. To estimate PET, we will rely on the concept that for a given temperature, air can
+only hold a certain amount of water.  Warmer air can hold more water.  This means
+that under warm conditions, PET is higher than in cold conditions.  In reality, PET
+also depends on the amount of solar radiation, but we can still obtain useful data
+using only temperature.
+8. Once you have detected budburst, you will get PET from table 1.  For the day of
+budburst, find Tavg in Table 1.  Then look in the column to the right.  This is PET in
+mm per day.  Record this value.  Since plants respond to long-term moisture trends,
+record PET for the 29 days prior to budburst for a total of 30 values.  Add up all the
+PET values.  Next, add up all the precipitation values for the same 30 days.  Subtract
+the PET total from the precipitation total.  We will call this the water difference
+(WD).  If WD is positive, this shows that there was more precipitation than the area
+9
+could use.  This indicates wet conditions.  Negative WD values suggest dry
+conditions.  Make the same calculation for all four branches.
+9. Record the GDS and the WD values on the internet data entry form.
+GOALS
+From year to year, even though the dates of budburst will vary, the local meteorological
+conditions should be fairly constant.  By monitoring budburst, GDS, and WD over time,
+we will be able to establish three different goals.  First, using the network of Globe
+phenology data, we will map annual dates of budburst across the continents.  Second, we
+will establish the weather patterns that control phenology in your area and across the
+world.  Over time, you will be able to find out if your growing season responds to GDS
+or WD.  Using all the Globe data, we will be able to map areas of the world where the
+growing season is controlled by temperature and where it is controlled by moisture.
+Third, we will develop a better understanding of how global vegetation responds to
+interannual climate variability.
+Table 1
+Tavg  PET  Tavg  PET
+0     0.8  26    4.0
+1     0.9  27    4.3
+2     0.9  28    4.5
+3     1.0  29    4.7
+4     1.1  30    5.0
+5     1.1  31    5.3
+6     1.2  32    5.6
+7     1.3  33    5.9
+8     1.4  34    6.2
+9     1.5  35    6.5
+10    1.6  36    6.9
+11    1.7  37    7.2
+12    1.8  38    7.6
+13    1.9  39    8.0
+14    2.0  40    8.4
+15    2.1  41    8.9
+16    2.3  42    9.3
+17    2.4  43    9.8
+18    2.5  44    10.3
+19    2.7  45    10.8
+20    2.9  46    11.3
+21    3.0  47    11.9
+22    3.2  48    12.4
+23    3.4  49    13.0
+24    3.6  50    13.7
+25    3.8
+10
+DATA TO BE ENTERED BY STUDENTS IN ADDITION TO STANDARD
+LOCATION
+1) LOCATION OF PHENOLOGY STUDY SITE
+A) Biology/Land Cover Site
+B) School Grounds
+C) Other (DESCRIBE)
+2) SPECIES
+A) Latin Name
+B) Common Name
+C) Description
+3) PHENOLOGY DATA
+                 Tree One                    Tree Two
+   -------------------------          ----------------------------
+          Branch 1      Branch 2      Branch 1      Branch 2
+Budburst  month, day    month, day    month, day    month, day
+GDS       deg C         deg C         deg C         deg C
+WD        mm            mm            mm            mm
+4) COMMENTS.  The most important information is whether or not the site was visited
+regularly before budburst.  If not, the students should enter the number of missing
+days before the recorded budburst dates.
+NASA EOS and Related MEETINGS ATTENDED (SWR)
+EOS-SEC Meetings, September, November 1997
+MODIS Science Team Meeting October 1997
+EOS IWG Meeting November, 1997
+NRC Climate Research Committee October 1997
+EOS Land Validation workshop December 1997
+PUBLICATIONS
+Running, S.W. , RR Nemani and J. Glassy. 1998. GLOBAL NET PHOTOSYNTHESIS
+AND TERRESTRIAL  NET PRIMARY PRODUCTIVITY from the EARTH
+OBSERVING SYSTEM To appear in Methods in Ecosystem Science, edited by
+Sala, Jackson, Mooney and Howarth,  Springer-Verlag New York, Inc.
+11
+Waring, R.H. and S.W.Running 1998. Forest Ecosystems: Analysis at Multiple Scales.
+Academic Press. (in press).
+White, J.D., S.W.Running, PE Thornton, REKeane, KCRyan, DBFagre, and CHKey
+(1998) Assessing regional simulations of carbon and water budgets for climate
+change research at Glacier Nat Park. USA. Ecological Applications (in press).
+MODLAND ACTIVITIES of R. NEMANI
+WORK ACCOMPLISHED
+MODIS Algorithms
+Net Primary Production
+The Production Efficiency based model is simplified and streamlined to use
+currently available datasets from DAO. A number of decisions had to be made on the use
+of several variables produced by the DAO, the most important one being the use of
+variables produced at 10m instead of 2m height. This decision has significant influence
+on NPP estimates over low canopies such as grasses and crops. The DAO does not have
+much confidence on their estimates at 2m height. 
+12
+Leaf Area Index/fAPAR
+Following our earlier work (in IEEE Trans. Geoscience and Remote Sensing) on
+the back-up algorithm, we further refined the empirical relationships to account for
+variations in soil background, view angle, sun angle. Aproximately 400  relationships
+each have been developed for LAI and FPAR for the six biomes. The sun and view angle
+dependent relationships help in better estimation of LAI and FPAR. Our earlier NDVI
+based relations have been modified to use SIMPLE RATIO for estimating LAI. The SR
+based relations are found to be linear over much of the observed range  (0-6) of LAI for
+different biomes.  The following examples show variations in the relationships between
+NDVI and fAPAR and SR and LAI for grass biome for  various combinations of soil
+(Dark, Medium, Bright), and sun angles (15-60).
+Role of Mid-IR in vegetation studies
+Several studies over the past 15 years have shown the utility of MIR wavelength
+band for quantifying vegetation type and density. Negligible impact of the atmosphere on
+MIR, and high contrast between soil and vegetation allow MIR measurements to be
+extremely useful for land cover classification, and for deforestation studies. Since
+MODIS carries a MIR band, we would like to use this information to strengthen our
+LAI/FPAR algorithm.
+13
+Using 3-D radiative transfer model, we simulated the response of several canopies
+with varying backgrounds in terms of MIR response. Results were quite promising as
+relationships between NIR/MIR have significantly changed depending on the background
+type, as shown below.
+Climate change and Vegetation response
+Response of Austrian forests to changes in climate
+The purpose of this study is to explore if changes in climate could have caused the
+increased increment rates reported for European forests, specifically in Austria. Using 30
+years of climate records from 20 weather stations in Austria, we investigated the
+magnitudes of temperature changes and the change in length of the growing season
+between 1961-1990. Special attention was paid to the period between 1981-90 over
+which forestry observations were available. In order to understand the significance of
+changes in climate on forest growth, we used the ecosystem model, FOREST-BGC, to
+predict annual net primary production.  The results indicate: (1) no change in
+precipitation over the period; (2) an average temperature increase of 0.7 C between 1981-
+90 vs. 0.2 between 1961- 1980; (3) length of growing season increased by 21 days
+between 1981-1990; (4) net primary production increased by 11% between 1981-90 and
+only 0.6% between 1961-1980.  The trends in NPP are consistent with observed diameter
+increment rates determined from 614 increment cores of Norway Spruce distributed all
+over Austria.
+14
+Validation of MODIS products
+Jornada PROVE
+Field validation of MODIS satellite data is a crucial component of algorithm
+development and product quality testing.  Leaf area index (LAI), a central MODIS
+product, is a major input for ecosystem models and landcover monitoring.  In canopies
+with a high proportion of bare ground, such as shrublands, satellite estimates of LAI are
+often confounded by soil reflectances.  Thus, field measurements of shrub LAI are
+critical components of the MODIS LAI product.  The high proportion of woody material
+versus green matter renders most optical field LAI instruments, such as the LICOR LAI
+2000 or the Decagon Ceptometer, of limited utility.  Reflectance measurements more
+sensitive to green matter should be more useful.
+On May 23 and 24 1997, as part of the NASA PROVE campaign, we acquired red
+® and near infra-red (NIR) reflectances with a Dycam Digital Camera along three
+experimental transects at the Jornada Long Term Ecological Research site.  We found
+that traditional methods for LAI estimates, such as the normalized difference vegetation
+index (NDVI) vs. LAI correlation, are not possible with the Dycam Digital Camera.  The
+wide bandwidth of the instrument leads to frequent saturation even at fairly low
+vegetation levels.  We propose an alternative method based on fractional cover and
+destructive LAI sampling.  The methodology, currently under development, is as follows.
+First, using threshold reflectance values, fractional cover will be calculated by dividing
+pixels into vegetated or non-vegetated fractions.  Since this method is binary, not
+continuous, band saturation should be less of a problem.  Second, destructive LAI
+estimates for the dominant landcover species will be obtained from the PROVE dataset.
+The percent dominance for each species will then be used to calcualte the ecosystem-
+level destructive LAI (DLAI).  Multiplying fractional cover by DLAI will produce
+ecosystem LAI.  Finally, we will compare the digital LAI with the Ceptometer and LAI
+2000 measured LAI.  This method has the potential for accurately and quickly measuring
+shrub LAI in situations where optical and satellite measurements are less than optimal.
+We are separately defining a set of field sites measured by USForest Service
+scientists in the northern Rocky Mtns to provide comprehensive validation of our MODIS
+LAI product.
+15
+WORK IN PROGRESS
+Inter-annual variations in Ts/NDVI and changes in landcover
+This study follows our earlier work on the inter-annual variations in NDVI over
+the northern hemisphere.  Though both measures were collected simultaneously, they
+carry complementary information about the surface processes.  An increase in Ts should
+help in better growth conditions for plants in the high latitudes, as temperature is the main
+limiting factor for growth.  Therefore, a study involving both Ts and NDVI would help in
+better understanding of the processes that lead to higher plant growth.  Our earlier work
+on land cover changes concentrated solely on defining change based on density of
+vegetation. Having completed our 8km satellite based land cover classification,
+wewanted to study changes in fluxes in terms of their timing and magnitude. The 14 year
+pathfinder dataset would be used to study changes in absorbed radiation and surface
+temperature between potential and actual vegetation.
+16
+17
+PUBLICATIONS
+Kimball, J., S.W. Running, and R. Nemani.  (1997).  An improved method for estimating
+surface humidity from daily minimum temperature.  Agricultural and Forest
+Meteorology  85:87-98.
+Myneni, R.B., Nemani, R.R., and Running, S.W.  (1997).  Algorithm for the estimation of
+global land cover, LAI, and FPAR based on radiative transfer models.  IEEE Trans.
+Geoscience and Remote Sensing.  35:1380-1393.
+White, J.D., S.W. Running, R.Nemani, R.E. Keane, and K.C. Ryan.  (1998).  Measurement
+and mapping of LAI in Rocky Mountain Montana Ecosystems.  Canadian Journal
+of Forest Research (in press).
+Hasenauer, H., R. Nemani, K. Schadauer and S. Running. 1998. Forest growth response
+to change climate between 196-1990 in Austria. Forest Ecology and Management
+(submitted).
+ACTIVITIES OF J. M.Glassy, MODIS Software Engineer:  January, 1998
+OBJECTIVES
+My objectives during the time period from July 1997 to January 1998 were to:
+1) Re-engineer the daily input scheme for the FPAR, LAI MOD15 V2 codes to use the
+new 1KM aggregated surface 7 band reflectance data product.
+2) Re-engineer the MOD15 and MOD17 code implementation for compliance with the
+new SDPTKv.5.2.1 and HDFEOS v.2.1 API software interfaces, particularly the
+latest ECS metadata changes, as well as minor HDFEOS patches.
+3) Revise our MOD15 and MOD17 product specification documents to reflect the latest
+(minor) changes, and resubmit for baseline.
+4) Participate in the evolving implementation of the new Boston University FPAR, LAI
+(MODIS/MISR) integrated algorithm.
+5) In anticipation of AM-1 launch on July 9, continue building up the University of
+Montana Science Compute Facility (SCF) at the School of Forestry NTSG laboratory
+MODIS Compute Ring Facility (MCR).
+6) Plan approach for the at-launch L3/L4 Land Product  validation, and QA, particularly
+evaluating approaches and software tools for QA.
+WORK ACCOMPLISHED
+MOD15: FPAR/LAI Product
+Preparation of the V2 codes for MOD15 should be a straightforward evolutionary
+18
+step, since the algorithm science has not substantively changed from V1 and V2.
+Delivery of the final V2 codes for MOD15 is still pending, but we predict these will be
+delivered in late January.  Numerous "minor" complications in transitioning the software
+have presented themselves, due to the following requirements:
+1) To advance our teamwide efficiency in data product stream, we have switched our
+main surface reflectance input product from the original L2G variant produced by the
+pre-processor "laifp3" to the new consolidated, 7 band 1KM aggregated surface
+reflectance product, MOD_PRAGG.hdf.  This new data input form includes all
+geolocation fields, instrument geometry, as well as band level spatially aggregated
+surface reflectances and band QA.  There are numerous benefits to adopting this new
+input, but final samples of it did not arrive to our lab until mid-December.
+2) The new input file (as well as the latest samples of DAO global surface climatology)
+is in the HDFEOS v.2.1 format, itself an evolving data model based on the NCSA
+HDF v.4.1r1 data model and library, another evolving format.  The service functions
+comprising the GRID interface, while similar to the older SD interface of the HDF
+data model have just enough differences to warrant significant re-work of our
+algorithm code task setup and I/O portions.
+3) Lastly, the ECS metadata handling task within all our L3/L4 algorithms continues to
+require minor software changes.  There is now a growing collection of partially
+overlapping software elements dedicated to servicing the ECS metadata, and properly
+reconciling these software components and handling strategies, as well as dealing
+with last minute "undocumented behavior" has consumed extra time.
+4) The evolution of the SCF facility itself has required continued attention, in this period
+particularly surrounding our recent move to a new room in the UM Science Complex,
+where new network, cooling, and all other infrastructure had to be retrofitted from
+scratch.  The section below on the SCF details these issues.
+Other development activities conducted during this period included finalizing a
+number of structural (format) details of the new 1KM aggregated surface reflectance
+MOD_PRAGG intermediate product, and monitoring development of the new Boston
+University implementation of the MODIS/MISR form of integrated MOD15 FPAR,LAI
+algorithm.  Note that the present V2 codes are not being delayed for availability of an
+operational MODIS/MISR form of the algorithm.  When complete and tested, this new
+method potentially represents a significant advance over the current scheme.
+MOD17: PSN/NPP Product
+The MOD17 algorithm efforts during this period have been dominated by the
+preparation of a static global surface climatology, as well as for software to handle the
+DAO daily climatology product.  The DAO product has continued to undergo minor
+format changes, and now has been promised only after a 72-hour real-time lag during
+production periods.  The static daily global climatology we will deliver at launch is a
+19
+coarse resolution data gridded from daily data from 1987.  This one degree by one degree
+dataset consists of 14943 "land" pixels of 64800, for the following fields: daily near-
+surface minimum and maximum temperature, precipitation, relative humidity, incident
+shortware solar radiation, and surface pressure.  The static climatology will be our
+"fallback" data source in the event the DAO daily data is not available for a given day.
+The figure above is an example of a 1 deg. by 1 deg. Tmax field, from day 69.
+Evolution of the MODIS-University of Montana (MUM) API  software library
+The multi-platform MUM API library is now at version 1.07.6, with most changes
+dedicated to those required to add capabilities to work with the HDFEOS v.2.1 data
+model within our algorithms.  This version will be baselined as part of the V2 delivery
+when it is made.  Support for standard HDF 4.1r1 data objects is complete via the MAHI
+interface, with the MEH (MUM-HDFEOS interface) dedicated to the HDFEOS data
+model services., with incremental performance improvements have been made across the
+board.  The MUM API now consists of 34310 lines of code (LOC), including comments,
+across 283 functions in version 1.07.6.  This API library has been successfully ported to
+the following UNIX compute environments: IBM AIX 4.1, SGI IRIX v.6.4, DEC Unix
+v.3.2.  On the Intel architecture, a subset of the MUM API library has been ported to
+Linux v. 2.0.x, and Microsoft NT version 4.0.  The MUM API’s full NASA PGS
+compatibility mode is only supported for workstation environments the SDPTK v.5.2.1 is
+ported to.  The more general SCF mode is supported across all port platforms.
+A new full time assistant programmer, Petr Votava, will be hired in late January,
+which should augment the productivity of our local programming team considerably.
+Petr has just completed an MS in Computer Science at the U.Montana, and has broad
+experience in the area of C, JAVA, multi-threaded,
+and Web programming, as well as skills in visualization and data analysis.
+20
+MODIS Compute Ring (MCR) at the University of Montana SCF
+During this period, development of the MODIS Compute Ring focused on data
+storage.  We have ordered additional RAID and bulk disk storage during this period to
+bring us up from 210GB to 700GB of on-line disk, comprised of a 128GB MTI Model
+3200 (production RAID) volumes, (4) upgraded MTI Model 9200 RAID racks, and 2
+new racks of bulk storage.  In addition to the disk ordered and installed, we have also just
+taken delivery of a new MTI two rack, 2.2TB DLT tape robot, comprised of (30) DLT
+7000 series (highest density) cartridges, connected via an automated elevator robot.
+Software driving the DLT will be MTI's RLM package, as well as Legato.  To manage
+the ingest and other data storage activities, an IBM RS/6000 Model 43P/240 disk service
+has been added to our MODIS Compute Ring, sharing these duties with an IBM RS/6000
+Model 59-H.
+The Montana SCF MCR functional roles are illustrated in the following diagram,
+as mapped to major facility components:
+21
+Montana SCF
+MODIS Compute Ring Facility:
+Functional Roles for
+ Major Components
+IBM RS/6000 Model 240
+DEC Model 4100
+Catalyst 5000
+Disk Server/
+Data Ingest
+ Software
+Development and
+Test
+Software Integration,
+QA, and Visualization
+Primary
+Compute Server
+Ancillary
+Compute Server
+Infrastructure: archive,
+network services
+SGI Octane
+IBM RS/6000 Model J-30
+Ancillary Compute Server
+Warehouse
+Project
+Production
+RAID Disk
+IBM RS/6000 Model 240
+INGEST SERVER
+IBM RS/6000 Model 59-H
+DATA STAGING SERVER
+Rev.1.9.1998 jmg
+22
+Montana SCF Hardware Components
+The components of the SCF are organized into several service groups, illustrated
+by the following diagram:
+23
+University of Montana
+NASA SCF
+Hardware Service Groups
+MODIS
+Software Development
+Services
+MODIS
+QA and Validation
+Services
+MODIS
+Production and Test
+Services
+HOSTS:
+{agni, pusan, pilsen}
+HOSTS:
+{jiande}
+HOSTS:
+reggio
+sondol
+MODIS
+Data Staging and Subset
+Services
+HOSTS:
+mava
+MODIS
+Data Ingest
+and Archive
+Services
+HOST:
+juggernaut
+24
+The following diagram illustrates the MODIS Compute Ring's current
+configuration of CPU  to data-store mapping:
+Montana MCR SCF      At-Launch Configuration
+Disk to CPU Mapping
+ROLE
+WAREHOUSE:
+ Long Term/Bulk
+Archive
+CPU HOST
+Rack 2
+Rack 1
+Rack 3
+MTI 9200: 52G
+WAREHOUSE:
+Ingest/Outgest
+Staging
+WAREHOUSE:
+Project Data
+IBM RS/6000
+M. 43P/240
+2-way SMP
+INGEST
+Server
+(reggio)
+IBM RS/6000
+Model J-30
+8-way SMP
+QA/Staging
+Server
+(juggernaut)
+PRODUCTION
+DISK
+PRODUCTION
+COMPUTE SERVER
+DISK RESOURCE
+HIGH VOLUME
+TAPE ROBOT
+IBM RS/6000
+Model 59-H
+WAREHOUSE
+DATA
+STAGING
+(sondol)
+MTI 9300:
+RAID 127G
+Power
+Supplies
+rev 9 January 1998  (jmg)
+MTI 9200: 52G
+MTI 9200: 52G
+MTI 9200: 52G
+DEC SysDisk
+(2) 4GB
+MTI 3200:
+RAID 120G
+DEC
+Alpha 4100 SMP
+Production Server
+(mava)
+Power Supplies
+QUANT DLT:
+1.2TB
+MTI Bulk:
+(4)(23GB):92GB
+DLT
+1
+DLT
+2
+Power Supplies
+INCOMING
+"FAT PIPE"
+MTI Bulk:
+(4)(23GB):92GB
+IBM RS/6000
+M. 43P/240
+2-way SMP
+SW Devel
+(pilsen)
+IBM RS/6000
+M. 43P/240
+2-way SMP
+SW Devel
+(pusan)
+SGI Octane
+2-way SMP
+QA/Test
+Server
+(jiande)
+25
+MEETINGS ATTENDED
+• MODLAND/SDST Workshop, July, 1997
+• V2 algorithm workgroup session at with Brad Castalia, January 1998
+ON GOING ACTIVITIES
+Algorithm Development
+During the next period, after delivery of V2 codes, we will concentrate on these
+algorithm and QA issues:
+1) Testing robustness of V2 code science,using a sample of 8KM and 1KM AVHRR
+data sources.
+2) Completion of documetation revisions for the UM Algorithm Implementation Plans
+for the MOD15 and MOD17 products.
+3) Completion of design and initiation of implementation for a limited set of local QA
+tools for rapid subsetting of HDFEOS datasets, statistical analysis and visualization of
+targeted globally distributed spatial samples.
+4) Evolution of a local at-launch SCF Operations Plan, to include handling of specific
+planned (and unplanned) scenarios for various at-launch production, QA, and data
+transfer and storage activities.
+MODIS UM SCF Compute Ring Infrastructure
+In the next period, we are planning on acquiring more RAID on-line disk.  If our
+budget allows, we also plan on adding a fourth CPU to our alpha compute server, the
+DEC Model 4100.  On the data cataloging side, we still anticipate developing an
+integrated data and metadata ingest facility to interface to the GSFC LDOPE, using a
+variety of Web based technologies including JAVA, Java Beans, dbAWARE, and related
+software technologies.  Our new programmer, Petr Votava, will hopefully take the lead
+on this development.

@@ -1,0 +1,571 @@
+‘'‘‘Z Department of
+Veterans Affairs
+Journal of Rehabilitation Research
+and Development Vol . 31 No. 1, 1994
+Pages 42—49
+Automated fabrication of mobility aids : Review of the AFMA
+process and VA/Seattle ShapeMaker software design
+David A . Boone, CP; J. S. Harlan, BSME; Ernest M. Burgess, MD
+Prosthetics Research Study, Seattle, WA 98122
+Abstract—Computer-aided design and manufacture of
+prosthetic and orthotic devices has recently moved out of
+the laboratory into clinical use . The Department of
+Veterans Affairs Rehabilitation Research and Develop-
+ment Service has directed coordinated evaluation and
+development projects of this emerging technology under
+the name: Automated Fabrication of Mobility Aids or
+AFMA . One of the major results of the effort was the
+creation of mobility aid design software (ShapeMakerTM)
+concurrent with AFMA clinical testing of preexisting
+systems and development efforts . In order to provide a
+foundation for future discussions regarding AFMA, this
+paper provides a descriptive review of the AFMA
+processes and a review of the conceptual basis for the
+ShapeMaker AFMA software development.
+Key words : AFMA, computer-aided design, computer-
+aided manufacturing, computer aided socket design,
+orthotics, prosthetics.
+INTRODUCTION
+Computer software and computer controlled
+machinery have been developed expressly to facili-
+tate the design and fabrication of prostheses and
+orthoses . Computer-Aided Design and Computer-
+Aided Manufacturing (CAD/CAM) (1) are parts of
+this new clinical development known as the Auto-
+Address all correspondence and requests for reprints to : David A.
+Boone, CP; Prosthetics Research Study; 720 Broadway; Seattle, WA
+98122.
+This work was supported by the Department of Veterans Affairs
+Rehabilitation Research and Development Service, Washington, DC .
+mated Fabrication of Mobility Aids, or AFMA . ,
+The term AFMA was coined in January of 1987 by
+Ernest M. Burgess, MD at a joint VA/NASA
+research meeting convened at the Langley NASA
+research center . AFMA has been our preferred term
+for all related projects supported by the VA, since
+CAD/CAM is closely associated with an engineering
+context which does not reflect the breadth and
+uniqueness of this clinical application . AFMA tech-
+nology is intended to improve service to the disabled
+in need of a mobility aid by increasing production
+efficiency of the prosthetist/orthotist, thereby reduc-
+ing the time and financial burdens of fabricating
+custom prosthetic and orthotic devices . AFMA also
+provides prosthetists and orthotists with a new tool
+that has the benefit of numerical accuracy, consis-
+tency, and reproducibility that are essential to
+advancing the science of mobility aid design.
+The first comprehensive effort to develop a
+CAD/CAM prosthetic design system was begun by
+Mr. Jim Foort, Director of the Medical Engineering
+Resource Unit (MERU) of the University of British
+Columbia . Foort is considered the progenitor of the
+entire concept (2) . The MERU group, in collabora-
+tion with the Bioengineering Centre of University
+College London (UCL) in England demonstrated a
+complete working AFMA system at the World
+Congress of the International Society for Prosthetics
+and Orthotics in London in 1983 . At the 1986 ISPO
+World Congress in Copenhagen, the UCL group
+demonstrated a newly developed Computer Aided
+Socket Design (CASD) software and hardware sys-
+' Prosthetics Research Study Report listed in the Rehabilitation R&D
+Progress Reports-1987.
+42
+43
+BOONE et at .
+AFMA: Review of Process and Software Designs
+tern that would be later tested in the VA Rehabilita-
+tion Research and Development Service (Rehab
+R&D) National AFMA Research Project (3) . De-
+spite limitations, this generation of design software
+showed promise in VA sponsored clinical trials (4)
+(Figure 1).
+In 1985, the US Veterans Administration (VA),
+sponsored an international AFMA workshop which
+brought together the leading AFMA researchers
+from Canada, England, and the United States,
+along with interested investigators working with the
+VA Rehab R&D Service . Following the meeting, VA
+Rehab R&D accelerated support for a wide range of
+projects pertaining to AFMA. The centrally directed
+research culminated in a national cooperative effort
+among Prosthetics Research Study (PRS) in Seattle,
+the Prosthetics Research Laboratory of Northwest-
+ern University in Chicago, and Rehabilitation Engi-
+neering Research Program of the New York VA
+Medical Center, (NYVAMC) . One primary objective
+of the National AFMA Research Program was
+clinical use and evaluation of the UCL CASD, and,
+to a limited degree, the MERU CANFIT systems.
+This testing program resulted in the development of
+a stand-alone prosthetic cast digitizer and design
+software dubbed ShapeMaker (5).
+This is the brief lineage of VA AFMA software
+and hardware development and is not intended to be
+a complete historical review of the field . Rather, we
+present a discussion of the conceptual and practical
+considerations that are the foundation upon which
+AFMA and the VA/ShapeMaker software is based .
+METHODS
+It will be helpful to the reader to review the
+AFMA process using the example of prosthetics as a
+basis for later discussion of AFMA software design.
+The basic principles may be extended to the design
+and fabrication of a wide range of mobility aids
+such as custom seating and foot orthotics.
+In the design stage of the AFMA process there
+are three main tasks : input of the anatomical form,
+design of the prosthesis, and output of the finished
+design to a fabrication system (Figure 2).
+First, the residual limb geometry is entered into
+the computer so that an accurate graphical represen-
+tation of the limb is displayed on the computer
+screen. This process is called digitizing . Typically,
+digitizing begins by taking a plaster negative cast of
+the residual limb using standard plaster casting
+bandage (Figure 3) . The cast of the limb is then
+placed in a device (digitizer) that digitally measures a
+series of horizontal profiles on the inner surface of
+the cast as well as anatomical landmarks labeled by
+the prosthetist (Figure 4) . A computer in communi-
+cation with the digitizer translates the numerical
+measurements into a three-dimensional representa-
+tion of the limb. Other technologies for digitizing
+the limb shape directly are available, but to date the
+method of digitizing casts has been incorporated
+into AFMA because of lower cost and applicability
+to digitizing many levels of lower and upper extrem-
+ity residual limbs.
+After digitizing, the second step in the process
+is to sculpt the residual limb geometry seen on the
+Figure 1.
+Schematic screen representation of prosthetic socket design
+parameters in UCL CASD software .
+Figure 2.
+Diagram of the three primary steps in the AFMA process .
+44
+Journal of Rehabilitation Research and Development Vol . 31 No. 1 1994
+Figure 3.
+Plaster wrap cast being made of a below-knee residual limb.
+Figure 4.
+Plaster wrap cast in electromechanical digitizer designed by
+PRS.
+computer screen into an acceptable prosthetic
+socket. Modifications to the digitized limb shape are
+necessary to design a socket capable of comfortably
+supporting the amputee . Following traditional prac-
+tice, specific alterations to contours and volumes of
+the digitized limb are made to create a comfortable
+socket by supporting the body with compressing
+forces in areas of the residual limb which can
+tolerate this stress and relief over those areas which
+are stress intolerant (Figure 5). In both cases, the
+shape modification is in the form of a smooth
+deformation contour, either a depression or a relief.
+This should not suggest that we believe that the
+deformations based on traditional clinical practice
+create ideal tissue loading characteristics. Lacking
+knowledge concerning optimal tissue loading pat-
+terns, the software mimics current practice as a
+matter of expediency. Using AFMA systems to
+control for design variables may be an important
+tool for further research in optimizing stress distri-
+butions in mobility aid design.
+The third computer-based task is to translate
+the completed socket design shown on the computer
+screen into a "real object," in this case the
+prosthetic socket. This manufacturing process is
+accomplished through computer-controlled carving
+of a solid model of the socket design shown on the
+computer screen (Figure 6). Once this model is
+complete, a thermoplastic prosthetic socket is
+formed over the positive using a standard vacuum
+forming process (Figure 7) . After the plastic has
+cooled, the solid model is removed leaving the
+negative plastic impression for the socket . The
+formed plastic socket is attached to the rest of the
+modular endoskeletal structure of the prosthesis
+(Figure 8). The amputee dons the prosthesis and
+with the addition of a suspension aid is ready for
+ambulation.
+Figure 5.
+Modifications to contour to provide supporting or relieving
+forces within a prosthetic socket are coded as colors on the
+computer screen .
+45
+BOONE et at .
+AFMA: Review of Process and Software Designs
+Figure 6.
+A three-dimensional model being carved from a plaster and corn
+starch mixture that duplicates the form on the computer screen.
+Figure 7.
+Thermoplastic socket being formed over the carved model in an
+automated process oven.
+The clinician uses AFMA software such as
+ShapeMaker to accomplish all three of the tasks
+mentioned above : digitizing the residual limb shape,
+rapid design of a custom mobility aid based on
+clinical assessment and judgment, and, finally,
+computer-controlled fabrication .
+Figure 8.
+The modular DVA/Seattle Limb System with AFMA socket.
+DISCUSSION
+The VA National AFMA Research Program
+resulted in the validation of the AFMA methods and
+identification of areas needing further research and
+development (4,5). For example, Houston, et al . has
+shown that the method of using standard patterns of
+modifications superimposed on an individual digi-
+tized residual limb form coupled with prosthetist
+manipulation of the shape using only the computer
+was more effective in creating prosthetic sockets
+that, in the amputee subjects' estimation were,
+"better fitting" and "more comfortable" than
+manually manipulated socket designs (5) . These
+standardized modifications within the UCL-CASD
+system being tested were called rectification pat-
+terns. They contained regions in which the contour
+of a limb shape digitized in a cylindrical coordinate
+system were deformed inward or outward by mathe-
+matical addition or subtraction of radius values at
+coordinates and in amounts predetermined in the
+definition of the rectification pattern. These altered
+regions corresponded to areas where the prosthetist
+traditionally modifies the plaster positive model of
+the socket using manual sculpting tools and wet
+plaster. However, while the magnitude of modifica-
+tion over each region could be changed in the CASD
+46
+Journal of Rehabilitation Research and Development Vol . 31 No . 1 1994
+system, position, orientation, and contour of the
+region could not be changed by the user . Addition-
+ally, the definition of new rectification patterns was
+difficult with this system (6). Based on this and
+other observations of the National AFMA Research
+Program, a "wish-list" pertaining to software was
+created, thus providing the basis for the AFMA
+software development project initiated by Prosthet-
+ics Research Study in March of 1989 . 2 Some of the
+many software requirements outlined were: 1) the
+software should run on a standard computer plat-
+form without requiring additional hardware or
+software; 2) the application should be designed to be
+capable of creating most mobility aid forms; 3) the
+software should be as unobtrusive as possible in
+achieving clinical results ; 4) the prosthetist/orthotist
+should be able to modify the surface as a realistic
+three-dimensional projection rather than as a cross-
+sectional or schematic representation ; 5) the user
+should have non-modal access to surface manipula-
+tion tools with varying degrees of fineness ; and, 6)
+the software should have an easy method for
+automating replication of the technique of an
+individual user. Software intended to meet these
+objectives has been completed by PRS and is
+currently in clinical use under the name of
+ShapeMaker . Following is a discussion of the
+AFMA software design considerations which forged
+ShapeMaker into its present form.
+User Interface
+One of the most important goals in developing
+ShapeMaker was to limit the amount of new
+learning that was required of the clinician . It was
+our intent that aside from the mechanics of interact-
+ing with the computer using a mouse cursor control-
+ler, the prosthetist should not have to become a
+computer expert to utilize the computer for pros-
+thetics . This is what is commonly called "user-
+friendly ." Our basic premise with regard to user
+interface considerations was that the patient's
+prosthetist/orthotist already knew what to do clini-
+cally for him or her and that the software should aid
+rather than interfere with that process.
+The goal of developing easy to use software
+also governed the choice of a computing platform.
+Our investigation considered the options of using a
+high-end UNIX-based graphics workstation, a DOS-
+based PC, and the Macintosh II series. The
+Macintosh II was selected for its wide availability,
+consistent and "user-friendly" interface, and excel-
+lent graphics performance without additional hard-
+ware or software. The choice of the Macintosh 3 in
+turn had a profound effect on the design of the
+software by providing a consistent user-interface (7).
+Input and Output
+The first and third tasks of the AFMA process
+described above pertain to the input of the limb
+shape into the computer and output of the modified
+shape for fabrication . ShapeMaker has been pro-
+grammed to be "machine and resolution indepen-
+dent" and is able to communicate with most
+commercially available digitizing and carving devices
+through serial and parallel interfaces . In addition,
+ShapeMaker can also communicate with equipment
+located at a remote site via modem connection over
+telephone lines . To extend the utility of the soft-
+ware, newly developed digitizing and carving hard-
+ware is similarly interfaced directly to the
+ShapeMaker program through the addition of ma-
+chine specific modular software drivers . The task of
+mobility aid design accounts for most of the
+programming that comprise ShapeMaker, and the
+rest of this discussion is devoted to this task of the
+process.
+Generic Modification
+One goal in AFMA software design has been to
+create a software paradigm in which clinicians relate
+to the graphical representation of prosthetic and
+orthotic shapes in the same way they relate to the
+hand-sculpted solid plaster models where material is
+either removed or built up, using tools to modify the
+original limb shape . This is one way in which to ease
+the transfer of clinical skills from the traditional
+fabrication system to a computer-based one.
+ShapeMaker acts as a generic tool chest allow-
+ing the user to sculpt general three-dimensional
+anatomical forms. Since it is not simply an above-
+knee prosthetics program or an orthopedic shoe
+program, ShapeMaker helps to fulfill the concept
+that AFMA technology is applicable to nearly all
+mobility aids . As such, our laboratory has used the
+program for most levels of prosthetic sockets as well
+3 A version of ShapeMaker has also been developed using the
+2 Report listed in the Rehabilitation R&D Progress Reports-1989.
+Macintosh-like Windows TM graphical user interface .
+47
+BOONE et at,
+AFMA: Review of Process and Software Designs
+as the design of prosthetic cosmesis, knee braces,
+body jackets, wheelchair seating, shoe insoles, shoe
+lasts, and maxillofacial modeling. ShapeMaker is
+appropriate for all of these different applications
+because each process requires the basic task of
+three-dimensional shape deformation for which the
+software was designed . Also, because the same
+software can be used for all of these different
+applications, the user interface is the same for each.
+Levels of Control
+Automated creation of mobility aids for
+broadly defined patient populations was necessary
+to achieve the goals of efficiency and consistency
+afforded through automation . However, in practice
+there is variation between individual patient anat-
+omy that we feel is most efficiently accommodated
+through the exercise of clinical judgment and skill to
+individualize a patient's custom mobility aid design.
+And so, a dilemma of control versus efficiency arose
+in the design of ShapeMaker . The program is
+designed to allow the user to very quickly apply
+broad modifications to the mobility aid design;
+however, the user also needs to have tools available
+for very fine, detailed manipulation of the shape.
+With global controls, clinicians might feel too
+restricted at times, while in other cases they might
+find detailed controls too time-consuming or cum-
+bersome for general use . This defines a trade-off
+between flexibility and structure . In order to satisfy
+such divergent design requirements, ShapeMaker
+was developed around the concept of making differ-
+ent "levels of control" available to the clinician at
+all times.
+ShapeMaker provides three distinct levels of
+control which could be labeled Automation, Modifi-
+cation, and Creation. Each successive level of
+control requires more interaction with the software
+tool, yet yields finer control over the finished
+product. A good analogy would be different grades
+of sandpaper . Rougher grades are used for shaping,
+while finer grades are used for finishing details.
+ShapeMaker utilizes a non-modal design which
+allows the user to use functions from any level of
+control at any time.
+The most general controls generally involve
+creating predefined modifications very quickly, what
+we term automation. The user does not need to
+think about fine details, but rather about the "big
+picture." Automation completes a large part of the
+work toward a finished result with only a very small
+effort on the part of the user, such as complete
+socket modification at the selection of a single
+computer command. For example, the rectification
+patterns in the UCL CASD software and the
+analogous Template commands in ShapeMaker pro-
+vide this broad level of control . The result of a
+command at the Automation level of control may
+encompass many different actions that could also be
+accomplished individually using finer levels of con-
+trol, but that at this level are completed automati-
+cally. The complex quantitative modification can be
+described qualitatively in just a few words, "Create
+a PTB socket for this particular Trans-Tibial limb
+shape" (Figure 9) . Because of individual variation
+among patients, we anticipate that only a small
+percentage of mobility aids will be finished using
+only the Automation level of control. The software
+may also be programmed to take individual patient
+characteristics into account at this level to achieve a
+degree of automated customization . For example,
+ShapeMaker automatically interprets the angular
+orientation of the long bones relative to the surface
+topology in order to orient modifications more
+accurately.
+At a finer level of control, the user can take
+more direct control of the finished product by
+modifying the results created using the Automation
+tools. For instance, after applying a socket design
+template for a below-knee prosthesis, the user might
+Figure 9.
+The Automation level of control is used to produce all the
+changes between the two shapes shown using the single software
+command: Apply Template .
+48
+Journal of Rehabilitation Research and Development Vol . 31 No. 1 1994
+wish to increase the depth of the patellar tendon
+modification or to change the volume, smoothness,
+or length of the prosthetic socket . Again, the
+modification can be readily and accurately described
+in a few words, as in : "Give 2 mm more relief over
+the head of the fibula" (Figure 10) . Surface alter-
+ations of this type are generally quantitative or
+spatial orientation adjustments to modifications
+made using Automation tools . This level of control
+will achieve further gains toward the desired end
+product with only a small increase in the effort
+required by the user . As demonstrated in an evalua-
+tion of the UCL CASD system, many prosthetic
+socket modifications can be finished using the
+second level of control (4).
+A third level of control gives the user more
+complete creative control over the finished product.
+New modifications of the surface may be freely
+created using dozens of specialized commands in
+ShapeMaker. The user may manipulate the shape
+with detailed control limited only by the resolution
+of the surface data, which in itself may be manipu-
+lated in software by resampling the surface at a
+different coordinate resolution. The most important
+and powerful command at this level of control is
+creation of templates that would easily and com-
+pletely replicate a clinician's own modification tech-
+nique in a way similar to the UCL CASD rectifica-
+tion patterns . One of the principle shortcomings of
+previous software developments was that each pro-
+gram included only a small number of automated
+socket design techniques from which to choose.
+Figure 10.
+A ShapeMaker modification region highlighted on the three-di-
+mensional socket model .
+Every time the prosthetist designed a socket on the
+computer, the program would modify the socket
+according to one of the limited techniques . Unfortu-
+nately, this scheme forced the prosthetist to adapt to
+a foreign technique that might be subtly or even
+radically different from his own design style . To
+solve this problem, software that would learn from
+the clinician's own technique was required . Because
+different clinical situations require different tech-
+niques, the prosthetist or orthotist is able to create a
+library of personally created techniques, or Tem-
+plates, appropriate for each particular situation.
+These templates then provide the basis for the
+Automation level of control.
+Early experiences with software for mobility aid
+design often encountered vocal opposition from
+practitioners who exclaimed, "No computer is ever
+going to make a socket as good as one made by a
+skilled hand!" Given the conceptualization of the
+software tool as an extension of clinical decision-
+making, this sentiment was misplaced because the
+computer is not creating the socket. One may use
+the analogy of the software as a tool and the
+computer as a workbench that the clinician uses to
+create a mobility aid. With all of its levels of
+control, ShapeMaker allows the clinician to auto-
+matically apply his/her own techniques to the design
+of the mobility aid and then gives the clinician the
+responsibility and capability of fine-tuning the
+socket shape to suit the individual patient. And
+finally, using the creative level of control, the users,
+can take as much time as they are willing to spend to
+create an optimal design and then store the design as
+a template for future use. The time required at this
+level is generally longer than use of simpler levels of
+control, and creation of surface modifications gen-
+erally requires more time than using tools at more
+generally levels. But as in the Modification level of
+control, the emphasis is still the translation of a
+clinical skill to the computer tool, and not the
+learning of an entirely new skill.
+CONCLUSIONS
+From the outset, AFMA software development
+has occurred in order to provide clinicians and
+researchers with control over the variables inherent
+in mobility aid design . Design software necessarily
+interacts with a user, and as it is used and the user
+49
+BOONE et al .
+AFMA: Review of Process and Software Designs
+gains competency and insight in use of the software
+tools, the relationship of user to how software is
+used changes. We conclude that the CASD and
+CANFIT software which prompted development of
+the VA/ShapeMaker software were too limiting to
+the experienced clinician and did not adequately
+account for the creative aspects of individualizing
+mobility aid design . Because of this, AFMA soft-
+ware should be constructed within a paradigm of the
+multiple levels of control which accounts for auto-
+mation as well as fine artistic manipulation.
+Computer-aided design and fabrication, as it is
+described in this paper, is probably only a beginning
+for the use of computers in prosthetics and
+orthotics. This goal has been achieved to some
+degree, but software development rarely has a
+distinct end-point. Current and future developments
+promise to assist clinicians with tasks other than
+design, such as static and dynamic alignment,
+integrated digital video, and tissue stress analysis.
+Clinician access to user-friendly computer-based
+tools will give more information and control to the
+rehabilitation team and will benefit the many people
+who require mobility aids.
+ACKNOWLEDGMENTS
+The authors wish to thank all of the members of the
+VA National AFMA Research Group in Seattle, Chicago,
+and New York for their input and encouragement during
+the development of DVA/Seattle ShapeMaker . We are
+also indebted to the amputee research subjects and the
+prosthetists across the nation who through their participa-
+tion ensured that software development was always based
+in the reality of clinical necessity.
+REFERENCES
+Klasson B. Computer aided design, computer aided
+manufacture and other computer aids in prosthetics and
+orthotics. Prosthet Orthot Int 1985:9:3-11.
+2.
+Foort J. The Knud Jansen Lecture: Innovation in pros-
+thetics and orthotics. Pros Orthot Int 1986:10:61-71.
+3.
+Dewar M, Jarman P, Reynolds D, Jones K . Clinical trial
+of the UCL computer aided socket design system.
+Bioengineering Centre Report 1986, University College
+London, 1986 :13-16.
+4.
+Boone D, Burgess E . Automated fabrication of mobility
+aids: clinical demonstration of the UCL computer aided
+socket design system . J Prosthet Orthot 1989 :1(3):187-90.
+5.
+Houston, V, Burgess, E, Childress D et al . National
+program for the automated fabrication of mobility aids
+(AFMA) : below-knee CASD/CAD testing and evaluation
+program results . J Rehabil Res Dev 1992:29(4) :78-124.
+6.
+Dewar M, Reynolds D . Development of The UCL
+computer aided socket design system . Bioengineering
+Centre Report 1986, University College London, 1986 :11-
+12.
+7.
+Human interface guidelines: the Apple desktop inter-
+face. Reading, MA: Addison Wesley Publishing Co . Inc.,
+1986 .

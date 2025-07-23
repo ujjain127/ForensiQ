@@ -1,0 +1,2748 @@
+ 
+CONTENTS 
+Purpose of and Need for Action 
+Purpose of the General Management Plan   1 
+Need for the General Management Plan   3 
+Park History and Use Relative to Management Planning   4 
+Geographic Area Covered by the General Management Plan   9 
+Planning Direction or Guidance   10 
+Park Mission   10 
+Mission Goals   14 
+Special Mandates and Administrative Commitments   15 
+Servicewide Mandates and Policies   15 
+Planning Opportunities and Issues   28 
+Decision Points   28 
+Alternatives or Actions Eliminated from Further Study   31 
+Impact Topics - Resources and Values at Stake in the Planning Process   36 
+Impact Topics Dismissed from Further Consideration   40 
+Connected, Cumulative, and Similar Actions   41 
+Alternatives 
+Potential Management Prescriptions   45 
+Forest Zone   46 
+Cultural Resource Zone   50 
+Valley Floor Automobile Access Zone   51 
+Valley Floor Controlled Automobile Access Zone   52 
+Valley Floor Nonmotorized Recreation Zone   52 
+Valley Floor Mid-Weekday Recreation Zone   53 
+Rock Creek and Potomac Parkway Zone   53 
+Park Road Zone   54 
+Visitor Facility Zone   55 
+Urban Recreation Zone   56 
+Administration/Operations Zone   57 
+Urban Transit Zone (Non-NPS Roads)   57 
+Formulation of Alternatives   59 
+Public Input and the Development of Alternatives   59 
+Mitigation   61 
+The Preferred Alternative   61 
+The Environmentally Preferred Alternative   64 
+Alternative A: Improved Management Of Established Park Uses   66 
+Concept   66 
+Management Prescriptions   69 
+Costs   76 
+Alternative B: Continue Current Management/No Action   80 
+Concept   80 
+Management Prescriptions   80 
+ 
+ix 
+CONTENTS (Continued) 
+ 
+Costs   85 
+Alternative C: Nonmotorized Recreation Emphasis   86 
+Concept   86 
+Management Prescriptions   89 
+Costs   94 
+Alternative D: Mid-Weekday Recreation Enhancement   95 
+Concept   95 
+Management Prescriptions   99 
+Costs   103 
+Summary of Alternatives   105 
+Affected Environment 
+Natural Resources   117 
+Air Quality   117 
+Rock Creek and Its Tributaries   119 
+Wetlands and Floodplains   124 
+Deciduous Forests   126 
+Protected and Rare Species   128 
+Other Native Wildlife   129 
+Cultural Resources   136 
+Archeological Resources   136 
+Historic Resources and Cultural Landscapes   137 
+Visitor and Community Values   141 
+Traditional Park Character and Visitor Experience   141 
+Regional and Local Transportation   144 
+Community Characteristics   154 
+Environmental Consequences 
+Environmental Impacts of Alternative A: Improved Management of Established Park Uses   161 
+Impacts on Air Quality   161 
+Impacts on Rock Creek and Its Tributaries   167 
+Impacts on Wetlands and Floodplains   172 
+Impacts on Deciduous Forests   174 
+Impacts on Protected and Rare Species   178 
+Impacts on Other Native Wildlife   180 
+Impacts on Archeological Resources   184 
+Impacts on Historic Structures and Cultural Landscapes   186 
+Impacts on Traditional Park Character and Visitor Experience   188 
+Impacts on Regional and Local Transportation   196 
+Impacts on Community Character   211 
+Sustainability and Long-Term Management   214 
+x 
+ 
+ 
+CONTENTS (Continued) 
+Environmental Impacts of Alternative B: Continue Current Management/No Action   216 
+Impacts on Air Quality   216 
+Impacts on Rock Creek and Its Tributaries   217 
+Impacts on Wetlands and Floodplains   218 
+ 
+Impacts on Deciduous Forests   218 
+Impacts on Protected and Rare Species   219 
+Impacts on Other Native Wildlife   220 
+Impacts on Archeological Resources   221 
+Impacts on Historic Structures and Cultural Landscapes   222 
+Impacts on Traditional Park Character and Visitor Experience   222 
+Impacts on Regional and Local Transportation   224 
+Impacts on Community Character   227 
+Sustainability and Long-Term Management   228 
+Environmental Impacts of Alternative C: Nonmotorized Recreation EMphasis   229 
+Impacts on Rock Creek and Its Tributaries   230 
+Impacts on Wetlands and Floodplains   230 
+Impacts on Deciduous Forests   230 
+Impacts on Protected and Rare Species   230 
+Impacts on Other Native Wildlife   230 
+Impacts on Archeological Resources   231 
+Impacts on Historic Structures and Cultural Landscapes   231 
+Impacts on Traditional Park Character and Visitor Experience   231 
+Impacts on Regional and Local Transportation   238 
+Impacts on Community Character   251 
+Sustainability and Long-Term Management   255 
+Environmental Impacts of Alternative D: Mid-Weekday Recreation Enhancement   256 
+Impacts on Air Quality   256 
+Impacts on Rock Creek and Its Tributaries   257 
+Impacts on Wetlands and Floodplains   257 
+Impacts on Deciduous Forests   257 
+Impacts on Protected and Rare Species   257 
+Impacts on Other Native Wildlife   257 
+Impacts on Archeological Resources   258 
+Impacts on Historic Structures and Cultural Landscapes   258 
+Impacts on Traditional Park Character and Visitor Experience   258 
+Impacts on Regional and Local Transportation   262 
+Impacts on Community Character   266 
+Sustainability and Long-Term Management   266 
+ 
+xi 
+CONTENTS (Continued) 
+Consultation and Coordination 
+History of Public Involvement   269 
+List of Preparers   271 
+List of Recipients   272 
+Bibliography, Index, and Appendices 
+Bibliograph   291 
+Index of Key Words   298 
+Appendix A: Legislation   309 
+Appendix B: Laws and Executive Orders   313 
+National Park Service Enabling Legislation   313 
+Other Laws Affecting NPS Operations   313 
+Appendix C: Relationship of the general management plan to Other Planning Efforts   316 
+Other NPS Planning Efforts   316 
+Non-NPS Planning Efforts   318 
+Appendix D: Letter from the Mayor of Washington, D.C. Requesting Another Alternative   321 
+Appendix E: Federal and State-Listed special-concern Species   323 
+Appendix F: National Register of Historic Places Properties   335 
+Appendix G: Comparison of Impacts of alternatives on Traffic, Based on Modeling   336 
+Appendix H: Summary of Traffic Modeling Methodology   341 
+Introduction   341 
+MWCOG Regional Transportation Model   341 
+Modifications Made to MWCOG Model to Create the Rock Creek Park Model   342 
+Rock Creek Park Traffic Model   343 
+Traffic Model Validation   346 
+ 
+LIST OF TABLES 
+1:  Criteria Used to Establish Each Impact Topic   37 
+2:  Summary of Management Prescriptions   47 
+3:  Advantages of the Action Alternatives   63 
+4:  Management Prescription Zoning under Each Alternative   69 
+5:  Estimated Costs of Implementing the Alternatives    78 
+6:  Summary of Key Differences among the Alternatives   107 
+7:  Summary of Impacts of the Alternatives   110 
+8:  Rock Creek Water Quality, 1959 to 1990    124 
+9:  Recorded Roadkills in and adjacent to Rock Creek Park and the Rock Creek and Potomac 
+Parkway, 1991 through 2000   132 
+10:  Roadkills Recorded on Beach Drive in 2000   132 
+11:  Roadkills Recorded on the Rock Creek and Potomac Parkway in 2000   133 
+12:  Locations of Recorded Roadkills for Four Species, 1991 through 2000   134 
+13:  Average Annual Visitation at Rock Creek Park, 1991 to 1997   142 
+xii 
+ 
+ 
+CONTENTS (Continued) 
+ 
+14:  Summary of Traffic Accidents in Rock Creek Park and the Rock Creek and Potomac 
+Parkway, 1993 Through 1995   149 
+15:  Accident Rates for the Rock Creek and Potomac Parkway, Beach Drive, and Washington, 
+D.C.   152 
+16:  General Characteristics of the Populations of Washington, D.C. Wards 1 Through 4    156 
+17:  General Characteristics of the Populations of Maryland Communities near Rock Creek Park    
+157 
+18:  Air Quality Impact Evaluation Based on Estimated 3-Hour Average Carbon Monoxide (CO) 
+Concentrations   166 
+19:  Beach Drive and Rock Creek and Potomac Parkway Segments Experiencing Noticeable or 
+Greater Changes in Traffic Levels of Service between Alternative A and Alternative B   
+190 
+20:  Level-of-Service Characteristics of Urban and Suburban Arterials    198 
+21:  Average Daily Traffic under Alternative A Compared to Average Daily Traffic under 
+Alternative B in the Year 2020   206 
+22:  Other Road Segments Experiencing Noticeable or Greater Changes in Traffic Levels 
+between Alternative A and Alternative B   209 
+23:  Wards Experiencing Noticeable or Greater Changes in Community Characteristics 
+Associated with Traffic between Alternative A and Alternative B   213 
+24:  Beach Drive and Rock Creek and Potomac Parkway Segments Experiencing Noticeable or 
+Greater Changes in Traffic Levels of Service between Alternative C and Alternative B   
+233 
+25:  Average Daily Traffic under Alternative C Compared to Average Daily Traffic under 
+Alternative B in the Year 2020   238 
+26:  Other Road Segments Experiencing Noticeable or Greater Changes in Traffic Levels 
+between Alternative C and Alternative B   243 
+27:  Wards Experiencing Noticeable or Greater Changes in Community Characteristics 
+Associated with Traffic between Alternative C and Alternative B   252 
+28:  Maximum Hourly Volume of Traffic That Would Be Diverted by Alternative D Road 
+Closures by Road Segment in the Year 2020   263 
+29:  Traffic Impact Summary for Alternative D in the Year 2020   264 
+E.1:  Federally Listed Species in Rock Creek Park   329 
+E.2:  Rare Plants in Rock Creek Park   329 
+E.3:  State-Listed Species in Arlington County, Virginia   331 
+E.4:  State-Listed Animal Species in Maryland   332 
+F.1:  Resources That Contribute to the Significance of the Rock Creek Historic District   335 
+G.1:  Year 2020 Average Weekday Traffic Volumes   343 
+G.2:  Year 2020 A.M./P.M. Peak Hour Traffic Volumes   344 
+G.3:  Level of Service Analysis   344 
+H.1:  Traffic Validation Summary   348 
+ 
+ 
+xiii 
+CONTENTS (Continued) 
+ 
+LIST OF FIGURES 
+Region    5 
+Vicinity    7 
+Existing Conditions    11 
+Rock Creek Watershed    18 
+Alternative A    67 
+Alternative B    81 
+Alternative C    87 
+Alternative D    97 
+Sewerlines and Outfalls    121 
+Year 1990 Average Weekday Traffic Volumes    145 
+Neighborhoods    155 
+Alternative A Year 2020 Average Weekday Traffic Volumes    163 
+Alternative A Year 2020 A.M. Peak-Hour Volume Changes with Respect to Alternative B   199 
+Alternative A Year 2020 P.M. Peak-Hour Volume Changes with Respect to Alternative B   201 
+Alternative B Year 2020 Average Weekday Traffic Volumes    203 
+Alternative C Year 2020 Average Weekday Traffic Volumes   241 
+Alternative C Year 2020 A.M. Peak-Hour Volume Changes with Respect to Alternative B    245 
+Alternative C Year 2020 P.M. Peak-Hour Volume Changes with Respect to Alternative B    249 
+ 
+xiv 
+ 
+ 
+AFFECTED ENVIRONMENT 
+This section describes the physical resources of Rock Creek Park and the Rock Creek and Poto-
+mac Parkway, including both natural and cultural resources. It also describes visitor and com-
+munity conditions, such as visitor profile, visitation trends, automobile traffic and other transpor-
+tation within and near the park, and the characteristics of the communities around the park and 
+parkway. 
+NATURAL RESOURCES 
+AIR QUALITY 
+Air quality is included as an impact topic based on the criteria presented in the “Impact Topics - 
+Resources and Values at Stake in the Planning Process” section. The specific concerns related to 
+this impact topic are summarized as part of the “Environmental Consequences” discussion. 
+National Ambient Air Quality Standards (NAAQS) were established in the 1970 Clean Air Act 
+amendments. The standards are concentrations of contaminants in the air that will protect public 
+health and prevent degradation or harm to the environment. 
+The District of Columbia operates an ambient air monitoring network. The Air Resources 
+Management Division of the District of Columbia Department of Consumer and Regulatory Affairs 
+is the responsible agency for monitoring and enforcing the applicable standards. A complete table 
+of the NAAQS is available on the internet site of the District of Columbia Air Resources 
+Management Division at http://mail.environ.state.dc.us/dcairqua.htm. The web site also contains 
+monitoring data, and a printed ambient air monitoring data report can be obtained.  
+The Metropolitan Washington Council of Governments (MWCOG) is a partner in the program and 
+analyzes the air quality data. MWCOG provides an area air quality index and notifies the public of 
+the region’s air quality status. Up-to-date information on the index can be obtained by calling (202) 
+962-3299. In addition, MWCOG has information available about its environmental programs and 
+publications at http://www.mwcog.org/. 
+Most air pollutants in the District of Columbia region are from vehicle emissions. Air quality has 
+been improving in the region over the past 10 years for all measured contaminants because of 
+improvements in vehicle emission controls (Metropolitan Washington Air Quality Committee 
+1997). Despite improvements, the entire Washington, D.C. metropolitan area, including Rock 
+Creek Park and the adjacent counties in Virginia and Maryland, is classified as being in non-
+attainment with the ozone NAAQS by the U.S. Environmental Protection Agency (EPA).  
+ 
+117 
+AFFECTED ENVIRONMENT 
+The park and parkway are within a class II air quality area. The air quality is generally good with 
+the exception of ozone. Ozone cannot be measured as a tailpipe emission. Instead, it is a 
+secondary pollutant that is formed in the atmosphere by the combination of volatile organic 
+hydrocarbons and nitrogen oxides with sunlight as a catalyst. Ozone exceedences generally occur 
+in the summer and are region-wide, rather than localized. The occurrence of high levels of ozone 
+is almost always associated with hot stagnant air masses over the region in combination with 
+strong sunlight. High concentrations of ozone can result from the long-range transport of high 
+ozone concentrations that are generated in other regions and drift into the area. 
+The regional airshed and the study area are in compliance for all other NAAQS pollutants. 
+However, the region only recently became an attainment area for carbon monoxide and now 
+implements a maintenance plan to prevent violations of the carbon monoxide standard. Carbon 
+monoxide is a tailpipe emission, and local monitoring can indicate problem areas. 
+The National Park Service conducted a short-term air pollution monitoring study in the park and 
+along the parkway from December 7 to 20, 1996 (Robert Peccia and Associates et al. 1997). The 
+goal was to assess carbon monoxide concentrations at three locations during peak morning and 
+afternoon rush-hours. Winter sampling was performed, because winter is the worst season for 
+high carbon monoxide emissions. This occurs because vehicles emit more carbon monoxide 
+during cold weather, especially during the cold-startup period, and temperature inversions can 
+trap carbon monoxide emissions close to the ground.  
+Monitoring sites were located at the intersection of 16th Street and Colorado Avenue, near Mili-
+tary Road; at the intersection of the Rock Creek and Potomac Parkway and Calvert Street; and at 
+the golf course, away from roads. The golf course location was chosen in an effort to establish 
+background (unaffected by local traffic) levels.  
+Considerable variations were seen in the data as a result of wind direction, precipitation, and 
+atmospheric mixing. On three occasions, wind direction caused the “background” golf course 
+concentrations to be higher than the other sites.  
+The study did not indicate that there were any “valley effects” that would tend to concentrate 
+pollutants within the narrow valley bottom. In general, the measured levels showed agreement with 
+measurements taken during the same period at other local air monitoring stations around the 
+Washington, D.C. metropolitan area. The data generally confirmed that carbon monoxide is an 
+area-wide air pollutant that is largely derived from vehicle emissions. The sampling results 
+suggested that some of the carbon monoxide detected in the park drifts in from the city. 
+As shown below, the highest concentration of carbon monoxide was 3.38 parts per million, 
+measured over a 3-hour period at the intersection of 16th Street and Colorado Avenue. This and 
+all other measured concentrations from the park and parkway were well below both the 1-hour 
+and 8-hour NAAQS for carbon monoxide. Based on these limited sampling results, the carbon 
+monoxide levels in the park and along the parkway meet the NAAQSs for carbon monoxide. 
+1-hour NAAQS for carbon monoxide 
+35 parts per million 
+8-hour NAAQS for carbon monoxide 
+9 parts per million 
+Maximum carbon monoxide level measured during the 
+December 1996 monitoring 
+3.38 parts per million 
+118 
+ 
+Natural Resources 
+ROCK CREEK AND ITS TRIBUTARIES  
+Rock Creek and its tributaries are included as an impact topic based on the criteria presented in the 
+“Impact Topics – Resources and Values at Stake in the Planning Process” section. The specific 
+concerns related to this impact topic are summarized as part of the “Environmental Consequences” 
+discussion. 
+The Rock Creek Watershed map was included previously in the “Servicewide Mandates and 
+Policies” section. Rock Creek flows generally south for 33 miles from its headwaters near 
+Laytonsville, Maryland, to its confluence with the Potomac River at Georgetown. Land uses 
+within the 77-square-mile Rock Creek watershed include urban, suburban residential, 
+agricultural, and parkland.  
+An estimated 500,000 people reside in the watershed. Approximately 70 percent of the watershed, 
+mostly upstream from Rock Creek Park, is developed. Much of the developed area consists of 
+impervious surfaces, such as buildings, roads, and driveways. Problems within the park that have 
+been produced by upstream development include increased flooding from rapid runoff, abnormal 
+stream bed scouring in some places and sedimentation in others, bank erosion, organic and 
+chemical pollution, and accumulation of litter and other solid waste.  
+Rock Creek is the primary water feature in the park, and within the area it has two major 
+tributaries. 
+Broad Branch enters from the northwest, just opposite the intersection of Blagden Ave-
+nue and Beach Drive.  
+Piney Branch enters Rock Creek from the northeast at Piney Branch Parkway, approxi-
+mately a half mile south of Broad Branch.  
+Sixteen smaller tributaries enter the creek in Rock Creek Park, primarily from the west. Most 
+Rock Creek tributaries to the east were canalized, covered, and converted into storm drains during 
+the early development of Washington, D.C. (Banta 1993). There also are numerous minor 
+tributaries and many groundwater springs that drain to Rock Creek within the park. 
+A recent study entitled Best Management Practices for Water Quality, Rock Creek Park (URS 
+Greiner Woodward Clyde 1999) identified several facilities as actual or potential sources of water 
+pollution in Rock Creek Park. These include the maintenance yard, public stables, H-3 park 
+police stables, Edgewater park police stables, golf course, roads, and parking lots. For each of 
+these areas, the report provided best management practices (BMPs) to remediate or prevent 
+pollution. The National Park Service has begun implementing the recommended BMPs and will 
+continue to do so, regardless of the alternative selected from this draft general management plan.  
+As shown in the Sewerlines and Outfalls map, numerous municipal storm sewers converge in the 
+Rock Creek valley and discharge surface water from city streets directly into park waters. The 
+pollutants that surface waters transport from roadways and parking lots are a major source of 
+contamination of Rock Creek and its tributaries during and after precipitation events. 
+The Sewerlines and Outfalls map also shows that numerous municipal sanitary sewers are located 
+within the park, including pipelines that run under road beds and under the creek channel. Sani-
+tary sewers carry raw sewage, and can pollute park waters when leaks develop. In upper Rock 
+ 
+119 
+AFFECTED ENVIRONMENT 
+Creek, high bacterial concentrations are suspected to originate from sanitary sewer leaks, and 
+from failed septic systems in the Maryland portion of the watershed.  
+A serious source of pollution exists in the southeastern portion of the park where there is an 
+antiquated system of combined sanitary and storm sewers (see the Sewerlines and Outfalls map). 
+Under normal conditions, the flow in these combined sewers is routed to the Blue Plains 
+municipal wastewater treatment plant. However, during storms when rainfall exceeds 0.3 inches 
+per hour, these sewers overflow and discharge raw, untreated sewage directly into Piney Branch 
+and Rock Creek. There are 29 combined sanitary/storm sewer overflow structures on Rock Creek. 
+Together, they can contribute as much as 42.5 million gallons of combined storm water and 
+sewage to the creek during a 1-hour storm (URS Greiner Woodward Clyde 1999).  
+The Washington, D.C. Water and Sewer Authority (WASA) estimates that 60 to 70 overflow 
+events occur each year (Engineering News-Record 2001). In July 2001, the WASA proposed a 
+$1 billion plan that would reduce overflow discharges throughout its service area by more than 90 
+percent. It would involve constructing three 20-foot-diameter, concrete-lined tunnels that together 
+could hold approximately 115 million gallons of mixed storm runoff and sewage. Runoff from all 
+but the largest 5 to 10 storms annually would be stored temporarily in the tunnels and then routed 
+to the Blue Plains Wastewater Treatment Plant. One of these tunnels, which would be a half-mile 
+long and have a capacity of 5 million gallons, would be constructed along Rock Creek. The 
+WASA is currently preparing a final plan for submittal to the U.S. Environmental Protection 
+Agency and identifying sources of funding (Engineering News-Record 2001). 
+For the purposes of water quality standards, the surface waters of the District of Columbia are 
+classified based both on their current uses and the future uses to which the waters could be 
+restored. Each designation category has applicable water quality standards that are the principal 
+water quality management objectives for the park. The district works to support the designations 
+and meet the applicable standards by granting permits and reviewing permit applications and 
+environmental impact statements. The standards and classification of the district’s waters are 
+published in the District of Columbia Register, Chapter 11 of Title 21 DCMR.  
+The District of Columbia Water Resources Management Division has designated Rock Creek and 
+its tributaries for restoration to meet all five beneficial use classes. The classes and the status of 
+surface waters in the park in meeting the standards associated with the classes are as follows: 
+Class A is for primary contact recreation. These standards are not being met in Rock 
+Creek and its tributaries. 
+Class B is for secondary contact recreation and esthetic enjoyment. These standards are 
+not being met in Rock Creek and its tributaries. 
+Class C is for propagation of fish, shellfish, and wildlife. The water quality in some of the 
+tributaries partially supports the Class C designation, but the water quality of Rock Creek 
+does not currently support this designation. 
+120 
+ 
+Rock Creek Regional Park
+MNCPPC
+ROCK
+CREEK
+PARK
+Wise Road
+Sherrill
+Drive
+Drive
+Beach
+Military
+Road
+Glover
+Road
+Ross
+Drive
+Piney
+Branch
+Road
+Connecticut Ave.
+Massachusetts Ave.
+ROCK CREEK AND
+POTOMAC PARKWAY
+Drain Pipe Outfalls
+Water
+DC Storm Sewers
+DC Sanitary Sewers
+DC Combined Sanitary and Storm Sewers
+Park Roads
+City Roads
+Rock Creek Park
+SEWERLINES AND OUTFALLS
+ROCK CREEK PARK / ROCK CREEK AND POTOMAC PARKWAY ï WASHINGTON, DC
+United States Department of Interior ï National Park Service
+DCS ï April 2002 ï 821 / 20036
+AFFECTED ENVIRONMENT 
+ 
+122 
+ 
+Natural Resources 
+Class D is for protection of human health related to consumption of fish and shellfish. 
+The Class D standards are partially supported below the Peirce Mill dam. However, the 
+creek above the dam was not assessed for support of the Class D standards, because the 
+dam will continue to be a barrier to the migration of fish until a fish bypass is completed 
+in 2003 as part of the mitigation program for the Woodrow Wilson Bridge.  
+Class E is for navigation. The Class E designation is supported in Rock Creek. 
+Rock Creek and its tributaries have also been designated “Special Waters of the District of 
+Columbia” for their scenic and esthetic importance. It is intended that the water quality of such 
+designated waters be maintained and not allowed to degrade.  
+Some point and non-point sources of water pollutants in Rock Creek Park were identified 
+previously. The types of contaminants contributed to surface waters in Rock Creek Park include 
+the following. 
+Sediment is transported from unvegetated soils, such as construction sites and agricultural 
+fields.  
+Storm water runoff from transportation corridors and parking lots within the watershed 
+carries sediments, oil and grease, and metals, such as cadmium, iron, lead, and zinc.  
+Runoff from lawns and leaking sewerlines are sources of nutrients, including nitrogen 
+and phosphorus, and contributes to high coliform bacteria counts. 
+Pollution has adversely affected the ability of Rock Creek Park and its tributaries to support 
+aquatic life. Banta (1993) determined that 58 percent of the tributaries of Rock Creek were classi-
+fied as severely impaired for habitat quality and biological water quality using U.S. Environ-
+mental Protection Agency (EPA) biological assessment standards, and that the remaining 42 per-
+cent of the creek’s tributaries were moderately impaired. 
+The Baseline Water Quality Data/Inventory and Analysis – Rock Creek Park (NPS 1994) 
+reported that criteria for nitrite, pH, dissolved oxygen, copper, zinc, total and fecal coliform 
+bacteria, and turbidity were exceeded multiple times throughout the study area. A summary of 
+water quality sampling results for these parameters is provided in table 8. The criteria included 
+drinking water standards and EPA freshwater acute toxicity standards. The baseline water quality 
+report concluded that surface water quality in the park was typical of that encountered in streams 
+in metropolitan areas.  
+A 1996 water quality assessment report was prepared by the District of Columbia for the U.S. 
+Environmental Protection Agency and U.S. Congress pursuant to Section 305(B) of the Clean 
+Water Act (P.L. 97-117) (District of Columbia 1996a). This report documented violations of fecal 
+coliform bacteria and pH standards.  
+Water quality concerns in Rock Creek appear to have stabilized, both because upstream 
+urbanization has reached a maximum and because of the diligence of government agencies in 
+Maryland in controlling of pollutant discharges and storm water runoff. This particularly includes 
+requiring new development to implement best management practices to control storm water 
+runoff. In addition, there has been a decrease in upstream agriculture, and natural vegetation has 
+been allowed to revegetate abandoned farmlands. This land use change reduces sediment,  
+ 
+123 
+AFFECTED ENVIRONMENT 
+TABLE 8: ROCK CREEK WATER QUALITY, 1959 TO 1990 a/ 
+Water Quality  
+Parameter 
+Total  
+Number of Samples 
+Number Exceeding  
+EPA Standard a/ 
+Percent Exceeding  
+EPA Standard a/ 
+Total nitrite, as N 
+291 
+73 
+25 
+pH c/ 
+642 
+27 
+4 
+Dissolved oxygen 
+342 
+28 
+8 
+Copper 
+57 
+6 
+11 
+Zinc 
+58 
+16 
+28 
+Total coliform 
+419 
+408 
+97 
+Fecal coliform 
+204 
+163 
+80 
+Turbidity 
+254 
+40 
+16 
+a/ Source: NPS 1994. 
+b/ EPA criteria included drinking water and freshwater acute toxicity standards. 
+c/ pH exceedence defined as greater than 9.0 or less than 6.5. 
+pesticides, and fertilizers entering the waterway. The Rock Creek Watershed Conservation Study 
+(CH2M Hill 1979) led to improvements to Rock Creek and its tributaries within the park.  
+Park resources management staff members monitor sanitary sewers and facilitate their 
+repair to correct leaks.  
+The District of Columbia has been given assistance in tracing illegal pollutant discharges 
+connected to storm drains.  
+Combined sanitary/storm sewer outlets have been identified for retrofitting to reduce dis-
+charges. 
+Dry-weather outfall surveys have led to the cleaning of blocked combined sanitary/storm 
+sewers to halt continual overflowing. 
+Because the majority of the Rock Creek watershed lies outside of Rock Creek Park and the 
+jurisdiction of the National Park Service, park personnel must work with other federal, local, 
+state, district, and regional agencies and organizations to implement steps that would improve 
+existing water quality in the park. The Chesapeake Bay Program is the most comprehensive 
+interagency effort to improve water resource values in the region.  
+WETLANDS AND FLOODPLAINS 
+Wetland and floodplains are included as an impact topic based on the criteria presented in the 
+“Impact Topics - Resources and Values at Stake in the Planning Process” section. The specific 
+concerns related to this impact topic are summarized as part of the “Environmental Consequences” 
+discussion. 
+The Clean Water Act and Executive Orders 11990 and 11988 identify wetlands and floodplains 
+as national natural assets. They direct all federal agencies to avoid the occupation, adverse 
+modification, or degradation of wetlands and floodplains.  
+124 
+ 
+Natural Resources 
+Wetlands. Three temporarily flooded, forested National Wetland Inventory (NWI) -designated 
+wetlands (NWI designation of PFO1A) are found along Rock Creek in the northern portion of the 
+park. Rock Creek is identified as an open water, tidally influenced riverine system (NWI 
+designation of R1OWV) (U.S. Fish and Wildlife Service 1999).  
+An additional wetland inventory was performed in 1997 (District of Columbia Government 
+1997a). Its results differ from the NWI only by defining the northernmost forest wetland as being 
+about twice the size of the wetland identified by the NWI.  
+The most common wetlands in the park are located within the primary floodplain of Rock Creek 
+where the creek it is underlain by Codorus silt loam (Soil Conservation Service 1976). These 
+riparian wetlands are typically covered by sycamore-green ash forest. Other riparian wetlands, not 
+identified by the NWI, are in the narrow alluvial deposits of the Pinehurst Branch, Fenwick 
+Branch, and Joyce Branch drainages.  
+Vernal pools, also not identified on the NWI, are widely scattered wetland features in the park. 
+These are small, temporary puddles or ponds that appear during wet periods and are dry at other 
+times. If they persist for 4 months or more, including the spring, these limited habitats can be 
+breeding places for frogs, toads, and salamanders. The number of vernal pools in the park today 
+may be reduced from the pre-urbanization era due to past draining or filling activities, stream bed 
+scouring from increased runoff that has resulted from development in the watershed upstream 
+from the park, and lowered water tables from urban groundwater usage.  
+Other important wetland-related features in the park include groundwater springs and seeps. 
+These small, wet areas are fed by relatively dependable flows of pollutant-free water. Several of 
+these wetlands support endemic, aquatic animal species such as amphipods and other 
+macroscopic invertebrates. 
+Floodplains. Floodplains in the park were mapped as part of the Rock Creek Watershed 
+Conservation Study (CH2M Hill 1979). Flood levels in the park have been substantially affected 
+by urbanization and associated increases in impervious surfaces in the Rock Creek watershed. 
+Stream flows in the main stem of Rock Creek during storm events are estimated to be more than 
+double the predevelopment discharge (CH2M Hill 1979).  
+Four major park buildings are in the 100-year floodplain. Peirce Mill and the Miller cabin are 
+completely within the 100-year floodplain. Portions of the Lodge House and the Edgewater 
+Stables building are on the fringe of the floodplain, but would not be subject to high velocities or 
+deep water during flooding (CH2M 1979).  
+Sections of Beach Drive and the Rock Creek and Potomac Parkway are within the 100-year 
+floodplain, as are a number of picnic groves and associated parking areas, picnic shelters, and 
+restrooms. Under NPS floodplain management guidelines, historic structures, picnic facilities, 
+daytime parking facilities, roads, and trails are acceptable within the 100-year floodplain. 
+A network of storm sewer, sanitary sewer, and combined sanitary/storm sewerlines underlies the 
+park (see the Sewerlines and Outfalls map). Some of these pipelines are within the 100-year 
+floodplain. The storm sewers discharge into drainages that may lead to riparian wetlands, and the 
+combined sanitary/storm sewers experience overflows that may discharge raw sewage into 
+floodplains and wetlands whenever rainfall exceeds 0.3 inches per hour.  
+ 
+125 
+AFFECTED ENVIRONMENT 
+DECIDUOUS FORESTS 
+Deciduous forests are included as an impact topic based on the criteria presented in the “Impact 
+Topics - Resources and Values at Stake in the Planning Process” section. The specific concerns 
+related to this impact topic are summarized as part of the “Environmental Consequences” 
+discussion. 
+The establishing legislation for the park identifies “timber” as an essential resource to the park. 
+The National Park Service interprets this in an ecological context to mean not individual trees, but 
+the interrelated plant and animal populations that form the forest community. The ecosystem 
+processes provided by forests are a part of this essential resource. In addition, forest stands are an 
+integral component of the scenic quality of the park cited in the establishing legislation. 
+Therefore, regardless of the management alternative selected from this draft general management 
+plan, the National Park Service will maintain the forests consistent with its charge in the 1916 
+Organic Act to preserve unimpaired the natural resources and values of the park for this and 
+future generations. 
+Approximately 80 percent (1,662 acres) of the park land area is covered with mature second 
+growth forest. Activities prior to the park’s establishment in 1890, such as timber cutting, 
+farming, and Civil War clearing, removed virtually all of the original forest. A few large oaks still 
+living in the park are estimated to be more than 275 years old and may be remnants of virgin 
+growth. Today’s woodlands are primarily a mixture of deciduous species typical of the eastern 
+deciduous forest in the later stages of succession.  
+Rock Creek Park runs along the topographic break separating the Piedmont Plateau and the 
+Atlantic Coastal Plain provinces. The vegetation reflects affinities to both of these provinces. The 
+following five forest associations have been identified and mapped in Rock Creek Park using the 
+National Vegetation Classification System developed by The Nature Conservancy (1998).  
+The beech-white oak/mayapple forest association occurs on moist to somewhat drier 
+slopes. It is the most common of all associations found in the park. Two variants include 
+the mixed oak/beech variant and the beech-tulip poplar variant. 
+The tulip poplar forest association is uncommon and occurs on moist, mid-slope to low-
+slope sites that were cleared in the past. The sites are exclusively dominated by tulip pop-
+lar. 
+The chestnut oak-black oak/huckleberry forest association is uncommon and occurs on 
+ridge tops, convex upper slopes, and south-facing slopes on rocky, well-drained soils. 
+The sycamore-green ash forest association is uncommon and occurs along stream banks, 
+floodplains, and other low-lying areas subject to temporary or irregular flooding. 
+The Virginia pine-oak forest association is rare because it is an early to mid-successional 
+forest that is being replaced by hardwood forests. Remnants of this association occur on 
+dry soils of hilltops in limited areas where forest succession has not yet replaced it. 
+An inventory of park vegetation, conducted by park and volunteer staff between 1986 and 1994, 
+documented 656 species of vascular plants in Rock Creek Park between the National Zoo and the 
+Maryland boundary. Five plant species that had been found in the park during a 1919 vegetation 
+126 
+ 
+Natural Resources 
+inventory were not found during the 1986 – 1994 inventory. They included swamp shadbush 
+(Amelanchier canadensis), shooting star (Dodecatheon meadia), dwarf chinkapin oak (Quercus 
+prinoides), Allegheny chinkapin (Castenea pumila), and a wild rose (Rosa setigera). The reasons 
+for their absence in the second inventory are unknown.  
+Small natural areas such as the park and parkway have been shown to be very important contribu-
+tors to regional biodiversity (Falkner and Stohlgren 1997). Based on the vegetation inventory, 
+Rock Creek Park continues to serve as a major reservoir of native flora for the region and is im-
+portant in protecting the natural heritage of this area. 
+The recent inventory of park vegetation also determined that 238 of the plant species were 
+introduced species, not native to the area. Of this number, 42 species have been judged to be 
+invasive exotic species that, unless controlled, are likely to spread and adversely affect native 
+plant populations. Control of these invasive exotic plants is a serious problem in the park. A 
+program now underway is selectively applying approved herbicides to invasive species in a 
+limited portion of the park. However, control efforts are not able to keep pace with the rate of 
+invasive plant introduction and spread. Management of invasive species will be a continuous need 
+in the park and operational plans will be updated as control strategies and funding evolve. 
+Soil properties are integral components of determining the species diversity, productivity, and 
+regenerative potential of the deciduous forest system. Therefore, soil characteristics important to 
+these processes are included in this impact topic characterization.  
+The park’s soil resources are adversely affected by accelerated erosion, compaction, and 
+deposition caused by human activities inside and outside the park boundaries. Some areas that 
+receive heavy visitor use are subject to soil compaction, removal of vegetation cover, and erosion. 
+This is particularly evident along streambanks, at picnic groves and other popular recreation 
+areas, and along heavily used or improperly designed and maintained trails. Accelerated erosion 
+caused by increased runoff from the upstream watershed is occurring along the Rock Creek 
+channel in the northern portion of the park. Associated deposition of some of the eroded soils is 
+occurring in the floodplains in the central and southern portions of the park and parkway. The 
+National Park Service will implement measures to protect soils from erosion, compaction, and 
+deposition caused by human activities and to restore areas of soils degradation, as required in 
+Management Policies (NPS 2001b).  
+As described previously in “Servicewide Mandates and Policies,” a 1980 memorandum from the 
+Council on Environmental Quality requires the protection of soils that are classified as prime and 
+unique farmlands. In a letter to the National Park Service, the Natural Resources Conservation 
+Service (1998) identified two soil types within the park that are classified as prime farmlands. 
+However, as discussed in “Impact Topics Dismissed from Further Consideration,” neither of the 
+prime farmland soil types in the park would be disturbed by management action proposed in any 
+of the alternatives. They will continue to be protected as part of the park’s forest resource. 
+Woodland fires in the park were described in the section entitled “Servicewide Mandates and 
+Policies.” An average of two fires occur in park each year. All wildfires are suppressed promptly 
+by the District of Columbia Fire Department or park firefighters. 
+ 
+127 
+AFFECTED ENVIRONMENT 
+PROTECTED AND RARE SPECIES 
+Protected and rare species are included as an impact topic based on the criteria presented in the 
+“Impact Topics - Resources and Values at Stake in the Planning Process” section. The specific 
+concerns related to this impact topic are summarized as part of the “Environmental Consequences” 
+discussion. 
+The National Park Service is required under the Endangered Species Act to ensure that federally 
+listed species and their habitats are protected on lands within the agency’s jurisdiction. Only one 
+federally listed species, the endangered Hays spring amphipod (Stygobromus hayi), is known to 
+inhabit the park.  
+Lists of the rare and protected species that are documented as occurring in Rock Creek Park are 
+provided in appendix E. Complete lists of federally listed species and the species identified as 
+protected or rare by the states of Maryland and Virginia can be found on the internet. Internet 
+addresses for the lists are presented in the bibliography under these citations:  
+U.S. Fish and Wildlife Service 1999  
+Maryland Department of Natural Resources 1994  
+Maryland Department of Natural Resources 1995  
+Virginia Department of Conservation and Recreation 1998 
+Federal- and State-Listed Amphipods. The Hays spring amphipod was discovered in Rock 
+Creek Park in 1998. Earlier, another rare species, Kenk’s amphipod, also known as the Rock 
+Creek groundwater amphipod, (Stygobromus kenki), was identified in park springs. Kenk’s 
+amphipod is not currently listed under the Endangered Species Act, but it is under consideration 
+by the U.S. Fish and Wildlife Service (USFWS) for future listing. In addition, three other 
+Stygobromus species of amphipods that are listed by the state of Maryland as rare or uncommon 
+have been located in or near the park (Maryland Department of Natural Resources 1995).  
+Groundwater amphipods are sensitive to environmental pollution, making the present 
+concentration of these species an extremely rare occurrence in the Piedmont region. The relative 
+abundance of rare amphipods in the park has been attributed to the long-term protection of 
+groundwater quality afforded by the park. 
+The Hays spring amphipod ranges from one-half to one inch long. It is colorless, eyeless, and has 
+adaptive hairs for sensing currents and food. They have life spans of 8 years or more and a low 
+reproductive rate. Stygobromus amphipods spend the majority of their lives in groundwater below 
+the surface, feeding on detritus. Amphipods are subject to a number of predators when they are at 
+surface springs, such as stonefly larvae and salamanders, but probably have few if any predators 
+below the surface.  
+Threats to groundwater amphipods include alterations of groundwater flows, groundwater 
+pollution, loss of detritus as a food source, and disturbance of spring sites. Common pollution 
+problems for amphipods are nitrates in fertilizers (which can result in groundwater oxygen 
+depletion), pesticides, and petroleum leaking from underground storage tanks. 
+128 
+ 
+Natural Resources 
+Other State-Listed Species. Washington, D.C. does not currently provide special protection 
+status for rare plant or animal species. As shown in appendix E, the adjoining states of Maryland 
+and Virginia (Maryland Department of Natural Resources 1994; Virginia Department of 
+Conservation and Recreation 1998) list  
+seven plant species that are documented as occurring in Rock Creek Park as “highly state 
+rare – critically imperiled” (E, S1, or S2)  
+21 species that are documented as occurring in Rock Creek Park as “watch list – rare or 
+uncommon” (S3)  
+Although five of these species are trees, most are non-woody, herbaceous species that typically 
+occur in a single population within the park.  
+Three animal species with known occurrences in Rock Creek Park are listed as rare or uncommon 
+by the adjoining state of Maryland (Maryland Department of Natural Resources 1995). Wetlands, 
+including freshwater springs and outflow channels, provide habitat for each of these species. 
+They include the  
+yellow-crowned night-heron (Nyctanassa violacea), which is considered highly rare  
+Appalachian spring snail (Fontigens bottimeri), which is considered rare  
+gray petaltail dragonfly (Tachopteryx thoreyi), which is considered possibly rare, but of 
+uncertain status  
+The National Park Service is not under any legal obligation to protect these plant or animal 
+species. However, park policy and management actions include maintaining these uncommon 
+native species as part of the park’s natural heritage.  
+OTHER NATIVE WILDLIFE 
+Terrestrial Wildlife. Native wildlife species are included as an impact topic based on the criteria 
+presented in the “Impact Topics - Resources and Values at Stake in the Planning Process” section. 
+The specific concerns related to this impact topic are summarized as part of the “Environmental 
+Consequences” discussion. 
+The woodlands in Rock Creek Park provide suitable habitat for a variety of wildlife mammal 
+species, despite their location within the city limits of the District of Columbia. Approximately 30 
+species of mammals have been inventoried in the park. Species of particular interest because of 
+their size or their public attention include the raccoon (Procyon lotor), red fox (Vulpes vulpes), 
+gray fox (Urocyon cinereoargenteus), opossum (Didelphis virginiana), beaver (Castor 
+canadensis), gray squirrel (Sciurus carolinensis), eastern chipmunk (Tamias striatus), and white-
+tailed deer (Odocoileus virginianus). 
+White-tailed deer have been recorded for many years, but since the late 1980s their numbers have 
+substantially increased. Aerial infrared photography taken in March 1997 indicated a population 
+of 87 deer, and a repeat survey in March 1998 estimated the number had increased to 155. The 
+deer population is monitored to avoid adverse impacts park resources. 
+ 
+129 
+AFFECTED ENVIRONMENT 
+Approximately 160 species of nesting or visiting birds have been found in the park, including the 
+great-horned owl (Bubo virginianus), barred owl (Strix varia), red-tailed hawk (Buteo 
+jamaicensis), broad-winged hawk (Buteo platypterus), belted kingfisher (Megaceryle alcyon), and 
+numerous songbirds. Most of these are migrants or seasonal visitors. Typically, 22 to 24 species 
+nest in the breeding bird census area in Rock Creek Park (unpublished data from the Rock Creek 
+Park breeding bird census, 1997 through 1999).  
+In recent years, volunteers evaluating bird populations have noticed pronounced declines in 
+neotropical migrant species. Similarly declining populations of neotropical migrants are evident 
+throughout the United States. These declines are thought to be caused by receding or fragmented 
+habitats both in tropical wintering grounds and in northerly breeding grounds in temperate areas 
+(Friesen et al. 1995). Nest parasitism of some species by the brown-headed cowbird (Molothrus 
+ater) and predation by crows (Corvus brachyrhynchos) also appear to reduce breeding success in 
+many areas, including Rock Creek Park. Consistent with the NPS’ preservation mandate, the park 
+staff is exploring options for reducing the declines of migrant species locally, such as cowbird 
+control, improved snag management, and trail rerouting or closure to avoid sensitive habitats. 
+The variety and numbers of amphibians and reptiles found in the park are markedly reduced 
+compared to inventories from the early and middle parts of the 20th century. Of species 
+historically recorded for Rock Creek Park, only 9 of 17 amphibians and 11 of 24 reptiles have 
+been recorded in recent years. The amphibian observations are consistent with the recent world-
+wide decline in amphibian numbers and diversity.  
+Some amphibians such as the gray treefrog (Hyla versicolor) and chorus frog (Pseudacris 
+triseriata) have disappeared altogether from Rock Creek Park.  
+Others amphibians, such as the spring peeper (Hyla crucifer), wood frog (Rana sylva-
+tica), and spotted salamander (Ambystoma maculatum) can be found in modest numbers 
+in wetland areas.  
+Red-backed salamanders (Plethodon cinereus), which do not depend on wetlands, are 
+relatively common in moist uplands where they inhabit moist niches under logs and leaf 
+litter.  
+Factors responsible for the declines in reptile diversity in Rock Creek Park are unknown. 
+Relatively protected and abundant moist upland sites provide habitat for small snakes, such as the 
+northern ringneck snake (Diadophis punctatus), which are common. Eastern box turtles 
+(Terrapene carolina) and larger snakes such as the black rat snake (Elaphe obsoleta) are much 
+less common.  
+Aquatic Wildlife. Recent surveys have found approximately 35 species of fish in Rock Creek.  
+Resident native species include five shiners (Notropis spp.), two bullheads (Ictalurus 
+spp.), and three sunfish (Lepomis spp.). Blacknose dace (Rhinichthys atratulus) are rela-
+tively common and can be found in the main stream and many tributaries.  
+Other resident species are introduced, including carp (Cyprinus carpio), bluegill (Lepo-
+mis macrochirus), and largemouth bass (Micropterus salmoides).  
+130 
+ 
+Natural Resources 
+At least two native species, the blueback herring (Alosa aestivalis) and the alewife (Alosa 
+pseudoharengus), migrate from salt water up Rock Creek to spawn each spring (anadro-
+mous). An abandoned sewerline and an abandoned gauging station near Q Street that in-
+terrupted their migrations have been removed from Rock Creek (Madaras 2001). The re-
+moval of eight other barriers in Rock Creek and the installation of a fish bypass at the 
+Peirce Mill Dam as part of the Woodrow Wilson Bridge mitigation are expected to allow 
+these species to migrate from the mouth of the creek upstream to Needwood Lake in 
+Montgomery County, Maryland (Madaras 2001).  
+The American eel (Anguilla rostrata) is the only species found locally that lives in either 
+fresh or brackish water. Eels migrate to the Sargasso Sea to spawn (catadromous). The 
+removal of barriers in Rock Creek as part of the Woodrow Wilson Bridge mitigation is 
+expected to enhance the habitat for this species. 
+The urban pollution and storm water runoff problems that were described previously in the 
+section entitled “Rock Creek and Its Tributaries” have adversely affected fish numbers and 
+diversity in the park. Generally, the 16 tributaries of Rock Creek are more severely affected than 
+the main channel. In a 1993 study by NPS staff, no fish were found in nearly half of the 
+tributaries, and only one had more than a single species present. Flooding and scouring during 
+storms, pollution from runoff, and periodic low flows are likely contributing factors. 
+Non-Native Terrestrial Animals. Several non-native species of wildlife that occur in Rock 
+Creek Park are adversely affecting the park’s natural resources.  
+Free-roaming domestic cats (Felis catus), particularly near the park borders, prey on local 
+populations of songbirds, squirrels, and other small mammals and may reduce their num-
+bers (Mitchell and Beck 1992).  
+Starlings (Sturnus vulgaris) compete with some cavity-nesting birds for nest sites.  
+The gypsy moth (Lymantria dispar) has been present in the park for many years and, at 
+times, has become sufficiently abundant to require aerial spraying to prevent forest defo-
+liation and related impacts.  
+The effects of these and other exotic animals on native species are not fully known. They could 
+be substantial, considering the small size of the natural areas of Rock Creek Park and the park’s 
+location within an urban setting. However, except for treatments of insect pests, no control efforts 
+are presently contemplated for these species. 
+Roadkill. Collisions with vehicles kill or injure terrestrial and semi-aquatic animals on roads in 
+Rock Creek Park, along the Rock Creek and Potomac Parkway, and on adjoining city streets. 
+Since 1980, the park staff has kept informal counts of carcasses along roads and streets within 
+and adjacent to the park and parkway. The data include species, date, and location where each 
+carcass was found. The counts are non-systematic and were collected incidental to other activi-
+ties. Because of the informal nature of the data collection and the frequent removal of roadkill 
+carcasses by scavengers such as crows and raccoons, the park roadkill counts probably are lower 
+than actual animal deaths. Larger, more conspicuous animals, particularly mammals, tend to be 
+ 
+131 
+AFFECTED ENVIRONMENT 
+more represented in the count, as opposed to smaller animals such as songbirds, amphibians, and 
+reptiles that are more easily overlooked or scavenged.  
+For the 10 years between 1991 and 2000, park staff recorded 1,223 roadkilled carcasses. Table 9 
+summarizes these data by class and by selected species.  
+Between a quarter and a third of the annual recorded roadkill in the park and vicinity occurs on 
+Beach Drive. For example, in the year 2000, 104 carcasses were recorded, including 28 from 
+Beach Drive. Table 10 shows all roadkilled species recorded from Beach Drive in 2000 and sub-
+totals for sections of the road under different traffic management strategies. 
+TABLE 9: RECORDED ROADKILLS IN AND ADJACENT TO ROCK CREEK PARK  
+AND THE ROCK CREEK AND POTOMAC PARKWAY, 1991 THROUGH 2000 
+ 
+Type 
+ 
+Number 
+Percent of Total  
+Roadkills Recorded 
+Total recorded roadkills, 1991 through 2000 
+1,223 
+100 
+Mammals  
+1,088 
+89 
+Squirrel 
+455 
+37 
+Raccoon 
+303 
+25 
+Deer 
+135 
+11 
+Opossum 
+96 
+8 
+Other 
+96 
+8 
+Gray fox 
+3 
+0.25 
+Birds 
+90 
+7 
+Reptiles 
+45 
+4 
+Box turtle 
+22 
+2 
+Black rat snake 
+15 
+1 
+ 
+TABLE 10: ROADKILLS RECORDED ON BEACH DRIVE IN 2000 
+ 
+ 
+Species 
+ 
+Total for  
+Beach Drive 
+ 
+South of Broad 
+Branch Road 
+Sections Closed to 
+Traffic on Weekends 
+and Holidays 
+Sections Open to 
+Traffic North of 
+Broad Branch 
+Raccoon 
+8 
+5 
+3 
+0 
+Squirrel 
+7 
+3 
+3 
+1 
+Deer 
+4 
+1 
+0 
+3 
+Water snake 
+2 
+0 
+1 
+1 
+Unidentified bird 
+2 
+2 
+0 
+0 
+Red-eyed vireo 
+1 
+0 
+0 
+1 
+Snapping turtle 
+1 
+0 
+1 
+0 
+Box turtle 
+1 
+0 
+0 
+1 
+Opossum 
+1 
+1 
+0 
+0 
+Domestic cat 
+1 
+0 
+1 
+0 
+Total 
+28 (100%) 
+12 (43%) 
+9 (32%) 
+7 (25%) 
+Percent of road length 
+100% 
+13% 
+46% 
+41% 
+Average annual road-
+kill per mile 
+28/5.8 =  
+4.8 
+12/0.70 =  
+17.1 
+9/2.7 =  
+3.3 
+7/2.4 =  
+2.9 
+132 
+ 
+Natural Resources 
+As shown in the table, the highest incidence of roadkill on Beach Drive occurs south of Broad 
+Branch Road. The roadkill rate on this stretch is five times higher than on more northern portions 
+of Beach Drive, indicating that this area might be an appropriate site for the installation of miti-
+gating measures such as traffic controls or protected wildlife crossings such as culverts. 
+As shown in table 11, 16 animal carcasses were recorded from the 2-mile-long Rock Creek and 
+Potomac Parkway in the year 2000. This produces an average annual roadkill of eight animals per 
+mile. Contributing factors to this relatively high value probably include the higher traffic speeds 
+on the parkway and heavier traffic level than on most park roads. 
+TABLE 11: ROADKILLS RECORDED ON THE ROCK CREEK AND POTOMAC PARKWAY IN 2000  
+Species 
+Number 
+Squirrel 
+5 
+Raccoon 
+5 
+Mallard duck 
+2 
+Unidentified bird 
+2 
+Crow 
+1 
+Deer 
+1 
+Total 
+16 
+The importance of roadkill to populations of wildlife is difficult to determine. Squirrels, raccoons, 
+and deer sustain the heaviest toll from vehicle collisions. However, these species are common in 
+the region and have high reproduction potentials. Their populations do not appear to be substan-
+tially influenced by roadkill. For less common species with more limited reproduction potential, 
+roadkill could be a contributing factor to population reductions or local extirpation (Foreman and 
+Alexander 1998).  
+Based on casual, undocumented sightings, four species of wildlife may have declined in the park 
+over the past decade or more. These species are the opossum, gray fox, eastern box turtle, and 
+black rat snake. Concern has been expressed that roadkill could be a contributing factor. Re-
+corded roadkill numbers and locations for these species between 1991 and 2000 are shown in ta-
+ble 12. For all four species, approximately a third of the roadkills were recorded outside of the 
+park and parkway. 
+Opossum – The number of road-killed opossum carcasses recorded in and around Rock Creek 
+Park and the parkway has declined over the past 10 years. Numbers have dropped from a high of 
+16 animals in 1992 to one specimen in 2000.  
+Although the reason for the decrease is unknown, it is unlikely that roadkill is causing a popula-
+tion decline. Opossums are common in the region and much of the United States. They have a 
+high reproduction potential (2 litters per year with 5 to 13 young per litter) and are highly adapted 
+to living in close proximity to humans, even in densely developed metropolitan areas (Hossler et 
+al. 1994; Pennsylvania Game Commission 2001). The decline in roadkill in Rock Creek Park 
+probably reflects population reductions caused by another factor such as a disease outbreak. It is 
+unlikely that roadkill would seriously threaten or cause the extirpation of opossums in the park.  
+ 
+133 
+AFFECTED ENVIRONMENT 
+TABLE 12: LOCATIONS OF RECORDED ROADKILLS FOR FOUR SPECIES, 1991 THROUGH 2000  
+Location 
+Opossum 
+Grey Fox 
+Box Turtle 
+Black Rat Snake 
+Park roads 
+ 
+ 
+ 
+ 
+Rock Creek and Potomac Parkway 
+18 
+1 
+ 
+ 
+Beach Drive south of Broad Branch Road 
+14 
+1 
+ 
+1 
+Beach Drive north of Broad Branch Road 
+8 
+ 
+2 
+3 
+Wise Road 
+4 
+ 
+1 
+1 
+Glover Road 
+3 
+ 
+3 
+2 
+Ross Drive 
+1 
+ 
+1 
+ 
+Bingham Drive 
+ 
+ 
+4 
+ 
+Joyce Road 
+ 
+ 
+ 
+1 
+Nature center/maintenance area 
+1 
+ 
+1 
+1 
+Other park roads 
+7 
+ 
+ 
+ 
+Adjacent non-park roads 
+ 
+ 
+ 
+ 
+Military Road (though park and nearby) 
+17 
+1 
+2 
+ 
+Oregon Avenue 
+14 
+ 
+8 
+5 
+Broad Branch Road 
+4 
+ 
+ 
+1 
+Other non-park roads 
+5 
+ 
+ 
+ 
+Total roadkills recorded 1991-2000 
+96 
+3 
+22 
+15 
+Gray Fox – In the past 10 years, three gray foxes have been found dead on roads in and around 
+the park, including one each in 1991,1994, and 1999. Gray foxes are relatively common in the 
+eastern United States. They have been described as habitat generalists that prefer wooded areas 
+with dense cover for daytime dens and mixed fields and forests for nighttime hunting (Greenburg 
+and Pelton 1994). 
+A study in Tennessee found that gray foxes had overlapping home ranges of about 1,000 acres, 
+and that a 5,000-acre area supported 12 adult and young foxes (Greenburg and Pelton 1994). New 
+Mexico studies showed that gray foxes were tolerant of low to moderate residential development, 
+but avoided high-density development (Harrison 1993 and 1997). At 1,700 acres, Rock Creek 
+Park may provide sufficient habitat for only a few individuals. Additional habitat on adjoining 
+lands would be necessary to support a larger, more sustainable gray fox population.  
+Gray foxes, such as young animals dispersing from the den, will travel distances of 50 miles or 
+more (Trippensee 1953). The Rock Creek corridor probably served as a travel route between 
+foxes in the park and populations in woodlands to the north. However, as more of the forested ar-
+eas in the upper drainage are developed, the interaction of animals in the park with those in other 
+areas probably has been reduced. This would include the recruitment of foxes into the park popu-
+lation. 
+Gray foxes are very susceptible to canine diseases such as distemper and hepatitis (Nicholson and 
+Hill 1984). The potential for these diseases to be introduced into the gray fox population from the 
+large number of dogs using the park is a threat to gray foxes in the park. 
+Gray fox populations in and around the park are probably small and are likely stressed by habitat 
+destruction, habitat fragmentation, low recruitment, and periodic disease outbreaks. Roadkills, 
+even infrequent ones, could contribute to an overall reduction of a resident population or even lo-
+cal extirpation.  
+134 
+ 
+Natural Resources 
+Box Turtle – There is no clear trend in recorded roadkills of box turtles in and around the park 
+and parkway. Throughout the past 10 years, 22 box turtle roadkills have been recorded, for an av-
+erage rate between two and three turtles per year. 
+Prime habitat for box turtles includes wooded uplands and bottomlands. In the wild, box turtles 
+are known to live at least 40 years and there are claims of some turtles living more than 100 
+years. They do not reach sexual maturity until 4 or 5 years of age. The average clutch size is only 
+four or five eggs, although a female may lay several clutches per year. The female does not pro-
+tect the nest or hatchlings, and mortality of hatchlings is high, primarily because of predation 
+(Dawson 1999).  
+Populations of box turtles have declined throughout their range in the eastern United States be-
+cause of a variety of human-induced factors. Roadkill is believed to be a contributing factor to the 
+declining numbers, along with habitat loss and fragmentation, commercial and personal collect-
+ing, predation by animals such as dogs and raccoons that are associated with human development, 
+and disease (Hutchinson 2000; Mitchel, 2000). Because box turtles are long-lived and have a low 
+reproduction potential, losses of individuals can have long-lasting effects on local populations.  
+A study in the 1950s of mixed forests and agricultural lands in Maryland reported turtle densities 
+at 10 per acre (Hall et al. 2000). Other studies in Missouri summarized by Dawson (1999) indi-
+cated a lower density, identifying home range size as varying from about 5 acres to about 13 acres 
+and stating that “the home ranges of several individuals will often overlap.” 
+There is little information on box turtle populations in Rock Creek Park. The riparian wetlands 
+along Rock Creek and its tributaries provide excellent habitat, and sightings of box turtles by park 
+visitors and park staff are relatively common. However, studies of box turtle numbers or densities 
+have never been conducted. Removing box turtles from the park for any purpose, including use as 
+pets, is illegal, but anecdotal evidence suggests that such illegal collecting occurs at a rate far 
+greater than the annual roadkill rate of two or three box turtles. However, the additive effect of 
+roadkill may be a contributing factor in an apparent decline in box turtles in and near the park.  
+Black Rat Snake – There is no clear trend in the pattern of roadkills of black rat snakes in Rock 
+Creek Park over the past 10 years. Fifteen roadkills were recorded, including five on Oregon 
+Avenue outside of the park. 
+Black rat snakes are fairly common in the region. They are active during daylight hours and hi-
+bernate during the winter months. They prefer dense cover along forest edges, meadows, and 
+hedgerows and tend to avoid open areas such as closely mowed roadsides, road surfaces, and 
+open fields. Black rat snakes use the interior of forests and, often, structures for periodic refuges 
+(Durner 1991; Durner and Gates 1993).  
+Habitat for the black rat snake has declined in the Washington D.C. metropolitan area over the 
+decades as land has been converted from woodlots and agriculture to high-density development. 
+Within Rock Creek Park, black rat snake populations also may have declined because of contin-
+ued maturation of forest, as opposed to the mix of woodlands and meadows that existed histori-
+cally. Roadkill may be a contributing factor affecting local populations, but the degree of effect is 
+unknown. 
+ 
+135 
+AFFECTED ENVIRONMENT 
+CULTURAL RESOURCES 
+ARCHEOLOGICAL RESOURCES 
+Several studies provide information on Rock Creek Park’s archeological resources, previous ar-
+cheological work in the park, and the status of archeological research. These studies include 
+Ancient Washington: American Indian Cultures of the Potomac Valley (Humphrey and 
+Chambers 1985) 
+Archeological Survey Report: An Archeological Investigation of Thirty-One Erosion 
+Control and Bank Stabilization Sites along Rock Creek and Its Tributaries, Rock Creek 
+Park and Rock Creek and Potomac Parkway (NPS, Inashima 1985a) 
+National Capital Area Archeological Overview and Survey Plan for the Systemwide Ar-
+cheological Inventory Program, National Park Service, National Capital Area (NPS, Lit-
+tle 1995c) 
+Rediscovering Archeological Resources at Rock Creek Park (Moran 1997) 
+Some of the prehistoric and historic objects recovered from Rock Creek Park have been cataloged 
+and are kept in storage at the NPS’ Museum Resource Center in Landover, Maryland. 
+There are at least 10 archeological sites in the Rock Creek valley with known prehistoric occupa-
+tions. Three are quartzite quarries, three are soapstone quarries, three are short-term campsites, 
+and one is a cremation burial. The latter was excavated prior to construction of a pier for one of 
+the Whitehurst Freeway ramps. Data from that excavation are still being analyzed. 
+Historic archeological sites in the park are largely associated with historic agricultural and indus-
+trial uses during the 18th and 19th centuries, Civil War-era operations, and development of the 
+park under the administration of the U.S. Army Corps of Engineers (1890 to 1933) and the Na-
+tional Park Service (1933 to present).  
+There is a high probability that there are additional undisturbed prehistoric and historic archeo-
+logical resources in Rock Creek Park. Archeological sites in the park have not been systemati-
+cally surveyed or inventoried, and precise information about locations, characteristics, and the 
+significance of the majority of known archeological resources in the park is incomplete. Because 
+the condition of archeological resources, especially those underground, is generally unknown, the 
+impacts of development projects on archeological sites in the park are uncertain.  
+As described in the “Servicewide Mandates and Policies” section, an archeological identification 
+and evaluation study of the park is required by law. Such a study has been scheduled to begin in 
+fiscal year 2003. In addition, individual surveys will be needed prior to the initiation of ground-
+disturbing activities. Areas identified as having a high potential for archeological resources must 
+be treated with special sensitivity.  
+NPS policy at Rock Creek Park is to work with the District of Columbia State Historic Preserva-
+tion Officer (DCSHPO) to nominate all archeological and historical resources within the park and 
+136 
+ 
+Cultural Resources 
+parkway that appear to meet the National Register of Historic Places (NRHP) criteria. Although 
+Rock Creek Park is listed on the NRHP, its archeological resources have yet to be individually 
+listed. Currently, 23 archeological sites associated with the earliest occupation of the region and 
+one site associated with an early 19th century industrial complex (Blagden Mill) have been inves-
+tigated. 
+HISTORIC RESOURCES AND CULTURAL LANDSCAPES 
+Several NPS documentary studies provide an understanding of the historic development of the 
+Rock Creek Park area and the Rock Creek and Potomac Parkway. These include:  
+Rock Creek Park: An Administrative History (NPS, Mackintosh 1985b)  
+Historic Resource Study: Rock Creek and Potomac Parkway, George Washington Memo-
+rial Parkway, Suitland Parkway, Baltimore-Washington Parkway (NPS, Krakow 1990a)  
+Historic Resource Study: Rock Creek Park, District of Columbia (NPS, Bushong 1990b) 
+Rock Creek and Potomac Parkway (Historic American Buildings Survey, HABS No. 
+D.C.-697, 1991-2) (NPS, Davis 1992) 
+Linnaean Hill Cultural Landscape Inventory (NPS, Wheelock et al. 1998b) 
+Peirce Mill Cultural Landscape Inventory (NPS Wheelock et al. 1998d) 
+Europeans began to acquire private rights to land in the Rock Creek valley during the 17th cen-
+tury. However, the Rock Creek valley remained largely untouched by settlement until a trading 
+post was established in 1703 at what was then the navigable mouth of Rock Creek.  
+Commercial and industrial use of Rock Creek increased steadily in the early decades of the 19th 
+century. The gradient of the streambed and the water flow were sufficient to support a number of 
+mills above and below the district line. The milling industry flourished along the creek in the first 
+half of the 19th century, growing in direct proportion to the development of Georgetown and 
+Washington City. More than a half-dozen water mills operated along its course within the district.  
+Today only the Peirce Mill stands on the creek near Tilden Street as a reminder of this once-
+common building type. Peirce Mill functioned as an integral part of a diversified farm complex. 
+After 1890, stone grinding became obsolete and few water-powered flour millers operated in the 
+eastern United States. However, Peirce Mill continued grinding corn, rye, and wheat into flour 
+and meal until 1897 when its main shaft broke. 
+The Peirce family erected two substantial enclaves of buildings, several of which remain today. 
+They represent the only examples of 19th century structures erected in the park prior to its estab-
+lishment. The original Peirce family dwelling and its immediate dependencies were located about 
+a quarter mile west of Peirce Mill, just south of present-day Tilden Street. The Peirce estate even-
+tually numbered 11 buildings, many of which were built of solid granite. The Peirce-Klingle 
+Mansion, which houses the park headquarters, was the core of the second major complex of 
+buildings erected by the Peirce family in what would become Rock Creek Park. 
+ 
+137 
+AFFECTED ENVIRONMENT 
+Joshua Peirce became a prosperous nurseryman and landscape gardener who specialized in the 
+cultivation of camellias and other exotic plants. His arboretum at Linnaean Hill provided botani-
+cal specimens for the grounds of the White House, U.S. Capitol, and many of the national capi-
+tal’s other federal reservations. The expansive landscape surrounding his mansion also included 
+fruit trees and ornamental plants. Today, the Peirce structures stand as rare examples of early 19th 
+century vernacular stone construction in the District of Columbia. 
+The mills and estates in the Rock Creek valley were served by a network of roads. The courses of 
+five of these pre-Civil War roads exist roughly today in the form of  
+Tilden Street and Park Road (formerly Peirce’s Mill Road)  
+Klingle Road (formerly Joshua Peirce’s Road, laid out in 1831) 
+Broad Branch Road (surveyed and built in 1839) 
+Blagden’s Mill Road (1847), a road trace on the landscape and a portion of Colorado 
+Avenue  
+Milkhouse Ford Road, now Rock Creek Ford Road 
+Most of these early, narrow, unpaved roads were privately built, but they later evolved into public 
+thoroughfares and were eventually acquired by the local government. Further road development 
+was stimulated by the Civil War.  
+In 1862, army engineers constructed Fort DeRussy as part of a circle of fortifications around the 
+city. They also established Military Road to connect the defenses of the city. Located northeast of 
+the intersection of Military Road and Oregon Avenue, Fort DeRussy was strategically placed to 
+provide formidable resistance to enemy advancement down the valley. The fort saw action during 
+the only Confederate assault on the city in July 1864. Although the fort’s structures were removed 
+after the war, Fort DeRussy remains the most pronounced Civil War earthworks site in the na-
+tional capital area. 
+Operation of the Godey Lime Kilns began in 1864. The manufacture and sale of lime at this site 
+continued until 1907. The kilns represent an important aspect of the thriving late 19th century 
+commercial activities in Georgetown. The kilns were partially restored by the National Park Ser-
+vice in 1967. 
+Urban development in the area surrounding the valley began with a building boom in the 1880s. 
+By the late 1880s, tracts north of the old Washington city limits and near the future park had been 
+subdivided into suburban lots, with development potential reaching to the banks of Rock Creek.  
+The rapid pace of suburban development threatened to destroy the rural character and natural 
+scenery of the Rock Creek valley. In response, a bill establishing Rock Creek Park (Public Reser-
+vation 339) was approved by both houses of Congress and signed into law (26 Stat. 492) by 
+President Benjamin Harrison on September 27, 1890. A copy of this legislation is provided in ap-
+pendix A. 
+The first park improvements included a road system. The new park drive along the creek, named 
+for Capt. Lansing Beach, incorporated existing road segments and a dirt road created by the con-
+138 
+ 
+Cultural Resources 
+struction of a sewerline below Piney Branch in 1896. Walking trails and bridle paths also pro-
+vided public access. 
+Boulder Bridge was constructed in 1902. It has become a quintessential symbol of the rustic char-
+acter and picturesque design of the first park structures. It is Washington’s finest example of rus-
+tic bridge architecture, and one of the earliest Melan reinforced concrete arch structures of its type 
+built in the district.  
+In 1901-02, a Senate Park Commission comprehensive plan for the nation’s capital included a 
+proposal for a regional park system that extended beyond the boundaries of the district to include 
+such scenic areas as Great Falls. One aspect of their proposal was the development of a parkway, 
+in the wording of the 1913 legislation establishing the Rock Creek and Potomac Parkway, “for 
+the purpose of preventing pollution and obstruction of Rock Creek and of connecting Potomac 
+Park with the Zoological Park and Rock Creek Park.” 
+On June 2, 1912, the reconstructed Joaquin Miller cabin (named for the California author of Song 
+of the Sierras) was dedicated at a site just off Beach Drive, approximately a half-mile north of 
+Military Road. The cabin, which had been disassembled and moved from its location across from 
+Meridian Hill Park by the California State Association, soon became an “adopted” historic attrac-
+tion in the park and a meeting point for picnic groups, hikers, and equestrian riders. Placement of 
+the Miller cabin in the landscape was part of the picturesque improvement of the early 20th cen-
+tury Rock Creek Park, which was also evident in the design of Boulder Bridge, the dam at Peirce 
+Mill, and the rustic stone improvements to Milkhouse Ford. 
+To accommodate the growing popularity of golf, two nine-hole golf courses were opened in 1923 
+and 1926 in the east side of the park north of Military Road at the site of a former arboretum, 
+which had been removed in 1920. A remodeled farmhouse served as a clubhouse. 
+During the 1930s, numerous physical improvements in Rock Creek Park were made by the Na-
+tional Park Service and Depression-era work relief laborers. The National Park Service made an 
+effort to blend new construction with the picturesque park landscape, designing new structures in 
+a rustic style popularly known today as “parkitecture.” 
+In 1935-36, the stone-lodge-style Lodge House was constructed as a U.S. Park Police substation 
+near the intersection of Military Road and Beach Drive. The National Park Service continued to 
+preserve historic buildings, including the Peirce-Klingle Mansion, the other structures at the Lin-
+naean Hill complex, and the Peirce Mill with its adjacent springhouse and barn. 
+The 1930s marked the beginning of Rock Creek Park’s use as a commuter route. The completion 
+of a motor drive from the park’s north end to East-West Highway in Maryland in 1932 and the 
+opening of the Rock Creek and Potomac Parkway in 1936 created a continuous automobile route 
+from Maryland to central Washington, D.C. However, it was not until 1966 that a truly continu-
+ous automobile route was created with completion of the zoo tunnel. Previously, evening zoo clo-
+sure and flooding of fords hampered full use. 
+Historic National Register Properties. Historic properties within the park and parkway that are 
+listed on the National Register of Historic Places (NRHP) include the 
+Peirce-Klingle Mansion  
+ 
+139 
+AFFECTED ENVIRONMENT 
+Peirce Mill 
+Peirce Springhouse and Peirce Mill Barn 
+Godey Lime Kilns 
+Boulder Bridge and Ross Drive Bridge 
+Fort DeRussy, which is listed as a contributing feature to the “Civil War Fort Sites” Na-
+tional Register nomination 
+In addition to the listing of individual properties, the area of Rock Creek Park covered by this 
+general management plan was listed in the NRHP as Rock Creek Park Historic District (No. 
+91001524) on October 23, 1991. The historic district boundaries encompass Public Reservation 
+339 established as Rock Creek Park on September 27, 1890. The historic district included 31 re-
+sources classified as contributing to its significance. These resources are listed in appendix F. 
+In 1997-98, the National Park Service, in consultation with the District of Columbia State His-
+toric Preservation Officer (DCSHPO), completed a comprehensive survey of structures in Rock 
+Creek Park and the Rock Creek and Potomac Parkway that are eligible for listing on the NRHP. 
+The Rock Creek and Potomac Parkway is eligible for listing, and the National Park Service cur-
+rently is working with the DCSHPO to finalize a nomination. 
+Cultural Landscapes. Cultural landscapes reflect the relationship between what is natural and 
+what is man-made. According to The Secretary of the Interior’s Standards for the Treatment of 
+Historic Properties with Guidelines for the Treatment of Cultural Landscapes (Secretary of the 
+Interior 1996), a cultural landscape is “a geographic area (including both cultural and natural re-
+sources and the wildlife or domestic animals therein) associated with a historic event, activity, or 
+person or exhibiting other cultural or esthetic values.” 
+A cultural landscape inventory documents the qualities and attributes of a cultural landscape that 
+make it significant and worthy of preservation. The goal of the National Park Service is to locate 
+and evaluate cultural landscapes and provide information on their location, historical develop-
+ment, characteristics and features, and management to assist park managers in planning, pro-
+gramming, and recording treatment and management decisions. 
+In 1997, the National Park Service initiated a cultural landscape inventory of the area covered by 
+this general management plan. The inventory team has tentatively determined that  
+Rock Creek Park meets the criteria for significance and integrity for listing in the Na-
+tional Register as a historic designated landscape  
+Linnaean Hill (which includes the Peirce-Klingle Mansion) and Peirce Mill meet the cri-
+teria for a “component landscape,” which is a definable physical component of a larger 
+landscape that contributes to the significance of a National Register-listed property and is 
+individually significant  
+140 
+ 
+Visitor and Community Values 
+VISITOR AND COMMUNITY VALUES 
+TRADITIONAL PARK CHARACTER AND VISITOR EXPERIENCE  
+Rock Creek Park was intended in the establishing legislation to be a “pleasure ground.” Visitors 
+come for the scenery and the other sensory experiences that accompany a forested creek valley. 
+They enjoy such features as the changing seasonal colors; life cycles and scents of the forest; 
+sounds of water, wind, and small animals, including birds; and the quiet. The open spaces offer 
+more active recreation and the sounds of people at play. 
+Recreation Opportunities. One of the favorite ways to experience Rock Creek Park is from 
+Beach Drive. This roadway, which is within the narrow creek valley for much of the length of the 
+park, is a popular site for such activities as walking, in-line skating, and bicycling. In the average 
+week, approximately 40,000 people recreate along its length, with the greatest use during the 
+weekend. Portions of Beach Drive and other park roads are closed to motorized traffic during 
+weekends to accommodate this heavy recreational use. 
+A popular visitor experience on weekdays is motorized touring on Beach Drive and other park 
+roads. Commuters and others use Beach Drive as a pleasant way to traverse the city in a 
+north/south direction, even if they do not leave their cars for more direct contact with the out-
+doors. The park averages more than 235,000 visits per week (12.4 million visits per year) from 
+people driving through the park. 
+The park offers a variety of views, from rugged expanses of mature, second-growth forest with 
+little recent human disturbance to landscapes from the rural past. The engineered bridges are re-
+minders of the monumental city to the south. Rock Creek Park provides a visual respite from the 
+urban surroundings, an experience that draws almost 14.5 million visitors each year.  
+Rock Creek Park offers visitors a variety of recreation options, including  
+paved multi-use trails and weekend closures of Beach Drive for jogging, bicycling, in-
+line skating, and other nonmotorized uses 
+an extensive system of hiking and horseback riding trails 
+Rock Creek Horse Center for public horseback riding and horse boarding (concession op-
+erated) 
+an 18-hole public golf course (concession operated) 
+tennis courts, including 21 soft-surface courts and 10 hard surface courts (concession 
+operated) 
+scenic roads 
+picnic areas, including 20 unrestricted picnic areas and 10 picnic areas requiring a permit  
+sports fields suitable for soccer, football, volleyball, field hockey, lacrosse, and rugby 
+ 
+141 
+AFFECTED ENVIRONMENT 
+the Carter Barron Amphitheater, which is a 4,200-seat outdoor theater offering summer 
+musical and theatrical performances 
+Rock Creek Gallery, also known as the Art Barn and the Peirce Mill Barn, which displays 
+work of local artists 
+two community gardens with a total of about 200 garden plots  
+Visitor Profile. Visitors to Rock Creek Park are primarily local residents of the Washington, 
+D.C. metropolitan area. However, because it is a national park, it also is visited by people from all 
+over the country and the world who are visiting the area. The park’s recreational visitors come 
+from a wide variety of demographic backgrounds representing many ethnic, racial, and economic 
+groups reflective of the adjacent neighborhoods and society at large.  
+Most visitors to interpretive centers, concessions, and picnic areas drive to the park in private 
+automobiles. Many users of trails and Beach Drive arrive on foot, bicycle, or in-line skates.  
+Visitors come to the park for a wide variety of reasons, including walking, hiking, jogging, bicy-
+cling, communing with or studying nature, studying history, picnicking and family reunions, in-
+terpretive and educational programs, spiritual meditation, reading, writing, and creating art. The 
+length of a visitor’s stay depends on the purpose of the visit. A jogger may only stay an hour 
+while a picnicker may stay all day. Many visitors come to Rock Creek Park on a regular or fre-
+quent basis. 
+Park staff collect annual visitation statistics for the entire area that the park administers. Visitation 
+estimates are developed using park ranger counts, car counting devices, and formulas developed 
+by the NPS’ Socio-Economic Studies Division in 1991. Visitation statistics are gathered and ana-
+lyzed for all areas administered by the staff, so that visitation cannot be reported just for the area 
+included in this general management plan. Therefore, the visitation statistics in table 13 reflect 
+visitor use on all Rock Creek Park lands. 
+TABLE 13: AVERAGE ANNUAL VISITATION AT ROCK CREEK PARK, 1991 TO 1997 
+Visitation a/ 
+Annual Visitors 
+Total visits 
+14,464,000 
+Nonrecreational (commuters) 
+12,389,000 
+Recreational 
+2,075,000 
+a/ All values include visitation on Rock Creek Park lands that are not 
+included in this general management plan. 
+Recreational visits to Rock Creek Park occur fairly evenly over the warmer months of spring, 
+summer, and early fall, and drop off in the late fall and winter. This pattern has been recorded at 
+the nature center, where an average of 31 percent of annual visits occur during spring, another 31 
+percent occur during summer, 22 percent occur during fall, and 16 percent occur during winter.  
+Nonrecreational visits (commuters) are distributed evenly throughout the year, with an average of 
+25 percent of total visits occurring each season. Nonrecreational visitors are overwhelmingly 
+automobile commuters and, to a much lesser extent, nonmotorized commuters, principally cy-
+clists. During scoping, many commenters identified themselves as commuters (by both automo-
+142 
+ 
+Visitor and Community Values 
+bile and bicycle) and emphasized that they consider their commute through the park to be recrea-
+tional because it is an enjoyable ride through a scenic landscape and provides mental decompres-
+sion from the workday.  
+Visitation Trends and Visitor Services. In the 1980s, recreational visitation to Rock Creek Park 
+almost doubled, and then stabilized throughout the 1990s. In 1980 there were 1,060,000 recrea-
+tional visitors. By 1989, this number had risen to 2,050,000 recreational visitors. Since then, there 
+have been approximately 2 million recreational visitors each year. In the year 2000, the park sup-
+ported 2,036,000 recreational visits.  
+At the same time, the park’s visitor services have been severely reduced, resulting in a substantial 
+decline in visitation to the park’s two interpretive centers. The nature center and planetarium’s 
+visitation has dropped by more than half, from 49,000 visitors in 1979 to 24,000 visitors in 1997. 
+Peirce Mill visitation had a similar decline, from 31,000 visitors in 1979 to 12,000 visitors in 
+1997. Visitor services such as publications and wayside exhibits also are inadequate. The result is 
+that many visitors to Rock Creek Park never know they are in a national park. Most never have 
+contact with park rangers or receive any basic orientation or visitor services.  
+Noise. In early December 1996, noise levels were measured at 21 sites in and around Rock Creek 
+Park and the Rock Creek and Potomac Parkway (Robert Peccia and Associates et al. 1997). 
+Results included the following. 
+Peak traffic noise levels within the park and parkway ranged from a low of 57 decibels 
+(dB) equivalent sound level (Leq) at the 4th hole of the golf course to 79 dB Leq on the 
+jogging trail south of Calvert, about 10 feet from the Rock Creek and Potomac Parkway. 
+Peak and off-peak noise levels were quite similar. Readings between these two periods 
+varied by 4 dB or less at all 17 sites at which both peak and off-peak measurements were 
+made. 
+Peak noise levels at seven sites met or exceeded the Federal Highway Administration’s 
+(FHWA’s) noise abatement criterion (NAC) of 67 dB Leq. All of these sites were within 
+100 feet of Beach Drive or the Rock Creek and Potomac Parkway and four of the seven 
+were within 25 feet of the roads. Noise levels at four of these sites also met or exceeded 
+the NAC during off-peak periods. 
+Generally, the study found the following.  
+Picnic areas along Beach Drive north of Military Road are not adversely affected 
+by traffic noise.  
+South of Military Road, traffic noise exceeds FHWA standards at picnic areas 
+that are within 60 feet of Beach Drive.  
+Visitor facilities within 110 feet to 125 feet of the Rock Creek and Potomac 
+Parkway typically experience noise levels above the FHWA standard.  
+The noise standard is frequently exceeded along segments of recreation trails 
+within 100 feet of Beach Drive and the parkway.  
+ 
+143 
+AFFECTED ENVIRONMENT 
+Noise samples near residences along Oregon Avenue, 16th Street, and Broad Branch 
+Road, at Kalorama Circle and at the National Zoo were all within the FHWA standard. 
+REGIONAL AND LOCAL TRANSPORTATION 
+Regional Traffic Flows. Traffic congestion in the Washington, D.C. metropolitan area is the 
+second worst in the nation (Reid 1998). A detailed description of traffic conditions in the vicinity 
+of the park and parkway is provided in Transportation Study, Rock Creek Park, Washington, D.C. 
+(Robert Peccia & Associates 1997). The roads in the vicinity of Rock Creek Park are an impor-
+tant component of the urban road network of Washington, D.C.  
+Principal arterial routes radiate out from the center of the district and include Massachu-
+setts, Wisconsin, Connecticut, Nebraska, Georgia, and Virginia Avenues as well as 16th 
+Street. Many of the arterial streets extend into Maryland and are primary commuter and 
+delivery routes into the district.  
+Military Road, the Whitehurst Freeway, and Porter, Harvard, Calvert, and M Streets trav-
+erse the park and provide for cross-town traffic. 
+The Year 1990 Average Weekday Traffic Volumes map presents traffic counts on major roads in 
+the vicinity of Rock Creek Park in 1990.  
+As shown on the map, the major arterials each had an average daily traffic (ADT) count 
+of 20,000 to 40,000 vehicles  
+On weekdays, the peak-hour morning count and peak-hour evening count were nearly 
+identical (difference of 10 percent or less) for almost every major roadway. 
+On almost all of these roads, the peak-hour morning count and peak-hour evening count 
+each accounted for approximately 8 percent to 9 percent of the ADT. 
+During the morning and evening commuting periods, traffic levels on these arterial roadways 
+typically meet or exceed their capacities. Table G.1 in appendix G shows the 1990 average daily 
+traffic volumes for the major roadways in the area. The roadways usually can accommodate these 
+high traffic volumes through aggressive traffic management measures such as reversing lanes 
+during commuting periods.  
+Both morning and evening traffic counts on virtually all of the roads in the mapped area have in-
+creased in the past 10 years. However, the patterns described above are still occurring. A traffic 
+validation using actual traffic volumes from the year 1999 is provided in appendix H. 
+Excellent public transportation opportunities occur in the area. The Washington Area Metropoli-
+tan Transit Authority provides Metro Bus service throughout the area. The Metro Rail’s red line 
+runs to the west of the park and the green line runs to the east of the park. Several Metro Rail 
+stops are within 1 mile of the central portion of the park. 
+144 
+ 
+Rock Creek Park
+Georgetown
+University
+Walter Reed
+Army Medical
+Center
+US
+Naval
+Observatory
+American
+University
+POTOMAC RIVER
+National
+Zoological
+Park
+MARYLAND
+DISTRICT OF COLUMBIA
+DISTRICT OF COLUMBIA
+VIRGINIA
+Chevy
+Chase
+Circle
+Dupont
+Circle
+Washington
+Circle
+White
+House
+Kennedy
+Center
+Lincoln
+Memorial
+Washington
+Monument
+Sheridan
+Circle
+50
+29
+66
+66
+50
+410
+410
+190
+193
+355
+390
+29
+29
+29
+29
+Massachusetts Avenue
+Massachusetts Avenue
+K Street
+Constitution Avenue
+Theodore
+Roosevelt
+Bridge
+M Street
+Whitehurst
+Freeway
+P Street
+Pennsylvania
+Ave.
+Virginia Ave.
+23rd St.
+22nd St.
+Foxhall Road
+Mac Arthur
+Boulevard
+Lee Highway
+George Washington
+Memorial Parkway
+Military Road
+River Road
+Nebraska Avenue
+Alaska Avenue
+Beach Dr.
+Wise Rd.
+Sherrill
+Dr.
+Aspen St.
+Bingham Dr.
+Beach Dr.
+Joyce
+Rd.
+Kennedy St.
+16th St.
+16th St.
+17th St.
+Georgia Ave.
+Morrow
+Dr.
+Ross Dr.
+Beach Dr.
+Colorado Ave.
+Blagden Ave.
+Branch Pkwy.
+Piney
+Tilden St.
+Park Rd.
+Porter St.
+Cathedral
+Calvert
+Florida Ave.
+Rock Creek and
+Potomac Pkwy.
+St.
+Ave.
+24th St.
+Beach Dr.
+Adams Mill Rd.
+Klingle
+Rd.
+Harvard St.
+Arkansas Ave.
+Grant Rd.
+Glover Rd.
+Broad
+Branch Rd.
+27th St.
+Oregon Ave.
+W. Beach
+E. Beach
+N. Portal Dr.
+S. Portal Dr.
+Wisconsin Avenue
+Wisconsin Avenue
+East
+West
+Highway
+Connecticut Avenue
+Connecticut Avenue
+New Hampshire
+Avenue
+Rock
+Creek
+Park
+Parkside Dr.
+N
+Map Scale: 1"= 0.5 Miles
+(Joyce Rd.)
+0 - 5,000
+5,000 - 10,000
+10,000 - 15,000
+15,000 - 20,000
+20,000 - 30,000
+30,000 - 40,000
+40,000 - 50,000
+Over 50,000
+11,500
+30,000
+29,000
+(2700/2700)
+(2600/2600)
+(1000/1300)
+(600/700)
+(600/700)
+(200/200)
+(1000/1100)
+(700/900)
+(200/300)
+(100/100)
+(100/100)
+(100/100)
+(3100/3300)
+(3000/3200)
+(2900/3100)
+(2300/2500)
+(2900/3000)
+(2000/2100)
+(2900/3000)
+(4900/5000)
+(500/500)
+(700/1000)
+(2600/2400)
+(1700/1700)
+(200/200)
+(500/600)
+(2000/2000)
+(400/400)
+(300/200)
+(200/200)
+(0/0)
+(100/0)
+(3200/3400)
+(2400/2600)
+(2100/2100)
+(2800/2800)
+(2300/2500)
+(1900/1900)
+(1700/1700)
+(2500/2600)
+(2400/2600)
+(700/1000)
+(400/400)
+(1400/1900)
+(500/600)
+(800/900)
+(700/700)
+(1300/1300)
+(3100/3300)
+(200/300)
+(800/800)
+(1700/2100)
+(400/400)
+(1200/1300)
+(2200/2000)
+(3100/3300)
+(2100/2100)
+(2500/2500)
+(1800/1800)
+(2100/2200)
+(1800/2000)
+(1100/1300)
+(3400/3200)
+(2400/2600)
+(800/900)
+(4400/4500)
+(3700/3600)
+(1700/2100)
+(2700/2700)
+(2900/2900)
+(1200/800)
+(200/200)
+(2200/2000)
+(2000/2000)
+(600/600)
+(2500/2500)
+(1800/1800)
+(2700/2700)
+(600/600)
+(3200/3200)
+(2500/2500)
+(2600/2600)
+(1000/900)
+36,000
+30,000
+28,000
+30,400
+32,200
+24,700
+43,400
+41,200
+25,000
+14,000
+40,000
+34,000
+52,400
+55,000
+24,000
+9,000
+19,800
+28,400
+900
+34,000
+20,600
+2,000
+1,200
+5,800
+22,300
+19,000
+21,000
+25,000
+33,400
+37,000
+16,000
+9,900
+2,000
+9,000
+30,800
+30,500
+30,200
+38,000
+6,800
+200
+9,000
+500
+7,100
+8,900
+5,000
+18,000
+10,100
+5,000
+36,200
+35,000
+34,000
+29,000
+33,500
+23,100
+33,500
+41,800
+1,600
+6,400
+22,000
+20,000
+29,000
+28,000
+6,800
+2,400
+5,400
+5,400
+10,200
+8,000
+1,000
+8,500
+8,700
+3,500
+2,500
+2,100
+1,700
+24,000
+46,000
+29,000
+29,500
+10,000
+10,200
+6,000
+22,000
+27,600
+44,000
+21,600
+23,000
+30,000
+(3900/3900)
+(800/900)
+(500/500)
+(3100/3400)
+(1600/1800)
+(3300/3700)
+(1700/1700)
+(3800/4200)
+(100/100) =
+(AM Peak Hour/PM Peak Hour)
+900 = ADT
+022/736308/rocr20045.cdr 1/09/02
+ROCK CREEK PARK / ROCK CREEK AND POTOMAC PARKWAY • WASHINGTON, DC
+DCS • January 2002 • 821 / 20045
+United States Department of Interior • National Park Service
+YEAR 1990 AVERAGE WEEKDAY TRAFFIC VOLUMES
+AFFECTED ENVIRONMENT 
+ 
+146 
+ 
+Visitor and Community Values 
+Local Traffic Flows. The Rock Creek and Potomac Parkway and Beach Drive are the principal 
+roads within Rock Creek Park.  
+The Rock Creek and Potomac Parkway extends approximately 2.5 miles from the Theo-
+dore Roosevelt Bridge in the core of the district north to Calvert Street. The parkway is a 
+four-lane, paved, limited-access facility with a posted speed limit of 35 miles per hour.  
+As shown on the Year 1990 Average Weekday Traffic Volumes map, this road-
+way carried more traffic than any other in the vicinity, with average daily traffic 
+(ADT) counts of 40,000 to 55,000 vehicles. 
+Traffic patterns were very similar to those described above for other arterials, 
+with similar morning and evening traffic volumes and peak-hour counts during 
+the morning and evening each accounting for approximately 8 percent to 9 per-
+cent of the ADT. 
+From Calvert Street, Beach Drive extends approximately 6.5 miles north to the Maryland 
+state line. Beach Drive is a two-lane, paved road with a posted speed limit of 25 miles per 
+hour. In 1990, traffic exhibited the following characteristics. 
+Between Wise Road and Blagden Avenue, average daily traffic counts were 
+8,000 to 9,000 vehicles. 
+From Blagden Avenue south to the Rock Creek and Potomac Parkway, counts 
+ranged from 18,000 to 24,700 vehicles per day. 
+On all stretches there was slightly more evening traffic than morning traffic. At 
+all sites shown on the map, peak-hour evening traffic represented 9 percent to 11 
+percent of the average daily traffic, while morning peak-hour traffic accounted 
+for 7 percent to 9 percent of the daily total. 
+As with the arterials, traffic has increased since 1990 on both the Rock Creek and Potomac 
+Parkway and on Beach Drive. However, accurate estimates of the changes are not available. 
+Twenty-four entry routes provide access to Rock Creek Park (see Existing Conditions map). Al-
+though the park is closed at dark, park roads and entry points remain open. 
+Major entry points north of Military Road include Beach Drive at the Maryland state line, 
+West Beach Drive, and Wise Road.  
+South of Military Road, major entry points include Joyce Road, Morrow Drive, Broad 
+Branch Road, Blagden Avenue, Park Road, Tilden Street, and Piney Branch Parkway.  
+Visitors can also enter the park from 16th Street NW, the Kennedy Street area, and from 
+the National Zoological Park.  
+Commuting has the greatest effect on traffic flows through Rock Creek Park. Traffic volumes 
+show little seasonal variation and the highest traffic levels correspond to the peak morning and 
+evening commuting times. To accommodate these peaks in commuter traffic, all lanes of the 
+ 
+147 
+AFFECTED ENVIRONMENT 
+Rock Creek and Potomac Parkway are designated as one-way southbound during the morning 
+commute period and one-way northbound during the evening commute.  
+To provide recreational opportunities for pedestrians, bicyclists, and in-line skaters, the park 
+closes portions of Beach Drive to motorized vehicle traffic during the day on weekends and holi-
+days. During these times, Beach Drive is closed from Broad Branch Road to Joyce Road, picnic 
+grove 10 to Wise Road, and West Beach Drive to the Maryland state line. Bingham Drive and 
+Sherrill Drive also are closed. 
+During the week when all park roads are open to commuter traffic, interactions are common be-
+tween automobiles and nonmotorized users, such as bicyclists and pedestrians. These particularly 
+occur in areas where a trail does not parallel Beach Drive, where pedestrians and bicyclists often 
+enter the traffic flow. 
+To understand commuter patterns, the National Park Service commissioned a license plate survey 
+in 1996 (Robert Peccia & Associates 1997). The survey results indicated the following. 
+During weekday rush-hours, more than 99 percent of all vehicles using the Rock Creek 
+and Potomac Parkway and more than 95 percent of vehicles entering Rock Creek Park 
+pass through without stopping.  
+Commuting patterns through Rock Creek Park do not simply flow north and south. In-
+stead, many rush-hour drivers use segments of park roads to traverse the park and reenter 
+the city street grid.  
+Only 3 percent of the vehicles that enter the park at the Maryland state line exit 
+onto the parkway.  
+In the morning, the greatest number of vehicles that exit onto the parkway enter 
+the park at Broad Branch Road (17 percent), Blagden Avenue (20 percent), and 
+Piney Branch Parkway (34 percent).  
+In the evening, the patterns are very similar. Only 1 percent of the vehicles that 
+enter from the parkway exit the park at the Maryland state line. The majority of 
+vehicles exit onto Broad Branch Road (18 percent), Blagden Avenue (19 per-
+cent), and Piney Branch Parkway (33 percent). 
+The study also determined vehicle occupancy in August 1996. During commuting periods, the 
+average vehicle occupancy on park roads ranged from a low of 1.09 people per vehicle on Mor-
+row Drive to a high of 1.38 people per vehicle on Tilden Street. On nearby streets in the district, 
+the results ranged from 1.22 people per vehicle on Oregon Avenue to 1.34 people per vehicle on 
+16th Street. These averages indicate that much of the rush-hour use is by vehicles with a single 
+occupant (Robert Peccia & Associates 1997). 
+Higher traffic volumes during peak hours cause delays at certain intersections during the 
+commuting periods (Robert Peccia & Associates 1997).  
+In the morning, the following intersections failed or functioned very poorly: Beach Drive 
+and Blagden Avenue, Beach Drive and Piney Branch Parkway, Beach Drive and Tilden 
+Street/Park Road, and 16th Street and Kennedy Drive/Morrow Road.  
+148 
+ 
+Visitor and Community Values 
+In the evening, failures or poor operations occurred at Beach Drive and Joyce Road, 
+Beach Drive and Porter Road, and Beach Drive and Tilden Street/Park Road. 
+Most vehicles travel at or above the posted speed limit through the park. Spot speed checks re-
+vealed that the average speed was 15 miles per hour over the posted speed limit. Commuters in 
+Rock Creek Park also tend to have more aggressive driving habits than do visitors unfamiliar with 
+the park. A detailed speed analysis can be found in Transportation Study, Rock Creek Park, 
+Washington, D.C. (Robert Peccia & Associates 1997). 
+Traffic Safety. An analysis of accidents on park roads between January 1, 1993 and December 
+31, 1995 was included in the Transportation Study, Rock Creek Park, Washington, D.C. (Robert 
+Peccia & Associates 1997). All of the information is this section is from that report. 
+The accident investigation indicated that the frequency and severity of accidents are relatively 
+low for an urban area. However, the relatively low number of serious accidents in the park may 
+result in part from a perceived risk to personal safety. During weekdays, the high traffic speeds 
+and heavy volumes may discourage recreational use, one of the primary purposes of the park.  
+According to the 3-year accident study, the greatest safety problems are excessive vehicle speeds 
+and aggressive driving tendencies. Conflicts between automobiles and recreational visitors are 
+common, even when accidents are avoided.  
+A total of 1,175 accidents were reported from Rock Creek Park and the Rock Creek and Potomac 
+Parkway during the 3-year period. A summary of the accidents, separated into three geographic 
+areas, is provided in table 14. 
+TABLE 14: SUMMARY OF TRAFFIC ACCIDENTS IN ROCK CREEK PARK AND THE ROCK 
+CREEK AND POTOMAC PARKWAY, 1993 THROUGH 1995 
+ 
+Accident Type 
+Beach  
+Drive 
+Other  
+Park Roads 
+Rock Creek and 
+Potomac Parkway 
+Total 
+Total accidents 
+294 (25%) 
+224 (19.1%) 
+657 (55.9%) 
+1,175 (100%) 
+Fatal accidents 
+1 (0.3%) 
+1 (0.4%) 
+2 (0.3%) 
+4 (0.3%) 
+Injury accidents 
+75 (25.5%) 
+45 (20.1%) 
+155 (23.6%) 
+275 (23.4%) 
+Property damage only 
+218 (74.2%) 
+178 (79.5%) 
+500 (76.1%) 
+896 (76.3%) 
+Collision with motor ve-
+hicle or other object  
+273 (92.9%) 
+210 (93.8%) 
+621 (94.5%) 
+1,104 (94.0%) 
+Collision involved pedes-
+trian or bicyclist 
+13 (4.4%) 
+4 (1.8%) 
+11 (1.7%) 
+28 (2.4%) 
+Non-collision accidents 
+8 (2.7%) 
+10 (4.5%) 
+25 (3.8%) 
+43 (3.6%) 
+Among the recorded accidents, almost 56 percent occurred on the parkway. Twenty-five percent 
+were on Beach Drive, and 19 percent were on other park roads.  
+In all three areas, most accidents (more than 92 percent) involved collisions with other cars or 
+collisions with objects such as poles, signs, trees, guardrails, rocks, bridges, ditches, or animals. 
+On Beach Drive, collisions of motor vehicles with pedestrians or bicyclists accounted for 4.4 per-
+ 
+149 
+AFFECTED ENVIRONMENT 
+cent of traffic accidents. Other park roads (1.8 percent) and the parkway (1.7 percent) had lower 
+percentages of accidents involving collisions of motorized vehicles with pedestrians or cyclists. 
+Despite the difference in percentages of accidents involving pedestrians and cyclists, all three ar-
+eas had similar fatality levels of 0.3 to 0.4 percent. Higher rates of collisions along Beach Drive 
+with pedestrians and bicyclists probably were reflected by the injury rate of more than 25.5 per-
+cent, compared to 20.1 percent for other park roads and 23.6 percent along the Rock Creek 
+Parkway. The injury rate along the parkway may reflect the higher traffic speeds. 
+In the 3-year period, there was little difference by year in the number of accidents occurring or 
+the severity of the accidents (injury versus property damage only). This relatively constant level 
+of accidents was observed in all three areas. 
+Beach Drive. If traffic conditions were identical throughout the week, each day would be ex-
+pected to represent approximately 14 percent of the traffic accidents. However, the analysis of ac-
+cidents on Beach Drive shows otherwise. During the work week, almost 19 percent of traffic ac-
+cidents occurred on Tuesdays, while only 12 percent occurred on Wednesdays. 
+On Saturdays, three segments of Beach Drive are closed to motorized vehicles, and commuter use 
+is absent. Despite traffic reductions associated with these factors, fully 14 percent of the traffic 
+accidents on Beach Drive occurred on Saturdays. These same conditions (road closures and lack 
+of commuters) also occur on Sundays, but Sunday accidents represented only about 8 percent of 
+the weekly total. 
+The locations of the 518 accidents that were recorded in the park north of the parkway were 
+mapped. Of these, nearly 57 percent occurred on Beach Drive. Other roads in the park that had 5 
+percent or more of the traffic accidents included Piney Branch Parkway (8 percent), Glover Road 
+(6 percent), and Wise Road (5 percent). 
+Anecdotal evidence would indicate that many accidents occur along the narrow portion of Beach 
+Drive where there is no trail, and pedestrians and cyclists enter the traffic flow. However, map-
+ping shows that only 29 accidents, including six with injuries and no fatalities, occurred in the 
+three-quarter-mile stretch extending from the intersection with Broad Branch Road north across 
+Boulder Bridge and through the gorge area. More than half of these accidents occurred near the 
+intersection at the south end of this segment. Factors that could contribute to the low incidence of 
+traffic accidents along this stretch of road probably include its closure to motorized traffic on 
+weekends and holidays, and the extra caution taken by motorists who recognize the gorge area as 
+potentially dangerous. 
+The portion of Beach Drive south of the Wise Road intersection to picnic grove #10, which also 
+is closed on weekends, had a similarly low level of accidents. However, this area appears to have 
+an unusually high ratio of injury accidents (almost 60 percent, compared to 23 percent throughout 
+the remainder of the park). The weekend closure segment between West Beach Drive and the 
+Maryland border has accident and injury rates similar to those occurring along other parts of 
+Beach Drive that are not closed on weekends. 
+150 
+ 
+Visitor and Community Values 
+Fatalities. Four traffic fatalities occurred in the park and along the parkway during the 3-year pe-
+riod. Two of the fatalities occurred along the Rock Creek and Potomac Parkway. One was located 
+southbound on the parkway near K Street, and the other was on the parkway near Virginia. One 
+of these fatal accidents was in September and the other was in October. 
+Both were collisions with pedestrians, and in both instances the fatality was a pedestrian. 
+Both accidents occurred in lighted areas, during mid-week, in the late evening or early 
+night, in rainy weather, and on wet roads. 
+Contributing factors for both fatalities involved a pedestrian illegally on the roadway 
+wearing clothing that was not visible. 
+The other two fatalities were recorded in the park.  
+Both fatalities were single-vehicle accidents where the driver died after colliding with a 
+fixed object. Both occurred during the mid-week, in the late evening or early night. 
+One accident occurred in March in clear weather on dry roads. It was located on Morrow 
+Drive south of Joyce Road. 
+The other was in November on wet roads in sleet, hail, or freezing rain. It occurred on 
+Beach Drive near Blagden Road. Driving too fast for conditions was cited as a contribut-
+ing factor. 
+Traffic Accidents involving Pedestrians and Bicyclists. As shown in table 14, there were 28 traffic 
+accidents involving motorized vehicles and pedestrians or bicyclists during the 1993 through 
+1995 period. Eleven of these accidents were reported on the Rock Creek and Potomac Parkway.  
+Six of these were collisions with pedestrians, four were collisions with bicycles, and one 
+accident report listed a pedestrian or cyclist as a contributing factor.  
+Two of the 11 accidents were fatalities, both of which killed the pedestrian. Additional 
+information on these two accidents was provided above. 
+Six of the accidents resulted in injuries, three of which injured a pedestrian or bicyclist. 
+In the other three cases, an occupant of the vehicle was injured. 
+Seven of the accidents occurred during the mid-week (Tuesday through Thursday). Five 
+occurred during low-light conditions.  
+Contributing factors included “pedestrian/cyclist illegally in roadway” (six accidents), 
+“pedestrian/cyclist disregarded traffic control” (three accidents), and “pedestrian/cyclist 
+clothing not visible” (two accidents). 
+Within Rock Creek Park, there were 17 accidents involving pedestrians or bicyclists. Thirteen of 
+these occurred on Beach Drive and four were on other park roads. 
+ 
+151 
+AFFECTED ENVIRONMENT 
+Five of the accidents were classified as collisions with pedestrians, and 12 were classified 
+as collisions with bicycles. 
+Eleven accidents resulted in injuries, four of which injured a pedestrian or bicyclist. In 
+the other seven cases, an occupant of the vehicle was injured. There were no fatalities. 
+Ten of the accidents occurred on a Saturday or Sunday. Only two occurred during low-
+light conditions.  
+All but one of the 17 accidents involved two or more motorized vehicles.  
+Factors most commonly cited as contributing to these accidents included “driver failed to 
+yield the right of way” (five accidents) and “driver disregarded traffic signs, signals, or 
+road markings” (three accidents). 
+Accident Rates. The accident rate for a road segment is described as the number of accidents per 
+100 million vehicle-miles traveled. Accident rates also can be determined for fatal and injury ac-
+cidents.  
+Accident, injury, and fatality rates were calculated for the park and parkway for the 3-year period, 
+1993 through 1995. The results are presented in table 15. The area evaluated for the Rock Creek 
+and Potomac Parkway extended from Calvert Street to Ohio Drive. Park data included Beach 
+Drive from the Maryland line to the intersection with the parkway south of the National Zoo. 
+For comparison, table 15 also includes average accident, injury, and fatality rates in Washington, 
+D.C. for 1993 through 1995 (calculated from data from the District of Columbia in 1995) and na-
+tionwide in 1998 (Federal Highway Administration 1999). The parkway had accident rates that 
+were higher than those occurring throughout Washington, D.C., but lower injury rates, and fatal-
+ity rates that matched those both in the city and nationwide. On Beach Drive, the accident rate 
+was about 10 percent lower than the citywide rate, with an injury rate that was 33 percent lower 
+and a fatality rate about 20 percent below both the city and national averages. 
+TABLE 15: ACCIDENT RATES FOR THE ROCK CREEK AND POTOMAC PARKWAY,  
+BEACH DRIVE, AND WASHINGTON, D.C. 
+ 
+ 
+Location 
+Accident Rate  
+(per 100 million  
+vehicle-miles traveled) 
+Injury Rate  
+(per 100 million  
+vehicle-miles traveled) 
+Fatality Rate  
+(per 100 million  
+vehicle-miles traveled) 
+Rock Creek and Potomac 
+Parkway  
+540 
+127 
+1.6 
+Beach Drive 
+387 
+99 
+1.3 
+Washington, D.C. area 
+425 
+147 
+1.6 
+Nationwide 
+-- 
+125 
+1.6 
+152 
+ 
+Visitor and Community Values 
+Mass Transportation. There are 14 Metrorail stations within 1 mile of the park and parkway 
+(see Vicinity map) and numerous bus stops. The Washington Metropolitan Area Transit Author-
+ity provides bus and rail service in the region, which includes the District of Columbia, two coun-
+ties in Maryland, and three counties in Virginia. Ridership between July and the end of Septem-
+ber 1999 totaled more than 1 million, a sizable portion of the 3.2 million residents in the service 
+area (www.wmata.com/METFACTS/facsnfigs.htm).  
+Transit buses and commercial vehicles are not permitted on park roads or the parkway. The num-
+ber of visitors entering the park and parkway by foot or bicycle from the mass transit network is 
+unknown, but is believed to be relatively small. 
+Nonmotorized Transportation Flows. Nonmotorized transportation in this document includes 
+walking, bicycling, and other means of personal transport for the purpose of getting from one lo-
+cation to another. This contrasts with nonmotorized recreation, defined here as walking or riding 
+for pleasure, fitness, or some other recreational purpose. 
+The 1990 census reported that 5 percent of the population of the District of Columbia bicycles to 
+work. Studies prepared for the National Capital Region Transportation Planning Board 
+(NCRTPB) of the Metropolitan Washington Council of Governments (MWCOG) reported that 
+cyclists represent a wide range of ages, and more than half have an annual income of $75,000 or 
+greater (Bairstow 1995a and 1995b).  
+A recent survey (Sacks 1994) found that 67 percent of all users on the paved recreation trails in 
+Rock Creek Park and along the parkway during weekday peak hours were engaged in transporta-
+tion rather than strictly recreation. Average distance traveled by such users was 5.3 miles. Typical 
+nonmotorized transportation participants in the park and parkway lived within 2 miles of the 
+paved trail system and were going to destinations within 1 mile of the trail.  
+Bicycling is the most popular form of nonmotorized transportation along the park and parkway, 
+accounting for 54 percent to 86 percent of average weekday nonmotorized transit during a 1-day 
+August 1996 survey (Robert Peccia & Associates 1997). Surveys (Bairstow 1995a and 1995b) of 
+morning peak-hour bicyclists along the Rock Creek and Potomac Parkway trail determined the 
+following characteristics. 
+Eighty-five percent of the trail users were going to destinations in the district and 16 per-
+cent were headed through the park to locations in Arlington, Virginia.  
+Bicyclists averaged 9.9 miles per trip on paved trails.  
+Sixty-eight percent of cyclists preferred off-street trails while 20 percent preferred bike 
+lanes on streets or sharing streets with automobiles.  
+Bad weather was the greatest deterrent to cycling (72 percent). The threat to safety from 
+traffic was the second most frequently mentioned deterrent (35 percent).  
+The same survey of bicyclists on radial routes into the city documented that paved trails have a 
+5-fold or greater increased bicycle use compared to designated street routes or low-traffic roads 
+(Bairstow 1995a and 1995b). This survey, combined with 1993 counts, indicated about 60 bicy-
+ 
+153 
+AFFECTED ENVIRONMENT 
+cles per hour during the evening peak-hours on the Rock Creek and Potomac Parkway paved trail 
+at P Street. The studies considered 12 to 80 bikes per hour to be in the high range for the region.  
+A 1-day, 8-hour sample of nonmotorized transportation in the park and parkway was collected on 
+Thursday, August 22, 1996 (Robert Peccia & Associates 1997). Similarly to the NCRTPB survey 
+(Bairstow 1995a and 1995b), the Peccia survey found preferential use of trails, with an average 
+weekday hourly volume of 34 users per hour on the bike/foot trail south of the Beach Road/Broad 
+Branch Road intersection and 14 users per hour on Beach Drive north of this intersection. Beach 
+Drive in the vicinity of Joyce Road averaged 22 users per hour, and 112 users per hour were re-
+corded on the bike/foot path along the Rock Creek and Potomac Parkway south of P Street. 
+Little information is available on pedestrian nonmotorized transportation. Most weekday and 
+weekend walkers appear to be recreationists, but a small percentage of pedestrians are likely 
+walking to their jobs or to some other destination.  
+There are several hundred miles of paved trails and designated bicycle routes in the region. Major 
+trails connecting to the paved trails through Rock Creek Park and the parkway include the Rock 
+Creek Trail (in Rock Creek Regional Park, Maryland), the Capital Crescent Trail, and the C and 
+O Canal Trail. 
+COMMUNITY CHARACTERISTICS 
+Community characteristics are included as an impact topic based on the criteria presented in the 
+“Impact Topics - Resources and Values at Stake in the Planning Process” section. 
+Metropolitan Washington, D.C. The Washington, D.C. metropolitan area is generally illustrated 
+in the Regional map shown at the beginning of this general management plan. More than 4 
+million people reside in the U.S. Census Bureau’s Washington metropolitan statistical area, 
+including just over 600,000 who live within the boundaries of the district. The remainder of the 
+statistical area consists of five Maryland counties, six Virginia counties, and four Virginia cities 
+(District of Columbia Government 1996c). 
+Washington, D.C.’s population is approximately 66 percent African American, 30 percent white, 
+and 4 percent other races. Approximately 5 percent of Washington, D.C.’s citizens also identify 
+themselves as Latino. Compared to statistics from the 50 states, the district’s per capita income is 
+the third highest in the nation, and in 1989 was 42 percent above the national average (District of 
+Columbia Government 1996c). 
+Generalizations cannot be made about ethnic composition of the nearby areas in Maryland and 
+Virginia. For example, populations in some of these communities are 90 percent or more white, 
+while the Takoma Park area just north of the Maryland state line is 36 percent black, 48 percent 
+white, and 16 percent other races, with about 17 percent of the residents identifying a Latino 
+heritage.  
+154 
+ 
+Visitor and Community Values 
+Surrounding Wards and Neighborhoods. The Neighborhood map shows the Washington, D.C. 
+wards and neighborhoods in the vicinity of the park. It also shows the Maryland communities of 
+Chevy Chase, Silver Springs, and Takoma Park that are just north of the park.  
+Within the District of Columbia, eight wards have been established for purposes of voting and 
+representation. As shown in the Neighborhood map, four of the wards border the park. Detailed 
+descriptions of the wards are available in Indices: A Statistical Index to District of Columbia 
+Services (District of Columbia Government 1996c). Table 16 summarizes some of the ward 
+characteristics. 
+Each ward includes from four to six Advisory Neighborhood Commissions (ANCs) that advise 
+the district government on matters of public policy and review and make recommendations 
+concerning neighborhood planning and development. They also participate in the district’s 
+comprehensive planning process. The ANCs do not correlate to the traditional neighborhood 
+boundaries shown in the Neighborhood map. 
+As shown on the map, Rock Creek Park and the parkway are bordered by established urban 
+neighborhoods. Those in the district include Hawthorn, Chevy Chase, Forest Hills, Garfield 
+Heights, Massachusetts Park, North Cleveland Park, Cleveland Park, Massachusetts Avenue 
+Heights, Cathedral Heights, Georgetown, Central, Hillcrest, Mount Pleasant, Crestwood, 16th 
+Street Heights, Brightwood, Shepherd Park, and Colonial Village.  
+The neighborhoods surrounding the park are some of the most racially, ethnically, and 
+economically diverse in the Washington, D.C. metropolitan area. Many residential and mixed-use 
+areas, including Adams Morgan, DuPont Circle, and Georgetown, as well as office buildings and  
+foreign embassies, also are located near the park and parkway. During scoping, citizens living in 
+the adjoining neighborhoods both east and west of Rock Creek Park expressed concerns about 
+local increases in traffic that might be associated with changes in park management. 
+To the north of the park in Montgomery County, Maryland, are communities that are primarily 
+residential, with commercial development extending along the major thoroughfares. These 
+include Connecticut Avenue, Wisconsin Avenue, and 16th Street.  
+Montgomery County neighborhoods are grouped into planning areas. The three planning areas 
+nearest the park are Bethesda/Chevy Chase, Silver Spring, and Takoma Park. Table 17 
+summarizes some of the characteristics of the people living in each of these planning areas. A 
+complete profile of the planning areas is available from the Maryland-National Capital Park and 
+Planning Commission at:  
+http://www.clark.net/pub/mncppc/montgom/factmap/ 
+ 
+155 
+AFFECTED ENVIRONMENT 
+TABLE 16: GENERAL CHARACTERISTICS OF THE POPULATIONS OF  
+WASHINGTON, D.C. WARDS 1 THROUGH 4 a/ 
+ 
+ 
+Ward 1 
+ 
+Ward 2 
+ 
+Ward 3 
+ 
+Ward 4 b/ 
+Total  
+District 
+Population 
+79,641 
+78,743 
+77,774 
+78,425 
+606,900 
+Area (acres) c/ 
+1,222 
+4,025 
+4,746 
+3,087 - 
+3,706 d/ 
+27,879 - 
+29,779 d/ 
+Land area used for housing  
+82% 
+48% 
+87% 
+87% 
+75% 
+Median household size 
+(number of people) 
+2.17  
+1.75  
+1.91  
+2.53  
+2.26  
+Population density  
+(residents per acre) 
+66 
+19 
+13 - 16 d/ 
+21 - 25 d/ 
+20 - 22 d/  
+Residential population density 
+(residents per residential acre) 
+81 - 120 e/ 
+41 - 108 e/ 
+19 - 28 e/ 
+24 - 47 e/ 
+27 - 58 e/ 
+Median household income 
+$26,798 
+$31,716 
+$48,967 
+$33,025 
+$30,727 
+Age distribution 
+Under 18 years 
+17% 
+10% 
+12% 
+18% 
+19% 
+18-64 years  
+72% 
+78% 
+71% 
+82% 
+68% 
+65+ years 
+11% 
+12% 
+17% 
+18% 
+13% 
+Racial composition 
+Black 
+57% 
+35% 
+6% 
+85% 
+66% 
+White 
+30% 
+57% 
+88% 
+12% 
+30% 
+Other 
+13% 
+8% 
+6% 
+3% 
+5% 
+Also identified Latino 
+heritage 
+18% 
+7% 
+7% 
+5% 
+5% 
+Education attainment  
+Less than high school 
+diploma 
+32% 
+19% 
+6% 
+36% 
+27% 
+High school graduate 
+(only) 
+16% 
+12% 
+9% 
+25% 
+21% 
+College, 1-3 years 
+16% 
+17% 
+15% 
+24% 
+19% 
+College, 4 or more years 
+36% 
+52% 
+70% 
+25% 
+33% 
+Housing unit occupancy` 
+Owner occupied 
+25% 
+26% 
+47% 
+53% 
+35% 
+Renter occupied 
+64% 
+60% 
+48% 
+42% 
+54% 
+Vacant 
+11% 
+14% 
+5% 
+5% 
+11% 
+a/ All data are from District of Columbia Government 1996c. All population data are based on the 1990 census. 
+b/ Ward 4 data for age distribution and education attainment are in error in the source document and total more than 
+100 percent.  
+c/ Excludes public rights-of-way and areas within Rock Creek Park. 
+d/ The source document presents two values for this parameter. Therefore, both values are presented here as a range. 
+e/ The source document presents two values for this parameter, and a third can be calculated by dividing population by 
+land area used for housing. Therefore, the maximum and minimum values are presented here as a range. 
+156 
+ 
+R
+OC
+K
+Silver Spring
+Takoma
+Park
+Shepherd
+Park
+Colonial
+Village
+Hawthorne
+Chevy Chase
+Chevy Chase
+Brightwood
+Petworth
+16th
+Street
+Heights
+Forest Hills
+Wakefield
+North
+Cleveland Park
+Cleveland Park
+Crestwood
+Mt.
+Pleasant
+Columbia
+Heights
+Glover
+Park
+Burleith
+Georgetown
+Hillcrest
+Central
+Foggy
+Bottom
+Old
+City
+2
+Garfield
+Woodley
+North Cleveland Park
+National
+Zoo
+ROCK CREEK &
+POTOMAC PARKWAY
+Massachusetts Avenue Heights
+ROCK
+CREEK
+PARK
+Rock Creek Regional Park
+MNCPPC
+NEIGHBORHOODS
+ROCK CREEK PARK / ROCK CREEK AND POTOMAC PARKWAY  WASHINGTON, DC
+United States Department of Interior  National Park Service
+DCS  April 2002  821 / 20037
+Rock Creek Park and Rock
+Creek and Potomac Parkway
+Neighborhood Boundary
+Roads
+Water
+W
+ise
+Ro
+ad
+Sherrill
+Drive
+Be
+ac
+h
+D
+rive
+M
+il
+i
+t
+a
+r
+y
+R
+oa
+d
+Ro
+s
+s
+D
+r
+i
+v
+e
+Glo
+v
+e
+r
+R
+o
+a
+d
+P
+i
+n
+e
+y
+B
+ra
+n
+c
+h R
+o
+a
+d
+Connecticut Ave.
+Adams Morgan
+Kalorama Hgts.
+Massachusetts Ave.
+3000
+ 
+0
+ 3000
+Feet
+AFFECTED ENVIRONMENT 
+ 
+158 
+ 
+Visitor and Community Values 
+TABLE 17: GENERAL CHARACTERISTICS OF THE POPULATIONS OF  
+MARYLAND COMMUNITIES NEAR ROCK CREEK PARK a/ 
+ 
+Bethesda/ 
+Chevy Chase
+(Planning 
+Area 35) 
+ 
+Silver Spring
+(Planning 
+Area 36) 
+ 
+Takoma Park 
+(Planning  
+Area 37) 
+ 
+Total  
+Montgomery 
+County 
+Population 
+85,000 
+31,820 
+34,855 
+823,500 
+Area (acres) 
+12,864 
+2,816 
+4,096 
+318,080 
+Average household size  
+(number of people) 
+2.37 
+2.06 
+2.63 
+2.64 
+Population density  
+(residents per acre) 
+7 
+11 
+8 
+3 
+Median household income (1996) 
+$95,495 
+$49,500 
+$44,030 
+$66,085 
+Age distribution 
+Under 18 years 
+21% 
+18% 
+26% 
+25% 
+18-64 years 
+59% 
+70% 
+66% 
+63% 
+65+ years 
+20% 
+12% 
+8% 
+12% 
+Racial composition 
+Black 
+3% 
+26% 
+36% 
+13% 
+White 
+90% 
+62% 
+48% 
+73% 
+Other 
+7% 
+12% 
+16% 
+14% 
+Also identified Latino heritage 
+5% 
+8% 
+17% 
+9% 
+Education attainment level 
+Less than high school diploma 
+4% 
+7% 
+15% 
+8% 
+High school graduate (only) 
+18% 
+22% 
+29% 
+28% 
+Some college, no degree 
+2% 
+6% 
+5% 
+5% 
+College degree 
+76% 
+65% 
+51% 
+59% 
+Housing unit occupancy 
+ 
+ 
+ 
+ 
+Owner occupied or vacant 
+74% 
+35% 
+43% 
+71% 
+Rental unit 
+26% 
+65% 
+57% 
+29% 
+a/ All data are from Maryland-National Capital Park and Planning Commission 1999. All population data are based on 
+the 1997 census update survey. 
+ 
+159 
+AFFECTED ENVIRONMENT 
+In addition to Rock Creek Park, many other recreational and educational opportunities exist in the 
+area. Some of these are identified below. However, Rock Creek Park is unique because it is the 
+only major natural area in this urban environment. 
+More than 40 recreation centers, 25 swimming pools, and 75 tennis courts provide active 
+recreational opportunities in the areas neighboring the park.  
+More than 100 public and private schools are located in the surrounding area, along with 
+major universities such as American University, University of the District of Columbia, 
+George Washington University, Georgetown University, and Howard University.  
+Many other public parks occur in the area, including the C&O Canal National Historical 
+Park, the sites of the Civil War Defenses of Washington, Meridian Hill Park, Dumbarton 
+Oaks Park, Glover-Archbold Park, Montrose Park, and the National Zoological Park.  
+Montgomery County’s Rock Creek Regional Park borders Rock Creek Park to the north. 
+The regional park follows Rock Creek through southern Montgomery County and pro-
+vides many recreational opportunities such as fishing, boating, canoeing, picnic shelters, 
+a golf course, and trails.  
+160 
+ 

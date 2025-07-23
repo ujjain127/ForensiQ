@@ -1,0 +1,2603 @@
+Attachment A
+Original Market 
+Basket 
+(C)
+Market Basket 
+with Generic 
+Substitutes3 
+(D)
+Market Basket 
+with Generic & 
+Therapeutic 
+Substitutes4 
+(E)
+Original Market 
+Basket 
+(F)
+Market Basket 
+with Generic 
+Substitutes3 
+(G)
+Market Basket 
+with Generic & 
+Therapeutic 
+Substitutes4 
+(H)
+Original Market 
+Basket 
+(I)
+Market Basket 
+with Generic 
+Substitutes3 
+(J)
+Market Basket 
+with Generic & 
+Therapeutic 
+Substitutes4
+(K)
+Original Market 
+Basket 
+(L)
+Market Basket 
+with Generic 
+Substitutes3 
+(M)
+Market Basket 
+with Generic & 
+Therapeutic 
+Substitutes4 
+(N)
+Retail Profile 1
+VT 05089
+-42%
+-51%
+NA
+-34%
+-39%
+-46%
+-32%
+-36%
+-45%
+-33%
+-39%
+-46%
+Retail Profile 2
+NE 68507
+-51%
+-56%
+-85%
+-38%
+-44%
+-76%
+-29%
+-34%
+-73%
+-51%
+-56%
+-85%
+Retail Profile 3
+CA 93405
+-45%
+-46%
+-57%
+-42%
+-52%
+NA
+-27%
+-43%
+-56%
+-22%
+-47%
+NA
+Retail Profile 4
+ND 58503
+-46%
+NA
+NA
+-43%
+NA
+NA
+-41%
+NA
+NA
+-46%
+NA
+NA
+Retail Profile 5
+MD 21114
+-47%
+-60%
+NA
+-39%
+-49%
+-69%
+-30%
+-41%
+-56%
+-30%
+-45%
+-63%
+Retail Profile 6
+MO 63104
+-53%
+-73%
+-82%
+-23%
+-76%
+-76%
+5%
+-79%
+NA
+-53%
+-73%
+-82%
+Retail Profile 7
+WI 54915
+-39%
+NA
+-40%
+-36%
+NA
+-37%
+-30%
+NA
+-37%
+-39%
+NA
+-40%
+Retail Profile 8
+FL 33445
+-41%
+-59%
+-68%
+-37%
+-53%
+-64%
+-19%
+-55%
+-63%
+-12%
+-63%
+-66%
+Retail Profile 9
+IL 60093
+-64%
+-66%
+-66%
+-50%
+-59%
+NA
+-40%
+-52%
+NA
+-64%
+-66%
+-66%
+Retail Profile 10
+WA 98040
+-60%
+-67%
+NA
+-31%
+-51%
+NA
+-18%
+-53%
+-53%
+-60%
+-67%
+NA
+Retail Profile 11
+CA 91405
+-62%
+-64%
+-77%
+-41%
+-58%
+-79%
+-7%
+-17%
+-68%
+3%
+-17%
+-82%
+Retail Profile 12
+NY 10704
+-60%
+-65%
+NA
+-31%
+-58%
+NA
+-12%
+-33%
+NA
+8%
+-2%
+-3%
+Retail Profile 13
+NJ 07208
+-63%
+-87%
+NA
+-48%
+-70%
+NA
+-34%
+-56%
+NA
+-61%
+-65%
+-67%
+Retail Profile 14
+CO 80228
+-68%
+-87%
+NA
+-54%
+-76%
+NA
+-44%
+-47%
+NA
+-65%
+-68%
+-69%
+Retail Profile 15
+PA 19146
+-61%
+-69%
+-70%
+-28%
+-50%
+NA
+-9%
+-56%
+NA
+-61%
+-69%
+-70%
+Retail Profile 16
+TX 75205
+-48%
+NA
+NA
+-42%
+NA
+NA
+-37%
+NA
+NA
+9%
+NA
+9%
+Retail Profile 17
+NH 03303
+-40%
+-50%
+NA
+-33%
+-46%
+-44%
+-31%
+-43%
+-43%
+-38%
+-43%
+-51%
+Retail Profile 18
+VA 23462
+-50%
+-55%
+-84%
+-37%
+-44%
+-78%
+-28%
+-39%
+NA
+-50%
+-55%
+-84%
+Retail Profile 19
+NC 28215
+-45%
+-44%
+-56%
+-41%
+-54%
+NA
+-25%
+-53%
+NA
+-45%
+-44%
+-56%
+Retail Profile 20
+SC 29229
+-45%
+NA
+NA
+-43%
+NA
+NA
+-41%
+NA
+NA
+-45%
+NA
+NA
+Retail Profile 21
+GA 30577
+-47%
+-60%
+NA
+-39%
+-50%
+-69%
+-30%
+-45%
+-64%
+-42%
+-46%
+-63%
+Retail Profile 22
+AL 36081
+-48%
+-71%
+-81%
+-26%
+-79%
+NA
+3%
+-68%
+-76%
+-48%
+-71%
+-81%
+Retail Profile 23
+OH 45891
+-39%
+NA
+-40%
+-36%
+NA
+NA
+-30%
+NA
+-38%
+-39%
+NA
+-40%
+Retail Profile 24
+KY 40965
+-41%
+-59%
+-67%
+-36%
+-65%
+-71%
+-16%
+-49%
+-63%
+-41%
+-59%
+-67%
+Retail Profile 25
+AK 71753
+-66%
+-67%
+-67%
+-48%
+-62%
+-65%
+-40%
+-51%
+NA
+-66%
+-67%
+-67%
+Retail Profile 26
+MS 39204
+-60%
+-67%
+NA
+-28%
+-57%
+NA
+-14%
+-36%
+NA
+-60%
+-67%
+NA
+Retail Profile 27
+OK 73118
+-62%
+-64%
+-77%
+-38%
+-52%
+-70%
+4%
+-19%
+NA
+-62%
+-64%
+-77%
+Retail Profile 28
+KS 67601
+-62%
+-67%
+-66%
+-27%
+-54%
+NA
+-10%
+-32%
+NA
+-62%
+-67%
+-66%
+Retail Profile 29
+NM 87111
+-65%
+-86%
+NA
+-65%
+-69%
+NA
+-39%
+-61%
+NA
+-57%
+-62%
+-63%
+Retail Profile 30
+AZ 85621
+-68%
+-87%
+NA
+-55%
+-74%
+NA
+-44%
+-63%
+NA
+-54%
+-76%
+NA
+Retail Profile 31
+NV 89048
+-61%
+-69%
+-70%
+-27%
+-49%
+NA
+-10%
+-45%
+-61%
+-23%
+-71%
+-72%
+Retail Profile 32
+UT 84117
+-48%
+NA
+NA
+-39%
+NA
+-44%
+-34%
+NA
+NA
+-48%
+NA
+-49%
+Average
+-53%
+-65%
+-68%
+-39%
+-57%
+-63%
+-25%
+-46%
+-57%
+-42%
+-56%
+-60%
+Minimum  
+-39%
+-44%
+-40%
+-23%
+-39%
+-37%
+5%
+-17%
+-37%
+9%
+-2%
+9%
+Maximum 
+-68%
+-87%
+-85%
+-65%
+-79%
+-79%
+-44%
+-79%
+-76%
+-66%
+-76%
+-85%
+(1) Savings are applicable to the selected non-low-income beneficiaries in our study.  Low-income beneficiaries would experience higher savings, with the specific level of savings depending on their income. Results for baskets with generic and/or therapeutic 
+substitutes are reported, if generic substitutes are available and lower the cost of the original market basket.
+(2) A negative percentage indicates savings from the PDP compared to national cash prices.
+(3) The % savings with generic substitutes reflect the savings available through the plans that were originally ranked lowest-cost, 10th lowest-cost, and plan with the lowest premium. Source: Medicare Prescription Drug Plan Finder, 10/12/06.
+(4) The % savings with generic and therapeutic substitutes reflect the savings available through the plans that were originally ranked lowest-cost, 10th lowest-cost, and plan with the lowest premium. Source: Medicare Prescription Drug Plan Finder, 10/12/06.
+ATTACHMENT A: DRUG PLAN FINDER ANALYSIS: MEDICARE PDP SAVINGS COMPARED TO CASH PRICES1
+Retail Profile 
+(A)
+Beneficiary 
+State and Zip 
+Code 
+(B)
+% Savings for PDP with the Lowest Cost 2
+% Savings for PDP with the 10th Lowest Cost 2
+% Savings for PDP with the Median Cost2
+% Savings for PDP with the Lowest Premium 2
+Illustrative 
+Medicare 
+Beneficiary 
+Residence 
+(A)
+Drug2
+(B)
+Dosage 
+(C)
+Condition 
+(D)
+30 Day 
+Quantity 
+(E)
+Annual National 
+Cash Price3 
+(F)
+Annual Cost for 
+Lowest Cost 
+PDP4 
+(G)
+Annual Cost for 
+10th Lowest 
+Cost PDP4 
+(H)
+Annual Cost for 
+Median PDP 
+(I)
+Annual Cost for 
+Lowest 
+Premium PDP4 
+(J)
+Percentage 
+Savings for 
+Lowest Cost 
+PDP5 
+(K)
+Percentage 
+Savings for 
+10th Lowest 
+Cost PDP5 
+(L)
+Percentage 
+Savings for 
+Median PDP5 
+(M)
+Percentage 
+Savings for 
+Lowest Premium 
+PDP5 
+(N)
+National
+$5,888
+Windsor, VT 
+Original Market Basket
+$3,442
+$3,858
+$4,025
+$3,969
+-42%
+-34%
+-32%
+-33%
+05089
+Market Basket with Generic Substitutes 
+$2,857
+$3,591
+$3,772
+$3,601
+-51%
+-39%
+-36%
+-39%
+Market Basket with Generic and Therapeutic Substitutes
+NA
+$3,184
+$3,250
+$3,159
+NA
+-46%
+-45%
+-46%
+   Allegra              
+180mg tablet
+Allergies
+30
+   Albuterol Aerosol (G)
+90mcg 
+Asthma
+Two 17gm 
+inhalers/30 
+days
+   Advair Diskus        
+250/50mcg
+Asthma
+60
+   Singulair            
+10mg tablet
+Asthma
+30
+   Lotrel 
+(amlodipine/benazepril)
+5/10mg capsule
+Hypertension
+30
+National
+$3,940
+Lincoln, NE
+Original Market Basket
+$1,949
+$2,425
+$2,813
+$1,949
+-51%
+-38%
+-29%
+-51%
+68507
+Market Basket with Generic Substitutes 
+$1,752
+$2,201
+$2,581
+$1,752
+-56%
+-44%
+-34%
+-56%
+Market Basket with Generic and Therapeutic Substitutes
+$589
+$947
+$1,058
+$589
+-85%
+-76%
+-73%
+-85%
+   Prevacid DR        
+30mg capsule
+Acid Reflux/GERD
+30
+   Coumadin      
+5mg tablet
+Blood Thinner
+30
+   Furosemide Oral (G)  
+20mg tablet
+Heart Failure/Hypertension
+30
+   Lipitor              
+10mg tablet
+Hyperlipidemia
+30
+   Altace               
+5mg capsule
+Hypertension
+30
+   Klor-Con 10
+10meq tablet
+Potassium Replacement
+30
+National
+$7,497
+San Luis Obispo, 
+CA
+Original Market Basket
+$4,112
+$4,351
+$5,441
+$5,826
+-45%
+-42%
+-27%
+-22%
+93405
+Market Basket with Generic Substitutes 
+$4,061
+$3,602
+$4,304
+$3,976
+-46%
+-52%
+-43%
+-47%
+Market Basket with Generic and Therapeutic Substitutes
+$3,254
+NA
+$3,289
+NA
+-57%
+NA
+-56%
+NA
+    Glyburide (G)           
+5mg tablet
+Diabetes
+30
+    Glucophage 
+500mg tablet
+Diabetes
+90
+    Avandia              
+4mg tablet
+Diabetes
+30
+    Zocor                
+20mg tablet
+Hyperlipidemia
+30
+    Lisinopril/HCTZ (G)     
+20/25mg tablet
+Hypertension
+30
+    Coreg                
+6.25mg tablet
+Heart Failure
+60
+    Plavix               
+75mg tablet 
+Peripheral Arterial Disease
+30
+National
+$7,458
+Bismarck, ND
+Original Market Basket
+$4,028
+$4,224
+$4,379
+$4,028
+-46%
+-43%
+-41%
+-46%
+58503
+Market Basket with Generic Substitutes 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Market Basket with Generic and Therapeutic Substitutes
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+    Zyprexa
+10mg tablet 
+Antipsychotic
+30
+    Toprol XL            
+50mg tablet
+Hypertension
+30
+    Actonel              
+35mg tablet
+Osteoporosis
+4
+    Propoxyphene-N/APAP (G)
+100mg/650mg 
+tablet
+Pain
+120
+    Detrol  LA
+4mg capsule 
+Urinary Spasms
+30
+    Captopril (G)            
+25mg tablet
+Hypertension
+90
+National
+$7,090
+Crofton, MD 21114 Original Market Basket
+$3,785
+$4,308
+$4,931
+$4,979
+-47%
+-39%
+-30%
+-30%
+Market Basket with Generic Substitutes 
+$2,834
+$3,638
+$4,194
+$3,898
+-60%
+-49%
+-41%
+-45%
+Market Basket with Generic and Therapeutic Substitutes
+NA
+$2,202
+$3,102
+$2,610 NA
+-69%
+-56%
+-63%
+    Nexium               
+20mg capsule
+Acid Reflux/GERD
+30
+    Celexa               
+20mg tablet
+Antidepressant
+30
+    Aricept              
+5mg tablet
+Dementia
+30
+    Enalapril (G)         
+10mg tablet
+Hypertension
+30
+    Nifedipine ER (G)
+90mg tablet
+Hypertension
+30
+    Synthroid         
+0.1mg (or 100 
+MCG) tablet
+Hypothyroidism
+30
+    Fosamax              
+70mg tablet
+Osteoporosis
+4
+ATTACHMENT B: DRUG PLAN FINDER ANALYSIS: MEDICARE PDP SAVINGS COMPARED TO CASH PRICES1
+Retail Profile 4
+Retail Profile 1
+Retail Profile 5
+Retail Profile 2
+Retail Profile 3
+Illustrative 
+Medicare 
+Beneficiary 
+Residence 
+(A)
+Drug2
+(B)
+Dosage 
+(C)
+Condition 
+(D)
+30 Day 
+Quantity 
+(E)
+Annual National 
+Cash Price3 
+(F)
+Annual Cost for 
+Lowest Cost 
+PDP4 
+(G)
+Annual Cost for 
+10th Lowest 
+Cost PDP4 
+(H)
+Annual Cost for 
+Median PDP 
+(I)
+Annual Cost for 
+Lowest 
+Premium PDP4 
+(J)
+Percentage 
+Savings for 
+Lowest Cost 
+PDP5 
+(K)
+Percentage 
+Savings for 
+10th Lowest 
+Cost PDP5 
+(L)
+Percentage 
+Savings for 
+Median PDP5 
+(M)
+Percentage 
+Savings for 
+Lowest Premium 
+PDP5 
+(N)
+ATTACHMENT B: DRUG PLAN FINDER ANALYSIS: MEDICARE PDP SAVINGS COMPARED TO CASH PRICES1
+National
+$3,618
+St. Louis, MO
+Original Market Basket
+$1,703
+$2,793
+$3,810
+$1,703
+-53%
+-23%
+5%
+-53%
+63104
+Market Basket with Generic Substitutes 
+$982
+$878
+$774
+$982
+-73%
+-76%
+-79%
+-73%
+Market Basket with Generic and Therapeutic Substitutes
+$635
+$874
+NA
+$635
+-82%
+-76%
+NA
+-82%
+    Digitek (G)             
+0.125mg (125 
+MCG) tablet
+Heart Failure/Atrial Fib.
+30
+    Terazosin (G)      
+5mg capsule
+Benign Prostatic Hypertrophy
+30
+    Glucovance           
+5/500mg tablet
+Diabetes
+60
+    Lasix
+40mg tablet
+Fluid Retention/Hypertension
+30
+    Pravachol            
+40mg tablet
+Hyperlipidemia
+30
+    Zestril
+20mg tablet
+Hypertension
+30
+National
+$6,685
+Appleton, WI
+Original Market Basket
+$4,052
+$4,283
+$4,709
+$4,052
+-39%
+-36%
+-30%
+-39%
+54915
+Market Basket with Generic Substitutes 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Market Basket with Generic and Therapeutic Substitutes
+$3,991
+$4,213
+$4,186
+$3,991
+-40%
+-37%
+-37%
+-40%
+    Protonix             
+20mg tablet
+Acid Reflux/GERD
+30
+    Combivent 
+(ipratropium/albuterol)
+29.4gm
+Bronchospasm
+2 
+inhalers/30 
+days
+    Avapro               
+150mg tablet
+Hypertension
+30
+    Ambien               
+10mg tablet
+Sleep
+30
+    Prednisone (G)
+5mg tablet
+Steroid/Breathing
+30
+    Norvasc              
+10mg tablet
+Hypertension
+30
+National
+$6,904
+Delray Beach, FL
+Original Market Basket
+$4,086
+$4,363
+$5,569
+$6,093
+-41%
+-37%
+-19%
+-12%
+33445
+Market Basket with Generic Substitutes 
+$2,813
+$3,263
+$3,081
+$2,566
+-59%
+-53%
+-55%
+-63%
+Market Basket with Generic and Therapeutic Substitutes
+$2,223
+$2,503
+$2,525
+$2,333
+-68%
+-64%
+-63%
+-66%
+    Zyrtec       
+10mg tablet
+Allergies
+30
+    Zoloft               
+50mg tablet
+Antidepressant
+30
+    Evista               
+60mg tablet
+Hormone Replacement
+30
+    Hyzaar (losartan/HCTZ)
+50mg/12.5mg 
+tablet
+Hypertension
+30
+    Neurontin            
+600mg tablet
+Seizures
+90
+National
+$2,884
+Winnetka, IL
+Original Market Basket
+$1,026
+$1,455
+$1,721
+$1,026
+-64%
+-50%
+-40%
+-64%
+60093
+Market Basket with Generic Substitutes 
+$990
+$1,174
+$1,381
+$990
+-66%
+-59%
+-52%
+-66%
+Market Basket with Generic and Therapeutic Substitutes
+$980
+NA
+NA
+$980
+-66%
+NA
+NA
+-66%
+ Amitriptyline HCL (G)
+25mg tablet
+Antidepressant
+30
+ Glucotrol XL         
+10mg tablet
+Diabetes
+30
+ Metformin (G)
+500mg tablet
+Diabetes
+90
+ Alphagan P (brimonidine)
+0.0015
+Glaucoma
+10 mL bottle
+ Diovan HCT           
+160mg/25mg 
+tablet
+Hypertension
+30
+National
+$1,460
+Mercer Island, WA
+Original Market Basket
+$589
+$1,009
+$1,195
+$589
+-60%
+-31%
+-18%
+-60%
+98040
+Market Basket with Generic Substitutes 
+$480
+$716
+$689
+$480
+-67%
+-51%
+-53%
+-67%
+Market Basket with Generic and Therapeutic Substitutes
+NA
+NA
+$683
+NA
+NA
+NA
+-53%
+NA
+   Nitroglycerin (GSN 475) 
+SUBL    
+0.4mg tablet
+Angina
+100 ea 
+bottle
+Fluoxetine HCL (G)
+20mg capsule
+Antidepressant
+30
+Lanoxin              
+0.125mg (125 MCGHeart Failure/Atrial Fib.
+30
+   Hydrochlorothiazide  (G)
+25mg tablet
+Fluid Retention/Hypertension
+30
+Vasotec
+10mg tablet
+Hypertension
+30
+Klor-Con 10
+10meq tablet
+Potassium Replacement
+30
+Isosorbide Mononitrate ER 
+(G)
+60mg tablet
+Angina
+30
+Retail Profile 9
+Retail Profile 10
+Retail Profile 8
+Retail Profile 6
+Retail Profile 7
+Illustrative 
+Medicare 
+Beneficiary 
+Residence 
+(A)
+Drug2
+(B)
+Dosage 
+(C)
+Condition 
+(D)
+30 Day 
+Quantity 
+(E)
+Annual National 
+Cash Price3 
+(F)
+Annual Cost for 
+Lowest Cost 
+PDP4 
+(G)
+Annual Cost for 
+10th Lowest 
+Cost PDP4 
+(H)
+Annual Cost for 
+Median PDP 
+(I)
+Annual Cost for 
+Lowest 
+Premium PDP4 
+(J)
+Percentage 
+Savings for 
+Lowest Cost 
+PDP5 
+(K)
+Percentage 
+Savings for 
+10th Lowest 
+Cost PDP5 
+(L)
+Percentage 
+Savings for 
+Median PDP5 
+(M)
+Percentage 
+Savings for 
+Lowest Premium 
+PDP5 
+(N)
+ATTACHMENT B: DRUG PLAN FINDER ANALYSIS: MEDICARE PDP SAVINGS COMPARED TO CASH PRICES1
+National
+$2,676
+Van Nuys, CA
+Original Market Basket
+$1,014
+$1,586
+$2,488
+$2,758
+-62%
+-41%
+-7%
+3%
+91405
+Market Basket with Generic Substitutes 
+$972
+$1,133
+$2,217
+$2,220
+-64%
+-58%
+-17%
+-17%
+Market Basket with Generic and Therapeutic Substitutes
+$605
+$574
+$866
+$481
+-77%
+-79%
+-68%
+-82%
+   Aciphex
+20mg tablet
+Acid Reflux/GERD
+30
+  Doxazosin Mesylate (G)       4mg tablet
+Benign Prostatic Hypertrophy
+30
+  Triamterene w/HCTZ (G)
+37.5/25mg tablet
+Fluid Retention/Hypertension
+30
+  Accupril             
+20mg tablet
+Hypertension
+30
+National
+$2,035
+Yonkers, NY
+Original Market Basket
+$810
+$1,399
+$1,792
+$2,190
+-60%
+-31%
+-12%
+8%
+10704
+Market Basket with Generic Substitutes 
+30
+$709
+$863
+$1,363
+$1,992
+-65%
+-58%
+-33%
+-2%
+Market Basket with Generic and Therapeutic Substitutes
+NA
+NA
+NA
+$1,976
+NA
+NA
+NA
+-3%
+    Amaryl               
+4mg tablet
+Diabetes
+30
+    Premarin       
+0.625mg tablet
+Hormone Replacement
+30
+    Lisinopril (G)
+20mg tablet
+Hypertension
+30
+    Metoprolol Tartrate  (G)
+50mg tablet
+Hypertension
+60
+    Xalatan              
+0.00005
+Glaucoma
+2.5 ml bottle
+National
+$1,809
+Elizabeth, NJ 
+Original Market Basket
+$676
+$947
+$1,202
+$706
+-63%
+-48%
+-34%
+-61%
+07208
+Market Basket with Generic Substitutes 
+$244
+$534
+$802
+$628
+-87%
+-70%
+-56%
+-65%
+Market Basket with Generic and Therapeutic Substitutes
+NA
+NA
+NA
+$604
+NA
+NA
+NA
+-67%
+    Lotensin             
+20mg tablet
+Hypertension
+30
+    Cartia XT (G)   
+240mg capsule
+Hypertension
+30
+    Levoxyl              
+0.125mg (125 
+MCG) tablet
+Hypothyroidism
+30
+    Lovastatin (G)    
+40mg tablet
+Hyperlipidemia
+30
+National
+$1,937
+Denver, CO 
+Original Market Basket
+$629
+$891
+$1,087
+$674
+-68%
+-54%
+-44%
+-65%
+80228
+Market Basket with Generic Substitutes 
+$246
+$472
+$1,032
+$611
+-87%
+-76%
+-47%
+-68%
+Market Basket with Generic and Therapeutic Substitutes
+NA
+NA
+NA
+$592
+NA
+NA
+NA
+-69%
+    Tramadol HCL (G)    
+50mg tablet
+Pain
+120
+    Prinivil
+20mg tablet
+Hypertension
+30
+    Diltiazem HCL(G)   
+240mg capsule
+Hypertension
+30
+    Clonidine HCL (G)    
+0.2mg tablet
+Hypertension
+60
+National
+$2,173
+Philadelphia, PA 
+Original Market Basket
+$845
+$1,559
+$1,976
+$845
+-61%
+-28%
+-9%
+-61%
+19146
+Market Basket with Generic Substitutes 
+$664
+$1,079
+$962
+$664
+-69%
+-50%
+-56%
+-69%
+Market Basket with Generic and Therapeutic Substitutes
+$644
+NA
+NA
+$644
+-70%
+NA
+NA
+-70%
+    Paxil                
+20mg tablet
+Antidepressant
+30
+    Warfarin (G)  
+5mg tablet
+Blood Thinner
+30
+    Cozaar               
+50mg tablet
+Hypertension
+30
+    Atenolol (G)   
+50mg tablet
+Hypertension
+30
+National
+$4,381
+Dallas, TX 
+Original Market Basket
+$2,277
+$2,557
+$2,767
+$4,776
+-48%
+-42%
+-37%
+9%
+75205
+Market Basket with Generic Substitutes 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Market Basket with Generic and Therapeutic Substitutes
+NA
+NA
+NA
+$4,760
+NA
+NA
+NA
+9%
+    Trazodone HCl (G)   
+50mg tablet
+Antidepressant
+30
+    Glipizide (G)
+5mg tablet
+Diabetes
+60
+    Actos                
+30mg tablet
+Diabetes
+30
+    Diovan     
+160mg tablet
+Hypertension
+30
+    Celebrex             
+200mg capsule
+Pain/Arthritis
+30
+National
+$5,888
+Concord, NH
+Original Market Basket
+$3,544
+$3,923
+$4,073
+$3,640
+-40%
+-33%
+-31%
+-38%
+03303
+Market Basket with Generic Substitutes 
+$2,959
+$3,190
+$3,343
+$3,348
+-50%
+-46%
+-43%
+-43%
+Market Basket with Generic and Therapeutic Substitutes
+NA
+$3,308
+$3,342
+$2,880 NA
+-44%
+-43%
+-51%
+   Allegra              
+180mg tablet
+Allergies
+30
+   Albuterol Aerosol (G)
+90mcg 
+Asthma
+Two 17gm 
+inhalers/30 
+days
+   Advair Diskus        
+250/50mcg
+Asthma
+60
+   Singulair            
+10mg tablet
+Asthma
+30
+   Lotrel 
+(amlodipine/benazepril)
+5/10mg capsule
+Hypertension
+30
+Retail Profile 14
+Retail Profile 17
+Retail Profile 11
+Retail Profile 12
+Retail Profile 16
+Retail Profile 15
+Retail Profile 13
+Illustrative 
+Medicare 
+Beneficiary 
+Residence 
+(A)
+Drug2
+(B)
+Dosage 
+(C)
+Condition 
+(D)
+30 Day 
+Quantity 
+(E)
+Annual National 
+Cash Price3 
+(F)
+Annual Cost for 
+Lowest Cost 
+PDP4 
+(G)
+Annual Cost for 
+10th Lowest 
+Cost PDP4 
+(H)
+Annual Cost for 
+Median PDP 
+(I)
+Annual Cost for 
+Lowest 
+Premium PDP4 
+(J)
+Percentage 
+Savings for 
+Lowest Cost 
+PDP5 
+(K)
+Percentage 
+Savings for 
+10th Lowest 
+Cost PDP5 
+(L)
+Percentage 
+Savings for 
+Median PDP5 
+(M)
+Percentage 
+Savings for 
+Lowest Premium 
+PDP5 
+(N)
+ATTACHMENT B: DRUG PLAN FINDER ANALYSIS: MEDICARE PDP SAVINGS COMPARED TO CASH PRICES1
+National
+$3,940
+Virginia Beach, VA
+Original Market Basket
+$1,982
+$2,466
+$2,832
+$1,982
+-50%
+-37%
+-28%
+-50%
+23462
+Market Basket with Generic Substitutes 
+$1,786
+$2,226
+$2,411
+$1,786
+-55%
+-44%
+-39%
+-55%
+Market Basket with Generic and Therapeutic Substitutes
+$622
+$886
+NA
+$622
+-84%
+-78% NA
+-84%
+   Prevacid DR        
+30mg capsule
+Acid Reflux/GERD
+30
+   Coumadin      
+5mg tablet
+Blood Thinner
+30
+   Furosemide Oral (G)  
+20mg tablet
+Heart Failure/Hypertension
+30
+   Lipitor              
+10mg tablet
+Hyperlipidemia
+30
+   Altace               
+5mg capsule
+Hypertension
+30
+   Klor-Con 10
+10meq tablet
+Potassium Replacement
+30
+National
+$7,497
+Charlotte, NC
+Original Market Basket
+$4,137
+$4,422
+$5,626
+$4,137
+-45%
+-41%
+-25%
+-45%
+28215
+Market Basket with Generic Substitutes 
+$4,171
+$3,447
+$3,496
+$4,171
+-44%
+-54%
+-53%
+-44%
+Market Basket with Generic and Therapeutic Substitutes
+$3,280
+NA
+NA
+$3,280
+-56%
+NA
+NA
+-56%
+    Glyburide (G)           
+5mg tablet
+Diabetes
+30
+    Glucophage 
+500mg tablet
+Diabetes
+90
+    Avandia              
+4mg tablet
+Diabetes
+30
+    Zocor                
+20mg tablet
+Hyperlipidemia
+30
+    Lisinopril/HCTZ (G)     
+20/25mg tablet
+Hypertension
+30
+    Coreg                
+6.25mg tablet
+Heart Failure
+60
+    Plavix               
+75mg tablet 
+Peripheral Arterial Disease
+30
+National
+$7,458
+Columbia, SC
+Original Market Basket
+$4,100
+$4,221
+$4,383
+$4,100
+-45%
+-43%
+-41%
+-45%
+29229
+Market Basket with Generic Substitutes 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Market Basket with Generic and Therapeutic Substitutes
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+    Zyprexa
+10mg tablet 
+Antipsychotic
+30
+    Toprol XL            
+50mg tablet
+Hypertension
+30
+    Actonel              
+35mg tablet
+Osteoporosis
+4
+    Propoxyphene-N/APAP (G)
+100mg/650mg 
+tablet
+Pain
+120
+    Detrol LA
+4mg capsule 
+Urinary Spasms
+30
+    Captopril (G)            
+25mg tablet
+Hypertension
+90
+National
+$7,090
+Toccoa, GA
+Original Market Basket
+$3,767
+$4,311
+$4,958
+$4,108
+-47%
+-39%
+-30%
+-42%
+30577 Market Basket with Generic Substitutes 
+$2,816
+$3,529
+$3,902
+$3,841
+-60%
+-50%
+-45%
+-46%
+Market Basket with Generic and Therapeutic Substitutes
+NA
+$2,194
+$2,539
+$2,636
+NA
+-69%
+-64%
+-63%
+    Nexium               
+20mg capsule
+Acid Reflux/GERD
+30
+    Celexa               
+20mg tablet
+Antidepressant
+30
+    Aricept              
+5mg tablet
+Dementia
+30
+    Enalapril (G)         
+10mg tablet
+Hypertension
+30
+    Nifedipine ER (G)
+90mg tablet
+Hypertension
+30
+    Synthroid         
+0.1mg (or 100 
+MCG) tablet
+Hypothyroidism
+30
+    Fosamax              
+70mg tablet
+Osteoporosis
+4
+National
+$3,618
+Troy, AL
+Original Market Basket
+$1,865
+$2,683
+$3,712
+$1,865
+-48%
+-26%
+3%
+-48%
+36081
+Market Basket with Generic Substitutes 
+$1,058
+$750
+$1,165
+$1,058
+-71%
+-79%
+-68%
+-71%
+Market Basket with Generic and Therapeutic Substitutes
+$679
+$749
+$875
+$679
+-81%
+NA
+-76%
+-81%
+    Digitek (G)             
+0.125mg (125 
+MCG) tablet
+Heart Failure/Atrial Fib.
+30
+    Terazosin (G)      
+5mg capsule
+Benign Prostatic Hypertrophy
+30
+    Glucovance           
+5/500mg tablet
+Diabetes
+60
+    Lasix
+40mg tablet
+Fluid Retention/Hypertension
+30
+    Pravachol            
+40mg tablet
+Hyperlipidemia
+30
+    Zestril
+20mg tablet
+Hypertension
+30
+National
+$6,685
+Van Wert, OH
+Original Market Basket
+$4,066
+$4,261
+$4,685
+$4,066
+-39%
+-36%
+-30%
+-39%
+45891
+Market Basket with Generic Substitutes 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Market Basket with Generic and Therapeutic Substitutes
+$4,005
+NA
+$4,165
+$4,005
+-40%
+NA
+-38%
+-40%
+    Protonix             
+20mg tablet
+Acid Reflux/GERD
+30
+    Combivent 
+(ipratropium/albuterol)
+29.4gm
+Bronchospasm
+2 
+inhalers/30 
+days
+    Avapro               
+150mg tablet
+Hypertension
+30
+    Ambien               
+10mg tablet
+Sleep
+30
+    Prednisone (G)
+5mg tablet
+Steroid/Breathing
+30
+    Norvasc              
+10mg tablet
+Hypertension
+30
+Retail Profile 22
+Retail Profile 23
+Retail Profile 19
+Retail Profile 20
+Retail Profile 21
+Retail Profile 18
+Illustrative 
+Medicare 
+Beneficiary 
+Residence 
+(A)
+Drug2
+(B)
+Dosage 
+(C)
+Condition 
+(D)
+30 Day 
+Quantity 
+(E)
+Annual National 
+Cash Price3 
+(F)
+Annual Cost for 
+Lowest Cost 
+PDP4 
+(G)
+Annual Cost for 
+10th Lowest 
+Cost PDP4 
+(H)
+Annual Cost for 
+Median PDP 
+(I)
+Annual Cost for 
+Lowest 
+Premium PDP4 
+(J)
+Percentage 
+Savings for 
+Lowest Cost 
+PDP5 
+(K)
+Percentage 
+Savings for 
+10th Lowest 
+Cost PDP5 
+(L)
+Percentage 
+Savings for 
+Median PDP5 
+(M)
+Percentage 
+Savings for 
+Lowest Premium 
+PDP5 
+(N)
+ATTACHMENT B: DRUG PLAN FINDER ANALYSIS: MEDICARE PDP SAVINGS COMPARED TO CASH PRICES1
+National
+$6,904
+Middlesboro, KY
+Original Market Basket
+$4,107
+$4,417
+$5,791
+$4,107
+-41%
+-36%
+-16%
+-41%
+40965
+Market Basket with Generic Substitutes 
+$2,835
+$2,383
+$3,548
+$2,835
+-59%
+-65%
+-49%
+-59%
+Market Basket with Generic and Therapeutic Substitutes
+$2,245
+$1,978
+$2,525
+$2,245
+-67%
+-71%
+-63%
+-67%
+    Zyrtec       
+10mg tablet
+Allergies
+30
+    Zoloft               
+50mg tablet
+Antidepressant
+30
+    Evista               
+60mg tablet
+Hormone Replacement
+30
+    Hyzaar (losartan/HCTZ)
+50mg/12.5mg 
+tablet
+Hypertension
+30
+    Neurontin            
+600mg tablet
+Seizures
+90
+National
+$2,884
+Magnolia, AR
+Original Market Basket
+$988
+$1,503
+$1,735
+$988
+-66%
+-48%
+-40%
+-66%
+71753
+Market Basket with Generic Substitutes 
+$952
+$1,085
+$1,405
+$952
+-67%
+-62%
+-51%
+-67%
+Market Basket with Generic and Therapeutic Substitutes
+$942
+$1,021
+NA
+$942
+-67%
+-65%
+NA
+-67%
+ Amitriptyline HCL (G)
+25mg tablet
+Antidepressant
+30
+ Glucotrol XL         
+10mg tablet
+Diabetes
+30
+ Metformin (G)
+500mg tablet
+Diabetes
+90
+ Alphagan P (brimonidine)
+0.0015
+Glaucoma
+10 mL bottle
+ Diovan HCT           
+160mg/25mg 
+tablet
+Hypertension
+30
+National
+$1,460
+Jackson, MS
+Original Market Basket
+$584
+$1,057
+$1,261
+$584
+-60%
+-28%
+-14%
+-60%
+39204
+Market Basket with Generic Substitutes 
+$475
+$628
+$930
+$475
+-67%
+-57%
+-36%
+-67%
+Market Basket with Generic and Therapeutic Substitutes
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+   Nitroglycerin (GSN 475) 
+SUBL    
+0.4mg tablet
+Angina
+100 ea 
+bottle
+Fluoxetine HCL (G)
+20mg capsule
+Antidepressant
+30
+Lanoxin              
+0.125mg (125 MCGHeart Failure/Atrial Fib.
+30
+   Hydrochlorothiazide  (G)
+25mg tablet
+Fluid Retention/Hypertension
+30
+Vasotec
+10mg tablet
+Hypertension
+30
+Klor-Con 10
+10meq tablet
+Potassium Replacement
+30
+Isosorbide Mononitrate ER 
+(G)
+60mg tablet
+Angina
+30
+National
+$2,676
+Oklahoma City, OK Original Market Basket
+$1,012
+$1,660
+$2,784
+$1,012
+-62%
+-38%
+4%
+-62%
+73118
+Market Basket with Generic Substitutes 
+$971
+$1,297
+$2,180
+$971
+-64%
+-52%
+-19%
+-64%
+Market Basket with Generic and Therapeutic Substitutes
+$607
+$793
+NA
+$607
+-77%
+-70%
+NA
+-77%
+   Aciphex
+20mg tablet
+Acid Reflux/GERD
+30
+  Doxazosin Mesylate (G)       4mg tablet
+Benign Prostatic Hypertrophy
+30
+  Triamterene w/HCTZ (G)
+37.5/25mg tablet
+Fluid Retention/Hypertension
+30
+  Accupril             
+20mg tablet
+Hypertension
+30
+National
+$2,035
+Hays, KS
+Original Market Basket
+$768
+$1,480
+$1,830
+$768
+-62%
+-27%
+-10%
+-62%
+67601
+Market Basket with Generic Substitutes 
+30
+$667
+$943
+$1,378
+$667
+-67%
+-54%
+-32%
+-67%
+Market Basket with Generic and Therapeutic Substitutes
+$684
+NA
+NA
+$684
+-66%
+NA
+NA
+-66%
+    Amaryl               
+4mg tablet
+Diabetes
+30
+    Premarin       
+0.625mg tablet
+Hormone Replacement
+30
+    Lisinopril (G)
+20mg tablet
+Hypertension
+30
+    Metoprolol Tartrate  (G)
+50mg tablet
+Hypertension
+60
+    Xalatan              
+0.00005
+Glaucoma
+2.5 ml bottle
+National
+$1,809
+Albuquerque, NM
+Original Market Basket
+$637
+$890
+$1,106
+$770
+-65%
+-65%
+-39%
+-57%
+87111
+Market Basket with Generic Substitutes 
+$246
+$552
+$707
+$692
+-86%
+-69%
+-61%
+-62%
+Market Basket with Generic and Therapeutic Substitutes
+NA
+NA
+NA
+$668
+NA
+NA
+NA
+-63%
+    Lotensin             
+20mg tablet
+Hypertension
+30
+    Cartia XT (G)   
+240mg capsule
+Hypertension
+30
+    Levoxyl              
+0.125mg (125 
+MCG) tablet
+Hypothyroidism
+30
+    Lovastatin (G)    
+40mg tablet
+Hyperlipidemia
+30
+Retail Profile 26
+Retail Profile 27
+Retail Profile 28
+Retail Profile 29
+Retail Profile 24
+Retail Profile 25
+Illustrative 
+Medicare 
+Beneficiary 
+Residence 
+(A)
+Drug2
+(B)
+Dosage 
+(C)
+Condition 
+(D)
+30 Day 
+Quantity 
+(E)
+Annual National 
+Cash Price3 
+(F)
+Annual Cost for 
+Lowest Cost 
+PDP4 
+(G)
+Annual Cost for 
+10th Lowest 
+Cost PDP4 
+(H)
+Annual Cost for 
+Median PDP 
+(I)
+Annual Cost for 
+Lowest 
+Premium PDP4 
+(J)
+Percentage 
+Savings for 
+Lowest Cost 
+PDP5 
+(K)
+Percentage 
+Savings for 
+10th Lowest 
+Cost PDP5 
+(L)
+Percentage 
+Savings for 
+Median PDP5 
+(M)
+Percentage 
+Savings for 
+Lowest Premium 
+PDP5 
+(N)
+ATTACHMENT B: DRUG PLAN FINDER ANALYSIS: MEDICARE PDP SAVINGS COMPARED TO CASH PRICES1
+National
+$1,937
+Nogales,  AZ
+Original Market Basket
+$628
+$871
+$1,087
+$891
+-68%
+-55%
+-44%
+-54%
+85621
+Market Basket with Generic Substitutes 
+$246
+$494
+$725
+$465
+-87%
+-74%
+-63%
+-76%
+Market Basket with Generic and Therapeutic Substitutes
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+    Tramadol HCL (G)    
+50mg tablet
+Pain
+120
+    Prinivil
+20mg tablet
+Hypertension
+30
+    Diltiazem HCL(G)   
+240mg capsule
+Hypertension
+30
+    Clonidine HCL (G)    
+0.2mg tablet
+Hypertension
+60
+National
+$2,173
+Pahrump, NV
+Original Market Basket
+$854
+$1,579
+$1,961
+$1,666
+-61%
+-27%
+-10%
+-23%
+89048
+Market Basket with Generic Substitutes 
+$672
+$1,099
+$1,186
+$640
+-69%
+-49%
+-45%
+-71%
+Market Basket with Generic and Therapeutic Substitutes
+$652
+NA
+$851
+$613
+-70%
+NA
+-61%
+-72%
+    Paxil                
+20mg tablet
+Antidepressant
+30
+    Warfarin (G)  
+5mg tablet
+Blood Thinner
+30
+    Cozaar               
+50mg tablet
+Hypertension
+30
+    Atenolol (G)   
+50mg tablet
+Hypertension
+30
+National
+$4,381
+Salt Lake City, UT
+Original Market Basket
+$2,269
+$2,675
+$2,882
+$2,292
+-48%
+-39%
+-34%
+-48%
+84117
+Market Basket with Generic Substitutes 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Market Basket with Generic and Therapeutic Substitutes
+NA
+$2,474
+NA
+$2,218
+NA
+-44%
+NA
+-49%
+    Trazodone HCl (G)   
+50mg tablet
+Antidepressant
+30
+    Glipizide (G)
+5mg tablet
+Diabetes
+60
+    Actos                
+30mg tablet
+Diabetes
+30
+    Diovan     
+160mg tablet
+Hypertension
+30
+    Celebrex             
+200mg capsule
+Pain/Arthritis
+30
+(5) A negative percentage indicates savings from the PDP compared to national cash prices.
+Retail Profile 30
+Retail Profile 31
+(4) Annual cost includes deductible, premium, and cost-sharing. The prices for the baskets with generic substitutes reflect the savings available through the plans that were originally ranked lowest-cost, 10th lowest-cost, and plan with the lowest premium based on the original drug 
+Retail Profile 32
+(1) Savings are applicable to the selected non-low-income beneficiaries in our study.  Low-income beneficiaries would experience higher savings, with the specific level of savings depending on their income.  
+(2) "G" indicates a generic drug; all other drugs are brand-name drugs.
+(3) Cash prices reflect prices actually paid by cash-paying customers at retail pharmacies, including discounts or promotional offers customers may receive. Source: Vector One: National (VONA) from Verispan; Variables: Retail Dollars and Extended Units by Cash Method of 

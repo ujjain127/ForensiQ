@@ -1,0 +1,3093 @@
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Department of Health and Human Services  
+OFFICE OF  
+INSPECTOR GENERAL  
+GENERIC DRUG UTILIZATION IN  
+THE MEDICARE PART D  
+PROGRAM  
+Daniel R. Levinson  
+Inspector General  
+November 2007  
+OEI-05-07-00130  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Office of Inspector General 
+http://oig.hhs.gov 
+The mission of the Office of Inspector General (OIG), as mandated by Public Law 95-452, 
+as amended, is to protect the integrity of the Department of Health and Human Services 
+(HHS) programs, as well as the health and welfare of beneficiaries served by those 
+programs.  This statutory mission is carried out through a nationwide network of audits, 
+investigations, and inspections conducted by the following operating components: 
+Office of Audit Services 
+The Office of Audit Services (OAS) provides all auditing services for HHS, either by 
+conducting audits with its own audit resources or by overseeing audit work done by others. 
+Audits examine the performance of HHS programs and/or its grantees and contractors 
+in carrying out their respective responsibilities and are intended to provide independent 
+assessments of HHS programs and operations.  These assessments help reduce waste, 
+abuse, and mismanagement and promote economy and efficiency throughout HHS. 
+Office of Evaluation and Inspections 
+The Office of Evaluation and Inspections (OEI) conducts national evaluations to provide 
+HHS, Congress, and the public with timely, useful, and reliable information on 
+significant issues.  Specifically, these evaluations focus on preventing fraud, waste, or 
+abuse and promoting economy, efficiency, and effectiveness in departmental programs.  
+To promote impact, the reports also present practical recommendations for improving 
+program operations. 
+Office of Investigations 
+The Office of Investigations (OI) conducts criminal, civil, and administrative 
+investigations of allegations of wrongdoing in HHS programs or to HHS beneficiaries 
+and of unjust enrichment by providers.  The investigative efforts of OI lead to criminal 
+convictions, administrative sanctions, or civil monetary penalties. 
+Office of Counsel to the Inspector General 
+The Office of Counsel to the Inspector General (OCIG) provides general legal services to 
+OIG, rendering advice and opinions on HHS programs and operations and providing all 
+legal support in OIG's internal operations. OCIG imposes program exclusions and civil 
+monetary penalties on health care providers and litigates those actions within HHS. 
+OCIG also represents OIG in the global settlement of cases arising under the Civil False 
+Claims Act, develops and monitors corporate integrity agreements, develops compliance 
+program guidances, renders advisory opinions on OIG sanctions to the health care 
+community, and issues fraud alerts and other industry guidance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E
+X
+E
+C
+U
+T
+I
+V
+E
+ 
+S
+U
+M
+M
+A
+R Y
+ 
+Δ 
+OBJECTIVE 
+To determine the extent of generic drug utilization in the Medicare 
+Part D program for the first two quarters of 2006. 
+BACKGROUND 
+Effective January 1, 2006, the Medicare Prescription Drug, 
+Improvement, and Modernization Act of 2003 made qualified 
+prescription drug coverage under Medicare Part D (Part D) available to 
+all individuals entitled to benefits under Medicare Part A or enrolled in 
+Medicare Part B.  Beneficiaries generally have the option to enroll in 
+either stand-alone prescription drug plans (PDP) or Medicare 
+Advantage prescription drug plans (MA-PD).  Under Part D, plans have 
+broad discretion to design plan benefits and develop their drug 
+utilization management tools. 
+According to the Medicare Board of Trustees, Part D cost the Federal 
+Government $47 billion in 2006. The cost of the Part D prescription 
+drug program for 2006 was lower than the original estimate of 
+$59 billion, and future cost estimates have also been reduced, due in 
+part to greater than anticipated generic drug use.  Generic drugs cost, 
+on average, 71 percent less than brand name drugs. 
+Generic drug use is determined by the frequency of generic drug 
+substitution at the pharmacy counter and the prescribing of drugs with 
+no generic drug equivalents.  Therefore, in addition to calculating an 
+overall rate of generic drug utilization (i.e., the percentage of all 
+prescriptions that were for generic drugs), this study calculated the 
+following rates that contribute to the overall generic drug utilization 
+rate: 
+1.  Generic drug substitution rate:  the percentage of prescriptions 
+for multisource drugs (generic drugs and brand name drugs that 
+have a generic equivalent) that were dispensed as generics. 
+2.  Single-source drug-prescribing rate: the percentage of all 
+prescriptions that were written for single-source drugs (drugs 
+that have no generic equivalent).  
+These indicators of generic drug utilization were calculated from 
+341 million prescriptions paid for by Part D plans from January through 
+June 2006. 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+i 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                   
+  
+E
+X
+E
+E
+X
+E
+E
+X
+E
+C
+U
+T
+I
+V
+E
+ 
+S
+C
+U
+T
+I
+V
+E
+ 
+S
+C
+U
+T
+I
+V
+E
+ 
+S
+U
+M
+M
+A
+R
+M
+M
+A
+R
+M
+M
+A
+R
+Y
+ 
+ 
+FINDINGS 
+Under Part D, generic drugs were dispensed 88 percent of the time 
+when generic substitutes were available. The generic drug 
+substitution rate measures how often generic drugs were dispensed 
+when generic substitutes were available. For Part D, the overall generic 
+drug substitution rate of 88 percent is similar to the median generic 
+drug substitution rate of 89 percent for State Medicaid programs during 
+2004. 
+Generic drug substitution rates were similar across Part D plans, 
+between MA-PDs and PDPs, and across specific types of MA-PDs. 
+However, Part D plans’ generic drug substitution rates varied widely 
+within certain therapeutic classes (i.e., groups of drugs that treat the 
+same medical condition). 
+Under Part D, 37 percent of prescriptions were written for drugs that 
+have no generic substitutes.  Single-source drugs have no generic 
+substitutes.  Therefore, the proportion of prescriptions that are written 
+for them (i.e., the single-source drug-prescribing rate) limits Part D 
+plans’ opportunities for generic drug utilization. For Part D, the overall 
+single-source drug-prescribing rate of 37 percent is similar to the 
+median single-source drug-prescribing rate of 41 percent for State 
+Medicaid programs during 2004. 
+Single-source drug-prescribing rates varied across Part D plans, ranging 
+from 14 percent to 59 percent. Single-source drug-prescribing rates 
+were similar between MA-PDs and PDPs but varied across specific 
+types of MA-PDs. Part D plans’ single-source drug-prescribing rates 
+also varied widely within certain therapeutic classes of drugs. For four 
+therapeutic classes—antiulcer/gastrointestinal preparations, 
+cardiovascular preparations, lipotropics, and 
+pyschostimulants/antidepressants—plans’ single-source 
+drug-prescribing rates varied by more than 95 percentage points. 
+Under Part D, 56 percent of all drugs dispensed were generics.  The 
+generic drug utilization rate is the percentage of all prescriptions 
+dispensed that were generics. For Part D, the overall generic drug 
+utilization rate of 56 percent is similar to the median generic drug 
+utilization rate of 54 percent for State Medicaid programs during 2004. 
+Generic drug utilization rates varied across Part D plans, ranging from 
+37 percent to 83 percent.  Generic drug utilization rates were similar 
+between MA-PDs and PDPs but varied across specific types of MA-PDs. 
+O EI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+ii 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+  
+   
+ 
+ 
+ 
+E
+X
+E
+C
+U
+T
+I
+V
+E
+ 
+S
+U
+M
+M
+A
+R
+Y
+ 
+Variation in the rate of single-source drug prescribing primarily 
+accounted for variation in generic drug utilization.  Generic drug 
+utilization was highest in plans for which single-source drug prescribing 
+was lowest; conversely, generic drug utilization was lowest in plans for 
+which single-source drug prescribing was highest. 
+ 
+OEI-05-07-00130 
+CONCLUSION 
+Overall, Part D achieved a high level of generic drug use during the first 
+two quarters of calendar year 2006 that was similar to the level of 
+generic drug use achieved by State Medicaid programs in 2004.  High 
+rates of generic drug use help minimize costs to beneficiaries and keep 
+Part D affordable over the long term. 
+Despite high overall generic drug use, generic drug utilization rates 
+varied among plans.  At the low end, one Part D plan achieved only a 
+generic drug utilization rate of 37 percent, while one Part D plan 
+achieved a rate of 83 percent. 
+Variation in generic drug utilization rates is strongly related to 
+variation in single-source drug prescribing, but not to generic drug 
+substitution. In fact, Part D may have already achieved most of the 
+growth in generic drug utilization possible through increasing generic 
+drug substitution. 
+To achieve increases in generic drug utilization, Part D plans may 
+realize greater gains by encouraging the prescribing of multisource 
+drugs because they offer the opportunity to dispense a generic drug. In 
+particular, Part D plans could focus on therapeutic classes that 
+exhibited wide ranges of single-source drug-prescribing rates. 
+Lower single-source drug prescribing could be realized through the 
+inclusion of multisource drugs in a Part D plan’s formulary, educating 
+prescribers, or other means such as drug utilization management tools.  
+However, such efforts must be undertaken with caution to ensure that 
+beneficiaries maintain access to appropriate treatment. 
+AGENCY COMMENTS AND OFFICE OF INSPECTOR GENERAL 
+RESPONSE 
+In response to our draft report, the Centers for Medicare & Medicaid 
+Services (CMS) generally concurred with our findings.  CMS noted 
+differences between our calculation and CMS’s calculation of generic 
+drug utilization and suggested that differences may be because of CMS’s 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+iii 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+E
+X
+E
+C
+U
+T
+I
+V
+E
+ 
+S
+U
+M
+M
+A
+R
+Y
+ 
+inclusion of multisource brand name drugs in its measure of generic 
+drug utilization.  CMS also raised questions regarding the period under 
+review and differences in generic drug utilization between MA-PDs and 
+stand-alone PDPs. 
+With respect to the issue of different calculations of generic drug 
+utilization, CMS suggested that we include multisource brand name 
+drug utilization data in our report and stated that including these data 
+would narrow the gap between our and CMS’s calculations of generic 
+drug utilization rates.  We did not include multisource brand name drug 
+utilization data in our measure of generic drug utilization because this 
+would be inconsistent with the definition of generic drugs as used in this 
+report. We note that the analysis presented in this report is consistent 
+with previous work on generic drug utilization conducted by the Office 
+of Inspector General. 
+In addition, our calculation of generic drug utilization reflects the 
+current CMS regulatory definition for generic drugs.  Pursuant to 
+CMS’s regulations for Part D, a drug is defined as generic or brand 
+depending on the drug application type.  Multisource brand name drugs 
+are considered brand name drugs under this definition. 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+iv 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T A
+B
+L
+E
+ 
+O
+F
+ 
+C
+O
+N
+T
+E
+N
+T
+S
+ 
+Δ 
+E X E C U T I V E  S U M M A R Y  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . i   
+I N T R O D U C T I O N  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1   
+F I N D I N G S  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12   
+Generic drugs were substituted 88 percent of the time. . . . . . . . .  12   
+Single-source drugs accounted for 37 percent of prescriptions . . . 14  
+Of all drugs dispensed, 56 percent were generics  . . . . . . . . . . . . .  18   
+C O N C L U S I O N  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  21   
+Agency Comments and Office of Inspector General Response . . . 22  
+A P P E N D I X E S  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  23   
+A:  Detailed Methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  23   
+B:  Analysis By Types of Medicare Advantage Plans  . . . . . . . . . .  26   
+C:  Agency Comments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  28   
+A C K N O W L E D G M E N T S  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  30   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I
+N
+T
+R
+O
+D
+U
+C
+T
+I
+O
+N
+ 
+Δ 
+OBJECTIVE 
+To determine the extent of generic drug utilization in the Medicare 
+Part D program for the first two quarters of 2006. 
+BACKGROUND 
+The Medicare Prescription Drug Benefit 
+Effective January 1, 2006, the Medicare Prescription Drug, 
+Improvement, and Modernization Act of 2003 (MMA) made qualified 
+prescription drug coverage under Medicare Part D (Part D) available to 
+all individuals entitled to benefits under Medicare Part A or enrolled in 
+Medicare Part B.1  Beneficiaries have the option to enroll in (1) a   
+stand-alone prescription drug plan (PDP) and receive all other Medicare 
+benefits through traditional Medicare fee-for-service, or (2) a Medicare 
+Advantage (MA) plan and receive all Medicare benefits (including drug 
+coverage) through managed care.2 
+The MA plans that offer Part D coverage are referred to as Medicare 
+Advantage prescription drug plans (MA-PD).  Some examples of 
+MA plans that offer Part D coverage include Private Fee-For-Service 
+Plans, Health Maintenance Organizations, and Preferred Provider 
+Organizations. 
+Enrollment in PDPs and MA-PDs has risen steadily since the inception 
+of Part D. In January 2006, the Centers for Medicare & Medicaid 
+Services (CMS) reported that over 14 million Medicare beneficiaries had 
+enrolled in PDPs or MA-PDs.  By January 2007, enrollment increased to 
+almost 24 million beneficiaries, with over 15 million enrolled in PDPs 
+and over 8 million enrolled in MA-PDs.3 
+Generic Drugs 
+There are three types of drugs:  single-source, brand name multisource, 
+and generic. A single-source drug is a brand name drug with no generic 
+drug equivalents.  A brand name multisource drug is a brand name 
+drug with generic drug equivalents. 
+1 42 U.S.C. § 1395w-101 (2003).  
+2 42 U.S.C. § 1395w-101(a) (2003).  
+3  Centers for Medicare & Medicaid Services.  “Total Medicare Beneficiaries with Drug  
+Coverage Data” (v.01.16.07).  January 17, 2007. 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+I
+N
+T
+R
+O
+D
+I
+N
+T
+R
+O
+D
+U
+C
+T
+U
+C
+T
+I
+O
+N
+I
+O
+N
+ 
+A generic drug is chemically identical to its brand name counterpart, 
+with the same therapeutic effect and risk-benefit profile. To be 
+approved by the Food and Drug Administration (FDA), a generic drug 
+must contain the same amount(s) of the same active ingredient(s) as the 
+brand name product.4  The generic drug must also be the same strength, 
+be available in the same dosage, have the same route of administration, 
+and have essentially the same labeling as the brand name drug. FDA 
+gives an A rating to a generic drug that it finds to be pharmaceutically 
+and therapeutically equivalent to the drug’s brand name counterpart. 
+Only A-rated generic drugs may be substituted by a pharmacist without 
+permission from the prescribing physician. 
+Part D Expenditures and Potential Savings from Generic Drugs 
+According to the Medicare Board of Trustees, Part D cost the Federal 
+Government $47 billion in 2006. 5  The Medicare Board of Trustees also 
+estimated the cost of Part D, from 2007 to 2016, to be between 
+$823 billion and almost $1 trillion.6 
+The cost of the Part D prescription drug program for 2006 was lower 
+than the original estimate of $59 billion,7 and future cost estimates have 
+also been reduced, due in part to greater than anticipated generic drug 
+use.8  In testimony before the Senate Special Committee on Aging, CMS 
+emphasized the role that generic drugs played in lowering the costs of 
+Part D for the Federal Government.9 
+4 Food and Drug Administration, “What are Generic Drugs?” Available online at 
+http://www.fda.gov/cder/ogd/#Introduction. Accessed on June 12, 2007. 
+5 The Medicare Board of Trustees. “2007 Annual Report of the Boards of Trustees of the 
+Federal Hospital Insurance and Federal Supplementary Medical Insurance Trust Funds” at 
+5. Available online at http://www.cms.hhs.gov/ReportsTrustFunds/. Accessed on May 1, 
+2007. 
+6 Id. at 115. 
+7 The Medicare Board of Trustees. “2006 Annual Report of the Boards of Trustees of the 
+Federal Hospital Insurance and Federal Supplementary Medical Insurance Trust Funds” at 
+22. Available online at http://www.cms.hhs.gov/ReportsTrustFunds/. Accessed on July 27, 
+2007. 
+8 The Medicare Board of Trustees. “2007 Annual Report of the Boards of Trustees of the 
+Federal Hospital Insurance and Federal Supplementary Medical Insurance Trust Funds” at 
+112-113. Available online at http://www.cms.hhs.gov/ReportsTrustFunds/. Accessed on 
+May 1, 2007. 
+9 Testimony of Centers for Medicare & Medicaid Services former Administrator Dr. Mark 
+McClellan before the Senate Special Committee on Aging, September 21, 2006. Available 
+online at http://www.cms.hhs.gov/apps/media/press/testimony.asp?Counter=1971. Accessed 
+on February 6, 2007. 
+O EI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I
+N
+T
+R
+O
+D
+U
+C
+T
+I
+O
+N
+ 
+Generally, generic drugs are cheaper than single-source and brand 
+name multisource drugs. According to the National Association of 
+Chain Drug Stores, in 2005 the average brand name drug prescription 
+cost $101.71, while the average generic drug prescription cost $29.82—a 
+71 percent difference.10 
+Using generic rather than brand name drugs may also reduce 
+beneficiaries’ out-of-pocket costs for premiums, copayments, or 
+coinsurance.  Premiums are based on estimates of a number of factors 
+but are primarily driven by the Part D plan’s expected drug costs and 
+drug coverage.  In addition, beneficiaries are typically either responsible 
+for a percentage of the cost of their prescription drugs or a set 
+copayment, which may be lower for generic drugs than for brand name 
+drugs. 
+Beneficiaries are responsible for 100 percent of their drug costs in the 
+coverage gap (either out-of-pocket or through supplemental coverage) if 
+they are enrolled in Part D plans that do not provide coverage through 
+the coverage gap. Under the 2006 standard Part D benefit package, 
+once beneficiaries reached $750 in out-of-pocket expenses, standard 
+plans would not cover any portion of the beneficiaries’ drug costs until 
+the beneficiaries spent an additional $2,850 in out-of-pocket expenses.  
+The Kaiser Family Foundation projected that approximately 4 million 
+beneficiaries would incur costs in the coverage gap during 2006.11 
+Given the potential savings for the Federal Government and 
+beneficiaries, Congress and CMS have shown interest in the level of 
+generic drug use under Part D.  In January 2007, Congress requested 
+that the Office of Inspector General (OIG) conduct an evaluation to 
+determine the extent of generic drug utilization under Part D. 
+Part D Drug Coverage and Utilization Management 
+Part D plans have broad discretion to design plan benefits and 
+formularies.12  Formularies are one of the main tools that Part D plans 
+can use to drive utilization, including generic drug use.  Formularies are 
+a specified set of prescription drugs covered (i.e., paid for) by drug plans.  
+ 
+OEI-05-07-00130 
+10 National Association of Chain Drug Stores.  Available online at 
+http://www.nacds.org/wmspage.cfm?parm1=507.  Accessed on January 5, 2007. 
+11 The Henry J. Kaiser Foundation.  “Medicare Fact Sheet:  The Medicare Prescription 
+Drug Benefit,” November 2006.  Available online at 
+http://www.kff.org/medicare/upload/7044-05.pdf.  Accessed on June 25, 2007. 
+12 42 U.S.C. § 1395w-111(e)(2)(D) (2003). 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I
+N
+T
+R
+O
+D
+U
+C
+T
+I
+O
+N
+ 
+Beneficiaries are responsible for the full cost of drugs not included on 
+their Part D plan’s formulary, unless they apply for and are granted an 
+exception. 
+CMS provides oversight of Part D plans’ formularies to ensure that 
+Part D plan formularies meet legal requirements.  Specifically, CMS 
+requires that formularies include at least two drugs in each approved 
+category and class (unless only one drug in a particular category or class 
+is available).13  CMS also required that Part D plans not restrict access 
+to necessary drugs for the first 3 months of Part D (until    
+March 31, 2006). During this transition period, Part D plans were 
+required to provide access to drugs that beneficiaries were previously 
+taking, regardless of whether the drugs were covered under the Part D 
+plan’s formulary. In 2007, during the first 90 days of a beneficiary’s 
+enrollment, plans must provide a one-time supply of drugs that 
+beneficiaries were previously taking that are not on the plan formulary.  
+Open enrollment for 2007 ended December 31, 2006.   
+In addition to formularies, Part D plans can use drug utilization 
+management tools to influence beneficiary drug utilization.  The MMA 
+requires each Part D plan to have a drug utilization management 
+program that includes incentives to reduce costs when medically 
+appropriate, such as through the use of generic and brand name 
+multisource drugs.14  Some of the tools employed by Part D plans to 
+increase generic drug use include step therapy, prior authorization for 
+brand name drugs, tiered formularies that charge less expensive 
+copayments for generic drugs, and mandatory generic drug 
+substitution.15 
+In addition, Part D plans encourage generic drug utilization at 
+pharmacies by making prices of generic and brand name drugs available 
+for comparison to beneficiaries.  According to the MMA, each Part D 
+plan should ensure that its network pharmacies inform beneficiaries of 
+ 
+OEI-05-07-00130 
+13 42 CFR § 423.120(b)(2)(i) (2005).  
+14 42 U.S.C. § 1395w-104(c)(1)(A) (2003).  
+15 For more information on Part D formulary requirements, refer to the Medicare Part D  
+Manual, Chapter 6-Part D Drugs and Formulary Requirements.  Available online at 
+http://www.cms.hhs.gov/PrescriptionDrugCovContra/Downloads/PDBMChap6FormularyRe 
+qrmts_03.09.07.pdf. Accessed on June 25, 2007. 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+I
+N
+T
+R
+O
+D
+I
+N
+T
+R
+O
+D
+U
+C
+T
+U
+C
+T
+I
+O
+N
+I
+O
+N
+ 
+the cost differential between the price of the prescribed drug and the 
+lowest cost generic drug equivalent. 16 
+Generic Drug Utilization 
+Generic drug utilization is the result of a physician originally 
+prescribing a generic drug or a pharmacist substituting a generic drug 
+for a brand name multisource drug at the pharmacy. The rate at which 
+these events occur is often referred to as the generic drug dispensing 
+rate or generic usage rate. One industry report shows that generic 
+drugs accounted for 57 percent of all retail drugs dispensed nationally 
+during 2006.17 
+During testimony before the Senate Special Committee on Aging, CMS 
+reported generic drug usage among all Part D plans at 60 percent 
+during the first two quarters of calendar year (CY) 2006.18  CMS also 
+reported on its Web site a generic drug utilization rate of 66 percent for 
+MA-PDs and 57 percent for PDPs.19 
+Generic Drug Substitution 
+Generic drug substitution is only possible when a health care provider 
+prescribes a multisource drug (i.e., a brand name multisource drug or 
+its associated generic equivalent). Generic drug substitution occurs 
+when a physician prescribes the generic version of a multisource drug 
+rather than its brand name equivalent or when a pharmacist receives a 
+prescription for a brand name multisource drug and dispenses the 
+generic version instead. 
+Theoretically, Part D plans should be able to achieve high generic drug 
+substitution rates because generic drugs are chemically and 
+therapeutically equivalent to their brand name multisource 
+counterparts. There are situations in which generic drug substitution is 
+not possible, but these circumstances are rare. For example, a small 
+16 42 U.S.C. § 1395w-104(k)(1)(2003).  
+17 IMS Health, Available online at  
+http://imshealth.com/vgn/images/portal/CIT_40000873/25/19/81829004MedicarePartD­
+TheFirstYear.pdf. Accessed on August 16, 2007. 
+18 Testimony of Centers for Medicare & Medicaid Services former Administrator 
+Dr. Mark McClellan before the Senate Special Committee on Aging, September 21, 2006. 
+Available online at http://www.cms.hhs.gov/apps/media/press/testimony.asp?Counter=1971. 
+Accessed on February 6, 2007. 
+19 Centers for Medicare & Medicaid Services. “Part D Generic Dispensing Rates” 
+(v.02.08.07).  Available online at 
+http://www.cms.hhs.gov/PrescriptionDrugCovGenIn/06_PerformanceData.asp#TopOfPage. 
+Accessed on February 12, 2007. 
+O EI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I
+N
+T
+R
+O
+D
+I
+N
+T
+R
+O
+D
+U
+C
+T
+U
+C
+T
+I
+O
+N
+I
+O
+N
+ 
+percentage of patients may medically require the brand name 
+multisource drug if they are allergic to an inactive ingredient such as a 
+dye or binder found in the generic version.  Additionally, disruptions in 
+the supply chain may mean that a pharmacy does not have the generic 
+version of a drug in stock and must dispense the brand name 
+multisource drug.20  Despite these potential barriers, generic drug 
+substitution rates at or above 90 percent have been reported for the 
+private sector.21 
+Generic drug substitution is an attractive option for cost containment, 
+because it can save money without adversely affecting beneficiaries’ 
+health. Although generic drug substitution generally achieves savings, 
+it may not save money in all circumstances. Part D plans negotiate 
+with prescription drug manufacturers to obtain rebates or other price 
+concessions for drugs on their formularies. In some instances, a Part D 
+plan may be able to negotiate a lower net price for a brand name 
+multisource drug than for its generic drug equivalent. 
+Single-Source Drug Prescribing 
+The rate at which single-source drugs are prescribed depends on a 
+number of factors. These include prescriber habits, patient demand for 
+newer or highly advertised drugs, and therapeutic advances associated 
+with newer brand name drugs. For some conditions, single-source 
+drugs are the only available treatment. Therefore, the health status 
+and preferences of enrollees may lead to differences across plans in the 
+rates of single-source drug prescribing. 
+Related Office of Inspector General Work 
+In July 2006, OIG determined the extent of generic drug utilization in 
+State Medicaid programs during CY 2004.22  OIG found that State 
+Medicaid programs demonstrated high generic utilization. However, 
+certain therapeutic classes, which categorize drugs according to their 
+most common intended use, showed substantial variation in States’ 
+generic drug substitution rates. In addition, this study found a 
+20 Food and Drug Administration. “Drug Shortages.” Available online at 
+http://www.fda.gov/cder/drug/shortages/. Accessed on May 14, 2007. 
+21 Pharmaceutical Care Management Association, “The Generic Drug Maze: Speeding 
+Access to Affordable, Life Saving Drugs,” Testimony of Mark Merrit Before the United 
+States Senate Special Committee on Aging, July 20, 2006. 
+22 Office of Inspector General. “Generic Drug Utilization in State Medicaid Programs”, 
+OEI-05-05-00360, July 2006. Available online at http://www.oig.hhs.gov/oei/reports/oei-05­
+05-00360.pdf. Accessed on June 25, 2007. 
+O EI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+               
+ 
+ 
+ 
+ 
+ 
+ 
+I
+N
+T
+R
+O
+D
+U
+C
+T
+I
+O
+N
+ 
+correlation between single-source drug-prescribing rates and generic 
+drug utilization rates across States. 
+METHODOLOGY 
+Scope 
+This study determines the extent of generic drug use for the Part D 
+program during the first two quarters of CY 2006.  It does not analyze 
+the impact of Part D plans’ formularies or utilization management tools 
+on generic drug use.  This study also does not determine what generic 
+drug substitution, single-source drug prescribing, or generic drug 
+utilization rates are appropriate. Instead, by calculating different 
+indicators of generic drug use and comparing Part D plans to one 
+another, this study explores potential avenues for increasing generic 
+drug use. 
+Data Sources 
+To conduct this study, we used Prescription Drug Event (PDE) data and 
+First DataBank product information.  Part D plans submit PDE data to 
+CMS.  Each event included in the PDE data represents a claim for the 
+dispensing of a drug or medical supply.23  These data contain FDA’s 
+National Drug Code (NDC), a three-part universal identifier that 
+specifies the drug’s manufacturer, name, dosage form, strength, and 
+package size.  The PDE data also include whether the drug is covered 
+under the standard Part D benefit, whether the drug is an 
+over-the-counter drug, prescriber information, and where the 
+prescription was dispensed. 
+First DataBank is a third-party provider of drug pricing and product 
+information. Among other things, it provides information by the NDC, 
+the drug name, standard therapeutic class, and whether the drug is a 
+single-source drug, a brand name multisource drug, or a generic drug. 
+Data Collection 
+We collected all PDE data submitted by Part D plans from 
+January 2006 through March 2007. Part D plans could submit PDE 
+data for CY 2006 through the end of June of 2007.  By collecting all PDE 
+data for this period, we increased the likelihood that we captured a 
+23 Medical supplies allowable under Part D include those associated with the injection of 
+insulin. 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I
+N
+T
+R
+O
+D
+U
+C
+T
+I
+O
+N
+ 
+substantial majority of all PDE data for the first two quarters of 
+CY 2006. 
+Data Analysis 
+Our analysis included those PDE data with a date of service between 
+January 1 and June 30, 2006.  This resulted in 404 million events from 
+547 Part D plans. 
+We merged the 404 million events with the First DataBank drug 
+product information to obtain additional information about the 
+dispensed drug.  To improve the accuracy of our calculations, we 
+removed events that could affect our analysis.  For example, we 
+removed PDE claims for medical supplies, for nonprescription drugs, 
+and multiple submissions for the same dispensing event. This process 
+left 341 million events (84 percent of the total submissions) from 
+528 Part D plans (97 percent of plans) in our analysis.  See Table 1 for 
+the number of plans and claims for MA-PDs, PDPs, and 
+Employer/Union Contract PDPs.  See Appendix A for additional 
+methodology and information on the types and number of claims 
+removed. 
+Table 1: Number of Plans and Claims for MA-PDs, 
+PDPs, and Employer/Union Contract PDPs 
+Number of Plans 
+Number of Claims 
+MA-PD 
+437 
+79,366,113 
+PDP 
+83 
+260,224,786 
+Employer/Union 
+Contract PDP 
+8 
+1,544,259 
+Total 
+528 
+341,135,158 
+Source:  OIG analysis of January-June 2006 PDE data, 2007. 
+For Part D in the aggregate and for each specific Part D plan, we 
+calculated the generic drug utilization rate, as well as two indicators 
+that contribute to overall generic drug utilization:  the generic drug 
+substitution rate and the single-source drug-prescribing rate. We then 
+determined the median across plans for each rate. 
+We also calculated each Part D plans’ generic drug substitution rate and 
+single-source drug-prescribing rate for the 10 standard therapeutic 
+classes with the most claims.  We used the generic sequence number 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+            
+ 
+I
+N
+T
+R
+O
+D
+U
+C
+T
+I
+O
+N
+ 
+associated with each NDC to determine the therapeutic class for each 
+NDC.24 
+To determine whether generic drug use was affected during the 
+transition period by the requirement for Part D plans to provide 
+beneficiaries’ access to drugs they were previously taking, we calculated 
+and compared the overall generic drug utilization rate by month for 
+each of the 6 months. 
+Generic Drug Substitution Rate.  To determine the generic drug 
+substitution rate, we divided the total of all FDA A-rated generic drug 
+prescriptions by the total of multisource prescriptions (both brand name 
+multisource and FDA A-rated generic).  We only considered generic 
+drugs with an FDA A-rating as substitutable. 
+Generic Drug Substitution Rate 
+FDA A-Rated Generic Drug Prescriptions 
+Multisource Drug Prescriptions (Brand Name Multisource 
++ FDA A-Rated Generic Drugs) 
+Single-Source Drug-Prescribing Rate.  We calculated the single-source 
+drug-prescribing rate by dividing the total of all single-source drug 
+prescriptions by the total of all prescriptions.  The single-source 
+drug-prescribing rate is useful because it inherently limits the rate at 
+which generic drugs can be dispensed. 
+Single-Source Drug-Prescribing Rate 
+Single-Source Drug Prescriptions 
+All Drug Prescriptions (Single-Source + Brand Name Multisource 
++ Generic Drugs) 
+Generic Drug Utilization Rate.  We calculated the generic drug utilization 
+rate by dividing the total number of generic drug prescriptions by the 
+total of all prescriptions. This is also called the generic dispensing or 
+generic usage rate. 
+24 In the First DataBank product data, the generic sequence number represents a generic 
+drug formulation identifier that groups drug products by the set of ingredients, route of 
+administration, dosage form, and strength of the drug. 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+I
+N
+T
+R
+O
+D
+U
+C
+T
+I
+O
+N
+ 
+ 
+Generic Drug Utilization Rate 
+Generic Drug Prescriptions 
+All Drug Prescriptions (Single-Source + Brand Name Multisource 
++ Generic Drugs) 
+CMS calculates a generic drug utilization rate that is not directly 
+comparable to the generic drug utilization rate presented in this report. 
+CMS also calculates generic drug utilization rates for Part D plans 
+using data different from those used in this report. CMS bases its 
+calculations on aggregate utilization data reported by each plan on a 
+quarterly basis,25 reflecting a snapshot of claims available to Part D 
+plans at the time of their submission.  The rates in this report are 
+calculated using data from January through June 2006, which were 
+submitted during a 15-month period.  In addition, plans have the option 
+of using different methodologies to identify generic and brand name 
+drugs.26  Plans do not specify the methodology they use in reporting 
+their generic drug utilization.  
+Comparing Plans’ Generic Drug Use.  Using the three rates we calculated 
+for each Part D plan, we compared generic drug use across Part D plans. 
+In addition, we analyzed and compared the rates for all MA-PD plans as 
+a group to the rates for all PDP plans as a group.   
+We further analyzed MA-PD generic drug use to detect any differences 
+among the different types of plans categorized as MA-PDs.  See 
+Appendix B for a full list of MA-PD plans.   
+Comparing Part D Generic Drug Use to Medicaid Generic Drug Use. As a 
+benchmark for the generic drug use rates that we found under Part D, we 
+compared median plan rates under Part D to median rates among State 
+Medicaid programs.  For purposes of the comparison to Medicaid, we used 
+the previous OIG analysis of generic drug use rates under Medicaid during 
+CY 2004. The CY 2004 Medicaid data included prescription drug 
+utilization data for dual eligible beneficiaries.  Most of the 6 million dual 
+25 Part D plans are responsible for reporting these data using definitions of generic and 
+brand name drugs pursuant to 42 CFR § 423.4. 
+26 Pursuant to the January 25, 2006, Medicare Part D Reporting Requirements, Part D 
+plans were to use First DataBank or Medispan generic drug classifications to identify 
+generic drugs. 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I
+N
+T
+R
+O
+D
+I
+N
+T
+R
+O
+D
+U
+C
+T
+U
+C
+T
+I
+O
+N
+I
+O
+N
+ 
+eligibles who received prescription drug coverage under Medicaid in 
+CY 2004 now receive their coverage under Part D. 
+Data Limitations 
+Because CMS policy allowed Part D plans to submit PDE data for 
+CY 2006 through June 2007, our analysis may lack some claims from 
+the first two quarters of CY 2006. However, there is no evidence to 
+suggest that any outstanding PDE data are significantly weighted 
+toward generic or single-source drugs. 
+Because of enrollment errors, some plans paid for prescription drugs for 
+beneficiaries enrolled in other plans.  Although our data reflect these 
+payment errors, they accurately reflect the drugs dispensed, which are 
+determined by the formulary of the plan that paid for the prescription 
+drug claims. For an analysis of generic drug use, the significant factor 
+is the type of drug allowed under the plans’ formularies and not which 
+plan paid for the drug. 
+Standards 
+This study was conducted in accordance with the “Quality Standards for 
+Inspections” issued by the President’s Council on Integrity and 
+Efficiency and the Executive Council on Integrity and Efficiency. 
+O EI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+F
+I
+N
+D
+I
+N
+G
+S
+Δ 
+Under Part D, generic drugs were dispensed 
+88 percent of the time when generic substitutes 
+were available 
+The generic drug substitution rate 
+measures how often generic drugs 
+are dispensed when generic 
+substitutes are available. For 
+Part D, the overall generic drug substitution rate was 88 percent during 
+the first two quarters of CY 2006.  The median generic drug substitution 
+rate by Part D plans was 89 percent. 
+Consistent with this analysis, a previous OIG study found that State 
+Medicaid programs had a median generic drug substitution rate of 
+89 percent during 2004.  Generic drug substitution rates at or above 
+90 percent have been achieved outside of Medicare and Medicaid.27 
+Generic drug substitution rates were similar across Part D plans  
+Most Part D plans’ generic drug substitution rates were clustered 
+tightly around the median Part D plan rate of 89 percent. Of the 
+528 Part D plans analyzed, 468 had generic drug substitution rates 
+within 5 percentage points of the median Part D plan rate of 89 percent.  
+The overall range for plans’ generic drug substitution rates was 
+70 percent to 98 percent. See Table 2 for more details on Part D plan 
+generic drug substitution rates. 
+Table 2: Generic Drug Substitution Rates Across Part D Plans During 
+the First Two Quarters of CY 2006 
+Median Plan 
+Generic Drug 
+Substitution Rate 
+Lowest Plan 
+Generic Drug 
+Substitution Rate 
+Highest Plan 
+Generic Drug 
+Substitution Rate 
+Range of Plan Generic 
+Drug Substitution 
+Rates in the Middle 
+50 Percent of Plans 
+89% 
+70% 
+98% 
+87%-90% 
+Source:  OIG analysis of January-June 2006 PDE data, 2007. 
+Median generic drug substitution rates were similar between MA-PDs and 
+PDPs and across types of MA-PDs  
+The median plan generic drug substitution rates for MA-PDs, as a 
+group, and PDPs were similar.  The median generic drug substitution 
+rate for MA-PDs was 89 percent; it was 87 percent for PDPs. 
+27 Pharmaceutical Care Management Association, “The Generic Drug Maze:  Speeding 
+Access to Affordable, Life Saving Drugs,” Testimony of Mark Merrit Before the United 
+States Senate Special Committee on Aging, July 20, 2006. 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+F
+I
+N
+D
+I
+N
+G
+N
+D
+I
+N
+G
+N
+D
+I
+N
+G
+S
+ 
+See Table 3 for more details on MA-PD and PDP generic drug 
+substitution rates. 
+Table 3: Generic Drug Substitution Rates for MA-PDs and PDPs During the First 
+Two Quarters of CY 2006 
+Median Plan 
+Generic Drug 
+Substitution Rate 
+Lowest Plan 
+Generic Drug 
+Substitution Rate 
+Highest Plan 
+Generic Drug 
+Substitution Rate 
+Range of Plan Generic 
+Drug Substitution 
+Rates in the Middle 
+50 Percent of Plans 
+MA-PD 
+89% 
+74%* 
+98% 
+87%-91% 
+PDP 
+87% 
+70%* 
+93%* 
+86%-89% 
+* The MA-PD with the lowest generic drug substitution rate had less than 100 claims. The PDP with the lowest 
+generic drug substitution rate had less than 200 claims. The PDP with the highest generic drug substitution rate 
+had less than 400 claims. 
+Source: OIG analysis of January-June 2006 PDE data, 2007. 
+An analysis by MA-PD plan types also shows minimal variation across 
+generic drug substitution rates, ranging from 87 percent to 91 percent. 
+See Appendix B for a breakout of generic drug substitution rates by 
+MA-PD type. 
+Generic drug substitution rates varied widely within therapeutic classes of 
+drugs 
+Eight of the top 10 therapeutic classes had a 50 or greater percentage 
+point difference between the lowest and highest rates. Among the 
+10 classes of drugs we reviewed, the therapeutic class with the smallest 
+variation between the lowest and highest plan rates, diuretics, still had 
+a 25 percentage point range. 
+In each of the top 10 therapeutic classes we reviewed, at least 
+two Part D plans achieved generic drug substitution rates of 
+100 percent. In fact, 159 plans achieved rates of 100 percent in one or 
+more of these therapeutic classes. However, in each therapeutic class 
+some Part D plans achieved much lower rates of generic drug 
+substitution. In two therapeutic classes, thyroid preparations and 
+anticoagulants, the ranges between the Part D plan with the lowest 
+generic drug substitution rate and the Part D plan with the highest rate 
+were 99 and 86 percentage points, respectively. Given that several 
+Part D plans achieved 100 percent generic drug substitution rates in 
+each of the 10 therapeutic classes, opportunities may exist for other 
+Part D plans to increase their rates of generic drug substitution. 
+O EI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+F
+I
+N
+D
+I
+N
+G
+N
+D
+I
+N
+G
+N
+D
+I
+N
+G
+S
+ 
+Table 4 presents information on the generic drug substitution rates 
+across Part D plans for the 10 most dispensed therapeutic classes. 
+Table 4: Generic Drug Substitution Rates for Selected Therapeutic Classes During the First 
+Two Quarters of CY 2006 
+Therapeutic Class 
+Median Plan 
+Generic 
+Drug 
+Substitution 
+Rate 
+Minimum 
+Plan Generic 
+Drug 
+Substitution 
+Rate 
+Maximum 
+Plan Generic 
+Drug 
+Substitution 
+Rate 
+Percentage Point 
+Difference Between 
+Minimum and 
+Maximum Plan Rate 
+Total Claims 
+Thyroid preparations 
+72% 
+1%* 
+100% 
+99% 
+9,457,235 
+Anticoagulants 
+96% 
+14% 
+100% 
+86% 
+10,977,071 
+Lipotropics 
+97% 
+29% 
+100% 
+71% 
+24,103,932 
+Diabetic therapy 
+77% 
+33% 
+100% 
+67% 
+21,196,162 
+Cardiovascular 
+preparations 
+81% 
+34% 
+100% 
+66% 
+35,225,704 
+Psychostimulants-
+Antidepressants 
+93% 
+43% 
+100% 
+57% 
+20,462,115 
+Narcotic analgesics 
+96% 
+48% 
+100% 
+52% 
+17,275,975 
+Antiulcer/gastrointestinal 
+preparations 
+99% 
+50% 
+100% 
+50% 
+14,543,189 
+Hypotensives 
+93% 
+68% 
+100% 
+32% 
+33,061,444 
+Diuretics 
+98% 
+75% 
+100% 
+25% 
+19,353,082 
+* The plan with the lowest generic drug substitution rate appears to be an outlier. The generic drug substitution rate for the 
+plan with the next lowest rate is 12 percent. 
+Source: OIG analysis of January-June 2006 PDE data, 2007. 
+Under Part D, 37 percent of prescriptions were 
+written for drugs that have no generic 
+substitutes 
+Single-source drugs have no 
+generic drug substitutes. For 
+Part D, single-source drugs 
+comprised 37 percent of all 
+prescriptions filled during the first 
+two quarters of CY 2006. When a single-source drug is prescribed, a 
+generic drug cannot be dispensed. Thus, for this 37 percent of 
+prescriptions, there was no opportunity to dispense a generic drug. The 
+median rate by Part D plan was 35 percent. 
+In comparison, OIG previously found that State Medicaid programs had 
+a median single-source drug-prescribing rate of 41 percent during 
+CY 2004. 
+O EI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                
+ 
+        
+  
+ 
+      
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+F
+I
+N
+D
+I
+N
+G
+S
+ 
+Single-source drug-prescribing rates varied widely across Part D plans 
+Part D plans’ single-source drug-prescribing rates varied, ranging from 
+14 percent to 59 percent.  For five Part D plans, single-source drugs 
+were prescribed 50 percent of the time or more.  These Part D plans 
+were more limited than others in their opportunities to dispense generic 
+drugs.  See Table 5 for more details on Part D plans’ single-source 
+drug-prescribing rates. 
+Table 5: Single-Source Drug-Prescribing Rates Across Part D Plans During 
+the First Two Quarters of CY 2006 
+Median Plan 
+Single-Source 
+Drug-Prescribing 
+Rate 
+Lowest Plan 
+Single-Source 
+Drug-Prescribing 
+Rate 
+Highest Plan 
+Single-Source 
+Drug-Prescribing 
+Rate 
+Range of Plan Single-Source 
+Drug-Prescribing Rates in 
+the Middle 50 Percent of 
+Plans 
+35% 
+14% 
+59%* 
+31%-39% 
+* The plan with the highest single-source drug-prescribing rate had very low enrollment and less 
+than 50 claims. 
+Source:  OIG analysis of January-June 2006 PDE data, 2007. 
+Median single-source drug-prescribing rates were similar between MA-PDs 
+and PDPs but varied across types of MA-PDs  
+When comparing MA-PDs to PDPs, median single-source 
+drug-prescribing rates were similar.  The median single-source 
+drug-prescribing rate for MA-PDs was 34 percent, only 5 percentage 
+points lower than the median PDP rate of 39 percent.  However, specific 
+MA-PDs achieved lower single-source drug-prescribing rates than 
+PDPs.  Forty-nine MA-PDs were able to limit their single-source   
+drug-prescribing rates to 25 percent or below.  No PDP had a   
+single-source drug-prescribing rate below 27 percent.  On the other 
+hand, a similar number of MA-PDs (two) and PDPs (three) had rates at 
+or above 50 percent.  See Table 6 on the following page for more details 
+on MA-PD and PDP single-source drug-prescribing rates. 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+  
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+F
+I
+N
+D
+I
+N
+G
+N
+D
+I
+N
+G
+N
+D
+I
+N
+G
+S
+ 
+ 
+Table 6: Single-Source Drug-Prescribing Rates for MA-PDs and PDPs During the First 
+Two Quarters of CY 2006 
+Range of Plan 
+Median Plan 
+Lowest Plan 
+Highest Plan 
+Single-Source 
+Single-Source 
+Single-Source 
+Single-Source 
+Drug-Prescribing Rates 
+Drug-Prescribing 
+Drug-Prescribing 
+Drug-Prescribing 
+in the Middle 50 Percent 
+Rate 
+Rate 
+Rate 
+of Plans 
+34% 
+53%
+MA-PD 
+14% 
+29%-37% 
+39% 
+27% 
+59%*
+PDP 
+37%-41% 
+* The PDP with the highest single-source drug-prescribing rate had very low enrollment and less than 50 claim 
+submissions. 
+Source: OIG analysis of January-June 2006 PDE data, 2007. 
+When comparing rates across specific types of MA-PDs, median 
+single-source prescribing rates showed variation. The lowest median 
+single-source prescribing rate by plan type was 27 percent, while the 
+highest median by plan type was 41 percent. See Appendix B for a 
+breakout of single-source prescribing rates by MA-PD plan type. 
+Single-source drug-prescribing rates varied widely within therapeutic 
+classes of drugs 
+Part D plan single-source drug-prescribing rates varied widely within 
+9 of the top 10 therapeutic classes that we reviewed. The range of 
+single-source drug-prescribing rates within these therapeutic classes 
+was most pronounced in two classes: antiulcer/gastrointestinal 
+preparations and cardiovascular preparations. Part D plans’ 
+single-source drug-prescribing rates in these two therapeutic classes 
+varied by 99.5 and 99 percentage points, respectively. 
+In fact, within five therapeutic classes, some Part D plans had no 
+opportunity for generic drug utilization because they had single-source 
+drug-prescribing rates of 100 percent. On the other hand, within all 
+therapeutic classes, at least one Part D plan was able to limit 
+single-source drug prescribing to 14 percent or below. The ability of 
+some plans to attain low single-source drug-prescribing rates in all 
+10 therapeutic classes indicates that each therapeutic class had 
+multisource drugs available. The wide variation within each 
+therapeutic class suggests that Part D plans may have the opportunity 
+to decrease single-source drug prescribing and increase their rates of 
+generic drug utilization. 
+O EI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+F
+I
+N
+D
+I
+N
+G
+S
+ 
+Table 7 presents information on the single-source drug-prescribing rates 
+for the 10 most dispensed therapeutic classes. 
+Table 7: Single-Source Drug-Prescribing Rates for Selected Therapeutic Classes During the First 
+2 Quarters of CY 2006 
+Therapeutic Class 
+Median Plan 
+Single-Source 
+Drug-Prescribing 
+Rate 
+Minimum Plan 
+Single-Source 
+Drug-Prescribing 
+Rate 
+Maximum Plan  
+Single-Source 
+Drug-Prescribing 
+Rate 
+Percentage 
+Point 
+Difference 
+Between 
+Minimum and 
+Maximum Plan 
+Rate 
+Total Claims 
+Antiulcer/gastrointestinal 
+preparations 
+53% 
+0.48% 
+100% 
+99.5% 
+14,543,189 
+Cardiovascular 
+preparations 
+23% 
+1% 
+100%* 
+99% 
+35,225,704 
+Lipotropics 
+80% 
+4% 
+100% 
+96% 
+24,103,932 
+Psychostimulants-
+Antidepressants 
+37% 
+4% 
+100% 
+96% 
+20,462,115 
+Anticoagulants 
+50% 
+14% 
+100% 
+86% 
+10,977,071 
+Hypotensives 
+30% 
+2% 
+75% 
+73% 
+33,061,444 
+Diabetic Therapy 
+32% 
+4% 
+64% 
+60% 
+21,196,162 
+Narcotic analgesics 
+1% 
+0.01% 
+60% 
+60% 
+17,275,975 
+Thyroid preparations 
+0.42% 
+0.01% 
+29% 
+29% 
+9,457,235 
+Diuretics 
+0.41% 
+0.01% 
+4% 
+4% 
+19,353,082 
+*The plan with the highest single-source drug-prescribing rate in this class had low enrollment and few claims.  The next highest plan 
+single-source drug-prescribing rate was 50 percent. 
+Source:  OIG analysis of January-June 2006 PDE data, 2007. 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+F
+I
+N
+D
+I
+N
+G
+N
+D
+I
+N
+G
+S
+ 
+ 
+The generic drug utilization rate
+Under Part D, 56 percent of all drugs dispensed 
+is the percentage of all 
+were generics 
+prescriptions dispensed that were 
+generic drugs regardless of whether generic drugs were available. The 
+overall generic drug utilization rate for Part D was 56 percent during 
+the first two quarters of CY 2006. The overall generic drug utilization 
+rate was consistent from month to month during these 6 months under 
+Part D, including during the initial transition period from January 
+through the end of March 2006. The median generic drug utilization 
+rate by Part D plan was 58 percent. 
+In comparison, a previous OIG study found that State Medicaid 
+programs had a median generic drug utilization rate of 54 percent 
+during CY 2004. Moreover, one recent industry report shows that 
+generic drugs accounted for 57 percent of all retail drugs dispensed 
+nationally during 2006.28 
+Generic drug utilization rates varied widely across Part D plans 
+Part D plans’ rates of generic drug utilization varied substantially from 
+the median plan rate of 58 percent. The lowest Part D plan generic 
+drug utilization rate was 37 percent, while the highest was 83 percent. 
+Eleven Part D plans were able to achieve generic drug utilization rates 
+at or above 75 percent. On the other hand, three Part D plans had 
+generic drug utilization rates at or below 40 percent. See Table 8 for 
+more details on Part D plan generic drug utilization rates. 
+Table 8: Generic Drug Utilization Across Part D Plans During the First 
+Two Quarters of CY 2006 
+Median Plan 
+Generic Drug 
+Utilization Rate 
+Lowest Plan 
+Generic Drug 
+Utilization Rate 
+Highest Plan 
+Generic Drug 
+Utilization Rate 
+Range of Plan Generic 
+Drug Utilization Rates in 
+the Middle 50 Percent of 
+Plans 
+58% 
+37% 
+83% 
+53%-62% 
+Source: OIG analysis of January-June 2006 PDE data, 2007. 
+28 IMS Health, Available online at 
+http://imshealth.com/vgn/images/portal/CIT_40000873/25/19/81829004MedicarePartD­
+TheFirstYear.pdf. Accessed on August 16, 2007. 
+O EI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+F
+I
+N
+D
+I
+N
+G
+N
+D
+I
+N
+G
+N
+D
+I
+N
+G
+S
+ 
+Median generic drug utilization rates were similar between MA-PDs and 
+PDPs but varied across types of MA-PDs 
+When comparing MA-PDs, as a group, and PDPs, rates of generic 
+drug use were similar. The median generic drug utilization rate for 
+MA-PDs was 59 percent, only 6 percentage points higher than the 
+median PDP plan rate of 53 percent. Specific MA-PDs were able to 
+achieve higher generic drug utilization rates than PDPs. Thirty 
+MA-PDs had generic drug utilization rates above 70 percent.  The 
+highest generic utilization rate for a PDP was 68 percent. See Table 9 
+for more details on MA-PD and PDP generic drug utilization rates. 
+Table 9: Generic Drug Utilization Rates for MA-PDs and PDPs During the 
+First Two Quarters of CY 2006 
+Median Plan 
+Generic Drug 
+Utilization 
+Rate 
+Lowest Plan 
+Generic Drug 
+Utilization 
+Rate 
+Highest Plan 
+Generic Drug 
+Utilization Rate 
+Range of Plan 
+Generic Drug 
+Utilization Rates in 
+the Middle 
+50 Percent of Plans 
+MA-PD 
+59% 
+37% 
+83% 
+55%-64% 
+PDP 
+53% 
+38% 
+68% 
+51%-56% 
+Source: OIG analysis of January-June 2006 PDE data, 2007. 
+An analysis of MA-PD plan types shows variation across the median 
+generic drug utilization rates, ranging from 51 percent to 66 percent. 
+See Appendix B for a breakout of generic drug utilization rates by 
+MA-PD plan type. 
+Variation in generic drug utilization was primarily explained by variation in 
+single-source drug prescribing 
+Generic drug utilization is affected by both generic drug substitution 
+and by single-source drug prescribing. However, the relationship 
+between generic drug substitution and generic drug utilization rates 
+does not explain variation across Part D plans’ generic drug utilization 
+rates. Although generic drug substitution rates remained consistent 
+across Part D plans, generic drug utilization rates varied widely from 
+plan to plan. For example, 178 Part D plans had generic drug 
+substitution rates of at least 90 percent but their generic drug 
+utilization rates ranged between 38 percent and 83 percent. 
+On the other hand, there is a strong relationship between single-source 
+drug prescribing and generic drug utilization. Our analysis shows that 
+O EI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+ 
+ 
+  
+ 
+ 
+ 
+F
+I
+N
+D
+I
+N
+G
+N
+D
+I
+N
+G
+S
+ 
+ 
+generic drug utilization was highest in Part D plans for which 
+single-source drug prescribing was lowest. Of all 528 Part D plans 
+reviewed, the Part D plan with the highest generic drug utilization rate 
+(83 percent) also had the lowest single-source drug-prescribing rate 
+(14 percent).  Conversely, the Part D plan with the second lowest 
+generic drug utilization rate (38 percent) had the highest single-source 
+drug-prescribing rate (59 percent). 
+Chart 1 displays the relationship between Part D plans’ generic drug 
+utilization rates and single-source drug-prescribing rates under Part D 
+for the first two quarters of CY 2006. 
+CHART 1: Part D Plans’ Generic Drug Utilization Rates Versus Single-Source 
+Drug-Prescribing Rates During the First Two Quarters of CY 2006 
+90.00% 
+80.00% 
+70.00% 
+60.00% 
+50.00% 
+40.00% 
+R2 = 0.956  
+30.00%  
+20.00% 
+5.00% 
+15.00% 
+25.00% 
+35.00% 
+45.00% 
+55.00% 
+65.00% 
+Plans' Single Source Drug-Prescribing Rates 
+Source: OIG analysis of January-June 2006 PDE data, 2007 
+This relationship between single-source drug prescribing and generic 
+drug utilization also held true when analyzing across MA-PD plan 
+types. Within each MA-PD plan type, generic drug utilization was 
+highest where single-source drug prescribing was lowest. This 
+relationship is also true when analyzing across PDPs. 
+Plans' Generic Drug Utilization Rates 
+O EI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E
+X
+E
+C
+U
+T
+I
+V
+E
+ 
+S
+U
+M
+M
+A
+R
+Y
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C
+O
+N
+C
+L
+U
+S
+I
+O
+N
+Δ 
+Overall, Part D achieved a level of generic drug use during the first 
+two quarters of CY 2006 that was similar to the level of generic drug use 
+achieved by State Medicaid programs in 2004.  High rates of generic 
+drug use help reduce costs to beneficiaries and keep Part D affordable 
+over the long term. 
+Despite high generic drug use overall, generic drug utilization rates 
+varied among plans.  At the low end, one Part D plan achieved a generic 
+drug utilization rate of 37 percent, while another Part D plan achieved a 
+rate of 83 percent.  Variation in median generic drug utilization rates 
+also occurred across different types of MA-PDs. 
+Variation in generic drug utilization rates appears to be a function of 
+single-source drug prescribing and not generic drug substitution. In 
+fact, the high levels of generic drug substitution that we found for most 
+Part D plans suggest that Part D may have already achieved most of the 
+growth in generic drug utilization possible through increasing generic 
+drug substitution.  Still, Part D plans with generic drug substitution 
+rates below the median may wish to consider taking additional 
+measures to increase generic drug substitution.  Further, certain 
+therapeutic classes show substantial variation in Part D plans’ generic 
+drug substitution rates and, thus, greater potential gains for plans with 
+lower rates in those classes. 
+To achieve increases in generic drug utilization, Part D plans may 
+realize greater gains by encouraging the prescribing of brand name 
+multisource drugs which have generic equivalents.  It is important to 
+recognize that single-source drug prescribing caps the level of generic 
+drug utilization attainable.  In particular, Part D plans could focus on 
+therapeutic classes with wide ranges of single-source drug-prescribing 
+rates.  For four classes—antiulcer/gastrointestinal preparations, 
+cardiovascular preparations, lipotropics, and pyschostimulants/ 
+antidepressants—plans’ single-source drug-prescribing rates differed by 
+more than 95 percentage points.  
+Lower single-source drug prescribing could be realized through the 
+inclusion of multisource drugs in a Part D plan’s formulary, educating 
+prescribers, or other means such as drug utilization management tools.  
+However, such efforts must be undertaken with caution to ensure that 
+beneficiaries maintain access to appropriate treatment. 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+C
+O
+N
+C
+L
+U
+S
+I
+O
+N
+ 
+ 
+AGENCY COMMENTS AND OFFICE OF INSPECTOR GENERAL 
+RESPONSE 
+In response to our draft report, CMS generally concurred with our 
+findings. CMS noted differences between our calculation and CMS’s 
+calculation of generic drug utilization and suggested that differences 
+may be because of CMS’s inclusion of multisource brand name drugs in 
+its measure of generic drug utilization.  CMS also raised questions 
+regarding the period under review and differences in generic drug 
+utilization between MA-PDs and stand-alone PDPs. 
+With respect to the issue of different calculations of generic drug 
+utilization, CMS suggested that we include multisource brand name 
+drug utilization data in our report and stated that including these data 
+would narrow the gap between our and CMS’s calculation of generic 
+drug utilization rates.  We did not include multisource brand name drug 
+utilization data in our measure of generic drug utilization because this 
+would be inconsistent with the definition of generic drugs as used in this 
+report. We note that the analysis presented in this report is consistent 
+with previous work on generic drug utilization conducted by OIG. 
+In addition, our calculation of generic drug utilization reflects the 
+current CMS regulatory definition for generic drugs.  Pursuant to 
+42 CFR § 423.4, a drug is defined for the purposes of Part D as generic 
+or brand depending on the drug application type.  Multisource brand 
+name drugs are considered brand name drugs under this definition. 
+The full text of CMS’s comments is included in Appendix C. 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A
+P
+P
+E
+N
+D
+I
+X
+~
+A
+Δ 
+DETAILED METHODOLOGY 
+Associating Part D Plans With Their Prescription Drug Event Drug Claims 
+To determine the Part D plan associated with the Prescription Drug 
+Event (PDE) drug claims, we used the contract number for the plan that 
+submitted the claim, not the contract number for the plan of record. We 
+used the contract number for the plan submitting the claim because it 
+identifies the plan that allowed and paid for the prescription drug claim 
+according to its formulary requirements.  The plan of record reflects the 
+plan in which the beneficiary was enrolled, which should be the same as 
+the plan submitting the claim.  In some cases, plans paid for 
+prescription claims for beneficiaries enrolled in other plans because of 
+out-of-date enrollment data.  In such a case, the plan of record repays 
+any plan that mistakenly paid for drugs dispensed to their enrollees. 
+Steps To Ensure the Reliability of PDE Data 
+To ensure the accuracy and reliability of our generic drug use 
+calculations, our analysis included several steps to remove PDE drug 
+claims that could affect our calculation of the three indicators of generic 
+use.  After completing these steps, 341 million claims (84 percent of the 
+overall claims) from 528 Medicare Part D plans remained for the 
+analysis. Refer to Table 10 on page 25 for a summary of the types of 
+claims removed. 
+These steps ensured the following: 
+•  One claim for each dispensed prescription drug in the PDE data was 
+analyzed. Part D plans have the ability to adjust claims within PDE 
+data. A Part D plan can also delete a claim from PDE data.  This 
+study includes an analysis only of the last adjusted claim and omits 
+all earlier claims that were adjusted and all deleted claims 
+submissions.  We removed the adjusted and deleted claims using a 
+process similar to one used by the Centers for Medicare & Medicaid 
+Services (CMS). We removed 52,438,619 claims during this step. 
+•  Over-the-counter drugs and drugs covered under supplemental 
+benefits, which are drugs not covered as Part D drugs, were not 
+included in the analysis.  We removed 2,967,749 claims during this 
+step. 
+•  No medical supply claims (e.g., diabetic supplies) were analyzed 
+because they are not prescription drugs. We removed 19,555 claims 
+during this step.   
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+A
+P
+P
+E
+N
+D
+I
+X
+ 
+~
+ 
+A
+ 
+•  No drug claims that were listed as partial fills or complete fills were 
+analyzed because they create the potential for overstating the 
+number of prescriptions.  We removed 175,999 claims during this 
+step. 
+•  No drugs without product information from First DataBank or CMS 
+were analyzed.  Without product information from First DataBank 
+or CMS, we were unable to determine the therapeutic class of the 
+drug, whether the drug was a brand name or generic drug, and 
+whether there were generic equivalents to the drug.  We removed 
+2,511,589 claims during this step. 
+•  No drug claims that were submitted to multiple plans on behalf of 
+the same beneficiaries for the same day were analyzed.  Because of 
+the potential for misrepresenting utilization, all claims from these 
+beneficiaries were removed from the analysis. We removed 
+4,306,138 claims during this step. 
+•  No drug claims from Part D plans that were missing prescription 
+drug claims for entire months were analyzed.  The PDE data 
+contained submissions for the first two quarters of calendar year 
+2006 from 547 Part D plans; however, this study retained claims 
+from only 528 Part D plans.  Nineteen Part D plans were removed 
+because their PDE data submissions contained entire months in 
+which no prescription drugs were claimed.  We removed 
+328,935 claims during this step.   
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A
+P
+P
+E
+N
+D
+I
+X
+ 
+~
+ 
+A
+ 
+ 
+Table 10: Types of Claims Removed From Generic Drug Utilization 
+Analysis 
+Total Claims 
+Percent of 
+Type of Claims Removed 
+Removed 
+Total Claims 
+Amended or deleted 
+52,438,619 
+13% 
+Over-the-counter and supplemental drugs 
+2,967,749 
+1% 
+Medical supplies 
+19,555 
+0% 
+Prescriptions filled as multiple dispensing 
+events 
+175,999 
+0% 
+No drug product information 
+2,511,589 
+1% 
+Claims filed for beneficiaries to multiple Part D 
+plans 
+4,306,138 
+1% 
+Part D plans with missing submissions 
+328,935 
+0% 
+Total 
+62,748,584 
+16% 
+Source:  OIG analysis of January-June 2006 PDE data, 2007. 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A
+P
+P
+E
+N
+D
+I
+X
+~
+B
+Δ 
+Table 11: Median Rates for Generic Drug Utilization Indicators by Types of 
+Medicare Advantage Prescription Drug Plans 
+MA-PD Plan Type 
+Median Generic 
+Drug Substitution 
+Rate 
+Median 
+Single-Source 
+Drug-Prescribing 
+Rate 
+Median Generic 
+Drug Utilization 
+Rate 
+1876 Cost Plan 
+90% 
+33% 
+61% 
+Continuing Care Retirement 
+Community 
+87% 
+41% 
+51% 
+Health Maintenance Organization 
+(HMO)/HMO Point of Service 
+(HMOPOS) 
+90% 
+32% 
+61% 
+Local Preferred Provider 
+Organization (PPO) 
+87% 
+36% 
+56% 
+Program of All Inclusive Care for 
+the Elderly (PACE) 
+91% 
+34% 
+59% 
+Other* 
+89% 
+34% 
+60% 
+Private Fee-for-Service (PFFS) 
+87% 
+35% 
+57% 
+Provider Service Organization 
+(PSO) 
+91% 
+32% 
+62% 
+Regional PPO 
+87% 
+37% 
+56% 
+Social Health Maintenance 
+Organization (SHMO) 
+90% 
+27% 
+66% 
+* Includes End Stage Renal Disease, Massachusetts Health Senior Care Options, Minnesota Disability 
+Health Options, Minnesota Senior Health Options, and Wisconsin Partnership Program plan types.  
+Source:  OIG analysis of January-June 2006 PDE data, 2007. 
+Refer to the following page for definitions of the types of Medicare 
+Advantage prescription drug plans. 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+A
+P
+P
+E
+N
+D
+I
+X
+ 
+~
+ 
+B
+ 
+1876 Cost Plans:  Cost plans are operated by HMOs or Competitive 
+Medical Plans in accordance with a cost reimbursement contract under 
+§1876(h) of the Social Security Act. Cost plans offer Part D but only as 
+an optional supplemental benefit.   
+Continuing Care Retirement Community:  These plans allow seniors to 
+“age in place,” providing accommodations that are designed to meet 
+their health and housing needs as these change over time. 
+HMO/HMOPOS:  A type of Medicare Advantage (MA) plan in which a 
+group of doctors, hospitals, and other health care providers agree to give 
+health care to Medicare beneficiaries for a set amount of money. 
+PPO:  An MA plan in which beneficiaries use doctors, hospitals, and 
+providers that belong to the network.  A local PPO has a service area 
+that is less than a region and that may consist of a county, partial 
+county, or multiple county service areas.  Regional PPOs can be offered 
+only in an MA region within the 50 States and the District of Columbia. 
+PACE:  PACE serves individuals who are age 55 or older, certified by 
+their State to need nursing home care, able to live safely in the 
+community at the time of enrollment, and live in a PACE service area.   
+PFFS:  Beneficiaries may go to any Medicare-approved doctor or 
+hospital that accepts the plan’s payment.  The insurance plan decides 
+how much it will pay and what beneficiaries pay for the services they 
+receive. 
+PSO:  A private or public entity operated by a provider or group of 
+affiliated providers.  These types of organizations provide a substantial 
+proportion of the health care services under the MA contract directly 
+through the provider or affiliated group of providers. 
+SHMO:  An MA plan that expands coverage for community-based long 
+term care and is designed to keep functionally impaired older people 
+living at home. 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+27 
+ 
+ 
+ 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D  P R O G R A M 
+28 
+AGENCY COMMENTS 
+Δ
+ 
+A
+P
+P
+E
+N
+D
+I
+X
+~
+C
+ 
+ 
+ 
+ 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D  P R O G R A M 
+29 
+A
+G
+E
+N
+C
+Y
+ 
+C
+O
+M
+M
+E
+N
+T
+S
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Δ
+A
+P
+P
+E
+N
+D
+I
+X
+~
+D
+ 
+A
+C
+K
+N
+O
+W
+L
+E
+D
+G
+M
+E
+N
+T
+S
+Δ 
+This report was prepared under the direction of Ann Maxwell, Regional 
+Inspector General for Evaluation and Inspections in the Chicago 
+regional office, and Thomas Komaniecki, Deputy Regional Inspector 
+General. 
+This report was led by Mark Stiglitz.  Other principal Office of 
+Evaluation and Inspections staff from the Chicago regional office who 
+contributed include Meghan Kearns. Other principal central office staff 
+who contributed include Linda Abbott and Eddie Baker. 
+ 
+OEI-05-07-00130 
+G E N E R I C  D R U G  U T I L I Z AT I O N  I N  T H E  M E D I C A R E  PA R T  D P R O G R A M  
+30 

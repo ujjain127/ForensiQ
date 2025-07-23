@@ -1,0 +1,1104 @@
+D-3 
+THE DOZER BOSS 
+ 
+Who is the dozer boss (DOZB) and just what does he do?  The DOZB is an ICS 
+position who is usually supervised directly by a DIVS or STLD in the nationally 
+recognized operations chain of command.  He is the manager of an agency contract 
+for one or more dozers, with operator, transport, and assigned personnel.  He may 
+manage agency assigned equipment/personnel independently or in addition to 
+private contractors. 
+ 
+Assignments may be for initial attack fire suppression (usually a “District” 
+resource order) or for extended attack (ordered by Incident Command Team).  
+BAER teams also regularly need equipment and DOZB.  Other resource orders 
+may be made for ice storm, wind storm, insect disease projects, and other risk 
+incidents where the scale of operations exceeds local capacities to handle. 
+ 
+The use of dozers and heavy equipment has three overwhelming advantages to 
+hand labor: 
+ 
+1. 
+Equipment generally can do the same job faster. 
+2. 
+Equipment generally can do the same job cheaper. 
+3. 
+Equipment eliminates safety risks to people by reducing the number of 
+people on site. 
+ 
+The old adage “a machine can do the work of a hundred men” is truer than ever.  
+But it is critical to have the right machine, in the right place, with the right 
+operator.  You as a dozer boss can size up this combination and ensure the right 
+job gets done.  Capable operation and supervision is essential to avoiding and 
+mitigating specific hazards associated with the use of machinery. 
+ 
+This S-232 course is designed within a timeframe to give you the best training 
+available to assume a new responsibility important and respected in ICS.  Your 
+performance will determine whether this position earns more or less in the future.  
+Accomplishing incident objectives, your own performance evaluation, and the 
+image of your peer group depends on individual commitment to strive for 
+excellence.  Do not be overwhelmed with this challenge, but grow with it.  Ask 
+questions and gain from the knowledge of others. 
+ 
+D-4 
+The difference between a DOZB and tractor plow boss (TRPB) may be nil 
+depending on local factors and needs, but in theory, here is a comparison: 
+ 
+DOZB 
+TRPB 
+Tracked dozer 
+Tracked dozer with rear plow 
+attachment 
+Usually larger than JD450, D7 
+common 
+Can be small as JD350, JD550 
+common 
+Private contractor more common 
+Agency equipment and operator more 
+common 
+DOZB may not be an operator 
+TRPB must be operator qualified 
+Operator experience usually low 
+in fire and wildland environment 
+Operator experience usually good in 
+fire and home unit wildland 
+environment 
+Mostly western U.S. 
+Mostly eastern U.S. 
+Mostly extended attack, indirect 
+Mostly initial attack, direct 
+May be assigned Alternative 
+Industrial Machinery (skidders, 
+skidgines, track hoes, feller bunchers, 
+processors, chippers, etc.) 
+ 
+ 
+Both positions should be filled by people who have experienced backgrounds in 
+various wildland fuels and fires.  They should have experience working with 
+increasing organizational complexity including handcrews, air operations, and 
+equipment.  Others may get most of their experience through timber sales 
+operations by developing advantageous skills in utilizing equipment under results 
+oriented workloads.   
+ 
+DOZB should have good interpersonal skills just as CRWB has to control and 
+motivate those he is in charge of to accomplish work safely, satisfactorily, and 
+agreeably.  The DOZB also works with CRWB, HEL attack, and other DOZB.   
+ 
+D-5 
+The DOZB sizes up the work he is assigned to going on around him.  This is a 
+daily necessity and is usually accomplished at pre-op or post-op briefings.  
+Machinery has its own safety hazards which the DOZB must be aware of in 
+addition to everything else. 
+ 
+Candidates who wish to take S-232 or develop the skills to be a DOZB, usually 
+need to have a minimum of five years experience, some operation experience, and 
+awareness of (or an interest in) getting jobs done with machines.  Although neither 
+a DOZB nor operator is usually a mechanic, some knowledge of maintenance and 
+field repair is very valuable.   
+ 
+Efficient accomplishment of the job also depends on cooperation of the DOZB 
+with operators, understanding operator’s abilities, and comfort level.  A machine, 
+even at maximum performance and matched to the optimum situation, may still fail 
+to produce expected results.  Perhaps the expectations are unreasonable, work 
+conditions have changed with time/distance, or are limited by operator skill.  Do 
+not expect the operator to produce results that far exceed his skill as safety may be 
+compromised or equipment may be damaged. 
+ 
+At this point, do you have an understanding of who the DOZB is and what he 
+does?  Now that your motor is warmed up to operating temperature, let’s turn up 
+the RPM’s. 
+ 
+ 
+D-6 
+D-7 
+Dozers 
+ 
+ 
+Dozers are specially designed, heavy construction equipment that has been adapted 
+to wildland firefighting applications.  Recent federal safety laws have seen 
+development in dozer rollover protection (ROPS), fire curtains, and lighting 
+equipment.  Advanced radio communication devices that enable the operator to 
+talk hands-free are also being used.  Still, with all these advances, the dozer 
+operator has a risk level approaching that of an air tanker pilot. 
+ 
+Dozers vary in size from the small Type 3 dozers to the large Type 1 dozers.   
+Light dozers (Type 3) are effective in building fireline in light fuels on level to 
+moderate terrain.  They perform best in soil with few rocks, and in wet soil 
+conditions, especially when equipped with wide tracks.  They’re maneuverable in 
+close quarters and generally do less damage to the environment.  They also can be 
+very useful in mopup operations. 
+ 
+Medium-sized dozers (Type 2) are generally the best all-around size for fireline 
+construction as they are maneuverable and perform well on moderately steep 
+slopes.  They will handle the average fuel and terrain conditions in the 
+mountainous areas and when fitted with wide tracks perform well in wet soil 
+conditions. 
+ 
+Heavy dozers (Type 1) are generally too big for many fireline construction 
+situations.  They are hard to maneuver in close quarters, especially in steep terrain.  
+They are best assigned as lead dozers to pioneer in heavy fuels on level to 
+moderate terrain.  Pioneering is when a dozer clears an area ahead of a crew.  
+Heavy dozers will have difficulty in wet ground unless fitted with extra wide 
+tracks.  On standard tracks their bulk weight more that offsets the hold up surface 
+of the tracks, and once these large machines are stuck, it is a major job to free 
+them. 
+ 
+As with any piece of specialized equipment, the dozer has limitations.  As a 
+general guideline, dozers should not be operated across slopes (sidehill) greater 
+than 45 percent, uphill slopes greater than 55 percent, or downhill on slopes greater 
+than 75 percent (see Figure 1). 
+ 
+D-8 
+Figure 1 – Guideline for Maximum Percent Slope Dozer Operation 
+ 
+ 
+ 
+ 
+Percent slope is determined by the vertical distance (rise) divided by horizontal 
+distance (run) multiplied by 100 (see Figure 2). 
+ 
+Figure 2 – Calculation of Percent (%) Slope 
+ 
+ 
+ 
+100% Slope 
+75% Slope (max downhill) 
+55% Slope (max uphill) 
+45% Slope (max sidehill) 
+0% Slope 
+D-9 
+An easy method to determine percent slope is with the use of a slope meter (see 
+Figure 3). 
+ 
+Figure 3 – Slope Meter 
+ 
+ 
+ 
+ 
+ 
+D-10 
+Clinometers or abney levels are instruments that can be used to measure percent 
+slope.  To use the clinometer, hold it to your eye and with both eyes open, look 
+simultaneously through the lens and alongside the housing.  A horizontal sighting 
+line will appear.  Raise or lower the clinometer (by tilting your head) to place the 
+sighting line at the top or bottom of the object.  Read the percent slope number 
+closest to the sighting line. 
+ 
+Operate the abney level similarly to the clinometer, but rotate the outside scale 
+forward or backward to align the bubble inside the instrument rather than tilting 
+your head.  Read the number from the outside percent slope scale. 
+ 
+D-11 
+Clinometers and Topographic Abney Levels can be used to measure slope, height 
+of objects, and vertical angles (see Figure 4). 
+ 
+Figure 4 – Measurements with Clinometer or Abney Level 
+ 
+ 
+ 
+D-12 
+Production rates of line construction (single-pass) vary, but a Type 2 dozer can 
+construct about 2,500 feet of line in grass, 1,100 feet of line in medium brush, and 
+900 feet in heavy brush per hour.  These figures are averages, figuring upslope run 
+does not exceed 40%.  In level situations, that same Type 2 dozer can construct 
+4,000 feet of single pass line in grass, 3,300 feet in medium brush, and 1,900 feet 
+in heavy brush, per hour. 
+ 
+Table 1 – Single Pass Line Construction 
+40% Slope* 
+12-14 foot Blade Widths 
+ 
+ 
+Grass 
+Medium Brush 
+Heavy Brush 
+Type 2 
+2,300 feet 
+1,000 feet 
+700 feet 
+Type 1 
+3,000 feet 
+1,500 feet 
+1,100 feet 
+ 
+* 40% slope is average for most wildland fire areas. 
+ 
+(To compare with a Type 1 handcrew, see the Fireline Handbook) 
+ 
+ 
+D-13 
+Table 2 provides single pass line construction rates in chains per hour for several 
+variables.  The table was developed from a series of field tests. 
+ 
+Some generalities that can be concluded from Table 2 are:  1) production rates 
+drop as the fuel loadings increase and 2) slope has an effect on production rates, 
+particularly traveling upgrade, and some dozer sizes are better suited for select jobs 
+than others. 
+ 
+Table 2 – Fireline Production Rates (Single Pass)  
+for Dozers Manufactured Since 1975 
+ 
+ 
+ 
+D-14 
+As with any specialized piece of equipment, the machine is only as efficient as the 
+operator.  Each operator has varying degrees of skill in operating equipment in a 
+variety of wildland situations.  Many areas are very fortunate to have qualified fire 
+operators.  These operators know their machines and what they can or cannot do.   
+ 
+When using dozers in the attack plan, brief the operator(s) prior to deploying them.  
+Review the control objectives and what must be accomplished and let them 
+determine where and how they get the job done.  The operator will tell the dozer 
+boss if he/she needs help or other assistance.  The dozer operator is very busy once 
+the line assignment starts; therefore, frequent interruptions or radio traffic calls can 
+be upsetting. 
+ 
+The deployment of dozers is basically the same as with any ground resource.  
+Work from an anchor point up each flank toward the head (pincer action).  
+Remember, the dozer even with metal cage protection is just as vulnerable to fire 
+as a hand crew person and the same safety rules apply.   
+ 
+Because of their special qualities and ability to put in line quickly, a dozer can be 
+“bumped-up” ahead of ground forces on a flank.  Make sure an anchor point has 
+been established.  When bumping-up a dozer, make sure the operator knows your 
+intentions.  Bumping up a dozer ahead of another dozer is called leap frogging.  
+Many times the operator can “see” the plan and he will bump-up on his own in an 
+indirect method.  Coordination is very important; make sure the ground forces tie 
+into the dozer line so the control line is completed. 
+ 
+D-15 
+The dozer operator has an “instinct” of knowing how to get around the head and 
+for working the hot flank.  In doing so, he/she needs concentration, lack of radio 
+interruptions, and on occasion air support.  Once on the upper end of the hot flank, 
+the dozer’s progress needs to be closely monitored to ensure he/she is safe.  Air 
+attack priorities should include supporting dozer work on the hot flank.  Dozers 
+should be deployed on the hot flank first, and then as they control the head, they 
+will circle the fire finishing up on the cold flank. 
+ 
+ 
+ 
+To this point, we have only addressed the typical wildland fire with no special 
+problems of fast rate of spread or wind problems.  Because of steep topography, 
+poor access, high winds, or high rate of spread it may be necessary for the incident 
+commander or operations section chief to back off to a wide ridgeline and 
+construct a fire break off of that ridge. 
+D-16 
+D-17 
+Dozer Use 
+ 
+ 
+Dozers are effective firefighting tools if they are used correctly.  They are costly to 
+operate and require good operators, good supervision, and adequate service and 
+repair.  However, in excessively rocky areas and in some dense timber stands, 
+especially with many large trees, their progress will be drastically slowed.  When 
+they are needed to pioneer ahead of a tractor/plow or crew, they are indispensable.  
+In this capacity they do the clearing work so that the plow or crew can build the 
+line as they follow. 
+ 
+Dozers will come with various types of blades and control systems.  There are two 
+types of blade control systems used on dozers.  These are cable and hydraulic.  
+Almost all dozers produced during the past 30 years will have the hydraulic 
+system.  Cable systems were common before that period; however, there are still 
+some of the older dozers with cable system in use.   
+ 
+Cable controlled systems are best used in light fuels for light scarification of soil, 
+for finishing fireline, and for road grading. 
+ 
+Hydraulic systems can exert pressure down as well as raise the blade, thus are best 
+used for digging in hard ground, cutting through roots, cross ditching or water 
+barring, digging sumps and pits, and downslope breaking action.  The hydraulic 
+control is also helpful if the dozer becomes high centered or stuck and the terrain 
+needs to be built up under the tracks. 
+ 
+The four common types of blades and their best uses in fire suppression are: 
+ 
+• 
+Straight blade.  It can usually be angled and push soil to either side of the 
+dozer.  This is not true with the other types; therefore, the best uses for 
+straight blades are:  pioneering and finishing fireline, cross ditching (water 
+barring), road construction and maintenance. 
+ 
+• 
+“U” blade.  Best used for pioneering fireline when followed up by a straight 
+angle blade, sump digging, and earth moving (as in road construction).  A 
+semi-U blade may be more common in firefighting. 
+ 
+D-18 
+• 
+Brush blade.  The best uses for brush blades are pioneering in brush, clearing 
+and piling slash, mopup work, and certain rehabilitation work. 
+ 
+• 
+V blade.  Best used in swampy ground as dirt is thrown to both sides in front 
+of dozer for tracks to ride up on. Also good for punching through dense 
+stands of small diameter fuels (pioneering). Not good in rocky ground or 
+steep slopes. 
+ 
+Line location is as important for dozers as for handtools, and the same principles of 
+width, depth, and location apply.  Locate the line in accordance with the fire 
+control strategy, vegetation, and terrain.  The line should be located well ahead of 
+the dozers but not so far that the line location would need to be changed by the 
+time the dozers get there.  The locator should check periodically with the spotter or 
+operator of the lead dozer or with the dozer boss to advise them of what is ahead. 
+ 
+Locations where dozers cannot work effectively should be avoided and completed 
+with handtools.  These locations would include areas of large rocks, rock outcrops, 
+excessively steep terrain, or other limitations to the use of dozers.  Trench undercut 
+lines, and treat all hazards in the same manner as hand line construction and 
+mopup. 
+ 
+The principles of direct, parallel, and indirect attack also apply to dozer line 
+construction; and, as a general rule, all dozed material should be case outside the 
+line and scattered.  In a very few instances the dozer might be used on very small 
+fires to push the burning edge into the fire area all the way around the perimeter.  
+This is not a highly recommended practice. 
+ 
+Dozers are extremely effective tools for building firelines, particularly in heavy 
+fuels and brush.  They must be followed with handtools to finish the line, to burn 
+out where necessary, to hold the fire within the line, and to combat slopovers and 
+spot fires. 
+ 
+Once the fireline is built, it is necessary to begin the mopup from the fire edge 
+toward the center of the fire, and this operation requires handtools.  Often, engines 
+or hose lines can be used to assist with holding action and mopup.  Much will 
+depend on the kind and volume of fuels.  Dozers can be used to a limited extent on 
+mopup operations. 
+ 
+D-19 
+Often it is practical and desirable to build the dozer line where it will serve as an 
+access road for engines and the movement of crews.  Grade along the line then 
+becomes important so that four wheel drive vehicles can travel.  This use is very 
+valuable but should not dictate the location of the fireline.  The location for fire 
+control purpose must take precedence. 
+ 
+It may be necessary for dozers to clear out safety areas.  These should be built well 
+in advance of probable need. 
+ 
+Dozer organizations will vary with the size of the fire, the kind and amount of 
+fuels, the topography, the practice in that locality, and the personnel available.  On 
+a large fire with several dozers a dozer boss or dozer strike team leader will 
+normally supervise dozer operations (see Figure 5). 
+ 
+Figure 5 – Dozer Organization on a Large Fire 
+ 
+ 
+ 
+ 
+D-20 
+In heavy going, a spotter, swamper, line locator, and hand crew may be assigned to 
+assist with dozer line construction.  Because of the danger from rolling rocks 
+and/or debris, no personnel should work directly below a dozer. 
+ 
+At least one person should be assigned to each dozer as a swamper.  The contractor 
+will normally provide a swamper for contract dozers.  The swamper is to: 
+ 
+• 
+Handle the winch line and choker, help change blade positions, assist with 
+the maintenance, and otherwise assist the operator of the dozer. 
+ 
+• 
+Communication by hand signals with the dozer operator. 
+ 
+• 
+Cut away projecting branches and sticks that may jam the machine and 
+cause damage or endanger the operator, to remove rocks and debris from the 
+machine on signal from the operator, and to cut with an ax or chain saw 
+where necessary to move logs and tangled windfalls. 
+ 
+• 
+Work as a spotter if one is not assigned or as a contact between the operator 
+and the spotter. 
+ 
+• 
+Act as an alternate operator. 
+ 
+D-21 
+Since mechanical equipment is generally noisy and it’s difficult for operators to 
+hear other personnel in the area, a simple but effective communications system can 
+be accomplished through the use of hand signals and other signals (see Figure 6). 
+ 
+Figure 6 – Dozer Hand Signals 
+ 
+ 
+ 
+By gunning the dozer motor twice, the operator can signal that he cannot see the 
+spotter.  By gunning the motor once, he can signal that he wants the helper to come 
+to the dozer. 
+ 
+D-22 
+The following are good dozer line construction principles: 
+ 
+1. 
+Utilize anchor points and LCES (lookouts, communications, escape routes, 
+and safety zones). 
+ 
+2. 
+All unburned fuels should be cast away from the fireline and scattered to the 
+extent possible. 
+ 
+3. 
+Where both soil and debris must unavoidable be pushed to the inside, spread 
+and scatter this material well back into the burn. 
+ 
+4. 
+In fuel types with down timber it may be best to use power saws ahead of 
+the lead dozer to “buck” the material. 
+ 
+Chain saw crews should be closely supervised, kept well ahead of the dozer, 
+and avoid doing work the dozer can do.  Saw crews are not needed if the 
+lead dozer is large enough to do the job or if it can do the job without 
+creating excessively large piles of debris. 
+ 
+5. 
+Snags can be quickly felled by dozers.  Where snag felling is hazardous to 
+dozers, the job should be done by felling crews.  Local practices will vary 
+for different sections of the country. 
+ 
+6. 
+Consult with the operator (both operator competence and dozer capability) 
+before assigning dozer work in steep terrain and contouring sideslopes. 
+ 
+7. 
+Generally, two dozers should work together in pairs or tandem when 
+constructing fireline.  They can reinforce each other and assist each other if 
+one dozer needs help.  The largest machine or the one in the best condition 
+should serve as the lead dozer.  Neither machine should be operated below 
+the other on slopes or too close together because of the danger of rolling and 
+falling material.  If a narrow fireline is needed, the lead dozer pioneers the 
+line by doing the rough clearing job and the second dozer cleans up the line.  
+If a wider fireline is needed, both dozers may be doing a substantial amount 
+of clearing; however, the second dozer still cleans up the line. 
+ 
+D-23 
+8. 
+The line may be wider in some sections than in others depending on the job 
+it is intended to do.  There must be a reason for extra width of line.  It may 
+be because the brush is tall and thick, because the canopy needs to be opened 
+up, or to keep the crew from being scorched during burnout. 
+ 
+The line should be wide enough to hold the fire; usually 1½ times the height 
+of the fuel in brush and not less than one-half the height of the fuel in timber. 
+ 
+It is often impractical to make it wide enough to withstand a run of the fire.  
+Enough area must be burned out from the line toward the fire to contain it 
+and any spotting. 
+ 
+9. 
+Use a cleanup crew behind the dozer to speed up the line construction and to 
+make it secure.  The job of the clean crew is to prepare the line for burnout 
+by reducing the kind and amount of fuel along the edge of the line so that the 
+chances of radiated heat and mass transport across the line will be reduced.  
+The job is accomplished by: 
+ 
+• 
+Felling snags on both sides of the line. 
+ 
+• 
+Felling leaners. 
+ 
+• 
+Breaking up, tearing apart, flattening, and dispersing accumulations of 
+fuel close to the line. 
+ 
+• 
+Lopping and scattering tops and branches and cleaning up the lower 
+stems of standing trees by cutting off limbs, moss, and vines. 
+ 
+• 
+Making sure the line is continuous and free of surface fuels. 
+ 
+Normally, three to six people are needed in a clean up crew plus a squad 
+boss.  They may be part of the burnout crew if the cleanup job is light. 
+ 
+The main point here is that hand tools are needed to follow the dozers in any 
+type of fuel to make sure the line is ready to burn out and hold.  The cleanup 
+crew must stay away from the immediate area around the dozers, since they 
+are constantly backing and maneuvering. 
+ 
+D-24 
+10. 
+The burnout crew may be part of a combination crew that does both cleanup 
+and burnout.  On larger fires it will be separate and supervised by a squad 
+boss or a crew boss according to its size. 
+ 
+If burning out follows the dozers, it should not follow so close that the firing 
+will handicap the dozer’s operation or jeopardize the line construction and 
+cleanup. 
+ 
+11. 
+Proper supervision must be provided for hired equipment.  Proper 
+organization and supervision are the keys to successful operation of 
+equipment. 
+ 
+12. 
+Provision must be made for servicing equipment as soon as the equipment 
+moves onto the fire.  These are expensive machine, and they cannot be 
+operated long without servicing. 
+ 
+13. 
+Dozers and tractor/plows must be properly equipped. 
+ 
+• 
+They should have canopies of sufficient strength to withstand rolling 
+over and to protect operators from falling material. 
+ 
+• 
+The dozers should be armored underneath. 
+ 
+• 
+They should have functioning lights, both front and rear when it is 
+dark. 
+ 
+• 
+They should have seat belts. 
+ 
+• 
+They should have a fire extinguisher and shovel. 
+ 
+• 
+They should have a properly functioning spark arrestor. 
+ 
+• 
+Operators must be supplied with required personal protective 
+equipment, including fire shelters.  It may be necessary to instruct the 
+operator on the proper use of the fire shelter. 
+ 
+ 
+D-25 
+Key Points to Consider in Steep Topography, in Poor Access,  
+in High Winds, or in High Fire Rate of Spread Areas 
+ 
+ 
+1. 
+Stay away from narrow ridgelines, narrow being 100 feet or less across the 
+top. 
+ 
+2. 
+Allow the dozer operator plenty of lead-time to construct a break. 
+ 
+3. 
+Put in safety zones a minimum of 100 feet in diameter every 600 feet or less 
+if fuel types are medium or heavy brush (see Safety Zone Guidelines in the 
+IRPG).   
+ 
+4. 
+Follow-up any indirect line constructed with qualified Type 1 crews to burn 
+out the line. 
+ 
+5. 
+If possible, have air tactical group support any indirect line construction put 
+in by the dozer(s). 
+ 
+When constructing line, production rates mentioned earlier were single-pass 
+construction and are bare minimums.  Remember, if backing off of direct attack 
+and using indirect, the sooner the break the better.  The key is to plan out the 
+objectives with adequate time for dozers to complete the assignment.   
+ 
+The dozers may have to make 4 or 5 widths plus safety zones.  If the fire is 
+spreading up the drainage toward the ridge and the width is less than hoped for, it 
+can be widened by pre-treatment with air tanker support if available.  This 
+retardant line or “wet line” will buy personnel and equipment on the ridge some 
+time and afford a safety zone.   
+ 
+Remember, if pre-treatment is used, hold off until the last minutes that will still 
+enable a retardant line to be completed.  Fire retardant/foam can stay “wet” for one 
+hour depending on winds and heat. 
+ 
+D-26 
+The majority of wildland fires are 10 acres or less when dozers arrive on the scene.  
+When they arrive, they usually unload and start around the hot flank and encircle 
+the fire.  If pockets of fuel(s) remain, (referring primarily to grass) engine 
+personnel or hand crew(s) should burn out islands or pockets that might later 
+threaten to go across control lines.   
+ 
+It is also prudent for the incident commander or operations section chief to review 
+the line constructed to make sure objectives are met.  Ensure that no dozer piles 
+remain and snags that might pose a fire or safety problem are mitigated.  Check 
+with line personnel for any specific small jobs and if none remain then release the 
+dozer. 
+D-27 
+ 
+Safety 
+ 
+ 
+LCES CHECKLIST 
+ 
+LCES must be established and known to ALL firefighters BEFORE needed. 
+ 
+Lookouts 
+ 
+• 
+Experienced / Competent / Trusted 
+• 
+Enough lookouts at good vantage points 
+• 
+Knowledge of crew locations 
+• 
+Knowledge of escape and safety locations 
+• 
+Knowledge of disengagement trigger points 
+• 
+Map / Weather Kit / Watch / IAP 
+ 
+Communications 
+ 
+• 
+Radio frequencies confirmed 
+• 
+Backup procedures and check-in times established 
+• 
+Provide updates on any situation change 
+• 
+Sound alarm early, not late 
+ 
+Escape Routes 
+ 
+• 
+More than one escape route 
+• 
+Avoid uphill escape routes 
+• 
+Scouted:  Loose soils / Rocks / Vegetation 
+• 
+Timed:  Slowest person / Fatigue and Temperature factors 
+• 
+Marked:  Flagged for day or night (NFES 0566) 
+• 
+Evaluate:  Escape time vs. Rate of Spread 
+• 
+Vehicles parked for escape 
+ 
+D-28 
+Safety Zones 
+ 
+• 
+Survivable without a fire shelter 
+• 
+Back into clean burn 
+• 
+Natural Features:  Rock areas / Water / Meadows 
+• 
+Constructed Sites:  Clearcuts / Roads / Helispots 
+• 
+Scouted for size and hazards 
+• 
+Upslope? 
+• 
+Downwind? 
+More heat impact – Larger safety zone 
+• 
+Heavy Fuels? 
+ 
+Escape time and safety zone size requirements will change as fire behavior 
+changes. 
+ 
+It seems that most injuries and fatalities occur with one or more of the following 
+common elements: 
+ 
+1. 
+Grass or sage fuel bed(s). 
+2. 
+Failure to recognize changing fire behavior. 
+3. 
+Taking small fire for granted. 
+4. 
+Topography modified fire spread. 
+5. 
+Inexperience in wildland firefighting. 
+6. 
+Poor physical condition. 
+7. 
+Failure to recognize a transition fire (reference IRPG). 
+ 
+There are four major common denominators of fire behavior on fatal and near-fatal 
+fires.  Such fires often occur: 
+ 
+1. 
+On relatively small fires or deceptively quiet areas of large fires. 
+ 
+2. 
+In relatively light fuels, such as grass, herbs, and light brush. 
+ 
+3. 
+When there is an unexpected shift in wind direction or in wind speed. 
+ 
+4. 
+When fire responds to topographic conditions and runs uphill. 
+ 
+Alignment of topography and wind during the burning period should always be 
+considered a trigger point to re-evaluate strategy and tactics. 
+ 
+D-29 
+Even with the smallest grass fire, no attack should be made unless an anchor point 
+has been established.  This anchor provides security and safety during a basic flank 
+attack.  It also prevents the fire from out flanking firefighters, should conditions 
+change. 
+ 
+One of the more common errors made in light fuel beds is an over-aggressive 
+attack (with the wind), making a wet line or running attack in such a hurry that 
+spots are missed.  Then visibility, heat, or driver zig-zag from black to green 
+(unburned) causes an open line to occur.  When this happens, firefighters can be 
+outflanked or trapped if winds change or shift. 
+ 
+Grass fires are a common cause of firefighter fatalities, injuries, and burns because 
+they can creep or explode across a field.  Grass requires little preheating, and even 
+the slightest wind can increase fire intensity and behavior.  Grass fires produce 
+three to four foot flame heights and 400-degree F aerial temperatures, even in short 
+grass.  These conditions exceed human ability to withstand heat and flame 
+exposure.  All grass fires, regardless of size and intensity, should be treated with 
+caution.  Anchor your attack using a natural or man-made barrier to keep the fire 
+from later outflanking you or your personnel. 
+ 
+A basic flank attack working up the flank(s) from a common anchor point is 
+recommended.  If you only have a single resource, attack the hot flank first, 
+working towards the head.  If the fire has a large black area free from hazards or 
+broken topography you can safely work in the black toward the head. 
+ 
+A number of fatalities have occurred when observers reported the fire was in the 
+mopup stage and looked benign. 
+ 
+Topographic factors have also contributed to many fatalities, injuries, and burns.  
+As pointed out in watch out situation 15, the wildland firefighter must understand 
+the effects of: 
+ 
+1. 
+Slope 
+2. 
+Narrow canyons 
+3. 
+Saddles 
+4. 
+Chimneys 
+5. 
+Narrow ridge line(s) (hog backs) 
+6. 
+Broken topographic features 
+ 
+D-30 
+A slope primarily modifies fire behavior and, especially, rate of spread.  If a fire 
+burning on level terrain burns into a 30% slope, the rate of spread will double 
+without any help from additional wind speeds or lowered relative humidity. 
+ 
+Narrow canyons, chimneys, or chutes modify fire behavior.  Narrow canyons and 
+well-defined drainages increase the rate of preheating and potential for spotting 
+and area ignition.  Chutes, chimneys, and saddles are paths of least resistance for a 
+fire.  Narrow ridgelines or hog back ridges are dangerous, because the radiant and 
+convective heat is generally too high for firefighters to survive. 
+ 
+A fire moving across broken topographic features such as rock outcrops will have a 
+tendency to finger a lot and spread erratically due to wind eddies. 
+ 
+In addition to safety factors, specific agency regulations apply to heavy equipment 
+in forests. 
+ 
+D-31 
+Watershed Considerations 
+ 
+ 
+Install firelines where they can be properly drained later.  Avoid locating firelines 
+across concave slopes or areas that will create troughs. 
+ 
+If firelines must go across drainages, cross at a right angle to the drainage to 
+minimize the disturbance. 
+ 
+Avoid wet areas such as seeps, springs, or meadows.  Not only would disturbance 
+result in resource damage but equipment can become stuck and fireline work can 
+be delayed. 
+ 
+Scrape away only burnable vegetation and duff.  Avoid deep cuts into the soil that 
+will remove topsoil and reduce soil depth. 
+ 
+Keep organic debris and soil out of streams, if possible.  Don’t dam up running 
+streams with debris.  Debris in dry draws is not critical because it can be cleaned 
+out during emergency rehabilitation. 
+ 
+For additional reading refer to local Best Management Practices and/or agency 
+Minimum Impact Suppression Tactics guidelines. 
+ 
+Emergency Rehabilitation 
+ 
+The objective of emergency rehabilitation is to treat disturbed areas to prevent 
+erosion and to leave the area in the pre-fire drainage pattern as much as possible. 
+ 
+Local conditions and standards will determine water bar spacing guidelines. 
+ 
+Make sure water bars are built into solid soil and not constructed with loose soil 
+and organic debris.  They must be deep enough to withstand abuse by 4-wheel 
+traffic and breakdown by erosion or settling over time.  The outlets of water bars 
+must be open to function properly.  Place water bar outlets where the soil is well 
+protected by organic debris or natural rockiness so it can withstand runoff from the 
+water bar at a 30% angle downslope.  Don’t locate water bars where they will 
+divert a natural drainage. 
+ 
+D-32 
+Soil and debris that is pushed to the side during fireline construction acts as a berm 
+and can cause runoff to concentrate over long distances.  Break berms frequently 
+between water bars.  Where possible, push soil and organic debris displaced by 
+fireline construction back onto the fireline.  This will help restore topsoil and soil 
+cover.  Do this only if it does not cause excessive additional soil disturbance. 
+ 
+ 
+D-33 
+Special Considerations for Dozer Operations 
+ 
+ 
+1. 
+Designated Areas 
+ 
+* 
+Wilderness 
+* 
+Primitive Areas 
+* 
+State/National Parks and Monuments 
+* 
+Reservations/Burial Grounds 
+ 
+2. 
+Private Property 
+ 
+* 
+Land Line/Survey Monument 
+* 
+Landowner Permission 
+* 
+Travel Routes Approved 
+* 
+Private Bridges 
+ 
+3. 
+Cultural Areas 
+ 
+* 
+Historical/Archaeological Sites 
+* 
+Cemeteries 
+* 
+Sacred Areas 
+* 
+Homesteads 
+ 
+4. 
+Environmental 
+ 
+* 
+Wetlands 
+* 
+Marshy Areas 
+* 
+Meadows 
+* 
+Protected Biological/Botanical Areas 
+* 
+Stream Crossings, etc. 
+ 
+D-34 
+5. 
+Human-made Concerns 
+ 
+* 
+Bridge Load Limits 
+ 
+* 
+Structures 
+ 
+* 
+Hazmat from Structures/Dumps/Natural 
+ 
+* 
+Fences/Gates 
+ 
+* 
+Railroad Tracks 
+ 
+* 
+Underground Utilities 
+ 
+- 
+Gas/Oil/Telephone/Water/Electrical/Cable 
+- 
+Sewer and Septic Systems 
+- 
+Mine Shafts 
+- 
+Above Ground Utilities 
+- 
+RAWS, earthquake detection, rain, and snow detection sites 
+- 
+Telephone/Cable/Oil/Electric Poles and Lines 
+- 
+Radio Transmission Sites 
+- 
+Oil and Gas Fields 
+ 
+* 
+Paved and Surfaced Driveways, Highways, and Freeways 
+D-35 
+Dozer Terminology 
+ 
+ 
+1. 
+Dozer 
+2. 
+ROPS (Rollover Protection Structure); FOPS (Falling Object Protection 
+Structure); brush package 
+3. 
+Winch 
+4. 
+Cable 
+5. 
+Hook 
+6. 
+Rippers 
+7. 
+Tracks, sprockets, idlers, rollers 
+8. 
+Pads 
+9. 
+Grousers 
+10. 
+“C” Frame (angle dozer only) 
+11. 
+Push arm (straight blade only) 
+12. 
+Dozer blade (angle or straight) 
+13. 
+Cutting edge 
+14. 
+End bits 
+15. 
+Tilt adjusters (manual type) 
+16. 
+Tilt cylinders (hydraulic) 
+17. 
+Belly pans 
+18. 
+Rock guards 
+19. 
+Operator’s Controls 
+a. 
+Switch (battery) 
+b. 
+Throttle and decelerator 
+c. 
+Start switch 
+d. 
+Power shift, manual shift, hydrostatic 
+e. 
+Master clutch (Johnson Bar if applicable) 
+f. 
+Steering clutches/differential steering 
+g. 
+Brakes and lock 
+h. 
+Blade control 
+i. 
+Winch control 
+j. 
+Tilt control 
+D-36 
+D-37 
+ 
+Jobs that may be Performed by the Dozer Boss 
+to Assist the Dozer Operator 
+ 
+ 
+1. 
+Assist in loading and unloading the dozer 
+ 
+a. 
+Ask the operator 
+ 
+b. 
+Watch for traffic and bystanders 
+ 
+2. 
+Swamping 
+ 
+a. 
+Get together ahead of time and learn dozer operator’s way of thinking.  
+Work with the operator. 
+ 
+b. 
+The swamper’s job is to safely assist and guide the operator.  This 
+means the swamper must be OFF the dozer and far enough out to see 
+any hazards. 
+ 
+c. 
+Consistently check the terrain, vegetation, and fire situation.  Inform 
+the dozer operator of important changes. 
+ 
+d. 
+If you are unsure of a situation, stop and inform the dozer operator. 
+ 
+e. 
+The basic job of the swamper is to be the “eyes” of the dozer operator.  
+You must be out where the work is to be done looking for hazards and 
+leading the dozer through the best locations. 
+ 
+f. 
+Assist in servicing dozer as necessary. 
+ 
+D-38 
+3. 
+Winch Operation (assist) 
+ 
+a. 
+Keep hands and feet clear of cable and hook. 
+ 
+b. 
+Learn and use winch signals. 
+ 
+c. 
+Always wear gloves. 
+ 
+d. 
+When pulling cable out, grasp the hook. 
+ 
+e. 
+The operator will indicate the proper hook-up. 
+ 
+f. 
+Stand clear as the cable becomes taut.  Never position yourself inside 
+the bight.  Never step over or straddle a tight cable. 
+ 
+4. 
+Assist dozer operator with manual adjustments 
+ 
+a. 
+Blade angle direction 
+ 
+b. 
+Ripper shank depth 
+D-39 
+Dozer Maintenance Tips  
+ 
+ 
+Maintenance is the operator’s responsibility.  Dozer bosses can keep equipment 
+working by assisting the operators and watching for these items when doing daily 
+inspections and when constructing dozer lines. 
+ 
+Always change edges and bits before wear reaches the support.  If wear has 
+occurred on the support, check for burrs.  Grind them off to insure that the edge or 
+bit will fit flat against the support.  Remove any soil that is packed between the 
+edge or bit and the support. 
+ 
+Keep bit and edge hardware tight at all times.  In the case of end bits, loose or 
+missing bolts can result in failure.  Use only high strength bolts and heat treated 
+nuts with DH-2 Steel edges and bits.  These fasteners exceed SAE Grade 8 
+standards. 
+ 
+Inspect bolt holes on the back side of edge and bit supports.  Be sure there is a 
+solid, smooth surface to support the nut.  If not, it will be impossible to keep 
+hardware tight.  Repeated burning off of hardware can weaken support around the 
+holes.  Also, prolonged or repeated operation of the blade with loose hardware can 
+cause bolt holes in support to become elongated. 
+ 
+Ripping may improve dozing.  There may be a production advantage in ripping 
+before dozing.  The decision depends upon the material and job conditions.  From 
+the standpoint of prolonged service life, ripped material is always easier on ground 
+engaging tools. 
+ 
+Reduced speed.  Speed is the enemy of dozers and ground engaging tools.  When 
+a boulder or hard compact layer of material won’t budge, a slow and steady prying 
+force is more desirable than high speed impact. 
+ 
