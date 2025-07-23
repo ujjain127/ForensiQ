@@ -1,0 +1,1347 @@
+[
+  {
+    "complaint_id": "FR202506001",
+    "timestamp": "2025-06-24T06:51:42.472305",
+    "submitter": {
+      "username": "lisa_davis",
+      "name": "Lisa Davis",
+      "email": "lisa.davis@enterprise.com"
+    },
+    "incident": {
+      "title": "Employee discovered accessing restricted files",
+      "type": "Unauthorized Access",
+      "description": "Security footage shows unknown individual gained access to our secure facility after hours. Person was seen accessing computer terminals in restricted areas.",
+      "incident_date": "2025-06-19",
+      "discovered_date": "2025-06-25",
+      "urgency_level": "Medium",
+      "affected_systems": "Web Application Server (WEB-APP-01), Windows 10 Workstation (DESK-001), Employee Laptop (LAP-HR-005)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_network_capture.pcap",
+        "type": "network",
+        "size": 983768
+      },
+      {
+        "filename": "2_system_log.log",
+        "type": "log",
+        "size": 39072
+      },
+      {
+        "filename": "3_financial_records.pdf",
+        "type": "document",
+        "size": 34198
+      },
+      {
+        "filename": "4_malware_sample.zip",
+        "type": "archive",
+        "size": 61504
+      },
+      {
+        "filename": "5_browser_history.csv",
+        "type": "data",
+        "size": 18720
+      }
+    ],
+    "priority_score": 7.1,
+    "status": "submitted",
+    "analysis_status": "pending",
+    "assigned_officer": null,
+    "analysis_results": null,
+    "notes": []
+  },
+  {
+    "complaint_id": "FR202507002",
+    "timestamp": "2025-07-22T21:51:42.473023",
+    "submitter": {
+      "username": "lisa_davis",
+      "name": "Lisa Davis",
+      "email": "lisa.davis@enterprise.com"
+    },
+    "incident": {
+      "title": "Suspicious Amazon account verification email",
+      "type": "Phishing Attack",
+      "description": "Amazon sent what looked like an account verification email, but when I checked the sender address it was from a suspicious domain. The email requested immediate action.",
+      "incident_date": "2025-07-23",
+      "discovered_date": "2025-07-23",
+      "urgency_level": "Critical",
+      "affected_systems": "Backup Server (BACKUP-SRV-01), File Server (FILE-SRV-02)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_financial_records.pdf",
+        "type": "document",
+        "size": 70780
+      },
+      {
+        "filename": "2_email_headers.txt",
+        "type": "text",
+        "size": 2055
+      },
+      {
+        "filename": "3_network_capture.pcap",
+        "type": "network",
+        "size": 695609
+      },
+      {
+        "filename": "4_network_capture.pcap",
+        "type": "network",
+        "size": 695609
+      }
+    ],
+    "priority_score": 5.4,
+    "status": "completed",
+    "analysis_status": "completed",
+    "assigned_officer": "Detective Thompson",
+    "analysis_results": {
+      "classification": "suspicious",
+      "threat_score": 6.2,
+      "entities_found": [
+        {
+          "type": "EMAIL",
+          "value": "suspicious@fake-domain.com",
+          "confidence": 0.95
+        },
+        {
+          "type": "EMAIL",
+          "value": "noreply@legitimate-bank.com",
+          "confidence": 0.88
+        },
+        {
+          "type": "DOMAIN",
+          "value": "fake-domain.com",
+          "confidence": 0.92
+        }
+      ],
+      "sentiment_analysis": {
+        "urgency": "low",
+        "emotion": "neutral",
+        "confidence": 0.92
+      },
+      "recommendations": [
+        "Block sender domains at email gateway",
+        "Conduct user security awareness training",
+        "Review email security policies",
+        "Document all investigation activities"
+      ],
+      "file_analysis": [
+        {
+          "filename": "1_financial_records.pdf",
+          "status": "analyzed",
+          "threats_found": 1
+        },
+        {
+          "filename": "2_email_headers.txt",
+          "status": "analyzed",
+          "threats_found": 3
+        },
+        {
+          "filename": "3_network_capture.pcap",
+          "status": "analyzed",
+          "threats_found": 1
+        }
+      ]
+    },
+    "notes": [
+      "Initial assessment completed - evidence collection in progress",
+      "Forensic imaging of affected systems scheduled for tomorrow",
+      "Similar incidents reported in regional threat intelligence",
+      "Malware samples sent to security vendor for signature creation"
+    ]
+  },
+  {
+    "complaint_id": "FR202507003",
+    "timestamp": "2025-07-13T02:51:42.473142",
+    "submitter": {
+      "username": "john_doe",
+      "name": "John Doe",
+      "email": "john.doe@email.com"
+    },
+    "incident": {
+      "title": "Fake driver's license created with my information",
+      "type": "Identity Theft",
+      "description": "IRS notified me that someone already filed a tax return using my Social Security Number. The fraudulent return claimed a large refund that was deposited to an unknown account.",
+      "incident_date": "2025-07-10",
+      "discovered_date": "2025-07-11",
+      "urgency_level": "Critical",
+      "affected_systems": "Network Firewall (FW-PERIMETER)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_communication_log.txt",
+        "type": "text",
+        "size": 5978
+      },
+      {
+        "filename": "2_financial_records.pdf",
+        "type": "document",
+        "size": 88478
+      },
+      {
+        "filename": "3_communication_log.txt",
+        "type": "text",
+        "size": 5978
+      }
+    ],
+    "priority_score": 6.1,
+    "status": "under_review",
+    "analysis_status": "completed",
+    "assigned_officer": "Officer Brown",
+    "analysis_results": {
+      "classification": "suspicious",
+      "threat_score": 3.6,
+      "entities_found": [
+        {
+          "type": "CREDIT_CARD",
+          "value": "****-****-****-1234",
+          "confidence": 0.87
+        },
+        {
+          "type": "BANK_ACCOUNT",
+          "value": "****56789",
+          "confidence": 0.82
+        },
+        {
+          "type": "AMOUNT",
+          "value": "$15,000",
+          "confidence": 0.91
+        }
+      ],
+      "sentiment_analysis": {
+        "urgency": "medium",
+        "emotion": "neutral",
+        "confidence": 0.79
+      },
+      "recommendations": [
+        "File police report for identity theft",
+        "Contact credit monitoring agencies",
+        "Review and freeze credit reports",
+        "Document all investigation activities"
+      ],
+      "file_analysis": [
+        {
+          "filename": "1_communication_log.txt",
+          "status": "analyzed",
+          "threats_found": 3
+        },
+        {
+          "filename": "2_financial_records.pdf",
+          "status": "analyzed",
+          "threats_found": 2
+        },
+        {
+          "filename": "3_communication_log.txt",
+          "status": "analyzed",
+          "threats_found": 0
+        }
+      ]
+    },
+    "notes": [
+      "Coordination with law enforcement initiated"
+    ]
+  },
+  {
+    "complaint_id": "FR202507004",
+    "timestamp": "2025-07-01T13:51:42.473215",
+    "submitter": {
+      "username": "david_brown",
+      "name": "David Brown",
+      "email": "david.brown@startup.io"
+    },
+    "incident": {
+      "title": "Bank account accessed by unauthorized person",
+      "type": "Identity Theft",
+      "description": "Found unauthorized transactions in my bank account totaling $8,500. The thief somehow gained access to my online banking and transferred money to multiple accounts.",
+      "incident_date": "2025-06-27",
+      "discovered_date": "2025-06-30",
+      "urgency_level": "Medium",
+      "affected_systems": "Domain Controller (DC-PRIMARY), Network Firewall (FW-PERIMETER), Backup Server (BACKUP-SRV-01), Web Application Server (WEB-APP-01)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_financial_records.pdf",
+        "type": "document",
+        "size": 87813
+      },
+      {
+        "filename": "2_browser_history.csv",
+        "type": "data",
+        "size": 54899
+      },
+      {
+        "filename": "3_browser_history.csv",
+        "type": "data",
+        "size": 54899
+      }
+    ],
+    "priority_score": 7.3,
+    "status": "submitted",
+    "analysis_status": "pending",
+    "assigned_officer": null,
+    "analysis_results": null,
+    "notes": []
+  },
+  {
+    "complaint_id": "FR202506005",
+    "timestamp": "2025-06-27T13:51:42.473258",
+    "submitter": {
+      "username": "maria_rodriguez",
+      "name": "Maria Rodriguez",
+      "email": "maria.r@retail.biz"
+    },
+    "incident": {
+      "title": "Tech support scam claiming computer virus",
+      "type": "Social Engineering",
+      "description": "Met someone on a dating site who gradually built trust over several months before requesting money for an 'emergency'. Classic romance scam targeting lonely individuals.",
+      "incident_date": "2025-06-27",
+      "discovered_date": "2025-06-26",
+      "urgency_level": "High",
+      "affected_systems": "Email Server (MAIL-SRV-01), Backup Server (BACKUP-SRV-01), Windows 10 Workstation (DESK-001)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_browser_history.csv",
+        "type": "data",
+        "size": 24363
+      },
+      {
+        "filename": "2_financial_records.pdf",
+        "type": "document",
+        "size": 54990
+      },
+      {
+        "filename": "3_browser_history.csv",
+        "type": "data",
+        "size": 24363
+      }
+    ],
+    "priority_score": 4.6,
+    "status": "under_review",
+    "analysis_status": "completed",
+    "assigned_officer": "Detective Thompson",
+    "analysis_results": {
+      "classification": "benign",
+      "threat_score": 6.2,
+      "entities_found": [
+        {
+          "type": "EMAIL",
+          "value": "suspicious@fake-domain.com",
+          "confidence": 0.95
+        },
+        {
+          "type": "EMAIL",
+          "value": "noreply@legitimate-bank.com",
+          "confidence": 0.88
+        },
+        {
+          "type": "DOMAIN",
+          "value": "fake-domain.com",
+          "confidence": 0.92
+        },
+        {
+          "type": "PHONE",
+          "value": "+1-555-123-4567",
+          "confidence": 0.88
+        }
+      ],
+      "sentiment_analysis": {
+        "urgency": "high",
+        "emotion": "angry",
+        "confidence": 0.93
+      },
+      "recommendations": [
+        "Document all investigation activities"
+      ],
+      "file_analysis": [
+        {
+          "filename": "1_browser_history.csv",
+          "status": "analyzed",
+          "threats_found": 0
+        },
+        {
+          "filename": "2_financial_records.pdf",
+          "status": "analyzed",
+          "threats_found": 0
+        },
+        {
+          "filename": "3_browser_history.csv",
+          "status": "analyzed",
+          "threats_found": 0
+        }
+      ]
+    },
+    "notes": [
+      "Coordination with law enforcement initiated",
+      "Malware samples sent to security vendor for signature creation"
+    ]
+  },
+  {
+    "complaint_id": "FR202507006",
+    "timestamp": "2025-07-13T10:51:42.473329",
+    "submitter": {
+      "username": "jane_smith",
+      "name": "Jane Smith",
+      "email": "jane.smith@company.com"
+    },
+    "incident": {
+      "title": "Cloud storage account accessed from unknown location",
+      "type": "Unauthorized Access",
+      "description": "Security logs show repeated failed login attempts on our company servers from IP addresses in foreign countries. Concerned about potential system compromise.",
+      "incident_date": "2025-07-08",
+      "discovered_date": "2025-07-11",
+      "urgency_level": "Critical",
+      "affected_systems": "Backup Server (BACKUP-SRV-01), Point of Sale System (POS-STORE-03)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_system_log.log",
+        "type": "log",
+        "size": 21916
+      },
+      {
+        "filename": "2_network_capture.pcap",
+        "type": "network",
+        "size": 418269
+      }
+    ],
+    "priority_score": 5.8,
+    "status": "under_review",
+    "analysis_status": "pending",
+    "assigned_officer": "Officer Wilson",
+    "analysis_results": null,
+    "notes": [
+      "Victim interview conducted - additional details documented"
+    ]
+  },
+  {
+    "complaint_id": "FR202507007",
+    "timestamp": "2025-07-13T15:51:42.473376",
+    "submitter": {
+      "username": "robert_miller",
+      "name": "Robert Miller",
+      "email": "r.miller@healthcare.org"
+    },
+    "incident": {
+      "title": "Investment scam targeting seniors",
+      "type": "Financial Fraud",
+      "description": "Received instructions to wire $50,000 for a business transaction, but later discovered the email was from scammers impersonating our business partner.",
+      "incident_date": "2025-07-06",
+      "discovered_date": "2025-07-11",
+      "urgency_level": "High",
+      "affected_systems": "Network Firewall (FW-PERIMETER)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_financial_records.pdf",
+        "type": "document",
+        "size": 49071
+      },
+      {
+        "filename": "2_email_headers.txt",
+        "type": "text",
+        "size": 3997
+      },
+      {
+        "filename": "3_financial_records.pdf",
+        "type": "document",
+        "size": 49071
+      },
+      {
+        "filename": "4_screenshot.png",
+        "type": "image",
+        "size": 288449
+      }
+    ],
+    "priority_score": 7.6,
+    "status": "submitted",
+    "analysis_status": "pending",
+    "assigned_officer": null,
+    "analysis_results": null,
+    "notes": []
+  },
+  {
+    "complaint_id": "FR202506008",
+    "timestamp": "2025-06-27T06:51:42.473415",
+    "submitter": {
+      "username": "robert_miller",
+      "name": "Robert Miller",
+      "email": "r.miller@healthcare.org"
+    },
+    "incident": {
+      "title": "Fake driver's license created with my information",
+      "type": "Identity Theft",
+      "description": "Found unauthorized transactions in my bank account totaling $8,500. The thief somehow gained access to my online banking and transferred money to multiple accounts.",
+      "incident_date": "2025-06-25",
+      "discovered_date": "2025-06-27",
+      "urgency_level": "High",
+      "affected_systems": "Point of Sale System (POS-STORE-03), Windows 10 Workstation (DESK-001)"
+    },
+    "evidence_files": [],
+    "priority_score": 8.1,
+    "status": "submitted",
+    "analysis_status": "pending",
+    "assigned_officer": null,
+    "analysis_results": null,
+    "notes": []
+  },
+  {
+    "complaint_id": "FR202507009",
+    "timestamp": "2025-07-07T06:51:42.473461",
+    "submitter": {
+      "username": "lisa_davis",
+      "name": "Lisa Davis",
+      "email": "lisa.davis@enterprise.com"
+    },
+    "incident": {
+      "title": "Database containing medical records accessed",
+      "type": "Data Breach",
+      "description": "Hospital patient records database was breached, exposing medical histories, diagnoses, and insurance information for approximately 5,000 patients.",
+      "incident_date": "2025-07-07",
+      "discovered_date": "2025-07-08",
+      "urgency_level": "Medium",
+      "affected_systems": "Network Firewall (FW-PERIMETER), Domain Controller (DC-PRIMARY), Web Application Server (WEB-APP-01), Backup Server (BACKUP-SRV-01)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_network_capture.pcap",
+        "type": "network",
+        "size": 759076
+      },
+      {
+        "filename": "2_browser_history.csv",
+        "type": "data",
+        "size": 26260
+      },
+      {
+        "filename": "3_communication_log.txt",
+        "type": "text",
+        "size": 6935
+      },
+      {
+        "filename": "4_screenshot.png",
+        "type": "image",
+        "size": 364016
+      },
+      {
+        "filename": "5_screenshot.png",
+        "type": "image",
+        "size": 364016
+      }
+    ],
+    "priority_score": 7.0,
+    "status": "submitted",
+    "analysis_status": "pending",
+    "assigned_officer": null,
+    "analysis_results": null,
+    "notes": []
+  },
+  {
+    "complaint_id": "FR202507010",
+    "timestamp": "2025-07-14T16:51:42.473500",
+    "submitter": {
+      "username": "robert_miller",
+      "name": "Robert Miller",
+      "email": "r.miller@healthcare.org"
+    },
+    "incident": {
+      "title": "Fake charity solicitation asking for donations",
+      "type": "Social Engineering",
+      "description": "Received a call from someone claiming to be from our IT department requesting my login credentials to 'update security systems'. The caller knew internal company information.",
+      "incident_date": "2025-07-11",
+      "discovered_date": "2025-07-12",
+      "urgency_level": "Critical",
+      "affected_systems": "Customer Database (DB-CUST-PROD), Point of Sale System (POS-STORE-03), File Server (FILE-SRV-02)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_system_log.log",
+        "type": "log",
+        "size": 73756
+      },
+      {
+        "filename": "2_network_capture.pcap",
+        "type": "network",
+        "size": 869142
+      }
+    ],
+    "priority_score": 5.5,
+    "status": "under_review",
+    "analysis_status": "completed",
+    "assigned_officer": "Detective Thompson",
+    "analysis_results": {
+      "classification": "benign",
+      "threat_score": 5.2,
+      "entities_found": [
+        {
+          "type": "EMAIL",
+          "value": "suspicious@fake-domain.com",
+          "confidence": 0.95
+        },
+        {
+          "type": "EMAIL",
+          "value": "noreply@legitimate-bank.com",
+          "confidence": 0.88
+        },
+        {
+          "type": "DOMAIN",
+          "value": "fake-domain.com",
+          "confidence": 0.92
+        },
+        {
+          "type": "IP_ADDRESS",
+          "value": "192.168.1.100",
+          "confidence": 0.9
+        },
+        {
+          "type": "IP_ADDRESS",
+          "value": "203.45.67.89",
+          "confidence": 0.85
+        },
+        {
+          "type": "PHONE",
+          "value": "+1-555-123-4567",
+          "confidence": 0.88
+        }
+      ],
+      "sentiment_analysis": {
+        "urgency": "high",
+        "emotion": "concerned",
+        "confidence": 0.85
+      },
+      "recommendations": [
+        "Document all investigation activities"
+      ],
+      "file_analysis": [
+        {
+          "filename": "1_system_log.log",
+          "status": "analyzed",
+          "threats_found": 0
+        },
+        {
+          "filename": "2_network_capture.pcap",
+          "status": "analyzed",
+          "threats_found": 3
+        }
+      ]
+    },
+    "notes": [
+      "Similar incidents reported in regional threat intelligence",
+      "Coordination with law enforcement initiated"
+    ]
+  },
+  {
+    "complaint_id": "FR202507011",
+    "timestamp": "2025-07-05T16:51:42.473557",
+    "submitter": {
+      "username": "robert_miller",
+      "name": "Robert Miller",
+      "email": "r.miller@healthcare.org"
+    },
+    "incident": {
+      "title": "Impersonation of government official demanding payment",
+      "type": "Social Engineering",
+      "description": "Caller claimed to be from the IRS stating I owed back taxes and would be arrested unless I paid immediately via gift cards. Recognized this as a common scam.",
+      "incident_date": "2025-06-29",
+      "discovered_date": "2025-07-03",
+      "urgency_level": "High",
+      "affected_systems": "Web Application Server (WEB-APP-01)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_financial_records.pdf",
+        "type": "document",
+        "size": 67440
+      },
+      {
+        "filename": "2_malware_sample.zip",
+        "type": "archive",
+        "size": 146270
+      },
+      {
+        "filename": "3_communication_log.txt",
+        "type": "text",
+        "size": 7914
+      }
+    ],
+    "priority_score": 3.0,
+    "status": "under_review",
+    "analysis_status": "completed",
+    "assigned_officer": "Agent Collins",
+    "analysis_results": {
+      "classification": "benign",
+      "threat_score": 6.1,
+      "entities_found": [
+        {
+          "type": "EMAIL",
+          "value": "suspicious@fake-domain.com",
+          "confidence": 0.95
+        },
+        {
+          "type": "EMAIL",
+          "value": "noreply@legitimate-bank.com",
+          "confidence": 0.88
+        },
+        {
+          "type": "DOMAIN",
+          "value": "fake-domain.com",
+          "confidence": 0.92
+        },
+        {
+          "type": "PHONE",
+          "value": "+1-555-123-4567",
+          "confidence": 0.88
+        }
+      ],
+      "sentiment_analysis": {
+        "urgency": "low",
+        "emotion": "panicked",
+        "confidence": 0.89
+      },
+      "recommendations": [
+        "Document all investigation activities"
+      ],
+      "file_analysis": [
+        {
+          "filename": "1_financial_records.pdf",
+          "status": "analyzed",
+          "threats_found": 1
+        },
+        {
+          "filename": "2_malware_sample.zip",
+          "status": "analyzed",
+          "threats_found": 0
+        },
+        {
+          "filename": "3_communication_log.txt",
+          "status": "analyzed",
+          "threats_found": 1
+        }
+      ]
+    },
+    "notes": [
+      "User security training gap identified during investigation",
+      "Malware samples sent to security vendor for signature creation"
+    ]
+  },
+  {
+    "complaint_id": "FR202507012",
+    "timestamp": "2025-07-12T22:51:42.473614",
+    "submitter": {
+      "username": "john_doe",
+      "name": "John Doe",
+      "email": "john.doe@email.com"
+    },
+    "incident": {
+      "title": "Suspicious Amazon account verification email",
+      "type": "Phishing Attack",
+      "description": "Got a popup and email claiming my Microsoft account was compromised. The email had poor grammar and requested immediate password reset through a suspicious link.",
+      "incident_date": "2025-07-09",
+      "discovered_date": "2025-07-11",
+      "urgency_level": "Critical",
+      "affected_systems": "File Server (FILE-SRV-02)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_financial_records.pdf",
+        "type": "document",
+        "size": 53267
+      },
+      {
+        "filename": "2_system_log.log",
+        "type": "log",
+        "size": 20049
+      }
+    ],
+    "priority_score": 7.0,
+    "status": "under_review",
+    "analysis_status": "pending",
+    "assigned_officer": "Officer Brown",
+    "analysis_results": null,
+    "notes": [
+      "Victim interview conducted - additional details documented",
+      "Contacted external cybersecurity firm for additional analysis",
+      "Similar incidents reported in regional threat intelligence",
+      "Network logs analyzed - suspicious activity identified"
+    ]
+  },
+  {
+    "complaint_id": "FR202507013",
+    "timestamp": "2025-07-07T23:51:42.473933",
+    "submitter": {
+      "username": "james_martinez",
+      "name": "James Martinez",
+      "email": "james.m@finance.com"
+    },
+    "incident": {
+      "title": "Impersonation of government official demanding payment",
+      "type": "Social Engineering",
+      "description": "Caller claimed to be from the IRS stating I owed back taxes and would be arrested unless I paid immediately via gift cards. Recognized this as a common scam.",
+      "incident_date": "2025-07-05",
+      "discovered_date": "2025-07-08",
+      "urgency_level": "Critical",
+      "affected_systems": "Domain Controller (DC-PRIMARY)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_screenshot.png",
+        "type": "image",
+        "size": 211700
+      },
+      {
+        "filename": "2_financial_records.pdf",
+        "type": "document",
+        "size": 88541
+      }
+    ],
+    "priority_score": 5.1,
+    "status": "under_review",
+    "analysis_status": "pending",
+    "assigned_officer": "Officer Wilson",
+    "analysis_results": null,
+    "notes": [
+      "Forensic imaging of affected systems scheduled for tomorrow"
+    ]
+  },
+  {
+    "complaint_id": "FR202507014",
+    "timestamp": "2025-07-21T16:51:42.473980",
+    "submitter": {
+      "username": "lisa_davis",
+      "name": "Lisa Davis",
+      "email": "lisa.davis@enterprise.com"
+    },
+    "incident": {
+      "title": "Suspicious Amazon account verification email",
+      "type": "Phishing Attack",
+      "description": "Employee received what appeared to be an internal IT security email requesting credential verification. The email domain was slightly misspelled and contained malicious attachments.",
+      "incident_date": "2025-07-17",
+      "discovered_date": "2025-07-23",
+      "urgency_level": "High",
+      "affected_systems": "Domain Controller (DC-PRIMARY), File Server (FILE-SRV-02)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_screenshot.png",
+        "type": "image",
+        "size": 65914
+      },
+      {
+        "filename": "2_financial_records.pdf",
+        "type": "document",
+        "size": 30053
+      },
+      {
+        "filename": "3_financial_records.pdf",
+        "type": "document",
+        "size": 30053
+      },
+      {
+        "filename": "4_network_capture.pcap",
+        "type": "network",
+        "size": 887415
+      },
+      {
+        "filename": "5_communication_log.txt",
+        "type": "text",
+        "size": 23225
+      }
+    ],
+    "priority_score": 6.5,
+    "status": "submitted",
+    "analysis_status": "pending",
+    "assigned_officer": null,
+    "analysis_results": null,
+    "notes": []
+  },
+  {
+    "complaint_id": "FR202507015",
+    "timestamp": "2025-07-03T14:51:42.474021",
+    "submitter": {
+      "username": "mike_wilson",
+      "name": "Mike Wilson",
+      "email": "mike.wilson@business.org"
+    },
+    "incident": {
+      "title": "Credit cards opened in my name fraudulently",
+      "type": "Identity Theft",
+      "description": "IRS notified me that someone already filed a tax return using my Social Security Number. The fraudulent return claimed a large refund that was deposited to an unknown account.",
+      "incident_date": "2025-06-29",
+      "discovered_date": "2025-07-04",
+      "urgency_level": "Low",
+      "affected_systems": "Network Firewall (FW-PERIMETER), Employee Laptop (LAP-HR-005)"
+    },
+    "evidence_files": [],
+    "priority_score": 6.2,
+    "status": "submitted",
+    "analysis_status": "pending",
+    "assigned_officer": null,
+    "analysis_results": null,
+    "notes": []
+  },
+  {
+    "complaint_id": "FR202507016",
+    "timestamp": "2025-07-19T15:51:42.474057",
+    "submitter": {
+      "username": "john_doe",
+      "name": "John Doe",
+      "email": "john.doe@email.com"
+    },
+    "incident": {
+      "title": "Browser redirected to suspicious websites",
+      "type": "Malware Infection",
+      "description": "Web browser keeps redirecting to advertising websites and unknown toolbars have appeared. Antivirus detected multiple threats but can't seem to remove them completely.",
+      "incident_date": "2025-07-12",
+      "discovered_date": "2025-07-17",
+      "urgency_level": "Critical",
+      "affected_systems": "Windows 10 Workstation (DESK-001), Domain Controller (DC-PRIMARY), Backup Server (BACKUP-SRV-01), File Server (FILE-SRV-02)"
+    },
+    "evidence_files": [],
+    "priority_score": 3.5,
+    "status": "under_review",
+    "analysis_status": "completed",
+    "assigned_officer": "Officer Wilson",
+    "analysis_results": {
+      "classification": "malicious",
+      "threat_score": 8.1,
+      "entities_found": [
+        {
+          "type": "URL",
+          "value": "https://suspicious-site.net/login",
+          "confidence": 0.93
+        },
+        {
+          "type": "URL",
+          "value": "http://malicious-download.org/file.exe",
+          "confidence": 0.89
+        }
+      ],
+      "sentiment_analysis": {
+        "urgency": "low",
+        "emotion": "panicked",
+        "confidence": 0.95
+      },
+      "recommendations": [
+        "Immediate isolation of affected systems recommended",
+        "Conduct full forensic imaging of compromised devices",
+        "Reset all potentially compromised credentials",
+        "Escalate to senior security team immediately",
+        "Document all investigation activities"
+      ],
+      "file_analysis": []
+    },
+    "notes": [
+      "Coordination with law enforcement initiated",
+      "Contacted external cybersecurity firm for additional analysis",
+      "Initial assessment completed - evidence collection in progress",
+      "Victim interview conducted - additional details documented"
+    ]
+  },
+  {
+    "complaint_id": "FR202507017",
+    "timestamp": "2025-07-03T11:51:42.474113",
+    "submitter": {
+      "username": "sarah_johnson",
+      "name": "Sarah Johnson",
+      "email": "sarah.j@nonprofit.org"
+    },
+    "incident": {
+      "title": "Employee personal information compromised",
+      "type": "Data Breach",
+      "description": "Our customer database containing 10,000+ records was accessed by unauthorized individuals. The breach included names, addresses, phone numbers, and encrypted payment information.",
+      "incident_date": "2025-06-26",
+      "discovered_date": "2025-07-01",
+      "urgency_level": "High",
+      "affected_systems": "File Server (FILE-SRV-02), Network Firewall (FW-PERIMETER), Backup Server (BACKUP-SRV-01), Domain Controller (DC-PRIMARY)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_browser_history.csv",
+        "type": "data",
+        "size": 27267
+      },
+      {
+        "filename": "2_screenshot.png",
+        "type": "image",
+        "size": 417689
+      },
+      {
+        "filename": "3_system_log.log",
+        "type": "log",
+        "size": 11763
+      },
+      {
+        "filename": "4_screenshot.png",
+        "type": "image",
+        "size": 417689
+      }
+    ],
+    "priority_score": 7.8,
+    "status": "under_review",
+    "analysis_status": "pending",
+    "assigned_officer": "Officer Wilson",
+    "analysis_results": null,
+    "notes": [
+      "Contacted external cybersecurity firm for additional analysis"
+    ]
+  },
+  {
+    "complaint_id": "FR202507018",
+    "timestamp": "2025-07-02T15:51:42.474156",
+    "submitter": {
+      "username": "james_martinez",
+      "name": "James Martinez",
+      "email": "james.m@finance.com"
+    },
+    "incident": {
+      "title": "Ransomware outbreak affecting multiple workstations",
+      "type": "Ransomware Attack",
+      "description": "Ransomware infected our accounting system and encrypted all financial records for the past 5 years. The malware left a note demanding payment within 72 hours or files will be permanently deleted.",
+      "incident_date": "2025-06-26",
+      "discovered_date": "2025-07-01",
+      "urgency_level": "Low",
+      "affected_systems": "Web Application Server (WEB-APP-01), Network Firewall (FW-PERIMETER), Email Server (MAIL-SRV-01), Windows 10 Workstation (DESK-001)"
+    },
+    "evidence_files": [],
+    "priority_score": 7.8,
+    "status": "submitted",
+    "analysis_status": "pending",
+    "assigned_officer": null,
+    "analysis_results": null,
+    "notes": []
+  },
+  {
+    "complaint_id": "FR202507019",
+    "timestamp": "2025-07-04T15:51:42.474194",
+    "submitter": {
+      "username": "maria_rodriguez",
+      "name": "Maria Rodriguez",
+      "email": "maria.r@retail.biz"
+    },
+    "incident": {
+      "title": "Cloud storage account accessed from unknown location",
+      "type": "Unauthorized Access",
+      "description": "Network monitoring detected unauthorized intrusion attempts targeting our database servers. Multiple attack vectors were used including SQL injection and brute force.",
+      "incident_date": "2025-06-27",
+      "discovered_date": "2025-07-04",
+      "urgency_level": "Critical",
+      "affected_systems": "Customer Database (DB-CUST-PROD), Point of Sale System (POS-STORE-03), Employee Laptop (LAP-HR-005), Windows 10 Workstation (DESK-001)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_malware_sample.zip",
+        "type": "archive",
+        "size": 111522
+      },
+      {
+        "filename": "2_malware_sample.zip",
+        "type": "archive",
+        "size": 111522
+      }
+    ],
+    "priority_score": 7.4,
+    "status": "under_review",
+    "analysis_status": "pending",
+    "assigned_officer": "Officer Brown",
+    "analysis_results": null,
+    "notes": [
+      "Similar incidents reported in regional threat intelligence",
+      "Initial assessment completed - evidence collection in progress"
+    ]
+  },
+  {
+    "complaint_id": "FR202506020",
+    "timestamp": "2025-06-22T21:51:42.474242",
+    "submitter": {
+      "username": "emily_garcia",
+      "name": "Emily Garcia",
+      "email": "emily.g@education.edu"
+    },
+    "incident": {
+      "title": "Suspicious login attempts on company systems",
+      "type": "Unauthorized Access",
+      "description": "Security logs show repeated failed login attempts on our company servers from IP addresses in foreign countries. Concerned about potential system compromise.",
+      "incident_date": "2025-06-21",
+      "discovered_date": "2025-06-21",
+      "urgency_level": "Low",
+      "affected_systems": "Employee Laptop (LAP-HR-005), File Server (FILE-SRV-02)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_screenshot.png",
+        "type": "image",
+        "size": 139998
+      },
+      {
+        "filename": "2_malware_sample.zip",
+        "type": "archive",
+        "size": 71140
+      },
+      {
+        "filename": "3_browser_history.csv",
+        "type": "data",
+        "size": 30831
+      },
+      {
+        "filename": "4_browser_history.csv",
+        "type": "data",
+        "size": 30831
+      }
+    ],
+    "priority_score": 5.9,
+    "status": "submitted",
+    "analysis_status": "pending",
+    "assigned_officer": null,
+    "analysis_results": null,
+    "notes": []
+  },
+  {
+    "complaint_id": "FR202507021",
+    "timestamp": "2025-07-20T10:51:42.474277",
+    "submitter": {
+      "username": "lisa_davis",
+      "name": "Lisa Davis",
+      "email": "lisa.davis@enterprise.com"
+    },
+    "incident": {
+      "title": "Caller impersonated IT support requesting passwords",
+      "type": "Social Engineering",
+      "description": "Met someone on a dating site who gradually built trust over several months before requesting money for an 'emergency'. Classic romance scam targeting lonely individuals.",
+      "incident_date": "2025-07-13",
+      "discovered_date": "2025-07-18",
+      "urgency_level": "Low",
+      "affected_systems": "Employee Laptop (LAP-HR-005), Windows 10 Workstation (DESK-001)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_email_headers.txt",
+        "type": "text",
+        "size": 1853
+      },
+      {
+        "filename": "2_communication_log.txt",
+        "type": "text",
+        "size": 11248
+      }
+    ],
+    "priority_score": 3.0,
+    "status": "submitted",
+    "analysis_status": "pending",
+    "assigned_officer": null,
+    "analysis_results": null,
+    "notes": []
+  },
+  {
+    "complaint_id": "FR202506022",
+    "timestamp": "2025-06-23T06:51:42.474313",
+    "submitter": {
+      "username": "robert_miller",
+      "name": "Robert Miller",
+      "email": "r.miller@healthcare.org"
+    },
+    "incident": {
+      "title": "Database containing medical records accessed",
+      "type": "Data Breach",
+      "description": "Hospital patient records database was breached, exposing medical histories, diagnoses, and insurance information for approximately 5,000 patients.",
+      "incident_date": "2025-06-20",
+      "discovered_date": "2025-06-22",
+      "urgency_level": "High",
+      "affected_systems": "Backup Server (BACKUP-SRV-01)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_financial_records.pdf",
+        "type": "document",
+        "size": 83023
+      }
+    ],
+    "priority_score": 8.1,
+    "status": "submitted",
+    "analysis_status": "pending",
+    "assigned_officer": null,
+    "analysis_results": null,
+    "notes": []
+  },
+  {
+    "complaint_id": "FR202507023",
+    "timestamp": "2025-07-06T20:51:42.474349",
+    "submitter": {
+      "username": "mike_wilson",
+      "name": "Mike Wilson",
+      "email": "mike.wilson@business.org"
+    },
+    "incident": {
+      "title": "Tech support scam claiming computer virus",
+      "type": "Social Engineering",
+      "description": "Was contacted by someone claiming to represent a disaster relief charity, requesting immediate donations via wire transfer. Later discovered the charity doesn't exist.",
+      "incident_date": "2025-07-01",
+      "discovered_date": "2025-07-09",
+      "urgency_level": "Critical",
+      "affected_systems": "Email Server (MAIL-SRV-01), Web Application Server (WEB-APP-01), Network Firewall (FW-PERIMETER), File Server (FILE-SRV-02)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_email_headers.txt",
+        "type": "text",
+        "size": 4459
+      },
+      {
+        "filename": "2_browser_history.csv",
+        "type": "data",
+        "size": 60182
+      },
+      {
+        "filename": "3_communication_log.txt",
+        "type": "text",
+        "size": 22385
+      },
+      {
+        "filename": "4_communication_log.txt",
+        "type": "text",
+        "size": 22385
+      }
+    ],
+    "priority_score": 3.4,
+    "status": "submitted",
+    "analysis_status": "pending",
+    "assigned_officer": null,
+    "analysis_results": null,
+    "notes": []
+  },
+  {
+    "complaint_id": "FR202507024",
+    "timestamp": "2025-07-20T11:51:42.474409",
+    "submitter": {
+      "username": "emily_garcia",
+      "name": "Emily Garcia",
+      "email": "emily.g@education.edu"
+    },
+    "incident": {
+      "title": "Security cameras show unauthorized building entry",
+      "type": "Unauthorized Access",
+      "description": "Network monitoring detected unauthorized intrusion attempts targeting our database servers. Multiple attack vectors were used including SQL injection and brute force.",
+      "incident_date": "2025-07-18",
+      "discovered_date": "2025-07-20",
+      "urgency_level": "High",
+      "affected_systems": "Backup Server (BACKUP-SRV-01), Point of Sale System (POS-STORE-03), File Server (FILE-SRV-02), Network Firewall (FW-PERIMETER)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_financial_records.pdf",
+        "type": "document",
+        "size": 36474
+      },
+      {
+        "filename": "2_system_log.log",
+        "type": "log",
+        "size": 87097
+      }
+    ],
+    "priority_score": 5.4,
+    "status": "under_review",
+    "analysis_status": "completed",
+    "assigned_officer": "Officer Smith",
+    "analysis_results": {
+      "classification": "benign",
+      "threat_score": 6.5,
+      "entities_found": [
+        {
+          "type": "IP_ADDRESS",
+          "value": "192.168.1.100",
+          "confidence": 0.9
+        },
+        {
+          "type": "IP_ADDRESS",
+          "value": "203.45.67.89",
+          "confidence": 0.85
+        }
+      ],
+      "sentiment_analysis": {
+        "urgency": "low",
+        "emotion": "concerned",
+        "confidence": 0.92
+      },
+      "recommendations": [
+        "Document all investigation activities"
+      ],
+      "file_analysis": [
+        {
+          "filename": "1_financial_records.pdf",
+          "status": "analyzed",
+          "threats_found": 3
+        },
+        {
+          "filename": "2_system_log.log",
+          "status": "analyzed",
+          "threats_found": 3
+        }
+      ]
+    },
+    "notes": [
+      "Forensic imaging of affected systems scheduled for tomorrow"
+    ]
+  },
+  {
+    "complaint_id": "FR202507025",
+    "timestamp": "2025-07-01T14:51:42.474464",
+    "submitter": {
+      "username": "lisa_davis",
+      "name": "Lisa Davis",
+      "email": "lisa.davis@enterprise.com"
+    },
+    "incident": {
+      "title": "Network intrusion detected by security software",
+      "type": "Unauthorized Access",
+      "description": "IT security discovered employee was accessing confidential files outside their authorization level. Investigation needed to determine extent of data accessed.",
+      "incident_date": "2025-06-28",
+      "discovered_date": "2025-06-29",
+      "urgency_level": "Critical",
+      "affected_systems": "Employee Laptop (LAP-HR-005)"
+    },
+    "evidence_files": [
+      {
+        "filename": "1_communication_log.txt",
+        "type": "text",
+        "size": 19461
+      },
+      {
+        "filename": "2_screenshot.png",
+        "type": "image",
+        "size": 343304
+      }
+    ],
+    "priority_score": 5.9,
+    "status": "under_review",
+    "analysis_status": "completed",
+    "assigned_officer": "Officer Davis",
+    "analysis_results": {
+      "classification": "suspicious",
+      "threat_score": 4.7,
+      "entities_found": [],
+      "sentiment_analysis": {
+        "urgency": "low",
+        "emotion": "angry",
+        "confidence": 0.76
+      },
+      "recommendations": [
+        "Document all investigation activities"
+      ],
+      "file_analysis": [
+        {
+          "filename": "1_communication_log.txt",
+          "status": "analyzed",
+          "threats_found": 0
+        },
+        {
+          "filename": "2_screenshot.png",
+          "status": "analyzed",
+          "threats_found": 0
+        }
+      ]
+    },
+    "notes": [
+      "Malware samples sent to security vendor for signature creation",
+      "Patch management review recommended to prevent recurrence",
+      "Similar incidents reported in regional threat intelligence"
+    ]
+  }
+]

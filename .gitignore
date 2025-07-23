@@ -44,3 +44,27 @@ models/*.pb
 data/processed/*_large.txt
 data/processed/*_large.csv
 data/raw/**/*.gz
+
+# Backup files
+*.bak
+*.backup
+*~
+*.orig
+
+# Cache and build files
+.cache/
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+
+# Report duplicates (keep only main reports)
+reports/*_backup.*
+reports/*_old.*
+reports/temp_*
+reports/draft_*
+
+# Development files
+test_*.tmp
+dev_*.py
+scratch_*.py
